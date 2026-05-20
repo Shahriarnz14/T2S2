@@ -1,6 +1,6 @@
 #!/bin/bash
 # source ~/anaconda3/etc/profile.d/conda.sh
-# conda activate clinical_annot
+# conda activate t2s2_env
 
 # Parameters:
 # $1 = config (default: /data/weissjc/tta/scripts/compare_tts/config_simple.json)

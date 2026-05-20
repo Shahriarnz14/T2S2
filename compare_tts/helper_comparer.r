@@ -3,7 +3,7 @@ library(stringdist)
 library(reticulate)
 library(TreeDist)
 
-use_condaenv("clinical_annot", required = TRUE)
+use_condaenv("t2s2_env", required = TRUE)
 if(!exists("script_dir")) {
     script_dir <- tryCatch(
         dirname(normalizePath(sys.frame(1)$ofile, mustWork = FALSE)),

@@ -3,7 +3,7 @@ set -euo pipefail
 
 # Activate your env (adjust if needed)
 # source ~/anaconda3/etc/profile.d/conda.sh
-# conda activate clinical_annot
+# conda activate t2s2_env
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CONFIG="${1:-${SCRIPT_DIR}/bootstrap_config.json}"
