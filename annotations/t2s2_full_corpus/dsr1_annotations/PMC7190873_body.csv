@@ -1,0 +1,77 @@
+event,time
+75 years old,0
+female,0
+admitted to the emergency department,0
+altered mental status,0
+recurrent urinary tract infections,0
+hypothyroidism,0
+chronic pain,0
+depression,0
+opioid dependence,0
+temperature 100 °F,0
+heart rate 130 bpm,0
+blood pressure 114/60 mmHg,0
+pulse oximetry 86% on room air,0
+accessory muscle use,0
+diminished air entry,0
+scattered rhonchi,0
+wheezes bilaterally,0
+bilateral lower extremity edema,0
+oriented only to self,0
+"WBC count 19,000",0
+neutrophilic predominance,0
+BUN 43 mg/dl,0
+creatinine 2.1 mg/dl,0
+albumin 3 g/dl,0
+lactic acid 2.2 mg/dL,0
+ABG pH 7.37,0
+ABG PaCO2 29.9 mmHg,0
+ABG PaO2 45.5 mmHg,0
+acute hypoxic respiratory failure,0
+CXR bilateral infiltrates,0
+BiPAP ventilation,0
+improvement within 24–48 hours,24
+respiratory status worsened,72
+unable to maintain oxygen saturation,72
+repeat CXR stable bilateral infiltrates,72
+worsening hypoxia,72
+sinus tachycardia,72
+new onset paroxysmal atrial fibrillation,72
+EKG S1QIIITIII pattern,72
+ceftriaxone,0
+azithromycin,0
+prophylactic LMWH,0
+Chest CTA saddle PE,72
+lethargic,72
+upgraded to ICU,72
+intubated,72
+Mycoplasma IgM >950 U/mL,72
+Mycoplasma IgG >320 U/mL,72
+WBC count improved,72
+lactic acid normalized,72
+negative sputum culture,72
+negative blood culture,72
+decreased protein C activity,72
+cold agglutinin titers >1:32,72
+catheter directed thrombolysis,72
+heparin drip,72
+intubated for three days,72
+weaned off mechanical ventilation,144
+antibiotics discontinued,144
+oxygen saturation maintained on 6L NC,144
+severely hypoxic again,192
+igh Flow Nasal Cannula 100%,192
+reintubated,192
+concern for intraalveolar haemorrhage,192
+bronchoscopy serosanguinous secretions,192
+no overt bleeding,192
+cefepime,192
+vancomycin,192
+fluconazole,192
+repeat BAL cultures negative,192
+antibiotics discontinued,216
+extubated again,216
+downgraded to telemetry floor,264
+physical deconditioning,264
+rehabilitation required,264
+discharged to rehabilitation facility,264

@@ -1,0 +1,77 @@
+event,time
+19-year-old,0
+asymptomatic,0
+gravida 4,0
+para 3,0
+preterm premature rupture of the membranes,0
+admitted to hospital,0
+white blood cell count within normal range,0
+C-reactive protein levels elevated,0
+ampicillin,0
+erythromycin,0
+amoxicillin,48
+dexamethasone,48
+delivered a female infant,336
+Apgar scores 6,336
+Apgar scores 8,336
+intubated,336
+severe respiratory depression,336
+surfactant administered,336
+transferred to neonatal intensive care unit,336
+mechanical ventilation initiated,336
+temperature 36.9°C,337
+heart rate 127 beats per min,337
+weight 1.085g,337
+head circumference 26cm,337
+length 38cm,337
+hypotensive,337
+dobutamine infusion started,337
+high-frequency ventilation initiated,337
+suspected early-onset sepsis,337
+blood cultures obtained,337
+ampicillin,337
+gentamicin,337
+high WBC count,337
+neutrophils 48.8%,337
+blood culture negative,384
+extubation attempted,384
+reintubation,384
+Gram-negative coccobacilli detected,480
+Rose Bengal test positive,528
+Brucella antibodies detected,528
+ampicillin stopped,528
+rifampin started,528
+gentamicin continued,528
+serum agglutination test positive,576
+B. melitensis,576
+B. abortus,576
+ciprofloxacin added,624
+baby deteriorated,816
+gentamicin discontinued,816
+meropenem added,816
+general condition improved,816
+nasal cannula,816
+total parenteral nutrition,816
+clinically stable,816
+meropenem withdrawn,1056
+ciprofloxacin continued,1056
+rifampin continued,1056
+nasal cannula removed,3360
+preterm milk formula,3360
+discharged from hospital,912
+active,912
+weighed 1.57kg,912
+routine childhood immunisations,912
+mother intermittent headaches,-1440
+mother anorexia,-1440
+mother malaise,-1440
+mother profuse sweating,-1440
+mother abdominal pain,-1440
+mother urinary tract infection,-2016
+antibiotics for seven days,-2016
+frequent visits to family farm,-2592
+consumed unpasteurized sheep milk,-2592
+grandfather history of brucellosis,-8760
+receiving treatment for one year,-8760
+no breastfeeding,0
+no blood transfusion,0

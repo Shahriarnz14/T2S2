@@ -1,0 +1,96 @@
+event,time
+10 years old ,0
+male ,0
+pre-term ,0
+gestational age of 33 weeks and 2 days ,0
+developmental delays in growth ,0
+developmental delays in motor function ,0
+short stature ,-1440
+Russell–Silver syndrome ,-1440
+proteinuria ,-1440
+hypoalbuminemia ,-1440
+nephrotic syndrome ,-1440
+high-dose steroid ,-1440
+calcineurin inhibitor ,-1440
+renal function deteriorated ,-720
+right renal vein thrombosis ,-720
+pulmonary embolism ,-720
+anticoagulants ,-720
+persistent pulmonary hypertension ,-720
+sildenafil ,-720
+living donor kidney transplantation ,0
+immunosuppression ,0
+prednisolone ,0
+mycophenolate mofetil (MMF) ,0
+tacrolimus ,0
+discontinued MMF ,-70
+steroid tapered ,-70
+tacrolimus continued ,-70
+pneumocystis pneumonia ,-90
+mechanical ventilation ,-90
+intravenous sulfamethoxazole/trimethoprim ,-90
+steroid increased ,-90
+dysuria ,-135
+gross hematuria ,-135
+blood urea nitrogen (BUN) 24 mg/dL ,-135
+creatinine (Cr) 0.56 mg/dL ,-135
+C-reactive protein (CRP) 0.42 mg/dL ,-135
+urinalysis revealed red blood cell (RBC) count > 100/high power fields (HPF) ,-135
+urinalysis revealed white blood cell (WBC) count > 100/HPF ,-135
+urine culture for bacteria negative ,-135
+urine BK virus negative ,-135
+urine John Cunningham (JC) virus polymerase chain reaction (PCR) positive ,-135
+urine adenovirus culture positive ,-135
+hemorrhagic cystitis ,-135
+hydration ,-135
+pain control ,-135
+dysuria persisted ,-128
+hematuria persisted ,-128
+RBC count > 100/HPF ,-128
+WBC count 1 to 4/HPF ,-128
+fever ,-105
+general weakness ,-105
+chest tightness ,-105
+mild cough ,-105
+persistent dysuria ,-105
+persistent hematuria ,-105
+BUN 175 mg/dL ,-105
+Cr 8.29 mg/dL ,-105
+CRP 30.23 mg/dL ,-105
+emergent hemodialysis ,-105
+piperacillin/tazobactam ,-105
+sputum culture negative ,-105
+blood culture negative ,-105
+urine culture negative ,-105
+adenovirus real-time PCR of sputum positive ,-105
+blood cytomegalovirus (CMV) antigen positive ,-105
+disseminated adenovirus infection ,-105
+immunosuppression reduction ,-105
+ganciclovir ,-105
+renal allograft biopsy ,-105
+diffuse necrotizing granulomatous tubulointerstitial nephritis ,-105
+infectious tubulointerstitial nephritis ,-105
+staining for CD3 negative ,-105
+staining for C4d negative ,-105
+JC virus PCR positive ,-105
+serum CMV PCR positive ,-105
+coinfection ,-105
+ganciclovir targeting CMV ,-105
+antibiotic therapy ,-105
+granulocyte colony-stimulating factor ,-105
+immunoglobulin ,-105
+transfusion ,-105
+hemodialysis ,-105
+cidofovir ,-98
+nephrotoxicity ,-98
+serum adenovirus PCR positive ,-98
+cerebrospinal fluid adenovirus PCR positive ,-98
+renal function not recovered ,-98
+generalized tonic-clonic seizure ,-98
+anemia ,-98
+leukopenia ,-98
+thrombocytopenia ,-98
+bone marrow suppression ,-98
+mechanical ventilation ,-98
+continuous renal replacement therapy ,-98
+death ,0

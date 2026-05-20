@@ -1,0 +1,66 @@
+event,time
+38-year-old,0
+male,0
+agammaglobulinaemia,0
+not compliant with monthly therapeutic immunoglobulin administration,0
+presented to emergency department,0
+worsening dyspnoea,0
+productive cough,0
+recent fever,0
+tachycardic,0
+tachypnoeic,0
+febrile,0
+body temperature 38.7°C,0
+blood pressure 78/51 mmHg,0
+oxygen saturation 85% on ambient air,0
+placed on non-rebreather facial mask,0
+aggressive fluid resuscitation,0
+chest X-ray infiltrates left lower lobe,0
+mild left pleural effusion,0
+community-acquired pneumonia,0
+septic shock,0
+ceftriaxone initiated,0
+clarithromycin initiated,0
+arterial oxygen pressure 65 mmHg,0
+persistent hypoxaemia,0
+worsening respiratory distress,0
+transferred to intensive care unit,0
+sedated,0
+intubated,0
+ventilated,0
+chest X-ray increasing left pleural effusion,0
+chest tube inserted left side,0
+drained fluid compatible with empyema,0
+persistent hypotension,0
+norepinephrine started,0
+hemodynamic stability restored,0
+urine output improving gradually,0
+CT thorax homogeneous density with air bronchogram left upper lobe,0
+involving lingula and left lower lobe,0
+Gram stain of sputum Gram-negative bacilli,0
+aerobic blood cultures Gram-negative coccobacilli,0
+Acinetobacter calcoaceticus identified,0
+sensitive to ceftazidime,0
+sensitive to cefepime,0
+sensitive to colistin,0
+sensitive to tigecycline,0
+sensitive to meropenem,0
+sensitive to piperacillin,0
+sensitive to cotrimoxazole,0
+sensitive to ciprofloxacin,0
+influenza viruses A and B negative,0
+urinary antigens pneumococcus negative,0
+urinary antigens Legionella negative,0
+intravenous immunoglobulins administered,24
+C-reactive protein peaked 271 mg/L,48
+procalcitonin peaked 16.22 ng/mL,48
+antibiotic regimen replaced by colistin and cefepime,48
+intravenous pressors stopped,72
+weaned off mechanical ventilation,96
+extubated,120
+imaging minimal left pleural effusion,144
+chest tube removed,168
+colistin and cefepime replaced with ciprofloxacin,168
+discharged,336
+ciprofloxacin continued for additional 2 weeks,336
+clinical stability maintained,336

@@ -1,0 +1,51 @@
+event,time
+history of iron deficiency anemia ,0
+history of systemic lupus erythematosus ,0
+positive QuantiFERON gold test ,0
+treatment with naproxen ,0
+treatment with hydroxychloroquine ,0
+started treatment with rifampin ,0
+chills ,-72
+myalgias ,-72
+stopped treatment with rifampin ,-72
+resumed rifampin ,0
+severe neck pain ,1
+myalgias ,1
+arthralgias ,1
+shortness of breath ,1
+chest pain ,1
+hypotension ,1
+received fluid bolus ,1
+febrile ,2
+tachypneic ,2
+tachycardic ,2
+low-to-normal blood pressure ,2
+received intravenous fluids ,2
+received empiric vancomycin ,2
+received empiric ceftriaxone ,2
+hypotensive ,4
+diaphoretic ,4
+required fluid resuscitation ,4
+required norepinephrine infusion ,4
+required epinephrine infusion ,4
+admitted to ICU ,4
+decreased leukocyte count ,4
+low eosinophil counts ,4
+elevated inflammatory markers ,4
+increased aspartate aminotransferase level ,24
+increased cortisol level ,24
+suspected sepsis ,24
+performed CT scan of head ,24
+performed echocardiogram ,24
+performed CT angiography of neck ,24
+showed localized myositis ,24
+showed mild pulmonary edema ,24
+showed bilateral increased septal thickening ,24
+negative infectious work-up ,24
+received 1 dose of rifampin in ICU ,24
+decreased blood pressure ,25
+increased vasopressor dose ,25
+stopped rifampin ,30
+weaned off vasopressors ,30
+started isoniazid ,30
+completed 9 months of therapy ,2160

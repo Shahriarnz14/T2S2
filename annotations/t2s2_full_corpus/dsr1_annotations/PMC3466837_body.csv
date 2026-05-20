@@ -1,0 +1,83 @@
+event,time
+45 years old,0
+woman,0
+admitted to heart center,0
+severe mitral stenosis,0
+left atrial clot,0
+shortness of breath on minimal exertion,-168
+no cerebral symptoms,-168
+no headache,-168
+no dizziness,-168
+no transient ischemic attacks,-168
+no strokes,-168
+fully conscious,0
+alert,0
+oriented,0
+stable vital signs,0
+blood pressure 110/80 mmHg,0
+diastolic murmur over mitral area,0
+intact cranial nerves,0
+intact motor power,0
+intact sensation,0
+no Osler’s nodes,0
+no Jane way pad,0
+no palmer erythema,0
+no cyanosis of fingers,0
+ESR 4 mm,0
+no leukocytosis,0
+"WBC 10,000 mm3",0
+normal electrolytes,0
+normal kidney function,0
+normal liver function,0
+left atrial enlargement on chest X-ray,0
+normal electrocardiography,0
+large bulky non-mobile left atrial thrombosis,0
+mitral valve area 0.6 cm2,0
+normal other cardiac valves,0
+negative antinuclear antibodies,0
+negative rheumatoid factor,0
+elevated C4 & C3 complement components,0
+negative HBS antigen,0
+open heart surgery,0
+ascending aorta cannulation,0
+bicaval cannulation,0
+aortic cross-clamp,0
+cold cardioplegia,0
+systemic hypothermia 30°C,0
+cardiopulmonary bypass,0
+excision of mitral valve and clot,0
+left atrial irrigation,0
+valve implantation,0
+left ventricle deaired,0
+weaned off cardiopulmonary bypass,0
+inotropic support,0
+transferred to ICU,0
+blood pressure drop,6
+elevated central venous pressure,6
+cool extremity,6
+cyanotic extremity,6
+dobutamine infusion,6
+adrenaline infusion,6
+inotropic drugs tapered,72
+blood pressure stabilized,72
+cyanosis changed to gangrene,72
+acral extremity gangrene,72
+amputation of acral extremity,288
+non-specific vasculitis with thrombosis on histopathology,288
+failure to regain full consciousness,24
+quadriplegia,24
+non-voluntary limb and face movements,24
+vertical eye movements only,24
+small fixed pupils,24
+responsive by blinking/vertical eye movements,96
+brainstem infarction on MRI,96
+prolonged ventilatory support,96
+tracheostomy,96
+acute renal failure,96
+anemia,96
+kidney recovery,336
+locked-in state,24
+no neurological improvement,672
+hepatic failure,672
+generalized sepsis,672
+death,672

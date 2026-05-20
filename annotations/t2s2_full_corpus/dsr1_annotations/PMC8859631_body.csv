@@ -1,0 +1,70 @@
+event,time
+73 years old,0
+female,0
+admitted with new-onset atrial flutter,0
+complained of fatigue,0
+complained of dizziness,0
+complained of dyspnoea,0
+rapid regular pulse rate of 120–130 bpm,0
+normal lung sounds,0
+normal heart sounds,0
+no peripheral oedema,0
+heterogeneous isoechoic immobile mass on anterior right atrial wall,0
+circular hypoechoic pericardial effusion with compression of right atrium,0
+no haemodynamic impairment,0
+pericardiocentesis,0
+cell protein and LDH-rich pericardial fluid,0
+reactively changed cell population,0
+no atypical cell populations,0
+haemoglobin 11.9 g/dL,0
+LDH 322 U/L,0
+C-reactive protein 6.3 mg/dL,0
+pro-BNP II 2834 pg/mL,0
+serum protein 5.9 g/dL,0
+normal carcinoembryonic antigen,0
+normal CA 125,0
+normal CA 15-3,0
+normal CA 19-9,0
+normal alpha-fetoprotein,0
+cardiac MRI showed 51x32mm myocardial isointense mass,0
+diffuse infiltration of myocardium,0
+extension into pericardium,0
+computed tomography of skull,0
+computed tomography of thorax,0
+computed tomography of abdomen,0
+computed tomography of pelvis,0
+breast sonography,0
+mammography,0
+dermatologic screening,0
+gynaecologic screening,0
+endoscopy of upper gastrointestinal tract,0
+endoscopy of lower gastrointestinal tract,0
+no extracardiac disease,0
+no enlarged lymph nodes,0
+referred to cardiac surgery centers,-504
+deemed inoperable,-504
+active surveillance,-504
+best supportive therapy,-504
+fatigue,-432
+dizziness,-432
+AV-block II type Mobitz II,-432
+massive progression of tumour mass,-432
+subtotal obstruction of tricuspid valve,-432
+infiltration of interatrial septum,-432
+infiltration of diaphragm,-432
+new axillary lymph nodes invasion,-432
+histological proof of diffuse large B-cell non-Hodgkin-lymphoma,-432
+epicardial right ventricle single lead pacemaker,-432
+lymph node excision,-432
+port catheter insertion,-432
+pre-phase treatment with rituximab,-432
+pre-phase treatment with prednisolone,-432
+R-mini-CHOP chemotherapy,-432
+R-CHOP chemotherapy,-432
+complete remission,1680
+no remaining cardiac mass,1680
+no extracardiac disease,1680
+no AV conduction disorder,1680
+18F-FDG-PET/CT,1680
+PM-control,1680
+last echocardiography,1680

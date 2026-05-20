@@ -1,0 +1,86 @@
+event,time
+fever ,-168
+chills ,-168
+generalized weakness ,-168
+shortness of breath ,-72
+intravenous drug use ,0
+attention deficit/hyperactivity disorder ,0
+dextroamphetamine/amphetamine ,0
+no exposure to other medications or chemicals ,0
+no smoking ,0
+no alcohol consumption ,0
+Temperature 102.7 °Fahrenheit ,0
+blood pressure 102/56 mmHg ,0
+pulse 136 beats per minute ,0
+respiratory rate 38 breaths per minute ,0
+oxygen saturation 94% on room air ,0
+bilateral rhonchi ,0
+tachycardia ,0
+no murmur ,0
+no rub ,0
+no gallop ,0
+"white blood cell count 12,200/mm3 ",0
+hemoglobin 10.9 g/dL ,0
+"platelet count 85,000/mm3 ",0
+ESR 60 mm/hr ,0
+hyponatremia ,0
+sodium 124 mmol/L ,0
+creatinine level 2.8 mg/dL ,0
+BUN 98 mg/dL ,0
+NT-proBNP 1028 pg/mL ,0
+sinus tachycardia ,0
+bilateral lower lobe infiltrates ,0
+small pleural effusions ,0
+IV fluids ,0
+levofloxacin ,0
+septic shock ,24
+acute respiratory failure ,24
+pressor support ,24
+mechanical ventilation ,24
+gram-positive cocci ,24
+vancomycin ,24
+tricuspid valve vegetation ,48
+moderate-to-severe tricuspid regurgitation ,48
+patent foramen ovale ,48
+shunt ,48
+septic emboli ,48
+non-oliguric AKI ,48
+renal replacement therapy ,48
+acute tubular necrosis ,48
+MSSA ,72
+oxacillin ,72
+improvement ,168
+weaning off pressors ,168
+extubation ,168
+renal function recovery ,168
+bilateral nontender purpuric papules ,240
+bullous lesions ,264
+no mucosal involvement ,240
+no palmar involvement ,240
+no abdominal pain ,240
+no arthralgias ,240
+no paresthesia ,240
+no fever ,240
+no chills ,240
+negative HIV antibody ,240
+negative hepatitis B serology ,240
+negative p-ANCA ,240
+negative c-ANCA ,240
+negative cryoglobulin ,240
+negative rheumatoid factor ,240
+weakly positive ANA ,240
+negative anti-ds DNA antibody ,240
+low complement C3 ,240
+normal complement C4 ,240
+positive anti-HCV antibody ,240
+HCV viral load 4.16 × 105 IU/mL ,240
+normal eosinophil count ,240
+no bacteria in aspirated fluid ,240
+no organisms on gram staining ,240
+perivascular neutrophil infiltration ,240
+fibrinoid necrosis of small vessels ,240
+leukocytoclastic vasculitis ,240
+vancomycin ,264
+resolution of skin lesions ,312
+tricuspid valve replacement surgery ,720
+no recurrence of skin lesions ,744

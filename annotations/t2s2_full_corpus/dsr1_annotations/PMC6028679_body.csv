@@ -1,0 +1,64 @@
+event,time
+71 years old,0
+woman,0
+admitted to the hospital,0
+dyspnea,0
+thyroid excision,"-unknown (historical, prior to admission)"
+spinal fusion,"-unknown (historical, prior to admission)"
+follicular thyroid cancer,"-unknown (historical, prior to admission)"
+lung metastasis,"-unknown (historical, prior to admission)"
+cranial bone metastasis,"-unknown (historical, prior to admission)"
+vertebral metastasis,"-unknown (historical, prior to admission)"
+spinal metastasis recurrence,-unknown (prior to admission)
+acetaminophen use,-unknown (prior to admission)
+loxoprofen use,-unknown (prior to admission)
+morphine use,-unknown (prior to admission)
+pulse 118 beats per minute,0
+blood pressure 121/86 mmHg,0
+respiratory rate 28 breaths per minute,0
+oxygen saturation 96%,0
+no significant heart murmurs,0
+"ST-segment elevation in leads I, aVL, V2-5",0
+no reciprocal ST-segment depression,0
+cardiothoracic ratio 71%,0
+pulmonary congestion,0
+infiltrative shadow,0
+apical akinesis,0
+basal hyperkinesis,0
+"leukocyte count 10,900 /μL",0
+C-reactive protein 27.7 mg/dL,0
+troponin T 0.16 mg/dL,0
+creatine kinase 76 U/L,0
+"N-terminal pro-brain natriuretic peptide 14,856 pg/mL",0
+non-invasive positive pressure ventilation,0
+intravenous nitroglycerin,0
+intravenous furosemide,0
+intravenous heparin,0
+intravenous piperacillin tazobactam,0
+persistent ST-segment elevation in leads V2-5,48 (hospital day 2)
+persistent ST-segment elevation in leads V2-5,96 (hospital day 4)
+worsening dyspnea,216 (hospital day 9)
+"harsh, loud, holosystolic murmur",216 (hospital day 9)
+ventricular septal defect near apex,216 (hospital day 9)
+left-to-right shunt,216 (hospital day 9)
+coronary angiography normal arteries,240 (hospital day 10)
+apical akinesis,240 (hospital day 10)
+basal hyperkinesis,240 (hospital day 10)
+shunt flow to right ventricle,240 (hospital day 10)
+pulmonary to systemic flow ratio 2.95,240 (hospital day 10)
+intra-aortic balloon pumping,240 (hospital day 10)
+deeply inverted T-waves in leads V1-6,360 (hospital day 15)
+QT interval prolongation,360 (hospital day 15)
+elective surgery,384 (hospital day 16)
+extracorporeal circulation,384 (hospital day 16)
+ventricular septal perforation closure,384 (hospital day 16)
+loss of myocardial cells,384 (hospital day 16)
+myocardial fibrosis,384 (hospital day 16)
+lymphocyte infiltration,384 (hospital day 16)
+macrophage infiltration,384 (hospital day 16)
+postoperative course uneventful,1200 (day 50 onwards)
+cardiac magnetic resonance imaging,1200 (day 50)
+late gadolinium enhancement septal and posterior wall apex,1200 (day 50)
+discharged to rehabilitation facility,1512 (day 63)
+T-wave inversion in leads V1-5,8760 (1 year follow-up)
+residual mild hypokinesis of apex,8760 (1 year follow-up)

@@ -1,0 +1,115 @@
+event,time
+58 years old,0\
+female,0\
+diabetic,0\
+admitted to intensive care unit,0\
+emergency coronary angiogram,-48\
+normal coronaries,-48\
+urinary tract infection,-48\
+diabetic ketoacidosis,-48\
+pulseless ventricular tachycardia,-48\
+advanced cardiac life support,-48\
+troponin levels raised,-48\
+left ventricular hypokinesia,-48\
+mechanically ventilated,0\
+vasopressors (norepinephrine 0.18 μg/kg/minute),0\
+ill-sustained ventricular tachycardia,0\
+high anion gap acidosis,0\
+neutrophilic leukocytosis,0\
+intravenous amiodarone infusion,0\
+hypokalemia (2.9 mEq/dL),0\
+hypomagnesemia (1.2 mEq/dL),0\
+intravenous meropenem,0\
+human insulin infusion,0\
+shock resolution,12\
+acidosis correction,12\
+restoration of normal sinus rhythm,12\
+extubated,12\
+computed tomography urography,12\
+pyelonephritis,12\
+Takotsubo cardiomyopathy,12\
+apical ballooning of left ventricle,12\
+apical hypokinesia,12\
+oral bisoprolol,12\
+oral amiodarone,12\
+shifted to step-down unit,12\
+cardiac magnetic resonance imaging,24\
+structural abnormality ruled out,24\
+episodes of ill-sustained ventricular tachycardia with pulse,36\
+synchronized cardioversion,36\
+intravenous amiodarone bolus,36\
+intravenous lignocaine bolus,36\
+thoracic epidural catheter insertion,48\
+sympathetic blockade,48\
+hypokalemia (3.2 mEq/dL),48\
+ropivacaine 0.20% infusion,48\
+no ventricular tachycardia episodes,96\
+epidural catheter removed,120\
+discharged from hospital,216\
+oral propefenone,216\
+oral amiodarone,216\
+oral bisoprolol,216\
+apical hypokinesia,216\
+distal interventricular septal hypokinesia,216\
+ejection fraction 45%,216\
+no neurological deficit,0\
+optimal oxygenation,0\
+no complications from epidural catheter,96\
+urosepsis,-48\
+diabetic ketoacidosis resolution,12\
+ventricular tachycardia storm,36\
+metabolic derangements,48\
+refractory ventricular tachycardia,36\
+general anesthesia considered,36\
+implantable defibrillator considered,36\
+T6 epidural catheter placement,48\
+complete sympathetic blockade T1-T4,48\
+epidural ropivacaine bolus,48\
+epidural infusion titrated,48\
+resolution of metabolic derangements,96\
+left cardiac sympathetic denervation considered,36\
+stellate ganglion block considered,36\
+no procedural complications,96\
+hemodynamic stability maintained,48\
+infective endocarditis risk considered,36\
+active bloodstream infection considered,36\
+Takotsubo cardiomyopathy confirmed,24\
+speckle tracking echocardiography,12\
+elevated cardiac biomarkers,-48\
+normal coronary angiogram,-48\
+emotional or physical stress trigger,-72\
+transient regional wall motion abnormalities,12\
+reversible ventricular dysfunction,216\
+ST-segment elevation,-48\
+T-wave inversion,-48\
+QTc prolongation,-48\
+BNP elevation,-48\
+troponin elevation,-48\
+left bundle branch block,-48\
+no structural heart disease,24\
+no viral myocarditis,24\
+no hypertrophic cardiomyopathy,24\
+no acute plaque rupture,-48\
+no coronary thrombosis,-48\
+no coronary dissection,-48\
+diabetic ketoacidosis management,-48\
+electrolyte correction,0\
+blood sugar control (140-180 mg/dL),0\
+improved general condition,12\
+Holter monitoring,96\
+ventricular tachycardia recurrence,36\
+synchronized cardioversion effective,36\
+antiarrhythmic therapy ineffective,36\
+sympathetic overdrive,0\
+catecholamine excess,0\
+myocardial perfusion increased,48\
+myocardial workload decreased,48\
+sympathetic tone reduction,48\
+epidural hematoma ruled out,96\
+epidural infection ruled out,96\
+hypotension avoided,48\
+video-assisted thoracoscopic surgery considered,36\
+animal model studies referenced,0\
+procedural consent obtained,0\
+patient anonymity maintained,0\
+no conflict of interest,0

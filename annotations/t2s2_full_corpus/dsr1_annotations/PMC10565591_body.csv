@@ -1,0 +1,105 @@
+event,time
+39 years old,0
+male,0
+admitted to the hospital,0
+skin flare-up,-168
+tenderness in the right upper limb,-168
+shock,-168
+nursing home employee,0
+non-smoker,0
+denied alcohol use,0
+denied illicit drug use,0
+scratches on proximal right upper arm,-168
+sore throat,-96
+fever,-96
+temperature 37.7 °C,0
+heart rate 133 bpm,0
+blood pressure 72/56 mmHg,0
+tachypnea 30 breaths/min,0
+oxygen saturation 99%,0
+erythema of right upper arm,0
+swelling of right upper arm,0
+erythema of right lateral thorax,0
+swelling of right lateral thorax,0
+pain in right upper arm and thorax,0
+no paralysis of right hand or wrist,0
+no contracture of right hand or wrist,0
+WBC 2.85×10³/μL,0
+neutrophils 95.7%,0
+hemoglobin 12.2 g/dL,0
+platelet 9.3×10⁴/μL,0
+CRP 45.36 mg/dL,0
+total protein 4.9 g/dL,0
+albumin 2.2 g/dL,0
+AST 210 U/L,0
+ALT 156 U/L,0
+total bilirubin 1.7 mg/dL,0
+CK 709 U/L,0
+BUN 61 mg/dL,0
+creatinine 4.9 mg/dL,0
+sodium 129 mEq/L,0
+potassium 3.8 mEq/L,0
+chloride 89 mEq/L,0
+glucose 108 mg/dL,0
+presepsin 2146 pg/mL,0
+PT-INR 1.32,0
+fibrinogen 760.0 mg/dL,0
+antithrombin 3 52.7%,0
+CT triceps brachii muscle changes,0
+CT latissimus dorsi muscle changes,0
+LRINEC score 9,0
+noradrenaline infusion,0
+vasopressin infusion,0
+meropenem,0
+vancomycin,0
+clindamycin,0
+fluid infusion,0
+tracheal intubation,0
+ventilatory assistance,0
+emergency surgery,0
+incision in posterior axilla,0
+fascia excision,0
+pus with dishwater appearance,0
+contamination axilla to latissimus dorsi,0
+contamination axilla to triceps brachii,0
+no contamination of right forearm,0
+transfer to ICU,0
+blood culture positive Streptococcus pyogenes,0
+drainage culture positive Streptococcus pyogenes,0
+flare of right precordia exacerbated,96
+incision from precordia to medial elbow,96
+debridement along brachial artery,96
+debridement along brachial vein,96
+debridement along median nerve,96
+debridement along ulnar nerve,96
+debridement along musculocutaneous nerve,96
+marking nerves and vessels with tapes,96
+wounds left open,96
+daily wound cleaning,96
+fasciotomy pectoralis major fascia,120
+fasciotomy right trapezius fascia,120
+transfer to ward,168
+skin flare-up stopped spreading,168
+vital signs stabilized,168
+ampicillin,216
+clindamycin,216
+wound cultures Klebsiella aerogenes,360
+cefepime,360
+thorough debridement under anesthesia,456
+identification of nerves and vessels,456
+full-thickness skin graft,1080
+discharge,1944
+cefepime until day 36,864
+oral minocycline,1944
+no nerve injury symptoms at 12 months,8760
+shoulder flexion 155°,8760
+shoulder abduction 160°,8760
+shoulder external rotation 50°,8760
+shoulder internal rotation 50°,8760
+elbow extension 0°,8760
+elbow flexion 135°,8760
+forearm pronation 80°,8760
+forearm supination 90°,8760
+no wrist ROM limitations,8760
+no finger ROM limitations,8760
+hypertrophic scar contracture right axilla,8760

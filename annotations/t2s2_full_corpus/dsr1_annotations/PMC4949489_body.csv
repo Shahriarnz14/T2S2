@@ -1,0 +1,34 @@
+event,time
+71-year-old,0
+woman,0
+chronic obstructive pulmonary disease,0
+atrial fibrillation,0
+bladder cancer,0
+type 2 insulin-dependent diabetes mellitus,0
+urinary tract infection,0
+surgery to resect bladder tumor,-24
+sepsis,0
+admitted to intensive care unit,0
+home dose of 30 units per day of glargine insulin,-24
+insulin sliding scale,-24
+hyperosmolar hyperglycemic state,0
+normal anion gap,0
+normal pH,0
+normal sodium level,0
+increasing glargine dose,0
+uncontrolled blood glucose,0
+aspart boluses,0
+NPH boluses,0
+transitioned to regular insulin drip,0
+regular insulin drip titrated to 1620 units per day,0
+blood glucose above 400mg/dL,0
+insulin autoantibodies test negative,0
+treatment with detemir,24
+blood glucose dropped 292mg/dL in 24 hours,24
+insulin drip discontinued,24
+detemir titrated to optimal dose,48
+average daily blood glucose 181mg/dL,168
+transferred to ward,168
+discharged to rehabilitation facility,240
+blood sugars between 100 and 200mg/dL,240
+acute respiratory failure,336

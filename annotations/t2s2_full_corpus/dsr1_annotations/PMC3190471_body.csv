@@ -1,0 +1,86 @@
+event,time
+42 years old,0
+man,0
+high-grade fever,-1008
+chills,-1008
+productive cough,-1008
+weight loss,-672
+6 kg weight loss,-672
+diarrhea,-336
+chest radiograph showed right middle zone consolidation,-4032
+sputum culture grew Klebsiella pneumoniae,-4032
+"antibiotics started (levofloxacin, amikacin, metronidazole, fluconazole)",-4032
+no response to antibiotics,-4032
+empiric anti-tuberculosis therapy started,-4032
+referred to our hospital,0
+recurrent upper respiratory tract infections since 2005,-175200
+pneumonia in 2006,-175200
+"treated for pulmonary tuberculosis twice (2005, 2007)",-175200
+monthly episodes of watery diarrhea since 2007,-175200
+fever,0
+tachycardia,0
+tachypnea (respiratory rate 36/min),0
+blood pressure 110/60,0
+bilateral crepitations on chest auscultation,0
+PaO2 58 mm Hg,0
+admitted to intensive care unit,0
+chest radiograph showed right middle and lower zone consolidation,0
+non-resolving pneumonia diagnosed,0
+meropenem started,0
+levofloxacin started,0
+anti-tuberculosis therapy discontinued,0
+endotracheal intubation required,24
+chest radiograph showed bilateral alveolar shadows,120
+PaO2/FiO2 59/1,120
+ventilation with ARDS protocol started,120
+noradrenaline given at ceiling doses,120
+"antibiotics changed (targocid, colistin)",120
+empiric amphotericin-B added,120
+trimethoprim-cotrimoxazole prophylaxis started,120
+underlying primary immune deficiency suspected,0
+CVID suspected,0
+intravenous immunoglobulin given (2 g/kg),192
+hypogammaglobulinemia,0
+afebrile,216
+FiO2 requirements reduced to 35%,312
+tracheostomy done,648
+decannulation,888
+chest radiograph showed clearing of alveolar shadows,888
+residual bronchiectasis,888
+ambulatory on discharge,1752
+irregular follow-up for IVIG and chest physiotherapy,1752
+hypogammaglobulinemia confirmed,0
+low CD4 T lymphocyte counts,0
+HIV infection ruled out,0
+recurrent RTIs,-175200
+diarrhea since 5 years prior,-175200
+Klebsiella pneumonia infection,0
+Pseudomonas aeruginosa infection,0
+adult-onset PID with antibody deficiency,0
+T lymphocyte dysfunction,0
+high-dose IVIG commenced,192
+serum IgG levels undetectable,0
+improvement after IVIG,264
+repeat IgG levels declined after 8 weeks,1344
+repeat IgG levels declined after 12 weeks,2016
+replacement IVIG doses (0.4 g/kg) given,1344
+CVID diagnosis confirmed,2016
+chronic sinusitis,0
+lung fibrosis,0
+bronchiectasis,0
+granulomatous interstitial lung disease,0
+autoimmune phenomena,0
+systemic lymphocytic infiltration,0
+antibody deficiency,0
+encapsulated bacteria infections,0
+regular IVIG replacement,1752
+serum IgG trough level >0.8 g/l,0
+antibody failure,0
+vaccine use precluded,0
+late-onset common immune deficiency,0
+ICU mortality of severe pneumonias,0
+malnutrition,0
+HIV infection,0
+tuberculosis,0
+inappropriate use of antibiotics,0
+severe pneumonia mortality reduced,0

@@ -1,0 +1,93 @@
+Introduction
+Solid organ transplant recipients are at risk of opportunistic bacterial, viral, parasitic and fungal infections. Broad spectrum antimicrobial agents are often used for prophylaxis and treatment of opportunistic infections post-transplant.
+
+Micafungin is a broad spectrum echinocandin class antifungal agent. Echinocandins uniquely target the fungal cell wall, giving them a favorable side effect profile. Micafungin has potent in vitro and in vivo activity against all major Candida species, Aspergillus species and less common pathogens such as Paecilomyces and Penicillium. However, it has no activity against Cryptococcus spp. and members of the order Mucorales.
+
+Breakthrough infections are a recognized complication of therapy with any antimicrobial agent, but are an uncommon feature of micafungin use. Here we present a case and review the literature of all breakthrough non-Aspergillus mold infections described with the use of micafungin.
+
+Case
+A 47-year-old woman with cirrhosis due to intestinal failure associated liver disease was referred for multivisceral transplantation. Multiple small bowel resections due to visceral myopathy resulted in short bowel syndrome, small intestinal bacterial overgrowth and gastrointestinal dysmotility. A liver biopsy after four years of parenteral nutrition confirmed advanced cirrhosis and multivisceral transplantation (stomach, liver, pancreas, small bowel and colon) was indicated.
+
+Both donor and recipient were cytomegalovirus (CMV) IgG negative. Induction immunosuppression consisted of methylprednisolone followed by alemtuzumab (anti-CD52). Maintenance immunosuppression initially consisted of a reducing course of prednisolone and tacrolimus. Tacrolimus was replaced by cyclosporine on day 40 due to posterior reversible encephalopathy syndrome.
+
+Initial recipient antimicrobial prophylaxis consisted of meropenem, vancomycin, liposomal amphotericin B (L-AmB) 1 mg/kg od, co-trimoxazole 480 mg three times a week and acyclovir, as per our institutional protocol. On day 3 Candida glabrata was isolated from blood cultures and drain fluid. The dose of L-AmB was increased to 3 mg/kg/day. This was switched to voriconazole after she developed a cutaneous drug reaction.
+
+Through her admission there was a prolonged period of pyrexia and intermittent bacteremia. Positive blood cultures included enterococci, Elizabethkingia meningoseptica, Staphylococcus haemolyticus, and Escherichia coli, but there was no fungemia. Voriconazole was switched to micafungin 100 mg od due to low serum voriconazole levels (secondary to drug interactions) on day 96, which was subsequently increased to 100 mg bd due to lack of clinical response.
+
+On day 79 a diffuse maculopapular rash was noted. Skin biopsy demonstrated graft-versus-host disease (GvHD), confirmed by fluorescence in situ hybridization analysis. Peripheral blood chimerism analysis demonstrated 96% donor-positive lymphocytes. She suffered from rapid and irreversible bone marrow failure from day 90 which required frequent red cell and platelet transfusions. Bone marrow examination was acellular, consistent with GvHD. Immunosuppression was initially increased with further doses of high-dose methylprednisolone, basiliximab (anti-IL-2), and alemtuzumab with no response. Immunosuppression was withdrawn on day 120, again with no response. A haplo-identical bone marrow transplant from a relative was planned for day 168.
+
+A granulocyte infusion was given as bridging therapy to control the sepsis pending bone marrow transplant on day 164 which was associated with a platelet increment to >130 × 109/L. She was also noted to have developed dysarthria with unilateral isolated upper motor neurone facial nerve palsy prior to the infusion. Cranial computed tomography scan (CT) (performed after the granulocyte infusion) confirmed an acute frontal infarct. Over the next 24 h she deteriorated rapidly and was transferred to the intensive care unit. Repeat CT of head, chest, abdomen and pelvis (Fig. 1) revealed extensive and catastrophic infarcts involving both kidneys, bowel and liver, a large new cerebral infarct, and extension of her established cerebral infarct with hemorrhagic transformation and significant edema and midline shift. Treatment was withdrawn and she died soon after.Fig. 1 A. CT abdomen at day 165 showing poor enhancement of the liver with heterogeneous attenuation of the right lobe, gas in the left renal vein (long arrow) and infarcts in the right kidney (short arrow). B. CT head at day 165 showing extensive bilateral cerebral infarction (long arrows), left fronto-parietal hemorrhage (short arrow) and mass effect within the left cerebral hemisphere.
+
+Fig. 1
+
+Post mortem examination revealed extensive invasive mucormycosis diagnosed histopathologically, affecting the vasculature as well as parenchyma of her lungs, brain, heart and liver, and a left ventricular fungal thrombus. Following discontinuation of L-AmB and voriconazole, she received micafungin for a total of 69 days. There had been no time without antifungal coverage. Apart from the early Candida isolates, fungal cultures and serum galactomannan levels had been negative throughout her illness.
+
+Methods
+PubMed was searched using the search string ‘(micafungin AND Aspergillus breakthrough [Title/Abstract]) OR (micafungin AND rhizopus [Title/Abstract]) OR (micafungin AND zygomycetes) OR ‘(micafungin AND Mucor [Title/Abstract]) OR (micafungin AND Rhizopus [Title/Abstract]) OR (micafungin AND Absidia [Title/Abstract]) OR (Cunninghamella AND micafungin [Title/Abstract]) OR (Rhizomucor AND micafungin [Title/Abstract]) OR (Lichtheimia AND micafungin [Title/Abstract]) OR (Apophysomyces AND micafungin [Title/Abstract]) OR (Basidiobolus AND micafungin [Title/Abstract]) OR (Conidiobolus AND micafungin [Title/Abstract])’, OR (Scedosporium AND micafungin [Title/Abstract]) OR (Fusarium AND micafungin [Title/Abstract]) and the articles cited therein in articles written in English for the period January 1997 to December 2017.
+
+Three authors (DE, CM & JLA) then read the articles and included all clinical cases of breakthrough infection with molds whilst the patient was receiving micafungin.
+
+Discussion
+Invasive fungal infections are known to occur in over 10% of intestinal transplant recipients in recent series [1]. In solid organ transplant recipients in general, the majority of fungal infections are due to Candida or Aspergillus [1], for which both amphotericin B and micafungin provide adequate coverage. In this case micafungin was chosen to provide prophylaxis while she was neutropenic, due to her intolerance to amphotericin B and interactions with voriconazole, though this is not a licensed indication [2]. It is likely that Mucor was selected by micafungin use.
+
+Mucor is a genus of opportunistic environmental molds which classically causes angioinvasive infections in immunocompromised patients. Mucormycosis is frequently fatal even with prompt diagnosis, appropriate therapy and aggressive debridement [3]. Diagnosis requires a high degree of clinical suspicion and often requires histopathological examination and culture of involved tissue, as routine cultures are often negative [3]. Amphotericin B has the best evidence base, although isavuconazole and posaconazole are alternatives [4,5]. Although monotherapy is not a therapeutic option, micafungin may be considered as add-on therapy due to synergistic properties [6]. Micafungin has limited in vitro activity [i.e. minimum inhibitory concentration [MIC] >4 mg/L] against the mucoraceous molds, Fusarium solani, Pseudallescheria boydii and molds with holoblastic conidia (e.g. Aureobasidium spp. and Alternaria spp.) [7]. Susceptibility data should therefore ideally be obtained before starting therapy [8].
+
+Breakthrough infections due to non-Aspergillus molds on micafungin remain rare (Table 1), with only nine other cases previously reported [[9], [10], [11], [12], [13], [14]]. Other than three case reports, six cases were identified during the course of clinical trials involving almost 700 neutropenic patients receiving micafungin for treatment [10] or prophylaxis [9,14]. Of the eight patients for whom information is available, seven were receiving immunosuppressive therapy; the other was diabetic. Exposure to micafungin varied from 6 days to >3 months. Conversely, several large multicenter studies of patients receiving micafungin have been published, predominantly from Japan which showed no breakthrough infections due to these molds [[15], [16], [17], [18], [19], [20]].Table 1 Mold breakthrough cases during micafungin therapy [other than Aspergillus spp.].
+
+Table 1Ref.	Year	Country	n	Organism	Method of identification	Age/sex	Underlying condition	BDG	Immuno-suppression	Site of infection	Daily dose [mg]	Duration of therapy [total dose]	Outcome	
+This case	2014	UK	1	Mucormycetes	Histology – post mortem	47/F	MVT, GvHD, visceral myopathy	N/A	MMF, CYA, steroids	lung, brain, heart, liver	100–200	69d [10500 mg]	Died	
+[12]	2009	Japan	1	Mucormycetes	Histology – post mortem	69/M	AML, DM	Neg	DA, Prednisolone	bowel	150	13d [1950 mg]	Died	
+[9]	2004	USA	1	Mucormycetes	u/k	u/k	HSCT	u/k	u/k	u/k	50	u/k	u/k	
+[10]	2010	USA	1	Mucormycetes	u/k	u/k	Febrile neutropenia	u/k	u/k	u/k	100	u/k	u/k	
+[14]	2015	Austria	1	Mucormycetes	u/k	u/k	Acute leukemia	u/k	u/k	lung	50	16d [800 mg]	u/k	
+[14]	2015	Austria	1	Lichtheimia corymbifera	Histology – post mortem	u/k	Acute leukemia	u/k	u/k	Lung, skin, brain	50	6d [300 mg]	Died	
+[14]	2015	Austria	1	Aureobasidium spp.	u/k	u/k	Acute leukemia	u/k	u/k	Soft tissue	50	24d [1200 mg]	u/k	
+[14]	2015	Austria	1	Hormographiella aspergillata	u/k	u/k	Acute leukemia	u/k	u/k	Lung, skin	50	30d [1500 mg]	u/k	
+[11]	2013	Japan	1	Scedosporium aurantiacum	Culture	68/F	DM	Pos	Nil	lung, brain	150	16d [2400 mg]	Survived	
+[13]	2014	Japan	1	Scedosporium prolificans	Culture	35/M	Renal transplant	Pos	MMF, steroids, Tac	lung, brain, heart valve, blood	150	>3 months	Died	
+Key: AML: acute myeloid leukemia; BDG: β-D-glucan; CYA: cyclosporine; d: days; DA: cytarabine – daunarubicin; DM: diabetes mellitus; F: female; GvHD: graft versus host disease; HSCT: hemopoietic stem cell transplant; M: male; MMF: mycophenolate mofetil; MVT: multivisceral transplant; N/A: not applicable; Neg: negative; Pos: positive; Tac: Tacrolimus; u/k: unknown; UK: United Kingdom USA: United States of America.
+
+
+
+Positive fungal culture or histology remains the gold standard for diagnosis. Serological markers [e.g. β-d glucan/galactomannan] are often negative even in overwhelming infection [12]. One of the recognized limitations of β-d glucan is that it remains negative in patients with infections due to mucormycetes and Cryptococcus [2], whilst galactomannan, a constituent of the cell wall of Aspergillus and Penicillium should also remain negative as it’s not a component of these fungi. Clinical features were non-specific in all cases and were catastrophic in ours.
+
+In conclusion, non-Aspergillus non-Candida breakthrough infections can occur within two weeks of starting micafungin and usually occur in immunocompromised hosts. A high clinical index of suspicion is required due to a non-specific presentation. Clinicians should be aware of the limitations of antifungal use generally and the limitations of current screening and diagnostic testing algorithms for detecting fungal infections in immunosuppressed individuals. Early biopsy is therefore the most useful investigation in these patients. Unfortunately, even with prompt recognition and aggressive surgical and antimicrobial therapy, these infections are often fatal.
+
+Contributions
+JR Louis-Auguste: Concept and design of the paper; performed literature search; drafted and revised the manuscript.
+
+C Micallef: Concept and design of the paper; performed literature search; drafted and revised the manuscript.
+
+T Ambrose: Concept and design of the paper; revised the manuscript.
+
+S Upponi: Revised the manuscript; provided and interpreted radiological images.
+
+AJ Butler: Concept and design of the paper; revised the manuscript.
+
+D Massey: Concept and design of the paper; revised the manuscript.
+
+SJ Middleton: Concept and design of the paper; revised the manuscript.
+
+N Russell: Concept and design of the paper; revised the manuscript.
+
+CS Rutter: Concept and design of the paper; revised the manuscript.
+
+LM Sharkey: Concept and design of the paper; revised the manuscript.
+
+J Woodward: Concept and design of the paper; revised the manuscript.
+
+E Gkrania-Klotsas: Concept and design of the paper; revised the manuscript.
+
+DA Enoch: Concept and design of the paper; performed literature search; drafted and revised the manuscript.
+
+Consent
+Written informed consent was obtained from the patient’s next of kin for publication of this case report and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal on request.
+
+Conflict of interest statement
+DAE has received funding to attend conferences from MSD, Gilead and Astellas. CR has received funding from Norgine, Shire and Astellas to attend scientific conferences; Dr Falk and Shire for invited presentations; Nutricia for sponsorship of local educational courses. All other authors declare no conflicts of interest.
+
+Funding
+None.
+
+Acknowledgement
+None.

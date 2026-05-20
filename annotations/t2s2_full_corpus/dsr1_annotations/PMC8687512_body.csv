@@ -1,0 +1,101 @@
+event,time
+54 years old,0
+male,0
+admitted to the emergency department,0
+sent to the emergency department by family doctor,0
+new cardiac murmur,0
+gastroesophageal reflux disease,0
+degenerative disc disease,0
+lives with wife,0
+rarely consumes alcohol,0
+denies smoking,0
+denies substance use,0
+subacute onset of subjective fevers,-336
+subacute onset of chills,-336
+arthritis of right knee,-336
+arthritis of left wrist,-336
+erythema,-336
+pain,-336
+swelling,-336
+visited walk-in clinic,-336
+prescribed naproxen,-336
+temperature 37.1°C,0
+pulse 80 beats per minute,0
+blood pressure 109/62 mm Hg,0
+respiratory rate 24 breaths per minute,0
+oxygen saturation 97% on room air,0
+grade III to VI early diastolic murmur,0
+faint crackles to lung bases,0
+mild swelling,0
+pain to right knee,0
+pain to left wrist,0
+no erythema,0
+no rash,0
+ultrasonography showed diffuse bilateral B-lines,0
+pulmonary edema,0
+aortic regurgitation,0
+neutrophil-dominant leukocytosis,0
+hemoglobin 126 g/L,0
+platelets 164 × 10⁹/L,0
+creatinine 137 μmol/L,0
+increased creatinine from baseline 90 μmol/L,0
+C-reactive protein 209 mg/L,0
+liver enzymes within normal limits,0
+chest radiography showed pulmonary edema,0
+electrocardiography showed complete heart block,0
+ventricular escape rate,0
+transthoracic echocardiography showed bicuspid aortic valve,0
+severe aortic insufficiency,0
+aortic root abscess 22 × 19 mm,0
+moderate mitral insufficiency,0
+transesophageal echocardiography confirmed aortic root abscess,0
+fistula from right ventricle to aortic root,0
+blood cultures grew Neisseria gonorrhoeae,0
+diagnosed with gonococcal endocarditis,0
+empiric administration of intravenous ceftriaxone,0
+empiric administration of vancomycin,0
+strain susceptible to azithromycin,0
+strain susceptible to ceftriaxone,0
+stopped vancomycin,0
+prescribed oral azithromycin,0
+continued ceftriaxone,0
+"no oral, genital, or rectal samples obtained",0
+HIV test negative,0
+syphilis test negative,0
+hepatitis B test negative,0
+hepatitis C test negative,0
+admitted to cardiac intensive care unit,0
+care led by intensivists,0
+guidance from infectious disease service,0
+guidance from nephrology service,0
+guidance from cardiovascular surgery service,0
+modified Bentall procedure,0
+surgical aortic valve replacement,0
+insertion of bioprosthetic valve,0
+aortic root repair,0
+fistula between aortic root and right ventricle,0
+destruction of left ventricular outflow tract,0
+required venous–arterial extracorporeal membrane oxygenation,0
+inotropic support,0
+remained in complete heart block,0
+required temporary transvenous pacing,0
+aortic valve tissue gram stain negative,0
+aortic valve tissue culture negative,0
+16S rRNA gene sequencing confirmed Neisseria gonorrhoeae,0
+NG-MAST performed,0
+valvular pathology showed active purulent process,0
+neutrophilic infiltration,0
+no genitourinary symptoms,0
+no pharyngeal symptoms,0
+no rectal symptoms,0
+reported contact only with wife,0
+informed public health services,0
+acute tubular necrosis,0
+required continuous renal replacement therapy,0
+implantation of dual-chamber permanent pacemaker,336
+continued ceftriaxone for 28 days,0
+transitioned to intermediate hemodialysis,0
+discharged home,0
+kidney function improved,1344
+stopped hemodialysis,1344
+remained well at nephrology follow-up,8184

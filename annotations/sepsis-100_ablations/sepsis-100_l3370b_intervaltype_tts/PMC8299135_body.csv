@@ -1,0 +1,73 @@
+event,time
+54 years old,0
+male,0
+pre-syncope,-0.1
+syncope,-0.1
+left-sided chest tightness,-0.1
+generalized fatigue,-336
+weight loss,-336
+admitted to the hospital,0
+weight of 41 kg,0
+blood pressure of 96/60 mm Hg,0
+unremarkable cardiac examination,0
+unremarkable respiratory examination,0
+diffuse erythematous rash,0
+normal sinus rhythm,0
+raised troponin concentration,0
+eosinophil count of 7.6 × 10^9/l,0
+referred to cardiology,0
+myocarditis,0
+cardiac magnetic resonance imaging,24
+coronary angiography,24
+no coronary artery disease,24
+skin biopsy,48
+cardiac biopsy,48
+edoxaban,72
+prednisolone,72
+follow-up in the rheumatology clinic,336
+missed appointment,720
+neck swelling,1440
+urgently admitted to hospital,1440
+eosinophil count of 19.7 × 10^9 cells/l,1440
+increase dose of prednisolone,1440
+computed tomography of neck,1440
+lymphadenopathy,1440
+T-cell lymphoma,1440
+cyclophosphamide therapy,1440
+sepsis,1680
+cholecystitis,1680
+new onset of seizures,1680
+reduction in consciousness,1680
+Glasgow Coma Scale of 9/15,1680
+head CT,1680
+multiple bilateral acute infarctions,1680
+transferred to intensive care unit,1680
+hepatitis B,-8760
+asthma,-8760
+intravenous drug use,-8760
+excessive use of alcohol,-8760
+ischemic stroke,1680
+reduced GCS score,1680
+intracranial bleeding,1680
+malignancy,1440
+intracerebral infection,1680
+CMR,24
+subendocardial late gadolinium enhancement,24
+mild LV systolic impairment,24
+eczematous changes,48
+bone marrow biopsy,48
+no increase in eosinophils,48
+axillary lymph node biopsy,1440
+embolic brain event,1680
+intracardiac thrombus,1680
+apical tear,1680
+intramural myocardial tear,1680
+small apical cavity,1680
+mobile structures attached to dissected myocardium,1680
+diastolic flow in the apical cavity,1680
+systolic flow out of the apical cavity,1680
+corticosteroids,72
+anticoagulation,72
+palliation,2016
+deterioration,2016
+poor prognosis,2016

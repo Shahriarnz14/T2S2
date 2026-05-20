@@ -1,0 +1,72 @@
+event,time
+44 years old,0
+male,0
+presented to emergency department,0
+fever over 39°C,-216
+productive cough,-216
+chest pain,-216
+treatment with amoxicillin–clavulanate,-216
+treatment with paracetamol,-216
+no GI symptoms,-216
+isolated anal fissure,-175200
+COVID-19 diagnosis,0
+right infrahilar opacity,0
+bilateral peripheral reticular pattern,0
+CRP 16.64 mg/dL,0
+procalcitonin 0.29 ng/mL,0
+ferritin 1966 ng/mL,0
+D-dimer 1248 ng/mL,0
+INR 1.53,0
+LDH 380 U/L,0
+minimal neutrophilia,0
+normal blood count,0
+interleukin-6 <3.0 pg/mL,0
+AST 38 UI/L,0
+ALT 28 UI/L,0
+bilirubin 1.20 mg/dL,0
+lopinavir/ritonavir started,0
+hydroxychloroquine started,0
+persistent high fever,0
+persistent productive cough,0
+teicoplanin started,0
+piperacillin–tazobactam started,0
+enoxaparin started,0
+improvement after 6 days,144
+fever resolved,120
+cough remission,144
+low flow oxygen support,144
+CRP decreased,144
+D-dimer decreased,144
+AST increased,144
+ALT increased,144
+hyperammonaemia,144
+lopinavir/ritonavir discontinued,144
+hydroxychloroquine discontinued,144
+paracetamol discontinued,144
+teicoplanin continued,144
+acetylcysteine started,144
+enoxaparin discontinued,144
+lactulose administered,144
+normal US abdomen,144
+lung CT findings,144
+lung US improvement,144
+CRP normalization,240
+PCT normalization,240
+AST normalization,240
+D-dimer increased,240
+Echo-color-Doppler negative,240
+lung CE-CT improved,240
+pneumatosis intestinalis,240
+free air bubble,240
+no portal venous air,240
+no free fluid,240
+discharged,408
+ciprofloxacin prescribed,408
+metronidazole prescribed,408
+enoxaparin restarted,408
+asymptomatic at follow-up,864
+CT resolution,864
+D-dimer 652 ng/mL,864
+ferritin 436 ng/mL,864
+ALT 103 UI/L,864
+SARS-CoV-2 negative,864

@@ -1,0 +1,124 @@
+event,time
+6-year-old girl,0
+chronic intestinal pseudo-obstruction,0
+admitted for multivisceral organ transplantation,0
+abdominal distention,-35040
+gastric volvulus,-35040
+congenital megacolon,-35040
+gastropexy,-35040
+segmental resection of the transverse colon,-35040
+transverse colostomy,-26280
+recurrent mechanical ileus,-26280
+malnutrition,-26280
+electrolyte imbalance,-26280
+total parenteral nutrition,-26280
+colostomy malfunction,-1440
+abdominal distension,-1440
+colostomy function normalized,-1344
+conservative medical care,-1344
+"multivisceral organ transplantation (liver, spleen, stomach, duodenum, small bowel, colon, pancreas)",0
+cadaveric donor (5-year-old female),0
+brain death due to medulloblastoma,0
+preservation with histidine-tryptophan-ketoglutarate solution,0
+ischemic time 170 min,0
+no significant graft abnormality,0
+pre-operative hemoglobin 9.4 g/dl,0
+Na+ 142 mmol/L,0
+K+ 3.7 mmol/L,0
+creatinine 0.34 mg/dl,0
+AST 43 IU/L,0
+ALT 35 IU/L,0
+total bilirubin 0.5 mg/dl,0
+albumin 4.4 g/dl,0
+prothrombin time 1.00 INR,0
+"anesthesia induction with pentothal sodium, rocuronium, fentanyl",0
+sevoflurane maintenance,0
+continuous fentanyl infusion,0
+vecuronium infusion,0
+brachial artery cannulation,0
+central venous catheter (internal jugular),0
+central venous catheter (subclavian),0
+femoral venous pressure monitoring,0
+MAP 86 mmHg pre-reperfusion,-10
+heart rate 90 bpm pre-reperfusion,-10
+central venous pressure 4 mmHg pre-reperfusion,-10
+femoral venous pressure 16 mmHg pre-reperfusion,-10
+body temperature 36.7°C pre-reperfusion,-10
+pH 7.32 pre-reperfusion,-10
+base excess -9.5 mEq/L pre-reperfusion,-10
+lactate 5.6 mmol/L pre-reperfusion,-10
+Na+ 142 mmol/L pre-reperfusion,-10
+K+ 2.5 mmol/L pre-reperfusion,-10
+Ca2+ 0.83 mmol/L pre-reperfusion,-10
+hemoglobin 10.8 g/dl pre-reperfusion,-10
+blood glucose 98 mg/dl pre-reperfusion,-10
+NaHCO3 20 mEq administered,-10
+graft reperfusion,0
+MAP decreased to 39 mmHg,0
+femoral venous pressure decreased to 4 mmHg,0
+central venous pressure 4 mmHg,0
+epinephrine 5 µg administered,0
+epinephrine 10 µg administered,0
+volume replacement,0
+hypotension sustained over 10 minutes,0
+averaged MAP 38 mmHg,0
+pH 7.09 post-reperfusion,5
+base excess -17.9 mEq/L post-reperfusion,5
+lactate 8.5 mmol/L post-reperfusion,5
+K+ 4.8 mmol/L post-reperfusion,5
+Ca2+ 0.84 mmol/L post-reperfusion,5
+glucose 114 mg/dl post-reperfusion,5
+hemoglobin 8.5 g/dl post-reperfusion,5
+NaHCO3 30 mEq administered,5
+epinephrine 10 µg administered,5
+body temperature 33.4°C,5
+hypothermia sustained,5
+active warming with air warmer,5
+norepinephrine infusion started,5
+end of surgery body temperature 35.7°C,540
+pH 7.23 post-surgery,540
+base excess -10.0 mEq/L post-surgery,540
+total fluid infused 2900 ml,540
+packed red blood cells 2 units,540
+transferred to ICU,540
+AST 2108 IU/L post-surgery,540
+ALT 2351 IU/L post-surgery,540
+prothrombin time 3.07-5.69 INR,540
+total bilirubin 3.4 mg/dl post-surgery,540
+primary hepatic graft failure,72
+re-transplantation of liver scheduled,72
+living donor liver transplantation,72
+MAP 70-80 mmHg during second surgery,72
+pH 7.49 pre-second reperfusion,72
+base excess -0.1 mEq/L pre-second reperfusion,72
+lactate 3.8 mmol/L pre-second reperfusion,72
+Na+ 137 mmol/L pre-second reperfusion,72
+K+ 3.3 mmol/L pre-second reperfusion,72
+Ca2+ 0.97 mmol/L pre-second reperfusion,72
+hemoglobin 8.2 g/dl pre-second reperfusion,72
+blood glucose 170 mg/dl pre-second reperfusion,72
+PRS during second reperfusion,72
+epinephrine 4 µg administered,72
+phenylephrine 20 µg administered,72
+pH 7.44 post-second reperfusion,72
+base excess -2.2 mEq/L post-second reperfusion,72
+lactate 3.1 mmol/L post-second reperfusion,72
+Na+ 138 mmol/L post-second reperfusion,72
+K+ 2.9 mmol/L post-second reperfusion,72
+Ca2+ 1.00 mmol/L post-second reperfusion,72
+hemoglobin 6.8 g/dl post-second reperfusion,72
+packed red blood cells 1 unit,72
+MAP 70-76 mmHg post-transfusion,72
+AST 453 IU/L post-second surgery,72
+ALT 695 IU/L post-second surgery,72
+total bilirubin 3.6 mg/dl post-second surgery,72
+creatinine 0.6 mg/dl post-second surgery,72
+albumin 2.9 g/dl post-second surgery,72
+prothrombin time 1.74 INR post-second surgery,72
+AST declined to 69 IU/L,168
+ALT declined to 150 IU/L,168
+total bilirubin 1.4 mg/dl,168
+prothrombin time 1.07 INR,168
+feeding via gastrostomy started,168
+ICU stay 50 days,3336
+discharged after 139 days,3336

@@ -1,0 +1,71 @@
+event,time
+56 years old,0\
+male,0\
+admitted to the hospital,0\
+multiply recurrent ventral hernia,0\
+open recurrent umbilical hernia repair,"-4032 (February 2011, assuming case report in May 2011)\"
+Atrium C-QUR mesh placement,-4032\
+seroma formation,-4032\
+open wound,-4032\
+wound vacuum therapy,-4032\
+multiple washouts,-4032\
+mesh excision,-4032 (assuming same time as repair complications)\
+repeat ventral hernia repair,-4032\
+Alloderm mesh placement,-4032\
+medial component separation,-4032\
+hernia recurrence,"-4320 (approximately 1 month after February 2011 repair, ~30 days = 720 hours; 4032 - 720 = 3312, but May 2011 evaluation places recurrence at ~1 month prior to May 2011, so 720 hours before May evaluation)\"
+outpatient general surgery clinic evaluation,"-720 (May 2011 evaluation, assuming surgery scheduled 1 month after consultation)\"
+significant pain,-720\
+discomfort,-720\
+large ventral hernia defect,-720\
+preoperative body mass index 31,0\
+lateral retraction of bilateral rectus abdominis muscles,0\
+tobacco chewing,-4032 (prior to surgical consultation)\
+cessation of tobacco use,-720 (after surgical consultation)\
+hypertension,0\
+medically operated abdomen,0\
+complete abdominal wall reconstruction,0\
+endoscopic bilateral component separation,0\
+open recurrent giant ventral incisional hernia repair,0\
+Strattice biologic mesh placement,0\
+lysis of adhesions,0\
+dermatolipectomy,0\
+hernia defect 25x12 cm,0\
+operative time 4h53m,0\
+intraabdominal drain placement,0\
+subcutaneous drain placement,0\
+estimated blood loss 200 mL,0\
+peak airway pressures high 20s,0\
+extubation,0\
+oliguria,24 (postoperative day 1 night)\
+creatinine elevated to 3.1,24\
+hyperkalemia (K+ 7.1),24\
+transfer to intensive care unit,24\
+asymptomatic hyperkalemia,24\
+intubation,24\
+paralysis,24\
+intraabdominal pressures high 30s,24\
+abdominal compartment syndrome diagnosis,24\
+vecuronium drip initiation,24\
+urine output 1600 mL,26 (within 2 hours of treatment)\
+creatinine normalized to 0.8,36 (12 hours after treatment)\
+potassium normalization,36\
+bladder pressures declining,36\
+peak airway pressures high 30s,24\
+peak airway pressure improvement to mid-20s,36\
+intubation continued,24-72\
+paralysis continued,24-72\
+paralytic medication discontinued,72 (postoperative day 3)\
+continuous positive airway pressure trials,96 (postoperative day 4)\
+extubation,120 (postoperative day 5)\
+trickle-tube feeds,96\
+ambulatory with abdominal binder,120\
+clear liquid diet,144 (postoperative day 6)\
+regular diet,168 (postoperative day 7)\
+transfer to floor,144\
+discharge,192 (postoperative day 8)\
+home oxygen requirement,192\
+stable urine output,192\
+stable electrolytes,192\
+stable creatinine,192\
+stable oxygen saturations,192

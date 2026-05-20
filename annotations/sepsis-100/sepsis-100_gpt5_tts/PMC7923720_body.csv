@@ -1,0 +1,102 @@
+event,time
+83-year-old man,0
+male,0
+syncope,-10
+falling to the ground,-10
+lying on the floor throughout the night,-10
+"emergently brought to our Nephrology, Dialysis and Transplantation Unit",0
+admitted to the hospital,0
+leg ecchymosis,0
+anuric,0
+rhabdomyolysis-induced AKI,0
+rhabdomyolysis,0
+acute kidney injury,0
+septic state,0
+sepsis due to acute prostatitis,0
+acute prostatitis,0
+no other source of sepsis found,0
+urea 140 mg/dL,0
+creatinine 7.96 mg/dL,0
+"myoglobin 15,560 ng/mL",0
+"creatine phosphokinase 124,841 U/L",0
+"lactate dehydrogenase 1,199 U/L",0
+C-reactive protein 53.6 mg/dL,0
+procalcitonin 505.3 ng/mL,0
+total bilirubin 7.53 mg/dL,0
+direct bilirubin 4.24 mg/dL,0
+aspartate aminotransferase 749 U/L,0
+alanine aminotransferase 410 U/L,0
+prostate-specific antigen 662 ng/mL,0
+"white blood cell count 26,460 cells/µL",0
+neutrophils 93%,0
+sodium 137 mEq/L,0
+potassium 4.9 mEq/L,0
+calcium 8.7 mg/dL,0
+albumin 2.6 g/dL,0
+phosphate 4.1 mg/dL,0
+blood pressure 105/75 mm Hg,0
+heart rate 110 bpm,0
+body temperature 37.4°C,0
+Abdomen ultrasound,0
+no hydronephrosis,0
+empty bladder,0
+traces of blood in bladder catheter,0
+no indications to urologic surgery,0
+history of no previous renal impairment,0
+serum creatinine prior to admission: 0.8 mg/dL,-720
+history of prostatic hypertrophy,0
+prostate volume: 190 mL,-720
+PSA prior to admission: 9.9 ng/mL,-720
+history of overactive bladder,0
+history of recurrent prostatitis,0
+use of statins was not recorded,0
+volume expansion,0
+diuretic treatment,0
+alpha-agonist,0
+antibiotic treatment,0
+furosemide 125 mg by intravenous infusion daily started,0
+"femoral central venous catheter placed (Mahurkar 20 cm, 12 Fr)",0
+HFR-Supra with endogenous reinfusion started,0
+HFR-Supra blood flow 250 mL/min,0
+endogenous ultrafiltrate flow per session 14 L,0
+"low molecular weight heparin (enoxaparin) 4,000 IU bolus on starting dialysis",0
+24-h urine output 300 mL,96
+"24-h urine output 2,400 mL",192
+furosemide tapered to 50 mg per day with oral administration,192
+route of furosemide changed to oral,192
+piperacillin/tazobactam intravenous infusion started,0
+blood cultures showed growth of E. coli resistant to piperacillin/tazobactam,48
+switched to meropenem,48
+Escherichia coli resistant to piperacillin/tazobactam,48
+5 HFR-Supra sessions completed,144
+myoglobin reduced 98.4%,144
+CPK reduced 99.8%,144
+LDH reduced 72%,144
+CRP reduced 81%,144
+PCT reduced 98%,144
+myoglobin normalized,144
+improved signs of systemic inflammation,144
+renal failure not recovered,144
+femoral hemodialysis catheter removed,168
+right jugular central venous catheter placed,168
+"dialysis therapy prolonged with on-line hemodiafiltration, 3 sessions",168
+"dialysis therapy prolonged with high-flux hemodialysis, 2 sessions",168
+Phylter HF 17G dialyzer used,168
+dialysis no longer required,504
+discharged,504
+"urine output 2,300 mL per day",504
+urea 96 mg/dL,504
+creatinine 3.06 mg/dL,504
+C-reactive protein 3.2 mg/dL,504
+total bilirubin 0.81 mg/dL,504
+ASL 27 IU/L,504
+ALT 25 IU/L,504
+PSA 61 ng/mL,504
+"white blood cells count 6,300 cells/µL",504
+written informed consent was obtained,504
+remained dialysis dependent for weeks,144
+did not recover his basal renal function,4824
+chronic kidney disease occurred,4824
+urea 89 mg/dL,4824
+creatinine 2.41 mg/dL,4824
+GFR (CKD-EPI) 24 mL/min,4824

@@ -1,0 +1,87 @@
+event,time
+53 years old,0
+male,0
+presented to emergency department,0
+fever,-192
+dry cough,-192
+myalgia,-192
+progressive shortness of breath,-72
+vomiting,-24
+epigastric discomfort,-24
+denies chest pain,0
+Type-2 diabetes mellitus,0
+hypertension,0
+inferior MI in 2015,-43200
+refused coronary angiography in 2015,-43200
+severe distress,0
+tachypnea (32/min),0
+tachycardia (130 bpm),0
+normotensive,0
+O2 saturation 93% on CPAP,0
+normal body temperature,0
+severe breathlessness,0
+hypoxia (SpO2 88%),0
+crackles in both lung fields,0
+normal cardiac examination,0
+1 mm ST elevation in lead V3,0
+severe left ventricular systolic dysfunction,0
+LVEF 35%,0
+segmental wall motion abnormalities,0
+bilateral patchy consolidative changes,0
+air space opacities,0
+intubated,0
+mechanical ventilation,0
+ARDS,0
+pneumonia,0
+acute heart failure,0
+intravenous nitrates,0
+diuretics,0
+antibiotics,0
+aspirin 300 mg,0
+clopidogrel 600 mg,0
+enoxaparin 60 mg,0
+noradrenaline 0.5 mcg/kg/min,0
+COVID-19 positive,0
+leukocytosis (12.8×10³/μL),0
+lymphopenia (0.5),0
+CRP 150 mg/L,0
+ferritin 1979 μg/L,0
+troponin-T 527 ng/L,0
+NT-proBNP 722 pg/mL,0
+lactic acid 7.2 mmol/L,0
+"biphasic T wave V2, V3",24
+inverted T waves V4–V6,24
+peak troponin 1806 ng/L,24
+good response to therapy,48
+less oxygen requirement,48
+agitation,57.34
+hypotension,57.34
+severe bradycardia,57.34
+asystole,57.34
+return of spontaneous circulation,57.34
+lactic acidosis (pH 6.8),57.34
+lactate 19 mmol/L,57.34
+oxygen saturation 60%,57.34
+diffuse ST depression,57.34
+ST elevation aVR,57.34
+coronary angiography,63.34
+tight mid-LAD stenosis,63.34
+normal flow (TIMI 3),63.34
+tight ostial OM stenosis,63.34
+occluded mid-RCA,63.34
+everolimus-eluting stent LAD,63.34
+ECG improvement post-PCI,63.34
+mechanical ventilation continued,63.34
+noradrenaline continued,63.34
+severe sepsis,63.34
+bilateral pneumonia,63.34
+"antibiotics (clarithromycin, piperacillin/tazobactam, ceftriaxone)",63.34
+"antivirals (lopinavir/ritonavir, favipiravir)",63.34
+plasma protein fraction,63.34
+hydroxychloroquine,63.34
+acute kidney injury,144
+acute liver injury,144
+recovery of renal function,528
+recovery of liver function,528
+normalized inflammatory markers,528
+discharged,528

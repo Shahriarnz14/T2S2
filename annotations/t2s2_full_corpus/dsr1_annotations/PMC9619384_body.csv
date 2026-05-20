@@ -1,0 +1,99 @@
+event,time
+30-year-old,0
+primigravida,0
+intrauterine fetal death,0
+37 weeks of gestation,0
+admitted for labor induction,0
+true umbilical cord knot,0
+induction with mifepristone 600 mg,0
+misoprostol 125 mcg,0
+epidural catheter placement,0
+normal blood pressure,0
+normal oxygenation level,0
+normal body temperature,0
+dizziness,0
+emesis,0
+convulsive seizure,0
+magnesium sulfate administration (4 g over 15 min),0
+cardiorespiratory arrest,0
+cardiopulmonary resuscitation,0
+3 episodes of pulseless electrical activity,0
+return of spontaneous circulation,0
+order of blood products for mass transfusion protocol,0
+"ST-elevation in II, III, aVF, V6",0
+inferolateral STEMI,0
+forceps extraction of baby,0
+severe postpartum hemorrhage,0
+suspected AFE diagnosis,0
+poor transthoracic echocardiogram image quality,0
+transesophageal echocardiogram performed,0
+globally hyperkinetic left ventricle,0
+inferior wall hypokinesia to akinesia,0
+normal right ventricle size and function,0
+no aortic dissection,0
+no valvular heart disease,0
+DIC confirmed by coagulation tests,0
+platelets 97×109/L,0
+D-dimers 4154 ng/L,0
+unquantifiable prothrombin time,0
+fibrinogen 0.35 g/L,0
+infusion of fibrinogen (12 g),0
+human coagulation factor XIII (1250 E),0
+prothrombin concentrate complex (4500 IE),0
+tranexamic acid 3 g,0
+1 unit thrombocytes transfused,0
+4 units packed red blood cells transfused,0
+oxytocin 25 IE administered,0
+adequate uterine contraction,0
+Bakri balloon installation,0
+full-body CT scan performed,0
+no occult bleeding complications,0
+no pulmonary embolism,0
+coronary angiography not performed,0
+ST-segment resolution,24
+peak hs-cTnT 6535 ng/L,27.6
+peak CK-MB 49.7 μg/L,27.6
+aspirin 100 mg daily,0
+lisinopril 5 mg daily,0
+prophylactic heparin therapy,0
+extubation,0
+normal oxygenation post-extubation,0
+disorientation,0
+neurological recovery,0
+vasoactive agents tapered off,0
+volume substitution,0
+transthoracic echocardiogram (2 days post-arrest),48
+LVEF 51%,48
+inferior wall akinesia,48
+inferolateral hypokinesia,48
+normal right ventricle,48
+no pulmonary hypertension,48
+cardiac MRI (3 months post-arrest),2160
+LVEF 55%,2160
+inferior and inferolateral akinesia,2160
+transmural ischemia-related myocardial scarring,2160
+no inducible ischemia on stress MRI,2160
+aspirin continued,2160
+lisinopril continued,2160
+cardiac rehabilitation,2160
+follow-up at 6 months,4320
+regular physical exercise,4320
+asymptomatic,4320
+echocardiogram LVEF 70%,4320
+GLS -24%,4320
+mid inferolateral hypokinesia,4320
+pregnancy decision,4320
+uneventful subsequent pregnancy and delivery (18 months post-incident),12960
+DIC,0
+AFE diagnosis confirmed,0
+no recurrent AFE,12960
+no fever,0
+no signs of infection,0
+normal inflammatory markers,0
+no anaphylactic shock,0
+low cardiovascular risk,0
+no ischemia on follow-up MRI,2160
+no classical coronary artery disease,0
+intracoronary thrombus hypothesis,0
+conservative management success,0
+excellent outcome,4320

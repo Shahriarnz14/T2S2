@@ -1,0 +1,62 @@
+event,time
+76 years old,0
+female,0
+60 kg,0
+mesenteric ischemia,0
+emergency laparotomy scheduled,0
+Mallampati Class 2,0
+no restriction of mouth opening,0
+no anticipated difficulty in intubation,0
+normal neck flexion,0
+normal neck extension,0
+blood pressure 100/70 mmHg,0
+tachycardia,0
+tachypnea,0
+ASA Grade IV E,0
+hypertensive,0
+diabetic,0
+coronary artery disease,0
+severe sepsis syndrome,0
+ARDS,0
+hemoglobin 7.6 g/dL,0
+mild hyponatremia 128 mmol/l,0
+general anesthesia with rapid sequence induction,0
+general anesthesia with intubation,0
+preoxygenated for 5 minutes,0
+Sellick's maneuver applied,0
+pentothal sodium 150 mg IV,0
+rocuronium 100 mg IV,0
+attempted mouth opening after 1 minute,1
+teeth firmly approximated,1
+mouth could not be opened,1
+no peripheral nerve stimulator,1
+second attempt at mouth opening,2
+failure to open mouth,2
+failure to intubate,2
+attempted mask ventilation,2
+continued Sellick's maneuver,2
+jaw locked,2
+airway obstruction,2
+attempted nasopharyngeal airway,2
+unsuccessful blind nasal intubation,2
+no prepared difficult airway equipment,2
+fiberoptic bronchoscope unavailable,2
+ineffective ventilation,2
+oxygen saturation 92%,2
+decision for tracheostomy,2
+surgeon summoned,2
+tracheostomy performed,2
+progressive desaturation,2
+deteriorating hemodynamics,2
+cardiac arrest,2
+unsuccessful resuscitation,2
+attempted anterior jaw pull,2
+no TMJ anterior motion,2
+mouth opened 1 cm with force,2
+no history of TMJ disorders,0
+TMJ displacement,2
+locked-jaw,2
+low lung compliance,2
+low oxygen reserve,0
+hemodynamic instability,0
+death,2

@@ -1,0 +1,126 @@
+event,time
+67 years old,0
+African American,0
+woman,0
+obesity,0
+body mass index 38 kg/m²,0
+chronic active smoker,0
+chronic obstructive pulmonary disease,0
+obstructive sleep apnea,0
+continuous positive airway pressure therapy,0
+severe pulmonary hypertension,0
+atrial fibrillation,0
+anticoagulation,0
+well-controlled type 2 diabetes,0
+hypertension,0
+dyslipidemia,0
+discharged to rehabilitation facility,-672
+hypercapnic hypoxic respiratory failure,-672
+mechanical ventilation,-672
+sudden-onset generalized weakness,-24
+light-headedness,-24
+shortness of breath,-24
+dry cough,-24
+discharged from rehabilitation center,-24
+physical therapy,-24
+hydrotherapy,-24
+denied subjective fevers,0
+denied chills,0
+denied headache,0
+denied photophobia,0
+denied sputum production,0
+denied nausea,0
+denied vomiting,0
+denied diarrhea,0
+denied dysuria,0
+denied vaginal discharge,0
+denied recent travel,0
+denied exposure to pets,0
+simvastatin,0
+metformin,0
+glipizide,0
+valsartan,0
+labetalol,0
+diltiazem,0
+warfarin,0
+fluticasone/salmeterol,0
+albuterol,0
+hypotension,0
+epinephrine drip,0
+tachypnea,0
+O2 saturation 78%,0
+biphasic positive airway pressure,0
+pulse 110/min,0
+temperature 98.9°F,0
+alert,0
+oriented to person,0
+oriented to place,0
+oriented to time,0
+distress,0
+conjunctival pallor,0
+dry mucous membranes,0
+arrhythmic heart sounds,0
+2/6 pansystolic tricuspid murmur,0
+bilateral crackles at bases,0
+wheezing,0
+nontender abdomen,0
+ascetic wave,0
+2+ edema in lower extremities,0
+decreased peripheral pulses,0
+no skin ulcers,0
+no meningeal signs,0
+no focal deficits,0
+empiric therapy cefepime,0
+empiric therapy vancomycin,0
+leukocyte count 15.6 cells/mL,0
+neutrophils 85%,0
+no bandemia,0
+platelets 877000/mL,0
+acute kidney injury,0
+creatinine 1.3 mg/dL,0
+hyperglycemia 183 mg/dL,0
+lactate level 3 mmol/L,0
+international normalized ratio 3,0
+HIV negative,0
+urinalysis negative for blood,0
+urinalysis negative for nitrates,0
+urinalysis negative for leukocyte esterase,0
+5 to 10 white blood cells in urine,0
+many bacteria in urine,0
+right pleural effusion,0
+right-sided atelectasis,0
+cardiomegaly,0
+moderate ascites,0
+enlarged caliber hepatic veins,0
+ejection fraction 60%,0
+severe tricuspid regurgitation,0
+mild mitral regurgitation,0
+no endocarditis,0
+negative cytology for malignant cells,0
+blood cultures sent,0
+urine cultures sent,0
+pleural fluid cultures sent,0
+peritoneal fluid cultures sent,0
+no longer required vasopressors,48
+two sets of blood cultures drawn,48
+Gram-negative bacilli identified,48
+vancomycin discontinued,48
+Sphingobacterium multivorum identified,96
+resistant to ceftazidime,96
+resistant to TMP/SMX,96
+intermediate susceptibility to meropenem,96
+intermediate susceptibility to piperacillin/tazobactam,96
+cefepime switched to ciprofloxacin,96
+urine culture negative,96
+peritoneal fluid culture negative,96
+pleural fluid culture negative,96
+clinically stable for discharge,240
+discharged,240
+repeated blood cultures negative,120
+repeated urine cultures negative,120
+followed up 2 weeks,768
+followed up 4 weeks,1344
+clinically stable at follow-up,768
+clinically stable at follow-up,1344
+septic shock,0
+bacteraemia,0

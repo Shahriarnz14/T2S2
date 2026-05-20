@@ -1,0 +1,72 @@
+event,time
+56 years old,0
+male,0
+obese,0
+smoker,0
+occasional alcohol drinker,0
+presented to Primary Care center,-120
+oppressive holocranial headache,-120
+fever,-120
+hearing loss,-120
+vomiting,-120
+dysthermic sensation,-120
+preparation of roast pork,-120
+handling of roast pork,-120
+intake of roast pork,-120
+treatment with diazepam,-120
+treatment with metamizole,-120
+treatment with tramadol,-120
+treatment with metoclopramide,-120
+referred to Hospital Emergency Department,0
+persistent headache,0
+oxygen saturation 85%,0
+diaphoresis,0
+signs of meningeal irritation,0
+progressive state of agitation,0
+cranial computed tomography scan,0
+lumbar puncture,0
+cerebrospinal fluid cloudy-whitish appearance,0
+CSF bacteriological culture,0
+CSF cytochemical study,0
+blood culture collected,0
+white blood cell count 18.7 x10³/µL,0
+hemoglobin 15.2 g/dL,0
+platelet count 115 x10³/µL,0
+glucose 141 mg/dL,0
+creatinine 0.8 mg/dL,0
+lactate 15.7 mg/dL,0
+C-reactive protein 7 mg/dL,0
+procalcitonin 0.45 ng/mL,0
+CSF glucose <10 mg/dL,0
+CSF total protein 950 mg/dL,0
+"CSF 13,720 leukocytes/µL",0
+CSF 98% polymorphonuclear neutrophils,0
+Gram-positive diplococci observed,0
+admitted to ICU,0
+differential diagnosis of purulent meningitis,0
+differential diagnosis of septic encephalopathy,0
+dexamethasone 8 mg iv every 6 hours,0
+ampicillin initiated,0
+ceftriaxone initiated,0
+vancomycin initiated,0
+acyclovir initiated,0
+alpha-hemolytic streptococci isolated in CSF,24
+S. suis identified,24
+alpha-hemolytic streptococci isolated in blood,24
+antibiotic susceptibility to penicillin,24
+antibiotic susceptibility to cefotaxime,24
+antibiotic susceptibility to levofloxacin,24
+antibiotic susceptibility to vancomycin,24
+targeted treatment with cefotaxime initiated,24
+ICU admission,0
+referred to Internal Medicine Service,144
+hearing loss at admission,0
+inter-consultation with otorhinolaryngology,0
+audiometry performed,0
+complementary tests performed,0
+exacerbation of hearing loss,144
+appearance of tinnitus,144
+discharged,672
+treatment with amoxicillin/clavulanic acid,672
+scheduled follow-up,672
+no conflicts of interest,0

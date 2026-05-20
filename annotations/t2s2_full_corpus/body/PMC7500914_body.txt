@@ -1,0 +1,43 @@
+Background
+
+Coronavirus disease 2019 (COVID-19) is a novel virus that originally made its presence at the end of year 2019 in Wuhan, China, which quickly multiplied into a global pandemic [1]. As more research is being published involving the effects of acute respiratory syndrome coronavirus 2 (SARS-CoV-2), we are finding increasingly devastating effects on the pulmonary system. Symptoms of COVID-19 that are commonly described in hospitalized patients include fever, cough, shortness of breath, and fatigue. Other reports have also noted gastrointestinal symptoms such as nausea, vomiting, and diarrhea [2,3]. Testing for the presence of the virus is performed using an RT-PCR in vitro diagnostic test for the qualitative detection of RNA from SARS-CoV-2. Chest computerized tomography (CT) is then often used to identify and characterize the extent of disease, which typically reveals bilateral parenchymal pulmonary involvement with ground-glass opacification [3,4].
+
+Those infected by SARS-CoV-2 have reacted with significant immune responses, specifically a cytokine storm, resulting in acute respiratory distress syndrome (ARDS). A recent study had even revealed one patient who suffered a spontaneous pneumothorax during their course of COVID-19 infection which eventually resolved with chest tube placement [2]. In this case report, we present a patient who had a spontaneous pneumothorax that did not resolve with appropriate intervention, which initiated further investigation and revealed the development of a bronchopleural fistula in the presence of mucormycosis.
+
+Case report
+
+A 49-year-old male with no significant past medical history presented to emergency department for worsening fever, cough, and shortness of breath over 1 week. He was noted to be febrile with a temperature of 100.9˚F, tachycardic with heart rate of 94, and significantly hypoxic with a saturation of peripheral oxygen (SpO2) of 70% without oxygen. Chest X-ray revealed patchy opacities noted throughout the lungs concerning for viral pneumonia (Fig. 1). He was placed on nasal cannula oxygen supplementation at 5 L/min and his SpO2 improved to 92%-95%. Laboratory analysis noted a white blood cell count of 11.3 × 109/L, lactate dehydrogenase of 3,147 units/L, C-reactive protein of 265.9 mg/L, ferritin of 1,760 ng/mL and D-dimer of 124,802 ng/mL. Patient was admitted for acute hypoxic respiratory failure secondary to suspected COVID-19 virus infection. Real-time reverse transcriptase polymerase chain reaction test for SARS-CoV-2 RNA was ordered and returned positive.Fig. 1 Initial chest X-ray on presentation revealing typical SARS-CoV-2 pneumonia without any evidence of right upper lobe lesions.
+
+Fig 1
+
+Initial treatment included empiric antibiotics with ceftriaxone and azithromycin, low-weight-molecular heparin therapy with enoxaparin, a steroid course with dexamethasone, and antiviral therapy with remdesivir. Convalescent plasma therapy was also offered but the patient refused. The following day his inflammatory markers had dramatically increased and was subsequently started on a dose of tocilizumab, a humanized monoclonal antibody that suppresses the interleukin-6 receptor.
+
+The patient's clinical picture had been improving until 2 weeks into his course where he became acutely dyspneic after attempting to exercise in his room. He required advancement to a nonrebreather mask on 10-15 L/min of oxygen. Chest X-ray was ordered and noted a large right pneumothorax with mediastinal shift (Fig. 2). Interventional radiology was consulted for CT-guided chest tube placement. An 8.5-French pigtail catheter was inserted anteriorly and set on low, intermittent suction. Repeat chest X-ray showed persistent right pneumothorax. General surgery was consulted and placed a second 22-French chest tube. Chest X-ray showed only mildly improved right pneumothorax and patient was transferred to the intensive care unit for worsening respiratory status. Antibiotic therapy was broadened and immunosuppressive therapy was continued with dexamethasone. The chest tube was advanced to a 36-French size by general surgery. Subsequent CT chest noted a large air-filled bullous process in the posterior right upper lobe, suspicious for bronchopulmonary fistula (Fig. 3 and Fig. 4). The patient was intubated for impending respiratory failure.Fig. 2 Chest X-ray showing bilateral pneumonia with a persistent right pneumothorax and developing cavitary lesion in right upper lobe.
+
+Fig 2
+
+Fig. 3 Coronal view of CT chest confirming the cavitary lesion and persistent pneumonia despite the presence of 2 chest tubes.
+
+Fig 3
+
+Fig. 4 Axial view of CT chest revealing a persistent right pneumothorax and an air-filled bullous process with questionable fistula of the bronchi to this region.
+
+Fig 4
+
+Cardiothoracic surgery was consulted who recommended a right middle invasive thoracotomy for a right bronchopleural fistula repair with pleurodesis. A large bronchopleural fistula of the right upper lobe with associated necrotic empyema was documented intraoperatively. The affected area was repaired, resected, and intraoperative specimens were sent for pathological evaluation. Initial cultures were concerning for a fungal process with probable mucormycosis. The patient was started on amphotericin B.
+
+After 21 days of hospitalization, 7 days of mechanical ventilation, and 5 days postoperatively, the patient succumbed to worsening respiratory failure and septic shock despite maximum vasopressor and antimicrobial therapy. The patient's condition quickly progressed to marked bradycardia and subsequent asystole. Four days after patient expired, microbiological analysis of the intraoperative specimens returned positive for Rhizopus species.
+
+Discussion
+
+COVID-19 has proven to have potentially devastating effects on the respiratory system on both the microscopic and macroscopic level. Postmortem histologic findings have previously revealed significant alveolar damage with hyaline membrane formation and fibrin deposition [4,5]. There has also been evidence of intra-alveolar hemorrhage and bacterial proliferation. Historically, this is similar to the findings in the postmortem study that analyzed lung tissue specimens from patients in the 2003 SARS-CoV pandemic in Toronto [6]. These samples revealed similar pneumocyte involvement, but also noted patterns of endothelial injury with intravascular fibrin deposition, consistent with vascular involvement. The 2003 Toronto study also identified patients with pulmonary coinfections, all of which had a course of high-dose steroids during their hospital course. Specific organisms identified included Aspergillus and cytomegalovirus, similarly to our immunocompromised patient with mucormycosis.
+
+A bronchopleural fistula is a communication with the pleural space and bronchial tree that results in high morbidity and mortality. It is most commonly recognized as a postoperative complication of pulmonary resection; however, other commonly contributing factors include necrotizing pulmonary infection, persistent spontaneous pneumothorax, chemotherapy, and radiation therapy [7]. This patient did have a necrotizing pulmonary infection in the presence of mucormycosis, a rare pulmonary infection most often affecting immunocompromised hosts [8]. The hyphae are known to be angioinvasive, causing necrosis and thrombosis. The pathophysiology of mucormycosis also makes it difficult for antifungal agents to penetrate, making aggressive surgical debridement an essential step to treatment [8,9]. Given the gross findings of necrotic empyema identified intraoperatively, with subsequent cultures revealing mucormycosis, there is a high likelihood that the patient's immunocompromised state had contributed to the necrotizing infection and subsequent development of bronchopulmonary fistula.
+
+Conclusion
+
+In our experience, this is the first documented occurrence of bronchopulmonary fistula in a COVID-19 patient. Clinicians should be aware of this scenario and we anticipate that this will encourage further investigation into the pathophysiology of the virus, the inflammatory response on pulmonary tissue, and appropriateness of prescribing immunosuppressive therapy such as high-dose glucocorticoids and interleukin antagonists.
+
+Signed consent for a case report was obtained from the patient's legally authorized representative (LAR).
+
+Declaration of competing interest: None.

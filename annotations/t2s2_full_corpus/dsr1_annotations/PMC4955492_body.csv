@@ -1,0 +1,69 @@
+event,time
+10-year-old,0
+boy,0
+admitted to the hospital,0
+persistent fever,-504
+cough,-504
+weight loss,-504
+chest X-ray normal,-504
+"treatment for acute bronchitis prescribed (thiamphenicol, clavulanic acid, amoxicillin)",-504
+conscious,0
+respiratory distress,0
+dyspnoea,0
+polypnea (56 cycles/min),0
+heart rate 108 beats/min,0
+temperature 38.7°C,0
+hepatomegaly,0
+distended neck veins,0
+muffled heart sounds,0
+admitted to paediatric intensive care unit,0
+thoracoabdominal sonogram showed left liver lobe abscess,0
+chest and abdominal CT scan requested,0
+CT scan showed bilateral pleuropneumopathy,0
+diaphragmatic collection thru Larrey's aperture,0
+hepatosplenomegaly,0
+minor ascites,0
+amoebic serology normal,0
+"IV antibiotics (amoxicillin, clavulanic acid, gentamicin)",0
+pericardial effusion suspected,0
+mediastinal abscess suspected,0
+right mediastinal drainage,0
+evacuated 500ml greenish pus,0
+no improvement,0
+"antibiotic changed to ceftriaxone, metronidazole, gentamicin",0
+stabilized with blood transfusion (severe anemia),0
+no improvement after 3 days,72
+preoperative ASA class V,72
+thoracotomy,96
+pericardiectomy,96
+removed 2 litres pus from pericardium,96
+drains left in place,96
+febrile,120
+pus culture grew Staphylococcus aureus,120
+HIV serology positive,120
+gentamicin stopped,120
+ciprofloxacin started,120
+temperature subsided,216
+hemodynamic parameters improved,216
+persistent purulent drainage,216
+stable,312
+corticotherapy introduced,312
+drains removed,312
+chest radiograph showed bilateral lower lobe infiltrate,312
+mild cardiomegaly,312
+cardiac sonogram showed thickened pericardium,312
+no pericardial effusion,312
+no valvular anomaly,312
+discharged home,576
+per os ciprofloxacin,576
+iron treatment,576
+steroids stopped,576
+outpatient follow-up 1 week later,672
+outpatient follow-up 1 month later,2688
+HIV confirmation positive,2688
+CD4 count 14 cells/ml,2688
+antiretroviral drugs started,2688
+cotrimoxazole started,2688
+mother on antiretroviral treatment,2688
+no shortness of breath,0
+denies chest pain,0

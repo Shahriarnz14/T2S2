@@ -1,0 +1,70 @@
+event,time
+31 years old,0
+male,0
+victim of motor vehicle accident,-86400
+severe head injury,-86400
+cervical spine fracture,-86400
+spine fixed with plate and screw,-86400
+intubated for several weeks,-86400
+discharged from hospitalization,-86400
+paraplegic,-86400
+recurrent chest infections,-86400
+treated conservatively with antibiotics,-86400
+referred to cardiothoracic unit,-1440
+chest x-ray showed widened mediastinum,-1440
+hemoglobin 11.3 g/dL,-1440
+hematocrit 35%,-1440
+mean corpuscular volume 67.7 fL,-1440
+mean corpuscular hemoglobin 21.8 pg,-1440
+albumin 2.7 g/L,-1440
+creatinine 0.5 μmol/L,-1440
+Na 135 mmol/L,-1440
+erythrocyte sedimentation rate 93 mm/h,-1440
+CT revealed superior mediastinal collection,-1440
+chronic esophageal perforation,-1440
+swallowing test,-1440
+upper gastroesophageal endoscopy,-1440
+upper esophageal perforation,-1440
+erosion of cervical spine plate into esophagus,-1440
+multi-disciplinary discussion,-1440
+neck exploration through cervical incision,-1440
+plate removed,-1440
+perforation repaired with interposition muscle flap,-1440
+limited thoracotomy,-1440
+extensive pleural adhesions,-1440
+feeding jejunostomy tube created,-1440
+surgical site infection at cervical wound,168
+exploration and drainage,168
+antimicrobial therapy,168
+lengthy post-operative course,168
+admissions to ICU,168
+repeated episodes of sepsis,168
+required bronchoscopies,168
+exchanging tracheostomy,168
+developed acute surgical abdomen,168
+exploration and drainage of intra-abdominal abscesses,168
+recovered from abdominal abscess,168
+persistent status epilepticus,168
+cardiac arrest,168
+XDR-P. aeruginosa isolated from urinary tract,11760
+sepsis episode,11760
+XDR-P. aeruginosa grown from blood cultures,11760
+confirmed with MALDI-TOF,11760
+automated broth microdilution susceptibility testing,11760
+E-tests performed,11760
+extensive drug resistance pattern,11760
+WGS performed,11760
+genomic DNA prepared,11760
+Illumina HiSeq 4000 sequencing,11760
+genome assembly,11760
+MLST classified as ST357,11760
+genomic islands identified,11760
+multiple β-lactamase genes present,11760
+aminoglycoside resistance genes,11760
+fluoroquinolone resistance gene crpP,11760
+tetracycline resistance gene tet(A),11760
+efflux pump proteins detected,11760
+multiple type secretion system proteins,11760
+bacteriocins and invasions,11760
+phages identified,11760
+CRISPR-Cas systems present,11760

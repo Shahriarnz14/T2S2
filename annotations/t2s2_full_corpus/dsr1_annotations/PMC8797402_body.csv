@@ -1,0 +1,205 @@
+event,time
+51-year-old,0\
+male,0\
+admitted to the hospital,0\
+right chest pain,-1440\
+back pain,-1440\
+inactive condition,-1440\
+no family medical history,0\
+no other medical history,0\
+right lower pulmonary pseudotumor,-1440\
+wedge resection of right lower lobe,-17040\
+biopsy (needle aspiration),-17040\
+mass in lower lobe of right lung,-17040\
+"bone destruction of 7,8,9 thoracic vertebrae",-17040\
+suspected metastasis,-17040\
+multiple enlarged lymph nodes in right hilar,-17040\
+bilateral pleural hypertrophy,-17040\
+fibre cord signs in lower lobe of both lungs,-17040\
+lesions after resection of inflammatory pseudotumor,-17040\
+thoracic spine space diagnosis definite,0\
+previous conservative treatment invalid,0\
+general anesthesia,168\
+thoracic vertebral lesions removed,168\
+right lung lesions needle aspiration,168\
+acute and chronic purulent inflammations,168\
+inflammatory granulation,168\
+granuloma,168\
+tuberculosis not excluded,168\
+sputum culture negative,168\
+large amounts of neutrophils,168\
+lymphocytes,168\
+monocytes,168\
+scattered eosinophils,168\
+multinucleated giant-cell infiltration,168\
+fibrinous exudation,168\
+organization in alveolar cavity,168\
+significant focal necrosis,168\
+neutrophil aggregation,168\
+abscesses,168\
+non-caseating necrosis,168\
+pathological manifestations not support tuberculosis,168\
+increased plasma cells,168\
+myeloma not excluded,168\
+sudden high fever 40°C,168\
+antibiotics administered,168\
+antipyretic treatment,168\
+symptoms improved,168\
+left upper arm pain,408\
+CT imaging,408\
+destruction in 8th to 10th ribs,408\
+suspected malignant tumors,408\
+small pleural effusion on right chest,408\
+solitary nodule in left upper lobe,408\
+suspected malignant tumors,408\
+striped high-density shadows in right lower lobe,408\
+inflammatory lesions,408\
+multiple enlarged lymph nodes in mediastinum,408\
+malignant bone tumors in left humerus suspected,408\
+left humeral tumor lesion removal,576\
+chiseled bone cortex,576\
+intramedullary curettage,576\
+pathological examination,576\
+osteoma-like hyperplasia,576\
+hyperplasia with hemorrhaging,576\
+inflammatory granulation tissues,576\
+granulomas formed,576\
+postoperative culture no bacterial growth,576\
+postoperative CT scan,864\
+peripheral lung cancer suspected,864\
+inflammatory pseudotumor suspected,864\
+round soft tissue density mass in right lower lobe,864\
+enhanced signals,864\
+lesion related to thoracic 7-9 vertebrae,864\
+pain caused by right lower lobe lesion,864\
+right lower lobe resection attempted,936\
+general anesthesia,936\
+extensive adhesions in thoracic cavity,936\
+difficult blunt separation,936\
+significant bleeding during dissection,936\
+resection stopped,936\
+chest cavity closed,936\
+suspected lung inflammatory pseudotumor,936\
+postoperative recovery,936\
+discharged after incision healed,936\
+readmitted to hospital,1488\
+chest CT scan,1488\
+left upper lobe nodules enlarged,1488\
+patched high-density shadows on right side,1488\
+diagnosed with lung inflammatory pseudotumor,1488\
+benign disease,1488\
+"lesions involved lungs, thoracic vertebrae, left humerus",1488\
+obvious bone destruction,1488\
+malignant tendency,1488\
+severe pain in left humerus,1488\
+radiation therapy commenced,1584\
+total dose 20 Gy/10 F,1584\
+chest CT re-examination,1752\
+left upper lobe nodule smaller,1752\
+right lung lamella smaller,1752\
+shadow lighter,1752\
+prednisone acetate tablets administered,1728\
+30 mg/day for 6 weeks,1728\
+gradually reduced,1728\
+percutaneous puncture biopsy,2088\
+argon-helium knife ablation,2088\
+CT-guided puncture needle,2088\
+2 cycles of treatment,2088\
+chronic inflammation of fibrous tissues,2088\
+inflammatory granulation tissue,2088\
+compound cyclophosphamide tablets,4320\
+50 mg/day for 2 weeks,4320\
+discontinued due to bone marrow suppression,4320\
+hemoglobin 91 g/L,4320\
+hemoglobin 71 g/L,4320\
+discharged after symptom improvement,4320\
+no palpable swelling of superficial lymph nodes,4320\
+no gong sounds in lungs,4320\
+readmitted to hospital,4680\
+postoperative inflammatory pseudotumor in thoracic spine,4680\
+postoperative inflammatory pseudotumor in left humerus,4680\
+lung infection,4680\
+perianal abscess,4680\
+chest CT imaging,4680\
+tumor volume in left upper lobe larger,4680\
+tumor volume in right lower lobe larger,4680\
+multiple patched high-density shadows smaller,4680\
+interstitial lesions absorbed,4680\
+bilateral pleural effusion reduced,4680\
+3-cm perianal mass,4680\
+perianal mass affecting defecation,4680\
+incision and drainage of perianal abscess,4800\
+sacral anesthesia,4800\
+acute purulent inflammation with necrosis,4800\
+granulation tissues formed,4800\
+normal bowel function,4800\
+wound granulation fresh,4800\
+transferred to Oncology Department,4800\
+sputum culture positive for Klebsiella pneumoniae,4800\
+levofloxacin anti-infective treatment,4800\
+10 days of treatment,4800\
+routine nutritional support,4800\
+anemia treatment,4800\
+anti-inflammation therapies,4800\
+sputum culture negative,4800\
+symptoms of fatigue improved,4800\
+shortness of breath improved,4800\
+discharged,5520\
+readmitted for 4th time,5520\
+severe anemia,5520\
+red-blood cell transfusion,5520\
+nutritional support,5520\
+symptomatic treatment,5520\
+anemia not improved after 2 months,5520\
+recombinant human granulocyte colony stimulating factor,5520\
+anti-infection treatment,5520\
+phlegm treatment,5520\
+pulmonary infection during hospitalization,5520\
+anemia improved,5520\
+discharged,7296\
+left humerus pain aggravated,16872\
+readmitted for 5th time,16872\
+MRI left upper arm,16872\
+chronic osteomyelitis suspected,16872\
+peripheral inflammatory pseudotumor with infection,16872\
+routine antibiotic treatment,16872\
+poor effect,16872\
+general anesthesia,17088\
+debridement of left upper-arm osteomyelitis,17088\
+debridement of soft tissue infection,17088\
+inflammatory granulation tissues,17088\
+granuloma,17088\
+purulent necrosis,17088\
+supportive treatments,17088\
+immunity regulation,17088\
+pain relief,17088\
+water and electrolyte balance,17088\
+lung infection,17088\
+urinary tract infection,17088\
+antibiotic therapy,17088\
+discharged after improvement,17088\
+readmitted for 6th time,17928\
+breathing difficulties,17928\
+unconsciousness,17928\
+severe pneumonia,17928\
+septic shock,17928\
+multiple organ dysfunction syndromes,17928\
+metabolic acidosis,17928\
+type II respiratory failure,17928\
+osteomyelitis of left humerus,17928\
+soft tissue infection,17928\
+urinary system infection,17928\
+hypoalbuminemia,17928\
+incomplete paralysis after thoracic spine surgery,17928\
+postoperative right pulmonary pseudotumor,17928\
+chest tightness,17928\
+intensive care unit admission,17928\
+anti-infection treatment,17928\
+anti-inflammatory treatment,17928\
+expectorant treatment,17928\
+electrolyte imbalance treatment,17928\
+no significant improvement,17928\
+active treatment ceased,17928\
+clinical death,17928\
+septic shock as cause of death,17928\
+no autopsy performed,17928

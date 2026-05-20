@@ -1,0 +1,81 @@
+event,time
+44 year old,0
+African-American,0
+woman,0
+presented to the Hematology/Oncology clinic,0
+HTLV associated T-cell lymphoma/leukemia,-105120
+allogenic bone marrow transplant,-105120
+disease relapse,-105120
+graft failure,-105120
+blood transfusion dependence,-105120
+disseminated aspergillosis,-720
+skin involvement,-720
+lung involvement,-720
+oral posaconazole,-720
+high dose micafungin,-720
+left tunneled internal jugular catheter,-720
+oral acyclovir,0
+oral levofloxacin,0
+monthly inhaled pentamidine,-720
+weakness,0
+fatigue,0
+hypotensive,0
+83/57 mmHg,0
+tachycardic,0
+117 bpm,0
+afebrile,0
+non-tender ulceration,0
+2 cm diameter,0
+right distal leg,0
+no erythema,0
+no discharge,0
+no induration,0
+left internal jugular tunneled catheter,0
+catheter exit site no erythema,0
+catheter exit site no drainage,0
+admitted to the intensive care unit,0
+sepsis,0
+blood cultures obtained,0
+central line,0
+periphery,0
+empiric cefepime,0
+empiric vancomycin,0
+leukopenia,0
+2.0 K/uL,0
+absolute neutrophil count 0.04 K/uL,0
+hemoglobin 10.2 g/dL,0
+thrombocytopenia,0
+platelet count 25 K/uL,0
+creatinine 1.24 mg/dL,0
+AST 505 U/L,0
+ALT 477 U/L,0
+chest computed tomography,0
+bilateral perihilar nodules,0
+pulmonary nodules,0
+hypotension worsened,24
+norepinephrine infusion,24
+cefepime to meropenem,24
+vancomycin continued,24
+transaminitis,24
+intravenous isavuconazole,24
+intravenous micafungin continued,24
+blood cultures grew gram-positive rods,48
+Cellulosimicrobium sp.,48
+MALDI-TOF,48
+Benzyl penicillin MIC 0.012 ug/mL,48
+levofloxacin MIC >32 ug/mL,48
+vancomycin MIC 0.38 ug/mL,48
+tunneled catheter removed,48
+catheter tip grew Cellulosimicrobium sp.,48
+clinical improvement,72
+resolution of hypotension,72
+resolution of acute renal failure,72
+resolution of transaminitis,72
+meropenem discontinued,72
+oral levofloxacin resumed,72
+repeat blood cultures negative,96
+discharged,96
+two-week course of intravenous vancomycin,96
+readmitted,264
+pneumonia,264
+death,264

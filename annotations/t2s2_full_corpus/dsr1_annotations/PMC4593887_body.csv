@@ -1,0 +1,93 @@
+event,time
+58 years old,0
+Hispanic,0
+female,0
+admitted to the hospital,0
+past medical history of trigeminal neuralgia,0
+past medical history of hyperlipidemia,0
+upper respiratory tract infection,-168
+cough,-168
+occasional shortness of breath,-168
+low-grade fevers,-168
+decadron 40 mg intramuscular,-168
+prescription for antibiotics,-168
+worsened shortness of breath,-24
+worsened cough,-24
+acute airway obstruction,-24
+acute epiglottitis,-24
+intubated,-24
+transferred to intensive care unit,-24
+hypotensive,-24
+hypoxemic,-24
+ventilator support,-24
+vasopressors,-24
+chest x-ray with bilateral peri-hilar consolidation and infiltrates,-24
+CT chest with diffuse bilateral interstitial and alveolar infiltrates,-24
+CT neck with diffuse swelling of soft tissues,-24
+loss of pharyngeal fat planes,-24
+marked thickening of retropharyngeal soft tissue,-24
+no loculated fluid collections,-24
+minimal cervical adenopathy,-24
+leukocytosis,-24
+borderline hematocrit,-24
+normal platelet count,-24
+normal sodium,-24
+normal renal function,-24
+normal ALT,-24
+normal AST,-24
+significant acidosis,-24
+negative blood cultures,-24
+remained intubated in ICU for one week,0
+endoscopic evaluation on admission,0
+started on intravenous solumedrol 40 mg q8h,0
+chest x-rays with bilateral infiltrates,0
+negative infection workups,0
+serology negative for influenza,0
+serology negative for parainfluenza,0
+serology negative for Brucella,0
+serology negative for tuberculosis,0
+serology negative for Bordetella pertussis,0
+serology negative for Mycoplasma,0
+serology negative for Legionella,0
+serology negative for Chlamydia pneumoniae,0
+placed on broad-spectrum antibiotics,0
+started on fluconazole 400 mg daily,0
+extubated,240
+transferred to medical floor,240
+recurrent respiratory distress,264
+reintubated,264
+ICU readmission,264
+bronchoscopy without abnormalities,264
+bronchoalveolar lavage normal,264
+lung biopsy normal,264
+lower GI hemorrhage,264
+upper endoscopy non-contributory,264
+no biopsy during upper endoscopy,264
+planned colonoscopy not performed,264
+hypotension,264
+KUB showing massive pneumoperitoneum,264
+emergent laparotomy,264
+small bowel resection,264
+right hemicolectomy,264
+omental tissue resection,264
+pathology showing invasive fungal elements,264
+vascular invasion,264
+fungal morphology consistent with Mucormycosis,264
+started on liposomal amphotericin B,264
+started on micafungin,264
+fluconazole discontinued,264
+additional intestinal resections,264
+near complete intestinal infarction,330
+progressive multiorgan failure,330
+ongoing shock,330
+diffuse intestinal ischemia,330
+DNR status,330
+withdrawal of care,330
+deceased,330
+no evidence of abscess,-24
+denies chest pain,-168
+no shortness of breath initially,-168
+no history of diabetes,0
+no history of malignancies,0
+no history of organ transplant,0
+no recent antibiotic use prior to admission,-168

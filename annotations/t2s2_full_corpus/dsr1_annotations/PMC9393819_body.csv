@@ -1,0 +1,71 @@
+event,time
+83 years old,0
+male,0
+type 2 diabetes,0
+hypertension,0
+atrial fibrillation,0
+myocardial infarction,0
+admitted to intensive care department,0
+secondary laparotomic surgery,0
+complications from primary low anterior resection,0
+rectum carcinoma,0
+gas and fecal leakage at resection site,-48
+perforations in colon transversus closed,0
+sacral abscess evacuated/drained,0
+aspirated during intubation,0
+intensive monitoring,0
+arriving at ICU under sedation,0
+hemodynamically stable,0
+respiratory stable,0
+baseline sublingual microcirculatory measurement,0
+condition deteriorated,24
+shock,24
+cardiopulmonary resuscitation,24
+cardiac arrest,24
+hypoxia,24
+complete atelectasis of right lung,24
+systemic hemodynamic variables stabilized,24
+nor-adrenaline administration,24
+adrenaline administration,24
+vasoactive-inotropic score 99,24
+MAP >65 mm Hg,24
+rising serum lactate up to 9.2 mmol/L,24
+declining renal function,24
+urine output 17 mL/24 h,24
+development of sepsis,24
+CRRT with CytoSorb hemoadsorber,24
+microcirculatory measurement 24 h later,24
+microcirculatory measurement at 36 h,36
+microcirculatory measurement at 48 h,48
+microcirculatory measurement at 120 h,120
+2 hemoadsorbers used,48
+lactate levels decreased from 9.2 to 2.2 mmol/L,48
+VIS decreased by 43%,48
+lactate levels decreased by 76%,72
+VIS decreased by 87%,72
+reduced TVD,0
+reduced perfused vessel density,0
+reduced MFI,0
+heterogeneous plugged capillaries,0
+high levels of lactate,0
+microcirculatory parameters improved within first 12 h of CytoSorb,36
+TVD increased,36
+microcirculatory flow index normalized,36
+reduction in lactate levels,36
+microcirculatory images at 36 h showed brisk flow,36
+no plugged vessels,36
+improved clinical condition,36
+fluid ultrafiltration initiated,72
+aggressive fluid resuscitation prior,72
+progressive decline in TVD,72
+de-escalation phase,144
+cessation of CytoSorb therapy,144
+ultrafiltration initiated,144
+blood transfusion administered,144
+increase in TVD,144
+patient remained stable,144
+regained consciousness,144
+returned to surgery ward,456
+total hospital stay of 59 days,1416
+discharged to nursing facility,1416
+normalized renal function,1416

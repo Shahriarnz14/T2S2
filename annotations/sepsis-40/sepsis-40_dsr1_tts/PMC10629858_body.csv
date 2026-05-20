@@ -1,0 +1,78 @@
+event,time
+57 years old,0
+male,0
+admitted to the hospital,0
+abdominal distension,0
+constipation,0
+vomiting,0
+10-kg weight loss,0
+vitally stable,0
+peripheral lymphadenopathy,0
+distended abdomen,0
+positive shifting dullness,0
+computed tomography scan of abdomen,0
+mural thickening of terminal ileum,0
+enlarged mesenteric lymph nodes,0
+mesenteric fat stranding,0
+intra-abdominal free fluid,0
+abdominal paracentesis,0
+atypically large lymphocytes,0
+high-grade lymphoma,0
+flow cytometry,0
+abnormal CD4/CD8 double-negative T-cell population,0
+cervical lymph node biopsy,0
+high-grade peripheral T-cell lymphoma (PTCL),0
+bone marrow examination,0
+no involvement of T-cell NHL,0
+stage IV lymphoma,0
+dexamethasone,0
+tumor-lysis syndrome precautions,0
+clinical deterioration,0
+transfer to medical ICU,0
+severe sepsis,0
+antibiotics,0
+antifungals,0
+ICU care for 1 week,0
+transferred to national cancer center,0
+EPOCH chemotherapy protocol,0
+etoposide,0
+prednisone,0
+vincristine sulfate,0
+cyclophosphamide,0
+doxorubicin hydrochloride,0
+CNS prophylaxis,0
+intrathecal methotrexate,0
+assessment after four cycles,24
+complete metabolic remission,24
+PET/CT,24
+multiple febrile neutropenia episodes,24
+recurrent bacteremia,24
+generalized weakness,-24
+no sensory changes,-24
+no clear fatigability,-24
+decreased power in proximal muscles,-24
+decreased power in distal muscles,-24
+normal insertional activity,-24
+no spontaneous activity,-24
+normal motor unit action potential,-24
+poor recruitment effects,-24
+repetitive nerve stimulation (30–40 Hz),-24
+significant incremental response,-24
+presynaptic neuromuscular junction disorder,-24
+LEMS,-24
+IV immunoglobulins for 5 days,-24
+improvement of motor function,-24
+ambulation,-24
+autologous bone marrow transplant,-24
+recurrent bacteremia,-24
+sepsis,-24
+re-admitted to medical ICU,-144
+severe sepsis,-144
+multiorgan failure,-144
+passed away,-4320
+lepromatous leprosy,-1488
+skin biopsy,-1488
+rifampicin/clofazimine/dapsone treatment,-1488
+diagnosed with NHL,-1488
+VGCC antibodies requested,-24
+technical issues (not done),-24

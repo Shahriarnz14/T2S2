@@ -1,0 +1,99 @@
+event,time
+63-year old,0
+man,0
+history of smoking,0
+hypertension,0
+vascular disease,0
+T3 (satellites in same lobe),0
+"N3 (1R, 1L, 2R, 2L, 4R, 4L, 7, 10R)",0
+M0,0
+poorly differentiated adenocarcinoma,0
+right upper lobe,0
+stadium IIIB,0
+concurrent chemoradiation,0
+3 courses carboplatin/etoposide chemotherapy,0
+60 Gy radiation therapy,0
+30 fractions,0
+4-dimensional volumetric-modulated arc therapy technique,0
+mean lung dose 19.3 Gy,0
+mean heart dose 10.8 Gy,0
+maximal dose to mediastinal structures 69.2 Gy,0
+dysphagia grade 3,-2160
+weight loss,-2160
+gastroscopy,-2160
+persistent complaints,-2160
+radiation esophagitis,-2160
+stenosis,-2160
+nasogastric tube placed,-2160
+tube feeding,-2160
+presented at emergency room,-1440
+sepsis,-1440
+acute dyspnea,-1440
+right sided thoracic pain,-1440
+reduced right sided airflow,-1440
+tachycardia (155 bpm),-1440
+hypotension (92/58 mm Hg),-1440
+saturation 85%,-1440
+C-reactive protein 348 mg/L,-1440
+leukocytosis 24.8 × 109/L,-1440
+chest x-ray showed atelectasis,-1440
+right sided pleural effusion,-1440
+CT scan showed mediastinal air configuration 3.5 cm,-1440
+possible continuation with right main stem bronchus,-1440
+admitted to intensive care unit,-1440
+acute respiratory failure,-1440
+pneumonia,-1440
+empyema,-1440
+noninvasive ventilation,-1440
+intravenous broad-spectrum antibiotics,-1440
+fluid resuscitation,-1440
+bronchoscopy revealed bronchopleural fistula 2 cm,-1440
+right intermediate bronchus,-1440
+20 French chest tube placed,-1440
+drainage of empyema,-1440
+repeated CT scan after 10 days,-240
+decrease of empyema,-240
+decrease of consolidations,-240
+mediastinal air configuration unchanged,-240
+no signs of cancer recurrence,-240
+multidisciplinary consultation,-240
+decision to optimize patient’s condition,-240
+enteral feeding,-240
+antibiotics to treat intrapulmonary consolidations,-240
+surgical coverage of fistula with latissimus dorsi flap,-240
+no longer required respiratory support,-240
+no fever,-240
+low infection parameters,-240
+better nutritional status,-240
+operation performed under general anesthesia,0
+double lumen tube for ventilation,0
+latissimus dorsi muscle flap harvested,0
+thoracotomy in fifth intercostal space,0
+lung completely adhesive to thoracic wall,0
+extensive inflammation,0
+fibrosis of mediastinum,0
+salvage pneumonectomy considered,0
+deemed unfeasible,0
+impossibility to mobilize main stem bronchus,0
+pulmonary artery embedded in fibrosis,0
+pedicled latissimus dorsi flap fixated dorsally,0
+coverage of defect,0
+insignificant air leak,0
+bronchoscopy showed full coverage,0
+28 French intrathoracic chest tube placed,0
+lung reinsufflated,0
+no signs of air leakage,0
+wound closed,0
+recovered well,+144
+transferred to surgical ward,+144
+limited air leakage persisted,+192
+drain removed,+240
+dismissed to rehabilitation center,+360
+readmitted,+1680
+hemoptysis,+1680
+pneumonia,+1680
+anemia,+1680
+bronchoscopy showed large defect,+1680
+no additional surgical options,+1680
+palliative care started,+1680
+died,+2520

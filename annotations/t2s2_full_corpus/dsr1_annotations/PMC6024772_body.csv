@@ -1,0 +1,90 @@
+event,time
+85 years old,0
+male,0
+admitted to the hospital,0
+melena,-3600
+weakness,-3600
+dizziness,-3600
+lower abdominal aortic dissecting aneurysm,-23760
+right common iliac arterial pseudoaneurysm,-23760
+lower abdominal aorta–common iliac artery bifurcated stent implantation,-23760
+melena,-2400
+tiredness,-2400
+dizziness,-2400
+hemoglobin decline (11.5 to 7.0 g/dL),-2400
+superficial gastritis,-2400
+aspirin-induced mucosal injury,-2400
+aspirin discontinuation,-2400
+blood transfusion,-2400
+proton pump inhibitors,-2400
+hemoglobin level 7.8 g/dL,-2400
+progressive fatigue,-1440
+loss of appetite,-1440
+weight loss,-1440
+intermittent palpitation,-1440
+intermittent fever,-1440
+leukocytosis,-1440
+anemia (hemoglobin 7.8 g/dL),-1440
+pneumonia diagnosis,-1440
+antibiotics,-1440
+right back pain,-336
+right knee movement restriction,-336
+right leg swelling,-336
+pale appearance,0
+skinny appearance,0
+body temperature 38.2°C,0
+pulse rate 96/min,0
+respiratory rate 18/min,0
+blood pressure 120/96 mmHg,0
+soft abdomen,0
+nontender abdomen,0
+no palpable masses,0
+normal bowel sounds,0
+severe anemia (hemoglobin 5.8 g/dL),0
+white blood cell count 8130/mm3,0
+granulocytes 82.3%,0
+blood transfusion,0
+antibiotics,0
+CT gas shadow in right external iliac artery,0
+CT gas shadow around lower abdominal aorta and common iliac artery,0
+thrombosis in right common iliac artery,0
+thrombosis in right external iliac artery,0
+thrombosis in right common iliac vein,0
+encapsulated fluid around right psoas,0
+SAEF diagnosis,0
+duodenoscopy fistula in third part of duodenum,0
+open surgery with extraanatomic bypass,24
+left axillofemoral bypass graft reconstruction,24
+exploratory laparotomy,24
+aortic stent graft excision,24
+infrarenal abdominal aortic suture,24
+left common iliac artery ligation,24
+extensive surgical debridement,24
+retroperitoneal abscess resolution and drainage,24
+duodenal defect repair,24
+jejunal feeding tube placement,24
+operation time 7 hours,24
+ICU transfer,24
+broad-spectrum antibiotics (imipenem/cilastatin),24
+multiorgan function monitoring,24
+Enterococcus faecium growth,240
+Candida albicans growth,240
+vancomycin,240
+fluconazole,240
+hospital-acquired pneumonia,240
+bilateral pleural effusion,240
+heart failure,240
+"wide-spectrum antibiotics (imipenem/cilastatin, cefoperazone/sulbactam)",240
+fluid restriction,240
+progressive abdominal distension,360
+partial small-bowel obstruction,360
+postoperative intestinal adhesions,360
+fasting,360
+parenteral nutrition,360
+gastrointestinal decompression,360
+gastric acid secretion inhibition,360
+oral paraffin fluid,360
+enema,360
+recovery,720
+no recurrent infection,10800
+no anemia,10800

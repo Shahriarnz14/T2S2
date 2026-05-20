@@ -1,0 +1,57 @@
+event,time
+79 years old,0
+female,0
+hypertension,0
+severe aortic stenosis,0
+chronic heart failure,0
+elective transcatheter aortic valve replacement (TAVR),0
+TAVR with 26 mm CoreValve™ performed under general anesthesia,0
+temporary transvenous pacing (TVP) wires placed in right ventricle (RV),0
+TVP wires placed through left common femoral vein,0
+transferred to Intensive Care Unit (ICU),0
+extubated,0
+stable condition,0
+"temporary pacemaker set as VVI, rate 50 beats/min, threshold 10 mA",0
+two-dimensional transthoracic echocardiography (TTE) on postoperative day (POD) 1,24
+TTE unremarkable,24
+decision to remove pacer wires,24
+removal of pacer wires,24.5
+patient became diaphoretic,24.5
+hypotensive (BP 40/25 mmHg),24.5
+resuscitated with intravenous fluid boluses,24.5
+norepinephrine drip started,24.5
+BP increased to 100/60 mmHg,24.5
+stat TTE performed at bedside,24.5
+moderate pericardial effusion around RV/right atrium,24.5
+excessive respiratory variation of mitral inflow velocities,24.5
+mild RV collapse during diastole,24.5
+cardiac tamponade physiology,24.5
+emergency pericardiocentesis,24.5
+180 ml sanguineous fluid drained,24.5
+pericardial drain left in place,24.5
+presumed diagnosis of RV rupture by temporary pacing wires,24.5
+patient remained stable on POD 3,72
+draining minimal fluid (15 ml/24h),72
+repeat TTE showed no new pericardial effusion,72
+decision to remove pericardial drain,72
+removal of pericardial drain,72.33
+patient developed acute symptoms of diaphoresis,72.33
+hemodynamically unstable,72.33
+emergent TTE revealed reaccumulation of pericardial fluid,72.33
+another pericardiocentesis,72.33
+200 ml frank blood drained,72.33
+coronary angiogram revealed no obstruction,72.33
+aortic root aortogram showed no leakage or tear,72.33
+transesophageal echocardiography confirmed good valve function,72.33
+transferred back to ICU,72.33
+plan to continue conservative management,72.33
+drain left in place for 72 hours,72.33
+patient remained stable,72.33
+follow-up TTE,168
+computed tomography of chest negative for fluid reaccumulation,168
+pericardial catheter clamped on POD 7,168
+TTE performed 2 hours post-clamping,170
+no accumulation of pericardial fluid,170
+drain removed,170
+vital signs monitored continuously for 4 hours,170
+transferred from ICU to step-down after 24 hours,192

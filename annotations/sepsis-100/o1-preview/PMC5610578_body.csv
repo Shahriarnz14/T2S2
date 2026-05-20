@@ -1,0 +1,90 @@
+event,time
+69-year-old man ,0.0
+male ,0.0
+Child–Pugh class C cirrhosis ,0.0
+known decompensated liver disease ,0.0
+presented to the Emergency department ,0.0
+slipped on wet grass ,-1.0
+fell on his left side ,-1.0
+Glasgow Coma Score 15/15 ,0.0
+pulse rate 78/min ,0.0
+respiratory rate 13/min ,0.0
+blood pressure 113/54 mm Hg ,0.0
+SpO2 100% in air ,0.0
+left hip tenderness ,0.0
+no ecchymosis to the abdomen ,0.0
+no ecchymosis to flank ,0.0
+no ecchymosis to thigh ,0.0
+18 g intravenous cannula inserted ,0.5
+warmed Hartmann's one litre infusion commenced ,0.5
+initial blood tests ,1.0
+pH 7.271 ,1.0
+base excess minus 7.3 ,1.0
+PT 18.2 ,1.0
+INR 1.5 ,1.0
+APTT ratio 1.42 ,1.0
+platelets 73 ,1.0
+bilirubin 63 mmol/l ,1.0
+haemoglobin 124 g/l ,1.0
+radiograph of pelvis ,1.0
+undisplaced fracture of his left acetabulum of both the anterior and posterior columns ,1.0
+referred to the Orthopaedic on-call team after an initial delay ,1.5
+blood pressure dropped to 75/51 mm Hg ,2.0
+tachycardia ,2.0
+serum lactate 9 mmol/l ,2.0
+FAST examination ,2.0
+intraabdominal fluid ,2.0
+became unwell ,2.0
+treated for sepsis ,2.0
+"intensive care, orthopaedic and general registrar attended the patient ",2.0
+pH 7.227 ,2.0
+base excess −17.9 ,2.0
+serum lactate 16.3 mmol/l ,2.0
+haemoglobin 75 g/l ,2.0
+arterial blood pressure 90/60 mm Hg ,2.0
+pulse rate 90/min ,2.0
+left lower abdominal quadrant swollen ,2.0
+upper thigh swollen ,2.0
+ecchymosis of left lower abdominal quadrant ,2.0
+ecchymosis of upper thigh ,2.0
+diagnosis of haemorrhagic shock ,2.0
+massive transfusion pathway activated ,2.0
+pelvic binder in place but not tightened ,2.0
+noradrenaline infusion to maintain MAP > 65 mm Hg ,3.0
+transfused 4 units of blood ,3.0
+transfused 4 units of FFP ,3.0
+transfused 2 adult therapeutic doses of platelets ,3.0
+transfused 10 units of cryoprecipitate ,3.0
+CT scan deemed necessary for diagnosis and management planning ,3.0
+on-call radiology team contacted ,3.0
+vascular surgeons contacted ,3.0
+CT abdomen performed ,4.0
+CT abdomen confirmed fracture of the left acetabulum ,4.0
+significant haematoma on left pelvic sidewall adjacent to the fracture ,4.0
+8 mm enhancing nodule suggestive of internal iliac artery pseudoaneurysm ,4.0
+ill-defined blush of contrast within the haematoma ,4.0
+extraperitoneal haematoma inseparable from the bladder ,4.0
+cirrhotic liver ,4.0
+incidental 6.7 cm infrarenal aortic aneurysm ,4.0
+transferred to the intensive care unit ,4.0
+further stabilization ,4.0
+invasive cardiovascular monitoring ,4.0
+taken to the radiology suite ,24.0
+CT angiogram performed ,24.0
+CT angiogram demonstrated no arterial bleed ,24.0
+discussed with the vascular team ,26.0
+recommended for prophylactic embolization ,26.0
+gelfoam embolization of anterior and posterior division segmental branches of the left internal iliac artery ,48.0
+consultation with regional pelvic surgeon ,50.0
+10 lb skeletal traction applied ,50.0
+transferred to the orthopaedic ward ,124.0
+complications due to coagulopathic state ,125.0
+developed uncontrollable bleeding from pin site ,125.0
+skeletal traction needed removal ,125.0
+continuous pressure applied to the wound ,125.0
+transferred to gastroenterology after orthopaedic management due to severity of liver disease ,130.0
+developed end stage liver failure ,1200.0
+developed hepatic encephalopathy ,1200.0
+passed away on the ward ,1224.0
+died on 30 January 2017 ,1224.0
+cause of death was chronic liver disease ,1224.0

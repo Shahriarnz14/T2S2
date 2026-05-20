@@ -1,0 +1,64 @@
+event,time
+75 years old,0
+male,0
+admitted to the hospital,0
+general condition quickly deteriorated,-72 (assuming oral treatment started a few days before admission)
+high fever,-72 (onset with initial presentation)
+cough,-72
+sore throat,-72
+upper respiratory tract infection,-72
+dyspnea,-24 (emergency presentation shortly before admission)
+mental fog,-24
+blood pressure 140/100 mmHg,0
+pulse 109/min,0
+temperature 38.4°C,0
+drowsiness,0
+PA chest x-ray normal,0
+Thorax CT normal,0
+PaO2:30 mmHg,0
+PaCO2:60 mmHg,0
+pH:7.27,0
+FiO2 40%,0
+rapid-sequence intubation,0
+mechanical ventilation initiated (AC mode),0
+fever resolved,24 (response to antibiotics by first day)
+leukocytosis 23000/μL,0
+CRP 50 mg/L,0
+ventilator mode changed to SIMV + PS,24
+tidal volume 550 mL,24
+respiratory rate 10/min,24
+FiO2 0.4–0.6,24
+PEEP 5 mmHg,24
+PS 15 mmHg,24
+trigger 2 L/min,24
+PS and rate decreased,48–72 (next two days)
+ventilator mode changed to PSV (8 mmHg PS),72
+blood gases normalized,72
+extubated,72
+non-invasive ventilation (NIV),72
+PaCO2 increased,96 (approx. 4 days post-admission)
+reintubated,96
+neurology consultation,96
+no spontaneous respiratory activity,96
+bilateral hemiptosis,96
+restricted eye movements,96
+history of weakness,-4320 (5 months ago)
+inability,-4320
+easy exhaustibility,-4320
+occasional diplopia,-4320
+chewing difficulty,-4320
+prior COPD diagnosis,-1440 (5 months ago)
+COPD treatment discontinued,-1440
+neostigmine test administered,96
+spontaneous respiratory activity,96.25 (15 min post-neostigmine)
+tidal volume increased (200 to 330 mL/m),96.25
+spontaneous activity stopped,96.75 (45 min post-neostigmine)
+electromyoneurography normal,96.75
+AChR Ab 205 nmol/L,96.75
+MG diagnosis confirmed,96.75
+pyridostigmine bromide 180 mg/day,96.75
+IVIG 0.4 mg/kg/day for 5 days,96.75
+successful weaning,120 (5 days post-treatment)
+azathioprine 100 mg/day added,120
+discharged,120
+outpatient follow-up,120

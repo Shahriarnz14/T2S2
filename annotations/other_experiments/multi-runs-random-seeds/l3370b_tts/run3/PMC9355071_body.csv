@@ -1,0 +1,61 @@
+event,time
+ 46 years old ,0
+     male ,0
+     ulcerative colitis ,0
+     malaise ,-72
+     fever ,-72
+     loss of appetite ,-72
+     admission to the hospital ,0
+     blood pressure 124/46 mmHg ,0
+     heart rate 122 beats per min ,0
+     SpO2 98% ,0
+     respiratory rate 16/min ,0
+     body temperature 40.2°C ,0
+     alert ,0
+     chills ,0
+     nausea ,0
+     cardiac arrest ,0
+     chest compression ,0
+     tracheal intubation ,0
+     ventricular fibrillation ,0
+     defibrillation ,0
+     adrenaline administration ,0
+     Brugada syndrome ,0
+     coved-type ST elevation in V1 and V2 ,0
+     hypercalcemia ,0
+     serum calcium 14.8 mg/dL ,0
+     hypotension ,12
+     septic shock ,12
+     computed tomography scan ,12
+     lactate level increase ,12
+     white blood cell count increase ,12
+     procalcitonin level increase ,12
+     tazobactam-piperacillin administration ,12
+     vasopressors administration ,12
+     extubation ,48
+     fever reoccurrence ,120
+     contrast-enhanced CT scan ,120
+     liver abscess ,120
+     meropenem administration ,120
+     vancomycin administration ,120
+     puncture drainage ,120
+     infection control ,216
+     pilsicainide test ,720
+     implantable cardioverter defibrillator implantation ,720
+     discharge ,720
+     family history of sudden death ,0
+     high parathyroid hormone levels ,720
+     Tc scintigraphy ,720
+     abnormal uptake in the anterior mediastinum ,720
+     tumor resection ,744
+     ectopic parathyroid adenoma ,744
+     nonfunctional pituitary adenoma ,744
+     nonfunctional adrenal tumor ,744
+     multiple endocrine neoplasia type 1 ,744
+"     electrocardiogram on October 4, 2021 ",-576
+     serum calcium 9.7 mg/dL ,-576
+"     electrocardiogram on June 28, 2021 ",-420
+     serum calcium 13.8 mg/dL ,-420
+"     electrocardiogram on March 24, 2021 ",0
+"     electrocardiogram on September 25, 2017 ",-1344
+     J point elevation ,-1344

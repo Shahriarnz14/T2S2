@@ -1,0 +1,89 @@
+event,time
+48 years old,0
+male,0
+admitted to the hospital,0
+altered mental status,-24
+bed ridden,-720
+cough,-720
+diarrhea,-720
+body temperature 35.8°C,0
+tachycardia (118 beats/minute),0
+tachypnea (28 breaths/minute),0
+oxygen saturation 100%,0
+diminished breath sounds on lung bases,0
+soft distended abdomen,0
+non-tender abdomen,0
+bilateral pitting edema in feet,0
+acute hypoxemic respiratory failure,0
+tachypnea 40 breaths/min,0
+oxygen saturation 85%,0
+intubated,0
+transferred to intensive care,0
+bilateral pleural effusions,0
+small pericardial effusion,0
+large heterogeneous splenomegaly,0
+ascites,0
+mesenteric anasarca,0
+soft-tissue anasarca,0
+diffuse cerebral atrophy,0
+severe hyperferritinemia,0
+sepsis,0
+infections,0
+HLH,0
+negative blood cultures,0
+negative sputum cultures,0
+negative urine cultures,0
+non-reactive HBsAg,0
+non-reactive HBsAb,0
+non-reactive hepatitis C antibody,0
+non-reactive EBV PCR,0
+non-reactive SARS-CoV-2 RNA PCR,0
+"non-reactive HIV 1,2 antigen/antibody",0
+non-reactive HTLV-1/2 antibodies,0
+ordered CMV PCR,0
+negative antinuclear antibodies,0
+negative anti-double stranded DNA,0
+negative Beta-2 Glycoprotein 1 antibody,0
+normal C3 and C4 complement,0
+exudative pleural fluid,48
+lymphocytic pleural fluid,48
+pleural fluid WBC 3600,48
+pleural fluid lymphocytes 86%,48
+macrophages in pleural fluid,48
+inflammation in pleural fluid,48
+negative malignant cells pleural fluid,48
+T cell predominance pleural fluid,48
+negative T/B cell lymphoma pleural fluid,48
+positive T cell rearrangement study pleural fluid,48
+bilateral pneumonia,48
+histiocytes with hemophagocytic activity bone marrow,48
+no leukemia bone marrow,48
+no lymphoma bone marrow,48
+no plasma cell carcinoma bone marrow,48
+no metastatic carcinoma bone marrow,48
+elevated CD25 (27416 pg/mL),48
+HLH diagnosis confirmed,48
+HLH secondary to T cell lymphoma,48
+fluids treatment,0
+vasopressors treatment,0
+broad-spectrum antibiotics,0
+aspiration pneumonia,0
+worsening renal function,120
+anasarca,120
+renal replacement therapy,120
+HLH-94 protocol,288
+dexamethasone 20 mg daily,288
+renally adjusted etoposide 75 mg/m2,288
+cardiac arrest,298
+pulseless electrical activity,298
+ROSC after 7 min,298
+refractory shock,322
+death,322
+hyperkalemia 7.0 meq/L,298
+hyperphosphatemia 16.1 mg/dL,298
+hypocalcemia 6.3 mg/dL,298
+hyperuricemia 11.0 mg/dL,298
+BUN 66 mg/dL,298
+creatinine 5.78 mg/dL,298
+TLS suspected,298
+CMV PCR positive 6900 IU/mL,298

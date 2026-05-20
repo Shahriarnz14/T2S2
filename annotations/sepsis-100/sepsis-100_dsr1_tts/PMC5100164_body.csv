@@ -1,0 +1,54 @@
+event,time
+55 years old,0
+male,0
+morbidly obese,0
+diabetes mellitus,0
+end-stage renal disease,0
+hemodialysis,0
+peripheral vascular disease,0
+left below knee amputation,0
+right above knee amputation,0
+right extra anatomical axillobifemoral bypass graft,0
+right-sided abdominal pain,-48
+vomiting,-48
+fever,-48
+pale,0
+sick,0
+temperature 37.8°C,0
+blood pressure 150/90 mmHg,0
+oxygen saturation 95% on room air,0
+distended abdomen,0
+tympanic abdomen,0
+right upper quadrant tenderness,0
+right flank tenderness,0
+total leukocyte count 20 ×10³,0
+hemoglobin 10.7 gm%,0
+acidosis pH 7.33,0
+chest X-ray air under right hemi-diaphragm,0
+impression of perforated viscous,0
+CT scan with contrast,0
+right perinephric collection,0
+extension into right sub-phrenic region,0
+gas in right collecting system,0
+urinary bladder gas,0
+no gas in renal parenchyma,0
+right atrial thrombus,0
+parenteral antibiotics started,0
+admitted to intensive care unit,0
+percutaneous drainage trial,0
+failed percutaneous drainage,0
+evaluated by anesthetist,0
+not fit for general anesthesia,0
+open drainage under epidural anesthesia,0
+thick foul smelly loculated perinephric collection,0
+thick foul smelly loculated sub-phrenic collection,0
+cystoscopy abnormal bladder mucosa,0
+multiple cystic lesions in bladder,0
+air bubbles in bladder,0
+right ureteric Double J stent inserted,0
+urethral catheter inserted,0
+condition deteriorated,24
+culture Klebsiella pneumoniae ESBL,24
+severe sepsis,48
+multiple organ failure,48
+died,48

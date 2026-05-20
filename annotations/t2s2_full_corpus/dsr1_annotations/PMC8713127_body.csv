@@ -1,0 +1,46 @@
+event,time
+55 years old,0
+male,0
+presented to the emergency department,0
+malaise,-336
+fever,-336
+weakness,-336
+weight loss,-336
+sore throat,-336
+dry cough,-336
+distant history of stab wounds,-unknown
+splenectomy,-unknown
+denied tick bites,0
+febrile,0
+tachypneic,0
+tachycardic,0
+jaundice,0
+acute renal injury,0
+creatinine 5.2 mg/dl,0
+creatinine increased to 10 mg/dl,+unknown
+mild liver injury,0
+elevated INR 1.47,0
+mixed hyperbilirubinemia 10.7 mg/dl,0
+direct bilirubin 7.4 mg/dl,0
+elevated lactate dehydrogenase 975 U/L,0
+undetectable haptoglobin,0
+peripheral blood smear intracellular parasites,0
+parasitemia 11.8%,0
+B. microti detected by PCR,0
+diagnosis of fulminant babesiosis,0
+multi-organ systemic failure,0
+atovaquone,0
+azithromycin,0
+transferred to medical ICU,0
+deteriorating kidney function,+unknown
+positive c-ANCA,+unknown
+positive ANA,+unknown
+low complement levels,+unknown
+exchange transfusion,+unknown
+parasitemia dropped to 2%,+unknown
+parasitemia dropped to 0.1%,+unknown
+clinical status improved,+unknown
+laboratory parameters improved,+unknown
+resolution of parasitemia,+1440
+creatinine 0.9 mg/dl,+1440
+negative c-ANCA,+1440

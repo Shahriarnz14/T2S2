@@ -1,0 +1,189 @@
+event,time
+77 years old,0
+male,0
+admitted to the hospital,0
+benign prostatic hyperplasia,0
+nocturia,0
+increased frequency,0
+holmium laser enucleation of the prostate,0
+prostate biopsy,0
+hypertension,0
+fatty liver,0
+acute infarction of the basal ganglia,-31536000
+hemiparesis,-31536000
+discontinued cilostazol,-336
+no history of general anesthesia,0
+no family history of malignant hyperthermia,0
+normal laboratory tests,0
+normal chest X-ray,0
+normal electrocardiography,0
+normal pulmonary function testing,0
+ejection fraction of 60.4%,0
+mild to moderate aortic regurgitation,0
+mild aortic stenosis,0
+mild concentric left ventricular hypertrophy,0
+stable vital signs on operation morning,0
+general anesthesia induced with propofol,85
+rocuronium,85
+remifentanil infusion,85
+laryngeal mask airway insertion,85
+sevoflurane maintenance,85
+mechanical ventilation,85
+anesthesia time 85 minutes,85
+blood pressure 180/90 mmHg at end of anesthesia,85
+heart rate 89 beats/minute at end of anesthesia,85
+body temperature 37.8°C at end of anesthesia,85
+EtCO2 31 mmHg at end of anesthesia,85
+shivering in recovery room,95
+severe anxiety,95
+pethidine 25 mg,95
+fentanyl 50 µg,95
+mental status deterioration to stupor,95
+masseter muscle rigidity,95
+arm rigidity,95
+sudden hyperventilation,95
+oxygen mask 5 L/minute,95
+blood pressure 220/168 mmHg,95
+heart rate 134 beats/minute,95
+respiratory rate 30 breaths/minute,95
+body temperature 38.1°C,95
+oxygen saturation 98%,95
+increased body temperature 39.8°C,105
+worsening masseter muscle rigidity,105
+MH clinical classification score 53,105
+diagnosis of MH almost certain,105
+aggressive cooling,105
+esmolol 100 mg,105
+arterial blood gas analysis,105
+compensated metabolic acidosis,105
+creatine phosphokinase 1735 U/L,105
+lactate dehydrogenase 487 U/L,105
+myoglobin 2968 ng/mL,105
+dantrolene sodium 60 mg,105
+body temperature decreased to 36.8°C,115
+systemic muscle rigidity resolved,115
+Richmond Agitation-Sedation Scale score 1,120
+general weakness,120
+stable respiratory pattern,120
+body temperature 36.7-37.5°C,120
+diluted urine,120
+sanguineous urine,120
+mild fever on postoperative day 1,24
+pulmonary edema,24
+"white blood cell count 28,700/µL",24
+neutrophilia 97.2%,24
+hemoglobin 10.3 g/dL,24
+hematocrit 31%,24
+"platelet count 74,000/µL",24
+C-reactive protein 10.51 mg/dL,24
+arterial blood gas pH 7.48,24
+PaCO2 28 mmHg,24
+PaO2 66 mmHg,24
+bicarbonate 20.9 mmol/L,24
+oxygen saturation 94%,24
+antibiotics started,24
+body temperature 37.7-38.6°C,48
+improved renal function,48
+blood urea nitrogen 19.3 mg/dL,48
+creatinine 1.15 mg/dL,48
+continued sanguineous urine,48
+oral diet started,96
+Klebsiella pneumoniae bacteremia,96
+transferred to general ward,144
+discharged,288
+no recurrence of MH,288
+informed about future anesthesia risks,288
+77 years old,0
+male,0
+admitted to the hospital,0
+benign prostatic hyperplasia,0
+nocturia,0
+increased frequency,0
+holmium laser enucleation of the prostate,0
+prostate biopsy,0
+hypertension,0
+fatty liver,0
+acute infarction of the basal ganglia,-31536000
+hemiparesis,-31536000
+discontinued cilostazol,-336
+no history of general anesthesia,0
+no family history of malignant hyperthermia,0
+normal laboratory tests,0
+normal chest X-ray,0
+normal electrocardiography,0
+normal pulmonary function testing,0
+ejection fraction of 60.4%,0
+mild to moderate aortic regurgitation,0
+mild aortic stenosis,0
+mild concentric left ventricular hypertrophy,0
+stable vital signs on operation morning,0
+general anesthesia induced with propofol,85
+rocuronium,85
+remifentanil infusion,85
+laryngeal mask airway insertion,85
+sevoflurane maintenance,85
+mechanical ventilation,85
+anesthesia time 85 minutes,85
+blood pressure 180/90 mmHg at end of anesthesia,85
+heart rate 89 beats/minute at end of anesthesia,85
+body temperature 37.8°C at end of anesthesia,85
+EtCO2 31 mmHg at end of anesthesia,85
+shivering in recovery room,95
+severe anxiety,95
+pethidine 25 mg,95
+fentanyl 50 µg,95
+mental status deterioration to stupor,95
+masseter muscle rigidity,95
+arm rigidity,95
+sudden hyperventilation,95
+oxygen mask 5 L/minute,95
+blood pressure 220/168 mmHg,95
+heart rate 134 beats/minute,95
+respiratory rate 30 breaths/minute,95
+body temperature 38.1°C,95
+oxygen saturation 98%,95
+increased body temperature 39.8°C,105
+worsening masseter muscle rigidity,105
+MH clinical classification score 53,105
+diagnosis of MH almost certain,105
+aggressive cooling,105
+esmolol 100 mg,105
+arterial blood gas analysis,105
+compensated metabolic acidosis,105
+creatine phosphokinase 1735 U/L,105
+lactate dehydrogenase 487 U/L,105
+myoglobin 2968 ng/mL,105
+dantrolene sodium 60 mg,105
+body temperature decreased to 36.8°C,115
+systemic muscle rigidity resolved,115
+Richmond Agitation-Sedation Scale score 1,120
+general weakness,120
+stable respiratory pattern,120
+body temperature 36.7-37.5°C,120
+diluted urine,120
+sanguineous urine,120
+mild fever on postoperative day 1,24
+pulmonary edema,24
+"white blood cell count 28,700/µL",24
+neutrophilia 97.2%,24
+hemoglobin 10.3 g/dL,24
+hematocrit 31%,24
+"platelet count 74,000/µL",24
+C-reactive protein 10.51 mg/dL,24
+arterial blood gas pH 7.48,24
+PaCO2 28 mmHg,24
+PaO2 66 mmHg,24
+bicarbonate 20.9 mmol/L,24
+oxygen saturation 94%,24
+antibiotics started,24
+body temperature 37.7-38.6°C,48
+improved renal function,48
+blood urea nitrogen 19.3 mg/dL,48
+creatinine 1.15 mg/dL,48
+continued sanguineous urine,48
+oral diet started,96
+Klebsiella pneumoniae bacteremia,96
+transferred to general ward,144
+discharged,288
+no recurrence of MH,288
+informed about future anesthesia risks,288

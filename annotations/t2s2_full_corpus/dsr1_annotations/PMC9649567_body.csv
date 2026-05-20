@@ -1,0 +1,81 @@
+event,time
+33 years old,0
+male,0
+presented to the emergency department,0
+diarrhea,-24
+fever,-24
+vomited stomach contents twice,-24
+belching,-612768
+bloating,-612768
+diarrhea,-612768
+denied family history of digestive tract disease,0
+body temperature 39 °C,0
+blood pressure 114/65 mmHg,0
+heart rate 115 beats per min,0
+respiratory rate 18 breaths per min,0
+plasma D-dimer 21800.00 μg/L,0
+brain natriuretic peptide 7330.00 pg/mL,0
+white blood cells 35.07 × 109/L,0
+C-reactive protein 142.55 mg/dL,0
+procalcitonin 78.43 ng/mL,0
+lactic acid 3.3 mmol/L,0
+creatinine 391 μmol/L,0
+alanine aminotransferase 255 U/L,0
+aspartate aminotransferase 204 U/L,0
+total bile 72.3 μmol/L,0
+direct bile 41.1 μmol/L,0
+γ-glutamyltransferase 219 U/L,0
+abdominal CT no abnormalities,0
+lung CT small amount of inflammation lower lobe left lung,0
+symptomatic and supportive treatment,0
+omeprazole 40 mg iv BID,0
+compound glycyrrhizin injection 20 mL ivgtt QD,0
+"ademetionine 1,4-butanedisulfonate 0.5 g ivgtt QD",0
+levofloxacin 0.5 g ivgtt QD,0
+progressively elevated body temperature,24
+persistently high leukocyte index,24
+metabolic acidosis,24
+respiratory rate 25 breaths per min,24
+heart rate 124 beats per min,24
+blood pressure 89/60 mmHg,24
+acute renal insufficiency,24
+hepatic insufficiency,24
+multiple organ failure,24
+transferred to ICU,24
+body temperature 40.1 °C,24
+piperacillin sodium and tazobactam sodium 4.5 g ivgtt Q8H,24
+body temperature 36.8 °C,72
+lactate 1.0,72
+white blood cell count 11.54 × 109/L,72
+transferred to general ward,72
+abnormal indicators significantly improved,96
+discharged,96
+severe infection,0
+septic shock,24
+multiple organ failure,24
+no pathogenic bacteria detected,0
+PEG bowel preparation,0
+gastrointestinal endoscopy,0
+colonoscopy,0
+gastroscopy,0
+hiatal hernia,0
+chronic nonatrophic gastritis with erosions,0
+multiple polyps fundus,0
+Yamada type II polyps,0
+fundic gland polyps,0
+colonoscopy no abnormal findings,0
+denied discomfort after examination,0
+no history of underlying diseases,0
+recurrent diarrhea 7 years,0
+intestinal flora imbalance suspected,0
+probiotics ineffective,0
+bacterial translocation suspected,0
+intestinal mucosal barrier dysfunction,0
+starvation 24 h prior,0
+PEG-induced septic shock,0
+ruled out diverticulum perforation,0
+ruled out pulmonary infection,0
+ruled out acute gastrointestinal infections,0
+negative urinalysis,0
+negative stool culture,0
+negative blood culture,0

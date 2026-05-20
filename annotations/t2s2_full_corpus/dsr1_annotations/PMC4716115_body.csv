@@ -1,0 +1,111 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+right flank pain,0
+fever,0
+diabetes,0
+oral hypoglycemic agents,0
+blood pressure 80/50 mmHg,0
+temperature 39 °C,0
+pulse 130 beats/minute,0
+respiration rate 20 breaths/minute,0
+knocking tenderness on right flank area,0
+"white blood cell count 23,400/μL",0
+hemoglobin 9.7 g/dL,0
+"platelet count 97,000/μL",0
+C-reactive protein 21.97 mg/dL,0
+blood urea nitrogen 35.3 mg/dL,0
+creatinine 2.21 mg/dL,0
+sodium 142 mEq/L,0
+potassium 3.7 mEq/L,0
+total protein 4.8 g/dL,0
+albumin 2.4 g/dL,0
+lactate dehydrogenase 472 U/L,0
+HbA1c 9.8%,0
+prothrombin time 17.5 seconds,0
+INR 1.63,0
+activated partial thromboplastin time 52.8 seconds,0
+antithrombin III 70.5%,0
+fibrin degradation products 49.2 μg/mL,0
+fibrinogen 429.3 mg/dL,0
+urinalysis specific gravity 1.028,0
+urinalysis pH 5.0,0
+traces of protein in urine,0
+10–19 WBCs per high power field,0
+0–1 RBCs per high power field,0
+sinus tachycardia,0
+KUB nonspecific,0
+contrast-enhanced abdominal CT focal wedge-shaped perfusion defect in upper pole of right kidney,0
+no intravascular filling defect in renal vessels,0
+Escherichia coli isolated from blood,0
+Escherichia coli isolated from urine,0
+diagnosis of right acute pyelonephritis,0
+sepsis,0
+intravenous ceftriaxone 2 g per day,0
+mental status drowsy,120
+blood pressure 80/60 mmHg,120
+fever developed,120
+chest X-ray increased haziness on both lower lung fields,120
+"white blood cell count 27,800/μL",120
+"platelet count 26,000/μL",120
+creatinine 0.8 mg/dL,120
+chest CT passive atelectasis in both lungs,120
+no evidence of pneumonia,120
+echocardiography mildly decreased cardiac wall motion,120
+left ventricular dysfunction ejection fraction 47%,120
+no thrombus in cardiac chambers,120
+septic shock,120
+acute heart failure,120
+diuretics administered,120
+inotropes administered,120
+antibiotics changed to piperacillin sodium 4 g and tazobactam 0.5 g every 8 hours,120
+clinical course improved,144
+sudden onset of severe right flank pain,312
+right flank tenderness,312
+1–4 WBCs per high power field,312
+5–9 RBCs per high power field,312
+lactate dehydrogenase 1768 U/L,312
+abdominal CT large perfusion defect in upper to mid portion of right kidney,312
+intravascular filling defect in right renal artery,312
+prothrombin time 12.3 seconds,336
+INR 1.14,336
+activated partial thromboplastin time 23.8 seconds,336
+antithrombin III 84.7%,336
+fibrin degradation products 19.5 μg/mL,336
+fibrinogen >500 mg/dL,336
+factor assay V 81%,336
+proteins C normal,336
+proteins S normal,336
+lupus anticoagulant Ab not found,336
+flank pain resolved,384
+hematuria disappeared,384
+follow-up abdominal CT perfusion defect partially regressed,384
+right renal artery thrombus size partially regressed,384
+discharged,528
+renal artery thrombosis,312
+hypercoagulable state,0
+disseminated intravascular coagulation,0
+diabetes for 20 years,-175200
+no paroxysmal atrial fibrillation,120
+no arrhythmia,120
+no cardiac abnormality,120
+no intracardiac thrombus,120
+no thrombus or stenosis on initial CT,0
+sepsis-induced DIC,0
+Gram-negative bacterial infection,0
+no active bleeding,336
+no thromboembolic prophylaxis,0
+no use of antithrombin,0
+no use of gabexate,0
+no plasma exchange,0
+no thrombomodulin,0
+no unfractionated heparin,0
+no low-molecular weight heparin,0
+no activated protein C,0
+renal infarction,312
+improved renal perfusion,384
+decreased creatinine levels,384
+no thrombolytic therapy,312
+prophylactic anticoagulation not administered,0
+no conflict of interest,0

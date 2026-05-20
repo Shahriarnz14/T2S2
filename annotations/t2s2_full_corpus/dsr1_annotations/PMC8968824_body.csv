@@ -1,0 +1,93 @@
+event,time
+71 years old,0
+female,0
+hypertension,-26280
+valsartan capsules 80 mg daily,-26280
+fever,-3
+peak temperature 39 °C,-3
+chills,-3
+no cough,-3
+no expectoration,-3
+no pharyngeal pain,-3
+no abdominal pain,-3
+no diarrhea,-3
+no increased urination frequency,-3
+no increased urination urgency,-3
+no perianal pain,-3
+anemia,0
+wet rales in right lung,0
+regular heart rhythm,0
+no abdominal tenderness,0
+no rebound pain,0
+no abdominal masses,0
+no limb edema,0
+WBC count 13.2 × 10^9/L,0
+neutrophil percentage 88.5%,0
+hemoglobin 66 g/L,0
+platelet count 11 × 10^9/L,0
+blood glucose 33 mmol/L,0
+chest CT inflammation both lungs,0
+bilateral pleural thickening,0
+abdominal CT thickening ascending colon wall,0
+admission diagnosis fever of undetermined origin,0
+admission diagnosis severe sepsis,0
+admission diagnosis pneumonia,0
+admission diagnosis hypertension,0
+anti-inflammatory therapy meropenem 0.5 g every 6 h,0
+human immunoglobulin 5 g daily,0
+erythrocyte suspension 4 units,0
+platelets 10 units,0
+insulin micropump,0
+blood culture E. coli,24
+blood culture Aeromonas hydrophila,24
+blood culture Aeromonas caviae,24
+intensive care unit transfer,24
+meropenem micropump 0.5 g every 6 h,24
+tetracycline 50 mg every 12 h,24
+fluid resuscitation,24
+vasoactive drugs,24
+decreased platelets,24
+decreased hemoglobin,24
+decreased WBC count,24
+recombinant human granulocyte colony-stimulating factor,24
+recombinant human platelet growth factor,24
+erythrocyte suspensions,24
+platelets transfusions,24
+infection controlled,168
+blood pressure normal,168
+body temperature normal,168
+blood culture negative,168
+WBC count normal,168
+hemoglobin normal,168
+platelets low,168
+bone marrow biopsy,168
+bone marrow smear malignant cells,168
+bone marrow metastasis suspected,168
+PET/CT high metabolic signals ascending colon,168
+thrombocytopenia,0
+consultation tumor surgery,168
+consultation gastroenterology,168
+consultation intensive care medicine,168
+conservative medical treatment,168
+ascending colon malignant tumor,168
+tumor progressed,504
+died,504
+colon adenocarcinoma,504
+sepsis,0
+refractory thrombocytopenia,0
+bone marrow metastasis,168
+missed diagnosis ascending colon wall thickening,0
+enteric-derived sepsis,24
+tricytopenia,0
+no history hematological diseases,0
+bone marrow suppression,0
+increased destruction platelets,0
+platelet transfusions ineffective,168
+enteric-derived tumors,168
+PET/CT confirmed colon cancer,168
+TCP unresolved,168
+no pathological report,168
+no surgery,168
+no radiotherapy,168
+no chemotherapy,168
+disease progressed,504

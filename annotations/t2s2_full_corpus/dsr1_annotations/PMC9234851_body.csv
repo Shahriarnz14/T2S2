@@ -1,0 +1,124 @@
+event,time
+8.75 years old,0
+male neutered Burmese cat,0
+pyothorax,0
+lethargy,0
+anorexia,0
+tachypnoea,0
+restrictive breathing pattern,0
+pyrexia,0
+admitted to the hospital,0
+respiratory rate 40 breaths/min,0
+mild increase in respiratory effort,0
+heart rate 170 bpm,0
+grade II/VI systolic murmur,0
+rectal temperature 38.1ºC,0
+haematocrit 36.3%,0
+WBC count 20.42 ×10^9/l,0
+neutrophils 17.97 ×10^9/l,0
+platelet count 185 ×10^9/l,0
+mild neutrophilia,0
+marked toxicity,0
+inflammation,0
+sodium 147 mmol/l,0
+potassium 4.1 mmol/l,0
+chloride 115 mmol/l,0
+calcium 1.31 mmol/l,0
+albumin 26 g/l,0
+globulin 34.6 g/l,0
+alanine aminotransferase 36.3 U/l,0
+total bilirubin 2.5 µmol/l,0
+creatinine 251 µmol/l,0
+urea 19 mmol/l,0
+creatinine kinase 1555 U/l,0
+pH 7.292,0
+PvCO2 44.2 mmHg,0
+glucose 8.9 mmol/l,0
+lactate 1.5 mmol/l,0
+HCO3- 19 mmol/l,0
+base excess -4.7 mmol/l,0
+urine specific gravity 1.035,0
+urine pH 6,0
+urine protein 2+,0
+negative urine culture,0
+neutrophilic septic exudate,0
+intracellular cocci,0
+beta-haemolytic Streptococcus agalactiae,0
+sedation with midazolam,0
+sedation with butorphanol,0
+sedation with alfaxalone,0
+placement of bilateral chest drains,0
+thoracic radiographs,0
+thoracic drainage,0
+lavage every 4 h,0
+intrapleural bupivacaine 1 mg/kg every 6 h,0
+IV amoxicillin-clavulanate,0
+buprenorphine,0
+IV fluid therapy,0
+supplemented potassium chloride,0
+elevated respiratory effort,0
+oxygen therapy,0
+improvement in respiratory rate,2
+improvement in respiratory effort,2
+discontinuation of oxygen therapy,19
+mydriasis,36.4167*
+hypersalivation,36.4167
+tonic-clonic seizure activity,36.4167
+loss of consciousness,36.4167
+sinus bradycardia 120 bpm,36.4167
+decreased systolic blood pressure 110 mmHg,36.4167
+acidaemia pH 7.125,36.4167
+PvCO2 62.8 mmHg,36.4167
+PvO2 48.9 mmHg,36.4167
+hypokalaemia 3.5 mmol/l,36.4167
+hyperglycaemia 11.6 mmol/l,36.4167
+hyperlactataemia 4.8 mmol/l,36.4167
+creatinine 180 µmol/l,36.4167
+suspected bupivacaine overdose,36.4167
+LAST,36.4167
+ILE 20% bolus 1.5 ml/kg,36.5833
+improvement in mentation,36.5833
+obtunded,36.5833
+bradycardia 128 bpm,36.5833
+hypersalivation continued,36.5833
+ILE 20% CRI 0.25 ml/kg/min,36.5833
+thoracic lavage,36.5833
+HR 140 bpm,36.75
+BP 130 mmHg,36.75
+resolution of hypersalivation,37.1667
+resolution of mydriasis,37.1667
+discontinuation of intrapleural bupivacaine,36.4167
+thoracic lavage every 4 h,36.4167
+repeat venous blood gas,39.4167
+pH 7.330,39.4167
+normal PvCO2 44.5 mmHg,39.4167
+hypokalaemia 3.4 mmol/l,39.4167
+azotaemia 162 µmol/l,39.4167
+hyperglycaemia 8.3 mmol/l,39.4167
+normal lactate 0.7 mmol/l,39.4167
+decline in mental status,46.4167
+relapse bradycardia 120-130 bpm,46.4167
+repeat ILE 20% bolus,46.5833
+repeat ILE CRI,46.5833
+improved mental status,46.5833
+persistent bradycardia,46.5833
+normotension 140 mmHg,46.5833
+gradual improvement in mentation,47.5833
+resolution of neurological signs,56.4167
+resolution of cardiovascular signs,56.4167
+oxygen therapy weaned,44
+general anaesthesia,72
+CT,72
+right middle lung lobe abscess,72
+median sternotomy,72
+hypotension,72
+noradrenaline CRI,72
+respiratory distress,75
+laryngeal oedema,75
+re-intubation,75
+dexmedetomidine CRI,75
+discontinuation of dexmedetomidine,78
+analgesia tapered,78
+discharge,144
+amoxicillin-clavulanate,144
+gabapentin,144

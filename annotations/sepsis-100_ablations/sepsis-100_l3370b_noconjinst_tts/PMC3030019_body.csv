@@ -1,0 +1,68 @@
+event,time
+65 years old ,0.0
+female ,0.0
+liver cirrhosis ,-6720.0
+chronic hepatitis B ,-6720.0
+hepatocellular carcinoma ,0.0
+admitted to the hospital ,0.0
+intravenous glycopyrrolate ,0.0
+general anesthesia ,0.0
+propofol ,0.0
+rocuronium ,0.0
+remifentanil ,0.0
+sevoflurane ,0.0
+mechanical ventilation ,0.0
+electrocardiography ,0.0
+arterial blood pressure ,0.0
+central venous pressure ,0.0
+SpO2 ,0.0
+stable vital signs ,0.0
+sudden decrease in arterial blood pressure ,1.0
+tachycardia ,1.0
+ST elevation on EKG ,1.0
+resuscitation ,1.0
+colloid administration ,1.0
+catecholamines administration ,1.0
+intraoperative ultrasonography ,1.0
+massive air emboli ,1.0
+VAE diagnosis ,1.0
+PAE diagnosis ,1.0
+arterial blood gas analysis ,1.0
+catecholamine administration ,1.17
+systolic blood pressure maintained ,1.17
+heart rate maintained ,1.17
+central venous pressure maintained ,1.17
+end-tidal carbon dioxide restored ,1.17
+ABGA ,1.5
+norepinephrine infusion ,1.5
+fluid resuscitation ,1.5
+air emboli disappeared ,2.17
+hepatectomy restarted ,2.17
+surgery completed ,5.0
+intensive care unit ,5.0
+mechanical ventilation ,5.0
+norepinephrine infusion ,5.0
+abnormal PT/PTT ,5.0
+fibrinogen ,5.0
+d-dimer ,5.0
+antithrombin III ,5.0
+CK-MB ,5.0
+troponin-T ,5.0
+ST elevation on EKG ,5.0
+EKG findings recovered ,24.0
+trans-thoracic echocardiogram ,24.0
+vital signs stable ,24.0
+norepinephrine infusion tapered out ,24.0
+mental status unchanged ,120.0
+brain CT ,120.0
+brain MRI ,120.0
+multiple acute cerebral infarctions ,120.0
+weaned to spontaneous ventilation ,264.0
+extubated ,264.0
+vital signs unstable ,360.0
+intravenous administration of catecholamines ,360.0
+panperitonitis ,360.0
+gram (+) cocci on peritoneal culture ,360.0
+cardiac arrest ,744.0
+septic shock ,744.0
+expired ,744.0

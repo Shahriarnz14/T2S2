@@ -1,0 +1,61 @@
+event,time
+56-year-old African American female,0
+no relevant past medical history,0
+no relevant surgical history,0
+swelling over left labia,-144
+swelling developed over six days,-144
+swelling opened and began draining,-48
+admitted to Emergency Department,-24
+temperature 36.8°C,0
+blood pressure 100/60 mmHg,0
+pulse 96-100 beats per minute,0
+respiratory rate 20 breaths per minute,0
+arterial oxygen saturation 98%,0
+WBC 17.4 ×10^9/L,0
+started on vancomycin,0
+started on piperacillin/tazobactam,0
+surgery consult requested,0
+pelvic CT scan obtained,0
+cutaneous ulceration over left labia,0
+air in subcutaneous fat of left groin,0
+air in subcutaneous fat of left lower abdominal wall,0
+inflammatory fat stranding along left lateral abdominal wall,0
+LRINEC score 3,0
+suspicion of necrotizing fasciitis,0
+immediate explorative surgery performed,+24
+gynecology team involved,+24
+explorative surgery of pelvic and abdominal regions,+24
+confirmed necrotizing soft tissue infection,+24
+first aggressive debridement,+24
+second look exploration surgery,+48
+further debridement of vulvar area,+48
+additional pockets of necrosis in abdominal wall discovered,+48
+debridement of abdominal wall,+48
+three additional surgeries for debridement and closure,+72
+stay in surgical intensive care unit for five days,+120
+microbiology samples identified Clostridium clostridiforme,+72
+microbiology samples identified Bacteroides,+72
+Jackson-Pratt drain placed,+24
+drain removed during follow-up,+480
+healed well with no complications,+480
+proper bowel function,+480
+favorable cosmetic outcome,+480
+initially admitted to medical ward,-24
+surgical consultation delayed several hours,0
+initial misdiagnosis of cellulitis,-24
+tachycardia,0
+hypotension despite IVF resuscitation,0
+septic shock suspected,0
+hemodynamic instability,0
+broad spectrum antibiotics,0
+no diabetes,0
+no IV drug use,0
+no immunocompromise,0
+no prior trauma,0
+no postpartum status,0
+no associated comorbidities,0
+no known risk factors,0
+CT findings suggestive but inconclusive,0
+elevated WBC,0
+LRINEC score potential up to 7,0
+CRP unavailable,0

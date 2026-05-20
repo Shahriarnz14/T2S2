@@ -1,0 +1,63 @@
+event,time
+diastolic heart failure ,-8760
+atrial fibrillation ,-8760
+coronary artery disease ,-8760
+pancreatic adenocarcinoma with metastasis to the liver ,-336
+history of recent urethral instrumentation for a urological procedure ,-72
+severe thrombocytopenia ,-24
+apixaban discontinued due to severe thrombocytopenia ,-24
+scheduled to undergo port placement for chemotherapy ,-2
+sodium level of 116 mmol/L ,-2
+severe hyponatremia found during routine preoperative evaluation ,-2
+76-year-old man ,0
+presented to the emergency department ,0
+x-ray findings consistent with pneumonia ,0
+started on broad-spectrum antibiotics ,0
+receiving small boluses of fluid for hyponatremia ,0
+transferred to the intensive care unit ,2
+continued management of severe hyponatremia ,2
+jugular vein distention ,2
+lower extremity pitting edema ,2
+transthoracic echocardiogram ordered ,2
+normal left ventricular cavity size ,2
+mildly reduced systolic function ,2
+left ventricular ejection fraction of 45%-50% ,2
+septal flattening ,2
+right ventricular pressure/volume overload ,2
+left atrial enlargement ,2
+suspected MV vegetation ,2
+severe mitral regurgitation ,2
+tricuspid regurgitation ,2
+elevated RV systolic pressure (RVSP = 53 mm Hg) ,2
+ill-defined thickening in the TV leaflets ,2
+afebrile ,2
+leukocytosis ,2
+blood cultures obtained ,2
+infectious disease specialist consulted ,2
+possible infective endocarditis ,2
+continued on broad-spectrum antibiotics ,2
+scheduled for transesophageal echocardiogram ,24
+TEE showed normal left ventricular size and function ,24
+ejection fraction of 60%-65% ,24
+normal RV size and function ,24
+hypermobile interatrial septum without patent foramen ovale ,24
+no left atrial or left atrial appendage thrombus ,24
+2 large vegetations on the atrial aspect of MV leaflets ,24
+anterior leaflet vegetation measuring 1.3 × 1.1 cm ,24
+posterior leaflet vegetation measuring 1.2 × 0.9 cm ,24
+severe mitral regurgitation with systolic flow reversal in the pulmonary vein ,24
+vegetation on the TV leaflet ,24
+tricuspid regurgitation ,24
+elevated RV systolic pressure (RVSP = 47 mm Hg) ,24
+blood cultures negative ,48
+"PCR testing for Coxiella burnetii, Legionella spp, and Brucella spp negative ",48
+workup for antiphospholipid syndrome unremarkable ,48
+suspected diagnosis of marantic (nonbacterial) endocarditis ,48
+infectious disease recommended discontinuation of antibiotics ,48
+discontinued from broad-spectrum antibiotics ,48
+persistent level of confusion ,48
+computed tomography imaging of the head completed to rule out intracerebral hemorrhage ,48
+"platelets recovered to above 50,000 × 10^9/L ",72
+started on enoxaparin ,72
+discharged ,168
+patient died ,672

@@ -1,0 +1,36 @@
+event,time
+shortness of breath ,0
+chest pain ,0
+admission ,0
+high probability for pulmonary emboli ,0
+possible development of small bilateral pleural effusions ,0
+multiple nodular opacities ,0
+moderate alveolar consolidation ,0
+initiation of Heparin drip ,0
+high fevers ,12
+tachycardia ,12
+positive blood cultures ,12
+Gram positive cocci in pairs and clusters ,12
+identification of S. caprae ,24
+initiation of vancomycin ,24
+change of antibiotics to Kefzol ,36
+resolution of fever ,48
+significant clinical improvement ,48
+presence of E. coli in urinalysis ,48
+initiation of Ciprofloxacin ,48
+no evidence of endocarditis ,72
+discontinuation of Ciprofloxacin ,72
+discharge ,120
+no shortness of breath ,-1
+no recent infections ,-1
+no indication of endocarditis ,0
+no abnormalities in physical examination ,0
+no indication of recent infections ,0
+no contact with goats ,0
+no visit to farm ,0
+no transplants ,0
+no internal fixation for orthopedic prosthesis ,0
+no foreign subject implants ,0
+no endocarditis ,72
+no shortness of breath ,120
+no chest pain ,120

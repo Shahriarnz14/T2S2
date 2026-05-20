@@ -1,0 +1,47 @@
+event,time
+60-year-old,0
+male,0
+nonsmoker,0
+admitted to the hospital,0
+20-day history of facial edema,-480
+20-day history of neck edema,-480
+20-day history of right upper limb edema,-480
+physical examination revealed 3.5 cm mass on right chest,0
+computed tomography (CT) revealed 4 cm mass near right lung hilum,0
+retroperitoneal lymphadenopathy,0
+pericardial effusion,0
+metastases in mediastinum,0
+metastases in bilateral adrenal gland,0
+right thoracic wall nodule,0
+multiple bone metastases,0
+fecal occult blood strongly positive,0
+no obvious tumor found in abdominal CT,0
+no perforation found in abdominal CT,0
+biopsy of right thoracic wall nodule metastases showed low differentiated lung adenocarcinoma,0
+treated with pemetrexed,0
+treated with nedaplatin,0
+chemotherapy,0
+experienced sudden acute abdominal pain,168
+acute peritonitis,168
+abdominal CT scan revealed free air in peritoneal cavity,168
+abdominal CT scan revealed massive ascites in peritoneal cavity,168
+diagnosed with acute peritonitis,168
+diagnosed with gastrointestinal perforation,168
+underwent emergency surgery,168
+large amount of dirty ascites found during surgery,168
+hyperemia in small intestinal wall,168
+edema in small intestinal wall,168
+pus adhesion in omentum,168
+pus adhesion in small intestine surface,168
+many grey nodules in mesentery,168
+2 perforations (1x1 cm2) at 110 cm and 140 cm of jejunum from Treitz's ligament,168
+2 suspicious perforations of serous membrane at 90 cm and 160 cm of jejunum,168
+intestinal resection of 70 cm,168
+end-to-end anastomosis performed,168
+pathological diagnosis of resected specimen indicated metastatic lung adenocarcinoma of small intestine,168
+tumor cells positive for CK7,168
+tumor cells positive for TTF-1,168
+died,408
+septic shock,408
+death occurred 10 days after surgery,408
+death occurred 19 days following cancer diagnosis,408

@@ -1,0 +1,67 @@
+event,time
+48-year-old male,0
+admitted to the Emergency Service,0
+toothache,-96
+dyspnea,-96
+chest pain,-96
+sweating,-96
+tachyarrhythmia,-96
+sore throat,-96
+fever (38.2°C),-96
+gross swelling of the lower right cheek,0
+submandibular swelling,0
+mental region swelling,0
+erythematous regions,0
+warm regions on palpation,0
+difficulty opening the jaw,0
+oral cavity inflammatory changes,0
+home treatment with ceftriaxone-steroids-based 3 g once daily,-96
+ineffective treatment,-72
+condition worsened,-72
+dyspnea,-72
+chest pain,-72
+hospital admission,0
+increased white blood cells (17 × 10⁹/L),0
+increased neutrophils (88%),0
+elevated C-reactive protein (4 mg/L),0
+urgent orotracheal intubation,0
+chest and neck CT scan,0
+left pleural effusion,0
+mediastinitis,0
+right parapharyngeal abscess,0
+odontogenic infection complication,0
+ENT drainage of right neck,0
+cervicotomy drain insertion,0
+left chest drain placement,0
+intravenous piperacillin sodium plus tazobactam sodium (4 × 500 mg daily),0
+clinical condition worsened,48
+transfer to Intensive Care Unit,48
+chest and neck CT scan,48
+air collection in right submandibular,48
+air collection in left carotid,48
+air collection in retroesophageal space,48
+air collection in pretracheal space,48
+mediastinal collections (air and fluid),48
+cervical necrotizing fasciitis,48
+descending necrotizing mediastinitis (DNM),48
+bilateral pleural effusions,48
+additive pleural drain insertion,48
+chest and neck CT angiography,72
+cervical abscesses,72
+extensive mediastinal empyema,72
+left pleural effusion,72
+right hydropneumothorax,72
+aggressive mediastinal debridement,72
+VATS performed,72
+empyema collections cleared (1100 mL secretion),72
+ENT incision and drainage of neck abscesses,72
+surgical drains insertion,72
+oral tooth extraction (48th),72
+purulent fluid drainage,72
+maxillofacial surgical packing,72
+fluid culture: Streptococcus anginosus,72
+fluid culture: Gemella morbillorum,72
+fluid culture: Staphylococcus lugdunensis,72
+amoxicillin 1000 mg IV 6-hourly,72
+metronidazole 500 mg IV 12-hourly,72
+discharged,168

@@ -1,0 +1,88 @@
+event,time
+7-year-old,0
+boy,0
+admitted,0
+generalized convulsive status epilepticus,0
+high fever,-96
+diffuse skin rash,-96
+right tibia fracture,-336
+skiing accident,-336
+seizure,0
+midazolam,0
+phenobarbital,0
+maculopapular rash,0
+nonpurulent conjunctivitis,0
+cracked lips,0
+fissured lips,0
+cervical lymphadenopathy,0
+fever 39°C,0
+Glasgow Coma Scale score 7,0
+WBC 1/mm3,0
+protein 225 mg/dl,0
+glucose 4.84 mmol/l,0
+chloride 118.0 mmol/l,0
+lactate 2.5 mmol/l,0
+negative bacterial cultures,0
+elevated ESR 68 mm/1h,0
+CRP 29.6 mg/l,0
+procalcitonin 0.63 ng/ml,0
+leukocytes 6.8x10^9/l,0
+platelets 181x10^9/l,0
+AST 2.9 ukat/l,0
+ALT 2.050 ukat/l,0
+LDH 11.27 ukat/l,0
+positive IgG antibodies to cytomegalovirus and adenovirus,0
+negative CSF viral screening,0
+normal urine analysis,0
+normal brain CT,0
+normal chest X-ray,0
+normal ECG,0
+normal echocardiogram,0
+normal cardiac markers,0
+cervical lymph nodes 15 mm,0
+EEG cerebral dysfunction,0
+admitted to ICU,0
+phenobarbital treatment,0
+ceftriaxone,0
+acyclovir,0
+mannitol,0
+persistent fever,24
+impaired consciousness,24
+GCS score 6,24
+respiratory failure,24
+intubation,24
+mechanical ventilation,24
+brain MRI,24
+hyperintense areas in brain parenchyma,24
+cytotoxic edema,24
+narrowed middle cerebral arteries,24
+diagnosis of Kawasaki disease,24
+cerebral vasculitis,24
+encephalitis,24
+IVIG 2 g/kg,24
+acetylsalicylic acid 50 mg/kg/day,24
+fever resolved,48
+skin rash disappeared,48
+improved consciousness,48
+extubated,72
+discontinued acyclovir,72
+confused,72
+irritability,72
+delirium,72
+GCS 8-10,72
+recurrent fever,72
+brain MRI progression,144
+methylprednisolone 30 mg/kg/day,216
+oral prednisolone 2 mg/kg/day,216
+improved neurological status,360
+full motor recovery,360
+cognitive improvement,360
+periungual desquamation,504
+normal echocardiogram,504
+discharged,1080
+normal cognitive function,1080
+corticosteroids tapered,1080
+stopped corticosteroids,2160
+follow-up MRI normal,1440
+parenchymal atrophy,1440
+normalized cerebral circulation,1440

@@ -1,0 +1,76 @@
+event,time
+13 year old,0
+male,0
+atopic dermatitis,0
+not fully vaccinated,0
+progressive fatigue,-96
+hypoactivity,-96
+slurred speech,-96
+lower extremity weakness,-96
+progressive weakness,-96
+choking episodes,-48
+urinary incontinence,-48
+fecal incontinence,-48
+difficulty breathing,0
+drooling of saliva,0
+ascending weakness,0
+inability to bear weight,0
+presented to Emergency Department,0
+conscious,0
+alert,0
+pale,0
+hypoactive,0
+tachycardia (P: 110),0
+hypotension (SBP: 70),0
+cold extremities,0
+poor perfusion,0
+respiratory distress,0
+Silverman score 5/10,0
+hypoxemia (Saturation: 89),0
+decreased air entry,0
+diffuse crackles,0
+GCS 15/15,0
+decreased motor power lower limbs,0
+absent deep tendon reflexes,0
+negative Babinski reflex,0
+septic shock,0
+IV fluid boluses,0
+systolic blood pressure 100,0
+hypoxemia,0
+metabolic acidosis,0
+right upper lobe collapse,0
+pneumonia,0
+diffuse infiltrates both lungs,0
+early ARDS,0
+non-invasive ventilation,0
+clinical deterioration,0
+decreased level of consciousness,0
+CT scan brain no bleeding,0
+CT scan brain no mass,0
+intubated,0
+mechanical ventilation,0
+MRI Brain normal,0
+broad spectrum antibacterial,0
+transferred to PICU,0
+WBC 6000,0
+elevated bands (29),0
+elevated neutrophils (47),0
+lymphopenia (13),0
+elevated CRP (22),0
+elevated ESR (110),0
+"thrombocytopenia (57,000)",0
+elevated INR (1.4),0
+fibrinogen 456,0
+D-dimer 0.36,0
+disseminated intravascular coagulopathy,0
+Guillain-Barre syndrome diagnosis,0
+IVIG treatment,0
+lumbar puncture not done,0
+blood culture positive Streptococcus pneumoniae,48
+Mycoplasma pneumoniae serology negative,0
+influenza nasal wash negative,0
+severe ARDS,96
+hypoxia,96
+respiratory acidosis,96
+clinical deterioration,96
+death,96

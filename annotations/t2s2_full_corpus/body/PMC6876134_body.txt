@@ -1,0 +1,93 @@
+A 75-year-old woman was brought to the emergency department after she was found unconscious at her house. She had had a productive cough and fever up to 39°C for the previous 4 days. She had a past medical history of high blood pressure, paroxysmal atrial fibrillation and type 2 diabetes (without insulin therapy), and was regularly taking bisoprolol, propafenone, atorvastatin, metformin and aspirin. She was a nonsmoker and had no occupational exposures.
+
+Physical examination showed tachypnoea, tachycardia (atrial fibrillation), normal blood pressure and transcutaneous arterial oxygen saturation decreased to 86% in room air. Auscultation of the lungs revealed diffuse wheezing and diminished breath sounds with mild dullness at the right base of the lung.
+
+Blood tests showed: severe inflammation with white blood cell count 20.9×109 cells per L, neutrophils 17.2×109 cells per L and C-reactive protein 326.1 mg·L−1; elevated liver transaminases (alanine aminotransferase 3216 U·L−1 and aspartate aminotransferase 4359 U·L−1); and decreased kidney function (creatinine 313 µmol·L−1 and urea 26.2 mmol·L−1). Arterial blood gas analysis showed severe hypercapnic respiratory failure with carbon dioxide tension (PaCO2) of 107 mmHg (14.3 kPa), oxygen tension (PaO2) of 63 mmHg (8.4 kPa), pH 7.04 and HCO3− 28.9 mmol·L−1.
+
+Task 1
+What diagnostic test would assist in the diagnosis?
+
+Answer 1
+Chest radiography or computed tomography (CT)
+
+Chest CT was performed (figure 1), and showed pulmonary oedema and right-sided infiltrates characteristic of aspiration pneumonia. A diagnosis of right-sided aspiration pneumonia was established and antibiotic therapy with intravenous piperacillin/tazobactam was initiated, due to severe infection and relatively high rates of antibiotic resistance in our country.
+
+Figure 1 Chest CT.
+
+Task 2
+What would be the most appropriate treatment of respiratory failure in this case?
+
+a) Supplemental oxygen with nasal cannula
+
+b) High-flow supplemental oxygen with nonrebreather mask
+
+c) Noninvasive ventilation
+
+d) Invasive mechanical ventilation
+
+Answer 2
+d) Invasive mechanical ventilation
+
+Due to the patient’s unconscious state, severe hypercapnic respiratory failure, and coexistent liver and kidney damage, the patient was intubated, mechanically ventilated and transferred to the intensive care unit (ICU).
+
+During the next few days, the patient's overall status improved, she regained consciousness and her laboratory tests returned to normal. Cultures from bronchoalveolar lavage were positive for Haemophilus influenzae.
+
+Arterial blood gas analysis showed persistent hypercapnic respiratory failure (PaCO2 71 mmHg (9.5 kPa), PaO2 85 mmHg (11.3 kPa), pH 7.34 and HCO3− 38.3 mmol·L−1). Due to prolonged mechanical ventilation, tracheostomy was performed.
+
+After 15 days, mechanical ventilation was discontinued and the patient was breathing spontaneously through the tracheostomy tube. The only symptoms that remained were dyspnoea and mild weakness. Due to hypercapnia, pressure support ventilation was continued.
+
+Multiple attempts to evacuate the tracheostomy tube were unsuccessful due to severe shortness of breath, stridor and acute respiratory insufficiency. During bronchoscopy, tracheal dyskinesia and bilateral vocal cord paresis were visualised. CT of the head and chest showed no major cerebrovascular or mediastinal pathology; there was no recent history of surgery or trauma.
+
+Task 3
+What pathology would you suspect in this patient?
+
+Answer 3
+Neuromuscular pathology
+
+Due to persistent hypercapnic respiratory failure, bilateral vocal cord paresis and dysphagia, a neuromuscular pathology was suspected. Repeat neurological examination revealed a slight muscular weakness in the proximal leg muscles and fatigability of the extraocular muscles.
+
+Myasthenia gravis was suspected, with critical illness polyneuropathy and Guillain–Barré syndrome being probable differential diagnoses.
+
+Task 4
+What tests should be performed to confirm the diagnosis?
+
+Answer 4
+Nerve conduction studies with repetitive nerve stimulation (RNS) or single-fibre electromyography (SFEMG), acetylcholine receptor (AChR) antibodies, and antibodies against muscle-specific kinase (MuSK)
+
+AChR antibodies were negative. The patient was not tested for MuSK antibodies due to lack of availability at that time. RNS studies were performed and showed a decremental muscle electrical response (up to 20%) consistent with myasthenia gravis.
+
+The patient was diagnosed with myasthenia gravis, and treatment with pyridostigmine 150 mg·day−1 and prednisolone 5 mg·day−1 (dosing gradually increased to 45 mg·day−1) was initiated. After a few days of treatment, the patient's status greatly improved, dyspnoea and difficulty breathing disappeared, and hypercapnia resolved, with PaCO2 returning to normal. After a few weeks, the patient was active and capable of all self-care. Multiple attempts to evacuate the tracheostomy tube were unsuccessful (due to tracheal dyskinesia and bilateral vocal cord paresis); a permanent tracheostomy tube was placed and the patient was discharged.
+
+Discussion
+Neuromuscular respiratory failure (NRF) is the most serious complication of neuromuscular disorders. Prompt recognition of NRF and determination of the cause are essential. When the cause of NRF cannot be identified and the diagnosis on discharge remains unknown, outcomes are usually poor with high rates of severe disability. Among 85 adults admitted to the ICU with acute NRF over a 6-year period, the most frequent causes were myasthenia gravis (myasthenic crisis), Guillain–Barré syndrome, myopathies and amyotrophic lateral sclerosis (27, 12, 12 and 12 patients, respectively) [1]. Respiratory failure is rarely the presenting feature of a neuromuscular disorder. More often, it results from disease progression or exacerbation by a superimposed respiratory disease when the compensatory mechanisms are overwhelmed [2].
+
+Myasthenia gravis, the most common disorder of neuromuscular transmission, is an autoimmune disease in which autoantibodies bind to AChR or other functionally related molecules and impair transmission in the postsynaptic membrane at the neuromuscular junction [3]. Most patients (80–90%) have antibodies AChR; approximately half of those without AChR antibodies have antibodies directed to MuSK. Patients without detectable AChR or MuSK antibodies are referred to as having seronegative myasthenia gravis [4].
+
+The annual incidence of myasthenia gravis is approximately 8–10 cases per million and the prevalence is about 150–250 per million [5].
+
+The main clinical feature is fluctuating weakness and fatigability of the skeletal muscles, which is the sole manifestation of the disease. Weakness can be generalised or confined to ocular muscles, resulting in ptosis and/or diplopia, which is the classic initial presentation of myasthenia gravis. About half of the patients presenting with ocular myasthenia gravis will develop generalised disease within 2 years. Other frequently involved muscle groups include bulbar, facial, neck and limb muscles with predominantly proximal weakness. Respiratory muscles can also be involved, producing the most serious symptoms of myasthenia gravis. It is usually seen with advanced disease and respiratory failure is rarely the initial presentation of myasthenia gravis [3, 6].
+
+Diagnosis is based on clinical and serological testing, as well as electrophysiological tests. The presence of AChR or MuSK antibodies on serological assays provides the laboratory confirmation of myasthenia gravis [6]. The most commonly used electrophysiological test, due to its wide availability, is RNS, in which a motor nerve of a muscle is stimulated and the compound muscle action potential (CMAP) amplitude of that muscle is recorded. In myasthenia gravis, there is a progressive decline in the CMAP amplitude with the first four to five stimuli (a decremental response). RNS is considered positive if the decrement is >10%. SFEMG, a more technically demanding and less widely available test than RNS, is the most sensitive clinical test for myasthenia gravis. In SFEMG, the action potentials of two muscle fibres innervated by the same axon are recorded. The variability in time of the second action potential relative to the first is called “jitter”. Disorders with impaired transmission at the neuromuscular junction, such as myasthenia gravis, will produce increased jitter [7].
+
+The four main types of treatment for ­myasthenia gravis include symptomatic, chronic immunosuppressive and rapid immunomodulatory therapy, and thymectomy. The initial therapy for most patients with mild to moderate symptoms is with an acetyl­cholinesterase inhibitor. Pyridostigmine is most commonly used. Neostigmine and ambenonium chloride are available, but are less effective than ­pyridostigmine. If full clinical remission is not achieved with symptomatic therapy, immunosuppressive therapy with prednisone or a combination with azathioprine is added. ­Mycophenolate mofetil is an alternative option, with methotrexate, ­cyclosporine and tacrolimus being alternative secondary immunosuppressive drugs [3, 4, 8]. ­Rituximab might be a potential treatment option for myasthenia gravis, with small case series showing substantial improvement in patients with insufficient response to prednisolone and ­azathioprine [9]. In myasthenia gravis patients with thymoma, thymectomy should be performed, as it is associated with better outcomes [3]. In patients with severe worsening of muscle weakness involving the respiratory muscles and causing NRF, also termed myasthenic crisis, rapid therapy with plasma exchange or intravenous immune globulin is used, both having similar efficacy [10].
+
+Any time there are difficulties weaning patients from mechanical ventilation due to neuromuscular pathology, critical illness polyneuropathy (CIP) must be considered. CIP is a symmetric distal axonal sensory–motor polyneuropathy affecting limb and respiratory muscles. It is a relatively common cause of neuromuscular weakness in critically ill patients in the ICU, along with critical illness myopathy. CIP is usually a consequence of severe sepsis and multiorgan failure or treatments required in the intensive care setting. It is usually discovered with difficulty in weaning a patient from mechanical ventilation that cannot be explained by pulmonary or cardiac pathology [11].
+
+Contrary to myasthenia gravis, which is a classic autoantibody-mediated autoimmune disease, the pathogenesis of CIP is less well understood. Impaired microcirculation and mitochondrial function, and increased secretion of stress hormones, cytokines and nitric oxide during critical illness are probable mechanisms. Excitable tissues, such as peripheral nerves and muscle, require energy to maintain function, and are probably damaged by the combination of ischaemic and cytopathic hypoxia, resulting in axon degeneration [11, 12]. Reduction of nerve excitability by inactivation of sodium channels may also play a role [13].
+
+The main clinical features of CIP are flaccid and symmetrical weakness that can range from moderate paresis with reduced deep-tendon reflexes to severe quadriplegia with no deep-tendon reflexes, muscle wasting and hypotonia with or without involvement of respiratory muscles. The cranial nerves are usually spared. Distal and proximal muscles are usually equally affected. Sensory impairment can also occur, with distal loss of pain, temperature and vibration senses [12, 14].
+
+Findings on electrophysiological tests are consistent with primary axonal degeneration and show a reduction in CMAP and sensory nerve action potential amplitudes. Contrary to myasthenia gravis, there is no progressive decline in CMAP amplitude with repetitive stimulation (no decremental response) [12].
+
+Whereas there are multiple treatment options in myasthenia gravis, no specific treatment has yet been effective in the case of CIP. Treatment is mainly supportive. Aggressive treatment of sepsis and early rehabilitation play an important role [14].
+
+Here, we present a case report of a patient diagnosed with myasthenia gravis, presenting with bulbar dysfunction, bilateral vocal cord paresis and hypercapnic respiratory failure, which is rarely the initial presentation of the disease. There are a few reports of bilateral vocal cord paresis and respiratory failure as an initial presentation of myasthenia gravis [15, 16]. In some cases of persistent bilateral vocal cord paresis due to myasthenia gravis, it is not possible to evacuate the tracheostomy tube and long-term (permanent) tracheostomy may be needed despite adequate treatment, as was the case with this patient [17].
+
+Conclusion
+Myasthenia gravis is a common cause of NRF, with CIP being the main cause of muscle weakness and NRF acquired in the ICU setting. Early recognition of NRF and its cause is important. Aggressive treatment of sepsis and early rehabilitation are essential and improve outcomes in CIP.
+
+Conflict of interest: G. Ancans has nothing to disclose.
+
+Conflict of interest: D. Zentina has nothing to disclose.
+
+Conflict of interest: Z. Kravale has nothing to disclose.

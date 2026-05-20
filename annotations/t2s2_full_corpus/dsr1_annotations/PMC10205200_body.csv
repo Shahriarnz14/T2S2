@@ -1,0 +1,62 @@
+event,time
+17 years old,0
+female,0
+presented to Emergency Department,0
+fever,-264
+altered behavior,-264
+abnormal body movement,-264
+altered sensorium,-264
+agitation,-264
+suspiciousness,-264
+aggression,-264
+restlessness,-264
+disturbed sleep,-264
+violent behavior,-264
+focal abnormal movement,-264
+generalized abnormal movement,-264
+up rolling of eyes,-264
+clenching of teeth,-264
+clenching of fist,-264
+tongue biting,-264
+altered level of consciousness,-264
+prescribed olanzapine 5 mg,-264
+prescribed phenytoin 900 mg,-264
+temperature 101°F,0
+blood pressure 130/70 mmHg,0
+tachycardia,0
+heart rate 117 beats/min,0
+tachypnea,0
+respiratory rate 20 breaths/min,0
+oxygen saturation 92%,0
+GCS score 8,0
+comatose state,0
+APE2 score 7,0
+absent nuchal rigidity,0
+bilaterally mute plantar reflex,0
+cognitive function not assessed,0
+lumbar puncture,0
+managed with oxygen,0
+IV fluids,0
+anticonvulsants,0
+antibiotics,0
+transferred to ICU,0
+CT head normal,0
+MRI brain normal,0
+CT abdomen/pelvis normal,0
+CSF lymphocytic pleocytosis,0
+CSF protein normal,0
+CSF glucose normal,0
+RT-PCR HSV negative,0
+RT-PCR Mycobacterium tuberculosis negative,0
+autoimmune encephalitis suspected,0
+autoimmune encephalitis panel sent,0
+anti-NMDA receptor positive,0
+anti-NMDA receptor encephalitis diagnosis,0
+IV methylprednisolone 1g/day for 5 days,0
+IVIG 16g/day for 5 days,0
+no improvement,24
+ventilator-associated pneumonia,48
+septic shock,72
+unresponsive to norepinephrine,72
+intractable cardiac failure,72
+passed away,72

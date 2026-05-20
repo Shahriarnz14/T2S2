@@ -1,0 +1,85 @@
+event,time
+55 years old,0
+female,0
+admitted to the unit with abdominal distress,0
+medical history of two kidney transplantations,-61320
+IgA nephropathy,-61320
+chronic allograft rejection,-61320
+current allograft functioning with eGFR 60 ml/min/1.73 m²,0
+computed tomographic scan revealed free intra-abdominal air,0
+sigma perforation,0
+sigma diverticulitis type 2c2,0
+sigma resection,0
+protective ileostomy,0
+required two more surgical interventions,72
+burst abdomen,72
+presumed peritonitis,144
+initial blood cultures positive with Alistipes onderdonkii,0
+intraoperative cultures grew Klebsiella oxytoca,0
+developed fever,144
+respiratory insufficiency,144
+hemodynamic compromise,144
+switched to mechanical ventilation,144
+norepinephrine required,144
+antibiotic therapy intensified,144
+vitamin C 1.5 g IV four times daily for 4 days,144
+vitamin B1 200 mg IV three times daily for 3 days,144
+urine output progressively declined,168
+plasma creatinine increased,168
+no nephrotoxic medications administered,168
+immunosuppression with tacrolimus,0
+immunosuppression with mycophenolate,0
+immunosuppression with corticosteroids,0
+fluctuating tacrolimus trough levels (2.4–19.3 ng/ml),168
+tubular proteinuria 750 mg alpha-1-microglobulin per g creatinine,168
+urine albumin 180 mg per g creatinine,168
+urine microscopy no erythrocytes,168
+urine microscopy no leukocytes,168
+urine microscopy no casts,168
+sonography excluded obstructive uropathy,168
+normal vascular resistance indices (0.66–0.78),168
+continuous renal replacement therapy initiated,192
+acute tubular damage in context of sepsis,192
+allograft rejection considered unlikely,192
+HLA-sensitized,-61320
+kidney allograft biopsy performed,216
+"laboratory results: leukocyte count 17,460/μl",216
+hemoglobin 7.2 g/dl,216
+"thrombocyte count 443,000/μl",216
+sodium 142 mmol/l,216
+potassium 4.1 mmol/l,216
+calcium 2.3 mmol/l,216
+creatinine 0.7 mg/dl,216
+urea 14 mg/dl,216
+procalcitonin 30.0 ng/ml,216
+LDH 186 U/l,216
+tacrolimus trough level 13.0 ng/ml,216
+urine protein ++,216
+urine protein-creatinine ratio 583 mg/g,216
+urine albumin-creatinine ratio 179 mg/g,216
+urine alpha-1-microglobulin-creatinine ratio 746 mg/g,216
+kidney biopsy showed acute tubular injury,216
+intratubular calcium oxalate depositions,216
+globally sclerosed glomerulus,216
+discrete glomerulitis,216
+moderate peritubular capillaritis,216
+C4d negative,216
+no double contours of glomerular basement membranes,216
+no mesangial hypercellularity,216
+no endocapillary hypercellularity,216
+no crescents,216
+discrete lymphoplasmacellular infiltrates,216
+mild tubulitis,216
+borderline changes,216
+SV40 staining negative,216
+interstitial fibrosis 15%,216
+tubular atrophy 15%,216
+donor-specific antibodies negative,216
+diagnosed with oxalate nephropathy secondary to vitamin C,240
+vitamin C discontinued,240
+citrate-based continuous renal replacement therapy continued,240
+urinary output restored,336
+continuous renal replacement therapy terminated,336
+second episode of acute kidney injury,504
+kidney allograft function recovered to eGFR 45–50 ml/min/1.73 m²,8760
+discharged,960

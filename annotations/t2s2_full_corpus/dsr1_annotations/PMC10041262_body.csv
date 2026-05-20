@@ -1,0 +1,85 @@
+event,time
+28-year-old male,0
+farmer,0
+admitted to the hospital,0
+ingestion of two fresh tablets of Celphos (AlP),-4
+vomiting,-4
+pain in the abdomen,-4
+agitated,0
+anxious,0
+irritable,0
+pulse rate not palpable,0
+blood pressure not recordable,0
+heart rate 110/min,0
+respiratory rate 28/min,0
+oxygen saturation 95%,0
+sinus tachycardia,0
+T wave inversion in lead 3,0
+intravenous crystalloids,0
+IV magnesium sulphate 1 gm stat,0
+IV magnesium sulphate 8 hourly,0
+IV calcium gluconate 8 hourly,0
+IV hydrocortisone 100 mg stat,0
+IV hydrocortisone 12 hourly,0
+IV dopamine,0
+noradrenaline,0
+gastric lavage with KMnO4,0
+activated charcoal in stomach,0
+activated charcoal repeated 8 hourly,0
+routine investigations normal,0
+"metabolic acidosis (pH 7.2, HCO3 8 mmol/L, PCO2 33 mmol/L)",0
+intubated,0
+shifted to ICU,0
+BP 60–80 mmHg (systolic),6
+PR 120/min,6
+RR 20/min,6
+input/output 3L/300 ml,24
+monomorphic ventricular tachycardia (VT),48
+DC cardioversion with synchronised 150 J,48
+IV amiodarone 150 mg bolus,48
+IV amiodarone infusion,48
+normal sinus rhythm (NSR),48
+cardiac biomarkers raised,48
+BP 70/50 mmHg to 90/60 mmHg,96
+blood urea 100 mg/dl,96
+serum creatinine 4.5 mg/dl,96
+urine output 400 ml/24 hours,96
+AST 80 IU/L,96
+ALT 90 IU/L,96
+ALP 200 U/L,96
+S bilirubin 2.5 mg/dl,96
+pH 7.4,96
+HCO3 18 mmol/L,96
+CO2 42 mmol/L,96
+BP 100/70 mmHg,120
+PR 110/min,120
+RR 22/min,120
+TLC 14000/mm3,120
+polymorphonuclear leucocytosis,120
+urea 200 mg/dl,120
+S. creatinine 7.5 mg/dl,120
+urine output 400 ml/24 hours,120
+"metabolic acidosis (pH 7.1, HCO3 10 mmol/L)",120
+haemodialysis performed,120
+urea 70 mg/dl,168
+creatinine 4.0 mg/dl,168
+urine output 1200 ml/24 hours,168
+extubated,144
+shifted to SDU,192
+vitals normal,192
+liver function improving,336
+kidney function improving,336
+discharged,336
+cardiac arrhythmia (VT) managed,48
+refractory shock,96
+metabolic acidosis reappearance,120
+septicaemia,120
+mechanical ventilation,0
+vasoactive drugs,0
+low bicarbonate,0
+low pH,0
+high mortality indicators,0
+no gastro-intestinal bleeding,0
+no electrolyte imbalance,0
+no severe hypoxia,0
+no aspiration pneumonitis,0

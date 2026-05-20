@@ -1,0 +1,81 @@
+event,time
+65 years old ,0
+female ,0
+admitted to the hospital ,0
+fever ,0
+chills ,0
+pain in left leg ,0
+cellulitis ,0
+intravenous clindamycin 600 mg thrice daily started ,0
+intravenous benzylpenicillin 2 million units 4 times daily started ,0
+anti-parkinsonism drugs continued ,0
+diabetic medications continued ,0
+parkinsonism ,-17520
+diabetes mellitus ,-17520
+levodopa/carbidopa ,-17520
+rasagiline ,-17520
+ropinirole ,-17520
+trihexyphenidyl ,-17520
+amantadine ,-17520
+metformin ,-17520
+glipizide ,-17520
+multiple hospital admissions for worsening parkinsonism ,-720
+multiple ICU admissions for worsening parkinsonism ,-720
+high-temperature spikes above 102°F ,48
+tachycardia ,48
+tachypnea ,48
+hypotensive ,48
+encephalopathic ,48
+shifted to ICU ,48
+ICU admission ,48
+sepsis considered ,48
+multi-organ dysfunction syndrome considered ,48
+intravenous linezolid 600 mg twice daily started ,48
+intravenous piperacillin-tazobactam 4.5 g thrice daily started ,48
+vancomycin not considered ,48
+hemodynamics improved ,48
+minimal inotropic supports ,48
+anti-parkinsonism drugs continued ,48
+oral hypoglycemic agents stopped ,48
+insulin started ,48
+"white blood cell count 14,200 cells/mm3 ",48
+confused ,60
+drowsy ,60
+disoriented ,60
+altered sensorium ,60
+myoclonus ,60
+tremors ,60
+jerky movements ,60
+no neck stiffness ,60
+computed tomography of the brain not significant ,60
+cerebrospinal fluid analysis not significant ,60
+high temperature 103°F ,72
+altered mental status ,72
+myoclonus persisted ,72
+jerky movements persisted ,72
+tremors persisted ,72
+blood cultures sterile ,72
+pus cultures sterile ,72
+"white blood cell count 11,000 cells/mm3 ",72
+better glycemic control ,72
+no other abnormalities on laboratory investigation ,72
+borderline renal parameters ,48
+serotonin syndrome suspected ,72
+serotonin syndrome ,72
+linezolid probable adverse drug reaction ,72
+Naranjo score six (probable) ,72
+WHO-UMC causality assessment probable ,72
+drug interaction probability scale probable ,72
+linezolid stopped ,72
+rasagiline stopped ,72
+temperature settled ,80
+heart rate normal ,96
+sensorium improved ,96
+tremors completely subsided ,96
+shifted out of the ICU ,72
+started walking with support ,240
+discharged from the hospital ,240
+discharged with anti-parkinsonism drugs ,240
+rasagiline added ,408
+regular follow-up with the neurologist ,720
+asymptomatic for serotonin syndrome ,720

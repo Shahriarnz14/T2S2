@@ -1,0 +1,135 @@
+event,time
+28 years old,0
+male,0
+admitted to a local hospital,0
+BMI of 70.1 kg/m2,0
+gained approximately 80 kg in weight during a 1-year period,-8760
+worsening edema in both lower legs,-168
+dyspnea on exertion,-168
+transferred to our hospital,0
+respiratory failure,0
+super-obesity,0
+supplemental oxygen delivered via face mask at 3 L/min,0
+arterial blood gas pH 7.21,0
+PaCO2 78 mmHg,0
+PaO2 105 mmHg,0
+HCO3− 30.7 mmol/L,0
+provisional diagnosis of acute cardiac failure,0
+obesity hypoventilation syndrome,0
+started on noninvasive positive-pressure ventilation therapy,0
+started on furosemide,0
+developed worsening hypercapnia,48
+impaired consciousness,48
+admitted to the Intensive Care Unit,48
+GCS 14 (E4V4M6),48
+blood pressure 128/74 mmHg,48
+heart rate 90 bpm,48
+SpO2 90%,48
+FIO2 0.45,48
+expiratory positive airway pressure 6 cmH2O,48
+inspiratory positive airway pressure 18 cmH2O,48
+Ti of 2 s,48
+rise time of 0.3 s,48
+facial edema prominent,48
+leg edema prominent,48
+wheezed on expiration,48
+no heart murmur,48
+short neck,48
+failed to locate jugular vein,48
+blood test showed mildly elevated inflammatory response,48
+elevated BNP level,48
+arterial blood gas pH 7.236,48
+PaCO2 94 mmHg,48
+PaO2 78 mmHg,48
+HCO3 39.1 mmol/L,48
+lactate 4.9 mmol/L,48
+respiratory acidosis,48
+chest radiograph showed marked cardiomegaly,48
+cardiothoracic ratio 66.2%,48
+enhanced pulmonary vasculature,48
+electrocardiogram showed sinus rhythm,48
+heart rate of 80 bpm,48
+chest computed tomography showed no infiltrative shadow,48
+no pleural effusion,48
+no atelectasis,48
+contrast-enhanced CT showed no thrombus in the pulmonary artery,48
+intubated,48
+ventilator set to assist/control mode,48
+FIO2 0.6,48
+ventilation frequency 16/min,48
+pressure control 16 cmH2O,48
+positive end-expiratory pressure 10 cmH2O,48
+difficult to evaluate cardiac function by TTE,48
+PAC placed to monitor hemodynamic status,48
+mean pulmonary artery pressure 49 mmHg,48
+central venous pressure 10 mmHg,48
+pulmonary artery wedge pressure 18 mmHg,48
+cardiac output 7.8 L/min,48
+cardiac index 2.8 L/min/m2,48
+diagnosis of pulmonary hypertension,48
+alveolar partial pressure of oxygen optimized,48
+alveolar partial pressure of carbon dioxide optimized,48
+transoesophageal echocardiography performed,120
+no abnormal left ventricular wall motion,120
+no significant valvular disease,120
+no patent foramen ovale,120
+positional changes triggered increase in systolic pulmonary artery pressure to 80–90 mmHg,120
+tracheal aspiration triggered increase in systolic pulmonary artery pressure to 80–90 mmHg,120
+systolic pressure decreased to 60–70 mmHg,120
+SpO2 decreased to <80%,120
+deep sedation management started,120
+continuous administration of muscle relaxants started,120
+catheter removed due to suspicion of infection,240
+mean pulmonary artery pressure 31 mmHg,240
+continued management using rapid decrease in blood pressure as indicator of circulatory collapse,240
+continued management using rapid decrease in SpO2 as indicator of circulatory collapse,240
+septic shock due to catheter infection,240
+noradrenaline continued for hemodynamic maintenance,240
+muscle relaxants discontinued,240
+spontaneous respiration restored,240
+condition gradually improved,360
+NAd administration discontinued,360
+hemodynamic stability,360
+extubated,552
+discharged from ICU,672
+discharged from hospital,2040
+weight decreased by 24 kg,2040
+ventilator weaned off,2040
+PH associated with pulmonary disease and/or hypoxemia (Group 3),48
+no extracorporeal life support required,2040
+deep sedation management controlled sympathetic nerve stimulation,120
+elevated plateau pressure tolerated,48
+driving pressure tolerated,48
+adequate ventilation volume maintained,48
+fat deposition in neck and thoracic subcutaneous tissue,0
+decreased thoracic compliance,0
+increased abdominal visceral fat,0
+diaphragmatic elevation,0
+narrowing of upper airways,0
+decreased ventilation,0
+respiratory acidosis caused by hypoxemia and hypercarbia,0
+pulmonary vasoconstriction,0
+increased pulmonary arterial pressure,0
+upper airway compressed and obstructed,0
+labored breathing,0
+negative intrathoracic pressure,0
+increased venous perfusion,0
+right heart system capacitively loaded,0
+"PH pathogenesis factors: genetic mutations, drugs/toxins, congenital heart disease, hypoventilation syndromes, hematological disorders",0
+marked edema throughout body,0
+cardiac enlargement,0
+treated for cardiac failure,0
+fluid management,0
+rapid weight gain,0
+chronic exposure to hypoxia,0
+frequent circulatory collapse,120
+increased sympathetic activity caused by positional changes,120
+increased sympathetic activity caused by tracheal suctioning,120
+rapid pulmonary vasoconstriction caused by hypoxemia,120
+rapid pulmonary vasoconstriction caused by acidosis,120
+sepsis,240
+no infiltrative shadow,48
+no pleural effusion,48
+no atelectasis,48
+no thrombus in pulmonary artery,48
+no significant abnormalities in other blood variables,48

@@ -1,0 +1,85 @@
+event,time
+85-year-old man,0
+male,0
+atrial fibrillation (past medical history),-8760
+benign prostatic hypertrophy (past medical history),-8760
+injuring his leg,-1440
+trismus,-1440
+hypertonia,-1440
+admitted to a local hospital,-1440
+diagnosis of C. tetani infection,-1440
+treatment with immunoglobulins,-1440
+tetanus vaccination,-1440
+metronidazole (10 days),-1440
+transferred to ICU,-1416
+tracheostomy,-1416
+mechanical ventilation,-1416
+vasoactive support,-1416
+respiratory failure,-1416
+seizures,-1416
+treated with baclofen,-1416
+treated with midazolam,-1416
+treated with diazepam,-1416
+severely slow cerebral activity on EEG,-1416
+ventilator-associated pneumonia,-1416
+blood cultures positive for Klebsiella pneumoniae,-1416
+blood cultures positive for MSSA,-1416
+antibiotic therapy with piperacillin-tazobactam,-1416
+moved to geriatric unit in a coma,-1392
+breathed spontaneously on 4 L/min of supplemental oxygen via tracheal cannula,-1392
+antibiotic therapy switched to linezolid (14 days) due to VAP exacerbation,-1368
+combined treatment with meropenem (17 days) after septic shock,-1368
+patient gradually awoke,-1344
+feeding tube removed,-1344
+cholestasis,-1344
+acute edematous pancreatitis,-1344
+endoscopic treatment postponed due to spontaneous recovery,-1344
+"urinary tract infection caused by K. pneumoniae, A. baumannii, and E. faecalis",-1344
+treated with colistin,-1344
+treated with amoxicillin-clavulanate,-1344
+clinical condition improved,-1320
+considered eligible for rehabilitation,-1320
+transferred from geriatric medicine unit to rehabilitation unit,0
+underwent intensive treatment for the sequelae of C. tetani infection,0
+placed in MDRO isolation,0
+still required tracheal supplemental oxygen (1 L/min),0
+bladder catheter,0
+pressure ulcers on right heel (unstageable),0
+pressure ulcers on left heel (stage II),0
+pressure ulcers on sacrum (stage II),0
+pressure ulcers on right elbow (stage III),0
+sarcopenic,0
+low handgrip strength,0
+appendicular skeletal mass (16.9 kg),0
+"on the first day, patient underwent rehabilitation with good compliance",24
+Clostridioides difficile infection occurred,24
+oral vancomycin (10 days),24
+atrial fibrillation with third-degree atrioventricular block (heart rate 30 beats/min),96
+without secondary bradyarrhythmia,96
+transferred to cardiac ICU,96
+single-chamber pacemaker implantation,96
+hyperkinetic delirium,96
+"two days later, transferred to our hospital",144
+Pseudomonas aeruginosa bloodstream infection,144
+treated with ceftazidime-avibactam,144
+treated with amikacin (1 week),144
+tested positive for SARS-CoV-2,168
+treated with remdesivir (3 days),168
+placed on droplet isolation,168
+second recurrence of C. difficile,192
+treated with fidaxomicin (10 days),192
+"bloodstream infection due to Candida parapsilosis (fluconazole-resistant), MSSA, and Candida tropicalis",480
+intravenous catheter replaced,480
+treated with caspofungin and cefazolin (17 days),480
+bloodstream infection caused by P. aeruginosa,720
+antibiotic therapy with piperacillin-tazobactam,720
+shifted to aztreonam and ceftazidime-avibactam,720
+"after 4 days, improvement, antibiotic shifted to cefepime (10 days)",816
+tracheostomy closure by ENT specialist and pulmonologist,2160
+nutritional supplementation prescribed,2160
+short physiotherapy sessions,2160
+"at discharge, patient able to perform postural transition with assistance",2880
+motor and respiratory reconditioning continued at discharge,2880
+wheelchairs and walkers recommended,2880
+"rehabilitation, ENT, and geriatric follow-up recommended",2880
+discharged,2880

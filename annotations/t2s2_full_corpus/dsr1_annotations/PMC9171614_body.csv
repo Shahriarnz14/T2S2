@@ -1,0 +1,77 @@
+event,time
+37 years old,0
+male,0
+quadriplegia,0
+chronic hypoxic respiratory failure,0
+mechanical ventilation via tracheostomy,0
+admitted to intensive care unit,0
+pneumonia,0
+serum creatinine level 1.39 mg/dl,0
+chest imaging suggestive of multifocal pneumonia,0
+acute respiratory distress syndrome,-72
+septic shock,-72
+vasopressor therapy,-72
+worsening oxygen requirement,-72
+negative SARS-CoV-2 test,-72
+serum creatinine level 3.3 mg/dl,-72
+decline in urine output,-72
+renal sonogram excluded obstructive uropathy,-72
+fractional excretion of urea 25.6%,-72
+prerenal etiology,-72
+intravascular volume depletion,-72
+treatment with diuretics,-72
+increased extravascular lung water,-72
+i.v. fluid bolus administered,-72
+nephrology consultation requested,-72
+possible glomerulonephritis,-72
+possible pulmonary-renal syndrome,-72
+"positive antinuclear antibody test (1:160, speckled pattern)",-72
+equivocal bronchoscopy for alveolar hemorrhage,-72
+mechanical ventilation with FiO2 70%,0
+positive end-expiratory pressure 12 cm H2O,0
+blood pressure 96/53 mm Hg,0
+pulse rate 92 bpm,0
+oxygen saturation 90%,0
+bilateral lung crackles,0
+trace pitting pedal edema,0
+urine output 350 ml/24h,0
+urine microscopy with muddy brown casts,0
+no dysmorphic red blood cells,0
+elevated serum creatinine,0
+hypernatremia (146 mmol/l),0
+hyperkalemia (5.9 mmol/l),0
+serum bicarbonate 25 mmol/l,0
+dehydration,0
+intravascular volume depletion from overdiuresis,0
+bedside ultrasound performed,0
+bilateral diffuse B-line pattern on lung ultrasound,0
+hyperdynamic left ventricular systolic function,0
+enlarged right ventricle,0
+interventricular septal flattening (D-sign),0
+plethoric IVC,0
+hepatic vein Doppler S-wave reversal,0
+portal vein Doppler pulsatile with flow reversal,0
+severe venous congestion,0
+initiated continuous renal replacement therapy,0
+negative 6.6 L fluid balance,72
+hepatic vein Doppler S < D,72
+portal vein pulsatility improved,72
+blood pressure 115/57 mm Hg,72
+discontinued vasopressors,72
+continued ultrafiltration,72
+negative 5.1 L fluid balance,120
+hepatic vein Doppler S < D,120
+portal vein waveform normalized,120
+urine output 150 ml/24h,120
+discontinued continuous renal replacement therapy,120
+transitioned to intermittent hemodialysis,120
+urine output 600 ml overnight,144
+negative 2 L fluid balance,192
+hepatic vein Doppler normalized (S > D),192
+portal vein Doppler normal,192
+IVC remained dilated,192
+lung ultrasound improvement,192
+D-sign resolved,192
+serum creatinine 2.1 mg/dl,192
+serum creatinine 0.6 mg/dl (baseline),336
+no renal replacement therapy,192

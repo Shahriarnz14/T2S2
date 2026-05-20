@@ -1,0 +1,54 @@
+event,time
+92-year-old,0
+woman,0
+presented to the emergency department,0
+fever,-48
+myalgia,-48
+anorexia,-48
+general weakness,-48
+hypertension,0
+lived in rural region,0
+contact with grass,0
+contact with domestic animals,0
+insect bite on left shoulder,0
+blood pressure 94/54 mmHg,0
+pulse rate 85 beats per minute,0
+temperature 37.5°C,0
+respiratory rate 20 breaths per minute,0
+oxygen saturation 95%,0
+leukopenia,0
+thrombocytopenia,0
+elevated liver enzymes,0
+ceftriaxone administered,0
+SFTSV detected,24
+"SFTSV viral load 186,606 copies/mL",24
+conservative treatment,0
+remained stable until day 4,96
+pneumonia,120
+respiratory failure,120
+chest X-ray,120
+high-resolution CT lung,120
+bronchiolitis in upper lobes,120
+bronchial wall thickening in lower lobes,120
+cefepime administered,120
+vancomycin administered,120
+voriconazole loaded,120
+serum Aspergillus GM 6.1,120
+mechanical ventilation started,144
+gram stain performed,144
+culture performed,144
+fungus culture performed,144
+septic shock,144
+multifocal consolidations on chest X-ray,144
+intravenous immunoglobulin added,168
+serum Aspergillus GM 3.7,168
+serum Aspergillus GM 1.6,216
+CD4+ lymphocyte count low,0
+death,264
+respiratory failure,264
+refractory hypotension,264
+metabolic acidosis,264
+no other pathogens identified,0
+no medical history other than hypertension,0
+no traditional risk factors for IPA,0
+no corticosteroids administered,0

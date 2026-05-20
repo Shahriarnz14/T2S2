@@ -1,0 +1,62 @@
+event,time
+58 years old,0
+man,0
+schizophrenia,0
+substance abuse,0
+diabetes mellitus,0
+hypertension,0
+headache,0
+chest pain,0
+afebrile,0
+hypertensive,0
+tachycardic,0
+physical exam unremarkable,0
+confused,0
+intubated,0
+hyperglycemia,0
+acute kidney injury,0
+altered mental status,0
+magnetic resonance imaging of the head with contrast negative,0
+lumbar puncture negative,0
+electrocardiogram negative,0
+computed tomography chest with contrast negative,0
+blood cultures no growth,0
+extubated,24
+synthetic cannabinoid intoxication,24
+agitated,96
+tachycardic,96
+hypertensive,96
+abdominal distension,96
+hypotensive,144
+intravenous fluid resuscitation,144
+febrile,192
+re-intubated,192
+respiratory distress,192
+arterial lactate peaked at 2.1 mmol/L,192
+piperacillin-tazobactam,192
+blood cultures grew Lactobacillus species,192
+central line,192
+periphery,192
+aerobic bottles,192
+anaerobic bottles,192
+persistent bandemia,192
+progressive worsening diarrhea,192
+metronidazole added,192
+"noncontrast CT chest, abdomen, pelvis",192
+wall thickening of ascending colon,192
+surrounding inflammatory changes,192
+ileus,192
+C. difficile toxin negative,192
+colonoscopy,192
+diffuse edema from hepatic flexure to cecum,192
+intermittent areas of sparing,192
+severe ulceration,192
+necrotic mucosa,192
+no bleeding on biopsy,192
+ischemic colitis,192
+transesophageal echocardiogram no vegetation,192
+clinical improvement,456
+extubated,456
+discharged,456
+piperacillin-tazobactam course,456
+metronidazole course,456

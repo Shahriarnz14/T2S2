@@ -1,0 +1,113 @@
+pmcIntroduction
+
+Unvaccinated patients with comorbidities that impair the immune function, such as type 2 diabetes mellitus, are more likely to develop severe COVID-19.
+
+The COVID-19-associated acute respiratory distress syndrome (CARDS) has raised new concerns in intensive care units globally owing to the presence of secondary fungal infections.1
+
+These pathogens are mainly known for being opportunistic and mostly affect immunocompromised patients. Their diagnosis is a major challenge for severely ill patients with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as the virus disrupts the immune system, producing high concentrations of pro-inflammatory and anti-inflammatory cytokines as well as low CD4 and CD8 counts, leading to an environment for fungal coinfections and the development of lung pathologies.2
+
+The most frequently described opportunistic infections in critically ill patients with COVID-19, either as infection or superinfection, are bacterial, followed by fungal infections.3
+
+In the latter, the infection with Trichosporon has not only been limited to patients with hematological disorders, but also in COVID-19 patients with nosocomial pneumonia.4
+
+Trichosporon asahii is a yeast-like organism or a basidiomycete, commonly found in soil, water, and animals, and is widely spread in nature, and can be an opportunistic pathogen.5 They can also be a part of the normal human flora; however, they become a pathogenic risk for immunocompromised individuals with hematological disease, diabetes, or chemotherapy.6
+
+Patients diagnosed with CARDS might be exposed to immunosuppressants, broad-spectrum antibiotics, and mechanical ventilation.7 With this in mind, Trichosporon asahii should be investigated in patients with deteriorating conditions as this is a common organism that causes high mortality in patients with severe COVID-19.8
+
+This report describes the case of a 71-year-old man from Ecuador with a history of type 2 diabetes mellitus, severe COVID-19 pneumonia, and lung cavitation associated with triple infections with Trichosporon asahii, Klebsiella pneumoniae, and Pseudomonas aeruginosa.
+
+Clinical Case
+
+A 71-year-old man with a history of hypertension and type 2 diabetes was admitted to our hospital with a diagnosis of COVID-19 pneumonia from a private care facility. The patient was transferred to our hospital after a 48-hour admission to the emergency department of another hospital, where tocilizumab (maximum dose 800 mg) and corticosteroid (4 mg every 6 hours) were administered.
+
+An initial COVID-19 real-time polymerase chain reaction (RT-PCR) test for SARS-CoV-2 was performed using a throat swab, which showed a positive result for SARS-CoV-2. The patient had received no COVID-19 vaccine because it was not available in our country at the time of presentation of this case.
+
+On arrival, he presented with signs of hypoxemic respiratory insufficiency and showed pulmonary involvement by COVID-19 based on typical computed tomography (CT) findings (COVID-19 Reporting and Data System [CO-RADS] 5-6). Therefore, the patient was intubated, with an arterial oxygen partial pressure (PaO2)/fractional inspired oxygen (FIO2) ratio of 120 prior to intubation, and mechanical ventilation was initiated.
+
+Serum tests revealed leukocytosis: 29.000 k/uL, lymphopenia: 0.40 K/uL, C-reactive protein: 44 mg/L, interleukin-6 (IL-6): 4365 pg/mL, ferritin: >2000 ng/mL, D-dimer: 6520 ng/mL, lactate dehydrogenase (LDH): 785 U/L, and creatinine: 2.1 mg/dL. Culture samples were taken and empiric antibiotic therapy was started with imipenem and levofloxacin. After a few days of hospitalization, the patient’s renal function deteriorated and, therefore, four hemofiltration sessions were prescribed. Chest radiography (CXR) revealed the presence of a cavitary image in the right upper lobe.
+
+On day 7, the hemoculture and urine culture results showed no bacterial growth; however, the patient’s clinical condition did not improve. Broad-spectrum antibiotics, meropenem, vancomycin, and the antifungal fluconazole, were prescribed. In addition, a bronchoscopy procedure was performed, which revealed erythematous lesions in the bronchial tree, abundant purulent secretions, and a cavitary lesion mainly in the right bronchial tree (Picture 1).
+
+Picture 1. Erythematous lesions in the bronchial tree and abundant purulent secretions, mainly in the right bronchial tree.
+
+Bronchoalveolar lavage (BAL) revealed erythematous lesions in the bronchial tree, abundant purulent secretions, and a cavitary lesion, mainly in the right bronchial tree.
+
+The BAL samples isolated Klebsiella pneumoniae and Pseudomonas aeruginosa carbapenemase class A. Matrix-assisted laser desorption/ionization–time of flight (MALDI–TOF) Biotyper mass spectrometry, molecular biology methods, multiplex PCR, and molecular identification were performed. The right BAL fungal culture isolated Trichosporon asahii (Picture 2A and B). The BAL sample was negative for both Ziehl Neelsen (ZN) stain and GeneXpert mycobacterium tuberculosis (MTB)/rifampicin (RIF; Xpert), and the Löwenstein-Jensen culture for tuberculosis was also negative.
+
+Picture 2. (A) Colonies of cereus and whitish appearance corresponding to Trichosporon asahii. (B) Development of colonies of Pseudomonas, Klebsiella, and tiny colonies of Trichosporon were observed.
+
+Ceftazidime/avibactam, colistin, and voriconazole were administered. Despite all the efforts, the patient presented with disease progression, septic shock, and multi-organ failure, and died after 15 days of hospitalization. (See the time lines in Table 1).
+
+Table 1. Timeline of Events Related to the Progression of Disease.
+
+	Event	
+Day 1	The patient with a previous history of hypertension and type 2 diabetes was admitted to our hospital from a private facility care with fever, cough, and dyspnea. Oxygen therapy with noninvasive mechanical ventilation was started and ceftazidime and corticosteroids were administered.	
+Day 2	Invasive mechanical ventilation. Septic shock and renal failure with an estimated glomerular filtration rate (eGFR) with MDRD formulae: 27.5 mL/min/1.73 m2. Treatments with imipenem/cilastatin, levofloxacin, corticosteroids, and antithrombotic were given.	
+Day 3	Estimated GFR with MDRD formulae: 16.6 mL/min/1.73 m2, oligoanuria, and metabolic acidosis.	
+Day 4	Hemodiafiltration was started.	
+Day 5	Second hemodiafiltration session. Urea: 16, creatinine: 1.9, and improved metabolic acidosis and diuresis.	
+Day 6	Third hemodiafiltration session. Leukocytosis, neutrophilia, and elevated inflammatory markers. The CXR revealed the presence of a possible cavitary image in the right upper lobe.	
+Day 7	Hemoculture and urine culture results found no growth and treatment was rotated to broad-spectrum antibiotics, meropenem, vancomycin, and the antifungal fluconazole.	
+Day 12	Respiratory weaning failure. Sedation, relaxation, and paralysis with a ventilator strategy protection were initiated.	
+Day 13	Fiberoptic bronchoscopy was done.
+The ventilator settings at the time of fiberoptic bronchoscopy were standardized, with increasing the FiO2 to 100%, with tidal volume (TV) 7 to 8 mL/kg, ideal body weight, respiratory rate (RR) to 20 per minute L/min, the level of positive end expiratory pressure (PEEP; 5 cm H2O), pressure limit to 60 cm H2O, and maximum inspiratory flow rate to 50 with ramp wave and additional leak compensation. Fifteen minutes before the start of the procedure, the fraction of inspired oxygen was set at 100% and remained at that value throughout the procedure. During the fiberoptic bronchoscopy, all the ventilatory parameters remained constant.	
+Day 14	The BAL sample isolated, by the molecular biology method, multiplex PCR, and mass spectrometry, Klebsiella pneumoniae and Pseudomonas aeruginosa carbapenemase Class A. The right BAL fungal culture isolated Trichosporon asahii. Treatments with Ceftazidime/avibactam, colistin, and voriconazole were started.	
+Day 15	Septic shock, multi-organ failure.	
+Day 16	Patient deceased.	
+Abbreviations: CXR, chest radiography; BAL, bronchoalveolar lavage; MDRD, modification of diet in renal disease: PCR, polymerase chain reaction.
+
+Unfortunately, the evolutionary chest CT was not performed in this patient because the equipment was under technical maintenance due to excessive demand during the pandemic. However, disseminated opacities were observed in all lung quadrants, indicative of severe CARDS (Picture 3).
+
+Picture 3. (A) Chest X-ray with the presence of a possible cavitary image in the right upper lobe, while (B) disseminated opacities were observed in all the lung quadrants, indicative of a severe COVID-19-associated acute respiratory distress syndrome (CARDS).
+
+Discussion
+
+A triple infection with Trichosporon asahii, Klebsiella pneumoniae, and Pseudomonas aeruginosa, and cavitary pneumonia were found in a patient who presented with CARDS and had been previously treated with immunosuppressors, such as tocilizumab and corticosteroids.9
+
+Some studies have described fungal infections in patients with COVID-19, especially those with immunosuppression. In such cases, the critically ill patients most commonly present with infections from Aspergillus and Candida.10 In addition, the efficacy of corticosteroids in critically ill patients with COVID-19 was demonstrated in the recovery trial. However, its prolonged use facilitates the proliferation of opportunistic pathogens in which the translocation in the small intestine is primordial in fungemia and bacteremia.11
+
+Tocilizumab is a monoclonal antibody agent against the interleukin-6 receptor.12 This was recommended based on some randomized controlled studies in which its use, combined with dexamethasone, showed some benefit in terms of survival.13,14
+
+Our patient presented with risk factors in addition to immunosuppression due to diabetes, such as broad antibiotic use, hemofiltration procedures, and central venous and urinary catheters.15 These factors altogether allowed the pulmonary invasion of the Trichosporon asahii. The early recognition of a concomitant pathology while on immunosuppressive therapy in severely ill COVID-19 patients results in lower mortality rates.16
+
+The main coinfections and superinfections seen in these patients involve opportunistic microorganisms, multidrug resistance, and newly evolving fungi that increase in critically ill patients. Furthermore, fungal invasions, such as invasive pulmonary aspergillosis (IPA) and invasive candidiasis (IC), have been reported.17
+
+The patient was transferred to our hospital after a 48-hour admission to the emergency department of another hospital where he had been administered tocilizumab and corticosteroids. After a few days of hospitalization, his renal function deteriorated and four hemofiltration sessions were scheduled, which may have contributed to the presence of opportunistic infections.
+
+As these critically ill patients are hemodynamically unstable and have severe respiratory failure, the delay in the initiation of a suitable therapy increases the risk of death. In addition, bronchoscopy in ventilated critical patients is a useful method for rapid and timely diagnosis and isolation of pathogens.18 Bronchoscopy samples are obtained from critically ill patients when respiratory deterioration is evident with increased inflammatory or infectious parameters.19
+
+However, changes in the patient’s hemodynamics during ventilatory care require a sufficiently trained group to minimize the complications inherent to this procedure.20
+
+In our patient, due to the rise in the inflammatory parameters and clinical deterioration, bronchoscopy was indicated and performed by a group with sufficient expertise, and no complications were recorded during the BAL procedure.20
+
+Case studies have also shown an association between Trichosporon asahii and pathogens, causing nosocomial infections in patients with severe COVID-19.
+
+In this case, in the BAL sample, isolated K. pneumoniae and P. aeruginosa carbapenemase were identified together with Trichosporon asahii, indicating a cavitary lesion in the lung. Trichosporon fungemia should be identified with useful tools for microbiological tests.
+
+This clinical presentation has previously been poorly described in patients with CARDS.
+
+Our patient presented with severely altered levels of inflammatory biomarkers, especially low lymphocytes. Voriconazole treatment was initiated after the Trichosporon fungus was detected.21
+
+Patients with COVID-19 might have immunosuppression due to a decrease in CD4 and CD8 T cells, diffuse alveolar damage with alveolar inflammation, and the requirement for mechanical ventilation, predisposing them to the appearance of fungal coinfections.22
+
+Lymphopenia with a cytokine storm syndrome appears in COVID-19, and pro-inflammatory cytokines and type I interferons IFN-α/β play an important role in the early stages of a viral infection.23 Continued viral replication results in the excessive release of IFN type I and, consequently, in the invasion of macrophages and neutrophils into various tissues, and the hyperproduction of pro-inflammatory cytokines.24
+
+The clinical condition of the patient deteriorated despite all efforts and bronchoscopy and BAL were the key to resolving this case. The benefits outweigh the risks of performing bronchoscopy in critically ill patients with mechanical ventilation support.25 The bronchoscopy and BAL provided relevant information. A cavernous lesion was observed and the BAL culture confirmed a triple infection with Trichosporon asahii, Klebsiella pneumoniae, and Pseudomonas aeruginosa.
+
+Conclusion
+
+This case report suggested that patients with severe COVID-19 pneumonia, with or without comorbidities, are more susceptible to opportunistic infections.
+
+Fungal coinfections in patients with CARDS should be suspected. Bronchoscopy samples, BAL, molecular tests, and cultures are valuable diagnostic tools. During the COVID-19 pandemic, Trichosporon asahii had increasingly been recognized as an opportunistic infectious agent in patients with severe COVID-19 pneumonia.
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Ethics Approval: The ethics approval was obtained by the hospital’s ethics committee for publication.
+
+Informed Consent: Verbal consent was obtained from the patient involved in the case presentation.
+
+Consent for Participation: Written informed consent was obtained from the patient for publication of this case report and accompanying images. A copy of the written consent is available for review by the editor in chief of the journal.
+
+ORCID iD: Killen H. Briones-Claudett https://orcid.org/0000-0002-7778-0362

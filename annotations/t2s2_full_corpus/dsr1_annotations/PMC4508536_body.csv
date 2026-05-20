@@ -1,0 +1,98 @@
+event,time
+64 years old,0
+male,0
+hypertension,0
+hiatal hernia,0
+osteoarthritis,0
+chronic lower back pain,-336
+acute worsening of chronic lower back pain,0
+progressive weakness in lower extremities,0
+ambulate with cane,0
+use walker,0
+non-ambulant,0
+subjective fevers,0
+temperature 100.1°F,0
+poor dentition,0
+crepitus in both knees,0
+limping gait,0
+chronic bilateral knee pain,0
+congenital deformation of right knee,0
+smoker 40 pack-years,0
+occasional alcohol use,0
+occasional marijuana use,0
+denies intravenous drug use,0
+toxicology positive for oxycodone,0
+"leukocytosis 25,500",0
+89% neutrophils,0
+no bands,0
+sedimentation rate 44,0
+lactic acid 1.6,0
+anion gap 18,0
+thoracic spine CT scan,0
+lumbar spine CT scan,0
+multilevel central canal compromise,0
+bilateral neural foraminal compromise,0
+no evidence of abscess,0
+cavitary lesion in left lower lobe,0
+left inferior renal pole abnormalities,0
+blood cultures grew S. aureus,0
+started on vancomycin 15 mg/kg IV q12h,0
+TTE after bacteremia diagnosis,0
+ejection fraction 65%,0
+normal valves,0
+no vegetations,0
+altered mental status,48
+nuchal rigidity,48
+lumbar puncture,48
+cerebrospinal fluid leukocytosis 1157,48
+CSF culture positive for S. aureus,48
+HIV negative,48
+HSV negative,48
+PPD negative,48
+spine MRI,48
+osteomyelitis at T12-L1,48
+renal infarcts,48
+continued febrile,48
+vancomycin MIC <2 mg/mL,48
+trough prior to 4th dose 11,72
+repeated trough 18.4,72
+repeat blood cultures negative at 48 hours,48
+repeat blood cultures negative at 96 hours,96
+clinical deterioration,144
+tachypnea,144
+hypoxia,144
+new systolic 2/6 murmur,144
+bilateral respiratory crackles,144
+right hemiparesis,144
+upgoing Babinski reflex right side,144
+switched to nafcillin 2g IV q4h,72
+blood culture confirmed methicillin susceptibility,72
+head MRI,144
+multiple infarcts non-vascular pattern,144
+TEE,144
+severe mitral regurgitation,144
+severe tricuspid regurgitation,144
+1.5 cm vegetation on mitral valve,144
+transferred to ICU,144
+MSSA bacteremia,144
+infective endocarditis,144
+osteomyelitis,144
+meningitis,144
+ischemic stroke,144
+renal infarcts,144
+pulmonary infarcts,144
+leukocytosis resolved,168
+fever resolved,168
+mental status improved to baseline,168
+indications for emergent mitral valve replacement,144
+embolic stroke,144
+high mortality risk,144
+follow up TTE,672
+worsening mitral valve involvement,672
+worsening tricuspid valve involvement,672
+mitral valve replacement,672
+tricuspid valve replacement,672
+completed 8 weeks nafcillin,1344
+discharged home,1344
+dual-chamber pacemaker,1344
+persistent 3rd degree AV block,1344

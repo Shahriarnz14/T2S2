@@ -1,0 +1,72 @@
+event,time
+30 years old,0
+man,0
+admitted to cardiac intensive care unit,0
+cardiac tamponade,0
+large pericardial effusion,0
+acute pericarditis,0
+diffuse ST elevation,0
+PR depression,0
+increased heart rate,0
+muffled heart sounds,0
+jugular vein distension,0
+low blood pressure,0
+second dose of mRNA COVID-19 vaccine,-960
+fever,-960
+pleuritic chest pain,-960
+symptom reduction,-912
+presyncope,-720
+positive anti-spike SARS-CoV-2 IgG,0
+positive anti-spike SARS-CoV-2 IgM,0
+negative Epstein-Barr virus serology,0
+negative Epstein-Barr virus genoma,0
+negative Echovirus,0
+negative Coxsackevirus,0
+negative Adenovirus,0
+negative Cytomegalovirus serology,0
+negative Quantiferon,0
+negative ANA,0
+negative ENA SSB/La,0
+negative anti-dsDNA antibodies,0
+negative pANCA-MPO,0
+negative cANCA-PR3,0
+negative high-sensitivity Troponin I,0
+normal biventricular global function,0
+normal regional function,0
+right ventricular diastolic collapse,0
+transmitral E wave peak velocity respiratory variation,0
+distended inferior vena cava,0
+pericardiocentesis,-720
+ibuprofen,-720
+colchicine,-720
+symptom remission,-672
+downward trend of inflammatory markers,-672
+negative pericardial fluid analysis,-672
+ibuprofen tapering,-624
+disease flare,-624
+fever,-624
+pleuritic chest pain,-624
+increased CRP,-624
+neutrophil leukocytosis,-624
+PR depression,-624
+diffuse ST elevation,-624
+inverted T waves,-624
+sinus tachycardia,-624
+large pericardial effusion,-624
+incipient impaired ventricular filling,-624
+readmitted to CICU,-624
+defer pericardiocentesis,-624
+anakinra started,-624
+symptom resolution,-600
+afebrile,-600
+asymptomatic,-600
+normal heart rate,-600
+complete reabsorption of pericardial effusion,-552
+CRP reduction,-552
+discharge,-504
+anakinra continued,-504
+ibuprofen continued,-504
+colchicine continued,-504
+proton pump inhibitor,-504
+asymptomatic at 1-month follow-up,720
+asymptomatic at 3-month follow-up,2160

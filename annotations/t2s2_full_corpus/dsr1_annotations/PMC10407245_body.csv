@@ -1,0 +1,62 @@
+event,time
+66 years old,0
+male,0
+coronary syndrome,0
+chronic kidney failure,0
+arterial hypertension,0
+gout arthritis,0
+obesity,0
+hyperlipidemia,0
+open necrosectomy,-175200
+prolonged open abdomen,-175200
+incisional hernia,-175200
+synthetic mesh repair,-175200
+hospitalized for hypovolemic shock,-10560
+gastrointestinal bleeding,-10560
+abdominal wound,-10560
+mesh exposition,-10560
+cloudy discharge,-10560
+high output enterocutaneous fistula,-10560
+oral intake suppressed,-10560
+subatmospheric pressure device,-10560
+parenteral nutrition,-10560
+somatostatin analogous,-10560
+fistula bleeding,-10560
+infection,-10560
+intensive care unit admission,-10560
+blood transfusions,-10560
+antibiotics,-10560
+antifungal management,-10560
+peritoneal adherence syndrome,0
+computed tomography imaging,0
+laparoscopic access,0
+peritoneal adhesion lysis,0
+paramedian laparotomy,0
+parietectomy,0
+en-bloc small bowel resection,0
+enteric anastomosis,0
+mechanical sutures,0
+absorbable sutures,0
+open abdomen coverage,0
+transferred to intensive care unit,0
+pathology analysis,0
+squamous cell carcinoma,0
+keloid scarring,0
+foreign body reaction,0
+clinical deterioration,48
+higher respiratory support,48
+hemodynamic support,48
+cloudy abdominal drainage,48
+second surgical approach,48
+anastomosis dehiscence,48
+anastomosis resection,48
+deferred enteric anastomosis,48
+severe intestinal edema,48
+nasogastric tube,48
+septic shock,96
+necrotizing fasciitis,96
+abdominal wall debridement,96
+subatmospheric pressure device replacement,96
+respiratory deterioration,120
+hemodynamic deterioration,120
+death,144

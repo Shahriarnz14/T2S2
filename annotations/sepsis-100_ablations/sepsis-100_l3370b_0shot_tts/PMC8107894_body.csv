@@ -1,0 +1,50 @@
+event,time
+abdominal pain ,-130.0
+nausea ,-130.0
+vomiting ,-130.0
+elevated liver enzyme alanine aminotransferase ,-130.0
+positive autoimmune antibody ,-130.0
+elevated immunoglobulin G ,-130.0
+coarse liver surface ,-130.0
+liver biopsy ,-130.0
+overlap syndrome predominantly with features of an autoimmune hepatitis ,-130.0
+high dose of ursodeoxycholic acid ,-130.0
+prednisolone 40 mg daily ,-130.0
+reduction of prednisolone ,-14.0
+azathioprine 50 mg ,-6.0
+mild heartburn ,-48.0
+abdominal pain worsened ,-24.0
+nausea ,-24.0
+vomiting ,-24.0
+diarrhea ,-24.0
+admission to emergency room ,0.0
+abdominal tenderness ,0.0
+mild fever ,0.0
+tachycardia ,0.0
+tachypnea ,0.0
+reduced white blood cells ,0.0
+reduced platelets ,0.0
+decreased neutrophil level ,0.0
+elevated C-reactive protein level ,0.0
+elevated liver enzymes ,0.0
+prothrombin time international normalized ratio ,0.0
+huge stomach with layered wall thickening ,0.0
+air in the stomach wall ,0.0
+decrease of mucosal enhancement ,0.0
+necrotizing gastritis ,0.0
+septic shock ,0.0
+intravenous hydration ,0.5
+antibiotic treatment ,0.5
+transfer to intensive care unit ,0.5
+hypotension ,0.5
+inotropics ,1.0
+fluid treatment ,1.0
+increased blood pressure ,2.0
+heart rate slowing ,3.0
+stress-induced cardiomyopathy ,3.0
+ejection fraction of less than 10% ,3.0
+extracorporeal membrane oxygenation ,3.0
+cardiac arrest ,3.0
+pulseless electrical activity ,3.0
+cardiopulmonary resuscitation ,3.0
+death ,3.0

@@ -1,0 +1,52 @@
+event,time
+50-year-old,0
+female,0
+visited emergency department,-360
+epigastric pain,-360
+fever,-360
+chills,-360
+nausea,-360
+history of abdominal surgery for multiple biliary stones,-175200
+acute continuous dull-like pain in epigastrium,-360
+no radiation of pain,-360
+abdomen soft,0
+tender on right upper quadrant,0
+no rebound tenderness,0
+"white blood cell count 14,760/mm³",0
+hemoglobin 10.0 g/dL,0
+erythrocyte sedimentation ratio 140 mm/hr,0
+c-reactive protein 23.89 mg/dL,0
+AST 101 IU/L,0
+ALT 114 IU/L,0
+total bilirubin 4.6 mg/dL,0
+amylase 48 U/L,0
+abdominal CT scan,0
+multiple stones in CBD,0
+intrahepatic duct stones,0
+biliary obstruction,0
+multifocal liver abscesses,0
+air-biliarygram,0
+emergency ERCP performed,0
+choledochoduodenostomy observed,0
+cholangiogram confirmed multiple filling defects in CBD,0
+extraction of brown-pigmented mud stones,0
+sudden hypoxia,0
+bradycardia,0
+comatose,0
+cardiac arrest,0
+procedure terminated,0
+cardiopulmonary resuscitation,0
+intubation,0
+transferred to ICU,0
+resuscitation continued,0
+died,24
+chest X-ray suggested massive systemic air embolism,0
+cause of death: massive cardiac and pulmonary air embolism,24
+no financial conflicts of interest,0
+"CT scan showing stones, abscesses, air-biliarygram",0
+ERCP showing choledochoduodenostomy,0
+stones extracted with forward endoscope,0
+"chest X-ray showing air density in heart chambers, hepatic vasculature, splenic vein",0
+history of choledochoduodenostomy,-175200
+multiple liver abscesses,0
+biliary-venous fistula,0

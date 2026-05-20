@@ -1,0 +1,78 @@
+event,time
+early repolarization pattern,-30624
+"J point elevation in I, aVL, V2, V4–V6",-30624
+"electrocardiogram taken on September 25, 2017",-30624
+malaise,-72
+fever,-72
+loss of appetite,-72
+46-year-old,0
+male,0
+weight 63 kg,0
+ulcerative colitis,0
+admitted to the hospital,0
+blood pressure 124/46 mmHg,0
+heart rate 122 beats per min,0
+SpO2 98% in room air,0
+respiratory rate 16/min,0
+body temperature 40.2°C,0
+alert,0
+chills,0
+nausea,0
+cardiac arrest,0
+chest compression initiated,0
+tracheal intubation initiated,0
+ventricular fibrillation,0
+defibrillation was performed twice,0
+adrenaline was administered once,0
+return of spontaneous circulation,0
+"electrocardiogram taken at 16:45 on March 24, 2021",0
+electrocardiogram showed coved-type ST elevation in V1 and V2,0
+type 1 Brugada electrocardiogram pattern,0
+Brugada syndrome,0
+hypercalcemia 14.8 mg/dL,0
+family history of sudden death,0
+admitted to the intensive care unit,1
+acetaminophen administered,1
+fever subsided,1
+"electrocardiogram taken at 18:05 on March 24, 2021",1
+electrocardiogram showed reduction of coved pattern,1
+body temperature 38.9°C,1
+hypotension,2
+computed tomography scan showed a high-density area in the descending colon,2
+increased lactate level,2
+increased white blood cell count,2
+increased procalcitonin level,2
+suspected septic shock,2
+suspected ulcerative colitis exacerbation,2
+tazobactam–piperacillin initiated,2
+vasopressors initiated,2
+extubation was performed,48
+patient was stable,48
+fever reoccurred,120
+contrast-enhanced computed tomography scan revealed a round low-density area of the liver,120
+liver abscess,120
+meropenem initiated,120
+vancomycin initiated,120
+tazobactam–piperacillin discontinued,120
+puncture drainage performed,120
+meropenem discontinued,624
+vancomycin discontinued,624
+infection was controlled,720
+positive pilsicainide test result,720
+implantable cardioverter defibrillator implantation,720
+high parathyroid hormone level,720
+technetium scintigraphy abnormal uptake in the anterior mediastinum,720
+discharged,744
+"electrocardiogram taken on June 28, 2021",2304
+serum calcium 13.8 mg/dL,2304
+inferolateral early repolarization,2304
+tumor resection performed,3600
+pathological diagnosis ectopic parathyroid adenoma,3600
+computed tomography revealed tumors in the pituitary and adrenal glands,3600
+magnetic resonance imaging revealed tumors in the pituitary and adrenal glands,3600
+nonfunctional pituitary adenomas,3600
+nonfunctional adrenal tumors,3600
+multiple endocrine neoplasia type 1 presumed,3600
+"electrocardiogram taken on October 4, 2021",4656
+serum calcium 9.7 mg/dL,4656
+J point elevation decreased,4656

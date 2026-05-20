@@ -1,0 +1,86 @@
+event,time
+86 years old,0
+overweight (BMI = 29),0
+woman,0
+presented to the emergency department,0
+severe abdominal pain,-24
+pain radiating to the back,-24
+nausea,-24
+vomiting,-24
+appendectomy,"-640008 (13 years ago, approximated as 13*365*24=113880 hours before admission, but negative value would be -113880)"
+implantation of heart pacemaker,"-8760 (previous year, approximated as 365*24=8760 hours before admission)"
+heart rate: 88/min,0
+blood pressure: 110/50 mmHg,0
+saturation: 98% in room air,0
+body temperature: 36.6°C,0
+dehydration,0
+tenderness localized in the middle upper abdomen,0
+no signs of peritoneal irritation,0
+audible peristalsis,0
+elevated serum amylase (1218 U/l),0
+elevated urinary amylase (8100 U/l),0
+elevated serum lipase (5850 U/l),0
+elevated glucose (175 mg/dl),0
+no prior diabetes diagnosis,0
+not taking diabetes medications,0
+normal C-reactive protein (2.1 mg/l),0
+normal white blood cell count (9.57 × 10^9/l),0
+marginal dilatation of the common bile duct (9 mm),0
+no intrahepatic bile duct dilatation,0
+gallbladder thin-walled,0
+no intraluminal gallstones,0
+pancreas unevaluable due to bowel gas,0
+no intraperitoneal free fluid,0
+no free gas detected on ultrasound,0
+admitted to surgery department,0
+suspicion of acute pancreatitis,0
+strict diet,0
+intravenous hydration,0
+analgesic treatment,0
+persistent severe abdominal pain,0
+developed hypotension,0
+oliguria,0
+elevated C-reactive protein (48 mg/l),0
+decreased white blood cell count (2.27 × 10^9/l),0
+high neutrophils (77.7%),0
+elevated aspartate aminotransferase (59 U/l),0
+elevated alanine aminotransferase (53 U/l),0
+amylase levels comparable to initial,0
+lipase levels comparable to initial,0
+deteriorating general condition,0
+computed tomography (CT) abdomen,16
+free gas in peritoneal cavity,16
+free gas retroperitoneally,16
+suggested perforated duodenal diverticulum,16
+emergency surgery,16
+laparotomy,16
+ruled out duodenal perforation,16
+enlarged gangrenous gallbladder,16
+purulent free fluid,16
+cholecystectomy,16
+peritoneal cavity lavage,16
+drainage,16
+retrospective CT analysis,16
+gas in gallbladder wall,16
+gas in pancreatic parenchyma,16
+pneumobilia in left hepatic lobe,16
+gas in abdominal wall muscles,16
+final diagnosis: emphysematous cholecystitis,16
+gangrenous pancreatitis,16
+retroperitoneal gangrene,16
+transferred to intensive care unit,16
+septic shock,16
+multiorgan failure,16
+increased procalcitonin (38.96 ng/ml),16
+increased C-reactive protein (118.2 mg/l),16
+elevated D-dimer (2000.0 ng/ml),16
+elevated lactate dehydrogenase (1290 U/l),16
+elevated creatine phosphokinase (3787 U/l),16
+"elevated myoglobin (>12,000 ng/ml)",16
+elevated troponin (0.018 ng/ml),16
+decreased red blood cell count (3.44×10^12/l),16
+decreased hemoglobin (107.0 g/l),16
+relaparotomy,"16 (after initial surgery, but precise timing unclear; approximated same day)"
+cardiac arrest during surgery,16
+resuscitation attempted,16
+patient died,16

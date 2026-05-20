@@ -1,0 +1,70 @@
+﻿event,time
+66-year-old,0
+Male,0
+Hypertension,-24
+Hyperlipidemia,-24
+Hepatitis C virus infection,-24
+Atrial fibrillation,-24
+Chronically anticoagulated with apixaban,-24
+Brought in by emergency services after a fall,0
+Reported dizziness,0
+Lost consciousness,0
+Found down by a family member,0
+Glasgow Coma Score of 15,0
+No focal neurological deficits,0
+Noncontrast CT head showed 6 mm right frontal subdural hematoma (SDH) with no shift,0
+Right medial orbital wall fracture,0
+No operative intervention recommended,0
+Admitted to surgical intensive care unit for serial checks,0
+"On the 2nd hospital day, developed severe headache",48
+Repeat head CT showed worsening of SDH with mass effect and 2 mm midline shift,48
+Remained neurologically intact,48
+No surgical intervention recommended,48
+Discharged to acute inpatient rehabilitation on the 6th hospital day,144
+Instructions to repeat head CT in 2 weeks,144
+"In rehabilitation, 6 days after discharge, experienced a terrible headache for 3 days",288
+Repeat CT head showed expansion of hematoma to 15 mm with 8 mm midline shift,360
+Underwent burr holes for evacuation of the SDH,360
+Placement of subdural drain,360
+Headache improved after evacuation,384
+SDH decreased in size on repeat CT head,384
+Postoperative course without complication,384
+Drain removed,408
+Discharged home on the 2nd postoperative day,408
+Started levetiracetam for seizure prophylaxis,360
+"On the 14th postoperative day, seen in office for follow-up",696
+Described a strange sensation in the right arm,696
+Felt that he could not control the arm,696
+Sent directly to the emergency room,696
+Developed a focal left arm seizure,696
+Started on electroencephalography (EEG) monitoring,696
+"That night, found to be unresponsive",720
+CT head showed no acute hemorrhage,720
+EEG indicated status epilepticus,720
+Intubated for airway protection,720
+Transferred to medical intensive care unit,720
+Cerebral CTA obtained,744
+CTA negative for any pathology,744
+Admission complicated by ventilator-dependent respiratory failure,744
+Septic shock secondary to Pseudomonas bacteremia,768
+Received a tracheostomy,840
+Received a gastrostomy,840
+Discharged to long-term acute care hospital on day 29,1416
+On levetiracetam for seizure control,1416
+On oxcarbazepine for seizure control,1416
+"Four days after discharge, found to be less responsive",1512
+Transferred back for neurosurgical evaluation,1512
+CT and CTA head showed right frontal intraparenchymal hemorrhage measuring 5.2 cm×3.3 cm,1512
+No vascular lesion or anomaly on CTA,1512
+Cerebral catheter angiography showed arteriovenous malformation (AVM),1536
+AVM was Spetzler-Martin Grade 1 (Spetzler-Ponce Grade A),1536
+Embolization of the AVM performed using N-butyl-cyanoacrylate glue,1584
+Embolization successful with no opacification of early draining vein or AVM nidus,1584
+"On the 8th day postembolization, taken to operating room for resection of the AVM",1776
+Right pterional craniotomy performed,1776
+Associated intraparenchymal hematoma was evacuated,1776
+Postoperative angiography showed no residual AVM,1800
+Mental status progressively improved postoperatively,1824
+Postoperative course complicated by pseudomonas sepsis,1872
+Treated in consultation with infectious disease,1872
+Discharged to long-term acute care on the 15th postoperative day,2136

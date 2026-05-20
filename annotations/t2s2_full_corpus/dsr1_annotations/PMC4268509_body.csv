@@ -1,0 +1,77 @@
+event,time
+45 years old,0
+female,0
+weighing 60 kg,0
+American Society of Anesthesiologists Grade I,0
+rescheduled for right sided hemi-arthroplasty,0
+right sided hemi-arthroplasty 6 months back,-4320
+subcapitate fracture of neck of femur,-4320
+infected implant,-4320
+second surgery for implant removal,-4320
+insertion of antibiotic coated spacer,-4320
+wound debridement,-4320
+perioperative period uneventful,-4320
+receiving antibiotics,0
+injection teicoplanin,0
+injection amikacin,0
+preoperative investigations within normal range,0
+markedly raised total leucocyte count,0
+erythrocyte sedimentation rate raised,0
+C-reactive protein raised,0
+capsule pregabalin 150 mg night prior to surgery,-12
+capsule pregabalin 150 mg morning of surgery,-2
+noninvasive blood pressure 100/70 mmHg,0
+SpO2 99%,0
+continuous electrocardiogram showed coarse atrial fibrillation,0
+heart rate 150-160 beats/min,0
+irregularly irregular rhythm,0
+drowsy,0
+arousable,0
+responding to verbal commands,0
+denied anxiety,0
+denied headache,0
+denied nausea,0
+denied chest pain,0
+denied palpitation,0
+denied difficulty in breathing,0
+defibrillator ready,0
+resuscitative drugs ready,0
+resuscitative equipment ready,0
+cardioversion not considered,0
+injection metoprolol 1 mg aliquots,0
+total metoprolol 3 mg,0
+12-lead ECG with long strip of lead-II,0
+cardiology opinion sought,0
+surgery postponed,0
+diagnosis of atrial fibrillation confirmed,0
+amiodarone infusion advised,0
+further cardiac evaluation advised,0
+systolic blood pressure above 90 mmHg,0
+heart rate refractory to beta-blockers,0
+intravenous amiodarone 150 mg bolus,0
+amiodarone infusion 1 mg/min,0
+heart rate reduced to 90/min,0.25
+systolic blood pressure increased to 120 mmHg,0.25
+atrial fibrillation reverted to sinus rhythm,0.25
+arterial blood gas within normal limits,0.25
+serum electrolytes within normal limits,0.25
+shifted to intensive care unit,0.25
+troponin T within normal limits,24
+creatine phosphokinase-myoglobin within normal limits,24
+transthoracic echocardiography within normal limits,24
+amiodarone infusion continued at 1 mg/min,24
+aspirin 75 mg once daily started,24
+transferred to ward,24
+rescheduled for right sided hemiarthroplasty after 2 weeks,336
+sepsis biomarker decreasing trend,336
+pregabalin not advised for premedication,336
+surgery conducted successfully,336
+no perioperative ECG changes,336
+underlying sepsis,0
+oral pregabalin premedication,-2
+myocardial dysfunction in sepsis,0
+raised C-reactive protein associated with atrial fibrillation,0
+infected implant,-4320
+raised C-reactive protein,0
+raised erythrocyte sedimentation rate,0
+pregabalin premedication avoided,336

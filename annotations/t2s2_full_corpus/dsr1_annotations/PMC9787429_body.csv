@@ -1,0 +1,51 @@
+event,time
+75 years old,0
+female,0
+admitted to the hospital (first hospital),-144
+diagnosed with multiple left renal calculi,-144
+diagnosed with right upper ureteric calculus,-144
+left PCNL attempted,-144
+tract dilatation,-144
+severe bleeding,-144
+percutaneous nephrostomy drainage tube (PNDT) placed,-144
+PNDT clamped,-144
+transferred to tertiary hospital,-120
+hemodynamically unstable,-120
+resuscitated,-120
+blood products transfused,-120
+acute kidney injury (AKI),-120
+serum urea 105 mg/dL,-120
+serum creatinine 5.77 mg/dL,-120
+noncontrast CT abdomen,-120
+suspicion of PNDT tip in renal vein,-120
+hemodialysis on POD 1,-96
+refractory hyperkalemia,-96
+electrocardiogram changes,-96
+planned for bilateral urinary diversion,-96
+cystoscopy,-96
+right-sided double-J stent placed,-96
+unsuccessful left double-J stent placement,-96
+left percutaneous nephrostomy placed,-96
+sepsis resolved,-72
+AKI resolved,-72
+planned CT renal angiography (CTRA),-72
+planned dynamic renal scan,-72
+CTRA performed,-48
+PNDT in renal vein confirmed,-48
+secondary thrombosis,-48
+dynamic renal scan performed,-24
+no left kidney uptake,-24
+planned left nephrectomy,-24
+laparoscopic left simple nephrectomy,0
+thrombectomy,0
+dense adhesions,0
+two renal arteries,0
+renal vein thrombus,0
+clipping renal arteries,0
+clipping renal vein,0
+PNDT removed,0
+no intraoperative complications,0
+operative time 125 minutes,0
+intra-abdominal drain removed,48
+discharged,72
+planned right ureteroscopic lithotripsy,72

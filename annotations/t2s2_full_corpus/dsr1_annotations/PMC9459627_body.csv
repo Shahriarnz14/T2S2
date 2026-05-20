@@ -1,0 +1,129 @@
+event,time
+67 years old,0\
+male,0\
+presented to the emergency department,0\
+worsening dyspnea,-96\
+irritating cough,-96\
+expectoration of brownish sputum,-96\
+general weakness,-96\
+metabolic syndrome,0\
+diabetes,0\
+hyperlipidemia,0\
+intermittent PPI use,0\
+subfebrile,0\
+nausea,0\
+no vomiting,0\
+negated diarrhea,0\
+negated chest pain,0\
+no loss of taste,0\
+no loss of smell,0\
+blood saturation 92% O2,0\
+borderline blood pressure 115/60 mmHg,0\
+mild tachycardia 100 rpm,0\
+positive rapid COVID-19 test,0\
+positive PCR test,0\
+bilateral pneumonia,0\
+elevated CRP 168.9 mg/L,0\
+leukocytes 4.0 109/L,0\
+PCT 7.13 μg/L,0\
+Hb 143 g/L,0\
+thrombocytes 272 109/L,0\
+INR 0.93,0\
+decompensated diabetes mellitus,0\
+glycemia 18.9 mmol/L,0\
+normal renal function,0\
+normal liver function,0\
+admitted to COVID-19 ward,0\
+treated in barrier regime,0\
+antibiotic therapy started,0\
+corticoids started,0\
+bronchodilators started,0\
+LMWH started,0\
+adjusted diabetic medication,0\
+shortness of breath,24\
+irritating cough,24\
+desaturation to 76% O2,24\
+transfer to ICU,24\
+deep venous thrombosis excluded,24\
+pulmonary embolism excluded,24\
+HFNO therapy introduced,24\
+corticoids continued,24\
+antibiotics continued,24\
+LMWH dose increased,24\
+progression on day 6,144\
+severe hypoxemia,144\
+intubation,144\
+tracheostomy,144\
+escalation of ATB,144\
+nutrition via nasogastric tube,144\
+vasopressors for septic shock,144\
+circulatory support,144\
+condition improved,240\
+catecholamines withdrawn,240\
+febrile episodes subsided,240\
+inflammatory markers decreased,240\
+sedatives discontinued,240\
+regained consciousness,240\
+low muscle strength,240\
+noninfectious on day 21,504\
+planned transfer to rehabilitation,504\
+sudden deterioration on day 23,552\
+circulatory instability,552\
+tachypnea,552\
+fibrillation,552\
+massive enterorrhagia,552\
+hemoglobin drop to 81 g/L,552\
+septic shock,552\
+reintubation,552\
+circulatory resuscitation,552\
+catecholamines up to 40 mL/h,552\
+blood substitutes given,552\
+hemostatic therapy started,552\
+LMWH discontinued,552\
+abdominal ultrasound,552\
+undilated small-bowel loops,552\
+meteoric colon,552\
+no free fluid in abdomen,552\
+gastrofibroscopy,552\
+normal mucosa esophagus to duodenum,552\
+no signs of bleeding on gastroscopy,552\
+colonoscopy to hepatic flexure,552\
+intestinal contents with coagula,552\
+no source of bleeding,552\
+CT angiography of abdomen,552\
+liquid content in cecum,552\
+suspected coagulum in sigmoid and rectum,552\
+cecum distended 80 mm,552\
+sigmoid distended 60 mm,552\
+no wall thickening,552\
+acute abdominal revision,552\
+laparotomy,552\
+free abdominal effusion,552\
+distended colon,552\
+hemorrhagic filling in cecum,552\
+small bowel free of blood,552\
+desufflation of cecum,552\
+revision of small intestine,552\
+right-sided hemicolectomy,552\
+ileotransversoanastomosis,552\
+ischemic enteritis,552\
+ischemic colitis,552\
+mucosal ulcerations,552\
+no infectious inflammation,552\
+no IBD,552\
+no Dieulafoy lesion,552\
+no dysplasia,552\
+no malignancy,552\
+postoperative stabilization,576\
+weaning without complications,576\
+progressive adjustment of intestinal passage,576\
+enteral nutrition via nasogastric probe,576\
+hospitalized until day 42,1008\
+transfer to post-acute ICU,1008\
+readmitted after two weeks,1176\
+recurrent GIT bleeding,1176\
+colonoscopy,1176\
+small ulceration at ileotransversoanastomosis,1176\
+conservative management,1176\
+transfer back to post-acute ICU,1176\
+no further bleeding,1176

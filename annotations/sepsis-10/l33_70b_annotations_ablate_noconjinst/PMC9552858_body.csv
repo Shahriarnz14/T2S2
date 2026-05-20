@@ -1,0 +1,858 @@
+event,time
+male ,0.0
+premature birth ,0.0
+emergency cesarean delivery ,0.0
+abruptio placenta ,0.0
+birth weight 1090g ,0.0
+Apgar 4 and 8 ,0.0
+respiratory distress ,0.0
+respiration rate 65 breaths per min ,0.0
+chest retraction ,0.0
+CPAP machine ,0.0
+positive end expiratory pressures 6 ,0.0
+inspired oxygen 30% ,0.0
+cloudy eyes ,0.0
+ectropion ,0.0
+dry ichthyotic skin ,0.0
+typical male genitalia ,0.0
+bilateral undescended testicles ,0.0
+height 75th percentile ,0.0
+weight 25th percentile ,0.0
+head circumference 25th percentile ,0.0
+temperature 36.2°C ,0.0
+heart rate 167 beats per min ,0.0
+normal neurological examination ,0.0
+normal breath sounds ,0.0
+no organomegaly ,0.0
+normal blood count ,0.0
+normal electrolytes ,0.0
+normal liver function ,0.0
+respiratory distress syndrome ,0.0
+ground-glass opacity on X-ray ,0.0
+minor respiratory acidosis ,0.0
+surfactant dosage ,0.0
+continued CPAP assistance ,12.0
+bowel movement ,12.0
+trophic feeding ,72.0
+breast milk ,72.0
+abdominal distension ,144.0
+tachycardia ,144.0
+tachypnea ,144.0
+thrombocytopenia ,144.0
+neutropenia ,144.0
+raised C-reactive protein ,144.0
+meropenem ,144.0
+vancomycin ,144.0
+stopped tropic feeding ,216.0
+antibiotics discontinued ,216.0
+feeding restarted ,216.0
+high-flow oxygen treatment ,336.0
+relapses of unexplained apnea ,504.0
+septic examination negative ,504.0
+brain MRI normal ,504.0
+nasogastric tube ,504.0
+conjugated hyperbilirubinemia ,504.0
+neonatal cholestasis workup ,504.0
+persistent conjugated hyperbilirubinemia ,504.0
+total bilirubin 69.8 umol/L ,504.0
+total parenteral nutrition ,504.0
+genetic studies ,504.0
+X-ray of spine normal ,504.0
+echocardiogram normal ,504.0
+eye test normal ,504.0
+skull X-ray showed craniosynostosis ,504.0
+hepatosplenomegaly not seen ,504.0
+normal-appearing gallbladder ,504.0
+no signs of biliary atresia ,504.0
+albumin level decline ,504.0
+bilirubin rise ,504.0
+AST rise ,504.0
+ALT rise ,504.0
+multiple albumin infusions ,504.0
+infectious etiology investigation ,504.0
+TSH normal ,504.0
+T3 normal ,504.0
+T4 normal ,504.0
+cortisol normal ,504.0
+metabolic disorders negative ,504.0
+galactosemia negative ,504.0
+tyrosinemia type 1 negative ,504.0
+whole-exome sequencing ,672.0
+NOTCH2 gene mutation ,672.0
+heterozygous variant c.1076c>T ,672.0
+p. (Ser359Phe) ,672.0
+chr1: 120512166 ,672.0
+severe cyanosis ,936.0
+apnea ,936.0
+bradycardia ,936.0
+cardio-respiratory resuscitation ,936.0
+intubation ,936.0
+mechanical breathing ,936.0
+epinephrine ,936.0
+septic shock ,936.0
+multiorgan failure ,936.0
+disseminated intravascular coagulation ,936.0
+acute renal damage ,936.0
+capillary leak syndrome ,936.0
+death ,2400.0
+NOTCH2 gene ,-2400.0
+ALGS2 ,-2400.0
+pathogenic variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+heterozygous ,-2400.0
+autosomal dominant ,-2400.0
+neonatal cholestasis ,-2400.0
+cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS ,-2400.0
+JAG1 ,-2400.0
+NOTCH2 ,-2400.0
+craniosynostosis ,-2400.0
+ichthyosis ,-2400.0
+respiratory distress syndrome ,-2400.0
+sepsis ,-2400.0
+biliary atresia ,-2400.0
+TPN-associated cholestasis ,-2400.0
+Hajdu-Cheney syndrome ,-2400.0
+Serpentine fibula polycystic renal syndrome ,-2400.0
+cancer ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+neonatal intensive care unit ,-2400.0
+pediatric gastroenterology ,-2400.0
+clinical nutrition ,-2400.0
+liver transplantation ,-2400.0
+whole-exome sequencing ,-2400.0
+next-generation sequencing ,-2400.0
+NOTCH2 gene sequencing ,-2400.0
+ Twist Family BHLH Transcription Factor 1 ,-2400.0
+TWIST1 ,-2400.0
+JAG1/NOTCH ,-2400.0
+NOTCH2 signaling ,-2400.0
+NOTCH2 mutation ,-2400.0
+ALGS2 diagnosis ,-2400.0
+cholestasis gene panel ,-2400.0
+neonatal cholestasis ,-2400.0
+genetic testing ,-2400.0
+molecular diagnosis ,-2400.0
+genetic counseling ,-2400.0
+familial screening ,-2400.0
+NOTCH2 gene mutation ,-2400.0
+heterozygous variant ,-2400.0
+c.1076c>T ,-2400.0
+p. (Ser359Phe) ,-2400.0
+chr1: 120512166 ,-2400.0
+autosomal dominant ,-2400.0
+ALGS2 ,-2400.0
+neonatal cholestasis ,-2400.0
+liver disease ,-2400.0
+genetic disorder ,-2400.0
+NOTCH2 mutation ,

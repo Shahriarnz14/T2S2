@@ -1,0 +1,80 @@
+event,time
+68 years old,0
+male,0
+admitted to the hospital (March),0
+history of diabetes mellitus,0
+history of hyperlipidemia,0
+history of L4-L5 radiculopathy,0
+decompressive laminectomy (1 month before admission),-720
+fatigue,-120
+dyspnea,-120
+cough,-120
+chills,-120
+fever (Tmax 101°F),-120
+symptoms progressed over 3 days,-96 to -72
+frank hematuria,-96
+hypoxia (SpO2 high 80s),-96
+tested positive for COVID-19,-96
+acute kidney injury,-96
+started on hydroxychloroquine,-96
+started on azithromycin,-96
+progressive dyspnea (day 2),-72
+hypoxia despite non-invasive ventilation,-72
+intubated,-72
+severe hypotension (BP 60/40),-72
+central access via common femoral artery,-72
+transferred to ICU,-72
+clinical course worsened (March 28),-48
+increasing pressure requirements,-48
+persistent fevers (Tmax 103.5°F),-48
+hypotension,-48
+administered Tocilizumab 400 mg,-48
+stabilized hemodynamically,-24
+self-extubation (April 1),24
+supplemental oxygen via high-flow nasal cannula,24
+weaned to room air,168
+discharged to inpatient rehabilitation (April 9),192
+tested negative for COVID-19,192
+asymptomatic deep venous thrombosis (common femoral vein),264
+transitioned to therapeutic Enoxaparin sodium,264
+acute right knee pain (April 20),432
+limited range of motion,432
+right knee swelling,432
+low-grade fever (100.8°F),432
+warm and erythematous knee,432
+suprapatellar joint effusion (7 cm),432
+knee arthrocentesis,432
+drained 80cc synovial fluid,432
+mild pain improvement,432
+readmitted to hospital (April 23),480
+blood pressure 121/68,480
+heart rate 68 bpm,480
+respiration rate 20 rpm,480
+temperature 98.4°F,480
+started on Vancomycin,480
+started on Zosyn,480
+elevated WBC count,480
+elevated lymphocytes,480
+low monocytes,480
+elevated IL markers,480
+cloudy yellow synovial fluid,480
+neutrophilic predominance (87%),480
+no crystals,480
+negative bacterial culture,480
+transitioned to oral cephalexin,504
+started Prednisone taper,504
+transferred back to rehabilitation,504
+weakness,504
+poor endurance,504
+transitioned to Apixaban,672
+discharged home (May 12),1008
+inflammatory aseptic arthropathy,480
+no signs of systemic illness,480
+negative COVID-19 test (readmission),480
+excluded hemarthrosis,480
+no bacterial growth,480
+hyper-inflammatory state,480
+ARDS,-72
+incidental DVT,264
+thromboinflammation,480
+pro-inflammatory conditions,480

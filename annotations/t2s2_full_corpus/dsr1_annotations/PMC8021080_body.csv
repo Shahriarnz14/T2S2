@@ -1,0 +1,53 @@
+event,time
+58 years old,0
+male,0
+shock,0
+diffuse ST-elevation,0
+fever,-240
+persistent cough,-240
+SARS-CoV-2 infection (positive swab),-48
+current smoker,0
+hypothyroidism,0
+interstitial lung disease,-2160
+lung mass (suspected cancer),-2160
+high-resolution lung CT scan,-2160
+endobronchial ultrasound-guided transbronchial needle aspiration planned,-2160
+severe hypotension,0
+asthenia,0
+emergency service called,0
+shock (at home),0
+blood pressure 80/40 mmHg,0
+heart rate 110 bpm,0
+oxygen saturation 88%,0
+body temperature 37.5°C,0
+coronary angiography (normal),0
+high inflammatory markers,0
+increased liver enzymes,0
+normal troponin,0
+respiratory alkalosis,0
+hyperlactatemia,0
+interstitial syndrome (lung ultrasound),0
+bilateral B lines,0
+sub-pleural consolidations,0
+bilateral pleural effusion,0
+diffuse pericardial effusion (2.5 cm),0
+swinging heart,0
+inferior caval vein dilation (2.2 cm),0
+left ventricular ejection fraction 50%,0
+hemodynamic improvement after fluids,0
+oxygen saturation deterioration,0
+high flow oxygen therapy,0
+pericarditis diagnosis,0
+corticosteroids started,0
+colchicine started,0
+heparin prophylaxis started,0
+empiric antibiotic therapy,0
+negative SARS-CoV-2 swabs (second and third),0
+positive SARS-CoV-2 IgM and IgG,0
+locally advanced lung cancer (8.5 cm),0
+lung adenocarcinoma (confirmed),24
+subclavian artery and vein involvement,24
+thoracic lymph nodes involvement,24
+pleural effusion (confirmed),24
+pericardial effusion (confirmed),24
+death due to respiratory failure,168

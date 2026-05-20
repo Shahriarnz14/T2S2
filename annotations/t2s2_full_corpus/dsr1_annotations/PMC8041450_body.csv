@@ -1,0 +1,67 @@
+event,time
+80 years old,0
+transferred from a peripheral hospital,0
+admitted to ICU,0
+COVID-19 diagnosis via bronchoalveolar lavage,0
+intubated,0
+mechanical ventilation,0
+prone positioning,0
+progressive ARDS,-216
+multiple organ failure,-216
+oliguria,-216
+septic shock,-216
+hepatic dysfunction,-216
+mixed acidosis,-216
+SOFA score 13,-216
+noradrenaline 0.35 µg/kg/h,-216
+serum creatinine 3.8 mg/dL,0
+potassium 5.9 mmol/L,0
+pH 7.15,0
+PaCO2 65 mmHg,0
+base excess -6.6 mmol/L,0
+ADVOS therapy initiated,0
+regional citrate anticoagulation,0
+blood flow 100-300 mL/min,0
+dialysate flow 160-320 mL/min,0
+dialysate pH 7.6-9.0,0
+elevated EVLWI 32 mL/kg,0
+atrial fibrillation,24
+digitoxin administered,24
+ultrafiltration,24
+GEDVI increase 827 to 1021 mL/m²,24
+GEDVI decline 1021 to 833 mL/m²,48
+PVPI elevated 4.8 ± 1.1,48
+CI 3.1 ± 0.4 mL/min/m²,48
+CO2 elimination 48 ± 23 mL/min,0
+arterial pCO2 69 ± 14 mmHg,0
+post-dialyzer pCO2 27 ± 12 mmHg,0
+lactate reduction,0
+pH normalization,0
+vasopressor requirement reduction,24
+system clotting,24
+noradrenaline 0.04 µg/kg/min,95
+PaO2/FiO2 116 mmHg,95
+driving pressure 22 mbar,95
+prone-dependent,95
+hemoptysis,95
+Klebsiella oxytoca detected,95
+positive blood cultures,95
+Aspergillus antigen positive,95
+Amphotericin B therapy,95
+Meropenem therapy,95
+Linezolid therapy,95
+vasopressor dosage increase,95
+lactate increase,95
+PaO2 85 mmHg,95
+PaO2/FiO2 106 mmHg,95
+PaCO2 38 mmHg,95
+sudden cardiac arrest,96
+coagulopathy,96
+thrombocytopenia 20 x10^9/L,96
+D-Dimers 31497 µg/L,96
+ferritin 15000 µg/L,96
+IL-6 4457 pg/mL,96
+leucocytosis 16 x10^9/L,96
+LDH 2967 U/L,96
+GOT 2973 U/L,96
+death,96

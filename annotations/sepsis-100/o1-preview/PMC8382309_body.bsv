@@ -1,0 +1,102 @@
+52-year-old Chinese male|0  
+Admitted to our hospital|0  
+Right upper quadrant pain|-168  
+Discomfort|-168  
+Abdominal fullness|-168  
+Abdominal distention|-168  
+Pain paroxysmal and worsened after meals|-168  
+Denies nausea|-168  
+Denies vomiting|-168  
+Denies stiffness|-168  
+Denies fever|-168  
+No past medical history|0  
+No history of close contact with infected individuals|0  
+No recent travel|0  
+No abdominal trauma|0  
+Diagnosed with hepatic abscess|-24  
+Treated with hepatic puncture|-24  
+Underwent drainage|-24  
+Afebrile|0  
+Pulse rate of 80 beats/minute|0  
+Blood pressure of 118/73 mmHg|0  
+Respiratory rate of 26 breaths/minute|0  
+Leukocyte count elevated at 16.4×10⁹/L|0  
+Neutrophil percentage of 94.5%|0  
+Anemia with haemoglobin level of 85 g/L|0  
+Procalcitonin level of 2.3 ng/mL|0  
+Plasma fibrinogen level of 7.48 g/L|0  
+Liver function tests slightly abnormal|0  
+Hypoalbuminemia with albumin level of 21.5 g/L|0  
+Negative for HIV|0  
+Negative for syphilis|0  
+Obvious abdominal distension|48  
+Mild bellyache|48  
+Extreme thirst|48  
+Right abdominal tenderness without rebound or guarding|48  
+Temperature of 36.8°C|48  
+Drainage catheter yielded 150 mL of fulvous fluid|48  
+CT scan shows hepatic abscesses|48  
+CT scan shows ileus|48  
+CT scan shows mild ascites|48  
+CT scan shows appendicitis|48  
+CT scan shows liver cyst|48  
+CT scan shows abdominal infection|48  
+CT scan shows peritonitis|48  
+Gas accumulation and dilation in the bowel|48  
+Hypotension with blood pressure 93/59 mmHg|48  
+Taken to operating room for urgent exploratory laparotomy|48  
+Fulvous purulent exudate in extraperitoneal space and abdominal cavity|48  
+Necrotic tissue in extraperitoneal space and abdominal cavity|48  
+Perforation under right side of liver|48  
+Perforation in right ascending colon|48  
+Ileocecal resection|48  
+Partial resection of ascending colon|48  
+Ileostomy|48  
+Drainage of hepatic abscesses|48  
+Drainage of abdominal abscesses|48  
+Drainage of extraperitoneal abscesses|48  
+Postoperative orotracheal intubation|48  
+Postoperative hypotension|48  
+Postoperative anemia|48  
+Postoperative fever|48  
+Transferred to ICU|48  
+Noradrenaline was pumped to maintain blood pressure|48  
+Ventilator used to assist breathing|48  
+Intravenous hydration used to enlarge blood capacity|48  
+Nutritional support therapy|48  
+Blood transfusion|48  
+Blood cultures and drainage fluids sent|48  
+Started on intravenous tigecycline|48  
+Started on piperacillin/tazobactam|48  
+Temperature went up to 39.3°C|96  
+Pulse rate of 130 beats/minute|96  
+Leukocyte count elevated at 35.9×10⁹/L|96  
+Neutrophil percentage of 92.4%|96  
+Procalcitonin level of 8.15 ng/mL|96  
+CRP level of 174 mg/L|96  
+Blood samples taken for cultures again|96  
+Blood cultures positive for E. lenta|168  
+Gram stain revealed short Gram-positive bacillus without spores|168  
+Identified as E. lenta by MALDI-TOF MS|168  
+No antimicrobial susceptibility testing performed|168  
+Plasma fibrinogen fell to 1.0 g/L|168  
+Presumed adverse reaction to tigecycline|168  
+Tigecycline replaced by teicoplanin|168  
+Piperacillin/tazobactam discontinued|168  
+Ertapenem added|168  
+Cultures of drainage fluid grew Escherichia coli|168  
+Fever promptly improved|168  
+Leukocytosis promptly improved|168  
+Procalcitonin level promptly improved|168  
+CRP level promptly improved|168  
+Transferred to general ward|240  
+Repeated blood cultures were negative|240  
+Repeat CT revealed decreased hepatic abscess size and decreased ascites|240  
+Administered ertapenem and teicoplanin for another 14 days|240  
+Debridement|240  
+Dressing change|240  
+Symptomatic supportive treatment|240  
+After further 7-day course of intravenous ertapenem and teicoplanin, symptoms achieved further alleviation|408  
+Discharged from hospital with prescription for oral antibiotics (clindamycin)|408  
+Remained well as outpatient without recurrence of fever|408  
+Complete resolution of abscess was found at follow-up|408  

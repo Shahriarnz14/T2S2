@@ -1,0 +1,41 @@
+event,time
+55 years old,0
+man,0
+sought care at emergency department,0
+road traffic accident,0
+multiple tissue injuries,0
+loss of consciousness,0
+ultrasound revealed right lobe liver injury,0
+computed tomographic scan demonstrated subarachnoid hemorrhages,0
+computed tomographic scan demonstrated multiple contusions,0
+admitted to intensive care unit,24
+developed high-grade fever,48
+total leukocyte count indicated sepsis,48
+erythrocyte sedimentation rate indicated sepsis,48
+blood culture showed growth of smooth nonpigmented mucoid colonies,48
+Gram staining revealed Gram-positive cocci in clusters,48
+catalase positive,48
+negative for tube coagulase,48
+negative for mannitol fermentation,48
+negative for ornithine decarboxylase,48
+identified as S. haemolyticus by Vitek MS,48
+confirmed by 16S rRNA gene amplification,48
+antimicrobial susceptibility testing performed,48
+resistant to penicillin,48
+resistant to cefoxitin,48
+resistant to gentamicin,48
+resistant to erythromycin,48
+resistant to clindamycin,48
+vancomycin sensitive,48
+linezolid resistant,48
+cfr gene detected by PCR,48
+treated with vancomycin,72
+died of infection,120
+mucoid S. haemolyticus isolate,48
+no history of linezolid exposure,48
+subarachnoid hemorrhages,0
+multiple contusions,0
+right lobe liver injury,0
+sepsis,48
+infection,120
+comorbidities,0

@@ -1,0 +1,102 @@
+event,time
+54-year-old,0
+man,0
+admitted to a local hospital,-24
+discomfort in the hepatic region,-24
+cirrhosis,-26280
+hypersplenism,-26280
+portal hypertension,-26280
+preadmission CT scan,-24
+multiple nodules at S4 and S5 in the liver,-24
+hepatocellular carcinoma,-24
+interventional surgery,-24
+multiple early stage lung tumors,-24
+referred to our hospital,-24
+significant decrease in platelets,-24
+decrease in fibrin,-24
+treated with thrombopoietin,-24
+treated with cryoprecipitate,-24
+white blood cell count 6.07×10^9/L,0
+hemoglobin 124 g/L,0
+platelet count 297×10^9/L,0
+total bilirubin 29.3 µmol/L,0
+direct bilirubin 11.8 µmol/L,0
+total serum protein 59.5 g/L,0
+albumin 32.7 g/L,0
+prothrombin time 15.40 s,0
+partial thromboplastin activation time 33.90 s,0
+CEA 4.89 ng/mL,0
+CA19-9 269.10 U/mL,0
+CA72-4 7.19 U/mL,0
+CYFRA21-1 6.30 ng/mL,0
+hepatitis B virus DNA <5.00E+02 IU/mL,0
+Child-Pugh classification grade B,0
+Child-Pugh score 8 points,0
+preadmission PET/CT,-24
+hybrid ground glass density nodules in the posterior segment of the left upper lung,-24
+nodules in the anterior segment of the right upper lobe,-24
+no evidence of lymph node metastases,-24
+no evidence of distant metastases,-24
+lung cancer,-24
+clinical T1 N0 M0 stage IA on both sides,-24
+surgery,0
+left superior segmentectomy,0
+right superior wedge resection,0
+rapid operative pathological diagnosis,0
+adenocarcinomas on both sides,0
+bleeding amount 200 mL,0
+operation length 3 hours and 10 minutes,0
+no blood transfusions,0
+invasive adenocarcinoma on the left,0
+well-differentiated adenocarcinoma on the right,0
+negative margins,0
+no evidence of metastasis in the lymph nodes,0
+transferred to the intensive care unit,6
+"left thoracic duct effused 1,200 mL sanguineous drainage",6
+increased heart rate,6
+hypotension,6
+plasma transfusion,6
+red blood cells transfusion,6
+platelets transfusion,6
+cryoprecipitate transfusion,6
+atrial fibrillation,24
+dyspnea,24
+acute respiratory distress syndrome (ARDS),24
+diffused alveolar hemorrhage (DAH),24
+stale blood clots in the phlegm,24
+white blood cell count 13.2×10^9/L,48
+hemoglobin 66 g/L,48
+platelet count 123×10^9/L,48
+prothrombin time 15.80 s,48
+partial thromboplastin activation time 35.40 s,48
+fibrinogen 1.45 g/L,48
+total bilirubin 33.7 µmol/L,48
+direct bilirubin 15.3 µmol/L,48
+total serum protein 50.1 g/L,48
+albumin 33.3 g/L,48
+postoperative CT scan on POD4,96
+patchy infiltrates scattered throughout both lungs,96
+noninvasive ventilator-assisted ventilation,24
+pulse oxygen saturation dropped to 85%,24
+sanguineous drainage still effused from the left thoracic duct,24
+plasma transfusion,24
+red blood cells transfusion,24
+heart failure,24
+pulmonary edema,24
+standard heart failure treatments,24
+low-dose steroids,24
+left thoracic duct drainage gradually diminished,168
+oxygenation improved,168
+partial pressure of oxygen improved,168
+sputum culture on POD10,240
+Klebsiella pneumoniae,240
+Candida albicans,240
+meropenem,240
+voriconazole,240
+chest CT reexamination on POD13,312
+fewer patchy infiltrates scattered throughout both lungs,312
+repeated sputum culture on POD14,336
+Candida albicans,336
+voriconazole per os,336
+discharged from the hospital,384
+no evidence of recurrent disease at 3-month follow-up,2160

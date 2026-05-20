@@ -1,0 +1,81 @@
+event,time
+73 years old,0
+female,0
+hypertension,0
+diabetes mellitus type 2,0
+diabetic nephropathy,0
+chronic renal impairment,0
+dual pacemaker,0
+sick sinus syndrome,0
+ST elevation myocardial infarction,-7200
+three drug-eluting stents,-7200
+PEG feeding,-4320
+refusal to eat,-4320
+true bulbar palsy,-4320
+early signs of Alzheimer's disease,-4320
+furosemide 80 mg twice daily,0
+carvedilol 6.25 mg twice daily,0
+spironolactone 50 mg once daily,0
+clopidogrel 75 mg once daily,0
+admitted with hypotension,0
+pulmonary edema,0
+ventilator support,0
+tracheal intubation,0
+managed with inotropes,0
+renal replacement therapy,0
+improvement,72
+extubated,72
+acute on chronic renal failure,72
+restart of renal replacement therapy,72
+echocardiogram showed severe global hypokinesia of the left ventricle,0
+low ejection fraction (<20%),0
+bilateral lung ultrasonic B lines,0
+bilateral mild pleural effusions,0
+low cardiac output,0
+generalized edema,0
+noradrenaline infusion discontinued,72
+dobutamine infusion discontinued,72
+hemodialysis,168
+hypotension (85/42 mmHg),168
+noradrenaline infusion during hemodialysis,168
+tachypnea (33 breaths/min),177
+vague abdominal pain,177
+blood pressure 105/45 mmHg,177
+heart rate 93 beats/min,177
+slightly distended abdomen,177
+nontender abdomen,177
+hypoactive bowel sounds,177
+elevated alanine aminotransferase (360.1 U/L),177
+elevated aspartate aminotransferase (577.3 U/L),177
+elevated lactate dehydrogenase (381 U/L),177
+elevated white blood cell count (16.00 × 10³/L),177
+elevated C-reactive protein (83.4 mg/L),177
+anion gap metabolic acidosis,177
+lactate rising from 1.8 to 8.6 mmol/L,177
+pH 7.00,177
+lactic acidosis,177
+restart of noradrenaline infusion,177
+restart of dobutamine infusion,177
+reintubated,177
+POCUS showed sluggish intestinal movement,177
+echocardiography showed severely impaired systolic function,177
+hyperechoic dot artifacts in liver,177
+portal venous gas (PVG),177
+pneumatosis intestinalis,177
+CT abdomen showed portal venous gas,177
+gas in superior mesenteric vein,177
+gas in stomach wall,177
+gas in colon wall,177
+gas in small bowel loops,177
+atherosclerotic changes in aorta,177
+attenuated hepatic artery,177
+attenuated superior mesenteric artery,177
+attenuated celiac trunk,177
+nonvisualized inferior mesenteric artery,177
+minimal pelvic fluid,177
+no occlusive thrombosis,177
+no significant luminal narrowing,177
+surgeon diagnosed nonocclusive diffuse intestinal ischemia,177
+family counselled,177
+no further interventions,177
+passed away,264

@@ -1,0 +1,49 @@
+event,time
+45-year-old,0
+male,0
+presented to emergency department,-72
+upper abdominal pain,-72
+nausea,-72
+vomiting,-72
+abdomen tender to palpation,0
+no muscle guarding,0
+high-grade infection,0
+leukocytosis (21.5 10E9/L),0
+elevated CRP (281 mg/L),0
+normal creatinine (83 μmol/L),0
+normal urea (6.1 mmol/L),0
+no pneumoperitoneum on chest X-ray,0
+abdominal CT-scan showing gastric wall thickening,0
+admitted to hospital,0
+esophageal-gastro-duodenoscopy performed,0
+diffuse erythema of gastric wall,0
+edema of gastric wall,0
+acute severe gastritis,0
+gastric ischemia considered,0
+malignancy considered,0
+H2-blocker therapy initiated,0
+antibiotic therapy with cefuroxime and metronidazole,0
+deteriorated into septic shock,24
+multiple organ failure,24
+elevated serum lactate (9.2 mmol/L),24
+diagnostic laparoscopy performed,24
+widespread irreversible gastric ischemia,24
+laparotomy performed,24
+total gastrectomy without anastomosis,24
+admitted to ICU,24
+hemodynamic support,24
+continuous veno-venous hemofiltration,24
+second surgical procedure (anastomoses),72
+Roux-Y esophagojejunostomy performed,72
+suspicion of streptococcal toxic shock syndrome,24
+cultures positive for group A Streptococcus,24
+pathological confirmation of phlegmonous gastritis,24
+recovery,336
+discharged,336
+no history of alcohol consumption,0
+no immunosuppression,0
+no chronic gastritis,0
+no pregnancy,0
+no diabetes mellitus,0
+no recent upper GI endoscopy,0
+previously healthy,0

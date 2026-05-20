@@ -1,0 +1,64 @@
+pmcIntroduction
+
+Adrenocortical carcinoma (ACC) is a rare endocrine malignancy that can cause Cushing's syndrome with hypercortisolemia, affecting 1 - 2 per million persons per year [1]. Approximately half of all ACCs are functional. Treatment for ACC, when possible, is surgical resection of the true tumor; up to 80% of patients experience a recurrence, and most require systemic chemotherapy [12].
+
+Hypercortisolemia induces an immunocompromised state that predisposes the patient to various bacterial, viral, and fungal infections [123]. Glucocorticoids affect both the innate and adaptive immune systems through a variety of mechanisms [1]. Increased infection risk related to Cushing's syndrome applies to all categories of microbial pathogens, including fungi, bacteria, viruses, and parasites. Here we report a case of a woman diagnosed with Cushing's syndrome who presented with multiple opportunistic infections, including methicillin-resistant Staphylococcus aureus (MRSA) bacteremia, septic pneumonia, candidemia, Pneumocystis jirovecii pneumonia (PJP), and invasive pulmonary aspergillosis (IPA). Since it was a single case report through medical record review, ethical approval by Institutional Review Board (IRB) and informed consent were waived.
+
+Case report
+
+A 37-year-old woman visited the emergency room (ER) at our hospital on December 16, 2015, in an altered mental state. She was diagnosed with cortisol-secreting ACC, which had been pathologically confirmed by adrenalectomy 18 months prior. Eight months later, she underwent radical nephrectomy with adjuvant radiotherapy because her cancer reoccurred. Six months later, a recurrent lesion reappeared, and her hypercortisolemia became aggravated (morning cortisol level 45.5 μg/dL to 66.5 μg/dL, 24hr urine cortisol 2,529 μg/day to 6,296 μg/day). She underwent chemotherapy with Avastin + FOLFOX 1 on November 5, 2015, which was repeated every other week.
+
+The patient visited the ER because she recently experienced a mental change. After admission, her initial vital signs were as follows: blood pressure = 76/30 mmHg, heart rate = 91/min, respiratory rate = 36/min, body temperature = 37.2°C, and oxygen saturation = 86%, despite O2 level as low as 15 L/min after receiving a facial mask. Because the patient was experiencing progressive septic shock with respiratory failure, we administered fluid resuscitation, vasopressor support, and invasive ventilation. Her initial laboratory tests produced the following results: white blood cell count = 140/mm3, hemoglobin level = 7.2 g/dL, platelet count = 8,000/mm3, total bilirubin level = 1.6 mg/dl, serum aspartate aminotransferase/alanine aminotransferase = 102/102 IU/L, blood urea nitrogen/serum creatinine = 24.1/1.12 mg/dL, lactic acid level = 8.13 mmol/L, c-reactive protein level = 21.86 mg/dl, and procalcitonin level = 42.46 ng/ml. Also, the patient's chest radiograph showed lobar consolidation in the right lower lung zone (RLLZ).
+
+Initially, we assumed the patient had neutropenic septic shock from pneumonia and a suspected catheter-related infection; thus, we started her on antibiotics (meropenem, vancomycin) and immediately removed the central catheter. As her septic shock and respiratory failure improved, we tapered the vasopressor on hospital day two, and mechanical ventilation support was discontinued on hospital day four. The patient's neutrophil count recovered (absolute neutrophil count >1,500/mm3) by hospital day three.
+
+MRSA was identified in the initial peripheral culture and two pairs of central blood cultures from the intensive care unit on day two. The patient relapsed into respiratory failure on hospital day five, and we subsequently re-intubated her. A chest computer tomography (CT) on hospital day five (Fig. 1) revealed multifocal ground-glass opacities and a worsening of her previous consolidation in RLLZ. She also had an elevated serum galactomannan titer, which increased significantly after admission (hospital day three = 6.83 ng/ml → hospital day six, = 9.21 ng/ml). We identified Aspergillus fumigatus growth in her tracheal aspirate cultures. We diagnosed her with IPA and administered intravenous voriconazole (two loading doses of 6 mg/kg of body weight and then 4 mg/kg every 12 hr). P. jirovecii was observed in the bronchoscopic lavage sample collected on hospital day five; thus, we made a diagnosis of pneumocystis pneumonia and started her on trimethoprim/sulfamethoxazole.
+
+Figure 1 Chest computer tomography imaging. Bilateral multiple consolidations and ground glass opacities suggesting severe pneumonia.
+
+Although we administered vancomycin and appropriate trough level was maintained, MRSA bacteremia persisted on hospital day five according to follow-up blood cultures. We conducted an echocardiography and a duplex scan of the patient's previous central-line insertion site, but we found no evidence of metastatic infection. After switching her antibiotic from vancomycin to linezolid, we achieved a decrease in MRSA in blood cultures by hospital day seven. Despite clearing the patient of persistent MRSA bacteremia, we found Candida albicans in her follow-up blood cultures. Because voriconazole had been used to treat the IPA, we did not add additional antifungal agents, and her candidemia began to resolve with the voriconazole treatment. In addition to IPA and PJP, we suspected the patient also had combined bacterial pneumonia because she had purulent sputum, lobar consolidation progression on chest X-ray, and repeated growth of Stenotrophomonas maltophilia; given the pathogenicity of this bacterium, we administered trimethoprim/sulfamethoxazole and levofloxacin. We used mitotane as a cortisol-lowering therapy. The patient was started on a 500-mg dose of mitotane twice daily; subsequently, her cortisol level decreased dramatically (Table 1).
+
+Table 1 Results of culture and microbiologic study
+
+	HD #1	HD #3	HD #5	HD #8	HD #10	HD #12	
+Blood culture (Peripheral)	MRSA	MRSA	MRSA				
+Candida albicans	
+Blood culture (Central)	MRSA (PICC)	MRSA (C-line)					
+TTA culture		Aspergillus fumigatus	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	Throat normal flora	Stenotrophomonas maltophilia	
+BAL culture			Pneumocystis jirovecii				
+Galacto mannan (ng/ml)		6.83	9.21	7.41	6.73	1.86	
+HD, hospital day; MRSA, methicillin-resistant Staphylococcus aureus; PICC, peripheral-inserted central catheter; C-line, central line; TTA, transtracheal aspirate; BAL, bronchoalveolar lavage.
+
+Although we used adequate antimicrobial agents and neutropenia was recovered, the patient experienced recurrent hemoptysis caused by a pneumonia-associated cavitary lesion. Next, the patient's ventilator readings deteriorated, and her oxygen requirements increased. Her one-month follow-up CT scan of the abdomen and pelvis showed interval increases in the extent of peritoneal seeding and probable lymph node metastases of adrenal cortical carcinoma. We determined that there were no other medical intervention options for the patient and, given that she had a do-not-resuscitate order, we discharged her; she died one week later.
+
+Discussion
+
+Multiple opportunistic infections, including IPA, PJP, and candidemia, were simultaneously diagnosed in this patient. Importantly, MRSA bacteremia and S. maltophilia pneumonia were also concurrently diagnosed. A previous case report described multiple simultaneous infections with PJP, Candida albicans, Staphylococcus aureus, IPA, and herpes simplex virus, which developed in an Adrenocorticotropic hormone (ACTH)-dependent Cushing's syndrome patient at 1998 [2]. However, in our case, the patient had multiple opportunistic infections that developed in association with ACTH-independent endogenous Cushing's syndrome, which was onset by ACC. This case suggests that patients with cortisol-secreting ACC may be severely immunocompromised and require particular attention for rare opportunistic infections, especially during chemotherapy.
+
+Glucocorticoids impair neutrophil adherence to the endothelium, hindering extravasation and chemotaxis, and decrease the degranulation capacity and phagocytic action, as well as downregulate multiple pro-inflammatory cytokines [4]. Antigen presentation by dendritic cells is inhibited by glucocorticoids, resulting in an inappropriate T-cell response to antigens [5]. Glucocorticoids also limit B-cell development and proliferation [6]. Glucocorticoids direct T-cell differentiation toward a humoral immune response by affecting interleukin balance. The resulting inhibition of cellular immune responses increases the host's susceptibility to intracellular and opportunistic infections [7]. Along with these immunological mechanisms, hyperglycemia, caused by hypercortisolemia, also contributes to infection susceptibility [8]. Excessive cortisol expression causes skin atrophy and poor wound healing, thus weakening the first barrier of defense against pathogen entry [9]. In addition to multiple opportunistic infections, including IPA, PJP, and candidemia, the patient also suffered from severe MRSA bacteremia and S. maltophilia pneumonia. Multiple concurrent infections in a single patient indicate an immunocompromised state brought on by excessive cortisol. Chemotherapy for ACC increased the patient's susceptibility to infections by inducing neutropenia and mucositis.
+
+This study highlights Cushing's syndrome as an immunocompromised condition that increases a person's risk for opportunistic infections. Thus, we argue that such patients have a particular need for proper infection prophylaxis. Because ACC requires chemotherapy treatment, which increases infection susceptibility, physicians treating these patients should stratify their cases by infection risk and provide proper prophylactic treatment as needed (e.g. Bactrim prophylaxis for long-term steroid users). This case patient had cortisol level 30- to 60-fold above the upper normal limit. When we consider our case and the previous case mentioned above alongside the theoretical mechanisms of elevated cortisol expression, we conclude that high cortisol level increases infection risk [10]. Interestingly, Graham et al. reports that morning plasma cortisol levels correlated with the infection type [11]. Based on all of these results, future studies that explore the association between cortisol level and both infection risk and type should apply prophylactic treatment in the study design
+
+In addition to prophylaxis treatment to prevent infectious complications of hypercortisolemia, treatment for hypercortisolemia itself should be considered. It is necessary to restore normal cortisol level in the hypercortisolemic patient to reduce infection risk or to control and cure any established infections. Moreover, prior to administering chemotherapy for ACC, which impairs the immune system, physicians must provide careful evaluation of each patient's potential infection risk and consider the need for prophylaxis and cortisol-lowering therapy. Meanwhile, further research on the effect of cortisol-lowering therapy on infection prevention and safety is warranted.
+
+In conclusion, we report a case of Cushing's syndrome associated with cortisol-secreting ACC, wherein the patient presented with multiple opportunistic infections, including MRSA bacteremia, septic pneumonia, candidemia, PJP, and IPA. This case demonstrates the relationship between multiple opportunistic infections and hypercortisolemia, specifically in cortisol-secreting ACC.
+
+Conflict of Interest: No conflicts of interest.
+
+Author Contributions: Conceptualization: BGS, CIK.
+
+Data curation: BGS, MGL, JHB, JHH, SGL, SHP.
+
+Formal analysis: BGS, SHP, CIK.
+
+Investigation: BGS, SHP, CIK.
+
+Project administration: SHP, CIK.
+
+Resources: BGS, MGL, JHB, JHH, SGL, SHP.
+
+Supervision: SHP, CIK.
+
+Writing - original draft: BGS, CIK.
+
+Writing - review & editing: BGS, SHP, CIK.

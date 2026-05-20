@@ -1,0 +1,55 @@
+event,time
+30-year-old,0
+female,0
+history of polysubstance abuse,0
+history of anxiety,0
+history of depression,0
+unresponsive,0
+brought to Emergency Department,0
+found in bathtub,0
+placed in bathtub by friends,"-? (prior to admission, exact timing unclear)"
+injected IV heroin,"-? (prior to unresponsiveness, exact timing unclear)"
+EMS administered NARCAN 4 mg intranasally,"-? (pre-hospital, exact timing unclear)"
+unresponsive to verbal stimuli,0
+unresponsive to painful stimuli,0
+intermittently moaning,0
+administered NARCAN 4 mg IV,0 (ED arrival)
+intubated for airway protection,0
+etomidate 20 mg,0
+succinylcholine 100 mg,0
+axillary temperature 25.8°C,0
+pulse rate 55,0
+respiratory rate 16,0
+blood pressure 94/40,0
+wet clothes removed,0
+warm blankets applied,0
+temperature-sensing Foley inserted,0
+clear yellow urine returned,0
+topical warming with Bair Hugger,0
+warm saline bags placed in axillae,0
+warm saline bags placed in groins,0
+administered 2 L warmed IV normal saline,0
+hyperkalemia 5.6 mmol/L,0
+creatinine 1.16 mg/dL,0
+hyperglycemia 385 mg/dL,0
+hypocalcemia 7.2 mmol/L,0
+"leukocytosis 16,000",0
+EKG with atrial fibrillation,0
+EKG with Osborne waves,0
+central venous access obtained,0
+transferred to ICU,0 (after initial ED management)
+continued warming with IV fluids,+? (post ED management)
+bladder irrigation,+? (post ED management)
+regular insulin 10 units administered,+? (ICU management)
+calcium gluconate administered,+? (ICU management)
+normotensive,+24 (approx next day)
+normothermic,+24 (approx next day)
+repeat EKG normal,+24 (approx next day)
+Osborne waves resolved,+24 (approx next day)
+extubated,+24 (next day)
+following commands,+24
+answering questions appropriately,+24
+addiction medicine consulted,+24
+discharged home,+72 (hospital day 3)
+friends placed in bathtub with ice,-? (prior to EMS arrival)
+ice cubes inserted rectally,-? (prior to EMS arrival)

@@ -1,0 +1,103 @@
+event,time
+22 years old,0
+gravid,0
+presented to Emergency Department,0
+dysuria,-168
+fever,0
+tachycardia,0
+suprapubic tenderness,0
+left-sided costovertebral angle tenderness,0
+blood pressure 105/65 mmHg,0
+obstetric examination normal,0
+admitted to hospital for sepsis due to acute pyelonephritis,0
+leukocytosis 15.0×10³/mcL,0
+urinalysis positive for nitrites,0
+urinalysis positive for leukocyte esterase,0
+urine squamous cells 4.8/UL,0
+urine WBC 566.8/UL,0
+urine bacteria >10000/UL,0
+urinary tract infection,0
+urine culture positive for Escherichia coli,0
+renal ultrasound hyperechoic kidneys,0
+started intravenous ceftriaxone,0
+started intravenous fluids,0
+blood culture positive for E. coli bacteremia,0
+septic shock,24
+persistent hypotension,24
+unresponsive to 4 liters crystalloids,24
+hypoxia,24
+oxygen saturation 70% on 6 L nasal cannula,24
+diffuse crackles,24
+extremities warm to touch,24
+creatinine 1.43 mg/dL,24
+hemoglobin 10 g/dL,24
+WBC 20×10³/mcL,24
+lactic acid 9 mmol/L,24
+intubated,24
+acute hypoxic respiratory failure,24
+norepinephrine infusion started,24
+ABG pH 7.41,24
+ABG PCO2 33 mmHg,24
+ABG PO2 60 mmHg,24
+mechanical ventilation PRVC,24
+tidal volume 350,24
+respiratory rate 18,24
+FiO2 100,24
+PEEP 10,24
+peak pressure 36 cmH2O,24
+fetal heart tracings reassuring,24
+chest x-ray bilateral lung consolidation,24
+hypoxia persisted,24
+oxygen saturation 70%,24
+ABG PO2 50 mmHg,24
+PaO2/FiO2 50,24
+severe ARDS diagnosis,24
+decision to initiate V-V ECMO,24
+pre-ECMO blood pressure 103/72 mmHg,24
+norepinephrine 6 mcg/min,24
+oxygen saturation 75%,24
+respiratory rate 18,24
+body temperature 99.3°F,24
+pulse rate 102 bpm,24
+right femoral cannula placed,24
+right internal jugular vein cannula placed,24
+ECMO initiation,24
+fetal distress,27
+emergency cesarean section,27
+delivery of viable neonate,27
+neonatal ICU admission,27
+heparin 5000 units,27
+cesarean blood loss 100 ml,27
+anesthesia with fentanyl and versed,27
+ECMO circuit Maquet Rotaflow pump,27
+ECMO circuit Maquet oxygenator,27
+broad-spectrum antibiotics vancomycin,27
+broad-spectrum antibiotics cefepime,27
+mechanical ventilation FiO2 0.4,27
+ECMO pump speed 1500 RPM,27
+ECMO pump speed 3000 RPM,27
+ECMO flow 4 LPM,27
+ECMO sweep 5.5 LPM,27
+oxygen saturation 96%,27
+ECMO cannula site monitored daily,27
+heparin bolus 100 IU/kg,24
+heparin infusion targeting aPTT 40–60 s,24
+hemoglobin maintained >10 g/dL,24
+PRBC transfused 4 units,24
+initial echocardiogram EF 38%,24
+mild LV dilatation,24
+moderate global LV hypokinesis,24
+mild RV dilatation,24
+mild RV dysfunction,24
+no pericardial effusion,24
+ECMO weaning,120
+ECMO decannulation,120
+extubated,168
+chest x-ray improvement,168
+repeat echocardiogram EF 53%,168
+no hemodynamically significant valve disease,168
+no wall motion abnormality,168
+discharged,312
+no oxygen requirement,312
+mother in good health,312
+child in good health,312

@@ -1,0 +1,60 @@
+event,time
+26 years old,0
+male,0
+admitted to the hospital,0
+abdominal pain,0
+night sweats,0
+fever,0
+intra-abdominal mass,0
+referred to our centre,0
+low-grade sarcoma,0
+mixed epithelioid and spindle cell morphology,0
+mucin 4-positive tumour,0
+EWSR1 gene rearrangement,0
+SEF,0
+extensive peritoneal carcinomatosis,0
+doxorubicin-ifosfamide chemotherapy,0
+stable disease,-24
+disease progression,-24
+cytoreductive surgery (CRS),-720
+hyperthermic intraperitoneal chemotherapy (HIPEC),-720
+cisplatin,-720
+doxorubicin,-720
+intravenous ifosfamide,-720
+remission,-720
+recurrence,0
+CRS,0
+HIPEC,0
+recurrence,0
+disease recurrence,0
+gemcitabine,0
+docetaxel,0
+radiological progression,0
+symptomatic treatment,0
+admitted with symptomatic COVID-19,0
+multiple enterocutaneous fistulas,0
+anterior abdominal wall,0
+nil-by-mouth status,0
+parenteral nutrition,0
+disease progression,0
+sepsis,0
+intra-abdominal collections,0
+nivolumab,0
+next-generation sequencing (NGS),-24
+ALK mutation,-24
+ALK inhibitor crizotinib,-24
+disease progression,-24
+crizotinib 250 mg,0
+significant size regression,24
+hepatic metastases,24
+no new metastatic lesions,24
+clinical improvement,48
+grade 3 haematological toxicity,72
+fatigue,72
+crizotinib 200 mg,72
+reduced dose of crizotinib,72
+tolerated treatment dose,72
+medically stable,72
+moderate health,72
+significant reduction in tumour size,72
+enterocutaneous fistulas improvement,72

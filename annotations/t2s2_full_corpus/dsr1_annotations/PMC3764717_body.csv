@@ -1,0 +1,97 @@
+event,time
+33 years old,0
+lady,0
+presented with recurrent episodes of headache,-3600
+myalgia,-3600
+occasional episodes of nausea,-3600
+vomiting,-3600
+treated for migraine,-3600
+intermittent episodes of hypotension,-3600
+persistent leucocytosis,-3600
+treated with multiple courses of empirical broad-spectrum antibiotics,-3600
+developed anasarca,-720
+no history of hematuria,-720
+no reduction in urine output,-720
+afebrile,0
+blood pressure 110/70 mmHg,0
+no postural hypotension,0
+systemic examination unremarkable,0
+nephrotic range proteinuria (14.3 g/day),0
+microscopic hematuria (10-12 red blood corpuscle/high power field),0
+hypoalbuminemia (0.8 g/dl),0
+hypercholesterolemia (455 mg/dl),0
+hypertriglyceridemia (352 mg/dl),0
+serum creatinine 1.08 mg/dl,0
+"leucocytosis (15,500 cells/mm3)",0
+neutrophil 71%,0
+lymphocyte 19%,0
+eosinophil 3%,0
+monocyte 6%,0
+basophil 1%,0
+ANA negative,0
+anti-dsDNA negative,0
+Complement C3c normal,0
+Complement C4 normal,0
+started on diuretics,0
+started on intravenous albumin,0
+blood culture performed,0
+blood culture no growth,0
+renal biopsy revealed mild increase in mesangial matrix,0
+hypercellularity,0
+immunofluorescence study negative,0
+diagnosis of idiopathic unsampled focal and segmental glomerulosclerosis,0
+started on prednisolone 120 mg every alternate day,0
+electron microscopy revealed mesangial proliferative glomerulonephritis,0
+mesangial electron dense deposits,0
+discharged,0
+presented to emergency department with myalgia,120
+giddiness,120
+weakness,120
+no history of fever,120
+tachycardia,120
+tachypnea,120
+hypotension,120
+systemic examination unremarkable,120
+"leucocytosis (15,900 cells/mm3)",120
+neutrophilic predominance (89%),120
+serum procalcitonin elevated (144.5 ng/ml),120
+possible bacterial sepsis,120
+septic shock,120
+blood culture drawn,120
+started on intravenous meropenem,120
+"total leucocyte count increased to 53,500 cells/mm3",144
+imaging of chest and abdomen no focus of sepsis,144
+managed in intensive care unit,144
+inotropic support,144
+clinical improvement after 72 hours of antibiotics,216
+reduction of inotropic requirement,216
+normalization of total leucocyte count,288
+"blood culture grew non-O1, non-O139 V. cholerae",288
+"non-O1, non-O139 V. cholerae sensitive to ampicillin",288
+"non-O1, non-O139 V. cholerae sensitive to tetracycline",288
+"non-O1, non-O139 V. cholerae sensitive to cotrimoxazole",288
+"non-O1, non-O139 V. cholerae sensitive to cefotaxime",288
+"non-O1, non-O139 V. cholerae sensitive to ofloxacin",288
+"non-O1, non-O139 V. cholerae sensitive to meropenem",288
+stool culture no pathogen,288
+visited beach for swimming and bathing,-2688
+no consumption of sea-food,-2688
+completed 2 weeks of meropenem,480
+repeat blood culture sterile,480
+discharged in stable condition,480
+advised to continue prednisolone for nephrotic syndrome,480
+exposure to sea-water 16 weeks before nephrotic syndrome,-2688
+smoldering sepsis,-3600
+treated with intermittent courses of antibiotics,-3600
+nephrotic syndrome with dysfunctional T cells,0
+loss of protective immunoglobulins,0
+decreased levels of complement pathway factors,0
+increased risk of infections with encapsulated bacteria,0
+loss of opsonizing factors in urine,0
+"encapsulated non-O1, non-O139 V. cholerae",0
+treatment with steroids worsened immune status,120
+possible infection-associated glomerulopathy,0
+mesangial-proliferative glomerulonephritis,0
+mesangial cell proliferation,0
+extracellular matrix production,0
+lack of frank podocytopathy,0

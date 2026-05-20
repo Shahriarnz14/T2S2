@@ -1,0 +1,74 @@
+event,time
+58 years old,0
+woman,0
+presented,0
+productive cough,-120
+fatigue,-120
+fever,-120
+diarrhea,-120
+diffuse rhonchi,0
+blood pressure 156/95 mm Hg,0
+heart rate 130 beats/min,0
+oxygen saturation 82% on 5-l nasal cannula,0
+respiratory rate 24 breaths/min,0
+temperature 38.7°C,0
+chest radiograph lower lobe–predominant bilateral infiltrates,0
+intubated,0
+hypoxic respiratory failure,0
+acute respiratory distress syndrome,0
+ECG sinus tachycardia,0
+1-mm upsloping ST-segment elevations in leads I and aVL,0
+mild diffuse PR interval depressions,0
+diffuse ST-T wave changes,0
+initial troponin I level negative,0
+troponin I peaked at 11.02 ng/ml,0
+leukopenia,0
+absolute lymphocyte count 1.04 K/mm3,0
+SARS-CoV-2 RNA positive,0
+COVID-19 RNA positive,0
+diabetes mellitus type 2,0
+hypertension,0
+dyslipidemia,0
+denied travel,0
+father ill with similar symptoms,0
+differential diagnosis STEMI,0
+differential diagnosis stress cardiomyopathy,0
+differential diagnosis myopericarditis,0
+"echocardiogram akinetic middle to distal anterior, anteroseptal, anterolateral, and apical segments",0
+echocardiogram moderately hypokinetic middle and distal inferolateral segments,0
+echocardiogram hyperdynamic basal segments,0
+apical ballooning,0
+left ventricular ejection fraction 20%,0
+akinetic distal third or apical right ventricular free wall,0
+hyperdynamic RV basal wall motion,0
+RV function mildly reduced,0
+admitted to intensive care unit,0
+takotsubo syndrome,0
+stress cardiomyopathy,0
+wall motion abnormalities out of proportion to ECG findings,0
+troponin elevation,0
+defer coronary angiography,0
+started on dual antiplatelet therapy,0
+anticoagulation with continuous intravenous heparin,0
+hydroxychloroquine therapy started,0
+hydroxychloroquine discontinued,0
+completed azithromycin course,0
+shock developed,0
+cardiogenic shock,0
+septic shock,0
+central venous oxygen saturation 42%,0
+dobutamine required,0
+cardiogenic shock improved,144
+central venous oxygen saturation 65%,144
+de-escalating dobutamine need,144
+repeat echocardiogram 6 days later,144
+improved wall motion,144
+LV ejection fraction 55%,144
+stress cardiomyopathy in setting of COVID-19,144
+no Q-wave myocardial infarction,144
+continued acute respiratory distress syndrome,144
+started venovenous extracorporeal membrane oxygenation,144
+LV function improved,144
+ECG no active ischemia or infarction,144
+deferred urgent coronary evaluation,144
+future coronary evaluation recommended,144

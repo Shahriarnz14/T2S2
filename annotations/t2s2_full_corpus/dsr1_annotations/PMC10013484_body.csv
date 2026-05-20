@@ -1,0 +1,87 @@
+event,time
+52 years old,0
+male,0
+caucasian,0
+no known past medical history,0
+presented with jaundice,-96
+presented with darkening of urine color,-96
+presented with fatigue,-96
+presented with dyspnea,-96
+admitted to the medical intensive care unit,0
+tachycardia,0
+heart rate 150 beats per minute,0
+normal blood pressure,0
+respiratory rate 50 breaths per minute,0
+oxygen saturation 80%,0
+⁠15 L O2 support,0
+acute hypoxemic respiratory failure,0
+chest CT consistent with COVID-19 pneumonia,0
+negative COVID-19 PCR,0
+glucose 168 mg/dL,0
+urea 67 mg/dL,0
+creatinine 1.08 mg/dL,0
+ALT 208 U/L,0
+AST 314 U/L,0
+total bilirubin 29.8 mg/dL,0
+direct bilirubin 15.11 mg/dL,0
+indirect bilirubin 14.69 mg/dL,0
+sodium 124 mmol/L,0
+potassium 3.2 mmol/L,0
+LDH 767 U/L,0
+"CK 3,754 U/L",0
+ferritin 468 ug/L,0
+hsTn I 112.4 ng/L,0
+"myoglobulin >1,200 ug/L",0
+BNP 681.3 ng/L,0
+PT 12.3 sec,0
+aPTT 31.9 sec,0
+INR 1.17,0
+fibrinogen 835 mg/dL,0
+D-dimer 727 ugFEU/L,0
+negative HIV,0
+negative HCV,0
+negative HBsAg,0
+positive Anti-HBs,0
+procalcitonin 1.81 ng/mL,0
+IL-6 486.9 pg/mL,0
+CRP 254 mg/L,0
+WBC 16.66 k/uL,0
+HGB 8.5 g/dL,0
+HCT 26.3%,0
+PLT 59 K/uL,0
+no schistocytes,0
+mild hepatomegaly,0
+high-flow nasal cannula,0
+empirical treatment with meropenem,0
+empirical treatment with doxycycline,0
+femoral central venous catheter insertion,0
+plasmapheresis initiated,0
+60 units fresh frozen plasma,0
+five sessions of plasmapheresis,0
+total bilirubin 19.6 mg/dL,96
+Leptospira PCR positive,96
+diagnosis of leptospirosis,96
+continued meropenem,96
+continued doxycycline,96
+clinical improvement,96
+weaned off oxygen,192
+laboratory values improved,192
+chest X-ray improved,192
+transferred to infectious diseases ward,192
+discharged from hospital,192
+uneventful recovery,192
+no further complications,192
+recent floods in western Black Sea region,-336
+incubation period 7-14 days,-336 to -240
+severe hyperbilirubinemia,0
+non-oliguric renal failure,0
+thrombocytopenia,0
+elevated aminotransferase levels,0
+multiple organ dysfunction,0
+pulmonary hemorrhage,0
+removal of serum bilirubin,0
+reduction of toxic insults,0
+removal of circulating endotoxins,0
+removal of inflammatory mediators,0
+plasmapheresis effective,0
+survived,192

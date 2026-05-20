@@ -1,0 +1,54 @@
+event,time
+63-year-old,0
+female,0
+height 168 cm,0
+weight 53 kg,0
+papillary thyroid carcinoma,"-27*8760 (1989, assuming 27 years before 2016)"
+resection,-27*8760
+radiotherapy,-27*8760
+stenosis of the esophagus,"-27*8760 + (developed in following years, approximated -25*8760)"
+repeated aspiration,-25*8760
+respiratory insufficiency,-25*8760
+pneumonia,-25*8760
+purulent pleurisy,-25*8760
+pleurectomy,-25*8760
+restrictive ventilation pattern,-20*8760 (two decades before referral)
+recurrent nerve palsy,-20*8760
+percutaneous endoscopic gastrostomy,-20*8760
+tracheostoma,-20*8760
+home ventilation,-20*8760
+mobility decreased,-10*8760
+secondary depression,-10*8760
+mandible nearly fixed,-10*8760
+mouth opening limited to 20 degrees,-10*8760
+left axis vertebralis stented,-6*8760
+stenosis of internal carotid arteries,-6*8760
+arterial hypertension,-6*8760
+secondary lactase deficiency,-6*8760
+esophageal dilation,-6*8760 (approximated to time of other events 6 years prior)
+referred to University of Erlangen,"-14 days (Oct 11, 2016; referral to Oct 26 is 15 days, but admission to current hospital on Oct 26; assuming 14 days prior to Oct 26)"
+fistula between esophagus and trachea,-14 days
+examined by multiple specialists,-14 days
+unstable for open surgery,-14 days
+referred to current hospital,"0 (Oct 26, 2016)"
+pneumonia with multidrug-resistant Pseudomonas,0
+vv-ECMO initiated,0
+partial thromboplastin time 60 seconds,0
+preseptic status,0
+thoracic CT on October 27,+24 hours
+confirmed tracheal fistula,+24 hours
+decision for endobronchial stenting,+24 hours
+procedure performed on October 28,+48 hours
+vv-ECMO becoming ineffective,+48 hours
+high volume saline input,+48 hours
+retrograde stenting steps I-IV,+48 hours
+stent placed retrograde,+48 hours
+tracheal cannula introduced,+48 hours
+vv-ECMO support reduced,+72 hours (over several days after stenting)
+spontaneous breathing increased,+72 hours
+patient awake,+72 hours
+severe infections persisted,+72 hours
+tidal volume 170 mL,+72 hours
+vv-ECMO weaning attempts,+72 hours
+patient and family decision to reduce support,+18 days (2.5 weeks)
+death on November 18,+528 hours (22 days after Oct 26)

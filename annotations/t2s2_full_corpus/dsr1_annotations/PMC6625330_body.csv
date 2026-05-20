@@ -1,0 +1,69 @@
+event,time
+57 years old,0
+female,0
+hypertension,0
+recurrent cystitis,0
+type 2 diabetes mellitus,0
+ESRD on hemodialysis,0
+hemodialysis session,-48
+admitted to MICU,0
+lethargic,-12
+barely conscious,-12
+recurrent UTI,0
+bacteremia,0
+temperature 95.5F,0
+heart rate 102 bpm,0
+respiratory rate 10 cpm,0
+blood pressure 76/55 mmHg,0
+soft abdomen,0
+mild distension,0
+trace pedal edema,0
+difficult to assess rebound tenderness,0
+intubated,0
+leukocytosis,0
+normocytic anemia,0
+lactic acidosis,0
+elevated serum creatinine,0
+hemoglobin A1C 6.1%,0
+normal arterial blood gas,0
+urinalysis positive bacteria,0
+urinalysis positive leukocyte esterase,0
+urinalysis positive nitrites,0
+abdominopelvic CT bowel thickening,0
+no obstruction,0
+no perforation,0
+bladder wall thickening,0
+bladder wall irregularity,0
+mild ascites,0
+chronic cystitis,0
+normal chest X-ray,0
+normal brain CT,0
+IV fluids,0
+empiric antibiotics,0
+vancomycin,0
+tazobactam/piperacillin,0
+norepinephrine,0
+continuous renal replacement therapy,0
+surgical consultation,0
+ischemic colitis,0
+bacteremia,0
+no acute surgical intervention,0
+febrile,24
+tachycardic,24
+increased norepinephrine,24
+abdomen more distended,24
+worsened laboratory parameters,24
+Escherichia coli in blood,24
+Escherichia coli in urine,24
+exploratory laparotomy,48
+necrotic bladder wall,48
+ruptured bladder wall,48
+free fluid abdominopelvic cavity,48
+no bowel ischemia,48
+no bowel perforation,48
+partial cystectomy,48
+bladder tissue inflammation,48
+bladder tissue necrosis,48
+no malignancy,48
+withdrawal of life support,72
+death,84

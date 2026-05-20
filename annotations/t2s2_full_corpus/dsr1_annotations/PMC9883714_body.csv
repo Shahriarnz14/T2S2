@@ -1,0 +1,93 @@
+event,time
+65 years old,0
+male,0
+hypertension,0
+depression,0
+dental work,168
+fever,-168
+malaise,-168
+chest x-ray,-168
+COVID swab,-168
+admitted to medical intensive care unit,24
+shock,0
+vasopressor support,24
+cardiac biomarkers peak,36
+weaned from vasopressor support,24
+transferred to cardiac intensive care unit,24
+coronary angiogram,96
+no obstructive coronary artery disease,96
+cardiac magnetic resonance imaging,120
+myopericarditis,120
+anaplasma polymerase chain reaction positive,144
+discharged,144
+doxycycline,144
+follow-up with infectious disease,480
+antibiotics stopped,480
+repeat cardiac magnetic resonance imaging,480
+follow-up with heart failure,672
+sinus rhythm,672
+no atrial fibrillation,672
+baseline functional status,672
+ambulatory rhythm monitoring,672
+ECG sinus rhythm with incomplete right bundle branch block,0
+left anterior fascicular block,0
+temperature 97.7 Fahrenheit,0
+heart rate 63 beats per minute,0
+blood pressure 74/44 mmHg,0
+respiratory rate 20 breaths per minute,0
+oxygen saturation 99%,0
+crackles at right lung base,0
+holosystolic murmur,0
+AST 89 IU/L,0
+ALT 103 IU/L,0
+proBNP 16093 pg/mL,0
+Troponin-T 0.79 ng/mL,0
+CRP >300 mg/L,0
+creatinine 2.6 mg/dL,0
+lactate 3.4 mmol/L,0
+atrial fibrillation,0
+non-specific intraventricular conduction delay,0
+ST elevation in lateral leads,0
+preserved LVEF,0
+tricuspid regurgitation,0
+no pericardial effusion,0
+blood cultures coagulase-negative staphylococcus,0
+CT angiogram negative for pulmonary embolism,0
+urine antigens negative,0
+LVEF 54%,0
+dilated right ventricle,0
+moderate-to-severe RV systolic dysfunction,0
+TAPSE 1.3 cm,0
+leftward interventricular septal shift,0
+mild to moderate tricuspid regurgitation,0
+small circumferential pericardial effusion,0
+diffuse late gadolinium enhancement,0
+sub-epicardial late gadolinium enhancement,0
+Lyme IgG positive,0
+negative acute Lyme infection,0
+PCR negative for babesia,0
+anaplasma IgM positive,0
+anaplasma IgG negative,0
+IV fluids,0
+vancomycin,0
+ceftriaxone,0
+new onset atrial fibrillation,0
+unfractionated heparin,0
+fever abated,24
+blood pressure stabilized,24
+renal function improved,24
+peak troponin-T 1.24,36
+CK-MB 57,36
+apixaban,144
+loop recorder,144
+no recurrent fevers,480
+no dyspnea,672
+no chest pain,672
+normal physical examination,672
+loop recorder sinus rhythm,672
+no high-grade heart block,672
+repeat CMR normal,480
+LVEF 59%,480
+normal RV size and function,480
+resolution pericardial effusion,480
+normal T2 signal,480

@@ -1,0 +1,75 @@
+event,time
+33 years old,0
+female,0
+admitted to the hospital,0
+fever,-96
+cough,-96
+dyspnoea,-96
+hypoxemia,0
+high-flow nasal cannula therapy,0
+empiric antimicrobial therapy,0
+steroids (methylprednisolone 1.5 mg/kg/day),0
+broad-spectrum antibiotics,0
+processed pulmonary consolidation in the left upper lobe,0
+computed tomography scan,0
+percutaneous lung biopsies,0
+fibrin balls in alveolar spaces,0
+fibroblastic tissue in alveolar spaces,0
+absence of hyaline membranes,0
+absence of eosinophils,0
+AFOP diagnosis,0
+transferred to ICU,0
+high-dose steroids (methylprednisolone 10 mg/kg/day),0
+high-dose immunoglobulins (2 g/kg/5 days),0
+respiratory failure,0
+orotracheal intubation,0
+mechanical ventilation,0
+invasive ventilation,0
+echocardiography showed normal biventricular function,0
+no valve defects,0
+no septal defects,0
+no pulmonary hypertension,0
+V-V ECMO support,0
+lung rest approach in MV,0
+no pulmonary function improvement within 2-week protective MV,336
+MDT discussion,336
+lung transplant emergency waiting list,336
+donor lung obtained (20th day of ECMO),480
+bilateral lobar lung transplantation,480
+clamshell incision,480
+tacrolimus,480
+methylprednisolone induction therapy,480
+carbapenem-resistant Pseudomonas aeruginosa pneumonia,480
+exophytic granulation tissue with inflammation,480
+anastomotic stenosis in the trachea,480
+bronchopleural fistulae (post-transplantation day 32),768
+anastomotic infections in the trachea,480
+septic shock,480
+bacteraemia,480
+reperfusion syndrome,480
+primary graft dysfunction grade 3,480
+severe renal failure,480
+dialysis,480
+critical illness myopathy,480
+aggressive broad-spectrum therapy,480
+prophylactic antifungal therapy,480
+prophylactic antiviral therapy,480
+renal replacement therapy,480
+percutaneous drainage,480
+airway debridement,480
+cryotherapy,480
+electrocautery,480
+laser therapy,480
+bronchoscopic balloon dilatation,480
+immunosuppression,480
+respiratory rehabilitation,480
+ECMO weaned (post-transplantation day 14),816
+MV weaned (post-transplantation 6th month),4320
+tracheostomy (post-transplantation day 12),768
+discharged from general thoracic surgery unit,720
+survival without readmissions (1 year follow-up),8760
+return to normal daily life,8760
+return to social activity,8760
+absence of relevant complications,8760
+no sign of rejection,8760
+optimal graft function,8760

@@ -1,0 +1,15 @@
+{
+  "body_dir": "/mnt/c/Research/t2s2/annotations/sepsis-10/body",
+  "model_dirs": {
+    "dsr1": "/mnt/c/Research/t2s2/annotations/sepsis-40/sepsis-40_dsr1_tts",
+    "llama33": "/mnt/c/Research/t2s2/annotations/sepsis-40/sepsis-40_l33_tts"
+  },
+  "n_total_rows": 1517,
+  "n_manual_review_rows": 165,
+  "notes": [
+    "This audit is conservative.",
+    "auto_found=1 means the event text was grounded automatically by exact or near-exact lexical evidence.",
+    "auto_found=0 does NOT imply hallucination; it means manual review is required.",
+    "manual_label can be filled with: supported / hallucinated / unsure"
+  ]
+}

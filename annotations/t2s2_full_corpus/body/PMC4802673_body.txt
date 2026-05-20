@@ -1,0 +1,43 @@
+Introduction
+Klebsiella pneumoniae (Kp) producing carbapenemase has been associated with serious infections and high mortality. The optimal antimicrobial therapy for Carbapenem-resistant Klebsiella pneumoniae (CR-Kp) is not well established.
+
+Case report
+We describe a case of a patient with septic shock due to CR-Kp bloodstream infections (BSI) who was successfully treated with a high dose association of amikacin and imipenem combined with continuous venovenous hemodiafiltration (CVVHDF).
+
+Our patient was a 58-year-old man, with hypertension and diabetes mellitus, admitted to the Intensive care unit (ICU) for septic shock of unknown origin occurring thirteen days after a coronary artery bypass grafting and mitral valve replacement.
+
+The patient was admitted to ICU, requiring invasive mechanical ventilation and norepinephrine infusion. Renal function deteriorated but creatinine clearance remained higher than 40 ml/min with preserved urine output. He was febrile (39.5 °C) and he had a central venous catheter (CVC) in the internal jugular site since 6 days.
+
+The following specimens for culture were obtained: (1) the distal 4–5 cm of the tip after CVC removal. (2) Two blood samples, drawn from the catheter and a peripheral vein. (3) Urine culture and bronchoalveolar lavage.
+
+The absence of sternal instability and data from the computed tomography (CT) scan made the diagnosis of mediastinitis improbable.
+
+Transthoracic and transesophageal echocardiography were then performed and have not shown any valvular abnormality (vegetations, dysfunction, etc.).
+
+Empirical antibiotic treatment with a combination of Vancomycin (30 mg/kg every 24 h adapted to plasma concentration), Imipenem (0.5 g every 8 h) and Colistin (3 × 106 IU every 12 h), was initiated. The patient's clinical condition worsened despite this treatment.
+
+The complementary tests performed to find the focus of infection showed Klebsiella pneumoniae (Kp) isolated from the catheter culture and from two blood samples, drawn from the catheter before removal and from a peripheral vein. The Kp was intermediate to Amikacin (MIC = 16 μg/ml) and was resistant to all other antibiotics including Imipenem (MIC = 4 μg/ml), Colistin (MIC = 16 μg/ml) and Tigecycline (MIC = 4 μg/ml) according to the Clinical and Laboratory Standards Institute (CLSI) published in 2011 [1].
+
+Standard PCR and sequencing were used to identify genes encoding carbapenemases (blaNDM, blaVIM, blaIMP, blaKPC and blaOXA-48) [2], extended-spectrum β-lactamases (blaTEM, blaCTX-M and blaSHV) [3] and plasmid-mediated AmpC (blaCIT, blaFOX, blaMOX, blaDHA, blaEBC and blaACC) [4]. PCR amplification and sequencing verified the presence of blaOXA-48, blaVIM-2, blaCMY-2 and blaSHV-1 genes.
+
+Vancomycin and Colistin were stopped and antimicrobial treatment was therefore changed to amikacin, given at a dose of 30 mg/kg (2.5 g) in a 30 min infusion and the dose of imipenem was increased to 1 g every 6 h despite patient's altered renal function (Creatinine Clearance = 25 ml/min). To avoid amikacin nephrotoxicity and to allow the use of high doses of imipenem, continuous venovenous hemodiafiltration (CVVHDF) (blood flow, 200 ml/h; dialysate, 1000 ml/h; ultrafiltrate, 2000 ml/h) was initiated 1 h after the start of the amikacin infusion and continued thereafter.
+
+Amikacin was administrated daily with the same regimen as CVVHDF. By daily monitoring of peak level (obtained 30 min after the end of the infusion), the dose of amikacin was increased progressively to reach 60 mg/kg (5 g) resulting in optimal peaks.
+
+The patient improved hemodynamically and norepinephrine was stopped five days after antibiotherapy adaptation. Values of C-reactive protein (CRP), procalcitonin and leukocytes decreased during treatment and continued to decrease in the following days.
+
+Treatment was tolerated for 14 days without any adverse effects. The patient was discharged from the intensive care unit (ICU) four days after the end of therapy. Serum creatinine values at discharge were similar to those before ICU admission. An audiometric test was performed and excluded any ototoxicity of high-dose amikacin in our patient.
+
+Discussion
+CR-Kp has become a major hospital pathogen. Infections due to this organism are associated with high therapeutic failure and mortality rates of at least 50% [5], [6]. The limited number of agents available for the treatment of CR-Kp presents a tremendous challenge to clinicians.
+
+Colistin, constitutes now a first-line regimen for treatment of infection caused CR-Kp. With the increased use of Colistin, emergence of Colistin resistance has been reported.
+
+Several recent studies have supported the role of combination therapy for treating CR-Kp infections. In a cohort of 41 patients with CR-Kp bacteremia, the use of combination therapy was associated with improved 28-day mortality [7]. In a review of published case series and case reports of Treatment of Klebsiella Pneumoniae Carbapenemase (KPC) infections, Lee and Burgess report a total of 30 cases received an aminoglycoside, 20% (6/30) of cases as monotherapy and 80% (24/30) as combination therapy [8]. There was no significant difference in treatment failure rates between those who received aminoglycoside monotherapy compared to combination therapy (0% vs. 17%; p = 0.6). Interestingly, all six cases who received aminoglycoside monotherapy reported success: three cases were treated for BSIs, two cases were treated for UTIs, and one case was treated for a respiratory infection. A recent study demonstrated that aminoglycosides, when active in vitro, were associated with a significantly higher rate of microbiologic clearance of Carbapenem-resistant K. pneumoniae in the urine compared to polymyxin B or Tigecycline [9]. Of the patients who received aminoglycoside-based combination therapy, the most common treatment was amikacin plus Colistin, followed by aminoglycoside plus a Carbapenem.
+
+Aminoglycosides are eliminated by the kidneys, and the potential for renal toxicity has largely limited the use of these drugs. Renal uptake of amikacin by tubular cells is a saturable mechanism when drug concentrations exceed 15 μg/ml [10]. In our case the use of high-dose amikacin to treat pathogens with a MIC of 16 μg/ml would have resulted in drug accumulation with deleterious effects on renal recovery and in delaying following injections. Thus, we used CVVHDF to improve extrarenal clearance of the drug. In our patient, this strategy resulted in high peak concentrations, with increased antimicrobial efficacy, and a rapid decrease in drug levels below the threshold of toxicity.
+
+In conclusion, the use of high dose combination of Imipenem and amikacin seems to have a survival benefit in Treating Carbapenem-resistant Klebsiella pneumoniae Bloodstream Infection. The use of CVVDHF could prevent the development of nephrotoxicity related to the amikacin accumulation and increase the antimicrobial activity by allowing daily drug administration.
+
+Conflict of interest
+The author(s) declare that they have no competing interests.

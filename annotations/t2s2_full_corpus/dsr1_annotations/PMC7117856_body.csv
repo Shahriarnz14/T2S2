@@ -1,0 +1,88 @@
+event,time
+65-year-old,0
+man,0
+farmer,0
+rural area,0
+admitted to Regional Hospital of IESS Babahoyo,0
+cough,-72
+greenish expectoration,-72
+chest pain,-72
+asthenia,-72
+weight loss,-72
+decrease in vesicular murmur (left predominance),0
+bilateral crackles,0
+valvuloplasty,-26280
+aortic valve replacement,-26280
+Warfarin 5 mg daily,-26280
+Carvedilol 12.5 mg morning and 6.25 mg afternoon,-26280
+left anterior hemiblock,0
+acute respiratory failure,0
+admitted to ICU,0
+poor ventilatory mechanics,0
+inadequate management of secretions,0
+use of accessory muscles,0
+mixed acidosis,0
+orotracheal intubation,0
+invasive mechanical ventilation,0
+systolic blood pressure 104/54 mmHg,0
+SpO2 80%,0
+respiratory rate 36 rpm,0
+heart rate 120 bpm,0
+left pneumothorax,0
+thoracic drainage tube placement,0
+Propofol 1 mg/kg/h,0
+fentanyl 1 mcg/kg/h,0
+IPPV mode ventilation,0
+tidal volume 460 ml,0
+inspiratory time 1 s,0
+flow 45 L/min,0
+PEEP 5 cm H2O,0
+RR 12-14 breaths/min,0
+FiO2 45%,0
+pH 7.17,0
+pCO2 35 mmHg,0
+PO2 62.8 mmHg,0
+HCO3 12.7 mmol/L,0
+base excess -13.4,0
+SO2 88.6%,0
+metabolic acidosis,0
+shock due to dehydration,0
+severe hemodynamic compromise,0
+tension pneumothorax,0
+central venous catheter,0
+nasogastric tube,0
+bladder catheter,0
+chest tube,0
+pneumonia (non-specific microorganisms),0
+CT thorax: tree-like infiltrate,0
+"consolidations (upper lobe, lower right, upper left)",0
+right pleural effusion,0
+left pneumothorax with chest tube,0
+"leukocytosis (14,200 mm3)",0
+hemoglobin 8.9 g/dl,0
+hematocrit 28.9%,0
+"platelets 166,000 mm3",0
+hypokalemia (3.2 meq/L),0
+severe community-acquired pneumonia treatment (ampicillin/sulbactam + clarithromycin),0
+bronchoscopy,24
+pale palate mucosa,24
+erythematous stippling,24
+cavitary image (apical segment right upper lobe),24
+BAL,24
+bronchial brushing,24
+Pseudomonas aeruginosa,28
+Klebsiella pneumoniae (KPC),28
+Mycobacterium tuberculosis (rifampicin-sensitive),28
+colistin 300 mg initial dose,28
+colistin 100 mg every 8h,28
+amikacin 500 mg nebulized every 12h,28
+CT thorax (day 10): pneumothorax resolved,240
+interstitial pattern,240
+left pulmonary cavern,240
+pleural effusion,240
+hemodynamic instability (day 13),312
+increased vasopressors,312
+norepinephrine,312
+dobutamine,312
+atrial fibrillation with RVR,312
+death,312

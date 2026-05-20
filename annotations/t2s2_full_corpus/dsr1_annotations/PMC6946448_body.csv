@@ -1,0 +1,59 @@
+event,time
+32 years old,0
+female,0
+admitted to the hospital,0
+fever,-840
+rash,-840
+diarrhea,-480
+cough,-840
+cephalosporins cefalexin,-840
+itchy rash,-480
+erythema multiforme,-240
+prednisone,-240
+levofloxacin,-240
+cefuroxime,-240
+"yellowish, watery diarrhea",-144
+Bifidobacterium,-144
+infectious diarrhea,-144
+transferred to intensive care unit,-144
+MOF,-144
+intestinal failure,-144
+liver dysfunction,-144
+kidney dysfunction,-144
+fever (38.7°C),0
+percussion tenderness in left lower quadrant,0
+WBC count 9.94 ×10^9 cells/L,0
+neutrophil count 8.67 ×10^9 cells/L,0
+CRP 47 mg/L,0
+ESR 37 mm/h,0
+IL-6 80.93 pg/mL,0
+PCT 1.90 ng/mL,0
+EBV DNA elevated,0
+CMV DNA elevated,0
+thickening of small intestine wall,0
+hepatosplenomegaly,0
+DIHS,0
+decreased Bifidobacterium,0
+decreased Lactobacillus,0
+decreased Clostridium,0
+FMT,0
+methylprednisolone,0
+immune globulin,0
+ganciclovir,0
+drop in body temperature (38.9°C to 37.3°C),72
+recurrent MODS symptoms,72
+decline in stool output frequency,168
+stools became well-formed,168
+normal stool frequency,336
+normal stool volume,336
+CRP reduced,72
+PCT reduced,72
+ESR reduced,72
+IL-6 reduced,72
+aspartate aminotransferase normal,336
+alanine aminotransferase normal,336
+improved consciousness,336
+EBV DNA normal,504
+CMV DNA normal,504
+discharged,1440
+normal intestinal mucosa,1440

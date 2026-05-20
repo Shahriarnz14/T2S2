@@ -1,0 +1,99 @@
+event,time
+18 years old,0
+male,0
+admitted to the hospital,0
+fever,0
+rash,0
+diagnosed with acne,-672
+minocycline treatment,-672
+increased WBC count,0
+eosinophilia,0
+systemic involvement,0
+diffuse erythematous or maculopapular eruption,0
+pruritus,0
+DRESS syndrome,0
+fever persisted,0
+rash persisted,0
+discharged,24
+acute respiratory failure due to COVID-19 pneumonia,0
+admitted to ICU,0
+conventional oxygen therapy,0
+nonrebreather mask oxygen support,0
+SpO2 <93%,0
+PaO2/FiO2 <300,0
+awake prone positioning application,0
+"treatment failure (PaO2/FiO2 <150, SpO2 <93%, GCS <12, respiratory acidosis)",24
+intubation,24
+invasive mechanical ventilation,24
+ventilator-free days,24
+ICU stay,0
+short-term mortality (within 28 days),672
+discharge,"variable (not specified, but assuming after 28 days)"
+acute respiratory failure,0
+ICU admission,0
+nonrebreather mask oxygen,0
+SpO2 monitoring,0
+arterial blood gas analysis,0
+awake prone positioning (12-18 hours/day),0
+treatment failure,24
+intubation,24
+invasive ventilation,24
+ventilator-free days,24
+ICU stay duration,0 (start) to discharge
+mortality within 28 days,672
+discharge,varies (not specified)
+acute respiratory failure due to COVID-19 pneumonia,0
+admitted to ICU,0
+conventional oxygen therapy with nonrebreather mask,0
+SpO2 <93%,0
+PaO2/FiO2 <300,0
+awake prone positioning application,0
+treatment failure,24
+intubation,24
+invasive mechanical ventilation,24
+ventilator-free days,24
+length of ICU stay,0
+short-term mortality,672
+discharge,variable
+discharge (APP),120
+discharge (non-APP),192
+mortality within 28 days,672
+age >60 years,0
+male sex,0
+diabetes mellitus,0
+hypertension,0
+coronary artery disease,0
+chronic obstructive pulmonary disease,0
+congestive heart failure,0
+chronic renal failure,0
+body mass index,0
+acute respiratory failure due to COVID-19 pneumonia,0
+admitted to ICU,0
+conventional oxygen therapy,0
+nonrebreather mask oxygen support,0
+SpO2 <93%,0
+PaO2/FiO2 <300,0
+awake prone positioning application,0
+treatment failure,24
+intubation,24
+invasive mechanical ventilation,24
+ventilator-free days,24
+length of ICU stay,0
+short-term mortality,672
+discharge (APP group),120
+discharge (non-APP group),192
+age >60 years,0
+male,0
+diabetes mellitus,0
+hypertension,0
+coronary artery disease,0
+chronic obstructive pulmonary disease,0
+congestive heart failure,0
+chronic renal failure,0
+body mass index,0
+increased SpO2 at 24 hours,24
+increased PaO2 at 24 hours,24
+decreased PaCO2 at 24 hours,24
+decreased pH in non-APP group,24
+intubation requirement,24
+mortality rate,672

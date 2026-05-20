@@ -1,0 +1,64 @@
+event,time
+33 years old ,0
+female ,0
+nausea ,-24
+vomiting ,-24
+abdominal pain ,-24
+discharged ,-36
+hospitalized ,-36
+recurrent pericarditis ,-36
+colchicine ,-36
+febrile ,0
+hypotensive ,0
+leukocytosis ,0
+elevated serum lactate ,0
+acute kidney injury ,0
+acute transaminitis ,0
+severe coagulopathy ,0
+normal sinus rhythm ,0
+normal biventricular function ,0
+sepsis ,0
+fluid resuscitated ,0
+broad-spectrum antibiotics ,0
+vasopressor therapy ,0
+severe multisystem organ failure ,24
+intubated ,24
+paralyzed ,24
+intravascular volume repletion ,24
+intravenous vasopressors ,24
+stress-dose steroids ,24
+high-dose vitamin B12 ,24
+Swan-Ganz catheter ,24
+distributive shock ,24
+cardiac output ,24
+pulmonary artery diastolic pressure ,24
+systemic vascular resistance ,24
+cardiogenic shock ,48
+high filling pressures ,48
+low CO ,48
+high systemic vascular resistance ,48
+troponin increased ,48
+electrocardiogram ,48
+transesophageal echocardiogram ,48
+severe biventricular failure ,48
+intravenous milrinone ,48
+inotropic support ,48
+continuous renal replacement therapy ,48
+anuric renal failure ,48
+PRBC transfusion ,72
+packed red blood cell ,72
+CO normalized ,96
+troponin decreased ,96
+multisystem organ failure improved ,96
+neutropenic ,120
+white blood cell count ,120
+repeat echocardiogram ,144
+recovery of LVEF ,144
+weaned from vasopressors ,312
+taken off CRRT ,312
+extubated ,312
+hair loss ,576
+admitted to taking colchicine ,720
+elevated serum colchicine levels ,720
+whole blood colchicine levels ,720
+discharged ,720

@@ -1,0 +1,60 @@
+event,time
+77 years old,0
+male,0
+admitted to ICU,0
+previous history of tuberculosis,0
+COPD,-87600
+Hyperthyroidism,-87600
+Diabetes Mellitus,-87600
+confusion,-24
+shortness of breath,-24
+tachycardia,-24
+hypothermia,-24
+hypotension,-24
+acute respiratory failure,0
+SIRS,0
+intubated,0
+connected to ventilator,0
+decreased respiratory sounds (right lung),0
+coarse rales,0
+prolongation of expirium,0
+bilateral biphasic expiratory ronchi,0
+obstructive pattern on pulmonary function test,0
+Glascow Coma Score 6,0
+APACHE II: 34,0
+MODS: 8,0
+pulse: 122/min,0
+arterial blood pressure: 82/41 mmHg,0
+respiratory rate: 30/min,0
+temperature: 35°C,0
+Leukocyte: 27600/mm3,0
+CRP: 52 mg/L,0
+"thyrotoxicosis (FT4=8.5 ng/dL, TSH<0.05 μIU/mL, TRAb=0.9 IU/mL)",0
+thyroid nodule (8.5 mm right lobe),0
+Hyperthyroidism (Graves’ disease),0
+treatment with propranolol,0
+treatment with methimazole,0
+pneumonic infiltration (right middle lobe),0
+ground glass density (right lung),0
+no cardiac ischemia (ECG),0
+diastolic dysfunction (ECHO),0
+temperature 38.4°C (day 2),48
+no culture growth,48
+Ampicilline-Sulbactam,48
+Levofloxacin,48
+ARB negative (3 times),48
+no treatment response,168
+Piperacilline/Tazobactam,168
+Trimetoprim/Sulfametaxazol,168
+Claritromycin,168
+fungus ball on thoracic CT,168
+bronchoscopy performed,168
+narrow trachea and bronchi,168
+diffuse white-colored plaques,168
+crescent sign (thorax CT),168
+histopathology: Aspergillus fumigatus hyphae,168
+BAL culture: Aspergillus fumigatus,168
+"voriconazole started (loading 400 mg, maintenance 200 mg)",168
+disease progression (day 18),432
+multiple organ failure (MOF),432
+death,432

@@ -1,0 +1,75 @@
+event,time
+57 years old,0
+female,0
+admitted to the emergency department,0
+type 2 diabetes,0
+lower back pain,0
+right hallux apical neuropathic ulcer,"-2928 (4 months prior, 4*30*24=2880, approximated to -2928)"
+osteomyelitis (right hallux),-2928
+left forefoot amputation,"-10512 (17 months prior, 17*30*24=12240, approximated to -10512)"
+non-healing left forefoot amputation wound,-10512 (since developed 17 months prior)
+left fifth toe ulcer,-10512
+peripheral vascular disease,0
+peripheral neuropathy,0
+diabetic retinopathy,0
+diabetic nephropathy,0
+atrial fibrillation,0
+hypertension,0
+WHO performance status score 2,0
+acutely confused,0
+septic,0
+denied headache,0
+denied respiratory symptoms,0
+denied urinary symptoms,0
+denied gastrointestinal symptoms,0
+BP 102/84 mmHg,0
+heart rate 110/min,0
+temperature 33.7°C,0
+normal heart sounds,0
+clear chest auscultation,0
+unremarkable abdominal examination,0
+left foot amputation site soft tissue infection,0
+CRT 3 seconds,0
+biphasic Doppler signals (PTAs),0
+right hallux ulcer dry,0
+lumbar vertebral tenderness,0
+bilateral lower limb weakness,0
+absent reflexes,0
+acute renal failure,0
+profound metabolic acidosis,0
+oliguria,0
+pH 7.13,0
+pCO2 4.2 kPa,0
+lactate 14.6 mmol/L,0
+bicarbonate 10.3 mmol/L,0
+base excess −18.9 mmol/L,0
+chest radiograph negative,0
+urine cultures negative,0
+CT head no acute findings,0
+FAST scan collapsible IVC,0
+poorly filled RV,0
+CT abdomen no collections,0
+lower limb arterial calcification,0
+left leg 50–55% stenosis,0
+left crural artery calcification,0
+wound swabs with Pseudomonas sp. and yeast,0
+"previous swabs with mixed anaerobes, S. aureus, Pseudomonas sp.",0
+blood cultures with GBS,0
+transthoracic echocardiogram severe LV dysfunction,0
+spinal MRI L3/L4 and L4/L5 discitis,0
+vertebral end-plate oedema,0
+posterior epidural collection T12-L4,0
+multi-organ failure,72 (day 3)
+severe LV dysfunction,72
+acute kidney injury,72
+ischaemic liver dysfunction,72
+managed conservatively,72
+"antibiotics (ciprofloxacin, gentamicin, meropenem, ceftriaxone)",72
+inflammatory markers improved,"1680 (final week, approx. day 60: 60*24=1440, approximated to 1680)"
+bed bound,0 (ongoing from admission)
+persistent lower limb neurology,0 (ongoing)
+further signs of sepsis (final week),1680
+passed away,"1680 (2.5 months = 75 days, 75*24=1800, approximated to 1680)"
+septicaemia,0 (cause of death)
+epidural abscess,0 (cause of death)
+diabetic foot ulcer,0 (cause of death)

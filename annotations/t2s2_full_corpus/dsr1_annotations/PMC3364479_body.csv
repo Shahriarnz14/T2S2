@@ -1,0 +1,60 @@
+event,time
+69 years old,0
+male,0
+diagnosed with advanced prostate cancer,0
+multiple bone metastases,0
+"PSA 1,149 ng/ml",0
+orchiectomy,-7200
+maximal androgen blockade,-7200
+PSA decreased to 3.3 ng/ml,-7200
+PSA began to increase,-4800
+discontinuation of anti-androgen therapy,-4800
+administered estramustine,-4800
+PSA increased to 32.6 ng/ml,-4800
+treatment failure,-4800
+second-line chemotherapy with docetaxel,-2400
+performance status 1,-2400
+nonsmoker,-2400
+pretreatment chest X-ray normal,-2400
+pretreatment lung sound normal,-2400
+docetaxel 75 mg/m2 every 3 weeks,-2400
+prednisone 5 mg twice daily,-2400
+first cycle dexamethasone 20 mg,-2400
+PSA decreased from 32.6 to 2.7 ng/ml,-2160
+leucopenia 1×10³/ul,-2160
+G-CSF injected,-2160
+leucocytes increased to 9.4×10³/ul,-2160
+liver function tests normal,-2160
+other laboratory findings normal,-2160
+third cycle docetaxel,-240
+cumulative dosage 350 mg,-240
+dyspnea,0
+cough,0
+sputum,0
+fever 39.2℃,0
+mild diffuse fine crackle,0
+leukocyte count 13.1×10³/ul,0
+pH 7.422,0
+pCO2 21.4 mmHg,0
+pO2 58.3 mmHg,0
+chest X-ray interstitial pneumonitis,0
+chest CT interstitial pneumonitis,0
+sputum culture negative,0
+blood culture negative,0
+empiric broad-spectrum antibiotics,0
+high-dose corticosteroids methylprednisolone 500 mg/day,0
+vancomycin,0
+ceftriaxone,0
+piperacillin/tazobactam,0
+bronchoscopy refused,0
+pulmonary lavage refused,0
+condition worsened,72
+septic shock,72
+O2 saturation 80%,72
+transferred to ICU,72
+intubated,72
+mechanical ventilation,72
+dopamine for hypotension,72
+situation worsened,96
+cardiopulmonary resuscitation,96
+died,96

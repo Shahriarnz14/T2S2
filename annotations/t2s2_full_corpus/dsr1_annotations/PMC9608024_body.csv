@@ -1,0 +1,135 @@
+event,time
+60-year-old,0
+male,0
+past medical history of vitiligo,0
+past medical history of anemia,0
+presented to emergency department,0
+diffuse itchy skin,-336
+diagnosed with dermatitis,-504
+treated with topical nystatin,-504
+occupational exposure at metal refinery,0
+occupational exposure at shipping dock,0
+active smoker (1 pack/day),0
+35-year smoking history,0
+alcohol use daily,0
+sexually active with multiple partners,0
+no significant family history,0
+no travel outside US,0
+dry circular rashes,0
+widespread inguinal adenopathy,0
+widespread axillary adenopathy,0
+widespread supraclavicular adenopathy,0
+normal CBC,0
+normal CMP,0
+normal LDH,0
+normal ACE,0
+negative HIV serology,0
+discharged with nummular eczema,0
+topical hydrocortisone 2.5%,0
+cetirizine 10 mg daily,0
+naproxen 500 mg twice daily,0
+prednisone taper 40 mg,0
+follow-up with PCP for itching,720
+edematous nasal mucosa,720
+posterior oropharyngeal erythema,720
+maculopapular erythematous rash,720
+treated with triamcinolone 0.5% ointment,720
+hydroxyzine 10 mg three times daily,720
+referred to dermatology,1584
+persistent intense pruritus,1584
+lesions on face,1584
+lesions on chest,1584
+lesions on abdomen,1584
+denies constitutional symptoms,1584
+differential diagnosis of sarcoidosis,1584
+differential diagnosis of lichen planus,1584
+differential diagnosis of lupus erythematosus,1584
+differential diagnosis of lymphoma,1584
+differential diagnosis of syphilis,1584
+punch biopsies performed,1584
+CTCL diagnosis,1584
+CD3+,1584
+CD4+,1584
+CD8+,1584
+CD4:CD8 ratio >2:1,1584
+loss of CD7 staining,1584
+rare scattered B lymphocytes (CD20+),1584
+CD30+ <5%,1584
+negative Treponema pallidum stain,1584
+monoclonal T-cell population,1584
+atypical lymphoid epidermal infiltrate,1584
+nuclear contour irregularity,1584
+dermal/epidermal junction splitting,1584
+inflammatory dermal infiltrate,1584
+small lymphocytes,1584
+histiocytes,1584
+eosinophils,1584
+referred to dermatology,1584
+referred to hematology,1584
+referred to oncology,1584
+CT/PET scan,2160
+enlarged bilateral axillary lymph nodes,2160
+enlarged inguinal lymph nodes,2160
+enlarged supraclavicular lymph nodes,2160
+lymph node biopsy confirmed CTCL,2160
+staging IVA2 (T4N3M0B0),2160
+CD25 negative,2160
+doxepin 25 mg daily,2160
+warfarin 1 mg daily,2160
+second opinion at Cleveland Clinic,2376
+confirmed CTCL diagnosis,2376
+clobetasol 0.05% cream,2376
+desonide twice daily,2376
+bexarotene 200 mg/m2,2376
+gabapentin 300 mg daily,2376
+ED visit for foot pain,3648
+bilateral lower extremity duplex negative,3648
+discharged,3648
+ED visit with open wounds,4392
+large eschar on chest,4392
+multiple excoriating wounds (>70% body),4392
+admitted for wound care,4392
+broad-spectrum antibiotics,4392
+CT chest/abdomen/pelvis,4392
+axillary adenopathy,4392
+enlarged inguinal lymph nodes,4392
+external iliac chain lymphadenopathy,4392
+subcutaneous abdominal lesions,4392
+staging T4N3M0B0,4392
+skin cultures positive for MRSA,4392
+skin cultures positive for Diphtheroid,4392
+surgery: lymph node excision,4392
+surgery: abdominal wall biopsy,4392
+surgery: chest eschar debridement,4392
+pathology: MF with large cell transformation,4392
+bexarotene discontinued,4392
+romidepsin 14 mg/m2 initiated,4392
+transfer to burn ICU denied,4392
+discharge delayed by 6 days,4392
+discharged to SNF,5256
+Wound Care follow-up,5904
+diffuse draining lesions,5904
+transferred to ED,5904
+admitted for pain and infected lesions,5904
+wounds >80% body surface,5904
+LTAC transfer denial,5904
+burn ICU transfer denied,5904
+aggressive pain management,5904
+broad-spectrum antibiotics,5904
+romidepsin held,5904
+excisional debridement performed,5904
+wound cultures positive for MRSA,5904
+blood cultures positive for group B Streptococcus,5904
+staging T4N3M0B1,5904
+post-operative mechanical ventilation,5904
+transferred to SICU,5904
+hypotension,5952
+decreased urine output,5952
+leukocytosis,5952
+blood cultures positive for group G Streptococcus,5952
+blood cultures positive for MRSA,5952
+failed spontaneous breathing trial,5976
+DNR status,6000
+comfort care,6000
+extubated,6000
+expired,6048

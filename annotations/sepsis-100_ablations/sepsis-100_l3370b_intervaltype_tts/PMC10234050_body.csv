@@ -1,0 +1,38 @@
+event,time
+preterm baby,0
+male,0
+born by emergency cesarean section,0
+severe preeclampsia in the mother,-672
+gestational week 25 6/7,0
+birthweight 665 g,0
+intubated,0
+mechanical ventilation,0
+total parenteral nutrition,24
+minimal enteral nutrition with breast milk,24
+delayed meconium passage,48
+abdominal distension,48
+increased gastric residuals,48
+necrotizing enterocolitis,72
+gastric free drainage,120
+broad-spectrum antibiotic therapy,120
+perforated NEC,144
+surgery,144
+short bowel syndrome,168
+thyroid screening tests,336
+low fT4,336
+low TSH,336
+cortisol 5.75 µg/dL,336
+serum total bilirubin level 12.12 mg/dL,336
+direct reacting bilirubin 11.48 mg/dL,336
+enteral levothyroxine 5 µg/kg/day,336
+no response to treatment,432
+enteral levothyroxine 10 µg/kg/day,432
+still no response to treatment,504
+rectal levothyroxine 10 µg/kg/day,504
+increasing fT4 levels,576
+decreasing direct bilirubin levels,576
+death,1848
+severe bronchopulmonary dysplasia,1848
+surgical NEC,1848
+short bowel syndrome,1848
+sepsis,1848

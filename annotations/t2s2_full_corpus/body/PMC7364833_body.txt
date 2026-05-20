@@ -1,0 +1,57 @@
+Introduction
+Systemic capillary leak syndrome (SCLS), initially described by Clarkson, is a rare disease characterized by reversible plasma extravasation, circulatory collapse, and hemoconcentration. Fewer than 150 cases have been reported. SCLS is likely underdiagnosed on account of nonspecific symptoms.1 However, various diseases have been known to cause increase in capillary permeability, resulting in CLS. Commonly caused by sepsis, multiple other conditions including autoimmune disorders, engraftment syndrome, differentiation syndrome, ovarian hyperstimulation syndrome, hemophagocytosis, lymphohistiocytosis, and viral hemorrhagic fevers can cause clinical symptoms consistent with CLS.2 While drugs are a rare cause of CLS, the majority of drug-induced CLS episodes were related to antineoplastic and immunomodulating agents. In oncology, CLS can either result from malignancy or, more commonly, from therapeutic treatment of malignancy, especially hematologic malignancies. CLS was initially observed after treatment with growth factors (GCSF, GM-CSF) and cytokines (IL [interleukin]-2). However, chemotherapy and monoclonal antibodies can also result in this toxicity. Rituximab has been associated with this toxicity when employed in nonmalignant conditions.3-5
+
+Case Presentation
+A 32-year-old white male was started on EPOCH-R, an infusional regimen consisting of etoposide, vincristine, adriamycin, cyclophosphamide, rituximab, and oral prednisone for mediastinal lymphoma. In addition, he received Neulasta (pegylated neupogen) support for early neutrophil recovery. Rituximab was infused on day 1, followed by vincristine, etoposide, and adriamycin as continuous infusion through a central venous access. Cyclophosphamide was administered as short infusion on day 5, along with Neulasta.
+
+The patient tolerated the first cycle well; he reported dyspnea, which worsened with activity after the second cycle. CLS from Neulasta was suspected, and he was therefore started on the third cycle without Neulasta support. During the third cycle, he was admitted with sudden-onset dyspnea on day 4 before cyclophosphamide and Neulasta were due. He was significantly tachypneic, tachycardic, and hypotensive. Chest X-ray revealed diffuse interstitial infiltrate. Computed tomography (CT) scan was negative for pulmonary embolism, but diffuse interstitial infiltrate was noted (Figure 1a). Echocardiogram revealed preserved systolic function and no pericardial effusion. The patient was started on fluid bolus for sepsis and administered broad-spectrum antibiotics (meropenem and vancomycin). On account of worsening respiratory status, he was subsequently transferred to the intensive care unit (ICU), intubated, and started on pressor support. He recovered very well, and was extubated on day 2, weaned off his pressor support, and moved out of the ICU. A follow-up CT scan revealed bilateral pleural effusion and consolidation (Figure 1b). The patient continued broad-spectrum antibiotic therapy for possible ventilator-associated pneumonia and Staphylococcus epidermidis growth. Positron emission tomography/CT scan obtained after discharge confirmed excellent remission of lymphoma and resolution of all the abnormalities. The patient completed therapy with CHOP (cyclophosphamide, vincristine, adriamycin, and prednisone) for another 3 cycles without another adverse event.
+
+Figure 1. CT chest coronal plane images show rapid progression of interstitial densities (A) to consolidation with large pleural effusions (B). Appearance is consistent with capillary leak syndrome.
+
+Laboratory Evaluation
+On the day of admission, complete blood count revealed leukocytosis (69 × 103/µL), thrombocytosis (508 × 103/µL), and elevated hematocrit compared with complete blood count results obtained a day earlier. Metabolic panel revealed normal BUN (blood urea nitrogen), creatinine, and electrolytes; liver enzymes were also normal. Serum albumin was low at 3.3 g/dL and worsened further to 2.3 g/dL on the second day after admission. Changes in hematocrit and serum albumin levels over the course of the CLS episode are represented (Figure 2a and b; see Table 1 for more sequential data). Lactic acid and procalcitonin levels were also elevated. Diagnostic pleural tap revealed exudative pleural effusion on light’s criteria. Leukocyte count was elevated at 5858 cells/µL (normal <1000 cells/µL).
+
+Figure 2. Albumin and hematocrit showing an inverse relationship during course of capillary leak syndrome. Arrow at Day #2 indicating hospital admission.
+
+Table 1. Sequential Data of Relevant Laboratory Findings With Reference Intervals.
+
+	Albumin (3.5-5.0), g/dL	Hematocrit (42.0-54.0), %	
+Office F/U #1	4.2 g/dL	36.2%	
+Office F/U #2	4.1 g/dL	37.6%	
+Office F/U #3	3.8 g/dL	35.9%	
+Office F/U #4	3.7 g/dL	37.7%	
+Day #1	3.9 g/dL	34.6%	
+Day #2	3.3 g/dL	49.9%	
+Day #3	3.3 g/dL	51.4%	
+Day #4	2.3 g/dL	44.0%	
+Day #5	2.6 g/dL	44.9%	
+Day #6	3.1 g/dL	31.9%	
+Day #7		25.5%	
+Day #8		28.1%	
+Hospital F/U	4.0 g/dL	33.9%	
+Office F/U #5	4.5 g/dL	36.7%	
+Office F/U #6	4.0 g/dL	38.8%	
+Office F/U #7	4.0 g/dL	41.2%	
+Hospitalization			
+Office F/U 1 week before hospitalization			
+Abbreviation: F/U, follow-up.
+
+Discussion
+Increase in capillary permeability resulting from endothelial dysfunction underlies all the classical manifestations of CLS, such as diffuse pitting edema, exudative serous cavity effusions, noncardiogenic pulmonary edema, hypotension sometimes leading to hypovolemic shock, and multi-organ failure. Pathogenesis of endothelial abnormalities in SCLS, and its relationship to monoclonal proteins observed in the majority of these patients, is unclear. Ultrastructural studies using electron microscopy have demonstrated changes of apoptosis (cell blebbing) without widening of intercellular gaps. The role of soluble mediators is demonstrated by induction of apoptotic changes in endothelial cell cultures from healthy donors, when exposed to serum from patients with active SCLS. Apoptotic changes were also observed on exposure to serum from patients with sepsis and pancreatitis. These findings suggest endothelial injury and apoptosis, rather than contraction or retraction of endothelial cells, are responsible for CLS.6 Several inflammatory cytokines (TNFα, CCL2, CXCL10) and mediators of vascular permeability (VEGF, Angpt-2) were also elevated in patients with acute SCLS. Acute SCLS serum also activates neutrophils, and the resultant degranulation products also contribute to the vascular damage.7 Differences in cytokine profile may alter the clinical presentation; drug-induced CLS is more commonly associated with pulmonary edema, whereas pulmonary edema is very uncommon in SCLS.3,8
+
+Rituximab, a monoclonal antibody directed against B-cell antigen CD20 (a nonglycosylated phosphoprotein), is widely employed in hematologic malignancies, autoimmune disorders, and inflammatory disorders. While generally well tolerated, rituximab can result in serious adverse events resulting in ICU admissions and deaths.9 Rituximab induces complement-mediated cytotoxicity and antibody-dependent cellular cytotoxicity, which is mediated by natural killer cells. However, cytokine release is mediated by 2 mechanisms: (1) Fc of CD20 interacting with Fcγ receptors on macrophages and (2) apoptosis induced by damage to calcium channels on CD20 antigen. Cytokine release syndrome (CRS) is a very rare, serious, and often fatal complication of rituximab therapy. CRS is a systemic inflammatory response induced by multiple conditions resulting in cytokine excess. Change in vascular permeability is a prominent clinical feature of CRS. Rituximab-induced changes to vascular permeability, which result in CLS, are most probably mediated by cytokines.10-12
+
+There is no established therapy for CLS; therapy is largely supportive and includes fluid resuscitation, pressor support, ventilatory support, and corticosteroids. While fluid and pressor support are necessary, they may contribute to tissue ischemia and pulmonary edema. IL-6 trans signaling is prominently involved in endothelial damage in CRS, sepsis, and ovarian hyperstimulation syndrome. Anti-IL-6 strategies have been employed successfully in treatment of CRS and this could prove useful in therapy of CLS as well.13-15
+
+CLS is a rare complication of rituximab therapy. Symptoms of CLS are nonspecific, and hence, CLS may be underdiagnosed. Prompt recognition of CLS would be helpful in avoidance of further use of rituximab therapy, which could be fatal to the patient. If further rituximab therapy is warranted, it is crucial that clinicians consider anti-IL-6 strategies as premedication.
+
+Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Ethics Approval: Our institution does not require ethical approval for reporting individual cases or case series.
+
+Informed Consent: Written informed consent was obtained from the patient for anonymized information to be published in this article.
+
+ORCID iD: Sai Prasad Desikan 
+https://orcid.org/0000-0003-1157-6489

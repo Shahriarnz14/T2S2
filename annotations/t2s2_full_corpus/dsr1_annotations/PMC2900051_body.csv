@@ -1,0 +1,56 @@
+event,time
+69-year-old,0
+male,0
+admitted to intensive care unit,0
+severe sepsis,0
+Pulseless electrical activity (PEA) cardiac arrest,-24
+CPR,-24
+return of spontaneous circulation,-24
+epinephrine bolus,-24
+hypotension (~70/30 mmHg),-24
+tachycardia (~140/min),-24
+fluid boluses,-24
+metaraminol boluses,-24
+tracheal intubation,-24
+mechanical ventilation,-24
+"severe metabolic acidosis (pH 6.86, PaO2 9.1 kPa, PaCO2 6.9 kPa, BE −23, lactate 13.5 mmol/L)",-24
+central venous catheter (CVC) insertion via right internal jugular vein,0
+MAP >70 mmHg achieved,0
+fluid resuscitation,0
+norepinephrine infusion,0
+sustained oliguria,0
+systemic acidosis,0
+CVVH initiated,0
+double lumen hemofiltration catheter inserted via left internal jugular vein,0
+chest radiograph showing CVC and hemofiltration catheter tips adjacent,0
+CVVH initiation causing hypotension,0
+PEA arrest,0
+spontaneous circulation restored,0
+epinephrine bolus,0
+CPR 15 seconds,0
+CVVH recommenced,30
+fluid boluses,30
+epinephrine boluses,30
+norepinephrine infusion rate increased (>10x),30
+systolic blood pressure >90 mmHg,30
+blood pressure fluctuations (60-250 mmHg systolic),30
+CVVH stopped,45
+norepinephrine requirement reduced,45
+hemodynamic stability restored,45
+hemofiltration catheter withdrawn 5-6 cm,45
+repeat chest radiograph showing hemofiltration catheter tip in brachiocephalic vein,45
+CVVH resumed,45
+hemodynamic stability maintained,45
+no significant vasopressor increase,45
+CVC tip interference with vasopressor delivery,45
+anaphylaxis,0
+human error,0
+technical error,0
+hypovolemia,0
+hyperkalemia,0
+metabolic disturbance,0
+hypothermia,0
+tension pneumothorax,0
+thromboembolism,0
+toxins,0
+cardiac tamponade,0

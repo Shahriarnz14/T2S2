@@ -1,0 +1,102 @@
+event,time
+25 years old,0
+male,0
+accidental fall into electroplating pool,0
+soaked in 10% HF and 50% nitric acid,0
+clothes removed,0
+irrigation with running water for 20 minutes,0
+calcium gluconate gel not applied,0
+sent to emergency room,-120
+mild dyspnea,-120
+hoarseness,-120
+severe pain in burn area,-120
+erythema,-120
+edematous,-120
+heart rate 120 beats/min,-120
+respiratory rate 28 breaths/min,-120
+axillary temperature 37.5°C,-120
+SaO2 92%,-120
+blood pressure 124/78 mm Hg,-120
+cutaneous injuries on 60% TBSA,-120
+third degree burns on 13% TBSA,-120
+deep partial thickness burns,-120
+conjunctiva congested,-120
+conjunctiva edematous,-120
+cornea without ulcer,-120
+eyes rinsed with normal saline for 30 minutes,-120
+levofloxacin eye drops,-120
+1% calcium gluconate every 4 hours,-120
+nasal mucosa pale,-120
+oral mucosa pale,-120
+profuse secretions in oral cavity,-120
+oral cavity rinsed with 5% calcium gluconate,-120
+hypoxemia,-120
+inhalational injury,-120
+tracheotomy,-120
+mechanical ventilation,-120
+burn areas rinsed with 5% sodium bicarbonate,-120
+covered with wet sterile gauze containing 10% calcium gluconate,-120
+electrocardiography normal,-120
+ionic calcium 0.192 mmol/L,-120
+total calcium 0.72 mmol/L,-120
+magnesium 0.4 mmol/L,-120
+potassium 5.49 mmol/L,-120
+sodium 136.8 mmol/L,-120
+liver function normal,-120
+renal function normal,-120
+continuous cardiac monitoring,0
+fluid resuscitation,0
+intravenous 10% calcium gluconate,0
+intravenous 25% magnesium sulfate,0
+20 mL intravenous bolus 10% calcium gluconate,0
+continuous calcium gluconate infusion at 6 g/h,0
+magnesium sulfate drip at 1.5 g/h,0
+PICCO monitoring,0
+cardiac index 3.02 L/min/m²,0
+ELWI 16 mL/kg,0
+CVP 5 mm Hg,0
+SVRI 2213 dyn.s/cm⁵.m²,0
+GEDI 450 mL/m²,0
+CRRT initiated,4
+ventricular fibrillation,4
+10 episodes of ventricular fibrillation within next 3 hours,4
+defibrillation successful,4
+ABP 86/48 mm Hg,4
+cardiac index 2.5 L/min/m²,4
+dobutamine administration,4
+glucocorticoid (methylprednisolone 40 mg q8h),4
+antibiotic (piperacillin tazobactam 4.5 g q8h),4
+oxygenation index deteriorated (PaO₂/FiO₂ 55.2),24
+hypoxemia worsened,24
+ELWI 25 mL/kg,24
+frothy sputum,24
+pulmonary edema confirmed by chest x-ray,24
+increased ultrafiltration,24
+increased PEEP,24
+ECMO initiated,38
+venoarterial ECMO,38
+flow rate 3.0 L/min,38
+ACT 160–200 seconds,38
+arterial oxygen saturation 98%,38
+fiberoptic bronchoscopy day 3,72
+pale mucus in bronchi,72
+aspiration and lavage performed,72
+postirrigation fluid yellow,72
+burn wound infection day 5,120
+fiberoptic bronchoscopy day 7,168
+mucosa congested,168
+mucosa edematous,168
+hemodynamic stability day 11,264
+oxygenation improved,264
+ECMO weaned,264
+catheter removed,264
+vessels repaired,264
+pulmonary infection day 16,384
+burn wound infection day 16,384
+MRSA positive,384
+Pseudomonas aeruginosa positive,384
+imipenem/cilastin plus vancomycin commenced,384
+CRRT weaned day 26,624
+skin grafting performed month later,720
+CRRT discontinued 2 months post-accident,1344
+discharged 3 months later,2160

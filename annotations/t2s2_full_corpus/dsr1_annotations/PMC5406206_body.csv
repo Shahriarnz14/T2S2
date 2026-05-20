@@ -1,0 +1,82 @@
+event,time
+40 years old,0
+Japanese,0
+male,0
+HIV-1 infection,-78840
+hospitalized,0
+high fever,0
+severe malaise,0
+headache,0
+generalized skin rash,0
+CD4 T-cell counts stable >500 cells/µL,-78840
+plasma viral load stable around 1000 copies/mL,-78840
+mild sinusitis,-720
+received symptomatic treatment,-720
+fever (39.5°C),0
+shock status,0
+systolic blood pressure 84 mmHg,0
+pulse rate 110 beats/min,0
+mildly altered consciousness,0
+admission to intensive care unit,0
+slight neck stiffness,0
+diminished skin turgor,0
+no focal neurological deficits,0
+no visual disturbances,0
+"leukocytosis (11,600/µL)",0
+elevated C-reactive protein (12.1 mg/L),0
+hyperproteinemia (9.6 g/dL),0
+acute renal dysfunction (creatinine 1.54 mg/dL),0
+severe hyponatremia (116 mEq/L),0
+hyperkalemia (7.3 mEq/L),0
+full-body CT scan,0
+head CT scan,0
+moderate swelling of lymph nodes in cervical area,0
+CSF total protein 66.5 mg/dL,0
+CSF IgG 14.6 mg/dL,0
+CSF leukocytes 56/µL,0
+CSF neutrophils 1.8%,0
+CSF monocytes 98.2%,0
+CSF glucose normal,0
+serology previous infection HSV-1,0
+serology previous infection HSV-2,0
+serology previous infection VZV,0
+serology previous infection HBV,0
+serology previous infection CMV,0
+serology previous infection EBV,0
+serology previous infection syphilis,0
+diagnosis atypical generalized zoster,0
+high-dose acyclovir therapy 1000 mg/day,0
+cefepime 4 g/day,0
+micafungin 100 mg/day,0
+electrolyte imbalance deteriorated,24
+suspected adrenal insufficiency,24
+endocrinological workup,24
+panhypopituitarism,24
+head MRI,48
+pituitary gland enlargement,48
+disappearance T1 hyperintense signal posterior pituitary,48
+sphenoid sinus mucosa thickening,48
+pituitary lesion gadolinium ring enhancement,48
+high-intensity signals on DWI,48
+low-intensity signals on ADC,48
+diagnosis pituitary abscess,48
+cefepime continued,168
+switch to ceftriaxone,168
+ceftriaxone 2 g/day,168
+follow-up MRI improvement,504
+hydrocortisone replacement,24
+levothyroxine replacement,24
+plasma electrolytes normalized,504
+polyuria (3–8 L/day),504
+polydipsia,504
+desmopressin stimulation test,504
+hypotonic salt solution test,504
+masked diabetes insipidus,504
+desmopressin acetate treatment,504
+surgical drainage not performed,504
+blood cultures negative,504
+CSF cultures negative,504
+beta-d-glucan assay negative,504
+PCR mycobacteria negative,504
+PCR VZV negative,504
+hormone replacement therapy continued,17520

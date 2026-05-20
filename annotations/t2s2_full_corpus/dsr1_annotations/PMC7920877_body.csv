@@ -1,0 +1,155 @@
+event,time
+85 years old,0
+male,0
+prior THA in 1997,"-216,000 (approx. -25 years)"
+head and liner exchange in 2014,"-87,600 (approx. -10 years)"
+atrial fibrillation,0
+congestive heart failure,0
+peripheral vascular disease,0
+abdominal aortic aneurysm,0
+renal artery stenosis,0
+chronic kidney disease,0
+hypertension,0
+chronic obstructive pulmonary disease,0
+prostate cancer,0
+anticoagulated with rivaroxaban,0
+abdominal aortic aneurysm repair,0
+aortobifemoral bypass,0
+E. coli sepsis,"-4,392 (approx. -6 months)"
+pneumonia,"-4,392"
+urinary tract infection,"-4,392"
+right hip pain,"-4,392"
+readmission with right hip pain and swelling,"-1,464 (approx. -2 months)"
+transferred to institution,"-1,464"
+diagnosed with right THA PJI,0
+cultures grew E. coli,0
+irrigation and debridement,0
+removal of THA,0
+extended trochanteric osteotomy,0
+antibiotic-impregnated cement spacer placement,0
+6 weeks IV antibiotics,0
+6 weeks oral antibiotics,0
+2-week antibiotic holiday,0
+fluoroscopically guided aspiration,0
+normalized synovial fluid cell count,0
+negative alpha defensin,0
+negative bacterial cultures,0
+second-stage reimplantation scheduled,0
+well-healed posterolateral scar,0
+no erythema or warmth,0
+no leg length discrepancy,0
+palpable dorsalis pedis pulses,0
+palpable posterior tibial pulses,0
+displaced greater trochanter fracture,0
+preoperative optimization by vascular surgeon,0
+preoperative optimization by cardiologist,0
+rivaroxaban discontinued 72 hours pre-op,-72
+revision right THA via posterior approach,0
+removal of antibiotic spacer,0
+reimplantation with noncemented acetabular component,0
+proximal femoral replacement,0
+estimated blood loss 500 cc,0
+postoperative hemoglobin 7.4,0
+rivaroxaban reinitiated at lower dose,+24
+postoperative day 2 hemoglobin 5.8,+48
+transfused 2 units PRBC,+48
+white blood cell count increased to 25,+48
+loose bowel movements,+48
+Clostridioides difficile positive,+48
+started oral vancomycin,+48
+right lower extremity cool,+48
+absent distal pulses,+48
+denies pain or weakness,+48
+CT angiography revealing occlusion,+48
+attempted percutaneous thrombectomy,+48
+brachial artery injury,+48
+open brachial artery repair,+48
+open balloon thrombectomy,+48
+intraoperative angiogram restored flow,+48
+heparin drip started,+48
+rivaroxaban held,+48
+heparin stopped after days,+144 (approx. +6 days)
+rivaroxaban restarted,+144
+discharged to skilled nursing facility,+336 (approx. +2 weeks)
+8-month follow-up pain-free,"+5,760 (approx. +8 months)"
+ambulating with walker,"+5,760"
+ankle-foot orthosis for foot weakness,"+5,760"
+no recurrent infection,"+5,760"
+chronic anticoagulation with warfarin,"+5,760"
+85 years old,0
+male,0
+prior THA in 1997,-216000
+head and liner exchange in 2014,-87600
+atrial fibrillation,0
+congestive heart failure,0
+peripheral vascular disease,0
+abdominal aortic aneurysm,0
+renal artery stenosis,0
+chronic kidney disease,0
+hypertension,0
+chronic obstructive pulmonary disease,0
+prostate cancer,0
+anticoagulated with rivaroxaban,0
+abdominal aortic aneurysm repair,0
+aortobifemoral bypass,0
+E. coli sepsis,-4392
+pneumonia,-4392
+urinary tract infection,-4392
+right hip pain,-4392
+readmission with right hip pain and swelling,-1464
+transferred to institution,-1464
+diagnosed with right THA PJI,0
+cultures grew E. coli,0
+irrigation and debridement,0
+removal of THA,0
+extended trochanteric osteotomy,0
+antibiotic-impregnated cement spacer placement,0
+6 weeks IV antibiotics,0
+6 weeks oral antibiotics,0
+2-week antibiotic holiday,0
+fluoroscopically guided aspiration,0
+normalized synovial fluid cell count,0
+negative alpha defensin,0
+negative bacterial cultures,0
+second-stage reimplantation scheduled,0
+well-healed posterolateral scar,0
+no erythema or warmth,0
+no leg length discrepancy,0
+palpable dorsalis pedis pulses,0
+palpable posterior tibial pulses,0
+displaced greater trochanter fracture,0
+preoperative optimization by vascular surgeon,0
+preoperative optimization by cardiologist,0
+rivaroxaban discontinued 72 hours pre-op,-72
+revision right THA via posterior approach,0
+removal of antibiotic spacer,0
+reimplantation with noncemented acetabular component,0
+proximal femoral replacement,0
+estimated blood loss 500 cc,0
+postoperative hemoglobin 7.4,0
+rivaroxaban reinitiated at lower dose,24
+postoperative day 2 hemoglobin 5.8,48
+transfused 2 units PRBC,48
+white blood cell count increased to 25,48
+loose bowel movements,48
+Clostridioides difficile positive,48
+started oral vancomycin,48
+right lower extremity cool,48
+absent distal pulses,48
+denies pain or weakness,48
+CT angiography revealing occlusion,48
+attempted percutaneous thrombectomy,48
+brachial artery injury,48
+open brachial artery repair,48
+open balloon thrombectomy,48
+intraoperative angiogram restored flow,48
+heparin drip started,48
+rivaroxaban held,48
+heparin stopped after days,144
+rivaroxaban restarted,144
+discharged to skilled nursing facility,336
+8-month follow-up pain-free,5760
+ambulating with walker,5760
+ankle-foot orthosis for foot weakness,5760
+no recurrent infection,5760
+chronic anticoagulation with warfarin,5760

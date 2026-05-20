@@ -1,0 +1,69 @@
+event,time
+45 years old,0
+male,0
+admitted to the hospital,0
+cardiac transplantation,-960
+ischaemic cardiomyopathy,-960
+atrial fibrillation,0
+atrial flutter,0
+hypertension,0
+dyslipidaemia,0
+depression,0
+cardiac biopsy,-624
+mild rejection,-624
+tacrolimus,0
+mycophenolate mofetil,0
+prednisolone,0
+first-degree heart block,-120
+second-degree heart block,-120
+isoprenaline,-120
+methylprednisolone,-120
+prednisolone dose increased,-120
+recurrent sepsis,-240
+dialysis-dependent acute kidney injury,-240
+haemopericardium,-240
+peripheral limb ischaemia,-240
+below-knee amputation,-360
+severe upper abdominal pain,0
+weaning from mechanical ventilation,0
+reduced haemoglobin,0
+elevated white cell count,0
+reduced platelets,0
+elevated bilirubin,0
+raised gamma-GT,0
+raised alkaline phosphatase,0
+raised transaminases,0
+hyperdense haemobilia,0
+haemoperitoneum,0
+gallbladder wall defect,0
+contiguous haematoma,0
+emergency laparoscopic cholecystectomy,24
+abdominal washout,24
+necrotic gallbladder,24
+perforated gallbladder,24
+bradycardic,24
+loss of cardiac output,24
+resuscitation,24
+epinephrine infusion,24
+no collection,240
+no biliary obstruction,240
+cardiac arrest,240
+AICD insertion,240
+fungal infective endocarditis,240
+post-transplant lymphoproliferative disorder,240
+pulmonary embolism,240
+discharged from ICU,1800
+inpatient rehabilitation,1800
+readmission to ICU,1800
+sepsis,1800
+hypotension,1800
+AKI resolved,1800
+returned home,5760
+ongoing antirejection regimen,5760
+everolimus,5760
+tacrolimus,5760
+prednisolone,5760
+physiotherapy,5760
+occupational therapy,5760
+lower limb prostheses,5760
+no long-term sequelae,5760

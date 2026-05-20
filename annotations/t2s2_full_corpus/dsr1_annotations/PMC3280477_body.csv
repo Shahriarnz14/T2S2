@@ -1,0 +1,126 @@
+event,time
+48 years old,0
+woman,0
+long-standing history of intractable migraine headaches,0
+admitted to institution's specialty headache unit,0
+no known history of peripheral vascular disease,0
+no known history of cardiac disease,0
+multiple admissions for treatment of headaches,-<calculated based on initial diagnosis in 2003>
+initial diagnosis of headaches in 2003,-<years converted to hours>
+received dihydroergotamine mesylate (DHE) 45 during previous hospitalizations,-<relative to admission>
+received two courses of DHE during admission,0
+DHE 0.5 mg × 1,0
+DHE 1 mg every 8 h for eight doses,0
+days 1–3 of DHE,0
+second course of DHE on days 7–9,168 (day 7 is 168 hours after admission)
+several hours after final dose of second round became obtunded,168 + <several hours approx 3> = 171
+minimally responsive,171
+hypotensive,171
+blood pressure 80/45 mm Hg,171
+abdomen moderately distended,171
+few bowel sounds,171
+lactate acid level 4.5 mmol/l,171
+white blood cell count 18.0,171
+17% bands,171
+Clostridium difficile negative,171
+transferred to intensive care unit,171
+intravenous fluid boluses,171
+started on vasopressors,171
+broad spectrum antibiotics,171
+required intubation,171
+chest radiograph unremarkable,171
+abdominal x-rays showed mild prominence of the colon,171
+progressively acidotic over next several hours,174 (approx 3 hours later)
+worsening bandemia,174
+bedside colonoscopy showed diffuse ischemic colitis,174
+fecal impaction,174
+no pseudomembranes,174
+taken to operating room,174
+underwent laparotomy,174
+"peritoneal cavity filled with murky, foul-smelling fluid",174
+gangrene of descending colon,174
+necrosis from splenic flexure to sigmoid colon,174
+large amount of impacted stool in left colon,174
+vasculature intact with audible Doppler signals,174
+removal of gangrenous bowel,174
+condition improved promptly,174
+final pathology showed 86 cm of patchy dark green/black large bowel,174
+ischemic necrosis,174
+bowel wall intact,174
+final diagnosis gangrenous large bowel,174
+ischemic colitis with thrombi or emboli noted,174
+hypercoaguable panel performed post-operation,174
+negative for clotting disorders,174
+no history of cardiac arrhythmias,0
+non-smoker,0
+"no cardiac risk factors (atherosclerosis, hyperlipidemia)",0
+no history of post-prandial pain,0
+no food fear,0
+no signs of venous congestion or stasis,174
+no edema in colon,174
+no clot in vasculature,174
+DHE dose exceeded recommended amount,0 (administered during admission)
+17 mg of DHE over 9 days,0 (total during admission)
+ischemic colitis secondary to high-dose ergotamine use,174
+48 years old,0
+woman,0
+long-standing history of intractable migraine headaches,0
+admitted to institution's specialty headache unit,0
+no known history of peripheral vascular disease,0
+no known history of cardiac disease,0
+multiple admissions for treatment of headaches,"-175200 (approx 20 years since 2003, converted to hours)"
+received dihydroergotamine mesylate (DHE) 45 during previous hospitalizations,-175200
+received two courses of DHE during admission,0
+DHE 0.5 mg × 1,0
+DHE 1 mg every 8 h for eight doses,0
+days 1–3 of DHE (first course),0 (start) to 72
+second course of DHE on days 7–9,144 (start) to 216
+final dose of second DHE course,216
+became obtunded,219 (216 + 3 hours)
+minimally responsive,219
+hypotensive (80/45 mm Hg),219
+abdomen moderately distended,219
+few bowel sounds,219
+lactate acid level 4.5 mmol/l,219
+white blood cell count 18.0,219
+17% bands,219
+Clostridium difficile negative,219
+transferred to intensive care unit,219
+intravenous fluid boluses,219
+vasopressors started,219
+broad spectrum antibiotics,219
+required intubation,219
+chest radiograph unremarkable,219
+abdominal x-rays showed mild prominence of the colon,219
+progressively acidotic,222 (219 + 3 hours)
+worsening bandemia,222
+bedside colonoscopy showed diffuse ischemic colitis,222
+fecal impaction,222
+no pseudomembranes,222
+taken to operating room,222
+underwent laparotomy,222
+"peritoneal cavity filled with murky, foul-smelling fluid",222
+gangrene of descending colon,222
+necrosis from splenic flexure to sigmoid colon,222
+large amount of impacted stool in left colon,222
+vasculature intact with audible Doppler signals,222
+removal of gangrenous bowel,222
+condition improved promptly,222
+final pathology showed 86 cm of patchy dark green/black large bowel,225 (post-surgery)
+ischemic necrosis,225
+bowel wall intact,225
+final diagnosis gangrenous large bowel,225
+ischemic colitis with thrombi or emboli noted,225
+hypercoaguable panel performed,225
+negative for clotting disorders,225
+no history of cardiac arrhythmias,0
+non-smoker,0
+"no cardiac risk factors (atherosclerosis, hyperlipidemia)",0
+no history of post-prandial pain,0
+no food fear,0
+no signs of venous congestion or stasis,222
+no edema in colon,222
+no clot in vasculature,222
+DHE dose exceeded recommended amount,0 (administered during admission)
+17 mg of DHE over 9 days,0
+ischemic colitis secondary to high-dose ergotamine use,225

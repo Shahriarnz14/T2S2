@@ -1,0 +1,55 @@
+event,time
+19 years old,0
+male,0
+trauma,0
+admitted to the hospital,0
+shock state,-24
+motor vehicle accident,-24
+resuscitated,-24
+crystalloids infusion,-24
+emergency department,-24
+intra-abdominal complications ruled out,-24
+physical exam,-24
+ultrasound studies,-24
+emergent operation,-12
+bilateral epidural hematoma,-12
+tachycardic,-12
+blood pressure 110/65 mmHg,-12
+premedication with fentanyl,-12
+induction of anesthesia,-12
+sevoflurane,-12
+endotracheal tube,-12
+cisatracurium,-12
+muscle relaxation,-12
+cranial decompressive surgery,0
+intravenous lines malfunctioning,0
+failed peripheral IV attempts,0
+right femoral vein catheterization,0
+hemodynamically unstable,0
+femoral artery pulsation not palpable,0
+introducer catheter inserted,0
+catheter placement confirmed,0
+aspiration of blood,0
+retrograde flow of liquid,0
+catheter fixed,0
+packed RBCs transfusion,0
+crystalloid infusion,0
+norepinephrine infusion,0
+diminished blood pressure,0
+blood loss during surgery,0
+transferred to ICU,+24
+intubated,+24
+stable hemodynamic status,+24
+laparotomy planned,+24
+abdominal distension,+24
+ultrasound findings of abdominal fluid,+24
+misplacement of femoral catheter,+24
+intraperitoneal catheter tip,+24
+fluid accumulation in abdominal cavity,+24
+catheter extracted,+24
+right inguinal hernia,+24
+retroperitoneal fluid,+24
+no intestinal perforation,+24
+retroperitoneal blood,+24
+iliac vein perforation,+24
+bleeding after catheter removal,+24

@@ -1,0 +1,42 @@
+event,time
+hypertension ,0
+chronic cough ,0
+dyspnea ,0
+50-pound weight loss ,0
+nausea ,-72
+vomiting ,-72
+cachexia ,0
+scleral icterus ,0
+jaundice ,0
+dry mucous membranes ,0
+normal bowel sounds ,0
+no pain ,0
+no distension ,0
+no organomegaly ,0
+decreased breath sounds in the left lower lung fields ,0
+tachycardia ,0
+hypotension ,0
+hyponatremia ,0
+elevated alkaline phosphatase level ,0
+elevated total bilirubin level ,0
+elevated aspartate aminotransferase level ,0
+elevated alanine aminotransferase level ,0
+pulmonary parenchymal nodules ,0
+large mass in the lingula ,0
+large mass in the superior segment of the left lower lobe ,0
+pleural effusion ,0
+severely dilated common bile duct ,0
+moderately distended gall bladder ,0
+large heterogeneous mass in the pancreatic head ,0
+dilated common bile duct ,0
+enlarged retroperitoneal lymph nodes ,0
+biopsy of lung mass ,24
+biliary stenting via endoscopic retrograde cholangiopancreatography ,24
+biopsy of pancreatic head ,24
+lung adenocarcinoma diagnosis ,48
+metastases to the brain ,48
+initiation of radiation therapy ,72
+initiation of adjunctive chemotherapy ,72
+severe pneumonia ,168
+sepsis ,240
+death ,240

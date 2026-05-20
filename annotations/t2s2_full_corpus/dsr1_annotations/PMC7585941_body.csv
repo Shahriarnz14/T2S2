@@ -1,0 +1,62 @@
+event,time
+48 years old,0
+male,0
+chronic renal failure,0
+ischemic stroke,0
+insulin-dependent diabetes,0
+fever,-96
+malaise,-96
+oliguria,-96
+haematuria,-96
+nausea,-96
+vomiting,-96
+febrile (38 °C),0
+normal blood pressure (110/80 mmHg),0
+depressible abdomen,0
+painful prostate,0
+"leukocytosis (12,900)",0
+renal failure (creatinine 399 μmol/L),0
+high C-reactive protein (137 mg/L),0
+urea (30 mg/L),0
+hyperglycemia,0
+acidosis,0
+positive acetonuria,0
+male urinary tract infection,0
+diabetic ketoacidosis,0
+emphysematous lesions in prostate,0
+emphysematous lesions in seminal vesicles,0
+normal kidneys,0
+no dilatation of excretory cavities,0
+cytobacteriological examination of urine,0
+blood culture,0
+empirical intravenous antibiotics (cefotaxime and ciprofloxacin),0
+imipenem,0
+ciprofloxacin,0
+Enterobacter cloacae isolated,0
+suprapubic catheterization,0
+apyretic,72
+aggravation of biological inflammatory syndrome,72
+"white blood cells 20,000",72
+CRP 200 mg/L,72
+severe metabolic acidosis,72
+emergency hemodialysis,72
+prostatic hydroaeric collections,72
+trans-rectal aspiration under ultrasound guidance,72
+50ml purulent liquid,72
+same germ isolated in urine,72
+generalized convulsive seizures,96
+regression of biological inflammatory syndrome,96
+"white blood cells 16,000",96
+CRP 123 mg/L,96
+correct metabolic balance,96
+chronic renal failure (persistent),96
+normal head CT scan,96
+seizures attributed to antibiotics,96
+antibiotics changed to piperacillin and flagyl,96
+worsening state of consciousness,336
+septic shock,336
+transfer to intensive care,336
+orotracheal intubation,336
+norepinephrine in high dose,336
+multi-organ failure,336
+death,336

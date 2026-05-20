@@ -1,0 +1,84 @@
+event,time
+19 years old,0
+army officer,0
+presented to Emergency Department,0
+fever,-120
+arthralgia,-120
+myalgia,-120
+headache,-120
+intermittent productive cough,-120
+yellowish sputum,-120
+chest heaviness,-120
+dyspnea at rest,-120
+diarrhea,-120
+reduced oral intake,-120
+denied history of traveling,0
+denied recent jungle activities,0
+stayed in military base camp,0
+no past medical illness,0
+no previous hospitalization,0
+never sought medical treatment,0
+conscious,0
+dehydrated,0
+cold peripheries,0
+febrile (38.5°C),0
+hypotensive (81/53 mmHg),0
+tachycardic (146 bpm),0
+tachypneic (30 breaths/min),0
+oxygen saturation 75–80% on 15L mask,0
+coarse crepitations both lower lungs,0
+epigastric tenderness,0
+palpable liver 5 cm below costal margin,0
+no lymphadenopathy,0
+hemoglobin 11.3 g/dL,0
+leukopenia (0.5×10⁶/L),0
+neutrophil predominance (86.1%),0
+thrombocytopenia (80×10⁶/L),0
+CRP 28.28 mg/dL,0
+acute kidney injury,0
+sodium 137 mmol/L,0
+potassium 3.7 mmol/L,0
+urea 14 mmol/L,0
+creatinine 206 μmol/L,0
+hypoalbuminemia (22 g/dL),0
+CK 351 IU/L,0
+"ABG: pH 7.378, pCO2 37 mmHg, pO2 52.7 mmHg, O2 sat 89%",0
+dengue NS-1 Antigen negative,0
+dengue IgG/IgM negative,0
+chest X-ray consolidation right upper lobe and left lower lobes,0
+severe community-acquired pneumonia,0
+resuscitated with normal saline bolus,0
+non-invasive ventilation started,0
+persistent hypotension requiring inotropes,0
+empirical IV ceftriaxone,0
+empirical IV azithromycin,0
+deterioration requiring intubation,24
+mechanical ventilation in ICU,24
+bronchoscopy day 2,48
+copious haemoserous/greenish secretions right upper bronchus and left main bronchus,48
+repeated CXR worsening consolidation with abscess formation,48
+antibiotics upgraded to meropenem,48
+antibiotics upgraded to cloxacillin,48
+oseltamivir added,48
+CVVH for metabolic acidosis and AKI,48
+persistent fever,48
+worsening septic parameters,48
+refractory hypotension,48
+death,72
+blood cultures negative,72
+atypical bacterial serologies negative,72
+Leptospiral serologies negative,72
+Hepatitis B/C negative,72
+HIV negative,72
+respiratory viruses negative,72
+tracheal aspiration positive MDR Acinetobacter baumannii,72
+BAL positive MDR Acinetobacter baumannii,72
+MDR Acinetobacter susceptible to polymyxin B,72
+resistance to penicillins,72
+resistance to ampicillin/sulbactam,72
+resistance to third-gen cephalosporins,72
+resistance to fluoroquinolones,72
+resistance to carbapenems,72
+smoker,0
+no comorbidities,0
+community-acquired MDR Acinetobacter baumannii pneumonia,0

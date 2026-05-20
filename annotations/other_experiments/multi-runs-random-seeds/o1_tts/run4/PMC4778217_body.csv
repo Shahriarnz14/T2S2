@@ -1,0 +1,73 @@
+event,time
+parkinsonism,-17520
+diabetes mellitus,-17520
+levodopa / carbidopa,-17520
+rasagiline,-17520
+ropinirole,-17520
+trihexyphenidyl,-17520
+amantadine,-17520
+metformin,-17520
+glipizide,-17520
+multiple hospital admissions for worsening parkinsonism,-200
+multiple ICU admissions for worsening parkinsonism,-200
+65 years old,0
+female,0
+admitted to the hospital,0
+cellulitis,0
+fever,0
+chills,0
+pain in left leg,0
+intravenous clindamycin 600 mg thrice daily started,0
+intravenous benzylpenicillin 2 million units 4 times daily started,0
+anti-parkinsonism and diabetic medications were continued,0
+high temperature spikes,72
+tachycardia,72
+tachypnea,72
+hypotension,72
+encephalopathy,72
+shifted to ICU,72
+sepsis,72
+multi-organ dysfunction syndrome,72
+intravenous linezolid 600 mg twice daily started,72
+intravenous piperacillin with tazobactam 4.5 gm thrice daily started,72
+vancomycin was not considered,72
+anti-parkinsonism drugs were continued,72
+oral hypoglycemic agents were stopped,72
+switched to insulin,72
+hemodynamics improved with minimal inotropic supports,72
+confusion,80
+drowsiness,80
+disorientation,80
+altered sensorium,80
+myoclonus,80
+tremors,80
+jerky movements,80
+no neck stiffness,80
+computed tomography of the brain not significant,80
+cerebrospinal fluid analysis not significant,80
+improving white blood cell counts,80
+blood cultures were sterile,80
+pus cultures were sterile,80
+high temperature 103°F,96
+altered mental status,96
+myoclonus persisted,96
+jerky movements persisted,96
+tremors persisted,96
+no other drugs were added,96
+same treatment was continued,96
+serotonin syndrome was suspected,96
+linezolid had a probable adverse drug reaction,96
+drug interaction probability scale probable causality of serotonin syndrome,96
+linezolid was stopped,96
+rasagiline was stopped,96
+temperature settled,104
+heart rate normal,120
+sensorium improved,120
+tremors completely subsided,120
+shifted out of ICU,144
+started walking with support,384
+discharged from the hospital,384
+discharged with anti-parkinsonism drugs,384
+rasagiline was added later,600
+stable,600
+remained asymptomatic for serotonin syndrome,600

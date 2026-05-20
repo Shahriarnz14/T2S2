@@ -1,0 +1,119 @@
+event,time
+22 years old ,0
+female ,0
+East Asian ,0
+admitted to the hospital ,0
+general malaise ,-168
+myalgia ,-168
+dyspnea ,-168
+fevers ,-168
+anorexia ,-168
+nasal discharge ,-168
+congestion ,-168
+abdominal pain ,-168
+vaginal pain ,-168
+dysuria ,-168
+cough ,-168
+sore throat ,-168
+throat pain ,-168
+hoarseness ,-168
+recent travel to Australia ,-720
+unprotected sex ,-720
+functionally independent ,0
+smoked cigarettes ,0
+denied alcohol or drug use ,0
+afebrile ,-168
+tachycardic ,-168
+hypotensive ,-168
+oxygen requirement increased ,-168
+white blood cell count 6200/µL ,-168
+"platelet count 23,000/µL ",-168
+creatinine 1.33 mg/dL ,-168
+alanine transaminase 36 U/L ,-168
+aspartate transaminase 59 U/L ,-168
+alkaline phosphatase 466 U/L ,-168
+total bilirubin 2.9 mg/dL ,-168
+serum lactic acid 4.9 mmol/L ,-168
+bilateral pleural effusions ,-168
+liver cystic lesions ,-168
+intrahepatic and extrahepatic bile duct dilatation ,-168
+mild splenomegaly ,-168
+right sided Bartholin gland cyst ,-168
+hepatic abscesses ,-168
+reactive gall bladder thickening ,-168
+Fusobacterium necrophorum in blood cultures ,-168
+meropenem ,-168
+transferred to our hospital ,48
+febrile ,48
+tachycardic ,48
+tachypneic ,48
+high flow nasal cannula ,48
+lung exam with scattered crackles ,48
+cardiac exam with tachycardia ,48
+abdominal exam with mild right upper quadrant tenderness ,48
+genitourinary exam with erythema and edema of the labia ,48
+no evidence of poor dentition or gingivitis ,48
+"white blood cell count 14,700/µL ",48
+hemoglobin 11 g/dL ,48
+"platelet count 16,000/µL ",48
+erythrocyte sedimentation rate 31 mm/h ,48
+serum lactate dehydrogenase 323 U/L ,48
+alkaline phosphatase 129 U/L ,48
+c-reactive protein 17.05 mg/dL ,48
+fibrinogen 349 mg/dL ,48
+haptoglobin 59 mg/dL ,48
+COVID-19 PCR negative ,48
+HIV antibody screening negative ,48
+urine gonorrhea and chlamydia PCR tests negative ,48
+CT of neck with no evidence of abscess formation ,48
+CT of chest with multiple nodular foci ,48
+septic emboli ,48
+multifocal pneumonia ,48
+bilateral pleural effusion ,48
+interval worsening of hepatic abscess burden ,48
+piperacillin-tazobactam ,48
+respiratory status improved ,120
+diuresis ,120
+transferred to general medicine ward ,120
+nasal cannula ,120
+ultrasound guided thoracentesis ,216
+pleural fluid analysis ,216
+exudative fluid ,216
+fungal smear with no growth ,216
+acid-fast stain negative ,216
+gram stain with no organisms ,216
+no aerobic or anaerobic bacterial growth ,216
+"repeat CT of chest, abdomen and pelvis ",240
+bilateral multifocal pneumonia ,240
+pleural effusions ,240
+necrotizing pneumonia ,240
+pulmonary abscess ,240
+hepatic abscesses ,240
+subcutaneous right perineal region fluid collection ,240
+cardiothoracic surgery and gynecology consulted ,240
+video-assisted thoracoscopic surgery (VATS) washout and decortication ,264
+pleural rind acid fast staining negative ,264
+biopsy with fibrinous and organizing pleuritis ,264
+fibrinopurulent exudate ,264
+cultures with no organisms ,264
+pelvic examination ,264
+right labial abscess ,264
+incision and drainage ,264
+clear serous fluid ,264
+thick white caseous material ,264
+gram stain with no organisms ,264
+bacterial culture with Candida albicans ,264
+contrasted CT of abdomen and pelvis ,360
+nonocclusive thrombus in right common iliac vein ,360
+internal iliac vein thrombus ,360
+right distal external iliac vein nonocclusive thrombus ,360
+transthoracic and transesophageal echocardiography ,360
+no valvular vegetations ,360
+not anticoagulated ,360
+diagnosis of atypical Lemierre syndrome ,360
+ceftriaxone and oral metronidazole ,408
+discharged ,408
+follow up appointment ,408
+improvement of symptoms ,504
+transitioned to amoxicillin-clavulanate ,504
+future infectious disease follow up appointment ,504

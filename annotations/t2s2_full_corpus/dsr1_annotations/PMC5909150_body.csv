@@ -1,0 +1,108 @@
+event,time
+8 years old,0
+male,0
+admitted to the hospital,0
+viral prodrome,-168
+high fever (101°F–102°F),-168
+malaise,-168
+fatigue,-168
+anorexia,-168
+myalgias,-168
+reddish maculopapular skin rashes on forearms and ankles,-168
+"grotesque pitting edema (anasarca) involving face, trunk, and extremities",-168
+pure motor symmetrical progressive weakness,-168
+pelvifemoral region muscle pain,-168
+flaccid weakness,-168
+bedbound,-168
+presumed viral polymyositis,0
+generalized pitting anasarca,0
+normal renal functions,0
+negative family history of autoimmune disorders,0
+no Raynaud's phenomenon,0
+no polyarthralgias,0
+no polyarthritis,0
+no bulbar symptomatology,0
+no respiratory muscle weakness,0
+no soft-tissue calcifications,0
+no oral ulceration,0
+no preceding vaccination,0
+no endocrine disorders,0
+no nutritional disorders,0
+no metabolic disorders,0
+no exposure to drugs or toxic substances,0
+flaccid quadriparesis,0
+Grade 1 deep tendon reflexes,0
+diffuse Grade 1/5 Medical Research Council muscular weakness,0
+exquisite pain,0
+diffusely tender muscles,0
+symmetric proximal and axial weakness,0
+"grotesque pitting swelling of face, neck, abdomen, extremities, and scrotum",0
+multiple erythematous maculopapular rashes on extensor surfaces of elbows and medial malleoli of ankles,0
+no calcinosis,0
+hypoalbuminemia (1.8 mg/dl),0
+hypotension (90/60 mmHg),0
+tachycardia (140/min),0
+normal echocardiogram,0
+normal renal functions,0
+no albuminuria,0
+negative serum procalcitonin,0
+negative sepsis work up,0
+negative viral serologies,0
+normal complete blood counts,0
+normal serologic tests for antinuclear antibodies (ANA),0
+normal rheumatoid factor,0
+normal ANA profile,0
+normal perinuclear antineutrophil cytoplasmic antibody (ANCA),0
+normal cytoplasmic-ANCA,0
+normal antistreptolysin-O titers,0
+normal thyroid functions,0
+normal hepatitis serologies,0
+normal electrocardiography,0
+normal cardiac injury enzymes,0
+unremarkable chest radiography,0
+unremarkable abdominal ultrasonography,0
+elevated creatine phosphokinase (12000U/L),0
+elevated lactate dehydrogenase (6980U/L),0
+normal nerve conduction studies,0
+electromyography showing increased muscle membrane irritability,0
+left vastus lateralis muscle biopsy confirming JDM,0
+positive Jo-1 IgG antibody,0
+positive anti-Mi2 antibody,0
+reduced C3 and C4 complement levels,0
+diagnosis of acute JDM,0
+diagnosis of systemic capillary leak syndrome (SCLS),0
+hypotension,0
+hemoconcentration (hematocrit 56%),0
+hypoalbuminemia,0
+massive generalized pitting edema,0
+parenteral Tramadol (50 mg IV Q8H),0
+paracetamol around the clock,0
+hemodynamic instability managed in neurointensive care unit,0
+cardiovascular monitoring,0
+central venous pressure monitoring,0
+aggressive fluid resuscitation,0
+high-dose catecholamine therapy,0
+blood pressure below systolic 90 mmHg,0
+moderate dose dopamine,0
+norepinephrine infusion,0
+pulse methylprednisolone (30 mg/kg/day),0
+"high-dose intravenous immunoglobulin (IVIg, 2 g/kg/day)",0
+theophylline 200 mg BD,0
+salbutamol 2 mg BD,0
+montelukast,0
+fresh frozen plasma,0
+20% albumin,0
+hemodynamic improvement after 72 hours,72
+initiation of prednisolone (1.5 mg/kg),72
+initiation of azathioprine (2.5 mg/kg/day),72
+motoric recovery after 2 weeks,336
+amelioration of edema to 50% from baseline,336
+ambulating,336
+discharged after 1 month of admission,720
+normal motoric power at 2 months post-discharge,1440
+switched to alternate-day glucocorticoid schedule,1440
+cautious reduction of maintenance dose,1440
+taper of prednisolone and azathioprine over 6 months,4320
+regular neurology follow-up for 2 years,17520
+clinical remission,17520
+immunomodulatory therapy tapered off by 1 year,8760

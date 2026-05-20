@@ -1,0 +1,82 @@
+event,time
+42 years old,0
+female,0
+admitted to the hospital,0
+stag horn calculus,0
+hyperparathyroidism,0
+morbid obesity,0
+BMI of 75,0
+limited exercise tolerance,0
+obstructive sleep apnea,0
+BiPAP,0
+hypertension,0
+diabetes,0
+acid reflux disease,0
+hepatitis C,0
+smoker,0
+postoperative nausea and vomiting,0
+insulin,0
+lisinopril,0
+hydrochlorthiazide,0
+atorvastatin,0
+aspirin,0
+venlafaxine,0
+trazadone,0
+rosuvastatin,0
+heart rate 77/min,0
+BP 93/53 mmHg,0
+respiration 16/min,0
+SpO2 93% on room air,0
+decreased thyromental distance,0
+interincisor distance of 4 cm,0
+elevated parathyroid hormone,0
+elevated calcium,0
+premedicated with sodium citrate,0
+premedicated with IV ranitidine,0
+IV canula placed,0
+arterial line placed,0
+rapid airway management positioner,0
+preoxygenated for 3 min,0
+rapid sequence induction with propofol,0
+rapid sequence induction with suxamethonium,0
+endotracheal intubation,0
+anesthesia maintained with oxygen/air,0
+anesthesia maintained with sevoflurane,0
+rocuronium administered,0
+neck exploration,0
+resection of left inferior parathyroid adenoma,0
+parathyroid hormone levels normalized,0
+intubated in ICU,0
+propofol infusion started,0
+propofol dose escalated to 80 μg/kg/min,48
+failed spontaneous breathing test,24
+oxygen requirements increasing,24
+respiratory failure,24
+basal atelectasis,24
+ventilator-associated pneumonia,24
+creatinine kinase elevated (66900 IU/l),72
+myoglobin elevated (19470 ng/ml),72
+rhabdomyolysis,72
+urine output declining,72
+creatinine elevated (3.1 mg/dl),72
+BUN elevated (41 mg/dl),72
+acute renal failure,72
+septic shock,72
+urinary tract infection,72
+inotropic support with norepinephrine,72
+metabolic acidosis,72
+base deficit of more than 10 mmols/l,72
+suspected PRIS,72
+propofol infusion stopped,72
+lorazepam administered,72
+fentanyl administered,72
+dialyzed,72
+rhabdomyolysis resolved,240
+renal failure resolved,240
+extubation failure,384
+tracheostomy,384
+decubitus ulcer,384
+frequent debridement,384
+fall from bed,1560
+tracheostomy occlusion,1560
+died,1560

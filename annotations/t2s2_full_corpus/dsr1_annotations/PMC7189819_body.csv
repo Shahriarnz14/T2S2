@@ -1,0 +1,49 @@
+event,time
+60-year-old male,0\
+history of dysphagia,0\
+barium swallow study,0\
+aspirated large amount of barium,0\
+dyspneic,0\
+labored breathing,0\
+respiratory rate >35 breaths/min,0\
+tachycardia (heart rate >120 beat/min),0\
+blood pressure 160/100 mmHg,0\
+SPO2 <90%,0\
+oxygen flow 15 lit/min by mask,0\
+arterial blood gas shows hypoxemia (PO2 86.7 mmHg on oxygen flow 15 lit/min),0\
+lung auscultation detected crepitation in both lung bases,0\
+"chest X-ray found barium sulfate aspiration involving right and left main stem bronchi, bronchus intermedius, lower lobe basal, and segmental bronchi resembling tree-in-bud appearance",0\
+shifted to intensive care unit (ICU),0\
+intubation,0\
+positive pressure mechanical ventilation,0\
+underwent early bronchoalveolar lavage (BAL),0\
+large amount of barium particles suctioned,0\
+postural drainage techniques performed,0\
+shock developed,4\
+fluid resuscitation,4\
+inotropic support (infusion noradrenaline),4\
+injection hydrocortisone 100 mg thrice daily,4\
+broad-spectrum antibiotics with coverage of gut flora,4\
+nebulization with N-acetylcystein,4\
+hemodynamically stable,24\
+extubated,24\
+oxygen saturation 99% on 5 litres of oxygen,24\
+shifted to ward,72\
+aspirated oral feed and gastric contents,144\
+shifted to ICU,144\
+succumbed to sepsis,336\
+no radiological improvement,0\
+tracheostomy performed,144\
+no notable side effects from corticosteroids,0\
+crepitation in both lung bases,0\
+no HRCT performed,0\
+post extubation oxygen saturation improved,24\
+sepsis,336\
+no antireflux medications used,0\
+delayed recognition and treatment,0\
+comorbid disease,0\
+high volume of aspirated material,0\
+high concentration of barium solution,0\
+aspiration associated with gastric content,144\
+extensive tracheobronchial distribution,0\
+poor physical condition,0

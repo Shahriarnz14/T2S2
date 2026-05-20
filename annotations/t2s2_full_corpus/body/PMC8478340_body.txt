@@ -1,0 +1,98 @@
+pmcIntroduction
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the cause of the COVID-19 pandemic, has affected the lives of most individuals worldwide. Global economic, financial, and political burdens have been enormous. According to the World Health Organization (WHO) and Centers for Disease Control (CDC) data tracker, since January 2020, there have been more than 194 million cases globally1 and more than 33 million cases in the US,2 with over 4 million deaths globally1 and 600,000 in the US as of July 2021.2 California, Texas, Illinois, and Florida are heavily affected. Developing a vaccine within 1 year of the beginning of the pandemic indicates how far novel technologies have advanced. To date, 203 million people have received at least one dose, and 172 million people, or approximately 52% of the US population, had been fully vaccinated as of August 2021.3 COVID-19 vaccines have effectively curbed the infection rate. However, with the increasing spread of variant strains (such as the delta variant), infection rates, hospitalizations, and deaths have rebounded, particularly among the unvaccinated.2,4
+
+The currently available and most commonly administered vaccines in the US are two mRNA vaccines, Pfizer-BioNTech (BNT162b2)2 and Moderna (mRNA-1273),5 and the Janssen vaccine made of modified DNA of adenovirus (Johnson & Johnson).6 The vaccines are approved for the age group 18 to 55 years.7 Commonly reported adverse effects of vaccination are injection site pain and redness or swelling, fatigue, headache, muscle ache, and fever/chills.8 The current most common contraindications to vaccines listed on the CDC website are severe allergic reactions (eg, anaphylaxis) or immediate allergic reactions of any severity to the vaccine or its components.8
+
+Rhabdomyolysis is a clinical and laboratory syndrome resulting from an injury to skeletal muscles that results in myocyte destruction and the release of myoglobin, electrolytes, proteins (eg, CPK, aldolase, and LDH), and other toxic substances into circulating blood. In the kidneys, high concentrations of myoglobin can cause renal tubular obstruction and lead to renal failure.9
+
+A literature review found two case reports describing patients with rhabdomyolysis post-COVID vaccine administration in the US. One patient was a young, otherwise healthy male who developed rhabdomyolysis post-Pfizer-BioNTech vaccine.10 The second case was an 80-year-old man with diabetes who suffered rhabdomyolysis post-Moderna vaccine.11 One case of rhabdomyolysis was also reported post-AstraZeneca vaccine in the UK in April 2021.12 Here, the case of a patient who became severely ill with rhabdomyolysis and renal failure post-second dose Moderna vaccine is presented.
+
+Methods
+
+A systematic review of medical literature with the keywords “rhabdomyolysis,” “covid-19 vaccine,” “autoimmune disorders,” was performed on three databases: PubMed, Google Scholar, and ScienceDirect databases. Articles that included definition, pathophysiology, mechanism of action, etiology, and treatment were identified. All types of articles, including reviews (narrative and systematic), meta-analysis, literature review, randomized controlled trials (RCTs), case–control cohorts, case series, and case reports were screened for relevant content. Out of many articles found, 25 relevant articles were used in this paper in addition to data obtained from the CDC/WHO website. Pertinent information was summarized and organized for ease of understanding.
+
+Case Presentation
+
+Our patient was an 85-year-old Caucasian woman, a homemaker, with a medical history of rheumatoid arthritis, hyperlipidemia, and asthma who was recently diagnosed with a cerebrovascular accident (CVA) 2 months prior. She came to the emergency room (ER) 2 days after receiving the second dose of the MODERNA COVID-19 vaccine with generalized weakness, muscle cramps, and loss of appetite. The patient had received the first dose of the MODERNA vaccine 30 days before receiving the second dose. The patient tolerated the first dose well, except for minor pain at the injection site. However, the patient started to feel weak the same afternoon after receiving the second dose. Later, she went to use the bathroom and could not stand up from the toilet seat. Her husband helped her get to bed. Since then, she mostly stayed in bed except while using the bathroom with assistance.
+
+The patient completely lost her appetite and experienced nausea, without any vomiting/diarrhea. Moreover, the patient noticed her urine color changing from dark brown to black on the same day of receiving the vaccination. The next day, her weakness worsened along with abdominal and muscle cramps, and she was brought to the ER by ambulance. The patient’s home medications included clopidogrel, metoprolol, nifedipine, rosuvastatin, telmisartan, tofacitinib, and trazodone. Clopidogrel and trazodone were started about 2 months prior to admission when the patient had a stroke. All other medications were long term. There was no increase in the statin dose during the previous admission either. For the past 2 months, the patient was undergoing professional physiotherapy once a week and did non-weight bearing exercises at home daily for an hour, as advised by the therapist. Family history was positive for autoimmune disease in maternal grandmother. The patient had no previous history of tobacco or alcohol abuse. The patient had never contracted COVID-19 prior to this admission. There was no recent history of trauma or surgery. She had also not started to use any over-the-counter medications recently. The pertinent positives on the physical exam were the patient appearing exhausted without gross motor sensory deficits on admission, hypoactive bowel sounds, and generalized mild abdominal tenderness to superficial and deep palpation. The patient was alert and oriented to time, place, and person. Her vital signs remained stable, and the blood work on admission showed significantly elevated serum creatinine of 6.0 mg/dL (normal range: 0.6–1.3 mg/dL), blood urea nitrogen (BUN) of 73 mg/dL (normal range: 7–18 mg/dL) and significantly decreased glomerular filtration rate (GFR) of 6 mL/min (normal range: >60 mL/min) and bicarbonate of 13 mmol/L (normal range: 21–32 mmol/L). The patient also had abnormally elevated liver function with aspartate aminotransferase (AST) of 1422 U/L (normal range: 15–37 U/L), alanine aminotransferase (ALT) of 600 U/L (normal range: 15–37 U/L), and alkaline phosphatase of 600 U/L (normal range: 45–117 U/L). Her creatine phosphokinase (CPK) level was found to be extremely elevated at >14,000 U/L (normal range: 26–192 U/L). Troponin levels were 0.18 ng/mL (normal range: 0.00–0.04 ng/mL), followed by 0.21 ng/mL and 0.20 ng/mL. Urinalysis was positive for 3+ blood, negative for red blood cells (RBCs), and showed >5000 mcg/mL myoglobin. Non-contrast enhanced computed tomography (CT) of the abdomen and head revealed no acute finding.
+
+Further investigation revealed an aldolase level of 353 U/L (normal range: <7.7 U/L), but it was falsely elevated due to hemoglobin contamination secondary to hemolysis. The patient was started on bicarbonate-rich intravenous fluids; however, we were not able to aggressively hydrate the patient, because she was also found to have heart failure with preserved ejection fraction (HFpEF) in exacerbation (pro-BNP: 1388 pg/mL on admission followed by 6260 pg/mL upon recheck; normal range: 5–450 pg/mL). An echocardiogram showed an ejection fraction of 55–60% with diastolic dysfunction. Table 1 compares the results of the patient’s laboratory tests on the day of admission versus the last day of hospitalization. Figures 1 and 2 are graphical presentations of data.Table 1 Blood Work Results During Hospitalization
+
+	Blood Work on the Day of Admission	Blood Work on the Last Day of Hospitalization	Normal Range	
+WBC	7.6	19.7	4.0–11.0 UNIT- 10×3 uL	
+RBC	4.17	1.45	4.0–5.50. 10x6/uL	
+Hemoglobin	12.4	4.4	11.0–16.0 g/dL	
+Platelet	203	134	150–450. 10x3/uL	
+Sodium	134	153	136–145 mmol/L	
+Potassium	4.6	6	3.5–5.1 mmol/L	
+CO2	13	39	21–32 mmol/L	
+Anion gap	19	20	8–16 mEQ/L	
+BUN	21	61	7–18 mg/dL	
+S. Creatinine	6	2.7	0.6–1.3 mg/dL	
+GFR	6	16	>60 mL/min	
+Lactic acid	1.3	19.3	0.4–2.0 mmol/L	
+Calcium	8.4	5.3	8.5–10.1 mg/dL	
+Phosphorus	7.2	10.3	2.5–4.9 mg/dL	
+T. Bilirubin	0.3	0.6	0.2–1.0 mg/dL	
+AST	1422	2066	15–37 U/L	
+ALT	600	1746	12–78 U/L	
+CPK	>14,000	>14,000	26–192 U/L	
+CRP	74.0	17.8	<3.0 mg/L	
+Troponin	0.18	0.88	0.0–0.04 ng/mL	
+proBNP	1388	5391	5–450 pg/mL	
+ESR	28		0–30 mm/Hr	
+Carnitine level (Total and free)	Wnl			
+Abbreviations: WBC, White blood cell; RBC, Red blood cell; CO2, Bicarbonate; BUN, Blood Urea Nitrogen; GFR, Glomerular Filtration Rate; AST, Aspartate aminotransferase; ALT, Alanine aminotransferase; CPK, Creatine kinase; CRP, C-reactive protein; proBNP, NT-Pro-B-Natriuretic Peptide; ESR, Erythrocyte sedimentation rate.
+
+Figure 1 Blood work on the day of admission and blood work on the last day of hospitalization.
+
+Figure 2 Blood work on the day of admission and blood work on the last day of hospitalization.
+
+Over the course of hospitalization, the patient became progressively weaker to a point where she could not even lift/move her hands or legs. Mentation started to decline, with patient intermittently getting confused or experiencing hallucinations. She developed 3+ pitting edema over the bilateral upper and lower extremities. The disease course was further complicated when a chest CT showed complete consolidation and volume loss of the right lower lobe, partial consolidation and volume loss of the left lower lobe, mild ascites, and moderate anasarca. The patient was started on broad-spectrum intravenous antibiotics. An urgent temporary dialysis catheter was inserted and the patient subsequently received hemodialysis secondary to hypoxia from pleural effusion/anasarca and oliguria/renal failure. After neurological evaluation, the patient was started on empiric glucocorticoids owing to concerns of myositis, secondary to no improvement in her strength. Cerebrospinal fluid (CSF) analysis revealed a clear appearance, with cultures remaining negative. Table 2 shows the complete CSF analysis results.Table 2 CSF Results
+
+CSF Analysis		Reference Range	
+WBC	2	(0–5/cu mm)	
+RBC	2	(0.cu mm)	
+Glucose	73	(40–70 mg/dL)	
+Total protein	31.6	(15–60 mg/dL)	
+Myelin Basic Protein	8.7	(0.0–5.6 ng/mL)	
+VDRL	Negative		
+Herpes I/II	Negative		
+West Nile	Negative		
+Abbreviations: CSF, cerebrospinal fluid; WBC, white blood cell; RBC, red blood cell; VDRL, venereal disease research laboratory test.
+
+Subsequently, the patient was transferred to the intensive care unit, initially on bilevel positive airway pressure/intermittent high-flow oxygen, but later intubated on ventilator support. The CPK levels continued to remain higher than the normal limit at >14,000 U/L. The patient ultimately had a cardiac arrest with subsequent fixed and dilated pupils causing suspicion of hypoxic/anoxic brain injury. After palliative care consultation, the patient’s family decided it was best to increase the patient’s comfort and care. The patient was terminally extubated and died the same day.
+
+Discussion
+
+Rhabdomyolysis is a potentially fatal syndrome with a high mortality rate. Common etiologies include alcohol abuse, muscle overexertion, muscle compression, medication, change in body temperature (heat-related), ischemia, infectious agents (viruses such as parainfluenza and CMV and bacteria such legionella, staphylococcus, and listeria), inflammation, metabolic myopathies, and genetic factors.13,14 Often, patients present with signs and symptoms of myalgias, muscle weakness, and hematuria (tea-colored urine).15
+
+Change in urine color occurs because of an increase in myoglobin levels, usually in excess of 250 μg/mL (normal <5 ng/mL).16,17 Kidney injury is the most common and potentially life-threatening complication of rhabdomyolysis that may require continuous renal replacement therapy or hemodialysis if not treated appropriately.13 The severity of renal failure is directly proportional to urine myoglobin18 and CPK19 concentrations. The proposed mechanisms of renal failure in rhabdomyolysis are renal tubular obstruction due to myoglobin concentration in kidneys, free radical-mediated cytotoxicity causing tubular necrosis, and renal vasoconstriction in response to an extracellular fluid shift to traumatized muscles.20 Mortality rate increases further as patients develop renal failure and require dialysis (as high as 59% in critically ill patients) or associated sepsis, compartment syndrome, or neuroleptic malignant syndrome.19,21 Guidelines on treatment and management of rhabdomyolysis are mainly focused on volume expansion with aggressive intravenous fluid hydration remaining the main line of treatment.
+
+Vaccines have been used as a primary disease prevention measure for centuries. Most adverse events caused by vaccines are acute, transient, and not life-threatening. Because of the rapid advancement in COVID-19 vaccines, data are currently limited to near-term and long-term adverse events. According to the CDC Vaccine Adverse Event Reporting System, as of July 26, 2021,22 a total of 111 (60 males, 47 females, 4 unknown) cases of rhabdomyolysis have been reported post-COVID-19 vaccine, including five deaths.
+
+According to a case report by Nassar et al,10 the patient was young (age 21) and had received only one dose of the Pfizer-BioNTech COVID-19 vaccine before developing rhabdomyolysis. However, the patient had a medical history of asthma, which is considered an autoimmune disease23 or hyperactive/overactive immune disease.24 There was no family history of autoimmune conditions. In a case published by Mack et al,11 the patient was 80 years old and developed rhabdomyolysis after a second dose of the Moderna vaccine. There was no mention of any family history in the report, and the patient contracted COVID-19 infection 3 months before receiving the vaccine. The patient was subsequently treated with dexamethasone/remdesivir and convalescent plasma. The patient was also an insulin-dependent type II diabetic. The role of TNF-α and other pro-inflammatory cytokines is well documented in dysregulating insulin production and sensitivity25,26 in people with insulin-dependent diabetes mellitus (IDDM), among many other mechanisms. In the case published by Tan et al,12 the male patient who developed rhabdomyolysis was uniquely different and was deficient in carnitine palmitoyltransferase II (a neuromuscular disorder). According to the current study, female patient had been on a statin for many years, a known risk factor for rhabdomyolysis. The patient also had rheumatoid arthritis, an autoimmune disorder, and a family history of autoimmune disease.
+
+Rhabdomyolysis is a well-known complication of both early and late COVID-19 infection.27,28 The proposed mechanisms for virus-induced muscle destruction include direct toxic effects of viruses on cells and cytokine-induced muscle damage.29,30 How and why some patients develop rhabdomyolysis post-COVID-19 vaccine are not well understood. A blood test is currently not available that can establish a direct causal link. Pfizer-BioNTech and Moderna vaccines code only a part of a single protein on the virus to stimulate the immune response.5
+
+The messenger RNA in mRNA vaccines enters the host cytoplasm and begins producing surface spike proteins. These proteins are ultimately presented to antigen-presenting cells, producing immune responses/antibodies against the actual virus. An mRNA vaccine also induces CD4+ and CD8+ T cell responses.31 CD4+ T cells induce cytokine production, whereas the response of CD8+ T cells is directed against the viral spike protein, which helps remove the virus from the intracellular compartment.32
+
+In autoimmune disorders, the immune system is hyperactive or dysregulated and attacks itself.33 There is compelling evidence for dysregulated T cells in rheumatoid arthritis,34 and it is possible the dysregulated immune system is overstimulated by vaccine and begins to attack the body’s cells. Further investigations are needed in patients with autoimmune diseases (active disease vs inactive disease) to determine whether they can mount adequate immune responses to the COVID-19 virus after the first dose only. If the immune response is adequate, the need for a second dose of a vaccine should be assessed because an unnecessary or inflammatory response is harmful to the host.
+
+Conclusion
+
+With the use of novel technologies to develop vaccines, a new era of vaccinology is beginning. In a time of crisis, such as the current COVID-19 pandemic, the availability of a vaccine with >94% efficacy is a blessing. It is essential to screen such patients based on their age, medical and family histories of autoimmune disease, and home medications before administering a COVID-19 vaccine. Patients with known risk factors for rhabdomyolysis should be carefully monitored and screened before administering a vaccine. When a patient with known risk factors for rhabdomyolysis complains of generalized muscle aches/cramps or weakness post-vaccine, they should get prompt treatment without delay to prevent further complications. Currently, not enough data are available on the adverse event profile of the COVID-19 vaccines in patients with an autoimmune disorder and dysregulated immune system. Benefits vs risks certainly need to be assessed for the first dose only vs additional doses of a vaccine in this group.
+
+Acknowledgment
+
+Author thanks Dr Paul H. Levine for his helpful comments on the manuscript.
+
+Ethics Approval and Informed Consent
+
+Ethics approval is not needed for this article. A case report is a medical activity that does not meet the DHHS definition of “research,” which is: “a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge.” Therefore, the activity does not have to be reviewed by the IRB. Information/health data used in this article are HIPPA compliant. Informed consent was also obtained from the patient and the family for the publication of this case report.
+
+Disclosure
+
+Author reports no conflicts of interest (financial or non-financial) in this work.

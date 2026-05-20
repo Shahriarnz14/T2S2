@@ -1,0 +1,62 @@
+event,time
+39-year-old male,0
+intensive care unit admission,0
+ventilator-associated pneumonia,-1080
+Acinetobacter baumannii infection,-1080
+intra-abdominal trauma,-1080
+confusion,-1080
+traffic accident,-1080
+passenger,-1080
+pustular eruptions,-96
+erythematous areas,-96
+facial region involvement,-96
+neck region involvement,-96
+upper extremity involvement,-96
+lower extremity involvement,-96
+fever 39.5℃/axillary,-168
+A. baumannii growth in tracheal aspirate,-120
+tigecycline 50 mg intravenous twice daily,-120
+ventilator-associated nosocomial pneumonia,-120
+no new drugs in past 15 days,-360
+sepsis,-120
+empirical tigecycline treatment,-96
+mild erupted lesions,-48
+tigecycline stopped,-48
+A. baumannii recovered from tracheal aspirate,-24
+tigecycline restarted,-24
+generalized erupted lesions,-24
+erythema on face,-12
+erythema on neck,-12
+pustules appearance,-12
+dermatologic examination: numerous pustules on face,0
+dermatologic examination: numerous pustules on neck,0
+dermatologic examination: numerous pustules on legs,0
+erythematous areas without follicular localization,0
+no oral pathologies,0
+no personal history of psoriasis,0
+no family history of psoriasis,0
+no known allergies,0
+fever,0
+leukocytosis,0
+pustule culture negative,0
+pre-diagnosis of AGEP,0
+pre-diagnosis of pustular psoriasis,0
+4-mm punch biopsy,0
+histopathologic findings: sub-corneal pustules,0
+histopathologic findings: intraepidermal pustules,0
+histopathologic findings: widespread spongiosis,0
+histopathologic findings: neutrophil infiltration,0
+histopathologic findings: histiocyte infiltration,0
+histopathologic findings: exocytosis of eosinophils,0
+AGEP diagnosis,0
+tigecycline discontinued,0
+intravenous methylprednisolone 60 mg/d,0
+local moisturizers,0
+topical steroids,0
+new pustules stopped,24
+healing with exfoliation,24
+no dermatologic pathologies after 15 days,360
+facial area involvement persists,360
+intensive care unit follow-up for 3 months,2160
+died of sepsis,2160
+multiorgan failure,2160

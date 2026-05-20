@@ -1,0 +1,121 @@
+event,time
+25 years old,0\
+unvaccinated,0\
+man,0\
+hospitalized,0\
+severe measles,0\
+complicated measles,0\
+Romanian,0\
+Roma community,0\
+living in France for 2 months,-1440\
+admitted to hospital,0\
+fever,0\
+diarrhea,0\
+conjunctivitis,0\
+no medical history,0\
+no surgical history,0\
+no current treatment,0\
+non-drug user,0\
+smokes 5 cigarettes per day,-1440\
+no sexually transmitted disease risks,0\
+fever 38.5°C,0\
+tachycardia 125 bpm,0\
+sweat,0\
+submandibular centimetric lymphadenopathies,0\
+Koplik's spots,0\
+bilateral conjunctivitis,0\
+erythematous extending facial eruption,0\
+diarrhea without dehydration,0\
+blood pressure 129/68 mmHg,0\
+normal pulmonary auscultation,0\
+normal neurological exam,0\
+hyponatremia 126 mmol/L,0\
+hypokalemia 3.33 mmol/L,0\
+mild acute renal insufficiency,0\
+creatinine 100 μmol/L,0\
+clearance 86 mL/min,0\
+anicteric cholestasis,0\
+cytolysis 3x normal,0\
+inflammatory syndrome,0\
+CRP 55 mg/L,0\
+normal chest X-ray,0\
+bilateral pneumonia,48\
+thoracic CT scan,48\
+measles diagnosis confirmed,0\
+positive IgM serum,0\
+positive PCR urine,0\
+positive PCR pharyngeal,0\
+positive PCR serum,0\
+transferred to ICU,72\
+multiorgan failure,72\
+neurological failure,72\
+hyponatremia,72\
+acute measles encephalitis,72\
+positive PCR CSF measles,72\
+normal MRI,72\
+cardiac failure,72\
+respiratory failure,72\
+septic shock,72\
+Staphylococcus aureus pneumonia,72\
+measles-linked pneumonia,72\
+severe hepatic cytolysis,72\
+hepatitis B diagnosis,72\
+corneous ulcer,72\
+ophthalmic vitamin A,72\
+hypophosphoremia 0.62 mmol/L,72\
+vitamin A deficiency 0.17 mg/L,72\
+ionic deficiencies,72\
+vitamin deficiencies,72\
+measles pneumonia,0\
+measles acute encephalitis,72\
+pancreatitis,72\
+corneous ulcer,72\
+intravenous ribavirin,72\
+intramuscular vitamin A,72\
+ophthalmic vitamin A therapy,72\
+antistaphylococcal agent,72\
+intubation,48\
+extubated,264\
+respiratory recovery,264\
+neurological recovery,264\
+cardiac recovery,264\
+renal recovery,264\
+ophthalmic recovery,264\
+digestive recovery,264\
+vitamin A normalization 0.58 mg/L,480\
+discharged,480\
+vaccine refusal,-1440\
+Roma community low vaccination,-1440\
+vitamin A supplementation,72\
+ribavirin therapy,72\
+secondary infections,0\
+immune suppression,0\
+diarrhea 8%,0\
+measles-related pneumonia,0\
+measles bronchopneumonia,0\
+laryngotracheobronchitis,0\
+bronchiolitis,0\
+bronchiectasis,0\
+encephalitis,72\
+acute disseminated encephalomyelitis,0\
+subacute sclerosing panencephalitis,0\
+perimyocarditis,0\
+keratitis,0\
+xerophthalmia,0\
+Bitot's spots,0\
+corneal ulcers,72\
+blindness,0\
+T cell cytopenia,0\
+poor nutritional status,-1440\
+Gypsy population risk,-1440\
+ribavirin mortality reduction,72\
+oral ribavirin,72\
+intravenous ribavirin,72\
+ribavirin dosage 1g q6h,72\
+measles vaccination coverage,-1440\
+unvaccinated healthcare workers,-1440\
+measles in vaccinated,0\
+genetic immune response,0\
+African-American ancestry,0\
+immune to measles,480\
+ethics approval,0

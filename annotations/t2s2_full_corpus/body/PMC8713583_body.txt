@@ -1,0 +1,61 @@
+pmcINTRODUCTION
+
+The incidence of infective endocarditis (IE) is 3.6 per 100 000 per year [1]. Though IE originates as a valvular dysfunction, it is essentially a multisystemic disease for three reasons. Firstly, valvular dysfunction can cause cardiac failure which, in turn, precipitates renal failure causing circulatory compromise. Secondly, valvular dysfunction can cause embolic complications and their associated problems. Finally, patients are also at risk of mortality from the severe sepsis that occurs in IE, which can cause multi-organ failure in itself. Therefore, it is unsurprising that such patients have a high mortality, which is made even worse in the context of a superimposed COVID-19 pneumonia as described in this report.
+
+CASE REPORT
+
+In November 2020, a 74-year-old man with no co-morbidities presented to the emergency department of his local hospital with a 3-day history of diarrhoea and vomiting. On examination, he was agitated with a Glasgow Coma Scale (GCS) score of 12/15 (E4, V3 and M5). He had a pansystolic murmur that was heard loudest at the apex, which radiated to the left axilla. He had a number of physical signs suggestive of IE, which are shown in Figs 1 and 2. He also had evidence of impaired oral hygiene, which is shown in Fig. 3. His inflammatory markers were elevated. His peripheral blood cultures were taken, and he was started on intravenous ceftriaxone immediately afterwards. His blood culture grew Staphylococcus aureus. A routine SARS-CoV-2 nasopharyngeal swab taken on admission was negative. A transthoracic echocardiogram showed severe mitral regurgitation (Video File 1) as well as vegetations on both mitral and aortic valves (Video File 2). Consequently, the patient satisfied two major criteria (new valvular regurgitation and the presence of vegetations) as well as three minor criteria (multiple Osler nodes, a Janeway lesion and a single positive blood culture) of the modified Duke’s criteria for IE [2]. Hence, definite IE was confirmed.
+
+Figure 1 Image A shows the presence of a Janeway lesion and a nail bed haemorrhage on the third digit of the left hand; image B also shows the presence of an Osler node on the first digit of the left hand.
+
+Figure 2 Osler node on the fifth digit of the right hand.
+
+Figure 3 Amalgam restoration in the upper first molar on the right side with absent upper first premolar and molar on the left side.
+
+Figure 4 shows the trend in his white cell count and estimated glomerular filtration rate (eGFR) over Days 1–9. During this time, his GCS ranged between 11/15 (E4, V2 and M5) and 15/15. An abdominal ultrasound on Day 5 showed no evidence of renal obstruction, hence, his renal failure was attributed to worsening sepsis. By Day 8, he had become anuric and he was treated with haemodialysis on Days 8 and 9.
+
+Figure 4 Trend in white cell count (x109/l) and eGFR (ml/min/1.73m2) over Days 1–9.
+
+On Day 10, he was transferred to a tertiary hospital for mitral valve replacement. He was admitted to the intensive care unit for continuous venovenous haemofiltration. However, a routine admission nasopharyngeal swab for SARS-CoV-2 on Day 11 was positive, thus delaying his surgery. We believe this infection may have occurred either during transit or during the final few days of the patient’s admission at his local hospital. On admission to the tertiary hospital, he underwent serial nasopharyngeal swabs for SARS-CoV-2 at twice weekly intervals. A plan was made to operate as soon as he tested negative, or as soon as we could be satisfied that his COVID-19 pneumonia incubation period had elapsed.
+
+However, on Day 24, he developed nausea and vomiting. Computerised Tomography (CT) imaging of his chest showed peripheral ground glass change with bilateral pleural effusions in keeping with COVID-19 pneumonia (Fig. 5). He was started on supplementary oxygen, oral dexamethasone and intravenous remdesivir. This was in accordance with local guidelines for the management of COVID-19 pneumonia at the time. He initially maintained an oxygen saturation >92% without the need for invasive ventilation. However, he died on Day 31 from acute respiratory distress syndrome (ARDS) secondary to COVID-19 pneumonia.
+
+Figure 5 Images A and B are axial CT views showing patchy consolidation and bilateral pleural effusions; image C is a coronal CT view showing patchy consolidation; these features are in keeping with acute COVID-19 pneumonia.
+
+DISCUSSION
+
+We identified four other case reports of IE complicated by COVID-19 pneumonia from Italy, Indonesia, Brazil and Morocco [3–6]. A common theme identified from these cases was a delay in surgical valve replacement. A fatal outcome was observed in two cases, including the index patient and the patient from Brazil. An international study of 1128 patients found that 49.6% of patients who underwent an emergency operation after SARS-CoV-2 infection developed post-operative pulmonary complications such as ARDS within 30 days of their operation. In this group, the 30-day mortality rate was 39.6%. The authors also reported that male sex and age of greater than 70 years were poor prognosticators, both of which were present in the index patient [7]. Moreover, the use of cardiopulmonary bypass in patients with SARS-CoV-2 infection is thought to independently increase the risk of ARDS. It postulated that the mixing of blood with non-endothelial surfaces during cardiopulmonary bypass increases the production of tumour necrosis factor α and interleukin 10, both of which are cytokines implicated in the development of ARDS due to COVID-19 pneumonia [8]. Despite these compelling reasons to delay the surgery, our final decision to delay was weighed carefully against the argument that delaying the surgery would have exposed him to an increased duration of IE-related disease. Nonetheless, on balance, we still felt that our decision to delay was appropriate. On reflection, this case demonstrates how challenging it can be to decide on the optimal timing of surgery in such patients.
+
+Another common theme between our case and others was the prevalence of Staphylococcus aureus. The index patient as well as the patients from Brazil and Italy had Staphylococcus aureus bacteraemia with SARS-CoV-2 co-infection. Staphylococcus aureus has been reported to be present in the saliva of 21% of patients with oral disease [9], and the oral cavity was the most likely reservoir for infection in this patient. Its combination with a SARS-CoV-2 co-infection confers significant morbidity and mortality. A case series of 42 patients found that mortalities at 14 and 30 days in patients who had Staphylococcus aureus bacteraemia with subsequent SARS-CoV-2 co-infection were 54.8 and 66.7%, respectively [10].
+
+This case sheds light on whether it is justified to offer surgical valve replacement to IE patients who are SARS-CoV-2-positive and within the incubation period for COVID-19 pneumonia. Despite the compelling reasons to delay the surgery, we conclude by suggesting that earlier surgical valve replacement, before the onset of COVID-19 pneumonia, could result in better outcomes in carefully selected patients.
+
+Supplementary Material
+
+Video_file_1_omab123 Click here for additional data file.
+
+Video_file_2_Oxford_omab123 Click here for additional data file.
+
+ACKNOWLEDGEMENTS
+
+We thank Shaun Robinson (consultant clinical scientist) for providing and formatting the echocardiography video files. We thank Rachel Eden (lead medical photographer) for providing the clinical photographs that were obtained with the patient’s consent. The photographs were taken when the patient had capacity to consent to this. We also thank Ammar Hamid (specialist registrar in orthodontics) for providing the dental description in Fig. 3. We remain vehemently opposed to any racist, homophobic, sexist or any other socially prejudiced sentiment held by William Osler (1849–1919), or any other eponymously referenced individual in this manuscript.
+
+CONFLICT OF INTEREST STATEMENT
+
+None declared.
+
+FUNDING
+
+No funding was procured.
+
+ETHICAL APPROVAL
+
+Not applicable.
+
+CONSENT
+
+Written consent for publication has been provided by the patient’s next of kin. The next of kin has reviewed the manuscript as well as all clinical photographs shown in this manuscript.
+
+GUARANTOR
+
+All authors assume guarantorship.

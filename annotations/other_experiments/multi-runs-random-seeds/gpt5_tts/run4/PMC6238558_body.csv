@@ -1,0 +1,87 @@
+event,time
+70-year-old ,0
+male ,0
+farmer by profession ,0
+presented to the emergency department ,0
+admitted to the hospital ,0
+history of high-grade fever ,-120
+history of generalized body ache ,-120
+history of headache ,-120
+history of altered sensorium ,-24
+joint pains ,0
+epigastric pain ,0
+no other comorbidities ,0
+no history of drug addiction ,0
+no history of intoxication ,0
+inguinal lymphadenopathy ,0
+mild generalized rash ,0
+no eschar ,0
+hemodynamically stable ,0
+disoriented ,0
+no focal neurological deficit ,0
+no neck rigidity ,0
+provisional diagnosis of acute febrile illness with undifferentiated fever ,0
+malaria negative ,0
+dengue negative ,0
+typhoid negative ,0
+leptospira negative ,0
+scrub typhus antigen card positive ,0
+scrub immunoglobulin M positive ,0
+confirmed diagnosis of scrub typhus ,0
+blood cultures sterile ,0
+other body fluid cultures sterile ,0
+"leukocytosis 15,800/cc ",0
+mild hyperbilirubinemia ,0
+transaminitis ,0
+total bilirubin 3.6 mg/dL ,0
+direct bilirubin 2.6 mg/dL ,0
+serum glutamic oxaloacetic transaminase 116 U/L ,0
+serum glutamic pyruvic transaminase 178 U/L ,0
+international normalized ratio 1.56 ,0
+hepatitis B surface antigen negative ,0
+hepatitis C antibody negative ,0
+ultrasound of the abdomen showed mild fatty infiltration of the liver ,0
+other investigations normal ,0
+managed conservatively ,0
+doxycycline 100 mg twice daily started ,0
+defervescence ,48
+orientation improved ,48
+weakness of both lower limbs Grade 2/5 ,96
+weakness of both upper limbs Grade 2/5 ,96
+deep tendon reflexes were absent ,96
+plantar responses were flexor ,96
+bladder incontinence ,96
+no bowel incontinence ,96
+breathing difficulty ,96
+respiratory distress ,96
+shifted to the Intensive Care Unit ,96
+single breath count 10 ,96
+respiratory acidosis ,96
+intubated ,96
+mechanical ventilation ,96
+magnetic resonance imaging of the brain without any abnormality ,96
+magnetic resonance imaging of the cervical spine revealed no abnormality ,96
+nerve conduction velocity showed motor sensory demyelinating polyneuropathy ,96
+Guillain–Barre syndrome ,96
+cerebrospinal fluid analysis did not reveal albuminocytologic dissociation ,96
+cerebrospinal fluid protein 146 mg/dL ,96
+cerebrospinal fluid cell count 70 with lymphocytic predominance ,96
+cerebrospinal fluid sugar 71 mg/dL with corresponding blood sugar 145 mg/dL ,96
+intravenous immunoglobulin therapy 0.4 mg/kg/day started ,96
+rifampicin 600 mg twice daily added ,96
+meningoencephalitis treated ,96
+autonomic dysfunction suspected ,96
+pelvic parasympathetic nerve dysfunction suspected ,96
+serial liver function tests within normal range ,168
+improvement in weakness of all four limbs ,240
+respiratory parameters improved ,240
+weaned off ventilator ,336
+extubated from the ventilator ,336
+oral feeding started ,336
+aggressive limb physiotherapy continued ,336
+chest physiotherapy continued ,336
+shifted out from ICU ,336
+discharged from the hospital ,672
+full neurological recovery ,672
+followed up regularly in the outpatient department ,720
+no functional disability ,1008

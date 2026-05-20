@@ -1,0 +1,61 @@
+event,time
+38 years old,0
+obese,0
+BMI 35.93 kg/m2,0
+male,0
+no known medical history,0
+no known surgical history,0
+presented to hospital,0
+fever,-48
+dry cough,-48
+shortness of breath,-48
+positive COVID-19 PCR test,0
+no COVID-19 immunization,0
+vitally stable,0
+normal chest examination,0
+normal cardiovascular examination,0
+no abdominal tenderness,0
+chest X-ray,0
+pneumonic consolidation,0
+left lower lobe lung involvement,0
+respiratory distress,96
+tachycardia,96
+pulse 100 beats per minute,96
+tachypnea,96
+respiratory rate 36 breaths per minute,96
+hypotension,96
+blood pressure 90/54 mm Hg,96
+hypoxia,96
+oxygen saturation 82%,96
+nonrebreather mask,96
+bilateral crepitations,96
+soft abdomen,96
+lax abdomen,96
+repeat chest X-ray,96
+bilateral patchy infiltrates,96
+severe COVID-19 pneumonia,96
+worsening clinical status,96
+worsening radiological status,96
+therapeutic enoxaparin 80 mg twice daily,96
+severe persistent abdominal pain,120
+unrelieved by analgesia,120
+unrelieved by proton pump inhibitors,120
+diaphoresis,120
+vomiting,120
+GCS 15/15,120
+mild epigastric tenderness,120
+D-dimer 12.91 μg/mL,120
+urgent abdominal CT-angiogram,120
+superior mesenteric artery thrombosis,120
+superior mesenteric vein thrombosis,120
+small bowel ischemia,120
+exploratory laparotomy,120
+ischemic nonviable bowel,120
+bowel resection,120
+transfer to surgical ICU,120
+postoperative sepsis,144
+multiorgan failure,144
+pulseless ventricular tachycardia,144
+unsuccessful resuscitation,144
+patient death,216
+discharged,N/A (death)

@@ -1,0 +1,89 @@
+event,time
+56 years old,0
+female,0
+admitted,0
+deep neck infection,0
+incision and drainage,0
+neck swelling,-144
+neck tenderness,-144
+hypertension,-52560
+blood pressure controlled with medication,-52560
+Mallampati class IV,0
+mouth opening less than three finger widths,0
+right retropharyngeal abscess,0
+anterior cervical space involvement,0
+posterior cervical space involvement,0
+carotid space involvement,0
+no premedication,0
+blood pressure 140/83 mmHg,0
+heart rate 110 beats/min,0
+SpO2 97%,0
+respiratory alkalosis,0
+pH 7.50,0
+partial pressure of CO2 34.1 mmHg,0
+partial pressure of O2 124.6 mmHg,0
+O2 saturation 99%,0
+preoxygenation with 100% oxygen,-0.0833
+indirect videolaryngoscope prepared,0
+endotracheal tubes of various diameters,0
+lidocaine spray applied,0
+10% lidocaine spray 60 mg,0
+epiglottis visible,0
+glottis not visible,0
+Cormack and Lehane grade 3,0
+general anesthesia induced,0.0833
+propofol 120 mg,0.0833
+rocuronium 60 mg,0.0833
+mask ventilation feasible,0.0833
+tidal volume 300 mL,0.0833
+peak airway pressure 20 cmH2O,0.0833
+intubation attempted with 7.0 mm ETT,0.0833
+intubation changed to 6.5 mm ETT,0.0833
+successful intubation,0.0833
+sevoflurane 1.7 volume %,0.0833
+remifentanil,0.0833
+air 2 L/min,0.0833
+O2 2 L/min,0.0833
+pressure-controlled ventilation,0.0833
+end-tidal CO2 28–30 mmHg,0.0833
+pulse oximetry 100%,0.0833
+incision and retropharyngeal abscess drainage,0.0833
+transcervical approach,0.0833
+wound closure delayed,0.0833
+transferred to ICU,0.0833
+mechanical ventilation,0.0833
+tidal volume 450 mL,24
+respiration rate 12 breaths/min,24
+PEEP 5 cmH2O,24
+FiO2 0.4,24
+SpO2 above 95%,24
+spontaneous breathing resumed,24
+successful extubation,24
+wound closure planned,48
+packing gauze removal planned,48
+monitored anesthesia care,48
+no premedication,48
+noninvasive blood pressure monitoring,48
+electrocardiography,48
+pulse oximetry,48
+end-tidal CO2 measurement,48
+nasal cannula 3 L/min,48
+dexmedetomidine 6 µg/kg/hr,48
+SpO2 decreased to 95%,48
+reservoir mask 6 L/min,48
+SpO2 94%,48
+high-flow nasal cannula 30 L/min,48
+SpO2 100%,48
+dexmedetomidine loading dose 6 µg/kg/hr,48
+dexmedetomidine reduced to 0.6 µg/kg/hr,48.1667
+fentanyl 50 µg,48.3333
+dexmedetomidine increased to 0.7–1.0 µg/kg/hr,48.5
+midazolam 1 mg,48.5
+OAA/S score 2,48.5
+stable vital signs,48.5
+no bradycardia,48.5
+no discomfort,48.5
+recovery room oxygen 3 L/min,49.3333
+SpO2 96–100%,49.3333
+transported to general room,49.3333
+discharged,288

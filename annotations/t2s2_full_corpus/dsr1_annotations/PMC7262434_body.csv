@@ -1,0 +1,80 @@
+event,time
+60-year-old,0
+male,0
+history of arterial hypertension,0
+visited emergency department,0
+fever,-384
+chills,-384
+malaise,-384
+fatigue,-384
+anorexia,-384
+left flank pain,-384
+chills,-384
+nausea,-384
+vomiting,-384
+diarrhea,-384
+vomiting subsided,-336
+diarrhea subsided,-336
+chills remained,-336
+malaise remained,-336
+treated with amoxicillin-clavulanic acid,-336
+fever developed,-240
+left flank pain developed,-240
+hematuria developed,-240
+diarrhea reappeared,-240
+admitted to intensive care unit,0
+sepsis,0
+pyelonephritis,0
+hypotension,0
+tachypnea,0
+tachycardia,0
+enlarged left kidney,0
+leukocytosis,0
+neutrophilia,0
+elevated C-reactive protein,0
+elevated procalcitonin,0
+elevated creatinine,0
+elevated urea,0
+treated with parenteral fluids,0
+treated with cefotaxime,0
+blood culture positive for Salmonella enterica,0
+urine culture positive for Salmonella enterica,0
+positive Clostridioides difficile antigen,0
+positive Clostridioides difficile toxin,0
+treated with trimethoprim/sulfamethoxazole,0
+treated with vancomycin,0
+transthoracic echocardiography unremarkable,0
+CT abdomen with discrete inflammatory changes,0
+discharged on own request,240
+trimethoprim/sulfamethoxazole continued,240
+discontinued antimicrobial therapy,384
+progressive weakness,432
+night sweating,432
+dull pain in lumbar region,432
+dull pain in sacral region,432
+elevated CRP,432
+admitted again,432
+treated with ceftriaxone,432
+treated with vancomycin prophylaxis,432
+blood culture positive for Salmonella enterica,432
+MRI lumbar spine unremarkable,432
+dilatation of infrarenal abdominal aorta,432
+contrast CT abdomen performed,432
+fusiform aneurysm of abdominal aorta,432
+aneurysm of left internal iliac artery,432
+dilated left ureter,432
+grade 2 hydronephrosis,432
+conservative therapy recommended,432
+treated with ceftriaxone for 30 days,432
+CT follow-up showed progression,1296
+surgery with ligation of left internal iliac artery,1296
+partial extirpation of aneurysm,1296
+total extirpation not possible,1296
+nonspecific inflammation of arterial wall,1296
+cultures sterile,1296
+treated with parenteral antimicrobial therapy,1296
+CT follow-up complete obliteration,2160
+discharged again,2160
+oral trimethoprim/sulfamethoxazole continued,2160
+asymptomatic at 3-month follow-up,4320
+normal CRP at 3-month follow-up,4320

@@ -1,0 +1,137 @@
+1. Introduction
+
+An atypical pneumonia outbreak was reported in late December 2019 in Wuhan city, Hubei province China, and was suspected to be a viral interstitial pneumonia [1]. The causative agent was identified as severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) and the disease caused by the virus, named coronavirus disease 2019 (COVID-19), was declared a global pandemic by the World Health Organization (WHO) in March 2020 [2]. At this time, the virus continues to spread worldwide and as of 30 April 2020, the total number of worldwide cases has surpassed 3 million and the total number of deaths has passed 220,000 [3]. In the US alone, the total number of cases has crossed 1 million with total deaths of more than 60,000 according to the Johns Hopkins University coronavirus resource center [3].
+
+Majority of cases of COVID-19 have presented with a viral syndrome including fever and cough and have spontaneously resolved. Up to 3–4% of patients have progressed to fatal disease with severe pneumonia, acute respiratory distress syndrome (ARDS), and multiorgan failure [4]. SARS CoV-2 has been classified as a respiratory virus with primarily a droplet mode of infection and the majority of complications have been pulmonary. However, other causes of mortality such as septic shock, cardiac failure with hypotension, cardiac arrhythmias, coagulation abnormalities and renal failure have been reported in varying proportions [5–7]. In patients who end up having cardiac arrest, retrospective studies have shown that more than 80% of the causes of cardiac arrest have been respiratory in origin [8]. With most of the focus on complications and mortality resulting from respiratory failure, cardiac complications are increasingly being recognized as significant predictors of poor prognosis and overall increased mortality [9,10]. We present a case of acute pericarditis from Covid-19 and aim to expand our knowledge on the characteristics of patients who develop COVID-related cardiac manifestations or complications.
+
+2. Background
+
+Cardiac manifestations of respiratory viral infections have been known from prior viral outbreaks. The impact of seasonal influenza and influenza-like illnesses have been associated with increased cardiovascular morbidity and mortality, both as complications of virus-related manifestations as well as worsening of pre-existing cardiac conditions [11]. There have been different strains of coronaviruses known to cause disease in humans such as severe acute respiratory syndrome (SARS) in 2002 and middle east respiratory syndrome (MERS) in 2012 similar to SARS CoV-2 causing COVID-19 [12].
+
+An increased pro-coagulable state is recognized as a significant risk factor for complications in patients with heart failure and coronary artery disease [13]. In addition, viral infections and subsequent systemic inflammatory response also increase metabolic activity in the body which can impair cardiac function. Other possible mechanisms may include high levels of expression of angiotensin-converting enzyme 2 (ACE2) in cardiac cells which is thought to allow the SARS-CoV-2 virus to invade host cardiac cells [14,15] which is speculated to worsen cardiac injury in patients with pre-existing cardiac symptoms.
+
+A retrospective study of heart failure patients with COVID-19 showed elevations of troponin greater than 20 times the normal limit suggesting myocardial injury [16]. Another retrospective study by Deng, et al. of 112 COVID-19 patients showed that 14 patients (12.5%) presented with abnormalities similar to myocarditis, and up to 42 patients (37%) had increasing troponin during hospitalization, primarily present in patients who died [17]. The author concluded that myocardial injury is more likely related to systemic consequences rather than direct cardiac damage.
+
+Retrospective studies have shown that higher concentrations of creatine kinase isoenzyme MB (CK-MB), myohemoglobin, cardiac troponin I and N-terminal pro brain natriuretic peptide (NT proBNP) have been associated with severe COVID 19 and increased case fatality [18]. This has also been demonstrated in a recent meta-analysis including 4189 patients which mirrored similar association with mortality [19].
+
+In addition to systemic inflammation causing myocardial injury, direct viral toxicity causing infectious-inflammatory myocarditis is not uncommon [20]. Different viruses exhibit cardiotropic properties which induce inflammation and subsequent destruction of the myocardium. This has been demonstrated in cardiac magnetic resonance imaging and endomyocardial biopsies [21].
+
+It is increasingly being known that cardiac complications of many viral infections are a significant cause of ICU admissions and mortality. The purpose of this case study and literature review is to help clinicians anticipate a range of cardiac complications from COVID-19 and treat patients in time to reduce mortality.
+
+3. Case presentation
+
+A 48-year old Spanish-speaking male with a medical history of hypertension, hyperlipidemia, and chronic back pain presented to the hospital with increasing shortness of breath and cough for one week. At home, he takes lisinopril for blood pressure, atorvastatin for hyperlipidemia and over-the-counter analgesics for back pain. At the time of presentation, he also complained of central chest pain and feeling of warmth, but he had not measured his temperature at home. He had no travel history and no sick contacts.
+
+On examination, his vital signs were a temperature of 36.4 Celsius, heart rate of 87/minute, blood pressure of 126/73 mm of Hg, respiratory rate of 22/minute and oxygen saturation 95% on room air. His physical examination revealed no abnormalities and laboratory investigations showed a white blood cell count of 9,000/cumm (with a neutrophil count of 76.6% and lymphocyte count 15.4%, absolute lymphocyte count 1.40 K/mm). Other investigations revealed a lactic acid level of 1.3 mmol/L, erythrocyte sedimentation rate (ESR) of 62 mm/hr, c-reactive protein (CRP) of 8.66 mg/dl, troponin <0.03 ng/ml, and procalcitonin 0.19 ng/ml. An electrocardiogram (ECG) revealed a normal sinus rhythm with no ST or T wave changes. A chest x-ray was done which showed hypo inflation and perihilar air space opacities showing atelectasis. A computerized tomography of chest with contrast revealed bilateral ground glass opacities. A set of blood cultures, sputum culture and a viral respiratory panel were sent, and the patient was started on ceftriaxone and azithromycin for possible pneumonia and admitted to the general medical floors.
+
+During his hospitalization, the patient became tachycardic and hypoxic with continued fevers. He tested positive for SARS CoV-2 by PCR. He was evaluated by an infectious disease consultant and started on hydroxychloroquine. On day 3 of admission, he was placed on non-invasive ventilation and by day 5 eventually required endotracheal intubation and transfer to the intensive care unit due to worsening hypoxia. Due to subsequent development of ARDS, He was placed in prone position for 16 hours a day to improve his oxygenation.
+
+On the eighth day of hospital stay, the patient developed ST elevations in leads II, III and aVF on his ECG (Figure 1). His troponin level peaked at 0.10 ng/ml. He was given a one-time dose of 300 mg of clopidogrel followed by 75 mg daily given his allergy to aspirin and was evaluated by Cardiology for concerns for acute coronary syndrome. With serial ECGs, his ST changes resolved after 24 hours (Figure 2) and coronary catheterization was deferred. The ECG changes were attributed to focal pericarditis. An echocardiogram was deferred at that time because of enhanced airborne isolation.Figure 1. ST elevation in lead II, III and aVF (arrows)
+
+Figure 2. Repeat ECG in 24 hours showing resolution of previous findings of ST elevation
+
+Patient had been having intermittent fevers during the course of his hospital stay. His bloodwork eventually showed elevated ESR 122 mm/hr and CRP 17.86 mg/dl. Due to concern for cytokine storm, he received methylprednisolone 1 mg/kg followed by dexamethasone 20 mg daily which was tapered off over 21 days. He was also considered as a candidate for convalescent plasma.
+
+The patient’s course was further complicated by development of deep vein thrombosis despite being on a prophylactic dose of anticoagulation. He was thereafter started on therapeutic anticoagulation. He also received intravenous plasma as a therapeutic trial for treatment of COVID-19. At this time, he remains inpatient with critical respiratory status. An echocardiogram was done one week later revealed normal left ventricular function with no regional wall motion abnormalities.
+
+4. Review of literature
+
+The review of literature was performed in order to find other similar cases, and to explore the unique manifestations in the cardiovascular system from COVID-19.
+
+4.1. Method
+
+We performed a COVID-19 literature using queries “coronavirus “, ‘coronaviridae’, ‘betacoronavirus’, ‘COVID19’, ‘nCoV’, ‘CoV2’, ‘sarscov’, ‘2019nCoV’, ‘novelCoV’, ‘wuhan’, ‘hubei’ as [MeSH Terms], [All Fields], or [Supplemental content]. To find cases with different cardiac manifestations, we used ‘heart’, ‘cardiac’, ‘cardiovascular system’, ‘cardiovascular’, ‘arrythmia’, ‘arrythmiaagents’, ‘arrythmiacardiac’ as [MeSH terms] or [All Fields]. We went through individual results and eliminated some of the results as being irrelevant to our search. We also excluded letters to the editor, reviews, editorials and commentaries to avoid duplicate publications of same cases. We also excluded non-English publications using AND ‘English’ [filter].
+
+A total of 19 COVID cases were identified that had cardiac complications from COVID-19 which included myocarditis, pericarditis or pericardial effusion, heart block, or a combination of any of those. Data from those studies were compiled to identify any patient characteristics, comorbidities, electrocardiogram changes, echocardiogram findings, BNP levels, other relevant investigations as well as management and outcome.
+
+5. Results
+
+A total of 19 cases were identified that reported cardiac manifestations, most of which were myocarditis (n = 8, 42%). There were three cases of pericardial effusion with two of the cases having cardiac tamponade, three cases of acute myocardial infarction, two with cardiac arrhythmias (Brugada and complete heart block), one case of right ventricular mural thrombus with pulmonary embolism and one case of acute heart failure with cardiogenic shock (Tables 1, 2).Table 1. List of cases with cardiac manifestation and their electrocardiogram and echocardiogram findings
+
+ 	Age	Sex	Cardiac manifestation	Electrocardiogram
+findings	Echocardiogram findings	
+Azarkish et al [26]	54	M	Complete heart block	Normal on admission, complete heart block on day 13	no abnormalities	
+Meyer et al [29]	83	F	Tako tsubo cardiomyopathy	ST elevation with T Wave inversion	RV apical ballooning	
+Kim et al [30]	21	F	Myocarditis	interventricular conduction delay	severe LV systolic dusfxn	
+Tavazzi et al [28]	69	M	Myocarditis	 	dilated LV, severe hypokinesis	
+Zeng et al [31]	63	M	Fulminant myocarditis	sinus tachycardia, no ST changes	LV dyskinesis,	
+Sala et al [32]	43	F	Myocarditis/presenting as reverse Tako-tsubo syndrome	mild ST elevation	mild LV inferior wall hypokinesis	
+Hua et al [22]	47	F	Cardiac tamponade complicating myopericarditis	sinus tachycardia, concave st elevation	normal LV, global effusion, tamponade on follow up echocardiogram	
+Inciardi et al [33]	53	F	Acute myopericarditis	diffuse ST elevation	 	
+Hu et al [34]	37	M	Fulminant myocarditis	inferior wall ST elevation	severely reduced LV function	
+Loghin et al [35]	29	M	Pseudo-MI	inferior ST segment elevation	no abnormalities	
+Dabbagh et al [24]	67	F	Pericardial effusion	 	large hemorrhagic pericardial effusion with tamponade,mild LV dysfxn	
+Vidovich et al [36]	61	M	Brugada type EKG changes	Brugada-type in right precordial leads,no reciprocal changes	mildly decreased global EF	
+He et al [37]	66	F	Heart block	normal initially with baseline first degree AV block. S1Q3T3 pattern post admission	enlarged RA and RV with severe TR	
+He at al [37]	70	M	ST elevation and arrythmia	Initial- sinus tachycardia with incomplete RBBB, 34th day – post EMO inferior and precordial ST elevation	anterior and inferior wall global hypokinesis	
+Bemptgen et al [38]	52	M	Acute heart failure,cardiogenic shock	 	 	
+Irabien-ortiz et al [25]	59	F	Pericardial effusion	low voltage ECG with concave ST elevation, PR depression,	moderate concenteric hypertrophy,moderate pericardial effusion	
+Jean-François et al [39]	35	M	Acute myocarditis	repolarization in precordial leads	no abnormalities	
+Sulemane et al [40]	60	M	RV mural thrombus with pulmonary embolism	 	dilated RV, with severely impaired sysrtolic function, mobile RV mural thrombus	
+Siddamreddy et al. [23]	61	F	Acute ST elevation myocardial infarction	ST elevation in inferior leads with reciprocal changes (t wave inversion) V1 and V2	moderately reduced EF of 30–35%	
+
+Table 2. Patient Characteristics
+
+Total Number of Patients	19	 	
+Age – mean (SD), range	54.2 (15.6)	21–83	
+Gender (Male) – no.%	10	52.6%	
+Cardiac Symptoms – no.%	 	 	
+Myocarditis	8	42.1%	
+Pericardial Effusion	3	15.8%	
+Acute Myocardial Infarction	3	15.8%	
+Cardiac Arrhythmias	2	10.5%	
+Right Ventricular Mural Thrombus with Pulmonary Embolism	1	5.3%	
+One Case of Acute Heart Failure with Cardiogenic Shock	1	5.3%	
+Reported Comorbidities – no.%	 	 	
+Total number of cases reported comorbidities	9	47.4%	
+Hypertension	4	44.4%	
+Obesity	4	44.4%	
+
+The average age of the patients was 54.2 with a standard deviation of 15.6, ranging from 21 to 83. Nearly 50% of the cases were between age 59–72. No predilection towards any case was noted with almost equal male to female ratio. Nearly 50% of cases reported comorbidities, among which hypertension (44.4%) and obesity (44.4%) were the two most common conditions (Table 1). Two cases were mentioned to have had no known past medical history. Patients’ home medications were not listed in the case reports.
+
+The presenting complaint of most cases included common viral symptoms reported with COVID, such as shortness of breath and fever. Chest pain was the presenting complaint in only seven (36.8%) of the cases but was not specific to pericardial effusion or myocardial infarction. Three patients who ended up with myocarditis had presented with chest pain in addition to shortness of breath (Table 3). High sensitivity Troponin I/T was elevated in ten of the cases with wide range (1.26–10,000). Other cardiac marker like BNP was also elevated in seven cases (ranging 521–24,245).Table 3. Presenting Symptoms
+
+Total Number of Patients	19	 	
+Symptoms no.%	 	 	
+Short of breath	10	52.6%	
+Chest Pain	7	36.8%	
+Fever	5	26.3%	
+Cough	5	26.3%	
+Fatigue	2	10.5%	
+Abnormal Troponin Level	13	68.4%	
+Abnormal BNPLevel	8	42.1%	
+ST Elevation	10	52.6%	
+
+Ten out of 19 cases had reports of ST elevation reported, mostly in inferior leads and diffuse ST elevation reported in one case [22], but coronary evaluation in the form of CT coronary angiogram was within normal limits except for the case that had developed acute myocardial infarction [23].
+
+We found three cases of pericardial effusion [22,24,25], out of which one case presented with cardiac tamponade on admission requiring pericardiocentesis [22] and the other progressed to a large hemorrhagic effusion with tamponade during hospitalization complicated by severe LV dysfunction and tako-tsubo syndrome [24]. The cases of tamponade were managed with pericardiocentesis and corticosteroids.
+
+In one case of complete heart block, patient initially had normal sinus rhythm on admission. Patient went into complete heart block on day 13 of hospitalization and also required cardiopulmonary resuscitation and mechanical ventilation [26]. Patient remained inpatient at the time of publication and the outcome of the case is not known. One case report had Brugada type changes in precordial leads, patient ended up getting emergent angiogram which revealed normal coronaries and patient was discharged home after a week.
+
+6. Discussion
+
+COVID 19 has a variable clinical presentation with a range of symptoms that have been reported in the literature. A proportion of patients can be asymptomatic. Many of our patients presented with common symptoms suggestive of a viral syndrome. The aforementioned case reports had similar presentation with shortness of breath and chest pain. While complaints of pleuritic chest pain would be expected with pericardial involvement, patients with myocarditis also can present with chest pain and some cases may have an overlap between myocarditis and pericarditis.
+
+A majority of patients had normal troponin on admission, which elevated during the course of admission. Our patient had a mild troponin elevation which along with ST changes on EKG was initially concerning for acute coronary syndrome (ACS). However, because of concerns regarding infection control, he was not directly taken to the catheterization lab. His subsequent troponins downtrended and concern for ACS remained low. Most cases reported in the literature have some form of ST wave changes and it can be difficult to distinguish a coronary event from myocarditis. It is unclear if COVID-19 in itself would predispose patients to develop acute coronary syndrome by thrombogenesis, but it is known that the critical nature of illness leads to high metabolic demand which can trigger cardiac ischemia in patients with preexisting coronary artery disease. There is one case of COVID-19 reported to have presented with MI, but it is difficult to wholly attribute the viral infection to the MI [23].
+
+The varied clinical presentations and overlap between ST elevation MI, stress cardiomyopathies, coronary spasm, and pericarditis create challenges in decision making. Our patient was loaded with clopidogrel and there was initial hesitation in instant percutaneous coronary intervention (PCI). Although concern for ACS decreased with repeat assessments, it is important to develop protocols for inpatient STEMIs taking into consideration risk of exposure to healthcare workers, patient transport and availability of personal protective equipment. Some experts have recommended embracing a fibrinolysis-based strategy in non-PCI-capable hospitals or in cases where PCI may not be immediately available [27].
+
+Non-invasive coronary artery imaging offers alternate options, with limited risk of exposure to healthcare workers and overconsumption of PPEs. Most of the cases presented in literature [22] had undergone some form of coronary imaging mostly computerized tomography coronary angiography which showed normal coronaries. One patient had a prior history of coronary catheterization which did not show any coronary artery disease, and this helped in decision making by increasing likelihood of myocarditis rather than acute coronary syndrome.
+
+Treatment options for COVID-related cardiac complications are limited and depend on the primary complication. The mainstay of management includes supportive management which in at least half of the cases included ventilatory support. It is not reported in all cases for us to accurately be able to report on the percentage of patients requiring critical care level of care or inotropic support. Complications such as pericardial effusion and tamponade should be treated with pericardiocentesis, and clinicians should maintain low suspicion for cardiac tamponade in patients with refractory hypotension. Patients’ condition may progress during the hospitalization to develop tamponade as reported by Dabbagh, et al. [24], so an initial normal echocardiogram should not rule the possibility of developing cardiac tamponade.
+
+A significant number of cases had shown early resolution of myocarditis or pericarditis. Supportive management included placement of balloon pump in one case, in which cardiac function recovered however patient died of overall complications of septic shock [28]. Other outcomes reported also include early improvement of cardiac biomarkers and improvement of myocarditis on follow-up assessment of LV function, however mortality rates remained high, likely because of overall critical condition of most patients. More than half of the cases were intubated during the course of the hospitalization, and presence of cardiac complications likely contributed to increased risk of mortality as shown by most studies [10].
+
+One of the limitations of our review is the limited number of case reports as the literature on Covid-19 and its various manifestations are evolving. Different manifestations may have different disease characteristics and further large-scale studies are required to better understand the prevalence, risk factors and prognosis of the impact of Covid-19 on cardiovascular system.
+
+7. Conclusion
+
+As COVID 19 continues to evolve with more literature reported on various manifestations of the disease, it is increasingly being known that cardiac complications carry a significant cause of ICU admissions and mortality. It is important for clinicians to recognize potential cardiac complications from COVID 19. Although therapeutic options are limited, early recognition and clinical vigilance can help in mobilizing appropriate resources and preventing cardiac-related mortality.
+
+Acknowledgments
+
+We would like to acknowledge the help of Helen Houpt MSLS AHIP for the help with literature search in writing this manuscript.
+
+Disclosure statement
+
+No potential conflict of interest was reported by the authors.

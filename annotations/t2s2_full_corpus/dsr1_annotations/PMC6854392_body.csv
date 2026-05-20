@@ -1,0 +1,83 @@
+event,time
+81-year-old man,0
+presented to the emergency department,0
+fever,0
+progressive dyspnea,0
+dry cough,0
+left pleuritic chest pain,0
+symptoms started 3 weeks ago,-504
+chronic lymphocytic leukemia,-504
+treated in 2007,-104256
+fludarabine,-104256
+cyclophosphamide,-104256
+rituximab therapy,-104256
+chronic lymphocytosis,-504
+type 2 diabetes mellitus,-504
+hypertension,-504
+hyperlipidemia,-504
+chronic kidney failure,-504
+eGFR 28 mL/min/1.73 m²,0
+no smoking,0
+no alcohol abuse,0
+upholsterer,0
+fever (38.1°C),0
+tachycardia (105 bpm),0
+peripheral percutaneous oxygen saturation 100%,0
+tachypnea,0
+normal blood pressure,0
+abolished left vesicular murmur,0
+no adenopathy,0
+no hepatomegaly,0
+no splenomegaly,0
+cardiovascular examination normal,0
+neurologic examination normal,0
+neutrophilia (18.7 g/L),0
+elevated CRP (297 mg/L),0
+stable lymphocytosis (242 g/L),0
+anemia (7.8 g/L),0
+chest X-ray large left pleural effusion,0
+contralateral tracheal deviation,0
+computed tomography confirmed walled-off left pleural effusion,0
+right lung parenchyma normal,0
+first pleural puncture citrine exudate,0
+pleural protein 37 g/L,0
+pleural fluid protein to serum ratio 0.61,0
+cytological examination not performed,0
+intravenous cefotaxime,0
+persistence of fever,+24
+neutrophilia persisted,+24
+severe hypoxemia,+24
+bacteriological standard culture negative,+24
+blood cultures negative,+24
+auramine stained sputum smears negative,+24
+cultures for tuberculosis negative,+24
+surgical thoracentesis,+240
+evacuation of 2 liters purulent liquid,+240
+thick and nodular pleura,+240
+white pseudo-membranes,+240
+metronidazole added,+240
+cytobacteriological examination negative,+240
+lymphocyte phenotyping ruled out B-cell lymphoma,+240
+multiple organ failure,+264
+intensive care unit admission,+264
+septic shock,+264
+uncontrolled septic shock,+264
+cefepime,+264
+amikacin,+264
+invasive mechanical ventilation,+264
+vasopressor infusion,+264
+renal replacement therapy,+264
+death,+264
+mycobacterial culture Gram-negative bacilli,+288
+L. pneumophila identified,+288
+serogroup 1,+288
+Sequence Type 1,+288
+urinary antigen confirmed L. pneumophila serogroup 1,+288
+male sex,0
+aged more than 50 years,0
+diabetes mellitus,0
+weaned smoking,0
+fatal pleural empyema,+264
+L. pneumophila serogroup 1,+264
+no specific treatment,+264
+antibiotics resistant,+264

@@ -1,0 +1,46 @@
+event,time
+21 years old,0
+male,0
+obese,0
+admitted to the hospital,0
+cough,-72
+fever,-72
+shortness of breath,-72
+pleuritic chest pain,-72
+light-headedness,-24
+near syncope,-24
+dyspnoea,-24
+COVID-19,0
+sub-massive pulmonary embolism,0
+unfractionated heparin,0
+hypotensive,12
+massive pulmonary embolism,12
+catheter-directed thrombolysis,12
+improved clinically,18
+planned discharge,24
+acute respiratory failure,72
+hypotension,72
+intubated,72
+cardiac arrest,72
+return of spontaneous circulation,72
+vasopressors,72
+extracorporeal membrane oxygenation,72
+recurrent massive pulmonary embolism,72
+repeat catheter-directed thrombolysis,120
+ventilation parameters improved,120
+vasopressors discontinued,120
+weaning of extracorporeal membrane oxygenation,120
+deep venous thrombus,168
+inferior vena cava filter,168
+low-molecular-weight heparin,168
+septic shock,240
+treated with broad spectrum antibiotics,240
+right thigh haematoma,360
+compartment syndrome,360
+surgical debridement,360
+transitioned to rivaroxaban,360
+discharged,504
+anticoagulated on rivaroxaban,504
+no major adverse events,1008
+returned home,1008
+performing activities of daily living independently,1008

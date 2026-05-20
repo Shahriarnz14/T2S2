@@ -1,0 +1,47 @@
+event,time
+62 years old,0
+male,0
+admitted to the hospital,0
+uncontrolled diabetes mellitus,0
+severe epigastric pain,-72
+shortness of breath,-72
+sepsis,0
+tachypnea,0
+tachycardia,0
+hypotension,0
+temperature 38°C,0
+blood sugar 20 mmol/L,0
+intravenous insulin,0
+bilateral lung base crepitations,0
+abdominal distension,0
+crepitus at right lumbar region,0
+crepitus extending to scrotum,0
+cardiopulmonary resuscitation,0
+intubation,0
+inotropic support,0
+white cell count 70 ×10^9/L,0
+thrombocytopenia 14 ×10^9/L,0
+C-reactive protein 248 mg/L,0
+serum creatinine 578 μmol/L,0
+urea 47.6 mmol/L,0
+coagulopathy,0
+mild transaminitis,0
+severe metabolic acidosis,0
+absent right kidney on ultrasonography,0
+CT showing emphysematous pyelonephritis,0
+gas in retroperitoneum,0
+gas in lateral abdominal muscle,0
+gas in pelvis,0
+gas in scrotum,0
+fluid resuscitation,0
+antibiotic therapy (IV Meropenem),0
+Gram-negative bacilli (Klebsiella pneumoniae) culture,168
+image-guided pigtail drainage,168
+poor clinical response to antibiotics,504
+poor clinical response to drainage,504
+surgical intervention (nephrectomy),504
+intraoperative pus 200 mL,504
+acute pyelonephritis histology,504
+emphysematous pyelonephritis histology,504
+good clinical recovery,504
+discharged,504

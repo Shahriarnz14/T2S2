@@ -1,0 +1,104 @@
+event,time
+79 years old,0
+female,0
+admitted to the hospital,0
+dyspnea,0
+palpitations,0
+no chest pain,0
+hypertension,0
+type 2 diabetes mellitus,0
+atrial fibrillation,0
+colonic diverticulosis,0
+depressive syndrome,0
+osteoporosis,0
+mastectomy due to breast cancer,-26280
+ischemic cardiomyopathy,-17520
+acute myocardial infarction,-17520
+percutaneous angioplasty,-17520
+left ventricle ejection fraction 64 percent,-17520
+Barthel Index 85,0
+omeprazole 20 mg daily,0
+metformin 850 mg twice daily,0
+calcifediol 266 µg monthly,0
+calcium 500 mg daily,0
+alendronate 70 mg weekly,0
+acenocumarol 4 mg periodic dosing,0
+amiodarone 200 mg daily,-1440
+torasemide 5 mg daily,0
+enalapril 5 mg daily,0
+letrozole 2.5 mg daily,0
+citalopram 10 mg daily,0
+acetaminophen on demand up to 3 g daily,0
+lormetazepam on demand up to 2 mg daily,0
+pale,0
+diaphoretic,0
+hypothermic 35.6°C,0
+tachycardia 146/min,0
+blood pressure 156/108 mmHg,0
+SpO2 96%,0
+cardiac auscultation arrhythmic tones,0
+aortic murmur II/VI,0
+chronic venous insufficiency,0
+no edemas,0
+respiratory auscultation hypophonesis,0
+crackles on right pulmonary base,0
+atrial fibrillation with fast ventricular response 150/min,0
+diuretics administered,0
+vasodilators administered,0
+digoxin administered,0
+echocardiogram apical and mid-segment akinesia,0
+hypokinesis in basal segments,0
+elevated cardiac troponin,0
+slight leucocytosis,0
+increased inflammatory markers,0
+thoracic radiography vascular redistribution,0
+cardiomegaly,0
+pulmonary edema,0
+coronary angiography no stenotic or spasmodic changes,0
+stent stenosis 30%,0
+ventriculography apical dyskinesia,0
+Takotsubian apical ballooning,0
+preserved LVEF,0
+transdermal nitrates,0
+digoxin,0
+decreased myocardial damage markers,0
+electrocardiographic stability,0
+normofrequent atrial fibrillation,0
+hyperthyroidism TSH 0.014 µU/mL,120
+hyperthyroidism FT4 4.48 ng/dL,120
+no personal or family thyroid disease,120
+no goiter,120
+no exophthalmos,120
+no pretibial myxedema,120
+TSI <0.9 mUI/mL,120
+anti-thyroperoxidase 6.16 UI/mL,120
+anti-thyroglobulin 14.88 UI/mL,120
+exogenous iodine sources discarded,120
+amiodarone use for past two months,-1440
+type I amiodarone-induced hyperthyroidism suspected,120
+amiodarone suspended,120
+methimazole 10 mg every 8 hours,120
+TSH <0.014 µU/mL,120
+FT4 7.55 ng/dL,120
+FT3 4.04 pg/mL,120
+type II amiodarone-induced hyperthyroidism suspected,120
+prednisone 45 mg daily,120
+TSH <0.014 µU/mL,168
+FT4 3.9 ng/dL,168
+FT3 1.65 pg/mL,168
+asymptomatic,168
+methimazole stopped,168
+ischemic colitis,168
+bowel perforation,168
+right hemicolectomy,168
+descendant doses of corticoids,168
+thyroid function normalized,1008
+discharged,1008
+normal thyroid function,1008
+complete resolution of TC,1008
+cardiovascular symptoms back to baseline,1008
+ischemic colitis recurrence,10080
+bowel perforation recurrence,10080
+generalized sepsis,10080
+fatal outcome,10080
+thyroid function normal,10080

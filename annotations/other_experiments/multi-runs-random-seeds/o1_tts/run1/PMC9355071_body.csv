@@ -1,0 +1,51 @@
+event,time
+malaise,-72
+fever,-72
+loss of appetite,-72
+46-year-old man,0
+weighing 63 kg,0
+ulcerative colitis,0
+family history of sudden death (maternal uncle),0
+admitted to the hospital,0
+arrival at the emergency department,0
+blood pressure 124/46 mmHg,0
+heart rate 122 beats per min,0
+SpO2 98% in room air,0
+respiratory rate 16/min,0
+body temperature 40.2°C,0
+alert,0
+chills,0
+nausea,0
+cardiac arrest,0
+chest compression,0
+tracheal intubation,0
+ventricular fibrillation (VF),0
+defibrillation,0
+adrenaline,0
+coved-type ST elevation in V1 and V2,0
+Brugada syndrome,0
+hypercalcemia (14.8 mg/dL),0
+fever subsided with acetaminophen,1
+improvement of coved pattern,1
+admission to intensive care unit,1
+hypotension,2
+suspected septic shock,2
+tazobactam-piperacillin,2
+vasopressors,2
+extubation,48
+fever reoccurred,120
+contrast-enhanced CT scan,120
+liver abscess,120
+changed antibiotics to meropenem,120
+changed antibiotics to vancomycin,120
+puncture drainage,120
+positive pilsicainide test,720
+implantation of an implantable cardioverter defibrillator (ICD),720
+discharged,744
+endocrinologist examined the causes of hypercalcemia,800
+abnormal uptake in anterior mediastinum,800
+tumor resection,1440
+ectopic parathyroid adenoma,1440
+nonfunctional pituitary adenoma,1440
+nonfunctional adrenal tumor,1440
+multiple endocrine neoplasia type 1,1440

@@ -1,0 +1,127 @@
+event,time
+40-year-old,0
+female,0
+admitted to Intensive Care Unit,0
+adult respiratory distress syndrome,0
+septic shock,0
+Legionella pneumophila pneumonia,0
+respiratory failure,0
+failed extubation,0
+ventilatory support,0
+acute on chronic renal failure,0
+CRRT,0
+worsening graft dysfunction,0
+cyclosporine,0
+propofol,0
+opioids,0
+right radial artery thrombus,0
+heparin infusion,0
+CRRT filter clotting,312
+aPTT stable between 48-64 s,312
+propofol infusion,312
+TG level 3745 mg/dl,312
+filter and circuits changed,312
+propofol discontinued,312
+line and filter color change,312
+repeat TG level 3865 mg/dl,312
+rising serum potassium 5.8 mmol/L,312
+serum bicarbonate 20 mmol/L,312
+pH 7.2,312
+intravenous insulin 0.1 units/kg/h,312
+heparin 500 units/h,312
+planned for therapeutic plasma exchange,312
+TPE initiated,318
+CRRT resumed,318
+acid-base balance normalized,318
+electrolytes normalized,318
+elevated TG levels up to 708 mg/dl,360
+serum lipase levels peaking at 240 mg/dl,360
+abdominal pain,360
+pancreatitis concern,360
+TPE session on day 16,384
+TG decreased from 708 to 186 mg/dl,384
+TPE session on day 21,504
+TG decreased from 499 to 212 mg/dl,504
+cyclosporine continued,504
+escalating cyclosporine doses,504
+recurrent hypertriglyceridemia,504
+persistent hypertriglyceridemia,504
+oral fibrate,504
+fish oil,504
+combined liver-kidney transplant,1344
+propofol for sedation intraoperatively,1344
+cyclosporine postoperatively,1344
+TG level 154 mg/dl,1344
+TG levels remained well-controlled,1344
+"The assistant included ""right radial artery thrombus","0"", which seems reasonable."
+40-year-old,0
+female,0
+liver transplantation,-6480
+cirrhosis secondary to nonalcoholic steatohepatitis,-6480
+hypertrophic cardiomyopathy,-6480
+myomectomy,-25920
+hypothyroidism,0
+Type II diabetes mellitus,0
+chronic kidney disease,0
+tacrolimus,-6480
+mycophenolic acid,-6480
+prednisone,-6480
+posterior reversible encephalopathy syndrome,-2880
+everolimus-based therapy,-2880
+liver biopsy,-720
+severe acute cellular rejection,-720
+high-dose steroids,-720
+thymoglobulin,-720
+cyclosporine,-720
+admitted to Intensive Care Unit,0
+adult respiratory distress syndrome,0
+septic shock,0
+Legionella pneumophila pneumonia,0
+respiratory failure,0
+failed extubation,0
+ventilatory support,0
+acute on chronic renal failure,0
+CRRT,0
+worsening graft dysfunction,0
+propofol,0
+opioids,0
+right radial artery thrombus,0
+heparin infusion,0
+CRRT filter clotting,312
+aPTT stable between 48-64 s,312
+propofol infusion,312
+TG level 3745 mg/dl,312
+filter and circuits changed,312
+propofol discontinued,312
+line and filter color change,312
+repeat TG level 3865 mg/dl,312
+rising serum potassium 5.8 mmol/L,312
+serum bicarbonate 20 mmol/L,312
+pH 7.2,312
+intravenous insulin 0.1 units/kg/h,312
+heparin 500 units/h,312
+planned for therapeutic plasma exchange,312
+TPE initiated,318
+CRRT resumed,318
+acid-base balance normalized,318
+electrolytes normalized,318
+elevated TG levels up to 708 mg/dl,360
+serum lipase levels peaking at 240 mg/dl,360
+abdominal pain,360
+pancreatitis concern,360
+TPE session on day 16,384
+TG decreased from 708 to 186 mg/dl,384
+TPE session on day 21,504
+TG decreased from 499 to 212 mg/dl,504
+cyclosporine continued,504
+escalating cyclosporine doses,504
+recurrent hypertriglyceridemia,504
+persistent hypertriglyceridemia,504
+oral fibrate,504
+fish oil,504
+combined liver-kidney transplant,1656
+propofol for sedation intraoperatively,1656
+cyclosporine postoperatively,1656
+TG level 154 mg/dl,1656
+TG levels remained well-controlled,1656
+baseline TG level 156 mg/dl,-4320

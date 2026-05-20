@@ -1,0 +1,84 @@
+event,time
+2-year-old girl,0
+chromosomal abnormality (1p36 deletion syndrome),0
+developmental delay,0
+intellectual disability,0
+seizures,0
+vision problems,0
+hearing problems,0
+distinctive facial features,0
+brain anomalies,0
+orofacial clefting,0
+congenital heart disease,0
+cardiomyopathy,0
+renal anomalies,0
+admitted to clinic for gastroesophageal reflux evaluation,0
+pulmonary arterial banding at 4 weeks old,-19656
+ventricular septal defect,0
+Ebstein anomaly,0
+lip alveolus cleft,0
+palate cleft,0
+laryngomalacia,0
+hypothyroidism,0
+psychomotor retardation,0
+gastroesophageal reflux,0
+home oxygen therapy,0
+tube feeding,0
+upper-gastrointestinal series on day 2,48
+fever,48
+diarrhea,48
+high-flow nasal cannula for respiratory distress,48
+respiratory distress stabilized,0
+circulation stabilized,0
+diarrhea resolved,0
+fever persisted,0
+high fever (>39°C) days 16-22,384
+tachycardia (140–180 bpm) days 16-22,384
+mild lactate elevation (2–4 mmol/L) days 16-22,384
+mild SpO2 decrease (high 70% range) days 16-22,384
+blood urea nitrogen elevated (39–54 mg/dL) days 16-22,384
+mild dehydration,384
+general condition preserved,384
+peripheral circulation preserved,384
+no antibiotics administered,384
+CRP elevation (peak 2.0 mg/dL day 2),48
+CRP decreased to 0.3 mg/dL day 24,552
+negative cultures,0
+abrupt higher fever (40–41°C) day 23,528
+respiratory distress day 23,528
+abdominal distention day 23,528
+hypotensive shock (unmeasurable BP) day 23,528
+thrombocytopenia,528
+renal dysfunction,528
+liver dysfunction,528
+coagulation disorder,528
+mixed acidosis,528
+multiple-organ failure (MOF),528
+disseminated intravascular coagulation (DIC),528
+mechanical ventilation initiated,528
+inotropes initiated,528
+antibiotics initiated,528
+nasogastric tube decompression,528
+Nélaton’s catheter decompression,528
+abdominal distention with intestinal gas accumulation,528
+extreme abdominal stiffening,528
+skin reddening lower extremities,528
+skin reddening lower abdomen,528
+no urine output after shock,528
+urine output 1.7 mL/kg/h 8h pre-shock,528
+urine output >3.0 mL/kg/h previous 3 days,384
+open decompressive laparotomy considered,528
+laparotomy not performed due to DIC,528
+died 14h after acute deterioration,542
+autopsy performed 23.5h post-mortem,566
+severe abdominal distention at autopsy,566
+skin reddening lower abdomen,566
+skin reddening lower extremities,566
+minimal ascites,566
+intestinal gas dilation,566
+no organic intestinal obstruction,566
+localized colonic hemorrhage,566
+intestinal congestion,566
+no intestinal edema,566
+no intestinal inflammation,566
+pneumonia with alveolar neutrophil infiltration,566

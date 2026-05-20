@@ -1,0 +1,55 @@
+event,time
+51 years old,0
+male,0
+tobacco abuse,0
+nickel allergy,0
+sciatica right leg,-2160
+cortisone injections,-2160
+oral non-steroidal anti-inflammatory drugs,-2160
+transferred to hospital,0
+emphysema right thigh,0
+emphysema right hypogastric region,0
+skin warm,0
+local tenderness right thigh,0
+local tenderness back,0
+septic shock,0
+blood pressure 100/50 mmHg,0
+mean arterial pressure 68 mmHg,0
+heart rate 110 bpm,0
+body temperature 39.0°C,0
+fluid resuscitation 2500ml Ringer's lactate,-3
+CT abdomen lower limbs,0
+gas formation right thigh,0
+gas formation retroperitoneum,0
+emergency surgery,0
+right hemipelvectomy,0
+double-transverse transversostoma,0
+debridement,0
+muscle necrosis,0
+phlegmonous inflammation,0
+empirical antibiotic therapy,0
+Meropenem,0
+Linezolid,0
+Penicillin G,0
+Clindamycin,0
+postoperative CT,24
+foreign body upper rectum,24
+rectoscopy,24
+toothpick sigmoid colon,24
+no clinical improvement,48
+control CT abdomen,48
+peritonitis,48
+free intraabdominal air,48
+laparotomy,48
+sigmoid colon perforation,48
+sigmoid colon resection,48
+Hartmann's procedure,48
+wound revisions right pelvis,72
+rotation flap surgery,168
+ESBL-Escherichia coli,0
+antibiotic de-escalation Meropenem,120
+Levofloxacin,240
+discontinued Levofloxacin,360
+ICU stay,0
+mobilized forearm crutches,432
+transferred to rehabilitation,1176

@@ -1,0 +1,125 @@
+event,time
+61 years old,0
+male,0
+hypertension,0
+obesity,0
+BMI 33 kg/m2,0
+hyperlipidemia,0
+presenting to emergency department,0
+2-week history of progressive shortness of breath,-336
+cough,-336
+generalized fatigue,-336
+muscle aches,-336
+denies chest pain,0
+denies arm pain,0
+denies jaw pain,0
+denies pressure,0
+negative diabetes mellitus,0
+negative cardiovascular disease,0
+negative chronic lung disease,0
+negative chronic liver disease,0
+negative chronic kidney disease,0
+denies current tobacco use,0
+denies previous tobacco use,0
+distressed,0
+tachypnea,0
+respiratory rate above 50 breaths per minute,0
+hypoxia,0
+oxygen saturation 85%,0
+15 L oxygen via simple mask,0
+hypotension,0
+blood pressure 68/42 mmHg,0
+tachycardia,0
+heart rate above 140 beats per minute,0
+alert,0
+diaphoretic,0
+respiratory distress,0
+weak peripheral pulses,0
+cool extremities,0
+SARS-CoV-2 suspected,0
+negative pressure isolation room,0
+sedation,0
+intubation,0
+circulatory support with norepinephrine,0
+vasopressin,0
+dobutamine,0
+sepsis workup,0
+septic shock,0
+positive SARS-CoV-2,0
+negative other viral respiratory pathogens,0
+negative bacterial respiratory pathogens,0
+elevated D-dimer 32563 ng/mL,0
+elevated troponin I 7.457 ng/mL,0
+WBC 15.7 ×10³/µL,0
+platelet 151 ×10³/µL,0
+hemoglobin 13.6 g/dL,0
+creatinine 1.16 mg/dL,0
+INR 1.5,0
+CRP 306.8 mg/L,0
+LDH 707 U/L,0
+IL-6 23 pg/mL,0
+ferritin 2831.22 ng/mL,0
+CK 86 U/L,0
+new diffuse bilateral airspace opacities,0
+pulmonary infection,0
+chest X-ray,0
+pulmonary embolism suspected,0
+heparin infusion,0
+bedside transthoracic echocardiography,0
+normal right ventricle size,0
+normal right ventricle systolic pressure,0
+mildly elevated pulmonary arterial pressure 31 mmHg,0
+moderate global hypokinesis,0
+reduced LV systolic function,0
+LVEF 30-35%,0
+previous echocardiogram 4 months prior,-2928
+previous LVEF 62%,-2928
+ECG anterolateral ST elevation,0
+"leads I, II, V2-V6",0
+new ischemic changes,0
+ST elevation myocardial infarction (STEMI),0
+acute coronary syndrome suspected,0
+dual antiplatelet therapy (aspirin and ticagrelor),0
+inotropic support,0
+coronary angiography deferred,0
+suspected myocarditis,0
+thrombolytics not advised,0
+new ST elevation in aVF,24
+worsening ST elevation in II,24
+"worsening ST elevation in anterolateral leads (I, V3-V6)",24
+diffuse ST elevation,24
+ventricular tachycardia episodes,48
+emergent left heart catheterization,72
+coronary angiography,72
+patent coronary arteries,72
+no epicardial stenosis,72
+no thrombosis,72
+no delayed coronary filling,72
+left ventriculography,72
+diffuse hypokinesis,72
+LVEF 40-45%,72
+LVEDP 22 mmHg,72
+excluded STEMI,72
+excluded Takotsubo cardiomyopathy,72
+fulminant myocarditis diagnosis,72
+steroid therapy,72
+cardiac arrest,96
+failed CPR,96
+expired,96
+autopsy patent coronaries,96
+no atherosclerotic changes,96
+no acute myocardial infarct,96
+scattered focal ischemic changes,96
+hyper-eosinophilic myocytes,96
+nuclear degeneration,96
+no neutrophil infiltrates,96
+no myocarditis,96
+no pericarditis,96
+interstitial edema,96
+increased macrophages,96
+left atrial thrombus 1.5 cm,96
+thromboembolism left pulmonary artery,96
+pulmonary vascular microthrombi,96
+pulmonary consolidation,96
+hemorrhage,96
+hyaline membrane formation,96

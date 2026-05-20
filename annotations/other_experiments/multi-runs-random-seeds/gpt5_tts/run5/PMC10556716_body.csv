@@ -1,0 +1,149 @@
+event,time
+85 years old ,0
+man ,0
+farmer ,0
+active lifestyle ,0
+atrial fibrillation ,0
+benign prostatic hypertrophy ,0
+injuring his leg while working on his farm ,-1440
+trismus ,-1440
+hypertonia ,-1440
+admitted to a local hospital ,-1440
+clinical findings and medical history strongly suggestive of C. tetani infection ,-1440
+immunoglobulins ,-1440
+tetanus vaccination ,-1440
+metronidazole ,-1440
+transferred to our intensive care unit ,-1430
+tracheostomy ,-1400
+mechanical ventilation ,-1400
+vasoactive support ,-1400
+respiratory failure ,-1400
+seizures ,-1400
+baclofen ,-1400
+midazolam ,-1400
+diazepam ,-1400
+Electroencephalography revealed severely slow cerebral activity ,-1400
+worsening respiratory function ,-1368
+opacity on chest radiography ,-1368
+peripheral leukocytosis ,-1368
+blood cultures sent ,-1368
+tracheal secretion samples sent ,-1368
+tracheal secretions positive for Klebsiella pneumoniae ,-1368
+tracheal secretions positive for methicillin-sensitive Staphylococcus aureus ,-1368
+piperacillin-tazobactam ,-1368
+moved to a geriatric unit in a coma ,-600
+coma ,-600
+breathed spontaneously on 4 L/min of supplemental oxygen via a tracheal cannula ,-600
+antibiotic therapy was switched to linezolid ,-528
+ventilator-associated pneumonia exacerbation ,-528
+septic shock occurred ,-524
+meropenem ,-524
+gradually awoke ,-192
+feeding tube removed ,-168
+cholestasis ,-160
+acute edematous pancreatitis ,-160
+endoscopic treatment postponed due to spontaneous recovery ,-160
+urinary tract infection caused by multidrug-resistant organisms ,-120
+Klebsiella pneumoniae (MDRO) in urine ,-120
+Acinetobacter baumannii (MDRO) in urine ,-120
+Enterococcus faecalis (MDRO) in urine ,-120
+colistin ,-120
+amoxicillin-clavulanate ,-120
+clinical condition improved ,-24
+eligible for rehabilitation ,-12
+transferred to our rehabilitation unit ,0
+underwent intensive treatment for the sequelae of C. tetani infection ,0
+sequelae of C. tetani infection ,0
+placed in MDRO isolation ,0
+tracheal supplemental oxygen 1 L/min ,0
+bladder catheter ,0
+sarcopenic ,0
+low handgrip strength (9.9 kg) ,0
+appendicular skeletal mass (16.9 kg) ,0
+performs isometric pelvic contraction ,0
+weak hip raising in supine position ,0
+sits for a few minutes supported by upper limbs ,0
+no alterations in tactile sensitivity ,0
+no alterations in thermic sensitivity ,0
+no alterations in pain sensitivity ,0
+upper limbs active range of motion preserved and pain-free beyond the middle degrees ,0
+upper limbs global muscle strength MRC 3/5 ,0
+lower limbs passive range of motion preserved until final degrees ,0
+pain on mobilization of left hip ,0
+pain on mobilization of left knee ,0
+global muscle strength MRC 2/5 on activating muscles of hip and knee ,0
+global muscle strength MRC 3/5 on activating muscles of tibiotarsus ,0
+not oriented in space ,0
+not oriented in time ,0
+not oriented in self ,0
+impairment in executive functions ,0
+impairment in problem solving ,0
+impairment in working memory ,0
+impairment in episodic memory ,0
+ideomotor apraxia ,0
+buccofacial apraxia ,0
+successfully executes simple orders ,0
+fails to comprehend extended sentences due to early decline in working memory ,0
+poor oral motor excursions ,0
+poor verbal communication ,0
+hypophonia (due to O2-therapy) ,0
+able to consume pureed foods ,0
+inhales water ,0
+raclage allows the patient to expectorate ,0
+requires maximum assistance with dressing ,0
+requires maximum assistance with personal hygiene ,0
+requires modest help for posture changes ,0
+requires bilateral support for bed-to-wheelchair transfers ,0
+nutritional supplementation prescribed ,0
+short physiotherapy sessions ,0
+underwent rehabilitation ,0
+good compliance ,0
+Clostridioides difficile infection ,12
+oral vancomycin ,12
+pressure ulcer right heel unstageable ,24
+pressure ulcer left heel stage II ,24
+pressure ulcer sacrum stage II ,24
+pressure ulcer right elbow stage III ,24
+AF with a third-degree atrioventricular block ,72
+heart rate 30 beats/min ,72
+without secondary bradyarrhythmia ,72
+transferred to cardiac ICU ,72
+single-chamber pacemaker implantation ,72
+hyperkinetic delirium ,84
+transferred to our hospital ,120
+Pseudomonas aeruginosa bloodstream infection ,120
+ceftazidime-avibactam ,120
+amikacin ,120
+tested positive for SARS-CoV-2 ,144
+remdesivir ,144
+droplet isolation ,144
+second recurrence of Clostridioides difficile ,168
+transferred to a geriatric medicine unit ,168
+fidaxomicin ,168
+bloodstream infection due to Candida parapsilosis (fluconazole-resistant) ,456
+bloodstream infection due to methicillin-sensitive Staphylococcus aureus ,456
+bloodstream infection due to Candida tropicalis ,456
+originating from the intravenous catheter ,456
+infected catheter replaced ,456
+caspofungin ,456
+cefazolin ,456
+bloodstream infection caused by Pseudomonas aeruginosa ,696
+piperacillin-tazobactam ,696
+aztreonam ,708
+ceftazidime-avibactam ,708
+cefepime ,804
+tracheostomy closure ,1100
+discharged ,1200
+able to perform postural transition with assistance ,1200
+posture transition training prescribed ,1200
+aided transfers prescribed ,1200
+axial stability exercises prescribed ,1200
+balance improvement exercises prescribed ,1200
+breath-movement coordination exercises recommended ,1200
+thoracic expansion and girdle opening exercises recommended ,1200
+inhalation-exhalation exercises recommended ,1200
+wheelchairs recommended ,1200
+walkers recommended ,1200
+Rehabilitation follow-up recommended ,1200
+ENT follow-up recommended ,1200
+geriatric follow-up recommended ,1200

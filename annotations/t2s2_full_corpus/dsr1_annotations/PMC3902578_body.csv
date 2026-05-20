@@ -1,0 +1,110 @@
+event,time
+26 years old,0
+male,0
+admitted to the emergency department,0
+weakness of all four limbs,-24
+rapidly progressive weakness,-24
+pharmacist,0
+multi-substance abuse,-87600
+tramadol abuse,-87600
+diclofenac abuse,-87600
+pheniramine abuse,-87600
+dexamethasone abuse,-87600
+heparin abuse,-87600
+bronchial asthma,-87600
+steroids use,-87600
+conscious,0
+oriented,0
+hemodynamically stable,0
+heart rate 112 beats/min,0
+non-invasive blood pressure 130/80 mmHg,0
+respiratory rate 24/min,0
+temperature 99°F,0
+no pallor,0
+no clubbing,0
+no lymphadenopathy,0
+oral thrush,0
+normal chest examination,0
+normal cardiovascular system examination,0
+normal per abdomen examination,0
+power 3/5 upper limbs,0
+power 1/5 lower limbs,0
+generalized areflexia,0
+bilateral flexor planters,0
+normal sensory examination,0
+ABG pH 7.437,0
+hyperkalemia K+ 6.01,0
+tachypnoeic,1
+respiratory rate 36-40/min,1
+non-invasive ventilation,1
+heart rate 130 beats/min,1
+feeble pulses,1
+blood pressure 100/56 mmHg,1
+central venous cannulation,1
+arterial line,1
+central venous pressure 6 cm H2O,1
+MAP 55 mmHg,1
+fluid bolus 1L normal saline,1
+MAP 64 mmHg,1
+500 mL normal saline,2
+normal saline infusion 100 mL/h,2
+MAP >65 mmHg targeted,2
+urine output >0.5 mL/kg,2
+chest X-ray consolidation right middle and lower zones,2
+echocardiography global hypokinesia,2
+severe left ventricular dysfunction,2
+ejection fraction 30%,2
+repeat ABG pH 7.257,6
+metabolic acidosis,6
+lactic acidosis,6
+hyperkalemia K+ 7.0,6
+S. K+ 6.7 mEq/L,6
+calcium gluconate,6
+dextrose-insulin,6
+salbutamol nebulization,6
+SLED 8h,6
+pulseless ventricular tachycardia,6.3
+defibrillation,6.3
+CPR,6.3
+serum K+ 9.1 mEq/L,6.3
+revived,6.7
+intubated,6.7
+invasive ventilatory support,6.7
+inotropes,6.7
+vasopressors,6.7
+persistent hyperkalemia K+ 7.1,14
+extended SLED 4h,14
+hyperkalemia K+ 7.2,18
+SLED total 20h,18
+post dialysis K+ 7.6 mEq/L,24
+blisters over the body,24
+coagulopathy,24
+thrombocytopenia,24
+PT/INR increased,24
+"platelets 33,000/mm3",24
+sepsis,24
+ceftriaxone,0
+meropenem,24
+teicoplanin,24
+ampicillin,24
+metabolic acidosis,24
+lactic acidosis,24
+hyperkalemia,24
+SLED again,24
+dialyzed 32h,24
+refractory hyperkalemia,24
+heparin abuse,24
+fludrocortisone 100 μg/day,48
+activated clotting time monitored,48
+protamine sulphate,48
+upper gastrointestinal bleed,72
+asystole,72
+CPR,72
+declared dead,72
+blood cultures MRSA,72
+negative urine myoglobin,24
+"high CPK 19,000 units/L",24
+injection marks gluteal and deltoid,0
+no renal shutdown,24
+no rhabdomyolysis diagnosis,24
+persistent high anion gap acidosis,24

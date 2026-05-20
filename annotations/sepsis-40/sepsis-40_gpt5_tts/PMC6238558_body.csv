@@ -1,0 +1,77 @@
+event,time
+70-year-old,0
+male,0
+farmer by profession,0
+presented to the emergency department,0
+history of high-grade fever,-120
+history of generalized body ache,-120
+history of headache,-120
+history of altered sensorium,-24
+joint pains,0
+epigastric pain,0
+no other comorbidities,0
+no history of drug addiction,0
+no history of intoxication,0
+inguinal lymphadenopathy,0
+mild generalized rash,0
+no eschar,0
+hemodynamically stable,0
+disoriented,0
+no focal neurological deficit,0
+no neck rigidity,0
+acute febrile illness with undifferentiated fever (provisional diagnosis),0
+"complete blood count showed leukocytosis (15,800/cc)",0
+mild hyperbilirubinemia,6
+transaminitis,6
+slightly raised international normalized ratio (1.56),6
+malaria negative,6
+dengue negative,6
+typhoid negative,6
+leptospira negative,6
+scrub typhus antigen card positive,6
+blood and other body fluid cultures sterile,12
+scrub immunoglobulin M positive,12
+scrub typhus,12
+hepatitis B antigen negative,12
+hepatitis C antibody negative,12
+ultrasound abdomen showed mild fatty infiltration of the liver,12
+other investigations normal,12
+treated with tablet doxycycline 100 mg twice daily,12
+defervescence,60
+orientation improved,60
+weakness of both lower limbs (Grade 2/5),156
+progressed to the upper limbs (Grade 2/5),156
+deep tendon reflexes absent,156
+plantar responses flexor,156
+bladder incontinence,156
+no bowel incontinence,156
+breathing difficulty,162
+signs of respiratory distress,162
+single breath count 10,162
+respiratory acidosis,162
+shifted to the Intensive Care Unit,162
+intubated,164
+put on mechanical ventilation,164
+magnetic resonance imaging of the brain without any abnormality,170
+magnetic resonance imaging of the cervical spine revealed no abnormality,172
+nerve conduction velocity showed motor sensory demyelinating polyneuropathy,174
+Guillain–Barre syndrome,174
+cerebrospinal fluid analysis did not reveal albuminocytologic dissociation,176
+CSF protein 146 mg/dL,176
+CSF cell count 70 with lymphocytic predominance,176
+CSF sugar 71 mg/dL with corresponding blood sugar 145 mg/dL,176
+intravenous immunoglobulin therapy 0.4 mg/kg/day for 5 days started,178
+tablet rifampicin 600 mg twice daily added,178
+treated for meningoencephalitis,178
+improvement in weakness of all four limbs,300
+improvement in respiratory parameters,300
+serial liver function tests within normal range,300
+gradually weaned off ventilator,396
+extubated from the ventilator,404
+oral feeding started,404
+aggressive limb and chest physiotherapy continued,404
+shifted out from ICU,420
+discharged from the hospital,672
+full neurological recovery,672
+followed up regularly in the outpatient department,840
+no functional disability,840

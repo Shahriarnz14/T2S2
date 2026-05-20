@@ -1,0 +1,77 @@
+event,time
+48-year-old man,0
+presented to the Emergency Room,0
+headache,0
+diagnosed with subarachnoid hemorrhage,0
+past medical history of untreated hypertension,0
+no smoking history,0
+no family history of thrombotic disease,0
+admitted to the hospital,0
+surgical titanium clipping for left intracranial aneurysms,0
+surgery completed without complications,0
+transferred to general ward,72
+receiving rehabilitation (walking and brain training),72
+high grade fever,120
+chills,120
+nausea,120
+ceftriaxone initiated,120
+vancomycin initiated,120
+hypotensive,144
+tachycardia,144
+temperature 37.4°C,144
+blood pressure 62/52 mmHg,144
+heart rate 110/min,144
+respiratory rate 26 breaths/min,144
+oxygen saturation 68%,144
+cold limbs,144
+cyanosis,144
+tachypnea,144
+"leukocytosis (WBC 20,900/μL)",144
+elevated AST (103 U/L),144
+elevated ALT (106 U/L),144
+elevated serum creatinine (3.71 mg/dL),144
+C-reactive protein 29.33 mg/dL,144
+normal protein C level,144
+pyuria,144
+bacteriuria,144
+contrast-enhanced CT showing acute focal bacterial nephritis,144
+diagnosed with septic shock due to nephritis,144
+intravenous fluid resuscitation,144
+meropenem started,144
+vancomycin continued,144
+metronidazole started,144
+norepinephrine started,144
+vasopressin started,144
+methylprednisolone 200 mg/day,144
+anticoagulant therapy (recombinant thrombomodulin),144
+continuous hemodiafiltration started,144
+Enterobacter aerogenes in blood cultures,168
+antimicrobial sensitivity to meropenem,168
+antimicrobial sensitivity to piperacillin/tazobactam,168
+persistent high-grade fever,168
+persistent DIC,168
+platelet transfusion,168
+extensive purpura,216
+diagnosed as purpura fulminans,216
+skin biopsy showing necrosis,216
+skin biopsy showing bullae,216
+skin biopsy showing thrombosis,216
+planned limb amputation,216
+temporary improvement in hypotension,456
+temporary improvement in platelet levels,456
+persistent high-grade fever,456
+persistent chills,456
+central venous catheter changed,456
+arterial line changed,456
+vascular access changed,456
+persistent Enterobacter aerogenes bacteremia,456
+transfusion-dependent anemia,456
+transfusion-dependent low platelet levels,456
+received 100 units of platelets,456
+received 10 units of red blood cells,456
+condition progressively worsened,456
+died,456
+autopsy findings of multiple abscesses,456
+autopsy findings of thrombosis in lung,456
+autopsy findings of thrombosis in intestinal tract,456
+autopsy findings of thrombosis in kidney,456

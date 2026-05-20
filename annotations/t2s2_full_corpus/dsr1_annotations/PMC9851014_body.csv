@@ -1,0 +1,50 @@
+event,time
+40-year-old,0
+male,0
+admitted to the hospital,0
+sudden chest pain,-5
+sudden back pain,-5
+tearing-like pain,-5
+computed tomography angiography (CTA) of thoracic and abdominal aorta,-5
+acute type A aortic dissection,-5
+hypertension,-20
+heavy smoking,-20
+persistent tearing pain in chest,0
+persistent tearing pain in back,0
+creatinine elevated to 237.6 mmol/L,0
+aortic false lumen formation,0
+acute aortic dissection (Standford type A),0
+acute kidney injury (AKI) grade II,0
+coagulation dysfunction,0
+acute myocardial injury,0
+hypoproteinemia,0
+high-risk stage 3 hypertension,0
+ascending aortic and total aortic arch replacement,0
+stented elephant trunk implantation,0
+general anesthesia,0
+cardiopulmonary bypass,0
+transferred to ICU,0
+red blood cell transfusion (4 U),0
+plasma transfusion (850 mL),0
+cryoprecipitate transfusion (20 U),0
+platelet transfusion (2 U),0
+lung protective ventilation,0
+fluid management,0
+continuous renal replacement therapy,0
+airway secretion clearance,0
+severe ARDS,0
+oxygenation index (OI) drop to 51,0
+prone positioning (PP),0
+ECMO ruled out,0
+mediastinal pericardium drainage,0
+chest cavity drainage,0
+bedside chest radiography,0
+prone position ventilation treatment,0
+drain patency assessment hourly,0
+circulatory changes monitoring,0
+blood gas analysis,0
+diffuse exudation in both lungs,0
+intermittent short-term PP,0
+improved oxygenation index (OI),0
+reduced diffuse exudation in both lungs,0
+discharged from ICU,0

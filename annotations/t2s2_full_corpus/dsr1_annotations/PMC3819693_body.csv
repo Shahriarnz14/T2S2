@@ -1,0 +1,69 @@
+event,time
+6-year-old,0
+male,0
+admitted to pediatric emergency department,0
+sudden onset abdominal pain,-1
+diffuse abdominal pain,-1
+vomited clear fluid twice,-1
+dehydrated tongue,0
+diffuse abdominal tenderness,0
+elevated white blood cell count,0
+plain abdominal radiograph,0
+nonspecific small bowel gas,0
+mild ileus,0
+abdominal ultrasound,0
+diffuse small bowel wall thickening,0
+ascites,0
+contrast-enhanced abdominal CT refused,0
+discharged against medical advice,0
+rushed to pediatric emergency department again,15
+altered mentality,15
+no response to painful stimuli,15
+pupils dilated to 5mm,15
+severe abdominal distension,15
+uncheckable blood pressure,15
+weakly palpable femoral pulse,15
+percutaneous oxygen saturation 77%,15
+blood sugar level 22 mg/dL,15
+pretibial intraosseous cannulation,15
+shock state,15
+arterial blood gas pH 7.15,15
+bicarbonate 7.7 mM,15
+hemoglobin 10.1 g/dL,15
+hematocrit 27.7%,15
+hemoglobin 4.7 g/dL,16
+hematocrit 13%,16
+disseminated intravascular coagulopathy,16
+antithrombin III 38.9%,16
+D-dimer 9.18 mg/L,16
+prothrombin time 1.61 INR,16
+activated partial thromboplastin time 43.9 seconds,16
+lactic acid 10.9 mmol/L,16
+central venous catheter placement,15
+massive fluid administration,15
+transfusions,15
+inotropics administration,15
+contrast-enhanced abdominal CT scan,15
+large amount of ascites,15
+bowel wall thickening,15
+poor or absent enhancement of strangulated bowel,15
+serrated beak sign,15
+whirl sign,15
+closed loop obstruction,15
+surgical exploration,15
+small bowel herniated through mesenteric defect,15
+hemorrhagic small bowel,15
+edematous small bowel,15
+inflammatory change small bowel,15
+congenital internal hernia,15
+strangulated small bowel,15
+resection of gangrenous small bowel,15
+anastomosis of proximal jejunum and terminal ileum,15
+pediatric intensive care unit admission,15
+improved to general ward,96
+soft diet started,120
+hypertension,120
+renal ischemic injury,120
+short bowel syndrome,120
+normal cognitive function,120
+gradual improvement,120

@@ -1,0 +1,135 @@
+event,time
+75 years old,0
+male,0
+admitted to the Department of Infectious Diseases,0
+fever,-168
+chills,-168
+dizziness,-168
+remission after fever,-168
+no headache,-168
+no abdominal pain,-168
+no diarrhea,-168
+no sputum,-168
+no nasal congestion,-168
+no runny nose,-168
+hypertension,-672
+body temperature 39.0 °C,0
+heart rate 98 bpm,0
+respiratory rate 20 breaths per minute,0
+blood pressure 139/75 mmHg,0
+oxygen saturation in room air 98%,0
+breath sounds in both the lungs clear,0
+heart rhythm uniform,0
+neurological tests negative,0
+white blood cell count 7.1 × 109/L,0
+neutrophils 58.6%,0
+monocytes 24.4%,0
+hemoglobin 83 g/L,0
+C-reactive protein (CRP) 111.20 mg/L,0
+cell factor interleukin (IL)-6: 279.22 pg/mL,0
+cell factor IL-10 3653.30 pg/mL,0
+plasma procalcitonin 0.19 ng/mL,0
+blood amyloid A 509.5 mg/L,0
+erythrocyte sedimentation rate 71 mm/L,0
+lactate dehydrogenase 694 U/L,0
+creatine kinase 19 U/L,0
+albumin 27 g/L,0
+K+ 2.99 mmol/L,0
+Na+ 135.1 mmol/L,0
+Cl- 98.5 mmol/L,0
+calcium 1.87 mmol/L,0
+phosphorus 0.65 mmol/L,0
+"anti-nuclear antibody, titer 1:100",0
+anti-SSA-,0
+anti-SCL70 positive,0
+"TORCH test (Toxoplasma, rubella, cytomegalo, and herpes viruses) normal",0
+Plasmodium test normal,0
+fungal D-glucan test normal,0
+coronavirus disease 2019 normal,0
+hemorrhagic fever IgM antibody normal,0
+Widder test normal,0
+Weil Felix reaction normal,0
+bilateral blood culture test L. monocytogenes,0
+cerebrospinal fluid nucleated cell count 420 × 106/L,0
+cerebrospinal fluid lymphocyte 75%,0
+cerebrospinal fluid lactate dehydrogenase 472 U/L,0
+cerebrospinal fluid total protein 261.3 mg/dL,0
+cerebrospinal fluid glucose 1.51 mmol/L,0
+cerebrospinal fluid chloride content (Cl-) 111.0 mmol/l,0
+cerebrospinal fluid adenosine deaminase 16 U/L,0
+cerebrospinal fluid cryptococcal smear and cryptococcal capsular antigen test negative,0
+cerebrospinal fluid culture negative,0
+"cerebrospinal fluid metagenomic test G+ bacteria, L. monocytogenes",0
+"cerebrospinal fluid metagenomic test G+ bacteria, Staphylococcus aureus",0
+chest computed tomography small amount of effusion in the pleural cavities on both the sides,0
+chest computed tomography nodules in the pleura and under the pleura,0
+cranial computed tomography no obvious abnormalities,0
+levofloxacin 0.5 g qd intravenously for 3 d,0
+body temperature did not drop significantly,72
+blood culture penicillin-resistant Staphylococcus capital subspecies,72
+Vancomycin injection 500000 U q6h intravenous infusion,72
+body temperature normal,120
+Vancomycin stopped,168
+discharged,168
+high fever again,192
+body temperature 39.7 °C,192
+chills,192
+cough,192
+sputum,192
+no chest pain,192
+no limb twitching,192
+pupils sluggish in the light reflection,192
+confused,192
+mentally soft,192
+communicate briefly,192
+muscle strength test could not cooperate,192
+voluntary activities,192
+diarrhea,192
+hospitalized in the emergency intensive care unit (ICU),192
+high-frequency oxygen inhalation,192
+piperacillin and tazobactam 4.5 g q8h intravenously,192
+methylprednisolone injection 40 mg,192
+repeated fever,216
+body temperature above 38.3 °C,216
+levofloxacin 0.5 g qd intravenous infusion,216
+body temperature normal,240
+consciousness clear,240
+CRP 76.4 mmol/L,240
+transferred to the general ward of the Department of Respiratory Medicine,240
+atrial fibrillation,240
+unresponsiveness,240
+slurred speech,240
+shortness of breath,240
+slow light reflexes,240
+stiff neck,240
+increased muscle tone,240
+wet rales in both lungs,240
+sepsis,240
+meningoencephalitis,240
+lung infection,240
+respiratory failure,240
+electrolyte imbalance,240
+hyponatremia,240
+hypokalemia,240
+autoimmune disease,240
+Listeria monocytic meningoencephalitis,240
+norepinephrine micropump,240
+vancomycin injection 1 million units q12h,240
+meropenem injection 1.0 g q8h,240
+methylprednisolone reduced to 20 mg,240
+methylprednisolone stopped,240
+unconscious,288
+base of the tongue fell back,288
+shortness of breath,288
+stiff neck,288
+tremor of the limbs,288
+heart rate 40 beats per minute,288
+trachea intubated,288
+breathing assisted by a ventilator,288
+condition deteriorated rapidly,288
+repeated high fever,288
+septic shock,288
+multiple organ failure,288
+consciousness decrease,288
+discontinuation of treatment,336
+death,336

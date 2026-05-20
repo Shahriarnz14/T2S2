@@ -1,0 +1,95 @@
+Learning points
+
+Numerous acquired and pharmacogenetic factors are likely to contribute to over-anticoagulation in patients in acute conditions receiving warfarin, especially in elderly coronavirus disease 2019 (COVID-19) patients.
+
+Clinicians should still consider acute pulmonary embolism in COVID-19 patients even with effective or overdosed anticoagulant therapy, especially if D-dimer level sharply increases.
+
+Introduction
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has largely been associated with a high incidence of arterial or venous thrombotic events, especially in the most severe patients.1 Indeed, the pathophysiology of this novel coronavirus disease (COVID-19) includes mild and dysregulated inflammation,2,3 vascular dysfunction, and coagulopathy.2,4,5 Together with steroids, anticoagulation therapy is one of the cornerstones in the treatment of severe forms of COVID-19.6 Moreover, COVID-19 patients on oral anticoagulant treatment for atrial fibrillation seem to be at lower risk of all-cause mortality compared to non-anticoagulated counterparts.7 However, the choice of the anticoagulant drug is still debated, especially in the most severe patients.8,9
+
+To illustrate the unusual coagulation disorders in COVID-19, we describe and discuss here the case of an elderly patient with warfarin overdose and major bleeding upon admission, further managed in intensive care unit (ICU) for a severe acute respiratory failure due to COVID-19 and developing a pulmonary embolism.
+
+Timeline
+
+Timeline	Event	
+During the 6 months prior to admission	International normalized ratio (INR) was over 2 taking warfarin for atrial fibrillation and valvular heart disease	
+Ten days before admission (Day 0)	Patient was tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), treated with spiramycin and then azithromycin	
+Clinical presentation at emergency department admission (Day 10)	Major bleeding: epistaxis
+Well tolerated hypoxaemia related to SARS-CoV-2 infection: Pulse oxygen saturation: 80% in air
+
+Systolic blood pressure: 105 mmHg; Diastolic blood pressure: 59 mmHg; Cardiac rate: 104 per minute
+
+	
+Biology at admission (Day 10)	INR > 10
+D-dimers : 400 ng/mL (<500 ng/mL)
+B-type natriuretic peptide: 81 pg/mL (<100 pg/mL)
+High-sensitivity troponin T: 10 ng/L (<34 ng/L)	
+Computed tomography (CT) scan at admission (Day 10)	Non-enhanced CT scan: ground-glass opacity, crazy paving, and air space consolidation of ∼50% of both lungs, related to coronavirus disease 2019	
+Intensive care unit stay (Days 10–26)
+Days 13, 15, and 17	Three further administrations of vitamin K were necessary to achieve a stable INR value between 2 and 3	
+Day 17	D-dimer > 12 000 ng/mL (<500 ng/mL)
+Enhanced CT scan: acute proximal bilateral pulmonary embolism	
+Day 26	Patient was discharged on low-molecular-weight heparin and on 2 L/min of oxygen	
+
+Case presentation
+
+An 89-year-old Caucasian man, body weight 82 kg, presented fever and cough for a week (Days 0–7). His usual drug treatment included warfarin, bisoprolol, ramipril, and furosemide for valvular heart disease (mitral bioprosthesis and tricuspid valvuloplasty) with atrial fibrillation and hypertension. During the 6 months prior to the COVID-19, international normalized ratio (INR) values performed monthly were all above 2. The COVID-19 diagnosis was positive (Day 0), confirmed by the reverse transcriptase-polymerase chain reaction SARS-CoV-2. He was initially managed as an outpatient by his general practitioner and was prescribed amoxicillin (Days 0–2), spiramycin (Days 2–4), and finally azithromycin (Days 4–12) (Figure 1). No INR control was performed over this period.
+
+Figure 1 Evolution of haemostasis parameters in the patient with coronavirus disease 2019. The international normalized ratio increase persisted at high levels despite iterative vitamin K administrations. Fibrinogen level was high and D-dimer also significantly increased with two peaks over 5000 ng/mL at the time of the pulmonary embolism diagnosis. Amox, amoxicillin; BID, twice a day; COVID-19, coronavirus disease 2019; ED, emergency department; ICU, intensive care unit; INR, international normalized ratio; IU, international unit; LMWH, low-molecular-weight heparin; OD, once a day; spira, spiramycin; Vit-K, vitamin K.
+
+On Day 10, the patient was admitted to the emergency department (ED) with epistaxis, classified as major bleeding (drop in haemoglobin level >2 g/dL, Hb 7.3 on Day 13). Systolic blood pressure was 105 over 59 mmHg and heart rate was of 104 beats per minute. Breathing rate was of 22 per minute, and lung auscultation revealed rare medium-coarse crackles. Heart sounds were irregular, without cardiac murmur, and no clinical signs of congestion were noted. The INR value was above 10. The patient received 10 mg of vitamin K per os and simple compression therapy stopped the bleeding. Liver injury was ruled out by slightly increased factor V levels [166 IU/dL (70–130 IU/dL)] and serum levels of alanine and aspartate aminotransferases in normal ranges [38 IU (<41 IU/L) and 36 IU/L (<40 IU/L), respectively]. Fibrinogen level was 7.6 g/L (2.0–4.0 g/L) and plasma D-dimer level was only of 400 ng/mL (<500 ng/mL) in this patient on warfarin.
+
+The patient was deeply hypoxemic at the ED, with a pulse oxygen saturation of 80%, and the respiration rate was measured at 20 per minute. Oxygen therapy using facial mask with 9 L/min was required to achieve normoxia. The non-enhanced computed tomography scan (CT scan) performed revealed severe lung damage, interesting ∼50% of both lungs, consisting of ground-glass opacity, crazy paving, and air space consolidation. The CT scan also showed an important dilatation of the colon, in this patient suffering from chronic transit disorders. Both CT scan and laboratory data were inconsistent with cardiogenic pulmonary oedema [B-type natriuretic peptide (BNP): 81 pg/mL (<100 pg/mL)], but rather consistent with severe SARS-CoV-2 related pneumonia.
+
+The patient was then transferred to the ICU. The treatment consisted of dexamethasone 6 mg per day for 10 days, cefotaxime and azithromycin (stopped on Day 12 after bacterial infection was ruled out), the patient's regular medications, and standard oxygen therapy. The patient received repeated 5 mg intravenous administrations of vitamin K because of great INR fluctuations from 2.0 to 10.0 (Figure 1). As soon as INR value was below 2.0, subcutaneous enoxaparin (100 IU/kg) twice daily was introduced on Day 16. On Day 17, after a slight improvement, the patient became more hypoxemic and D-dimer increased dramatically over 12 000 ng/mL. Another computed tomography with pulmonary angiography (CTPA) showed the persistence of the lesions previously observed, but also an acute proximal bilateral pulmonary embolism (Figure 2). NT-proBNP and high-sensitivity troponin T levels were slightly increased at 2022 ng/L (<600 ng/L) and 48.9 ng/L (<34 ng/L), respectively, in this context of severe COVID-19, and the patient did not present any haemodynamic instability or acute right ventricular failure on echocardiography or CT scan. In this context of recent severe bleeding, thrombolytic therapy was therefore not performed, and the treatment consisted in continuing the already started anticoagulation with enoxaparin at the same dose, switched to tinzaparin (175 IU/kg) once daily on Day 21 until ICU discharge (Figure 1).
+
+Figure 2 Computed tomography pulmonary angiography showing typical coronavirus disease 2019 lesions and acute bilateral proximal embolism. (A) Axial enhanced computed tomography image (lung window) showed ground-glass opacities (*) in both lungs mainly peripherally located and a small area of consolidation (§). (B) Axial contrast-enhanced computed tomography image (mediastinal window) and left (C) and right (D) parasagittal reconstructions showed multiple filling defects (arrows) in the segmental and lobar branches of the pulmonary arteries, consistent with bilateral proximal pulmonary embolism.
+
+Antithrombin activity, protein C chromogenic activity, and free protein S antigen measured on Day 18 were in the normal range; G20210A F2 or G1691A F5 variants were absent. Screening for antiphospholipid antibodies (lupus anticoagulant, anticardiolipin, and antiβ2-glycoprotein I) was negative.
+
+In order to better understand unusual prolonged over-anticoagulation in spite of warfarin withdrawn and repeated administration of vitamin K, we sought to genotype the patient for genetic variants contributing to explain hypersensitivity to warfarin: cytochrome P450 2C9 (CYP2C9*2 and *3) involved in warfarin metabolism and −1639G>A vitamin K epoxide reductase complex subunit I (VKORC1) variant, the pharmacological target of vitamin K antagonist (VKA), after the patient gave his consent. He was found heterozygote for CYP2C9*2 which confers to the patient a slow metabolizer phenotype and −1639G>A VKORC1.
+
+Finally, the patient improved slowly, he was discharged from ICU on Day 26 with nasal oxygen therapy at 2 L/min. Two days after the admission to the medical ward, the patient's clinical condition worsened again because of a non-documented bacterial pneumonia based on fever, increased biological inflammatory syndrome, and new radiological infiltrates. Pneumologists and intensivists decided not to readmit the patient to the ICU. Despite the initiation of broad-spectrum antibiotic therapy, the patient died from septic shock a week later. Cardiac biomarkers, echocardiography, or CT scan were not performed. Low-molecular-weight heparin (LMWH) therapy was continued at therapeutic dose, and D-dimer levels did not increase.
+
+Discussion
+
+Infection and concurrent medication use expose VKA-treated COVID-19 patients to the risk of high INR fluctuations. Our case highlights the severe haemostasis disorders associated with SARS-CoV-2 infection and raises some concerns about the close monitoring of INR in COVID-19 patients.
+
+The anticoagulant effect of warfarin is influenced by several acquired and pharmacogenetic factors. Antibiotics and digestive disorders may dramatically alter the intestinal flora and decrease the endogenous vitamin K production, thus decreasing the warfarin dose requirement.
+
+Additionally, drug interactions with warfarin may frequently lead to over-anticoagulation. Indeed, warfarin is metabolized by CYP2C9, CYP1A2, and CYP3A4. Many inhibitors of these CYP are identified as potentiating warfarin’s effect.10 Moreover, CYP2C9*2 and VKORC1 −1639G>A variants contribute to inter-individual variability in the response to warfarin: they are associated with a significant decrease in warfarin requirement and an increased risk of adverse haemorrhagic events.11 It is likely that the effects of CYP2C9 variant were amplified by concurrent medication use, especially azithromycin, a known inhibitor of CYP2C9, thus prolonging warfarin half-life in our patient, and making unstable warfarin reversal.10,12 Recently, other groups also reported over-anticoagulation in COVID-19 patients on VKA therapy (i.e. use of antibiotics).13
+
+Vitamin K 10 mg per os was given to our patient according to recommendations.12 Iterative vitamin K supplementation was further needed due to the INR fluctuations up to 10 during ICU stay. The occurrence of acute pulmonary embolism notwithstanding anticoagulation at therapeutic dose is unusual. Indeed, the time spent below 2.0 was short (only a few hours): an imbalance between the vitamin K-dependent protein C anticoagulant activity with a short half-life (4–6 h) and the vitamin K-dependent factor procoagulant activities with half-lives ranging from 6 to 60 h may have contributed to exacerbate the hypercoagulability state. Moreover, stasis combined with endothelial dysfunction leading to high levels of von Willebrand factor and FVIII contribute to explain high thrombotic events rates in COVID-19 patients.
+
+After VKA reversal, LMWH was prescribed at usual therapeutic dosage and was not increased after pulmonary embolism diagnosis because of the recent major bleeding and the lack of data supporting increased anticoagulant regimens use in COVID-19 patients receiving long-term anticoagulant therapy. On this last point, clinical trials are ongoing (ACTIV-4).
+
+Fibrinogen should be interpreted along with D-dimer levels for better prognostic information: its gradual decrease together with a sharp increase in D-dimer levels may raise the suspicion of an acute thrombotic event, and therefore may lead to the assessment of CTPA examination and/or the intensification of anticoagulation therapy in COVID-19 patients.14 D-dimer levels should be evaluated in prospective studies to determine a cut-off for which CTPA should be performed in COVID-19 patients, maintaining a high sensitivity and negative predictive value. In our case, CTPA was consistent with acute pulmonary embolism, probably related to SARS-CoV-2 severe infection.
+
+Conclusion
+
+First, this case illustrates the combination of acute conditions (infection and concurrent medication use) with warfarin CYP2C9*2 and −1639G>A VKORC1 variants leading to a major bleeding event and requiring repeated vitamin K administrations. Clinicians should be aware of these factors leading to potential over-anticoagulation in patients on VKA therapy, making a switch for LMWH is recommended for severe COVID-19 patients. Second, the occurrence of pulmonary embolism in a COVID-19 patient receiving anticoagulant therapy highlights the complex mechanisms supporting haemostasis disorders in COVID-19. In case of acute respiratory failure in COVID-19 patients, particularly when D-dimer levels increased significantly, pulmonary embolism should be ruled out including patients treated with VKA.
+
+Lead author biography
+
+Maxime Coutrot: after completing his Master’s degree in Cardiovascular Sciences, he is working on reno-cardiac syndrome conducted in Inserm research unit UMR-S 942. Maxime Coutrot received his Medical degree from the Faculty of Medicine of Paris Sud, and holds a diploma in Anesthesiology and Intensive Care. He is currently a hospital practitioner in the Department of Anesthesiology, Intensive Care Unit and Burn Unit at Saint-Louis University Hospital in Paris.
+
+Supplementary material
+
+Supplementary material is available at European Heart Journal - Case Reports online.
+
+Supplementary Material
+
+ytab206_Supplementary_Data Click here for additional data file.
+
+Acknowledgements
+
+The authors thank Prof. Alexandre Mebazaa and Dr François Depret for their proofreading as well as their advices for the writing of this case, and Dr Damien Bouda for providing the CT scan images.
+
+Slide sets: A fully edited slide set detailing this case and suitable for local presentation is available online as Supplementary data.
+
+Consent: The authors confirm that written consent for submission and publication of this case report including images and associated text has been obtained from the patient in line with COPE guidance.
+
+Conflict of interest: None declared.
+
+Funding: None declared.

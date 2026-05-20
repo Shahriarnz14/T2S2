@@ -1,0 +1,106 @@
+event,time
+24 years old,0
+obese,0
+male,0
+diabetes mellitus type 1,0
+hyperlipidemia,0
+nausea,0
+nonbilious vomiting,0
+hematemesis,0
+subjective fevers,0
+fatigue,0
+dry cough,0
+chills,0
+denied dyspnea,0
+denied chest pain,0
+denied diarrhea,0
+denied constipation,0
+denied recent ill contacts,0
+denied recent travel,0
+noncompliant with medications,0
+temperature 36.4°C,0
+pulse rate 122 beats/min,0
+blood pressure 141/84 mmHg,0
+respiratory rate 16 breaths/min,0
+oxygen saturation 95% on room air,0
+hypothermic 32.9°C rectally,0
+Foley probe temperature 36.8°C,0
+mild distress,0
+lethargic,0
+delayed responses,0
+alert and oriented,0
+dry mucous membranes,0
+blood glucose 507 mg/dL,0
+hemoglobin A1c 15.8%,0
+bicarbonate 2 mEq/L,0
+ketonuria 160 mg/dL,0
+creatinine 1.4 mg/dL,0
+anion gap 30.6 mEq/L,0
+blood cultures,0
+urine culture,0
+SARS-CoV-2 RT-PCR,0
+chest X-ray no cardiopulmonary disease,0
+sinus tachycardia,0
+DKA with metabolic encephalopathy,0
+sepsis,0
+admitted to Medical Intensive Care Unit,0
+3 liters of fluids,0
+vancomycin,0
+cefepime,0
+150 mEq sodium bicarbonate infusion,0
+potassium repletion 100 mL,0
+insulin intravenously 6 units/h,0
+lethargy persisted,24
+diagnosed DKA,24
+anion gap metabolic acidosis,24
+upper-respiratory infection,24
+acute kidney injury,24
+oxygen saturation 99% on room air,24
+leukocyte count 12.4,24
+negative cardiac troponins,24
+respiratory distress,48
+fever 38.3°C,48
+tachypnea,48
+SARS-CoV-2 positive,48
+intubated,48
+mechanically ventilated,48
+respiratory rate 14 breaths/min,48
+tidal volume 500 mL,48
+FiO2 80%,48
+PEEP 15 cm H2O,48
+arterial blood gas improvement,48
+chest X-ray mild perihilar patchy opacity,48
+COVID-19 pneumonia,48
+fever 40°C,72
+azithromycin,72
+hydroxychloroquine,72
+blood glucose stabilized,96
+fever persisted,96
+tachycardia 118 beats/min,96
+FiO2 titration attempt to 60% unsuccessful,96
+oxygen saturation dropped to 86%,96
+FiO2 increased to 80%,96
+arterial blood pH 7.40,96
+oxygen desaturation to 75%,168
+leukocyte count increased,168
+sputum culture collected,168
+vancomycin discontinued,168
+cefepime discontinued,168
+meropenem,168
+voriconazole,168
+sputum yeast isolates,192
+chest X-ray infiltrates worsened bilaterally,192
+intermittent fever,216
+FiO2 titration unsuccessful,216
+multiple desaturations,216
+hypercapnia pCO2 61 mmHg,216
+chest X-ray diffuse fluffy infiltrates,216
+ARDS,216
+desaturation to 50%,216
+maximum PEEP and FiO2,216
+severe hypotension 40/20 mmHg,216
+bradycardia,216
+pulseless,216
+advanced cardiovascular life support,216
+hypoxic respiratory failure,216
+death,216

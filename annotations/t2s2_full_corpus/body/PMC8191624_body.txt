@@ -1,0 +1,95 @@
+Background
+
+For many patients with bipolar disorders or other mood disorders, lithium remains the mainstay of treatment.1 Patients taking lithium can eventually seek medical services for non-psychiatric reasons and can be prescribed other drugs by physicians who are unaware of lithium’s narrow therapeutic range. Lithium has been used for a long time and a large majority of its frequent side effects have already been well described.2 Nevertheless, attention must be drawn to the rarer and potentially life-threatening side effects. In this case report, we describe diverse effects of lithium on cardiac electrical activity.
+
+Case presentation
+
+We present a case of a 52-year-old woman with a history of bipolar disorder, who had been treated for more than 10 years with lithium (1650 mg/day) and risperidone (2.5 mg/day). One week before admission, she presented to her general practitioner with a 2-day history of dry cough, sweats and feeling feverish. She was diagnosed with upper respiratory tract infection and was treated symptomatically. However, as symptoms persisted, she was addressed to our emergency department.
+
+On admission, the patient was in delirium and complained of pain in the upper right abdominal quadrant. Clinical examination revealed fever (39°C), tachycardia with an irregular heart rhythm, a blood pressure of 149/87 mm Hg and tenderness of the upper right abdominal quadrant.
+
+Investigations
+
+Laboratory analysis revealed a normal white blood cell count and elevated CRP (43.5 mg/dL). Electrolyte imbalance was also noted (hyponatraemia at 129 mmol/L, corrected calcium at 2.61 mmol/L and potassium level at 3.5 mmol/L) along with acute kidney injury (creatinine at 120 µmol/L, baseline 48 µmol/L). Urine culture was positive for Escherichia coli. The serum lithium concentration was elevated at 2.0 mmol/L (normal therapeutic range: 0.8–1.2 mmol/L). ECG at admission revealed atrial fibrillation (AF) with a wide QRS complex (160 ms) and ST-segment elevation in leads V1 and V2 (figure 1). In contrast, a previous ECG obtained in 2014 showed a sinus rhythm with narrow QRS (figure 2). An abdominal CT scan with intravenous contrast injection confirmed a diagnosis of pyelonephritis and ruled-out concomitant cholecystitis.
+
+Figure 1 ECG on admission showing AF with wide QRS and ST segment elevation in V1–V2. AF, atrial fibrillation.
+
+Figure 2 Baseline ECG recorded in 2014 showing first degree AV block. AV, atrioventricular.
+
+Differential diagnosis
+
+In the present case, the primary diagnosis of pyelonephritis was relatively straightforward. Nevertheless, considering the delirium complicating symptoms assessment, as well as the ECG alterations, the possibility of acute coronary syndrome was also raised. This alternative was however relatively unlikely considering the ST elevation limited to leads V1 and V2 without reciprocal changes. A high-sensitivity troponin measurement was performed, but the result was only slightly elevated, without dynamic change (20 ng/L for ULN at 15 ng/L), possibly secondary to acute kidney injury. The possibility of myocardial infarction was further infirmed by focused transthoracic echocardiography (TTE), which showed no wall-motion abnormality. A full TTE, performed 3 days after admission, confirmed normal biventricular function, without wall-motion abnormality, with normal filling pressures, absence of left atrial enlargement and no valvular disease. In total, AF and the other ECG modifications, were deemed multifactorial, with the involvement of sepsis, electrolyte imbalance and lithium intoxication, but the correct diagnosis of Brugada syndrome was not immediately evoked.
+
+Treatment
+
+The patient was admitted to the intensive care unit with continuous cardiac monitoring. Lithium was suspended, and normal saline infusion was initiated. Empirical intravenous ceftriaxone was initially started and switched to oral ciprofloxacin 2 days after admission based on the antibiogram of the urine culture. This treatment was continued for seven additional days. Blood cultures remained sterile. Given rapid clinical improvement with heart-rate at 100–110 bpm, after saline infusion, no rate or rhythm control was initially pursued for AF.
+
+Outcome and follow-up
+
+Under this therapeutic regimen, there was a rapid improvement of symptoms with complete resolution of delirium, fever and abdominal pain towards the day of discharge, which took place 7 days after admission. With correction of renal function, the lithium concentration returned to the therapeutic range at 0.68 mmol/L 2 days after admission, and the electrolyte levels normalised. Spontaneous cardioversion of AF was also observed within 24 hours of admission. The ECG recorded 2 days after admission revealed sinus rhythm with first-degree atrioventricular block, a narrow QRS (120 ms) and ST-segment elevation by less than 1 mm in V1 and V2 (figure 3A). The final diagnosis was conduction abnormalities due to acute-on-chronic lithium intoxication in the context of sepsis with acute renal failure. The patient was discharged with a reduced lithium posology (1320 mg/day) to decrease the risk of recurrence.
+
+Figure 3 (A) ECG performed 2 days after admission with return to sinus ryhtm and ST-segment elevation by less than 1 mm in V1 and V2. (B) ECG performed 6 months later with right precordial leads positioned in the third intercostal space. (C) ECG after lithium withdrawal showing persistent first degree AV block but no Brugada pattern. AV, atrioventricular.
+
+However, given the atypical aspect of the ECGs, they were later analysed by a consultant cardiologist, who raised a suspicion of Brugada pattern, based on the coved-like aspect of the T wave in V1 and V2. Consequently, the patient was asked to return for a follow-up visit 6 months later. At that time, her lithium level was in the therapeutic range. Nevertheless, the ECG obtained with the placement of leads V1 and V2 in the third intercostal spaces showed a typical Brugada type 1 pattern with coved ST-segment elevation of more than 2 mm in V1 and V2, followed by a negative T wave (figure 3B).
+
+On systematic questioning, the patient reported only some episodes of near-syncope in the past, which were suggestive of a vasovagal origin. On second look at the ECG obtained 3 years earlier (time at which she was already on lithium therapy), there was already a slightly convex ST segment elevation of 1 mm in V2, which possibly corresponded to a type 2 Brugada pattern (figure 2).
+
+Given the high suspicion of Brugada syndrome, the patient was hospitalised again for lithium withdrawal with replacement using valproic acid. An ECG was done 6 months later, which showed no evidence of persistent Brugada pattern (figure 3C).
+
+The patient declined genetic testing for SCN5A mutation. However, the patient’s brother was found to have discrete alterations in his baseline ECG (figure 4A). For this reason, he underwent an ajmaline provocation test and the result was positive (figure 4B). He then underwent genetic testing, which confirmed a mutation of SCN5A (c.3840+1G>A). Due to the patients’ preferences, no further investigations were made. Given the absence of syncopal events, previous aborted sudden cardiac death, or documented ventricular arrhythmias, no implantable cardioverter-defibrillator (ICD) was implanted, and simple clinical follow-up was proposed.
+
+Figure 4 Brother’s baseline ECG with slight ST-segment elevation in V1–V2 and no PR interval prolongation (A). ECG after ajmaline infusion showing an evident type 1 Brugada pattern (B).
+
+Discussion
+
+The present case describes a wide range of ECG modifications that can be partly attributed to lithium therapy, but also to the ongoing acute illness in a patient with a possible genetic basis. Indeed, lithium is known to induce electrocardiographic modifications not only in cases of intoxication, but also within the therapeutic range.2 Besides conduction and repolarisation alterations, lithium has also been described to cause life-threatening tachyarrhythmias such as ventricular tachycardia.2 3
+
+Lithium-induced AF has also been reported exceptionally.4 In the present case, a multifactorial origin is likely as the patient also presented with several triggers of AF (sepsis and electrolyte imbalance). Nevertheless (according to TTE), the patient had no structural abnormality increasing the risk of AF. In addition, while it was not her first infectious event, it was the first time that her serum lithium was found so high. Moreover, AF cardioverted rapidly after the normalisation of lithium concentration and did not recur on further ECG monitoring (24 hours Holter twice).
+
+Conduction disorders have also been reported in the context of acute or chronic lithium intoxication including sinoatrial, atrioventricular and intraventricular blocks.2 5 Additionally, some of these alterations have been described at therapeutic lithium concentrations, and seem to be dependent on the therapy duration rather than the serum concentration.2 In our case, the initial wide QRS morphology was probably linked to the elevated serum concentration of lithium.
+
+Lithium has also been reported as being responsible for repolarisation alterations that can mimic myocardial ischaemia, among other conditions.6 Indeed, a report described acute lithium intoxication presenting with ST-segment elevation and chest pain with no significant lesion on invasive coronary angiography.7 In these cases, the ECG pattern normalised after restoring normal values of blood lithium levels. This was the case in our patient as well, who reported no chest pain, showed no reciprocal changes on ECG, no dynamic changes in cardiac biomarkers and presented no wall-motion anomalies on TTE. In this context, coronary angiography was not performed.
+
+Finally, lithium has been described as a potential unmasking agent of Brugada pattern. Since 2005, a few cases of lithium-induced type 1 Brugada pattern have been reported.8 9 Brugada syndrome is an inherited primary arrhythmia syndrome, which is diagnosed in the presence of a typical type 1 ECG pattern occurring either spontaneously or after a drug-challenge test with sodium channel blocker agents.10 11 According to its typical variable expression, patients may be completely asymptomatic or present with palpitations, syncope or sudden cardiac death due to ventricular arrhythmias. If the diagnosis is suspected on the sole basis of symptoms, a family history without a diagnostic ECG or a type 2 ECG pattern, a pharmacological provocation test should be performed with a sodium-channel blocker such as ajmaline or flecainide.10
+
+Although many genes may potentially be involved, SCN5A represents the only gene that is currently analysed in genetic testing, due to its causal and unequivocal association with Brugada Syndrome.10 11 SCN5A encodes a subunit of the cardiac sodium channel involved in phase 0 of the cardiac action potential.10 SCN5A variants are loss-of-function mutations that biophysically translate into a reduction of the inward sodium current.12 Modulating factors13 such as temperature or pharmacologic agents may further affect channel properties, thus contributing to unmask the Brugada ECG pattern.14 15 Notably, genetic testing targeting SCN5A mutations can be offered (level of recommendation IIa) to patients with a definite diagnosis of Brugada Syndrome.16
+
+Lithium is a monovalent cation, which acts as a cardiac sodium channel blocker agent,2 thus explaining its capacity to unmask a Brugada pattern. Of note, its blocking ability has been described even below therapeutic levels.8
+
+In the present case, a Brugada ECG pattern was unmasked in the context of several modulating factors, including a drug blocking the cardiac sodium channel (lithium) combined with fever, leading to alternation of the Brugada ECG pattern from type 2 to type 1. Additionally, no alternative cause explaining the ECG pattern has been found, thus excluding a phenocopy. The diagnosis of Brugada syndrome was then finally reached in the presence of a drug-induced and possibly fever-induced type 1 ECG pattern in our asymptomatic index case, associated with the detection of a coved-type ECG in family members (her brother in this case).13
+
+Interestingly, Brugada syndrome is also associated with several characteristics of our patient, such as a prolonged PR interval and a higher risk of AF, the latter of which is a factor of poor prognosis.10 Moreover, the specific mutation found in the patient’s brother (c.3840+1G>A) has been previously associated with a sex-dependent mixed phenotype characterised by Brugada Syndrome coupled to a sick sinus syndrome among female patients,17 representing a further example of SCN5A overlap syndrome.18
+
+Risk stratification is still a matter of debate, but electrophysiological testing can be offered to asymptomatic patients with spontaneous type 1 ECG.10 The management of Brugada syndrome relies primarily on preventive strategies and lifestyle changes, including the avoidance of precipitating factors such as fever, contraindicated drugs and excessive alcohol intake.11 19 ICD is recommended for only symptomatic patients with a documented history of sustained ventricular tachycardia or resuscitated cardiac arrest (level of recommendation IC).11 Right ventricular epicardial ablation after electroanatomical mapping has also been investigated as a potential therapeutic tool.10 Finally, family members of an index case must always be advised to undergo clinical (and eventually genetic) screening for Brugada Syndrome. In the present case, the patient was asymptomatic, had no history of syncope and no previously documented episode of ventricular tachyarrhythmia, thus not meeting the guidelines’ criteria to recommend ICD implantation. Consequently, she was treated conservatively with regular cardiological follow-up and avoidance of precipitating factors including removal of lithium therapy.
+
+In conclusion, lithium should be recognised as a potential cardiotoxic drug and as a Brugada-unmasking agent, both at therapeutic and toxic doses, especially in the case of concomitant aggravating intercurrent disease. Indeed, here, lithium is probably not the only unmasking agent as fever and sepsis probably contributed to further blocking cardiac sodium channels. Nevertheless, the patient showed persisting Brugada pattern after fever resolution, while this aspect disappeared after lithium withdrawal, strongly suggesting a causative relationship.
+
+Thus, lithium therapy initiation should be performed only after careful examination of the baseline ECG and clinical history. Close monitoring of the lithium concentration and regular ECG recordings should be performed, especially in cases of intercurrent illness. Finally, physicians should be able to promptly recognise life-threatening ECG modifications associated with lithium therapy.
+
+Learning points
+
+Lithium induces several ECG alterations, and some of them can be life-threatening.
+
+A basal ECG should be performed before starting lithium therapy.
+
+Monitoring should include regular measurements of lithium blood concentration and ECG recording.
+
+In cases of severe ECG alterations, modification or withdrawal of lithium therapy might be necessary.
+
+The authors would like to thank Dr Jürg Schlaepfer from the CHUV cardiology department and Mrs Emeline Davoine, genetic counselor, for their helpful hindsight regarding the present case. The authors also would like to thank Dr Phillip Shaw for the time spent in reviewing the present case.
+
+Ethics statements
+
+Patient consent for publication
+
+Obtained.
+
+Twitter: @Catalina Trana
+
+Contributors: LD, APP, CT and DM contributed all to the writing, comments and corrections of the present manuscript.
+
+Funding: The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.
+
+Competing interests: None declared.
+
+Provenance and peer review: Not commissioned; externally peer reviewed.

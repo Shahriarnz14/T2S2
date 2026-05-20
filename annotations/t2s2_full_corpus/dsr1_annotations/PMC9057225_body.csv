@@ -1,0 +1,143 @@
+event,time
+30 years old,0
+multigravida (g3p2),0
+repeated cesarean section,0
+32-weeks pregnant,0
+admitted to the emergency service,0
+chills,-144
+cough,-144
+shortness of breath,-144
+no medical history,0
+previous pregnancies normal,0
+no COVID-19 vaccine,0
+respiratory rate 26/min,0
+blood pressure 110/75 mm Hg,0
+oxygen saturation 84%,0
+body temperature 38.8°C,0
+no uterine activity,0
+lymphopenia,0
+elevated liver enzymes,0
+low platelets,0
+increased Prothrombin Time (PT/INR),0
+increased activated Partial Thromboplastin Time (aPTT),0
+high D-dimer,0
+high total bilirubin,0
+high LDH,0
+normal hemoglobin,0
+normal kidney function tests,0
+HELLP syndrome diagnosis,0
+gynecological examination normal,0
+ultrasound findings normal,0
+NST findings normal,0
+admitted to COVID-19 ICU,24
+preliminary diagnosis COVID-19,0
+preliminary diagnosis sepsis,0
+preliminary diagnosis HELLP syndrome,0
+bilateral diffuse ground glass areas on CT,24
+diffuse peripheral interstitial thickening,24
+bilateral mild pleural effusion,24
+COVID-19 PCR positive,24
+hepatitis markers negative,24
+HIV test negative,24
+no growth in blood culture,24
+no growth in urine culture,24
+normal serum electrolytes,24
+normal cardiac markers,24
+anti-Covid treatment started,24
+hypertensive crisis (≥185/120 mm Hg),48
+oxygen saturation <80%,48
+altered consciousness,48
+intubated,48
+consultation for pregnancy termination,48
+antihypertensive treatment started,48
+magnesium sulfate started,48
+haptoglobin 21 mg/dl,48
+"reticulocyte count 98,109/L",48
+corrected reticulocyte percentage 2.93,48
+direct COOMBS test negative,48
+abdominal USG normal,48
+no acute fatty liver of pregnancy,48
+Anti Ds DNA negative,72
+IFT 5.88 IU/mL,72
+Lupus anticoagulant/confirmation test negative,72
+Anti-nuclear Antibody negative,72
+Anti Cardiolipin IgG negative,72
+thyroid function tests normal,72
+vit-B levels normal,72
+folic acid levels normal,72
+Brucella Agglutination negative,72
+lipase normal,72
+urine microscopy normal,72
+urine culture normal,72
+echocardiography segmental wall motion defects,72
+myocarditis suspected,72
+troponin elevation,72
+CRP elevation,72
+progressive maternal hypoxemia,72
+progressive blood picture deterioration,72
+fetal NST deterioration,72
+preoperative erythrocyte transfusion,72
+preoperative platelet transfusion,72
+preoperative FFP transfusion,72
+cesarean section performed,72
+live baby boy delivered,72
+Apgar scores 2 and 6,72
+newborn intubated,72
+newborn chest X-ray normal,72
+newborn COVID-19 positive,72
+newborn pancytopenia,72
+newborn renal failure,72
+newborn death,168
+fluid resuscitation,24
+electrolyte resuscitation,24
+blood product resuscitation,24
+hemodialysis initiated,48
+brain MRI normal,216
+extubation attempts unsuccessful,216
+maternal death,240
+no uterine tenderness,0
+no foul-smelling discharge,0
+no amniotic discharge,0
+placenta pathology perivillous fibrin deposition,72
+chronic villitis,72
+intervillositis,72
+DIC,72
+elevated ESR,0
+elevated CRP,0
+elevated procalcitonin,0
+elevated troponin I,24
+elevated blood urea nitrogen,0
+elevated creatinine,48
+elevated IL-6,0
+elevated fibrinogen,0
+elevated PT/INR,0
+elevated aPTT,0
+schistocytes in peripheral smear,24
+polychromasia,24
+spherocytes,24
+proteinuria +1,0
+proteinuria +3,24
+530 mg/24h proteinuria,72
+285 mg/24h proteinuria,120
+normal serum calcium,24
+normal serum phosphorus,24
+normal serum magnesium,24
+no growth in urine culture,24
+no reactive contraction on NST,0
+no risk factors for preeclampsia,0
+no twin pregnancy,0
+no first pregnancy,0
+no acute fatty liver,48
+no anti-Ds DNA,72
+no lupus anticoagulant,72
+no anti-nuclear antibody,72
+no anti-cardiolipin IgG,72
+no thyroid dysfunction,72
+no vitamin B deficiency,72
+no folic acid deficiency,72
+no Brucella infection,72
+no lipase elevation,72
+no urinary abnormalities,72
+no brain MRI abnormalities,216
+no successful extubation,216
+no improvement in general condition,240

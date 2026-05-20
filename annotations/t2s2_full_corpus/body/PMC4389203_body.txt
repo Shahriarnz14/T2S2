@@ -1,0 +1,81 @@
+1 Introduction
+Rare yeasts are considered as having a low pathogenicity, but are still responsible for 1.1–5.1% of fungemias. This is most likely due to the increasing number of immunocompromised patients and also to the improvement of mycological diagnosis, especially molecular biology techniques [1,2].
+
+Indeed, in the past decades, we have seen the emergence of yeasts that had never been described as invasive pathogens before, such as Saccharomyces spp., Rhodotorula spp. or Trichosporon spp. A recent study has looked more closely into rare yeast infections in patients with cancer, and found that the incidence of these infections increased from 1.8 to 2.35 cases per 100,000 patient-days between 1998 and 2010 [3]. In this study, 95% of the patients had a central venous catheter, and the presence of a catheter was considered responsible for 45% of those infections.
+
+The anamorphic basidiomycetous genus Pseudozyma belongs to the Ustilaginomycetes class and includes 16 species. Pseudozyma species are common environmental yeasts generally isolated from plant leaves, flowers or soil. Some species have recently (since 2003) been involved in invasive infections, such as fungemia [4–8], pulmonary infection [9], brain abscess [10], and mycetoma [11].
+
+We here report what we believe, to our best knowledge, to be the first case of a Pseudozyma aphidis invasive infection in an adult with a metastatic ampulloma, who underwent heavy digestive surgery. The evolution was favorable after two weeks of intravenous liposomal amphotericin B.
+
+2 Case report
+A 68 year old woman was hospitalized in the University Hospital of Strasbourg, France. She was admitted to a digestive surgery unit for the management of a metastatic adenocarcinoma of the ampulla of Vater. She had not yet undergone chemotherapy, and went through a pancreaticoduodenectomy and lymphadenectomy on April 23rd 2014 (day 0), during which a sample of bile was taken and sent to the Bacteriology Laboratory. She received no antifungal chemoprophylaxis. Subsequently to this surgery, a central venous catheter and drains were placed. Because the bile culture was positive for Enterococcus faecalis and Klebsiella pneumoniae on day +1, a bi-antibiotherapy was started with meropenem and vancomycine for 19 days.
+
+On day +22, she started to shiver with fever of 38.5 °C. Two blood cultures were then drawn the same day on a peripheral vein onto BACTEC™ Mycosis-IC/F and BACTEC™ Plus Aerobic/F Medium, and remained negative after seven days of incubation in a BACTEC™ FX (Becton Dickinson). Two others were drawn on day +23 on the central venous catheter onto BACTEC™ Mycosis-IC/F and BACTEC™ Plus Aerobic/F Medium and were both positive on day +26 and on day +27, which is after 84 h (Mycosis) and 100 h (Aerobic/F Medium) of incubation at 35 °C. Microscopic examination of the blood cultures revealed unusual fungal elements.
+
+A treatment with intravenous fluconazole 800 mg/day had been initiated on the evening of day +26, and was then switched to liposomal amphotericin B 3 mg/kg/day on the next day in order to have a larger antifungal spectrum.
+
+The central venous catheter was withdrawn on day +23 and sent to the Bacteriology Laboratory of the hospital, where it remained negative after 48 h of incubation. Cultures were then eliminated according to bacteriological procedures. The control blood cultures, taken on a peripheral vein after the catheter removal, remained negative. No other specimen was addressed to the Mycology Laboratory.
+
+The patient then developed a septic shock on day +27. Blood cultures drawn that same day on a peripheral vein, on an arterial catheter and on a central venous catheter were positive to Candida albicans and Candida glabrata. The patient was transferred to an intensive care unit. The evolution was favorable, and she was admitted back in the digestive surgery unit, where the liposomal amphotericin B was continued on for a total of two weeks.
+
+The first positive blood cultures showed unusual fungal elements at direct examination, with short hyphae and fusiform cells with polar buddings (Fig. 1).
+
+The blood was then subcultured on chromID™ Candida agar (Biomérieux, France) and on Sabouraud-Chloramphenicol-Agar at 27 °C and 35 °C. The isolate grew in about 24 h on both media. A better growth was observed at 27 °C. The colonies were first blue on the chromogenic medium, and then they produced a yellow-beige pigment, which was also the color observed on the Sabouraud-Chloramphenicol-Agar (Figs. 2 and 3). After several days of culture, the colonies looked tan, dry and wrinkled.
+
+Microscopic examination of the colonies showed morphological aspects similar to those observed on positive blood cultures.
+
+An analysis of the isolate on a Microfilex™ MALDI-TOF mass spectrometer (Bruker, Germany) using the Biotyper Software (Bruker), was performed but was inconclusive as P. aphidis was suggested, but with an insufficient score (between 1.5 and 1.6).
+
+The APID 32C strip (bioMérieux, France) was also inconclusive. The yeast was urease positive and nitrate positive.
+
+Morphological study on Potato-Carrot-Bile medium (Bio-Rad, USA) incubated in a semi anaerobiosis at 27 °C produced more regular elements compatible with the genus Pseudozyma (Fig. 4).
+
+Final identification was obtained by sequencing (GATC Biotech AG, Germany) of the ITS region followed by GenBank and CBS analysis, giving a 99% and a 99.7% match to P. aphidis (sequences JQ425372.1 and DQ778919.1), respectively.
+
+The susceptibility of the isolate was tested by the Etest method (BioMérieux, France) on a RPMI medium, and it showed MIC values of 16 µg/mL for fluconazole, 0.19 µg/mL for itraconazole, 0.032 µg/mL for voriconazole, 0.094 µg/mL for posaconazole, 0.19 µg/mL for amphotericin B, >32 µg/mL for caspofungin and >32 µg/mL for flucytosine.
+
+3 Discussion
+Only a few Pseudozyma species have yet been reported as responsible for human invasive infection, in a limited number of cases. This is the fourth description of an invasive infection due to P. aphidis, and the first adult case. There is no report of documented colonization by this species in human patients. However Gil et al. have previously described respiratory colonization by Pseudozyma spp. without species identification [12]. Thirty strains were isolated from respiratory samples between 1997 and 2001. In all cases, the fungus was not isolated repeatedly and was considered as a colonizer; no antifungal treatment was considered necessary in these patients.
+
+P. aphidis infections might be underdiagnosed, due to the fact that, at the moment, only sequencing allows an accurate identification of this yeast. Misidentifications as Cryptococcus or Trichosporon species have been described with the VITEK 2 (bioMérieux), The ID32C® (bioMérieux), the RapID Yeast Plus® (Remel) systems [8,12]. For our isolate, mass spectrometry analysis suggested P. aphidis but with a low score, which is most likely due to an insufficient number of spectra in the databank, and the API 32C identification algorithm does not include this species in its databank.
+
+The risk factors described in all reports of invasive Pseudozyma infection were immunosuppression, neoplastic diseases, impaired mucosal defenses and foreign material, such as a central venous catheter. In our case, the patient had several risk factors: a metastatic adenocarcinoma of the ampulla of Vater, abdominal surgery and a central venous catheter. Her blood count was normal and did not reveal any cytopenia.
+
+We could not document the portal of entry of the infection; however the central venous catheter remains the most probable hypothesis, as the control blood cultures after its removal were negative.
+
+The choice of the first line antifungal therapy is important in case of non-Candida yeasts, as many other genera are resistant to caspofungin and/or azoles.
+
+Only a few data are available for P. aphidis in the literature. Table 1 resumes the characteristics of the strains isolated from known invasive infections. Fluconazole has generally high MIC, and all isolates were found resistant to flucytosin and echinocandins [4–6]. Our strain had a high MIC for itraconazole too, although some reports describe favorable outcomes after an itraconazole treatment [5,11]. Some reports about other Pseudozyma species mention also high MICs for fluconazole and itraconazole and resistance to flucytosine and echinocandins [6,7,11].
+
+The ESCMID and the ECMM recommend a first line treatment of amphotericin B or voriconazole for Pseudozyma infections [2]. Indeed, several patients have been successfully treated with amphotericin B followed by voriconazole per os
+[4,9].
+
+In our case, the patient had two weeks of liposomal amphotericin B, which seemed, in association with the removal of the central venous catheter, to have successfully treated the infection.
+
+In conclusion, we need to be aware of the hypothesis of a Pseudozyma invasive infection when observing unusual yeasts. More generally, first-line treatment with a large spectrum antifungal should be preferred when unusual fungal elements are isolated from a deep site.
+
+Conflict of interest
+There are none.
+
+Fig. 1 Direct examination of the first positive blood culture.
+
+Fig. 2 P. aphidis colonies on chromID Candida agar after 8 days of incubation at 27 °C. The reverse of some colonies is blue.
+
+Fig. 3 P. aphidis colonies on a Sabouraud Chloramphenicol agar after 4 days of incubation at 27 °C.
+
+Fig. 4 Potato Carrot Bile Agar slide culture after 4 days of incubation at 27 °C.
+
+Table 1 MICs of P. aphidis strains isolated from patients with invasive infection.
+
+MIC (µg/mL)	P. aphidisisolates	
+Our isolate	Neonatal fungemia [4]	Fungemia in a short gut syndrom [5]	Pulmonary infection in a Burkitt [6]	
+Fluconazole	16	8	4	4	
+Itraconazole	0.19	0.03	0.125	0.25	
+Voriconazole	0.032	0.03		0.03	
+Posaconazole	0.094	0.03			
+Isavuconazole		0.25			
+Amphotericin B	0.19	0.03	0.25	0.25	
+Flucytosine	>32	>64			
+Caspofungin	>32	>8			
+Micafungin		>8		>4	
+Anidulafungin				>4

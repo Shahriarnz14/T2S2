@@ -1,0 +1,86 @@
+event,time
+65-year-old ,0
+female ,0
+admitted to the hospital ,0
+fever ,0
+chills ,0
+pain in left leg ,0
+cellulitis ,0
+treated with intravenous clindamycin 600 mg thrice daily ,0
+treated with intravenous benzylpenicillin 2 million units 4 times daily ,0
+anti-parkinsonism medications continued ,0
+diabetic medications continued ,0
+history of parkinsonism ,-17520
+history of diabetes mellitus ,-17520
+levodopa/carbidopa prescribed ,-17520
+rasagiline prescribed ,-17520
+ropinirole prescribed ,-17520
+trihexyphenidyl prescribed ,-17520
+amantadine prescribed ,-17520
+metformin prescribed ,-17520
+glipizide prescribed ,-17520
+multiple hospital admissions for worsening parkinsonism ,-8760
+multiple ICU admissions for worsening parkinsonism ,-8760
+high-temperature spikes above 102°F ,48
+tachycardia ,48
+tachypnea ,48
+hypotensive ,48
+encephalopathic ,48
+shifted to ICU ,48
+sepsis considered ,48
+multi-organ dysfunction syndrome considered ,48
+treated with intravenous linezolid 600 mg twice daily ,48
+treated with intravenous piperacillin/tazobactam 4.5 gm thrice daily ,48
+vancomycin not considered ,48
+borderline renal parameters ,48
+hemodynamics improved ,48
+minimal inotropic supports ,48
+anti-parkinsonism drugs continued ,48
+oral hypoglycemic agents stopped ,48
+insulin started ,48
+metformin stopped ,48
+glipizide stopped ,48
+confused ,60
+drowsy ,60
+disoriented ,60
+altered sensorium ,60
+myoclonus ,60
+tremors ,60
+jerky movements ,60
+no neck stiffness ,60
+computed tomography of the brain not significant ,60
+cerebrospinal fluid analysis not significant ,60
+improving white blood cell counts ,60
+better glycemic control ,60
+no other laboratory abnormalities ,60
+blood cultures sterile ,60
+pus cultures sterile ,60
+serotonin syndrome ,60
+temperature 103°F ,72
+altered mental status ,72
+myoclonus ,72
+jerky movements ,72
+tremors ,72
+medications scrutinized ,72
+serotonin syndrome suspected ,72
+infection ruled out ,72
+drug abuse excluded ,72
+cerebrovascular etiology excluded ,72
+metabolic etiology excluded ,72
+probable adverse drug reaction to linezolid ,72
+Naranjo score of six ,72
+probable causality of serotonin syndrome due to rasagiline and linezolid ,72
+drug interaction probability scale probable ,72
+linezolid stopped ,72
+rasagiline stopped ,72
+temperature settled ,80
+heart rate normal ,96
+sensorium improved ,96
+tremors completely subsided ,96
+shifted out of the ICU ,120
+started walking with support ,240
+discharged from the hospital ,240
+discharged with anti-parkinsonism drugs ,240
+rasagiline later added ,336
+regular follow-up with the neurologist ,336
+asymptomatic for serotonin syndrome ,336

@@ -1,0 +1,79 @@
+event,time
+71 years old,0
+female,0
+metastatic renal cell carcinoma (mixed papillary and clear cell type),0
+retroperitoneal lymph node metastasis,0
+right ovarian metastasis,0
+liver metastasis,0
+first-line doublet immunotherapy (ipilimumab and nivolumab),0
+maintenance single-agent nivolumab,0
+immune-related primary hypoadrenalism,0
+hypopituitarism,0
+secondary hypoadrenalism,0
+hypothyroidism,0
+managed with exogenous hydrocortisone,0
+managed with fludrocortisone,0
+managed with thyroxine replacement,0
+short synacthen test,0
+MRI pituitary,0
+disease progression,0
+second-line sunitinib,0
+admitted to the hospital,336
+presumed sepsis,336
+fever,336
+hypotension,336
+tachycardia,336
+managed with broad-spectrum antibiotics,336
+intravenous stress dose steroids,336
+inotropes in ICU,336
+negative septic screen,336
+discharged from the hospital,408
+steroid replacement adjusted,408
+sunitinib restarted,408
+re-presented with same symptoms,456
+managed for sepsis,456
+broad-spectrum antibiotics,456
+intravenous stress dose steroids,456
+inotropes in ICU,456
+negative septic screen,456
+negative transthoracic echocardiogram,456
+baseline steroid dose reviewed,456
+reduced dose of sunitinib,456
+re-presented with same symptoms,480
+ICU admission,480
+stress dose steroids,480
+inotropes,480
+broad-spectrum antibiotics,480
+negative septic screen,480
+tunnelled venous access catheter removed,480
+baseline steroid dose revised,480
+three similar presentations temporally related to sunitinib,480
+possible drug reaction considered,480
+electively admitted for trial of sunitinib,504
+sunitinib administration,528
+profound hypotension,528
+tachycardic,528
+managed with aggressive intravenous fluid replacement,528
+intravenous steroids,528
+inotropes,528
+no antibiotics,528
+haemodynamic parameters normalized,552
+transitioned to oral steroids,552
+sunitinib therapy permanently discontinued,552
+no fevers recorded,528
+subjective chills,528
+temperature rise (not crossing 38°C),528
+residual adrenal function,0
+hypothalamic-pituitary-adrenal axis compromise,0
+no adrenal tissue antibody,0
+morning cortisol 47 nmol/L,0
+ACTH <0.2 pmol/L,0
+TSH 3.89 mIU/L,0
+T4 4.7 pmol/L,0
+FSH 12 IU/L,0
+LH 2 IU/L,0
+prolactin 255 mIU/L,0
+growth hormone 16 mIU/L,0
+renin <2 mIU/L,0
+aldosterone 79 pmol/L,0
+dehydroepiandrosterone sulphate 0.2 μmol/L,0

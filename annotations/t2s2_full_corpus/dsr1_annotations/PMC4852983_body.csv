@@ -1,0 +1,116 @@
+event,time
+79 years old,0
+white,0
+male,0
+laparoscopic converted to open cholecystectomy,-504
+gangrenous perforated gallbladder,-504
+retrograde fundus-down approach,-504
+inability to obtain the critical view,-504
+tubular structure (thought to be a duct of Luschka) ligated,-504
+cystic artery ligated,-504
+cystic duct ligated,-504
+single drain placed,-504
+postoperative high-output bilious drainage,-504 to 0
+discharged on postoperative Day 6,-504 + 144 = -360
+returned to outside facility,-360 + 96 = -264
+jaundice,-264
+weakness,-264
+fatigue,-264
+pain,-264
+CT scan of abdomen,-264
+nuclear cholescintigraphy scan,-264
+biliary leak,-264
+free intra-abdominal fluid,-264
+biliary peritonitis,-264
+transferred to critical care unit,0
+broad spectrum antibiotics,0
+atrial fibrillation with rapid ventricular response,0
+bilirubin level 17 mg/dl,0
+protein-calorie malnutrition,0
+albumin 1.9 gm/dl,0
+percutaneous cholangiogram,0
+hilar ligation of hepatic duct,0
+inability to pass wire or catheter distally,0
+right posterior percutaneous cholangiogram catheter placed,0
+right anterior percutaneous cholangiogram catheter placed,0
+high calorie enteral nutrition,0
+high protein enteral nutrition,0
+nasogastric Dobhoff tube,0
+discharged after 7 days,168
+follow-up scheduled in 2 weeks,336
+improved substantially,336
+repeat CT scan,336
+drained abdominal fluid collections,336
+bilirubin 1.2 mg/dl,336
+albumin 3.1 gm/dl,336
+prealbumin 17.3 gm/dl,336
+scheduled for definitive biliary reconstruction,336
+definitive biliary reconstruction,336 + 1344 = 1680
+porta dissected,1680
+common hepatic artery identified,1680
+proper hepatic artery identified,1680
+unable to palpate percutaneous biliary catheters,1680
+CBD transected distally,1680
+clips removed,1680
+bile drainage noted,1680
+unable to identify cholangiogram catheter,1680
+second tubular structure identified,1680
+second extrahepatic bile duct,1680
+anterior percutaneous catheter identified,1680
+on-table cholangiogram,1680
+two separate extrahepatic biliary systems,1680
+right lobe drainage,1680
+left lobe drainage,1680
+distal ducts ligated,1680
+Roux limb of jejunum created,1680
+retrocolic anastomosis,1680
+drain placed,1680
+no bile leakage,1680
+discharged on postoperative Day 6,1680 + 144 = 1824
+normal hepatic function,1824
+normal bilirubin,1824
+no complications,1824
+follow-up cholangiogram,1824 + 168 = 1992
+normal intrahepatic ducts,1992
+no stricture,1992
+no leak,1992
+successful repair,1992
+cholangiogram catheters removed,1992
+discharged from clinic,1992
+duplication of the common bile duct (DCBD),1680
+cholelithiasis,-504
+choledocholithiasis,-264
+cholangitis,-264
+pancreatitis,-264
+upper gastrointestinal malignancies,-504
+bile duct injury (BDI),-504
+laparoscopic cholecystectomy,-504
+gangrenous gallbladder,-504
+perforated gallbladder,-504
+persistent high-output bilious drainage,-360 to -264
+bilious drainage,-360 to -264
+biliary peritonitis,-264
+intrahepatic biliary dilatation,0
+biloma,0
+percutaneous drain,0
+atrial fibrillation,0
+rapid ventricular response,0
+malnutrition,0
+biliary diversion,0
+enteral nutrition,0
+oral intake,168
+follow-up in 2 weeks,336
+improved albumin,336
+improved prealbumin,336
+biliary reconstruction,1680
+porta dissection,1680
+hepatic artery preservation,1680
+clips removal,1680
+second bile duct identification,1680
+cholangiogram confirmation,1680
+Roux-en-Y anastomosis,1680
+drain placement,1680
+normal postoperative recovery,1824
+cholangiogram follow-up,1992
+catheter removal,1992
+no stricture or leak,1992

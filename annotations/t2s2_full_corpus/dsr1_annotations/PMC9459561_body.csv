@@ -1,0 +1,74 @@
+event,time
+68 years old,0
+woman,0
+AML,0
+80% blasts on bone marrow biopsy,0
+"white blood cell count 175,000",0
+27% peripheral blasts,0
+normal karyotype,0
+DNMT3 mutation,0
+NPM1 mutation,0
+PTPN11 mutation,0
+TET2 mutation,0
+induction chemotherapy with decitabine and venetoclax,0
+nonsustained ventricular tachycardia,-672
+rapid atrial fibrillation,-672
+bacterial pneumonia,-672
+remission,-672
+maculopapular rash involving torso and upper extremities,-24
+leukemia cutis,-24
+44% monocytic blasts,-24
+nonproductive cough,-24
+rhinorrhea,-24
+sore throat,-24
+afebrile,-24
+positive SARS-CoV-2 PCR,-24
+COVID-19 diagnosis,-24
+two doses mRNA-1273 vaccine,-6480
+admitted to medicine service,0
+chest CT without pneumonia,0
+no supplemental oxygen needed,0
+no intubation,0
+3-day course remdesivir,0
+hemodynamically stable,0
+resolved upper respiratory symptoms,0
+transferred to malignant hematology service,168
+7+3 reinduction chemotherapy,168
+cytarabine 170 mg IV daily for 7 days,168
+idarubicin 20 mg IV daily for 3 days,168
+prophylactic intrathecal cytarabine 50 mg on day 28,168
+persistent SARS-CoV-2 positivity on day 3,216
+sotrovimab treatment,216
+chest pain on day 7,240
+pericarditis,240
+pericardial effusion,240
+colchicine started,240
+blood cell counts nadir on day 9,264
+ANC 0,264
+neutropenic fever on day 20,480
+negative infectious workup,480
+7-day course cefepime completed on day 26,624
+valacyclovir prophylaxis,480
+isavuconazole prophylaxis,480
+levofloxacin prophylaxis,480
+ANC 170 on day 25,552
+COVID-19 CT count monitored,0
+discharge on day 36,864
+COVID-19 PCR positive at discharge,864
+bone marrow biopsy with complete remission,864
+persistent DNMT3 and TET2 mutations,864
+leukemia cutis rash cleared,864
+COVID-19 PCR negative on day 42,1008
+high-dose cytarabine consolidation,1008
+allogeneic hematopoietic stem cell transplant planned,1008
+tixagevimab/cilgavimab prophylaxis,1008
+remained SARS-CoV-2-negative,1008
+no progression of COVID-19 during neutropenia,0
+neutropenic fever without respiratory symptoms,480
+viral load decreased with ANC recovery,552
+cleared virus upon full neutrophil recovery,1008
+no respiratory distress,0
+no sepsis,0
+no multiorgan failure,0
+no septic shock,0
+no repeat COVID-19 infection,1008

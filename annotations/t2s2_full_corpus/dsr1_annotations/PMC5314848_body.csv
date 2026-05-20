@@ -1,0 +1,173 @@
+event,time
+1-year-old,0\
+previously healthy,0\
+male,0\
+presented to Accident and Emergency department,0\
+domestic accident,0\
+irritable,0\
+drowsy,0\
+Glasgow Coma Score 7,0\
+mild right-sided weakness,0\
+unequal pupils,0\
+right pupil 5+,0\
+left pupil 3+,0\
+no external injuries,0\
+venous access difficult,0\
+intra-osseous needle placed in right tibia,0\
+intubated,0\
+induction with fentanyl 2 mcg/kg,0\
+induction with propofol 2 mg/kg,0\
+induction with rocuronium 0.8 mg/kg,0\
+hand ventilated,0\
+normal end-tidal carbon dioxide,0\
+head computed tomography scan,0\
+acute right-sided subdural hematoma,0\
+significant midline shift,0\
+transferred to operating theater,0\
+right frontal craniotomy,0\
+evacuation of acute subdural hematoma,0\
+systolic blood pressure 98 mmHg,0\
+good pulses,0\
+peripheries mottled,0\
+pale blue skin,0\
+venous access via left femoral triple lumen central line,0\
+arterial pressure monitoring via right femoral 22G cannula,0\
+tympanic membrane temperature 36.0°C,0\
+received 30 ml/kg 3% hypertonic saline,0\
+surgery commenced,0\
+anesthesia maintained with O2/N2O,0\
+anesthesia maintained with sevoflurane,0\
+positive pressure ventilation,0\
+passed large volume of urine at induction,0\
+400 ml Hartmann's solution infused,0\
+blood loss moderate,0\
+transfusion not required,0\
+arterial blood gas during surgery,0\
+mixed respiratory acidosis,0\
+pH 7.08,0\
+PCO2 9.2 KPa,0\
+PO2 31.6 KPa,0\
+Na+ 154 mmol/L,0\
+K+ 3.0 mmol/L,0\
+Cl 129 mmol/L,0\
+Ca++ 1.36 mmol/L,0\
+glucose 14.1 mmol/L,0\
+lactate 0.8 mmol/L,0\
+hemoglobin 10.0 g/L,0\
+base excess -9.8,0\
+highest serum sodium 158 mmol/L,0\
+hemoglobin 8.0 g/dl at end of surgery,0\
+transported to pediatric Intensive Care Unit,0\
+ventilated,0\
+sedated with midazolam 3 mcg/kg/min,0\
+sedated with morphine 20 mcg/kg/h,0\
+extubated 2 h after surgery,2\
+postoperative fluid intake 2/3rd daily requirement orally,2\
+urine output 1–2 ml/kg/h,2\
+SaO2 98%–100%,2\
+self-ventilating room air,2\
+respiratory rate 24–28 bpm,2\
+no respiratory distress,2\
+heart rate 140/min,2\
+blood pressure 112/66 mmHg,2\
+pupils equal,2\
+pupils reacted to light,2\
+awake,2\
+alert,2\
+electrolytes normal Na+ (139–141 mmol/L),26\
+"lower K+ (3.4, 3.6, 3.8 mmol/L)",26\
+single temperature spike 38.8°C,26\
+paracetamol administered,26\
+drug error explained to parents,26\
+uneventful recovery,26\
+no residual defects from subdural hematoma,26\
+no residual defects from salt overdose,26\
+no renal injury,26\
+no residual brain damage,26\
+follow-up after 1 month,720\
+1-year-old,0
+previously healthy,0
+male,0
+presented to Accident and Emergency department,0
+domestic accident,0
+irritable,0
+drowsy,0
+Glasgow Coma Score 7,0
+mild right-sided weakness,0
+unequal pupils,0
+right pupil 5+,0
+left pupil 3+,0
+no external injuries,0
+venous access difficult,0
+intra-osseous needle placed in right tibia,0
+intubated,0
+induction with fentanyl 2 mcg/kg,0
+induction with propofol 2 mg/kg,0
+induction with rocuronium 0.8 mg/kg,0
+hand ventilated,0
+normal end-tidal carbon dioxide,0
+head computed tomography scan,0
+acute right-sided subdural hematoma,0
+significant midline shift,0
+transferred to operating theater,0
+right frontal craniotomy,0
+evacuation of acute subdural hematoma,0
+systolic blood pressure 98 mmHg,0
+good pulses,0
+peripheries mottled,0
+pale blue skin,0
+venous access via left femoral triple lumen central line,0
+arterial pressure monitoring via right femoral 22G cannula,0
+tympanic membrane temperature 36.0°C,0
+received 30 ml/kg 3% hypertonic saline,0
+surgery commenced,0
+anesthesia maintained with O2/N2O,0
+anesthesia maintained with sevoflurane,0
+positive pressure ventilation,0
+passed large volume of urine at induction,0
+400 ml Hartmann's solution infused,0
+blood loss moderate,0
+transfusion not required,0
+arterial blood gas during surgery,0
+mixed respiratory acidosis,0
+pH 7.08,0
+PCO2 9.2 KPa,0
+PO2 31.6 KPa,0
+Na+ 154 mmol/L,0
+K+ 3.0 mmol/L,0
+Cl 129 mmol/L,0
+Ca++ 1.36 mmol/L,0
+glucose 14.1 mmol/L,0
+lactate 0.8 mmol/L,0
+hemoglobin 10.0 g/L,0
+base excess -9.8,0
+highest serum sodium 158 mmol/L,0
+hemoglobin 8.0 g/dl at end of surgery,0
+transported to pediatric Intensive Care Unit,0
+ventilated,0
+sedated with midazolam 3 mcg/kg/min,0
+sedated with morphine 20 mcg/kg/h,0
+extubated 2 h after surgery,2
+postoperative fluid intake 2/3rd daily requirement orally,2
+urine output 1–2 ml/kg/h,2
+SaO2 98%–100%,2
+self-ventilating room air,2
+respiratory rate 24–28 bpm,2
+no respiratory distress,2
+heart rate 140/min,2
+blood pressure 112/66 mmHg,2
+pupils equal,2
+pupils reacted to light,2
+awake,2
+alert,2
+electrolytes normal Na+ (139–141 mmol/L),26
+"lower K+ (3.4, 3.6, 3.8 mmol/L)",26
+single temperature spike 38.8°C,26
+paracetamol administered,26
+drug error explained to parents,26
+uneventful recovery,26
+no residual defects from subdural hematoma,26
+no residual defects from salt overdose,26
+no renal injury,26
+no residual brain damage,26
+follow-up after 1 month,720

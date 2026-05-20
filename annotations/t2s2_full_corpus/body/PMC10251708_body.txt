@@ -1,0 +1,95 @@
+pmcIntroduction
+
+Listeria monocytogenes is a Gram-positive, intracellular bacterium that is encountered commonly in older adults and the immunocompromised. In the adult patient cohort, central nervous system infection leading to meningitis is clinically one of the most commonly seen manifestations of Listeria infection [1, 2]. The incidence rate of listeriosis in those on anti-tumor necrosis factor (TNF)-α therapy is around three cases per 10,000 patient-years, significantly higher than in the general population [2].
+
+TNF is a pro-inflammatory cytokine that plays a pivotal role in the pathogenesis of inflammatory bowel disease (IBD). The inflamed bowel mucosa is made up of a variety of stromal and immune cells that produce both soluble and membrane-bound TNF, along with other pro-inflammatory cytokines such as interleukin (IL)-1β, IL-6 and IL-18 [3]. Hence, TNF inhibitors are a clinically effective option in the treatment of several chronic inflammatory disorders making it even more important for clinicians to be aware of their risks. These agents essentially alter the natural course of ulcerative colitis by encouraging mucosal healing and delaying potential colectomy [4]. There are multiple case reports detailing the development of opportunistic infections associated with anti-TNF therapy. Examples of opportunistic infections described in the literature include tuberculosis, listeriosis, Pneumocystis jiroveci pneumonia and viral or invasive fungal infections [5].
+
+This report explores the rationale, risks and benefits of anti-TNF therapy through a case where infliximab was introduced as rescue therapy for steroid-unresponsive ulcerative colitis (UC). This is one of the few case-based reviews on listeriosis in patients on anti-TNF therapy to present a conundrum with regards to immunosuppression. Most case reports reviewed as part of this article demonstrate the potential severity and heterogeneity of L. monocytogenes infection (Supplementary Material 1, www.journalmc.org). Primary teams generally had to commence the patient on an extended course of antibiotics and consider alternative immunosuppression or reintroduce the same agent once their patient was more stable. However, what makes our report stand out is the “domino effect” of listeriosis where severe infection compels the clinician to hold immunosuppressants only to lead to worsening colitis.
+
+Case Report
+
+Investigations
+
+We hereby present a case of a 62-year-old female with a history of UC first diagnosed in December 2020, initially maintained with 5-aminosalicylic acid (5-ASA). She had an acute severe flare of UC in August 2021 which prompted initiation of infliximab with a 10 mg/kg loading dose (week 0, 2, 6 and 8). Computed tomography (CT) findings show significant colonic inflammation (Fig. 1a, b). Other investigations included positive serology for perinuclear anti-neutrophilic cytoplasmic antibody (pANCA) and antinuclear antibody (ANA). She had a prior history of breast carcinoma and a family history of UC.
+
+Figure 1 (a, b) There is circumferential thickening of the distal ascending (blue arrow), transverse (green arrow), descending (yellow arrow) and rectosigmoid colon (orange arrow) in keeping with colitis.
+
+The patient received two infliximab infusions at week 0 and 2 and re-presented to the emergency department with fever, cough, vomiting and diarrhea associated with generalized weakness, confusion and lethargy. On examination, her Glasgow coma scale (GCS) score was low (12/15) with acutely altered mental status and mild neck stiffness. General examination was unremarkable. Along with baseline bloods, a chest X-ray was performed and a full septic screen including blood and urine cultures was sent. C-reactive protein was elevated at 94 mg/dL (normal range 0 - 5 mg/dL). Hemoglobin was stable at 12.8 g/dL (normal range 12 - 15 g/dL). Coronavirus disease 2019 (COVID-19) (caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)) was not detected. Chest X-ray demonstrated a lower respiratory tract infection and she was commenced on broad-spectrum intravenous piperacillin/tazobactam (Tazocin) as well as fluids.
+
+Due to new-onset confusion and persistent hypotension, she was admitted to the intensive care unit. Shortly after admission, her blood cultures were positive for L. monocytogenes. There was no acute intracranial pathology detected on the brain CT with normal parenchymal brain appearances reported (Fig. 2). Neck stiffness is a red flag symptom for meningeal irritation and hence a lumbar puncture was performed.
+
+Figure 2 Computed tomography of brain (09/10/2021) demonstrating normal parenchymal appearances. Lumbar puncture revealed grossly cloudy cerebrospinal fluid with massively elevated white blood cell count of 1,600/mm3, with 70% polymorphonuclear neutrophils and 30% mononuclear cells. No organisms were seen on gram stains with no growth on cultures but Listeria monocytogenes DNA was detected via polymerase chain reaction. Cerebrospinal fluid (CSF) glucose was low at 1.8 mmol/L (2.22 to 4.44) and CSF protein was raised at 1.75 g/L (0.15 to 0.6) which confirmed a bacterial meningitis. Apart from bacteremia and meningitis, there were no other manifestations of listeriosis in this patient.
+
+After appropriate inpatient management, she suffered a flare of colitis 2 months later which showed Mayo 3 endoscopic appearance (Fig. 3).
+
+Figure 3 Endoscopic photograph of sigmoid - edematous mucosa (blue arrow), erosions (green arrow) and ulcerations (grey arrow). Also note absence of vascular pattern with marked erythematous appearances.
+
+Diagnosis
+
+Her initial diagnosis was an acute severe UC. She received high-dose immunosuppression with infliximab thereafter and developed L. monocytogenes sepsis with meningeal involvement.
+
+Treatment
+
+With the diagnosis of L. monocytogenes septicemia, her infliximab was held and was started on a 21-day course of intravenous amoxicillin. After completing the antibiotic course, infliximab was discontinued (third induction dose was not administered).
+
+Follow-up and outcomes
+
+The patient recovered from L. monocytogenes meningitis and was followed up in the outpatient clinic. Vedolizumab, an α4β7 integrin antagonist, was commenced in November 2021 after discussion with multidisciplinary team (MDT) as a more gut selective biological agent. During this period, the option of a colectomy was discussed with her at several points but was declined.
+
+Unfortunately, she presented again with an acute flare of severe UC 2 months later with Mayo 3 on endoscopy. Upon discussion with MDT, she was a suitable candidate for colectomy due to severe pancolitis, recurrent flares and recent sepsis while on biological therapy. She underwent a subtotal colectomy and had an unremarkable post-surgical course.
+
+Discussion
+
+IBD patients on immunosuppression are at increased risk of opportunistic infections compared to the general population. This risk may be further compounded by a patient’s comorbidities or advanced age. An opportunistic infection is often described as a microbial infection that is non-pathogenic in the general population but occurs with increasing frequency and severity in patients with a weakened immune system either due to their underlying disease or its management [6]. This case is important because it encourages clinicians to remain vigilant for opportunistic infections in IBD patients on potent immunosuppression. It also raises awareness of the importance of tuberculosis and virology testing before the initiation of anti-TNF biologics. We highlight such infections as a key safety issue and discuss how we can better handle them in clinical practice. Early recognition and prompt workup is imperative to reduce morbidity and mortality associated with pathogens like L. monocytogenes. ECCO guidance recommends the discontinuation of anti-TNF-α biologics during infection with Listeria monocytogenes [7]. As seen in the case described above, the consequent decision to withhold immunosuppression runs the risk of relapse of inflammatory colitis. Such inflammatory exacerbations often call for a multidisciplinary team approach, and at times, escalation to surgical management.
+
+We searched PubMed using the search terms “listeria” and “TNF”. A total of 522 results were generated. Additional reports and articles were identified by reading the literature found via electronic searches, of which 25 articles were examined for existing knowledge on this subject as well as clinical learning points. Other articles were excluded due to either pathophysiology dominant content or because they were unrelated to the topic at hand. There were only three articles excluded due to non-English language. Our literature review is not exhaustive but comprised of the most relevant case reports published to date regarding listeriosis in patients commenced on anti-TNF agents (Supplementary Material 1, www.journalmc.org) [2, 8-31].
+
+We included 25 articles in our review which discussed a total of 44 cases. Of note, we also included a case report of pseudomonas meningitis during vedolizumab treatment. Listeria infections related to immunosuppression presented as meningitis in 23 cases (53.5%), isolated bacteremia in 11 cases (25.6%), and brain abscess in two cases. Other sites of infections also included cerebritis, rhombencephalitis, ankle osteomyelitis, endocarditis, terminal ileitis, septic joint arthritis and gallbladder infections. This demonstrates the heterogeneity of listeriosis leading to variable patient presentations, thereby highlighting the high index of suspicion we need to maintain for such opportunistic infections in patients with risk factors. Seventeen patients (38.6%) had UC, 11 (25%) patients had Crohn’s disease (CD), and 13 (29.5%) had rheumatoid arthritis. There was one case of multiple myeloma as well as psoriatic arthritis. Thirty-five case reports featured the use of infliximab. Where infliximab was commenced, 21 cases (60%) developed symptoms of infection after 1 - 2 doses. Nearly all of the reported cases had concomitant immunosuppression on board such as corticosteroids, azathioprine or mercaptopurine which further rendered these patients vulnerable to opportunistic infections (Supplementary Material 1, www.journalmc.org).
+
+Immunosuppressants such as anti-TNF therapy, corticosteroids, mercaptopurine and azathioprine have become the mainstay of management in IBD. Anti-TNF therapy is also used widely for the treatment of rheumatoid arthritis, psoriatic arthritis and ankylosing spondylitis (Supplementary Material 1, www.journalmc.org).
+
+Most patients diagnosed with listeriosis tend to have an invasive infection, meaning the bacteria can potentially spread from their intestines to the blood, causing severe bloodstream infections [32]. The World Health Organisation recognizes the following as risk factors for listeria: pregnancy, patients with human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), cancer and hematological malignancies like leukemia, solid organ transplant recipients or a background of chronic steroid use [33].
+
+The patient was diagnosed with breast cancer in 2018 for which she underwent resection and received chemotherapy and radiotherapy. She was also more susceptible to opportunistic infections due to the recent initiation of anti-TNF-α therapy and recurrent admissions where concomitant high-dose steroids were prescribed for flares of acute severe UC. These vulnerable patient groups should be advised to avoid high-risk meat products such as deli meat as well as supermarket processed meats - this may include cured, cooked and/or fermented sausages and meats, unpasteurised dairy products and cold-smoked fish [33].
+
+In this case, two biologics were featured - infliximab and vedolizumab. Infliximab is a mouse/human chimeric immunoglobulin G1 (IgG1) monoclonal antibody that specifically targets the cytokine TNF-alpha. In the European Union, it is licensed for the management of IBD, rheumatoid arthritis, ankylosing spondylitis, psoriasis as well as psoriatic arthritis [34]. Vedolizumab is a monoclonal antibody with α4β7 integrin antagonist activity. It is a humanized monoclonal antibody with selectivity for the gut that is indicated for use in adults with moderate to severe UC or CD. This is seen being used in clinical practice for patients who either had an inadequate response to, experienced disease relapse, or had intolerance to either conventional UC or CD management or a TNF-alpha inhibitor [35].
+
+The above patient’s treatment for UC was escalated to infliximab (second-line rescue therapy) and eventual surgical intervention in accordance with the guidance provided by the European Crohn’s and Colitis Organisation (ECCO) [36]. Although she refused colonoscopy at the index admission, CT imaging at the time demonstrated circumferential thickening of the distal ascending, transverse, descending and rectosigmoid colon in keeping with colitis. The extensive nature of her colitis in conjunction with the prolonged duration of bloody diarrhea and abdominal pain warranted the use of oral 5-ASA (mesalazine) and steroids [37]. She was later escalated to anti-TNF therapy due to frequent flares.
+
+There is ongoing debate surrounding the optimal dosing of infliximab as rescue therapy in acute severe colitis. The British Society of Gastroenterology recommends an initial dose of 5 mg/kg infliximab as second-line therapy [38]. Induction with an “intensified” regimen has been explored in one of two ways: either through 1) higher infliximab concentrations or through 2) an accelerated infliximab dosing strategy. There is some evidence that during periods of severe inflammation, there is increased infliximab clearance due to factors such as inflammatory burden, fecal loss and generation of anti-drug antibodies. Further, case-control and case series level data have revealed that an intensified induction strategy may reduce colectomy rates in the short term after an acute exacerbation of UC [39]. This is one of the reasons why some clinicians have adopted the 10 mg/kg dose as “salvage” therapy; however, there is insufficient data to make a recommendation [38].
+
+Surgical management is indicated in UC where patients have disease refractory to medical therapy or have intolerable adverse effects to medications. Other surgical indications also include toxic megacolon, perforation or life-threatening bleeding. In the acute setting, a subtotal colectomy with formation of an end ileostomy with long rectal stump is generally recommended. The gold standard would be a proctocolectomy with ileal pouch anal anastomosis (IPAA) which has been shown to generate satisfactory patient outcomes. It is avoided in the emergency setting as there is a higher risk of surgical complications [38]. In this case, the patient underwent a subtotal colectomy as an intermediate procedure for severe pancolitis and recurrent disease flares.
+
+Serious and opportunistic infections should be on our diagnostic radar even before we commence immunomodulator therapy in IBD. It is important to screen patients for viral infections such as hepatitis, HIV, Epstein-Barr virus (EBV), cytomegalovirus (CMV), varicella-zoster virus (VZV) as well as tuberculosis and recommend vaccination and prophylaxis as appropriate [6]. In a patient with acute severe colitis, immunosuppression plays a significant role in their management but they also potentiate severe infections and septicemia. However, if stopped or held during infections, the patient can develop worsening colitis culminating in colectomy. In conclusion, we should aim for more rigorous pre-biological screening, patient education about high-risk foods and better recognition and prompt management of both opportunistic infections and acute severe colitis.
+
+Learning points
+
+Our review demonstrates the risks of opportunistic infections with anti-TNF therapy and the importance of counselling patients before initiation of immunomodulators about the avoidance of high-risk foods for listeriosis such as soft cheeses and unpasteurized milk. In addition, we should be wary of holding immunosuppression in patients with severe colitis - worsening colitis may lead to need for future colectomy. Lastly, it is important to consider a patient’s immune risk profile (i.e., underlying malignancy, comorbidities, older adults, obesity, diabetes, etc.) when commencing immunosuppression - this may guide dosing and also encourage early and close surveillance of high-risk patients.
+
+Supplementary Material
+
+Suppl 1 Review of Reported Listeria Infections Under Biological Drugs
+
+Click here for additional data file.
+
+None to declare.
+
+Financial Disclosure
+
+None to declare.
+
+Conflict of Interest
+
+None to declare.
+
+Informed Consent
+
+Informed consent has been obtained.
+
+Author Contributions
+
+Manuscript draft: Ria Nagpal. Manuscript review and editing: Hemnaath Ulaganathan and Ria Nagpal. Literature review: Ria Nagpal. Acquisition of data: Khushal Khan and Hemnaath Ulaganathan.
+
+Data Availability
+
+The authors declare that data supporting the findings of this study are available within the article.

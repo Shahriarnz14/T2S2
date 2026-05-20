@@ -1,0 +1,84 @@
+event,time
+23-year-old female,0
+admitted to the Emergency Department,0
+painful right breast,-12
+swollen right breast,-12
+right breast discolouration,-12
+offensive nipple discharge,-12
+breast pruritus near inframammary fold,-72
+dizziness,-12
+nausea,-12
+vomiting episodes,-12
+denies history of trauma to breast,0
+obesity,0
+polycystic ovarian syndrome,0
+blood pressure 80/60 mmHg,0
+heart rate 130 beats/min,0
+oxygen saturation 95%,0
+temperature 35.8 °C,0
+swollen right breast,0
+tender right breast,0
+right breast discolouration,0
+erythema to margins,0
+bullae,0
+white cell count 27.85 × 109/L,0
+neutrophilia,0
+C-reactive protein 400 mg/L,0
+metabolic acidosis (pH 7.06),0
+lactate 8.8 mmol/L,0
+creatinine 394 umol/L,0
+eGFR 13 mL/min/1.73 m2,0
+INR 1.8,0
+aPTT 44 s,0
+intravenous crystalloid resuscitation (5 L),0
+metaraminol bolus (2 mg),0
+adrenaline bolus (1.1 mg),0
+anuric,0
+noradrenaline infusion (peak 1.5 mg/h),0
+vasopressin infusion (4 units/h),0
+IV meropenem,0
+IV clindamycin,0
+IV vancomycin,0
+emergency right mastectomy,3
+debridement of necrotic tissue,3
+preservation of pectoralis major,3
+fresh frozen plasma (2 units),3
+vacuum assisted closure dressing,3
+transferred to ICU,3
+intubated,3
+sedated,3
+continuous renal replacement therapy,3
+"troponin-I rise to 20,203 ng/L",24
+ST elevation in inferior leads,24
+"troponin-I peak >40,000 ng/L",24
+adrenaline weaned,24
+vasopressin weaned,24
+packed cells transfusion (2 units),24
+haemoglobin 83 g/L,24
+aspirin,24
+IV heparin infusion,24
+noradrenaline infusion peak (3 mg/hour),6
+noradrenaline weaned,6
+noradrenaline cessation,48
+CRRT ceased,12
+improving urine output,12
+improving renal function,12
+extubated,192
+wound debridements (3 further),24
+"VAC applications (days 1, 5, 9)",24
+streptococcus pyogenes culture positive,5
+confirmed no allergies,5
+antibiotic changed to benzylpenicillin,5
+afebrile,5
+oral amoxicillin for 19 days,5
+resolving ST elevation,0
+ejection fraction 55%,0
+small septal and inferior wall motion abnormality,0
+mild hypokinesis,0
+CT coronary angiograms planned,0
+ICU stay (12 days),0
+transferred to tertiary hospital (day 16),384
+further debridement,384
+skin grafting,384
+blood parameters normalized,384
+discharged home,0

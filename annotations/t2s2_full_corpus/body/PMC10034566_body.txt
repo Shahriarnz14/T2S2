@@ -1,0 +1,55 @@
+pmcCase report
+
+We report the case of a 30-year-old homozygous sickle cell disease (SCD) female with respiratory failure and neurological deterioration complicating a vaso-occlusive crisis. The patient was admitted to the intensive care unit (ICU) of our institution as a transfer from an outside hospital.
+
+The patient had presented with an acute vaso-occlusive crisis and fever. The pain was similar to her previous vaso-occlusive episodes and involved especially the lower extremities. Upon admission, she was lethargic. On physical examination, the patient's temperature was recorded as 38 °. Heart rate was 140 bpm. The laboratory tests had shown anemia with 8.3 g/dl of hemoglobin, decreased haptoglobin (17 mg/dL), hyperleukocytosis (23.08 × 103/μL) with predominantly PNN at 18.7 × 103/μL elements and an increase in CRP to 215mg/L. Liver tests were altered (AST 121 UI/L; ALT 64 UI/L; AP 450 UI/L; LDH 3861 UI/L; total bilirubin 3.9 mg/dL). The renal function was within normal limits. Arterial oxygen saturation (PAO2) was 80%.
+
+A chest CT angiography had been performed and had excluded a pulmonary embolism but had revealed bilateral pulmonary consolidations. Unenhanced cerebral CT-scan with CT-angiography were unremarkable. SARS-CoV-2 RT-PCR and serology testing were negative. The diagnosis of vaso-occlusive crisis with acute thoracic syndrome was retained and the patient was transferred to our ICU.
+
+An MRI of the brain was obtained, which excluded venous sinus thrombosis but revealed a few punctate foci of restricted diffusion and T2 FLAIR prolongation (Figs. 1 A-D), together with numerous punctate foci of low signal intensity on susceptibility-weighted (SW) images in both supra- and infra-tentorial areas (Figs. 1 E-F). Findings were considered consistent with cerebral fat embolism syndrome.Fig. 1 Brain MRI obtained 72 hours from symptoms onset in a 30-year-old patient with sickle cell disease presenting with an acute chest syndrome and neurological deterioration. Axial DW images (A-B) show a handful of punctate foci of restricted diffusion, with corresponding increased SI on T2 FLAIR-weighted images (C, D). Axial SW MinIP (E-F) images reveal innumerable punctate foci of low signal involving the gray-white matter junction of both cerebral hemispheres, the corpus callosum – especially the splenium -, the basal ganglia, internal capsule, the brainstem and  cerebellum. There is relative sparing of the cortex and periventricular and deep white matter. DW, diffusion-weighted; FLAIR, fluid attenuation inversion recovery; MinIP, minimum intensity projection; SI, signal intensity; SW, susceptibility-weighted.
+
+Fig 1
+
+The patient was treated with antalgics, antibiotics, and red cell exchange. She was discharged from the ICU on the fourth day of hospitalization. Neurological symptoms completely regressed after approximately 2 weeks.
+
+A follow-up cerebral MRI performed one year later revealed almost complete regression of signal abnormalities on diffusion-weighted and T2 FLAIR-weighted sequences, whereas there were no interval changes on SWI, with persistent, unchanged, disseminated cerebral microbleeds.
+
+Discussion
+
+The term cerebral microbleeds (CMB) refers to small deposits of chronic blood products in normal or near-normal brain which appear as punctate foci of low signal intensity on MRI sequences that are sensitive to susceptibility effects. These low signal dots have been proven to correspond to clusters of perivascular hemosiderin-laden macrophages on pathology [[1], [2]]. Due to its superparamagnetic properties, hemosiderin is indeed responsible for marked T2-T2* shortening, resulting in dark-appearing areas on MRI [3].
+
+CMB occur in a variety of conditions, the most common ones being hypertensive vasculopathy and cerebral amyloid angiopathy. Less frequent causes of CMB include posterior reversible encephalopathy syndrome, disseminated intravascular coagulation, extracorporeal membrane oxygenation (ECMO), COVID-19 infection, infective endocarditis, radiotherapy, cocaine abuse, Moyamoya disease, and cerebral fat embolism [[4], [5], [6], [7], [8]].
+
+Cerebral fat embolism is reported in up to 60% of patients with fat embolism syndrome, a rare but well described condition most commonly complicating displaced long bone fractures of the lower extremities [9]. Rare causes of fat embolism syndrome include acute and chronic pancreatitis, bone marrow transplantation, liposuction, and SCD [10,11]. In the setting of SCD, the syndrome is caused by ischemic necrosis of the bone marrow, with fat emboli subsequently spreading to multiple organs [12].
+
+Clinical features of fat embolism syndrome are represented by respiratory distress, neurological impairment and skin petechiae, typically seen between 12 and 72 hours after the injury. Acute kidney injury, anemia, thrombocytopenia, fever, tachycardia, and jaundice may also be observed [13].
+
+Cerebral fat embolism is usually self-limiting. Most patients, while usually presenting with severe neurological symptoms, which vary from moderate disturbances of the level of consciousness to coma, are reported to recover completely or show only minor neurological deficits after rehabilitation [14]. Rare cases of death and long-term neurocognitive impairment have been reported [[14], [15], [16]].
+
+Cerebral fat embolism has been associated with peculiar MRI findings. In the acute phase, occlusion of small cerebral vessels by fat emboli leads to microinfarcts that appear as punctate hyperintensities on the hypointense background of the brain parenchyma on DW-MRI - this imaging appearance being referred to as “starfield pattern” because of its resemblance to a starry sky at night [[17], [18], [19]]. Lesions are distributed bilaterally in the watersheds and deep gray matter. Larger, confluent areas of cytotoxic edema may also be seen, frequently involving the corpus callosum (in up to 77% of cases according to [4]).
+
+SWI usually shows innumerable foci of susceptibility artifact representing microhemorrhage, caused by vessel wall rupture and perivascular extravasation of blood products [20]. There is typically marked involvement of the corpus callosum and subcortical white matter, middle cerebellar peduncles, and cerebellar hemispheres, with sparing of the cortex and deep and periventricular white matter [[18], [21]].
+
+Critically ill cerebral microbleeds (CICM), a recently described entity that occurs in critically ill and mechanically ventilated respiratory failure patients [[21], [22]], display an identical distribution. As discussed in the extensive review by Fanou et al., CICM are observed after an acute and life-threatening event, often complicated by acute respiratory failure, in patients with hematological diseases, including acute myeloid leukemia, Hodgkin's disease and SCID, pneumonia, cystic fibrosis after lung transplantation, pulmonary arteriovenous fistula, sepsis, acute vasculitis, acute respiratory distress syndrome or acute encephalitis. Interestingly, corpus callosum-predominant and juxtacortical white matter microbleeds have also been described in patients exposed to high altitude [[21], [23], [24]]. As suggested by Fanou et al., in both high-altitude exposure microbleeds and CICMs hypoxemic damage of the blood–brain barrier endothelial cells could potentially account for perivascular extravasation of erythrocytes [[23], [24], [25]], ultimately resulting in detectable signal abnormalities on SWI-MRI.
+
+Whereas in fat embolism syndrome cerebral microhemorrhages are typically associated with extensive diffusion restriction, our patient presented relatively few foci of restricted diffusion compared not only to the number of low signal intensity foci on SWI but also to the classical “starfield pattern” disseminated hyperintensities. CICM are instead associated with very few foci of restricted diffusion [21].
+
+These observations suggested that CICMs possibly coexisted with cerebral fat emboli in our patient.
+
+Follow-up MRI did not add any useful information that could help in the differential diagnosis, as neither fat embolism microbleeds nor CICM show any significant interval change from the acute to the late stage. DWI and FLAIR signal abnormalities are conversely reversible as fat vacuoles typically split into smaller globules which can pass the capillary filter with consequent reperfusion of occluded vessels.
+
+The clinical significance of CICMs is still unclear. Further investigations are needed to assess whether differential diagnosis between fat emboli and CICMs may impact treatment strategy. Also, follow-up MRI studies are warranted to evaluate whether outcome may be different.
+
+Patient consent
+
+We have a written and informed consent from the patient.
+
+Appendix Supplementary materials
+
+Image, application 1
+
+Acknowledgments: The authors have not received any funding for this work.
+
+Competing Interests: The authors declare they have no conflict of interest to declare. They have not received any funding for this work.
+
+Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.radcr.2023.02.044.

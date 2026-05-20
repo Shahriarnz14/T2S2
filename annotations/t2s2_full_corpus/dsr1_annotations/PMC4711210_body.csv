@@ -1,0 +1,65 @@
+event,time
+28 years old,0
+male,0
+presented to casualty posttreatment,0
+near drowning in a paper factory,-120
+ventilated in view of acute respiratory distress syndrome,-120
+received ceftriaxone,-120
+received empiric antibiotic therapy,-120
+received other therapies,-120
+high-grade fever,0
+tachypnea,0
+oxygen saturation of 87% on 15 L oxygen,0
+tracheal tube in situ,0
+"leukocytosis (17,200/cumm)",0
+hemoglobin 11.1 g%,0
+normal electrolytes,0
+creatinine of 1.8 mg/dl,0
+endotracheal secretions sent for gram stain,0
+endotracheal secretions sent for fungal stain,0
+endotracheal secretions sent for acid-fast stain,0
+endotracheal secretions sent for cultures,0
+blood samples sent for gram stain,0
+blood samples sent for fungal stain,0
+blood samples sent for acid-fast stain,0
+blood samples sent for cultures,0
+urine samples sent for gram stain,0
+urine samples sent for fungal stain,0
+urine samples sent for acid-fast stain,0
+urine samples sent for cultures,0
+antibiotic coverage changed to cefoperazone + sulbactam,0
+chest X-ray revealed bilateral alveolar shadows,0
+chest X-ray revealed cystic lesion in lung parenchyma,0
+CT brain showed multiple ill-defined round hypodense lesions,0
+CT brain showed surrounding edema,0
+CT chest with contrast showed multiple round nodular lesions,0
+CT chest with contrast showed central cavitation,0
+CT scan abdomen revealed patchy hypodensities in kidneys,0
+CT scan abdomen revealed patchy hypodensities in gluteal muscles,0
+echocardiography normal,0
+BAL performed,0
+transbronchial biopsy performed,0
+antibiotic escalated to meropenem,0
+microbiological laboratory reports negative,48
+serum galactomannan raised (1.5),48
+endotracheal aspirate fungal stain showed Aspergillus species,48
+voriconazole started,48
+caspofungin started,48
+suspicion of invasive aspergillosis,48
+hemodynamic instability,48
+developed hemoptysis,48
+developed tachycardia,48
+developed desaturation,48
+fresh frozen plasma administered,48
+tranexamic acid administered,48
+septic shock,96
+required vasopressors,96
+worsening respiratory acidosis,96
+leukopenia (2200/cumm),96
+transbronchial biopsy revealed neutrophilic exudates,96
+transbronchial biopsy revealed fungal broad hyphae,96
+transbronchial biopsy revealed broad angle branching,96
+features suggestive of Aspergillus infection,96
+BAL culture revealed Aspergillus fumigatus growth,96
+expired,120
+severe multiorgan dysfunction,120

@@ -1,0 +1,431 @@
+event,time
+\,
+\boxed{,
+65 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+fever ,0.0
+chills ,0.0
+pain in left leg ,0.0
+known case of parkinsonism ,0.0
+diabetes mellitus ,0.0
+levodopa / carbidopa ,0.0
+rasagiline ,0.0
+ropinirole ,0.0
+trihexyphenidyl ,0.0
+amantadine ,0.0
+metformin ,0.0
+glipizide ,0.0
+multiple hospital and ICU admissions ,0.0
+worsening parkinsonism ,0.0
+admitted to the ward for cellulitis ,0.0
+intravenous clindamycin ,0.0
+intravenous benzylpenicillin ,0.0
+anti-parkinsonism and diabetic medications continued ,0.0
+persistently high-temperature spikes ,72.0
+tachycardia ,72.0
+tachypnea ,72.0
+hypotensive ,72.0
+encephalopathic ,72.0
+shifted to ICU ,72.0
+sepsis with multi-organ dysfunction syndrome ,72.0
+intravenous linezolid ,72.0
+intravenous piperacillin with tazobactam ,72.0
+vancomycin not considered ,72.0
+hemodynamics improved ,72.0
+minimal inotropic supports ,72.0
+anti-parkinsonism drugs continued ,72.0
+oral hypoglycemic agents stopped ,72.0
+switched to insulin ,72.0
+confused ,72.0
+drowsy ,72.0
+disoriented ,72.0
+altered sensorium ,72.0
+myoclonus ,72.0
+tremors ,72.0
+jerky movements ,72.0
+no neck stiffness ,72.0
+computed tomography of the brain not significant ,72.0
+cerebrospinal fluid analysis not significant ,72.0
+improving white blood cell counts ,72.0
+better glycemic control ,72.0
+blood and pus cultures sterile ,72.0
+high temperature ,168.0
+altered mental status ,168.0
+myoclonus ,168.0
+jerky movements ,168.0
+tremors ,168.0
+serotonin syndrome suspected ,168.0
+linezolid and rasagiline stopped ,168.0
+temperature settled ,176.0
+heart rate normal ,192.0
+sensorium improved ,192.0
+tremors completely subsided ,192.0
+shifted out of the ICU ,192.0
+started walking with support ,264.0
+discharged from the hospital ,264.0
+discharged with anti-parkinsonism drugs ,264.0
+rasagiline added ,264.0
+regular follow-up with the neurologist ,264.0
+stable and remained asymptomatic for serotonin syndrome ,264.0
+},
+\boxed{,
+65 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+fever ,0.0
+chills ,0.0
+pain in left leg ,0.0
+known case of parkinsonism ,0.0
+diabetes mellitus ,0.0
+levodopa / carbidopa ,0.0
+rasagiline ,0.0
+ropinirole ,0.0
+trihexyphenidyl ,0.0
+amantadine ,0.0
+metformin ,0.0
+glipizide ,0.0
+multiple hospital and ICU admissions ,0.0
+worsening parkinsonism ,0.0
+admitted to the ward for cellulitis ,0.0
+intravenous clindamycin ,0.0
+intravenous benzylpenicillin ,0.0
+anti-parkinsonism and diabetic medications continued ,0.0
+persistently high-temperature spikes ,72.0
+tachycardia ,72.0
+tachypnea ,72.0
+hypotensive ,72.0
+encephalopathic ,72.0
+shifted to ICU ,72.0
+sepsis with multi-organ dysfunction syndrome ,72.0
+intravenous linezolid ,72.0
+intravenous piperacillin with tazobactam ,72.0
+vancomycin not considered ,72.0
+hemodynamics improved ,72.0
+minimal inotropic supports ,72.0
+anti-parkinsonism drugs continued ,72.0
+oral hypoglycemic agents stopped ,72.0
+switched to insulin ,72.0
+confused ,72.0
+drowsy ,72.0
+disoriented ,72.0
+altered sensorium ,72.0
+myoclonus ,72.0
+tremors ,72.0
+jerky movements ,72.0
+no neck stiffness ,72.0
+computed tomography of the brain not significant ,72.0
+cerebrospinal fluid analysis not significant ,72.0
+improving white blood cell counts ,72.0
+better glycemic control ,72.0
+blood and pus cultures sterile ,72.0
+high temperature ,168.0
+altered mental status ,168.0
+myoclonus ,168.0
+jerky movements ,168.0
+tremors ,168.0
+serotonin syndrome suspected ,168.0
+linezolid and rasagiline stopped ,168.0
+temperature settled ,176.0
+heart rate normal ,192.0
+sensorium improved ,192.0
+tremors completely subsided ,192.0
+shifted out of the ICU ,192.0
+started walking with support ,264.0
+discharged from the hospital ,264.0
+discharged with anti-parkinsonism drugs ,264.0
+rasagiline added ,264.0
+regular follow-up with the neurologist ,264.0
+stable and remained asymptomatic for serotonin syndrome ,264.0
+} \n,
+\boxed{,
+65 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+fever ,0.0
+chills ,0.0
+pain in left leg ,0.0
+known case of parkinsonism ,0.0
+diabetes mellitus ,0.0
+levodopa / carbidopa ,0.0
+rasagiline ,0.0
+ropinirole ,0.0
+trihexyphenidyl ,0.0
+amantadine ,0.0
+metformin ,0.0
+glipizide ,0.0
+multiple hospital and ICU admissions ,0.0
+worsening parkinsonism ,0.0
+admitted to the ward for cellulitis ,0.0
+intravenous clindamycin ,0.0
+intravenous benzylpenicillin ,0.0
+anti-parkinsonism and diabetic medications continued ,0.0
+persistently high-temperature spikes ,72.0
+tachycardia ,72.0
+tachypnea ,72.0
+hypotensive ,72.0
+encephalopathic ,72.0
+shifted to ICU ,72.0
+sepsis with multi-organ dysfunction syndrome ,72.0
+intravenous linezolid ,72.0
+intravenous piperacillin with tazobactam ,72.0
+vancomycin not considered ,72.0
+hemodynamics improved ,72.0
+minimal inotropic supports ,72.0
+anti-parkinsonism drugs continued ,72.0
+oral hypoglycemic agents stopped ,72.0
+switched to insulin ,72.0
+confused ,72.0
+drowsy ,72.0
+disoriented ,72.0
+altered sensorium ,72.0
+myoclonus ,72.0
+tremors ,72.0
+jerky movements ,72.0
+no neck stiffness ,72.0
+computed tomography of the brain not significant ,72.0
+cerebrospinal fluid analysis not significant ,72.0
+improving white blood cell counts ,72.0
+better glycemic control ,72.0
+blood and pus cultures sterile ,72.0
+high temperature ,168.0
+altered mental status ,168.0
+myoclonus ,168.0
+jerky movements ,168.0
+tremors ,168.0
+serotonin syndrome suspected ,168.0
+linezolid and rasagiline stopped ,168.0
+temperature settled ,176.0
+heart rate normal ,192.0
+sensorium improved ,192.0
+tremors completely subsided ,192.0
+shifted out of the ICU ,192.0
+started walking with support ,264.0
+discharged from the hospital ,264.0
+discharged with anti-parkinsonism drugs ,264.0
+rasagiline added ,264.0
+regular follow-up with the neurologist ,264.0
+stable and remained asymptomatic for serotonin syndrome ,264.0
+} \n,
+\boxed{,
+65 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+fever ,0.0
+chills ,0.0
+pain in left leg ,0.0
+known case of parkinsonism ,0.0
+diabetes mellitus ,0.0
+levodopa / carbidopa ,0.0
+rasagiline ,0.0
+ropinirole ,0.0
+trihexyphenidyl ,0.0
+amantadine ,0.0
+metformin ,0.0
+glipizide ,0.0
+multiple hospital and ICU admissions ,0.0
+worsening parkinsonism ,0.0
+admitted to the ward for cellulitis ,0.0
+intravenous clindamycin ,0.0
+intravenous benzylpenicillin ,0.0
+anti-parkinsonism and diabetic medications continued ,0.0
+persistently high-temperature spikes ,72.0
+tachycardia ,72.0
+tachypnea ,72.0
+hypotensive ,72.0
+encephalopathic ,72.0
+shifted to ICU ,72.0
+sepsis with multi-organ dysfunction syndrome ,72.0
+intravenous linezolid ,72.0
+intravenous piperacillin with tazobactam ,72.0
+vancomycin not considered ,72.0
+hemodynamics improved ,72.0
+minimal inotropic supports ,72.0
+anti-parkinsonism drugs continued ,72.0
+oral hypoglycemic agents stopped ,72.0
+switched to insulin ,72.0
+confused ,72.0
+drowsy ,72.0
+disoriented ,72.0
+altered sensorium ,72.0
+myoclonus ,72.0
+tremors ,72.0
+jerky movements ,72.0
+no neck stiffness ,72.0
+computed tomography of the brain not significant ,72.0
+cerebrospinal fluid analysis not significant ,72.0
+improving white blood cell counts ,72.0
+better glycemic control ,72.0
+blood and pus cultures sterile ,72.0
+high temperature ,168.0
+altered mental status ,168.0
+myoclonus ,168.0
+jerky movements ,168.0
+tremors ,168.0
+serotonin syndrome suspected ,168.0
+linezolid and rasagiline stopped ,168.0
+temperature settled ,176.0
+heart rate normal ,192.0
+sensorium improved ,192.0
+tremors completely subsided ,192.0
+shifted out of the ICU ,192.0
+started walking with support ,264.0
+discharged from the hospital ,264.0
+discharged with anti-parkinsonism drugs ,264.0
+rasagiline added ,264.0
+regular follow-up with the neurologist ,264.0
+stable and remained asymptomatic for serotonin syndrome ,264.0
+} \n,
+\boxed{,
+65 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+fever ,0.0
+chills ,0.0
+pain in left leg ,0.0
+known case of parkinsonism ,0.0
+diabetes mellitus ,0.0
+levodopa / carbidopa ,0.0
+rasagiline ,0.0
+ropinirole ,0.0
+trihexyphenidyl ,0.0
+amantadine ,0.0
+metformin ,0.0
+glipizide ,0.0
+multiple hospital and ICU admissions ,0.0
+worsening parkinsonism ,0.0
+admitted to the ward for cellulitis ,0.0
+intravenous clindamycin ,0.0
+intravenous benzylpenicillin ,0.0
+anti-parkinsonism and diabetic medications continued ,0.0
+persistently high-temperature spikes ,72.0
+tachycardia ,72.0
+tachypnea ,72.0
+hypotensive ,72.0
+encephalopathic ,72.0
+shifted to ICU ,72.0
+sepsis with multi-organ dysfunction syndrome ,72.0
+intravenous linezolid ,72.0
+intravenous piperacillin with tazobactam ,72.0
+vancomycin not considered ,72.0
+hemodynamics improved ,72.0
+minimal inotropic supports ,72.0
+anti-parkinsonism drugs continued ,72.0
+oral hypoglycemic agents stopped ,72.0
+switched to insulin ,72.0
+confused ,72.0
+drowsy ,72.0
+disoriented ,72.0
+altered sensorium ,72.0
+myoclonus ,72.0
+tremors ,72.0
+jerky movements ,72.0
+no neck stiffness ,72.0
+computed tomography of the brain not significant ,72.0
+cerebrospinal fluid analysis not significant ,72.0
+improving white blood cell counts ,72.0
+better glycemic control ,72.0
+blood and pus cultures sterile ,72.0
+high temperature ,168.0
+altered mental status ,168.0
+myoclonus ,168.0
+jerky movements ,168.0
+tremors ,168.0
+serotonin syndrome suspected ,168.0
+linezolid and rasagiline stopped ,168.0
+temperature settled ,176.0
+heart rate normal ,192.0
+sensorium improved ,192.0
+tremors completely subsided ,192.0
+shifted out of the ICU ,192.0
+started walking with support ,264.0
+discharged from the hospital ,264.0
+discharged with anti-parkinsonism drugs ,264.0
+rasagiline added ,264.0
+regular follow-up with the neurologist ,264.0
+stable and remained asymptomatic for serotonin syndrome ,264.0
+} \n,
+\boxed{,
+65 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+fever ,0.0
+chills ,0.0
+pain in left leg ,0.0
+known case of parkinsonism ,0.0
+diabetes mellitus ,0.0
+levodopa / carbidopa ,0.0
+rasagiline ,0.0
+ropinirole ,0.0
+trihexyphenidyl ,0.0
+amantadine ,0.0
+metformin ,0.0
+glipizide ,0.0
+multiple hospital and ICU admissions ,0.0
+worsening parkinsonism ,0.0
+admitted to the ward for cellulitis ,0.0
+intravenous clindamycin ,0.0
+intravenous benzylpenicillin ,0.0
+anti-parkinsonism and diabetic medications continued ,0.0
+persistently high-temperature spikes ,72.0
+tachycardia ,72.0
+tachypnea ,72.0
+hypotensive ,72.0
+encephalopathic ,72.0
+shifted to ICU ,72.0
+sepsis with multi-organ dysfunction syndrome ,72.0
+intravenous linezolid ,72.0
+intravenous piperacillin with tazobactam ,72.0
+vancomycin not considered ,72.0
+hemodynamics improved ,72.0
+minimal inotropic supports ,72.0
+anti-parkinsonism drugs continued ,72.0
+oral hypoglycemic agents stopped ,72.0
+switched to insulin ,72.0
+confused ,72.0
+drowsy ,72.0
+disoriented ,72.0
+altered sensorium ,72.0
+myoclonus ,72.0
+tremors ,72.0
+jerky movements ,72.0
+no neck stiffness ,72.0
+computed tomography of the brain not significant ,72.0
+cerebrospinal fluid analysis not significant ,72.0
+improving white blood cell counts ,72.0
+better glycemic control ,72.0
+blood and pus cultures sterile ,72.0
+high temperature ,168.0
+altered mental status ,168.0
+myoclonus ,168.0
+jerky movements ,168.0
+tremors ,168.0
+serotonin syndrome suspected ,168.0
+linezolid and rasagiline stopped ,168.0
+temperature settled ,176.0
+heart rate normal ,192.0
+sensorium improved ,192.0
+tremors completely subsided ,192.0
+shifted out of the ICU ,192.0
+started walking with support ,264.0
+discharged from the hospital ,264.0
+discharged with anti-parkinsonism drugs ,264.0
+rasagiline added ,264.0
+regular follow-up with the neurologist ,264.0
+stable and remained asymptomatic for serotonin syndrome ,264.0
+} \n,
+\boxed{,
+65 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+fever ,0.0
+chills ,0.0
+pain in left leg ,0.0
+known case of parkinsonism ,0.0
+diabetes mellitus ,0.0
+levodopa / carbidopa ,0.0
+rasagiline ,0.0
+ropinirole ,0.0
+trihexyphenidyl ,0.0
+amantadine ,0.0
+met,

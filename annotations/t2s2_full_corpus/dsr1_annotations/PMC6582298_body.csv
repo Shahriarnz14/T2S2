@@ -1,0 +1,142 @@
+event,time
+8 years old,0
+female,0
+spayed,0
+domestic shorthair cat,0
+acute onset of lethargy,-23
+acute onset of pain,-23
+indoor/outdoor cat,0
+not up to date with vaccinations,0
+no known history of trauma,0
+no recent medication administration,0
+elevated body temperature 39.9°C,-23
+hypotensive (80 mmHg),-23
+tachypneic (60 breaths per min),-23
+painful at thoracolumbar spine,-23
+three small puncture wounds on back,-23
+mild hyperglycemia (9.82 mmol/l),-23
+normal white blood cell count (17.27 × 10^9/l),-23
+PCV 41%,-23
+TP 7.5 g/dl,-23
+negative retroviral disease (FeLV/FIV),-23
+mild diffuse bronchointerstitial pulmonary pattern,-23
+normal abdomen,-23
+normal skeletal structures,-23
+soft tissue swelling dorsal to lumbar spine,-23
+gas dorsal to lumbar spine,-23
+cellulitis,-23
+two IV crystalloid fluid boluses (LRS),-23
+Doppler blood pressure increased to 98 mmHg,-23
+IV LRS (60 ml/kg/day) for 3 hours,-23
+IV buprenorphine (0.01 mg/kg),-23
+hospitalization declined,-23
+discharged home,-23
+OTM buprenorphine (0.01 mg/kg q8h),-23
+oral amoxicillin/clavulanic acid (11.16 mg/kg q12h),-23
+culture of wound declined,-23
+lethargy persisted,-24
+anorexia,-24
+re-presented to hospital (23h later),0
+obtunded,0
+body temperature 37.7°C,0
+respiratory rate 50 breaths per min,0
+heart rate 180 beats per min,0
+IV catheter placed in right cephalic vein,0
+severely hypotensive (30 mmHg),0
+hypoglycemic (1.9 mmol/dl),0
+negative FAST exam,0
+warm skin on dorsum,0
+subcutaneous fluid pocket suspected,0
+fine-needle aspirate of area,0
+cytology consistent with septic suppurative inflammation,0
+fluid submitted for aerobic culture,0
+abdominal ultrasound (no significant findings),0
+PCV 43%,0
+TP 6.3 g/dl,0
+normal venous blood gas,0
+admitted to ICU,0
+ampicillin-sulbactam (30 mg/kg IV q8h),0
+enrofloxacin (7 mg/kg IV q24h),0
+metronidazole (9.8 mg/kg IV q12h),0
+vitamin C (30 mg/kg IV q8h),0
+maropitant citrate (1 mg/kg IV q24h),0
+famotidine (1 mg/kg IV q24h),0
+fentanyl CRI (4 µg/kg/h),0
+dextrose bolus (1 ml/kg 25% IV),0
+LRS with 5% dextrose and potassium chloride (85 ml/kg/day),0
+sedated with fentanyl and midazolam,0
+wound opened surgically,0
+wound debrided,0
+wound lavaged with saline,0
+wet-to-dry tie over bandage placed,0
+double-lumen catheter in left jugular vein,0
+indwelling urinary catheter placed,0
+unsuccessful arterial catheter in left dorsal pedal artery,0
+remained hypotensive (30–40 mmHg),0
+norepinephrine CRI started,0
+arterial catheter placed in right dorsal pedal artery,0
+mean arterial blood pressure 30 mmHg,0
+dopamine CRI started,24
+refractory hypotension (MAP 40 mmHg),24
+vasopressin CRI initiated,24
+hydrocortisone CRI (0.08 mg/kg/h) started,24
+more responsive and able to lift head (next day),24
+dextrose supplementation discontinued,24
+wet-to-dry bandage replaced,24
+enrofloxacin continued,24
+ampicillin-sulbactam continued,24
+metronidazole continued,24
+maropitant continued,24
+hydrocortisone CRI continued,24
+norepinephrine dose decreased,24
+dopamine dose decreased,24
+dopamine discontinued,24
+able to maintain sternal recumbency (day 3),48
+ate small amount of food,48
+motor function present in all limbs,48
+pain sensation present in all limbs,48
+unable to stand or walk,48
+less painful,48
+fentanyl CRI decreased to 2 µg/kg/h,48
+wet-to-dry bandage changed,48
+norepinephrine and vasopressin doses decreased,48
+norepinephrine and vasopressin CRIs discontinued,48
+MAP 70–80 mmHg,48
+Jackson-Pratt drain placed (day 5),120
+wound closed by surgeon,120
+brief hypotension (MAP 45 mmHg) during surgery,120
+treated with dopamine (5 µg/kg/min),120
+hypotension resolved,120
+dopamine discontinued,120
+PCV 19%,120
+anemia suspected dilution/surgical loss,120
+blood type A,120
+packed red blood cells transfused,120
+started eating readily,120
+transitioned to oral amoxicillin/clavulanic acid,120
+transitioned to enrofloxacin,120
+transitioned to OTM buprenorphine,120
+wound culture: coagulase-negative Staphylococcus,120
+enrofloxacin discontinued,120
+"swollen, edematous, cold right thoracic limb (day 6)",144
+"swollen, edematous, cold right pelvic limb (day 6)",144
+right cephalic IV catheter removed,144
+right dorsal pedal arterial catheter removed,144
+central venous catheter maintained,144
+"cold, painful, discolored paws (day 7)",168
+skin sloughing on paw pads (day 7),168
+line of demarcation on limbs,168
+strong pedal pulses via Doppler,168
+clopidogrel started (3.35 mg/kg PO q24h),168
+normotensive (MAP >70 mmHg),168
+daily wet-to-dry bandage changes,168
+hydrotherapy,168
+discharged after 11 days,264
+soft padded bandages on right limbs,264
+paws fully healed (2 weeks outpatient),456
+ambulatory with mild pelvic limb weakness,456
+symmetrical peripheral gangrene suspected,168
+sepsis,0
+vasopressor therapy,0
+no large vessel obstruction,168
+no vasculitis,168

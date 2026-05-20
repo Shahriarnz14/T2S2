@@ -1,0 +1,61 @@
+event,time
+84 years old,0
+Caucasian,0
+female,0
+generalized abdominal pain,-48
+vomiting,-48
+diarrhea,-48
+brought to the emergency department,0
+altered general status,0
+respiratory distress,0
+tachypnea,0
+use of accessory muscles,0
+fever (39.5°C),0
+tachycardia (130-140 bpm),0
+tachypnea (37 breaths/min),0
+desaturation (70% on room air),0
+hypotension (systolic BP 70 mmHg),0
+primary metabolic acidosis,0
+anion gap 23,0
+oxygen saturation increased to 95% (non-rebreather),0
+hydration (3 L normal saline),0
+systolic BP increased to 120 mmHg,0
+right upper quadrant tenderness,0
+positive Murphy’s sign,0
+blood cultures taken,0
+urine cultures taken,0
+Amikacin 1g administered,0
+Vancomycin 1g administered,0
+Tazocin 4.5g IV every 6 hours,0
+remained in emergency department (ICU unavailable),0
+COVID-19 PCR negative (nasopharyngeal swab),0
+C-reactive protein 50,0
+lactate dehydrogenase 240,0
+ferritin 271.6,0
+fibrinogen 1017.15,0
+ESR 86,0
+lymphopenia (357/mm³),0
+elevated amylase (578 U/L),0
+elevated bilirubin (total 2.29 mg/dL),0
+normal AST,0
+normal ALT,0
+CT chest-abdomen-pelvis findings (COVID-19 pneumonia),0
+distended gallbladder (4.6 cm),0
+gallbladder wall defects (partial necrosis),0
+fat stranding,0
+peri-vesicular fluid,0
+pericholecystic abscesses,0
+scheduled for percutaneous drainage,24
+repeat COVID-19 PCR,24
+hypotension refractory to IV fluids,24
+dopamine started,24
+systolic BP 50 mmHg,48
+desaturation (70% on non-rebreather),48
+double oxygen source (non-rebreather and high flow),48
+intubation,48
+cardio-pulmonary arrest,48
+resuscitation failed,48
+pronounced dead,48
+repeat COVID-19 PCR positive,48
+blood cultures negative,48
+urine culture negative,48

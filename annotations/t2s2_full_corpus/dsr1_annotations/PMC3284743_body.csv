@@ -1,0 +1,198 @@
+event,time
+26 years old,0
+male,0
+Prader-Willi Syndrome,0
+hypotonia at birth,-262800
+poor sucking at birth,-262800
+cryptorchidism at birth,-262800
+pneumonia during infancy,-262800
+chromosome 15 long arm deletion,-262800
+level 2 mental retardation at age 12,-122640
+diabetes mellitus at age 12,-122640
+medication for diabetes,-122640
+chronic renal failure 3 years ago,-26280
+hemodialysis three times a week,-26280
+morbid obesity,0
+sleep apnea,0
+hypertension,0
+diabetes mellitus,0
+cellulitis left foot,-72
+rash in left foot,-72
+pain in left foot,-72
+edema in left foot,-72
+hospitalization for cellulitis,-72
+body temperature 38.2℃,-72
+heart rate 110 beats/min,-72
+blood pressure 140/70 mmHg,-72
+respiration rate 22/min,-72
+unsatisfactory treatment progress,0
+advised foot amputation,0
+refusal of guardian,0
+skin disinfection,0
+antibiotic treatment,0
+right brachiobasilic arteriovenous fistula obstruction,-24
+ultrasonography,-24
+giant pseudoaneurysms,-24
+aneurysmectomy,-24
+vessel ligation,-24
+local anesthesia,-24
+anxiety during surgery,-24
+guardian presence in operating room,-24
+dual lumen catheterization right subclavian vein,-24
+planned left brachiocephalic fistula surgery,-24
+uncooperative patient,-24
+request for general anesthesia,-24
+preoperative hemoglobin 7.5 g/dl,0
+hematocrit 22.8%,0
+glomerular filtration rate 11.65 ml/min,0
+sodium 131 mEq/l,0
+potassium 6.6 mEq/l,0
+glucose 112-354 mg/dl,0
+ABGA pH 7.311,0
+PaCO2 36.0 mmHg,0
+PaO2 70.9 mmHg,0
+HCO3- 17.8 mEq/l,0
+SaO2 93.0%,0
+EKG no abnormalities,0
+chest X-ray pulmonary edema,0
+chest X-ray cardiomegaly,0
+height 150 cm,0
+weight 105 kg,0
+BMI 46.7 kg/m²,0
+short neck,0
+short limbs,0
+Mallampati class II,0
+mild sleep apnea,0
+sitting position,0
+oxygen treatment as needed,0
+simple communication,0
+premedication H2 antagonist,0
+arrival at operating room body temperature 37.5℃,0
+heart rate 85 beats/min,0
+blood pressure 160/90 mmHg,0
+respiration rate 22/min,0
+blood pressure cuff on right ankle,0
+severe lower limb edema,0
+invasive arterial pressure measurement,0
+USG-guided right dorsalis pedis artery catheterization failure,0
+right radial artery catheterization success,0
+invasive blood pressure 190/90 mmHg,0
+SaO2 95%,0
+100% oxygen administration,0
+upper body elevation 40 degrees,0
+remifentanil 0.06 µg/kg/min,0
+propofol 120 mg,0
+loss of consciousness,0
+SaO2 <90%,0
+mask ventilation both hands,0
+tidal volume 250 ml,0
+EtCO2 20-30 mmHg,0
+atracurium 50 mg,0
+endotracheal intubation decision,0
+SaO2 77%,0
+Cormack-Lehane grade 1,0
+small vocal cords,0
+intubation failure,0
+SaO2 58%,0
+SaO2 82%,0
+7.0 mm endotracheal tube success,0
+SaO2 70%,0
+pressure control ventilation,0
+airway pressure 30 mmHg,0
+respiration rate 15/min,0
+FiO2 50%,0
+tidal volume 400 ml,0
+EtCO2 42 mmHg,0
+SaO2 93%,0
+FiO2 70%,0
+PEEP 5 cmH2O,0
+dexamethasone 10 mg IV,0
+sevoflurane 2.0 vol%,0
+remifentanil 0.03 µg/kg/min,0
+SaO2 93-98%,0
+post-anesthesia Hb 8.8 g/dl,0
+K+ 5.4 mEq/l,0
+glucose 77 mg/dl,0
+50% dextrose with insulin,0
+spontaneous breathing return,24
+additional atracurium 20 mg,24
+operative time 3 hours 45 minutes,225
+systolic BP 100-115 mmHg,225
+diastolic BP 45-60 mmHg,225
+heart rate 75-85 beats/min,225
+hourly ABGA monitoring,225
+final Hb 7.8 g/dl,225
+final K+ 5.8 mEq/l,225
+final glucose 96 mg/dl,225
+PaCO2 52.5 mmHg,225
+PaO2 110 mmHg,225
+350 ml 5% dextrose administered,225
+postoperative spontaneous breathing,225
+tidal volume 300 ml,225
+vital capacity 800 ml,225
+state of consciousness unclear,225
+extubation,225
+oxygen mask,225
+SaO2 88%,225
+expiratory wheezing,225
+inhalation therapy steroids,225
+inhalation therapy β2 agonist,225
+disappearance of wheezing,225
+transfer to recovery room,225
+recovery room observation 30 minutes,225
+oxygen 5 L/min,225
+SaO2 95%,225
+transfer to ICU,255
+chest X-ray no change,255
+postoperative day 1 SaO2 <90%,24
+oxygen treatment,24
+stable vital signs,48
+transfer to general ward,48
+preoperative pulmonary function test restrictive lung disease,-24
+sitting position preference,0
+dyspnea when supine,0
+micrognathia,0
+metabolic syndrome,0
+preoperative EKG normal,-24
+guardian refusal of echocardiography,-24
+hyperkalemia,0
+atracurium use,0
+succinylcholine contraindication,0
+desflurane considered,0
+sevoflurane selected,0
+bronchodilation,0
+hypoxic pulmonary vasoconstriction repression,0
+extubation after awakening,225
+bronchospasm,225
+no glycopyrrolate use,0
+difficult IV catheterization,0
+USG-guided central vein catheterization,0
+right dorsalis pedis artery failure,0
+right radial artery success,0
+H2 antagonist premedication,0
+fasting time adherence difficulty,0
+agitation,0
+guardian supervision,0
+glucose maintenance,0
+hypoglycemia absence,225
+body temperature 37.5℃,0
+scoliosis,0
+epilepsy,0
+arrhythmia,0
+aspiration precautions,0
+suction apparatus ready,0
+no aspiration,0
+hiatal hernia risk,0
+postoperative hemodialysis,0
+postoperative insulin adjustment,0
+preoperative caloric restriction,-24
+obesity-related pulmonary dysfunction,0
+rapid-sequence intubation consideration,0
+awake intubation consideration,0
+laryngeal mask backup,0
+metabolic rate increase,0
+oxygen demand increase,0
+airway pressure management,0
+postoperative oxygen therapy,225
+postoperative ICU monitoring,255
+postoperative hemodialysis continuation,48

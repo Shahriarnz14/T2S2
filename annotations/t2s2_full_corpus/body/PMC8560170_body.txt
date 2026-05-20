@@ -1,0 +1,92 @@
+pmcIntroduction
+
+The genus Ralstonia comprises a group of Gram-negative bacteria commonly found in the environments. Three species, Ralstonia pickettii, Ralstonia insidiosa, and Ralstonia mannitolilytica, have been identified as opportunistic human pathogens.1 Among them, R. pickettii is the most frequently reported pathogen, and only a limited number of infections are attributed to R. insidiosa and R. mannitolilytica. The clinical importance of these two latter species is probably underestimated because their biochemical patterns are similar to those of R. pickettii, making it difficult to differentiate them from R. pickettii based only on the results of conventional microbiological tests.2,3 Several studies have reported problematic results when identifying Ralstonia species based on commercially available tests.4–6 Here, we describe a rare case with rapidly progressive sepsis and multiple organ dysfunction syndromes (MODS) caused by R. mannitolilytica after surgical treatment for perianal abscess. The pathogen, R. mannitolilytica, was identified using the Bruker MALDI-TOF mass spectrometry system.
+
+Case Description
+
+A 48-year-old man was admitted to the Proctology Department of the University of Chinese Academy of Science Shenzhen Hospital, China on August 22nd, 2020 due to perianal abscess. He had a medical history of syphilis but had not received treatment due to penicillin anaphylaxis. On admission, routine blood tests were within normal limits and his Tolulized Red Unheated Serum Test (TRUST) value was 1:1. He was treated with etimicin and ornidazole for 2 days before the operation. On August 24th, the patient underwent incision and drainage for the perianal abscess. One hour after the surgery, he developed neck pain, dizziness, chest pressure, and high blood pressure up to 160/90 mmHg. Two hours after the surgery, the patient developed a fever up to 40°C with decreased blood pressure of 80/50 mmHg. Blood tests showed neutrophilic leukocytosis and a procalcitonin level of 66.9 ng/mL (normal value < 0.5 ng/mL). After fluid resuscitation, his temperature dropped to 36.8°C. He was then transferred to the intensive care unit (ICU). For the next 3 days, the patient was treated with intravenous imipenem-cilastatin, as well as dopamine to maintain blood pressure. Repeat blood tests showed worsening neutrophilic leukocytosis (Figure 1). The procalcitonin value was always > 200 ng/mL (Figure 2). The patient developed MODS on August 27th. On the same day, abscess culture revealed Neisseria gonorrhoeae and Staphylococcus haemolyticus (Table 1) while multiple blood cultures revealed the growth of R. mannitolilytica (Table 2) that was sensitive to ceftriaxone, levofloxacin, ciprofloxacin, cefepime, and piperacillin/tazobactam. Therefore, we changed the antibiotic therapy to intravenous ceftriaxone (4 g daily) and levofloxacin (0.5 g daily). Six days later (September 2nd), repeat blood cultures showed no bacterial growth. The incision wound in the perianal area healed well. The patient had a satisfactory recovery with no complications during a 6-month follow-up period.Table 1 Minimum Inhibitory Concentrations for the S. haemolyticus Isolated in This Study
+
+Antibiotic	Minimum Inhibitory Concentration	
+Cefaclor	0 (S)	
+Clindamycin	≤0.25 (S)	
+Erythrocin	≥8 (R)	
+Ciprofloxacin	≤0.5 (S)	
+Levofloxacin	≤0.15 (S)	
+Oxacillin	≤0.25 (S)	
+Gentamicin	≤0.5 (S)	
+Rifampicin	≤0.5 (S)	
+Quinupristin/Dalfopristin	≤0.25 (S)	
+Tigecycline	≤0.15 (S)	
+Trimethoprim/sulfamethoxazole	≤10 (S)	
+Cefamandole	0 (S)	
+Moxifloxacin	≤0.5 (S)	
+Penicillin-G	≤0.0 (R)	
+Tetracycline	≤1 (S)	
+Vancomycin	≤0.5 (S)	
+Linezolid	1 (S)	
+Cefoxitin screening	Neg (-)	
+Clindamycin induction test	Neg (-)	
+Note: Minimum inhibitory concentration was interpreted according to the Clinical and Laboratory Standards Institute (CLSI) criteria for Staphylococcus spp.
+
+Abbreviations: R, resistant; S, susceptible; Neg, negative.
+
+Table 2 Minimum Inhibitory Concentrations for the R. mannitolilytica Isolated in This Study
+
+Antibiotics	Minimum Inhibitory Concentration	
+Aztreonam	≥64 (R)	
+Ceftazidime	≥64 (R)	
+Ciprofloxacin	0.5 (S)	
+Ceftriaxone	2 (S)	
+Cefepime	4 (S)	
+Gentamicin	≥16 (R)	
+Imipenem	8 (I)	
+Levofloxacin	1 (S)	
+Tobramycin	≥16 (R)	
+Trimethoprim/sulfamethoxazole	≤20 (S)	
+Piperacillin/tazobactam	16 (S)	
+Amikacin	≥64 (R)	
+Note: Minimum inhibitory concentration was interpreted according to the Clinical and Laboratory Standards Institute (CLSI) criteria for non-Enterobacteriaceae.
+
+Abbreviations: R, resistant; S, susceptible; I, intermediate.
+
+Figure 1 Changes in the white blood cell count during the treatment.
+
+Abbreviation: WBC, white blood cells.
+
+Figure 2 Changes in the concentrations of procalcitonin logarithmic values during the treatment.
+
+Abbreviation: PCT, procalcitonin.
+
+Methods to Identify Pathogen
+
+Blood cultures were incubated in a BACT/ALERT® system (bioMérieux, France) at the Clinical Microbiology Laboratory of the University of Chinese Academy of Science Shenzhen Hospital (GuangMing), China. They were seeded on the blood and MacConkey agar plates, and incubated in a 35°C incubator with 5% CO2 for 24 hours. The colony determination was performed with MALDI-TOF Mass Spectrometry (Bruker, United States), which revealed R. mannitolilytica (confidence level of 99%).
+
+Antimicrobial susceptibility was evaluated using the broth microdilution method (VITEK-2 CIMPACT, bioMérieux, France). Since there are no Clinical and Laboratory Standards Institute (CLSI) susceptibility breakpoints available for Ralstonia spp., the minimum inhibitory concentration (MIC) results were interpreted based on the criteria used for non-Enterobacteriaceae. As shown in Table 2, R. mannitolilytica was resistant to most β-lactams and aminoglycosides, but susceptible to piperacillin/tazobactam.
+
+Discussion
+
+R. mannitolilytica infections have been reported worldwide in recent years, especially in immunosuppressed patients. Monica Basso1 reported a case of persistent bacteremia caused by R. mannitolilytica and R. pickettii in an ICU in 2019. Matteo Boattini7 reported R. mannitolilytica bacteremia in a kidney transplant recipient in 2018. There were three cases of bacteremia caused by R. mannitolilytica in a neonatal ICU in Curitiba, Southern Brazil, in 2013–2015.8 Between 2015 and 2018, one cardiac carcinoma patient with bacteremia caused by R. mannitolilytica and four patients with R. mannitolilytica-induced bloodstream infections were reported in China.9,10 Our case report is the first record of a patient who had bloodstream R. mannitolilytica infection after perianal abscess surgery.
+
+R. mannitolilytica is an emerging opportunistic pathogen that is a member of the Ralstonia family.2 It is an aerobic gram-negative bacillus that is widely present in external environments, such as water, soils, and plant surfaces.11 R. mannitolilytica has adapted to thrive in warm, wet, and low nutritional conditions. It can survive 5 weeks in distilled water at 4 °C and 26 weeks in distilled water at 26 °C. It can also pass through a 2 μm membrane filter and is resistant to antiseptics.12
+
+R. mannitolilytica has low virulence and is therefore generally considered an opportunistic pathogen that causes diseases only in immunocompromised individuals.6 Our patient was a typical immunocompromised person.13 He had a history of syphilis but did not receive standard treatment due to his allergy to penicillin. Long-term Treponema pallidum infections could weaken his immune system14 and lower his cellular immunity, which led to imbalanced Th1/Th2,15 defective CD4+CD25− T cells,16 decreased CD4+ T cells, and reduced CD4+/CD8+.17 In addition, he was found to have gonorrhea. As the patient was under stress due to perianal abscess and the surgical incision, it was easy for him to develop sepsis due to an opportunistic pathogen such as R. mannitolilytica.
+
+When immunocompromised patients are infected by R. mannitolilytica, the disease can progress rapidly into sepsis or even MODS if the infection is not controlled early. The selection of sensitive antibiotics should be based on the culture results. According to the literature, R. mannitolilytica is often resistant to multiple antibiotics. There are no treatment guidelines or drug susceptibility recommendation for this pathogen. In the present case, the R. mannitolilytica was sensitive to quinolones, third and fourth generation cephalosporins, piperacillin/tazobactam, and cotrimoxazole.
+
+It is worth noting that postoperative sepsis is often due to the pathogen spreading from the original site of infection. We administrated aminoglycosides to this patient since Escherichia coli is a common infecting organism in the perianal area and is usually sensitive to this class of antibiotics. However, a few hours after the surgery, the patient rapidly developed a high fever, refractory low blood pressure, and anuria despite the massive fluid resuscitation. Laboratory tests also showed elevated inflammatory markers. After the patient was transferred to the ICU, he was given dopamine to maintain his blood pressure. The broad-spectrum imipenem-cilastatin was also administrated. We began to suspect a deep perianal infection and initiated a search for unusual pathogens. Subsequent pelvic magnetic resonance (MR) and computed tomography (CT) scans of the chest and abdomen did not show any deep infections or other foci of infection.
+
+Despite treatment with antibiotics, fluid resuscitation, and vasopressors, the patient’s condition continued to deteriorate. Laboratory tests showed multi-organ failure, including abnormal liver and renal functions, and elevated cardiac enzymes. Finally, his cultures demonstrated that the bacteria from the perianal pus were distinct from those in the blood culture. Sepsis in this patient was confirmed to be due to R. mannitolilytica. The antibiotics were changed, which resulted in a satisfactory outcome. The clinical consensus is that a combination of two types of antibiotics is required to treat R. mannitolilytica. We finally selected levofloxacin and ceftriaxone, which are also effective in treating infections caused by S. haemolyticus, N. gonorrhoeae, and syphilis spirochetes. It is important for clinicians to pay attention to the bacterial culture and drug sensitivity, especially in febrile patients.
+
+The present case provided valuable experience in our clinical practice with the treatment of infections from opportunistic pathogens, such as R. mannitolilytica. Clinicians should pay close attention to these infections since they are rare but can cause serious outcomes due to their multidrug-resistant profiles.
+
+Ethic Approval
+
+This study was approved by the ethics committee of the University of Chinese Academy of Science Shenzhen Hospital (GuangMing) (LL-KT-2021237).
+
+Consent to Publish
+
+Written informed consent was provided by the patient to allow the case details and any accompanying images to be published.
+
+Disclosure
+
+The authors report no conflicts of interest in this work.

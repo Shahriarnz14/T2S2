@@ -1,0 +1,86 @@
+event,time
+56 years old,0
+male,0
+breathlessness on exertion,0
+breathlessness at rest,0
+prolonged cough,0
+bloody sputum production,0
+hoarseness,0
+decline in performance impact,-17520
+reduced tolerance to physical activity,-17520
+breathlessness,-17520
+hoarseness,-17520
+chronic bronchitis,-17520
+no benefit from antibacterial therapy,-17520
+no benefit from mucolytic therapy,-17520
+no benefit from local therapy,-17520
+admitted to hospital,0
+significant decrease of blood oxygenation,0
+NYHA III-IV condition,0
+stridor,0
+respiratory distress,0
+giant ascending aorta aneurysm,0
+aortic arch aneurysm,0
+thoracic aorta partially-thrombosed ampullary false aneurysm,0
+left main bronchus compression,0
+left pulmonary artery compression,0
+trachea compression,0
+left pulmonary veins compression,0
+esophagus compression,0
+azygos vein compression,0
+recurrent pneumonia,0
+trachea drainage tube disorder,0
+multivessel coronary artery disease,0
+emergency surgery,0
+median sternotomy,0
+cardiopulmonary bypass (CPB),0
+supra-bifurcation compression of trachea,0
+left main bronchus compression,0
+tracheal intubation with bronchoscopy,0
+complete compression of left main bronchus,0
+right lung ventilation,0
+distal anastomoses of coronary artery bypass grafting,0
+myocardial ischemia,0
+CPB cooling to 26°C,0
+mobilising ascending aorta,0
+aneurysmal sac separation from pulmonary artery branches,0
+ascending aorta transection,0
+blood antegrade cardioplegia,0
+brachiocephalic trunk clamped,0
+visceral arrest,0
+monohemispheral perfusion of brain,0
+intimal rupture,0
+massive thrombotic masses (400g),0
+excised sac,0
+aneurysm bed sanitized,0
+aorta-tracheal fistula (2cm),0
+total replacement of aortic arch with synthetic prosthesis,0
+visceral arrest completed,0
+supracoronary replacement of ascending aorta,0
+coronary arteries bypass grafts,0
+trachea separation from surrounding tissues,0
+suture repair of trachea postero-lateral wall defect,0
+tightness control with bronchoscopy,0
+decompression of airways,0
+endotracheal tube repositioning,0
+left lung ventilation,0
+extubated,48
+ICU observation for 48 hours,48
+bronchoscopy control for trachea tightness,48
+bronchoscopy control for left main bronchus patency,48
+discharged,336
+satisfactory echocardiography,336
+normal laboratory tests,336
+no respiratory failure,336
+no heart failure,336
+no coronary failure,336
+dynamic CT showing no infiltrative changes,336
+histological examination showing atherosclerosis,336
+aortic wall thinning,336
+aortic wall inflammation,336
+NYHA I at 12 months follow-up,8760
+CT showing no features in aortic arch reconstruction area,8760
+trachea patency restored,8760
+left main bronchus patency restored,8760
+recurrent community-acquired pneumonia,-17520
+aorta-tracheal fistula,0

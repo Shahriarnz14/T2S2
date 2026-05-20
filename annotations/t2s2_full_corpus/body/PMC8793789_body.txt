@@ -1,0 +1,49 @@
+pmcBackground
+
+Atrioventricular nodal-blocking agents in patients with chronic kidney disease can result in worsening of renal function, leading to hyperkalemia, which in turn can lead to bradycardia. This vicious cycle results in low cardiac output, which induces renal hypoperfusion and dysfunction, followed by shock. Kidney injury can perpetuate the hyperkalemia. This pathophysiological vicious cycle has recently been recognized as BRASH syndrome, an acronym which refers to the pentad of bradycardia, renal failure, atrioventricular (AV) blockade, shock, and hyperkalemia [1].
+
+Case Report
+
+A 76-year-old man with a medical history of psoriasis, chronic kidney disease stage 4 (creatinine clearance of 29 ml/min/1.73 m2) and essential hypertension regularly taking amlodipine 5 mg twice daily, and atenolol 25 mg twice daily, was admitted to the Emergency Department with lowered level of awareness associated with sustained bradycardia. The patient denied syncope, angina, or palpitation. He presented with a heart rate of 26 beats per minute, blood pressure of 80/40 mmHg, with a mean arterial pressure of 53 mmHg, and body temperature of 35.6°C. Respiratory rate was 18 breaths per minute with 95% peripheral oxygen saturation without supplementary oxygen. His physical examination was otherwise un-remarkable. Laboratory results were notable for a white blood cell count of 5.450 cells/μL, creatinine level of 3.7 mg/dL, serum potassium level of 7.3 mg/dL, TSH of 4.92 μUI/mL, and a C-reactive protein of 48.9 mg/dL (Table 1). A chest X-ray was normal. Transthoracic echocardiography showed normal systolic and diastolic function and no remarkable changes with the heart valves (left ventricular dimension 46 mm; interventricular septum 9 mm; posterior wall 9 mm; ejection fraction 64%). The electrocardiogram (ECG) on admission (Figure 1) showed sinus bradycardia with junctional escape rhythm. The hypothesis of BRASH syndrome was considered.
+
+An intravenous (i.v.) bolus of 20 mL/kg of sodium chloride 0.9% was started. Four doses of i.v. atropine 0.5 mg were administered, in addition to glucagon 5 mg, 20 mL of 10% calcium gluconate, hydrocortisone 100 mg, 70 mL of sodium bicarbonate, and a solution of 250 mL dextrose 20% with 10 U regular insulin. Previous medications were suspended. Blood pressure was maintained at <65 mmHg despite initial measures, so continuous infusion of i.v. epinephrine was started, up to a dose of 10 μg/kg/min. Due to the persistence of bradycardia, a temporary transvenous pacemaker was placed after correction of hyperkalemia. The patient was admitted to the Intensive Care Unit (ICU) for further management. His hyperkalemia was corrected on the first day of admission, and creatinine levels progressively returned to baseline values. Epinephrine i.v. infusion was suspended after 4 days. On the fifth day of hospitalization, the temporary pacemaker was removed, with the patient maintaining a sinus rhythm with heart rate of 60–70 bpm.
+
+The patient was discharged after 8 days of hospital admission for an outpatient Cardiology follow-up, with recommendation to avoid beta-blockers. ECG showed normal sinus rhythm (Figure 2), serum creatinine was 2.36 mg/dL, and potassium was 4.9 mg/dL (Table 1).
+
+Discussion
+
+This report describes a rare case of BRASH syndrome characterized by bradycardia, renal failure, atrioventricular (AV) nodal-blocking agents, shock, and hyperkalemia [1].
+
+The pathophysiological mechanism of BRASH syndrome is not clear, but it probably involves a synergistic effect between AV-nodal block and hyperkalemia resulting in severe bradycardia [2,3]. Bradycardia, in turn, leads to reduction in cardiac output with consequent reduced renal perfusion and acute kidney injury, as well as worsening hyperkalemia. Patients with BRASH syndrome are frequently adherents to proper medication dosing and rarely have supra-therapeutic blood levels of AV-nodal-blocking agents [4]. In the presented case the effect of the beta-blocker atenolol, which is 40% urine-eliminated, may have worsened the hyperkalemia and the spiral of events. The vicious cycle is often initiated by hypovolemia or AV-nodal-blocking medications and if not quickly diagnosed it can progress to shock and multiple-organ failure, needing transvenous pacing and hemodialysis. The presentation is broad, ranging from asymptomatic bradycardia to cardiac arrest.
+
+The goal of treatment is based on the following approaches: 1) correction of hyperkalemia; 2) hemodynamic support for brady-cardia and hypotension; 3) treatment of any triggering events (eg, hypovolemia or AV-nodal block medication).
+
+In our case, the clinical suspicion of BRASH syndrome was based on the presence of the previously described set of signs in the absence of other major diagnoses, such as sepsis or acute heart disease. Our patient had chronic renal failure and was continuously taking a beta-blocker, which are conditions associated with a higher risk of developing BRASH syndrome. In addition, hyperkalemia is another major component involved in the development of bradyarrhythmia. However, our patient’s ECG findings showed significant bradycardia without the classic stigmata of hyperkalemia (eg, peaked T waves, sine waves), as reported in the literature [5].
+
+The rapid institution of hemodynamic support, correction of hyperkalemia, and beta-blocker withdrawal was essential to the progressive recovery of the presented patient without need for renal replacement therapy. We decided on temporary use of a transvenous pacemaker due to persistence of bradycardia after correction of hyperkalemia and epinephrine i.v. continuous infusion.
+
+Conclusions
+
+BRASH syndrome is a poorly recognized and potentially lethal clinical entity. The pathophysiological mechanism is still uncertain, but AV-nodal-blocking agents and hyperkalemia may play a role. Early recognition and treatment of this entity can prevent the development of multiple-organ failure and death.
+
+Figure 1. Admission ECG showing sinus bradycardia with junctional escape rhythm (red arrow).
+
+Figure 2. Discharge ECG showing normal sinus rhythm, heart rate of 83 bpm.
+
+Table 1. Laboratory values from baseline, admission, and discharge.
+
+	Baseline	Admission	Discharge	Reference value	
+Creatinine (mg/dL)	2.33	3.7	2.36	0.55–1.02	
+Potassium (mEq/L)	5.2	7.3	4.9	3.5–5.0	
+Sodium (mEq/L)	139	130	134	136–145	
+TSH (μUI/mL)	–	4.92	–	0.550–4.780	
+WBC (/μL)	6370	5450	4380	3500–10 500	
+Hb (g/dl)	9.3	9.7	9.0	12.0–15.5	
+C-reactive protein (mg/dL)	–	48.9	25.4	<5.0	
+Bicarbonate (mmol/L)	–	18.8	28.7	20.0–24.0	
+Lactate (mmol/L)	–	24	11	4–14	
+Hb – hemoglobin; TSH – thyroid-stimulating hormone; WBC – white blood cell count.
+
+Declaration of Figures’ Authenticity
+
+All figures submitted have been created by the authors who confirm that the images are original with no duplication and have not been previously published in whole or in part.

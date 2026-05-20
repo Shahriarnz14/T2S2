@@ -1,0 +1,87 @@
+event,time
+ 57 years old ,0
+     male ,0
+     lepromatous leprosy ,-144
+     skin biopsy ,-144
+     rifampicin ,-144
+     clofazimine ,-144
+     dapsone ,-144
+     abdominal distension ,0
+     constipation ,0
+     vomiting ,0
+     weight loss ,0
+     peripheral lymphadenopathy ,0
+     distended abdomen ,0
+     positive shifting dullness ,0
+     computed tomography scan ,0
+     mural thickening of the terminal ileum ,0
+     enlarged mesenteric lymph nodes ,0
+     mesenteric fat stranding ,0
+     intra-abdominal free fluid ,0
+     abdominal paracentesis ,0
+     atypically large lymphocytes ,0
+     flow cytometry ,0
+     abnormal CD4/CD8 double-negative T-cell population ,0
+     cervical lymph node biopsy ,0
+     high-grade peripheral T-cell lymphoma ,0
+     bone marrow examination ,0
+     no involvement of T-cell NHL ,0
+     stage IV lymphoma ,0
+     dexamethasone ,0
+     tumor-lysis syndrome precautions ,0
+     severe sepsis ,24
+     medical intensive care unit ,24
+     antibiotics ,24
+     antifungals ,24
+     ICU care ,168
+     national cancer center ,168
+     EPOCH chemotherapy protocol ,168
+     etoposide ,168
+     prednisone ,168
+     vincristine sulfate ,168
+     cyclophosphamide ,168
+     doxorubicin hydrochloride ,168
+     CNS prophylaxis ,168
+     intrathecal methotrexate ,168
+     complete metabolic remission ,672
+     febrile neutropenia ,672
+     recurrent bacteremia ,672
+     generalized weakness ,672
+     decreased power ,672
+     proximal muscles ,672
+     distal muscles ,672
+     no sensory changes ,672
+     no clear fatigability ,672
+     neurology team ,672
+     critical illness myopathy-neuropathy ,672
+     toxic neuropathy ,672
+     paraneoplastic syndrome ,672
+     electromyogram ,672
+     nerve conduction study ,672
+     normal distal latencies ,672
+     normal compound muscle action potential ,672
+     normal conduction velocities ,672
+     normal F waves ,672
+     sensory nerve studies ,672
+     normal onset latencies ,672
+     normal sensory nerve action potential amplitude ,672
+     normal conduction velocities ,672
+     needle electromyogram ,672
+     normal insertional activity ,672
+     no spontaneous activity ,672
+     normal motor unit action potential ,672
+     poor recruitment effects ,672
+     repetitive nerve stimulation ,672
+     significant incremental response ,672
+     presynaptic neuromuscular junction disorder ,672
+     LEMS ,672
+     intravenous immunoglobulins ,672
+     significant improvement ,672
+     motor function ,672
+     ambulate ,672
+     consolidation ,1344
+     autologous bone marrow transplant ,1344
+     recurrent bacteremia ,1440
+     sepsis ,1440
+     multiorgan failure ,1440
+     passed away ,1440

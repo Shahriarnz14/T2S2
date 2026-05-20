@@ -1,0 +1,93 @@
+event,time
+69 years old,0
+male,0
+admitted to medical intensive care unit,0
+cough,-72
+sputum,-72
+fever,0
+drowsy mental status,0
+traumatic intracranial hemorrhage,-5040
+epidural hemorrhage,-5040
+subdural hemorrhage,-5040
+accidental fall,-5040
+right craniectomy,-5040
+ventriculoperitoneal shunt placement,-5040
+posttraumatic hydrocephalus,-5040
+intensive rehabilitation treatment,-2880
+communicates with others,-2880
+walks with walker,-2880
+feeds self,-2880
+drowsy after antipsychotic medication,-168
+aggressive behaviors,-168
+aspiration event,-168
+respiratory symptoms,-168
+deteriorating mental status,-168
+chest radiography,0
+focal infiltrate left lower lung field,0
+chest CT,0
+consolidation with air bronchogram left lower lobe posterior basal segment,0
+suspected aspirated materials left upper lobe bronchus,0
+suspected aspirated materials left lower lobe segmental bronchus,0
+food particles in esophagus,0
+aspiration-induced pneumonia,0
+brain CT scan,0
+ventriculoperitoneal shunt present,0
+focal encephalomalacic changes right frontal lobe,0
+mental change due to sepsis,0
+PaO2 43.9 mm Hg,0
+SaO2 79.4%,0
+nasal cannula oxygen 5 L/min,0
+respiratory rate 24 breaths/min,0
+comfortable respiration,0
+high-flow nasal oxygen therapy initiated,0
+FiO2 0.5,0
+flow 50 L/min,0
+SpO2 93–97%,0
+respiratory rate 22–26 breaths/min,0
+repeated sudden desaturation,24
+endotracheal intubation,24
+mechanical ventilation,24
+airway secretion,24
+attempted weaning from mechanical ventilation,48
+ineffective expectoration,48
+decreased secretion volume,48
+alert mental status,48
+extubation,48
+high-flow nasal cannula postextubation,48
+FiO2 0.4,48
+flow 50 L/min,48
+SpO2 93–100%,48
+transfer to general ward,72
+HFNC flow 40 L/min,72
+drowsy mentation,100
+stupor,100
+brain CT scan,100
+pneumocephalus,100
+midline shifting,100
+left ventricle near-collapse,100
+Mount Fuji sign,100
+tension pneumocephalus,100
+HFNC stopped,100
+nasal cannula oxygen,100
+follow-up brain CT scan,112
+decreased pneumocephalus,112
+facial bone CT scan,112
+skull base fractures right frontal sinus,112
+skull base fractures ethmoidal sinus,112
+positive pressure ventilation,112
+improved mental status,112
+stupor to drowsy,112
+follow-up brain CT after 1 week,268
+decreased pneumocephalus,268
+improved midline shifting,268
+improved left ventricle structure,268
+resolved pneumocephalus after 20 days,580
+expectoration difficulties,580
+tracheostomy,580
+improved mental status,580
+sudden mental status decline,940
+stupor,940
+intracranial infection,940
+craniotomy for drainage,940
+unresolved mental status,940
+death,940

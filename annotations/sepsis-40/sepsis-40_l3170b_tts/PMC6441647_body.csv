@@ -1,0 +1,44 @@
+event,time
+Fever ,0
+Fatigue ,0
+Scleral icterus ,0
+Jaundice ,0
+Dark urine ,0
+Right abdominal pain ,0
+Right shoulder pain ,0
+Diagnosed with ulcerative colitis ,-730
+Completed a three-dose induction course of infliximab ,-744
+Latest UC flare ,-672
+Colonoscopy showing pancolitis ,-672
+Treated with IV corticosteroids and another dose of infliximab ,-672
+Alkaline phosphatase (ALP) 88 U/L ,-672
+"Leukocytosis (16,000/µL) ",0
+Anemia (6.9 g/dL) ,0
+"Thrombocytopenia (53,000/µL) ",0
+"Transaminitis (AST 570 U/L, ALT 296 U/L) ",0
+Highly elevated ALP (426 U/L) ,0
+Hyperbilirubinemia (3.1 mg/dL) ,0
+C reactive protein (CRP) 20.4 mg/dL ,0
+Computed tomography (CT) showed multiple multi-loculated abscesses in the right hepatic lobe ,0
+CT showed extensive intrahepatic thrombosis of the right portal vein ,0
+CT showed splenomegaly ,0
+CT showed bilateral pleural effusions ,0
+CT showed diffuse colonic wall thickening ,0
+Abscess was initially drained by interventional radiology ,24
+"Cultures were positive for Peptostreptococci, skin flora, and Escherichia coli ",24
+Acid-fast bacilli stain was negative ,24
+Patient was bacteremic with Streptococcus viridans ,24
+Patient was bacteremic with E. coli ,24
+Surgical drainage was required ,48
+Repeat wound cultures showed the same organisms ,48
+Developed septic shock post-operatively ,72
+Required ICU management ,72
+Antimicrobial therapy was changed from vancomycin and meropenem to ceftriaxone and metronidazole ,72
+Repeat CT showed continued improvement in size of the abscesses ,240
+Therapy was de-escalated to oral amoxicillin-clavulanate ,240
+Completed a 2-week course of oral amoxicillin-clavulanate ,336
+Liver loculations improved and resolved on ultrasonography ,4320
+Normalization of liver enzymes and inflammatory markers ,4320
+Remained without signs or symptoms of UC ,7920
+Developed severe pancolitis ,9504
+Underwent a total colectomy ,9504

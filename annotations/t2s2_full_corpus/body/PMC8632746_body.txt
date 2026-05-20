@@ -1,0 +1,102 @@
+pmcCASE REPORT
+
+An 84-year-old woman with chronic kidney disease, hypertension, mild cognitive dysfunction, and a uterine mass who lived in the rural area of Tainan City presented to a regional hospital due to fever, dry cough, and dyspnea for 2 days, just after a 10-day heavy rain with total precipitation >800mm. Chest x-ray showed bilateral lower lung patches and pleural effusion (Figure 1). She had septic shock, acute kidney injury, and respiratory failure on admission and received antibiotics, fluid resuscitation, and tracheal intubation. She was transferred to a tertiary hospital and admitted to the intensive care unit.
+
+Figure 1. Chest x-ray on admission showed bilateral lung patches and pleural effusions.
+
+Curved gram-negative bacteria were isolated from blood culture (Figure 2A). Direct gram stain of the pleural fluid demonstrated curved gram-negative bacilli (Figure 2B). The biochemical phenotype of the isolate was oxidase-positive, catalase-negative, urease-negative, and glucose-nonfermenting. VITEK MS (bioMérieux, Marcy l’Etoile, France) failed to identify the bacterium, and the VITEK2 GN ID card (bioMérieux, Durham, NC, USA) reported Burkhoderia mallei with 90% probability. The diagnosis of infection caused by Paludibacterium species was made by 16S rRNA polymerase chain reaction (PCR) assay. Primers 11F (5ʹ-GTTTGATCCTGGCTCAG-3ʹ) and 1512R (5ʹ-GGYTACCTTGTTACG ACTT-3ʹ), as previously described [1], were used to amplify the conserved 16s rRNA genes. The 1.5-kb amplified fragments from blood and pleural effusion cultures were identified as Paludibacterium purpuratum, with corresponding 99.3% and 98.9% similarity by comparing the sequences deposited in the GenBank database (accession No. LC633506, type strain Paludibacterium purpuratum THUN1379). While the pleural effusion culture did not yield any bacteria, 16S rRNA sequencing for the inoculated broth identified the existence of P. purpuratum.
+
+Figure 2. Gram stain of colonies after subculture from the positive blood culture bottles revealed curved gram-negative bacillus, which was identified as Paludibacterium purpuratum later (A). Gram stain of empyema showed numerous polymorphonuclear neutrophil infiltrations and phagocytosis of a gram-negative pathogen (arrowhead) (B).
+
+Her pneumonia and empyema responded well to ampicillin-sulbactam and bilateral pleural drainage with 24-Fr chest tubes. She was extubated 4 days after admission, and her acute kidney injury resolved later. She was discharged home 20 days later and is presently doing well.
+
+Analyses of 16S rRNA gene sequences showed that the clinical P. purpuratum blood isolate (defined as strain B53371) shared the highest sequence similarity with P. purpuratum KJ031 (99.6%), followed by P. yongneupense NBRC 106427 (98.3%) and P. paludis KBP-21 (98.2%). Whole-genome sequencing of the P. purpuratum strain B53371 was performed with the PaciBio Sequencing Platform (PACBIO, Menlo Park, CA, USA). The assemblies reported here were deposited at DDBJ/EMBL/GenBank under accession No. CP069163. The genome size for the P. purpuratum strain B53371 is 3.63 M (Supplementary Figure 1). Morphology, drug susceptibility, and metabolic abilities were assayed for the P. purpuratum B53371 strain.
+
+The P. purpuratum isolate was able to grow on blood agar plate and chocolate agar plates at 35°C. Gram stain showed cured and long gram-negative bacilli. The indole test for P. purpuratum isolate was negative, and the hanging drop motility test showed a negative result. The isolate grew less at 42°C than that at 35°C. It did not grow on MacConkey plate or colistin nalidixic acid blood agar plate. The appearance of colony morphology on blood agar plate was small and gray at 24 hours and became smooth, translucent, or white at 48 hours (Figure 3A). The colonies on chocolate agar plate showed a white or translucent appearance at 48 hours (Figure 3B). The isolated strain showed low minimal inhibitory concentration (MIC) levels for ampicillin/sulbactam, piperacillin/tazobactam, cefotaxime, cefepime, fluoroquinolones, meropenem, and aminoglycosides, but a high MIC level for colistin in vitro (Table 1). As there are no available criteria for the MIC of antibiotics of Paludibacterium species, the break points of MICs for Acinetobacter species and other non-Enterobacteriacae are provided as references [2].
+
+Table 1. Criteria of Minimal Inhibitory Concentrations for the Clinical Paludibacterium purpuratum Strain B53371
+
+P. purpuratum Strain B53371	MICs, μg/mL	Interpretive Categories and MIC Break Points for Acinetobacteria Species	Interpretive Categories and MIC Break Points for Other Non-Enterobacteriaceae	
+		S	I	R	S	I	R	
+Penicillin	32				≦16	32–64	≧128	
+Ampicillin/sulbactam	8/4	≦8/4	16/8	≧32/16				
+Amoxicillin/clavulanate	16							
+Piperacillin/tazobactam	≦4	≦16	32–64	≧128	≦16	32–64	≧128	
+Cefotaxime	≦1	≦8	16–32	≧64	≦8	16–32	≧64	
+Cefepime	≦1	≦8	16	≧32	≦8	16	≧32	
+Meropenem	1	≦2	4	≧8	≦4	8	≧16	
+Amikacin	≦2	≦16	32	≧64	≦16	32	≧64	
+Gentamicin	≦1	≦4	8	≧16	≦4	8	≧16	
+Ciprofloxacin	≦0.25	≦1	2	≧4	≦1	2	≧4	
+Levofloxacin	≦0.12	≦2	4	≧8	≦2	5	≧8	
+Colistin	8	≦2		≧4				
+MICs for penicillin and amoxacillin/clavulanate were determined by Etest (bioMérieux, Marcy l’Etoile, France). The other drugs were measured by VITEK 2 AST N322 card (bioMérieux, Marcy l’Etoile, France).
+
+Abbreviation: MIC, minimum inhibitory concentration.
+
+Figure 3. The colony morphology of the blood isolate Paludibacterium purpuratum strain B53371 on (A) blood agar plate and (B) chocolate agar after growth for 48 hours at 35°C.
+
+Phenotype microarray plates were used to analyze the metabolic profiles of the P. purpuratum strain. We analyzed whether the strain was able to ferment carbon, nitrogen, phosphorus, and sulfur substrates using the MicroPlate assay according to previous research [3]. Briefly, the strain was grown for 2 days on LB agar at 25°C. The cells were inoculated into IF-0a medium (Biolog, Inc., CA, USA) to achieve 42% transmittance measured with a spectrophotometer (Novaspec II; Pharmacia Biotech). This suspension was added to an IF-0a medium–containing tetrazolium (Dye Mix A; Biolog, Inc., CA, USA) in a 1:5 ratio to produce a cell suspension with a final transmittance of 85%. Then, 100 μL of this cell suspension was transferred to each well of Biolog plates PM1 and PM2A (Biolog, Inc.). A solution containing 2 M of sodium succinate and 200 M of ferric citrate was added to the remaining suspension in a 1:100 ratio. Then, 100 μL of this suspension was transferred to each well of Biolog plates PM3B and PM4A (Biolog, Inc., CA, USA). The plates were read with a spectrophotometer (Varioskan Flash; Thermo Fisher Scientific, MA, USA) at 590 and 750nm. The A750 value was subtracted from the A590 value to reduce the background absorbance unrelated to the reduced redox dye, based on the manufacturer’s instructions. Values >0.2 were considered positive, and values <0.2 were considered negative. Of the 596 test substrates, the test strain could utilize 33 substrates, mainly carbon- and nitrogen-containing sources. The results are summarized in Table 2.
+
+Table 2. Metabolizing Abilities of the Clinical Paludibacterium purpuratum Strain B53371
+
+		P. purpuratum Strain B53371	
+Carbon sources	N-acetyl-D-glucosamine	+	
+	L-proline	+	
+	L-aspartic acid	+	
+	D-gluconic acid	+	
+	L-glutamic acid	+	
+	D-fructose	+	
+	a-D-glucose	+	
+	L-asparagine	+	
+	D-glucose-1-phosphate	+	
+	b-methyl-D-glucoside	+	
+	Glycyl-L-aspartic acid	+	
+	Inosine	+	
+	Propionic acid	+	
+	L-serine	+	
+	L-alanyl-glycine	+	
+	Methyl pyruvate	+	
+	D-fructose-6-phosphate	+	
+	Hydroxy-L-proline	+	
+	L-arginine, L-ornithine	+	
+Nitrogen sources	L-asparagine	+	
+	L-aspartic acid	+	
+	N-acetyl-D-glucosamine	+	
+	L-glutamic acid	+	
+	L-serine, D-glucosamine	+	
+	Adenosine	+	
+	Guanosine	+	
+	Ala-Gln	+	
+	Ala-Glu	+	
+	Ala-Gly	+	
+	Ala-Thr	+	
+	Gly-Asn	+	
+	Gly-Gln	+	
+	D-glucose-6-phosphate	+	
+
+DISCUSSIONS
+
+Paludibacterium species are gram-stain negative rods that are facultatively anaerobic; they have been isolated from environments in Japan, South Korea, China, and Taiwan [4–8]. In a metagenomic study surveying subgingival microbiota in Taiwanese patients, Paludibacterium was one of the genera comprising subgingival microbiota among healthy individuals in contrast to patients with chronic periodontitis [9]. The study conducted by Tsai et al. in Taiwan did not analyze Paludibacter at the genus level. In addition, reports of invasive infection caused by Paludibacterium species are also scarce. The present case might have acquired infection through inhalation of pathogens stirred by heavy rainfall, similar to melioidosis.
+
+P. purpuratum could be misidentified by the VITEK2 GN ID card (bioMérieux, Durham, NC, USA) diagnostic system. The probability for Burkholderia mallei was only 90% in the present report. Although P. purpuratum and B. mallei share similar morphology features on blood agar and chocolate plates, most clinical microbiological laboratories could differentiate them from each other by several tests: (1) B. mallei can grow on a MacConkey plate, but not P. purpuratum. (2) P. purpuratum is a long, curved, and motile gram-negative bacillus, distinct from B. mallei in morphology, showing a small, nonmotile gram-negative bacillus [10].
+
+Cultivation of this facultatively anaerobic Paludibacterium is susceptible to an array of antibiotics in vitro except for colistin. Whole-genome sequencing analysis revealed that the P. purpuratum isolate carried ICR-Mo, a chromosomally encoded determinant of colistin resistance. ICR-Mo, which is close to the mcr-1/2 polymyxin resistance gene, encodes an enzyme that helps to modify lipid A by transferring phosphoethanolamine moiety from its donor phosphatidylethanolamine to the 1’- (or 4’)-phosphate position of lipid A. Expression of ICR-Mo in bacteria may prevent the formation of reactive oxygen species induced by colistin [11]. The present case recovered well with ampicillin/sulbactam therapy. In conclusion, we herein reported the first invasive P. purpuratum infection in Taiwan. Infection in susceptible hosts might happen due to exposure or inhalation of this pathogen accidentally.
+
+Supplementary Data
+
+Supplementary materials are available at Open Forum Infectious Diseases online. Consisting of data provided by the authors to benefit the reader, the posted materials are not copyedited and are the sole responsibility of the authors, so questions or comments should be addressed to the corresponding author.
+
+ofab501_suppl_Supplementary_Figure_S1 Click here for additional data file.
+
+Acknowledgments
+
+We are grateful to the Diagnostic Microbiology and Antimicrobial Resistance Laboratory, National Cheng Kung University Hospital, for providing the technical services of bacteria culture, phenotype microplate assay, and drug susceptibility testing.
+
+Financial support. This study was supported by National Cheng Kung University Hospital (NCKUH-110040027), Ministry of Science and Technology (MOST 108-2628-B-006-012).
+
+Potential conflicts of interest. All authors: no reported conflicts of interest. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.
+
+Author contributions. C.T.C. and P.L.C. contributed to study conception, design, paper writing, and analysis. J.W.C. contributed to data analysis. S.L.S., P.F.T., and C.Y.S. contributed to experiments. W.C.K. contributed to finalizing the manuscript.
+
+Patient consent. The patient agreed with the publication in case report form and signed the informed consent. The study was approved by the ethical committee of our hospital (IRB No. A-EC-110-33).

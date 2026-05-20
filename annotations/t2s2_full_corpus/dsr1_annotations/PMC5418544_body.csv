@@ -1,0 +1,30 @@
+event,time
+56 years old,0
+morbidly obese,0
+female,0
+no history of cardiac disease,0
+found on bedroom floor,0
+feeling poorly,-24
+cough,-168
+fatigue,-168
+family called EMS,-24
+EMS arrived,0
+nonresponsive,0
+no palpable pulse,0
+chest compressions initiated,0
+AED used,0
+automated rhythm analysis,0
+shock advised,0
+shock delivered,0
+awakened,0
+admitted to medical ICU,0
+diagnosed with Klebsiella pneumonia,24
+treated over 2-week course,24
+echocardiogram normal,72
+no arrhythmias during hospitalization,72
+cardiac electrophysiologist consulted,168
+AED rhythm strip unavailable initially,168
+rhythm strip obtained after several days,264
+AED interpretation incorrect,264
+sinus tachycardia misdiagnosed as ventricular arrhythmia,264
+implantable cardioverter-defibrillator implantation considered,168

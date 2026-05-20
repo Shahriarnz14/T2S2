@@ -1,0 +1,61 @@
+event,time
+54 years old,0
+white,0
+male,0
+warehouse worker,0
+presented to the hospital,0
+fever,-168
+cough,-168
+progressive dyspnea,-168
+syncope,-168
+nausea,-168
+intermittent vomiting,-168
+mild diarrhea,-168
+denied previous medical history,0
+no medications,0
+8 pack-years of cigarette smoking,-175200
+temperature 38.3°C,0
+blood pressure 117/75 mmHg,0
+pulse 83 beats per minute,0
+respiratory rate 22 breaths per minute,0
+oxygen saturation 80% on room air,0
+bilateral rales,0
+rapid nucleic acid amplification tests negative for influenza A and B,0
+high pretest probability of COVID-19,0
+nasopharyngeal swab positive for SARS-CoV-2,0
+mild lymphopenia,0
+elevated lactate dehydrogenase,0
+elevated ferritin,0
+elevated D-dimer,0
+elevated interleukin-6,0
+elevated troponin-I,0
+bilateral alveolar infiltrates on chest X-ray,0
+S1Q3T3 pattern on electrocardiogram,0
+required non-rebreather mask,0
+acute respiratory distress syndrome,1
+septic shock,1
+intubated,1
+mechanical ventilation,1
+norepinephrine initiated,1
+bedside transthoracic echocardiogram performed,1
+large right-heart thrombus-in-transit,1
+preserved RV systolic function,1
+enoxaparin started,1
+hydroxychloroquine started,1
+azithromycin started,1
+cytokine release storm,1
+elevated inflammatory markers,1
+cardiac injury,1
+hemostatic disturbances,1
+ARDS,1
+septic shock,1
+tocilizumab given,1
+follow-up echocardiogram showed no thrombus,168
+LMWH continued,168
+minimal ventilator support,336
+unable to come off ventilator,336
+tracheostomy performed,336
+percutaneous endoscopic gastrostomy tube placement,336
+oxygen requirements decreased,504
+discharged to long-term acute care facility,504
+oral anticoagulation with apixaban,504

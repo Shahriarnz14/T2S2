@@ -1,0 +1,72 @@
+event,time
+39 years old ,0
+female ,0
+height 155 cm ,0
+weight 44.5 kg ,0
+mild dyspnea ,0
+scheduled for carinal resection ,0
+adenoid cystic carcinoma ,0
+carina mass ,0
+left mainstem bronchus obstruction ,0
+right mainstem bronchus involvement ,0
+no underlying diseases ,0
+preoperative examinations normal ,0
+moderate obstructive pattern ,0
+forced expiratory volume 1.88 liter ,0
+forced vital capacity 2.81 liter ,0
+ratio 67% ,0
+general anesthesia induced ,0
+propofol 4 µg/ml ,0
+remifentanil 4 ng/ml ,0
+rocuronium 40 mg ,0
+tracheal intubation ,0
+right-sided double-lumen tube ,0
+right lateral position ,0
+left bronchi dissection ,0
+thoracoscopic surgery ,0
+right OLV ,0
+arterial oxygen tension 462 mmHg ,20
+FIO2 1.0 ,20
+left thoracoscopic surgery ,20
+right-sided double-lumen tube replaced ,20
+single-lumen endotracheal tube ,20
+bronchial blocker ,20
+left lateral position ,40
+right thoracotomy ,40
+peak airway pressure 28 cmH2O ,40
+tidal volume 300 ml ,40
+PaO2 110 mmHg ,40
+FIO2 1.0 ,40
+carinal resection ,60
+LMB resected ,60
+sterile reinforced endotracheal tube ,60
+left OLV ,60
+airway pressure 35 cmH2O ,60
+SpO2 70% ,60
+two-lung ventilation ,60
+RMB resected ,60
+additional sterile endotracheal tube ,60
+differential bilateral lung ventilation ,60
+SpO2 100% ,62
+carina removed ,62
+RMB anastomosed ,62
+no air leak ,62
+left lung removal ,62
+right hemithorax closed ,120
+non-dependent right OLV ,120
+SpO2 below 80% ,120
+left endobronchial tube reinserted ,120
+two-lung ventilation ,120
+right OLV reattempted ,125
+SpO2 below 90% ,125
+left pulmonary artery clamped ,125
+SpO2 100% ,130
+left main pulmonary artery ligated ,130
+right thoracotomy closed ,130
+left thoracotomy ,180
+left pulmonary artery resected ,180
+left pneumonectomy ,180
+supine position ,240
+tracheal extubation ,240
+intensive care unit ,240
+discharged on 13th postoperative day ,312

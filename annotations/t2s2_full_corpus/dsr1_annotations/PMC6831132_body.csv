@@ -1,0 +1,61 @@
+event,time
+27-year-old,0
+woman,0
+decompensated liver cirrhosis,0
+Model for End-Stage Liver Disease score of 30,0
+primary biliary cholangitis,0
+autoimmune hepatitis overlap,0
+admitted to intensive care unit,0
+septic shock,0
+acute kidney injury,0
+multidrug-resistant Escherichia coli urinary tract infection,0
+propranolol,0
+primary variceal prophylaxis,0
+chronic normocytic anemia,0
+baseline hemoglobin 8.5 mg/dL,0
+hematochezia,-1440
+esophagogastroduodenoscopy,-1440
+nonbleeding grade I esophageal varices,-1440
+moderate portal hypertensive gastropathy,-1440
+flexible sigmoidoscopy,-1440
+mild nonbleeding internal hemorrhoids,-1440
+no rectal varices,-1440
+workup negative for spontaneous bacterial peritonitis,-48
+hematochezia,-24
+worsening anemia to 5.7 mg/dL,-24
+EGD,0
+severe portal hypertensive gastropathy,0
+4 nonbleeding grade III esophageal varices,0
+banded 4 times,0
+flexible sigmoidoscopy,0
+distal rectum with overlying clot,0
+oozing on water irrigation,0
+bleeding rectal varix,0
+treated with placement of 1 band,0
+worsening anemia to 6.7 mg/dL,72
+required 2 units packed red blood cells,72
+required 2 units fresh frozen plasma,72
+repeat flexible sigmoidoscopy,72
+large blood clot,72
+ulceration,72
+mild oozing,72
+previously seen rectal varix,72
+prior band dislodgement,72
+placed 2 bands,72
+successful hemostasis,72
+persistent hematochezia,120
+hemoglobin drop from 9 mg/dL to 6.7 mg/dL,144
+required another unit packed red blood cells,144
+colonoscopy,144
+medium-sized bleeding rectal varix,144
+stigmata of prior banding 2 times,144
+overlying clot,144
+necrotic ulcer base,144
+hot snare with soft coagulation,144
+resect protuberant part of clot,144
+resect bands,144
+bleeding vessel at base,144
+placed over-the-scope clip,144
+complete hemostasis,144
+transferred to transplant center,144
+died from septic shock,168

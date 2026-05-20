@@ -1,0 +1,68 @@
+event,time
+47 years old,0
+male,0
+admitted to the hospital,0
+fever,-72
+sore throat,-72
+left-sided neck swelling,-72
+generalized fatigue,-72
+myalgia,-72
+no other symptoms,-72
+blood pressure 100/65 mmHg,-72
+heart rate 115 beats/min,-72
+temperature 38.9 °C,-72
+respiratory rate 20 breaths/min,-72
+oxygen saturation 100% on ambient air,-72
+throat congested,-72
+left-sided mild posterior lymphadenopathy,-72
+remainder of systemic examination insignificant,-72
+high C-reactive protein,-72
+slight rise in serum creatinine,-72
+high INR,-72
+chest x-ray unremarkable,-72
+SARS-CoV-2 infection confirmed,-72
+received hydroxychloroquine,-72
+received azithromycin,-72
+received cefuroxime,-72
+transferred to quarantine facility,-72
+diarrhea,-48
+vomiting,-48
+mild diffuse abdominal pain,-48
+severe right lower quadrant pain,-48
+transferred back to hospital,-48
+blood pressure 84/52 mmHg,-48
+heart rate 102 beats/min,-48
+temperature 38.1 °C,-48
+oxygen saturation 96% on 2L nasal cannula,-48
+diffuse abdominal tenderness,-48
+right iliac fossa guarding,-48
+acute kidney injury,-48
+transaminitis,-48
+worsening CRP,-48
+procalcitonin >100 ng/mL,-48
+chest x-ray bilateral reticular infiltrates,-48
+no consolidation,-48
+shifted to ICU,-48
+started meropenem,-48
+resuscitated with crystalloid fluids,-48
+CT abdomen no bowel perforation,-48
+CT abdomen no appendiceal inflammation,-48
+diffuse paracolic gutters fat stranding,-48
+mild free fluid,-48
+bilateral mild pleural effusion,-48
+consolidations,-48
+filling defect at superior mesenteric vein,-48
+CT angiogram suboptimal venous opacification,-48
+no acute thrombosis,-48
+major abdominal arteries patent,-48
+serum lipase >600 U/L,-48
+serum amylase 451 U/L,-48
+sepsis workup unremarkable,-48
+surgical causes ruled out,0
+treated conservatively,0
+pain settled,48
+kidney injury improved,48
+liver injury improved,48
+inflammatory markers trending down,48
+discharged,192
+asymptomatic at follow-up,360

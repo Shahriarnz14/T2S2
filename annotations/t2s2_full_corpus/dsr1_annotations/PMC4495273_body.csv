@@ -1,0 +1,86 @@
+event,time
+14-year-old boy,0
+admitted to the Department of Orthopedic Surgery,0
+fever,-24
+pain in the left side of the hip,-24
+denied injuries,0
+denied medical problems,0
+denied intake of medications,0
+denied previous hospitalizations,0
+denied recent tours,0
+family history unremarkable for musculoskeletal disorders,0
+temperature 38℃,0
+blood pressure 110/70 mmHg,0
+heart rate 88/min,0
+respiratory rate 22/min,0
+tenderness over lateral aspect of left hip,0
+pain accentuated by flexion and external rotation,0
+hemoglobin 14.6 g/dL,0
+"WBC count 6,400/mm³",0
+neutrophils 79%,0
+"platelet count 176,000/mm³",0
+ESR 12 mm/h,0
+CRP 3.1 mg/dL,0
+hip radiography no abnormal findings,0
+pelvic CT no abnormal findings,0
+transient synovitis considered,0
+antibiotics not prescribed,0
+body temperature 38.9℃,48
+pain at sacroiliac joint on FABERE test,48
+hip MRI synovitis,48
+hip MRI capsulitis,48
+hip MRI extra-articular extension to left iliacus muscle,48
+hip MRI extra-articular extension to left iliac vessels,48
+sacroiliitis,48
+vancomycin 4 g/day initiated,48
+ceftriaxone 4 g/day initiated,48
+transferred to Department of Pediatrics,48
+fever 40.4℃,48
+respiratory rate >40/min,48
+difficulty breathing,48
+ABGA pH 7.399,48
+ABGA pCO2 32.7 mmHg,48
+ABGA PO2 52.7 mmHg,48
+ABGA O2 Sat 88%,48
+dyspnea improved with oxygen,48
+respiratory status worsened,72
+ABGA PaO2/FiO2 137 mmHg,72
+chest radiographs bilateral lower lobe infiltrates,72
+chest CT bilateral symmetric compartmental consolidation,72
+ARDS,72
+moved to ICU,72
+synchronized intermittent mandatory ventilation with pressure support,72
+tidal volume 360 mL,72
+FiO2 40%,72
+PEEP 12 cmH2O,72
+"WBC count 2,400/mm³",72
+neutrophils 79%,72
+"platelet count 58,000/mm³",72
+ESR 40 mm/h,72
+CRP 13.8 mg/dL,72
+blood cultures taken,24
+E. cloacae in blood cultures,48
+antibiotic regimen changed to ceftriaxone 4 g/day,72
+antibiotic regimen changed to amikacin 1.5 g/day,72
+methylprednisolone 1 mg/kg initiated,72
+defervescence,120
+reduced need for ventilatory support,120
+breathing room air,168
+pain in left hip lessened,168
+discharged from ICU,168
+follow-up chest radiograph improvement,168
+parenteral antimicrobial therapy maintained for 6 weeks,0
+CRP normalized,1008
+ESR normalized,1008
+low-dose methylprednisolone administered,0
+methylprednisolone tapered over 19 days,0
+repeat hip MRI improved extra-articular soft tissue inflammation,312
+repeat hip MRI aggravated subchondral inflammation,312
+repeat blood culture no bacteria,96
+discharged on day 46,1104
+serum IgG 890 mg/dL,0
+serum IgA 83.3 mg/dL,0
+serum IgM 86.3 mg/dL,0
+serum C3 144.0 mg/dL,0
+serum C4 22.4 mg/dL,0
+no immunologic disorder tests pursued,0

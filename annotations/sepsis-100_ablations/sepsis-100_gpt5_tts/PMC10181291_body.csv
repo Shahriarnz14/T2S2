@@ -1,0 +1,69 @@
+event,time
+77 years old,0
+female,0
+admitted to the hospital,0
+history of breast cancer,-8760
+status post chemotherapy,-8760
+status post radiation to the chest,-8760
+severe aortic stenosis,-8760
+coronary artery disease,-8760
+90% occlusion of the left anterior descending artery,-8760
+no prior history of known vasculitic disease,-8760
+informed consent obtained for anesthetic care,-1
+tissue aortic valve replacement,0
+saphenous vein graft bypass to the left anterior descending artery,0
+midline sternotomy,0
+induction of anesthesia uncomplicated,0
+intubation uncomplicated,0
+cardiopulmonary bypass,0
+left internal mammary artery atretic and unusable for bypass,0
+use of the greater saphenous vein for bypass,0
+greater saphenous vein very small,0
+cardiopulmonary bypass discontinued,0.5
+decline in cerebral head saturations > 25% from baseline for 30 min,0.5
+reduced mean arterial perfusion,0.5
+reduced cerebral artery perfusion,0.5
+treated with vasopressors,0.5
+taken to the intensive care unit,1
+extubated,2
+persistent lactic acidosis,2
+high-dose vasopressor support,2
+goal mean arterial perfusion pressure > 65 mm Hg,2
+mixed cardiogenic and vasoplegic shock following cardiopulmonary bypass,2
+initially required low-dose epinephrine,2
+persistent high-dose requirement of norepinephrine,2
+persistent high-dose requirement of vasopressin,2
+volume resuscitation with crystalloid,2
+volume resuscitation with colloid,2
+became lethargic,15
+leftward gaze,15
+right upper extremity weakness,15
+neurological symptoms resolved,15.25
+progressive bilateral tongue ecchymoses,15
+tongue numbness,15
+dysgeusia,15
+CT head negative for acute hemorrhage,15
+CT angiogram of brain and neck showed no large vessel occlusion,15
+mild calcification at the bifurcation of the right common carotid artery,15
+50% focal stenosis of the distal left common carotid artery,15
+right lingual artery completely occluded,15
+mild distal collateral flow in right lingual artery,15
+left lingual artery multifocal irregularities,15
+bilateral lingual artery involvement confirmed on CT angiogram,15
+transient ischemic attack,15
+tongue ischemia,15
+postoperative platelet count normal,16
+prothrombin time normal,16
+international normalized ratio normal,16
+fibrinogen normal,16
+otolaryngology service consulted to perform serial examinations of the tongue,16
+evaluation with multiple flexible bronchoscopes to monitor for progression,16
+supportive therapy was offered,16
+ADAMTS13 inhibitor screen normal,24
+no signs of hypoperfusion to other organs such as the gastrointestinal tract,24
+systemic vascular resistance gradually improved,24
+tongue numbness persisted,15
+dysgeusia persisted,15
+no surgical intervention,48
+tongue sensation returned to baseline,1440
+taste returned to baseline,1440

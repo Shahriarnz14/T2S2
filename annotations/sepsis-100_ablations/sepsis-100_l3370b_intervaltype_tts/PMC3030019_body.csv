@@ -1,0 +1,61 @@
+event,time
+65 years old,0
+female,0
+liver cirrhosis,-8760
+chronic hepatitis B,-8760
+hepatocellular carcinoma,0
+left lobe hepatectomy,0
+intravenous glycopyrrolate,-1
+general anesthesia,0
+propofol,0
+rocuronium,0
+remifentanil,0
+sevoflurane,0
+mechanical ventilation,0
+electrocardiography,0
+arterial blood pressure monitoring,0
+central venous pressure monitoring,0
+SpO2 monitoring,0
+stable vital signs,0
+sudden decrease in arterial blood pressure,60
+tachycardia,60
+ST elevation on EKG,60
+resuscitation with colloid and catecholamines,60
+intraoperative ultrasonography,60
+massive air emboli in both heart,60
+diagnosis of VAE and PAE,60
+arterial blood gas analysis,60
+catecholamine administration,70
+systolic blood pressure maintenance,120
+heart rate maintenance,120
+central venous pressure maintenance,120
+end-tidal carbon dioxide restoration,120
+norepinephrine infusion,120
+fluid resuscitation,120
+air emboli disappearance,130
+hepatectomy completion,130
+intensive care unit admission,300
+mechanical ventilation,300
+norepinephrine infusion,300
+abnormal PT/PTT,300
+fibrinogen,300
+d-dimer,300
+antithrombin III,300
+CK-MB,300
+troponin-T,300
+ST elevation on EKG,300
+EKG recovery,744
+trans-thoracic echocardiogram,744
+no patent foramen ovale,744
+vital signs stability,744
+norepinephrine infusion tapering,744
+mental status unchanged,120
+brain CT and MRI,1200
+multiple acute cerebral infarctions,1200
+weaning to spontaneous ventilation,2640
+extubation,2640
+vital signs instability,3600
+catecholamine administration,3600
+panperitonitis confirmation,7440
+cardiac arrest,7440
+death,7440

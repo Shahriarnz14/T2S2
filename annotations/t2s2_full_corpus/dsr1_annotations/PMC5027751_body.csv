@@ -1,0 +1,56 @@
+event,time
+30-year-old,0
+female,0
+full-term normal vaginal delivery,-192
+severe pain in abdomen,-192
+fever,-192
+giddiness,-192
+admitted to a private nursing home,-192
+gaping of episiotomy wound,-192
+resuturing,-192
+"platelet count 50,000/cumm",-192
+worsening fever,-168
+breathlessness,-168
+hypotensive,-168
+conservatively managed,-168
+shifted to hospital,-168
+admitted to hospital,0
+severely tachypneic,0
+severe hypotension,0
+inotropic supports,0
+intubated,0
+mechanically ventilated,0
+"platelet count 40,000/cumm",0
+deranged liver function tests,0
+creatinine 4.1 mg/dl,0
+coagulopathy,0
+international normalized ratio 4.3,0
+chest X-ray bilateral infiltrates,0
+PaO2/FiO2 <100,0
+severe ARDS,0
+ultrasonography abdomen normal,0
+ultrasonography pelvis normal,0
+two-dimensional echocardiography normal,0
+acute febrile illness,0
+severe sepsis,0
+septic shock,0
+leptospira PCR negative,0
+dengue IgM negative,0
+malaria smear negative,0
+hantavirus IgM positive,0
+falling platelet count,24
+coagulopathy needing transfusion,24
+severe ARDS needing ventilation,24
+renal dysfunction,24
+renal replacement therapy,24
+septic shock needing antibiotics,24
+inotropic support,24
+progressively worsening chest X-ray,48
+alveolar hemorrhage,48
+worsening lung function,48
+hemodynamic support,48
+broad-spectrum antibiotics,48
+ribavirin started,48
+worsening lung function,72
+multiorgan dysfunction,72
+expired,240

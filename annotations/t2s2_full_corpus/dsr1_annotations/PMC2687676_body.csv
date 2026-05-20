@@ -1,0 +1,85 @@
+event,time
+53 years old,0
+man,0
+presented with exertional dyspnea,-168
+productive cough,-960
+underwent extended thymectomy,-3600
+lymphoepithelioid type thymoma,-3600
+received adjuvant radiotherapy (45 Grays),-3600
+diagnosed with sarcoidosis,-1440
+imaging study,-1440
+transbronchial lung biopsy,-1440
+medication changed to anti-tuberculosis regimen,-240
+new cavitary lesion detected on HRCT,-240
+admitted to hospital,0
+blood pressure 90/60 mmHg,0
+body temperature 39.3℃,0
+pulse rate 152 bpm,0
+respiration rate 32 bpm,0
+inspiratory crackles in both lower lungs,0
+chest roentgenogram haziness and disseminated nodules,0
+conglomerated cavities in right upper lobe,0
+chest CT multiple micronodular densities,0
+chest CT multiple cavitary nodules in right upper lobe,0
+condition worsened compared to previous CT,0
+new ground glass opacity in both lower lobes,0
+WBC 3500 cells/mm3,0
+hemoglobin 15.2 g/dL,0
+"platelets 253,000 cells/mm3",0
+ESR 36 mm/h,0
+CRP 17.29 mg/dL,0
+elevated AST (81 U/L),0
+normal hepatic function otherwise,0
+normal renal function,0
+HIV negative,0
+ABG pH 7.44,0
+ABG PaCO2 34.0 mmHg,0
+ABG PaO2 60.5 mmHg,0
+ABG HCO3 22.8 mmol/L,0
+ABG SaO2 91.9%,0
+admitted to ICU,0
+bronchoalveolar lavage performed,0
+BAL fluid cell count 119/µL,0
+BAL differential: 30% macrophages,0
+BAL differential: 60% lymphocytes (CD4/CD8=7/46),0
+BAL differential: 10% neutrophils,0
+PCR positive for Pneumocystis jirovecii,0
+DFA positive for Pneumocystis jirovecii,0
+CMV culture negative,0
+trimethoprim/sulfamethoxazole administered,0
+methylprednisolone administered,0
+neutrophil dihydrorhodamine test normal,0
+CD3 T lymphocytes 290/µL,0
+CD19 B lymphocytes 0/µL,0
+CD4 148/µL,0
+CD8 132/µL,0
+IgG 507 mg/dL,0
+IgA 31 mg/dL,0
+IgM <3 mg/dL,0
+video-assisted thoracoscopic biopsy performed,0
+biopsy showed alveolar wall thickening with fibrosis,0
+biopsy showed lymphocyte infiltration,0
+acid-fast bacilli smear negative,0
+CMV immunohistochemistry negative,0
+HSV immunohistochemistry negative,0
+adenovirus immunohistochemistry negative,0
+diagnosed with Good's syndrome,0
+supportive ventilatory care continued,0
+antibiotic treatment for ARDS,0
+hypogammaglobulinemia persisted,0
+regular IVIG infusions started,24
+pneumonia did not improve,72
+diarrhea did not improve,72
+infection worsened,72
+Candida albicans in pleural fluid,720
+Candida albicans in catheter tip,720
+septic shock,2160
+multi-organ failure,2160
+death,2160
+history of frequent respiratory infections,-3600
+granulomatous lung disease,0
+Pneumocystis jirovecii infection,0
+uncontrolled fungal infection,2160
+no autoimmune disease,0
+central venous catheter infection,720
+skin damage infection,720

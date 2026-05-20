@@ -1,0 +1,84 @@
+event,time
+57 years old,0
+female,0
+family history of mitral valve prolapse,0
+admitted to the hospital,0
+altered mental status,0
+fatigue,-168
+generalized weakness,-168
+nonbloody vomiting episodes,-168
+diarrhea,-168
+denied chest pressure,0
+denied chest pain,0
+denied fever,0
+denied history of intravenous drug use,0
+heart rate of 135 beats per minute,0
+thin,0
+dry,0
+lethargic,0
+Janeway lesions over palms and soles,0
+Osler nodes,0
+splinter hemorrhages,0
+regular heart rhythm,0
+no murmurs,0
+white blood cell count 17000/mm3,0
+hemoglobin 11.7 g/dL,0
+platelets 89000/mm3,0
+troponin 0.28 ng/mL,0
+sinus tachycardia,0
+nonspecific ST-wave changes,0
+blood cultures drawn,0
+intravenous fluids,0
+empiric intravenous antibiotics (ceftriaxone and vancomycin),0
+follow-up troponin 0.85,24
+heparin drip initiated,24
+chest pain free,24
+persistent sinus tachycardia,24
+subacute infarcts in cerebral hemispheres,48
+infarctions in kidney and spleen,48
+heparin drip stopped,48
+TTE ordered,48
+cardiology consulted,48
+blood cultures positive for methicillin-sensitive Staphylococcus aureus,48
+TTE EF 55% without vegetations,48
+chest pain,72
+diffuse ST-segment elevation,72
+PR depression,72
+pericarditis,72
+treated with NSAIDs,72
+repeat TTE EF 35-40%,72
+severe diffuse hypokinesis of apical wall,72
+possible vegetation on mitral valve,72
+TEE scheduled,96
+TEE EF 30-35%,96
+severe hypokinesis,96
+mobile vegetation on mitral valve,96
+moderate to severe mitral valve regurgitation,96
+cardiothoracic surgery consulted,96
+shortness of breath,96
+cardiogenic shock,96
+vasopressor support,96
+troponin 49.50 ng/mL,96
+cardiac catheterization,96
+100% occlusion of proximal LAD artery,96
+transferred to cardiac ICU,96
+mitral valve replacement,120
+CABG,120
+vegetations involving mitral valve leaflets,120
+postoperative period stable,120
+discharged to rehabilitation center,336
+intravenous antibiotics (cefazolin),336
+metoprolol tartrate,336
+furosemide,336
+potassium chloride,336
+seizure,840
+pulseless electrical activity,840
+CPR,840
+return of spontaneous circulation,840
+potassium 8,840
+elevated troponins,840
+lactic acid elevated,840
+CT brain evolution of ischemic infarcts,840
+TTE EF 20%,840
+cardiac arrest,840
+terminally extubated,840

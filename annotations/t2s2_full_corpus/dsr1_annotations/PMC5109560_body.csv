@@ -1,0 +1,86 @@
+event,time
+84 years old,0
+Japanese,0
+man,0
+dementia,0
+fever,-72
+upper respiratory infection,-72
+treatment for upper respiratory infection,-72
+decline in blood pressure,-48
+decrease in SpO2,-48
+loss of consciousness,-48
+referred to our hospital,-48
+admission,0
+respiratory failure,0
+shock,0
+blood pressure 77/48 mmHg,0
+pulse rate 107 beats per minute,0
+SpO2 84%,0
+oxygen administration 10 L/min,0
+respiratory rate 32 breaths per minute,0
+body temperature 38.3℃,0
+coarse crackles bilateral lung fields,0
+altered consciousness JCS III-200,0
+Glasgow Coma Scale 3 (E1V1M1),0
+chest radiograph diffuse consolidation,0
+CT scan diffuse consolidation,0
+"leukocytosis 27,180 /μL",0
+neutrophilia 98%,0
+high C-reactive protein 19.30 mg/dL,0
+slight elevation liver enzymes,0
+slight elevation biliary enzymes,0
+hypoproteinemia,0
+renal dysfunction,0
+high creatine kinase,0
+thrombocytopenia,0
+prolonged prothrombin time,0
+elevated fibrin degradation products,0
+disseminated intravascular coagulopathy (DIC),0
+septic shock,0
+severe aspiration pneumonia,0
+APACHEII score 30,0
+SOFA score 15,0
+meropenem hydrate 1.5 g/day,0
+dopamine hydrochloride 3 μg/kg/min,0
+nafamostat mesylate 0.07 mg/kg/hr,0
+stabilized condition,24
+nasogastric feeding tube insertion,48
+enteral nutrition polymeric formula 5 kcal/kg/day,72
+increased infusion dose,192
+increased infusion speed,192
+fever 39.5℃,216
+persistent decrease SpO2 <90%,216
+"white blood cell count 39,020 /μL",216
+chest radiograph fresh infiltrations right lower field,216
+gastric feed reflux,216
+gastric feeding intolerance,216
+enteral feeding discontinued,216
+nasojejunal tube insertion,240
+fluoroscopic guidance,240
+contrast medium GastrografinⓇ 10 mL,240
+nasogastric tube removed,240
+NJT/GD tip beyond ligament of Treitz,240
+radiopaque marker before pylorus,240
+enteral feeding recommenced 800 kcal/day,240
+gastric decompression,240
+gradual increase feeding dose,360
+jejunal feeding,360
+gastric drainage volume 50-450 mL/day,360
+no drainage enteral feed,360
+no recurrence high grade fever,360
+no persistent decrease SpO2,360
+evaluation by dysphagia team,528
+oral intake not safe,528
+percutaneous endoscopic gastrostomy (PEG),528
+introducer method,528
+upper gastrointestinal endoscopy no abnormalities,528
+postoperative clinical course uneventful,720
+transferred to rehabilitation ward,720
+swallowing therapy,1008
+discharged,1032
+oral intake,1032
+dopamine discontinued,72
+nafamostat mesylate discontinued,120
+penicillin-susceptible streptococcus pneumoniae isolated,0
+meropenem discontinued,336
+sulfamethoxazole administered,336

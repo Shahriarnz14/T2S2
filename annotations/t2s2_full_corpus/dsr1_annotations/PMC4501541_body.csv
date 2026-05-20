@@ -1,0 +1,120 @@
+event,time
+87 years old,0
+male,0
+admitted to the hospital,0
+right hand cellulitis,0
+bitten by pet dog,0
+coronary artery disease,0
+TIA,0
+hypertension,0
+hyperlipidemia,0
+osteoporosis,0
+glaucoma,0
+previously smoked a few cigarettes per day,-525600
+quit smoking 60 years ago,-525600
+denies illicit drug use,0
+intravenous ampicillin/sulbactam administered,-72
+wound washed,-72
+discharged,-72
+oral amoxicillin/clavulanate,-72
+orthopedic clinic follow up,-72
+significant erythema,-72
+edema,-72
+warmth of wound and hand,-72
+hospitalized,-72
+intravenous ampicillin/sulbactam,-72
+intravenous vancomycin,-72
+improvement,-72
+discharged,-72
+oral amoxicillin 875 mg/clavulanate,-72
+oral minocycline,-72
+presented to emergency room for ankle pain,0
+misstep,0
+​loose non-bloody bowel movements,0
+fever 102.7 F,0
+hypotension 90/62,0
+tachycardia 108 bpm,0
+tachypnea 22 breaths per minute,0
+oxygen saturation 87%,0
+faint crackles,0
+3/6 systolic murmur,0
+flat JVP,0
+mild erythema,0
+eschar on dorsal hand,0
+mild left ankle warmth,0
+mild left ankle edema,0
+leukocytosis 20.8 k/uL,0
+neutrophils 74%,0
+lymphocytes 20%,0
+eosinophils 2.8%,0
+creatinine 1.38 mg/dL,0
+normal liver enzymes,0
+chest radiograph bilateral effusions,0
+chest radiograph upper lobe infiltrates,0
+diagnosed with ankle sprain,0
+severe sepsis,0
+pneumonia,0
+acute kidney injury,0
+intravenous ertapenem,0
+intravenous vancomycin,0
+intravenous azithromycin,0
+oral metronidazole,0
+worsening tachypnea,24
+worsening hypoxia,24
+ongoing fevers,24
+supplemental oxygen 4 L/min,24
+eosinophilia 22.8%,24
+leukocytosis 17.3 k/uL,24
+chest film alveolar filling,24
+chest CT bilateral airspace disease,24
+chest CT ground glass attenuation,24
+moderate bilateral pleural effusions,24
+trachea intubated,24
+bronchoscopy,24
+BAL,24
+transbronchial biopsies,24
+mechanical ventilation,24
+reintubated,24
+FiO2 0.80 required,48
+right pneumothorax,48
+chest tube placed,48
+streptococcus parasanguinus bacteremia,48
+Klebsiella in urine,48
+C. difficile toxin negative,48
+no further diarrhea,48
+urine legionella antigen negative,48
+coccidiodes IgG/IgM negative,48
+ampicillin/sulbactam,48
+ciprofloxacin,48
+BAL nucleated cells 515/μL,48
+BAL neutrophils 6%,48
+BAL lymphocytes 5%,48
+BAL eosinophils 15%,48
+transbronchial eosinophilia,48
+negative bacterial stains,48
+negative fungal stains,48
+negative mycobacterial stains,48
+negative viral stains,48
+methylprednisolone 125 mg every 6h,48
+leukocytosis 13.5 k/uL,72
+eosinophilia 8.3%,72
+defervesced,144
+improved gas exchange,144
+liberated from mechanical ventilation,144
+supplemental oxygen 3 L/min,144
+eosinophilia normalized 0.1%,144
+improved imaging,144
+solumedrol transitioned to prednisone 60 mg daily,144
+ciprofloxacin discontinued,144
+chest tube removed,360
+echocardiogram no endocarditis,360
+sterile blood cultures,360
+vancomycin 14 days completed,360
+rehabilitation,360
+discharged,720
+pulmonary clinic follow up,720
+denies respiratory symptoms,720
+prednisone taper,720
+inhaled mometasone,720
+acute eosinophilic pneumonia,48
+minocycline-induced AEP,48

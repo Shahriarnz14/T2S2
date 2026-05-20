@@ -1,0 +1,58 @@
+pmcIntroduction
+
+Coronavirus disease 2019 (COVID-19) outbreak is a global health emergency caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a highly pathogenic human coronavirus.1 Despite the fast-growing understanding of the clinical features and natural history of COVID-19, its pathophysiology is still debated and the treatment remains largely empirical or based on observational evidence.2 Although mildly symptomatic in many cases,3 COVID-19 may be complicated by severe conditions such as adult respiratory distress syndrome (ARDS), sepsis, cardiac arrhythmias, stroke, myocardial infarction, and death.4–6 The thromboembolic complications may be due to both the pro-inflammatory state related to COVID-197,8 and the acute discontinuation of cardiovascular medications during hospitalization.9,10 We described the rare case of late onset concomitant myocardial infarction and stroke in COVID-19 patient who discontinued cardiovascular medications during hospitalization.
+
+Case Report
+
+A 68-year-old man with arterial hypertension and dyslipidemia was admitted to the Emergency Department (ED) of Cotugno Hospital for fever and wheezing lasting more than three days. At hospital admission, medical therapy included Atorvastatin 80 mg once daily (OD) and Candesartan 32 mg OD. A swab sample collection tested positive for SARS-CoV-2 on real-time reverse transcription-polymerase chain reaction assay, confirming the COVID-19 diagnosis. High-Resolution Computed Tomography (HRCT) showed bilateral interstitial pneumonia with a severity score 15/20 according to Chung classification.6 The baseline value of blood pressure (BP), heart rate (HR) and peripheral oxygen saturation (SpO2) were 117/74 mmHg, 83 bpm and 79% in FiO2 21%, respectively. The 12-lead electrocardiogram (ECG) revealed sinus rhythm at 85 bpm, narrow QRS complex with a normal atrioventricular and intraventricular conduction and no ST-T segment abnormalities. Azithromycin 500 mg OD, Methylprednisolone 20 mg bis in die (BID), Remdesivir 200 mg OD, Enoxaparin 6000 UI BID, Insulin Lispro 6/8/8 UI three times a day (TID) and High Flow Nasal Cannula (FiO2 45%) were started. The antihypertensive and statin therapy was discontinued.
+
+The patient progressively improved his clinical status in the next four weeks and the HRCT, performed at 25th day, showed a reduction of severity score (from 15/20 to 5/20). On the 28th day of hospitalization, there was a sudden worsening of dyspnea with evidence at telemetry of increased heart rate and ST-T segment morphological alterations. BP, HR and SpO2 were 154/75 mmHg, 85 bpm and 97% with 2 L/min, respectively. A 12-lead ECG showed sinus rhythm at 78 bpm with ST-elevation≥ 2 mm in the DI, aVL and V1- V4 leads (Figure 1) suggesting the diagnosis of ST-elevation myocardial infarction (STEMI). Table 1 summarizes the laboratory values at baseline and at the day of STEMI. Acetylsalicylic acid 300 mg, Ticagrelor 180 mg, Bisoprolol 2.5mg and Atorvastatin 80 mg were administered. A bedside echocardiography revealed hypokinesis in the mid-apical anterior segment of the left ventricle; no evidence of intra-cardiac thrombi was observed. The patient was referred to HUB Hospital Cardarelli, 2.9 Km away, for percutaneous coronary intervention (PCI). Due to the massive demand for emergency vehicles, the transfer time from spoke to hub hospital was 3 hours and 23 minutes. A critical stenosis of the proximal and middle left anterior descending artery (LAD) was the culprit lesion (Figure 2) and a percutaneous transluminal coronary angioplasty (PTCA) with drug eluting stent (DES) was performed using a transradial approach. The procedure was fast and well tolerated. The patient was referred to Cardiovascular Intensive Care Unit (CICU) in order to obtain continuous vital parameter monitoring. About twelve hours after the PCI, the patient developed left hemiplegia with a National Institutes of Health Stroke Scale (NIHSS) score 7. Brain CT findings showed an acute right frontal ischemic lesion (Figure 3). Fibrinolysis was not performed due to enoxaparin administration in the last 24 hours. A multidisciplinary team (including cardiologist, hematologist, neurologist, rheumatologist and oncologist) ruled out all the possible causes of these concomitant thrombotic events, other than COVID-19 (Table 2). One week later, the patient was discharged. At 1-month follow-up evaluation, no clinical evidence of residual neurologic deficit was found. Consent from the patient for the publication of the present case was obtained. The study was conducted in accordance with the Declaration of Helsinki and was approved by the local ethics committee (AOC-0025358-2021).Table 1 Laboratory Findings at Admission and on 28th Day (Onset of Myocardial Infarction and Stroke)
+
+Parameters [Reference Range]	Baseline	On 28th Day	
+Hb (g/dl) [14–18]	11.7	13.4	
+WBC (n°/mm3) [4.5–11.0]	12.475	7.452	
+Lymphocytes (%) [25–50]	13	28	
+Fibrinogen (g/L) [2.0–4.0]	12.4	3.1	
+ESR (mm/h) [< 22]	27	8	
+CRP (mg/dl) [< 1]	21	1.4	
+IL-6 (pg/mL) [2–6]	17	4	
+D-dimer (ng/mL) [0–570]	874	124	
+Total cholesterol (mg/dL) [< 200]	127	312	
+LDL cholesterol (mg/dL) [< 116]	74	189	
+Glycemia (mg/dl) [70–99]	218	83	
+Abbreviations: Hb, hemoglobin; WBC, white blood cells; ESR, erythrocyte sedimentation rate; CRP, C reactive protein; IL-6, Interleukin– 6; LDL, low-density lipoprotein.
+
+Table 2 Possible Causes of Concomitant Stroke and Myocardial Infarction Other Than COVID-19
+
+Differential Diagnosis	
+Intracardiac thrombi embolization	
+Paroxysmal atrial fibrillation	
+Carotid critical or subcritical stenosis	
+Aortic or carotid dissection	
+Patent oral foramen	
+Hereditary thrombophilia	
+Disseminated intravascular coagulation	
+Rheumatological disease	
+Paraneoplastic syndrome	
+
+Figure 1 12-Lead electrocardiogram showing ST-elevation ≥2 mm in the DI, aVL and V1-V4 leads suggestive of diagnosis of ST elevation myocardial infarction (STEMI).
+
+Figure 2 Critical stenosis of left anterior descending artery (LAD) and subcritical stenosis of first and second obtuse marginal branches (A). Post-PCI result on LAD (B).
+
+Figure 3 Acute right frontal ischemic lesion on brain CT evaluation.
+
+Discussion
+
+The present case report describes the rare concomitance of two thrombotic events occurring at resolution of SARS-CoV-2 pneumonia in a hospitalized COVID-19 patient. Several studies showed that clotting alterations, with a trend toward a hypercoagulable state due to increased levels of D-dimer and fibrinogen, were present at the early stage of the disease.7,8 Moreover, several studies highlighted the potential implications of neutrophil extracellular traps (NETs) to propagate inflammation and microvascular thrombosis in COVID-19, as well as, NETs’ influence on acute myocardial infarction and acute ischemic stroke outcomes, even in non-COVID-19 patients.11–13 The evidence of elevated markers of endothelial and platelet activation, as well as proinflammatory cytokines, suggests the presence of “endotheliopathy”.14 Both hemostasis and inflammatory pathways’ alterations may justify the increased incidence of stroke and myocardial infarction, ten and five times respectively, in the clinical setting of COVID-19 and in particular among patients with several cardiovascular risk factors.15,16 The concomitance of myocardial infarction and acute ischemic stroke among hospitalized COVID-19 patients is a rare event. A five-case series by Eskandarani et al17 described cardio-cerebral infarction episodes due to different thrombotic etiologies (carotid artery occlusion, intra-cardiac thrombi and type-I aortic dissection). Chakir et al18 reported a case of coincident myocardial infarction, bilateral pulmonary embolism and ischemic stroke without any identifiable etiologic factor, except COVID-19. Ruiz-Ares et al19 described two cases with mild symptoms of COVID-19 admitted for acute stroke with recent/simultaneous myocardial infarction.
+
+All these case reports described thromboembolic events occurring during the acute phase of COVID-19, characterized by the hypercoagulable state. In contrast, our case describes a late-onset occurrence of concomitant MI and stroke during the resolution phase of SARS-CoV-2 pneumonia, when there was no evidence of systemic inflammatory state in laboratory findings. We can speculate that discontinuation of antihypertensive and lipid-lowering drugs could have played a role of pivotal importance in the genesis of the concomitant thrombotic events. The well-known association between cardiovascular therapies’ discontinuation and increased risk of life-threatening complications, including mortality, among hospitalized COVID-19 patients20,21 highlights the importance of effective control of cardiovascular risk factors, even more during hospitalization.
+
+Finally, since ischemic stroke is a rare complication of PCI occurring often without an identifiable mechanism,22,23 we cannot exclude the causal association. Moreover, the delay from STEMI diagnosis to primary PCI was 3 hours and 23 minutes showing the increased difficulty to correctly apply the protocols provided by the international guidelines for the management of cardiovascular diseases during the COVID-19 outbreak.24 A position statement of the European Association of Percutaneous Cardiovascular Interventions (EAPCI) states the possibility of a delay in urgent revascularization procedures caused by prolonged time of arrival of the ambulance to the hospital, due to congestion and multiple calls because of the pandemic. In this scenario, PCI pathways in a COVID-19 patient with STEMI may be delayed up to 60 min beyond the 2-hour guidelines;25 however, an immediate and complete revascularization to avoid staged procedures is recommended.
+
+Conclusion
+
+The present case report describes the late onset occurrence of concomitant myocardial infarction and ischemic stroke in hospitalized COVID-19 patient at resolution of SARS-CoV-2 pneumonia, highlighting the need to not discontinue the cardiovascular therapies during hospitalization for COVID-19.
+
+Disclosure
+
+The authors report no conflicts in interest in this work.

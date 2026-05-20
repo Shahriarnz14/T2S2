@@ -1,0 +1,57 @@
+event,time
+12-year-old boy,0
+trauma to right ankle,-72
+pain right ankle,-72
+swelling right ankle,-72
+cough,-120
+fever,-120
+febrile (38.5°C),0
+tachycardia (125/min),0
+respiratory rate 25/min,0
+right ankle mildly swollen,0
+redness right ankle,0
+local rise of temperature right ankle,0
+tenderness over lateral malleolus,0
+tenderness lower third leg laterally,0
+restriction of ankle movements,0
+no neurovascular deficits,0
+plain X-ray right ankle normal,0
+hemoglobin 12.5 gm%,0
+total count 21.28K/uL,0
+neutrophils 19.77K/uL,0
+lymphocytes 0.75K/uL%,0
+CRP 360.1 mg/L,0
+ESR 60 mm/hr,0
+RA factor negative,0
+ASO titre 400 IU/ML,0
+sickling negative,0
+urine routine normal,0
+admitted for suspected cellulitis,0
+pediatric consult for cough,0
+chest X-ray pneumonia,0
+IV Cloxacillin started,0
+blood culture Staphylococcus aureus,0
+condition deteriorated,72
+elevated temperature,72
+tachycardia (140/min),72
+respiratory rate 40/min,72
+SPO2 87% room air,72
+swelling whole right leg,72
+tender calf,72
+positive Homan sign,72
+D-Dimer negative,72
+CT angiogram chest no embolism,72
+right pleural effusion,72
+bilateral patchy pneumonia,72
+duplex scan popliteal vein thrombosis,72
+thrombophilia workup negative,72
+low molecular heparin started,72
+IV Cloxacillin continued,72
+clinical improvement,336
+calf swelling reduced,336
+blood parameters normalizing,336
+discharged,336
+warfarin for 3 months,336
+repeat duplex scan normal,1008
+followed up 6 months,4032
+no recurrence,4032

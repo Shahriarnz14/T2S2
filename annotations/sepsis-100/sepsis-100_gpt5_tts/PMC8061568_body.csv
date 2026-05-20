@@ -1,0 +1,138 @@
+event,time
+22 years old,0
+male,0
+previously healthy,0
+mild COVID-19 illness,-1104
+sore throat,-1104
+loss of sense of smell,-1104
+COVID-19 PCR positive,-1104
+resolution of symptoms,-840
+COVID-19 PCR negative,-840
+first dose of inactivated SARS-CoV-2 vaccine,-840
+remained asymptomatic and well,-840
+second dose of inactivated SARS-CoV-2 vaccine,-120
+headache,-116
+fatigue,-116
+fever,-96
+sore throat,-96
+abdominal pain,-96
+ibuprofen taken,-48
+one dose of an antibiotic taken,-48
+presented to the emergency department,0
+admitted to the hospital,0
+high-grade fever,0
+myalgia,0
+nausea,0
+vomiting,0
+diarrhoea,0
+faint erythematous non-itchy rash over his torso,0
+dry irritant cough,0
+no shortness of breath,0
+no chest discomfort,0
+no urinary symptoms,0
+no pain or swelling of his joints,0
+temperature 39°C,0
+systolic blood pressure 110 mm Hg,0
+tachycardia 140 beats per minute,0
+dry mucous membranes,0
+congested throat,0
+bilateral conjunctival injection,0
+left conjunctival haemorrhage,0
+generalised erythematous maculopapular rash,0
+peripheral lymph nodes were not enlarged,0
+no audible cardiac murmurs,0
+chest clear to auscultation,0
+abdomen examination unremarkable,0
+SARS-CoV-2 PCR negative,0
+throat swab negative for group A streptococcus,0
+urinalysis proteinuria >300 µg,0
+WBC 15 x10^9/L,0
+platelet 122 x10^9/L,0
+creatinine 115 mmol/L,0
+AST 53 U/L,0
+ALT 81 U/L,0
+direct bilirubin 35 µmol/L,0
+albumin 16 g/L,0
+C reactive protein 249 mg/L,0
+ferritin 4357 ng/mL,0
+D-dimer 14 mg/mL,0
+procalcitonin 9 ng/mL,0
+interleukin-6 90 pg/mL,0
+leukocytosis,0
+neutrophilia,0
+lymphopaenia,0
+admitted to the intensive care unit (ICU),4
+hypotension,4
+treated empirically with ceftriaxone,4
+treated empirically with levofloxacin,4
+intravenous fluids for resuscitation,4
+given intravenous hydrocortisone 100 mg two times per day,4
+probable sepsis versus vaccine-related illness,4
+fever initially improved,12
+facial puffiness,12
+generalised body oedema,12
+anasarca,12
+remained tachycardic,12
+diarrhoea persisted,12
+incontinence,12
+difficult to mobilise without the support of a walking frame,24
+renal impairment,24
+ECG sinus tachycardia,24
+ECG non-specific T-wave abnormalities,24
+troponin-I 0.29 ng/mL,24
+pro-BNP over 8000 pg/mL,24
+transthoracic echocardiogram severe tricuspid regurgitation,24
+pulmonary hypertension PASP 46 mm Hg,24
+right atrium moderately dilated,24
+right ventricle moderately dilated,24
+right ventricular systolic function normal,24
+left ventricle mildly reduced ejection fraction 45%,24
+thin rim of pericardial effusion,24
+SARS-CoV-2 IgG strongly positive 345 AU/mL,24
+computed tomography scan chest negative for pulmonary embolism,36
+bilateral moderate pleural effusion,36
+basal atelectasis,36
+ANA negative,48
+dsDNA negative,48
+c-ANCA negative,48
+p-ANCA negative,48
+C3 reduced,48
+C4 reduced,48
+sputum culture mixed flora,48
+blood pressure stabilised,48
+hydrocortisone discontinued,52
+shifted to the medical ward,52
+fever recurred,72
+bacterial blood cultures negative,96
+multisystem inflammatory syndrome in adults,168
+"therapy with intravenous steroids, dexamethasone 6 mg daily",168
+condition improved markedly,192
+generalised oedema subsided,216
+skin rash resolved,216
+conjunctivitis resolved,216
+white blood cell count normalised,216
+renal function improved,216
+albuminuria improved,216
+inflammatory markers normalised,240
+repeat transthoracic echocardiography trace tricuspid regurgitation,240
+right ventricular systolic function improved,240
+right atrium normal size,240
+right ventricle normal size,240
+pulmonary artery systolic pressure normalised,240
+dexamethasone discontinued,360
+switched to oral prednisolone,360
+discharged home,360
+prednisolone taper over 2 weeks,360
+seen in the outpatient clinic,696
+symptoms resolved,696
+general weakness,696
+fatigue,696
+repeat echocardiogram completely normal,696
+no history of recent travel,0
+no sick contacts,0
+no animal exposure,0
+no consumption of raw dairy products,0
+not on any chronic medications,0
+no known allergies,0
+non-smoker,0
+did not use recreational drugs,0

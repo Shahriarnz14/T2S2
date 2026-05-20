@@ -1,0 +1,107 @@
+event,time
+53 years old,0
+male,0
+history of IV drug use,0
+presented to Emergency Department,0
+sudden loss of vision in left eye,"-120 (began 5 days prior, converted to hours: 5 days *24 = 120 hours before admission)"
+feeling unwell,0
+shortness of breath,0
+generalized body pains,0
+fever,0
+chills,0
+denies headache,0
+denies extremity weakness or numbness,0
+denies chest pain,0
+denies cough,0
+denies abdominal pain,0
+denies nausea,0
+denies vomiting,0
+history of chronic obstructive lung disease,0
+history of exploratory laparotomy 12 years prior,-105192 (12 years * 365 days/year * 24 hours/day ≈ 105192 hours before admission)
+smokes tobacco daily,0
+active illicit IV drug use,0
+temperature 36.8ºC,0
+heart rate 92 bpm,0
+blood pressure 91/55 mmHg,0
+respiratory rate 18 breaths/min,0
+oxygen saturation 92% on 2 L oxygen,0
+moderate respiratory distress,0
+diffuse bilateral rhonchi,0
+ejection murmur in tricuspid area,0
+abdomen soft and nontender,0
+left eye endophthalmitis,0
+intubated,0 (event occurred soon after ED arrival)
+fluid resuscitation initiated,0
+vasopressor therapy initiated,0
+vitreous tap performed,0
+injection of vancomycin (1 mg/0.1 mL),0
+injection of ceftazidime (2 mg/0.1 mL),0
+empiric IV vancomycin started,0
+empiric IV cefepime started,0
+moxifloxacin eye drops started,0
+"elevated WBC count (28,000/mm³)",0
+hemoglobin 8.4 g/dL,0
+"platelet count 210,000/mm³",0
+creatinine 1.45 mg/dL,0
+urine drug screen positive for benzodiazepine,0
+urine drug screen positive for opiates,0
+blood cultures obtained,0
+HIV antigen/antibody nonreactive,0
+chest X-ray showed left upper lobe reticulonodular infiltrates,0
+CT thorax showed multifocal pneumonia,0
+CT orbit showed preseptal and postseptal cellulitis,0
+TTE showed tricuspid valve vegetation,0
+blood cultures revealed S. marcescens,24 (Day 2)
+switched to meropenem,24
+gentamicin added,24
+vancomycin continued,24
+consulted cardiothoracic surgeon,24
+tricuspid valve replacement performed,24
+left upper lung/pleural abscess drainage performed,24
+tricuspid valve vegetation with severe regurgitation found,24
+33-mm Epic porcine tissue valve placed,24
+tissue cultures from tricuspid valve positive for S. marcescens,24
+tissue cultures from lung abscess positive for S. marcescens,24
+dark red blood from nasogastric tube,48 (Day 3)
+low hemoglobin,48
+gastrointestinal bleeding suspected,48
+esophagogastroduodenoscopy performed,48
+esophagitis found,48
+clotted blood in stomach fundus,48
+four ischemic ulcers found,48
+hemoclips placed,48
+critically ill in ICU,72 (Day 4)
+vitreous culture from left eye positive for S. marcescens,72
+left eye stable with no hypopyon,72
+switched to ciprofloxacin eye drops,72
+IV vancomycin discontinued,72
+continued IV meropenem,72
+continued gentamicin,72
+follow-up blood cultures negative,192 (Day 8)
+S. marcescens susceptible to ciprofloxacin confirmed,192
+gentamicin switched to ciprofloxacin,192
+persistent chemosis in left eye,192
+anterior chamber cloudy,192
+repeat CT orbit showed minimal preseptal swelling,192
+repeat intravitreal ceftazidime injection,192
+B-scan ultrasound showed vitreous debris,336 (Day 14)
+pars plana vitrectomy performed,360 (Day 15)
+subconjunctival pus noted,360
+360-degree conjunctival peritomy performed,360
+hazy lens removed,360
+scleral erosion found,360
+purulent intraocular drainage,360
+vitreous biopsy performed,360
+anterior chamber paracentesis performed,360
+iris membrane removed,360
+vitrectomy performed,360
+intravitreal vancomycin injected,360
+intravitreal ceftazidime injected,360
+posterior perforation found,360
+left eye enucleation performed,456 (Day 19)
+vitreous cultures positive for S. marcescens,456
+left eye cultures positive for S. marcescens,456
+IV meropenem continued,0 to 840 (total 6 weeks)
+oral ciprofloxacin continued,0 to 840 (total 6 weeks)
+discharged to nursing home,840 (Day 35)
+admitted with Staphylococcus aureus bacteremia 6 months later,4536 (6 months *30 days/month *24 hours/day ≈ 4320 hours; approximate timestamp as future event)

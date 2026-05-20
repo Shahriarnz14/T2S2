@@ -1,0 +1,53 @@
+76-year-old woman | 0
+atrial fibrillation | 0
+on coumadin | 0
+rheumatic heart disease (RHD) | 0
+congestive heart failure with preserved ejection fraction | 0
+treated with digoxin | 0
+owned 4 cats | 0
+presented to the Emergency Department | 0
+blood pressure of 79/54 mmHg | 0
+oral temperature of 38.3°C | 0
+heart rate of 55 beats/min | 0
+crackles up to the mid-lung fields bilaterally | 0
+irregularly irregular heart rhythm | 0
+2+ pitting edema up to the knees | 0
+generalized malaise | -168
+shortness of breath | -168
+lower extremity swelling | -168
+subjective fever | -168
+denied chest pain | -168
+denied orthopnea | -168
+denied paroxysmal nocturnal dyspnea | -168
+chest X-ray showed congestion in the bilateral lower lung fields | 1
+chest X-ray showed cardiomegaly | 1
+sodium level of 126 mmol/L | 1
+potassium level of 5.2 mmol/L | 1
+blood urea nitrogen of 33 mg/dL | 1
+creatinine of 2.77 mg/dL | 1
+white blood count of 4.9 uL | 1
+INR therapeutic at 2.8 | 1
+electrocardiogram showed signs of digoxin toxicity | 1
+troponin level of 0.20 ng/mL | 1
+digoxin level elevated at 3.6 ng/mL | 1
+admitted to the Cardiac Intensive Care Unit | 1
+cardiology consulted | 1
+given digoxin immune fab (Digibind) for digoxin toxicity | 2
+echocardiogram displayed an ejection fraction of 45% to 49% | 2
+possible vegetation on the mitral valve | 2
+severe eccentric mitral regurgitation | 2
+severe tricuspid regurgitation | 2
+transesophageal echocardiogram showed mitral valve vegetation measuring 1.2×0.7 cm | 6
+severe biatrial enlargement noted | 6
+left atrium volume of 101.40 mL/m² | 6
+right atrium volume of 233.80 mL/m² | 6
+blood cultures positive for Pasteurella multocida | 48
+ceftriaxone started for Pasteurella septicemia | 48
+head computed tomography revealed numerous chronic infarctions | 48
+screened for risk factors for Pasteurella exposure | 48
+declined multi-valve replacement surgery | 72
+chose conservative treatment | 72
+condition stabilized | 96
+discharged to a skilled nursing facility with a 6-week course of ceftriaxone | 96
+readmitted for congestive heart failure exacerbation | 816
+family elected for hospice care | 816

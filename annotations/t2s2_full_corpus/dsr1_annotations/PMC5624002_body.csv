@@ -1,0 +1,113 @@
+event,time
+25-year-old,0
+woman,0
+diabetes,0
+presented to the emergency department,0
+headache,-168
+right-side neck pain,-168
+right-side shoulder pain,-168
+fever,-48
+dry cough,-48
+odynophagia,-48
+oriented in time,0
+oriented in place,0
+oriented in person,0
+ill looking,0
+afebrile,0
+pulse 115 bpm,0
+blood pressure 95/60 mmHg,0
+normal respiratory examination,0
+normal cardiovascular examination,0
+normal neurological examination,0
+normal abdominal examination,0
+negative Kernig's sign,0
+negative Brudzinski's sign,0
+right-side neck tenderness,0
+exudative tonsillitis,0
+WBC count 7.7,0
+hemoglobin 10.9,0
+thrombocytopenia,0
+platelet count 22,0
+C-reactive protein 33.9,0
+toxic granulation on blood film,0
+Na 136,0
+K 4.6,0
+BUN 14,0
+creatinine 0.4,0
+normal AST,0
+normal ALT,0
+direct hyperbilirubinemia,0
+direct bilirubin 2.0,0
+total bilirubin 2.4,0
+sinus tachycardia,0
+chest X-ray bilateral infiltrates,0
+chest X-ray no pleural effusions,0
+right pleural effusion,48
+CT neck and chest acute thrombosis right internal jugular vein,0
+CT neck and chest septic emboli lung parenchyma,0
+duplex right upper limb and neck thrombosis right internal jugular vein,0
+prothrombin time 12.7 s,0
+partial thromboplastin time 35.6 s,0
+INR 1.18,0
+HIV negative,0
+Monospot negative,0
+Mantoux negative,0
+antinuclear antibody 1+ fine speckled,0
+anti-DNA negative,0
+"extractable nuclear antigen panel MI2A++, RP11+, RP155+",0
+normal C3,0
+normal C4,0
+negative cytoplasmic ANCA,0
+normal echocardiogram,0
+no vegetation,0
+no thrombus,0
+urine culture no growth,120
+blood culture no growth,120
+unavailable antiphospholipid screening,0
+unavailable thrombophilia screening,0
+unavailable erythrocyte sedimentation rate,0
+unavailable pANCA,0
+commenced ceftriaxone,0
+distressed,24
+acidotic pH 7.159,24
+transferred to ICU,24
+ventilatory support,24
+meropenem,24
+vancomycin,24
+vasopressors,24
+anticoagulated with rivaroxaban,24
+acute kidney injury,48
+creatinine 1.9 mg/dL,48
+resolved acute kidney injury,72
+discharged,480
+oral anticoagulants,480
+oral antibiotics,480
+insulin therapy,480
+scheduled outpatient follow-up,480
+Lemierre's syndrome,0
+thrombophlebitis,0
+internal jugular vein thrombosis,0
+septic emboli lungs,0
+sore throat,-168
+swollen neck,0
+tender neck,0
+jaundice,0
+deranged liver enzymes,0
+mucosal damage,-168
+parapharyngeal extension,0
+F. necrophorum suspected,0
+necrotic abscesses,0
+severe thrombocytopenia,0
+acute respiratory distress syndrome,24
+improvement after 5 days ICU,120
+acute renal failure,48
+resolved with fluids,72
+resolved with antibiotics,72
+no bleeding,0
+no septic arthritis,0
+no osteomyelitis,0
+no skin lesions,0
+no soft tissue lesions,0
+no purulent meningitis,0
+no endocarditis,0
+no pericarditis,0

@@ -1,0 +1,101 @@
+event,time
+76 years old,0
+woman,0
+transferred to Daegu Catholic University Medical Center,0
+worsening dyspnea,0
+living in a long-term healthcare facility,-8760
+inability to ambulate effectively,-8760
+sequela of cerebrovascular disease,-8760
+hypertension,-157680
+type 2 diabetes mellitus,-157680
+subarachnoid hemorrhage,-148920
+endobronchial tuberculosis,-122640
+intracerebral hemorrhage,-35040
+several episodes of pneumonia,-35040
+recovered from several episodes of pneumonia,-35040
+blood pressure 140/54 mmHg,0
+pulse rate 90 beats/min,0
+body temperature 36.1°C,0
+respiratory rate 14 breaths/min,0
+crackle breathing sounds in both lung fields,0
+no skin lesions,0
+indwelling urinary catheter,0
+"white blood cell count 361,000/µL",0
+neutrophils 95.8%,0
+lymphocytes 1.1%,0
+monocytes 2.5%,0
+hemoglobin 7.2 g/dL,0
+platelet count 76×10³/µL,0
+C-reactive protein 41.7 mg/L,0
+blood urea nitrogen 61 mg/dL,0
+creatinine 0.8 mg/dL,0
+Na 130 mEq/L,0
+total protein 3.4 g/dL,0
+albumin 2.2 g/dL,0
+"pro B-natriuretic peptide 3,669 pg/mL",0
+arterial blood gas pH 7.3999,0
+arterial carbon dioxide partial pressure 53.1 mmHg,0
+arterial oxygen partial pressure 61.9 mmHg,0
+peripheral oxygen saturation 99%,0
+fractional inspired oxygen 60%,0
+Candida tropicalis in blood culture,0
+Candida tropicalis in urine culture,0
+Klebsiella pneumoniae in sputum culture,0
+chest radiography diffusely increased opacity in right hemithorax,0
+right upper lobe atelectasis,0
+collapse consolidation,0
+chest computed tomography consolidation in right lung,0
+atelectasis with obliteration in right main bronchi,0
+small consolidation in left upper lobe,0
+diagnosed with pneumonia,0
+acute respiratory failure,0
+candidemia,0
+treated with meropenem,0
+treated with colistimethate sodium,0
+treated with fluconazole,0
+high-flow nasal cannula oxygen therapy,0
+flexible bronchoscopy on day 2,48
+narrowing of right main bronchus,48
+anthracotic pigmentation,48
+bronchial washing for routine culture,48
+acid-fast bacilli staining,48
+Mycobacterium tuberculosis PCR,48
+cytology on right main bronchus,48
+no infected cells in bronchial washing cytology,48
+worsening hypoxia 9 hours after bronchoscopy,57
+dyspnea 9 hours after bronchoscopy,57
+endotracheal intubation,57
+mechanical ventilation,57
+urinalysis microscopic hematuria on day 3,72
+urine cytology test on day 3,72
+HSV serology IgM negative,72
+HSV serology IgG positive,72
+HSV IgG titer 27.9 index value,72
+percutaneous dilatational tracheostomy on day 7,168
+bronchoscopy on day 7,168
+repeat bronchial washing cytology,168
+HSV type 1-positive cells in bronchial washing cytology,168
+intranuclear inclusions,168
+multinucleation,168
+RT-PCR positive for HSV type 1,168
+HSV type 1-infected cells in urine cytology,168
+treatment with acyclovir 300 mg three times daily,168
+absence of HSV infection in subsequent urine cytology,240
+vital signs stable without fever after acyclovir,240
+"white blood cell count 4,400/µL",240
+neutrophils 88.7%,240
+lymphocytes 7.5%,240
+monocytes 2.4%,240
+hemoglobin 8.6 g/dL,240
+platelet count 65×10³/µL,240
+C-reactive protein 78.1 mg/L,240
+chest radiography stable right upper lobe atelectasis,240
+vancomycin-resistant Enterococci in urine culture on day 20,480
+vancomycin-resistant Enterococci in stool culture on day 20,480
+sepsis,480
+treated with linezolid 600 mg twice daily,480
+decreased urine output,480
+acute renal failure,480
+refusal of hemodialysis,480
+refusal of cardiopulmonary resuscitation,480
+died on day 28,672

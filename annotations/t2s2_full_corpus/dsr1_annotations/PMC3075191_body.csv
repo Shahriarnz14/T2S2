@@ -1,0 +1,83 @@
+event,time
+72-year-old,0
+Hispanic woman,0
+cirrhosis caused by autoimmune hepatitis,0
+prior episodes of hepatic encephalopathy,-?
+prior episodes of ascites,-?
+admitted to the hospital,0
+2-day history of bilious vomiting,-48
+diffuse abdominal pain,-48
+oliguria,-48
+headache,-48
+esophagogastroduodenoscopy showing gastritis,-?
+esophagogastroduodenoscopy showing grade IV esophageal varices,-?
+current medications: nadolol,0
+current medications: spironolactone,0
+current medications: furosemide,0
+current medications: azathioprine,0
+current medications: esomeprazole,0
+current medications: lactulose,0
+temperature of 36.06°C,0
+blood pressure of 82/32 mm Hg,0
+regular pulse of 92 beats/min,0
+lethargy,0
+bibasilar rales,0
+tender abdomen with tense ascites,0
+no jaundice,0
+no lower extremity edema,0
+no focal neurological deficits,0
+"white blood count of 9,400 cells/mm3",0
+significant bandemia (61% bands),0
+93.6% neutrophils,0
+4.4% lymphocytes,0
+1.8% monocytes,0
+macrocytic anemia,0
+thrombocytopenia,0
+hemoglobin of 9.6 g/dl,0
+hematocrit of 28.5%,0
+"platelets of 116,000/μl",0
+MCV of 115.9 fl,0
+INR was 1.98,0
+prothrombin time 16 s,0
+new-onset renal failure (creatinine 5 mg/dl),0
+metabolic acidosis (pH 7.39; HCO3 13.4),0
+lactic acid 6.7 mmol/l,0
+serum ammonia 16 μmol/l,0
+sodium 128 meq/l,0
+potassium 5 meq/l,0
+chloride 101 meq/l,0
+bicarbonate 13 meq/l,0
+BUN 70 mg/dl,0
+abdominal CT scan showed cirrhotic liver,0
+abdominal CT scan showed splenomegaly,0
+abdominal CT scan showed ascites,0
+no ruptured viscus,0
+no obstruction,0
+large volume paracentesis performed,0
+2 l of serosanguinous ascitic fluid drained,0
+ascitic fluid albumin <1 mg/dl,0
+serum albumin 2.6 mg/dl,0
+serum-ascites albumin gradient >1.1,0
+"ascitic fluid white cell count 2,889/mm3",0
+"ascitic fluid red cell count 20,111/mm3",0
+urine studies suggestive of prerenal cause,0
+renal function did not improve with aggressive volume resuscitation,0
+urine sodium <10 meq/l,0
+kidneys structurally normal on ultrasound,0
+clinical picture consistent with hepatorenal syndrome,0
+no response to midodrine,0
+no response to octreotide,0
+vancomycin given,0
+ceftriaxone given,0
+cultures of blood grew L. monocytogenes,+?
+cultures of ascitic fluid grew L. monocytogenes,+?
+antibiotics changed to ampicillin-sulbactam,+?
+gentamicin held,0
+deteriorated clinically within 48 h,+48
+transferred to intensive care unit,+48
+respiratory failure requiring mechanical ventilation,+48
+multiple generalized tonic-clonic seizures,+48
+lumbar tap not performed,+48
+comfort measures instituted,+?
+patient died 4 days after admission,+96
+multi-organ failure caused by Listeria sepsis,+96

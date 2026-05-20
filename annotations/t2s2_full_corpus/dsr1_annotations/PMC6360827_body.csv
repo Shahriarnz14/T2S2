@@ -1,0 +1,102 @@
+event,time
+6-day-old,0
+premature,0
+female newborn,0
+born to 18-year-old gravida one woman,-144 (6 days before admission)
+mother presented with fever,"-168 (1 week before admission, converted to 168 hours prior to admission)"
+prolonged premature rupture of membranes (PPROM),-168
+received betamethasone,-168
+received ampicillin,-168
+received gentamicin,-168
+worsening maternal respiratory distress,-168
+maternal mechanical ventilation,-168
+failure to progress after induction,-168
+suspected chorioamnionitis,-168
+emergency cesarean section,-168
+born at 28 weeks and 1 day gestation,0
+birth weight 1140 gm,0
+mechanical ventilation at birth,0
+intravenous ampicillin,0
+intravenous gentamicin,0
+antibiotics discontinued,48
+negative blood cultures,48
+extubated after one day,24
+noninvasive ventilation,24
+less active,96 (4th day)
+temperature instability,96
+bradycardia,96
+started on vancomycin,96
+started on cefotaxime,96
+multiple episodes of apnea,96
+deteriorating bradycardic spells,96
+desaturation,96
+hypercarbia,96
+re-intubated,96
+synchronized intermittent mandatory ventilation,96
+antibiotics changed to cefepime,96
+antibiotics changed to fluconazole,96
+antibiotics changed to acyclovir,96
+metabolic acidosis,"120 (24 hours after day 4, day 5)"
+worsening respiratory failure,120
+high frequency oscillating ventilation,120
+condition continued to deteriorate,120
+hypotensive,120
+poor perfusion,120
+vasopressors,120
+blood products,120
+patent ductus arteriosus,120
+left-to-right shunt,120
+pulmonary hypertension,120
+small pericardial effusion,120
+moderately decreased left ventricular function,120
+low cardiac output,120
+sepsis,120
+severe metabolic acidosis,120
+disseminated intravascular coagulation,120
+antibiotic therapy,120
+antifungal therapy,120
+antiviral therapy,120
+cardiopulmonary arrest,"144 (40 hours after symptom onset on day 5, 40 + 96 = 136? Contextually day 6)"
+passed away,144
+mucocutaneous culture positive for HSV,"144 (sampled on day 5, result postmortem)"
+placental pathology: third-trimester placenta,0
+moderate intervillous fibrosis,0
+no chorioamnionitis,0
+no funisitis,0
+autopsy performed within 24 hours,24 (postmortem)
+serous fluid in right pleural cavity,0
+serous fluid in left pleural cavity,0
+pericardial sac fluid,0
+serosanguineous ascites,0
+normal-sized heart,0
+unremarkable immature myocardium,0
+open ductus arteriosus,0
+open foramen ovale,0
+hemorrhagic right upper and middle lung lobes,0
+thickened lung septa,0
+saccular stage of lung development,0
+disorganized airway epithelium,0
+viral nuclear inclusions in lung,0
+positive HSV immunohistochemistry in lung,0
+diffuse fibrin plugs in bronchioles,0
+diffuse alveolar hemorrhage,0
+stomach with bloody mucus,0
+liver weighed 65 gm,0
+centrilobular congestion,0
+portal hemorrhage,0
+subcapsular hemorrhage,0
+HSV-infected hepatocytes,0
+positive HSV immunohistochemistry in liver,0
+peripelvic kidney hemorrhage,0
+no herpetic infection in kidneys,0
+splenic karyorrhexis,0
+perivascular cell fragments in spleen,0
+CNS microglial nodules,0
+HSV isolated from postmortem lung cultures,0
+resolving hyaline membrane disease,0
+disseminated HSV infection,0
+involution of thymus,0
+medullary congestion,0
+pelvic kidney hemorrhage,0
+no dysmorphic features,0
+no congenital anomalies,0

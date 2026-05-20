@@ -1,0 +1,64 @@
+event,time
+74 years old,0
+male,0
+admitted to the hospital,0
+asthma,-87600
+nephrotic syndrome,-87600
+prednisolone 10 mg daily,-87600
+steroid-induced DM,-87600
+obese,-87600
+unconscious state,0
+hematemesis,0
+double incontinence,0
+complete phimosis,0
+hypogonadism,0
+sinus tachycardia,0
+complete right bundle branch block,0
+atrophic liver,0
+multiple pancreatic cysts,0
+excess visceral fat,0
+septic shock,0
+acute respiratory failure,0
+renal failure,0
+hyperkalemia,0
+cerebral ischemia,0
+liver cirrhosis,0
+rhabdomyolysis,0
+upper gastrointestinal bleeding,0
+hyperglycemia,0
+adrenal insufficiency,0
+Staphylococcus capitis,168
+ascites,144
+transient ischemic attack,144
+Todd's paralysis,144
+pulmonary embolism,360
+left leg phlegmon,432
+atrophic gastritis,648
+burn-out NASH,0
+hypothalamic obesity,0
+critical illness myopathy,0
+hepatic steatosis,0
+insulin resistance,0
+no fresh ischemic lesions,0
+no identifiable external urethral orifice,0
+no fatty liver on CT,0
+no history of alcohol use,0
+no history of smoking,0
+hepatitis B negative,0
+hepatitis C negative,0
+autoimmune antibodies negative,0
+M2BPGI: Mac-2 binding protein (M2BP) 2+,0
+NAFLD fibrosis score 2.0,0
+FIB-4 index 9.45,0
+extubated,72
+circulation stabilized,72
+steroid dose tapered,168
+heparinization,360
+respiratory function deterioration,360
+renal function returned to normal,432
+rhabdomyolysis resolved,432
+liver dysfunction,432
+coagulopathy,432
+anemia,432
+antibiotics for phlegmon,432
+transferred for rehabilitation,816

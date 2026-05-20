@@ -1,0 +1,81 @@
+event,time
+65-year-old,0
+female,0
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+history of parkinsonism,0
+history of diabetes mellitus,0
+levodopa / carbidopa,-17532
+rasagiline,-17532
+ropinirole,-17532
+trihexyphenidyl,-17532
+amantadine,-17532
+metformin,-17532
+glipizide,-17532
+multiple hospital and Intensive Care Unit (ICU) admissions,-17532
+worsening parkinsonism,-17532
+admitted to the ward for cellulitis,-17532
+treated with intravenous clindamycin,-17532
+intravenous benzylpenicillin,-17532
+persistently high-temperature spikes,48
+tachycardia,48
+tachypnea,48
+hypotensive,48
+encephalopathic,48
+shifted to ICU,48
+intravenous linezolid,48
+intravenous piperacillin,48
+borderline renal parameters,48
+hemodynamics improved,48
+minimal inotropic supports,48
+oral hypoglycemic agents were stopped,48
+switched to insulin on ICU admission,48
+confused,72
+drowsy,72
+disoriented,72
+altered sensorium,72
+myoclonus,72
+tremors,72
+jerky movements,72
+no neck stiffness,72
+Computed tomography of the brain,72
+cerebrospinal fluid analysis,72
+improving white blood cell counts from 14,NA
+glycemic control,72
+no other abnormalities,72
+blood and pus cultures were sterile,72
+status remained the same,96
+high temperature of 103°F,96
+altered mental status,96
+myoclonus,96
+jerky movements,96
+tremors,96
+No other drugs were added,96
+rasagiline,96
+started on linezolid,96
+Serotonin syndrome was suspected,96
+ruling out other possibilities,96
+no infection,96
+no drug abuse,96
+no cerebrovascular etiologies,96
+no metabolic etiologies,96
+probable adverse drug reaction,96
+Naranjo score of six,96
+rasagiline was stopped,96
+linezolid was stopped,96
+temperature settled,56
+heart rate was normal,120
+sensorium improved,120
+tremors completely subsided,120
+shifted out of the ICU,144
+walking with support,384
+discharged from the hospital,384
+anti-parkinsonism drugs,384
+later added rasagiline,384
+regular follow-up with the neurologist,384
+stable,384
+asymptomatic for serotonin syndrome,384
+signs and symptoms resolved,56
+stopping both serotonergic drugs,56

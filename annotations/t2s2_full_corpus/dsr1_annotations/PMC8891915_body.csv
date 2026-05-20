@@ -1,0 +1,59 @@
+event,time
+70 years old,0
+male,0
+non-hypertensive,0
+non-smoker,0
+well-controlled diabetic (HbA1c = 6.83%),0
+presented for unresolving back pain,0
+COVID-19-induced pneumonia,-1440
+normal blood investigations,0
+"elevated white blood cell (WBC 15,200/mm3)",0
+no abnormal monoclonal gammopathy,0
+contrast-enhanced CT showing mediastinal calcified lymph nodes,0
+dense infiltrative retroesophageal prevertebral lesion (T2-T8),0
+retractile subpleural fibrous bands,0
+stepwise increase in WBC,0
+stepwise increase in CRP,0
+broad spectrum antibiotherapy initiated,0
+dorsal MR showing lesion expansion (T2-T9),72
+tuberculosis testing negative,0
+HIV testing negative,0
+brucellosis testing negative,0
+blood culture negative,0
+serum galactomannan assay negative,0
+RT-PCR COVID-19 negative,0
+first percutaneous CT-guided biopsy inconclusive,72
+rising WBC count,0
+rising CRP,0
+control dorsal MR showing slight progression,240
+empirical antifungal therapy (fluconazole 400 mg b.i.d. and amphotericin B 400 mg q.d.) initiated,456
+second CT-guided biopsy performed,480
+necrotic lesions with fungal hyphae observed,480
+culture showing Aspergillus fumigatus,480
+antifungal therapy switched to voriconazole (400 mg b.i.d. then 200 mg b.i.d.),480
+surgical thoracotomy refused,480
+decreasing CRP levels,480
+increasing creatinine levels,480
+progressive oliguria,480
+hemodialysis sessions,480
+developed paraplegia,648
+altered mental state,648
+ICU transfer,648
+head CT normal,648
+lumbar puncture normal,648
+dorsal MR showing spinal cord compression (T6-T8),648
+antifungal treatment insufficient,648
+renal function deteriorating,648
+neurological function deteriorating,648
+comatose,720
+intubated,720
+passed away,720
+dexamethasone 20 mg daily (3-week course during COVID-19 hospitalization),-1440
+COVID-19 hospitalization (2 weeks),-1440
+no mechanical ventilation,-1440
+no ICU admission,-1440
+no invasive pulmonary aspergillosis during COVID-19,-1440
+negative initial blood cultures,0
+no surgical history of mediastinum,0
+no retropharyngeal or parapharyngeal abscess,0
+no esophageal perforation,0

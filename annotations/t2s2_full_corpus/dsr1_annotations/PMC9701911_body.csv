@@ -1,0 +1,76 @@
+event,time
+46 years old,0
+female,0
+presented to emergency department,0
+headaches,-1008
+posterior neck pain,-1008
+nausea,-1008
+loss of appetite,-1008
+blurry vision,-1008
+head trauma,-1344
+domestic abuse incident,-1344
+HIV/AIDS,0
+CD4 count 124 cells/μL,0
+chronic hepatitis B infection,0
+cocaine abuse,0
+remote history of infectious endocarditis,0
+low-grade fever (100.4 °F),0
+hypotension (76/51 mm Hg),0
+tachycardic heart rate (126 beats/min),0
+cachectic,0
+acute distress,0
+normal neurologic examination,0
+tachycardia,0
+normal respiratory rate (17 breaths/min),0
+normal oxygen saturation (96%),0
+moderate hyponatremia,0
+hypochloremia,0
+elevated creatinine level,0
+acute kidney injury,0
+hypoalbuminemia,0
+anemia,0
+leukopenia,0
+negative pregnancy test,0
+computed tomography scan showing hypoenhancing hypodense mass in sella,0
+MRI showing centrally necrotic mass with peripheral wall enhancement,0
+no evidence of sinusitis,0
+admitted to neurologic intensive care unit,0
+intravenous fluid resuscitation,0
+vancomycin,0
+cefepime,0
+metronidazole,0
+fluconazole,0
+central hypothyroidism,0
+secondary adrenal insufficiency,0
+low insulin-like growth factor-1 level,0
+low prolactin level,0
+oral levothyroxine,0
+intravenous hydrocortisone (50 mg every 6 hours),0
+high urine output,48
+increased thirst,48
+urine osmolality decreased (186 mOsm/kg),48
+blood osmolality increased (315 mOsm/kg),48
+urine sodium 29 mmol/L,48
+diabetes insipidus,48
+oral desmopressin (50 μg daily),48
+condition improved,240
+vital signs stabilized,240
+repeat MRI showing decreased mass size,240
+pituitary abscess diagnosis,240
+blood cultures negative,240
+lumbar puncture not useful,240
+no surgical intervention,240
+6-week antibiotic regimen,0
+repeat MRI 11 months post-treatment,7920
+persistent central hypothyroidism,7920
+oral levothyroxine indefinitely,7920
+secondary adrenal insufficiency,7920
+oral hydrocortisone indefinitely,7920
+menstrual cycles never returned,7920
+secondary hypogonadism,7920
+self-discontinued desmopressin,24
+no polyuria,7920
+no polydipsia,7920
+desmopressin discontinued,24
+normal sodium levels,7920
+normal serum osmolality,7920

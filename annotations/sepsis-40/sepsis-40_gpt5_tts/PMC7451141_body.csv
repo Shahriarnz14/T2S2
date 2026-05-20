@@ -1,0 +1,108 @@
+event,time
+66-year-old,0
+male,0
+hypertension,0
+hyperlipidemia,0
+hepatitis C virus infection,0
+atrial fibrillation,0
+anticoagulated with apixaban,0
+dizziness,-3
+lost consciousness,-2
+found down by a family member,-2
+brought in by emergency services,-1
+presented to emergency department,-1
+primary trauma survey negative,-1
+Glasgow Coma Score of 15,-1
+no focal neurological deficits,-1
+noncontrast CT head,-1
+6 mm right frontal subdural hematoma,-1
+no shift,-1
+right medial orbital wall fracture,-1
+no operative intervention recommended,-1
+admitted to the surgical intensive care unit,0
+serial neurological checks,0
+severe headache,48
+noncontrast CT head repeated,48
+worsening of the subdural hematoma,48
+mass effect,48
+2 mm midline shift,48
+remained neurologically intact,48
+no surgical intervention recommended,48
+discharged to acute inpatient rehabilitation,120
+instructions to repeat head CT in 2 weeks,120
+terrible headache,264
+repeat neurosurgical evaluation,336
+neurologically intact,336
+repeat CT head showed expansion of the hematoma to 15 mm,336
+increased mass effect,336
+8 mm midline shift,336
+burr holes for evacuation of the subdural hematoma,336
+placement of subdural drain,336
+headache improved,348
+subdural hematoma decreased in size on repeat CT head,348
+improvement in mass effect and midline shift,348
+postoperative course without complication,384
+drain removed,384
+discharged home,384
+levetiracetam started for seizure prophylaxis,384
+office follow-up visit,672
+described a strange sensation in the right arm,672
+feeling that he could not control the arm,672
+sent to the emergency room,672
+focal left arm seizure,674
+seizure treated,674
+electroencephalography monitoring started,674
+admitted,674
+unresponsive,682
+CT head showed no acute hemorrhage,682
+status epilepticus on EEG,682
+intubated for airway protection,682
+transferred to the medical intensive care unit,683
+cerebral CT angiography obtained,688
+cerebral CT angiography negative for any pathology,688
+ventilator-dependent respiratory failure,700
+septic shock,700
+Pseudomonas bacteremia,700
+tracheostomy,720
+gastrostomy,720
+discharged to long-term acute care hospital,1346
+levetiracetam for seizure control,1346
+oxcarbazepine for seizure control,1346
+less responsive,1442
+transferred back for neurosurgical evaluation,1442
+opened eyes to stimulation,1442
+localized with the right upper extremity,1442
+minimal movement of left upper extremity,1442
+minimal movement of bilateral lower extremities,1442
+cough reflex present,1442
+gag reflex present,1442
+corneal reflexes present,1442
+pupillary reflexes present,1442
+CT head showed right frontal intraparenchymal hemorrhage 5.2 cm x 3.3 cm,1442
+CT angiography head showed no vascular lesion or anomaly,1442
+cerebral catheter angiography performed,1448
+arteriovenous malformation diagnosed,1448
+prominence of anterior temporal branch of right middle cerebral artery feeding AVM,1448
+early shunting through a cortical vein to the superior sagittal sinus,1448
+capillary-like serpiginous tangle representing AVM nidus,1448
+Spetzler-Martin Grade 1,1448
+Spetzler-Ponce Grade A,1448
+embolization of the arteriovenous malformation using N-butyl-cyanoacrylate glue,1496
+no opacification of early draining vein,1496
+no opacification of arteriovenous malformation nidus,1496
+right pterional craniotomy,1688
+resection of the arteriovenous malformation,1688
+arteriovenous malformation separated from surrounding brain parenchyma using microdissection,1688
+feeding arteries coagulated using bipolar electrocautery,1688
+draining vein coagulated using bipolar electrocautery,1688
+intraoperative Doppler ultrasound indicated no arterial flow in the draining vein,1688
+evacuation of associated intraparenchymal hematoma,1688
+postoperative angiography showed no residual arteriovenous malformation,1690
+followed commands,1760
+tracked with eyes,1760
+spontaneous antigravity movement of the right upper extremity,1760
+no movement of the left upper extremity,1760
+no movement of the bilateral lower extremities,1760
+pseudomonas sepsis,1776
+treated in consultation with infectious disease,1776
+discharged to long-term acute care,2048

@@ -1,0 +1,74 @@
+event,time
+33 years old,0\
+female,0\
+admitted to the University Hospital,0\
+shortness of breath,-168\
+feeling ill,-168\
+general health deteriorated,-168\
+high fever,-168\
+SARS-CoV-2 positive,-168\
+elevated body mass index,0\
+no preexisting conditions,0\
+no known liver damage,0\
+no respiratory problems,0\
+compromised respiratory function,-168\
+severe hypoxemia,-168\
+endotracheal intubation,-168\
+mechanical ventilation,-168\
+high ventilation pressure,0\
+poor O2 saturation,0\
+veno-venous extracorporeal membrane oxygenation (vvECMO),0\
+severe acute respiratory distress syndrome (COVID-19-ARDS),0\
+continuous catecholamines,0\
+ICU stay,0\
+hemodialysis initiated,96\
+ECMO removed,336\
+successful weaning,360\
+impaired liver function,0\
+elevated liver parameters,0\
+elevated bilirubin,0\
+elevated gamma-glutamyl transferase (GGT),0\
+elevated alkaline phosphatase (AP),0\
+toxic/ischemic liver injury suspected,0\
+reduced sedation,336\
+elevated liver enzymes persisted,336\
+elevated AST,336\
+elevated ALT,336\
+Ursofalk® 1000 mg treatment,336\
+computed tomography abdomen day 10,240\
+no parenchymal damage,240\
+no cholestasis,240\
+MRCP day 47,1128\
+mild stenosis of distal common bile duct,1128\
+suspected stricture of prepapillary CBD main,1128\
+ERCP day 60,1440\
+rarefication of intrahepatic bile ducts,1440\
+MRCP day 105,2520\
+multiple diffuse strictures CBD,2520\
+intrahepatic biliary tree strictures,2520\
+T2-signal changes,2520\
+restricted diffusion,2520\
+cholangetic abscess formation,2520\
+MRI day 129,3096\
+progressive encapsulated intrahepatic fluid accumulation,3096\
+rim-contrast enhancement,3096\
+progressive intrahepatic abscess,3096\
+elevated CRP,0\
+peak CRP 217 mg/L,0\
+renal failure,0\
+hemodialysis three times weekly,0\
+elevated bilirubin peak 17.29 mg/dL,3336\
+interdisciplinary meeting,0\
+orthotopic liver transplantation discussed,0\
+kidney transplantation discussed,0\
+deterioration in general health,0\
+impaired respiratory function,0\
+transplantation plan discarded,0\
+SSC-CIP diagnosis,1440\
+post-COVID-19 cholangiopathy,1440\
+remdesivir treatment,0\
+convalescent plasma transfusion,0\
+"antibiotics (Noxafil®, Piperacillin/Tazobactam®, Tygacil®, Curam®)",0\
+"organ failure (respiratory, kidneys, liver)",3696\
+death,3696\
+no autopsy performed,3696

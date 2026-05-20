@@ -1,0 +1,202 @@
+event,time
+18 years old,0
+male,0
+admitted to the hospital,0
+fever,-72
+rash,-72
+acne,-672
+minocycline,-672
+increased WBC count,0
+eosinophilia,0
+systemic involvement,0
+diffuse erythematous or maculopapular eruption,0
+pruritus,0
+DRESS syndrome,0
+fever persisted,0
+rash persisted,0
+- Emergency cesarean delivery,0
+- Abruptio placenta,0
+- Birth weight 1090g,0
+- Apgar 4 (1min),0
+- Apgar 8 (5min),0
+- Respiratory distress,0
+- Chest retraction,0
+- CPAP initiated,0
+- Surfactant administered,0
+- Admitted to NICU,0
+- Cloudy eyes,0
+- Ectropion,0
+- Dry ichthyotic skin,0
+- Undescended testicles,0
+- Normal dysmorphia exam,0
+"- Percentiles for height, weight, head",0
+- Temperature 36.2°C,0
+- HR 167,0
+- Normal lung sounds,0
+- No organomegaly,0
+- Normal initial labs,0
+- RDS on X-ray,0
+- Respiratory acidosis,0
+- Bowel movement,12
+- Trophic feeding started,72
+- Abdominal distension,144
+- Tachycardia,144
+- Tachypnea,144
+- Thrombocytopenia,144
+- Neutropenia,144
+- CRP 70 mg/L,144
+- Antibiotics escalated,144
+- Feeding stopped,144
+- Antibiotics discontinued,216
+- Feeding restarted,216
+- High-flow oxygen started,336
+- Brain MRI normal,504
+- NG tube feeding,504
+- Conjugated hyperbilirubinemia,504
+- Cholestasis workup,504
+- TPN-associated hepatitis suspected,504
+- Genetic testing initiated,504
+- X-ray spine normal,504
+- Echocardiogram normal,504
+- Eye exam normal,504
+- Craniosynostosis,672
+- Abdominal US normal,504
+- Albumin decline,504
+- Bilirubin increased,504
+- AST increased,504
+- ALT increased,504
+- Albumin infusions,504
+- Ursodeoxycholic acid started,504
+- Infectious workup negative,504
+- Metabolic tests negative,504
+- TSH normal,504
+- T3 normal,504
+- T4 normal,504
+- Cortisol normal,504
+- No hypoglycemia,504
+- WES sent,1344
+- Recurrent apnea,504
+- Bradycardia,504
+- Caffeine administered,504
+- Phenobarbital administered,504
+- Severe cyanosis,2184
+- Cardiorespiratory resuscitation,2184
+- Intubation,2184
+- Mechanical ventilation,2184
+- Epinephrine administered,2184
+- Septic shock,2184
+- DIC,2184
+- Acute renal failure,2184
+- Capillary leak syndrome,2184
+- CRP 223 mg/L,2184
+- Inotropic support,2184
+- High-frequency ventilation,2184
+- Nitric oxide,2184
+- Death,2400
+- NOTCH2 mutation identified,2400
+- No pale stools,504
+- No organomegaly,0
+- No dysmorphia,0
+- X-ray spine normal,504
+- Echocardiogram normal,504
+- Eye exam normal,504
+- No choledochal cyst on USG,504
+- Negative TORCH screening,504
+- Negative galactosemia,504
+- Negative tyrosinemia,504
+emergency cesarean delivery,0
+abruptio placenta,0
+birth weight 1090 g,0
+Apgar 4 (1 min),0
+Apgar 8 (5 min),0
+respiratory distress,0
+chest retraction,0
+CPAP initiated,0
+surfactant administered,0
+admitted to NICU,0
+cloudy eyes,0
+ectropion,0
+dry ichthyotic skin,0
+bilaterally undescended testicles,0
+no dysmorphia,0
+height 75th percentile,0
+weight 25th percentile,0
+head circumference 25th percentile,0
+temperature 36.2°C,0
+heart rate 167 beats/min,0
+normal lung sounds,0
+no organomegaly,0
+normal blood count,0
+normal electrolytes,0
+normal liver function,0
+RDS on X-ray,0
+respiratory acidosis,0
+bowel movement,12
+trophic feeding started,72
+abdominal distension,144
+tachycardia,144
+tachypnea,144
+thrombocytopenia,144
+neutropenia,144
+CRP 70 mg/L,144
+meropenem,144
+vancomycin,144
+feeding stopped,144
+antibiotics discontinued,216
+feeding restarted,216
+high-flow oxygen initiated,336
+apnea episodes,504
+apnea episodes,672
+brain MRI normal,504
+nasogastric tube feeding,504
+conjugated hyperbilirubinemia,504
+cholestasis workup,504
+TPN-associated hepatitis suspected,504
+genetic testing initiated,504
+X-ray spine normal,504
+echocardiogram normal,504
+eye exam normal,504
+craniosynostosis,672
+abdominal ultrasound normal,504
+albumin decline,504
+bilirubin increased,504
+AST increased,504
+ALT increased,504
+albumin infusions,504
+ursodeoxycholic acid started,504
+infectious workup negative,504
+metabolic tests negative,504
+TSH normal,504
+T3 normal,504
+T4 normal,504
+cortisol normal,504
+no hypoglycemia,504
+no pale stools,504
+whole exome sequencing sent,1344
+recurrent apnea,504
+bradycardia,504
+caffeine administered,504
+phenobarbital administered,504
+severe cyanosis,2184
+cardiorespiratory resuscitation,2184
+intubation,2184
+mechanical ventilation,2184
+epinephrine administered,2184
+septic shock,2184
+disseminated intravascular coagulation,2184
+acute renal failure,2184
+capillary leak syndrome,2184
+CRP 223.3 mg/L,2184
+inotropic support,2184
+high-frequency oscillating ventilation,2184
+inhaled nitric oxide,2184
+death,2400
+NOTCH2 mutation identified,2400
+no choledochal cyst,504
+negative TORCH screening,504
+negative galactosemia,504
+negative tyrosinemia,504
+negative hepatitis B/C,504
+normal bile acid synthesis,504
+no micropenis,504
+skull X-ray craniosynostosis,672

@@ -1,0 +1,153 @@
+event,time
+58 years old,0
+female,0
+hyperthyroidism,0
+osteoporosis,0
+COPD stage IV,0
+classified for lung transplantation,0
+PaO2 61.2 mmHg,0
+PaCO2 44 mmHg,0
+oxygen therapy 2 l/min,0
+FEV1 0.44 l,0
+FEV1 19.7% sd,0
+FVC 1.38% sd,0
+6-MWT 174 metres,0
+RVSP 36 mmHg,0
+PRA 3%,0
+donor identified,-2880
+donor age 57,-2880
+donor cerebral hemorrhage,-2880
+donor ventilated 48 hours,-2880
+donor PaO2/FiO2 360 mmHg,-2880
+comparable growth,-2880
+identical blood group,-2880
+lung transplantation performed,-2832
+anterolateral thoracotomy fifth intercostal space,-2832
+transverse sternotomy,-2832
+right pulmonary vein cuff short and tight,-2832
+left donor lung implanted in right emphysemal locus,-2832
+recipient right lung hilum dissected,-2832
+pulmonary artery clamped,-2832
+pulmonary veins cuff clamped,-2832
+donor bronchus telescopically placed,-2832
+bronchus stitched with absorbable sutures 3-0,-2832
+artery anastomosed with 4-0 suture,-2832
+vein anastomosed with 4-0 suture,-2832
+pulmonary circulation vented and restored,-2832
+ventilation resumed,-2832
+haemostasis obtained,-2832
+graft function confirmed,-2832
+two drains inserted pleural cavity,-2832
+thorax closure,-2832
+metal suturing of sternum,-2832
+suturing periosteum fifth rib,-2832
+layered lid suture,-2832
+transferred to ICU,-2832
+ICU stay 8 days,-2832
+positive cross-match,-2832
+five automatic plasmapheresis,-2832
+human immunoglobulin administered,-2832
+rituximab administered,-2832
+diminish lymphocytotoxic antibodies against HLA,-2832
+primary graft dysfunction,-2784
+recipient lung emphysema,-2784
+mediastinum shifted toward graft side,-2784
+C1-esterase administered,-2784
+LVRS performed,-2784
+prolonged air leakage,-2784
+infusion 16 units FFP,-2832
+infusion 2 units PRBCs,-2832
+infusion 100 ml 20% albumin,-2832
+right lung drainage removed,-2784
+left lung drainage removed,-2664
+discharged,-1056
+PO2 68.9 mmHg,-1056
+PCO2 44.0 mmHg,-1056
+oxygen therapy discontinued,-1056
+FEV1 1.12 l,-1056
+FEV1 50.5%,-1056
+FVC 1.38 l,-1056
+FVC 52.2%,-1056
+6-MWT 246 metres,-1056
+cyclosporine 50 mg twice daily,-1056
+mycophenolate mofetil 1000 mg twice daily,-1056
+prednisone 10 mg daily,-1056
+first acute organ rejection,2880
+histopathologically confirmed,2880
+anti-HLA class II 158.57-701.89 MFI,2880
+methylprednisolone therapy,2883
+tacrolimus 0.5 mg daily started,2883
+Moraxella catarrhalis infection,2880
+amoxicillin/clavulanic acid,2880
+transient renal failure,2880
+ion disorders,2880
+hypoproteinaemia,2880
+leukopaenia,2880
+bronchitis Corynebacterium pseudodiphtericum,4320
+Escherichia coli UTI,4320
+amoxicillin/clavulanic acid,4320
+second acute graft rejection,4320
+E. coli sepsis,5760
+ceftazidime therapy,5760
+cytomegalovirus disease,5760
+ganciclovir therapy,5760
+pulmonary embolism,5760
+anxiety disorder,5760
+opipramol therapy,5760
+venlafaxine therapy,5760
+leukopenia 2900/µl,5760
+pantoprazole dose reduced,5760
+mycophenolate mofetil dose reduced,5760
+third acute graft rejection,6480
+Pseudomonas aeruginosa infection,6480
+ciprofloxacin therapy,6480
+ceftazidime therapy,6480
+bilateral otitis,6480
+sinus polyposis,6480
+temporal bone polyposis,6480
+clindamycin therapy,6480
+budesonide inhalation,6480
+hypogammaglobulinaemia,6480
+human immunoglobulins every three weeks,6480
+Acinetobacter baumanii infection,7920
+Proteus mirabilis infection,7920
+Candida albicans infection,7920
+Candida glabrata infection,7920
+Aspergillus infection,7920
+cefuroxime therapy,7920
+imipenem therapy,7920
+ampicillin/sulbactam,7920
+amikacin therapy,7920
+amphotericin B therapy,7920
+itraconazole therapy,7920
+colistin therapy,7920
+drug-induced diabetes,7920
+glimepiride therapy,7920
+insulin therapy,7920
+renal failure,7920
+fourth acute lung rejection,7920
+fifth acute graft rejection,10080
+renal failure deepened,10080
+diabetes destabilization,10080
+cytomegalovirus reactivation,10080
+valganciclovir therapy,10080
+leukopaenia deteriorated,10080
+valganciclovir dose reduced,10080
+Acinetobacter baumanii infection,10080
+Klebsiella pneumoniae infection,10080
+Candida albicans infection,10080
+ceftazidime therapy,10080
+ciprofloxacin therapy,10080
+ampicillin/sulbactam,10080
+colistin therapy,10080
+metronidazole therapy,10080
+tazobactam therapy,10080
+itraconazole therapy,10080
+nystatin therapy,10080
+depression,10080
+mianserin therapy,10080
+posttraumatic shin hematoma,10080
+VAC therapy,10080
+died,11952
+sepsis,11952
+unsuccessful reanimation,11952

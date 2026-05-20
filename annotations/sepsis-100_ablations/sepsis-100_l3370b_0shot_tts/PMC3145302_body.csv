@@ -1,0 +1,43 @@
+event,time
+acute severe asthma ,-1
+short non-infective prodrome ,-1
+hypoxic cardiac arrest ,0
+ventricular fibrillation ,0
+resuscitation to sinus tachycardia ,0
+endotracheal intubation ,0
+therapeutic cooling to 33°C ,0
+salbutamol treatment ,0
+ipratropium treatment ,0
+aminophylline treatment ,0
+hydrocortisone treatment ,0
+magnesium treatment ,0
+ketamine treatment ,0
+inhalation anesthesia with 1 MAC isoflurane ,0
+severe hypercapnic acidosis ,0
+neuromuscular blockade ,0
+inadequate minute ventilation ,0
+intravenous sedatives stopped ,48
+neuromuscular blockers stopped ,48
+generalised status myoclonus ,48
+isoflurane stopped ,96
+comatose ,96
+absent motor response to painful stimulus ,96
+preserved pupillary reflexes ,96
+preserved corneal reflexes ,96
+preserved cough reflexes ,96
+preserved gag reflexes ,96
+spontaneously breathing ,96
+severe generalised status myoclonus ,96
+refractory to antiepileptic medications ,96
+electroencephalography showed generalised periodic discharges ,96
+reversible causes of coma eliminated ,96
+no agreement about neurological outcome ,192
+social issues due to interethnic marriage and pregnancy ,192
+intensive social work support ,192
+plasma neuron-specific enolase 51 mcg/L ,240
+somatosensory-evoked potential unhelpful ,240
+brain magnetic resonance imaging ,240
+bilateral basal ganglia and frontoparietal cortex infarction ,240
+medical consensus regarding poor prognosis ,240
+extubation ,240
+death ,264

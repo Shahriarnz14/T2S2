@@ -1,0 +1,139 @@
+event,time
+56 years old,0
+male,0
+admitted to the hospital,0
+neck mass detected,0
+neck mass without symptomatic changes,0
+neck mass neither painful nor enlarging,0
+left submandibular region heterogeneous ovoid mass,0
+enlarged left paramedial submental lymph node,0
+biopsy of neck mass revealed EMC,0
+positive CK7,0
+positive CKAE1/AE3,0
+positive CK903,0
+positive S100,0
+positive smooth muscle actin,0
+negative CK20,0
+negative PAX8,0
+negative GATA,0
+negative CDX2,0
+negative GFAP,0
+infiltrates into soft tissue,0
+fragments of salivary gland with fibrosis,0
+fragments of salivary gland with atrophy,0
+left submandibular mass resected in piecemeal fashion,0
+final pathology report confirming EMC,0
+Hodgkin lymphoma,-324864
+mantle field RT,-324864
+chemotherapy for Hodgkin lymphoma,-324864
+splenectomy,-324864
+diffuse large B cell lymphoma (DLBCL),-105120
+PET scan displaying diffuse disease,-105120
+right axilla involvement,-105120
+mediastinum involvement,-105120
+multiple abdominal lymph nodes involvement,-105120
+appendicular skeleton involvement,-105120
+liver involvement,-105120
+treatment with denosumab,-105120
+six cycles of R-CHOP,-105120
+dizziness,-105120
+ataxia,-105120
+memory loss,-105120
+brain MRI showing two ring-enhancing lesions,-105120
+right temporal lobe metastasis,-105120
+left posterior fossa metastasis,-105120
+whole brain radiation therapy,-105120
+intrathecal cytarabine,-105120
+coronary artery disease,0
+hypertension,0
+hypothyroidism,0
+gastroesophageal reflux disease,0
+mini-stroke,0
+coronary artery bypass grafting x4,0
+right carotid endarterectomy,0
+appendectomy,0
+aortic valve replacement,0
+maternal grandfather with lung cancer,0
+maternal uncle with colon cancer,0
+paternal grandfather with lung cancer,0
+no first degree relatives with cancer,0
+no first degree relatives with heart disease,0
+no first degree relatives with alcoholism,0
+no first degree relatives with asthma,0
+no first degree relatives with bleeding disorder,0
+no first degree relatives with diabetes,0
+no first degree relatives with thyroid disease,0
+32-pack year smoking history,0
+asbestos exposure,0
+no alcohol use,0
+no illicit drug use,0
+bilateral dense fibrosis,0
+MRI no visible residual EMC,0
+PET no visible residual EMC,0
+revision surgery,0
+neck dissection,0
+resection of left submandibular gland,0
+dissection of level IA nodes,0
+dissection of level IB nodes,0
+dissection of suprahyoid neck nodes,0
+EMC in 1/2 left level IB lymph nodes,0
+0/3 left level IA lymph nodes,0
+pathologic stage pT2pN1M0,0
+extensive lymphovascular invasion,0
+positive margins on primary mass,0
+adjuvant chemoradiation,0
+intensity-modulated radiation therapy,0
+5040 cGy in 28 fractions,0
+3D-boost of 1620 cGy in 9 fractions,0
+cumulative dose 6660 cGy in 37 fractions,0
+concurrent carboplatin,0
+concurrent paclitaxel,0
+no evidence of EMC post-treatment,0
+xerostomia,0
+fibrosis of neck tissues,0
+right upper lobe lung nodule FDG uptake,0
+interval growth of lung nodule,0
+bronchoscopy with biopsy revealed NET,0
+positive CAM 5.2,0
+positive TTF1,0
+positive synaptophysin,0
+positive chromogranin,0
+Ki67 less than 3%,0
+denied cough,0
+denied shortness of breath,0
+denied diarrhea,0
+denied flushing,0
+denied weight loss,0
+elected observation for NET,0
+left thyroid lobe FDG focus,0
+thyroid ultrasound with Doppler,0
+oblong mildly hypoechoic nodule,0
+fine needle aspiration follicular lesion,0
+benign nodular hyperplasia of thyroid,0
+elected hemithyroidectomy,0
+follow-up CT interval growth of NET,7200
+new bilateral pulmonary nodules,7200
+new FDG avid focus in left pterygoid,7200
+intensely avid hilar lymphadenopathy,7200
+moderately avid mediastinal lymph nodes,7200
+biopsy negative for malignancy,7200
+elected SBRT to right lung,7200
+SBRT 5250 cGy over 5 fractions,7200
+epistaxis,8400
+supratherapeutic INR,8400
+fall with altered mental status,8400
+hypoxic respiratory failure,8400
+transfer to ICU,8400
+intubation,8400
+pneumonia,8400
+sepsis,8400
+vasopressor requirement,8400
+bilateral pleural effusions,8400
+therapeutic thoracentesis,8400
+flow cytometry CD10-positive lambda-skewed B cells,8400
+suspicious small B cell lymphoma,8400
+suspicious follicular lymphoma,8400
+negative peripheral blood flow cytometry,8400
+transfer to palliative care,8400
+inpatient hospice,8400
+expired,8400

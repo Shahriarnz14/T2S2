@@ -1,0 +1,71 @@
+event,time
+61 years old,0
+Caucasian,0
+female,0
+admitted to the hospital,0
+peripheral arterial disease,0
+hyperlipidemia,0
+previous tobacco use,0
+midsternal chest pain,-48
+acute occlusion of the right anterior artery (2019),-35040
+right common iliac artery stenting (2019),-35040
+right tibial artery stenting (2019),-35040
+right tibial artery stent occlusion,0
+unvaccinated for COVID-19,0
+no respiratory symptoms,0
+no nausea,0
+no vomiting,0
+rule out acute coronary syndrome,0
+initial laboratory tests,0
+troponins,0
+D-dimer,0
+not significant results,0
+vitals within normal limits,0
+heart rate in the 60s,0
+COVID-19 antigen positive,0
+COVID-19 PCR positive,0
+evaluated by infectious disease service,0
+dexamethasone 6 mg IV daily,0
+nirmatrelvir/ritonavir (NMV/r) initiated,0
+apixaban 5 mg oral daily,0
+atorvastatin 40 mg oral at bedtime,0
+clopidogrel 75 mg oral daily,0
+drug interaction review,0
+atorvastatin held,0
+apixaban dose-adjusted to 2.5 mg twice daily,0
+nirmatrelvir 300 mg twice daily,0
+ritonavir 100 mg twice daily,0
+serum creatinine <1 mg/dL,0
+eGFR ⩾60 mL/min,0
+HR decline after NMV/r initiation,0
+sinus bradycardia on telemetry,24
+HR mid 30s,24
+NMV/r discontinued,24
+electrocardiogram (ECG) showing sinus bradycardia,24
+no beta-blockers use,24
+denied chest pain,24
+denied headache,24
+denied dizziness,24
+denied blurry vision,24
+electrolytes within normal limits,24
+atropine 0.5 mg IV twice,24
+transcutaneous pacer placed,24
+transferred to ICU,24
+blood pressure 90/45 mmHg,24
+HR 33 bpm,24
+MAP 60,24
+dobutamine drip started,24
+dobutamine titrated to 5 µg/kg/min,24
+dobutamine intolerance due to palpitations,34
+dobutamine discontinued after 10 hours,34
+terbutaline tablet 5 mg initiated,34
+HR maintained above 50 bpm,44
+terbutaline discontinued,44
+no hypoxemia,24
+no elevated inflammatory markers,24
+cortisol levels low,48
+cosyntropin stimulation tests appropriate,48
+brain MRI negative,72
+asymptomatic from COVID-19 at discharge,120
+medication-induced bradycardia diagnosis,120
+discharged,120

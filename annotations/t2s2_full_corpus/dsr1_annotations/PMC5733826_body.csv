@@ -1,0 +1,87 @@
+event,time
+11-year-old girl,0
+admitted to the tertiary care center,0
+posterior spinal fusion surgery,-12
+idiopathic scoliosis,-12
+received propofol anesthesia,-12
+estimated blood loss 1.4 liters,-12
+received blood products,-12
+received crystalloid,-12
+developed hypotension,-12
+received packed red blood cells,-12
+received fresh frozen plasma,-12
+received cryoprecipitate,-12
+received platelets,-12
+vasopressors (phenylephrine and norepinephrine),-12
+extubated postoperatively,-12
+postoperative day 1,-24
+disseminated intravascular coagulation,-24
+liver injury,-24
+rhabdomyolysis,-24
+oliguria,-24
+fluid resuscitation 10 liters,-24
+reintubated,-24
+failed high-dose IV diuretics,-24
+fluid overload,-24
+transferred to tertiary care hospital,0
+rhabdomyolysis (serum creatinine 4.17 mg/dl),0
+"creatinine phosphokinase 17,301 IU/l",0
+phosphorus 9.7 mg/dl,0
+uric acid 10.4,0
+urine myoglobin 3845 mg/dl,0
+acidemia (pH 7.32),0
+partial pressure of carbon dioxide 44 mmHg,0
+bicarbonate 22 mEq/l,0
+lactate 1.7 mmol/l,0
+elevated AST (3489 IU/l),0
+elevated ALT (2593 IU/l),0
+acute pancreatitis,0
+elevated amylase (487 IU/l),0
+elevated lipase (439 IU/l),0
+elevated triglycerides (135 mg/dl),0
+elevated white blood count,0
+"DIC (elevated protime, PTT, lactate dehydrogenase, d-dimer, low haptoglobin)",0
+respiratory failure requiring mechanical ventilation,0
+FiO2 50%,0
+PaO2/FiO2 ratio 290,0
+no vasopressors,0
+CRRT initiated 5 hours after arrival,5
+fluid overload 24% at CRRT initiation,5
+Prismafle CRRT machine used,5
+HF-1000 filter,5
+blood pump flow 150 ml/min,5
+dialysis fluid rate 3000 ml/h,5
+postfilter replacement fluid rate 1100 ml/h,5
+postfilter calcium solution,5
+enrolled in SCD trial,7
+SCD incorporated into circuit,7
+SCD changed every 24 hours,31
+stable blood pressure,24
+circuit ionized calcium <0.4 mM,24
+oxygen requirement stabilized,24
+white blood count normalized,24
+coagulopathy improved,24
+liver injury diminished,24
+net fluid volume removal achieved,24
+capillary leak improved,48
+net volume removal 50 ml/h,48
+net volume removal 100 ml/h,72
+respiratory function improved,96
+extubated,96
+fever 38.4°C,96
+elevated white blood count,120
+procalcitonin 2.64 ng/ml,120
+broad-spectrum antibiotics started,120
+blood cultures negative,168
+transitioned to room air,168
+renal function improved,168
+SCD therapy completed,168
+no device-related adverse events,168
+nonoliguric (618 ml/24h urine),264
+CRRT discontinued,336
+no further RRT required,336
+transferred to general floor,360
+discharged home,480
+serum creatinine 0.9 mg/dl,480
+serum creatinine 0.51 mg/dl at follow-up,1248
+"full recovery of liver, lung, kidney, hematologic function",480

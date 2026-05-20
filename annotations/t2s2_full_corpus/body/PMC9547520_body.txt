@@ -1,0 +1,55 @@
+pmcPertussis, commonly known as whooping cough, is a highly contagious disease caused by Bordetella pertussis. To the best of our knowledge, there are currently rare reports of invasive pertussis through blood. We report a case of severe pertussis in a Chinese infant with detection of B pertussis in both blood and cerebrospinal fluid (CSF).
+
+CASE PRESENTATION
+
+A 2-month-old boy was referred to the emergency department of our hospital on March 18, 2022, because of mild cough, fever (37.8°C), and malaise for 1 day after close contact with his 7-year-old brother who had a cold. He was born very preterm (31 weeks + 5 days), with a low birth weight of 1700 grams. He was hospitalized for 25 days after birth due to neonatal pneumonia, coagulation dysfunction, intracranial hemorrhage (grade I, absorption phase), and neonatal pathological jaundice. He had only been vaccinated with Bacillus Calmette-Guerin. He received symptomatic treatments of mask oxygen inhalation, piperacillin tazobactam, ambroxol, and budesonide + ipratropium bromide atomization. However, the clinical symptoms deteriorated rapidly, with tachypnea and low oxygen saturation even with the oxygen mask. He was transferred to the Pediatric Intensive Care Unit (PICU) for further management.
+
+On admission, the patient's body temperature was 37.3°C, heart rate was 172 beats per minute, respiratory rate was 56 breaths per minute, and blood pressure was 96/50 mmHg. He presented with a puffy nose, triple concave signs, and mild cyanosis of the lips. The Glasgow Coma Score was 13 (E4, V3, M6). The oxygen saturation was 93% with the support of an oxygen mask. Pulmonary auscultation revealed rough breath sounds and wheezing in both lungs. He had an umbilical hernia on the abdomen and an anterior fontanelle bulge. He presented with a low response and screaming after stimulation. A computed tomography scan of the chest showed multiple plaques, streaks, solid shadows, and indistinct reticular shadows in both lungs. Magnetic resonance imaging of the brain showed that the bilateral frontal, parietal, and temporal extracranial spaces were slightly wider, and no obvious abnormality was found in the brain parenchyma. Echocardiography revealed no abnormalities. Routine blood tests revealed a hemoglobin level of 84 g/L, red blood cell count of 3.05 × 1012/L, white blood cell count of 6.5 × 109/L, neutrophil count of 3.59 × 109/L, lymphocyte count of 2.16 × 109/L, and platelet count of 280 × 109/L. Liver and kidney function tests were normal. The infant was diagnosed with respiratory failure, severe pneumonia, septic shock, and encephalopathy. Antibiotic therapy with meropenem, vancomycin, and levetiracetam was applied to treat pulmonary and intracranial infections. After 3 hours of PICU admission, the patient deteriorated, with worsening dyspnea, groans, gray face, cold limbs, and speckles all over the body. Bilateral crackles were detected by lung auscultation. The capillary refill time was 5 seconds. Oxygen saturation dropped to 54%. Blood gas analysis revealed a lactate level of 7.07 mmol/L. Procalcitonin was 14.29 ng/mL. The patient was further managed with symptomatic therapies, including invasive ventilator-assisted ventilation, norepinephrine, mannitol, fructose glycerol, immunoglobulin, and fresh frozen plasma.
+
+Viral nucleic acid extracted from bronchial alveolar lavage fluid (BALF) specimens and examined by multiplex quantitative real-time polymerase chain reaction (PCR) assay for respiratory viruses, including respiratory syncytial virus, parainfluenza virus (PIV) 1, PIV 2, PIV 3, human adenovirus, influenza A (Flu A), Flu B, human metapneumovirus, rhinovirus, boca virus, and novel coronavirus was negative. Serological tests of Mycoplasma pneumonia, Chlamydia trachomatis, and cytomegalovirus immunoglobulin (Ig)M and/or IgG were negative. Sputum bacterial cultures were negative. The tuberculin test was negative. Detection of Bordetella from the nasopharyngeal specimen performed by multiplex real-time PCR using B pertussis (IS481), Bordetella parapertussis IS1001 (pIS1001), and Bordetella holmesii IS1001-like (hIS1001) targets revealed B pertussis positivity, which was further confirmed by testing for ptxS1. By considering the puncture injury factor, the CSF assay was normal (Table 1). The CSF cultures were negative. Meanwhile, a blood sample and a CSF sample were subjected to metagenomics next-generation sequencing (m-NGS) as follows. Purified nucleic acids extracted from plasma separated from blood and CSF were combined with magnetic beads. The libraries were generated using the NEXTFLEXR Rapid DNA-Seq Kit, and sequencing was performed using the Illumina MiSeq platform according to the standard protocol (PACEseq; HUGO Biotechnology Co., Ltd., Beijing, China). After the removal of low-quality, low-complexity short reads (<35 base pairs) and human genome sequences, the high-quality sequences were used for microbial classification by mapping to a reference microbial database consisting of the genomes of archaea, bacteria, fungi, protozoa, viruses, and parasites from the National Center for Biotechnology Information Genome Database [1]. The number of reads stringently matched to pathogen genera/species was calculated and standardized. The results of m-NGS showed 62 and 2 unique reads stringently matched to B pertussis in the patient's plasma and CSF, respectively (Table 1). However, blood and CSF cultures were negative after 5 days of culture.
+
+Table 1. Results of Blood Testing, CSF Assay, and m-NGS
+
+Items	Day 0	Day 5	Normal Value	
+Blood testing				
+ WBC (×109/L)	6.5	27.2	4.3–14.2	
+ Lymphocyte (×109/L)	2.16	8.89	2.4–9.5	
+ Neutrophil (×109/L)	3.59	14.55	0.6–7.5	
+ CRP (mg/L)	15.7	21.2	0–8	
+CSF assay				
+ Appearance	Red	Colorless, clear	Colorless, clear	
+ Protein qualitative	Positive	Negative	Negative	
+ RBC, cells per mm3	17 000 (fresh RBCs)	420 (fresh RBCs)	0–1	
+ WBC, types, cells per mm3	34 (polymorphs, 61.0%; lymphocytes, 30.0%; monocytes, 9.0%)	0	0–15	
+ Glucose, mmol/L	5.30	5.50	2.8–4.5	
+ Protein, mg/L	1190.0	1250.0	80–430	
+ Chloride, mmol/L	124.0	129.0	120–130	
+ LDH, U/L	62	25	5–35	
+ Bacterial culture	Negative	Negative	Negative	
+ Pathogen smear	Negative	Negative	Negative	
+m-NGS	
+ Blood (species/reads count) Bordetella pertussis; 62/0	
+ CSF (species/reads count) B pertussis; 2/0	
+Abbreviations: CRP, C-reactive protein; CSF, cerebrospinal fluid; LDH, lactate dehydrogenase; m-NGS, metagenomics next-generation sequencing; RBC, red blood cell; WBC, white blood cell.
+
+Pertussis was confirmed, and intravenous levofloxacin (15 mg/kg per day for 2 weeks) was initiated on Day 2 of admission. Subsequently, chest x-ray showed that the inflammation in the lungs was gradually absorbed. The infant was successfully weaned off mechanical ventilation on Day 13 of hospitalization and was discharged on Day 37 of hospitalization with full recovery.
+
+Patient Consent Statement
+
+Our study was approved by the Ethical Committee of West China Second University Hospital, Sichuan University. Before the study enrollment, the written informed consent was obtained from guardians of this patient for the publication of this case report and all information contained in it.
+
+DISCUSSION
+
+Pertussis has long been considered to be a toxin-mediated disease because it occurs without fever or other evidence of inflammatory illness, and histopathologic changes of the upper respiratory tract of patients with fatal pertussis are often relatively normal unless there is a secondary bacterial infection [2]. However, the exact pathogenesis involved in pertussis severity remains poorly understood [3]. It is currently believed that B pertussis adheres to the airways and releases a series of toxins, including pertussis toxin (PT), adenylate cyclase toxin, dermonecrotic toxin, filamentous hemagglutinin, and fimbriae. The predominant toxin is PT, which inhibits signaling through a subset of G protein-coupled receptors in mammalian cells, leading to leukocytosis with lymphocytosis linked with severe and lethal pertussis disease [4, 5].
+
+Bordetella pertussis colonizes the epithelial cells of the human respiratory tract and is usually isolated from the nasopharynx. Invasive infection caused by B pertussis has rarely been reported thus far, with only 4 cases of B pertussis bacteremia in adult patients with immunocompromised diseases (1 had granulomatosis with polyangiitis, 2 had multiple myeloma, and 1 had human immunodeficiency virus infection) [6]. All patients suffered from paroxysmal cough and presented clinical manifestations of pneumonia. Bordetella pertussis in nasopharyngeal specimens, BALF, or lung biopsy samples was detected by PCR, and bacteremia was confirmed by a positive blood culture of B pertussis [6]. In our reported case, B pertussis was first observed in the patient's nasopharyngeal specimen by targeted multiplex real-time PCR and was further detected in blood and CSF by m-NGS. To our knowledge, there are currently no reports of B pertussis being detected in either blood or cerebrospinal fluid. In this case, no pathogenic bacteria were found in blood or cerebrospinal fluid cultures, which may be related to the use of antibiotics before admission, whereas m-NGS is less affected by prior antibiotic exposure.
+
+As an unbiased and comprehensive method for the detection and taxonomic characterization of microorganisms, m-NGS has become an attractive strategy in the detection of pathogens in the last decade. Numerous studies have demonstrated the success of m-NGS in the diagnosis and tracking of infectious diseases. However, limitations of m-NGS, such as sensitivity, interpretation, antimicrobial susceptibility, laboratory workflow, and cost, are barriers for its application in clinical practice [7]. Thus, clinicians should understand both the benefits and limitations of m-NGS when applying it to clinical practice.
+
+CONCLUSIONS
+
+Pediatricians should be aware of invasive B pertussis infection in children with severe pertussis.
+
+Acknowledgments
+
+Financial support. This work was funded by a grant from the Pediatric Clinical Research Center Foundation of Sichuan Province, China (No. 2017-46-4).

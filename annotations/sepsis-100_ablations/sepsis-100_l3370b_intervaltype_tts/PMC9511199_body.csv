@@ -1,0 +1,67 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+recurrent fever,-744
+nausea,-168
+vomiting,-168
+highest body temperature 38 ℃,-744
+neutrophil count 6.96×10^9/L ↑,0
+monocyte count 0.86×10^9/L ↑,0
+lymphocyte percentage 14.9% ↓,0
+red blood cell count 3.17×10^12/L ↓,0
+hemoglobin content 87 g/L ↓,0
+hematocrit 0.28 L/L ↓,0
+average red blood cell hemoglobin concentration 312 g/L ↓,0
+platelet count 363×10^9/L ↑,0
+platelet distribution width 8.3 fl ↓,0
+C-reactive protein (CRP) 52.01 mg/L ↑,0
+Klebsiella pneumoniae sepsis,-744
+secondary infectious thrombocytopenia,0
+liver abscess,0
+bilateral lung inflammation,0
+type 2 diabetes,0
+hypertension grade 3,0
+vancomycin,0
+caspofungin,0
+dexamethasone,0
+posaconazole oral suspension,0
+liver abscess puncture and drainage,24
+endogenous endophthalmitis (left),48
+orbital cellulitis (left),48
+rubeosis iridis (left),48
+exudative retinal detachment (left),48
+diabetic retinopathy (right),48
+intravitreal injection with vancomycin and ceftazidime,48
+left eyeball enucleation,168
+moxifloxacin,168
+sulperazon,168
+fever again,192
+computed tomography (CT) examination,216
+inflammation of both lungs,216
+pericardial effusion,216
+bilateral pleural thickening and effusion,216
+atelectasis in right inferior lobe,216
+liver cyst,216
+liver abscess,216
+right renal cyst,216
+myoma of the uterus,216
+convulsion with unconsciousness,360
+transferred to the respiratory intensive care unit,360
+lacunar infarction,360
+encephalomalacia,360
+bilateral pleural effusion,360
+lower lobe of the right lung insufficiently inflated,360
+intracranial infection,360
+lumbar puncture,360
+cerebrospinal fluid (CSF) analysis,360
+microbial metagenomic next-generation sequencing (mNGS),360
+Klebsiella pneumoniae with drug-resistant gene blaSHV,360
+meropenem,360
+body temperature improved,360
+blood routine improved,360
+CRP improved,360
+CT examination,720
+pulmonary edema and pleural effusion dissipated,720
+CSF analysis,720
+discharged from the hospital,744

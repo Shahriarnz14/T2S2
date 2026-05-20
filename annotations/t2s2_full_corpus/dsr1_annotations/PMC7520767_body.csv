@@ -1,0 +1,73 @@
+event,time
+64 years old,0
+male,0
+visited local medical center,-168
+general weakness,-168
+myalgia,-168
+abdominal pain,-168
+fever,-168
+underwent computed tomography,-168
+diagnosed with thrombosis of SMV,-168
+transferred to hospital,0
+admitted to ICU,0
+fever 37.9°C,0
+hot feeling,0
+headache,0
+no cough,0
+no sputum,0
+no diarrhea,0
+no vomiting,0
+hypertension,-43800
+diabetes,-43800
+metformin,-43800
+glimepiride,-43800
+linagliptin,-43800
+losartan,-43800
+rosuvastatin,-43800
+dull pressing pain right upper quadrant,0
+mild tenderness right upper quadrant,0
+hypo-active bowel sounds,0
+WBC 16160/mL,0
+ESR 86 mm/hr,0
+HS-CRP 16 mg/dL,0
+no rebound tenderness,0
+muscle pain,0
+nasopharyngeal swab,0
+Influenza A/B rapid antigen test,0
+COVID-19 RT-PCR,0
+abdominal CT scan SMV thrombus,0
+fat stranding,0
+bowel wall edema ascending colon,0
+influenza B positive,0
+COVID-19 negative,0
+peramivir 300 mg IV,0
+no emergency laparotomy,0
+LMWH 60 mg BID,0
+no oral intake,0
+total parenteral nutrition,0
+ceftriaxone 2 g QD,0
+fever until March 6,48
+abdominal pain until March 7,72
+abdominal discomfort until March 10,144
+follow-up CT March 12,192
+thrombus decreased,192
+water intake,192
+rivaroxaban 15 mg BID,216
+soft diet,216
+moved to general ward,240
+follow-up CT March 19,360
+thrombus markedly reduced,360
+discharged,384
+tested for hypercoagulation factors,0
+tumor markers negative,0
+lupus anticoagulant negative,0
+rheumatoid factor negative,0
+protein S activity negative,0
+protein C activity negative,0
+rheumatology consultation,0
+hematology consultation,0
+no underlying diseases found,0
+outpatient follow-up,384
+symptoms improved,384
+CT one month post-discharge,1080
+SMV thrombosis resolved,1080

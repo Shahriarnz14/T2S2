@@ -1,0 +1,162 @@
+event,time
+46 years old,0\
+man,0\
+chronic bilateral hip pain,0\
+chronic leg pain,0\
+left sacral fracture,"-unknown (treated as prior to admission, approximate -0)\"
+sacro-iliac joint separation,-unknown (approximate -0)\
+tingling sensation bilaterally in the hip,-unknown (approximate -0)\
+lancinating pain bilaterally in the legs,-unknown (approximate -0)\
+pain intensity VAS 8,"-unknown (prior to admission, approximate -0)\"
+motor weakness of lower extremities grade III/I,0\
+moderate sensory weakness of lower extremities,0\
+left lumbosacral plexopathy,0\
+right chronic L5-S1 radiculopathy,0\
+acetaminophen/tramadol tablet 3 times a day,"-unknown (prior to admission, approximate -0)\"
+imipramine 25 mg 3 times a day,-unknown (approximate -0)\
+divalproate 500 mg twice a day,-unknown (approximate -0)\
+pregabalin 75 mg twice a day,-unknown (approximate -0)\
+lumbar sympathetic ganglion block,-unknown (approximate -0)\
+pain did not improve,-unknown (approximate -0)\
+pethidine HCl 75 mg IV 4-5 times a day,"-unknown (prior to admission, approximate -0)\"
+patient-controlled continuous epidural morphine infusion,"-unknown (prior to admission, approximate -0)\"
+epidurogram confirmed catheter placement,-unknown (approximate -0)\
+reservoir bag with preservative free morphine 0.28 mg/ml,-unknown (approximate -0)\
+pump programmed to basal rate 0.5 ml/h,-unknown (approximate -0)\
+on-demand bolus dose 4.0 ml,-unknown (approximate -0)\
+lock out interval 30 minutes,-unknown (approximate -0)\
+no significant adverse events,-unknown (approximate -0)\
+20% pain reduction,-unknown (approximate -0)\
+no further improvement in pain intensity,-unknown (approximate -0)\
+basal rate increased up to 1.0 ml/h,-unknown (approximate -0)\
+neuromodulation considered,0\
+spinal cord stimulation considered,0\
+implantation of intrathecal morphine pump selected,0\
+epidural PCA stopped,0\
+lateral decubitus position,0\
+skin prepared with iodine-based antiseptic,0\
+25-gauge 10 cm spinal needle inserted L4-5,0\
+CSF free flow confirmed,0\
+morphine sulfate 0.3 mg intrathecally administered,0\
+60% pain reduction,1\
+respiratory rate 17/min,1\
+pain recurred VAS 7,8\
+tramadol 50 mg injected,15\
+epidural PCA restarted,15\
+dysarthria,15\
+drowsiness,15\
+no response to painful stimulation,21\
+epidural PCA stopped,21\
+unresponsive,25\
+respiratory rate 15/min,25\
+blood pressure 88/54 mmHg,25\
+oxygen saturation 69-71%,25\
+oxygen mask with reservoir bag applied,25\
+transferred to ICU,25\
+naloxone 0.4 mg IV administered,25\
+mental state did not improve,25\
+chest radiograph multifocal patchy consolidation,25\
+aspiration pneumonia assessed,25\
+antibiotic therapy initiated,25\
+ventilation care initiated,25\
+blood gas within normal range,72\
+mentally alert,72\
+extubation done,72\
+chest radiograph improved,72\
+discharged,72\
+VAS score 7,72\
+previous medications resumed,72\
+drowsy state for several hours,15-21\
+respiratory rate only monitored,0-25\
+concomitant administration of morphine and tramadol,15\
+increased monitoring not done,15\
+sleep apnea not assessed,0\
+obesity not mentioned,0\
+preoperative opioids history,0\
+no guidelines for monitoring followed,0\
+no pulse oximetry until crisis,25\
+no hourly monitoring first 12h,0-12\
+no q2h monitoring next 12h,12-24\
+supplemental oxygen delayed,25\
+no assessment of sedation levels,15-21\
+no increased frequency of assessment,15-21\
+46 years old,0
+man,0
+chronic bilateral hip pain,0
+chronic leg pain,0
+left sacral fracture,-0
+sacro-iliac joint separation,-0
+tingling sensation bilaterally in the hip,-0
+lancinating pain bilaterally in the legs,-0
+pain intensity VAS 8,-0
+motor weakness of lower extremities grade III/I,0
+moderate sensory weakness of lower extremities,0
+left lumbosacral plexopathy,0
+right chronic L5-S1 radiculopathy,0
+acetaminophen/tramadol tablet 3 times daily,-0
+imipramine 25 mg 3 times daily,-0
+divalproex 500 mg twice daily,-0
+pregabalin 75 mg twice daily,-0
+lumbar sympathetic ganglion block,-0
+pain did not improve,-0
+pethidine HCl 75 mg IV 4-5 times daily,-0
+patient-controlled continuous epidural morphine infusion,-0
+epidurogram confirmed catheter placement,-0
+reservoir with 0.28 mg/ml preservative-free morphine,-0
+pump basal rate 0.5 ml/h,-0
+on-demand bolus 4.0 ml,-0
+lockout interval 30 minutes,-0
+no significant adverse events,-0
+20% pain reduction,-0
+no further pain improvement,-0
+basal rate increased to 1.0 ml/h,-0
+neuromodulation considered,0
+spinal cord stimulation considered,0
+intrathecal morphine pump implantation selected,0
+epidural PCA stopped,0
+lateral decubitus position,0
+skin prepped with iodine antiseptic,0
+L4-5 spinal needle insertion,0
+CSF free flow confirmed,0
+intrathecal morphine sulfate 0.3 mg administered,0
+60% pain reduction,1
+respiratory rate 17/min,1
+pain recurrence VAS 7,8
+tramadol 50 mg IV administered,15
+epidural PCA restarted,15
+dysarthria,15
+drowsiness,15
+unresponsive to painful stimulation,21
+epidural PCA stopped,21
+unresponsive,25
+respiratory rate 15/min,25
+blood pressure 88/54 mmHg,25
+SpO2 69-71%,25
+oxygen mask with reservoir applied,25
+transferred to ICU,25
+naloxone 0.4 mg IV administered,25
+mental state unchanged,25
+chest X-ray multifocal patchy consolidation,25
+aspiration pneumonia diagnosed,25
+antibiotic therapy initiated,25
+ventilation care initiated,25
+blood gas normalized,72
+mentally alert,72
+extubation performed,72
+chest X-ray improvement,72
+discharged,72
+VAS 7 at discharge,72
+resumed previous medications,72
+drowsiness for several hours,15-21
+respiratory rate only monitored,0-25
+concomitant morphine + tramadol,15
+inadequate monitoring,15
+no sleep apnea assessment,0
+no obesity documentation,0
+preoperative opioid use,0
+guidelines not followed,0
+delayed pulse oximetry,25
+no hourly monitoring first 12h,0-12
+no q2h monitoring next 12h,12-24
+delayed supplemental oxygen,25
+sedation levels not assessed,15-21

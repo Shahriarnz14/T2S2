@@ -1,0 +1,82 @@
+event,time
+32-year-old,0
+man,0
+presented at Emergency Department,0
+tonic-clonic seizures,0
+hypoxemia,0
+admitted to Intensive Care Unit,0
+endotracheal tube placed,0
+invasive mechanical ventilation initiated,0
+sedation with midazolam,0
+analgesia with fentanyl,0
+right basal atelectatic band on chest X-ray,0
+bilateral basal condensation areas on CT scan,0
+normal brain CT scan,0
+initiated piperacillin plus tazobactam,0
+initiated clindamycin,0
+sputum culture collected,0
+blood culture collected,0
+urine culture collected,0
+remained sedated,48
+midazolam continued,48
+fentanyl continued,48
+bronchoscopy performed,72
+reddened mucosa observed,72
+cavitary lesion observed,72
+hemorrhagic stitches observed,72
+active bleeding observed,72
+bronchioalveolar lavage sample analyzed,72
+MRSA identified,72
+mecA gene present,72
+luk-PV gene present,72
+piperacillin plus tazobactam suspended,72
+intravenous vancomycin initiated,72
+cerebrospinal fluid analysis no bacterial growth,24
+clinical improvement,96
+sedation weaning initiated,96
+mechanical ventilation weaning initiated,96
+extubated,96
+oxygen support with mask,96
+respiratory rate 19 breaths/min,96
+"oriented to time, space, person",96
+Glasgow Coma Scale 15/15,96
+reactive isochoric pupils,96
+afebrile,120
+awake,120
+breathing ambient air,120
+discharged from ICU,144
+remained hospitalized,144
+discharged home,240
+followed up in Outpatient Department,720
+good health at 6 months,4320
+hypothyroidism,0
+morbid type 3 obesity,0
+gastritis,0
+gastric ulcer,0
+penicillin allergy,0
+endoscopic procedure,-168
+erosive gastropathy,-168
+no history of hospital admission prior to endoscopy,-168
+no adverse events from endoscopy,-168
+no history of illegal drug use,0
+seizures history without current treatment,0
+no psychostimulant drug use,0
+no prior MRSA colonization,0
+no respiratory symptoms,0
+no tobacco use,0
+no illicit drug use,0
+no HIV,0
+"leukocytosis 17,900/mm³",0
+neutrophils 85.6%,0
+hematocrit 34.3%,0
+hemoglobin 11.4 g/dL,0
+"platelets 280,000/mm³",0
+sodium 141.0 mEq/L,0
+potassium 3.9 mEq/L,0
+chloride 109 mEq/L,0
+glucose 125.40 mg/dL,0
+BUN 14 mg/dL,0
+creatinine 0.7 mg/dL,0
+PT 13.1 s,0
+PTT 30.6 s,0
+no bacterial growth in cerebrospinal fluid,24

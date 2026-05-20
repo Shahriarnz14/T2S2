@@ -1,0 +1,49 @@
+event,time
+36 years old,0
+female,0
+presented to emergency department,0
+fever,-168
+hemoptysis,-168
+left-sided chest pain,-168
+breathlessness,-168
+no significant history of diabetes,-168
+no significant history of malignancy,-168
+no significant drug intake,-168
+temperature 102°F,0
+respiratory rate 32/min,0
+blood pressure 100/76 mmHg,0
+heart rate 108/min,0
+SpO2 92%,0
+decreased breath sound on left chest,0
+crepitation on left infraclavicular area,0
+crepitation on left axillary area,0
+crepitation on left interscapular area,0
+transferred to Medical Intensive Care Unit,0
+resuscitation,0
+electrocardiography,0
+two-dimensional echo,0
+cardiac markers normal,0
+HIV negative,0
+hepatitis B surface antigen negative,0
+HCV negative,0
+autoimmune profile negative,0
+chest X-ray mass lesion left upper/mid lung,0
+sputum Gram staining negative,0
+sputum culture negative,0
+avoided fiberoptic bronchoscopy,0
+CT thorax contrast mass lesion,0
+CT-guided FNAC,0
+cytological examination negative for malignant cells,0
+Gram-positive branching filaments,0
+Ziehl–Neelsen staining negative,0
+modified Ziehl–Neelsen positive,0
+blood agar culture Nocardia species,0
+empirical third-generation cephalosporin,0
+empirical azithromycin,0
+pulmonary nocardiosis diagnosis,0
+cotrimoxazole started,0
+rashes,24
+imipenem started,24
+linezolid started,24
+chest X-ray resolving cavitation,240
+complete resolution of lesion,4320

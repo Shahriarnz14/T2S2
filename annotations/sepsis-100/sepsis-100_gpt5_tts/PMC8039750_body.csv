@@ -1,0 +1,82 @@
+event,time
+66-year-old,0
+male,0
+DM,0
+obesity,0
+"body mass index, 25.3 kg/m2",0
+did not know that he had DM,0
+alcohol consumption one bottle of rice wine thrice a week,0
+positive fecal immunochemical test,-168
+colonoscopy,-24
+58-minutes colonoscopic procedure,-24
+"15 polyps (size, 5–10 mm) were resected",-24
+endoscopic mucosal resection,-24
+hot snare,-24
+preventive hemoclips were applied to the resection sites of large polyps,-24
+two polyps in the cecum,-24
+four polyps in the ascending colon,-24
+three polyps in the transverse colon,-24
+six polyps in the left colon and rectum,-24
+cecal intubation time of 3 minutes,-24
+quality of bowel preparation in all colon segments was excellent,-24
+no history of trauma before colonoscopy,-24
+no history of surgery before colonoscopy,-24
+discharged from the endoscopy room without complication,-23
+discharged from the endoscopy room without pain,-23
+visited the emergency department,0
+admitted to the hospital,0
+right abdominal pain,0
+tenderness of the right-side of the abdomen,0
+rebound tenderness of the right-side of the abdomen,0
+"white blood cell count, 21,460/mm3",0
+"C-reactive protein level, 17.8 mg/dL",0
+"blood urea nitrogen level, 28 mg/dL",0
+"creatinine, 2.13 mg/dL",0
+"lactic acid, 2.4 mmol/L",0
+"total bilirubin, 1.7 mg/dL",0
+renal insufficiency,0
+abdominopelvic computed tomography did not show pneumoperitoneum,0
+abdominopelvic computed tomography did not show bowel perforation,0
+multiple air bubbles in the right lateral abdominal muscles,0
+swelling of the right lateral abdominal muscles,0
+peritonitis was not found in the peritoneal cavity,0
+air bubbles were not found in the peritoneal cavity,0
+possibility of bowel perforation was excluded,0
+intensive medical treatments were immediately started,0
+"piperacillin/tazobactam, 4.5 g/day, started",0
+multiple blood cultures no bacterial growth,0
+clinical condition rapidly deteriorated,20
+infection markers rapidly deteriorated,20
+metabolic acidosis,20
+emergency exploratory laparotomy,20
+laparoscopic right hemicolectomy,20
+no perforation in surgical findings,20
+no perforation in pathological findings,20
+condition aggravated rapidly with multiple-organ failure,30
+metabolic acidosis aggravated,30
+"consultation with the departments of infection, gastroenterology, and radiology",48
+necrotizing fasciitis of the abdominal wall muscle diagnosed,48
+urgent surgical debridement,48
+drainage performed,48
+Penrose drainage,48
+betadine-soaked gauze dressing,48
+first surgical wound culture no bacterial growth,48
+admitted to the intensive care unit,48
+extensive broad-spectrum antibiotic therapy,48
+renal replacement therapy,48
+second surgical debridement,72
+drainage performed,72
+increased drainage site,72
+abscess,72
+dirty fluid discharge,72
+imipenem-resistant Acinetobacter baumannii identified,72
+extended spectrum beta-lactamase negative Escherichia coli identified,72
+condition did not improve,72
+wax-and-wane course,72
+third surgical debridement,120
+drainage performed,120
+wide and deep necrosis,120
+edema,120
+septic shock,840
+multiple-organ failure,840
+died,840

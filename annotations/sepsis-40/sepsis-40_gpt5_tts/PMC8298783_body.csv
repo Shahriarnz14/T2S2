@@ -1,0 +1,74 @@
+event,time
+41-year-old,0
+male,0
+no significant past medical history,0
+lower extremity edema,-504
+fatigue,-504
+shortness of breath,-504
+appeared pale,0
+rectal examination,0
+melenic stool on rectal examination,0
+admitted to the medical intensive care unit (ICU),0
+resuscitation,0
+urgent endoscopy,2
+multiple gastric ulcers,2
+further work-up,24
+diffuse lymphadenopathy,24
+concerning for metastatic lymphoma,24
+excisional biopsy was performed,48
+pathology findings consistent with Hodgkin lymphoma,96
+acute renal failure,120
+temporary hemodialysis,132
+acute respiratory failure,144
+intubation,144
+mechanical ventilation,144
+sedated with continuous infusions of propofol,144
+sedated with continuous infusions of fentanyl,144
+septic shock,150
+vasopressor support with norepinephrine at a dose of 18 μg/min,150
+telemetry displayed a sudden onset of ST-segment elevations,156
+significant abdominal distention,156
+no murmurs were detected on cardiac auscultation,156
+blood pressure of 101/57 mm Hg,156
+heart rate of 112 beats/min,156
+respiratory rate of 23 breaths/min,156
+oxygen saturation of 99% on mechanical ventilation,156
+electrocardiography demonstrated sinus tachycardia,157
+apparent ST-segment elevations in the precordial leads,157
+deep T-wave inversions,157
+J-point depression in the inferior leads,157
+marked QT prolongation,157
+ECG was interpreted by the computer algorithm as a STEMI,157
+emergency cardiology consultation was requested,158
+troponin-T level of <0.01 ng/ml,158
+potassium of 4.3 mEq/l,158
+calcium of 7.6 mg/dl,158
+anion gap of 12 mEq/l,158
+hemoglobin of 10.1 g/dl,158
+hematocrit of 29.4%,158
+arterial blood gas pH of 7.40,158
+bicarbonate of 21 mmol/l,158
+lactate of 3.1 mmol/l,158
+left ventricular ejection fraction to be 60% to 65%,159
+no regional wall motion abnormalities,159
+no pericardial effusion,159
+placement of the ultrasound probe in the epigastric region,159
+abrupt resolution of ST-segment elevations on telemetry,159
+no significant degree of abdominal compression associated with the ultrasound examination,159
+gentle palpation of the abdomen led to immediate resolution of ST-segment elevations,159
+release of abdominal palpation led to recurrence of ST-segment elevations,159
+"kidney, ureter, and abdominal radiograph",162
+significant gastric distention,162
+findings consistent with ileus,162
+nasogastric tube placement,166
+gastric decompression,166
+ECG demonstrated resolution of ST-segment elevations,167
+coronary angiography was deferred,168
+no further ST-segment changes on telemetry,180
+no further ST-segment changes on repeat ECG,180
+new-onset seizures,192
+focal neurological deficits,192
+magnetic resonance imaging of the brain,200
+leptomeningeal enhancement concerning for metastatic spread,200
+placed on comfort care,210
+died,216

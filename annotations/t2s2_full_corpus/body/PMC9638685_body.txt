@@ -1,0 +1,49 @@
+pmcIntroduction
+
+Blastic plasmacytoid dendritic cell neoplasm (BPDCN) is a rare myeloid malignancy with poor outcomes. A French data set analysis of cutaneous lymphomas estimated its incidence to be around 0.7%.1 It commonly presents with systemic stigmata like skin lesions and may or may not have bone marrow involvement.2 Besides the uncommon nature of the disease itself, literature review has also been confusing, owing to its identity being changed multiple times in recent history. In 1995, BPDCN was named initially as “acute agranular CD4-positive natural killer cell leukemia.” The World Health Organization (WHO) 2008 guideline described BPDCN as a member of the acute myeloid leukemia (AML)/related family of neoplasms. With better understanding of the disease biology in 2016, the WHO released a new guideline recognizing BPDCN as an independent category.3,4 Acute leukemia style induction regimens, allogenic stem cell transplant, and CD123 directed therapy are treatment options. The disease has a median overall survival of around 24 months.2 BPDCN is an aggressive malignancy and although novel options like tagraxofusp, a CD123-directed cytotoxin, has emerged and is promising, effective treatment options for recurrent and refractory disease are not available.5,6
+
+We report a case of recurrent BPDCN in which the patient’s bone marrow demonstrated a complete paucity of disease with vyxeos, a fixed-dose liposomal formulation of cytarabine and daunorubicin.
+
+Case Report
+
+Our patient was a 62-year-old man who initially presented with complaints of progressive debilitating fatigue, diffuse skin lesions mainly on the back and the scalp, and generalized lymphadenopathy. The skin lesion on the patient’s scalp is shown in Figure 1. He was anemic, and his peripheral blood had revealed the presence of blasts up to 25%. Imaging showed extensive axillary, mediastinal and inguinal lymphadenopathy, along with splenomegaly. Flow cytometry of the peripheral blood showed monocytic precursors expressing CD56 and CD123 consistent with BPDCN. Initial bone marrow biopsy and aspiration revealed 37% blasts. The cells expressed CD7, CD33, CD38, CD56, CD71, CD117, CD123, and HLA-DR. They were negative for CD3, CD4, CD10, CD19, CD34, MPO, and terminal deoxynucleotidyl transferase (TdT). Skin biopsy from the scalp and fine needle aspiration of the inguinal nodes were consistent with the above findings. Based on the 2018 Food and Drug Administration (FDA) approval,1 the patient was started on tagraxofusp. He tolerated the medication for 8 cycles over a 6-month period. However, a recurrent scalp lesion was noted after this, which on biopsy revealed recurrent BPDCN. Given persistent disease, Hyper-CVAD was given. Following this, he was hospitalized requiring intensive care unit (ICU) level of care for neutropenic fever and progressive hypoxia. He was treated with broad spectrum antibiotics and a steroid course for drug-induced pneumonitis from cyclophosphamide. Cerebrospinal fluid (CSF) analysis revealed 76% blasts for which intrathecal (IT) methotrexate therapy was started.
+
+Figure 1. Skin lesion on the scalp at diagnosis.
+
+Following the hospitalization and recovery, he underwent CD 34+ allogenic stem cell transplant with fludarabine and melphalan conditioning. His post-transplant course was complicated by engraftment syndrome, Staphylococcal epidermidis bacteremia and Clostridium difficile infection. He also developed angioedema and generalized exanthematous pustulosis requiring ICU level of care. A bone marrow repeated after his recovery was consistent with recurrent BPDCN with 47.5% blasts. CSF continued to remain positive for the disease.
+
+For his recurrent disease, the patient was admitted, and a bone marrow was repeated. The bone marrow aspirate at relapse is shown in Figure 2. The aspirate appeared crowded with cells and contained numerous blasts. Figure 3 shows a circulating blast on the peripheral smear. The immunophenotype at relapse is shown in Figure 4. The blasts were positive for CD123, CD117, CD3, CD34, CD13, HLADR Per-CP, and CD33. As the patient had an aggressive and resistant disease despite the regimens above, we decided to use the fixed-dose combination of liposomal daunorubicin and cytarabine (vyxeos), as it has shown to be effective in aggressive leukemias like therapy-related AML.2 Vyxeos was thus given and IT methotrexate was continued. Figure 5 demonstrates the bone marrow aspirate done a month after vyxeos. His bone marrow showed a complete response to vyxeos with no evidence of BPDCN (Figure 5). However, despite the bone marrow response, the patient’s functional status declined significantly. He had a prolonged hospitalization with neutropenic fever, pseudomonas infection, and sepsis. He finally succumbed to overwhelming infection and passed away. Despite the clinical outcome, the patient’s bone marrow response after vyxeos was encouraging as a potential treatment option in the relapsed setting.
+
+Figure 2. Bone marrow aspirate prior to treatment with vyxeos. (A) Clot aspirate section at 20x. (B) Clot aspirate at 10x. (C) and (D) Bone marrow aspirate demonstrating blasts.
+
+Figure 3. Circulating blast in peripheral smear.
+
+Figure 4. Flow cytometry demonstrating the immunophenotype at relapse.
+
+Figure 5. Bone marrow aspirate a month after vyxeos showing hypocellular marrow at 10x.
+
+Discussion
+
+BPDCN arises from myeloid dendritic cells that produces copious amounts of interferons.3 -5 While cutaneous lesions that appear as brown to purple nodules is the commonest presentation, bone marrow involvement with or without leukemic dissemination may be present.6 Immunophenotype analysis either by flow or immunohistochemistry (IHC) is central to the diagnosis of BPDCN. The expression of certain antigens is essential for the diagnosis. These include CD123, BDCA-2/CD303, TCF4, TCL1, and SPIB. The tumor cells commonly express CD4 and CD56. Other markers that can be expressed include TdT (40%), CD68 (50%), CD7, and CD33.7,8 Our patient had a characteristic immunophenotype as described above.
+
+Clear treatment guidelines for BPDCN are not available.9,10 Historically, BPDCN was mainly treated with intensive chemotherapeutic regimens and was managed with regimens used for acute lymphoblastic leukemia (ALL), lymphoblastic lymphoma (LBL), non-Hodgkin’s lymphoma (NHL), or AML. ALL/LBL-like regimens were noted to have a better outcome compared with AML-type regimens.1 Given that CD123 is a diagnostic hallmark of BPDCN, in 2018, tagraxofusp (SL-401) that specifically targets CD123 was approved by the FDA and remains the only targeted therapy for this rare disease.3 Response rate of up to 90% was seen in the first-line setting.11 However, potentially life-threatening complications like capillary leak syndrome may be associated with tagraxofusp.12 The management of relapsed and recurrent BPDCN is not well established.13 Besides treatment in a clinical trial setting, tagraxofusp or induction chemotherapeutic regimens would have to be used based on what was used in the first-line setting, followed by allogenic transplant.11 Venetoclax,14 bendamustine,15 and biweekly CHOP (cyclophosphamide, doxorubicin, vincristine and prednisone)16 have been evaluated in small reports with mixed response.
+
+Vyxeos has demonstrated survival benefits in patients with therapy-related AML or AML with myelodysplastic changes. The drug is a fixed-dose liposomal combination of daunorubicin and cytarabine in a 1:5 molar ratio which increases the synergistic antitumor activity.17 To the best of our knowledge, we report one of the first cases of BPDCN that showed a complete bone marrow response to vyxeos. This is promising for the future and prompts the need for clinical trials evaluating its use in this rare malignancy. Clinical trials may be challenging given the rare nature of the disease, which may be an impediment to recruiting enough patients. Despite the limitation, several clinical trials pertaining to BPDCN are at various stages,18 prompting the need for a trial involving vyxeos in relapsed/refractory BPDCN.
+
+Conclusions
+
+To the best of our knowledge, we report one of the first cases of BPDCN that showed a complete bone marrow response to vyxeos. This is promising for the future and prompts the need for further research evaluating its use in this rare malignancy.
+
+Our sincerest thanks to the hem-path technicians in the Department of Pathology for helping us obtaining the pathology images.
+
+Authors’ Note: This study was presented as abstract and poster at the 26th Annual Acute Leukemia Forum, La Jolla Amago, CA, USA.
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Ethics Approval: Our institution does not require ethical approval for reporting individual cases or case series.
+
+Informed Consent: Informed consent was obtained from the patient. Patient identifiers have been removed.
+
+ORCID iD: Prashanth Ashok Kumar https://orcid.org/0000-0001-6236-2822

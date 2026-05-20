@@ -1,0 +1,76 @@
+event,time
+14 years old,0
+male,0
+brought to the emergency department,0
+near-drowning incident,-1
+trapped against a large suction intake drain,-1
+loss of consciousness,-1
+rescued,-1
+brief bystander CPR,-1
+hemodynamically stable,0
+fully conscious,0
+abdominal pain,0
+diffuse abrasions on his torso in the configuration of a square,0
+abdomen soft,0
+without any peritoneal signs,0
+chest x-ray performed,0
+pneumoperitoneum,0
+air extending to the neck,0
+CT scan performed,0
+pneumomediastinum,0
+intraabdominal free fluid,0
+concern for hollow viscus perforation,1
+taken emergently to the operating room,2
+laparotomy,2
+gross contamination with food debris,2
+complete gastroesophageal junction separation,2
+hemodynamically labile,2
+damage control procedure performed,2
+distal esophagus stapled closed,2
+proximal stomach stapled closed,2
+left in discontinuity,2
+mediastinal drain placed,2
+gastrostomy tube placed,2
+intraabdominal drains placed,2
+no surgical proximal esophageal diversion performed,2
+large bore nasogastric tube placed in the esophagus above the staple line,2
+fascia closed,2
+intubated,2
+prolonged intubation,2
+transferred to the Pediatric Intensive Care Unit,4
+parenteral nutrition started,6
+respiratory failure,6
+septic shock,24
+bilateral pleural effusions,72
+general deconditioning,72
+deep venous thrombosis,120
+pulmonary embolism,144
+extubated,434
+fluoroscopic evaluation performed,434
+esophageal leak,434
+esophageal leak controlled by the mediastinal drain,434
+stomach negative for leak,434
+enteral nutrition initiated via the G tube,436
+extensive rehabilitation,500
+discharged,1200
+nasogastric tube in place,1200
+mediastinal drain in place,1200
+Ivor-Lewis distal esophagectomy,2160
+gastric pull-up,2160
+midline abdominal incision,2160
+gastric conduit fashioned along the lesser curvature using a surgical GIA stapler,2160
+right thoracotomy,2160
+esophagogastric anastomosis with a 29 mm end-to-end anastomosis stapler,2160
+leak test via upper endoscopy negative,2160
+jejunostomy tube placed,2160
+extubated,2232
+jejunostomy enteral feeds,2232
+esophagram performed,2328
+no leak at the anastomosis,2328
+immediate stomach emptying,2328
+liquid diet initiated,2328
+discharged,2400
+clinic visit,5760
+tolerates a regular diet without difficulty,5760
+gaining weight,5760
+recovering well,5760

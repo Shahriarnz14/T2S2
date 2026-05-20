@@ -1,0 +1,105 @@
+Background
+
+In December 2019, a novel coronavirus (SARS-CoV-2) was identified during an outbreak of respiratory illness in Wuhan, China. COVID-19 rapidly evolved into a global pandemic and was declared as health emergency by WHO in March 2020. The COVID-19 disease presentation is variable and heterogenous, ranging from asymptomatic carriers to serious illness like acute respiratory distress syndrome, multiorgan failure and death.1 Interestingly, the disease involves multiple organs like the heart, kidneys and brain at an initial stage of the disease, although being linked to the respiratory system predominantly.2
+
+The pre-existing and newly developed cardiovascular diseases are common in patients with COVID-19 disease and are associated with severity of the disease and high mortality.3 According to recent epidemiological study,4 the coronavirus infection can cause acute myocardial injury, arrythmia and shock in 7.2%, 18.7% and 8.7% patients, respectively. Renal involvement is also frequent in the course of COVID-19. About 40% or greater number of cases have abnormal proteinuria during hospital admission.5 Among the critically ill patients, acute kidney injury (AKI) is common affecting approximately 20%–40% of patients in the intensive care units in Europe and USA.6
+
+The term cardiorenal syndrome is used for a number of conditions related to renal and cardiovascular system in which an acute or chronic insult of one organ system can cause dysfunction of the other organ system.7 SARS-CoV-2 binds to human ACE2 as entry route to human pneumocytes.8 The expression of ACE2 in the heart and kidneys explains the link between COVID-19 and the renal and cardiovascular system. Therefore, extrapulmonary cardiorenal manifestations can be seen due to renin–angiotensin system dysfunction secondary to coronavirus infection. These can include arrythmias, acute cardiac and renal injury thus leading to secondary cardiorenal syndrome.
+
+With this case report, we highlight the atypical presentation of COVID-19 disease in the form of cardiorenal manifestations. Further research studies are critical to explore the underlying pathological mechanisms and find the ways of early diagnosis and treatment in order to decrease the mortality.
+
+Case presentation
+
+We present the case of a 37-year-old male healthcare worker, who had a history of close contact with a recently diagnosed patient with COVID-19 disease. Four to five days after the exposure, he started having typical symptoms of COVID-19 including high-grade fever, myalgia and dry cough. He was a non-smoker and his medical history was unremarkable except for ureteric calculi. He tested positive for COVID-19 on day 7 after the contact. Therefore, he was advised to self-isolate at home with close observation of his symptoms.
+
+A few days later, he developed worsening shortness of breath and was advised to come to the hospital. On examination, he was noted to have bibasal crackles with gallop rhythm of the heart and resting tachycardia. There were no signs of pedal oedema. Besides the clinical examination initial investigations including complete blood count, renal and liver profile, cardiac troponins, ECG and chest X-ray were advised. In view of the suspicion of heart failure an echocardiography was planned.
+
+Investigations
+
+The patient’s initial investigations revealed lymphopaenia, raised C reactive protein (CRP) of 74 mg/L, lactate dehydrogenase of 303 U/L and brain natriuretic peptide (BNP) of 247 pg/mL. BNP levels between 100 pg/mL and 400 pg/mL with clinical suspicion indicating probable heart failure. Liver function tests were mildly deranged with bilirubin 5 μmol/L, alkaline phosphatase 50 U/L, gamma glutamyl transpeptidase 82 U/L, alanine aminotransferase 53 U/L, aspartate aminotransferase 29 U/L, however, the rest of the blood tests including haemoglobin, total white cell count, electrolytes and renal function were within normal range. Cardiac troponins were negative and ECG showed sinus tachycardia. The chest X-ray showed minimal bibasal infiltrates (figure 1). The transthoracic echocardiogram (TTE) revealed an eyeball ejection fraction estimate of 10%–15% and dilated left ventricle with left ventricular (LV) dimensions calculated as LV internal diameter end diastole of 7.1 cm and LV internal diameter end systole of 6.3 cm (figure 2 and video 1).
+
+Figure 3 Graphical representation of renal functions during hospital admission. Note: DOA (day of admission), urea (mmol/L), creatinine (mmol/L). RRT, renal replacement therapy.
+
+Later, serial cardiac troponins, ECGs and TTE were ordered to monitor the heart function as illustrated in table 1.
+
+Table 1 Serial cardiac imaging, ECGs and troponin levels
+
+Day since admission	Day 0
+(echocardiography)	Day 5
+(echocardiography)	Day 21
+(echocardiography)	Day 86
+(cardiac MRI)	
+LVEF (%)	10–15	25–30	35–40	46	
+LV function	Impaired	Impaired	Improved LV function	Impaired	
+LV	Severely dilated	Moderately dilated	Mildly dilated	Mildly dilated	
+Troponin T*	<5 ng/mL	<5 ng/mL	<5 ng/mL	–	
+ECG	Sinus tachycardia	Sinus tachycardia	Sinus rhythm	–	
+**Reference value: troponin (0–14 ng/mL).
+
+LV, left ventricular; LVEF, left ventricular ejection fraction.
+
+Interestingly, there was no significant rise in the cardiac troponin levels and ECG results showed persistent sinus tachycardia with occasional premature ventricular contractions and no signs of ischaemia. A gradual improvement in the ejection fraction was noted as the patient reported improvement in his shortness of breath on day 14 after the COVID-19 diagnosis. A follow-up cardiac MRI was ordered due to the suspicion of underlying viral cardiomyopathy. Cardiac MRI showed moderate LV impairment with modest dyssynchrony but interestingly no obvious evidence for myocardial fibrosis. Pre-COVID-19 pre-existing cardiomyopathy was considered.
+
+During the initial management of COVID-19 and possible cardiomyopathy without obvious cause, the patient had high-grade temperature spikes (39°C–40°C) with CRP <100 mg/L. He was initially prescribed ceftriaxone considering bacterial superinfection, although his blood and urine cultures were negative. Three days later, his CRP started creeping up with no significant improvement in fever spikes. Ceftriaxone was then changed to piperacillin/tazobactam and vancomycin added to cover methicillin-resistant Staphylococcus aureus (MRSA). In next 2–3 days, the patient’s renal functions started deteriorating with gradual worsening of creatinine clearance. Vancomycin levels were checked and found to be within normal range. The renal functions kept on deteriorating even when the patient was off the vancomycin and his creatinine clearance (GFR) became <10 mL/min/1.73 m2 with a creatinine of 657 μmol/L (figure 3). He became oliguric and started on intermittent haemodialysis. As a result, a renal biopsy was planned which showed acute tubular injury with some granular casts and some localised inflammation around injured tubules. Extensive investigations by the nephrology colleagues resulted in the impression that it was a case of acute tubular necrosis/tubular injury either viral or drug induced with no glomerular change on light microscopy. The patient received vancomycin for 3 days not exceeding 4 g/day. Studies have demonstrated the strong relationship between AKI and measures of vancomycin exposure. In this regard, longer duration of therapy exceeding 7 days or a daily dose of vancomycin in excess of 4 g correlate with higher risk of nephrotoxicity in multiple studies.9
+
+Figure 2 Transthoracic echocardiography showing severe left ventricular dilatation (day 5 COVID-19).
+
+Figure 1 Chest X-rays showing minimal bibasal infiltrates.
+
+Video 1A 10.1136/bcr-2021-241914.video01 6248584501001 BMJ Journals Video Player bcr2021241914media1
+
+Video 1B 10.1136/bcr-2021-241914.video02 6248590672001 BMJ Journals Video Player bcr2021241914media2
+
+Video 1C 10.1136/bcr-2021-241914.video03 6248591276001 BMJ Journals Video Player bcr2021241914media3
+
+Differential diagnosis
+
+The initial clinical suspicion pointed to a case of COVID-19-induced myocarditis, but negative cardiac troponins, nil significant changes in the ECGs and later follow-up cardiac MRI report ruled out this condition. The renal insult was considered to be secondary to drugs or bacterial superinfection. Renal function continued to deteriorate despite correcting the underlying causes. The requirement for intermittent haemodialysis and renal biopsy results led to think about a possible link with COVID-19 as underlying mechanisms are still needed to be explored.
+
+The patient had cardiorenal complications during the course of COVID-19 with no other cause found. Pre-COVID-19 pre-existing cardiomyopathy was considered in the differentials with evolution of the ejection fraction.
+
+Treatment
+
+The initial treatment given to the patient was supportive and symptomatic. He was kept in a COVID-19 isolation room. Regarding the clinical suspicion of viral cardiomyopathy, he was started on low-dose beta blocker and an ACE inhibitor drug. The ACE inhibitor was held when renal functions started worsening and monitoring of heart function was carried out with serial ECGs and TTEs. The patient was given intravenous antibiotics on suspicion of bacterial superinfection, initially ceftriaxone and later piperacillin/tazobactam and vancomycin. With renal function deterioration, vancomycin was stopped with monitoring of vancomycin levels. The patient had intermittent renal replacement therapy (RRT) using standard haemodialysis machine in the conventional intermittent haemodialysis mode for 8 days as his creatinine clearance decreased to levels below 10 mL/min. Renal functions were monitored along with daily volume input–output record. The patient was kept in the intensive care unit till he recovered from acute renal insult.
+
+Outcome and follow-up
+
+The patient showed significant improvement prior to discharge as he was symptom free. Echocardiography showed that his ejection fraction had increased to 25%–30% (video 2) and his renal function was improving (see figure 3). His kidney functions recovered as he was no longer oliguric and in need of dialysis.
+
+Video 2 10.1136/bcr-2021-241914.video04 6248589610001 BMJ Journals Video Player bcr2021241914media4
+
+The patient was advised to self-isolate in accordance with Health Services Executive Ireland guidelines and booked for a follow-up in the heart failure clinic in 1 month time and renal clinic after 6 weeks.
+
+Follow-up cardiac MRI showed an ejection fraction (EF) of 46% with moderate LV impairment and renal function was within normal range.
+
+Discussion
+
+In a meta-analysis and systemic review, acute cardiac injury with a frequency of 25.3% was the most reported cardiac complication of COVID-19 disease. Considering the cardiorenal interactions, AKI was stated in 8.8% of studies included in this meta-analysis.10 Various studies have documented cardiac involvement in COVID-19 with complications like myocarditis,11 acute myocardial infarction12 and exacerbation of heart failure.1 13 14 The kidneys are affected as sequelae of direct cellular injury,15 sepsis or cytokine storm in COVID-19. Previous studies of severe acute respiratory syndrome and Middle East respiratory syndrome-associated coronaviruses showed a prevalence of acute renal insult (AKI) of 5%–15%.16 Early studies involving patients with COVID-19 suggested a lower incidence of AKI of 3%–9%. These studies conducted on Chinese patients4 and the most predominant abnormalities were albuminuria or haematuria on the first day of admission. Abnormal renal function tests including elevated serum creatinine and blood urea nitrogen levels were found in 15.5% and 14.1% of patients, respectively.5 The incidence of AKI was associated with significantly higher in-hospital mortality.
+
+There was no direct antiviral therapy approved or recommended at the time the patient presented to the hospital. A number of investigational agents including remdesivir were being tested or under trial for antiviral treatment of COVID-19. The main critical care goals recommended included avoidance of fluid overload, maintenance of blood pressure and good oxygenation. Renal treatment goals included supportive therapy and RRT16 if needed. The question of considering when to start RRT was still unclear and a matter of debate. The type of RRT in acute renal failure associated with patients with COVID-19 is another unanswered query. We could extrapolate the results from the population without COVID-19, where there is no difference in outcomes for early versus late start of RRT.8 Similarly based on data from patients without COVID-19, intermittent dialysis is an acceptable treatment option in AKI associated with COVID-19 disease.
+
+There is no data supporting a COVID-19 related shift away from angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) in patients with heart failure. According to the Position Statement of the European Society of Cardiology Council on Hypertension17 and a joint statement from the American College of Cardiology, American Heart Association and Heart Failure Society of America posted online on 17 March 2020,18 holding these medications can worsen the cardiac status and overall COVID-19 outcome. A meta-analysis published in European Heart Journal provides reassurance that each of ACE inhibitors and ARBs are safe in context of COVID-19 and should not be discontinued.19 A recent randomised controlled trial (BRACE CORONA) provides evidence that there is no clinical benefit from routinely suspending ACE inhibitors or ARBs in hospitalised patients with mild to moderate COVID-19.20 Based on these guidelines, ACE inhibitor was prescribed considering the cardiac involvement and it was held temporarily only during the acute renal insult.
+
+The knowledge on COVID-19 is evolving and new evidence-based information is published on a daily basis. This case report highlights that cardiorenal complications can occur in COVID-19. The aetiology is multifactorial, and management is supportive, with possible need of RRT. Large-scale clinical trials can help inform optimal management of AKI in COVID-19, and more retrospective data on clinical experience is required to assess the impact and prognosis of patients with COVID-19 with pre-existing heart diseases.
+
+Patient’s perspective
+
+The time of my illness of COVID-19 was the worst period of my life. I initially kept my mind positive and hoped to win this battle, but when the things got worse, I got scared and depressed. I would like to say special thanks to the medical team who kept giving me the hope and kind help which I needed at that particular stage. I think it was a miracle of God, Who gave me a second chance to live through the great services of the medical team and support of my family and friends.
+
+Learning points
+
+COVID-19 is not only a pulmonary disease, it also affects the kidneys and the heart and, therefore better described as a multisystemic entity.
+
+Breathlessness in COVID-19 disease can be non-respiratory and related to acute myocarditis, cardiomyopathy or exacerbation of heart failure.
+
+The objective of this article is to highlight the atypical presentation of cardiorenal complications in COVID-19 disease.
+
+Further research studies are critical to explore the underlying pathological mechanisms and find the ways of early diagnosis and treatment in order to decrease the mortality.
+
+Contributors: Dr MSS gave the idea to present the case summary. He found the clinical case quite interesting in the light of current COVID-19 pandemic. He discussed the plan with Dr UAA. Both Dr MSS and Dr UAA conducted the review of the available literature to find if there are similar case reports published already and what is known so far with reference to the topic under discussion. Both authors reported the results from available studies to one of the senior colleague (consultant in infectious disease) and sought the advice. They finalised the topic of the case report after discussion with the consultant. Dr MJY was very familiar with the case. He was advised to design the case report after collecting the relevant data and critically analyse the data. Dr UAA performed data acquisition and wrote the relevant sections of the case report with critical analysis and data interpretation. All the authors discussed and finalised the case report after going through all the important steps.
+
+Funding: The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.
+
+Competing interests: None declared.
+
+Provenance and peer review: Not commissioned; externally peer reviewed.

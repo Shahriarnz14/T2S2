@@ -1,0 +1,106 @@
+Introduction
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is a novel coronavirus of zoonotic origin that appeared in China at the end of 2019. The infection, named Coronavirus disease 2019 (COVID-19), is now spreading worldwide [1]. As of September 20, 2020, the virus had affected almost 30,877,717 individuals and resulted in over 958,461 deaths worldwide in 188 countries, areas, or territories with cases. Mortality can be as high as 15% in elderly patients and/or in patients with comorbidities [2].
+
+Risk factors for COVID-19 severity and death include older age, along with comorbidities and cancer. Data from China suggest that patients with cancer have a significantly higher incidence of severe events such as intensive care unit admission, artificial ventilation, and even death after contracting the virus (39 vs. 8% in patients without cancer) [3].
+
+Hairy cell leukemia (HCL) is a cytologically and immunophenotypically distinct rare indolent neoplasm of small mature lymphoid cells of oval nuclei and abundant cytoplasm with the so-called hairy projections, involving the peripheral blood, bone marrow, and spleen [4].
+
+The incidence of splenomegaly ranged from 70 to 100% in cases of HCL. As splenomegaly is a prominent feature in HCL, many otherwise asymptomatic patients are seeking medical attention because of awareness of mass. The absence of splenomegaly takes away the clinical suspicion in a case of HCL and it is misdiagnosed as aplastic anemia [5].
+
+The presence of BRAF V600E mutation in virtually 100% of cases of HCL is strong evidence of a disease-defining genetic event. Leukemic cells classically express CD20, CD22, CD11c, CD25, CD103, CD123, FMC7, CD200, and cyclin D1. Most cases lack CD5 and CD10; however, CD10 is reported in 10–20% of cases. Annexin A1 is the most specific marker and can be used to distinguish HCL from splenic marginal zone lymphoma and HCL variant (HCLv), which are both negative for annexin A1.
+
+Immunohistochemical (IHC) stain for V600E-mutant BRAF protein is also helpful [4]. The diagnosis of HCL is based on an HCL immunologic score of three or four based on the CD11C, CD103, CD123, and CD25 expression [6]. The use of CD103 and CD123 in a standard panel is valuable for determining the diagnosis of HCL and HCLv. Uniform bright CD123 expression is a specific feature of HCL that distinguishes it from HCLv [7].
+
+The loss of CD123 in the case of classic HCL (HCLc) in addition to absence of splenomegaly is an unusual presentation and has been rarely reported in the literature.
+
+Case Findings
+We present a 58-year-old male, with no previous history of immunodeficiency and not diagnosed to have any medical comorbidities, who presented with a 7-day history of fever, fatigue, cough, and severe shortness of breath. Physical examination was unremarkable. On presentation, he had an oxygen saturation of 70% on room air. He deteriorated quickly and was intubated on the same day. His chest X-ray revealed bilateral diffuse pulmonary infiltrates on the background of interstitial thickening and bilateral basal consolidation (Fig. 1). In view of the current pandemic of COVID-19, PCR nasopharyngeal swab was done and was positive for SARS-CoV-2.
+
+Complete blood count (CBC) showed pancytopenia with white blood cell count (WBC) 2.6 × 103/μL (4–10 × 103/μL), absolute neutrophil count (ANC) 1.8 × 103/μL (2–7 × 103/μL), hemoglobin (Hgb) 12.1 g/dL (13.0–17.0 g/dL), and platelet count 85 × 103/μL (150–400 × 103/μL). He also had acute kidney injury (AKI) with serum creatinine level of 120 μmol/L (63.6–110.5 μmol/L), transaminitis with alanine aminotransferase (ALT) 170.2 U/L (0–55.0 U/L), aspartate aminotransferase (AST) 330 U/L (5–34 U/L), and lactic acid dehydrogenase (LDH) 857 U/L (125–220 U/L).
+
+As treatment protocol for critical COVID-19, he was given hydroxychloroquine 400 mg, and azithromycin 500 mg, daily for 7 days. Interleukin-6 (IL-6) was high with a value of 1,843 pg/mL (≤7 pg/mL), D-dimer 73.37 mg/L (0.0–0.49 mg/L), and ferritin 2,166.0 μg/L (30–553 μg/L), all indicating a cytokine storm treated with tocilizumab (an IL-6 receptor antagonist) 400 mg single dose and methylprednisone 40 mg twice daily for 5 days. Intravenous immunoglobulin (IVIG) 0.4 g/kg was given for 5 days. His course was complicated by severe sepsis and he was supported with vasopressors and broad-spectrum antibiotics and antifungals. AKI required sustained low-efficiency dialysis (SLED). Ultrasound abdomen showed normal spleen in size and echogenicity.
+
+The patient received supportive granulocyte colony-stimulating factor (G-CSF) in an attempt to keep ANC above 0.5 × 103/μL. Initially, pancytopenia was attributed to the underlying viral infection; however, after 16 days of treatment he had persistent and deteriorating pancytopenia, with WBC 0.5 × 103/μL, ANC 0.3 × 103/μL, Hgb 8.4 g/dL, and platelet count 74 × 103/μL. The peripheral blood smear showed pancytopenia (with prominent red cell agglutination, with rare atypical lymphoid cells with multiple hairy projections (hairy cells) (Fig. 2) and monocytopenia. A bone marrow (BM) examination was done. BM aspirate was hypocellular showing markedly decreased trilineage hematopoiesis and infiltrated with 54% small to medium-sized atypical lymphoid cells with rounded/oval or indented nuclear borders, unclumped chromatin, absent or inconspicuous nucleoli, and moderate to abundant pale blue cytoplasm with multiple circumferential cytoplasmic projections (hairy cells) (Fig. 3). BM core biopsy was mildly hypercellular for age (40–60%) and showed interstitial, focal areas of diffuse extensive infiltration with many atypical cells with widely separated nuclei (fried egg appearance) with decreased erythropoiesis, markedly decreased granulopoiesis, and mildly increased megakaryocytes (Fig. 4). Increased marrow histiocytes with prominent hemosiderin-laden macrophages were noted. The biopsy showed focal areas of a moderate increase in reticulin fibrosis (MF1-2).
+
+The hairy cells showed strong positivity for CD20, DBA.44 (CD72), PAX5, annexin A1, cyclin D1, and CD25 by IHC stain (Fig. 5). V600E-mutant BRAF protein was also positive (not shown) by IHC stain. Flow cytometry on BM aspirate showed a population of monotypic B cells comprising 53%, expressing CD45, CD19, CD20, CD79b and FMC7, CD11c, CD103, CD25 (majority), CD10, CD200, cBCL2, and IgM, with lambda light chain restriction. This population was negative for CD23, CD5, CD123, CD38, CD43, and IgD (Fig. 6). The overall findings concluded the diagnosis of peripheral blood and bone marrow involvement by HCL with unusual loss of CD123 in a COVID-19-positive patient. FISH analysis for CEP12/CEP10, TP53/CEP17, and IGH/CCND1 was normal. Cytogenetic analysis revealed normal male karyotype (46;XY).
+
+Mutation analysis of the BRAF gene (V600) using the molecular diagnostic technique by real-time polymerase chain reaction (RT-PCR) confirmed positivity (Fig. 7).
+
+The case was discussed in the multidisciplinary team meeting and the panel decided to wait for full COVID-19 recovery before taking the decision to start treatment.
+
+Discussion
+The diagnosis of HCLc can be made reliably by identifying a typical presenting clinical and pathological feature; however, the diagnosis may be challenging when presentation is atypical. One of the most constant physical findings in HCL is splenomegaly as HCL is typically included in the differential diagnosis of splenic enlargement. Rarely HCL can present without splenomegaly and so far, there are individual case reports of HCL without splenomegaly [5].
+
+HCL must be differentiated from other HCL-like disorders, including HCLv [8] and splenic diffuse red pulp lymphoma [9].
+
+HCL and HCL-like disorders are a heterogeneous group of mature B-cell lymphoid neoplasm that is characterized by the identification of hairy cells, a specific genetic profile, the need for the appropriate management, and a different clinical course. Diagnosis of HCL is established based on the presence of hairy cells by morphology, an HCL immunologic score of three or four based on the CD11c, CD103, CD123, and CD25 expression, a trephine BM biopsy and aspirate to determine the extent of infiltration, and the presence of BRAF V600E somatic mutation [6]. BM biopsy IHC stains are essentially positive for CD20, tartrate-resistant acid phosphatase (TRAP), annexin 1A (ANXA1), and DBA44 (CD72) [10].
+
+The first assessment should include an examination of peripheral blood smear with the differential count. Monocytopenia is characteristic of HCLc, but rare in HCLv. Leukemic cells (hairy cells) that are rarely detected in most cases, are medium in size with a fair amount of pale blue cytoplasm, open chromatin, absent nucleoli, reniform shaped nuclei, and characteristic cytoplasmic “hairy” projections [4].
+
+Flow cytometric immunophenotyping (FCI) is a vital tool in the diagnosis of HCL. HCL has a unique immunophenotype including CD20 (abnormally bright), CD22 (abnormally bright), CD11c (abnormally bright), CD25 (abnormally bright), CD103 (positive), CD123 (positive), CD5 (negative), CD10 (negative), and CD23 (negative). Due to this distinctive immunophenotype, FCI can differentiate malignant hairy cells from normal B cells and other lymphoproliferative disorders, especially the morphologically similar HCLv and splenic lymphoma with villous lymphocytes [8].
+
+A more aggressive variant of HCL lacking CD25, ANXA1, TRAP, and BRAF V600E, called HCLv, has been classified as a separate disease by the WHO. HCLv has more lymphocytosis and less severe cytopenias compared with HCLc [11].
+
+HCLc can express unusual markers such as CD38, CD5, and infrequently CD10. CD38 is usually correlated with a shorter mean time to salvage therapy. Expression of CD5 in HCLc is uncommon, and reported more frequently in HCLv, and may not be linked to prognosis. The expression of CD10 is reported in 14% of cases of HCL and was reported in a patient who had HCL with nodal involvement, which is inconsistently linked to progressive disease and is itself a poor risk factor, but CD10 positivity has not been clearly linked to HCL prognosis [12].
+
+Using whole-exome sequencing (WES) in 2011, BRAF V600E somatic mutation was found in a patient with HCL [13]. The BRAF V600E mutation was subsequently identified in up to 100% of HCL cases.
+
+BRAF V600E mutation is considered an early genetic event in HCL. BRAF V600E mutation, found in most HCLc patients, is not present in HCLv patients [14]. The mutation is now considered as the molecular characteristic feature of the disease and considered a novel diagnostic possibility and option for therapeutic targeting of BRAF, using BRAF inhibitors. The negative BRAF gene mutation is reported in only 10–20% HCLc patients and could represent a subgroup of HCLc patients associated with poor prognosis [6].
+
+CD123 is a monoclonal antibody that recognizes the alpha chain subunit of the human interleukin-3 receptor (IL-3RA) and is expressed in a diversity of normal hematopoietic cells, acute leukemia, and HCL. It is relatively considered a new marker for the evaluation of B-cell lymphoproliferative disorders with hairy/villous cytomorphology. The majority of typical HCL express CD123 with strong intensity while being negative in HCLv and SLVL. Bright, homogeneous expression of CD123 is highly specific for HCL, which distinguishes it from HCLv, which shows negative to dim CD123 expression. The intensity of CD123 expression fully facilitates the differentiation of these two entities of HCL [15, 16].
+
+Another presentation that makes our case unique is the absence of splenomegaly. Multiple case series showed that the percentage of HCL without splenomegaly can range from 0 to 40% of cases with HCL [14, 17, 18, 19, 20, 21, 22]. The percentage of patients diagnosed with HCL without splenomegaly is increasing and this finding may not be infrequent nowadays [23]. The cause for this new trend can be attributed to the early detection and diagnoses of HCL, possibly due to earlier detection on routine CBC [24].
+
+Although our case presented with multiple unique unusual features, clinically no splenomegaly, and immunophenotypically lack of CD123 expression with expression of CD10, the possibility of a diagnosis of HCL variant is very remote because of the strong expression of annexin 1 and the expression of BRAF 600 by mutational analysis.
+
+Currently, the coronavirus pandemic has challenged the entire world to protect our susceptible immune-compromised patients. HCL patients have a compromised immune system as a result of the influence of the disease itself on immune function. Infection is the most frequent cause of death among patients with HCL. Bacterial, viral, fungal, and opportunistic infections should be anticipated in all patients with HCL because these patients often present with preexisting neutropenia and/or monocytopenia.
+
+The decision to treat HCL patients based on their presentation during COVID-19 puts more challenges on health care providers because of the impact of COVID-19 on CBC findings, which may include pancytopenia and lymphopenia [24, 25].
+
+Risk factors for COVID-19 severity and death include older age, along with comorbidities including cancer.
+
+A cancer patient has a significantly higher incidence of severe complications after contracting the virus compared with non-cancer patients [26]. Also, cancer patients appear to contract SARS-CoV-2 infection twice more frequently than non-cancer patients [2].
+
+It is well known in the literature that some viral infections increase the risk of some hematological malignancies such as the Epstein-Barr virus, which increases the risk of Burkitt lymphoma and non-Hodgkin's lymphoma, and human T-lymphotropic virus (HTLV-1), which increases the risk of adult T-cell leukemia/lymphoma.
+
+To our knowledge, there is no viral infection that was proven to increases the risk of HCL.
+
+Since the discovery of COVID-19 it has been reported in the literate to be associated with other diseases at the time of presentation like an association with acute ST-elevation myocardial infarction and the association with neurological diseases like meningitis and encephalitis. Also it was reported with Guillain-Barré Syndrome [27].
+
+COVID-19 infection may be asymptomatic or causes only mild symptoms in the preponderance of the cases. However, macrophage activation syndrome, cytokine storm syndrome, and ARDS may occur in some patients as part of the immunologic complications. Impairment of SARS-CoV-2 clearance, lower levels of interferons, increased neutrophil extracellular traps, and increased pyroptosis generate a background for severe disease course complicated by macrophage activation syndrome and cytokine storm. When immunologic complications like cytokine storm occur, anti-viral treatment should be combined with the appropriate anti-inflammatory treatment such as chloroquine, hydroxychloroquine, JAK inhibitors, IL-6 inhibitors, IL-1 inhibitors, anti-TNF-α agents, corticosteroids, intravenous immunoglobulin (IVIG), and colchicine [28].
+
+In our case, the presentation of COVID-19 was associated with a diagnosis of HCLc that presented without splenomegaly with the unusual loss of CD123, and to our knowledge, this is the first of such association. Since CD123 is an anti-interleukin-3 receptor alpha chain (IL-3RA) antibody, it is certainly not known if the loss of CD123 was part of the cytokine storm that was associated with COVID-19 infection. Also, the patient received tocilizuumab (an IL-6 receptor antagonist), methylprednisone, and IVIG to control COVID-19 and the cytokine storm. BM examination and flow cytometry analysis performed after COVID-19 therapy raises the question of a possible effect of any of those drugs and CD123 loss. COVID-19 treatment and its mechanism of action are not known to correlate with CD123 expression. Although methylprednisolone depresses plasmacytoid dendritic cells (PDCs) [29] that express CD123, and IVIG therapy does not lead to significant alterations in circulating PDC numbers [30], none was suggested to cause loss of CD123. The general message is that COVID-19 treatment was not known to be correlated with CD123 expression, at least not illustrated in the literature, and not involved in the mechanism of action.
+
+The absence of splenomegaly in our case is another unusual finding. Splenomegaly is most likely related to early detection of disease rather than being related to the pathogenesis of COVID-19 infection, as COVID-19 uncovers and exaggerates the signs of HCL including severe progressive pancytopenia, which leads to early diagnosis of HCL at an early stage before the overt splenomegaly. However, this association could be only a coincidence.
+
+Conclusion
+Our case was unique HCLc confirmed by BRAF 600 mutation with the typical morphology and IHC; however, he presented with the absence of splenomegaly and unusual loss of CD123 positivity. The association between HCL and COVID-19 in our case could be only a coincidence, and an immunologic reaction associated with the cytokine storm may cause CD123 loss. We reported this case to pay attention to a similar association that links SARS-CoV-2 and HCL (with the unusual negative CD123) or other neoplasms, which needs further research to understand the causality and pathophysiology for this association.
+
+Statement of Ethics
+This article does not contain any studies with human participants or animals performed by any of the authors. Written informed consent was obtained from the patient for publication of this case report and any accompanying images.
+
+Conflict of Interest Statement
+The authors declare that they have no relevant financial interests.
+
+Funding Sources
+Qatar National Library.
+
+Author Contributions
+Dr. Samah Kohla: wrote and edited the manuscript. Dr. Feryal Ibrahim: reviewed and edited the manuscript. Dr. Mahmood Aldapt: wrote and edited the clinical management. Dr. Hesham ELSabah and Dr. Shehab Mohamed: clinical management. Dr. Reda Youssef: radiological diagnosis and reviewed the manuscript.
+
+Acknowledgment
+The authors would like to acknowledge Dr. Wafaa Abulalainin from Cytogenetic and Molecular Genetic Division for her valuable input and contribution in providing the results and figures of the mutation analysis of the BRAF gene (V600) using the RT-PCR and Rajaa Al-Abudula from Anatomic Pathology Division for their valuable input and contribution in providing the result of the V600E-mutant BRAF protein by IHC stain.
+
+Fig. 1 X-ray chest PA view shows bilateral diffuse pulmonary infiltrates on the background of interstitial thickening and basal consolidation more obvious in both mid and lower lung zones. No effusion or pneumothorax.
+
+Fig. 2 Peripheral blood smear (Wright stain) shows marked pancytopenia with increased rouleaux and red cell agglutination (×500). Inset Closer view shows rare hairy cells (medium-sized, with less condensed chromatin, absent nuclei, moderately abundant pale blue cytoplasm with characteristic multiple hairy projections (×1,000).
+
+Fig. 3 Bone marrow aspirate smear (Wright stain) shows small to medium-sized atypical lymphoid cells with rounded/oval or indented nuclear borders, less clumped chromatin, absent or inconspicuous nucleoli, and moderate to abundant pale blue cytoplasm with multiple circumferential cytoplasmic projections (hairy cells) (inset, ×1,000).
+
+Fig. 4 Bone marrow core biopsy HE stain (inset) is mildly hypercellular for age (40–60%) (×40). The closer view shows interstitial, focal, and diffuse extensive infiltration with many atypical lymphoid cells with widely separated nuclei (fried egg appearance) with decreased erythropoiesis/granulopoiesis, and mildly increased megakaryocytes (×500).
+
+Fig. 5 IHC stains: The hairy cells show strong positivity for CD20, DBA.44 (CD72), CD25, and annexin A1 (×40).
+
+Fig. 6 Flow cytometry on bone marrow aspirate shows a population of monotypic B cells comprising 53% expressing CD45, CD19, CD20, CD10, CD79b, CD11c, CD103, CD25 (majority), CD200, cBCL2, and IgM, with lambda light chain restriction. This population was negative for CD23, CD5, CD123, CD43, and IgD.
+
+Fig. 7 Mutation analysis of the BRAF gene (V600) using the molecular diagnostic technique by real-time PCR confirmed the positivity.

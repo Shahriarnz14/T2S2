@@ -1,0 +1,100 @@
+event,time
+53 years old,0
+male,0
+hypertension,0
+diabetes mellitus,0
+hypothyroidism,0
+stable dilated cardiomyopathy,0
+admitted to hospital,0
+prolonged pyrexia,0
+coronary angiography,-1344
+normal coronary anatomy,-1344
+moderate- to high-grade fever,-504
+standard investigations,-504
+routine blood cultures,-504
+imaging,-504
+transferred to care,-168
+febrile,-168
+toxic,-168
+early diastolic murmur in aortic area,0
+hemoglobin 8.3 g/dL,0
+white blood cells 9200 cells/mm3,0
+platelets 223000/mm3,0
+serum creatinine level 2.2 mg/dL,0
+erythrocyte sedimentation rate 88 mm/h,0
+urine analysis 3-5 RBCs/hpf,0
+24-h urine protein 1527 mg/24 h,0
+kidney sizes normal,0
+no pyelonephritis,0
+no abscess,0
+mild hepatosplenomegaly,0
+no focal lesions in spleen,0
+no focal lesions in liver,0
+chest roentgenogram mildly prominent pulmonary vasculature,0
+cardiomegaly,0
+no significant lung parenchymal pathology,0
+2D ECHO LVEF 30%,-168
+normal heart valves,-168
+global hypokinesia,-168
+repeat 2D echo mild aortic regurgitation,0
+three discrete small mobile vegetations on aortic valve cusps,0
+no cusp perforation,0
+no ring abscess,0
+other cardiac valves normal,0
+LVEF 20%,0
+transesophageal echo confirmed findings,0
+choroidal infiltrates,0
+no embolization to skin,0
+no embolization to other organs,0
+anti-ANA negative,0
+anti-dsDNA negative,0
+anti-ANCA negative,0
+C3 normal,0
+C4 normal,0
+thyroid profile normal,0
+treated for heart failure,0
+ceftriaxone 1 g twice daily,0
+empirical treatment for infective endocarditis,0
+routine serial bacterial blood cultures no growth,0
+BACTEC Myco/F Lytic medium used,0
+NTM identified,0
+linezolid added,0
+clarithromycin added,0
+species identification M. abscessus,0
+sensitive to amikacin,0
+sensitive to clarithromycin,0
+sensitive to linezolid,0
+sensitive to tobramycin,0
+intermediate sensitivity to cefoxitin,0
+resistant to doxycycline,0
+resistant to imipenem,0
+resistant to cefepime,0
+resistant to ceftriaxone,0
+resistant to minocycline,0
+resistant to amox-clavulanic acid,0
+linezolid continued,0
+clarithromycin continued,0
+isoniazid added,0
+ethambutol added,0
+cefoxitin added,0
+defervesced,168
+linezolid withheld,168
+bone marrow suppression,168
+linezolid reinstituted,264
+creatinine stabilized at 2.6 mg/dL,504
+creatinine peak 3.6 mg/dL,504
+dyspnea improved,504
+repeat 2D echo LVEF 40%,504
+valvular vegetations present,504
+blood cultures grew M. abscessus,504
+aortic valve replacement considered,504
+aortic valve replacement withheld,504
+multiple comorbidities,504
+patient reluctance for surgery,504
+repeat 2D ECHO no change in vegetation size,672
+discharged,672
+five antimycobacterial antibiotics continued,672
+worsening cardiac failure,672
+died,672
+pulmonary edema,672
+renal dysfunction,672

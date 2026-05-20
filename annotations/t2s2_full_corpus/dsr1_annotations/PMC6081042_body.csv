@@ -1,0 +1,103 @@
+event,time
+61 years old,0
+female,0
+arterial hypertension,0
+hypercholesterolemia,0
+arthritis,0
+type 2 diabetes,0
+no alcohol consumption,0
+nonsmoker,0
+allergy to molds,0
+metformin 500 mg once daily,0
+co-lisinopril (lisinopril and hydrochlorothiazide) 20/12.5 mg once daily,0
+tramadol 100 mg twice daily as needed,0
+atorvastatin 10 mg once daily,0
+allopurinol 300 mg once daily,0
+ranitidine 500 mg once daily,0
+quinine sulfate 100 mg once daily,0
+naproxen 500 mg three times a day as needed for arthritis,-240
+consumed 1.5 g naproxen,-48
+breathing difficulties,-48
+vomiting,-48
+diarrhea,-48
+right hemithoracic pain,-48
+presented with complaints,-48
+admitted to the intensive care unit,0
+restless,0
+pale,0
+hypotensive (65/10 mmHg),0
+sinus tachycardia (120/min),0
+arterial blood gas pH 7.27,0
+pCO2 23 mmHg,0
+paO2 154 mmHg (room air),0
+base excess -17.5,0
+serum bicarbonate 11 mEq/L,0
+potassium 3.14 mEq/L,0
+lactate 55 mg/dL,0
+marbled legs and thorax,0
+thirst,0
+fluid resuscitation,0
+central venous pressure 14 mmHg,0
+ScVO2 52%,0
+low urine output [<0.5 mL/(kg per h)],0
+sudden bradycardia,+6
+cardiac arrest,+6
+multiple organ failure,+6
+respiratory failure (PaO2/FiO2 <150 mmHg),+6
+renal failure requiring continuous renal support,+6
+liver failure with increased bilirubinemia,+6
+coagulopathy,+6
+inotropes initiated,+6
+"broad-spectrum antibiotics (amoxicillin-clavulanic acid, amikacin, meropenem, vancomycin, fluconazole)",+6
+SOFA score 21,+6
+APACHE II score 38,+6
+marbled skin pattern on thorax,0
+petechial lesions over next 6 hours,+6
+confluent petechial lesions over following 24 hours,+24
+erythematous and bullous eruptions on upper chest and extremities,+24
+Nikolsky sign positive,+24
+80% body surface involvement,+24
+skin biopsy showing extensive epidermal necrosis,+24
+muscle biopsy showing necrosis of striated and smooth muscle fibers,+24
+C-reactive protein 45.5 mg/dL,0
+creatine phosphokinase 3739 IU/L,0
+creatine phosphokinase rose to 145518 IU/L,+24
+D-Dimers >8000 ng/mL,0
+fibrinogen 298 mg/dL,0
+partial thromboplastin 50%,0
+potassium 3.1 mEq/L,0
+bicarbonate 11 mEq/L,0
+urea 93 mg/dL,0
+uric acid 8.1 mg/dL,0
+creatinine 2.90 mg/dL,0
+glomerular filtration rate 17 mL/min,0
+aspartate aminotransferase 73 IU/L,0
+alanine aminotransferase 44 IU/L,0
+gamma glutamyl transferase 154 IU/L,0
+total bilirubin 2.7 mg/dL,0
+conjugated bilirubin 1.9 mg/dL,0
+glucose 95 mg/dL,0
+lactic acid 117 mg/dL,0
+"platelets 159,000",0
+"platelets reduced to 125,000",+24
+normal chest x-ray,0
+normal electrocardiogram,0
+normal lumbar puncture,0
+unremarkable urine and blood cultures,0
+normal thoracoabdominal CT scan,0
+skin swab negative for microorganisms,0
+positive lymphocyte transformation test (LTT) for naproxen,+24
+"negative LTT for home medications (co-lisinopril, allopurinol, quinine)",+24
+"negative LTT for antibiotics (amikacin, metronidazole, meropenem, amoxicillin-clavulanic acid, fluconazole)",+24
+absent anti-skin antibodies,+24
+absent anti-skeletal muscle antibodies,+24
+absent antineutrophil cytoplasmic antibody,+24
+absent anti-glomerular basement membrane antibody,+24
+absent anti-Jo1 antibody,+24
+absent anti-scl70 antibody,+24
+negative serologies for Mycoplasma pneumoniae,+24
+negative serologies for Chlamydia pneumoniae,+24
+"negative hepatitis serologies (HAV, HBV, HCV)",+24
+naproxen discontinued,+24
+intravenous methylprednisolone 1200 mg administered,+24
+death,+48

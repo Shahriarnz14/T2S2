@@ -1,0 +1,57 @@
+event,time
+64 years old,0\
+woman,0\
+elective radical total gastrectomy,0\
+feeding jejunostomy,0\
+poorly differentiated T1 gastric carcinoma,0\
+hypertension,-720 (assuming history before admission)\
+anaemia,-720\
+no significant family history,0\
+no significant psychosocial history,0\
+no previous surgical history,0\
+antihypertensive medication,-720\
+postoperative progression as expected,24\
+no immediate intraoperative complications,0\
+jejunostomy feeds commenced,24\
+routine post-operative contrast CT scan,48\
+no anastomotic leak,48\
+bilateral pleural effusions,48\
+multiple vomits,96\
+no bowel opening since procedure,96\
+tachycardia (140 bpm),96\
+fever (39.4°C),96\
+dyspnea,96\
+respiratory rate 27,96\
+SpO2 96% on 6L O2,96\
+mildly tender abdomen,96\
+cool peripheries,96\
+pH 7.45,96\
+lactate 4.2 mmol/L,96\
+white cell count 1.9 × 10^9/L,96\
+C-reactive protein 456 mg/L,96\
+septic workup,96\
+repeat CT chest abdomen pelvis,96\
+broad spectrum antibiotics,96\
+suspected aspiration pneumonia,96\
+markedly dilated roux loop,96\
+distended caecum,96\
+distended ascending colon,96\
+caecal volvulus,96\
+urgent exploratory laparotomy,96\
+grossly distended caecal volvulus,96\
+jejunostomy compression,96\
+small bowel obstruction at jejunostomy fixation sutures,96\
+right hemicolectomy,96\
+jejunostomy un-kinked,96\
+small bowel viability confirmed,96\
+feeding tube removed,96\
+small bowel defect repaired,96\
+bacteraemia,120 (assuming occurred after surgery)\
+intravenous antibiotics,120\
+prolonged ICU admission,120\
+tracheostomy,120\
+ARDS,120\
+pericardial effusion,120\
+pleural effusions,120\
+full recovery,720 (assuming occurred after ICU stay)\
+histology confirmed ischemic changes,144 (assuming post-resection analysis)\

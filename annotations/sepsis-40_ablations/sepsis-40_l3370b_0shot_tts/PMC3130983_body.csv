@@ -1,0 +1,127 @@
+event,time
+fatigue ,-72
+nose bleeding ,-72
+generalized ecchymosis ,-72
+arthralgia ,-72
+admitted to hospital ,0
+pallor ,0
+tachycardia ,0
+dermal/mucosal petechiae ,0
+ecchymosis ,0
+liver 6 cm palpable ,0
+spleen 4 cm palpable ,0
+"WBC 333,000/mm3 ",0
+hemoglobin 4 g/dl ,0
+"platelet count 29,000/mm3 ",0
+L1-type blasts 97% ,0
+myeloperoxidase negative ,0
+Pre-B-cell ALL ,0
+transaminases normal ,0
+blood urine nitrogen normal ,0
+creatinine normal ,0
+uric acid normal ,0
+phosphor normal ,0
+lactate dehydrogenase high ,0
+leukopheresis ,-24
+leukopheresis ,-12
+lumbar punction ,96
+no cells in cerebrospinal fluid ,96
+benign cytology ,96
+modified BFM protocol ,0
+steroid response poor ,192
+no hematologic remission ,360
+no hematologic remission ,792
+BCR-ABL fusion gene positive ,360
+t(9;22) ,360
+first course of High Risk block therapy ,360
+imatinib started ,432
+severe mucositis ,432
+total parenteral nutrition ,432
+severe gastrointestinal hemorrhage ,432
+erythrocyte transfusion ,432
+platelet transfusion ,432
+severe neutropenia ,432
+fever ,432
+C-reactive protein positive ,432
+remission ,1104
+depressive mood ,1104
+no verbal cooperation ,1104
+decreased muscle strength ,1104
+increased muscle tonus ,1104
+deep tendon reflex ,1104
+Babinski test positive ,1104
+cranial magnetic resonance imaging normal ,1104
+severe mucositis ,1296
+hemorrhagic diarrhea ,1296
+typhlitis ,1296
+hyperemesis ,1296
+total parenteral nutrition ,1296
+unconsciousness ,1296
+Glasgow coma score 7 ,1296
+cardiac pulse 34/min ,1296
+arterial blood pressure 70/30 mm Hg ,1296
+capillary perfusion time 3 s ,1296
+hypothermic ,1296
+"WBC 2,030/mm3 ",1296
+"absolute neutrophil count 1,640/mm3 ",1296
+hemoglobin 5.09 g/dl ,1296
+"platelets 44,000/mm3 ",1296
+CRP 6.8 mg/dl ,1296
+urea 113 mg/dl ,1296
+creatinine 0.9 mg/dl ,1296
+glucose 136 mg/dl ,1296
+AST 77 IU/l ,1296
+ALT 91 IU/l ,1296
+bilirubin 0.3 mg/dl ,1296
+GGT 88 IU/l ,1296
+prothrombin time 17.6 s ,1296
+INR 1.4 ,1296
+activated partial thromboplastin time 43 s ,1296
+"D-dimer 1,211 ng/ml ",1296
+fibrinogen 190 mg/dl ,1296
+metabolic acidosis ,1296
+lactic acid 12.6 mmol/l ,1296
+intensive fluid replacement ,1296
+positive inotropic support ,1296
+erythrocyte suspension ,1296
+thrombocyte suspension ,1296
+left ventricular ejection fraction 64% ,1296
+broad spectrum antibiotherapy ,1296
+encephalopathy ,1296
+generalized tonic-clonic convulsions ,1296
+intubation ,1296
+mechanical ventilation ,1296
+cranial computed tomography ,1296
+bleeding region 9 mm ,1296
+peripheral edema ,1296
+lactic acidosis ,1296
+hemodiafiltration ,1308
+thiamine treatment ,1308
+lactic acidosis regressed ,1320
+thiamine treatment regularly ,1552
+bone marrow examination ,2016
+remission ,2016
+BCR-ABL gene fusion negative ,2016
+mechanic ventilation ,2016
+extubated ,2160
+percutaneous endoscopic gastrostomy ,2160
+swallowing dysfunction ,2160
+cognitive functions normal ,2592
+mucositis regression ,2592
+physiotherapy ,2592
+spastic tetraparesis ,2592
+discharged ,3024
+imatinib therapy ,3024
+convulsions none ,3024
+walking with support ,3344
+walking without support ,3456
+oral feeding ,3624
+PEG closed ,3624
+imatinib 400 mg/m2/day ,3456
+no transfusion ,2592
+bone marrow examination ,3024
+morphological remission ,3024
+molecular remission ,3024
+no matched donor ,5184
+morphological remission ,5184
+molecular remission ,5184

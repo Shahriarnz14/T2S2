@@ -1,0 +1,110 @@
+event,time
+73-year-old man,0
+confirmed COVID-19,0
+hypertension,0
+diabetes mellitus,0
+percutaneous coronary intervention (PCI),-17520
+aspirin 100 mg daily,-17520
+tested positive for SARS-CoV-2 by RT-PCR,-432
+admitted to Pohang Medical Center,-432
+fever 37.7℃,-432
+cough,-432
+"chest radiography ill-defined, hazy, streaky density in both lungs",-432
+oral hydroxychloroquine treatment initiated,-432
+pneumonia,-432
+hypotension,-432
+melena,-432
+transferred to Samsung Medical Center,-408
+vital signs stabilized,-408
+observation without additional treatment,-408
+expelled large quantity of melena,-384
+hypotension,-384
+tachycardia,-384
+SpO2 approximately 80%,-384
+hemoglobin level decreased to 6.3 mg/dl,-384
+blood transfusion,-384
+endotracheal intubation,-384
+arterial catheter insertion,-384
+central venous catheter insertion,-384
+esophagogastroduodenoscopy (EGD),-384
+duodenal ulcer without active bleeding,-384
+risk of re-bleeding,-384
+transferred to our hospital,-384
+endoscopic hemoclipping,-360
+embolization,-360
+abdominal pain,-336
+chest X-ray subphrenic free air,-336
+pneumoperitoneum,-336
+suspected duodenal ulcer perforation,-336
+emergency surgery planned,-336
+fever 37.8℃,-336
+preoperative vital signs stable,-336
+ECG normal sinus rhythm,-336
+chest radiography peripheral lung consolidation,-336
+aggravated pneumonia,-336
+hemoglobin 11.1 mg/dl,-336
+C-reactive protein 103 mg/L,-336
+arterial blood gas pH 7.48,-336
+arterial blood gas pCO2 33.0 mmHg,-336
+arterial blood gas pO2 173 mmHg,-336
+arterial blood gas bicarbonate 24.7 mmol/L,-336
+arterial blood gas saturation 99.4%,-336
+mechanical ventilation,-336
+continuous infusion of remifentanil,-336
+"intravenous antibiotics (tazobactam, piperacillin)",-336
+tested positive for SARS-CoV-2 again by RT-PCR,-312
+severe pneumonia,0
+persistent detection of SARS-CoV-2,0
+surgery in negative-pressure operating room,0
+medical staff wore PPE,0
+powered air-purifying respirator (PAPR),0
+N95 masks,0
+anteroposterior (vinyl) gowns,0
+double gloves,0
+boots,0
+shoe covers,0
+aprons,0
+face shields,0
+patient transferred to operating room,0
+portable ventilator with HEPA filter,0
+invasive arterial blood pressure monitoring,0
+ECG monitoring,0
+SpO2 monitoring,0
+bispectral index monitoring,0
+general anesthesia induced with propofol,0
+general anesthesia induced with rocuronium,0
+esophageal temperature probe placed,0
+anesthesia maintained with sevoflurane,0
+anesthesia maintained with remifentanil,0
+anesthesia maintained with rocuronium,0
+lung-protective mechanical ventilation,0
+operating room pressure maintained -2.5 to -20 Pa,0
+arterial blood gas sample sent for analysis,0
+exploratory laparotomy,0
+pyloric exclusion,0
+primary closure of perforation,0
+gastrojejunostomy,0
+midazolam administered,0
+rocuronium administered,0
+closed in-line tracheal suction,0
+manual ventilation initiated,0
+tracheal tube clamped,0
+patient transferred to stretcher cart,0
+Ambu bag with HEPA filter,0
+transferred to intensive care unit (ICU),+120
+ICU monitoring,+120
+intravenous antibiotics,+120
+hydroxychloroquine via L-tube,+120
+no surgical complications,+120
+elevated C-reactive protein,+120
+fever 37.3–38.8℃,+120
+tested positive for SARS-CoV-2 by RT-PCR,+120
+chest radiography increased pneumonic infiltration,+120
+pleural effusion,+120
+fever 39.5℃,+168
+hypotension,+168
+fluid administration,+168
+norepinephrine initiated,+168
+septic shock diagnosed,+168
+patient expired,+168
+stopped aspirin for 2 days,-48

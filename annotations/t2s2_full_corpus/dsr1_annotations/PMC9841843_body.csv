@@ -1,0 +1,147 @@
+event,time
+20-year-old,0\
+Caucasian,0\
+male,0\
+transferred to ICU,0\
+septic shock,0\
+relapsed acute myeloid leukemia,0\
+myelodysplasia-related features,0\
+chemotherapy 10 weeks prior,-1680\
+no underlying comorbidities,0\
+no known drug allergies,0\
+febrile (39°C),0\
+tachycardia (125 bpm),0\
+tachypnea (22 breaths/min),0\
+hypotension (80/35 mmHg),0\
+norepinephrine started,0\
+neutropenia (ANC 216),0\
+thrombocytopenia (platelets 85 × 10³/µl),0\
+hypokalemia (K 2.8 mmol/L),0\
+recto-cecal abscess,0\
+appendectomy 7 weeks prior,-1176\
+febrile neutropenia 6 weeks prior,-1008\
+thrombocytopenia,0\
+surgical intervention postponed,0\
+broad spectrum antibiotics,0\
+meropenem,0\
+vancomycin,0\
+micafungin,0\
+amikacin started,0\
+amikacin discontinued after 5 days,120\
+right arm cellulitis,288\
+abscess,288\
+blood culture positive for ESBL CRE E. coli,288\
+arm abscess culture positive for ESBL CRE E. coli,288\
+colistin started (loading dose 9MU),288\
+colistin maintenance (3MU every 8h),288\
+meropenem continued,288\
+vancomycin continued,288\
+micafungin switched to amphotericin B,288\
+tigecycline added,0\
+amphotericin B switched to micafungin,0\
+norepinephrine discontinued,48\
+febrile persisted,48\
+"severe reaction during colistin (hypotension, SOB, hypoxia, tachycardia, tachypnea, flushed face)",672\
+norepinephrine re-initiated,672\
+leukocytosis (WBC 19.3 × 10³/µl),672\
+acute kidney injury (Cr 1.2 mg/dL),672\
+colistin held,672\
+adrenaline given,672\
+chlorpheniramine given,672\
+hydrocortisone given,672\
+leukocytosis resolved,696\
+renal function back to baseline,696\
+norepinephrine discontinued,696\
+colistin resumed,696\
+colistin administered without complications for 3 days,696\
+"severe reaction during colistin (hypotension, SOB, hypoxia, flushed face, generalized erythema)",816\
+norepinephrine re-initiated,816\
+leukocytosis (WBC 17.3 × 10³/µl),816\
+acute kidney injury (Cr 1.4 mg/dL),816\
+increased bilirubin (2.79 mg/dL),816\
+colistin discontinued,816\
+maintained on meropenem,816\
+maintained on tigecycline,816\
+maintained on amikacin,816\
+norepinephrine discontinued,864\
+abnormal lab results resolved,864\
+condition stabilized,936\
+transferred to floor,960\
+piperacillin/tazobactam,960\
+tigecycline,960\
+amikacin,960\
+ventricular fibrillation,1008\
+died,1008\
+20-year-old,0
+Caucasian,0
+male,0
+transferred to ICU,0
+septic shock,0
+relapsed acute myeloid leukemia,0
+myelodysplasia-related features,0
+chemotherapy 10 weeks prior,-1680
+no underlying comorbidities,0
+no known drug allergies,0
+febrile (39°C),0
+tachycardia (125 bpm),0
+tachypnea (22 breaths/min),0
+hypotension (80/35 mmHg),0
+norepinephrine started,0
+neutropenia (ANC 216),0
+thrombocytopenia (platelets 85 × 10³/µl),0
+hypokalemia (K 2.8 mmol/L),0
+recto-cecal abscess,0
+appendectomy 7 weeks prior,-1176
+febrile neutropenia 6 weeks prior,-1008
+thrombocytopenia,0
+surgical intervention postponed,0
+broad spectrum antibiotics,0
+meropenem,0
+vancomycin,0
+micafungin,0
+amikacin started,0
+amikacin discontinued after 5 days,120
+right arm cellulitis,288
+abscess,288
+blood culture positive for ESBL CRE E. coli,288
+arm abscess culture positive for ESBL CRE E. coli,288
+colistin started (loading dose 9MU),288
+colistin maintenance (3MU every 8h),288
+meropenem continued,288
+vancomycin continued,288
+micafungin switched to amphotericin B,288
+tigecycline added,0
+amphotericin B switched to micafungin,0
+norepinephrine discontinued,48
+febrile persisted,48
+"severe reaction during colistin (hypotension, SOB, hypoxia, tachycardia, tachypnea, flushed face)",672
+norepinephrine re-initiated,672
+leukocytosis (WBC 19.3 × 10³/µl),672
+acute kidney injury (Cr 1.2 mg/dL),672
+colistin held,672
+adrenaline given,672
+chlorpheniramine given,672
+hydrocortisone given,672
+leukocytosis resolved,696
+renal function back to baseline,696
+norepinephrine discontinued,696
+colistin resumed,696
+colistin administered without complications for 3 days,696
+"severe reaction during colistin (hypotension, SOB, hypoxia, flushed face, generalized erythema)",816
+norepinephrine re-initiated,816
+leukocytosis (WBC 17.3 × 10³/µl),816
+acute kidney injury (Cr 1.4 mg/dL),816
+increased bilirubin (2.79 mg/dL),816
+colistin discontinued,816
+maintained on meropenem,816
+maintained on tigecycline,816
+maintained on amikacin,816
+norepinephrine discontinued,864
+abnormal lab results resolved,864
+condition stabilized,936
+transferred to floor,960
+piperacillin/tazobactam,960
+tigecycline,960
+amikacin,960
+ventricular fibrillation,1008
+died,1008

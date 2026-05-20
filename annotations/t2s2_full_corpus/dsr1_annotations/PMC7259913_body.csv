@@ -1,0 +1,60 @@
+event,time
+44 years old,0
+male,0
+admitted to the hospital,0
+obesity,0
+type 2 diabetes,0
+shortness of breath,-48
+nonproductive cough,-48
+temperature 99.3°F,0
+heart rate 152 beats/min,0
+blood pressure 102/84 mm Hg,0
+respiratory rate 44 breaths/min,0
+hypoxia,0
+peripheral oxygenation saturation 86%,0
+diffuse bilateral hazy opacities (ARDS),0
+SARS-CoV-2 positive,0
+pH 7.09,0
+partial arterial pressure of carbon dioxide 41 mm Hg,0
+partial arterial pressure of oxygen 33 mm Hg,0
+lactate 12 mmol/l,0
+intubation,0
+pH 7.14,0
+partial arterial pressure of carbon dioxide 53 mm Hg,0
+Pao2 193 mm Hg,0
+Pao2:Fio2 ratio 193,0
+white blood cell count 27.8 × 103/μl,0
+serum creatinine 1.88 mg/dl,0
+high-sensitivity troponin-T 46 ng/l,0
+high-sensitivity troponin-T 154 ng/l,0
+"N-terminal B-type natriuretic peptide 14,535 pg/ml",0
+"ferritin 3,495 ng/l",0
+D-dimer >20 μg/ml,0
+left ventricular ejection fraction 45%,0
+global hypokinesis,0
+dilated right ventricle,0
+reduced right ventricular systolic function,0
+interventricular septum flattening,0
+clot in transit (right ventricle),0
+hypoxemic respiratory failure,0
+ICU admission,0
+hypotension,6
+norepinephrine 40 μg/min,6
+vasopressin 2.4 U/h,6
+intravenous methylprednisolone 1 mg/kg/day,6
+tPA 100 mg,6
+unfractionated heparin,6
+dobutamine infusion,6
+venoarterial ECMO considered,6
+weaned off pressors,30
+weaned off inotropic support,72
+left ventricular systolic function normal,30
+mild right ventricle dilation,30
+preserved right ventricular systolic function,30
+clot in transit resolved,30
+negative deep vein thrombosis,30
+bleeding within oropharynx,120
+compression packing,120
+systemic anticoagulation continued,120
+extubation planned,168
+oral anticoagulation planned,0

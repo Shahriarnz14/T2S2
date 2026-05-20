@@ -1,0 +1,55 @@
+event,time
+short non-infective prodrome,-6
+acute severe asthma,-2
+hypoxic cardiac arrest,-0.25
+28-year-old,0
+woman,0
+8 weeks pregnant,0
+ventricular fibrillation,0
+resuscitation to sinus tachycardia,0.17
+sinus tachycardia,0.17
+endotracheal intubation,0.17
+transfer to the ICU,1
+therapeutically cooled to 33°C for 24 h,1
+salbutamol (inhaled),1
+salbutamol (intravenous),1
+ipratropium,1
+aminophylline,1
+hydrocortisone,1
+magnesium,1
+ketamine,1
+inhalation anesthesia with 1 MAC isoflurane,1
+severe hypercapnic acidosis,1
+inadequate minute ventilation,1
+neuromuscular blockade,1
+ventilation improving,1
+intravenous sedatives stopped,48
+neuromuscular blockers were stopped,48
+0.25–0.5 MAC isoflurane as the sole sedative,48
+generalised status myoclonus,48
+isoflurane was stopped,96
+comatose,96
+absent motor response to painful stimulus,96
+preserved pupillary reflexes,96
+preserved corneal reflexes,96
+preserved cough reflex,96
+preserved gag reflexes,96
+spontaneously breathing,96
+severe generalised status myoclonus,96
+refractory to three antiepileptic medications,96
+electroencephalography,96
+generalised periodic discharges,96
+no discernable background rhythm,96
+reversible causes of coma eliminated,96
+no agreement about her neurological outcome,192
+intensive social work support,192
+Somatosensory-evoked potential was unhelpful due to myoclonus motion artefacts,192
+possible Lance Adams Syndrome,192
+brain MRI using fluid attenuation inversion recovery and diffusion weighted imaging,240
+bilateral basal ganglia and frontoparietal cortex infarction,240
+severe hypoxic encephalopathy,240
+medical consensus regarding poor prognosis,240
+extubated with family agreement,240
+comfort measures,240
+died,264
+plasma neuron-specific enolase (NSE) was 51 mcg/L,288

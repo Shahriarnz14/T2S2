@@ -1,0 +1,74 @@
+event,time
+11 years old,0
+female,0
+admitted to the hospital,0
+fever,0
+vomiting,0
+generalized abdominal pain,0
+rash on her palms and trunk,0
+severe drowsiness,0
+lethargic,0
+no conjunctivitis,0
+no lymphadenopathy,0
+meningeal signs were negative,0
+tachycardic,0
+hypotension,0
+abdomen was tender to palpation,0
+especially in the right lower quadrant,0
+white blood cell count of 13.5 × 103/μL,0
+"erythrocyte sedimentation rate, serum C-reactive protein (CRP), and procalcitonin concentrations were significantly increased",0
+tested negative for SARS-CoV-2 by both rapid PCR and RT-PCR,0
+abdominal ultrasound showed an enlarged appendix of 11.2 mm in diameter,0
+moderate amount of fluid in the pelvis,0
+suspected appendicitis,0
+underwent an emergency laparotomy appendectomy,0
+postoperative course was remarkably toxic,0
+tachycardia,0
+fractional shortening was observed in the echocardiogram,0
+"dopamine, a vasoactive drug, was used",0
+low oxygen saturation in ambient air,0
+oxygen therapy (2 L/min O2) via a nasal cannula,0
+homogeneous bilateral paratracheal and paracardial spots were noted on the chest X-ray,0
+suggesting bronchopneumonia,0
+treated with ceftriaxone and amikacin,0
+later switched to imipenem,0
+positive history of contact with COVID-19,0
+grandfather was diagnosed with COVID-19 and was treated a month earlier,0
+not vaccinated,0
+"no personal or family history of allergic reactions, vasculitis, autoimmune disorders, cardiac disease, diabetes, or hereditary disease",0
+positive serology of SARS-CoV-2 (immunoglobulin G (IgG)),0
+"elevated ferritin, IL6, high-sensitivity troponin, and D-dimer",0
+"enoxaparin, an anticoagulant, was initiated",0
+treated with IV immunoglobulin (IVIG; 2 g/kg),0
+administered 325 mg of aspirin per day,0
+general condition worsened,24
+febrile,24
+anemic,24
+more toxic,24
+hemoglobin level decreased from 11.5 to 6.9 g/dL,24
+red blood cell transfusion was administered,24
+pulse dosage of systemic corticosteroids (30 mg/kg daily methylprednisolone),48
+re-evaluation of the emerging shock revealed an aggravation of heart dysfunction,48
+echocardiogram revealed a slight decrease in left ventricle (LV) function,48
+septal hypokinesia,48
+ejection fraction (EF) of 30%,48
+dobutamine was added as the second vasoactive drug,48
+favorable progression,72
+vasoactive drugs were discontinued,72
+afebrile,96
+clinical symptoms improved,96
+arterial pressure was stable without inotropes,96
+"no pathogenic agents were detected in the patient’s blood, sputum, feces, or urine cultures",96
+histopathological examination resulted in the diagnosis of catarrhal appendicitis,96
+D-dimer showed a downward trend,96
+troponemia had resolved,96
+inflammatory parameters were normal,96
+LV function was improved,96
+demonstrating normal biventricular function,96
+no aneurysms were observed in the proximal coronary artery system,96
+discharged,288
+advice to take a low dosage of aspirin (3 mg/kg),288
+follow-up outpatient visit after 2 weeks,336
+blood tests had normalized,336
+COV-2 IgG was elevated to 84,336
+abdominal and cardiac ultrasounds were normal,336

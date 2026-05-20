@@ -1,0 +1,57 @@
+1 Introduction
+Very long chain acyl CoA dehydrogenase deficiency (VLCADD, OMIM #609575) is a long chain fatty acid oxidation disorder (FAOD) caused by decreased activity of very-long chain acyl-CoA dehydrogenase. This enzyme deficiency prevents adequate breakdown of long chain fatty acids causing decreased production of acetyl-CoA to power gluconeogenesis and ketones to serve as an alternative energy source as well as accumulation of abnormal fatty acid metabolites (1). Rhabdomyolysis is caused by this insufficient supply of substrate for ATP production for muscle cell function (1).
+
+Like many other metabolic disorders, the clinical phenotype of VLCADD is quite variable depending on the mutations in the ACADVL gene and remaining residual enzyme activity. Neonates with VLCADD are described with severe cardiomyopathies and arrhythmias that can be fatal (1). However, asymptomatic neonates are now identified on newborn screen (NBS) with elevated C14:1, C14:2 and C14 acylcarnitines and an increased C14:1/C16 ratio, thus increasing the estimated incidence of this disorder to 1 in 30,000 births (2). Prior to NBS, some of these cases may have presented in infants or toddlers with symptoms associated with hypoketotic hypoglycemia during an intercurrent illness or with prolonged fasting. Later onset presentations include muscle cramping or pain, exercise intolerance and intermittent episodes of rhabdomyolysis. Exercise is often the trigger for presentation. A presentation of VLCADD with rhabdomyolysis alone is described in individuals ranging from later school age to adults [2], [3], [4], [5], [6], [7], [8], [9], [10] This report describes a neonate with a presentation of rhabdomyolysis without cardiac or significant hepatic involvement.
+
+2 Clinical case report
+A male infant was born at 40 6/7 weeks by vaginal delivery to a 22 year-old primigravida mother. Pregnancy was complicated by hyperemesis gravidarum, but prenatal labs and ultrasound were unremarkable. Delivery was uncomplicated. There was no family history of inborn errors of metabolism. Newborn screen was collected at 24 h of age. Early post-natal course was remarkable for tachypnea on day of life (DOL) 3 that resolved independently. Infant was discharged home on DOL 4 in good health, but with probable poor oral intake due to difficulty establishing breast feeding. On DOL 5, infant developed a fever of 101.2 °F with poor feeding and dehydration. The infant was admitted to the intensive care unit for rehydration and sepsis evaluation.
+
+Five hours after admission, the infant's newborn screen returned with significantly elevated C14:1, C14:2, C14 and C14:1/C16 suggesting VLCADD (Table 1). Cardiac evaluations, including EKG and echocardiogram, were normal. An infectious work-up was completed; the infant was placed on antibiotic and antiviral medication until negative cultures and testing returned. Laboratories collected at 76 h of age found normal glucose concentrations, but creatine kinase (CK) was elevated at 25,660 U/L indicating rhabdomyolysis (Table 1). BUN and creatinine were also elevated suggesting renal dysfunction while liver function tests were mildly elevated. The infant was started on aggressive hydration with 10% dextrose-containing fluids as well as a medical food low in long chain fat and enriched with medium chain triglycerides (MCT) providing a total fluid intake at two times maintenance. The CK declined over the next 3 days. Creatinine and other labs improved as well. He was discharged on DOL 19 with good oral intake of the medical formula.
+
+Initial plasma acylcarnitine concentrations were highly indicative of a VLCADD diagnosis and decreased with treatment (Table 1). Molecular DNA testing for ACADVL showed two mutations c.848T>C (p.Val243Ala) and c.751A>G (p.Ser251Gly) in transconformation. The c.848T>C (p.Val283Ala) mutation is pathogenic and detected in 20% of VLCADD cases found on NBS [1]. The c.751A>G mutation has not been previously described. This residue is highly conserved and mutational analysis (PolyPhen2®, SIFT®, Mutation Taster®) suggests an impact on protein splicing.
+
+The patient is now 18 months of age with normal growth and development. He continues on diet treatment. His routine plasma acylcarnitines often show C14:1 at two to three times the upper limit of normal, but occasionally will be in the normal range. l-Carnitine supplementation was initiated at 7 months of age because of mildly low plasma free carnitine concentrations. Despite several hospitalizations for illness with poor oral intake requiring g-tube placement, the patient has not had further evidence of rhabdomyolysis.
+
+3 Discussion
+This report reviews a case of VLCADD presenting with rhabdomyolysis in the neonatal period. Although rhabdomyolysis is a known complication of VLCADD, it is usually described as a presentation in older patients. Mild elevations in CK (two to four times the upper limit of normal) are common in the newborn period, likely related to the birth trauma [personal experience]. High elevations in CK suggesting significant muscle catabolism with potential complications including renal dysfunction and cardiac arrhythmia are not commonly found in neonates. Published cases report neonatal rhabdomyolysis associated with mitochondrial disorder, traumatic birth, muscular dystrophy or anti-seizure medication use in a neonate with a chromosomal abnormality [11], [12], [13], [14]. Within these reports, CK levels vary considerably (range 2088 to 156,000 U/L).
+
+In those with VLCADD, one neonate presented with transient elevations in CK (8400 U/L) after a complicated delivery [15]. This patient was later diagnosed with VLCADD after recurrent rhabdomyolysis associated with illness in infancy and early childhood. Another infant with VLCADD presented in the neonatal period with hypoglycemia, but experienced rhabdomyolysis without hypoglycemia during a fasting test at 11 months of age [16]. A literature review of outcomes for FAOD describes rhabdomyolysis as early as 12 months [17].
+
+In the reported case, difficulty establishing breastfeeding, fever and the patient's severity of disease, as implicated by his significantly elevated C14:1 on newborn screen and confirmatory plasma acylcarnitine profile, were likely contributing factors in his presentation. Similar to older patients with VLCADD, treatment with aggressive hydration, glucose administration and supplementation with MCT resolved the rhabdomyolysis by slowing catabolism of fat stores and providing a usable energy source for muscle metabolism.
+
+This case demonstrates that a complete evaluation for rhabdomyolysis, in addition to cardiac and hepatic evaluations, needs to be considered when assessing a neonate with an abnormal newborn screen suggesting a diagnosis of VLCADD.
+
+Table 1 Laboratory evaluation and confirmatory testing.
+
+Evidence of rhabdomyolysis	Evidence of VLCADD	
+Age (hours)	Creatine kinase (units/L)a	Age	Acylcarnitines (μmol/L)b	
+C14: 1	C14	C14:2	C14:1/C16	
+76	25,660	Newborn screen (DBS); 24 h	4.77
+(Nl < 0.18)	3.66
+(Nl < 0.6)	0.45
+(Nl < 0.8)	0.76
+(Nl < 0.25)	
+80	18,561	At diagnosis (plasma); 80 h	1.95
+(Nl < 0.16)	1.05
+(Nl < 0.11)	0.3
+(Nl < 0.09)	–	
+	
+84	14,040	At 8 days	0.12
+(Nl < 0.16)	0.06
+(Nl < 0.11)	0.05
+(Nl < 0.09)	–	
+	
+89	9580	At 1 month	0.24
+(Nl < 0.2)	0.1
+(Nl < 0.09)	–	–	
+		
+96	7317						
+103	4879						
+113	3010						
+125	1647						
+145	843						
+169	400						
+264	157						
+a Reference range 0–215 U/L.
+
+b Normal concentrations given in parentheses. For acylcarnitine profiles, reference ranges varied with type of sample (dried blood spot (DBS) or plasma) and lab completing the analysis.

@@ -1,0 +1,58 @@
+event,time
+56 years old,0
+female,0
+admitted for carpal tunnel release surgery,0
+arterial hypertension,-2160
+valsartan,-2160
+hydrochlorothiazide,-2160
+induction of anesthesia,0
+propofol,0
+remifentanil,0
+fentanyl,0
+rocuronium,0
+oral intubation,0
+6.5 mm endotracheal tube,0
+cuff inflated with 4 ml air,0
+cuff pressure not checked,0
+anesthesia maintained with desflurane,0
+FiO2 0.5,0
+surgery duration 25 minutes,0
+endotracheal tube suctioned,25
+awakening,25
+vigorous coughing,25
+violent neck movement,25
+extubated,25
+no blood on endotracheal tube,25
+transferred to PACU,25
+chest discomfort,55
+dyspnea,55
+swelling of neck,55
+swelling of upper anterior chest,55
+arterial blood gas pH 7.32,55
+arterial blood gas PCO2 51 mmHg,55
+arterial blood gas PO2 78 mmHg,55
+arterial blood gas HCO3 26.8 mmol/L,55
+SpO2 93%,55
+chest X-ray pneumomediastinum,55
+chest X-ray subcutaneous emphysema,55
+CT scan tracheal laceration,55
+tracheal laceration at brachiocephalic trunk level,55
+bronchoscopy 5 cm tracheal defect,55
+tracheal defect posterior membranous wall,55
+tracheal defect 6 cm proximal to carina,55
+thoracic surgeon consultation,55
+thoracic surgical repair impossible,55
+ICU admission,55
+7.5 mm endotracheal tube placed near carina,55
+low-tidal-volume ventilation,55
+pressure-controlled mode,55
+tidal volume 250-350 ml/kg,55
+respiratory rate 20-25/min,55
+mean airway pressure <25 cm H2O,55
+permissive hypercapnia,55
+broad-spectrum antibiotics,55
+improved,216
+chest CT reduced emphysema,216
+bronchoscopy healing lesion,192
+endotracheal extubation,312
+discharged,432

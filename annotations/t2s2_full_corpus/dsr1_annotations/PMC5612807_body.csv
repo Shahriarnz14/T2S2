@@ -1,0 +1,69 @@
+event,time
+90-year-old,0
+man,0
+male,0
+Caucasian,0
+BMI 22.7 kg/m²,0
+mild dementia,0
+hypertension,0
+atrial fibrillation,0
+admitted to VANTHCS Emergency Department,0
+progressive worsening abdominal pain,-504
+nausea,-504
+vomiting,-504
+diarrhea,-504
+acute change in abdominal pain,-3
+no history of abdominal operations,0
+on antihypertensive medications,0
+no anticoagulants,0
+no tobacco use,0
+no ethanol use,0
+no drug use,0
+colonoscopy a few years prior,-26304
+acute distress,0
+pain,0
+diaphoresis,0
+temperature 96.6°F,0
+heart rate 117 bpm,0
+blood pressure 126/72 mmHg,0
+irregularly irregular heart rhythm,0
+soft abdomen,0
+distended abdomen,0
+tenderness to palpation left lower quadrant,0
+hematocrit 49.1%,0
+hemoglobin 16.1 g/dL,0
+white count 7.3 K/uL,0
+creatinine 1.53 mg/dL,0
+potassium 3.1 mmol/L,0
+albumin 3.8 g/dL,0
+normal liver function tests,0
+normal INR,0
+CT mesenteric inflammation small bowel,0
+CT pneumoperitoneum,0
+admitted to ICU,0
+intravenous fluids,0
+serial abdominal exams,0
+indwelling bladder catheter,0
+broad-spectrum antibiotics,0
+presumptive diagnosis diverticulitis,0
+responded to fluids and antibiotics,0
+developed tachycardia,6
+diffuse abdominal tenderness,6
+exploratory laparotomy,6
+large amount of peritoneal fluid,6
+redundant sigmoid,6
+uninflamed sigmoid diverticula,6
+normal appendix,6
+normal cecum,6
+normal right colon,6
+jejunum adherent to left colon,6
+multiple jejunal diverticula,6
+perforated jejunal diverticulum,6
+small bowel resection,6
+hand-sewn anastomosis,6
+recovered well,168
+discharged to skilled nursing facility,168
+pathological no malignancy,168
+multiple jejunal diverticula confirmed,168
+perforated JD confirmed,168
+no enterolith,168

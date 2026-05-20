@@ -1,0 +1,86 @@
+event,time
+10 weeks old,0
+male,0
+admitted to the emergency department,0
+severe abdominal distention,0
+lethargy,0
+fever,-72
+poor feeding,-72
+vomiting,-72
+post-prandial vomiting,-72
+non-projectile vomiting,-72
+non-bilious vomiting,-72
+non-bloody vomiting,-72
+cessation of bowel movements,-24
+progressive abdominal distention,-24
+irritability,-24
+lethargy (prior to admission),-24
+born at term,0
+vaginal delivery,0
+weight 1.860 grams,0
+small for gestational age,0
+no delay in passing meconium,0
+no history of constipation,0
+breast fed,0
+vaccination schedule up to date,0
+no family history of Hirschsprung's disease,0
+no congenital disorders,0
+length 30 cm,0
+weight 3430 grams,0
+afebrile (37°C),0
+heart rate 124 beats/minute,0
+tachypnea (45 breaths/minute),0
+hypotension (60-35 mmHg),0
+oxygen saturation 97%,0
+unwell appearance,0
+lethargy (at admission),0
+dehydration,0
+decreased skin turgor,0
+pale mottled skin,0
+tense abdomen,0
+tender abdomen,0
+reduced bowel sounds,0
+high leukocyte count (20.56×10⁹/L),0
+neutrophilia (41%),0
+thrombocytosis (994×10⁹/L),0
+elevated C-reactive protein (25.5 U/L),0
+hyponatremia (129 mEq/L),0
+hyperglycemia (196 mg/dL),0
+elevated SGOT (164 U/L),0
+elevated SGPT (232 U/L),0
+compensated metabolic acidosis,0
+pH 7.324,0
+PaCO2 34.2,0
+HCO3 17.2,0
+multiple air fluid levels on X-ray,0
+distended loops of small intestine,0
+no pneumoperitoneum,0
+treated for clinical sepsis,0
+fluid resuscitation,0
+broad spectrum parenteral antibiotics,0
+intestinal obstruction diagnosis,0
+urgent laparotomy,0
+massively dilated ileum,0
+ileal perforation,0
+primary repair of perforation,0
+collapsed microcolon,0
+transition zone at ileocecal valve,0
+full thickness biopsies,0
+appendectomy,0
+protective ileostomy,0
+absence of ganglion cells,0
+histological enterocolitis,0
+clinical deterioration,0
+intubation,0
+monitoring in NICU,0
+first cardio-pulmonary arrest,8
+successful resuscitation,8
+second cardio-pulmonary arrest,20
+unsuccessful resuscitation,20
+death,20
+total colonic aganglionosis,0
+ileal perforation,0
+enterocolitis,0
+sepsis,0
+septic shock,0
+no autopsy,0

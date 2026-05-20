@@ -1,0 +1,93 @@
+event,time
+53 years old,0
+male,0
+visited a primary care physician,-72
+3-day history of fever,-72
+3-day history of dyspnea,-72
+10-year history of rheumatoid arthritis,0
+oral methotrexate 10 mg/week,-26280
+low-dose prednisolone 2 mg/day,-26280
+no alcohol use,0
+no smoking,0
+bitten on left index finger by family dog,-96
+did not report bite to physician,-72
+diagnosed with viral infection,-72
+discharged home,-72
+symptoms worsened rapidly,-48
+transferred to emergency department,-24
+admission to hospital,0
+bite wound without cellulitis,0
+bite wound without erythema,0
+blood pressure 63/52 mmHg,0
+heart rate 129 beats/min,0
+respiratory rate 40/min,0
+body temperature 38.0 °C,0
+oxygen saturation 100% at 3 L/min oxygen,0
+pancytopenia,0
+white blood cell count 1300/μL,0
+hemoglobin 11.7 g/dL,0
+platelet count 6000/μL,0
+high-grade inflammatory status,0
+CRP 31.47 mg/dL,0
+procalcitonin 83.0 ng/mL,0
+renal impairment,0
+creatinine 4.97 mg/dL,0
+prolonged prothrombin time-INR 1.4,0
+increased FDP 157.4 ng/mL,0
+septic shock,0
+disseminated intravascular coagulation,0
+chest CT ground-glass opacity,0
+chest CT consolidation in bilateral lower lobes,0
+blood cultures collected,0
+transferred to ICU,0
+massive fluid replacement,0
+meropenem 1 g,0
+platelet transfusion,0
+nafamostat mesilate,0
+sustained hypotension,0
+noradrenaline initiated,0
+hydrocortisone initiated,0
+hypotension not improved,24
+respiratory condition worsened,24
+repeat chest CT progression of consolidations,24
+ARDS,24
+mechanical ventilation,24
+gram-negative rods isolated from blood,24
+suspected C. canimorsus infection,24
+pupillary dilation,48
+no light reflex,48
+head CT cerebral hemorrhage,48
+head CT herniation,48
+death,120
+GNR subcultured for 48 hours,120
+catalase positive,120
+oxidase positive,120
+multiple rods in neutrophils cytoplasm,120
+C. canimorsus confirmed by PCR,120
+C. canimorsus confirmed by 16S rRNA sequencing,120
+severe sepsis caused by C. canimorsus,120
+carbapenem sensitive,120
+macrolide sensitive,120
+penicillin G sensitive,120
+no history of splenectomy,0
+no alcoholism,0
+long-term methotrexate use,0
+close contact with pet dog,0
+finger bite,-96
+organ dysfunction at presentation,0
+acute kidney injury,0
+coagulopathy,0
+no cellulitis at bite site,0
+no erythema at bite site,0
+source of bacteremia,0
+complement-resistant pathogen,0
+survives in phagocytic cells,0
+proinflammatory cytokines reduced,0
+nitric oxide production reduced,0
+innate immunity impaired,0
+MTX-associated immunocompromised,0
+delayed diagnosis,0
+Gram-negative bacilli on Giemsa stain,120
+MALDI-TOF MS potential use,0
+next-generation sequencing potential use,0
+fatal outcome,120

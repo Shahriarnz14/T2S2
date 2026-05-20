@@ -1,0 +1,86 @@
+event,time
+35 years old,0
+male,0
+school teacher,0
+fever,-360
+pain in the right thigh,-360
+pain in the right shoulder,-360
+pain progressed to the right foot,-336
+pain progressed to the left foot,-336
+pain progressed to the right index finger,-336
+pain progressed to the left ring finger,-336
+oral amoxicillin-clavulanate,-336
+paracetamol,-336
+fever persisted,-336
+limb pains persisted,-336
+admitted to private hospital,-264
+neutrophilic leukocytosis,-264
+hyperglycemia,-264
+ultrasonography of right mid arm,-264
+ultrasonography of right forearm,-264
+ultrasonography of right thigh,-264
+echogenic intramuscular collections,-264
+pyomyositis,-264
+early stage of abscess formation,-264
+aspiration of pus,-264
+Gram-negative microorganisms,-264
+intravenous piperacillin-tazobactam,-264
+intravenous vancomycin,-264
+subcutaneous insulin therapy,-264
+clinical condition did not improve,-144
+referred to our hospital,0
+respiratory distress,0
+admitted to intensive care unit,0
+encephalopathy,0
+septic shock,0
+impending respiratory failure,0
+diffuse warm tender swellings in both feet,0
+diffuse warm tender swellings in both hands,0
+APACHE II score 19,0
+SOFA score 6,0
+intubated,0
+moderate acute respiratory distress syndrome,0
+PaO2/FiO2: 160,0
+ventilated with lung protective strategy,0
+vasopressor support with norepinephrine,0
+repeat ultrasound,0
+inflamed muscle membranes,0
+lost fibrillary pattern of muscle,0
+Doppler screen of limbs no venous thrombosis,0
+two-dimensional echocardiogram no infective endocarditis,0
+empirical meropenem,0
+empirical vancomycin,0
+admission blood cultures positive for Burkholderia cepacia,0
+subsequent blood cultures positive for Burkholderia cepacia,0
+pancytopenia,0
+Hb 5.2 g/dl,0
+total leukocyte count 2100 cells/cumm,0
+platelet count 40000 cells/cumm,0
+hyperferritinemia,0
+serum ferritin 5500 ng/ml,0
+hypertriglyceridemia,0
+serum triglycerides 300 mg/dl,0
+hepatosplenomegaly,0
+suspicion of secondary lymphohistiocytosis,0
+bone marrow examination,0
+hemophagocytosis,0
+growth of Burkholderia cepacia,0
+B. cepacia resistant to amikacin,0
+B. cepacia resistant to gentamicin,0
+B. cepacia resistant to piperacillin-tazobactam,0
+B. cepacia sensitive to meropenem,0
+B. cepacia sensitive to cotrimoxazole,0
+B. cepacia sensitive to levofloxacin,0
+no granuloma,0
+no necrosis,0
+no growth of fungal elements,0
+cotrimoxazole added to therapy,0
+shock improved,120
+hypoxemia improved,120
+febrile (40°C) during first 3 days,72
+afebrile by day 10,240
+meropenem stopped after 7 days,168
+vancomycin stopped after 7 days,168
+cotrimoxazole continued for 14 days,336
+transferred to ward,360
+discharged home,360

@@ -1,0 +1,69 @@
+event,time
+73 years old,0
+male,0
+acute on chronic COPD exacerbation,0
+Type 2 respiratory failure,0
+noninvasive ventilation failure,-12
+profound acidemia,0
+pH 7.057,0
+base excess -7.5,0
+PCO2 11.23 kPa,0
+PaO2 13.7 kPa,0
+FiO2 50%,0
+P:F ratio 200,0
+high inflammatory markers,0
+TLC 26 × 109/L,0
+procalcitonin 11.2 mcg/L,0
+CRP 104 mg/L,0
+renal function worsening,0
+oliguria,0
+antibiotics started,0
+noradrenaline infusion started,0
+mean arterial pressure target 70 mm Hg,0
+continuous veno-venous hemodiafiltration,0
+negative fluid balance 1.5 L,0
+pulse-induced contour cardiac output monitoring,0
+persistent acidosis after 12 hours,12
+PaCO2 10.86 kPa,12
+non-invasive ventilation continued,12
+clear bilateral chest auscultation,12
+increased vasopressor requirements,12
+ECCO2R instituted,12
+pump flow 0.56 L/min,12
+sweep flow 10 L/min,12
+sweep FiO2 1.0,12
+CO2 removal 75-100 ml/min,12
+aPTT ratio target 1.2-1.6,12
+platelet monitoring,12
+fibrinogen monitoring,12
+hemoglobin monitoring,12
+sweep flow adjustments based on CO2,12
+heparin avoided initially,12
+pH improved to 7.30,12
+PaCO2 normalized to 6.5 kPa,12
+BiPAP continued,12
+SpO2 >90% target,12
+pH >7.3 target,12
+RR <30 target,12
+TLC 16 × 109/L,12
+CRP 46 mg/L,12
+procalcitonin 0.9 mcg/L,12
+enteral nutrition continued,12
+CVVHDF discontinued,12
+sepsis relapse,240
+acidosis recurrence,240
+increased work of breathing,240
+sweep flow adjustments during sepsis,240
+avoided increased sedation,240
+avoided paralyzing agents,240
+ECCO2R discontinued after 20 days,480
+sweep flow gradual reduction,480
+sweep flow 4 L/min,480
+CO2 removal 80 ml/min,480
+sweep flow 1 L/min,480
+CO2 removal 45 ml/min,480
+critical illness related weakness,480
+prolonged weaning,480
+extensive physiotherapy,480
+successful decannulation,480
+discharged from ICU,480

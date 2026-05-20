@@ -1,0 +1,131 @@
+event,time
+14 years old,0
+female,0
+nausea,-72
+vomiting,-72
+abdominal pain,-72
+admitted to local clinic,0
+acute viral gastroenteritis,0
+hyperglycemia,0
+glucose 500 mg/dL,0
+ketonuria,0
+DKA,0
+transferred to emergency unit,0
+worsening mental status,0
+intravenous fluid,0
+short-acting insulin,0
+lethargic,0
+severely dehydrated,0
+drowsy,0
+Glasgow Coma Scale 14,0
+tachycardia,0
+124 beats/min,0
+tachypnea,0
+40 breaths/min,0
+hypothermia,0
+35°C,0
+blood pressure 106/56 mmHg,0
+body weight 48 kg,0
+body mass index 20 kg/m²,0
+chest x-ray no specific abnormalities,0
+abdominal x-ray no specific abnormalities,0
+venous blood gas pH 6.92,0
+PCO2 27 mmHg,0
+PO2 57 mmHg,0
+HCO3 5.6 mmol/L,0
+glucose 569 mg/dL,0
+corrected sodium 133 mmol/L,0
+potassium 3.2 mmol/L,0
+corrected calcium 8.5 mg/dL,0
+phosphate 2.1 mg/dL,0
+blood urea nitrogen 25.9 mg/dL,0
+creatinine 0.57 mg/dL,0
+lactate 0.6 mmol/L,0
+urinalysis ketones present,0
+urinalysis glucose present,0
+C-peptide 0.26 ng/mL,0
+glycosylated hemoglobin 15.7%,0
+antiglutamic acid decarboxylase positive,0
+anti-islet cell antibody negative,0
+anti-insulin antibody negative,0
+type 1 diabetes,0
+severe DKA,0
+fluid therapy 0.45% saline,0
+continuous intravenous insulin infusion 0.05 unit/kg/hr,0
+hourly neurological evaluations,0
+drowsy persisted,0
+no signs of cerebral edema,0
+generalized tonic seizure,4
+bradycardia,4
+cardiopulmonary arrest,4
+external cardiac massage,4
+epinephrine injection,4
+spontaneous circulation resumed,4
+metabolic acidosis,4
+hypophosphatemia 1.2 mg/dL,4
+pH 7.05,4
+PCO2 23.6 mmHg,4
+PO2 181 mmHg,4
+HCO3 6.7 mmol/L,4
+glucose 517 mg/dL,4
+corrected sodium 136 mmol/L,4
+potassium 3.2 mmol/L,4
+corrected calcium 8.8 mg/dL,4
+K2HPO4,4
+KCl,4
+phosphorus 1.9 mEq/kg/day,4
+brain CT scan no brain edema,4
+brain CT scan no intracranial pathology,4
+dexamethasone,4
+mannitol,4
+intensive care unit admission,4
+drowsy persisted,4
+GCS 14,4
+vital signs stable,4
+stuporous,16
+GCS 9,16
+shallow respiration,16
+weak respiration,16
+slow respiration,16
+endotracheal intubation,16
+respiratory acidosis,16
+severe hypophosphatemia 0.4 mg/dL,16
+pH 6.80,16
+PCO2 92.9 mmHg,16
+PO2 160.3 mmHg,16
+HCO3 14.6 mmol/L,16
+glucose 375 mg/dL,16
+corrected sodium 142 mmol/L,16
+potassium 2.8 mmol/L,16
+phosphate 0.4 mg/dL,16
+lactate 0.6 mmol/L,16
+phosphate replacement 3.8 mEq/kg/day,16
+repeat brain CT no specific findings,16
+electrolyte normalization,48
+pH normalization,48
+mechanical ventilation required,48
+hypophosphatemia 1.4 mg/dL,48
+phosphate replacement 5.7 mEq/kg/day,48
+fluid replacement with potassium,48
+fluid replacement with phosphate,48
+continuous intravenous insulin,48
+vital signs stable,72
+self-respiration recovered,72
+arterial blood gas pH 7.39,72
+PCO2 25.2 mmHg,72
+PO2 139.3 mmHg,72
+HCO3 15.6 mmol/L,72
+plasma phosphate 3.5 mg/dL,72
+weaning from inotropic support,72
+weaning from ventilator support,72
+transferred to general ward,96
+oral feeding,96
+multiple subcutaneous insulin injections,96
+phosphate supplementation stopped,96
+electroencephalogram no epileptiform discharges,96
+electroencephalogram no slow waves,96
+discharged,240
+no neurologic complications,240
+followed up regularly,240
+no respiratory problems,240
+no further phosphate supplementation,240

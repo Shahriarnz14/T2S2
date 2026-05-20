@@ -1,0 +1,73 @@
+event,time
+56-year-old male,0\
+admitted to intensive care unit,0\
+intermittent chest tightness,-168\
+shortness of breath,-168\
+chest tightness,-168\
+shortness of breath,-168\
+symptoms worsened,-24\
+tremor of the hands,-24\
+loss of appetite,-24\
+general malaise,-24\
+loss of consciousness,-24\
+no history of alcohol consumption,0\
+no drug abuse,0\
+no high-risk behaviors,0\
+denies hypertension,0\
+denies diabetes,0\
+denies heart diseases,0\
+abdomen soft,0\
+right upper quadrant tenderness,0\
+no rebound pain,0\
+no muscle tension,0\
+body temperature 39.2 °C,0\
+blood pressure 98/56 mmHg,0\
+heart rate 84 beats per minute,0\
+respiratory rate 26 breaths per minute,0\
+white blood cell count 22.22×10^9/L,0\
+neutrophil percentage 91.7%,0\
+platelet count 26 ×10^9/L,0\
+pH 7.28,0\
+PCO2 27 mmHg,0\
+PO2 64 mmHg,0\
+HCO3- 12.7 mmol/L,0\
+BE -12.5 mmol/L,0\
+C-reactive protein >90 mg/L,0\
+interleukin 6 >5000 pg/mL,0\
+procalcitonin >100 ng/mL,0\
+myoglobin >2000 ug/L,0\
+cranial CT: posterior nasopharynx soft tissue thickening,0\
+thoracic CT: bilateral pneumonia,0\
+thoracic CT: lung air sac in right apex,0\
+thoracic CT: multiple bilateral lung nodules,0\
+thoracic CT: bilateral pleural effusion,0\
+abdominal CT: lower density foci in right liver lobe,0\
+abdominal CT: mixed density in liver segment IV,0\
+needle-like high-density shadow in liver (missed initially),0\
+brown gastric tube drainage,0\
+presumed fishbone ingestion,0\
+history of eating fish before onset,0\
+diagnosed with PLA,0\
+severe pneumonia,0\
+acute respiratory failure,0\
+septic shock,0\
+anti-inflammatory therapy,0\
+electrolyte correction,0\
+nutritional support,0\
+transferred to general ward,192\
+recurrent fever,192\
+persistent inflammatory index,192\
+repeat abdominal CT showing combined density,192\
+laparoscopic exploration,216\
+dense pylorus-hepatic hilum adhesions,216\
+liver swelling at ligamentum teres,216\
+foreign body (fishbone) found,216\
+abscess cavity incised and drained,216\
+drainage tube placed,216\
+postoperative recovery smooth,240\
+reddish drainage fluid observed,240\
+inflammatory indexes decreased,312\
+drainage tube removed,312\
+discharged,336\
+follow-up at 2 weeks,11760\
+follow-up at 2 months,14640\

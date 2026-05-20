@@ -1,0 +1,77 @@
+event,time
+65 years old ,0.0
+female ,0.0
+liver cirrhosis ,-6720.0
+chronic hepatitis B ,-6720.0
+hepatocellular carcinoma ,0.0
+admitted to the hospital ,0.0
+premedication with glycopyrrolate ,0.0
+general anesthesia induced ,0.0
+intubated and ventilated mechanically ,0.0
+monitored by electrocardiography ,0.0
+monitored by arterial blood pressure ,0.0
+monitored by central venous pressure ,0.0
+monitored by SpO2 ,0.0
+stable vital signs ,0.0
+hepatectomy started ,0.0
+CUSA used ,0.0
+sudden decrease in arterial blood pressure ,1.0
+systolic blood pressure <40 mmHg ,1.0
+end-tidal carbon dioxide <26 mmHg ,1.0
+SpO2 <50% ,1.0
+tachycardia ,1.0
+ST elevation on EKG ,1.0
+resuscitation with colloid and catecholamines ,1.0
+intraoperative ultrasonography ,1.0
+massive air emboli in left and right heart ,1.0
+diagnosed with VAE and PAE ,1.0
+arterial blood gas analysis ,1.0
+catecholamine administration ,1.17
+systolic blood pressure maintained ,1.17
+heart rate maintained ,1.17
+central venous pressure maintained ,1.17
+end-tidal carbon dioxide restored ,1.17
+ABGA at 30 minutes after episode ,1.5
+norepinephrine infusion continued ,1.5
+fluid resuscitation continued ,1.5
+air emboli in left heart disappeared ,2.17
+hepatectomy restarted ,2.17
+hepatectomy completed ,5.0
+mechanical ventilation ,5.0
+intensive care unit ,5.0
+intubated ,5.0
+ventilated mechanically ,5.0
+responded to intense pain ,5.0
+systolic pressure maintained ,5.0
+norepinephrine infusion ,5.0
+postoperative laboratory findings ,5.0
+abnormal PT/PTT ,5.0
+abnormal fibrinogen ,5.0
+abnormal d-dimer ,5.0
+abnormal antithrombin III ,5.0
+abnormal CK-MB ,5.0
+abnormal troponin-T ,5.0
+postoperative EKG ,5.0
+ST elevation ,5.0
+POD 1 ,24.0
+EKG findings recovered ,24.0
+trans-thoracic echocardiogram ,24.0
+vital signs stable ,24.0
+norepinephrine infusion tapered out ,24.0
+POD 5 ,120.0
+mental status unchanged ,120.0
+brain CT ,120.0
+brain MRI ,120.0
+multiple acute cerebral infarctions ,120.0
+POD 11 ,264.0
+weaned to spontaneous ventilation ,264.0
+extubated ,264.0
+POD 15 ,360.0
+vital signs unstable ,360.0
+intravenous administration of catecholamines ,360.0
+panperitonitis confirmed ,360.0
+gram (+) cocci on peritoneal culture ,360.0
+POD 31 ,744.0
+cardiac arrest ,744.0
+septic shock ,744.0
+expired ,744.0

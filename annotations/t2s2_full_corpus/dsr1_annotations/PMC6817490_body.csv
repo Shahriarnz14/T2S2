@@ -1,0 +1,69 @@
+event,time
+60 years old,0
+male,0
+admitted to the emergency room,0
+severe epigastric dilation,0
+stomachache,0
+fever,0
+localized epigastric pain,-48
+vomiting,-12
+abdominal pain spread to entire stomach,-12
+high fever of 39.5°C,-12
+endoscopic biliary stenting operation,-336
+obstructive jaundice,-336
+unresectable pancreatic cancer,-336
+serum total bilirubin (TBIL) decreased from 160.7 μmol/L to 46.2 μmol/L,-336
+direct bilirubin (DBIL) decreased from 124 μmol/L to 37.9 μmol/L,-336
+blood pressure 95/65 mmHg,0
+pulse 110 bpm,0
+abdominal distention,0
+hepatomegaly,0
+liver span 2 cm below right costal margin,0
+epigastric tenderness,0
+mild rebounding pain,0
+almost no gurgling sound,0
+pancreatic cancer,0
+excluded pancreatitis,0
+excluded cholangiolitis,0
+excluded retrograde type after stenting,0
+excluded stent dislocation,0
+excluded stent reobstruction,0
+abdominal CT scan,0
+irregular gas-containing lesions in liver,0
+liver parenchymal moth-eaten destruction,0
+pneumatized bile duct,0
+no obvious inflammation around,0
+stent in common bile duct without obstruction,0
+infection originated from intrahepatic duct,0
+deteriorated with adjacent parenchymal damage,0
+aerated lumens communicated with bile ducts,0
+increased WBC,0
+decreased Hgb,0
+decreased PLT,0
+prolonged PT,0
+elevated INR,0
+prolonged APTT,0
+elevated D-Dimer,0
+elevated TnI,0
+elevated TnT,0
+elevated CK-MB,0
+elevated BNP,0
+elevated ALT,0
+elevated AST,0
+elevated LDH,0
+elevated TBIL,0
+elevated DBIL,0
+elevated Cre,0
+elevated BUN,0
+decreased ALB,0
+diagnosed with severe intrahepatic infection,0
+"multiorgan deficiency involving hepatic, renal, cardiac injuries",0
+coagulopathy,0
+treated with biapenem 0.3 g Q12H,0
+treated with ornidazole 100 mg Q12H,0
+vigorous fluid resuscitation,0
+blood pressure falling,10
+inotropic support with norepinephrine,10
+clinical condition deteriorated with multiorgan failure,20
+succumbed to sudden cardiac arrest,20
+blood culture positive for Clostridium perfringens,48

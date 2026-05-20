@@ -1,0 +1,116 @@
+event,time
+80-year-old,0
+woman,0
+chronic hepatitis B virus infection,0
+arterial hypertension,-2190
+dyslipidemia,-2190
+type 2 diabetes mellitus,-2190
+ischemic cardiomyopathy with preserved ejection fraction,-2190
+progressive fatigue,-2160
+malaise,-2160
+anorexia,-2160
+cough with blood-streaked sputum,-840
+progressive peripheral edema,-840
+denied fever,-840
+denied weight loss,-840
+denied arthralgia,-840
+denied skin rash,-840
+multifocal pneumonia,0
+acute kidney injury,0
+serum creatinine 5.69 mg/dL,0
+hemoglobin 7.6 g/dL,0
+admitted to intensive care unit (level 2),0
+intravenous fluid administration,0
+empiric amoxicillin-clavulanate,0
+azithromycin,0
+switched to piperacillin-tazobactam,48
+elevated erythrocyte sedimentation rate,0
+negative ANCA,0
+negative anti-GBM antibody,0
+negative antistreptolysin O antibodies,0
+normal C3,0
+normal C4,0
+chronic HBV infection,0
+negative anti-HCV,0
+negative HIV,0
+microscopic hematuria,0
+subnephrotic proteinuria,0
+computed tomography of chest and abdomen,0
+bilateral nodular infiltrates,0
+normal sized kidneys,0
+no hydronephrosis,0
+hemoptysis,0
+bronchoscopy,0
+bronchoalveolar lavage,0
+excluded bacterial infection,0
+excluded mycobacterial infection,0
+excluded fungal infection,0
+cytologic analysis showed alveolar macrophages,0
+polymorphonuclear cells,0
+no hemosiderin-laden macrophages,0
+worsening renal function,0
+transferred to our hospital,0
+renal replacement therapy,0
+pale,0
+afebrile,0
+blood pressure 130/70 mmHg,0
+pulse rate 87 beats/min,0
+tachypneic,0
+oxygen saturation 94% on 2 L/min nasal cannula,0
+fine crackles in lower two-thirds of bilateral hemithorax,0
+peripheral edema,0
+no skin rash,0
+hemoglobin 8 g/dL,24
+white blood cell count 13.2 ×10^9/L,24
+C-reactive protein 79.8 mg/L,24
+erythrocyte sedimentation rate 66 mm/h,24
+serum creatinine 7.3 mg/dL,24
+blood urea nitrogen 197 mg/dL,24
+"HBV viral load 337,600 IU/mL",24
+normal platelet count,24
+normal coagulation tests,24
+normal serum bilirubin,24
+normal aspartate aminotransferases,24
+normal alanine aminotransferases,24
+normal albumin,24
+normal total serum protein,24
+no monoclonal peak,24
+urinalysis 25-50 red blood cells/high-power field,24
+urinary protein 1.46 g/24h,24
+chest X-ray diffuse nodular infiltrate,24
+suspected diffuse alveolar hemorrhage,24
+suspected pulmonary-renal syndrome,24
+MPO-ANCA 121.1 U/mL,48
+PR3-ANCA 312.6 U/mL,48
+anti-GBM antibody 202 U,48
+rheumatoid factor 26 IU/mL,48
+normal C3,48
+normal C4,48
+negative antinuclear antibody,48
+negative cryoglobulins,48
+negative anti-dsDNA,48
+intravenous high-dose methylprednisolone,48
+oral prednisolone 60 mg/day,48
+pulses of intravenous cyclophosphamide,48
+plasma exchange sessions,48
+entecavir 0.5 mg weekly,48
+renal biopsy,144
+cellular crescents in 57% glomeruli,144
+focal fibrinoid necrosis,144
+mild interstitial fibrosis,144
+moderate inflammatory infiltrate,144
+no vasculitis,144
+linear deposition of immunoglobulin G along GBM,144
+improvement of hypoxemia,480
+no recurrence of cough,480
+no recurrence of blood-streaked sputum,480
+renal function did not improve,480
+chest CT scan resolution of pulmonary infiltrates,480
+discharged,816
+dialysis-dependent,816
+no relapse of diffuse alveolar hemorrhage,16320
+ANCA negative,16320
+anti-GBM antibody negative,16320
+HBV viral load undetectable,4320
+normal liver morphology,16320
+liver stiffness F0-F1,16320

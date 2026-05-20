@@ -1,0 +1,114 @@
+Learning points
+
+SARS-CoV-2-induced cytokine storm may result in acute heart failure due to Takotsubo syndrome, sepsis-induced cardiomyopathy, viral lymphocytic myocarditis, or acute coronary syndrome
+
+Dysregulation of interleukin-6 (IL-6) and related immunomodulatory chemokines, as seen in SARS-CoV-2-induced cytokine storm, is associated with myocardial injury and impaired contractility
+
+Tocilizumab, a humanized monoclonal antibody against IL-6, may be an effective treatment of acute heart failure in patients with SARS-CoV-2-induced cytokine storm
+
+Introduction
+
+Cytokine storm, the abrupt onset of systemic hyperinflammation in the most critically ill patients infected by SARS-CoV-2, is associated with high mortality.1 The pathophysiology of SARS-CoV-2-induced cytokine storm involves high expression of interleukin-6 (IL-6), which activates hepatocyte synthesis of acute-phase reactants.2 A cardioprotective proinflammatory cytokine in the acute setting, IL-6 stimulates immune cells to prevent myocardial injury from oxidative stress and apoptosis, though marked increases result in dysregulation.3 IL-6 blockade with tocilizumab may be beneficial for the treatment of acute heart failure associated with SARS-CoV-2-induced cytokine storm.
+
+Timeline
+
+Date	Events	
+28 March 2020	Patient with a history of obesity, type 2 diabetes mellitus, hypertension, hyperlipidaemia, and transient ischaemic attack presented with progressively worsening fever, dry cough, and exertional dyspnoea over a 1-week timespan	
+31 March 2020	Patient is advised by her general practitioner to go to the hospital emergency room after she is found to be hypoxic during a clinic visit. Chest imaging revealed bilateral lung ground-glass opacities. Nasopharyngeal swab COVID-19 PCR testing returned positive for SARS-CoV-2	
+1 April 2020	Patient is enrolled in US Clinical Trial NCT04292899 Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734) in Participants with Severe Coronavirus Disease (COVID-19), receiving 7 out of 10 doses of the medication. Patient also received an empiric 7-day course of ceftriaxone and azithromycin for community-acquired pneumonia	
+7 April 2020	Patient decompensated with shock and multiorgan system failure, including acute heart failure, necessitating emergent rapid sequence intubation and transfer to the medical intensive care unit. Transthoracic echocardiography (TTE) showed severe biventricular failure with a left ventricular ejection fraction (LVEF) of 25%	
+8 April 2020	Patient received a 400 mg i.v. dose of tocilizumab in addition to supportive vasoactive medications for shock related to cytokine storm	
+10 April 2020	Patient experiences significant clinical improvement. TTE demonstrated myocardial recovery with LVEF of 64%	
+
+Case presentation
+
+A 65-year-old woman presented to the emergency room for evaluation of progressively worsening fever, cough, and shortness of breath over 1 week. Her past medical history was notable for obesity, type 2 diabetes mellitus, hypertension, hyperlipidaemia, transient ischaemic attack, and left-sided breast cancer in remission after mastectomy and adjuvant docetaxel and cyclophosphamide. She was seen by her general practitioner earlier the same day and recommended to go to the hospital after being found to be hypoxemic with an oxygen saturation of 87% on room air. A chest computed tomography (CT) 1 day previously demonstrated bilateral ground-glass opacities. Medications on admission included: aspirin 81 mg daily, losartan-hydrochlorothiazide 50–12.5 mg daily, simvastatin 80 mg nightly, levothyroxine 100 μg daily, omeprazole 40 mg daily, metformin 500 mg twice daily, and liraglutide 1.8 mg daily injection.
+
+On admission, she had a temperature of 36.1°C, blood pressure 107/62 mmHg, and heart rate 83 b.p.m. Physical exam revealed diminished breath sounds at lung bases. Chest X-ray demonstrated bilateral infiltrates suggestive of pneumonitis. Nasopharyngeal swab confirmed SARS-CoV-2 positivity. The patient was admitted to a specialized COVID-19 unit and initiated on treatment with remdesivir per clinical trial and empiric antibiotics for community-acquired pneumonia.
+
+On the seventh day of hospitalization (2 weeks after initial symptom onset), the patient rapidly deteriorated into multisystem organ failure, comprising acute biventricular heart failure, acute respiratory distress syndrome, acute kidney injury [estimated glomerular filtration rate (eGFR) 26 mL/min/1.73 m2], and ischaemic hepatitis with markedly elevated inflammatory markers, concerning for cytokine storm (Table 1). The patient underwent emergent rapid-sequence intubation and was transferred to the medical intensive care unit (ICU).
+
+Table 1 Laboratory studies at baseline and 48 h after tocilizumab
+
+Laboratory test	Baseline	After tocilizumab	Reference range	
+Sodium	138	141	135–148 mEq/L	
+Potassium	5.7	3.9	3.5–5.0 mEq/L	
+Chloride	100	102	98–112 mEq/L	
+Bicarbonate	16	24	24–31 mEq/L	
+Blood urea nitrogen	16	48	8–23 mg/dL	
+Creatinine	0.94	1.98	0.50–0.90 mg/dL	
+Anion gap	22	15	7–15 mEq/L	
+Lactic acid	4.4	1.5	0.5–2.2 mmol/L	
+White blood cell count	28.76	11.84	4.50–11.00 × 103/μL	
+Red blood cell count	4.87	3.13	4.20–5.50 × 109/μL	
+Haemoglobin	14.1	8.9	12.0–16.0 g/dL	
+Haematocrit	45.2	28.2	37.0–47.0%	
+Platelet count	300	124	150–400 × 103/μL	
+Prothrombin time	20.4	17.5	11.5–14.5 s	
+International normalized ratio	1.7	1.4	0.8-1.1	
+Partial thromboplastin time	41.6	25	23.0–36.0 s	
+D-dimer	>20.00	5.5	0–0.40 μg/mL	
+Fibrinogen	740	472	200–450 mg/dL	
+Ferritin	35 461	11 062	13–150 ng/mL	
+C-reactive protein	36.82	12.65	0–0.50 mg/dL	
+Triglycerides	122	270	0–150 mg/dL	
+Alkaline phosphatase	165	124	35–104 U/L	
+Aspartate aminotransferase	576	678	5.0–50 U/L	
+Alanine aminotransferase	1495	719	10.0–35 U/L	
+Total bilirubin	0.6	0.6	0–1.2 U/L	
+Lactate dehydrogenase	3735	1292	87–225 U/L	
+Interleukin-6	846	106	0–5 pg/mL	
+Brain natriuretic peptide	401	166	0–100 pg/mL	
+Troponin-I (first)	1.058	Not Applicable	0–0.040 ng/mL	
+Troponin-I (second)	Not Applicable	1.682	0–0.040 ng/mL	
+Troponin-I (third)	Not Applicable	1.162	0–0.040 ng/mL	
+
+A non-contrast chest CT confirmed ground-glass opacities (Figure 1). Electrocardiogram (ECG) showed new-onset T-wave inversions in leads V1–V2, and QTc 457 ms (Figure 2). High-sensitivity troponin I (TnI) trended 1.058–1.966–0.519 ng/mL (normal value <0.04). Brain natriuretic peptide (BNP) was 401 pg/mL (normal value <100). Transthoracic echocardiogram (TTE) showed severe globally depressed left ventricular systolic function [left ventricular ejection fraction (LVEF) 25%] and right ventricular (RV) systolic function with paradoxical septal motion (Figure 3; Supplementary material online, Videos 1 and 2).
+
+Figure 1 Non-contrast chest computed tomography scan demonstrating bilateral ground-glass opacities.
+
+Figure 2 Electrocardiogram before and after new-onset acute decompensated heart failure. (A) Electrocardiogram before development of acute decompensated heart failure showing sinus rhythm with premature supraventricular complexes. (B) Electrocardiogram during cardiogenic shock showing sinus tachycardia with T-wave inversion in V1–V3 and a shift in the QRS axis compared with the earlier study.
+
+Figure 3 Transthoracic echocardiography two-dimensional images during acute biventricular heart failure and 2 days after treatment with tocilizumab, dobutamine, norepinephrine, vasopressin, and inhaled epoprostenol. (A) Transthoracic echocardiography apical four-chamber view: severe global right ventricular and left ventricular hypokinesis with paradoxical septal motion and left ventricular ejection fraction of 25%. (B) Transthoracic echocardiography parasternal long-axis view 2 days after tocilizumab administration: complete recovery of left ventricular systolic function with ejection fraction of 64%, grade 2 diastolic dysfunction, and small circumferential pericardial effusion. (C) Transthoracic echocardiography apical four-chamber view 2 days after tocilizumab administration: mild right ventricular systolic dysfunction, much improved from the prior study.
+
+The differential diagnosis of new-onset acute biventricular heart failure included sepsis-induced cardiomyopathy, Takotsubo syndrome, viral lymphocytic myocarditis, and acute coronary syndrome. Though beneficial for further differentiation of shock, a Swan–Ganz catheter was not placed for invasive haemodynamic assessment due to clinical instability, and the risk of exposing healthcare personnel to infection.4 Due to haemodynamic instability and an acute kidney injury, cardiac catheterization or ECG-gated CT angiography for evaluation of coronary artery disease or pulmonary embolism was not feasible. Cardiac magnetic resonance (CMR) or endomyocardial biopsy (EMB) for further tissue characterization was also not possible for similar reasons.
+
+The patient was treated with norepinephrine, vasopressin, dobutamine, sodium bicarbonate, inhaled epoprostenol, hydrocortisone, and a 400 mg dose of tocilizumab. Tocilizumab, a humanized monoclonal antibody against soluble and transmembrane IL-6 receptor, was provided for SARS-CoV-2-associated cytokine storm.5 Norepinephrine, vasopressin, and hydrocortisone were used for distributive shock refractory to fluid resuscitation. Dobutamine was used for inotropy, and inhaled epoprostenol facilitated RV unloading, as a component of the severe RV dysfunction appeared to be related to acute respiratory distress syndrome (ARDS). Sodium bicarbonate was provided for severe acidosis. Propofol, fentanyl, and cisatracurium were used to improve ventilator synchrony in severe ARDS. Veno-arterial extracorporeal membrane oxygenation (ECMO) was considered, though deemed of limited utility given the imminent risk of mortality with multiorgan system failure.
+
+Within 24 h of the above interventions, the patient experienced significant clinical improvement with down-trending inflammatory markers (Table 1; Figure 4), titration off norepinephrine, vasopressin, dobutamine, and sodium bicarbonate infusions, and cessation of neuromuscular blockade. Continuous cardiac monitoring did not reveal any significant dysrhythmia. Repeat TTE 48 h after ICU admission demonstrated significant myocardial recovery, showing an LVEF of 64%, mild RV dysfunction, Grade 2 diastolic dysfunction, and a small circumferential pericardial effusion (Figure 3; Supplementary material online, Videos 3 and 4). Eventually undergoing tracheostomy before subsequent discharge from the ICU and hospital, the patient is currently undergoing a prolonged ventilatory wean at a long-term acute care facility.
+
+Figure 4 Inflammatory markers at baseline and after administration of tocilizumab for COVID-19-induced cytokine storm.
+
+Discussion
+
+We report the first case of a patient with cardiogenic shock associated with SARS-CoV-2-induced cytokine storm, most probably sepsis-induced cardiomyopathy or Takotsubo syndrome, who survived without ECMO or mechanical circulatory support (MCS) after treatment with tocilizumab and supportive vasoactive medications.6–9
+
+Sepsis-induced cardiomyopathy and Takotsubo syndrome share similar pathophysiology with the up-regulation of IL-6. In vitro models of IL-6 demonstrated direct negative inotropic effects on papillary muscle function and down-regulation of sarcoplasmic reticulum Ca2+ ATPase (SERCA2) in cardiomyocytes, and increased IL-6 has been shown to reduce myocardial contractility in vivo.10,11 The systemic up-regulation of proinflammatory cytokines such as IL-6 in SARS-CoV-2-induced cytokine storm may lead to cardiac infiltration by leucocytes and macrophages, resulting in a ‘myocardial stunning’, manifested as a transient depression of global systolic function. The potential confounding of other medications and the most effective dose of tocilizumab are questions that remain in this case. However, the phase III randomized clinical trial COVACTA for the evaluation of the safety and efficacy of tocilizumab in patients with severe COVID-19 pneumonia aims to answer the latter question.12
+
+Additionally, the patient met many of the Heart Failure Association diagnostic criteria for Takotsubo syndrome, with an identifiable physical stressful trigger in SARS-CoV-2, wall motion abnormalities extending beyond a single epicardial vascular distribution, new and reversible ECG abnormalities, and a relatively small elevation in TnI.13 Though the degree of acute biventricular heart failure and shock exceeded the level of BNP elevation in our patient, BNP levels do not necessarily correlate with cardiac haemodynamic indices in patients with Takotsubo syndrome and may be <400 pg/mL.14
+
+Though no evaluation of coronary anatomy is a limitation, acute coronary syndrome (ACS) was excluded on clinical grounds as the underlying aetiology of acute biventricular heart failure due to the rapid recovery of LVEF in the absence of revascularization. Likewise, viral lymphocytic myocarditis was deemed less plausible given the discrepancy in cardiac biomarker elevation to the extent of myocardial dysfunction and rapid myocardial recovery within 48 h. A case of acute lymphocytic myocarditis associated with SARS-CoV-2 mimicking reverse Takotsubo syndrome has been reported recently, with myocardial recovery achieved at 7 days, though notably SARS-CoV-2 genomic testing of biopsied cardiomyocytes was negative and the patient improved in cardiac function before receiving any therapy directed against SARS-CoV-2.15 Though CMR and EMB could aid diagnosis, our patient was too haemodynamically unstable to undergo either test during the time at which either study would be of the most benefit.
+
+In conclusion, we report the first case of acute biventricular heart failure complicated by cardiogenic shock associated with SARS-CoV-2-induced cytokine storm that resolved with tocilizumab and supportive medications alone, and without the assistance of ECMO or MCS. Tocilizumab may be considered as a therapeutic option for patients with cardiogenic shock in the setting of SARS-CoV-2-induced cytokine storm, as IL-6 blockade may revive myocardium stunned from sepsis-induced cardiomyopathy or Takotsubo syndrome.
+
+Lead author biography
+
+Kalyan Raghavendra Chitturi is finishing residency training at Houston Methodist Hospital and will be joining the University of Missouri for cardiology fellowship. He completed medical school at the University of North Texas Health Science Center and undergraduate studies at the University of Michigan - Ann Arbor. His research interests include cardiovascular outcomes in cardio-oncology, heart failure, and structural heart disease.
+
+Supplementary material
+
+Supplementary material is available at European Heart Journal – Case Reports online
+
+Supplementary Material
+
+ytaa188_Supplementary_Data Click here for additional data file.
+
+Acknowledgements
+
+We thank all the nurses, physicians, and intensive care staff at Houston Methodist for their tireless efforts caring for critically ill patients during the global pandemic.
+
+Slide sets: A fully edited slide set detailing this case and suitable for local presentation is available online as Supplementary data.
+
+Consent: The authors confirm that written consent for submission and publication of this case report including images and associated text has been obtained from the patient in line with COPE guidance.
+
+Conflict of interest: none declared.

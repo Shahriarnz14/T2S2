@@ -1,0 +1,89 @@
+event,time
+2 months old,0
+boy,0
+referred to the emergency department,0
+mild cough,-24
+fever (37.8°C),-24
+malaise,-24
+close contact with brother with cold,-24
+born very preterm (31 weeks + 5 days),-672
+low birth weight (1700 grams),-672
+hospitalized for 25 days after birth,-672
+neonatal pneumonia,-672
+coagulation dysfunction,-672
+"intracranial hemorrhage (grade I, absorption phase)",-672
+neonatal pathological jaundice,-672
+vaccinated with Bacillus Calmette-Guerin,-672
+mask oxygen inhalation,0
+piperacillin tazobactam,0
+ambroxol,0
+budesonide + ipratropium bromide atomization,0
+clinical symptoms deteriorated rapidly,0
+tachypnea,0
+low oxygen saturation with oxygen mask,0
+transferred to Pediatric Intensive Care Unit (PICU),0
+body temperature 37.3°C,0
+heart rate 172 beats per minute,0
+respiratory rate 56 breaths per minute,0
+blood pressure 96/50 mmHg,0
+puffy nose,0
+triple concave signs,0
+mild cyanosis of the lips,0
+"Glasgow Coma Score 13 (E4, V3, M6)",0
+oxygen saturation 93% with oxygen mask,0
+pulmonary auscultation rough breath sounds,0
+wheezing in both lungs,0
+umbilical hernia,0
+anterior fontanelle bulge,0
+low response,0
+screaming after stimulation,0
+"chest CT scan multiple plaques, streaks, solid shadows, indistinct reticular shadows in both lungs",0
+"brain MRI bilateral frontal, parietal, temporal extracranial spaces slightly wider",0
+echocardiography no abnormalities,0
+hemoglobin 84 g/L,0
+red blood cell count 3.05 × 10^12/L,0
+white blood cell count 6.5 × 10^9/L,0
+neutrophil count 3.59 × 10^9/L,0
+lymphocyte count 2.16 × 10^9/L,0
+platelet count 280 × 10^9/L,0
+liver function tests normal,0
+kidney function tests normal,0
+respiratory failure,0
+severe pneumonia,0
+septic shock,0
+encephalopathy,0
+meropenem,0
+vancomycin,0
+levetiracetam,0
+deterioration after 3 hours of PICU admission,3
+worsening dyspnea,3
+groans,3
+gray face,3
+cold limbs,3
+speckles all over the body,3
+bilateral crackles on lung auscultation,3
+capillary refill time 5 seconds,3
+oxygen saturation dropped to 54%,3
+blood gas analysis lactate 7.07 mmol/L,3
+procalcitonin 14.29 ng/mL,3
+invasive ventilator-assisted ventilation,3
+norepinephrine,3
+mannitol,3
+fructose glycerol,3
+immunoglobulin,3
+fresh frozen plasma,3
+viral nucleic acid from BALF negative for respiratory viruses,0
+"serological tests negative for Mycoplasma pneumonia, Chlamydia trachomatis, cytomegalovirus IgM/IgG",0
+sputum bacterial cultures negative,0
+tuberculin test negative,0
+Bordetella pertussis detected in nasopharyngeal specimen,0
+CSF assay normal,0
+CSF cultures negative,0
+blood m-NGS Bordetella pertussis (62 unique reads),0
+CSF m-NGS Bordetella pertussis (2 unique reads),0
+pertussis confirmed,24
+levofloxacin initiated (15 mg/kg/day for 2 weeks),24
+chest x-ray inflammation gradually absorbed,312
+weaned off mechanical ventilation,312
+discharged,888
+full recovery,888

@@ -1,0 +1,61 @@
+Introduction
+An outbreak of a novel coronavirus disease (COVID-19) was reported in late December 2019 in Wuhan, China, which subsequently infected more than 200 countries worldwide.1,2 This led the World Health Organization to declare COVID-19 a pandemic on March 11, 2020.3 In general, COVID-19 is an acute manageable illness; however, it can be a dangerous disease as well since it has a mortality rate of 2%. The onset of serious illness may lead to death due to major alveolar damage and severe respiratory failure.2,4
+
+As a medical procedure, hemoperfusion was shown to be capable of removing harmful substances.5,6 Moreover, hemoperfusion was found to be an effective means for removing cytokines and reducing their inflammatory effects in other diseases.7
+
+In this paper, we present a report on a COVID-19 patient who underwent hemoperfusion as a supportive treatment, resulting in his clinical improvement.
+
+Case Report
+The patient was a 73-year-old man who had a myocardial infarction (MI) about a month prior to the onset of COVID-19 symptoms. He underwent a percutaneous coronary intervention (PCI) for the MI, and a stent was subsequently inserted into his left circumflex artery. On March 3, he visited the emergency room of a COVID-19 center in a hospital in Isfahan City in Iran with chief complaints of fever and chills. He reported that for several days, he was suffering from anorexia, nausea, and diarrhea. He had a 38.5°C fever and his oxygen saturation level was at 85% at room air. According to the protocol for the COVID-19 epidemic, a high-resolution computed tomography (HRCT) of the chest was performed, indicating the involvement of both lungs manifested as ground-glass opacity (GGO) (Figure 1). He was admitted and transferred to a COVID-19 ward, and the therapeutic regimen for COVID-19, including Tamiflu® (Oseltamivir), hydroxychloroquine, and KALETRA® (lopinavir/ritonavir), and a superinfection battery, including levofloxacin and linezolid, were administered for the patient by an infectious disease specialist.Figure 1 The patient’s first chest high resolution computed tomography (HRCT), axial cuts, shows diffused lung involvement due to COVID-19 infection.
+
+
+
+To confirm the diagnosis, a throat swab sample was analyzed using a molecular test (RT-PCR), and the result was positive for COVID-19.
+
+During the first day of admission, his breathing became harder and his O2 saturation reduced to 94% while using a nasal cannula. During the first two days of admission, his oxygen saturation decreased further over time. Hence, a facial mask and then a non-rebreather mask (NRB) were prescribed for the patient. On the third day of admission, he developed respiratory distress, while his oxygen saturation decreased below 90%, and some impairments of consciousness were observed. Therefore, he was transferred to the intensive care unit (ICU) with suspected superinfection, and meropenem was added to his antibiotic regimen. His impairments of consciousness became more pronounced, and his systolic blood pressure fluctuated between 70 mmHg and 160 mmHg. Moreover, it was difficult to maintain his oxygen saturation over 89%. His status was designated as severe sepsis, and even septic shock. On March 9 (day 6 of admission), he underwent endotracheal intubation, and he was connected to a ventilator with high positive end-expiratory pressure (PEEP) (10–15 cmH2O) with a fraction of inspired oxygen (fiO2) of 100%. Nevertheless, his O2 saturation did not exceed 90%. During ICU hospitalization, his creatinine level increased from 1.2 to 1.7, and an acute kidney damage (stage one) was observed. Thus, a jugular vein access was established by a surgeon for potential future actions.
+
+Interestingly, his symptoms were getting worse in an episodic manner during day and night. His temperature increased to 39°C while he had chills, and he developed tachycardia with up to about 160 beats per minute. Moreover, he developed respiratory distress, O2 saturation drop, and diarrhea. During these episodes, his blood pressure became more unstable. Furthermore, each consequent episode became worse than the one before, where he would experience more severe symptoms.
+
+On the evening of the sixth day of admission, he underwent hemoperfusion (HA230 cartridge, Jafron©) for 4.5 hours due to suspicion of autoimmune dysfunction and cytokine storm. We used Heparin 50 mg/kg (intravenous bolus over 10 minutes) before hemoperfusion, and 15–20 mg/kg/h (intravenous infusion) during hemoperfusion. During hemoperfusion, his symptoms improved significantly and his need for oxygen therapy was reduced. His fever disappeared, while his heart rate and respiratory rate decreased. We report the details of his status on an hour-by-hour basis in Figure 2.Figure 2 The patient’s situation in the course of first hemoperfusion on an hour-by-hour basis in detail.
+
+
+
+On the 7th day of admission, based on the improvement in his clinical status, the medical team decided to perform another hemoperfusion for 6 hours. As a result, his status improved even more, and we were able to reduce mechanical ventilation support. Finally, on day 8 of admission, the patient was extubated, and he was able to breathe independently. His status and detailed laboratory data are reported in Table 1.Table 1 The Patient’s Clinical Situation and Laboratory Data in Detail During Hospitalization
+
+	1st Day	3rd Day	4th Day ICU Admission	5th Day	7th Day 1st Hemoperfusion	8th Day 2nd Hemoperfusion	9th Day	10th Day	11th Day	12th Day	13th Day	
+SPO2	85%	93%	75%	89%	80–98%	94–98%	98%	93–95%	93–96%	93–94%	93–95%	
+Fio2	Room air	Mask	Mask	Mask	0.4–1	0.4–0.5	0.4	Mask	Mask	Mask	Mask	
+T (°C)	37.2	38.5	39.5	38.5	36.5	37.5	36	37	37.1	36.5	37	
+GCS	15	15	13	11	2t (intubated)	9t (intubated)	9t (intubated)	11	14	15	15	
+SOFA	2	2	–	5	9	–	6	5	5	–	4	
+CRP	87	79	–	115	83	–	–	63	32	–	46	
+AST	48			103	59				54		38	
+ALT	27			58	56				70		43	
+ESR (mm/h)	29	29		41	67			54		21	25	
+Alb (g/L)	4.2			2.7	2.2				3.1		2.6	
+IL6					20.7							
+WBC (per CC)	4400	5600	–	7400	4500	–	–	7500	7000	–	6600	
+Lymph	23.2%	22.2%	–	7.2%	5.8%	–	–	4.6%	8.6%	–	16.3%	
+Abbreviations: CRP, C-reactive protein; WBC, white blood cell; Lymph, lymphocytes; SPO2, oxygen saturation; T, highest oral temperature; FiO2, fraction of inspired oxygen; SOFA, Sequential Organ Failure Assessment Score; AST, aspartate transaminase; ALT, alanine transaminase; ESR, erythrocyte sedimentation rate; IL6, interleukin 6; Alb, serum albumin; GCS, Glasgow Coma Scale.
+
+
+
+
+On day 13 of admission, he was discharged with a satisfactory general condition, without fever, and with normal breathing.
+
+It should be noted that he developed fever and decreased oxygen saturation 26 days after discharge. We performed another CT scan, which showed segmental pulmonary thromboembolism. He was administered anticoagulant therapy (Enoxaparin, 60 mg, subcutaneous, every 12 hours for 1 week, followed by Rivaroxaban, 20 mg, once daily), and his condition became stable after 6 days.
+
+Discussion
+Cytokines are an extensive group of relatively small proteins (<40kDa), produced and released for cell signaling purposes.8 Hemophagocytic lymphohistiocytosis (HLH) is characterized by fulminant and lethal hypercytokinemia, accompanied by multiple organ failure, commonly referred to as a cytokine storm.9 Viral infections in adults can cause this clinical status.10 This complication can also develop in patients with sepsis.11 Moreover, cytokine storm can be a probable cause for different regional and global symptoms of infection. In 2003, cytokine storm was found to be consistent with influenza reaction,12 and ultimately with multiple viral, bacterial, and fungal infections.13 However, it is not yet clear whether COVID-19 could be associated with secondary hemophagocytic lymphohistiocytosis.14
+
+Hemoperfusion (HP) was introduced as a medical procedure in the 1960s. Hemoperfusion, as a tool for blood cleansing, has many benefits over other non-selective forms of extracorporeal detoxification (eg, plasmapheresis, and plasma filtration) due to advances in discovering new adsorbents, as well as changes in the initially proposed adsorbents.5 Hemoperfusion was shown to be an effective way for removing cytokines and reducing the side effects of cytokine storm.7 In patients with sepsis and septic shock, hemoperfusion has been shown to stabilize plasma cytokine levels.15 In the COVID-19 pandemic, some studies have shown that there is an association between COVID-19 infection and cytokine storm, which can result in highly challenging situations.16–18
+
+In our case, due to the episodic condition of the patient’s problems and the worsening of his symptoms during these episodes, we considered cytokine storm as a major potential cause for the fluctuation in his status. Moreover, we measured the level of interleukin-6 (which was 20.7, while the normal level is only up to 7), indicating an inflammation phase, which has already been reported in correlation with cytokine storm.19 According to the abovementioned considerations, we decided to perform hemoperfusion for the patient. During the hemoperfusion, his symptoms improved on an hourly basis (Table 1). We calculated the Sequential Organ Failure Assessment (SOFA) score for him, and he had a peak during his hospitalization. However, following the hemoperfusion, his SOFA score decreased significantly (Figure 2). This might be an indication that in COVID-19 patients, cytokine storm may lead to more severe symptoms and increase the mortality rate. Hemoperfusion can be considered as a supportive treatment in critically ill patients to reduce the side effects of hypercytokinemia.
+
+In addition, it is an open question whether there is any association between pulmonary thromboembolism and COVID-19. It is helpful to report such cases and pay attention to their symptoms in order to be able to better prevent them.
+
+Ethical Approval
+Informed consent was obtained from the patient for publication of this case report and accompanying images. This study was approved by the Ethics Committee of the Isfahan University of Medical Sciences (IR.MUI.MED.REC.1399.197).
+
+Disclosure
+The authors report no conflicts of interest in this work.

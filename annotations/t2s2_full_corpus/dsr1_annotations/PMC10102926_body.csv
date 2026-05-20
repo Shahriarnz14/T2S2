@@ -1,0 +1,42 @@
+event,time
+44 year old,0
+obese,0
+female,0
+burn injury (32% total body surface area),0
+inhalation injury,0
+burn injury on mucous membranes of lips,0
+burn injury on mucous membranes of mouth,0
+burn injury on mucous membranes of eyes,0
+edema,0
+endotracheal intubation,0
+spontaneous breathing,0
+symmetrical breathing,0
+respiratory rate 20/minute,0
+SpO2 100%,0
+blood pressure 128/79 mmHg,0
+heart rate 98/minute,0
+warm extremities,0
+capillary refill time <2 seconds,0
+no spontaneous bleeding,0
+head and neck edema,0
+nasogastric tube insertion,0
+brownish fluid from NGT,0
+"leucocytes 28,880 103/µl",0
+blood glucose 242 mg/dL,0
+albumin 2.5 gr/dL,0
+Acinetobacter baumanii in sputum,0
+stress ulcer,0
+leucocytosis,0
+admitted to ICU,0
+percutaneous dilatational tracheostomy (PDT),18
+ventilator use (PSV/CPAP PS 10 Peep 5 trig 3 FiO2 50%),18
+tangential excision,18
+debridement,18
+25% plasbumin transfusion (100 ml for 2 days),0
+ventilator day 5,120
+discharged from ICU after 7 days,168
+moved to normal ward,168
+PDT canulated,168
+discharged after 2 weeks in normal ward,336
+referred back to first hospital,336
+no follow-up for Pseudomonas infection,336

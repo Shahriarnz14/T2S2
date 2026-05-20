@@ -1,0 +1,108 @@
+event,time
+62 years old,0
+female,0
+history of Ph + ALL,0
+diagnosed with acute lymphoblastic leukemia (ALL),-2160
+bone marrow biopsy,-2160
+flow cytometry showing immature B-cell population,-2160
+CD34 expression,-2160
+CD19 expression,-2160
+CD10 expression,-2160
+cytoplasmic CD79a expression,-2160
+TdT expression,-2160
+induction chemotherapy,-2160
+hyper-cyclophosphamide,-2160
+vincristine,-2160
+doxorubicin,-2160
+dexamethasone (CVAD),-2160
+intrathecal methotrexate,-2160
+two cycles,-2160
+nonoliguric acute kidney injury,-2160
+hyper-CVAD therapy discontinued,-2160
+switched to oral dasatinib,-2160
+continuing intrathecal methotrexate,-2160
+presented to emergency department,0
+sudden 10 out of 10 headache,-48
+headache started 2 days prior,-48
+neck pain,-48
+back pain,-48
+low-grade fever,-48
+worsening generalized weakness,-48
+increased difficulty with ambulation,-48
+confusion,-48
+last dose of intrathecal methotrexate,-96
+fever,0
+temperature 101.5°F,0
+tachycardia,0
+normotension,0
+diaphoresis,0
+lethargy,0
+neck stiffness,0
+hemoglobin 6.9 g/dL,0
+transfused with packed red blood cells,0
+white blood cell count 6.8 K/uL,0
+computed tomography head (no acute process),0
+unable to undergo MRI,0
+implanted spinal stimulator,0
+neurology consulted,0
+empiric antimicrobial therapy started,0
+cefepime,0
+vancomycin,0
+ampicillin,0
+prophylactic fluconazole,0
+prophylactic acyclovir,0
+escalated acyclovir dosing,0
+diagnostic lumbar puncture attempted,24
+confusion,24
+clinical deterioration,24
+transferred to ICU,24
+agitation,24
+no longer followed commands,24
+rapid sequence intubation,24
+mechanical ventilation,24
+lumbar puncture performed,24
+CSF granulocytes 24%,24
+CSF lymphocytes 60%,24
+CSF macrophages 3%,24
+CSF cultures no growth,24
+negative HSV PCR,24
+negative VZV PCR,24
+negative Lyme PCR,24
+negative West Nile virus antibodies,24
+negative upper respiratory panel,24
+negative influenza testing,24
+negative SARS-CoV-2 PCR,24
+gradual improvement,192
+hemodynamically stable,192
+extubation,192
+antimicrobial therapy discontinued,192
+prophylactic acyclovir continued,192
+not responding to commands,192
+no spontaneous eye opening,192
+no purposeful movement,192
+transitioned to general ward,216
+encephalopathy,216
+mentation rapidly improved,216
+limited conversations,216
+profound physical weakness,216
+hospital day 10,240
+strength improvement,240
+nasogastric tube removed,240
+oral diet tolerated,240
+physical therapy,240
+occupational therapy,240
+hospital day 11,264
+standing with assistance,264
+hospital day 12,288
+no confusion,288
+no agitation,288
+back to baseline mentation,288
+fever resolved,288
+leukocytosis resolved,288
+declined extended care facility,288
+home health care provided,288
+cessation of intrathecal methotrexate,288
+maintained on dasatinib,288
+started on blinatumomab,288
+subsequent months,720
+no further encephalopathy episodes,720

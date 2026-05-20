@@ -1,0 +1,67 @@
+event,time
+73 years old,0
+male,0
+unconscious,0
+found unconscious at home,-6
+brought to emergency department,-6
+Supracide insecticide ingestion,0
+methidathion poisoning,0
+suicide note found,0
+no history of hypertension,0
+no history of diabetes,0
+body weight 45 kg,0
+comatose,0
+Glasgow coma scale score 3,0
+pinpoint pupils,0
+blood pressure 120/100 mmHg,0
+pulse rate 108 per minute,0
+respiration rate 24 per minute,0
+body temperature 36°C,0
+salivation,0
+rales in both lung fields,0
+intubated,0
+mechanical ventilation,0
+activated charcoal administered,0
+atropine boluses,0
+clear lung sounds achieved,0
+atropine continuous infusion 1 mg/hr,0
+pralidoxime infusion 500 mg/hr,0
+arterial pH 7.220,0
+PCO2 36.7 mmHg,0
+PO2 59.9 mmHg,0
+bicarbonate 14.7 mmol/L,0
+serum lactate 7.8 mmol/L,0
+blood urea nitrogen 18 mg/dl,0
+serum creatinine 1.2 mg/dl,0
+plasma cholinesterase <200 units/L,0
+blood pressure drop to 70/40 mmHg,6
+norepinephrine infusion started,6
+norepinephrine dose 0.44 µg/ml/min,6
+urine output 25 ml/hr,6
+blood gas pH 7.154,6
+PCO2 20.8 mmHg,6
+PO2 323 mmHg,6
+bicarbonate 7.1 mmol/L,6
+serum creatinine 1.46 mg/dl,6
+oliguria,6
+acidosis,6
+unstable hemodynamic condition,6
+CRRT initiated,6
+CVVHDF,6
+jugular venous catheter,6
+blood flow 120 ml/min,6
+dialysate flow 500 ml/hr,6
+substitute flow 1000 ml/hr,6
+fluid removal 200 ml/hr,6
+total effluent flow rate 37.7 ml/kg/hr,6
+norepinephrine requirement decreased,20
+norepinephrine 0.09–0.13 µg/kg/min,20
+condition progressively deteriorated,24
+maximal ventilatory support,24
+maximal hemodynamic support,24
+maximal renal support,24
+antidote therapy,24
+died,96
+plasma cholinesterase prefilter <200 U/L,24
+plasma cholinesterase postfilter 358 U/L,7
+plasma cholinesterase postfilter 689 U/L,24

@@ -1,0 +1,71 @@
+pmcINTRODUCTION
+
+SARS COV-2 is a viral infection responsible of more than 4 million deaths worldwide [1]. This pandemic is mainly known for its pulmonary manifestations, which range from simple, mostly benign upper respiratory tract symptoms to severe acute respiratory distress syndrome [2]. Numerous complications have recently been reported in the literature, such as sepsis-induced coagulopathy, and vasculitis secondary to endothelial lesions [3]. Severe rhabdomyolysis in the context of COVID-19 is not well known. Therefore, we report the case of a patient admitted to the intensive care unit for the management of severe rhabdomyolysis complicated by renal failure in the context of COVID-19.
+
+CASE PRESENTATION
+
+A 52-year-old female patient with a medical history of primary hypertension was admitted to the emergency department for diffuse myalgias predominantly in the lower limbs, fever and cough during the 3 days preceding her admission. On admission, the temperature was 35.9°C, without dyspnea with a pulse oxygen saturation (SpO2) of 99% on room air, a heart rate (HR) of 62 per minute and a blood pressure of 127/89 mmHg. The clinical examination was unremarkable except for diffuse muscle pain. Laboratory test results revealed creatine kinase levels (CK) at 15000 IU/L. Testing of a nasopharyngeal swab for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA was positive (with L452R mutation). The rest of the workup was unremarkable including renal function. Computed tomography (CT) performed after the intravenous administration of contrast material showed mild pulmonary infiltrates without pulmonary embolism (Fig. 1). The patient was hospitalized in the respiratory department. She was admitted to the intensive care unit 2 days later for a Glasgow score of 12/15, a temperature of 40°C, an HR of 130 per minute and hypotension at 70/30 mmHg with signs of tissue hypo perfusion (anuria, and diffuse mottling), without dyspnea. Laboratory test results are summarized in the Table 1.
+
+The patient was treated by oxygen (15 L/min), intravenous (saline and bicarbonate 1.4%) and vasopressor support with Norepinephrine. She was intubated and mechanically ventilated, metabolic acidosis associated with hypekalemia and anuria led to renal replacement therapy (hemodialysis). She also received Hydrocortisone 50 mg/6 h, antibiotics (amoxicillin/clavulanic acid) and preventive anticoagulation by Enoxaparine (4000 IU).
+
+The patient continued to deteriorate hemodynamically, leading to a cardiorespiratory arrest that could not be recovered despite 45 min of resuscitation.
+
+This case report follows care guidelines [4].
+
+DISCUSSION
+
+Rhabdomyolysis is characterized by elevated levels of myoglobin, CK, potassium and lactate dehydrogenase. The common etiologies are multiple, including malignant hyperthermia and infections. It can be complicated by acute renal failure, metabolic acidosis, disseminated intravenous coagulation, compartment syndrome, hyperkalemia and cardiac arrest [5].
+
+Infections leading to rhabdomyolysis are bacterial, viral, fungal and protozoan infections. Viruses inducing rhabdomyolysis include respiratory viruses such as influenza A and B and parainfluenza viruses [6]. The diagnosis of rhabdomyolysis is both clinical and biological by the triad: Myalgia—myoglobinuria (dark colored urine) and weakness, knowing that the percentage of patients who present classic symptoms is estimated at less than 10%. Concerning biology, the CPK is the most sensitive laboratory test to evaluate muscle damage; there is no correlation between the elevation of CPK and the severity of muscle damage or renal failure. In general, muscle damage is observed from a level of CPK higher than 5000 U/L [7].
+
+Some reports have described rhabdomyolysis as a complication COVID-19. The exact mechanism of rhabdomyolysis in COVID-19 is not yet known, but there are several possible mechanisms. The first hypothesis is muscle necrosis secondary to direct viral invasion of myocytes. The second could be a direct effect of cytokines and other immunological factors following the inflammatory response of the host. Some authors also propose tissue hypoxia [6, 8].
+
+Figure 1 Cross-sectional chest CT scan showing patchy ground glass opacities with areas of consolidation without crazy paving; indeed, eventual pulmonary embolism cannot be seen with lung window.
+
+Table 1 Biological outcomes of a patient with Rhabdomyolisis associated to COVID-19
+
+Laboratory tests	At admission	Control tests	
+wbc (g/l)	10.11		
+lymphocytes (g/l)	1.32		
+CRP (mg/l)	37.8		
+d-dimer (μg/ml)	2.50		
+hypersensitive troponin t (ng/l)	962	2028	
+creatinine (mmol/l)	129		
+Egfr (mdrd formula)
+ml/min/1.73 m2	38		
+urea (mmol/l)	12.8		
+K+ (mmol/l)	6.4	6.7	
+CPK (ui/l)	100 557	101 624	
+myoglobin (g/l)	>30 000		
+ast (u/l)	2394	1978	
+alt (u/l)	561.8	517	
+COvid-19 viral load (/ml)	310		
+pneumococcal/legionella
+antigenuries	NEGATIVE		
+pH	7.43	7.11	
+Po2 (mmHg)	98	67	
+pco2 (mmHg)	18	34	
+hco3-(mmol/l)	11.9	10.8	
+lactate	6.7	15.6	
+
+Early diagnosis of this complication is essential to initiate prompt and adequate management to avoid renal injury. Current recommendations for COVID-19 are a conservative fluid management strategy in to preserve gas exchange [9]. Therefore, measuring myoglobin in patients with severe forms of SARS-CoV-2 could change therapeutics.
+
+CONCLUSION
+
+Several cases of rhabdomyolysis have been described in patients with Covid-19. Further studies to explain the pathophysiological mechanisms of this disease seem essential to understand the mechanism and to optimize the treatment.
+
+FUNDING
+
+This research did not receive any specific grant from funding agencies in the public, commercial or not-for-profit sectors.
+
+CONFLICT OF INTEREST STATEMENT
+
+They have no conflicts of interest for this report.
+
+ETHICAL APPROVAL
+
+The ethical committee approval was not required given the article type (case report).
+
+CONSENT
+
+Written informed consent was obtained from the patient for publication of this case report.

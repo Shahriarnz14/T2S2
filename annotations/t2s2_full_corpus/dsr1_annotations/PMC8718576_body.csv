@@ -1,0 +1,105 @@
+event,time
+36 years old,0
+male,0
+vasodilatory shock,0
+metformin overdose,0
+presented to emergency department,0
+hypotension,0
+altered mental status,0
+ingestion of unknown quantity of medication,0
+possible metformin ingestion,0
+systolic blood pressure 70 mmHg,0
+heart rate 90 beats per minute,0
+hypothermia 32 °C,0
+lethargy,0
+Glasgow coma scale 10,0
+dry skin,0
+mid-size pupils,0
+equal pupils,0
+reactive pupils,0
+no focal neurologic findings,0
+no hypertonicity,0
+no clonus,0
+unclear timing of ingestion,0
+unclear substances ingested,0
+unclear amounts of substances ingested,0
+empty pill bottle found,0
+expired metformin,0
+unable to provide history,0
+unable to reach family or friends,0
+volume resuscitation initiated,0
+lactic acidosis 6.5 mmol/L,0
+hyperkalemia 6.0 mmol/L,0
+normal transaminase,0
+normal troponin,0
+normal creatine kinase,0
+undetectable acetaminophen,0
+undetectable salicylate,0
+initial blood glucose 167 mg/dl,0
+delayed hypoglycemia 27 mg/dl,19
+hypoglycemia treated with dextrose,19
+hypoglycemia treated with octreotide,19
+acute dialysis catheter placed,19
+hemodialysis initiated,21.5
+worsening hypotension,21.5
+norepinephrine drip required,21.5
+worsening mental status,21.5
+lactic acidosis 18 mmol/L,21.5
+admitted to medical intensive care unit,24
+intubated for altered mental status,24
+intubated for shock,24
+profound vasoplegia,24
+refractory to norepinephrine,24
+refractory to vasopressin,24
+refractory to epinephrine,24
+refractory to phenylephrine,24
+normal left ventricular function,24
+normal right ventricular function,24
+multiple bicarbonate pushes,24
+bicarbonate drip,24
+hydroxocobalamin 5 gm intravenously,24
+concern for cyanide toxicity,24
+normal cyanide levels,24
+no clinical effect from hydroxocobalamin,24
+methylene blue 2 mg/kg,24
+transient blood pressure improvement,24
+CRRT attempted,24
+unable to tolerate CRRT,24
+VA ECMO support initiated,43
+pH 7.05,43
+PaCO2 19 mmHg,43
+lactate 33.8 mmol/L,43
+peripheral cannulation for VA ECMO,43
+25 F drainage cannula in right femoral vein,43
+17 F return cannula in left femoral artery,43
+5 F distal perfusion cannula,43
+cannulation performed with fluoroscopy,43
+no significant complications,43
+CRRT initiated,43
+shock resolved,67
+decannulated from VA ECMO,67
+no longer requiring vasopressors,67
+lactic acid improved to normal,91
+mental status improved,91
+extubated,91
+endorsed suicide attempt,91
+metformin ingestion,91
+trazodone ingestion,91
+evaluated by psychiatry,91
+no longer suicidal,91
+discharged home,480
+serum metformin level 678 μg/mL,0.12
+serum trazodone level 2.1 μg/mL,0.12
+urine mCPP detected,0.12
+no sulfonylureas detected,0.12
+no hyperglycemia,0
+hypoglycemia,19
+metformin and trazodone identified,0
+trazodone metabolite mCPP in urine,0
+peak lactate 33.8 mmol/L,43
+aggressive extracorporeal elimination,43
+methylene blue transient improvement,24
+VA ECMO support associated with outcome,43
+bleeding complications,43
+limb ischemia,43
+successful outcome,480

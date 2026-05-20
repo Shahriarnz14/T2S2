@@ -1,0 +1,56 @@
+event,time
+39 years old,0
+male,0
+admitted to the Emergency Department,0
+temperature of 38°C,-168
+abdominal pain,-168
+7-day diarrhea,-168
+malnutrition,-168
+alcohol abuse,-168
+drug abuse,-168
+smoking,-168
+pulmonary tuberculosis,-168
+no recent travel history,0
+no history of receiving corticosteroids or immunosuppressant medication,0
+tachycardia,0
+tachypnea,0
+leucocytosis of 14×10^9/l,0
+raised serum transaminases,0
+C-reactive protein level of 308 mg/l,0
+procalcitonin level of 39 ng/l,0
+abdominal CT scan revealing multiple liver abscesses,0
+i.v. meropenem started,0
+transferred to surgical ICU,0
+endotracheally intubated,0
+mechanical ventilation started,0
+vasopressor support required,0
+percutaneous CT-guided drainage of liver abscesses,0
+liver aspirate showing E. histolytica trophozoites,120
+RT-PCR positive for E. histolytica in liver aspirate,120
+RT-PCR positive for E. histolytica in stool samples,120
+i.v. metronidazole added,120
+oral paromomycin started,120
+thoracoabdominal CT scan showing pulmonary abscess,240
+pleural effusion,240
+intraabdominal abscesses,240
+amebic skin lesions on chest and face,240
+bronchial aspirate RT-PCR positive,240
+pleural drainage RT-PCR positive,240
+blood RT-PCR positive,240
+skin biopsy RT-PCR positive,240
+HIV serology negative,240
+Acanthamoeba spp PCR negative,240
+Balamuthia mandrillaris PCR negative,240
+Naegleria fowleri PCR negative,240
+neurological symptoms with aphasia and right-sided hemiplegia,360
+cranial CT scan showing multiple brain abscesses,360
+conservative management indicated,360
+metronidazole therapy continued,360
+language recovery,0
+slight paresis in the right arm,0
+residual liver abscesses on CT,2688
+residual brain abscesses on CT,2688
+co-infection of liver abscesses by Staphylococcus epidermidis,2688
+Clostridium difficile pseudomembranous colitis,2688
+discharged,2688
+currently stable and rehabilitating,2688

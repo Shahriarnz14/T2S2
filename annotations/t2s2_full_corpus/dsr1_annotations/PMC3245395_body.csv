@@ -1,0 +1,81 @@
+event,time
+62 years old,0
+female,0
+referred to emergency department,0
+alleged acute myocardial infarction,-144
+admitted to local hospital,-144
+fever,-144
+abdominal pain,-144
+abdominal computed tomography scan,-144
+large multi-septated abscess in segment VIII of liver,-144
+adjacent hepatic venous thrombosis,-144
+empirical antibiotics,-144
+pus drained with 8.5 Fr pigtail catheter,-144
+Klebsiella oxytoca isolated,-144
+acute onset chest pain,-144
+acute onset dyspnea,-144
+electrocardiography ST elevation in leads V3-V6,-144
+poor R progression,-144
+troponin I elevated 4.10 ng/mL,-144
+transferred,-144
+diagnosis ST segment elevation AMI,-144
+anxious,0
+acute respiratory distress,0
+blood pressure 91/62 mmHg,0
+temperature 37.7℃,0
+respiratory rate 28 breaths per minute,0
+oxygen saturation 88% on room air,0
+decreased breath sounds at base of right lung,0
+diffuse crackles in lower two-thirds of both lung fields,0
+regular cardiac rhythm,0
+no gallops,0
+no murmurs,0
+ventricular response rate 120 bpm,0
+"B-type natriuretic peptide 1,512 pg/mL",0
+"white blood cell count 18,600/mm3",0
+predominant neutrophils,0
+C-reactive protein 14.44 mg/dL,0
+troponin I normalized,0
+ECG severely impaired LV function,0
+ejection fraction 30%,0
+akinesia in mid- to distal portion of LV chamber,0
+TTC suspected,0
+typical appearance of apical ballooning on echocardiography,0
+diagnosis confirmed by coronary angiography,0
+normal epicardial coronary vessels,0
+systolic blood pressure dropped to 70 mmHg,0
+hypotension persisted,0
+appropriate fluid resuscitation,0
+transferred to medical ICU,0
+vasopressors,0
+dobutamine,0
+diuretic support,0
+hemodynamically stable after 5 days in ICU,120
+improved symptoms,120
+improved chest radiographic findings,120
+follow-up echocardiography 7 days after admission,168
+persistent apical ballooning,168
+ejection fraction 18%,168
+liver abscess improving,168
+bacteremia improving,168
+medical treatment for heart failure,168
+beta-blocker,168
+nitrate,168
+diuretics,168
+angiotensin-converting enzyme inhibitor,168
+persistent LV dysfunction on serial echocardiography 3 weeks later,504
+cardiac magnetic resonance imaging,504
+no tissue hyperenhancement in dysfunctional apical regions,504
+absence of scarred myocardial tissue,504
+other conditions ruled out,504
+LV dysfunction slightly improved 5 weeks after admission,840
+ejection fraction 36%,840
+newly developed apical thrombus,840
+full-dose heparin,840
+oral anticoagulation therapy with warfarin,840
+no embolic event,840
+follow-up echocardiography 3 months later,2160
+persistent akinesia of LV apex,2160
+slightly improved contractility of mid-ventricular wall segment,2160
+ejection fraction 40%,2160
+apical thrombus completely resolved,2160

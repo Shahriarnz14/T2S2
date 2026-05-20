@@ -1,0 +1,44 @@
+event,time
+84 years old,0
+female,0
+admitted to the emergency department,0
+fever,0
+incapacitated,0
+Alzheimer's dementia,0
+admitted to the hospital 39 days previously,-936
+pulmonary thromboembolism,-936
+deep vein thrombosis,-936
+blood pressure 87/44 mm Hg,0
+heart rate 105 bpm,0
+body temperature 38.2°C,0
+leukocytosis,0
+elevated C-reactive protein,0
+serum lactate level 3.57 mmoL/L,0
+septic shock,0
+methicillin-resistant Staphylococcus aureus bacteremia,0
+contrast-enhanced chest CT,4
+contrast-enhanced abdominal CT,4
+multiple peripheral lung nodules,4
+septic embolism,4
+mild thyroid swelling,4
+heterogeneous thyroid enhancement,4
+perithyroidal fluid collection,4
+shock thyroid,4
+no CT hypotension complex signs,4
+admitted to intensive care unit,4
+unknown infection source,4
+glycopeptide antibiotic,4
+fluid resuscitation,4
+diluted norepinephrine,4
+central venous catheter,4
+hemodynamically stable,4
+follow-up neck CT,26
+follow-up thyroid function tests,26
+normalization of thyroid size,26
+normal thyroid enhancement,26
+resolved perithyroidal fluid,26
+normal free thyroxine,26
+normal TSH,26
+low triiodothyronine,26
+moved to general ward,96
+discharged,96

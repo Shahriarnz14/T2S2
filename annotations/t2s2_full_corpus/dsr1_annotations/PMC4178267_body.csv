@@ -1,0 +1,82 @@
+event,time
+92 years old,0
+male,0
+resident in a nursing home,0
+admitted to tertiary care center,0
+general deterioration,0
+diabetes mellitus,0
+systemic hypertension,0
+stroke,0
+temperature 34°C,0
+blood pressure 70/30 mmHg,0
+pulse rate 115 per minute,0
+respiratory rate 22 per minute,0
+Glasgow Coma Scale 8 out of 15,0
+urinary tract infection,0
+septic shock,0
+transferred to intensive care unit,0
+intravenous fluids,0
+vasopressors,0
+mechanical ventilation,0
+imipenem-cilastatin four times daily,0
+ciprofloxacin 400 mg twice daily,0
+blood culture ESBL-producing Escherichia coli,0
+urine culture ESBL-producing Escherichia coli,0
+sputum culture ESBL-producing Escherichia coli,0
+ciprofloxacin resistance,0
+imipenem susceptibility,0
+gentamicin susceptibility,0
+ciprofloxacin replaced with gentamicin,0
+clinical improvement,24
+gentamicin discontinued after 10 days,240
+imipenem-cilastatin discontinued after 14 days,336
+fever 38.6°C,576
+hypotension,576
+peripheral blood leukocytosis,576
+white blood cell count 18×10^9/L,576
+80% neutrophils,576
+dull percussion sound left lung,576
+reduced breath sounds left lung,576
+chest x-ray left lung consolidation,576
+large pleural effusion,576
+pigtail catheter insertion,576
+pleural fluid protein 52.0 g/L,576
+pleural fluid lactate dehydrogenase 1477 IU/L,576
+pleural fluid pH 7.0,576
+pleural fluid white blood cells 8450,576
+96% neutrophils in pleural fluid,576
+ventilator-associated pneumonia,576
+pleurisy,576
+colistin methanesulfonate loading dose 9 million units,576
+colistin methanesulfonate 3 million units three times daily,600
+imipenem-cilastatin 500 mg four times daily,600
+pneumothorax,600
+pigtail catheter replaced with intercostal chest drain,600
+pleural fluid growth ESBL-producing E. coli,600
+pleural fluid growth carbapenem-resistant Acinetobacter baumannii,600
+febrile,672
+high dose vasopressor infusions,672
+intra-pleural colistin methanesulfonate 0.5 million units,672
+intercostal drain clamped for 2 hours,672
+improvement in condition,792
+white blood cell count 8.8×10^9/L,792
+reduced need for ventilation,792
+discontinuation of vasopressor support,792
+pleural fluid growth Proteus mirabilis,816
+no A. baumannii isolated,816
+no E. coli isolated,816
+imipenem MIC 4 mg/L for Proteus mirabilis,816
+meropenem MIC 1 mg/L for Proteus mirabilis,816
+switch to meropenem 1 g three times daily,816
+intra-pleural colistin discontinued after 10 days,816
+intravenous colistin discontinued after 14 days,816
+meropenem continued for 7 days,816
+negative pleural fluid culture for A. baumannii,888
+negative pleural fluid culture for E. coli,888
+intercostal drain removed,1008
+resolution of infection and effusion on chest x-ray,1008
+clinically stable,1008
+no further sepsis episodes,1008
+unsuccessful mechanical ventilation weaning,1008
+acute myocardial ischemia,1608
+passed away,1608

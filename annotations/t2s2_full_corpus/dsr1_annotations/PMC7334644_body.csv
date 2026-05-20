@@ -1,0 +1,51 @@
+event,time
+60 years old,0
+male,0
+hypertensive,0
+diabetic,0
+admitted to emergency department,0
+fever (38.6 °C),-72
+persistent productive cough,-72
+chest pain,-72
+myalgias,-72
+fatigue,-72
+respiratory distress,-72
+past history of tuberculosis,-0
+unprotected contact with COVID-19 positive cousin,-72
+decreased breath sounds at lung bases,0
+SpO2 72% on room air,0
+no respiratory distress,0
+bilateral interstitial infiltrates on chest X-ray,0
+normal electrocardiogram,0
+normal cardiac enzymes,0
+normal coagulation profile,0
+normal echocardiography,0
+lymphocytopenia (0.59 × 10⁹/L),0
+increased C-reactive protein (243.3 mg/L),0
+increased lactate dehydrogenase (944 units/L),0
+increased ferritin (876 ng/ml),0
+diffuse bilateral ground-glass opacities on CT,0
+COVID-19 confirmed by RT-PCR,0
+admitted to isolation chamber in ICU,0
+high flow nasal cannula initiated,0
+awake prone positioning (16–20 hours daily),0
+ROX maintained over 6 for 48 hours,0
+lopinavir/ritonavir,0
+ribavirin,0
+dexamethasone,0
+prophylactic anticoagulation,0
+NAAT positive for Mycobacterium tuberculosis (sensitive to rifampicin),0
+isoniazid started,0
+pyridoxal phosphate,0
+rifampicin,0
+pyrazinamide,0
+ethambutol,0
+no treatment side effects,0
+ratio PaO2/FiO2 >250 during first week,168
+HFNC discontinued,288
+awake prone positioning discontinued,288
+oxygen therapy (2–4 L via nasal cannula),288
+oxygen supportive care discontinued,384
+RT-PCR negative for COVID-19,480
+microbiology negative,480
+discharged to home isolation,648

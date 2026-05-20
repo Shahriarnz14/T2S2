@@ -1,0 +1,106 @@
+event,time
+13-year-old,0
+female,0
+diagnosed with CESD,0
+marked hepatomegaly,0
+laparoscopy,0
+liver biopsy,0
+large orange-yellow liver,0
+elevated hepatic cholesteryl esters,0
+lysosomal enzyme defect,0
+headaches,0
+feeling of pressure in the right epigastrium,0
+increasing jaundice,0
+elevated bilirubin (6.0 mg/dL),0
+elevated total cholesterol (316 mg/dL),0
+low HDL cholesterol (26 mg/dL),0
+elevated triglycerides (178 mg/dL),0
+elevated α1-antitrypsin (363 mg/dL),0
+hospitalized in 2013,-26280
+laparoscopic cholecystectomy,-26280
+symptomatic gallstones,-26280
+chronic fibroplastic cholecystitis,-26280
+florid fibroplastic cholecystitis,-26280
+Child-Pugh A/B cirrhosis,-26280
+Lab-MELD 14 cirrhosis,-26280
+esophageal varices grade III,-26280
+solitary fundal varix,-26280
+hepatosplenomegaly,-26280
+thrombocytopenia,-26280
+vitamin D deficiency,-26280
+calcium deficiency,-26280
+discharged without medication,-26280
+readmitted July 2016,-24
+increased abdominal circumference,-24
+tiredness,-24
+scleral jaundice,-24
+nausea,-24
+pruritus,-24
+lack of appetite,-24
+Child-Pugh C cirrhosis,-24
+Lab-MELD score 18,-24
+increased NSAID use,-24
+axillary herpes zoster,-24
+hepatic encephalopathy (two episodes),-720
+rifaximin for 4 months,-2928
+elevated transaminases,-24
+pancytopenia,-24
+abnormal clotting tests,-24
+discharged at patient’s request,-24
+readmitted after 5 days,-144
+epigastric pain,-144
+rapid symptom improvement,-144
+discharged again,-144
+readmitted after 2 days,-192
+febrile urinary tract infection,-192
+E. coli sepsis,-192
+parenteral antibiotics,-192
+admitted September 2016,0
+compensated cirrhosis,0
+splenomegaly,0
+planned repeat ligature of esophageal varices,0
+no fundal varices,0
+vomiting blood,24
+emergency endoscopy,24
+Histoacryl treatment,24
+esophageal varix bleeding,24
+temporary bleeding control,24
+intubated,24
+ventilated,24
+transfer to ICU,24
+emergency erythrocyte transfusion,24
+ROTEM-based clotting factor replacement,24
+esophageal stent insertion,24
+clipping of Forrest Ia bleed,24
+severe coagulopathy,24
+hemorrhagic shock,24
+infection,24
+antibiotic treatment,24
+severe hypoalbuminemia,24
+replacement treatment,24
+diffuse nosebleed,24
+tamponade,24
+persistent Hb-relevant bleeding tendency,24
+reduced acid lipase (0.03 nmol/spot*3 hours),72
+reduced beta-galactosidase (0.08 nmol/spot*21 hours),72
+elevated M30,144
+elevated M65,144
+progressive hepatic decompensation,144
+multiorgan failure,144
+unsuitability for liver transplant,144
+decision to stop intensive therapy,144
+death due to multiorgan failure,360
+elevated troponin I,144
+elevated myoglobin,144
+diffuse bleeding tendency,24
+no causal LAL-D treatment,0
+stable LAL-D for many years,0
+residual LAL activity,0
+slight symptoms,0
+unrecognized disease severity,0
+cirrhosis progression,0
+esophageal varices bleed,0
+elevated CRP,24
+low cholinesterase,24
+elevated CK,24
+elevated LDH,24

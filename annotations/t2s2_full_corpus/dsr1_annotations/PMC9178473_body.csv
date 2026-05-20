@@ -1,0 +1,50 @@
+event,time
+67 years old,0
+male,0
+medical history of cardiogenic cerebral infarction,0
+visited hospital,-2 (assuming presentation shortly before admission)
+chills,-2
+right chest pain,-2
+daily exercise habit,0
+no history of tobacco use,0
+no excessive alcohol use,0
+no subsequent comorbidities of cerebral infarction,0
+body temperature 36.4°C,0
+blood pressure 82/66 mmHg,0
+pulse rate 110/min,0
+oxygen saturation 90%,0
+respiratory rate 30 breaths/min,0
+right coarse crackles on chest auscultation,0
+white blood cell count 9500/μl,0
+neutrophils 7695/μl,0
+"platelets 165,000/μl",0
+C-reactive protein 2.59 mg/dl,0
+right S2 infiltration on chest radiograph,0
+right S2 infiltration on chest CT,0
+systemic blood pressure declined to 60 mmHg,2 (2 hours after admission)
+oxygen saturation decreased to 70%,2
+transferred to ICU,2
+mechanical ventilation support,2
+bronchoscopy showing large amount of bleeding (>1000 ml),2 (assuming after transfer to ICU)
+right upper bronchus bleeding,2
+B6 segments obstruction,2
+complete opacification of right hemithorax on chest radiograph,2
+complete opacification of right hemithorax on chest CT,2
+v-v ECMO introduced,2
+P. aeruginosa identified in bronchial secretion,24 (likely within first day)
+P. aeruginosa identified in blood,24
+meropenem treatment,24
+ciprofloxacin treatment,24
+v-v ECMO withdrawal,336 (day 14)
+abscess formation in right lung,336
+P. aeruginosa empyema,336
+purulent sputum,336
+minor bleeding from right lung,336
+right pneumonectomy,504 (approximating 3 weeks post-ECMO withdrawal)
+pleural lavage,504
+discharged from ICU,2208 (day 92)
+home whirlpool bath use,-8760 (assuming long-term use over years)
+black mud emission from jet system,-8760
+P. aeruginosa detected in jet system,-8760
+exoS gene presence,0 (identified post-admission)
+genomic similarity between environmental and clinical samples,0 (post-diagnosis)

@@ -1,0 +1,57 @@
+46 years old | 0
+male | 0
+ulcerative colitis | 0
+malaise | -72
+fever | -72
+loss of appetite | -72
+admission to hospital | 0
+blood pressure 124/46 mmHg | 0
+heart rate 122 beats per min | 0
+SpO2 98% | 0
+respiratory rate 16/min | 0
+body temperature 40.2°C | 0
+alert | 0
+chills | 0
+nausea | 0
+cardiac arrest | 0
+chest compression | 0
+tracheal intubation | 0
+ventricular fibrillation | 0
+defibrillation | 0
+adrenaline administration | 0
+resuscitation | 0
+Brugada syndrome diagnosis | 0
+coved-type ST elevation in V1 and V2 | 0
+hypercalcemia | 0
+acetaminophen administration | 0
+fever subsided | 0
+ST elevation improvement | 0
+hypotension | 0
+septic shock suspicion | 0
+tazobactam-piperacillin administration | 0
+vasopressors administration | 0
+extubation | 48
+fever reoccurrence | 120
+liver abscess diagnosis | 120
+meropenem administration | 120
+vancomycin administration | 120
+puncture drainage | 120
+infection control | 216
+pilsicainide test | 720
+implantable cardioverter defibrillator implantation | 720
+discharge | 720
+family history of sudden death | 0
+high parathyroid hormone levels | 720
+Tc scintigraphy | 720
+abnormal uptake in anterior mediastinum | 720
+tumor resection | 720
+pathological diagnosis of ectopic parathyroid adenoma | 720
+nonfunctional pituitary adenoma diagnosis | 720
+nonfunctional adrenal tumor diagnosis | 720
+multiple endocrine neoplasia type 1 diagnosis | 720
+electrocardiogram on October 4, 2021 | -2160
+electrocardiogram on June 28, 2021 | -2400
+electrocardiogram on March 24, 2021 | 0
+electrocardiogram on September 25, 2017 | -1728
+J point elevation | -1728
+early repolarization | -1728

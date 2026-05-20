@@ -1,0 +1,116 @@
+event,time
+11-year-old,0
+male,0
+Maple Syrup Urine Disease,0
+admitted to the hospital,0
+septic shock,0
+metabolic crisis,0
+cerebral edema,0
+intubation,0
+hemodialysis,0
+insulin continuous infusion,0
+pancreatitis,0
+pneumonia,0
+cavitary Group A Streptococcus infection,0
+trophic feeds of BCAA free formula,0
+dextrose,0
+intravenous lipid,0
+BCAA free total parenteral nutrition,0
+natural protein restriction,0
+pulmonary thrombosis,0
+renal infarction,0
+hypercoagulable state,0
+dexamethasone,0
+transferred to pediatric progressive care unit,0
+antibiotics,0
+IV fluids,0
+leucine levels high,0
+natural protein 3.5–4 g/day,0
+weight decreased 1.1 kg,0
+increased work of breathing,0
+biphasic stridor,0
+tracheal tugging,0
+subglottic stenosis,0
+tracheal stenosis,0
+transferred back to PICU,0
+IV fluids increased,0
+laryngoscopy,0
+tracheostomy,0
+nasogastric tube,0
+BCAA free formula,0
+sedation,0
+muscle relaxation,0
+natural protein 4 g/day,0
+valine supplements,0
+isoleucine supplements,0
+intralipids,0
+glucose infusion rate 6 mg/kg/min,0
+amino acids monitored,0
+amino acids trended up,48
+insulin infusion increased,48
+dextrose increased to 8 mg/kg/min,48
+leucine 1050 nmol/mL,96
+metabolic acidosis pH 7.23,96
+anion gap 15,96
+altered mental status,96
+dialysis considered,96
+growth hormone started,96
+natural protein increased to 7 g/day,96
+anion gap normalized,120
+metabolic acidosis resolved,120
+mental status improved,120
+tracheostomy changed,120
+sedation weaned,120
+paralysis weaned,120
+BCAA free formula held,120
+natural protein decreased to 3.5 g/day,120
+leucine >1100 nmol/mL,144
+activity increased,144
+BCAA levels down-trending,144
+leucine 1000 nmol/mL,144
+BCAA levels rising,192
+lethargy,192
+leucine 1322 nmol/mL,192
+possible infection,192
+elevated WBC,192
+elevated platelets,192
+urinary Enterobacter cloacae,192
+IV antibiotics,192
+elevated ESR,192
+elevated CRP,192
+renal ultrasound normal,192
+dialysis declined,192
+second growth hormone course,192
+physical therapy,192
+BCAA stabilized,240
+BCAA down-trending,240
+leucine 519 nmol/mL,240
+isoleucine 70 nmol/mL,240
+valine 169 nmol/mL,240
+natural protein 7 g/day,240
+modified barium swallow study passed,240
+home formula resumed,240
+solids introduced,240
+insulin weaned,240
+dextrose weaned,240
+BCAA normalized,408
+regained admission weight,408
+weight gain 50-60th percentile,408
+tracheostomy training,408
+physical rehabilitation,408
+natural protein tolerance increased,408
+discharged,408
+natural protein 12 g/day,408
+previous sepsis,-87600
+congenital nystagmus,-87600
+exotropia surgery,-87600
+two metabolic decompensation episodes,-26280
+cerebral edema requiring ICU,-26280
+mannitol use,-26280
+no dialysis,-26280
+learning issues,-26280
+behavioral issues,-26280
+ADHD,-26280
+stable blood amino acids,-720
+good dietary compliance,-720
+normal growth velocity,-720

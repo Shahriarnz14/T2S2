@@ -1,0 +1,83 @@
+event,time
+32 years old,0
+female,0
+intravenous drug use,-672
+attention deficit/hyperactivity disorder,-672
+fevers,-168
+chills,-168
+generalized weakness,-168
+shortness of breath,-72
+abusing fentanyl intravenously,-672
+dextroamphetamine/amphetamine,-672
+no exposure to other medications or chemicals,0
+admitted to the hospital,0
+Temperature 102.7 °Fahrenheit,0
+blood pressure 102/56 mmHg,0
+pulse 136 beats per minute,0
+respiratory rate 38 breaths per minute,0
+oxygen saturation 94% on room air,0
+moderate respiratory distress,0
+bilateral rhonchi,0
+tachycardia,0
+"no murmur, rub or gallop",0
+"WBC 12,200/mm3",0
+hemoglobin 10.9 g/dL,0
+"platelet count 85,000/mm3",0
+ESR 60 mm/hr,0
+hyponatremia with sodium 124 mmol/L,0
+creatinine level 2.8 mg/dL,0
+BUN 98 mg/dL,0
+NT-proBNP 1028 pg/mL,0
+sinus tachycardia,0
+bilateral lower lobe infiltrates,0
+small pleural effusions,0
+given IV fluids,0
+levofloxacin intravenously,0
+septic shock,24
+acute respiratory failure,24
+pressor support,24
+mechanical ventilation,24
+blood cultures grew gram-positive cocci,24
+vancomycin therapy,24
+tricuspid valve vegetation,48
+moderate-to-severe tricuspid regurgitation,48
+patent foramen ovale with shunt,48
+septic emboli,48
+non-oliguric AKI,48
+renal replacement therapy,48
+MSSA,72
+oxacillin treatment,72
+improved on supportive and antimicrobial therapy,168
+weaned off pressors,168
+extubated,168
+renal function recovered,168
+skin examination revealed bilateral nontender purpuric papules,240
+bullous lesions,264
+no mucosal or palmar involvement,240
+no abdominal pain,240
+no arthralgias,240
+no paresthesia,240
+no fever,240
+no chills,240
+HIV antibody negative,240
+hepatitis B serology negative,240
+p-ANCA negative,240
+c-ANCA negative,240
+cryoglobulin negative,240
+rheumatoid factor negative,240
+ANA weakly positive,240
+anti-ds DNA antibody negative,240
+Complement C3 low,240
+Complement C4 normal,240
+anti-HCV antibody positive,240
+HCV viral load 4.16 × 105 IU/mL,240
+eosinophil count normal,240
+aspirated fluid from bullous lesions did not grow bacteria,264
+no organisms seen on gram staining,264
+punch biopsies from bullous skin lesions showed perivascular neutrophil infiltration,264
+fibrinoid necrosis of small vessels,264
+leukocytoclastic vasculitis,264
+vancomycin started in lieu of oxacillin,288
+resolution of skin lesions,288
+tricuspid valve replacement surgery,720
+no recurrence of skin lesions,720

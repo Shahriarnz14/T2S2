@@ -1,0 +1,89 @@
+Introduction
+Aplastic anemia (AA) involves the replacement of hematopoietic stem cells in a normal bone marrow with fatty infiltrate due to a decrease or abscence of hematopoietic precursors, which leads to pancytopenia.
+
+AA can be either genetic or acquired. Acquired AA is further distinguished based on its pathophysiology which can be secondary to bone marrow toxicity with a resultant damage of hematopoietic stem cells due to the reactive oxygen species (ROS) and mostly is iatrogenic (caused by chemical agents or radiation). The other pathophysiology that accounts for AA is autoimmune mediated which involves deregulated T-cells that can result in the destruction of hematopoietic stem cell precursors. Alkylating agents used in various solid and hematologic malignancies are notorious for causing bone marrow suppression which is usually transient and reversible with medication discontinuation and supportive therapy. However, these agents have been described to cause AA which manifests by severe and permanent bone marrow suppression. One of these alkylating agents, temozolomide (TMZ), has gained its wide recognition in the field of oncology for the treatment of primary intracranial malignancies. The clinical trials that proved the efficacy of TMZ in intracranial tumors demonstrated mild to moderate suppression of bone marrow with conventional doses, which is transient and tolerable in most of the cases. However, there has been anecdotal reports describing the development of severe AA during treatment with TMZ. Although rare, this complication poses a challenge for both the physician and the patient, and can negatively impact treatment course and outcome.
+
+Case Presentation
+A 44-year-old Caucasian female presented to the emergency department due to new onset of intermittent headache and progressive memory loss. Her past medical history was significant for hypothyroidism and recent electroconvulsive therapy due to major depressive disorder. Initial magnetic resonance imaging (MRI) of the brain demonstrated a 3.7 × 2.9 × 2.7 cm enhancing lesion in the right temporal lobe with surrounding vasogenic edema (Fig. 1). The patient underwent craniotomy with gross total resection of the right temporal mass. Histopathology revealed a World Health Organization (WHO) Grade III anaplastic astrocytoma. Immunohistochemical stain for mutant IDH-1 (p.R132H) was diffusely positive as well as widespread loss of ATRX, strong p53 reactivity, and Ki-67 of 50%. Fluorescence in-situ hybridization showed loss of 19q and polysomy of chromosome 1 (but no evidence of co-deletion). O6-methylguanine-DNA methyltransferase (MGMT) status was not performed. Initial complete blood count (CBC) of the patient indicated: hemoglobin (Hgb) 11.9 g/dL (normal values 12–15.5 g/dL), white blood count (WBC) 6.9 × 103/μL (normal values 3.8–9.9 × 103/μL), absolute neutrophils count (ANC) 1.5 × 103/μL, absolute lymphocytes count (ALC) 1.4 × 103/μL and platelets (PLT) 370 × 103/μL (normal values 150–400 × 103/μL).
+
+The patient's Karnofsky performance status was 90%. She was started on radiation (total dose of 5,940 cGy delivered in 33 fractions) and TMZ at 75 mg/m2. She experienced grade-1 toxicity of the skin during her radiation and gastritis, treated with topical steroid cream and ranitidine, respectively. She was also on levetiracetam 500 mg daily for seizure prophylaxis which was discontinued after her third cycle due to low risk for seizure. On completion of chemoradiation, the patient was noted to have lymphopenia and thrombocytopenia with ALC of 0.2 × 103/μL and PLT of 109 × 103/μL.
+
+Subsequently, the patient received adjuvant TMZ at 150 mg/m2 for a total of 6 cycles over a period of 6 months. Atovaquone was started due to a low CD4+ T-cell count and a history of allergy to sulfa drugs. Her CBC prior to starting adjuvant TMZ was Hgb 9.3, WBC 3.2, PLT 248, ANC 2.4, ALC 0.2 (Table 1). At follow-up 1 month after her final cycle, she was noted to have neutropenia with WBC of 1, ANC of 0.6, and ALC of 0.1. Other cell counts were within her baseline with Hgb of 11.3 and PLT of 134. Follow-up CBC weekly showed a rapid decrease in WBC and PLT over a 2-week period to a WBC of 0.6, Hgb of 9.3, and PLT of 11. The patient presented to the emergency department 2 weeks later (2 months after her last TMZ treatment) with dyspnea, rash, and paronychia and was found to have severe pancytopenia. WBC was 0.1, ANC 0, ALC 0, Hgb 7.1, and PLT of 16. This required PLT and red blood cell transfusions, and she was started on a 1-week course of cefuroxime and fluconazole due to cellulitis. Atovaquone was stopped due to concern for a possible side effect of myelosuppression. A bone marrow biopsy was performed which showed a hypocellular bone marrow with preserved trilineage cellularity. At that time, she received further work up including HIV, HBV, HCV, EBV, CMV, and parvovirus, all of which were negative. B12 was at the lower level of normal at 204 pmol/L (normal range 200–900 pmol/L), and she was started on supplementation B12 without notable improvement in her pancytopenia. Two months later, she developed neutropenic fever and septic shock secondary to a Bartholin gland abscess and rectovaginal fistula. Her laboratory findings at that time were significant for WBC 0.00, Hgb 7.3, and PLT of 11. A 2 cm left Bartholin abscess was drained, and she was started on broad-spectrum antibiotics due to Enterococcus VRE bacteremia. Due to persistent pancytopenia, a repeat bone marrow biopsy was performed, which showed pan-hypoplasia with no evidence for neoplastic process and was consistent with AA (Fig. 2). She was started on granulocyte monocyte-colony stimulating factor and eltrombopag with no appreciable improvement in pancytopenia.
+
+Given her severe AA, she received cord blood stem cell transplantation along with fludarabine and melphalan conditioning regimen. Unfortunately, she showed little recovery in cell count after transplant.
+
+Her hospitalization was complicated by lung abscesses, pyelonephritis and acute hypoxic respiratory failure and required transfer to the intensive care unit (ICU).
+
+The patient expired during her ICU stay due to septic shock and complications from multiple organ failure.
+
+Discussion
+TMZ is a non-specific cell-phase cytotoxic prodrug that is converted spontaneously into its active form in the cellular compartment. It acts by methylation of purine bases causing DNA breaks and cell death [1].
+
+The medication has become the standard of care in the treatment of primary intracranial malignancies including anaplastic astrocytoma and glioblastoma multiforme (GBM) after several clinical trials demonstrated improved progression-free survival and overall survival [2]. Moreover, TMZ has shown good response rates in other tumors including metastatic melanoma, Ewing sarcoma, and T-cell cutaneous lymphomas, which resulted in an increase of its use in field of medical oncology [3].
+
+The hematologic bone marrow toxicity of TMZ was observed in the study of Stupp et al. [2] which assessed efficacy of concomitant use of radiotherapy and TMZ followed by adjuvant TMZ in the treatment of GBM. During this study, nontrivial (grade 3 and 4) hematologic toxicity developed only in the group that received chemoradiation therapy, and no significant hematologic toxicities were observed in the control comparative arm that received radiotherapy alone, demonstrating that the suppressive effect on bone marrow was mainly driven by TMZ. It can be noted from the previous study that there were more grade 3 and 4 toxicities during the course of receiving adjuvant TMZ compared to the course of concurrent chemoradiation which could be consistent with a cumulative toxic dose effect on the bone marrow. Interestingly, there was no documentation of grade-5 hematologic toxicity or AA [2, 4].
+
+Generally, cytotoxic chemotherapies (especially alkylating agents such as cyclophosphamide, chloramphenicol, and busulfan) are notoriously known to have the capacity to destroy the bone marrow hematopoietic stem cells. Bone marrow hematologic toxicity caused by alkylating agents can either occur as an idiosyncratic phenomenon in the case of chloramphenicol or following a dose-dependent pattern with a cumulative dose as seen in cyclophosphamide, busulfan, and fludarabine [5]. However, this aforementioned insult to the bone marrow does not account for a diagnosis of AA which is defined by severe depletion of the hematopoietic stem cell reservoir which is often nonreversible [6].
+
+A dose-dependent causality of permanent bone marrow damage cannot be established based on the available anecdotal reports in the case of AA development with the use of TMZ. Some cases described the occurrence of AA early in the course of treatment (within 4 weeks after initiation of TMZ) [7, 8, 9], while other reports including ours were not associated with AA development until at least after 4 cycles of TMZ [10] (Table 2 provides a list of case reports from the literature).
+
+The mostcommon etiology of acquired AA is believed to be autoimmune mediated, as supported by the observation of decreased regulatory T-cell populations [11]. However, medication-induced AA seems to be related to direct toxicity on bone marrow hematopoietic stem cells rather than immune mediated, and there are no original studies examining the nature of medication-induced AA in patients treated with alkylating agents including TMZ, given the rarity of its occurrence and inability to establish causality.
+
+There is no sex preponderance in acquired AA, and our observation from case reports on AA associated with TMZ with the majority of patients being female, could be an incidental finding. However, evidence exists regarding female gender being a risk factor for TMZ hematologic toxicity, which was shown in a retrospective study by Becker-Schiebe et al. [12] that included 69 patients who had glioblastoma and were treated with TMZ and radiation. This study established female gender as a risk factor that can predict development of TMZ-induced grade-4 hematologic toxicity. The other factor that is suggested to predict severe hematologic toxicity due to TMZ is the status of MGMT [13]. MGMT is a DNA repair enzyme that has variable expression in different tissue cells. The level of expression and functional status of MGMT were found to correlate with prognosis and response to treatment with TMZ in patients who have GBM, as TMZ has more efficacy in patients who have epigenetic silencing of MGMT promotor by methylation or low expression of MGMT levels [14, 15]. It is unclear whether MGMT status in intracranial tumors correlates with a similar pattern of abnormality in MGMT within the bone marrow cells. However, some individuals can have different MGMT polymorphisms in the bone marrow with a lower expression of MGMT compared to other tissues, which could explain the increased bone marrow supression observed during treatment with TMZ [13]. Another study done at Mayo Clinic included 30 cases of bone marrow suppression induced by TMZ found that females were more prone to severe bone marrow suppression during treatment [16]. Synergistic medication induced bone marrow suppression could be another reason that accounts for the development of AA in some patients treated with TMZ. This is of impotance as many patients with intracranial tumors treated with TMZ can be taking other medications that have been implicated in AA development such as levetiracetam and trimethoprim/ sulfamethoxazole [17].
+
+The evaluation of patients who develop pancytopenia during treatment with TMZ should include investigating other potential causes including infections such as EBV and parvovirus, as patients with primary intracranial tumors who are on TMZ are immunocompromised and are prone to such infections. Medications other than TMZ should also be considered as the culprit, including anti-epileptic drugs which are used for seizure prophylaxis following craniotomy in glioblastoma as they have been reported to cause AA [17]. Moreover, trimethoprim/sulphamethoxazole, which is often used in this patient population (given lymphopenia induced by TMZ and increased risk of penumocystis pneumonia), has been reported to be associated with the development of AA. The definitive diagnosis of AA requires a bone marrow biopsy showing pan-hypocellular bone marrow replaced by adipocytes.
+
+TMZ discontinuation and initiation of supportive therapy (including blood product transfusion for patients with severe thrombocytopenia and acute symptomatic anemia) constitute the mainstay of treatment. Supportive therapy is utilized as an approach directed toward avoiding extensive transfusion due to the risk of allosensitization in patients who are considered candidates for future allogenic hematopoietic stem cell transplantation as a definitive treatment for AA. Other treatment options including thrombopoietin mimetics such as eltrombopag could be considered as they have shown durable response in restoring trilineage bone marrow cells in refractory AA [18].
+
+Granulocyte colony stimulating factor is less effective in AA given the lack of a hematopoietic stem cell reservoir in bone marrow. Hematopoietic stem cell transplantation remains the definitive treatment with improved survival, but case reports of patients who develop AA after treatment with TMZ did not correlate with improved outcome after hematopoietic stem cell transplantation. Of note, a single case report demonstrated a good response in a young patient (16 years old) who developed AA secondary to TMZ after receiving 8/8 HLA-matched unrelated donor bone marrow transplantation [19].
+
+Conclusion
+Aplastic anemia (AA) is a rare complication in association with TMZ. It is difficult to predict who will develop AA during treatment given the potential side effect of bone marrow suppression which is usually transient and reversible. A high index of suspicion is required to establish the diagnosis of AA and to start early intervention in patients who develop persistent pancytopenia during treatment with TMZ. Prognosis is guarded when AA develops secondary to TMZ as there is no established effective treatments.
+
+Finally, further studies are needed to evaluate the effect of MGMT polymorphisms on TMZ-related severe hematologic toxicity to identify patients who could be at risk of developing AA during treatment with TMZ.
+
+Statement of Ethics
+Patients demographics and identifiable were omitted from the manuscript. Patient provided a consent for publication.
+
+Conflict of Interest Statement
+The authors have no competing interests to declare.
+
+Funding Sources
+No sources of funding were utilized in the preparation of this report.
+
+Author Contributions
+K.K. conceptualized and wrote the manuscript in consultation with J.L.C. K.K. wrote the literature discussion and compiled Table 2. N.H. provided the pathology slides and Table 1. A.G. verified patient's data provided in the manuscript. J.L.C. and K.K. supervised the work.
+
+Fig. 1 a T2 FLAIR axial MRI of the brain showing slightly heterogenous hyperintense mass in the right temporal lobe with surrounding edema (green arrow). b Coronal MRI of the brain showing the lesion in the right temporal lobe (red circle) with compressive signs on the lateral ventricle (white arrow).
+
+Fig. 2 A bone marrow biopsy with H&E stain showing pan-hypocellularity with aplasia, devoid of hematopoietic cells can be noted with scattered lymphocytes and predominance of adipocytes replacing the normal bone marrow structure.
+
+Table 1 Complete blood count results during adjuvant temozolomide and at development of aplastic anemia
+
+Cell line	Before adjuvant temozolomide	Prior to cycle 2	Prior to cycle 3	Prior to cycle 4	Prior to cycle 5	Prior to cycle 6	1 month after cycle	At diagnosis of 6 aplastic anemia	
+WBC, ×103/µL	3.2	2.4	2.4	3	2.38	2.2	1	0.1	
+Hgb, g/dL	9.3	9.9	10.2	10.7	10.6	10.7	11.3	7.1	
+PLT, × 103/µL	248	152	195	144	166	168	134	16	
+ANC, × 103/µL	2.4	2.2	1.8	2.4	1.8	1.9	0.6	0.0	
+ALC, × 103/µL	0.2	0.1	0.1	0.1	0.1	0.1	0.1	0.0	
+CD4, ×103/µL	79	46	28	29	27	21	43	10	
+Table 2 Case reports of aplastic anemia associated with temozolomide
+
+Publication	Dose of TMZ	Cycles prior to aplastic anemia, n	Age, years/gender	Other suspected medication	Treatment	Outcome	
+Villano, 2006 [10]	75 mg/m2 concurrent with radiotherapy followed by 200 mg/m2 5 days in a 28-day cycle	After 4 cycles	45/male	Phenytoin, carbamazepine, ranitidine	T-cell depleted allogenic stem cell transplantation	Death 7 months after HSCT	
+	
+Oh, 2010 [7]	Concurrent TMZ (dose unspecified) with radiation	Day 18 of treatment	63/female	Ranitidine	Filgrastim, erythropoietin, transfusion	N/A	
+	
+Jalali, 2007 [20]	75 mg/m2 concurrent with radiotherapy	After finishing concurrent chemoradiation	30/female	TMP/SMX, phenytoin	G-CSF, transfusion	Rapid decline and death	
+	
+Morris, 2009 [8]	90 mg/m2 with concurrent radiation	Day 24 of treatment	16/female	Not mentioned	8/8 HLA matched unrelated Doing well 13 donor with bone marrow months after transplantation transplant	
+	
+Kopecky, 2010 [21] 75 mg/m2 concurrent with radiotherapy	Day 23 of concurrent chemoradiation	61/female	H2 blockers, anti-epileptic medication	Transfusion	Rapid decline and death	
+	
+Comez, 2010 [22]	150 mg/m2 concurrent with radiotherapy	After 3 cycles	31/female	Phenytoin	No treatment	Rapid decline and death	
+	
+Hanna, 2018 [23]	75 mg/m2 concurrent with radiation	More than 4 weeks of treatment (first thrombocytopenia and later pancytopenia)	36/female	Levetiracetam	Filgrastim, transfusion	N/A	
+	
+George, 2009 [24]	N/A	Day 14 of treatment	N/A female	N/A	N/A	N/A	
+	
+TMZ, temozolomide; N/A, not available; HSCT, hematopoietic stem cell transplant; G-CSF, granulocyte colony stimulating factor.

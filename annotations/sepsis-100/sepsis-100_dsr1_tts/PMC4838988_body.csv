@@ -1,0 +1,96 @@
+event,time
+63-year-old,0
+woman,0
+admitted to the hospital,0
+general body malaise,-48
+diarrhea,-48
+vomiting,-48
+influenza-like symptoms,-48
+confusion,0
+splenectomy,-376680
+idiopathic thrombocytopenic purpura,-376680
+menometrorhagia,-376680
+vaccinated with PPV23,-2880
+adequate antibody response,-2880
+fever,0
+hypotension,0
+bradycardia,0
+tachypnea,0
+decreased oxygen saturation,0
+cyanosis of lips,0
+cyanosis of distal extremities,0
+no neck stiffness,0
+no meningeal reactions,0
+normal cardiac auscultation,0
+normal pulmonic auscultation,0
+soft abdomen,0
+no abdominal tenderness,0
+severe sepsis,0
+volume therapy,0
+blood cultures,0
+broad-spectrum antimicrobial therapy,0
+hydrocortisone,0
+white blood cell count increased,0
+neutrophils increased,0
+hemoglobin 8.6 mmol/l,0
+thrombocytes 92 × 10^9/l,0
+CRP 224.2 mg/l,0
+P-lactate 4.8 mmol/l,0
+aB-P-O2 21.2 kPa,0
+aB-P-CO2 2.5 kPa,0
+aB-pH 7.5,0
+Streptococcus pneumococcal urinary antigen test positive,0
+chest x-ray discrete pulmonic stasis,0
+transferred to ICU,24
+disseminated intravascular coagulation,24
+microthrombi in hands,24
+microthrombi in feet,24
+blood cultures positive for S. pneumoniae,48
+antimicrobial treatment changed to penicillin G,48
+suspicion of endocarditis,72
+TTE performed,72
+hypokinesia of apical left ventricle,72
+ejection fraction 45%,72
+endocarditis dismissed,72
+necrosis of fingertips,72
+necrosis of toes,72
+renal insufficiency,72
+hemodialysis,72
+antibiotic therapy changed to ceftriaxone,72
+leucocytes decreased,96
+CRP decreased,96
+fever resolved,96
+tracheal secret culture negative,96
+transferred to medical department,216
+antibiotics stopped,216
+pneumococcal serotype 12F identified,216
+afebrile,216
+fluctuating CRP,216
+clinical improvement,216
+discharged,528
+oral dicloxacillin,528
+raised leucocytes,528
+CRP raised,528
+necrotic tissue on fingers,528
+necrotic tissue on toes,528
+wound cultures positive for Staphylococcus aureus,528
+wound cultures positive for haemolytic streptococci group C/G,528
+TTE unchanged,528
+necrotic fingers amputated,2016
+necrotic toes amputated,2016
+readmitted with severe sepsis,3360
+sepsis regimen,3360
+ceftriaxone therapy,3360
+TEE revealed endocarditis,3360
+moving elements on aortic valve,3360
+blood cultures positive for S. pneumoniae,3360
+antimicrobial treatment changed to penicillin G,3360
+treated conservatively with penicillin G,3360
+recovered,4368
+serotype 12F confirmed,0
+serological tests for PCPs,0
+antibody response to 12F confirmed,0
+three subsequent serological analyses,0
+12F antibodies detected 18 months before first IPD,-13140
+12F antibodies detected between episodes,3360
+12F antibodies detected 1 year after second IPD,8760

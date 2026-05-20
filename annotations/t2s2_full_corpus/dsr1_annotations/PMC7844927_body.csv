@@ -1,0 +1,72 @@
+event,time
+38-year-old,0
+man,0
+admitted to the hospital,0
+abdominal pain,-3
+nausea,-3
+denied chest pain,-3
+denied shortness of breath,-3
+denied palpitations,-3
+denied cough,-3
+denied haemoptysis,-3
+discharged from the hospital,-336
+COVID-19 pneumonia,-504
+endotracheal intubation,-504
+ventilatory support,-504
+CT PE study,-504
+no evidence of PE,-504
+PE at age 16,-174336
+trauma,-174336
+treated with warfarin,-174336
+diagnosed with second PE,-87600
+chronic thromboembolic pulmonary hypertension,-87600
+thromboendarterectomy,-87600
+started on long-term warfarin,-87600
+hypercoagulable work-up negative,-87600
+blood pressure 129/86 mmHg,0
+heart rate 99 bpm,0
+respiratory rate 16/min,0
+temperature 100.4°F,0
+obesity,0
+bilateral symmetrical lower extremity oedema,0
+haemodynamically stable,0
+basic metabolic panel unremarkable,0
+negative high sensitivity troponins,0
+platelets within normal limit,0
+elevated white cell count 12.94×10^9/L,0
+INR therapeutic range,0
+PT elevated 34.7 s,0
+PTT normal 37.4 s,0
+CT abdomen no abnormalities,0
+possible filling defect in right pulmonary artery,0
+CTPE showed large filling defect,0
+dilated right atrium,0
+bowing of interatrial septum,0
+increased RA pressure 8 mmHg,0
+severely dilated right ventricle,0
+severely reduced systolic function,0
+diastolic and systolic Left Ventricular septal flattening,0
+dilated inferior vena cava,0
+negative lower extremity Doppler ultrasounds,0
+fever,0
+leukocytosis,0
+no diarrhoea,0
+negative Clostridium difficile screen,0
+negative blood cultures,0
+no signs of gastrointestinal bleeding,0
+negative faecal occult blood test,0
+stable haemoglobin,0
+no acute pancreatitis,0
+normal serum amylase,0
+normal serum lipase,0
+normal pancreas on CT,0
+abdominal symptoms resolved,48
+fevers resolved,48
+leukocytosis resolved,48
+treated with intranasal oxygen,0
+supportive care,0
+transient unfractionated intravenous heparin,0
+continued on warfarin,0
+higher INR target range,0
+advised follow-up with haematology,0
+discharged,48

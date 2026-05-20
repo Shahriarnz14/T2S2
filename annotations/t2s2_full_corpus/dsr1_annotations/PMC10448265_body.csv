@@ -1,0 +1,112 @@
+event,time
+34 years old,0
+male,0
+admitted to Internal Medicine Department,0
+increasing edema of the whole body,0
+poor hygiene,0
+not taking any medications,0
+cirrhosis (alcohol use disorder),0
+hypertension,0
+hepatitis B,0
+macrocytic anemia,0
+moderate mitral valve regurgitation,0
+previous Clostridium Difficile infection,0
+stage 2 hypertensive chronic kidney disease,0
+previous episodes of acute renal failure,0
+sepsis,0
+extensive edema of lower body,0
+conscious,0
+verbal-logical contact preserved,0
+wheezing,0
+rhonchi over lung fields,0
+dullness at base of left lung,0
+loud mitral regurgitation murmur,0
+blood pressure 120/80 mmHg,0
+heart rate 100 bpm,0
+body temperature 38.0°C,0
+WBC 10.0 ×10³/μl,0
+HGB 8.1 g/dl,0
+HCT 25.6%,0
+PLT 139 ×10³/μl,0
+CRP 124 mg/l,0
+creatinine 1.83 mg/dl,0
+potassium 4.10 mmol/l,0
+sodium 130 mmol/l,0
+albumin 2.5 g/dl,0
+ALT 49 u/l,0
+AST 110 u/l,0
+INR 1.33,0
+chest X-ray showing fluid in pleural cavity,0
+CT abdomen/pelvis showing extensive edema of subcutaneous tissue,0
+no abscess,0
+echocardiogram confirmed mitral regurgitation,0
+preserved ejection fraction,0
+empiric antibiotic therapy with Ceftazidime,0
+blood cultures grew Staphylococcus Epidermidis,0
+wound cultures grew Enterobacter Cloacae,0
+wound cultures grew Escherichia Coli,0
+wound cultures grew Enterococcus Faecalis,0
+antibiotic therapy modified to Imipenem/Cilastatin,0
+vancomycin,0
+antibiotic dosage adjusted to GFR and dialysis,0
+TPN started,72
+vasopressor support with Norepinephrine,0
+Mean Arterial Pressure goal ≥65,0
+skin presented with petechiae,0
+bursting blisters oozing serous content,0
+secondary necrotic changes,0
+pain with movement,0
+pain with palpation,0
+diagnosis of Fournier's Gangrene,0
+transfer to surgical ward,0
+acute renal failure,0
+minimal urine production,0
+first session CVVHD,120
+four sessions hemodialysis,120
+first necrosectomy,168
+removal of necrotic skin and subcutaneous tissue,168
+scrotum debridement,168
+lower abdomen debridement,168
+lower extremities debridement,168
+right upper extremity debridement,168
+phimosis debridement,168
+FGSI score 7,168
+second necrosectomy,384
+application of sterile dressing,384
+Grassolind,384
+Chlorhexidine,384
+Octenisept,384
+Microdacyn dressings,384
+transported to quaternary care center,384
+HBOT initiated,384
+13 sessions HBOT,384
+epistaxis,384
+anterior tamponade,384
+transferred back to community hospital,600
+NPWT started,600
+application of NPWT dressing,600
+lower abdomen,600
+right thigh,600
+anterior surface of left thigh,600
+general anesthesia,600
+removal of devitalized tissue,600
+serous-blood content discharge 600 ml/24h,600
+negative pressure device intermittent mode,600
+NPWT deployed 16 days,600
+foam changed 4 times,600
+standard sterile dressings,912
+moisturizing agents,912
+antimicrobial agents,912
+granulation tissue achieved,912
+wound clearance achieved,912
+qualified for skin transplant,912
+CRP increased,792
+leukocytes increased,792
+blood cultures positive for Escherichia Coli,792
+urine cultures positive for Escherichia Coli,792
+urosepsis,792
+antibiotic therapy with Imipenem,792
+vasopressor support,792
+sudden cardiac arrest,960
+patient death,960
+prolonged septic shock,960

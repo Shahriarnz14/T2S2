@@ -1,0 +1,56 @@
+event,time
+74 years old,0
+female,0
+admitted to the emergency department,0
+dizziness,0
+emphysematous chronic obstructive pulmonary disease,0
+smoking habit,0
+severe chronic ischemic heart disease,0
+hypercholesterolemia,0
+hypoxemic respiratory failure,0
+SpO2 82%,0
+respiratory frequency 24/min,0
+oxygen therapy with Venturi mask,0
+electrocardiogram negative for ischemia,0
+body temperature 37.6°C,0
+lymphopenia,0
+C-reactive protein increase,0
+chest HRCT,0
+centrilobular emphysema,0
+ground glass opacity areas,0
+tested positive for Coronavirus-19,0
+admitted to the medicine department,0
+therapy with hydroxychloroquine and azithromycin,0
+deteriorated,168
+admitted to the intensive care unit,168
+admitted to Covid-19 Sub-ICU,168
+noninvasive mechanical ventilation,168
+intubation not indicated,168
+received tocilizumab,168
+started methylprednisolone,168
+started enoxaparin,168
+respiratory failure improved,216
+HRCT repeated,480
+regression of GGO,480
+arterial blood gasses improvement,480
+P/F ratio 176 mm Hg,480
+discontinuation of NIMV,480
+high flow oxygen required,480
+clinical conditions deteriorated,528
+increasing respiratory frequency,528
+worsening of hypoxemia,528
+chest HRCT,528
+increasing basal nonspecific GGOs,528
+loss of volume,528
+traction bronchiectasis,528
+gram-positive sepsis,528
+treated with linezolid,528
+respiratory conditions worsened,528
+NIMV started again,528
+arterial blood gasses,1320
+severe hypoxemic respiratory failure,1320
+P/F ratio less than 40 mm Hg,1320
+chest HRCT,1320
+radiological progression of pulmonary fibrosis,1320
+global architecture distortion,1320
+died,1440

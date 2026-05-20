@@ -1,0 +1,39 @@
+event,time
+Born in a country with a high burden of tuberculosis,-100
+Positive QuantiFERON gold test,-100
+No evidence of TB disease,-100
+History of iron deficiency anemia,-100
+History of moderately active systemic lupus erythematosus,-100
+"Medications: naproxen (375 mg, twice daily) and hydroxychloroquine (5.5 mg/kg/d)",-100
+Started treatment with 600 mg rifampin (10 mg/kg/d),0
+Tolerated the medication well for 11 days,11
+Chills and myalgias,-3
+Stopped treatment for 3 days,-3
+Resumed rifampin,0
+"Developed sudden onset severe neck pain, myalgias, arthralgias, shortness of breath and chest pain",1
+Received fluid bolus for hypotension (80/40 mm Hg),1
+Admitted to the intensive care unit (ICU),1
+No rash or mucous membrane involvement,1
+Decreased leukocyte count at admission (2.84 × 10^9/L),1
+Increased leukocyte count to 17.34 × 10^9/L 6 hours later,7
+Low eosinophil counts throughout (0.00 × 10^9/L),1
+Hemoglobin level decreased to 74 g/L on the second day of admission,24
+Elevated C-reactive protein (CRP) level of 13.6 mg/L at admission,1
+Elevated CRP level of 101.8 mg/L 24 hours later,25
+Increased aspartate aminotransferase level from 71 U/L to 99 U/L,24
+Slightly decreased complement C3 level (0.76 g/L),1
+Normal C4 level,1
+Normal creatinine kinase level,1
+Increased cortisol level (605 nmol/L),1
+CT scan of the head and echocardiogram were normal,1
+CT angiography of the neck showed localized myositis,1
+Chest radiograph showed mild pulmonary edema,1
+CT imaging of the lungs showed bilateral increased septal thickening with ground glass opacities,1
+Negative infectious work-up,1
+Negative for SARS-CoV-2 on polymerase chain reaction,1
+"Received 1 dose of rifampin in the ICU, which led to a decreased blood pressure of 93/39 mm Hg",1
+Increased vasopressor dose for 6 hours (norepinephrine 0.04–0.06 μg/kg/min),1
+Stopped rifampin and weaned off vasopressors within 30 hours of admission,30
+Started on isoniazid for TBI,30
+Completed 9 months of therapy,270
+Advised to avoid rifamycin-based medications in the future,270

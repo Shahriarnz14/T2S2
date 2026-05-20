@@ -1,0 +1,61 @@
+event,time
+newborn female,0
+24 weeks + 3 days,0
+breech presentation,0
+cord prolapse,0
+birth weight of 645 g,0
+HIV negative mother,0
+Apgar score of 4,0
+Apgar score of 8,5
+mechanical ventilation,0
+central umbilical catheters,0
+total parenteral nutrition,0
+empiric antibiotics,0
+skin sensors,0
+late-onset sepsis,-216
+Escherichia coli bacteremia,-216
+cefepime,-216
+adhesive patch removal,-192
+skin abrasion,-192
+erythema,-168
+induration,-168
+plaque with necrotic center,-168
+ulcer,-144
+subcutaneous cell tissue extension,-144
+necrotic area progression,-144
+intensive treatment,-144
+wound care team,-144
+healings,-144
+hydrating dermal wound dressings,-144
+sodium alginate,-144
+carboxymethylcellulose,-144
+hydrocolloids,-144
+thermic instability,-72
+metabolic acidosis,-72
+hyperglycemia,-72
+hypotension,-72
+clinical deterioration,-72
+cutaneous mucormicosis suspicion,-72
+skin biopsy,-72
+empiric antifungal treatment,-72
+liposomal amphotericin B,-72
+fungal biomarkers,-72
+serum galactomannan,-72
+"1,3 beta-D-glucan",-72
+refractory shock,-36
+renal failure,-36
+death,0
+Rhizopus spp.,-72
+Rhizopus arrhizus,-72
+broad aseptate hyphae,-72
+right angle branching,-72
+MALDI-TOF MS,-72
+PCR,-72
+panfungal PCR,-72
+sequencing,-72
+fungal blood cultures,-216
+necrotic eschar,-144
+skin abscesses,-144
+surgical debridement,-36
+anti-fungal treatment,-72
+L-AmB,-72

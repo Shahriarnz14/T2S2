@@ -1,0 +1,114 @@
+event,time
+25 years old,0
+female,0
+admitted to the medical intensive care unit,0
+autoimmune hepatitis,0
+cirrhosis,0
+portal hypertension,0
+ascites,0
+splenomegaly,0
+acute-onset excruciating bilateral lower extremity pain,0
+edema,0
+fever,0
+chills,0
+nausea,0
+dizziness,0
+heavy menorrhagia,0
+unprotected sexual intercourse,-336
+no history of tobacco use,0
+no history of alcohol use,0
+no history of substance use,0
+acetaminophen use,0
+ibuprofen use,0
+azathioprine,0
+prednisone,0
+not taking immunosuppressive medication,0
+prescriptions not filled in several months,0
+no recent travel history,0
+influenza vaccination,-2928
+COVID-19 vaccination,-2928
+hemodynamically unstable,0
+blood pressure 67/39 mmHg,0
+heart rate 129 beats per minute,0
+respirations 33 per minute,0
+temperature 35.1 degrees Celsius,0
+jaundice,0
+scleral icterus,0
+abdominal ascites,0
+fluid wave,0
+anasarca,0
+labia majora edema,0
+labia minora edema,0
+bilateral lower extremities edema,0
+erythematous vaginal vault,0
+minimal discharge,0
+no vesicles,0
+no lesions,0
+no retained foreign objects,0
+fine reticular violaceous patches on right proximal thigh,0
+lactic acidosis,0
+lactic acid 13.1 mmol/L,0
+creatinine 1.49 mg/dL,0
+aspartate transaminase 56 units/L,0
+alanine transaminase 62 units/L,0
+total bilirubin 3.7 mg/dL,0
+direct bilirubin 3.19 mg/dL,0
+alkaline phosphatase 213 units/L,0
+total protein 5.3 g/dL,0
+albumin 1.4 g/dL,0
+hemoglobin 5.2 g/dL,0
+leukocytes 1.3 k/uL,0
+platelets 90 k/uL,0
+prothrombin time 37.9 s,0
+international normalized ratio 3.9,0
+negative beta-human chorionic gonadotropin test,0
+occasional schistocytes,0
+paracentesis,0
+peritoneal fluid leukocyte count 9821,0
+neutrophilic predominance 82%,0
+CT angiography findings,0
+edematous wall thickening of colon and rectum,0
+intubation,0
+labored breathing,0
+tachypnea,0
+intravenous fluids,0
+blood products,0
+vasopressors,0
+vancomycin,0
+piperacillin-tazobactam,0
+doxycycline,0
+clindamycin,0
+intravenous immunoglobulin,0
+large violaceous non-blanching ecchymoses,16
+flaccid bullae,16
+dusky violaceous skin,36
+sharply demarcated borders,36
+bullae with red to black-colored fluid,36
+lactate dehydrogenase 298 units/L,0
+fibrinogen 187 mg/dL,0
+D-dimer >20 mcg/mL,0
+negative urinalysis,0
+negative salicylate level,0
+negative acetaminophen level,0
+negative Chlamydia trachomatis test,0
+negative Neisseria gonorrhea test,0
+negative urine toxicology screen,0
+negative peritoneal fluid culture,0
+blood culture positive for Streptococcus pneumoniae,0
+progressive hypoxia,0
+shock,0
+passed away,48
+autopsy findings,48
+diffuse alveolar damage,48
+serous fluid in abdominal compartment,48
+purpura fulminans,16
+pneumococcal sepsis,16
+no history of asplenia,0
+no history of hyposplenia,0
+functional hyposplenia,0
+not received pneumococcal vaccination,0
+lack of health insurance,0
+limited access to healthcare,0
+no follow-up with gastroenterology,0
+denial of chest pain,0
+no shortness of breath,0

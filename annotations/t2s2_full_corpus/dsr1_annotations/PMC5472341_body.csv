@@ -1,0 +1,149 @@
+event,time
+50-year-old,0
+male,0
+admitted to the emergency department,0
+high spiking fever,0
+disorientation,0
+antiphospholipid syndrome,0
+deep vein thrombosis,0
+ischemic stroke,0
+warfarin,0
+prosthetic tissue aortic valve replacement,0
+aortic stenosis,0
+admitted to another hospital,-2160
+brainstem hemorrhage,-2160
+nosocomial pneumonia,-2160
+severe renal failure,-2160
+hemodialysis via permacath,-2160
+anticoagulant therapy switched to enoxaparin,-2160
+permacath retained,-2160
+permacath removal not attended,0
+temperature 39°C,0
+blood pressure 80/50 mmHg,0
+pulse 128 beats per minute,0
+36 breaths per minute,0
+oxygen saturation 88% on room air,0
+disorientation,0
+no obvious foci of infection,0
+"leukocytosis 20,000 per cubic millimeter",0
+hemoglobin 12 g/dL,0
+"platelets 550,000 per cubic millimeter",0
+elevated blood urea nitrogen,0
+elevated creatinine,0
+normal chest x-ray,0
+microscopic hematuria,0
+blood culture drawn,0
+urine culture drawn,0
+permacath extracted,0
+treated with vancomycin,0
+treated with piperacillin-tazobactam,0
+treated with amikacin,0
+vasopressors,0
+admitted to ICU,0
+blood cultures grew MRSA,24
+MRSA susceptible to vancomycin MIC 0.75 μg/mL,24
+MRSA susceptible to daptomycin MIC 0.5 μg/mL,24
+MRSA susceptible to rifampin,24
+MRSA susceptible to TMP/SMX,24
+permacath tip culture MRSA,24
+transthoracic echocardiogram normal,0
+condition stabilized,48
+transferred to medical ward,48
+treated with vancomycin,48
+treated with rifampin,48
+fever persisted,72
+blood cultures grew MRSA,72
+MRSA vancomycin MIC 1 μg/mL,72
+MRSA resistant to rifampin,72
+switched to vancomycin plus piperacillin-tazobactam,72
+treatment unsuccessful,96
+transesophageal echocardiogram performed,96
+thrombus 8mm in SVC,96
+whole body CT scan no foci,96
+switched to daptomycin 10 mg/kg plus oxacillin,96
+bacteremic with MRSA,120
+MRSA non-susceptible to daptomycin MIC 1.5 μg/mL,120
+MRSA resistant to vancomycin MIC>2 μg/mL,120
+daptomycin increased to 12 mg/kg,120
+TMP/SMX added,120
+MRSA bacteremia cleared,168
+enoxaparin continued,168
+therapeutic anti Xa levels,168
+serial blood cultures sterile,168
+cardiac arrest,432
+asystole,432
+died,432
+50-year-old,0
+male,0
+admitted to the emergency department,0
+high spiking fever,0
+disorientation,0
+antiphospholipid syndrome,0
+deep vein thrombosis,0
+ischemic stroke,0
+warfarin,0
+prosthetic tissue aortic valve replacement,0
+aortic stenosis,0
+admitted to another hospital,-2160
+brainstem hemorrhage,-2160
+nosocomial pneumonia,-2160
+severe renal failure,-2160
+hemodialysis via permacath,-2160
+anticoagulant therapy switched to enoxaparin,-2160
+permacath retained,-2160
+permacath removal not attended,0
+temperature 39°C,0
+blood pressure 80/50 mmHg,0
+pulse 128 beats per minute,0
+36 breaths per minute,0
+oxygen saturation 88% on room air,0
+disorientation,0
+no obvious foci of infection,0
+"leukocytosis 20,000 per cubic millimeter",0
+hemoglobin 12 g/dL,0
+"platelets 550,000 per cubic millimeter",0
+elevated blood urea nitrogen,0
+elevated creatinine,0
+normal chest x-ray,0
+microscopic hematuria,0
+blood culture drawn,0
+urine culture drawn,0
+permacath extracted,0
+treated with vancomycin,0
+treated with piperacillin-tazobactam,0
+treated with amikacin,0
+vasopressors,0
+admitted to ICU,0
+blood cultures grew MRSA,24
+MRSA susceptible to vancomycin MIC 0.75 μg/mL,24
+MRSA susceptible to daptomycin MIC 0.5 μg/mL,24
+MRSA susceptible to rifampin,24
+MRSA susceptible to TMP/SMX,24
+permacath tip culture MRSA,24
+transthoracic echocardiogram normal,0
+condition stabilized,48
+transferred to medical ward,48
+treated with vancomycin,48
+treated with rifampin,48
+fever persisted,72
+blood cultures grew MRSA,72
+MRSA vancomycin MIC 1 μg/mL,72
+MRSA resistant to rifampin,72
+switched to vancomycin plus piperacillin-tazobactam,72
+treatment unsuccessful,96
+transesophageal echocardiogram performed,96
+thrombus 8mm in SVC,96
+whole body CT scan no foci,96
+switched to daptomycin 10 mg/kg plus oxacillin,96
+bacteremic with MRSA,120
+MRSA non-susceptible to daptomycin MIC 1.5 μg/mL,120
+MRSA resistant to vancomycin MIC>2 μg/mL,120
+daptomycin increased to 12 mg/kg,120
+TMP/SMX added,120
+MRSA bacteremia cleared,168
+enoxaparin continued,168
+therapeutic anti Xa levels,168
+serial blood cultures sterile,168
+cardiac arrest,432
+asystole,432
+died,432

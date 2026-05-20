@@ -1,0 +1,110 @@
+event,time
+15 year old,0
+girl,0
+born in a country with a high burden of tuberculosis,0
+in the care of a tertiary care infectious disease clinic for TB infection,0
+positive QuantiFERON gold test,0
+no evidence of TB disease,0
+history of iron deficiency anemia,0
+hemoglobin 97-104 g/L,0
+moderately active systemic lupus erythematosus,0
+symmetric nonerosive polyarthritis,0
+nonscarring alopecia,0
+photosensitivity,0
+Raynaud phenomenon,0
+positivity for antinuclear antibodies,0
+positivity for anti-Smith antibodies,0
+positivity for anti-ribonucleoprotein antibodies,0
+naproxen 375 mg twice daily,0
+hydroxychloroquine 5.5 mg/kg/d,0
+not taken corticosteroids for several years,0
+began treatment with 600 mg rifampin (10 mg/kg/d),-408
+began tolerating rifampin well,-408
+chills began,-144
+myalgias began,-144
+stopped treatment for 3 days,-72
+without symptom recurrence,-72
+in-person assessment,-36
+normal physical examination aside from arthritis in 2 joints,-36
+advised to resume rifampin,-36
+resumed rifampin,-2
+sudden onset severe neck pain,-1
+myalgias,-1
+arthralgias,-1
+shortness of breath,-1
+chest pain,-1
+ambulance transport to the emergency department,-0.5
+received a fluid bolus,-0.5
+hypotension (80/40 mm Hg),-0.5
+febrile (38.3°C),0
+tachypneic (28 breaths/min),0
+tachycardic (123 beats/min),0
+low-to-normal blood pressure (91/52 mm Hg),0
+weight was 60 kg,0
+no angioedema,0
+no rash,0
+no wheezing,0
+no gastrointestinal symptoms,0
+received intravenous fluids,0
+received vancomycin,0
+received ceftriaxone,0
+hypotensive again (89/36 mm Hg),2.5
+diaphoretic,2
+requiring fluid resuscitation,2
+requiring norepinephrine infusion,2
+requiring epinephrine infusion,2
+admitted to the intensive care unit,3
+no rash,3
+no mucous membrane involvement,3
+decreased leukocyte count (2.84 × 10^9/L) at admission,0
+leukocyte count increased to 17.34 × 10^9/L 6 hours after ED admission,6
+low eosinophil counts throughout (0.00 [normal 0.02–0.51] × 10^9/L),0
+hemoglobin level decreased to 74 g/L,24
+bilirubin level was normal,0
+haptoglobin level was normal,0
+direct antiglobulin test was negative,0
+blood film did not show schistocytes,0
+C-reactive protein (CRP) level of 13.6 (normal < 1.7) mg/L at admission,0
+C-reactive protein level increased to 101.8 mg/L about 24 hours later,24
+aspartate aminotransferase level was 71 (normal < 31) U/L at admission,0
+aspartate aminotransferase level increased to 99 U/L during the first 24 hours,12
+complement C3 level was slightly decreased (0.76 g/L),0
+C4 level was within normal range,0
+creatinine kinase level was normal,0
+previous finding of a partially empty sella turcica on magnetic resonance imaging,0
+cortisol level was increased (605 nmol/L),0
+severe neck pain was present,0
+nuchal rigidity was present,0
+shock was present,0
+critical care team suspected sepsis,0
+CT scan of the head was normal,6
+echocardiogram was normal,6
+CT angiography of the neck did not show an infected thrombus,6
+CT angiography of the neck did not show edematous retropharyngeal soft tissue,6
+CT angiography of the neck showed localized myositis,6
+chest radiograph showed mild pulmonary edema attributed to fluid resuscitation,6
+mild pulmonary edema responded to diuresis,12
+CT imaging of the lungs showed bilateral increased septal thickening,6
+CT imaging of the lungs showed ground glass opacities,6
+blood cultures were negative,0
+sputum cultures were negative,0
+throat cultures were negative,0
+cerebrospinal fluid cultures were negative,0
+serology for Epstein-Barr virus was negative,0
+serology for cytomegalovirus was negative,0
+serology for mycoplasma was negative,0
+negative for SARS-CoV-2,0
+received 1 dose of rifampin in the ICU,12
+decreased blood pressure of 93/39 mm Hg,13
+vasopressor dose was increased (norepinephrine 0.04–0.06 μg/kg/min),13
+Rifampin was stopped,19
+weaned off vasopressors,30
+attributed her presentation to a rifampin-induced adverse drug reaction,30
+started her on isoniazid for TBI,48
+successfully completed 9 months of therapy,6528
+told her to avoid rifamycin-based medications in the future,48
+performed additional investigations,0
+99% saturation,0
+pattern of symptoms beginning a few hours after rifampin ingestion,-144
+vasopressor dose remained increased for 6 hours,13
+pattern of symptoms resolving a few hours later,-144

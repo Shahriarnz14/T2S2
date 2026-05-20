@@ -1,0 +1,53 @@
+event,time
+46 years old,0
+female,0
+admitted to Emergency Department,0
+headache,0
+vomiting,0
+neurological deterioration,0
+hyposthenia of the left hemysome,0
+cerebral CT scan,0
+intraparenchymal hemorrhage of the right frontoparietal region,0
+magnetic resonance imaging (MRI) of the brain,0
+rupture of an internal carotid artery aneurysm,0
+emergency evacuation of the hematoma,0
+clipping of the aneurysm,0
+transferred to intensive care unit (ICU),0
+fever up to 38.5°C,144
+treated with intravenous gentamicin,144
+Escherichia coli urinary tract infection,144
+fever up to 39°C,264
+neutrophilic leukocytosis,264
+thrombocytopenia,264
+procalcitonin value of 1.15 ng/mL,264
+blood cultures positive for R. mannitolilytica,264
+blood cultures positive for R. pickettii,264
+susceptible to ciprofloxacin,264
+susceptible to trimethoprim-sulfamethoxazole,264
+fever persisted,264
+targeted therapy with intravenous ciprofloxacin,264
+blood cultures positive for Candida parapsilosis,456
+blood cultures positive for R. pickettii,456
+blood cultures positive for R. mannitolilytica,456
+cultures of central venous catheter negative,456
+cultures of respiratory secretions negative,456
+cultures of urine negative,456
+cultures of rectal swab negative,456
+transthoracic echocardiogram negative,456
+funduscopic examinations negative,456
+MRI showed thrombosis of the internal carotid artery,456
+anticoagulant therapy with enoxaparin,456
+clearance of candidemia,528
+trimethoprim-sulfamethoxazole added,600
+antibiotic treatment discontinued,960
+bacteraemia relapsed,1056
+treated with trimethoprim-sulfametoxazole,1056
+treated with ciprofloxacin,1056
+cranioplasty surgery,1248
+fever,1920
+blood cultures positive for R. pickettii,1920
+ciprofloxacin administered,1920
+clinical improvement,1920
+transferred to rehabilitation centre,1920
+eight-week therapy course completed,1920
+no further relapse,4320

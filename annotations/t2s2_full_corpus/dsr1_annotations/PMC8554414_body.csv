@@ -1,0 +1,49 @@
+event,time
+40-year-old female,0
+high fever,-4320
+fever,-4320
+diffuse large B-cell lymphoma (DLBCL),-1440
+R-CHOP regimen,-1440
+rituximab,-1440
+cyclophosphamide,-1440
+doxorubicin,-1440
+vincristine,-1440
+prednisone,-1440
+body temperature 37.8 ℃,0
+blood pressure 162/104 mmHg,0
+pulse 147 bpm,0
+respiratory rate 28 breaths/min,0
+shortness of breath,0
+moist rales in both lungs,0
+white blood cell count 7.17 × 109/L,0
+red blood cell count 2.86 × 1012/L,0
+hemoglobin 95 g/L,0
+platelet count 403 × 109/L,0
+C-reactive protein (CRP) 277.6 mg/L,0
+bone marrow cytology: active nucleated cell proliferation,0
+granulocyte red cell inversion,0
+lymphoid malignant tumor cells 22.5%,0
+bone marrow immunohistochemistry CD20 (+),0
+TDT (-),0
+anti-infective treatment,0
+body temperature 36.5 °C,+variable
+oxygen saturation 91.3%,+variable
+white blood cell count 12.32 × 109/L,+variable
+lymphocyte 1.0%,+variable
+monocyte 1.0%,+variable
+neutrophil 97.0%,+variable
+CRP 79.0 mg/L,+variable
+"chest CT: consolidation shadows, plaques, pulmonary edema",0
+chest CT after treatment: consolidation slightly disappeared,+variable
+Pneumocystis jirovecii detected,0
+Legionella pneumophila detected,0
+imipenem 1 g q6h,0
+tigecycline 100 mg q12h,0
+carprofen 5 mg qd,0
+levofloxacin 100 mL IV,+variable
+compound sulfamethoxazole 0.96 g q6h,+variable
+endotracheal intubation,+variable
+septic shock,+variable
+pancreas enlargement (B-ultrasound),+variable
+drug-induced pancreatitis,+variable
+death,+720

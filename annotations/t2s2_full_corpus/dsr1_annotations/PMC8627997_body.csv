@@ -1,0 +1,67 @@
+event,time
+52 years old,0
+woman,0
+high risk AML,-720
+recurrent Clostridioides difficile infection,-720
+admitted for one month prior,-720
+match-unrelated donor hematopoietic stem cell transplant,-720
+reduced intensity fludarabine-melphalan,-720
+initiated tacrolimus,-720
+initiated methotrexate,-720
+graft-versus-host prophylaxis,-720
+sepsis,-720
+metabolic encephalopathy,-720
+chronic diarrhea,-720
+transaminitis,-720
+acute kidney injury,-720
+bone graft failure,-720
+afebrile,0
+normotensive,0
+blood pressure 143/104,0
+pulse 104 beats per minute,0
+respiratory rate 22 breaths per minute,0
+oxygen saturation 97% on room air,0
+diffuse anasarca,0
+bruising throughout extremities,0
+bleeding gums,0
+oral ulcers,0
+mucositis,0
+course bilateral breath sounds,0
+hypoactive bowel sounds,0
+oral mucosa without thrush,0
+"left chest PICC site clean, dry, intact",0
+J. hoylei bacteremia,720
+J. hoylei culture drawn from peripheral line,720
+decompensation,720
+active oral mucositis hemorrhage,720
+transferred to intensive care unit,720
+intravenous cefepime for 8 days,-192
+intravenous vancomycin for 11 days,-264
+transitioned to imipenem,720
+transitioned to linezolid,720
+imipenem and linezolid for 7 days,720
+ceftriaxone MIC >2 µg/mL,720
+meropenem MIC ≤0.25 µg/mL,720
+penicillin MIC 2 µg/mL,720
+vancomycin MIC ≤1 µg/mL,720
+negative follow-up blood cultures,720
+pancytopenia worsened,720
+severely aplastic bone marrow,720
+no signs of leukemia,720
+elected comfort care,720
+elected hospice care,720
+died,768
+acyclovir,-720
+inhaled pentamidine,-720
+levofloxacin,-720
+oral vancomycin,-720
+fluconazole,-720
+voriconazole,-720
+parenteral vancomycin,-720
+piperacillin-tazobactam,-720
+aztreonam,-720
+levofloxacin,-720
+PICC line,0
+peripheral IV access,0
+indwelling urinary catheter,0
+profound neutropenia,0

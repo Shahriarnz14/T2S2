@@ -1,0 +1,93 @@
+event,time
+57-year-old woman,0
+severe rheumatic mitral stenosis,0
+severe aortic stenosis,0
+severe tricuspid regurgitation,0
+implantation of 25 mm mitral On-X valve,0
+implantation of 19 mm aortic On-X valve,0
+de Vega tricuspid annuloplasty,0
+Maze procedure,0
+cardiopulmonary bypass,0
+aortic cross-clamp,0
+chronic atrial fibrillation,0
+hypertension,0
+pacemaker placement,0
+warfarin,0
+denied history of bleeding,0
+preoperative echocardiogram,-24
+right heart catheterization,-24
+severe pulmonary hypertension,-24
+pulmonary arterial systolic pressures of 75 mmHg,-24
+severe right ventricular dilatation,-24
+admitted to ICU intubated,0
+high infusion rates of inotropic agents,0
+high infusion rates of vasopressor agents,0
+epinephrine,0
+norepinephrine,0
+vasopressin,0
+milrinone,0
+blood component therapy intraoperatively,0
+severely hypocoagulable,0
+thrombocytopenia,0
+hypofibrinogenemia,0
+elevated INR levels,0
+coagulation parameters began to normalize,0
+started subcutaneous heparin 5000 IU every 12h,192
+POD 8,192
+no antiplatelet therapy,0
+no therapeutic heparinization,0
+precarious medical condition,0
+removal of epicardial pacing wires,216
+POD 9,216
+pericardial tamponade,216
+emergent opening of sternum,216
+progressive worsening of pulmonary hypertension,216
+severe right heart failure,216
+biventricular failure,216
+intra-aortic balloon pump placement,216
+inhalational epoprostenol therapy,216
+renal failure,0
+continuous renal replacement therapy,0
+consumptive thrombocytopenia,0
+thrombocytopathia,0
+disseminated intravascular coagulopathy (DIC),504
+3 weeks after surgery,504
+blood component transfusions,504
+desmopressin,504
+cryoprecipitate,504
+factor VII,504
+DIC resolved,504
+waxing and waning coagulopathy,504
+waxing and waning thrombocytopenia,504
+6 weeks into ICU stay,1008
+profuse life-threatening bleeding,1008
+respiratory tract bleeding,1008
+upper gastrointestinal tract bleeding,1008
+bleeding from natural orifices,1008
+attempts to initiate anticoagulation,1008
+prophylactic doses of heparin,1008
+diagnostic bronchoscopy,1008
+upper gastrointestinal endoscopy,1008
+lower gastrointestinal endoscopy,1008
+extensive arteriovenous malformations (AVMs) in respiratory tract,1008
+extensive arteriovenous malformations (AVMs) in gastrointestinal tract,1008
+lack of preoperative endoscopy,0
+AVMs not restricted to colon,1008
+no definitive diagnosis of Heyde's syndrome,1008
+possible aortic valve patient-prosthetic mismatch,1008
+variant of Heyde's syndrome,1008
+little or no anticoagulation,0
+5 months in ICU,3600
+frequent transthoracic echocardiograms,3600
+frequent transesophageal echocardiograms,3600
+no valve thrombi,3600
+discharged to long-term acute care facility,3984
+aspirin,3984
+warfarin,3984
+subtherapeutic INR of 1.6,3984
+higher risk for bleeding,3984
+no thromboembolism,3984
+no further bleeding episodes,3984
+died 3 months later,5256
+pulmonary aspiration,5256
+sepsis,5256

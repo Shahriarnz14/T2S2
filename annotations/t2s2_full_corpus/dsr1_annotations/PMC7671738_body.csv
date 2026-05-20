@@ -1,0 +1,58 @@
+event,time
+67 years old,0
+male,0
+aorto-bi-iliac graft replacement placement,-8760
+abdominal aortic aneurysm,-8760
+paraplegia,-8760
+graft leaking,-8760
+embolization,-8760
+fever,0
+lethargy,0
+tachycardia,0
+tachypnea,0
+hypotension,0
+minimally responsive,0
+unable to maintain airway,0
+minimal peri-umbilical tenderness,0
+no peritoneal signs,0
+emergent intubation,0
+transferred to medical critical care unit,0
+"white blood cell count 17,000/μL",0
+hemoglobin 9.6 g/dL,0
+"platelet count 300,000/μL",0
+BUN 66 mg/dL,0
+Cr 2.1 mg/dL,0
+minimal elevation of troponin,0
+normal electrolytes,0
+severe sepsis,0
+septic shock,0
+empirical treatment vancomycin,0
+empirical treatment meropenem,0
+negative urine cultures,0
+negative respiratory culture,0
+blood culture Eggerthella lenta,0
+blood culture Escherichia coli ESBL,0
+blood culture Enterococcus Faecalis,0
+transesophageal echocardiogram no vegetation,0
+abdominal CT inflammatory changes around graft,0
+no aortoenteric fistula,0
+Indium-111 WBC scan increased activity,0
+vascular surgery evaluation,0
+unstable condition,0
+vascular interventions deferred,0
+frail condition,0
+IV vancomycin 1g daily,0
+IV meropenem 1g twice daily,7
+continued fever,168
+unable to wean from mechanical ventilation,168
+repeat blood culture same bacteria,168
+antibiotic regimen changed to tigecycline,168
+tigecycline 50 mg twice daily,168
+repeat blood cultures negative,336
+completion of antibiotics,336
+stabilization of comorbidities,336
+discharged home,336
+long term antibiotic therapy,336
+close control of inflammation markers,336
+colitis,0
+infected graft,0

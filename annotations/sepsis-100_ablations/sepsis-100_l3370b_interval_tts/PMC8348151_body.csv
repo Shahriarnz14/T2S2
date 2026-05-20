@@ -1,0 +1,42 @@
+event,time
+61 years old,0
+female,0
+non-smoking,0
+hypertension,0
+chronic cough,-504
+dyspnea,-504
+weight loss,-504
+nausea,-168
+vomiting,-168
+cachexia,0
+scleral icterus,0
+jaundice,0
+dry mucous membranes,0
+normal bowel sounds,0
+decreased breath sounds,0
+tachycardia,0
+hypotension,0
+hyponatremia,0
+elevated alkaline phosphatase,0
+elevated total bilirubin,0
+elevated aspartate aminotransferase,0
+elevated alanine aminotransferase,0
+pulmonary parenchymal nodules,0
+lung mass,0
+pleural effusion,0
+common bile duct dilation,0
+gall bladder distension,0
+pancreatic head mass,0
+biliary obstruction,0
+lung biopsy,24
+biliary stenting,24
+brain metastases,48
+radiation therapy,48
+chemotherapy,48
+carboplatin treatment,48
+pemetrexed treatment,48
+pembrolizumab treatment,48
+whole brain radiation,72
+pneumonia,120
+sepsis,168
+death,168

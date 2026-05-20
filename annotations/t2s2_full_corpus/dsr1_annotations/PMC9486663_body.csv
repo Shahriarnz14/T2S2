@@ -1,0 +1,53 @@
+event,time
+11-year-old female,0
+admitted to the hospital,0
+high fever,-72
+nausea,-72
+severe weakness,-72
+myalgia,-72
+body ache,-72
+pale,0
+ill,0
+body temperature 39.5°C,0
+pulse 120 bpm,0
+blood pressure 110/75 mmHg,0
+no rash,0
+no spontaneous bleeding,0
+no jaundice,0
+hemoglobin 14.8 g/dl,0
+hematocrit 40%,0
+platelet count 140000/mm3,0
+Dengue IgM positive,0
+SARS-COV2 antigen negative,0
+standard diet,0
+feverish,24
+short of breath,24
+nausea,24
+abdominal bloating,24
+platelet count 78000/mm3,24
+platelet count 15000/mm3,48
+blood pressure 110/90 mmHg,48
+pulse 90 bpm,48
+chest X-ray pleura effusion,48
+intensive care unit,48
+severe abdominal pain,72
+abdominal ultrasonography acalculous cholecystitis,72
+AST 151 IU/L,96
+ALT 59 IU/L,96
+C-reactive protein 14.4 mg/L,96
+DHF diagnosis,96
+AAC diagnosis,96
+conservative treatment,96
+intravenous antibiotics,144
+no blood transfusion,144
+no hematoma,144
+abdominal pain,0
+abdominal bloating,0
+condition improved,168
+discharged,168
+liver function restored,168
+follow-up,168
+thickened gallbladder wall,72
+right cholestasis,72
+ascites,72
+elevated transaminase,96

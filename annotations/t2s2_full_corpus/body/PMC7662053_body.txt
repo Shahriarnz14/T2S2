@@ -1,0 +1,57 @@
+Introduction
+Myocarditis refers to any inflammation of the myocardium and it can result from a wide variety of infectious, toxic, and autoimmune causes. The most common cause of infection is parvovirus B19 (36.6%), and other causes include human herpesvirus 6, adenovirus, and enterovirus (1).
+
+Guillain-Barré syndrome (GBS) is an immune-mediated polyradiculoneuropathy that often occurs after an infection. The most frequently identified infectious agent associated with subsequent development of GBS is Campylobacter jejuni, which, combined with cytomegalovirus and Mycoplasma pneumoniae, is observed in approximately 70% of patients with GBS (2). In addition, influenza viruses can also cause both myocarditis and GBS (3, 4).
+
+There is no previous report describing that myocarditis and GBS were caused by influenza virus A, and they occurred simultaneously. The findings of this case may help determine optimal treatment strategies for such patients.
+
+Case Report
+A 47-year-old woman presented to our emergency department with complaints of weakness and numbness of the limbs, nausea, fatigue, and dyspnea. Seven days previously, she had fever and cough and was diagnosed with an acute upper respiratory infection due to influenza virus A. Five days later, she had weakness and numbness of the limbs. She had a history of GBS caused by influenza virus A 7 years previously, and its symptoms were similar to the current symptoms.
+
+On admission, she had a clear consciousness, and her vital signs were as follows: blood pressure, 84/58 mmHg; heart rate, 115 beats/minute; peripheral oxygen saturation, 99% on room air; respiratory rate, 22 breaths/minute; body temperature, 35.7°C. Manual muscle testing revealed strength of 3/5 in both lower extremities and 4/5 in both upper extremities. An electrocardiogram revealed sinus tachycardia and an elevated ST segment in lead V2-6 (Fig. 1A). The cardiothoracic ratio was 53%, and pulmonary congestion was observed (Fig. 1B). Laboratory data revealed high levels of troponin I (1.3 ng/mL) and brain natriuretic peptides (896 pg/mL). Creatine kinase was 235 IU/L, and creatine kinase-myocardial band was 15.5 IU/L (Table). Polymerase chain reaction of a nasopharyngeal swab revealed positive influenza virus A. Serology for Campylobacter, coxsackievirus, adenovirus, cytomegalovirus, parvovirus B19, Epstein-Barr virus, human herpesvirus 6, enterovirus, hepatitis, and HIV was negative. The transthoracic echocardiogram (TTE) showed a left-ventricular (LV) end-diastolic diameter of 38 mm and an ejection fraction (EF) of 25% using biplane Simpson's method of discs. The LV wall had thickened (14 mm), which was suggestive of myocardial edema.
+
+Figure 1. The electrocardiogram and chest X-ray findings on admission. (A) The electrocardiogram shows sinus tachycardia and elevated ST segment in lead V2-6. (B) The chest X-ray shows cardiomegaly and pulmonary congestion.
+
+Figure 2. Two-dimensional echocardiograms. (A) The echocardiography after insertion of extracorporeal membrane oxygenation on day 1 shows thickness of the left ventricular (LV) wall and severe left ventricular dysfunction, with an ejection fraction (EF) of 4%. (B) After an improvement of myocarditis, the left ventricular ejection fraction recovered to 67%.
+
+Table. Laboratory Data Findings on Admission.
+
+WBC	8,610	/μL	TP	5.5	g/dL	CK	235	IU/L	
+RBC	4.26×104	/μL	Alb	3.1	g/dL	CK-MB	15.5	ng/mL	
+Hb	15.2	g/dL	AST	58	IU/L	troponin I	1.3	ng/mL	
+Ht	46.3	%	ALT	44	IU/L	BNP	896	pg/mL	
+Plt	20.0×104	/μL	LDH	239	IU/L	GLU	154	mg/dL	
+			BUN	17.7	mg/dL	CRP	0.15	mg/dL	
+			Cr	0.39	mg/dL				
+			Na	136	mEq/L				
+			K	4.2	mEq/L				
+			Cl	107	mEq/L				
+Alb: albumin, ALT: alanine aminotransferase, AST: aspartate aminotransferase, BNP: brain natriuretic peptides, BUN: blood urea nitrogen, CK: creatinine kinase, CK-MB: creatinine kinase-myocardial band,Cr: creatinine, CRP: C-reactive protein, GLU: blood glucose, Hb: hemoglobin, Ht: hematocrit, Plt: platelet, RBC: red blood cells, TP: total protein, WBC: white blood cells
+
+Cardiac computed tomography showed no stenosis in the coronary arteries. Endomyocardial biopsy revealed the presence of lymphocytes, but eosinophils and giant cells were absent. She was diagnosed with fulminant myocarditis, and she was supported by venoarterial extracorporeal membrane oxygenation (VA-ECMO) and intra-aortic balloon pumping (IABP) under sedation because her shock state persisted despite being administered large quantities of norepinephrine. After 6 hours under VA-ECMO, TTE showed a severely reduced LV function and an EF of 4%, and the aortic valve hardly opened (Fig. 2A). The liver enzyme level increased due to the combination of myocardial injury and the shocked liver and bilirubin increased and peaked at 5.6 mg/dL, aspartate aminotransferase increased to 409 IU/dL, and alanine aminotransferase increased to 120 IU/dL on day 3.
+
+Her condition improved, and TTE demonstrated a gradual improvement, with a left ventricular ejection fraction of 67% (Fig. 2B). She was successfully weaned from VA-ECMO and IABP on the 7th day of hospitalization and from the ventilator on the 11th day. However, after cessation of sedation on day 8, the motor and sensory disorders in her limbs remained. Manual muscle testing revealed further reduced muscle strength in both lower (0/5) and upper (1/5) extremities with absent deep tendon reflexes. The sensory disturbance was glove-and-stocking type. A nerve conduction study revealed that the amplitude of the compound muscle action potential had decreased in the median and ulnar nerves and had disappeared in the tibial nerve. These results indicated acute motor axonal neuropathy. Although there was no albuminocytologic dissociation in the cerebrospinal fluid, she was diagnosed with axonal GBS based on acute-onset motor and sensory disorders with prior infection and loss of deep tendon reflex as well as based on the results of the nerve conduction study. Motor and sensory tests were impossible to perform while the patient was under VA-ECMO because of sedation. On day 9, five rounds of immunoadsorption for GBS were performed, and the patient's motor and sensory disorders gradually improved. She was discharged on foot on day 27.
+
+Discussion
+The annual incidence rate of acute myocarditis is approximately 0.002% (22 cases per 100,000 population), whereas that of influenza-associated myocarditis is up to 10% (3). However, a previous study reported a high prevalence of fulminant myocarditis (36/58, 62%) with a high mortality rate (14/58, 24%) among 58 cases of myocarditis associated with influenza A infection (5).
+
+Fulminant myocarditis is characterized by acute illness (<4-week history since symptom onset), hemodynamic instability due to cardiogenic shock or arrhythmias (including aborted sudden cardiac death), and the need for hemodynamic support (inotrope/mechanical circulatory support) (6).
+
+Three pathways of the pathogenesis of myocarditis by influenza virus have been elucidated. Through direct myocardial invasion, it rapidly progresses to a second phase of immunologic activation, and finally, CD4+ activation prompts the clonal expansion of B cells, resulting in further myocytolysis, additional local inflammation, and production of circulating anti-heart antibodies (7).
+
+The mainstay of therapy for acute myocarditis is supportive therapy for LV dysfunction. Most patients will improve with a standard heart failure regimen that includes the administration of angiotensin-converting enzyme inhibitors, beta-blockers, and diuretics, if needed (8). Some patients require mechanical circulatory support, such as ventricular assist devices or ECMO, as a bridge to transplantation or recovery.
+
+GBS is a rare immune disorder, with an incidence of 0.4 to 4.0 cases per 100,000 population among all ages (9). Furthermore, the estimated risk of GBS after influenza was 17.2 cases per 1 million patients hospitalized with influenza (10). Influenza B-related GBS has a severe phenotype of pure motor deficits, whereas influenza A-related GBS mainly presents as a mild clinical phenotype (4). In fact, our patient required tracheal intubation to manage heart failure, but she had no signs of respiratory muscle paralysis.
+
+The relative incidence of GBS after influenza was the highest in the first week after infection and it then decreased during the next 6 weeks.
+
+GBS generally follows a monophasic course and typically does not recur, but two or more recurrent episodes have been reported in 7% of patients (11). The mean interval between recurrences in these patients was 7 years. A previous study identified a trend toward shorter intervals between subsequent recurrences and a more severe deficit with each recurrence, which may indicate that genetic and immunological host factors partly determine the clinical phenotype, irrespective of the preceding infection (12). However, none of the patients with recurrence of GBS in the past reported myocarditis as a complication, and its mechanism thus remains unclear.
+
+Intensive care unit-acquired weakness (ICU-AW), which shows three phenotypes of polyneuropathy, myopathy, and/or muscle atrophy, needs to be differentiated from GBS. ICU-AW affects approximately one-third of patients who are ventilated for >7 days, particularly those treated for sepsis and multiple organ failure (13). To distinguish GBS from ICU-AW, it is important that weakness and areflexia commonly develop in an ascending pattern over 1-2 weeks after prior infection before admission to the ICU.
+
+Immunoadsorption, initiated within 2 weeks after disease onset, is one of the treatments for GBS, and the therapeutic effect is equivalent to that of plasma exchange or intravenous immunoglobulin (IVIG) therapy (14, 15). Although the mechanisms underlying the therapeutic effects of immunoadsorption remain to be fully identified, they are based on the removal of pathogenic humoral factors from the circulating blood, such as disease-specific autoantibodies, complement, and inflammatory cytokines (16). Furthermore, immunoadsorption was found to be significantly safer than plasma exchange (17). IVIG therapy can cause an elevation of the liver enzymes or myocardial infarction (18), which can be a major problem in patients with shock using VA-ECMO. Meanwhile, immunoadsorption also has some complications, such as hypotension, tachycardia, and bradycardia, and the use of anticoagulation and central venous access can cause bleeding/hematoma (19). Thus, treatment to improve the shock state was prioritized; then, immunoadsorption for GBS was given, which also improved the patient's symptoms. Immunomodulatory therapy, including immunoadsorption and IVIG, may be used in myocarditis refractory to conventional heart failure therapy, but these are not established treatments for viral myocarditis (20). Further studies are needed to determine whether earlier immunomodulatory therapy is effective, especially for patients with myocarditis with GBS.
+
+In conclusion, influenza virus A can cause both fulminant myocarditis and GBS simultaneously. If a neurologic abnormality presents after an improvement of fulminant myocarditis, then GBS should be considered.
+
+
+The authors state that they have no Conflict of Interest (COI).

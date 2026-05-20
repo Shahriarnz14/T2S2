@@ -1,0 +1,106 @@
+event,time
+75-year-old,0
+male,0
+admitted to cardiology,-144
+anasarca state,-144
+worsening of exertional dyspnea,-144
+arterial hypertension,0
+chronic atrial fibrillation,0
+type 2 diabetes,0
+moderate chronic renal failure,0
+myocardial infarction,-105192
+coronary artery bypass grafting,-105192
+implantable defibrillator,-105192
+low left ventricle ejection fraction,-105192
+ramipril,0
+cardensiel,0
+aldactone,0
+fluindione,0
+metformin,0
+furosemide,0
+increased diuretic treatment,-144
+furosemide 500 mg twice a day,-144
+introduction of spironolactone 50 mg/day,-144
+indwelling urinary catheterization,-144
+transferred to cardiology intensive care unit,-138
+acute renal failure,-138
+dobutamine,-138
+arterial hypotension,-138
+LVEF of 20%,-138
+decreasing aortic velocity integral time,-138
+transthoracic echocardiography control,-138
+transferred to intensive care unit,-144
+increased inflammatory syndrome,-144
+oliguria,-144
+persistent hypotension,-144
+confused,0
+hypothermic at 35.7 °C,0
+atrial tachycardia at 110/min,0
+capillary blood glucose level of 2.55 g/L,0
+mottling,0
+deep hypotension of 70/20 mm Hg,0
+no functional digestive signs,0
+no hematuria,0
+cloudy urinary residues,0
+foul-smelling urinary residues,0
+thrombocytopenia at 60 × 109/L,0
+hyperleukocytosis at 18.8 × 109/L,0
+inflammatory syndrome,0
+C-reactive protein 273 mg/L,0
+procalcitonin 7.53 ng/L,0
+acute renal failure,0
+creatinine 193 µmol/L,0
+urea 37 mmol/L,0
+no metabolic acidosis,0
+no hyperkalemia,0
+normal liver function tests,0
+elevated troponins,0
+no ST-segment changes on ECG,0
+hyperlactatemia at 4.32 mmol/L,0
+glycated hemoglobin 7.9%,-72
+vasoplegic hemodynamic profile,0
+probable mixed cardiogenic and septic shock,0
+thoraco-abdomino-pelvic CT scan,2
+bilateral pleural effusions,2
+cardiomegaly,2
+intra-bladder air,2
+peri-bladder air,2
+emphysematous cystitis,2
+no mesenteric ischemia,2
+no pyelonephritis,2
+central venous line placement,0
+noradrenaline,0
+failure of vascular filling,0
+mineralocorticoids,0
+intravenous insulin therapy,0
+microbiological sampling,0
+probabilistic antibiotic therapy,0
+piperacillin/tazobactam,0
+amikacin,0
+hemodynamic monitoring,0
+collapsed cardiac output,0
+cardiorespiratory arrest during CT,2
+ventricular tachycardia,2
+external cardiac massage for 3 min,2
+1 mg of adrenalin,2
+internal electric shock,2
+intubated,2
+sedated,2
+absence of signs of awakening,2
+series of cardiorespiratory arrests,2
+shockable rhythm,2
+electromechanical dissociation,2
+no flow at 0 min,2
+low flow of 3-4 min,2
+died,9
+refractory shock,9
+multivisceral failure,9
+noradrenaline increased to 4 µg/kg/min,9
+dobutamine increased to 20 µg/kg/min,9
+antiarrhythmics introduced,9
+amiodarone,9
+xylocaine,9
+hemofiltration,9
+Enterobacter cloacae in urine,0
+methicillin-sensitive Staphylococcus aureus in blood cultures,0
+no endocarditis,0

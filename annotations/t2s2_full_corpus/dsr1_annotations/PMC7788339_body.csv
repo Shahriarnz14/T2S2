@@ -1,0 +1,98 @@
+event,time
+6 years old,0
+male,0
+referred to our center for evaluation of adrenal mass,0
+admitted to the hospital,"-prior to transfer, timeline not clear; assuming admission at transfer, timestamp 0"
+posterior reversible encephalopathy syndrome,-24
+hypertension,-24
+brain CT,-24
+brain MRI,-24
+abdominal CT (initial),-24
+adrenal mass,-24
+pheochromocytoma suspected,-24
+oral nifedipine,-24
+IV labetalol HCl,-24
+IV dexamethasone,-24
+hypertensive encephalopathy,-24
+transferred to our center,0 (admission time)
+born at 40 weeks gestation,0 (history)
+no perinatal complications,0 (history)
+no medical history,0 (history)
+family history of hyperthyroidism,0
+family history of thyroid cancer,0
+no headache,0
+no palpitation,0
+no diaphoresis,0
+weight gain 20 kg in 10 months,-7200 (approx. 10 months prior to admission)
+pulse rate 110 beats/min,0
+blood pressure 170/110 mmHg,0
+respiratory rate 18/min,0
+temperature 36.6℃,0
+moon face,0
+central obesity,0
+buffalo hump,0
+abdominal striae,0
+hirsutism,0
+height 125 cm,0
+weight 35 kg,0
+BMI 23.04 kg/m²,0
+normal CBC,0
+normal electrolytes,0
+normal liver function,0
+normal renal function,0
+fasting glucose 96 mg/dL,0
+hemoglobin A1c 5.7%,0
+proteinuria,0
+glycosuria,0
+urine calcium/creatinine ratio 0.23,0
+normal ECG,0
+normal echocardiography,0
+normal kidney Doppler ultrasound,0
+abdominal CT (heterogeneous mass 2.7 cm),0
+tiny stone in right distal ureter,0
+abdominal MRI (3.3 cm mass),0
+elevated 24-hour urinary free cortisol 1529.2 μg/day,0
+elevated midnight serum cortisol 26.4 μg/dL,0
+unsuppressed cortisol after low-dose DST 30.9 μg/dL,0
+undetectable plasma ACTH,0
+aldosterone/renin ratio 11,0
+plasma metanephrine 0.07 nmol/L,0
+plasma normetanephrine 0.09 nmol/L,0
+urine metanephrine 65.9 μg/day,0
+urine normetanephrine 86.9 μg/day,0
+primary aldosteronism ruled out,0
+pheochromocytoma ruled out,0
+abdominal pain,"+24 (after admission, approximate)"
+hematuria,+24
+anuria,+24
+"abdominal CT (repeat, bilateral ureter stones)",+24
+drowsiness,+24
+uncontrolled blood pressure,+24
+elevated BUN 41.5 mg/dL,+24
+elevated creatinine 2.32 mg/dL,+24
+AKI,+24
+transfer to ICU,+24
+CRRT initiated,+24
+fever,+24
+elevated CRP 135.1 mg/L,+24
+broad-spectrum antibiotics,+24
+IV etomidate 0.03 mg/kg/hr,+24
+serum cortisol monitoring every 4-6 hours,+24
+etomidate decreased to 0.02 mg/kg/hr,+48 (after dose adjustment)
+IV hydrocortisone 15 mg/m²/24 hr,+48
+serum cortisol 5.5 μg/dL,+48
+blood pressure improvement,+72
+losartan K discontinued,+72
+minoxidil discontinued,+72
+nicardipine discontinued,+72
+oliguria improvement,+72
+CRRT discontinued,+72
+IV etomidate discontinued (pre-surgery),"+96 (1 hour before surgery, approx. 96 hours after admission)"
+IV hydrocortisone increased to 100 mg/m²/24 hr,+96
+laparotomy for adrenal mass,+96
+adrenocortical adenoma confirmed,+96
+surgery successful,+96
+IV hydrocortisone changed to oral,+120 (post-op day 1)
+ureteral stones removed,+120
+calcium carbonate apatite stones,+120
+discharged,+168 (approx. 7 days post-admission)

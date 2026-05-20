@@ -1,0 +1,108 @@
+event,time
+54 years old,0
+African-American,0
+woman,0
+admitted to the Emergency Department,0
+fevers,-336
+cough,-336
+progressive shortness of breath,-336
+intubated,0
+CT angiogram shows bilateral pulmonary emboli,0
+respiratory failure secondary to SARS-CoV-2,0
+admitted to the ICU,0
+hypoxic on 10 L non-rebreather,0
+increased oxygen supplementation,0
+intubated,0
+transthoracic echocardiogram reveals a right ventricular thrombus,24
+positive for SARS-CoV-2 by PCR,96
+remains intubated in the ICU,48-336
+extubated,336
+transferred to the step-down unit on 6 L nasal cannula,336
+transferred to the general medical floors on 5 L nasal cannula,408
+discharged to the inpatient rehabilitation unit on room air,456
+deep vein thrombosis,0
+remote provoked pulmonary embolism,0
+history of provoked pulmonary embolism after a long aeroplane ride in 2012,0
+anticoagulated with warfarin for 3 months,0
+oxygen saturation 99% on room air,0
+blood pressure 100/70 mmHg,0
+heart rate 75 b.p.m.,0
+respiratory rate 30 breaths/min,0
+elevated D-dimer 2.86 mg/L,0
+ferritin 683.2 ng/mL,0
+lactate dehydrogenase 929 U/L,0
+aspartate aminotransferase 190 U/L,0
+alanine aminotransferase 131 U/L,0
+decreased platelet count 98,0
+white blood cell count 3.9,0
+absolute lymphocyte count 0.59,0
+elevated probrain natriuretic peptide 2016 pg/mL,0
+troponin elevation 0.100 ng/mL,0
+electrocardiogram shows right ventricular strain,0
+bedside transthoracic echocardiogram reveals dilated right ventricle with McConnell’s sign,0
+computed tomography angiography of the chest reveals large pulmonary embolism in right main pulmonary artery,0
+smaller pulmonary emboli in left upper and lower lobe,0
+computed tomography of the chest demonstrates right heart strain,0
+multiple scattered ground-glass opacities,0
+oxygen saturation 84% on 4.5 L nasal cannula,0
+cardiovascular exam normal,0
+lungs clear to auscultation bilaterally,0
+mild respiratory distress with accessory muscle use,0
+supplemental oxygen demands increased,0
+hypoxic,0
+consented to endotracheal intubation,0
+intubated,0
+managed with volume control without ARDS protocol,0
+required norepinephrine,0
+transthoracic echocardiogram confirms severe right ventricular dilatation,0
+moderate pulmonary hypertension,0
+thrombus 1.3 cm × 1.3 cm in right ventricle,0
+echodensity on anterior tricuspid leaflet,0
+thrombus 1.4 cm × 1.9 cm in inferior vena cava,0
+started on azithromycin 500 mg,0
+transitioned to doxycycline,24
+started on hydroxychloroquine,24
+hydroxychloroquine given for 5 days,24
+doxycycline 100 mg twice a day for 5 days,24
+treated with intravenous heparin,24
+transitioned to enoxaparin 80 mg twice a day,336
+catheter-directed thrombolysis discussed,24
+right popliteal deep vein thrombosis,336
+D-dimer elevated at 2.35 mg/L,456
+discharged on therapeutic dose of enoxaparin,456
+inpatient rehabilitation therapy,456
+no new complaints,456
+hoarse voice,336
+hypoxic respiratory failure,0
+elevated D-dimer,0
+elevated ferritin,0
+elevated lactate dehydrogenase,0
+elevated aspartate aminotransferase,0
+elevated alanine aminotransferase,0
+decreased platelet count,0
+decreased white blood cell count,0
+decreased absolute lymphocyte count,0
+elevated BNP,0
+elevated troponin,0
+right ventricular strain on ECG,0
+right heart strain on CT,0
+ground-glass opacities,0
+dilated right ventricle,0
+pulmonary hypertension,0
+right ventricular thrombus,0
+inferior vena cava thrombus,0
+bilateral pulmonary emboli,0
+ARDS,0
+respiratory failure,0
+SARS-CoV-2 positive,96
+no cardiac thrill,0
+no murmurs,0
+no gallops,0
+no rubs auscultated,0
+denies chest pain,0
+denies vaginal bleeding,0
+refused coumadin,456
+no new complaints post-extubation,336
+improved hoarse voice,336
+tolerates therapy well,456
+no complications,456

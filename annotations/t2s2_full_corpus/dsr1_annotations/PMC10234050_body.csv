@@ -1,0 +1,53 @@
+event,time
+baby boy,0
+born by emergency cesarean section,0
+severe preeclampsia in mother,-0
+birthweight of 665 g,0
+intubated in delivery room,0
+transferred to neonatal intensive care unit,0
+mechanical ventilation,0
+total parenteral nutrition (TPN) started,24
+minimal enteral nutrition with breast milk started,24
+delayed meconium passage,24
+abdominal distension,24
+increased gastric residuals,24
+necrotizing enterocolitis (NEC),144
+minimal enteral feeding discontinued,144
+gastric free drainage,144
+broad-spectrum antibiotic therapy initiated,144
+operated on postnatal sixth day,144
+perforated NEC,144
+multiple areas of perforation,144
+circulatory disturbances in intestinal wall,144
+long segment of jejunum and ileum resected,144
+stoma formed,144
+TPN continued,168
+minimal enteral feeding restarted,168
+enteral nutrition insufficient due to short bowel syndrome,168
+thyroid screening tests on postnatal day 14,336
+fT4: 0.87 ng/dL,336
+TSH: 0.061 mIU/L,336
+cortisol 5.75 µg/dL,336
+serum total bilirubin 12.12 mg/dL,336
+direct bilirubin 11.48 mg/dL,336
+fT4 decreasing one week later,504
+enteral levothyroxine 5 µg/kg/day started,504
+no response to treatment,504
+enteral levothyroxine increased to 10 µg/kg/day,504
+no increase in fT4,504
+poor absorption of levothyroxine,504
+duodenum incomplete,504
+jejunum incomplete,504
+ileum incomplete,504
+rectal levothyroxine initiated,504
+tablet ground and diluted with saline,504
+rectal dose 10 µg/kg/day,504
+fT4 levels increased after nine days,720
+bilirubin levels decreased,720
+discharged,N/A
+died on postnatal day 77,1848
+severe bronchopulmonary dysplasia,1848
+surgical NEC,1848
+short bowel syndrome,1848
+sepsis,1848
+written informed consent obtained,1848

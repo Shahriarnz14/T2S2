@@ -1,0 +1,128 @@
+event,time
+27 years old,0
+Hispanic male,0
+no past medical history,0
+no surgical history,0
+presented to emergency department,0
+fevers,-120
+chills,-120
+intermittent epigastric pain,-120
+epigastric pain,-120
+burning quality pain,-120
+non-radiating pain,-120
+pain lasting 20 minutes,-120
+pain recurred over multiple days,-120
+subjective fevers,-48
+chills,-48
+single episode of vomiting,-48
+denied diarrhea,0
+denied sick contacts,0
+denied recent travel,0
+denied dysuria,0
+denied hematuria,0
+denied chest pain,0
+denied shortness of breath,0
+tachycardic,0
+heart rate 122 beats per minute,0
+afebrile,0
+temperature 98.2°F,0
+relatively normotensive,0
+blood pressure 106/59 mmHg,0
+diaphoretic,0
+no significant distress,0
+mildly jaundiced skin,0
+icteric sclera,0
+lungs clear to auscultation,0
+cardiac exam negative for murmurs,0
+cardiac exam negative for rubs,0
+cardiac exam negative for gallops,0
+extremities within normal limits,0
+no edema,0
+no rash,0
+mildly tender epigastrium,0
+soft abdomen,0
+non-distended abdomen,0
+no rebound tenderness,0
+no involuntary guarding,0
+no Rovsing’s sign,0
+no Obturator sign,0
+no Murphy’s sign,0
+non-tender abdomen,0
+leukocytosis,0
+"WBC 16,000",0
+toxic granulations,0
+neutrophilic predominance,0
+thrombocytopenia,0
+"platelet count 20,000/μL",0
+elevated D-dimer,0
+D-dimer 1428 mg/dl,0
+elevated fibrinogen,0
+fibrinogen 864 mg/dl,0
+elevated total bilirubin,0
+total bilirubin 2.9 mg/dL,0
+elevated alkaline phosphatase,0
+alkaline phosphatase 278,0
+normal chest radiograph,0
+normal electrocardiogram,0
+treated for severe sepsis,0
+treated for septic shock,0
+received normal saline boluses,0
+received broad-spectrum antibiotics,0
+responded to interventions,0
+vital signs normalized,0
+feeling better,0
+abdominal ultrasound ordered,0
+liver normal,0
+no intrahepatic ductal dilatation,0
+no extrahepatic ductal dilatation,0
+kidneys normal,0
+aorta normal,0
+spleen normal,0
+pancreas normal,0
+gallbladder without stones,0
+gallbladder without sludge,0
+gallbladder wall thickening,0
+gallbladder wall 5mm,0
+no peri-cholecystic fluid,0
+surgical consult placed,0
+no tenderness on exam,0
+no distension on exam,0
+abnormal lab findings,0
+gallbladder wall thickening noted,0
+possible atypical acute cholecystitis,0
+recommended CT abdomen/pelvis,0
+recommended medical workup,0
+admitted to medical ICU,0
+continued antibiotic therapy,0
+infectious workup,0
+tested for influenza,0
+tested for viral hepatitis,0
+tested for HIV,0
+tested for malaria,0
+tested for tularemia,0
+blood cultures grew E. coli,48
+antibiotics tailored,48
+CT abdomen/pelvis obtained,72
+dilated retrocecal appendix,72
+thick walled retrocecal appendix,72
+adjacent inflammation,72
+free fluid,72
+acute appendicitis,72
+gallbladder wall inflammation,72
+secondary to appendicitis,72
+final CT read confirmed appendicitis,96
+pylephlebitis,96
+hypodense tubular lucencies in liver,96
+taken to operating room,96
+laparoscopic appendectomy,96
+procedure without complications,96
+IV antibiotics continued,96
+discharged,144
+antibiotics discontinued,144
+WBC 15.1 ×10³/μL,144
+elevated total bilirubin 3.0 mg/dL,144
+seen in surgery clinic,192
+minimal pain at surgery site,192
+eating and drinking without issue,192
+staples removed,192
+lost to follow up,192

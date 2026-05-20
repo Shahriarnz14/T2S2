@@ -1,0 +1,91 @@
+event,time
+27 years old,0
+female,0
+gravida 4,0
+para 3,0
+17 weeks’ gestation,0
+fever,-72
+dry cough,-72
+shortness of breath,-72
+presented at local health center,-72
+diagnosed with COVID-19,-72
+SARS-CoV-2 positive,-72
+first COVID-19 vaccine dose,-264
+admitted to hospital,0
+fever,0
+shortness of breath,0
+dry cough,0
+conscious,0
+stable hemodynamic parameters,0
+body temperature 39.0°C,0
+oxygen saturation 84%,0
+oxygen by mask,0
+FiO2 60%,0
+respiratory rate 30 breaths/minute,0
+blood pressure 130/80 mmHg,0
+pulse 125 beats per minute,0
+transferred to ICU,0
+severe ARDS,0
+increased liver enzymes,0
+increased AST,0
+increased ALT,0
+increased CRP,0
+increased LDH,0
+increased ferritin,0
+severe hypoxia,0
+moderate hypercapnia,0
+normal renal function,0
+normal coagulation tests,0
+bilateral alveolar infiltration,0
+live fetus,0
+sinus tachycardia 117 bpm,0
+COVID-19-induced severe ARDS,0
+HFNC with 100% FiO2,0
+flow 60 l/min,0
+respiratory status not improved after 24h,24
+BiPAP,24
+EPAP 8 cmH2O,24
+IPAP 13 cmH2O,24
+FiO2 100%,24
+severe hypoxemia at day 4,96
+respiratory rate >35 breaths/minute,96
+SpO2 <88% on BiPAP,96
+FiO2 >80%,96
+intubated,96
+IMV,96
+VC mode,96
+RR 20/min,96
+PEEP 10 cmH2O,96
+Vt 300 ml,96
+I/E ratio 1/2,96
+FiO2 100%,96
+dexamethasone 6 mg/day,0
+enoxaparin 60 mg twice daily,0
+clopidogrel 75 mg daily,0
+ceftriaxone 2 g/day,0
+multivitamins,0
+magnesium,0
+zinc,0
+enteral feeding,0
+parenteral nutrition,0
+clinical deterioration day 6,144
+TPE initiated,144
+3 cycles/alternating day,144
+20% human albumin replacement,144
+improved clinical status,168
+improved ABG,168
+improved biochemical parameters,168
+no TPE complications,168
+PaO2 improvement after TPE,168
+fever 39°C at day 12,288
+ceftriaxone discontinued,288
+meropenem initiated,288
+linezolid initiated,288
+extubated day 13,312
+CPAP FiO2 60%,312
+HFNC day 15,360
+reduced flows and FiO2,360
+nasal cannula day 21,504
+oxygen discontinued day 21,504
+discharged day 27,648
+healthy 20-week fetus,648

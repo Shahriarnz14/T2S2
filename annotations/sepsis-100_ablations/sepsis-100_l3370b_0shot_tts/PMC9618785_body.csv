@@ -1,0 +1,50 @@
+event,time
+sudden-onset severe headache ,-120
+left arm numbness ,-120
+cranial computed tomography (CT) scan ,-120
+admission to neurosurgical ward ,-120
+digital subtraction angiography (DSA) ,-120
+ruptured right middle cerebral artery aneurysm ,-120
+percutaneous endovascular coil embolization ,-120
+fever ,-59
+chills ,-59
+abdominal pain ,-59
+purulent uterine discharge ,-59
+empiric antibacterial therapy ,-59
+sepsis ,-55
+septic shock ,-55
+admission to intensive care unit ,-55
+mild disorientation ,-55
+slower capillary refill ,-55
+coarse rales ,-55
+sequential organ failure assessment (SOFA) score ,-55
+hemoglobin of 6.8 g/dL ,-55
+d-dimers of 4.58 μg/mL ,-55
+C-reactive protein 322 mg/L ,-55
+fibrinogen concentration 6.4 mL ,-55
+blood culture showed E. coli ,-55
+chest radiography ,-55
+pulmonary nodules ,-55
+transvaginal ultrasound ,-55
+abdominal magnetic resonance imaging (MRI) ,-55
+enlarged uterus ,-55
+splenic metastatic lesion ,-55
+serum β-human chorionic gonadotrophin (β-hCG) ,-55
+suction evacuation and curettage ,-55
+pathology report confirmed choriocarcinoma ,-55
+initiation of multiagent chemotherapy ,-48
+low-dose etoposide ,-48
+cisplatin ,-48
+EMA/CO regimen ,-41
+grade 3 neutropenia ,-27
+incorporation of granulocyte colony stimulating factor (G-SCF) ,-27
+dose reduction of both etoposide and actinomycin D ,-27
+grade 2 alopecia ,-27
+grade 2 nausea ,-27
+restaging with MRI of the brain ,0
+18F-fluorodeoxyglucose (FDG) positron emission tomography (PET)/CT scan ,0
+EP/EMA regimen ,4
+normalization of β-hCG ,16
+grade 2 fatigue ,16
+completion of treatment ,32
+no evidence of disease ,720

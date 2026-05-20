@@ -1,0 +1,138 @@
+event,time
+18 years old,0\
+male,0\
+admitted to the hospital,0\
+fever,-72\
+rash,-72\
+acne,-672\
+minocycline,-672\
+increased WBC count,0\
+eosinophilia,0\
+systemic involvement,0\
+diffuse erythematous or maculopapular eruption,0\
+pruritis,0\
+DRESS syndrome,0\
+fever persisted,0\
+rash persisted,0\
+discharged,24\
+"Separate conjunctive phrases into its component events and assign them the same timestamp (for example, the separation of 'fever and rash' into 2 events: 'fever' and 'rash')  If the event has duration, assign the event time as the start of the time interval. Attempt to use the text span without modifications except 'history of' where applicable. Include all patient events, even if they appear in the discussion; do not omit any events; include termination/discontinuation events; include the pertinent negative findings, like 'no shortness of breath' and 'denies chest pain'.  Show the events and timestamps in rows, each row has two columns: one column for the event, the other column for the timestamp.  The time is a numeric value in hour unit. The two columns are separated by a pipe '",' as a bar-separated file. Skip the title of the table. Reply with the table only. Create a table from the following case:
+patient,0
+admitted to the hospital,0
+abdominal distension,0
+respiratory failure,0
+born to parents of Bosnian origin,0
+elective caesarean section at 34th week of gestation,0
+neonatal weight 2.710 g,0
+length 45 cm,0
+head circumference 32.4 cm,0
+Apgar score 5/8 at 1 and 5 minutes,0
+poor general condition at birth,0
+nasotracheal intubation,0
+prenatal ultrasonography showing intestinal perforation,-672
+duodenal atresia suspected,-672
+jejunal atresia suspected,-672
+polyhydramnios suspected,-672
+echocardiography demonstrating patent arterial duct,0
+patent foramen ovale,0
+negligible left to right shunt,0
+abdominal X-ray showing gastric air bubble,0
+absence of intestinal gas,0
+duodenal atresia,0
+jejunal atresia,0
+emergent laparotomy,0
+meconium peritonitis,0
+intestinal perforation,0
+16 intestinal lesions of atresias,0
+severe stenosis,0
+intestinal malrotation,0
+cecal atresia,0
+resection and anastomosis on three loci of ileal atresia,0
+ileal strictureplasties,0
+colic atresia,0
+ileocecal atresia,0
+en bloc resection,0
+gastro-intestinal anastomosis stapler,0
+ileo-colic termino-lateral anastomosis,0
+colostomy at descending colon,0
+atresia at descending colon,0
+atresia at sigmoid colon,0
+remaining ileum approximately 70 cm long,0
+histopathological examination showing intestinal lumen fibrosis,0
+parenteral nutrition,0
+central venous catheter,0
+August 2010 bowel obstruction,720
+multiple adhesions,720
+intestinal anastomosis,720
+second laparotomy,720
+tenacious adhesions between ileal loops and liver,720
+obstruction of pyloric region,720
+adhesiolysis,720
+September 2010 bowel obstruction,1464
+third laparotomy,1464
+tenacious adhesions compacting intestinal loops,1464
+adhesiolysis on each lesion,1464
+CoSeal surgical sealant application,1464
+September 2010 permanent central venous catheter placement,1464
+March 2011 bowel occlusion,5688
+peritoneal adhesiolysis,5688
+discrete intestinal maturation,5688
+numerous ileal stenotic areas,5688
+seven enteroplasties in Heineke-Mikulizt fashion,5688
+naso-jejunal enteral tube placement,5688
+March 2011 surgical wound dehiscence,5688
+wound revision,5688
+closure with interposition of mesh,5688
+April 2011 abdominal wall prosthetic patch infection,6672
+removal of device,6672
+abdominal wound closure,6672
+fluoroscopic control,6672
+Iomeron administration,6672
+radiographic intestinal transit,6672
+multiple episodes of sepsis,0
+Pseudomonas aeruginosa sepsis,0
+Candida albicans sepsis,0
+abdominal abscess,0
+laboratory investigations at ten months,7200
+severe T-cell lymphopenia,7200
+severe B-cell lymphopenia,7200
+absent proliferation to phytohemagglutinin,7200
+absent proliferation to anti-CD3,7200
+profound hypogammaglobulinemia,7200
+nadir IgG 57,7200
+undetectable IgA,7200
+undetectable IgM,7200
+diagnosis of SCID,7200
+anti-fungal prophylaxis,7200
+anti-viral prophylaxis,7200
+anti-bacterial prophylaxis,7200
+intravenous immunoglobulin replacement therapy,7200
+whole-exome sequencing,7200
+novel deleterious variant in TTC7A,7200
+homozygous 4-bp deletion (c.313ΔTATC),7200
+frameshift mutation p.Y105fs,7200
+nonsense-mediated decay,7200
+SCID-MIA diagnosis,7200
+heterozygote mutation in parents,7200
+multidisciplinary team meeting,7200
+supportive therapies decision,7200
+September 2011 percutaneous endoscopic gastrostomy,10584
+May 2012 discharge,16056
+monthly follow-up,16056
+acyclovir therapy,16056
+fluconazole therapy,16056
+antibiotic prophylaxis,16056
+immunoglobulin replacement every 21 days,16056
+barium follow-through x-ray at two years,17520
+magnetic resonance enterography at three years,26280
+patency of gut lumen,17520
+satisfactory intestinal maturation,17520
+persistent gastrointestinal sub-occlusion,26280
+home parenteral nutrition,26280
+three hospitalizations in last year,35064
+recurrent episodes of pancreatitis,35064
+neurological development impairment,35064
+stature growth impairment,35064
+height below fifth percentile,35064
+PN-associated liver disease,35064
+October 2013 multidisciplinary committee exclusion of liver and intestine transplantation,28416
+high risk of graft-versus-host disease,28416

@@ -1,0 +1,96 @@
+event,time
+50 years old,0
+male,0
+admitted to the hospital,0
+distortion of the oral commissure,-72
+dizziness,-72
+headache,-72
+malaise,-72
+vomiting,-72
+shallow nasolabial sulcus on the left side,-72
+weakness in closing the left eye,-72
+no diplopia,-72
+no dysdipsia,-72
+no hemiplegia,-72
+no limb numbness,-72
+lucid,-72
+alert,-72
+acute upper respiratory tract infection,-72
+peripheral facial neuritis,-72
+tuberculosis,-35040
+no history of immunodeficiency,0
+no history of major trauma,0
+no toxic exposure,0
+no smoking,0
+no alcoholism,0
+no drug abuse,0
+no hereditary disease,0
+no consumption of unpasteurized buttermilk,0
+blood pressure 135/85 mmHg,0
+temperature 36.5°C,0
+pulse rate 85 bpm,0
+no signs of meningismus,0
+no neurological irregularities,0
+white blood cell count 10.61 ×10^9/L,0
+fasting blood glucose level 6.3 mmol/L,0
+glycosylated hemoglobin level 6.1%,0
+normal serum creatinine,0
+normal cholesterol,0
+normal C-reactive protein,0
+normal creatine kinase,0
+normal procalcitonin,0
+normal blood coagulation parameters,0
+negative HIV antibodies,0
+negative Treponema pallidum antibodies,0
+emergency head CT no apparent abnormalities,0
+chronic fibrotic streaks in both lungs,0
+peripheral facial neuritis diagnosis,0
+dexamethasone 10 mg/day intravenously,0
+headache,72
+dysdipsia,72
+malaise,72
+fever 39.2°C,72
+neck stiffness,72
+slowness of the pharyngeal reflex,72
+peripheral facial paralysis,72
+facial nerve affected,72
+glossopharyngeal nerve affected,72
+meninges affected,72
+head CT re-examination no apparent abnormality,72
+somnolence,96
+aphagia,96
+slurred speech,96
+brain MRI multiple abnormal foci in the brainstem,96
+CSF opening pressure 245 mmH2O,96
+CSF white blood cell count 8.35 ×10^8/L,96
+CSF potassium 2.5 mmol/L,96
+CSF chloride 144 mmol/L,96
+CSF glucose 3.0 mmol/L,96
+CSF microprotein 2.19 g/L,96
+no organisms on Gram stain,96
+no organisms on India ink stain,96
+no organisms on acid-fast stain,96
+transferred to ICU,96
+physical cooling with ice blanket and ice cap,96
+ceftriaxone 2 g iv every 12 hours,96
+ganciclovir 0.25 g iv every 12 hours,96
+intracranial decompression with mannitol,96
+symptomatic treatment,96
+supportive treatment,96
+negative influenza A and B antigens,120
+negative anti-Toxoplasma antibodies,120
+Listeria monocytogenes isolated from blood culture,120
+L. monocytogenes identified by mass spectrometry,120
+CSF culture no abnormality,120
+genetic identification of CSF pathogens,120
+respiratory failure,144
+mechanical ventilation initiated,144
+ampicillin 1 g iv every 8 hours,144
+amikacin 0.4 g iv every 12 hours,144
+meropenem 2 g iv every 8 hours,144
+transferred to standard medical ward,1440
+walk normally,1440
+eat normally,1440
+central respiratory insufficiency,1440
+intermittent mechanical ventilation,8016
+satisfied with treatment and recovery,8016

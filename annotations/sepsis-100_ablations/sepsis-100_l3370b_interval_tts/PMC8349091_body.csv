@@ -1,0 +1,58 @@
+event,time
+80 years old,0
+female,0
+non-smoker,0
+hypertension,0
+admitted to the hospital,0
+acute dyspnea,-24
+fecal incontinence,-6.67
+left hemiplegia,-6.67
+dextroversion,-6.67
+dysarthria,-6.67
+vomiting,-6.67
+impaired consciousness,-6.67
+Japan coma scale score of Ⅱ-10,-6.67
+right thalamus and putamen bleeding,-6.67
+Glasgow coma scale score 12,0
+systolic blood pressure 91 mmHg,0
+respiratory rate 24/min,0
+oxygen saturation of arterial blood 86%,0
+poor oral hygiene,0
+diminished breath sounds on the left side,0
+coarse crackles in the right lung,0
+decrease in breath sounds in the front of the chest,0
+respiratory condition deteriorated,0
+endotracheal intubation,2
+mechanical ventilation,2
+bilateral infiltration,2
+admitted to the intensive care unit,2
+leukocyte count 1900/μL,2
+C-reactive protein level 3.6 mg/dL,2
+respiratory failure,2
+partial pressure of oxygen in arterial blood 64 mmHg,2
+hepatorenal function normal,2
+extensive infiltration shadows,2
+hematoma extending from the right basal ganglia and putamen to the thalamus,2
+cerebral edema,2
+consolidations admixture with ground-glass opacities,2
+A-DROP score corresponded to patient age,2
+increased blood urea nitrogen,2
+decreased SpO2,2
+impaired consciousness,2
+antigen test for coronavirus disease 2019 negative,2
+Mendelson's syndrome,2
+aspiration bacterial pneumonia,2
+sputum culture showed Streptococcus agalactiae and Klebsiella oxytoca,24
+leukocytopenia,2
+low serum CRP level,2
+elevated WBC,24
+elevated serum CRP level,24
+management in the ventilator mode,24
+meropenem,24
+levofloxacin,24
+partial pressure of oxygen in arterial blood/fraction of inspired oxygen 128.75,24
+prednisolone,24
+infiltration shadows improved,240
+extubated,240
+transferred to the Department of Neurosurgery,528
+transferred to a rehabilitation hospital,528

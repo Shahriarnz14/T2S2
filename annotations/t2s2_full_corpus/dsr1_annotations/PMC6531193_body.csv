@@ -1,0 +1,78 @@
+event,time
+58 years old,0
+male,0
+admitted to RICU,0
+hyperpyrexia,-168
+dyspnoea,-48
+cough,-48
+phlegm with blood,-48
+history of hypertension,-17520
+poultry exposure,-168
+community-acquired pneumonia (CAP),-168
+antibacterial therapy,-168
+chest CT scan,-120
+multiple ground-glass opacities,-120
+consolidation in both lungs,-120
+right pleural effusion,-120
+increased C-reactive protein (>200 mg/L),0
+increased procalcitonin (9.9 ng/mL),0
+leukopenia,0
+lymphopenia,0
+reduced CD3 T cells,0
+reduced CD4 T cells,0
+reduced CD8 T cells,0
+negative HIV antibody test,0
+arterial blood gas pH 7.46,0
+PaCO2 24.5 mmHg,0
+PaO2 46.1 mmHg,0
+multiple infiltrates in both lungs,0
+severe ARDS,0
+endotracheal intubation,0
+mechanical ventilation,0
+moxifloxacin,0
+cefoperazone-sulbactam,0
+corticosteroids,0
+CRRT,0
+influenza A (H7N9) positive,0
+oseltamivir,0
+lung recruitment,0
+prone-position ventilation,0
+ECMO,96
+bloodstream infection with MRSH,96
+vancomycin,96
+imipenem/cilastatin,96
+caspofungin,96
+Pseudomonas aeruginosa in BALF,96
+CRP improvement,96
+PCT improvement,96
+improved chest X-ray,96
+subcutaneous emphysema,240
+mediastinal emphysema,240
+decreased ventilator parameters,240
+BALF positive for H7N9,336
+deterioration,384
+rapid progression of infiltrative lesions,384
+negative G test,384
+negative GM test,384
+new bacterial co-infections,384
+BALF positive for C. neoformans,552
+blood culture positive for C. neoformans,552
+positive serum cryptococcal antigen,552
+disseminated cryptococcal infection,552
+fluconazole,552
+liposomal amphotericin B,552
+negative exogenous sources for Cryptococcus,552
+BALF negative for H7N9,456
+BALF negative for H7N9,480
+negative BALF for C. neoformans,816
+negative blood culture for C. neoformans,816
+persistent lung infiltrates,816
+progressive pulmonary fibrosis,816
+decreased tidal volume,816
+BALF positive for SMA,960
+blood culture positive for SMA,960
+increased PCT (1.7 to 20.7 ng/mL),960
+septic shock,1128
+DIC,1128
+MOF,1128
+death,1128

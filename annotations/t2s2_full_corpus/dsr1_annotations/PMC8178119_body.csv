@@ -1,0 +1,58 @@
+event,time
+72 years old,0
+male,0
+history of clinically quiescent Crohn's disease,0
+presented to emergency department,-96
+fever,-96
+fatigue,-96
+altered mental status,-96
+nausea,-96
+vomiting,-96
+new diagnosis of acute myelogenous leukemia (AML),-96
+tumor lysis syndrome,0
+acute kidney injury (AKI),0
+hyperleukocytosis,0
+intensive care unit (ICU) admission,0
+treated empirically with ceftazidime,0
+treated empirically with vancomycin,0
+blood cultures sterile,0
+urine cultures sterile,0
+"computed tomography (CT) chest, abdomen, pelvis unremarkable",0
+neutropenic after cytoreductive therapy with hydroxyurea,0
+neutropenic after cytoreductive therapy with cytarabine,0
+defervesced after receiving dose-reduced G-CLAM,0
+ceftazidime continued for neutropenic prophylaxis,0
+vancomycin stopped,0
+fevered again,120
+reported mild abdominal pain,144
+reported new diarrhea,144
+enteric pathogen panel obtained,144
+enteric pathogen panel PCR negative,144
+loperamide started,144
+blood agar plate showed 4+ MRSA,168
+reduced normal fecal flora,168
+started oral vancomycin,168
+broadened to piperacillin-tazobactam,168
+developed respiratory distress,192
+intubated,192
+recurrence of AKI,192
+recurrence of shock,192
+vancomycin IV added,192
+CT abdomen/pelvis showed diffuse small bowel wall edema,192
+CT abdomen/pelvis showed thickening,192
+CT abdomen/pelvis showed dilatation up to 6.2 cm,192
+CT abdomen/pelvis showed pneumatosis,192
+no pneumoperitoneum,192
+no surgical interventions available,192
+transitioned to comfort care,192
+expired,192
+postmortem evaluation revealed duodenum and jejunum dilatation,192
+postmortem evaluation revealed dusky discoloration,192
+postmortem evaluation revealed mucosal erythema,192
+postmortem evaluation revealed congestion,192
+postmortem evaluation revealed Gram positive cocci,192
+focal mucosal erosions in stomach,192
+focal mucosal erosions in cecum,192
+no pseudomembranes,192
+cause of death: septic shock with multiorgan failure,192
+cause of death: MRSA enterocolitis,192

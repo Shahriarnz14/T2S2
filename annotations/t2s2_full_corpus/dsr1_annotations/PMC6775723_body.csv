@@ -1,0 +1,45 @@
+event,time
+77-year-old,0
+lady,0
+uncontrolled diabetes (HbA1c-8.4),0
+hypertension,0
+chronic obstructive airway disease,0
+admitted to the ICU,0
+bilateral pneumonia,0
+acute kidney injury,0
+intubated,0
+respiratory distress,0
+subclavian central line inserted,0
+vasopressors started,0
+piperacillin and tazobactam combination,0
+clindamycin,0
+rising leukocyte counts,0
+meropenem,0
+teicoplanin,0
+endotracheal tube secretions culture reported carbapenem resistant organism (CRO),0
+colistin added,0
+fluconazole added empirically,120
+watery diarrhea,168
+racecadotril,168
+metronidazole,168
+Saccharomyces containing sachet,168
+stool routine/microscopy negative,168
+stool culture negative,168
+C. difficile toxin negative,168
+diarrhea settled,168
+hypotension,240
+diarrhea recurrence,240
+caspofungin started,240
+cultures repeated,240
+blood culture sterile,240
+Saccharomyces cerevisiae growth (central line),336
+Saccharomyces cerevisiae growth (peripheral line),336
+caspofungin stopped,336
+amphotericin B started,336
+Saccharomyces probiotic stopped,336
+central line removed,336
+repeat blood cultures (third day post-positive report),384
+repeat blood cultures (seventh day post-positive report),528
+no fungal growth,384
+no fungal growth,528
+died,576

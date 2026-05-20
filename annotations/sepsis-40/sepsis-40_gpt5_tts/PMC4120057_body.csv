@@ -1,0 +1,102 @@
+event,time
+55-year-old,0
+male,0
+presented to the ED,0
+history of asthma,0
+history of hypertension,0
+history of diet-controlled type 2 diabetes,0
+taking lisinopril,0
+taking hydrochlorothiazide,0
+25 pack-year smoking history,0
+family history was non-contributory,0
+no complaint of shortness of breath,0
+no chest pain,0
+lying supine,0
+blood pressure 109/87 mmHg,0
+no pulsus paradoxus,0
+heart rate 109 beats per minute,0
+respiratory rate of 24 breaths per minute,0
+temperature 36.5°C,0
+oxygen saturation 100% on room air,0
+mottling,0
+cyanosis,0
+no jugular venous distension,0
+no lymphadenopathy,0
+clear lungs,0
+no distant cardiac sounds,0
+regular heart rate and rhythm,0
+normal S1/S2,0
+no heart murmur,0
+unremarkable abdomen and extremities,0
+weakness,-120
+light-headedness,-120
+muscle aches,-120
+non-productive cough,-120
+wheeze,-120
+frequent shivering,-120
+did not measure his temperature at home,-120
+previous evaluation at the ED,-48
+intravenous hydration,-48
+Penicillin V prescription,-48
+positive rapid test for Group A Streptococcus,-48
+discharged,-48
+quit smoking 16 years ago,-140160
+syncope,0.5
+portable chest radiograph showed a right upper lobe infiltrate,1
+borderline enlarged cardiac silhouette,1
+possible artifact due to antero-posterior projection,1
+electrocardiogram showed only sinus tachycardia,1
+no tall QRS complex,1
+electrical alternans was absent,1
+no low QRS voltage,1
+white blood cell count 16.6 103/µL,1.5
+hemoglobin 13.4 g/dL,1.5
+sodium 129 mmol/L,1.5
+potassium 4.2 mmol/L,1.5
+carbon dioxide 21 mEq/L,1.5
+creatinine 1.0 mg/dL,1.5
+glucose 152 mg/dL,1.5
+cardiac enzymes normal,1.5
+B-natriuretic peptide 915 pg/mL,1.5
+lactic acid level 3.8 mmol/L,1.5
+initially diagnosed with severe sepsis,2
+antibiotics were started,2
+fluid resuscitation was initiated,2
+three liters of normal saline,2
+symptoms not improved after fluids,3
+blood pressure unchanged after fluids,3
+heart rate unchanged after fluids,3
+dusky mottling unchanged after fluids,3
+no identifiable jugular venous distention after the initial fluid resuscitation,3
+intensivist performed a bedside ultrasound,3.5
+pericardial effusion,3.5
+right atrial diastolic collapse,3.5
+right ventricle diastolic collapse,3.5
+ejection fraction was normal,3.5
+subcostal view was suboptimal,3.5
+precise evaluation of the inferior vena cava was not possible,3.5
+low-pressure cardiac tamponade,3.5
+another syncopal episode,4
+bedside pericardiocentesis,4.2
+200 milliliters of bloody pericardial fluid was drained,4.2
+symptoms immediately improved,4.3
+cyanosis immediately improved,4.3
+continued symptom free,8
+hemodynamically stable,8
+open pericardiotomy,8.5
+pericardial window placement,8.5
+repeat chest radiograph showed a smaller cardiac silhouette,9
+repeat electrocardiogram showed slightly increase in voltage of QRS complexes,9
+CT scan showed a pericardial drainage tube well positioned,10
+trace pericardial effusion,10
+right upper pneumonic infiltrate,10
+small bilateral pleural effusion,10
+analysis of the pericardial biopsy revealed adenocarcinoma,72
+pericardial effusion fluid revealed adenocarcinoma,72
+immune stain suggesting a pulmonary primary source,72
+bronchial brushing and washing suggestive of adenocarcinoma,72
+final results of blood cultures negative,72
+final results of urine cultures negative,72
+final results of bronchial-alveolar washing cultures negative,72
+did not have an infection,72
+discharged to follow up as an outpatient at the oncology clinic,96

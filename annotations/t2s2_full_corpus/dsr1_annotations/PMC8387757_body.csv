@@ -1,0 +1,66 @@
+event,time
+845-gram,0
+male,0
+24 weeks gestation,0
+born via emergent cesarean section,0
+admitted to neonatal intensive care unit (NICU),0
+intubated,0
+passed meconium on first day of life,-288
+normal physical exam,-288
+feeding intolerance noted on day 13,-312
+lethargy noted on day 13,-312
+moderate abdominal distention noted on day 13,-312
+sepsis workup initiated,-312
+"leukocytosis (41,500/μL)",-312
+thrombocytopenia,-312
+Candida albicans fungemia,-312
+abdominal ultrasound showed intra-abdominal fluid,-312
+inferior right hepatic lobe abscess,-312
+concern for necrotizing enterocolitis,-312
+abdominal X-rays performed,-312
+gasless abdomen on X-ray,-312
+brown feculent fluid on paracentesis,-312
+pediatric surgery consulted,-312
+suspicion of intestinal perforation,-312
+suspicion of grade III necrotizing enterocolitis,-312
+emergent exploratory laparotomy performed,-312
+feculent spillage found,-312
+necrotic colon identified,-312
+cecal perforation,-312
+necrosis of ascending colon,-312
+necrosis of proximal transverse colon,-312
+small bowel intact,-312
+small bowel well-perfused,-312
+abdomen washed out,-312
+subhepatic abscess evacuated,-312
+right hemicolectomy performed,-312
+end ileostomy created,-312
+mucus fistula created,-312
+postoperative day 5,120
+abdominal distention on postoperative day 5,120
+increased oxygen requirement on postoperative day 5,120
+persistent acidosis on postoperative day 5,120
+additional exploratory laparotomy performed,120
+large intraabdominal abscess in right upper quadrant evacuated,120
+peritoneal drain placed,120
+Candida albicans cultured,120
+coagulase negative Staphylococci cultured,120
+pseudohyphae on H&E staining,120
+pseudohyphae on GMS staining,120
+fungemia resolved at three months,2160
+ostomy takedown performed,2160
+discharged home,2160
+tolerating enteral feeds,2160
+antifungals started 10 days prior to abscess drainage,-240
+antifungals continued for 10 weeks post-operation,1680
+follow-up in clinic,2160
+excellent recuperation,2160
+regular bowel movements,2160
+good feeding tolerance,2160
+maternal bacterial vaginosis,-672
+maternal vaginal candidiasis,-672
+chorioamnionitis during delivery,0
+maternal tachycardia,0
+intermittent maternal fevers,0
+no notable liver abscess,-312
+no free air on X-ray,-312

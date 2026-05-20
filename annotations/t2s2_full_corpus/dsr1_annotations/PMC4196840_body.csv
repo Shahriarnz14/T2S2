@@ -1,0 +1,61 @@
+event,time
+67 years old,0
+male,0
+admitted to the hospital,0
+fever,-336
+cough,-336
+shortness of breath,-336
+renal transplant,-70080
+end-stage renal disease,-70080
+diabetic nephropathy,-70080
+hypertension,0
+diabetes mellitus,0
+antihypertensive therapy,0
+insulin use,0
+immunosuppressive therapy,0
+creatinine 138 μmol/L,-1344
+normal chest CT scan,-1344
+mycophenolate mofetil 500 mg,-1344
+mycophenolate mofetil 750 mg,-1344
+tacrolimus 0.5 mg daily,-1344
+prednisone 7.5 mg daily,-1344
+dyspnea,0
+body temperature 38.0°C,0
+respiratory rate 28 breaths/minute,0
+oxygen saturation 98% on 3 L via nasal cannula,0
+blood pressure 134/71 mmHg,0
+heart rate 101 beats/minute,0
+pulmonary moist rale,0
+pitting edema in the lower extremities,0
+white blood cell count 8.2×10⁹ cells/L,0
+neutrophils 89.5%,0
+hemoglobin 114 g/L,0
+platelet count 187×10⁹ cells/L,0
+potassium 6.59 mmol/L,0
+creatinine 193 μmol/L,0
+C reactive protein 199 g/L,0
+HIV negative,0
+pleural effusion,0
+bilateral airspace opacities,0
+severe pneumonia,0
+methylprednisolone 80 mg every 12 hours,0
+imipenem/cilastatin 500 mg every 8 hours,0
+trimethoprim–sulfamethoxazole 160 mg twice daily,0
+continuous venovenous hemodialysis,0
+mechanical ventilation,0
+respiratory failure,24
+heart failure,24
+chest CT scan discrete scattered patchy consolidation,72
+sputum culture Candida albicans,72
+blood culture negative,0
+teicoplanin 400 mg twice daily,72
+teicoplanin 400 mg daily,120
+imipenem/cilastatin 500 mg every 6 hours,72
+trimethoprim–sulfamethoxazole 160 mg twice daily,72
+caspofungin loading dose 70 mg,72
+caspofungin 50 mg daily,96
+T. asahii growth in blood cultures,216
+T. asahii growth in sputum,216
+sepsis,240
+multiple organ failure,240
+death,240

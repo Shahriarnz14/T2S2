@@ -1,0 +1,65 @@
+event,time
+history of bilateral breast cancers , -12000
+history of minor trauma , -1967 * 24 
+formation of cyst , -1967 * 24 
+growth of mass , -120 
+"mass started to drain, scab over and drain again ", -120 
+mass started to bleed , -120 
+portion of the mass fell out , -120 
+mass bled more profusely , -120 
+"severe diffuse swelling in arms, legs and trunk ", -240 
+shortness of breath , 0
+haemoglobin of 4.2 g/dl , 0
+admission to emergency department , 0
+afebrile , 0
+haemodynamically stable , 0
+hypertensive to 170/70 mmHg , 0
+oxygen saturation of 100% on 4-l nasal cannula , 0
+clear lung sounds , 0
+severe upper and lower extremity pitting oedema , 0
+baseball-sized malodorous occipital mass , 0
+thick oozing purulent drainage , 0
+white blood cell count of 8.3*103/μl , 0
+haemoglobin of 4.7 g/dl , 0
+albumin of 2.9 g/dl , 0
+INR of 1.6 , 0
+B-type natriuretic peptide (BNP) level of 666 pg/ml , 0
+mild interstitial oedema on chest X-ray , 0
+transfusion of three units of packed red blood cells , 12
+fever to 101.2 °F , 12
+tachycardic to 110 bpm , 12
+acetaminophen ordered , 12
+temperature increased to 102 °F , 24
+heart rate increased to 120 bpm , 24
+tachypnoeic to 30 breaths per minute , 24
+hypertensive to 200/60 mmHg , 24
+lactate level of 2.7 mEq/l , 24
+white blood cell count of 24.3*103/μl with 6% band forms , 24
+blood cultures grew E. coli , 24
+vancomycin and piperacillin–tazobactam started , 24
+creatinine doubled from 0.72 mg/dl to 1.46 mg/dL , 36
+INR of 2.4 , 36
+platelet count fell from 127*103/μl to 86*103/μl , 36
+fibrinogen of 224 mg/dl , 36
+d-dimer level of 4668 ng/ml , 36
+bilevel non-invasive positive pressure ventilation , 36
+transfer to medical intensive care unit (MICU) , 36
+hypotensive to 80/40 mmHg , 36
+vasopressors initiated , 36
+pyuria with greater than 180 white blood cells per hpf , 36
+intubation , 36
+sedation , 36
+pan-CT scan , 48
+obstructing left distal ureteric stone , 48
+extraction and stenting of ureteric stone , 60
+weaning from vasopressors , 72
+increasing pulmonary oedema on chest X-ray , 72
+oliguric , 96
+creatinine elevated to 6.4 mg/dl , 96
+urgent dialysis , 96
+stabilization , 240
+transfer to general medicine service , 240
+discharge from hospital , 672
+haemodialysis for several months , 672
+excision of neck mass , 672
+pathology showed benign haemangioma with infected haematoma and abscess formation , 672

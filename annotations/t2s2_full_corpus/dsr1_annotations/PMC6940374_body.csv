@@ -1,0 +1,86 @@
+event,time
+56 years old,0
+male,0
+pancreatic cancer,-5760
+multiple liver metastases,-5760
+chemotherapy,-5760
+stent insertion,-432
+biliary tract obstruction,-432
+febrile sense,-408
+chills,-408
+antipyretics,-408
+analgesics,-408
+admitted to nursing care hospital,-336
+unresolved fever,0
+chill,0
+abdominal pain,0
+diabetes mellitus,0
+vidagliptin/metformin,0
+acutely ill,0
+blood pressure 100/60 mmHg,0
+blood pressure 90/60 mmHg,1
+respiratory rate 20 breaths per minute,0
+pulse rate 90 beats per minute,0
+body temperature 38.8°C,0
+"WBC 1,250/mm3",0
+neutrophils 92.5%,0
+lymphocytes 4.0%,0
+hemoglobin 5.9 g/dL,0
+"platelet count 14,000/mm3",0
+C-reactive protein 19.75 mg/dL,0
+AST 274 UI/L,0
+ALT 143 IU/L,0
+total bilirubin 4.11 mg/dL,0
+direct bilirubin 2.71 mg/dL,0
+total protein 4.4 g/dL,0
+albumin 2.0 g/dL,0
+PT INR 25.3 seconds,0
+APTT 60.7 seconds,0
+BUN 34.5 mg/dL,0
+creatinine 1.9 mg/dL,0
+arterial blood gas pH 7.515,0
+pCO2 31.6 mmHg,0
+pO2 78.8 mmHg,0
+HCO3 25.5 mmol/L,0
+O2 saturation 96.9%,0
+abdomen CT,0
+no evidence of bleeding,0
+acute cholangitis,0
+septic shock,0
+intravenous piperacillin/tazobactam,0
+teicoplanin,0
+norepinephrine,0
+packed red cells transfusion,0
+platelets transfusion,0
+admitted to ICU,8
+APACHE II score 19,8
+WBC 250/mm3,56
+"platelet count 8,000/mm3",56
+died,120
+carbapenem-resistant K. pneumoniae bacteremia,0
+antimicrobial resistance to beta-lactams,0
+carbapenem resistance,0
+tigecycline resistance,0
+KPC2 producing K. pneumoniae,0
+MCR1 gene,0
+ST307/Tn4401a[blaKPC2],0
+susceptible to amikacin,0
+susceptible to colistin,0
+resistant to gentamicin,0
+resistant to amoxicillin/clavulanic acid,0
+resistant to ampicillin,0
+resistant to aztreonam,0
+resistant to cefazolin,0
+resistant to cefepime,0
+resistant to cefotaxime,0
+resistant to cefoxitin,0
+resistant to ceftazidime,0
+resistant to ciprofloxacin,0
+resistant to cotrimoxazole,0
+resistant to piperacillin/tazobactam,0
+resistant to ertapenem,0
+resistant to imipenem,0
+resistant to meropenem,0
+resistant to doripenem,0
+KCDC confirmation,120
+Rapidec Carba NP test positive,120

@@ -1,0 +1,58 @@
+event,time
+85 years old,0\
+male,0\
+type 2 diabetes mellitus,0\
+hypertension,0\
+furosemide,0\
+hydralazine,0\
+β-blocker,0\
+dyslipidemia,0\
+iron deficiency anemia,0\
+ferrous sulphate,0\
+chronic kidney disease,0\
+dementia,0\
+1-week history of reduced oral intake,-168\
+recurrent vomiting,-168\
+decreased level of consciousness,-168\
+severely dehydrated,0\
+hypotensive (92/58),0\
+mildly tachypneic (20),0\
+heart rate 87,0\
+Glasgow coma scale 11,0\
+melena,0\
+leukocytosis (12 × 10^9),0\
+low hemoglobin (12.3 g/dL),0\
+high C-reactive protein (106 mg/L),0\
+high urea (53 mmol/L),0\
+acute kidney injury,0\
+elevated lactate (4.6 mmol/L),0\
+elevated procalcitonin (4.88 ng/mL),0\
+urinary tract infection,0\
+admitted to intensive care unit,0\
+severe sepsis,0\
+urinary tract infection,0\
+upper gastrointestinal bleeding,0\
+hemoglobin dropped to 9.7 g/dL,48\
+esophagogastroduodenoscopy,48\
+hiatus hernia with Hill's classification grade 4,48\
+7-mm sessile polyp (Paris classification 0-Is),48\
+polyp removed by snaring,48\
+extensive gray to black speckles on gastric corpus,48\
+duodenal pseudomelanosis,48\
+histological examination of gastric mucosa,48\
+intact lining epithelium,48\
+preserved architecture,48\
+brownish-black pigment-laden macrophages,48\
+Perl's Prussian blue stain positive,48\
+iron deposition,48\
+diagnosis of pseudomelanosis,48\
+duodenal polyp hyperplastic,48\
+urosepsis managed with antibiotics,48\
+kidney injury managed conservatively,48\
+intravenous fluids,48\
+supportive measures,48\
+clinical improvement,120\
+transferred to wards,120\
+renal function back to baseline,288\
+septic markers improved,288\
+discharged home,288

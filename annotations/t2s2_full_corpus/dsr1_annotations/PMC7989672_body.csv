@@ -1,0 +1,67 @@
+event,time
+33 years old,0
+male,0
+sub-Saharan African origin,0
+admitted to intensive care unit,0
+severe hypotension,0
+persistent fever,0
+dyspnea,0
+chest pain,0
+diarrhea,0
+blood pressure 47/29 mm Hg,0
+tachycardia (116 beats/min),0
+oxygen therapy (2 l/min),0
+hepatojugular reflux,0
+cardiogenic shock,0
+bilateral conjunctivitis,0
+cheilitis,0
+hypertension,0
+fever episode lasting 5 days,-1008
+myalgia,-1008
+dysgeusia,-1008
+anosmia,-1008
+COVID-19 suspected,-1008
+leukocytosis (21 109/l),0
+normocytic anemia (10.7 g/dl),0
+elevated liver enzymes (2x ULN),0
+elevated creatine kinase (941 IU/l),0
+acute kidney injury (creatinine 495 μmol/l),0
+CRP 150 mg/l,0
+"brain natriuretic peptide 1,061 ng/l",0
+"D-dimer 1,900 mg/l",0
+"troponin 13,265 pg/ml",0
+sinus tachycardia,0
+no ST-segment abnormalities,0
+TTE global hypokinesis,0
+dilated inferior vena cava,0
+reduced ejection fraction (20%),0
+no pericardial effusion,0
+acute myocarditis,0
+high SARS-CoV-2 IgG,0
+negative SARS-CoV-2 PCR (x3),0
+comprehensive etiological work-up unremarkable,0
+coronary CT scan day 14,336
+"multiple coronary aneurysms (right, interventricular, circumflex)",336
+maximum aneurysm diameter 6 mm,336
+norepinephrine infusion,0
+dobutamine infusion,0
+hemodynamic support for 5 days,0
+IVIG 1 g/kg,0
+prednisone 1 mg/kg,0
+aspirin 75 mg,0
+symptoms resolved day 10,240
+CRP 10 mg/l,240
+control TTE normal LV function,168
+cardiac MRI day 7 unremarkable,168
+discharged day 12,288
+follow-up 2 months CRP <1 mg/l,1440
+follow-up CT partial regression aneurysms,1440
+follow-up TTE normal LV function,1440
+follow-up 5 months CT complete aneurysm resolution,3600
+MIS-A diagnosis,0
+Kawasaki disease mimic,0
+no prior aneurysm reports in adults,0
+no shortness of breath,0
+denies chest pain,0
+gastrointestinal symptoms,0
+treatment delay due to kidney injury,0

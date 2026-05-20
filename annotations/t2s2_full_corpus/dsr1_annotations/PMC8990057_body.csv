@@ -1,0 +1,70 @@
+event,time
+32 years old,0
+female,0
+past medical history of cystic fibrosis,0
+bronchiectasis,0
+recurrent hemoptysis,0
+pancreatic insufficiency,0
+malnutrition,0
+admitted for massive hemoptysis,0
+initially treated with broad-spectrum antibiotics,0
+computed tomography angiogram of the chest,0
+centrilobular ground-glass opacities in the left lower lobe,0
+pulmonary hemorrhage,0
+referred to interventional radiology for bronchial artery embolization,0
+right common femoral artery access,0
+left bronchial arteriogram,0
+left bronchial artery embolized to stasis,0
+post-embolization arteriogram confirmed stasis,0
+resolution of hemoptysis,0
+discharged home,0
+re-presented to the emergency department,3
+recurrent massive hemoptysis,3
+inhaled tranexamic acid administered,3
+admitted to the medical intensive care unit,3
+repeat embolization,3
+repeat CTA of the chest,3
+enlarging left upper lobe pseudoaneurysm,3
+systemic to pulmonary arterial fistulae,3
+electively intubated,3
+diagnostic bronchoscopy unable to localize source of bleeding,3
+pulmonary and systemic arterial angiography with embolization,3
+pulmonary angiography showed normal patent branching of left pulmonary arteries,3
+no opacification of pseudoaneurysm,3
+left supreme intercostal artery angiogram,3
+systemic-to-pulmonary fistula,3
+embolized with particles,3
+left thyrocervical trunk angiogram,3
+system-pulmonary fistula with pseudoaneurysm,3
+embolized with particles,3
+post-embolization angiogram showed no opacification,3
+left supreme intercostal artery dissection and thrombosis,3
+left thyrocervical trunk branch dissection and occlusion,3
+left pulmonary arterial angiogram post-embolization,3
+no visible pulmonary arterial supply to pseudoaneurysm,3
+hemoptysis improved,24
+extubated,24
+septic shock,24
+Burkholderia cepacian complex in sputum cultures,24
+weaned off vasopressors,24
+transferred out of MICU,24
+hemoptysis-free for 11 days,24
+isolated hemoptysis recurrence,312
+transferred back to MICU,312
+repeat CTA,312
+continued enhancement of pseudoaneurysm,312
+decision to monitor,312
+recurrent massive hemoptysis requiring intubation,384
+repeat CTA redemonstrated pseudoaneurysm,384
+altered morphology of pseudoaneurysm,384
+decision for repeat embolization,384
+pulmonary angiography revealed pseudoaneurysm,384
+microcatheter advanced through pseudoaneurysm,384
+coil embolization performed,384
+post-embolization angiogram showed stasis,384
+deterioration clinically,408
+increased respiratory support,408
+transition to comfort measures,408
+patient expired,432
+acute respiratory failure,432
+Burkholderia cepacian infection,432

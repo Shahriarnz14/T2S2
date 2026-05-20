@@ -1,0 +1,74 @@
+event,time
+16-year-old boy,0
+admitted to a local hospital,-1008
+severe fatigue,-1008
+computed tomography,-1008
+large anterior mediastinal tumor,-1008
+hepatosplenomegaly,-1008
+multiple lymph node swelling,-1008
+T-lymphoblastic lymphoma,-1008
+treated with multiple cytotoxic agents,-1008
+refractory to initial treatment,-1008
+transferred to our hospital,-1008
+Eastern Cooperative Oncology Group performance status 1,0
+vital signs within normal range,0
+mild hepatosplenomegaly,0
+electrocardiogram,0
+normal sinus rhythm,0
+normal range of voltage of R waves at V5 lead (2.54 mV),0
+serum brain natriuretic peptide 17.2 pg/mL,0
+transthoracic echocardiography,0
+left ventricular ejection fraction 59.8%,0
+no wall motion asynergy,0
+no valvular dysfunction,0
+"induction therapy with cyclophosphamide, doxorubicin, vincristine, prednisolone, L-asparaginase, intrathecal injection",-22w0d
+"consolidation therapy with cyclophosphamide, therarubicin, cytarabine, 6-mercaptopurine, intrathecal injection",-17w3d
+"sanctuary therapy with methotrexate, intrathecal injection",-12w1d
+"re-induction therapy with prednisolone, daunorubicin, cyclophosphamide, vincristine, L-asparaginase, etoposide",-8w3d
+"bridging therapy with doxorubicin, cyclophosphamide, vincristine, radiotherapy",-5w6d
+"conditioning regimen with etoposide, cyclophosphamide, total body irradiation",-1w0d
+cord blood cell transplantation,0
+continuous intravenous tacrolimus,0
+fever (38.6°C),-96
+treated with meropenem,-96
+high fever,48
+septic shock caused by Gram-positive cocci,72
+administered vancomycin,72
+transferred to intensive-care unit,72
+treated with circulatory assisting agents,72
+worsened respiratory condition,144
+mechanical ventilation required,144
+left ventricular ejection fraction 10.3%,144
+acute heart failure diagnosed,144
+left ventricular wall thickness,144
+decrease in R wave voltage at V5 lead (0.44 mV),144
+increase in dobutamine dose,144
+addition of milrinone,144
+heart rate 160 per minute,144
+high body temperature (38-41°C) due to sepsis and pre-engraftment immune reaction,144
+treatment with methylprednisolone 1.2 mg/kg/day,288
+"serum BNP concentration 2,764 pg/mL",384
+"serum troponin I 2,018 pg/mL",624
+consideration of circulatory assisting devices,624
+"contraindication due to severe pancytopenia, coagulopathy, immunocompromised status",624
+left ventricular ejection fraction 10-25%,624
+initiation of ivabradine 5 mg/day,624
+heart rate decreased from 162 to 116 per minute,648
+reduction in dobutamine dose,648
+"BNP decreased to 2,127 pg/mL",624
+"BNP decreased to 1,947 pg/mL",768
+BNP decreased to 918.6 pg/mL,912
+initiation of carvedilol 1.25 mg/day,768
+gradual increase in ivabradine and carvedilol doses,768
+cessation of dobutamine and milrinone,1416
+discharged from ICU,1416
+withdrawn from ventilator,2040
+engraftment of neutrophils,456
+engraftment of red blood cells,960
+engraftment of platelets,1248
+grade 3 acute graft-versus-host disease,888
+treated with methylprednisolone 2 mg/kg/day,888
+serum troponin I 530 pg/mL,840
+left ventricular ejection fraction 45.7%,3432
+improvement in R wave voltage at V5 lead (1.53 mV),3432
+death due to relapsed lymphoma,4032

@@ -1,0 +1,97 @@
+event,time
+72 years old,0
+male,0
+admitted to the emergency department,0
+weakness,-336
+fatigue,-336
+delayed presentation,0
+virtual consultation with general practitioner,-336
+conservative management,-336
+apprehensive about attending hospital,-336
+progressive dyspnoea on exertion,-96
+slight limitation of physical activity,-96
+increased urinary frequency,-96
+dark urine,-96
+no chest pain,-96
+no palpitations,-96
+no ankle oedema,-96
+no dysuria,-96
+no dysphagia,-96
+no bleeding per rectum,-96
+no abdominal pain,-96
+no weight loss,-96
+no fever,-96
+no rigours,-96
+no recent travel,-96
+spike in temperature to 39.1°C,0
+tachycardia of 133 b.p.m.,0
+benign prostatic hyperplasia,0
+Dutasteride/tamsulosin 0.5/0.4 mg,0
+tachycardic,0
+apex beat non-displaced,0
+pansystolic murmur,0
+no peripheral stigmata of cardiovascular disease,0
+no raised jugular venous pressure,0
+no peripheral oedema,0
+C-reactive protein 101 mg/L,0
+high-sensitivity troponin T 500 ng/L,0
+NT-proBNP 4337 pg/mL,0
+ferritin 1498 ng/mL,0
+sinus tachycardia,0
+diffuse non-territorial ischaemic changes,0
+perihilar air-space opacities,0
+chest radiograph abnormalities,0
+transthoracic echocardiogram: left ventricle dilated,0
+LV internal diastolic dimension 6.9 cm,0
+LV ejection fraction 47%,0
+inferior and inferoseptal walls thinned and akinetic,0
+elevated LV filling pressure,0
+moderate mitral regurgitation,0
+right ventricular systolic pressure >60 mmHg,0
+right ventricular strain pattern,0
+S1Q3T3,0
+computed tomography pulmonary angiography performed,0
+negative for pulmonary embolism,0
+pulmonary oedema,0
+moderate bilateral pleural effusions,0
+ground glass change,0
+interlobular septal thickening,0
+trace pericardial fluid,0
+pericardial thickening,0
+systemic inflammatory response syndrome suspected,0
+negative COVID-19 tests,0
+heart failure suspected,0
+ischaemic aetiology suspected,0
+admitted under general medical physician,0
+cardiology consultation,72
+diagnostic coronary angiogram,144
+occlusion of right coronary artery,144
+collateralization from left coronary system,144
+no significant coronary disease in left coronary system,144
+intravenous diuretic therapy,0
+disease-modifying agents initiated,72
+discharged home,216
+discharge diagnosis: ischaemic heart failure,216
+re-presentation with New York Heart Association class III symptoms,600
+fatigue,600
+night sweats,600
+palpitations,600
+treated with intravenous diuresis,600
+repeat transthoracic echo: severe mitral regurgitation,648
+saccular outpouching in basal inferior wall,648
+cardiac magnetic resonance imaging performed,648
+left ventricular pseudoaneurysm diagnosed,648
+severe ischaemic mitral regurgitation,648
+surgical replacement of mitral valve,816
+repair of left ventricular pseudoaneurysm,816
+postoperative complications,816
+arrhythmia,816
+cardiogenic shock,816
+ischaemic sigmoid colitis,816
+bowel perforation,816
+sepsis,816
+discharge after rehabilitation,2472
+repeat echocardiogram: ejection fraction 26%,2472
+akinetic inferior and infero-lateral walls,2472
+mitral valve prosthesis functioning well,2472
+no significant transvalvular or paravalvular regurgitation,2472

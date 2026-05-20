@@ -1,0 +1,93 @@
+event,time
+64 years old,0
+male,0
+hypertension,0
+type II diabetes mellitus,0
+alcohol consumption (past),0
+left-sided hemiparesis,0
+right-sided facial deviation,0
+slurring of speech,0
+conscious,0
+stable vital parameters,0
+Broca's aphasia,0
+UMN type VIIth cranial nerve palsy,0
+up-going plantar reflex left side,0
+left upper limb power 3/5,0
+left lower limb power 4/5,0
+total leukocytes count 15.5,0
+neutrophil 65%,0
+lymphocyte 28%,0
+hemoglobin 14.8 g/dl,0
+platelet count 213,0
+urea 41 mg/dl,0
+creatinine 1.2 mg/dl,0
+sodium 140 mEq/L,0
+potassium 5.1 mEq/L,0
+bilirubin total 1.1 mg/dl,0
+bilirubin direct 0.4 mg/dl,0
+ALP 85 U/L,0
+ALT 20 U/L,0
+AST 23 U/L,0
+prothrombin time 13.1 sec,0
+INR 1.0,0
+HbA1c 13.9%,0
+random blood glucose 331 mg/dL,0
+NCCT head showing right temporo-parietal infarction,0
+right-sided ischemic stroke,0
+UMN type VIIth CN palsy,0
+admitted to medical ward,0
+ramipril 5 mg OD,0
+amlodipine 5 mg OD,0
+metformin 500 mg OD,0
+sitagliptin 100 mg OD,0
+empagliflozin 10 mg OD,0
+insulin 10 units subcutaneous OD,0
+aspirin 75 mg OD,0
+statins 10 mg OD,0
+GRBS 186 mg/dL,24
+GRBS 103 mg/dL,48
+GRBS 117 mg/dL,72
+GRBS 145 mg/dL,96
+drowsiness,120
+rapid breathing,120
+GCS E3V4M5,120
+GRBS 218 mg/dL,120
+oxygen saturation 98%,120
+blood pressure 120/80 mmHg,120
+ABG pH 7.124,120
+HCO3- 4.1,120
+PaCO2 12.7 mmHg,120
+PaO2 90 mmHg,120
+anion gap 25,120
+lactate 1.86,120
+urine acetone positive,120
+euglycemic DKA diagnosis,120
+NaHCO3 50 mEq IV,120
+shifted to HCU,120
+normal saline infusion 100 mL/hour,120
+NaHCO3 50 mEq three times daily,120
+IV antibiotics (piperacillin/tazobactam),120
+insulin infusion 2 units/hour,120
+empagliflozin discontinued,120
+shifted to ICU,120
+ABG HCO3- 13.4 mEq/L,168
+intubated,192
+mechanically ventilated,192
+sepsis (qSOFA 2),192
+blood pressure 110/80 mmHg,192
+respiratory rate 28,192
+GCS 11/15,192
+levofloxacin 750 mg OD,192
+vancomycin 15 mg/kg/dose,192
+linezolid 600 mg every 12 hours,192
+colistin 300 mg loading dose,192
+colistin 150 mg twice daily,192
+spontaneous CPAP trial,456
+extubated,456
+shifted to HCU,456
+insulin glargine 10 units subcutaneous OD,456
+insulin aspart 4 units subcutaneous TDS,456
+stable vital parameters,456
+bedside mobilization,456
+chest/limb physiotherapy,456
+discharged,432

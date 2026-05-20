@@ -1,0 +1,68 @@
+pmcCase Presentation
+
+A 22-year-old female patient presented to hospital with headache, neck pain, vomiting, diarrhea, abdominal pain, photophobia, and malaise 2 days after the second dose of Pfizer vaccine. She had no history of previous coronavirus disease-2019 (COVID-19) infection.
+
+On presentation to ED, she was tachycardic and pyrexial. Blood pressure was normal. She was suspected to have meningitis and treated with ceftriaxone and acyclovir. CSF sampling was unremarkable.
+
+She was initially managed on the ward but deteriorated on Day 3 with persistent fever over 40°C, tachycardia, severe hypoxia, lactatemia, and hypotension which was unresponsive to IV fluids. She was admitted to intensive therapy unit (ITU) and initially managed with high-flow nasal oxygen and vasopressors; she quickly fatigued and was subsequently intubated and ventilated.
+
+Rapid and progressive multisystem failure occurred over the next 18 hours, manifesting as hypotension (cardiovascular), hypoxia (respiratory), azotemia with oliguria (renal), nonabsorption of feeds, and diarrhea (GI). Focused intensive care echocardiogram showed well filled but poorly contracting right and left ventricles, so she was commenced on dobutamine. Renal dysfunction was initially managed conservatively, but in view of severe metabolic acidosis, oliguria, azotemia, and progressive severe hyperpyrexia, she was commenced on hemofiltration.
+
+CT chest/abdomen was performed as a diagnostic aid—working diagnosis at this point was severe sepsis, and we were seeking a source. This showed multiple enlarged mesenteric lymph nodes but no other abnormalities. By this point, the patient was moribund and, after discussion with the surgical team, underwent a diagnostic laparoscopy. This showed multiple mesenteric lymph node enlargement, minimal ascites, and small left ovarian cyst. Lymph node biopsy and ascitic sampling were performed to aid diagnosis.
+
+No source of sepsis could be identified, and all microbiological sampling was negative. Broad-spectrum antibiotics (ciprofloxacin, vancomycin, and meropenem) had been administered for more than 24 hours with no clinical improvement. Following multidisciplinary discussion, it was decided the presentation correlated with a diagnosis of MIS-A and treatment with 2 gm/kg of IV immunoglobulin and 1 gm of methylprednisolone daily for 5 days commenced. This led to rapid improvement in the clinical condition with resolution of hyperpyrexia, cardiovascular instability, and decreasing oxygen requirements within 36 hours of commencement of this treatment. The patient significantly improved and was successfully extubated on Day 7 in the intensive care unit. Repeat echo showed return of normal ventricular function. She made a full recovery and was discharged home on Day 13 postadmission.
+
+Investigations
+
+On admission, the positive findings on the blood tests were a raised white cell count—15.1 × 109/L, and CRP—349 mg/L.
+
+CSF analysis on admission shows clear appearance, no cells were detected, Gram stain, and no organisms were seen in culture.
+
+Admission chest X-ray did not show any acute finding.
+
+CT head on admission did not reveal any acute pathology, while CT abdomen and pelvis Day 3 postadmission showed significant mesenteric lymphadenopathy.
+
+Microbiology—All of the body fluid and blood cultures did not yield any positive results. Virology—CMV and EBV IgG and IgM were both positive but thought to be nonsignificant.
+
+Vasculitis and autoimmune screen were negative.
+
+Transthoracic echocardiogram did not show any evidence of vegetation with biventricular dysfunction that resolved as she improved.
+
+The lymph node biopsy was suggestive of marked suppurative inflammation, with background acute vasculitic changes thought to be secondary to the initial inflammatory insult. It was felt this was compatible with a diagnosis of MIS-A.
+
+Three negative severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) PCR tests ruled out the possibility of active COVID-19 as the culprit for current presentation.
+
+COVID-19 antibodies were positive—possibly from the vaccination or representing previous infection.
+
+Macrophage activation syndrome was considered in view of mildly elevated ferritin, but there was no evidence of hypofibrinogenemia or cytopenias in more than two lineages (Appendix 2 for blood investigations).1,2
+
+Discussion
+
+MIS was first described in the pediatric population pediatric inflammatory multisystem syndrome (PIMS) in April 2020 and linked to COVID-19.3 Symptoms of PIMS can overlap with Kawasaki disease and toxic shock syndrome, but Kawasaki disease tends to affect children under five, whereas PIMS seems to affect older children and teenagers.4 Following this, there have been multiple reports of multisystem inflammatory syndrome in adult (MIS-A) related to COVID-19 infection. Multisystem inflammatory syndrome/adult/children (MIS/A/C) are distinct from both Kawasaki disease and toxic shock syndrome—the pathophysiology is poorly understood, but they appear to be a postinfectious manifestation of COVID-19.5–7 More case reports are needed to look into the association of MIS with vaccination and the timing of such presentation. An interesting aspect of our case is that the patient presented following the second dose of the vaccine rather than after the first dose. This may represent priming of the immune system, leading to severe inflammatory response on second exposure.8–10
+
+The previous case report by Iyengar et al.11 and our case report suggest that treatment of MIS-V includes IV Ig and corticosteroids. We will need further research into this as the pediatric population is now being inoculated with the vaccine. Clinicians should be aware of the presentation so that it can be diagnosed and managed appropriately.
+
+Appendix 1
+
+MIS Case Definition by CDC for Adults12
+
+Link: https://www.cdc.gov/mis/index.html#:~:text=Multisystem%20inflammatory%20syndrome%20(MIS)%20can,%2C%20eyes%2C%20or%20gastrointestinal%20organs.
+
+Appendix 2
+
+Blood Investigation Review
+
+Investigation	D1	D4	D6	D8	Discharge	
+Hb, g/L	135	102	74	65	106	
+WCC, 109	15.1	14.9	13.5	11.4	16.8	
+CRP, mg/L	349	391	101	16	17.1	
+Creat, µmol/L	77	121	356	192	85	
+Procalcitonin, ng/mL		>100		0.1		
+
+Orcid
+
+Ram Narayanan Ganapathiram https://orcid.org/0000-0001-8242-4779
+
+Source of support: Nil
+
+Conflict of interest: None

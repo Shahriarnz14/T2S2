@@ -1,0 +1,83 @@
+event,time
+42 years old,0
+female,0
+motorcycle accident,-600
+closed fracture of the middle third of the right clavicle,-600
+Allman's group I (AO 15-B1),-600
+deviation >2 cm,-600
+right shoulder abrasions,-600
+analgesics prescribed,-600
+no sling use,-600
+no therapeutic follow-up,-600
+pain,-336
+fever,-336
+local hyperemia,-336
+hospitalization,-336
+febrile peaks,-336
+local edema,-336
+skin fluctuation on right clavicle region,-336
+drainage of purulent secretion,-336
+abscess drainage,-408
+cleansing with 0.9% saline solution,-408
+no culture material collected,-408
+"WBC 12,000/mm3",-408
+3% rods,-408
+ESR 25 mm/h,-408
+CRP 11 mm/dl,-408
+intravenous ceftriaxone,-408
+intravenous metronidazole,-408
+intravenous clindamycin,-408
+admitted to tertiary hospital,0
+extensive lesion of right hemithorax,0
+toxemia,0
+sepsis,0
+HR 110 bpm,0
+RF 26 ripm,0
+Temp 38.5 °C,0
+clavicle bone exposure,0
+extensive necrosis of skin surrounding base of neck,0
+left hemithorax necrosis,0
+no neurovascular alterations,0
+"WBC 21,000/mm3",0
+5% rods,0
+ESR 44 mm/h,0
+CRP 20 mm/dl,0
+creatinine 1.3 mg/dl,0
+urea 48 mg/dl,0
+CPK 900 u/l,0
+MRI thorax: extensive inflammatory process,0
+no deep tissue involvement,0
+MRI neck: no alterations,0
+ICU admission,0
+multidisciplinary team attendance,0
+surgical debridement requested,0
+antibiotic therapy modified,0
+meropenem introduced,0
+vancomycin introduced,0
+anti-tetanus prophylaxis,0
+sepsis persisted,24
+osteolysis in clavicle exposure area,24
+increase in necrotic area,24
+right clavicle resection,24
+aggressive debridement of devitalized tissue,24
+soft tissue culture collected,24
+bone culture collected,24
+clinical improvement,72
+ICU discharge,72
+WBC reduction,72
+inflammatory markers reduction,72
+purulent secretion diminished,72
+special dressing every other day,72
+lesion borders ceased necrosis,72
+raw area without purulent secretion,72
+granulation tissue formation,72
+negative bone culture,72
+negative soft tissue culture,72
+normal laboratory tests,480
+skin graft performed,480
+no new signs of infection,480
+hospital discharge,480
+wound complete healing,1680
+healed wound at six months,4320
+UCLA score 33,4320
+Constant score 93,4320

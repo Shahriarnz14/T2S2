@@ -1,0 +1,62 @@
+event,time
+69 years old,0
+female,0
+admitted to the hospital,0
+right breast cancer,-25464
+radical surgery,-25464
+high fever,-96
+pain in right upper limb,-96
+swelling in right upper limb,-96
+transferred to ICU,0
+septic shock,0
+confused,0
+blood pressure 80/40 mmHg,0
+heart rate 105 beats/min,0
+breathing frequency 25 breaths/min,0
+armpit temperature 39°C,0
+peripheral oxygen saturation 94%,0
+decreased WBC count,0
+decreased platelet count,0
+decreased hemoglobin,0
+neutrophils 85.5%,0
+IL-6 >5000 pg/mL,0
+CRP 164.0 mg/L,0
+elevated serum creatinine,0
+mild edema of upper arm and forearm,0
+vascular color ultrasound of extremities normal,0
+meropenem 1g q8h,0
+vancomycin 1g q12h,0
+norepinephrine,0
+metagenomic next-generation sequencing (mNGS) testing,0
+blood cultures,0
+sputum cultures,0
+urine cultures,0
+rehydration,0
+low-molecular-weight heparin,0
+drugs for raising platelets,0
+topical magnesium sulfate on right upper limb,0
+procalcitonin decreased to 9.47 pg/mL,24
+SDSE detected by mNGS,24
+cyanosis of fingers and toes,24
+large purpura on skin,24
+large blisters,24
+steep rise in transaminases,48
+progression of limb end ischemia,48
+SDSE in blood cultures,48
+hypotension,0
+multiple organ dysfunction,0
+coagulation dysfunction,0
+liver dysfunction,48
+renal dysfunction,0
+blister formation,24
+limb gangrene,0
+STSS diagnosis,48
+penicillin allergy,0
+renal impairment,0
+thrombocytopenia,0
+ceftriaxone 2g qd,48
+anisodamine,48
+transferred to general ward,240
+ischemia at extremities gradually worsened,240
+amputation,264
+symmetric peripheral gangrene (SPG),264

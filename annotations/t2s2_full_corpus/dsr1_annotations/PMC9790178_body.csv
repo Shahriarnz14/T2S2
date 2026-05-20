@@ -1,0 +1,120 @@
+event,time
+22 years old,0
+female,0
+type 1 diabetes mellitus,0
+poorly controlled diabetes mellitus,0
+admitted to Emergency Department,0
+fever,-120
+headache,-120
+nausea,-120
+vomiting,-120
+prescribed sumatriptan,-72
+Ademalog insulin,0
+insulin glargine,0
+lisinopril 2.5 mg daily,0
+never smoked,0
+no alcohol use,0
+no illicit substance use,0
+no international travel,0
+purchased cockatiel birds,-4320
+temperature 39.2°C,0
+pulse 123 bpm,0
+respiratory rate 22,0
+blood pressure 131/75 mmHg,0
+oxygen saturation 100%,0
+confused,0
+aphasic,0
+nuchal rigidity,0
+right upper extremity paresis,0
+negative Kernig’s sign,0
+negative Brudzinski’s sign,0
+no papilledema,0
+WBC 22 K/µL,0
+hemoglobin 13.8 g/dL,0
+sodium 129 mEq/L,0
+potassium 4 mEq/L,0
+chloride 100 mEq/L,0
+bicarbonate 13 mEq/L,0
+BUN 9 mg/dL,0
+creatinine 0.89 mg/dL,0
+initial CPK 275 U/L,0
+lactic acid 2.5 mmol/L,0
+hemoglobin A1c 13.3%,0
+negative urine toxicology,0
+sinus tachycardia 120 bpm,0
+CT head noncontributory,0
+vancomycin 1g IV BID,0
+ceftriaxone 2g IV q12h,0
+acyclovir 600mg IV q8h,0
+3 liters isotonic fluids,0
+cloudy lumbar puncture,0
+CSF WBC 2790 cells/µL,0
+CSF 75% segmented neutrophils,0
+CSF protein 163 mg/dL,0
+CSF glucose 31 mg/dL,0
+CSF PCR positive Listeria,7
+CSF culture positive Listeria,72
+blood culture positive Listeria,120
+ampicillin 2g IV q4h,7
+gentamicin 80mg IV q8h,7
+admitted to MICU,0
+diabetic ketoacidosis,0
+4 liters isotonic fluids,24
+hyperdynamic LV function,24
+dilated LV,48
+LV EF 30%,48
+alertness fluctuated,48
+aphasia fluctuated,48
+8-channel EEG,72
+no seizure activity,72
+24-channel EEG,72
+dark urine,96
+CPK 27131 U/L,96
+CPK peaked 299637 U/L,144
+aldolase 1104 U/L,144
+non-oliguric,144
+creatinine at baseline,144
+negative rheumatological panel,144
+septic shock,144
+acute respiratory failure,144
+new seizure,144
+intubation,144
+mechanical ventilation,144
+vasopressor support,144
+propofol,144
+levetiracetam,144
+no further seizures,144
+continuous EEG,144
+muscle biopsy deferred,144
+49 liters fluids,240
+vasopressor support until day 11,264
+ampicillin continued,0
+other antimicrobials,0
+mental status improved,336
+liberated from ventilation,336
+transferred to internal medicine ward,432
+tachycardia,456
+shortness of breath,456
+right lower-lobe pulmonary embolism,456
+right atrial thrombus,456
+LV EF 60%,480
+normal LV size,480
+thrombectomy,480
+heparin infusion,480
+observed in MICU,528
+transferred to internal medicine ward,528
+completed ampicillin,504
+normal motor function,504
+no seizures,504
+discharged,552
+apixaban,552
+levetiracetam,552
+no neurological deficits,552
+rhabdomyolysis,96
+normal renal function,0
+septic cardiomyopathy,48
+reversible myocardial depression,48
+right atrial thrombus,456
+pulmonary embolism,456
+LV function recovered,480
+cockatiel exposure,-4320

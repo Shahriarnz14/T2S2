@@ -1,0 +1,67 @@
+event,time
+39 years old,0
+female,0
+height 155 cm,0
+weight 44.5 kg,0
+mild dyspnea,0
+carinal resection,0
+reconstruction,0
+adenoid cystic carcinoma,0
+chest computed tomography,-24
+bronchoscopy,-24
+left mainstem bronchus obstruction,-24
+carina obstruction,-24
+right mainstem bronchus obstruction,-24
+no underlying diseases,0
+preoperative examinations normal,0
+moderate obstructive pattern,0
+forced expiratory volume,0
+forced vital capacity,0
+general anesthesia,0
+propofol,0
+remifentanil,0
+rocuronium,0
+tracheal intubation,0
+right-sided double-lumen tube,0
+right lateral position,0
+left bronchi dissection,0
+left vasculature dissection,0
+thoracoscopic surgery,0
+right OLV,0
+arterial oxygen tension 462 mmHg,20
+FIO2 1.0,20
+single-lumen endotracheal tube,20
+bronchial blocker,20
+left lateral position,20
+right thoracotomy,20
+left OLV,20
+peak airway pressure 28 cmH2O,40
+tidal volume 300 ml,40
+PaO2 110 mmHg,40
+FIO2 1.0,40
+carinal resection,40
+LMB resection,40
+sterile reinforced endotracheal tube,40
+left OLV,40
+airway pressure 35 cmH2O,60
+oxygen saturation 70%,60
+RMB resection,60
+additional sterile endotracheal tube,60
+differential bilateral lung ventilation,60
+oxygen saturation 100%,80
+carina removal,80
+tracheobronchial anastomosis,80
+no air leak,100
+left lung removal,100
+right hemithorax closure,100
+non-dependent right OLV,120
+oxygen saturation 80%,140
+left pulmonary artery clamping,140
+oxygen saturation 100%,140
+left pulmonary artery ligation,140
+right thoracotomy closure,140
+left thoracotomy,160
+left pneumonectomy,160
+tracheal extubation,180
+intensive care unit,180
+discharge,312

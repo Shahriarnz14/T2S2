@@ -1,0 +1,45 @@
+event,time
+26 years old,0\
+male,0\
+ulcerative colitis,0\
+folliculitis,-24 (assuming presentation occurred 1 day before admission)\
+multiple carbuncles,-24 (assuming presentation occurred 1 day before admission)\
+admitted to acute surgical unit,0\
+debridement,0 (initial admission procedure)\
+wound management,0\
+tachycardia,+24 (assuming developed after admission)\
+hypotension,+24 (requiring ICU transfer)\
+vasopressor support,+24\
+ICU admission,+24\
+broad-spectrum antibiotics,+24 (commenced after ICU admission)\
+steroid therapy,+48 (initiated after dermatology input)\
+creatinine 125 µmol/L,+24 (during ICU stay)\
+mild ALT rise,+24\
+INR 1.8,+24\
+pancytopenia,+24\
+increasing oxygen requirements,+24\
+blood cultures negative,+24\
+wound swabs negative,+24\
+QuantiFERON assay negative,+24\
+treponemal serology negative,+24\
+HIV negative,+24\
+hepatitis serology negative,+24\
+acid-fast bacilli negative,+24\
+fungal elements negative,+24\
+central chest histology severe active inflammation,+24\
+neutrophils present,+24\
+leucocytes present,+24\
+necrosis present,+24\
+microabscess formation,+24\
+no organisms identified,+24\
+lesions healing with steroids,+96 (assuming 4 days after ICU stay)\
+SIRS,+24\
+PG diagnosis,+48 (confirmed after dermatology input)\
+multi-organ dysfunction,+24\
+previous ICU admission in 2012,"-105120 (10 years prior, 87600 hours approximated as 10 years)\"
+similar presentation in 2012,-105120\
+"large ulcers with violaceous border (chest, back, thighs)",-105120 (from 2012 episode)\
+discharged after 4-day ICU,+96\
+almost complete resolution at 2 months,+1440 (approximated 60 days)\
+no conflicts of interest,0\
+informed consent obtained,0

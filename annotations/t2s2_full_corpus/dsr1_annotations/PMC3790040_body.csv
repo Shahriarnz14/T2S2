@@ -1,0 +1,77 @@
+event,time
+39 year-old female,0
+ovarian cancer (stage III),-11520
+TAH (total abdominal hysterectomy),-11520
+BSO (bilateral salpingo-oophorectomy),-11520
+chemotherapy with paclitaxel,-11520
+chemotherapy with carboplatin,-11520
+day 9,-11520
+POD 16,-11520
+melena,-11520
+hematochezia,-11520
+abdominal tenderness,-11520
+rebound tenderness,-11520
+neutropenia,-11520
+high fever,-11520
+tachypnea,-11520
+hypotension,-11520
+cyanosis,-11520
+neutropenic/septic shock,-11520
+ascending colon perforation,-11520
+transferred to hospital,-11520
+emergent total colectomy,-11520
+moved to ICU,-11520
+intubated,-11520
+alert,-11520
+oriented,-11520
+difficulty weaning from mechanical ventilation,-144
+severe tachypnea,-144
+labored breathing,-144
+postoperative day 2,-144
+sedated with midazolam,-144
+neutropenia,-144
+G-CSF (granulocyte colony-stimulating factor) injection,-144
+ANC (absolute neutrophil count) less than 50/µl,-144
+chemotherapy induced neutropenia,-144
+sepsis,-144
+G-CSF administered,-144
+antibiotics (Piperacillin/tazobactam) administered,-144
+postoperative day 5,-72
+midazolam stopped,-72
+extubated,-72
+dyspnea,-72
+deteriorating level of consciousness,-72
+reintubation,-72
+brain CT performed,-72
+EEG performed,-72
+no abnormal findings (brain CT),-72
+no abnormal findings (EEG),-72
+neurologic status not improved,-24
+partial seizure,0
+generalized tonic-clonic (GTC) seizure,0
+seizure controlled with midazolam,0
+seizure controlled with ativan,0
+seizure controlled with phenytoin,0
+brain CT showed diffuse brain swelling,24
+EEG showed severe diffuse cerebral dysfunction,24
+"severe hyperammonemia (1,325 µg/dl)",24
+respiratory alkalosis,24
+metabolic alkalosis,24
+pH: 7.604,24
+PaCO2: 24.2 mmHg,24
+HCO3-: 27.4 mmol/L,24
+electrolytes unremarkable,24
+liver panel unremarkable,24
+CRRT (continuous renal replacement therapy) initiated,24
+"follow-up ammonia level 1,356 µg/dl",24
+sodium benzoate loading dose,24
+sodium benzoate maintenance infusion,24
+mannitol administered,24
+recurrent GTC type seizure,48
+status epilepticus managed,48
+midazolam administered,48
+phenytoin administered,48
+partial seizures occurred,72
+desaturation,72
+hypotension,72
+died,192

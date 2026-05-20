@@ -1,0 +1,50 @@
+event,time
+51-year-old,0
+man,0
+admitted,0
+abdominal pain,0
+vomiting,0
+intestinal obstruction,0
+ate persimmons,-72
+small bowel perforation repair,-175200
+leukocytosis,0
+hemoglobin 18.3 g/dL,0
+normal C-reactive protein,0
+body temperature 36.5°C,0
+abdominal distension,0
+epigastric tenderness,0
+HIV negative,0
+CT scan ileum bezoar,0
+splenomegaly,0
+leukocytosis decreased,96
+C-reactive protein increased,96
+symptoms unresolved,120
+bezoar removal operation,120
+small bowel dilatation,120
+no small bowel ischemia,120
+bezoar extracted,120
+postoperative fever,168
+atelectasis,168
+passing flatus,168
+progressive diet,168
+dyspnea,216
+chest X-ray ground glass opacity,216
+ARDS,216
+mechanical ventilation,216
+blood cultures yeast,120
+fluconazole initiated,120
+C. famata growth,120
+C. parapsilosis growth,168
+fever persisted,120
+leukocytosis persisted,120
+history of tinea pedis treatment,-26280
+amphotericin B initiated,168
+methylprednisolone initiated,168
+stool culture C. glabrata,312
+amphotericin nephrotoxicity,432
+caspofungin initiated,432
+afebrile,192
+clinical improvement,192
+blood cultures sterile,192
+antifungal therapy completed,888
+discharged,888

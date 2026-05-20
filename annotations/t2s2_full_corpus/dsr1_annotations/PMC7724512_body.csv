@@ -1,0 +1,76 @@
+event,time
+75 years old,0
+male,0
+admitted to stroke unit,0
+acute ischemic stroke,0
+thrombotic occlusion of M1 segment of left A. cerebri media,0
+coronary angiography,0
+non-ST-elevation myocardial infarction,0
+right-sided hemiplegia,0
+mechanical thrombectomy,0
+aspiration pneumonia,0
+piperacillin/tazobactam treatment,0
+recurrent sinus bradycardia,0
+intermittent ventricular escape rhythm,0
+third-degree sinoatrial block,0
+2-chamber pacemaker implantation,0
+povidone-iodine solution preoperative skin antisepsis,0
+no specific antibiotic prophylaxis,0
+normal postimplantation measurements,0
+normal wound inspections,0
+discharged to neurological rehabilitation facility,96
+readmitted after 7 days,384
+fever,384
+"hyperthermic, reddened pacemaker incision site",384
+leucocytosis,384
+elevated C-reactive protein,384
+blood cultures collected,384
+empirical antibiotic therapy with ampicillin/sulbactam,384
+suspected pacemaker pocket infection,384
+system extraction,384
+old hematoma in pacemaker pocket,384
+"swab samples of pacemaker, pocket, and leads",384
+transferred to intensive care unit,384
+persisting sinoatrial block,384
+transesophageal echocardiography (TEE),384
+mobile vegetation from right atrium to superior vena cava,384
+device-associated endocarditis,384
+blood cultures positive for C. difficile,408
+pacemaker samples positive for C. difficile,408
+pocket swab cultures positive for C. difficile,408
+stool sample obtained,408
+two toxigenic C. difficile strains,408
+one nontoxigenic C. difficile isolate,408
+antimicrobial testing,408
+ribotyping,408
+minimum inhibitory concentration: vancomycin 0.5 mg/L,408
+minimum inhibitory concentration: metronidazole 1 mg/L,408
+"RT014 (Clade 1, MLST ST2) in stool and pacemaker",408
+RT020 (toxigenic) in stool,408
+unclassified nontoxigenic isolate in stool,408
+no signs of previous C. difficile infection,408
+no infectious diarrhea,408
+no contact with infectious diarrhea,408
+no abdominal pathologies on ultrasound,408
+low CDI prevalence (0.28 cases/100 patients),408
+antibiotic treatment switched to vancomycin and metronidazole,408
+normalization of leukocytes,408
+normalization of C-reactive protein,408
+oral antibiotic switched to vancomycin due to elevated liver enzymes,432
+negative repeated blood cultures,432
+negative stool samples during therapy,432
+transferred to rehabilitation facility on day 23 of antibiotics,960
+intravenous vancomycin continued for 30 days,960
+oral vancomycin for 42 days (tapering),960
+readmitted for pacemaker reimplantation after 7 days off vancomycin,1512
+TEE showed elimination of vegetations,1512
+negative blood cultures,1512
+negative skin swabs,1512
+colonoscopy: noninflamed sigmoid diverticula,1512
+toxigenic C. difficile RT005 in stool,1512
+intravenous vancomycin for 3 days,1512
+contralateral pacemaker reimplantation,1584
+released to rehabilitation with oral vancomycin tapering,1584
+follow-up visit 2 months post-reimplantation,2640
+normal pacemaker function,2640
+no sign of infection,2640

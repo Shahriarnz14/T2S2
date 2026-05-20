@@ -1,0 +1,66 @@
+event,time
+53 years old,0
+male,0
+admitted to the emergency department,0
+progressive fatigue,-2928
+pain of legs,-168
+weakness of legs,-168
+taking diclofenac,-168
+no fever,0
+no weight loss,0
+no night sweats,0
+spastic paraparesis,0
+sensitive level at T8 segment,0
+slightly pale,0
+gingival hemorrhage,0
+ecchymosis of left thigh,0
+hepatomegaly,0
+spinal MRI showing posterolateral extradural mass from T6 to T8,0
+medullar compression,0
+anemia,0
+hemoglobin 10.6 g/dL,0
+thrombocytopenia,0
+platelet count 12 x10^9/L,0
+white blood count 7.5 x10^9/L,0
+absolute promyelocyte count 4.8,0
+absolute blast count 1.3,0
+fibrinogen 1.04 g/L,0
+INR 1.86,0
+normal PTT,0
+normal electrolytes,0
+normal hepatic function,0
+normal renal function,0
+elevated uric acid 588 µmol/L,0
+elevated lactate dehydrogenase 712 UI/L,0
+bone marrow biopsy hypercellularity,0
+infiltration of promyelocytes,0
+Auer rods,0
+APL diagnosis,0
+PML-RARα gene positive,0
+t(15;17)(q22q21) abnormality,0
+ATRA therapy initiated,0
+daunorubicin initiated,0
+ATRA syndrome,24
+dexamethasone,24
+febrile neutropenia,24
+ceftazidime,24
+amikacin,24
+deterioration in leg weakness,48
+loss of bladder sphincter control,48
+radiotherapy attempted,72
+no clinical improvement,72
+nephrotic syndrome,96
+ATRA interrupted,96
+hematological remission of APL,120
+persistence of extradural mass,120
+respiratory distress,144
+hypotension,144
+shock,144
+pneumonia diagnosed,144
+vancomycin,144
+imipenem,144
+intensive care,144
+ventilation support,144
+died,168
+sepsis,168
+no recovery from neurologic deficit,168

@@ -1,0 +1,67 @@
+History of Presentation
+
+A 58-year-old woman presented with productive cough, fatigue, fever, and diarrhea for the previous 5 days. Physical examination was notable for diffuse rhonchi. Initial vital signs were as follows: blood pressure, 156/95 mm Hg; heart rate, 130 beats/min; oxygen saturation, 82% on a 5-l nasal cannula; respiratory rate, 24 breaths/min; and temperature, 38.7°C. The chest radiograph showed lower lobe–predominant bilateral infiltrates. Shortly thereafter she was intubated for hypoxic respiratory failure and likely acute respiratory distress syndrome. The electrocardiogram (ECG) showed sinus tachycardia and 1-mm upsloping ST-segment elevations in leads I and aVL, mild diffuse PR interval depressions, and diffuse ST-T wave changes (Figure 1). Her initial troponin I level was negative but eventually peaked at 11.02 ng/ml. Notably there was leukopenia (absolute lymphocyte count of 1.04 K/mm3). Severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2), or coronavirus disease-2019 (COVID-19), RNA detected by polymerase chain reaction returned a positive result.Learning Objectives
+
+• To recognize cardiovascular complications among COVID-19 patients.
+
+• To demonstrate the presence of stress (takotsubo) cardiomyopathy in COVID-19.
+
+• To manage stress cardiomyopathy in infected patients.
+
+Figure 1 Initial Electrocardiogram
+
+Past Medical History
+
+The patient had a medical history of diabetes mellitus type 2, hypertension, and dyslipidemia. She denied travel but noted that her father was ill with similar symptoms.
+
+Differential Diagnosis
+
+Given the initial presentation, ECG findings, and troponin elevation, the differential diagnosis included ST-segment elevation myocardial infarction (STEMI), stress cardiomyopathy, and myopericarditis.
+
+Investigations
+
+A transthoracic echocardiogram demonstrated akinetic middle to distal anterior, anteroseptal, anterolateral, and apical segments, moderately hypokinetic middle and distal inferolateral segments, and hyperdynamic basal segments. Apical ballooning was also noted. Left ventricular (LV) ejection fraction was 20%. The distal third or apical right ventricular (RV) free wall was akinetic, with hyperdynamic RV basal wall motion. RV function was mildly reduced (Figure 2, Video 1).Figure 2 Strain Imaging on Initial Echocardiogram
+
+ANT = anterior; APLAX = apical long axis; AVC = aortic valve closure; CH = chamber; G = global; GS = global strain; HR = heart rate; INF = inferior; LAT = lateral; POST = posterior; PSD = peak systolic dispersion; SEPT = septal; SL = strain length.
+
+Online Video 1 Initial Echocardiogram
+
+Initial echocardiogram demonstrated reduced right and left ventricular function (ejection fraction 20%), with notable akinesis of the middle to distal segments.
+
+Management
+
+The patient was admitted to the intensive care unit. Her echocardiographic findings were classic for takotsubo syndrome, or stress cardiomyopathy, and the distribution of wall motion abnormalities being out of proportion to ECG findings or troponin elevation made STEMI unlikely. Given her active COVID-19, the decision was again made to defer coronary angiography for the time. However, she was started conservatively on medical therapy for acute coronary syndrome with dual antiplatelet therapy and anticoagulation with continuous intravenous heparin. For COVID-19, hydroxychloroquine therapy was initially started but was subsequently discontinued after echocardiography, given the possible risk of worsening cardiomyopathy and further prolonging the QT interval; a course of azithromycin was completed.
+
+Clinically the patient also developed shock, likely cardiogenic or septic shock, with central venous oxygen saturation of 42%, and she required dobutamine. Over the following days, cardiogenic shock improved, with central venous oxygen saturation of 65% and a de-escalating need for dobutamine. An echocardiogram was repeated 6 days later, with improvement noted in overall wall motion and an LV ejection fraction of 55% (Figure 3, Video 2). Given the rapid improvement in function on the repeat echocardiogram, her cardiac presentation was believed to be most consistent with stress cardiomyopathy in the setting of COVID-19. This opinion was further supported by her ECG, which demonstrated no evidence of Q-wave myocardial infarction (Figure 4).Figure 3 Strain Imaging on Repeat Echocardiogram
+
+Abbreviations as in Figure 2.
+
+Online Video 2 Follow-up Echocardiogram
+
+Follow-up echocardiogram demonstrated marked improvement in right and left ventricular function with recovery of all wall motion abnormalities.
+
+Figure 4 Follow-Up Electrocardiogram
+
+Discussion
+
+Cardiovascular complications of viral infections can include arrhythmias, myocarditis, pericarditis, heart failure, myocardial ischemia, and type 1 and type 2 myocardial infarction. The recent COVID-19 pandemic is precipitously affecting large populations in the global community. Currently published data suggest that many individuals with COVID-19 develop cardiovascular complications: 7.2% of patients have had acute cardiac injury, 16.7% have had arrhythmia, and 23% have had heart failure (1,2). Whether heart failure in COVID-19 patients is primarily the result of exacerbation of underlying undiagnosed cardiomyopathy, stress cardiomyopathy, myocarditis, or new cardiomyopathy secondary to a robust proinflammatory cytokine storm remains an area of active research, although acute cardiogenic shock in the setting of systemic inflammatory response seems the most likely cause. A heightened systemic inflammatory response and procoagulant activity with COVID-19 can certainly increase the risk of cardiac stunning or injury, acute myocardial infarction, or coronary vasospasm. Limited reports are suggesting that myopericarditis may also occur, but this is likely rare (3). To date, no cases of stress cardiomyopathy associated with COVID-19 have been formally reported in the United States.
+
+Stress, or takotsubo, cardiomyopathy occurs primarily in women (∼90% of cases), and it can be preceded by emotional or physical triggers (4,5). Compared with acute coronary syndrome, stress cardiomyopathy is often associated with lower LV function (4). A review of published reports suggests that coronary artery vasospasm, coronary microvascular dysfunction, LV outflow tract obstruction, and catecholamine surge may be potential mechanisms of development of stress cardiomyopathy (6). Stress cardiomyopathy has also been reported with viral infections (7). Histological studies have shown mild inflammatory infiltration (8,9), and it is possible that heightened inflammation with viral infections, particularly that seen with COVID-19, may contribute to development of stress cardiomyopathy. Overall, the prognosis of stress cardiomyopathy is favorable, with the majority of patients fully recovering LV function by 2 months (4).
+
+To our knowledge, this is the first case of takotsubo (stress) cardiomyopathy reported in association with COVID-19 in the United States. The patient presented with acute respiratory failure and an ECG mimicking STEMI. However, echocardiogram was classic for stress cardiomyopathy, and the patient’s marked LV functional recovery without coronary intervention further suggests that this was the more likely underlying etiology of heart failure.
+
+Follow-Up
+
+Unfortunately, the patient has continued to have acute respiratory distress syndrome and has started to undergo venovenous extracorporeal membrane oxygenation. Because her LV function had improved from admission, she did not require venoarterial extracorporeal membrane oxygenation. Her ECG remains free of evidence of active ischemia or infarction. At this time, given the improvement in the patient’s cardiovascular status, urgent coronary evaluation is not warranted, and precautions are being taken to limit unnecessary testing to reduce exposure to health care workers. However, pending improvement in clinical status, future coronary evaluation with either coronary angiography or coronary computed tomography angiography is recommended.
+
+Conclusions
+
+COVID-19 has been reported to be associated with a variety of cardiovascular complications, including acute cardiac dysfunction. To date, this is first case of stress cardiomyopathy with COVID-19 in the United States. It is anticipated that as the number of COVID-19 cases rises worldwide, there will be an increase in the number of associated cardiovascular complications. Clinicians should be aware of the diversity of cardiovascular complications and should strategize appropriately for diagnosing and managing them.
+
+Dr. Minhas has received support from National Heart, Lung, and Blood Institute (training grant T32HL007024); and has received a preeclampsia and prematurity grant from AMAG Pharmaceuticals. Dr. Jennings has consulted for Hill-Rom and Savara. All other authors have reported that they have no relationships relevant to the contents of this paper to disclose.
+
+The authors attest they are in compliance with human studies committees and animal welfare regulations of the authors’ institutions and Food and Drug Administration guidelines, including patient consent where appropriate. For more information, visit the JACC: Case Reportsauthor instructions page.
+
+Appendix
+
+For supplemental videos, please see the online version of this paper.

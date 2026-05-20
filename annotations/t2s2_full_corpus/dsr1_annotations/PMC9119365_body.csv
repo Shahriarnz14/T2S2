@@ -1,0 +1,96 @@
+event,time
+66 years old,0
+female,0
+type II diabetes mellitus,0
+chronic obstructive pulmonary disease,0
+severe pulmonary hypertension,0
+schizophrenia,0
+admitted to emergency department,-24
+fatigue,-24
+shortness of breath,-24
+denied fevers,-24
+denied rigors,-24
+denied changes in quality or color of sputum,-24
+denied chest pain,-24
+denied palpitations,-24
+reported dizziness,-24
+one episode of black stool,-24
+denied acute epigastric pain,-24
+denied lower abdominal pain,-24
+denied rectal bleeding,-24
+denied recent bowel habits changes,-24
+confused,0
+ill-looking,0
+oxygen saturation 81%,0
+improved to 95% on 4 L/min oxygen,0
+afebrile,0
+blood pressure 110/60 mm Hg,0
+pulse rate 100 beats/min,0
+reduced breathing sounds,0
+crackles,0
+scattered wheezes,0
+unremarkable systemic examination,0
+"WBC count 15,000/mm³",0
+hemoglobin 12.5 g/dL,0
+"platelets 390,000/mm³",0
+CRP 72 mg/dL,0
+serum creatinine 1.7 mg/dL,0
+serum sodium 132 mmol/L,0
+serum potassium 3.2 mmol/L,0
+serum magnesium 1.4 mmol/L,0
+serum lactate 3.1 mmol/L,0
+serum glucose 350 mg/dL,0
+hemoglobin A1c 9.5%,0
+serum albumin 3.1 g/dL,0
+positive SARS-CoV-2 PCR,0
+commenced on dexamethasone,0
+commenced on remdesivir,0
+passed large amount of melena,24
+became hypotensive 90/65 mm Hg,24
+responded to IV fluids bolus,24
+transferred to ICU,24
+pantoprazole 40 mg twice daily,24
+EGD performed,24
+bleeding duodenal ulcer,24
+controlled by epinephrine injection,24
+controlled by bipolar cauterization,24
+high-grade fever (38.5 °C),72
+hypotensive 80/55 mm Hg,72
+tachycardic 140 beats/min,72
+requiring vasopressors,72
+blood cultures obtained,72
+inspiratory crackles over left lower lung zone,72
+vague generalized abdominal tenderness,72
+altered mental status,72
+chest X-rays consolidation of left lower lung lobe,72
+commenced on cefepime,72
+blood cultures grew anaerobic gram-positive bacillus,96
+MALDI-TOF identified C. tertium,120
+IV vancomycin added,120
+IV clindamycin added,120
+CT abdomen performed,120
+free intraperitoneal gas,120
+thickened distal sigmoid colon wall,120
+adjacent free fluids,120
+no mesenteric ischemia,120
+surgical consultation,120
+emergent laparotomy,120
+perforated sigmoid diverticulitis,120
+localized peritonitis,120
+Hartmann’s procedure performed,120
+remained on vasopressors for 5 days,120
+repeat blood cultures grew C. tertium,168
+susceptible to meropenem,168
+susceptible to metronidazole,168
+susceptible to amoxicillin-clavulanate,168
+susceptible to piperacillin-tazobactam,168
+switched to meropenem,168
+switched to metronidazole,168
+histology confirmed perforated diverticulitis,168
+serial blood cultures cleared C. tertium,336
+ICU-AW,336
+transition to tracheostomy,336
+transferred to long-term acute care facility,336
+discharged on oral metronidazole,336
+discharged on oral amoxicillin-clavulanate,336
+discharged,336

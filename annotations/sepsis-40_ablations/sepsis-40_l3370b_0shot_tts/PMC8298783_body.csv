@@ -1,0 +1,55 @@
+event,time
+lower extremity edema ,-168
+fatigue ,-168
+shortness of breath ,-168
+pale appearance ,0
+melenic stool ,0
+admission to ICU ,0
+resuscitation ,0
+urgent endoscopy ,0
+gastric ulcers ,0
+diffuse lymphadenopathy ,0
+excisional biopsy ,0
+Hodgkin lymphoma ,0
+acute renal failure ,24
+temporary hemodialysis ,24
+acute respiratory failure ,24
+intubation ,24
+septic shock ,24
+vasopressor support with norepinephrine ,24
+sedation with propofol and fentanyl ,24
+ST-segment elevations on telemetry ,48
+abdominal distention ,48
+no murmurs on cardiac auscultation ,48
+blood pressure of 101/57 mmHg ,48
+heart rate of 112 beats/min ,48
+respiratory rate of 23 breaths/min ,48
+oxygen saturation of 99% on mechanical ventilation ,48
+ECG with ST-segment elevations ,48
+sinus tachycardia ,48
+deep T-wave inversions ,48
+J-point depression in inferior leads ,48
+marked QT prolongation ,48
+troponin-T level of <0.01 ng/ml ,48
+potassium of 4.3 mEq/l ,48
+calcium of 7.6 mg/dl ,48
+anion gap of 12 mEq/l ,48
+hemoglobin of 10.1 g/dl ,48
+hematocrit of 29.4% ,48
+arterial blood gas with pH of 7.40 ,48
+bicarbonate of 21 mmol/l ,48
+lactate of 3.1 mmol/l ,48
+left ventricular ejection fraction of 60-65% ,48
+no regional wall motion abnormalities ,48
+no pericardial effusion ,48
+resolution of ST-segment elevations with abdominal palpation ,48
+gastric distention on abdominal radiograph ,48
+ileus on abdominal radiograph ,48
+gastric decompression with nasogastric tube placement ,72
+resolution of ST-segment elevations on ECG ,72
+no further ST-segment changes on telemetry or repeat ECG ,96
+new-onset seizures ,120
+focal neurological deficits ,120
+leptomeningeal enhancement on MRI ,120
+comfort care ,144
+death ,168

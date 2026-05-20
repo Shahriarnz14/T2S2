@@ -1,0 +1,59 @@
+event,time
+40-year-old lady,0\
+presented to emergency room,0\
+diffuse abdominal pain,0\
+medically and surgically free until 8 days before presentation,-192\
+tested positive for pregnancy,-192\
+reassured and sent back home,-192\
+pain persisted,-96\
+vaginal spotting,-96\
+diagnosed with incomplete abortion,-96\
+D&C performed,-96\
+discharged on antibiotics (metronidazole and ceftriaxone),-72\
+discharged on analgesia,-72\
+symptoms persisted,-24\
+nausea,-24\
+non-bilious vomiting (10 times a day),-24\
+abdominal distention,-24\
+physical exam: abdominal distention,0\
+physical exam: rigidity,0\
+physical exam: diffuse tenderness,0\
+physical exam: guarding,0\
+severe stabbing pain in paraumbilical region,0\
+suspected uterine perforation,0\
+CT abdomen and pelvis,0\
+uterus slightly bulky without gross mural defects,0\
+rim-enhancing collection above uterus,0\
+multiple abdominal and pelvic collections,0\
+air-fluid level in bilateral paracolic gutters and right perihepatic region,0\
+extensive pneumoperitoneum,0\
+suspected small bowel perforation,0\
+"conservative treatment (NPO, broad-spectrum antibiotics, prophylactic PPI)",0\
+mild tachycardia,0\
+pigtail catheter insertion,0\
+drained 1.2 L purulent fluid,0\
+follow-up CT scan with oral contrast,24\
+0.5 cm mural defect in anterior wall of first part of duodenum,24\
+extravasation of oral contrast into right perihepatic region,24\
+diagnosed as perforated stress ulcer,24\
+surgical exploration and repair with omental patch,48\
+no other bowel perforation detected,48\
+mild shortness of breath,0\
+suspected abdominal distension,0\
+rapid COVID-19 antigen test negative,0\
+RT-PCR nasal swab positive (post-surgery day 1),24\
+respiratory team consulted,24\
+appropriate management plan for COVID-19,24\
+respiratory condition deteriorated (post-surgery day 3),72\
+vigorous treatment applied,72\
+improvement with residual mild tachycardia and tachypnea,72\
+deterioration on post-surgery day 6,144\
+cardiac arrest,144\
+death,144\
+sepsis (septic abortion or post-D&C),-96\
+COVID-19 infection,24\
+cytokine storm,24\
+elevated acute phase reactants,24\
+coagulopathy,24\
+upper gastrointestinal bleeding,24\
+perforated duodenal bulb ulcer,24

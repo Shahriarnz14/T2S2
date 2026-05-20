@@ -1,0 +1,76 @@
+event,time
+69 years old,0
+man,0
+coronary artery disease,0
+hypertension,0
+type 2 diabetes mellitus,0
+presented with fever,-168
+presented with malaise,-168
+presented with progressive shortness of breath,-168
+fever,-168
+malaise,-168
+progressive shortness of breath,-168
+temperature of 103.1 °F,0
+pulse of 106 beats per minute,0
+respiratory rate of 18 per minute,0
+blood pressure of 142/70 mm Hg,0
+saturation of 89% on room air,0
+decreased breath sounds bilaterally at base,0
+crepitations,0
+hemoglobin 12.7 g/dL,0
+white blood cell count of 4.5 × 10³,0
+platelet count of 164 × 10³,0
+neutrophil 76.4%,0
+lymphocyte 14.9%,0
+absolute lymphocytes 0.7,0
+CRP 12.07 mg/dL,0
+D-dimer 570 ng/mL,0
+influenza A negative,0
+influenza B negative,0
+COVID-19 RT-PCR positive,0
+chest X-ray bilateral infiltrates at lung bases,0
+started on hydroxychloroquine,0
+started on azithromycin,0
+supplemental oxygen with nasal cannula,0
+prophylactic enoxaparin 40 mg daily,0
+respiratory condition worsened,24
+repeat chest X-ray worsening bilateral infiltrates,24
+transitioned to optiflow,24
+"dimer up trended to 1,763 ng/mL",24
+continued on aspirin,24
+started on therapeutic enoxaparin 1 mg/kg,24
+abdominal pain,480
+pulse of 113 beats per minute,480
+blood pressure 74/45 mm Hg,480
+hemoglobin level of 8.9 g/dL,480
+hypovolemic shock,480
+CT scan showing retroperitoneal hemorrhage,480
+transferred to ICU,480
+resuscitated with 2 L intravenous fluid,480
+3 units PRBC,480
+vasopressors started,480
+increased vasopressor requirement,480
+post-transfusion hemoglobin 6.6 g/dL,480
+received 2 more units PRBC,480
+1 unit FFP,480
+arterial embolization planned,480
+ultrasound-guided femoral artery access,480
+abdominal aortogram performed,480
+extravasation from right L3 and L4 lumbar arteries,480
+catheterization with 5 French Mickelson catheter,480
+microcatheter placement,480
+active extravasation identified,480
+Embosphere particles administered,480
+microcoils placed,480
+no active contrast extravasation post-procedure,480
+received 1 more unit PRBC,480
+hemoglobin stabilized to 7.9 g/dL,480
+vasopressor requirement decreased,480
+vasopressors discontinued,504
+repeat CT scan decreased hematoma size,504
+remained in ICU,504
+COVID-19 pneumonia,504
+stable hemoglobin,504
+no further bleeding,504
+weaned off optiflow,528
+transferred to medical floors,528

@@ -1,0 +1,87 @@
+event,time
+59-year-old,0
+male,0
+admitted to the hospital,0
+sudden chest pain,0
+collapsed in the ambulance,0
+ventricular fibrillation,0
+cardiopulmonary resuscitation,0
+return of spontaneous circulation,0
+blood pressure 105/78 mm Hg,0
+heart rate 120 beats/min,0
+respiratory rate 20 breaths/min,0
+body temperature 35.8°C,0
+ST-segment elevation myocardial infarction,0
+coronary angiography preparation,0
+repeated cardiac arrest,0
+veno-arterial ECMO applied,0
+percutaneous coronary intervention,0
+thrombectomy,0
+left anterior descending coronary artery reperfusion,0
+ICU admission,0
+sedation with remifentanil 0.2 µg/kg/min,0
+sedation with propofol 1.3 mg/kg/hr,0
+day 3,72
+hemodynamic status improved,72
+oxygenation improved,72
+VA ECMO decannulation,72
+day 5,120
+progressive acute kidney injury,120
+continuous renal replacement therapy applied,120
+three days after decannulation,144
+severe acute respiratory distress syndrome,144
+hospital-acquired pneumonia,144
+VV ECMO applied,144
+day 16,384
+clinical improvement of pneumonia,384
+VV ECMO weaned,384
+sedatives retained without dose reduction,384
+agitation,384
+ventilator dyssynchrony,384
+vasopressors tapered,384
+improved cardiac function,384
+day 18,432
+alanine aminotransferase increased to 719 units/L,432
+aspartate aminotransferase increased to 211 units/L,432
+day 20,480
+bundle branch block,480
+increased creatinine kinase,480
+increased CK-MB,480
+increased troponin I,480
+suddenly aggravated hypotension,480
+increased norepinephrine infusion rate,480
+increased epinephrine infusion rate,480
+vasopressin added,480
+acute renal failure,480
+metabolic acidosis,480
+day 27,648
+alanine aminotransferase consistently increased,648
+aspartate aminotransferase consistently increased,648
+propofol administration at 1.3 mg/kg/hr for 20 days,480
+propofol infusion discontinued,480
+serum triglyceride level 369 mg/dl,0
+no follow-up monitoring for serum triglyceride levels,0
+normal cortisol level,0
+normal thyroid function tests,0
+24 hours after discontinuing propofol,504
+vasopressors requirement decreased,504
+vasopressin tapered,504
+stabilized vital signs,504
+"CK level elevated to 139,066 IU/L",504
+day 23,552
+L-carnitine 500 mg three times per day started,552
+2 days after carnitine administration,576
+CK level gradually declined,576
+low-dose norepinephrine 0.05 µg/kg/min,576
+ICU discharge,1224
+nursing hospital transfer,2208
+metabolic acidosis masked by CRRT,480
+hyperkalemia masked by CRRT,480
+lactic acidosis,480
+rhabdomyolysis,480
+arrhythmia,480
+unstable hemodynamics,480
+cumulative propofol dose 624 mg/kg,480
+high dose vasopressors,480
+PRIS diagnosis,480
+CRRT started,120

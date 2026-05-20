@@ -1,0 +1,78 @@
+Introduction
+Sepsis is a highly prevalent disease in intensive care units and is associated with significant morbidity and mortality. More than 20% of all septic patients develop acute kidney injury, and the deteriorating kidney function is liable to be classified by most clinicians as septic kidney injury. This presumption is, however, only very occasionally confirmed by kidney biopsy, mainly because of the low rate of treatment-changing results as well as to the increased rate of adverse events. However, acute kidney injury in this setting can be caused by other, unexpected factors that we will highlight by way of the following case example.
+
+Case Presentation
+A 55-year-old woman was admitted to our unit with abdominal distress. Her medical history comprised 2 kidney transplantations (7 years apart) secondary to IgA nephropathy, the first allograft having been lost due to chronic allograft rejection and the current allograft functioning with an estimated glomerular filtration rate of approximately 60 ml/min per 1.73 m2. The computed tomographic scan revealed free intra-abdominal air, suggestive of sigma perforation (sigma diverticulitis type 2c2), which was treated with sigma resection and protective ileostomy.
+
+Within due course, the patient required 2 more surgical interventions, once due to a burst abdomen and later for presumed peritonitis. Initial blood cultures were positive with Alistipes onderdonkii, whereas the intraoperative cultures grew Klebsiella oxytoca (3-multidrug-resistant gram-negative bacteria pattern). The patient eventually developed fever, respiratory insufficiency, and showed signs of hemodynamic compromise. She was switched to mechanical ventilation, and norepinephrine was required to maintain a mean arterial pressure above 60 mm Hg. Antibiotic therapy was intensified, and the intensive care team administered vitamin C 1.5 g i.v. 4 times a day for 4 sequential days (1 dose missed, total dose 22.5 g) and vitamin B1 200 mg i.v. 3 times a day for 3 sequential days as supportive sepsis therapy.
+
+In the days to follow, urine output progressively declined, and plasma creatinine increased (Figure 1). No obvious nephrotoxic medications were or had been administered. Immunosuppression included tacrolimus, mycophenolate, and corticosteroids, the first with fluctuating trough level concentrations (range 2.4–19.3 ng/ml). Urinalysis revealed tubular proteinuria of 750 mg alpha-1-microglobuline per g creatinine (albumin 180 mg per g creatinine); urine microscopy could not detect erythrocytes, leukocytes, or casts. Sonography excluded obstructive uropathy, and vascular resistance indices of the kidney allograft were within the normal range (0.66–0.78).Figure 1 Time course of plasma creatinine concentrations and daily urine output. The days with surgery are indicated on the x-axis. The time of vitamin C administration is indicated as a blue box, the phases of renal replacement therapy (RRT, continuous and intermittent) are displayed as a gray background. Vit., vitamin.
+
+
+
+As a result of further deterioration of renal function, continuous renal replacement therapy (citrate-based) was initiated. We discussed the possible causes of the acute kidney injury, favoring acute tubular damage in the context of sepsis. Allograft rejection was considered to be unlikely, because resistance indices were normal and the current kidney allograft was a complete HLA match organ. However, the patient had already received one kidney allograft in the past and was HLA-sensitized, thereby increasing the probability of acute rejection. Since the underlying cause of deteriorating kidney function could not be determined noninvasively, we performed a kidney allograft biopsy.
+
+Relevant Laboratory Results
+Relevant laboratory results are presented in Table 1. The kidney biopsy yielded 8 glomeruli (Figure 2). The histologic finding showed severe signs of acute tubular epithelial injury with multifocal intratubular calcium oxalate depositions. One glomerulus was globally sclerosed, and a discrete glomerulitis and moderate peritubular capillaritis (both C4d negative) were observed. No double contours of the glomerular basement membranes were seen. No significant mesangial or endocapillary hypercellularity or crescents were present. The interstitium showed discrete lymphoplasmacellular infiltrates together with a mild tubulitis (corresponding to borderline changes), and SV40 staining was negative. Interstitial fibrosis and tubular atrophy amounted to 15%. Because of the possibility of an antibody-mediated rejection, the patient serum underwent a test for donor-specific antibodies, which was negative.Table 1 Relevant laboratory results at the time of kidney allograft biopsy
+
+Laboratory test	Value	Unit	Normal range	
+Leukocyte count	17.460	1/μl	4100–11,800	
+Hemoglobin concentration	7.2	g/dl	12.0–16.0	
+Thrombocyte count	443	1000/μl	150–450	
+Sodium	142	mmol/	136–148	
+Potassium	4.1a	mmol/	3.5–4.8	
+Calcium, total	2.3	mmol/	2.1–2.6	
+Creatinine	0.7a	mg/dl	0.5–0.8	
+Urea	14a	mg/dl	12–46	
+Procalcitonin	30.0	ng/ml	Max. 0.1	
+LDH	186	U/l	Max. 250	
+Tacrolimus trough level	13.0	ng/ml		
+Urine protein	++	—	Negative	
+Urine hemoglobin	–	—	Negative	
+Urine leukocytes	–	—	Negative	
+Urine protein-creatinine ratio	583	mg protein per g creatinine	Max. 100	
+Urine albumin-creatinine ratio	179	mg albumin per g creatinine	Max. 20	
+Urine alpha 1-microglobulin–creatinine ratio	746	mg alpha 1-microglobuline per g creatinine	Max. 13	
+a Under continuous renal replacement therapy.
+
+Figure 2 Renal allograft biopsy with hematoxylin and eosin stain (a, original magnification ×5) and polarization microscopy (b, original magnification ×10) showing calcium oxalate crystals (arrowheads) and diffuse acute tubular injury (asterisks).
+
+
+
+Case Discussion
+Kidney biopsy revealed acute tubular injury and oxalate nephropathy secondary to vitamin C administration as the underlying causes of acute kidney allograft injury—a diagnosis that could not have been anticipated. In many patients in an intensive care setting, revealing the underlying cause of acute kidney injury comprises a diagnostic dilemma, as highlighted in our case. Vitamin C was administered under the assumption of sepsis, and a concurrent deterioration of kidney function is liable to be interpreted as “septic acute kidney injury.” However, our case shows that deterioration of renal function can also be the result of therapy. This might be even more important during the current COVID-19 pandemic, during which many patients on ICU suffered from acute kidney injury and for which vitamin C was administered liberally because of the lack of effective treatment. Although in this situation differential diagnosis is expanded by virus-related kidney injury, oxalate nephropathy after vitamin C administration has already been described as a differential diagnosis for acute kidney injury.1 In oxalate nephropathy as underlying renal pathology, a noninvasive diagnosis is challenging. One obvious finding is the detection of oxalate crystals in the urine. However, their absence does not rule out oxalate nephropathy. Our patient suffered from tubular proteinuria, which is consistent not only with tubular damage by oxalate crystals but also with acute tubular epithelial damage and therefore does not help to narrow down the differentials. Kidney biopsy should therefore be considered more liberally in these critically ill patients.
+
+Oxalate nephropathy can occur as a consequence of a primary hyperoxaluria, as caused by genetic defects, or secondary, because of increased plasma oxalate levels. Most forms of secondary oxalate nephropathy are caused by fat malabsorption,2 when calcium reacts with unabsorbed bile and fatty acids instead of with oxalate, resulting in increased oxalate availability. However, other secondary forms include oxalate nephropathy as a consequence of vitamin C supplementation.S1–S11
+
+The administration of vitamin C has been receiving increased attention since promising results were published in 2017. In their retrospective before-after study, Marik et al. demonstrated a significant survival benefit in sepsis after the introduction of vitamin C in addition to hydrocortisone and thiamine.3 However, these positive findings were of a retrospective nature and from a single center, and further meta-analyses report conflicting outcomes up to the present day. Two recent prospective, randomized trials were unable to confirm that vitamin C shows any significant improvements in organ function or vasopressor free time in comparison to placebo.4,5 There is thus an ongoing debate, as well as uncertainty, as to the interpretation of the evidence currently available.
+
+The rationale to administer vitamin C in these patients is based on observations suggesting a potential beneficial effect of vitamin C in septic states. Vitamin C is a water-soluble acid that humans are unable to synthesize, and almost half of the septic patients display vitamin C deficiency,6 with lower vitamin C concentrations being linked to multiorgan failure.7 Sepsis is associated with a higher load of oxidative stress, leading to an increased consumption of antioxidative substances such as vitamin C.6 Exerting its antioxidative effects by providing electrons, vitamin C is partially metabolized to oxalate.8 It can be hypothesized that vitamin C supplementation leads to the accumulation of downstream metabolites (i.e., oxalate), particularly in situations with higher consumption rates such as during sepsis. Oxalate itself then cannot be metabolized and is excreted by the kidney through both glomerular filtration and tubular secretion.9 Once in the tubular lumen, it binds to calcium and eventually forms calcium oxalate crystals.9 Depending on the location and concentration of the crystals, this can result in nephrocalcinosis (or oxalate nephropathy) or urolithiasis.
+
+Some conditions can put patients at an increased risk for developing oxalate nephropathy. First of all, urine output is of crucial importance. In primary hyperoxaluria, a fluid intake of >3 L per 1.73 m2 per day is recommended to increase urine volume and decrease tubular oxalate concentration. The risk of developing oxalate nephropathy is therefore higher in oliguric patients. Patients with preexisting renal disease, including those who have undergone kidney transplantation, are even more prone to kidney injury and oliguria. In this context, patients with preexisting tubular injury (as is the case in approximately 50% of acute kidney injuries during hospitalization) may be particularly vulnerable. Our patient had received vasopressors in a septic condition, a well-known cause of acute kidney injury with acute tubular epithelial injury as the histologic correlate. In these patients, vitamin C with subsequent formation of oxalate crystals, serves as a second hit, with both mechanisms contributing significantly to the renal dysfunction and mutually aggravating the problem. One might speculate that in other situations, vitamin C administration may be performed without any safety signal. In anuric patients, however, no oxalate is filtrated and so (because oxalate is not metabolized) systemic deposition, known as systemic oxalosis, can occur in various tissues (including myocardium, vessel walls, etc.),S12 usually at plasma oxalate levels >30 μmol/l.S13 As in primary hyperoxaluria, these excessive amounts of oxalate already accumulated will be excreted when kidney function recovers (“rebound hyperoxaluria”),S14 again putting the patient at risk of developing oxalate-induced kidney injury.
+
+Treatment strategies of oxalate nephropathy can be derived from the treatment of primary hyperoxaluria. First, the administration of vitamin C should be discontinued. During the phase of preserved urine output, it is crucial that a high urine flow be maintained. Furthermore, crystallization can be inhibited using citrate, which complexes with calcium.S15 Once anuria occurs, the main method for reducing plasma oxalate is by extracorporeal removal (i.e., hemodialysis). We used citrate-based renal replacement therapy because of the additional effects of the citrate in preventing oxalate crystallization. Hemodialysis should be continued liberally, especially in patients at risk (i.e., renal transplant recipients), to reduce the amount of oxalate excreted by the recovering kidney once the urine output is restored. Because plasma oxalate concentration correlates with systemic oxalate depositions, plasma levels can be helpful to guide therapy, although measurements will not be readily available at most institutions. Our patients displayed a plasma oxalate level of 30 μmol/l, which is close to the average plasma oxalate level of patients with end-stage renal disease (28.0 ± 7.0 μmol/l).S16
+
+In conclusion, differential diagnosis of acute kidney injury is challenging in critically ill patients in an intensive care setting. Most cases of acute kidney injury represent acute tubular epithelial damage but rare causes such as oxalate nephropathy can be overlooked if kidney biopsy is not performed. Although vitamin C is still administered liberally as adjunct sepsis therapy, it can result in significant side effects, including oxalate nephropathy. Until prospective randomized controlled trials are available, the administration of vitamin C should be carefully weighed up, particularly in patients at risk for oxalate nephropathy (cf. main teaching points in Table 2).Table 2 Main teaching points
+
+Most cases of acute kidney injury in the intensive care unit represent acute tubular epithelial damage but rare causes such as oxalate nephropathy are overlooked if kidney biopsy is not performed.	
+Vitamin C as supportive sepsis therapy can cause significant side effects, including oxalate nephropathy leading to acute kidney injury.	
+Risk factors for oxalate nephropathy include low urine output and preexisting kidney injury.	
+Treatment strategies mainly consist of (i) discontinuation of vitamin C, (ii) maintaining high urine output if possible, and (iii) oxalate removal via (citrate-based) hemodialysis.	
+
+
+Follow-Up
+Following diagnosis, citrate-based continuous renal replacement therapy was continued. In due course (Figure 1), urinary output was restored and continuous renal replacement therapy could be terminated. In the weeks to follow, after a second episode of acute kidney injury due to another cause, kidney allograft function recovered, with an estimated glomerular filtration rate of approximately 45–50 ml/min per 1.73 m2 at 1-year follow-up.
+
+Disclosure
+All the authors declared no competing interests.
+
+Acknowledgment
+The authors acknowledge support by Open Access Publishing Fund of University of Tübingen.
+
+Supplementary Material
+Supplementary File (PDF)
+ 
+
+Supplementary File (PDF)
+
+Supplementary References.

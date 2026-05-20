@@ -1,0 +1,96 @@
+event,time
+66 years old,0
+Japanese,0
+woman,0
+admitted to emergency department,0
+acute onset,0
+fever,0
+systemic fatigue,0
+confusion,0
+restlessness,0
+depression,-72 (assuming recent history)
+rectal cancer,-72 (assuming recent history)
+osteoarthritis of left knee,-72 (assuming recent history)
+amitriptyline,-72 (regular medication)
+trazodone,-72 (regular medication)
+triazolam,-72 (regular medication)
+flunitrazepam,-72 (regular medication)
+duloxetine,-72 (regular medication)
+aripiprazole,-72 (regular medication)
+no illicit drugs,0
+unremarkable family history,0
+Glasgow Coma Scale E3V4M5,0
+blood pressure 140/86 mmHg,0
+heart rate 130 beats/min,0
+body temperature 40.4 °C,0
+respiratory rate 26/min,0
+SpO2 94%,0
+costovertebral angle tenderness,0
+neurological examinations unremarkable except confusion,0
+elevated C-reactive protein,0
+elevated creatine kinase,0
+elevated blood urea nitrogen,0
+elevated serum creatinine,0
+normal complete blood count,0
+pyuria,0
+ureteral stone,0
+right urinary duct swelling,0
+decreased blood pressure,0
+noradrenalin administration,0
+septic shock,0
+obstructive pyelonephritis,0
+urolithiasis,0
+meropenem started,0
+intraurethral catheter placed,0
+haloperidol 5mg IV,0
+intensive care unit admission,0
+hemodynamics improved,24 (second day)
+noradrenaline discontinued,24
+lucid,24
+afebrile,24
+consciousness worsened,36 (noon second day)
+Glasgow Coma Scale E1VTM2,48 (evening second day)
+hyperthermia >40°C,72 (third day)
+roving eye movement,72
+no neck stiffness,72
+decreased muscle tonus,72
+cogwheel rigidity,120 (fifth day)
+clonic spasms face and upper extremities,120
+"creatine kinase 9,613 U/L",72 (third day)
+"creatine kinase peak 101,475 U/L",168 (seventh day)
+negative hepatitis virus antigens,0
+negative HIV antigen,0
+negative autoantibodies,0
+normal vitamins and trace elements,0
+contrast-enhanced abdominal CT improved pyelonephritis,72 (third day)
+normal brain CT,72
+lumbar puncture,72 (third day)
+albuminocytologic dissociation,72
+negative bacterial culture,72
+negative herpes virus PCR,72
+negative cytomegalovirus antigen,72
+lumbar puncture repeated,"96 (fourth day), 432 (18th day), 624 (26th day)"
+resolved albuminocytologic dissociation,624
+electroencephalography theta rhythm,72
+no seizures,72
+NMS diagnosis,72 (third day)
+dantrolene 160mg/day,96 (fourth day)
+bromocriptine 7.5mg/day,96 (fourth day)
+muscle rigidity eased,168 (after 7 days treatment)
+renal replacement therapy,96 (fourth day)
+anuria,96
+renal dysfunction,96
+hyperthermia improved,168
+elevated creatinine kinase improved,168
+vital signs recovered,168
+disturbance of consciousness remained,168
+tracheostomy performed,~168 (after stabilization)
+brain MRI cerebellar hyperintense,240 (10th day)
+brain MRI dentate nucleus hyperintense,240
+brain MRI superior cerebellar peduncle hyperintense,240
+brain MRI thalamus hyperintense,240
+brain MRI substantia nigra hyperintense,648 (27th day)
+brain MRI globus pallidus hyperintense,648
+MRI lesions reduced,2160 (3 months later)
+transferred for rehabilitation,3576 (149th day)
+no improvement in consciousness,3576

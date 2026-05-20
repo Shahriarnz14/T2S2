@@ -1,0 +1,95 @@
+event,time
+59 years old,0
+female,0
+admitted to the hospital,0
+segment-V space-occupying lesion in the liver,-1272
+suspected liver cancer,-1272
+transarterial embolization,-1272
+sorafenib,-7200
+dizziness,-7200
+skin ulcers,-7200
+computed tomography scan,-504
+enlarged liver lesions,-504
+radiation therapy,-504
+Piggyback liver transplantation,0
+hepatitis B,0
+entecavir,0
+acute renal failure,0
+hematoma around the liver,0
+hepatitis B immunoglobulin,0
+steroids,24
+tacrolimus,24
+continuous hemodialysis,24
+intermittent infusion of fresh frozen plasma,24
+leukocyte-depleted red blood cells,24
+active bleeding in the abdominal cavity ceased,24
+renal function recovered,24
+HCC diagnosis,0
+tumor necrosis,0
+liver function improvement,240
+AST normalization,240
+ALT normalization,240
+GGT normalization,240
+ALP normalization,240
+regular fevers,240
+elevated PCT,240
+negative blood cultures,312
+cytomegalovirus negative,312
+EBV negative,312
+obscure red spots on chest,312
+no itching,312
+Nikolsky sign negative,312
+tacrolimus changed to sirolimus,408
+mycophenolate mofetil added,408
+Acinetobacter baumannii infection,432
+MRSA infection,432
+erythematous macules and papules,456
+"spread to limbs, palms, neck, face",456
+white ulcers on buccal mucosa and lips,456
+bone marrow suppression,456
+WBC count decreased,456
+PLT count decreased,456
+HGB decreased,456
+transferred to ICU,456
+gamma globulin administration,456
+skin biopsy,456
+FISH analysis,456
+abdominal incision split,696
+sutured again,696
+bone marrow aspiration,768
+no special lesions in bone marrow,768
+reduced megakaryocyte production,768
+FISH detected 3% donor lymphocytes,792
+epidermal dyskeratosis,792
+basic vacuolization,792
+lymphocytic infiltrates,792
+grade-1 acute lt-GVHD,792
+CD4:CD8 ratio reversed,792
+IgM reduced,792
+PLT count dropped,792
+steroids continued,792
+tacrolimus continued,792
+G-CSF administered,792
+meropenem,792
+voriconazole,792
+rash reduced,792
+general condition deteriorated,792
+elevated serum ferritin,792
+esophageal ulcers worsened,792
+oral ulcers worsened,792
+inability to eat,792
+temperature rose to 39.4°C,1128
+hallucinations,1128
+multiple infections,1128
+IgM reduced to 0 g/L,1320
+septic shock,1320
+MODS,1320
+death,1320
+no history of drug allergies,0
+no macrophages phagocytosing neutrophils or platelets,768
+no diarrhea,0
+no colonoscopy performed,0
+no dyspnea,0
+no disturbance of consciousness,0
+blood products irradiated and filtered,0
+HLA mismatch,0

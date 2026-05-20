@@ -1,0 +1,66 @@
+event,time
+62-year-old gentleman,0
+presented to VA hospital,0
+dyspnoea on exertion,-168
+bilateral lower extremity edema,-168
+fever,-168
+rhinorrhea,-168
+systolic murmur auscultated at aortic area,0
+"erythematous, non-tender macules on bilateral palms",0
+heart failure exacerbation,0
+upper respiratory tract infection,-168
+inability to obtain diuretic medication,-168
+methicillin-resistant Staphylococcus aureus positive nares,0
+amphetamine IVDU,0
+opiate IVDU,0
+transthoracic echocardiogram,0
+impaired left ventricular relaxation,0
+valves not adequately visualized,0
+improved with diuretics,0
+confused,48
+less oriented,48
+temperature 101°F,48
+systolic blood pressure 70 mmHg,48
+upgraded to ICU,48
+started on vasopressors,48
+CT head without contrast,48
+blood cultures positive for methicillin-susceptible Staphylococcus aureus,48
+C-reactive protein 168 mg/L,48
+white blood cell count 21 × 109/L,48
+started on broad-spectrum IV antibiotics,48
+infectious disease consult,48
+repeat blood cultures positive for methicillin-resistant Staphylococcus aureus,96
+Lactobacillus,96
+repeat transthoracic echocardiogram,96
+3-mm vegetation on aortic valve,96
+IV vancomycin,96
+IV rifampin,96
+IV gentamicin,96
+IV piperacillin-tazobactam,96
+transoesophageal echocardiogram attempted,96
+oxygen saturation dropped to 70%,96
+TEE aborted,96
+5 days of broad-spectrum IV antibiotics,120
+temperature remained elevated,120
+inflammatory lab markers elevated,120
+orientation improved,120
+transferred to private hospital,192
+continued on broad-spectrum IV antibiotics,192
+transoesophageal echocardiogram,192
+extensive vegetations of aortic valve,192
+extensive vegetations of mitral valve,192
+extensive vegetations of tricuspid valve,192
+new-onset severe mitral regurgitation,192
+new-onset severe tricuspid regurgitation,192
+aortic valve fusion of all cusps,192
+critical aortic valvular stenosis,192
+tricuspid valve destruction,192
+aortic root abscess,192
+pacemaker lead infection,192
+CVT service evaluation,216
+determined not a candidate for surgery,216
+patient chose hospice care,216
+continued on IV antibiotics,216
+expired,528
+septic shock,528
+disseminated intravascular coagulation,528

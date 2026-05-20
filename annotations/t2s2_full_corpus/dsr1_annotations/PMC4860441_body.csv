@@ -1,0 +1,69 @@
+event,time
+21-year-old male,0
+diagnosis of MNGIE,-87600 (approximately 10 years before admission)
+energy loss,-87600
+foot-drop,-87600
+difficulty swallowing,-87600
+weight loss,-87600
+duodenojejunostomy operation,-8640 (approximately 1 year after MNGIE diagnosis)
+SMA syndrome,-8640
+intolerance of enteral nutrition,-8640
+initiation of TPN via CVC,-8640
+CVC insertion,-8640
+CVC changed 4 times,-720 (approximately 30 days before admission)
+last CVC insertion,-720 (19 November 2012)
+fever,0 (admission time)
+palpitation,0
+body temperature 38.5°C,0
+blood pressure 120/77 mmHg,0
+pulse 157 beats/min,0
+elevated sedimentation,0
+elevated CRP,0
+MRSA in blood cultures,0
+catheter-related infection,0
+decision to remove catheter,0
+echocardiography showing thrombus,0
+35x15 mm mobile thrombus,0
+heparin treatment,0
+antibiotic treatment,0
+no change in thrombus size,144 (6 days after admission)
+normal prothrombin time,144
+normal INR,144
+normal platelet count,144
+open heart surgery,168 (7 days after admission)
+ECG monitoring,168
+SpO2 monitoring,168
+invasive arterial catheterization,168
+systemic arterial pressure 120/80 mmHg,168
+heart rate 130/min,168
+SpO2 97%,168
+induction of anesthesia,168
+intubation,168
+central venous catheterization to right femoral vein,168
+extracorporeal circulation,168
+thrombus removal,168
+stable hemodynamic signs,168
+stable neurologic signs,168
+extracorporeal circulation duration 40 minutes,168
+operation duration 150 minutes,168
+hemoglobin 10.9 g/dl,168
+hemoglobin decreased to 7.1 g/dl,168
+blood transfusion,168
+1 U RBC,168
+2 U FFP,168
+intensive care unit transfer,168
+extubation,173 (5 hours after surgery)
+transport to Cardiovascular Surgery Department,264 (3 days after surgery)
+sterile catheter culture,264
+infected thrombus pathology report,264
+refusal of permanent catheter,264
+discharge,264
+recommendation for enteral nutrition,264
+recommendation for peripheral nutrition,264
+regression of sedimentation,264
+regression of CRP,264
+cachexia,0
+ptosis,0
+external ophthalmoplegia,0
+peripheral neuropathy,0
+leukoencephalopathy,0

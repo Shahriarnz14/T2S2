@@ -1,0 +1,154 @@
+event,time
+22 years old,0
+male,0
+admitted to the Dermatology Department,0
+fever,-360
+escharotic skin lesions,-360
+purpuric skin lesions,-360
+self-administered ibuprofen,-168
+self-administered diclofenac sodium,-168
+cephalosporin antibiotics,-96
+history of alcoholism,-17520
+body temperature 39°C,0
+pulse 120 bpm,0
+blood pressure 154/108 mmHg,0
+severe obesity,0
+black necrotic eschar,0
+subcutaneous nodules,0
+enlarged lymph nodes,0
+lower limbs scattered with purpuric lesions,0
+color Doppler ultrasound showing thrombosis,0
+CT scan showing cerebral infarction,0
+CT scan showing intracranial infection,0
+CT scan showing lung infection,0
+CT scan showing pleurisy,0
+CT scan showing pericardial effusion,0
+MRI showing fresh infarctions,0
+WBC count 14.67 × 10^9/L,0
+neutrophils 7.08 × 10^9/L,0
+lymphocytes 2.39 × 10^9/L,0
+eosinophils 4.53 × 10^9/L,0
+platelet count 19 × 10^9/L,0
+PT 17.8 s,0
+APTT 50.9 s,0
+fibrinogen 2.00 g/L,0
+D-dimer 44.28 µg/mL,0
+antithrombin III 87.0%,0
+pain in skin lesions,48
+back pain,48
+headache,48
+vertigo,48
+cough,48
+diarrhea,48
+stomach ache,48
+abdominal pain,168
+hematemesis 20 mL,168
+blood in stool 1500 mL,168
+occult blood positive,168
+pulmonary artery CTA showing multiple embolisms,168
+abdominal CT showing liver damage,168
+abdominal CT showing venous embolisms,168
+difficulty breathing,240
+irritability,240
+respiratory failure,240
+transferred to Emergency Critical Care,240
+right subclavian vein puncture,240
+liver function damage,240
+renal function damage,240
+hypokalemia,240
+hyperchloremia,240
+hypernatremia,240
+metabolic acidosis,240
+continuous coma,240
+body temperature 37.6°C–39.5°C,240
+continuous renal replacement therapy,480
+consciousness improved,480
+body temperature 37.6°C–38.5°C,480
+tar-like stools,480
+occult blood positive,480
+platelet count 61 × 10^9/L,480
+extubated,480
+returned to Dermatology Department,528
+blood chloride increased,576
+oxygen partial pressure 48%,576
+transferred to ICU,576
+femoral artery puncture,576
+radial artery puncture,576
+peripheral central venous catheterization,576
+active bloody stools,720
+bruise on right upper limb,720
+body temperature 37°C–39°C,864
+hemoglobin 80 g/L,864
+red liquid from gastric tube,984
+palpitations,984
+shortness of breath,984
+convulsions,984
+worsened breathing difficulty,1056
+oxygen saturation 66–78%,1056
+transferred to ICU,1056
+thoracentesis catheter drainage,1056
+tracheal intubation,1056
+mechanical ventilation,1056
+condition improved,1248
+body temperature 37°C–37.8°C,1248
+platelet count 355 × 10^9/L,1248
+coagulation improved,1248
+stable condition,1344
+normal body temperature,1344
+returned to dermatology,1344
+gastroscopy showing varicose veins,1368
+portal venous CTA showing thrombosis resolved,1584
+thigh skin lesion reduced,1608
+purpura subsided,1608
+vital signs stable,1608
+weight 46 kg,1608
+discharged,1608
+increased WBC,0
+increased eosinophils,0
+thrombocytopenia,0
+DIC,0
+decreased serum protein,0
+elevated transaminase,0
+high bilirubin,0
+elevated muscle enzymes,0
+elevated creatinine,0
+elevated uric acid,0
+elevated fasting glucose,0
+elevated serum iron,0
+proteinuria,0
+fecal occult blood,0
+protein C 43.1%,0
+negative autoantibodies,0
+low complement C3,0
+high C-reactive protein,0
+Klebsiella pneumoniae culture positive,0
+human herpesvirus type 5,0
+oral Candida positive,0
+histopathology showing thrombosis,0
+histopathology showing necrosis,0
+histopathology showing inflammation,0
+AIPF diagnosis,0
+acute cellulitis,0
+sepsis,0
+multiple organ failure,0
+acute upper gastrointestinal bleeding,0
+acute respiratory distress syndrome,0
+pulmonary embolism,0
+cerebral infarction,0
+hepatic vein thrombosis,0
+portal vein thrombosis,0
+splenic vein thrombosis,0
+mesenteric vein thrombosis,0
+deep vein thrombosis,0
+lung infection,0
+oral Candida infection,0
+liver damage,0
+glucocorticoids,0
+intravenous immunoglobulin,0
+antibiotics,0
+continuous renal replacement,0
+plasma transfusion,0
+platelet transfusion,0
+no bleeding points found,168
+no growth in some cultures,0
+negative microscopy/culture,0

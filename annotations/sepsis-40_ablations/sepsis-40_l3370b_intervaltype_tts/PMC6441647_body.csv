@@ -1,0 +1,67 @@
+event,time
+16 years old,0
+male,0
+admitted to the hospital,0
+fever,-72
+fatigue,-72
+scleral icterus,-72
+jaundice,-72
+dark urine,-72
+right abdominal pain,-72
+right shoulder pain,-72
+ulcerative colitis,-1752
+corticosteroid-dependent,-1752
+acute exacerbations,-1752
+aminosalicylates,-1752
+immunomodulators,-1752
+infliximab,-672
+colonoscopy,-504
+pancolitis,-504
+IV corticosteroids,-504
+infliximab,-504
+alkaline phosphatase,-504
+leukocytosis,0
+anemia,0
+thrombocytopenia,0
+transaminitis,0
+hyperbilirubinemia,0
+C reactive protein,0
+computed tomography,0
+multiple multi-loculated abscesses,0
+gas,0
+intrahepatic thrombosis,0
+splenomegaly,0
+bilateral pleural effusions,0
+diffuse colonic wall thickening,0
+abscess drainage,0
+cultures,0
+Peptostreptococci,0
+skin flora,0
+Escherichia coli,0
+acid-fast bacilli stain,0
+bacteremic,0
+Streptococcus viridans,0
+septic shock,24
+ICU management,24
+antimicrobial therapy,24
+vancomycin,24
+meropenem,24
+ceftriaxone,168
+metronidazole,168
+amoxicillin-clavulanate,168
+discharged,336
+liver loculations,336
+ultrasonography,4320
+normalization of liver enzymes,4320
+inflammatory markers,4320
+severe pancolitis,8736
+total colectomy,8736
+surgical gross pathology,8736
+moderately to severely active chronic pancolitis,8736
+mural abscesses,8736
+ulceration,8736
+nodularity,8736
+pseudopolyps,8736
+no ischemia,8736
+no dysplasia,8736
+no granulomas,8736

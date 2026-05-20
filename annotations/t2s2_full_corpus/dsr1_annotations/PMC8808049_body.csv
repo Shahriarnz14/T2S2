@@ -1,0 +1,76 @@
+event,time
+40-year-old,0
+woman,0
+no significant medical history,0
+presented to outside emergency department,0
+facial swelling,0
+neck swelling,0
+abdominal discomfort,0
+started on clindamycin,-48
+presumed tooth abscess,-48
+swelling of face worsened,0
+swelling of neck worsened,0
+endotracheally intubated,0
+mechanical ventilation,0
+CT scan of neck,0
+necrotizing fasciitis,0
+soft tissue edema,0
+gas formation,0
+retropharyngeal abscess,0
+tachycardic,0
+tachypneic,0
+blood pressure 89/41 mmHg,0
+MAP 69 mmHg,0
+WBC count 6.7,0
+H&H 12.5/37.2,0
+creatinine 1.8,0
+lactic acid 2.9,0
+central venous line placed,0
+3 liters IV fluids infused,0
+transferred to ICU,0
+fluid resuscitated,0
+sedated on Versed,0
+marked swelling of neck,0
+rhonchorous breath sounds,0
+severe sepsis,0
+multiple organ dysfunction syndrome,0
+soft tissue infection,0
+deep soft tissue of neck involvement,0
+superior mediastinum extension,0
+intravenous Fentanyl initiated,0
+1 liter 0.9% Sodium Chloride,0
+clindamycin started,0
+piperacillin-tazobactam started,0
+vancomycin started,0
+heparin started,0
+pantoprazole started,0
+Levophed infusion started,0
+ENT debrided neck region,24
+packed submandibular incisions,24
+packed anterior neck incisions,24
+two teeth removed,24
+right radial arterial line placed,24
+CT chest,24
+small pericardial effusion,24
+moderate bilateral pleural effusions,24
+left loculation,24
+ground glass opacities,24
+nodular consolidation,24
+acute lung injury,24
+ARDS,24
+bilateral chest tubes placed,24
+tracheostomy performed,96
+PEG tube placed,96
+pericardiocentesis performed,240
+PICC line placed,264
+Clostridium subterminale cultured from neck wound,264
+C. subterminale cultured from pleural fluid,336
+sensitivity to ampicillin-sulbactam,336
+sensitivity to cefoxitin,336
+sensitivity to meropenem,336
+sensitivity to metronidazole,336
+sensitivity to penicillin,336
+piperacillin-tazobactam course completed,336
+maintenance enteral antibiotic therapy,336
+chest tubes removed,624
+discharged to subacute rehab,888

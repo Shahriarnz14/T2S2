@@ -1,0 +1,61 @@
+event,time
+25-year-old African American female,0
+presented to the emergency department,0
+found on the floor at home,-4
+verbally incomprehensible,-4
+complete bilateral vision loss,-4
+altered mental status,-4
+systemic hypertension,-672
+stage 4 chronic kidney disease,-672
+idiopathic intracranial hypertension,-672
+ventriculoperitoneal shunt,-672
+hypertensive retinopathy,-672
+optic neuropathy,-672
+loss of peripheral vision in right eye,-672
+loss of central vision in left eye,-672
+third admission for acute kidney injury on CKD,0
+carvedilol 12.5 mg twice daily,-672
+nifedipine 60 mg twice daily,-672
+blood pressure 168/98 mmHg,0
+pulse 100 beats per minute,0
+minimally verbal,0
+obtunded,0
+total bilateral vision loss,0
+altered mental status,0
+left sided rib pain with coughing,0
+hypodensities in cerebellum,0
+hyperdensities in posterior occipital lobe,0
+diffuse parenchymal edema or infarction,0
+T2/FLAIR hyperintensity,0
+T1 hypointensity,0
+no restricted diffusion,0
+vasogenic edema,0
+BUN 92.0 mg/dL,0
+creatinine 17.56 mg/dL,0
+right-sided atrial septum vegetation,0
+negative blood cultures,0
+culture-negative endocarditis,0
+admitted to intensive care unit,0
+neurological examination every 2 hours,0
+VP shunt interrogated,0
+blood pressure controlled with labetalol,0
+blood pressure controlled with hydralazine,0
+clevidipine started,0
+transitioned to carvedilol,24
+transitioned to lisinopril,24
+transitioned to nifedipine,24
+tunneled catheter placed,24
+dialysis treatment started,24
+sevelamer carbonate started,24
+vancomycin started,24
+ceftazidime started,24
+regained baseline cognition,168
+regained vision,168
+light perception,168
+cerebral metamorphopsia,168
+no hallucinations,168
+resolved metamorphopsia,240
+regained baseline vision,240
+outpatient follow-up MRI,336
+resolution of vasogenic edema,336
+discharge,240

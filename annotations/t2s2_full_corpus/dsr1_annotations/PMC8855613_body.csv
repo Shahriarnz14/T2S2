@@ -1,0 +1,67 @@
+event,time
+45 years old,0
+male,0
+admitted to the emergency department,-216
+cough,-216
+sore throat,-216
+oxygen saturation of 88%,-216
+heart rate of 104 beats per minute,-216
+blood pressure of 105/75 mmHg,-216
+temperature 38.5 °C,-216
+positive SARS-CoV-2 infection,-216
+COVID-19 pneumonia,-216
+body mass index 22.7 kg/m2,-216
+no significant medical history,-216
+no known drug allergies,-216
+no history of smoking,-216
+no history of drinking alcohol,-216
+no regular medications,-216
+antiviral (favipiravir),-216
+dexamethasone 1 × 1,-216
+LMWH (1 × 40 mg enoxaparin),-216
+3/L oxygen support,-216
+d-dimer level 660 μg/L,-216
+oxygen support decreased,0
+antiviral treatment completed,0
+discharged with LMWH,0
+oxygen saturation 94%,0
+heart rate 78 per minute,0
+blood pressure 120/70 mmHg,0
+temperature 36.5 °C,0
+admitted to emergency service with left upper quadrant pain,0
+left flank pain,0
+mild tenderness in left upper quadrant,0
+no peritonitis findings,0
+leukocytosis 17.2 × 10³/μL,0
+D-dimer 310 μg/L,0
+troponin 0.001,0
+body mass index 22.1 kg/m2,0
+splenic hypodense area on abdominal CT,0
+subpleural ground-glass opacities,0
+interseptal thickening,0
+oral intake stopped,0
+intravenous hydration,0
+nonopioid analgesics,0
+enoxaparin increased to 2 × 0.6 mL,0
+sudden onset chest pain,24
+"ST segment elevation in D2, D3, aVF",24
+acute inferior MI,24
+no thrombus in heart,24
+emergency coronary angiography,24
+stent placed in RCA,24
+coronary intensive care unit,48
+haemodynamically stable,48
+transferred to general surgery clinic,48
+regressive abdominal pain,48
+oral intake gradually increased,48
+epigastric tenderness regressed,72
+left hypochondrial tenderness regressed,72
+discharged with acetylsalicylic acid 100 mg,72
+discharged with ticagrelor 90 mg,72
+lupus anticoagulant negative,72
+antiphospholipid syndrome negative,72
+normal spleen on ultrasound,2160
+no intra-abdominal fluid,2160
+no abscess collection,2160
+meningococcal vaccine not needed,2160
+Haemophilus influenza vaccine not needed,2160

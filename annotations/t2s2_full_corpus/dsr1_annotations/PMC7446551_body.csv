@@ -1,0 +1,56 @@
+event,time
+43 years old,0
+man,0
+smoker,0
+chest pain,-72
+electrocardiogram (ECG) changes suggesting postero-lateral myocardial infarction,-72
+high serum troponin levels,-72
+cardiac arrest (ventricular fibrillation),-72
+failed return of spontaneous circulation,-72
+evaluated and accepted for resuscitation with tMCS,-72
+CentriMag™ Circulatory Support System introduced via left femoral artery and right femoral vein,-72
+"cardiorespiratory collapse reversed with tMCS (12 min, 3.5 L/min blood flow)",-72
+coronary angiogram showed severe 3-vessel coronary artery disease,-72
+stents placed in two obtuse marginal arteries,-72
+unsuitable for further percutaneous coronary or surgical intervention,-72
+intra-aortic balloon pump inserted,-72
+left ventricular ejection fraction 19%,-72
+tMCS weaning protocol suggested satisfactory recovery after 5 days,-72
+tMCS device explanted,120
+sudden deterioration 8 hours after explantation,128
+tMCS re-established via femoral approach,128
+tMCS device explanted after further 8 days,128 (explantation at 128 + 192 = 320)
+hemodynamic deterioration 3 days later,320 + 72 = 392
+tMCS CentriMag™ re-instituted,392
+left groin sepsis,392
+arterial cannula re-sited in left subclavian artery via tube graft,392
+venous drainage via right femoral vein remained,392
+sepsis cleared,392
+decision to perform LVAD implantation (bridge to transplantation),392
+referred for transplantation in another country,392
+echocardiogram detected ascending aortic intimal flap 12 days into third tMCS period,392 + 288 = 680
+type A aortic dissection confirmed by CT aortogram,680
+intimal flap extended from ascending aorta to iliac arteries with no communication between true and false lumens,680
+agreed strategy: ascending aorta repair followed by LVAD implantation,680
+ascending aorta dilated with hematoma and free pericardial blood at surgery,680
+cardiopulmonary bypass established via left subclavian cannula and right atrial cannula,680
+ascending aorta clamped and incised,680
+ascending aorta replaced with tube graft,680
+distal ascending aorta supported with Teflon strips,680
+myocardial protection with antegrade cold blood cardioplegia and topical slush,680
+HeartMate 3 LVAD implanted via left ventricular apex,680
+outflow graft anastomosed to aortic interposition graft,680
+weaned off cardiopulmonary bypass,680
+intensive care unit stay for 2 weeks,680 + 336 = 1016
+ward stay for 4 weeks,1016 + 672 = 1688
+discharged home,1688
+functional status excellent 4 months post-LVAD,2920 (approx. 4 months)
+no major comorbidities,0
+witnessed cardiac arrest,0
+left femoral artery cannulations,392
+left subclavian artery cannulation,392
+iatrogenic retrograde aortic dissection,680
+no communication between true and false lumens,680
+acute type A aortic dissection with high mortality,680
+LVAD as bridge to transplantation,680
+satisfactory outcome,680

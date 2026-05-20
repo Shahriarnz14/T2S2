@@ -1,0 +1,239 @@
+event,time
+79 years old,0
+female,0
+admitted to the hospital,0
+acute pancreatitis,0
+high fever,0
+involuntary weight loss,0
+inadequate nutrient consumption,0
+two episodes of vomiting,0
+severe pain in the upper right abdomen,0
+diabetes,0
+hypertension,0
+history of atrial fibrillation,0
+history of cholestasis,0
+weight 50 kg,0
+height 168 cm,0
+BMI 17.8 kg/m²,0
+underweight status,0
+risk for refeeding syndrome,0
+sudden pain,0
+intense pain within a few minutes,0
+nausea,0
+lack of appetite,0
+treatment with ciprofloxacin,0
+treatment with metronidazole,0
+clinical signs of inflammation,0
+elevated C-reactive protein,0
+elevated erythrocyte sedimentation rate,0
+elevated leukocyte count,0
+signs of inflammation around the pancreas on CT,0
+no alcohol consumption,0
+steatosis,0
+cholelithiasis,0
+dehydration,0
+pulse rate 90 beats/minute,0
+blood pressure 135/75 mmHg,0
+body temperature 38.5°C,0
+local tenderness in the right upper abdomen,0
+positive Murphy sign,0
+positive Blumberg sign,0
+gallbladder enlargement with stones,0
+common bile duct expansion 14 cm,0
+inhomogeneous pancreatic echostructure,0
+reduced dietary intake for more than 5 days,0
+low potassium,0
+low phosphate,0
+low magnesium,0
+respiratory failure,0
+cardiac failure,0
+intravenous antimicrobial therapy,0
+intravenous rehydration therapy,0
+intravenous 0.5% glucose,0
+spasmolytic drugs,0
+leukocyte count 16.3×10⁹/L,0
+neutrophil 92.7%,0
+hemoglobin 12.2 g/dL,0
+platelet count 320×10³/mm³,0
+sodium 139 mmol/L,0
+potassium 4.2 mmol/L,0
+creatinine 1.1 mg/dL,0
+serum phosphate 5.0 mmol/L,0
+total bilirubin 3.2 mg/dL,0
+GOT 176 U/L,0
+GPT 154 U/L,0
+lipase 3250 U/L,0
+CRP 14.5 mg/dL,0
+nutritional assessment,48
+oral feeding maintained until 6 hours before ERCP,72
+retrograde endoscopic cholangiopancreatography,72
+removal of stones in common bile duct,72
+enteral feeding via nasogastric tube,72
+refusal of oral feeding,72
+low-speed normocaloric enteral feeding,72
+enteral feeding interrupted after a few hours,72
+confusion,72
+tachycardia,72
+respiratory insufficiency,72
+oxygen saturation 85%,72
+severe hypotension,72
+rapid fluid supplementation,72
+oxygen supplementation 2 L/minute,72
+dopamine 4 mcg/kg/minute,72
+severe hypokalemia,72
+severe hyponatremia,72
+severe hypophosphatemia,72
+severe hypocalcemia,72
+severe hypomagnesemia,72
+low albumin,72
+respiratory alkalosis,72
+refeeding syndrome diagnosed,72
+parenteral feeding,72
+phosphorus supplementation,72
+magnesium supplementation,72
+potassium supplementation,72
+B-group vitamins supplementation,72
+mild recovery,72
+started oral feeding,96
+calorie intake 10 kcal/kg,96
+phosphorus supplementation 0.5–0.8 mmol/L,96
+potassium supplementation 1.3 mmol/L,96
+magnesium supplementation 0.3–0.4 mmol/L,96
+sodium restriction,96
+calorie intake increased by 5 kcal/kg daily,120
+thiamine supplementation,120
+calorie intake increased by 20–30 kcal/kg daily,168
+liver function monitoring,168
+kidney function monitoring,168
+fluids and electrolytes supplemented,168
+calorie intake further increased,240
+adequate daily caloric requirement reached,240
+clinical improvement,312
+body temperature 36.8°C,312
+laboratory parameters normalized,312
+electrocardiogram no ischemia,312
+echocardiogram ejection fraction 49%,312
+bilateral pleural effusion,312
+resumed oral eating,336
+hemodynamic status stabilized,336
+vasopressor therapy discontinued,336
+electrolyte imbalance resolved,336
+79 years old,0
+female,0
+admitted to the hospital,0
+acute pancreatitis,0
+high fever,0
+involuntary weight loss,0
+inadequate nutrient consumption,0
+two episodes of vomiting,0
+severe pain in the upper right abdomen,0
+diabetes,0
+hypertension,0
+history of atrial fibrillation,0
+history of cholestasis,0
+weight 50 kg,0
+height 168 cm,0
+BMI 17.8 kg/m²,0
+underweight status,0
+risk for refeeding syndrome,0
+sudden pain,0
+intense pain within a few minutes,0
+nausea,0
+lack of appetite,0
+treatment with ciprofloxacin,0
+treatment with metronidazole,0
+clinical signs of inflammation,0
+elevated C-reactive protein,0
+elevated erythrocyte sedimentation rate,0
+elevated leukocyte count,0
+signs of inflammation around the pancreas on CT,0
+no alcohol consumption,0
+steatosis,0
+cholelithiasis,0
+dehydration,0
+pulse rate 90 beats/minute,0
+blood pressure 135/75 mmHg,0
+body temperature 38.5°C,0
+local tenderness in the right upper abdomen,0
+positive Murphy sign,0
+positive Blumberg sign,0
+gallbladder enlargement with stones,0
+common bile duct expansion 14 cm,0
+inhomogeneous pancreatic echostructure,0
+reduced dietary intake for more than 5 days,0
+low potassium,0
+low phosphate,0
+low magnesium,0
+respiratory failure,0
+cardiac failure,0
+intravenous antimicrobial therapy,0
+intravenous rehydration therapy,0
+intravenous 0.5% glucose,0
+spasmolytic drugs,0
+leukocyte count 16.3×10⁹/L,0
+neutrophil 92.7%,0
+hemoglobin 12.2 g/dL,0
+platelet count 320×10³/mm³,0
+sodium 139 mmol/L,0
+potassium 4.2 mmol/L,0
+creatinine 1.1 mg/dL,0
+serum phosphate 5.0 mmol/L,0
+total bilirubin 3.2 mg/dL,0
+GOT 176 U/L,0
+GPT 154 U/L,0
+lipase 3250 U/L,0
+CRP 14.5 mg/dL,0
+nutritional assessment,48
+oral feeding maintained until 6 hours before ERCP,72
+retrograde endoscopic cholangiopancreatography,72
+removal of stones in common bile duct,72
+enteral feeding via nasogastric tube,72
+refusal of oral feeding,72
+low-speed normocaloric enteral feeding,72
+enteral feeding interrupted after a few hours,72
+confusion,72
+tachycardia,72
+respiratory insufficiency,72
+oxygen saturation 85%,72
+severe hypotension,72
+rapid fluid supplementation,72
+oxygen supplementation 2 L/minute,72
+dopamine 4 mcg/kg/minute,72
+severe hypokalemia,72
+severe hyponatremia,72
+severe hypophosphatemia,72
+severe hypocalcemia,72
+severe hypomagnesemia,72
+low albumin,72
+respiratory alkalosis,72
+refeeding syndrome diagnosed,72
+parenteral feeding,72
+phosphorus supplementation,72
+magnesium supplementation,72
+potassium supplementation,72
+B-group vitamins supplementation,72
+mild recovery,72
+started oral feeding,96
+calorie intake 10 kcal/kg,96
+phosphorus supplementation 0.5–0.8 mmol/L,96
+potassium supplementation 1.3 mmol/L,96
+magnesium supplementation 0.3–0.4 mmol/L,96
+sodium restriction,96
+calorie intake increased by 5 kcal/kg daily,120
+thiamine supplementation,120
+calorie intake increased by 20–30 kcal/kg daily,168
+liver function monitoring,168
+kidney function monitoring,168
+fluids and electrolytes supplemented,168
+calorie intake further increased,240
+adequate daily caloric requirement reached,240
+clinical improvement,312
+body temperature 36.8°C,312
+laboratory parameters normalized,312
+electrocardiogram no ischemia,312
+echocardiogram ejection fraction 49%,312
+bilateral pleural effusion,312
+resumed oral eating,336
+hemodynamic status stabilized,336
+vasopressor therapy discontinued,336
+electrolyte imbalance resolved,336

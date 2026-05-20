@@ -1,0 +1,78 @@
+event,time
+43 years old,0
+male,0
+admitted to the hospital,0
+jaundice,-168
+nausea,-168
+vomiting,-168
+abdominal pain,-168
+flu-like syndrome,-168
+fever,-168
+chills,-168
+headache,-168
+myalgia,-168
+arthralgia,-168
+passing tea-colored urine,-168
+decreased urine output,-168
+asymptomatic chronic HBV infection,-96264
+acute exacerbation of chronic HBV (CHB-AE),0
+altered consciousness,24
+metabolic acidosis (pH 7.087),24
+oliguria (<200 mL/24 hours),24
+"trip to Serui, Papua",-1776
+malaria rapid test positive,48
+intraerythrocytic P. falciparum,48
+high parasitemia (12.6%),48
+severe malaria,48
+intravenous artesunate,48
+oral primaquine,48
+continuous renal replacement therapy (CRRT),48
+intensive care unit admission,48
+intubation,48
+acute kidney injury (AKI),0
+creatinine 13.18 mg/dL,0
+ureum 327 mg/dL,0
+eGFR 4.06 mL/min/1.73m2,0
+total bilirubin 36.06 mg/dL,0
+indirect bilirubin 29.06 mg/dL,0
+elevated liver transaminases,0
+anemia,0
+thrombocytopenia,0
+hypoalbuminemia,0
+positive bilirubin in urine,0
+positive urobilinogen in urine,0
+negative hemoglobin in urine,0
+positive HBsAg,0
+positive IgM anti-HBc,0
+positive anti-HBe,0
+negative HBeAg,0
+severe liver fibrosis (F3-F4),0
+normal liver size,0
+no hepatosplenomegaly,0
+no ascites,0
+telbivudine,0
+cefoperazone,0
+furosemide,0
+ursodeoxycholic acid,0
+improvement in ureum,72
+improvement in creatinine,72
+improvement in bilirubin,72
+improvement in liver enzymes,72
+improvement in eGFR,72
+progressive renal decline,96
+liver injury deterioration,96
+pulmonary edema,168
+septic shock,168
+multiorgan dysfunction,168
+death,168
+no hepatosplenomegaly,0
+no ascites,0
+no hemoglobin detected in urine,0
+negative Covid-19 PCR,0
+negative hepatitis C,0
+negative hepatitis D,0
+negative HIV,0
+denies alcohol use,0
+alert on admission,0
+abdominal upper quadrant tenderness,0
+normal neurological examination,0

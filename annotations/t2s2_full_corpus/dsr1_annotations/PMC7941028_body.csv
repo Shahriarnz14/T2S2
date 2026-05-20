@@ -1,0 +1,70 @@
+event,time
+65 years old,0
+female,0
+diabetes mellitus,-131400
+glimepiride,-131400
+vildagliptin,-131400
+metformin,-131400
+voglibose,-131400
+glycosylated hemoglobin 6.6%,0
+no history of poor oral hygiene,0
+no history of aspiration pneumonia,0
+fatigue,-336
+appetite loss,-336
+cough,-336
+dyspnea,-336
+no fever,-672
+"elevated white blood cell count (13,500 count/mm3)",-672
+elevated C-reactive protein (24.5 mg/L),-672
+no antipyretic analgesics,-672
+no oral antibiotics,-672
+blood temperature 35.5°C,0
+pulse rate 120/min,0
+blood pressure 149/86 mmHg,0
+oxygen saturation 94%,0
+pitting edema on face,0
+pitting edema on lower legs,0
+"elevated white blood cell count (27,200 count/mm3)",0
+elevated C-reactive protein (358.1 mg/L),0
+extensive pleural effusion,0
+bubbles in left pleural cavity,0
+air in left pleural cavity,0
+collapse of left lung,0
+mediastinal shift to right,0
+no pulmonary fistula detected,0
+no gastrointestinal to thoracic fistula,0
+no herniation of stomach and colon,0
+admitted to intensive care unit,0
+loss of respiratory variability,0
+inferior vena cava diameter 15 mm,0
+lactate level 10.6 mmol/L,0
+drainage procedure,0
+gas with foul odor expelled,0
+thoracostomy tube placement,0
+1500 ml yellow viscous pus drained,0
+no air-leakage,0
+lactate level decreased to 4.2 mmol/L,1
+lactate level decreased to 1.2 mmol/L,6
+pitting edema improved,8
+1400 ml urination,8
+Actinomyces sp. found in pus smear,0
+anaerobic bacteria found in pus smear,0
+no pathogenic bacteria in pus culture,0
+intravenous sulbactam,0
+intravenous ampicillin,0
+thoracic cavity washed,72
+thoracic cavity washed,96
+urokinase used,0
+analgesics as needed,0
+no fever since admission,0
+chest CT day 9,216
+no pulmonary fistula,216
+no bronchopleural fistula,216
+thoracostomy tube removed,408
+antibiotics discontinued,432
+drug-induced rash,432
+discharged,504
+chest CT 8 months post-discharge,6048
+full expansion of left lung,6048
+slight fibrosis in lung,6048
+no recurrence,504

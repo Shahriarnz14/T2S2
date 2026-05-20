@@ -1,0 +1,108 @@
+event,time
+32-year-old,0
+woman,0
+history of intravenous drug use,0
+attention deficit/hyperactivity disorder,0
+non-smoker,0
+did not consume alcohol,0
+abusing fentanyl intravenously,0
+dextroamphetamine/amphetamine,0
+denied exposure to any other medications or chemicals,0
+fevers,-168
+chills,-168
+generalized weakness,-168
+shortness of breath,-72
+admitted to the hospital,0
+Temperature 102.7 °Fahrenheit,0
+blood pressure 102/56 mmHg,0
+pulse 136 beats per minute,0
+respiratory rate 38 breaths per minute,0
+oxygen saturation 94% on room air,0
+moderate respiratory distress,0
+bilateral rhonchi,0
+regular heart rhythm,0
+tachycardia,0
+no murmur,0
+no rub,0
+no gallop,0
+"white blood cell count (WBC) of 12,200/mm3",0
+hemoglobin 10.9 g/dL,0
+"platelet count of 85,000/mm3",0
+ESR of 60 mm/hr,0
+hyponatremia,0
+sodium of 124 mmol/L,0
+creatinine 2.8 mg/dL,0
+BUN 98 mg/dL,0
+NT-proBNP 1028 pg/mL,0
+ECG showed sinus tachycardia,0
+chest radiograph bilateral lower lobe infiltrates,0
+small pleural effusions,0
+IV fluids given,0
+levofloxacin intravenously,0
+treated for community acquired pneumonia,0
+clinical condition deteriorated,24
+transferred to the intensive care unit,24
+septic shock,24
+acute respiratory failure,24
+pressor support required,24
+mechanical ventilation required,24
+blood cultures grew gram-positive cocci,36
+vancomycin therapy started,36
+non-oliguric AKI,36
+transthoracic echocardiogram showed a large vegetation at the tip of anterior leaflet of tricuspid valve measuring 2 cm x 1.2 cm,40
+moderate-to-severe tricuspid regurgitation,40
+cardiothoracic surgery was consulted,40
+transesophageal echocardiogram with contrast revealed patent foramen ovale with shunt,48
+acute tubular necrosis secondary to perfusion-related kidney injury,48
+renal replacement therapy required,48
+CT chest showed multiple cavitary peripheral lung nodules,50
+septic emboli,50
+blood cultures grew methicillin sensitive Staphylococcus aureus (MSSA),72
+oxacillin (2 g IV every 6 h) treatment was initiated,72
+weaned off pressors,240
+renal function started to recover,240
+successfully extubated,264
+"12 days after initiation of oxacillin, bilateral nontender purpuric papules localized predominantly on the dorsal aspect of the hands and feet",360
+bullous lesions developed,384
+lesions on the anterior knee,384
+lesions on the lateral aspect of thighs,384
+no mucosal involvement,384
+no palmar involvement,384
+no abdominal pain,384
+no arthralgias,384
+no paresthesia,384
+no fever,384
+no chills,384
+HIV antibody negative,384
+hepatitis B serology negative,384
+p-ANCA negative,384
+c-ANCA negative,384
+cryoglobulin negative,384
+rheumatoid factor negative,384
+ANA weakly positive at a titer of 1:40,384
+anti-ds DNA antibody negative,384
+Complement C3 low 14 mg/dL,384
+C4 28 mg/dL,384
+Anti−HCV antibody positive,384
+HCV viral load 4.16 × 10^5 IU/mL,384
+no significant changes in red blood count,384
+no significant changes in leukocyte count,384
+no significant changes in kidney function,384
+eosinophil count within the normal limits throughout the hospital stay,0
+aspirated fluid from bullous lesions did not grow bacteria,396
+no organisms seen on gram staining,396
+punch biopsies showed perivascular neutrophil infiltration with fibrinoid necrosis of small vessels,396
+no bacteria identified on biopsy,396
+no fungi identified on biopsy,396
+no viral inclusions identified on biopsy,396
+leukocytoclastic vasculitis,396
+oxacillin-associated LCV was suspected,396
+oxacillin discontinued,396
+vancomycin was started in lieu of oxacillin,396
+supportive treatments only,396
+tricuspid valve replacement surgery,600
+no perioperative complications,600
+skin lesions completely resolved,1080
+no scar formation,1080
+follow-up appointment,1080
+no recurrence of skin lesions,1080

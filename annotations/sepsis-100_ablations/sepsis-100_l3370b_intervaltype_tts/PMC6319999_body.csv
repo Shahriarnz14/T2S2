@@ -1,0 +1,81 @@
+event,time
+29 years old,0
+female,0
+admitted to the hospital,0
+complex regional pain syndrome,-8760
+sports-related injury,-8760
+shoulder surgery,-8760
+recurrent shoulder infections,-8760
+Pseudomonas aeruginosa,-120
+Sphingomonas paucimobilis,-120
+Candida colliculosa,-120
+Staphylococcus aureus,-120
+left shoulder tendon release,-720
+revision,-720
+CRPS symptoms,-720
+severe pain,-720
+allodynia,-720
+edema,-720
+muscle spasms,-720
+temperature changes,-720
+electromyography,-168
+brachial plexus injury,-168
+asthma,-720
+selective IgG3 deficiency,-720
+oral medical management,-168
+opioids,-168
+antidepressants,-168
+antispasmodics,-168
+left stellate ganglion blockade,-168
+continuous cervical epidural infusions,-168
+epidural catheter placement,0
+fluoroscopic guidance,0
+antibiotic prophylaxis,-1
+vancomycin,-1
+epidural infusion,0
+bupivacaine,0
+hydromorphone,0
+clonidine,0
+methadone,0
+diazepam,0
+baclofen,0
+amitriptyline,0
+decrease in pain,24
+improved sleep,48
+decrease in LUE spasms,48
+decrease in edema,48
+febrile,120
+temperature 38.1°C,120
+wean the infusion,120
+remove the epidural catheter,120
+headache,126
+neck pain,126
+temperature 40.0°C,126
+neurological examination,126
+blood cultures,126
+urine cultures,126
+chest x-ray,126
+laboratory workup,126
+increase in white count,126
+cefepime,126
+abatement of fever,144
+decrease in white count,144
+MRI,150
+epidural collection,150
+nerve roots compression,150
+interstitial edema,150
+transfer to NSICU,150
+hourly neurological examination,150
+intractable nausea,216
+vomiting,216
+left arm weakness,216
+emergent decompression,216
+evacuation,216
+intraoperative cultures,216
+P aeruginosa,216
+cefepime,216
+vancomycin,216
+resolution of arm weakness,240
+postoperative course,240
+discharged home,432
+intravenous cefepime,432

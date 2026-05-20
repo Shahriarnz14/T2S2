@@ -1,0 +1,74 @@
+event,time
+400 g,0
+male,0
+27th week of gestation,0
+delivered by primary cesarean delivery,0
+small for gestational age,0
+placental insufficiency,0
+clear amniotic fluid,0
+delayed newborn adaptation,0
+required respiratory support by CPAP mask,0
+transferred to neonatal intensive care unit,0
+administration of surfactant,0
+caffeine citrate,0
+piperacillin,0
+spironolactone,0
+hydrochlorothiazide,0
+intracranial hemorrhages grade 1 (right side),0
+intracranial hemorrhages grade 2 (left side),0
+initial perianal smear negative,0
+colonization with multidrug-resistant Acinetobacter pittii on day 14,-1440
+planned for open both-sided inguinal hernia repair,-72
+"monitored blood pressure, oxygen saturation, heart rate",0
+sedated with propofol (2 mg/kg i.v.),0
+positioned in left lateral position,0
+maintained spontaneous breathing,0
+caudal anesthesia performed under aseptic conditions,0
+skin disinfected with Braunoderm 3 times,0
+surgical face masks worn by OR personnel,0
+sterile gloves worn by anesthetist,0
+caudal space identified with ultrasound,0
+22-gauge hollow needle inserted,0
+1.15 mL/kg 0.375% ropivacaine instilled,0
+negative aspiration for blood and CSF,0
+epidural spread confirmed by ultrasound,0
+sufficient analgesia confirmed,10
+surgery started,10
+surgery duration 51 minutes,10
+no further analgesics required,10
+adequate neurology,10
+no signs of spinal block,10
+developed fever up to 39°C,24
+elevated CRP (3 mg/dL),24
+elevated IL-6 (1477 pg/dL),24
+CRP increased to 27.6 mg/dL,72
+"IL-6 increased to 26,105 pg/dL",24
+"empiric broad antibacterial therapy initiated (cefotaxime, ampicillin, gentamycin)",24
+firm and painful abdomen,24
+abdominal sonography and x-ray without signs of intestinal perforation,24
+explorative laparotomy performed,48
+no pathological findings in laparotomy,48
+brain sonography showed inflammatory process (ventriculitis or periventricular leukomalacia),48
+spinal cord without pathologies,48
+"lumbar puncture: increased cell counts (10,054/µL)",48
+lumbar puncture: increased protein (992 mg/dL),48
+lumbar puncture: increased lactate (74 mg/dL),48
+predominantly polymorphonuclear leukocytes (95%),48
+few mononuclear leukocytes (5%),48
+Gram-instable rods in CSF,48
+antibacterial therapy switched to meropenem and vancomycin,48
+repeated lumbar puncture: lactate 85.6 mg/dL,72
+repeated lumbar puncture: cell counts 450/µL,72
+repeated lumbar puncture: protein 674 mg/dL,72
+negative blood cultures,72
+Clostridium perfringens detected in CSF by PCR,72
+dexamethasone administered over 48 hours,72
+significant cystic remodeling of brain tissue,72
+secondary brain edema grade 3,72
+generalized epileptic seizures,72
+"anticonvulsive therapy (diazepam, phenobarbital)",72
+apnea,168
+severe disturbance of temperature homeostasis,168
+fulminant bacterial meningoencephalitis,168
+multiorgan failure,168
+died,168

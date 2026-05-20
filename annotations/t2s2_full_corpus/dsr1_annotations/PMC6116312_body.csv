@@ -1,0 +1,59 @@
+event,time
+25 years old,0
+male,0
+admitted to the hospital,0
+high-grade fever,-144
+diffuse abdominal pain,-48
+hematemesis,-48
+anemia,0
+thrombocytopenia,0
+hyperbilirubinemia,0
+raised transaminases,0
+normal coagulation profile,0
+normal renal function,0
+dengue NS1 antigen positive,0
+malaria antigen negative,0
+malaria smear negative,0
+dense bilateral lower lobe consolidation,0
+acute respiratory distress syndrome,48
+intubation,48
+mechanical ventilation,48
+septic shock,48
+broad-spectrum antimicrobials (meropenem and doxycycline),48
+referred to Intensive Care Unit,48
+fever (core temp 40°C),48
+tachycardia (heart rate 130/min),48
+blood pressure 130/70 mmHg,48
+norepinephrine infusion,48
+sedation (midazolam and fentanyl),48
+mechanical ventilation (PC/PEEP: 20/10 cm H2O),48
+APACHE II score 20,48
+SOFA score 12,48
+improving thrombocytopenia,48
+improving liver function tests,48
+positive dengue IgM,48
+positive scrub typhus serology,48
+elevated procalcitonin (6.5 ng/ml),48
+severe ARDS (PaO2/FiO2 ratio 100),48
+proning for 12 hours,48
+improved oxygenation (PaO2/FiO2 ratio 220),60
+persistent high-grade fever (core temperature 40°C),48
+recovering from septic shock,72
+blood cultures grew Burkholderia cepacia,72
+Burkholderia cepacia resistant to amikacin,72
+Burkholderia cepacia resistant to aztreonam,72
+Burkholderia cepacia resistant to ceftazidime,72
+Burkholderia cepacia resistant to cefoperazone-sulbactam,72
+Burkholderia cepacia sensitive to levofloxacin,72
+Burkholderia cepacia sensitive to meropenem,72
+Burkholderia cepacia sensitive to trimethoprim-sulfamethoxazole,72
+endotracheal aspirates revealed methicillin-resistant Staphylococcus aureus,72
+"antimicrobials changed to doripenem, linezolid, and cotrimoxazole",72
+fever reduced in intensity,108
+successful extubation,120
+repeat blood cultures sterile,168
+procalcitonin decreased to 0.5 ng/ml,168
+CT imaging showed cavitatory lesions with bronchiectatic changes,504
+resolving pneumonia,504
+discharged,504
+no previous comorbidities,0

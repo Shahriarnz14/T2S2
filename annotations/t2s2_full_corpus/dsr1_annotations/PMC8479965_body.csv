@@ -1,0 +1,68 @@
+event,time
+61 years old,0
+female,0
+type 2 diabetes mellitus,-8 years
+fever,0
+headache,0
+severe anorexia,0
+lethargy,0
+apathetic,0
+poor glycaemic control,0
+dehydrated,0
+ill-looking,0
+erythematous patch over right maxillary bone,0
+tenderness over right maxillary bone,0
+high neutrophil leukocytosis,0
+CRP above 200 mg/l,0
+OM view opacity right maxillary sinus,0
+suspected bacterial sinusitis,0
+IV ceftriaxone initiated,0
+blood culture obtained,0
+blood sugar controlled with insulin infusion,0
+blood sugar maintained 140–180 mg/dl,0
+urinary ketones negative,0
+referred to ENT,0
+antral washout performed,0
+antral wash samples sent for culture,0
+no necrotic material in maxillary sinus,0
+clinical deterioration,24
+blood pressure plummeted,24
+admitted to ICU,24
+septic shock management,24
+IV fluids,24
+noradrenalin,24
+blood culture grew E. coli,48
+sinus washout culture grew E. coli,48
+IV meropenem initiated,48
+sinus fungal culture grew Rhizopus,96
+direct microscopy non-septate fungal filaments,96
+R. arrhizus identified,96
+necrotic skin over maxillary sinus,96
+liposomal amphotericin B 3 mg/kg/day,96
+abdominal USS,120
+chest x-ray,120
+left psoas abscess detected,120
+CECT abdomen confirmed abscess,120
+asymptomatic psoas abscess,120
+abscess aspirated,120
+sample sent for AFB microscopy,120
+psoas abscess recollection,168
+repeat USS-guided aspiration,168
+repeat antral washout,168
+necrotic debris removed,168
+maxillary sinus bone erosion,168
+amphotericin B dose increased to 5 mg/kg/day,168
+surgical drainage of psoas abscess,168
+clinical improvement,168
+flexible rhinoscopy,336
+conscious level deterioration,360
+NCCT brain pneumocephalus,360
+high-flow oxygen initiated,360
+conscious level improvement,432
+repeat NCCT brain improvement,456
+oxygen continued,456
+amphotericin B cumulative dose 5 g,1008
+meropenem continued 6 weeks,1008
+complete recovery,1008
+repeat flexible rhinoscopy no necrotic material,1008
+referred for facial reconstruction,1008

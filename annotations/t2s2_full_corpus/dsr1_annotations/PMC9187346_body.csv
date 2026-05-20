@@ -1,0 +1,70 @@
+event,time
+67-year-old,0
+Caucasian,0
+female,0
+admitted to intensive care unit (ICU),0
+elective posterior spinal instrumentation and fusion with laminectomy,-24
+chronic back pain,0
+obesity,0
+hypertension,0
+gastritis,0
+HSV1,0
+tobacco use,0
+"six courses of prednisone, 50 mg daily for 5 days over a 3-month period",-2160
+postoperative day (POD) 1,24
+desaturated to SpO2 of 85%,24
+oxygenation improved with continuous positive airway pressure,24
+bilateral lower lobe infiltrates,24
+glucocorticoid taper with dexamethasone and hydrocortisone initiated,0
+hydrocortisone 100 mg once,0
+dexamethasone 10 mg twice daily for 1 day,24
+dexamethasone 8 mg twice daily for 1 day,48
+dexamethasone 6 mg once during POD 1-2,24
+hydrocortisone 50 mg every 6 h for 1 day,72
+hydrocortisone 25 mg every 6 h for 1 day,96
+POD 2,48
+acute kidney injury,48
+febrile episodes,48
+blood cultures ordered,48
+vancomycin initiated,48
+piperacillin-tazobactam initiated,48
+POD 5,120
+hemodynamically unstable,120
+hypercapnic respiratory failure,120
+intubated,120
+norepinephrine initiated,120
+hemodialysis initiated,120
+POD 6,144
+white blood cell count doubled,144
+procalcitonin elevated,144
+repeat cultures sent,144
+antimicrobials broadened to vancomycin and meropenem,144
+chest X-ray concerning for acute respiratory distress syndrome (ARDS),144
+blood cultures grew Candida albicans,144
+urine cultures grew Candida albicans,144
+sputum cultures grew Candida albicans,144
+fluconazole initiated,144
+concerns for immunosuppression,144
+glucocorticoid use,0
+candedemia,144
+β-D-Glucan not performed,144
+serum triglycerides >700 mg/dL,144
+sputum negative for Pneumocystis jirovecii,144
+immunostaining positive for HSV,144
+disseminated HSV1 infection confirmed with DNA PCR,144
+acyclovir initiated,144
+family reported history of oral HSV1,0
+recurrent oral infections,0
+POD 15,360
+bloody output from orogastric tube,360
+esophagogastroduodenoscopy performed,360
+diffuse esophageal ulcerations,360
+gastric ulcerations,360
+HSV esophagitis,360
+improvement clinically,360
+vasopressors discontinued,384
+extubated,384
+transferred out of ICU,672
+improvement of renal function,672
+discontinuation of dialysis,672
+discharged,936

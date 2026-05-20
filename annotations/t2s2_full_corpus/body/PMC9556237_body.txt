@@ -1,0 +1,103 @@
+pmcIntroduction
+
+Allogeneic hematopoietic cell transplantation (allo-HCT) has been developed as a potentially curative therapy for hematological disorders (1). Although advances in medical techniques and therapeutic agents have improved the outcomes of allo-HCT (2), allo-HCT is associated with several serious treatment-related complications. Cardiotoxicity is one of the most critical complications associated with allo-HCT (3) and is commonly caused by cytotoxic agents and inflammatory mediators produced due to tissue damage and infection (3-6).
+
+Anthracyclines, such as doxorubicin and daunorubicin, are major agents used to treat various hematological malignancies; they can cause cardiomyopathy in a cumulative dose-dependent manner (4). Alkylators, such as cyclophosphamide (CPA), which is generally used at high doses as a conditioning regimen for hematopoietic cell transplantation, can also cause severe cardiotoxicity (5). Severe infections, such as sepsis, are another cause of cardiotoxicity (6). Acute heart failure (AHF), which is characterized by sudden and severe circulatory dysfunction (7), is a clinical syndrome caused by cardiotoxicity (3). Although medications such as diuretics and catecholamines are effective in most AHF cases, some patients are resistant to treatment and require circulatory assisting device (CAD) placement to maintain circulation (7). However, these invasive procedures require cannulation into blood vessels, which is difficult to perform in patients undergoing allo-HCT due to their disposition to severe bleeding and immunocompromised status. Therefore, additional medication strategies are required for such patients.
+
+We herein report a case of AHF due to transplantation-related severe cardiomyopathy early after allo-HCT, which was successfully treated with ivabradine-adjuvanted pharmacotherapy.
+
+Case Report
+
+A 16-year-old boy was admitted to a local hospital because of a history of severe fatigue for the past several weeks. Computed tomography (CT) revealed a large anterior mediastinal tumor accompanied by hepatosplenomegaly and multiple lymph node swelling, and he was diagnosed with T-lymphoblastic lymphoma.
+
+The patient was treated with multiple cytotoxic agents, as shown in Table. As his disease was refractory to initial treatment, he was transferred to our hospital for further treatment. On admission, his Eastern Cooperative Oncology Group performance status was 1, and his vital signs were within the normal range. On a physical examination, only mild hepatosplenomegaly was detected. An electrocardiogram (ECG) showed a normal sinus rhythm with a normal range of voltage of R waves at the V5 lead (2.54 mV; Fig. 1A). His serum brain natriuretic peptide (BNP) concentration was 17.2 pg/mL. Transthoracic echocardiography (TTE) showed that 59.8% of the left ventricular ejection fraction (LVEF; Fig. 1D) had no wall motion asynergy or valvular dysfunction.
+
+Table. Therapeutic Courses before Allogeneic Hematopoietic Cell Transplantation.
+
+Time from initial treatment	Phase	Agents	Dosage	Days	Response	
+0w0d	Induction	PR	
+		CPA	750 mg/m2	D1		
+		DXR	50 mg/m2	D1		
+		VCR	2 mg/body	D1, 8, 14, 22, 29		
+		PSL	60 mg/m2	D1-5		
+		L-asp	6,000 U/m2	D8, 10, 12, 14, 16, 18, 20, 22		
+		IT		D8, 22		
+5w3d	Consolidation	SD	
+		CPA	750 mg/m2	D1, 8		
+		THP-ADR	25 mg/m2	D1, 2		
+		Ara-C	75 mg/m2	D1-6, 8-13		
+		6-MP	50 mg/m2	D1-14		
+		IT		D1, 8		
+10w1d	Sanctuary	PD	
+		MTX	3,000 mg/m2	D1, 8		
+		IT		D2, 9		
+<Transferred to our hospital>	
+14w3d	Re-induction	PR	
+		PSL	90 mg/m2	from 3 days before D1 to D5		
+		DNR	50 mg/m2	D1, 2		
+			30 mg/m2	D15-16		
+		CPA	750 mg/m2	D1		
+			500 mg/m2	D15-16		
+		VCR	2 mg/body	D1, 8, 15, 22		
+		L-asp	5,000 U/body	D8, 10, 12		
+		ETP	100 mg/m2	D17-19		
+18w6d	Bridging to conditioning	PR	
+		DXR	40 mg/m2	D1, 15		
+			35 mg/m2	D2, 16		
+		CPA	500 mg/m2	D1, 2, 15, 16		
+		VCR	2 mg/body	D1, 15		
+		RT	20 Gy/10 fr	D5, 8-12, 15-28		
+22w0d	Conditioning regimen		
+		ETP	15 mg/kg	D-10, -9		
+		CPA	60 mg/kg	D-8, -7		
+		TBI	12 Gy/6 fr	D-3, -2, -1		
+23w3d	Cord blood cell transplantation		
+w: week(s), d: day(s), CPA: cyclophosphamide, DXR: doxorubicin, VCR: vincristine, PSL: prednisolone, L-asp: L-asparaginase, IT: intrathecal injection, THP-ADR: therarubicin, Ara-C: cytarabine, 6-MP: 6-mercaptoprine, MTX: methotrexate, DNR: daunorubicin, ETP: etoposide, RT: mediastinal radiation, TBI: total body irradiation, PR: partial response, SD: stable disease, PD: progressive disease
+
+IT: MTX 15 mg/body, Ara-C 40 mg/body and Dexamethasone 3.3 mg/body
+
+Figure 1. V5 lead of the electrocardiogram (A-C) and transthoracic echocardiogram (D-F) images during the clinical course. Both revealed normal findings on admission to our hospital (A, D). Six days after transplantation, a sudden decrease in the left ventricular ejection fraction was detected on a transthoracic echocardiogram (E). Twelve days after allogeneic hematopoietic cell transplantation, a severe decrease in the R wave voltage was shown on an electrocardiogram (B). After treatment with ivabradine and carvedilol and withdrawal of circulatory agonists and diuretics, both the R wave voltage and wall motion of the left ventricle were improved (C, F). alloHCT: allogeneic hematopoietic stem cell transplantation, AHF: acute heart failure, ECG: electrocardiogram, TTE: transthoracic echocardiogram, LVDd: left ventricular diastolic dimension, LVDs: left ventricular systolic dimension, LVEF: left ventricular ejection fraction
+
+Referring to the GRAALL-2003 study (8), we decided to treat him with an intensive combination of chemoradiotherapy, as shown in Table. Treatment with L-asparaginase was suspended because of hepatotoxicity, and treatment with etoposide was initiated. The total anthracycline dose before allo-HCT was equivalent to 362.8 mg/m2 of doxorubicin (calculated according to the guidelines available at http://jplsg.jp/menu11_contents/FU_guideline.pdf; written in Japanese; accessed on March 31, 2021). However, while the patient tolerated chemotherapy and radiotherapy well without any infections, he did not achieve complete remission.
+
+After careful consideration, we decided to perform allo-HCT (single cord blood cell transplantation). A total of 3/8 human leukocyte antigen loci mismatched female-derived cord blood samples were chosen. After myeloablative conditioning with 30 mg/kg of etoposide, 120 mg/kg of cyclophosphamide, and 12 Gy of total body irradiation (Table), a total of 0.046×106/kg of CD34-positive cells was infused. Continuous intravenous tacrolimus was administered as an immunosuppressant. Although infectious diseases were not detected in the pre-conditioning period, he presented with a fever (38.6°C) 4 days before transplantation and was initially treated with meropenem.
+
+Although his fever resolved, he developed a high fever two days after transplantation and septic shock caused by Gram-positive cocci three days after transplantation. We administered vancomycin and transferred the patient to the intensive-care unit (ICU) and treated him with circulatory assisting agents (Fig. 2).
+
+Figure 2. Clinical course from allogeneic hematopoietic cell transplantation (allo-HCT) to discharge from the intensive-care unit (ICU). aGVHD: acute graft-versus-host disease, BT: body temperature, HR: heart rate, BP: systolic and diastolic blood pressures, MRS: methicillin-resistant staphylococci, BNP: brain natriuretic peptide, LVEF: left ventricular ejection fraction, TTE: transthoracic echocardiography, γ: μg/kg/minute
+
+Six days after transplantation, his respiratory condition worsened, and he required mechanical ventilation. His LVEF then rapidly decreased to 10.3% (Fig. 1E), and AHF was diagnosed. TTE also suggested left ventricular wall thickness, which was thought to be caused by edema due to severe inflammation. An ECG showed a decrease in the voltage of R waves at the V5 lead (0.44 mV; Fig. 1B). Subsequently, an increase in dobutamine dose and addiction to milrinone inadequately increased his heart rate up to 160 per minute.
+
+We were concerned about cardiac exhaustion due to the high frequency of constriction. In addition, his body temperature was very high (38-41°C) because of sepsis and pre-engraftment immune reaction. We decided to treat him with 1.2 mg/kg/day (60 mg/body/day) of methylprednisolone (mPSL) to inhibit cytokine storm and protect cardiomyocytes 12 days after transplantation, but his fever did not subside. His serum BNP concentration increased to a maximum of 2,764 pg/mL 16 days after transplantation despite medication-based intensive care. His serum troponin I concentration was 2,018 pg/mL at 26 days after transplantation, which indicated cardiomyocyte degradation. CADs, such as percutaneous cardiopulmonary support and an ImpellaⓇ left ventricular support system, were considered. However, their use was later not considered because of severe pancytopenia, coagulopathy, and an immunocompromised status. His left ventricular ejection fraction measured by TTE was maintained at about 10% to 25% with 5 γ of dobutamine and 0.45 γ of milrinone and stayed there for about 2 weeks.
+
+We considered his cardiac condition carefully and made the assessment that his heart failure was progressing from the acute to the chronic phase. To protect his remaining cardiomyocytes, we needed to start treatment for chronic heart failure, accompanied by circulatory support agents. However, dose reduction of dobutamine alone was not allowed in order to maintain his blood pressure.
+
+After a careful discussion with hematologists, cardiologists, intensivists, and ethics committee members, we decided to treat him with ivabradine at an initial dose of 5 mg/day, which was initiated at 26 days after transplantation. His heart rate decreased (162 and 116 per minute at 1 day before and 2 days after ivabradine prescription, respectively) without a decrease in blood pressure (118/66 mmHg and 124/71 mmHg, respectively) despite a reduction in dobutamine dose (5 and 3 γ, respectively). His BNP level decreased gradually (2,127 pg/mL, 1,947 pg/mL, and 918.6 pg/mL at 26, 32, and 38 days after transplantation, respectively), which allowed us to reduce the dose of circulatory assisting agents. An initial dose of 1.25 mg/day of carvedilol was able to be added 32 days after transplantation, and the doses of ivabradine and carvedilol were increased gradually while those of dobutamine and milrinone were decreased.
+
+We successfully ceased administration of dobutamine and milrinone and discharged the patient from the ICU 59 days after transplantation. He was withdrawn from the ventilator 85 days after transplantation (i.e. 54 days after intubation). Engraftment was recognized at 19 days (neutrophils), 40 days (red blood cells), and 52 days (platelets). Grade 3 acute graft-versus-host disease (skin stage 1, upper and lower gastrointestinal stage 0, liver stage 3) was observed 37 days after transplantation, and he was successfully treated with 2 mg/kg/day of mPSL. The serum troponin I concentration decreased to 530 pg/mL at 35 days after transplantation, and his LVEF had improved to 45.7% by 143 days after transplantation with 10 mg/day of ivabradine and 20 mg/day of carvedilol (Fig. 1F). At that time, the ECG showed improvements in the voltage of R waves at the V5 lead (1.53 mV; Fig. 1C). However, the patient ultimately died of relapsed lymphoma 168 days after transplantation.
+
+Discussion
+
+Various factors cause cardiotoxicity during allo-HCT. In particular, cytotoxic agents such as anthracyclines and alkylators cause severe cardiomyopathy, and these agents are commonly used as induction treatments for many hematological malignancies. According to a review article, anthracycline-induced congestive heart failure has a dose-dependent effect; it occurs in approximately 3-5% of patients treated with a total dose equivalent to 400 mg/m2 of doxorubicin and approximately 20-50% of patients treated with a total dose equivalent to 700 mg/m2 of doxorubicin (9).
+
+Alkylators are key cytotoxic agents for hematological malignancies. Although high-dose cyclophosphamide infusion is an anchor regimen of myeloablative conditioning for allo-HCT, it can cause severe and lethal cardiotoxicity in rare cases (10). Ishida et al. investigated 811 patients who received ＞100 mg/kg of cyclophosphamide as conditioning for allo-HCT. They observed that 12 (1.5%) patients developed fatal cardiac failure at a median of 4 (range: 2-8) days after the first infusion of cyclophosphamide, and 11 of them (91.7%) died within 30 days after the first infusion (10). Although both anthracycline- and cyclophosphamide-induced cardiomyopathies are characterized by a reduced LVEF and reflex tachycardia, there are several differences in their clinical features. While anthracyclines cause wall thinning due to cardiomyocyte destruction (9,11), cyclophosphamide causes wall thickening due to interstitial edema and hemorrhaging (12). Furthermore, anthracycline-induced cardiotoxicity usually occurs several months to years after administration, whereas cyclophosphamide-induced cardiotoxicity usually occurs approximately one week after administration (9,12).
+
+Patients with these cardiotoxicities experience AHF. Clinically, AHF is initially treated with medications such as catecholamines and diuretics (7). Although some patients are resistant to these types of medications and require placement of CADs, such as a percutaneous cardiopulmonary support and intra-aortic balloon pump (7), CAD placement requires invasive procedures, such as canulation into thick arteries and veins as well as thoracotomy. Furthermore, intensive anticoagulation treatment should be administered after CAD placement. Thus, it is difficult to use invasive devices for AHF early after allo-HCT, as it worsens the prognosis of cardiomyopathy during allo-HCT.
+
+Ivabradine, a novel agent that inhibits electrical connection at the sinoatrial node and decreases the heart rate, is a useful therapeutic option for chronic heart failure with tachycardia, as an increased heart rate is associated with worse outcomes (13). Severe tachycardia is related to worse cardiac outcomes in heart failure, as an increase in heart rate leads to exhaustion of cardiomyocytes. Dobutamine occasionally increases the heart rate of patients with AHF, leading to a vicious cycle. However, heart rate controllers other than ivabradine, such as verapamil or beta-blockers, are usually contraindicated in AHF because of their negative inotropic effects (13). According to a retrospective study, ivabradine can effectively decrease the heart rate of patients with sinus rhythmic acute heart failure without affecting the systolic blood pressure (14). In another study, ivabradine effectively reduced the heart rate of patients with acute decompensated systolic heart failure without decreasing the mean blood pressure, and heart rate reduction was correlated with the New York Heart Association class improvement (15). The findings of these studies suggest that ivabradine has therapeutic potential for severe AHF by reducing heart rate while adequately maintaining blood pressure when combined with catecholamines.
+
+In our case, severe AHF occurred because of multiple factors, such as sepsis and administration of cytotoxic agents. Both anthracyclines and high-dose cyclophosphamide were administered in our case. With regard to cyclophosphamide, Goldberg et al. indicated that the dosage of cyclophosphamide per body surface area is an important predictive factor for cardiotoxicity, and its threshold is approximately 1.55 g/m2/day (16). The dosage of daily cyclophosphamide in our case (60 mg/kg/day=3 g/body/day) was recalculated as approximately 1.9 g/m2/day, which is higher than the indicated safety value. Cyclophosphamide-induced cardiotoxicity was strongly suspected. However, the role of anthracyclines in AHF seemed to be limited because of the early onset (6 days after allo-HCT), somewhat reversible dysfunction, and absence of thinning of the left ventricular wall, which is typically seen in anthracycline-induced cardiomyopathy (11).
+
+In our case, the cumulative dose of anthracyclines was equivalent to ＜400 mg/m2 of doxorubicin, which rarely causes cardiomyopathy according to a previous study (9). However, we cannot exclude the association of anthracyclines with cardiomyopathy, as we did not perform any histological analysis of cardiomyocytes. Furthermore, septic shock may contribute to some degree of cardiac dysfunction (6). In our case, cyclophosphamide-induced cardiotoxicity presented as severe tachycardia with a decrease in LVEF. Furthermore, both dobutamine and milrinone, administered to support circulation, increased the heart rate, which induced cardiac exhaustion and exacerbated cardiotoxicity. Although CAD placement was needed to decrease the dependency on circulatory assisting agents, it was contraindicated because of severe thrombocytopenia, coagulopathy, and the pre-engraftment immunocompromised status. In this difficult situation, ivabradine administration not only decreased the heart rate but also increased the LVEF, resulting in decreased dobutamine and milrinone dependence. Despite many deaths due to cardiotoxicity occurring in the early phase of allo-HCT, the best cardiac outcome was achieved with ivabradine-containing intensive care.
+
+The greatest concern regarding the use of ivabradine for patients undergoing allo-HCT is the contraindication of itraconazole and voriconazole use with ivabradine, as these agents are crucial for preventing severe mycosis during allo-HCT. In our case, micafungin was selected as a substitute for voriconazole, but its potential for preventing aspergillosis is lower than that of voriconazole. Although liposomal amphotericin B can be considered an alternative agent, it causes some adverse effects, such as renal dysfunction and hypokalemia, which are exacerbations of AHF. Furthermore, ivabradine is not allowed to be used for AHF in Japan any longer, so we had no choice but to wait for several weeks until the decrease in LVEF stopped and we were able to confirm that his HF status had shifted from the acute to the chronic phase. We should gather further evidence concerning ivabradine usage for AHF to assess its efficacy and adverse effects in detail.
+
+In conclusion, ivabradine may be a good therapeutic option for patients with CAD-contraindicated severe HF undergoing allo-HCT.
+
+Written informed consent was obtained from the patient for publication of this case report and any accompanying images.
+
+The authors state that they have no Conflict of Interest (COI).
+
+Acknowledgement
+
+We thank all staff in the Department of Critical Care and the Hematology Unit for their support.

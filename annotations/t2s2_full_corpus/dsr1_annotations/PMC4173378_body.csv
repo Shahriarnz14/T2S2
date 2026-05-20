@@ -1,0 +1,83 @@
+event,time
+45 years old,0
+female,0
+admitted to the surgery outpatient department,0
+intermittent pain abdomen,-2160
+loss of appetite,-168
+sudden onset of mild breathlessness,-72
+no jaundice,0
+no hematemesis,0
+no malena,0
+no nausea,0
+no vomiting,0
+no chest pain,0
+no systemic medical disease,0
+previous exposure to general anesthesia for fracture humerus fixation,-unknown (history not specified)
+delayed emergence from anesthesia (previous),-unknown (history not specified)
+heart rate 86/min with occasional missed beats,0
+blood pressure 118/72 mmHg,0
+decreased air entry over left lower zones,0
+normal cardiovascular examinations,0
+abnormal ventricular complexes on ECG,0
+tenderness over left hypochondrium,0
+tenderness over epigastric region,0
+no organomegalies,0
+Mallampatti Score grade II,0
+cystic lesion with air and fluid level at left lower zones,0
+contrast-enhanced CT showing hepatic cystic lesion,0
+immunohemagglutination test positive for echinococcosis,0
+hydatid cyst of liver,0
+hydatid cyst of lower lobe of left lung,0
+cyst proximity to heart,0
+thoracoscopic drainage/excision of lung cyst planned,0
+laparoscopic drainage/excision of liver cyst planned,0
+albendazole 400 mg twice daily started,-336
+normal hemogram,0
+normal renal function tests,0
+normal hepatic function tests except elevated SGOT/SGPT,0
+incentive spirometry instructed,0
+written informed consent obtained,-unknown (preoperative)
+preoperative ranitidine 150 mg,-unknown (night before)
+preoperative metoclopramide,-unknown (night before)
+preoperative alprazolam 0.25 mg,-unknown (night before)
+general anesthesia planned,0
+double lumen tube intubation planned,0
+thoracic epidural analgesia planned,0
+IV hydrocortisone 100 mg,0
+IV chlorpheniramine 25 mg,0
+adrenaline and theophylline prepared,0
+epidural catheter inserted at T9-T10,0
+test dose 2% lignocaine with adrenaline,0
+epidural ropivacaine 0.75% 8 mL,0
+midazolam 1 mg IV,0
+glycopyrrolate 0.2 mg IV,0
+fentanyl 50 μg IV,0
+thiopentone sodium 250 mg induction,0
+suxamethonium 100 mg,0
+double lumen tube intubation,0
+bilateral equal air entry confirmed,0
+fiberoptic bronchoscopy confirmation,0
+anesthesia maintained with O2/N2O/isoflurane,0
+vecuronium bromide for muscle relaxation,0
+atracurium avoided,0
+right lateral decubitus position,0
+intermittent lung ventilation every 30 min,0
+bradyarrhythmias during thoracoscopy,40
+lignocaine 60 mg IV,40
+amiodarone 150 mg bolus,40
+amiodarone infusion,40
+surgical procedure completed,~120 (approximated after arrhythmia management)
+laparoscopic liver cyst excision,~120
+normal ABG parameters,0
+normal fluid intake,0
+normal urine output,0
+neostigmine 2.5 mg,~120
+glycopyrrolate 0.05 mg,~120
+tracheal extubation,~120
+ICU admission,~120
+epidural ropivacaine 0.25% for pain,~120
+postoperative ECG normal,24
+postoperative echocardiography normal,24
+recovery uneventful,24
+shifted to surgical ICU,24
+discharge not specified,N/A

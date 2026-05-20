@@ -1,0 +1,85 @@
+event,time
+10-year-old,0
+male,0
+papulovesicular skin lesions,-240
+fever,-96
+skin lesions started over hands,-240
+skin lesions progressed to lower abdomen,-240
+skin lesions progressed to perineal areas,-240
+skin lesions progressed to buttocks,-240
+altered sensorium,-24
+melena,-24
+admitted,0
+respiratory rate 32/min,0
+heart rate 173/min,0
+capillary refill time 4 seconds,0
+blood pressure 90/50 mmHg,0
+SpO2 93%,0
+poor peripheral pulses,0
+severe pallor,0
+crusted pus discharging lesions over hands,0
+crusted pus discharging lesions over lower abdomen,0
+crusted pus discharging lesions over perineal area,0
+crusted pus discharging lesions over buttocks,0
+Glasgow Coma Scale E4M4V4,0
+generalized hypotonia,0
+elicitable deep tendon reflexes,0
+flexor plantar reflex,0
+no cranial nerve palsies,0
+absent meningeal signs,0
+normal other systemic examinations,0
+suspected infected scabies,0
+suspected septic shock,0
+suspected disseminated intravascular coagulation,0
+suspected upper gastrointestinal bleeding,0
+resuscitated with normal saline boluses,0
+intravenous adrenaline 0.3 µg/kg/min,0
+intravenous noradrenaline 0.4 µg/kg/min,0
+intravenous vasopressin 0.0012 IU/kg/min,0
+intravenous dobutamine 20 µg/kg/min,0
+packed red blood cells transfusion,0
+intravenous ceftriaxone,0
+intravenous cloxacillin,0
+mechanical ventilation,0
+transferred to pediatric intensive care unit,6
+acute kidney injury,48
+peritoneal dialysis,48
+deranged liver function tests,0
+inotropes tapered,96
+inotropes stopped,96
+extubated,144
+severe anemia,168
+hypotensive shock,168
+multiple episodes of massive melena,168
+resuscitated with fluid boluses,168
+packed red blood cells transfusions,168
+vasoactive drugs,168
+upper gastrointestinal endoscopy,168
+bleeding lesion in first part of duodenum,168
+computed tomography angiography confirmed GDA pseudoaneurysm,168
+digital subtraction angiography guided coil embolization,168
+transient bleeding control,168
+recurrent massive melena,180
+packed red blood cell transfusion,180
+second cyanoacrylate glue embolization,192
+continued life-threatening upper gastrointestinal bleeding,192
+massive PRBC transfusion,192
+fresh frozen plasma transfusion,192
+platelet concentrates transfusion,192
+normal amylase levels,192
+normal ANA,192
+normal ANCA,192
+normal HBsAg,192
+normal HCV,192
+normal HIV,192
+laparotomy,216
+duodenostomy,216
+ligation of GDA aneurysm,216
+upper gastrointestinal bleeding stopped,216
+inotropes tapered,216
+respiratory support tapered,216
+extubated,264
+critical illness neuromyopathy,264
+discharged,600
+ambulatory at 6 months follow-up,4320
+no recurrence of symptoms,4320

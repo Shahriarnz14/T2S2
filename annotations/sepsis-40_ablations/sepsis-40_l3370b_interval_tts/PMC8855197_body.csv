@@ -1,0 +1,65 @@
+event,time
+77 years old,0
+male,0
+unstable angina,-2880
+coronary stent insertion,-2880
+Sigmart,-2880
+aspirin,-2880
+Almarl,-2880
+Herben,-2880
+admitted to the hospital,0
+chest X-ray,0
+echocardiogram,0
+aspirin stopped,-168
+TKA,0
+spinal anesthesia,0
+tourniquet applied,0
+bupivacaine,0
+dexmedetomidine,0
+crystalloid administered,0
+urine collected,0
+estimated blood loss,0
+vital signs monitored,0
+recovery room,120
+vital signs monitored,120
+AutoFuser,120
+antibiotics,120
+severe pain,240
+Tridol Injection,240
+mental change,1440
+Glasgow coma scale,1440
+vital signs monitored,1440
+electrocardiogram,1440
+physical examination,1440
+urine collected,1440
+oliguria,1440
+laboratory examinations,1440
+CK elevated,1368
+CK-MB elevated,1368
+AST elevated,1368
+BUN/Cr elevated,1368
+troponin-I,1368
+coagulation battery,1368
+thrombocytopenia,1368
+fibrinogen degradation product,1368
+D-dimer,1368
+brain MRI,1440
+myoglobin,1440
+urine myoglobin,1440
+red blood cell count,1440
+tourniquet-induced rhabdomyolysis,1440
+AKI,1440
+DIC,1440
+norepinephrine,1500
+ICU,1500
+arterial line,1500
+central line,1500
+fluid treatment,1500
+Lasix,1500
+sodium bicarbonate,1500
+Denogan,1500
+vital signs monitored,1500
+BP dropped,1800
+cardiac arrest,1800
+CPR,1800
+death,1860

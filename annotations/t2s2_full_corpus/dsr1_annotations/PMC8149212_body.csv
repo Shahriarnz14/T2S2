@@ -1,0 +1,55 @@
+event,time
+22 years old,0
+male,0
+temporal lobe epilepsy,-87600
+mental retardation,-87600
+sodium valproate,-87600
+levetiracetam,-87600
+generalized tonic clonic seizure,-0.25
+status epilepticus,0
+sedated,0
+intubated,0
+admitted to ICU,0
+fever >38°C,48
+increased tracheobronchial secretions,48
+leukocyte count 18.3 x 10^9/mL,48
+Pseudomonas aeruginosa culture,48
+right lower lobe consolidation,48
+ventilator-associated pneumonia,48
+extubated,72
+transferred to ward,120
+febrile,144
+hypotensive,144
+transferred back to ICU,144
+piperacillin-tazobactam,144
+vancomycin,144
+afebrile,168
+transferred to ward,192
+vital signs stable,192
+maintaining oxygen saturation on room air,192
+returned to baseline condition,192
+progressive bulbar weakness,336
+ataxia,336
+ophthalmoplegia,336
+finger to nose dysmetria,336
+dysdiadochokinesia,336
+abnormal heel to shin test,336
+generalized areflexia,336
+difficulty standing,336
+CSF protein 100 mg/dl,336
+CSF white cell count 10,336
+left hippocampal atrophy,336
+anti-GD1b elevated,336
+anti-GD1a elevated,336
+anti-GM1 elevated,336
+anti-GM2 elevated,336
+anti-GQ1b normal,336
+Miller Fisher syndrome,336
+intravenous immunoglobulin,336
+hemodynamic improvement,384
+bradycardia,336
+hypotension,336
+autonomic dysfunction,336
+rehabilitation consultation,384
+pulse 48 bpm,336
+blood pressure 96/63 mmHg,336

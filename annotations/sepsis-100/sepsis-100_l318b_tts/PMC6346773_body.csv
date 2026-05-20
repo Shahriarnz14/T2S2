@@ -1,0 +1,53 @@
+event,time
+18 years old,0
+male,0
+non-smoker,0
+policeman,0
+fever,-168
+productive cough,-168
+night sweats,-168
+malaise,-168
+myalgia,-168
+occupational smoke exposure,-168
+roxitromycin,-168
+dyspnoea,0
+tachypnoea,0
+bronchial breathing sounds,0
+crackles over the right lung,0
+white blood cells 11.54×10^3/μl,0
+total eosinophils 92×10^4/μl,0
+haemoglobin 13.7 g/dl,0
+creatinine 1.1 mg/dl,0
+C-reactive protein (CRP) 11 mg/dl,0
+elevated liver enzymes,0
+ALP 524,0
+GGT 320,0
+ALT 406,0
+AST 137,0
+abdominal ultrasound normal,0
+infiltrates involving most of the right lung,0
+cefuroxime,0
+blood and sputum cultures negative,0
+urine Legionella antigen test negative,0
+high-grade fever,48
+persistent fever,48
+respiratory distress,48
+oxygen saturation dropped to 88%,48
+PaO2 67 mmHg,48
+CRP increased to 14 mg/dl,48
+elevated liver enzymes,48
+leucocytosis 12.8×10^3/μl,48
+eosinophil count 1.33×10^3 cells/μl,48
+diffuse bilateral infiltrates,96
+respiratory distress worsened,96
+"intubated, mechanically ventilated",96
+broncho-alveolar lavage demonstrated 30% eosinophils,120
+diagnosis of AEP,120
+IV glucocorticoids,120
+prompt improvement,120
+resolution of fever,120
+successful extubation,144
+considerable regression of the bilateral infiltrates,144
+eosinophil count dropped to 260 cells/μl,144
+discharged,168
+"oral prednisone, 60 mg/day",168

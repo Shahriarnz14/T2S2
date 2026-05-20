@@ -1,0 +1,74 @@
+event,time
+70 years old,0\
+male,0\
+admitted to the hospital,0\
+hypoesthesia in the fingers of each hand,0\
+proximal paresis of both legs,0\
+motor strength 2/5,0\
+pronounced dysfunction of gait and standing,0\
+recent-onset bladder incontinence,0\
+magnetic resonance imaging,0\
+significant spinal canal stenoses at C3/4 and C4/5,0\
+surgical indication for ventral fusion,0\
+rheumatoid arthritis,"-24 (prior to surgery, surgery next day after admission)\"
+asthma,-24\
+osteoporosis,-24\
+no pertinent findings on physical examination,-24\
+no laboratory abnormalities,-24\
+ventral fusion,0\
+osteosynthetic stabilization,0\
+general anaesthesia,0\
+induction of anaesthesia with propofol and sufentanil,0\
+total intravenous anaesthesia,0\
+mask ventilation,0\
+rocuronium administered,0\
+direct laryngoscopy,0\
+oral intubation,0\
+unremarkable oropharyngeal anatomy,0\
+intra-operative course unremarkable,0\
+tracheal tube cuff pressure measured continuously,0\
+cuff pressure approached 40 mmHg during tissue spreading,0\
+"cuff pressure normal during microdiscectomy, cage fusion, stabilization",0\
+unusually large hyoid bone observed,0\
+no significant surgical observation leading to dislocation,0\
+operating time 195 minutes,0\
+post-operative swelling of left throat,0 (post-surgery after drapes removal)\
+suspicion of hematoma,0\
+laryngeal structures palpable in swelling,0\
+probable laryngeal dislocation,0\
+extubation postponed,0\
+CT scan performed,0\
+cervical spine CT scan showing laryngeal dislocation,0\
+hyoid bone fixed to osteosynthesis plate,0\
+leftward dislocation of entire larynx,0\
+no hematoma,0\
+transferred to neurosurgical ICU,0\
+referred to ENT,0\
+failed endolaryngeal repositioning,24 (same day as surgery)\
+indication for open repositioning next day,24\
+wound reopened,24\
+hyoid bone spontaneously released,24\
+post-repositioning CT scan showing edema,24\
+mucous membranes edema around endotracheal tube,24\
+extubation not performed,24\
+dexamethasone initiated,24\
+extubation on post-operative day 6,144 (6 days * 24hrs)\
+respiratory insufficiency after extubation,144\
+reintubation required,144\
+bilateral pleural effusions,144\
+decreasing level of consciousness,144\
+non-invasive ventilation failure,144\
+oral reintubation unremarkable,144\
+open tracheotomy on day 12,288 (12 days * 24hrs)\
+sepsis from ventilator-associated pneumonia,288\
+antibiotic therapy response,288\
+reduced sedation,288\
+decreased level of consciousness,288\
+slow neurological improvement,288\
+discharge to rehabilitation on day 29,696 (29 days * 24hrs)\
+awake and oriented,696\
+follows commands,696\
+breathes with T-piece,696\
+rheumatoid arthritis,0 (part of medical history at admission)\
+asthma,0\
+osteoporosis,0

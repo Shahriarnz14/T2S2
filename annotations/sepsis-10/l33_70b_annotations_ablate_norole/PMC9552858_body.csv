@@ -1,0 +1,81 @@
+event,time
+Here is the table of events and timestamps:,
+emergency cesarean delivery ,-672.0
+abruptio placenta ,-672.0
+birth ,0.0
+Apgar values of 4 and 8 ,0.0
+respiratory distress ,0.0
+CPAP machine ,0.0
+positive end expiratory pressures ,0.0
+inspired oxygen ,0.0
+admitted to NICU ,0.0
+cloudy eyes ,0.0
+ectropion ,0.0
+dry ichthyotic skin ,0.0
+typical male genitalia ,0.0
+bilateral undescended testicles ,0.0
+height measured ,0.0
+weight measured ,0.0
+head circumference measured ,0.0
+temperature measured ,0.0
+neurological examination ,0.0
+heart rate measured ,0.0
+pulsations felt ,0.0
+breath sounds ,0.0
+abdomen examination ,0.0
+blood count ,0.0
+electrolytes ,0.0
+liver function ,0.0
+respiratory distress syndrome diagnosed ,0.0
+surfactant dosage ,0.0
+CPAP assistance ,0.0
+bowel movement ,12.0
+trophic feeding ,72.0
+abdominal distension ,144.0
+tachycardia ,144.0
+tachypnea ,144.0
+thrombocytopenia ,144.0
+neutropenia ,144.0
+C-reactive protein level ,144.0
+antibiotics escalated ,144.0
+meropenem ,144.0
+vancomycin ,144.0
+tropic feeding stopped ,144.0
+antibiotics discontinued ,216.0
+feeding restarted ,216.0
+high-flow oxygen treatment ,336.0
+relapses of unexplained apnea ,504.0
+septic examination ,504.0
+brain MRI ,504.0
+nasogastric tube ,504.0
+neonatal cholestasis workup ,504.0
+conjugated hyperbilirubinemia ,504.0
+total bilirubin ,504.0
+direct bilirubin ,504.0
+albumin infusions ,504.0
+ursodeoxycholic acid ,504.0
+infectious etiology investigation ,504.0
+TSH ,504.0
+T3 ,504.0
+T4 ,504.0
+cortisol ,504.0
+metabolic disorders ,504.0
+galactosemia ,504.0
+tyrosinemia type 1 ,504.0
+whole-exome sequencing ,1008.0
+NOTCH2 gene mutation ,1008.0
+craniosynostosis ,1008.0
+severe cyanosis ,1872.0
+apnea ,1872.0
+bradycardia ,1872.0
+cardio-respiratory resuscitation ,1872.0
+intubation ,1872.0
+mechanical breathing ,1872.0
+epinephrine ,1872.0
+septic shock ,1872.0
+multiorgan failure ,1872.0
+disseminated intravascular coagulation ,1872.0
+acute renal damage ,1872.0
+capillary leak syndrome ,1872.0
+death ,2400.0
+"Note: The timestamps are in hours, and the events are listed in the order they occurred. The negative timestamps refer to events that occurred before birth.",

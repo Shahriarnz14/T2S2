@@ -1,0 +1,83 @@
+event,time
+28 years old,0
+male,0
+sickle cell trait,0
+history of intravenous drug use,0
+visited emergency department,0
+fever,0
+fever lasting nine days,0
+right-sided chest pain,0
+right-sided abdomen pain,0
+right-sided flank pain,0
+dysuria,0
+intermittent hematuria,0
+denied valvular heart disease,0
+denied congenital heart disease,0
+denied prosthetic heart valves,0
+blood pressure 129/68 mmHg,0
+heart rate 129 beats per minute,0
+respiratory rate 19 breaths per minute,0
+temperature 39.4°C,0
+oxygen saturation 99% on room air,0
+chest auscultation clear,0
+no abnormal heart sounds,0
+abdomen severely tender,0
+guarding at right flank,0
+hypochondrium tenderness,0
+renal angle tenderness,0
+elevated white blood cells,0
+elevated c-reactive protein,0
+abnormal liver function tests,0
+urine dipstick 3+ urobilinogen,0
+urine dipstick 3+ erythrocytes,0
+chest radiograph diffuse bilateral nodular densities,0
+chest radiograph poorly marginated densities,0
+chest radiograph varying stages of cavitation,0
+electrocardiography normal sinus rhythm,0
+referred to surgeons,0
+ultrasound possible acalculous cholecystitis,0
+ultrasound ill-defined mass near liver,0
+abdominal/pelvic CT with intravenous contrast recommended,0
+CT bowel perforation or infection,0
+CT sealed by greater omentum,0
+CT cryptogenic organizing pneumonia,0
+admitted pending repeat CT,0
+drowsy,-18
+ill-looking,-18
+tachypneic,-18
+profusely sweating,-18
+tachycardia,-18
+hypotension,-18
+IE suspected,-18
+chest radiograph pulmonary septic emboli,-18
+CT with oral contrast suggested pyelonephritis,-18
+diagnosed possible acute chest syndrome,-18
+chest radiograph septic pulmonary emboli,-18
+echocardiography confirmed tricuspid vegetation,-18
+admitted to intensive care unit,0
+treated with intravenous vancomycin,0
+treated with intravenous cefepime,0
+antibiotics switched to flucloxacillin,72
+blood cultures methicillin-sensitive Staphylococcus aureus,72
+blood cultures viridans group streptococci,72
+urine culture no growth,72
+CT re-evaluated renal infarction,96
+CT multiple cortical wedge-shaped areas,96
+CT delayed striated contrast enhancement,96
+condition improved after 60 days,1440
+tests HIV negative,1440
+tests hepatitis negative,1440
+tests thrombophilia negative,1440
+discharged day 61,1464
+follow up cardiology clinic,1464
+sickle cell trait,0
+history of intravenous drug use,0
+renal infarct diagnosed,96
+IE tricuspid valve involvement,96
+Staphylococcus aureus pathogen,96
+viridans group streptococci pathogen,96
+renal infarction CT findings,96
+no acute chest syndrome association,1440
+embolic renal infarct rare,0
+high risk IE intravenous drug use,0
+early diagnosis improved outcomes,0

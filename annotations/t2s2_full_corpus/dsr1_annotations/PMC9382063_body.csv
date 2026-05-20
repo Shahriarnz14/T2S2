@@ -1,0 +1,128 @@
+event,time
+3-year-old,0
+female,0
+admitted to pediatric intensive care unit,0
+fever,0
+diarrhea,0
+abdominal pain,0
+severe dehydration,0
+critically ill,0
+temperature 39.5°C,0
+tachypnea,0
+rapid shallow breathing,0
+respiratory rate 40 breaths/min,0
+hypotension,0
+blood pressure 60/40 mm Hg,0
+dry tongue,0
+sunken eyes,0
+poor skin turgor,0
+oliguria,0
+urine output <1 mL/kg/h,0
+pale,0
+purpuric eruption,0
+no organomegaly,0
+no lymphadenopathy,0
+pancytopenia,0
+absolute neutropenia,0
+WBC 500/mm3,0
+absolute neutrophil count 200/mm3,0
+Hb 6.4 g/dL,0
+platelets 2000/cm3,0
+renal impairment,0
+electrolyte imbalance,0
+BUN 104 mg/dL,0
+creatinine 2.5 mg/dL,0
+K 6.5 mmol/L,0
+ph 21.9 mg/dL,0
+Na 128 mmol/L,0
+Ca 5.3 mg/dL,0
+hyperuricemia,0
+uric acid 37 mg/dL,0
+coagulopathy,0
+disseminated intravascular coagulation,0
+PT 16.3 s,0
+PTT 40.1 s,0
+D-dimer 17 ng/mL,0
+high inflammatory markers,0
+CRP 287 mg/L,0
+stool culture positive for Escherichia coli,0
+blood culture positive for Escherichia coli,0
+intravenous fluid therapy,0
+blood components transfusion,0
+correction of electrolyte disturbance,0
+antibiotic therapy,0
+acute infectious gastroenteritis,0
+sepsis,0
+severe dehydration,0
+acute renal failure,0
+DIC,0
+pelvi-abdominal ultrasound normal,0
+bone marrow aspirate,0
+hypocellular bone marrow,0
+no abnormal cells,0
+gradual improvement,336
+laboratory data normalized,336
+discharged,336
+irritability,1176
+abnormal behavior,1176
+hallucinations,1176
+failure to recognize parents,1176
+vital stability,1176
+well hydrated,1176
+normal hematological indices,1176
+normal coagulation parameters,1176
+normal renal panel,1176
+normal serum electrolytes,1176
+MRI,1176
+MRA,1176
+MRV,1176
+thrombosis left sigmoid sinus,1176
+thrombosis transverse sinus,1176
+thrombophilia workup,1176
+no thrombocytosis,1176
+normal coagulation profile,1176
+normal protein C,1176
+normal protein S,1176
+normal antithrombin III,1176
+genetic testing for thrombophilia,1176
+pediatric cardiologist assessment,1176
+normal electrocardiogram,1176
+normal echocardiography,1176
+low molecular weight heparin initiated,1176
+therapeutic dose LMW heparin,1176
+improved,1176
+discharged on LMW heparin,1176
+thrombophilia genetic testing pending,1176
+readmitted,1680
+fever,1680
+temperature 39.5°C,1680
+pallor,1680
+abdominal enlargement,1680
+leukocytosis,1680
+"total leukocytic count 68,000/mcL",1680
+anemia,1680
+hemoglobin 8.4 g/dL,1680
+thrombocytopenia,1680
+"platelet count 20,000/mcL",1680
+peripheral smear blast cells,1680
+abdominal ultrasonography hepatosplenomegaly,1680
+bone marrow examination,1680
+hypercellular bone marrow,1680
+bone marrow infiltrated with 96% blast cells,1680
+immunophenotyping CD10 positive,1680
+CD20 positive,1680
+CD79a positive,1680
+Common ALL diagnosis,1680
+St. Jude’s total XV protocol,1680
+induction therapy,1680
+consolidation therapy,1680
+thrombophilia mutations panel results,2352
+factor XIII V34L positive,2352
+MTHFR A1298C homozygous mutation,2352
+factor V Leiden heterozygous mutation,2352
+follow-up MRV,2352
+complete recanalization,2352
+no new thrombi,2352
+complete remission,2352
+no other thrombotic events,2352
+no leukemia relapses,2352

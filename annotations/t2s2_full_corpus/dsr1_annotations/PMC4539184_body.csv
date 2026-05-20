@@ -1,0 +1,86 @@
+event,time
+33 years old,0
+male,0
+good general health,0
+good nutritional status,0
+minor superficial injury on lower left leg,-240
+ski vacation,-240
+no pre-existing diseases,0
+no significant medical history,0
+local self-treatment,-240
+deterioration of wound conditions,-240
+visited general medicine center,-48
+oral Cefuroxime,-48
+progressive clinical deterioration,-24
+aching hematoma,-24
+admitted to hospital,-24
+surgical treatment of hematoma,-24
+two wound debridements,-120
+vacuum-assisted closure application,-120
+antibiotic therapy escalated to Clindamycin,-120
+antibiotic therapy escalated to Tazobactam,-120
+clinical deterioration,0
+transferred to university hospital,0
+awake,0
+oriented,0
+stable respiratory condition,0
+stable circulatory condition,0
+temperature 37.2 °C,0
+blood pressure 171/85 mmHg,0
+pulse 140 bpm,0
+oxygen saturation 95%,0
+somnolent,0
+severe pain in both axillae,0
+swelling in both axillae,0
+severe pain in both groins,0
+swelling in both groins,0
+WBC count 23.1 ×10³/μL,0
+CRP 298.8 mg/dL,0
+surgical wound excisions,0
+large debridement left lower leg,0
+empirical antibiotic therapy changed to Meropenem,0
+empirical antibiotic therapy changed to Penicillin G,0
+empirical antibiotic therapy changed to Clindamycin,0
+tissue samples taken,0
+swabs taken,0
+blood cultures taken,0
+no causative pathogen identified,0
+increased inflammation markers,48
+clinical deterioration,48
+anti-infective therapy supplemented with Levofloxacin,48
+anti-infective therapy supplemented with Daptomycin,48
+Caspofungin added,48
+fasciitis left upper leg,72
+fasciitis left lower leg,72
+symmetrical bilateral pulmonary edema,72
+bilateral pleural effusions,72
+basal atelectasis,72
+generalized barrier disruption,72
+progressive lung edema,72
+respiratory dysfunction,72
+mechanical ventilation,72
+operational inspection both axillae,96
+large debridement both axillae,96
+left thigh surgically explored,96
+fasciotomy left thigh,96
+increase of necrotic area,96
+positive serological Herpes simplex virus-I,96
+Acyclovir initiated,96
+Corynebacterium tuberculostearicum detected,96
+Acinetobacter baumanii detected,96
+direct pathogen detection failed,96
+therapy with Hydrocortisone,120
+therapy with IVIg,120
+hyperinflammation diminished,120
+general condition improved,120
+weaning from respirator,168
+CRP decreased,144
+WBC decreased,144
+procalcitonin decreased,144
+need for hemodynamic support reduced,144
+vacuum-assisted wound closure,240
+moved to primary care station,768
+wound closure with split-skin graft,936
+discharged from hospital,1152
+healthy at follow-up,4320
+sufficient wound conditions,4320

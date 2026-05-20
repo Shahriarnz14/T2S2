@@ -1,0 +1,71 @@
+As the prevalence of cardiac pacemaker insertions increases,1 anesthesiologists are expected to manage more patients with a cardiovascular implantable electronic device (CIED) undergoing anesthesia and surgery. Since electrical equipment, such as electrosurgery and other devices that emit radiofrequency signals, can cause electromagnetic interference (EMI),2,3 serious complications due to CIED malfunction may occur in the perioperative period. As long as routine preanesthetic device evaluation and appropriate reprogramming are performed, these risks are minimized. However, perioperative pacemaker malfunction can occur in the absence of EMI. Failure to capture is an important etiology of pacemaker malfunction. Known causes include myocardial ischemia,4 acid-base disturbances, electrolyte imbalance,5 and antiarrhythmic drugs.5,6 Therefore, patients with pacemakers are at risk of capture failure during surgery and anesthesia. We describe a patient with a pacemaker who developed sudden cardiac arrest due to pacemaker capture failure shortly after laparotomy and ultrasound-guided rectus sheath block. Written informed consent has been obtained from the patient for this publication and this article adheres to the applicable Enhancing the QUAlity and Transparency Of health Research (EQUATOR) guideline.
+
+CASE DESCRIPTION
+
+A 78-year-old man with an acute strangulated small bowel obstruction presented for urgent laparotomy. He had undergone pacemaker implantation 17 years ago for advanced atrioventricular block. Of note, 5 months before presentation, he had transient loss of pacing capture (Figure 1) during an intensive care unit (ICU) stay for the treatment of septic cholangitis. A cardiologist assessed the patient, and the device (Medtronic EnPulse, E2DR31, Medtronic Japan, Tokyo, Japan) was interrogated. However, no apparent cause of failure to capture was identified. Two months before presentation, the pulse generator was upgraded to a Medtronic Advisa (MRI A3DR01, Medtronic Japan) due to battery depletion and was programmed to the DDD (dual chamber pacing and sensing, dual response to sensing) mode with a lower rate limit of 70 beats/min. His history included a previous gastrectomy for gastroduodenal ulcer and type 2 diabetes mellitus. Medications included glargine and vildagliptin. On examination, he was in moderate distress with a blood pressure of 176/73 mm Hg. Abdominal examination showed tenderness in the right upper quadrant. An electrocardiogram demonstrated dual-chamber atrial and ventricular pacing and capture at 70 beats/min (Figure 2). Laboratory data on admission showed a hematocrit of 32.5% but were otherwise unremarkable.
+
+Figure 1. An electrocardiographic tracing (top) and a radial arterial pressure waveform (bottom) during an intensive care unit stay for the treatment of septic cholangitis, 5 mo before this presentation. The red arrow indicates the P-wave. The blue arrowhead indicates the ventricular pacing spike without ventricular capture. It shows complete loss of ventricular capture with concomitant asystole.
+
+Figure 2. A 12-lead electrocardiogram recorded when the patient was admitted to the emergency department. It demonstrates dual-chamber atrial and ventricular pacing and capture at 70 beats/min. The red arrow indicates the atrial pacing spikes with atrial capture. The blue arrowhead indicates the ventricular pacing spikes with ventricular capture.
+
+Anesthesia was induced with remifentanil and propofol, and muscle relaxation was achieved with rocuronium. Anesthesia was maintained with sevoflurane and remifentanil. The pacemaker was interrogated immediately after anesthesia induction by a clinical engineer, which showed that the pacemaker was programmed to the DDD mode with a lower rate limit of 70 beats/min and an upper rate limit of 120 beats/min. The patient’s underlying rhythm was complete atrioventricular block with a very slow ventricular escape rhythm. The ventricular pacing threshold was 1.5 V with 0.4-millisecond duration and the ventricular pacing output was 2.5 V with 0.4-ms duration. The battery, lead impedances, and sensing amplitudes were acceptable. Although the pacemaker had capture management, it had not been enabled. Before surgery, the pacing mode was changed to DOO (asynchronous atrial and ventricular pacing), 70 beats/min, since the patient was pacing dependent. Adhesiolysis for small bowel obstruction and cholecystectomy was performed uneventfully, and there were no issues with pacing. After the procedure, ultrasound-guided rectus sheath block was performed using 40-mL 0.25% levobupivacaine. The pacemaker was reinterrogated and reprogrammed to the DDD mode. The ventricular pacing threshold was 1.25 V with 0.4-ms duration. Emergence from anesthesia was uneventful, and he was extubated 30 minutes after rectus sheath block. However, soon after extubation, asystole was confirmed on the electrocardiographic tracing. Cardiopulmonary resuscitation was started, and the ventricular pacing output was increased to 3.5 V with 0.4-ms duration. As cardiac pacing was reestablished, stable hemodynamics were achieved. The ventricular pacing threshold was rechecked and now found to be 3.0 V with 0.4-ms duration. Arterial blood gas analysis immediately after resuscitation showed pH 7.29, Pco2 46 mm Hg, Po2 112 mm Hg, HCO3 22.5 mmol/L, sodium 142 mmol/L, and potassium 4.4 mmol/L. Transthoracic echocardiography performed after resuscitation demonstrated good left ventricular systolic function without regional wall motion abnormalities. The patient was transferred to the ICU. Eight hours after admission to the ICU, a ventricular pacing threshold of 1.75 V with 0.4-ms duration was demonstrated. He fully recovered and was discharged home on postoperative day 12. The ventricular pacing threshold was 0.75 V with 0.6-ms duration, and the ventricular pacing output was set at 2.5 V with 0.9-ms duration to ensure that the margin for safety was sufficient.
+
+DISCUSSION
+
+A patient with a permanent pacemaker developed cardiac arrest due to failed pacemaker capture shortly after rectus sheath block with levobupivacaine. A large amount of locally injected levobupivacaine is rapidly absorbed into the systemic circulation, and therefore, the plasma concentration of levobupivacaine can be elevated to the point where cardiac sodium channel activity is inhibited.7 In the present patient, levobupivacaine may have affected the ventricular pacing threshold resulting in failed pacemaker capture and cardiac arrest.
+
+Appropriate management is essential to prevent pacemaker-related perioperative adverse events. However, strict adherence to the recommendations of professional societies such as American Society of Anesthesiologists2 does not eliminate the risk of pacemaker malfunction, since EMI is not the only reason for the malfunction of pacemakers.
+
+Pacemaker malfunction is attributed to generator or lead failure, failure to output (pace), or failure to capture. Among these, generator failure and lead failure are relatively rare and less likely to be the cause of pacemaker malfunction in the present patient, since device evaluation immediately before and after surgery showed normal function. In contrast, failure to capture is known to be associated with various pathological conditions such as myocardial ischemia,4 acid-base disturbance, electrolyte abnormalities,5 and elevated plasma concentration of antiarrhythmic drugs.5,6 In the present patient, electrocardiography and echocardiography showed no evidence of myocardial ischemia. Arterial blood gas analysis showed no evidence of acid-base abnormality or electrolyte disorder. Antiarrhythmic agents were not administered. However, interrogation of the pacemaker immediately after the cardiac arrest revealed capture failure due to an increased ventricular pacing threshold. Probably, some postoperative pathological situation resulting from the surgical procedure or medications used after surgery contributed to altered capture threshold. The levobupivacaine given during the rectus sheath block most likely caused the loss of capture and cardiac arrest, since local anesthetic agents have the potential to inhibit sodium channel activity.7
+
+To achieve sufficient postoperative analgesia with abdominal wall peripheral nerve block, a large amount of local anesthetic is required. As a result, the plasma concentration of local anesthetic may exceed a level that can significantly alter capture threshold, even if the administered dose is not excessive. Previous studies examined plasma concentrations of the local anesthetic after ultrasound-guided transversus abdominis plane block and rectus sheath block.8,9 Peak plasma concentrations were observed 30 minutes after injection.8,9 Although it is unclear what concentration of levobupivacaine is sufficient to alter a pacing threshold in clinical practice, inadvertent intravascular injection may occur. In the present patient, although the dose of levobupivacaine was relatively small and the ultrasound-guided rectus sheath block was uneventful, an inadvertently high plasma concentration of local anesthetic might have occurred, resulting in capture failure.
+
+Any sodium channel blocker may potentially cause capture failure, as supported by a previous case report.6 A 72-year-old woman with a pacemaker developed pacing failure 1 hour after receiving a single oral dose of pilsicainide. An abnormally high plasma concentration of pilsicainide, possibly due to impaired hepatic and renal function, was observed. Notably, an altered ventricular pacing threshold occurred coincidently with the abnormally high plasma pilsicainide concentration and transient capture failure.
+
+Excitation of a single myocardial cell is determined by the following 4 parameters: exciting stimulus, resting membrane potential, membrane resistance (probably related to ion channel activities), and cellular threshold potential.10 If the latter 3 parameters are altered with a constant exciting stimulus, myocardial excitation would be inhibited. A previous study examined acute effects of various antiarrhythmic drugs on cardiac pacing threshold.10 In this study, a sodium channel blocker mexiletine significantly increased both voltage and current pacing threshold. The authors speculated that mexiletine elevated pacing threshold by altering resting membrane potential. In the present patient, the systemically absorbed levobupivacaine could have altered the ventricular capture threshold. As in the present patient, when a patient is being paced, capture failure might occur.
+
+A limitation of this report is the failure to quantitate the blood level of levobupivacaine after the cardiac arrest. To date, the relationship between plasma local anesthetic concentration and alterations in pacing threshold has not been fully elucidated and further investigation is necessary.
+
+In this case report, we describe a patient who developed cardiac arrest due to failed pacemaker capture shortly after rectus sheath block with levobupivacaine. Levobupivacaine might have been the cause of the capture failure. It should be emphasized that all local anesthetics are potentially harmful for patients with pacemakers. Anesthesiologists should prepare for unexpected pacemaker malfunction when a large amount of local anesthetic is administered to a patient with a pacemaker.
+
+DISCLOSURES
+
+Name: Asuka Kitajima, MD.
+
+Contribution: This author helped perform the literature review, compile the case report, and discuss, review, and draft the manuscript.
+
+Name: Takeshi Nakatomi, MD.
+
+Contribution: This author helped draft the manuscript and critically revise the manuscript.
+
+Name: Yuji Otsuka, MD.
+
+Contribution: This author helped develop the conception of the case report and critically revise the manuscript.
+
+Name: Masamitsu Sanui, MD, PhD.
+
+Contribution: This author helped draft the manuscript and critically revise the manuscript.
+
+Name: Alan Kawarai Lefor, MD, MPH, PhD, FACS.
+
+Contribution: This author helped draft the manuscript and critically revise the manuscript.
+
+This manuscript was handled by: BobbieJean Sweitzer, MD, FACP.
+
+GLOSSARY
+
+CIED cardiovascular implantable electronic device
+
+DDD dual chamber pacing and sensing, dual response to sensing
+
+DOO asynchronous atrial and ventricular pacing
+
+EMI electromagnetic interference
+
+EQUATOR Enhancing the QUAlity and Transparency Of health Research
+
+ICU intensive care unit
+
+Funding: None.
+
+The authors declare no conflicts of interest.

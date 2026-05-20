@@ -1,0 +1,56 @@
+event,time
+43 years old,0
+female,0
+admitted to the hospital,0
+end-stage renal failure,0
+crescentic IgA nephropathy,0
+live related renal transplant in 1992,0
+chronic transplant glomerulopathy,0
+estimated glomerular filtration rate 15 mL/min prior to admission,0
+tacrolimus,0
+mycophenolate mofetil,0
+sodium bicarbonate,0
+atenolol,0
+ramipril,0
+methoxy polyethylene glycol-epoetin beta,0
+productive cough,-240
+diarrhoea,-240
+vomiting,-240
+severe hyponatraemia (serum sodium 102 mmol/L),0
+acute-on-chronic kidney injury,0
+bilateral consolidation on chest radiograph,0
+no evidence of fluid overload on chest radiograph,0
+negative septic screen,0
+started on antibiotics for community-acquired pneumonia,0
+transferred to intensive care unit (ICU),0
+continuous veno-venous haemodialysis (CVVHD),0
+protocol for adjusting sodium concentration in dialysate fluid,0
+hyponatraemia corrected by not >8 mmol/24 h,0
+confused,72
+agitated,72
+no signs of meningism,72
+intubated,72
+lumbar puncture,72
+computed tomography (CT) of the brain,72
+unremarkable cerebrospinal fluid analysis,72
+no evidence of encephalitis on CT,72
+serum sodium 116 mmol/L,72
+stabilized rapidly,72
+high tacrolimus level (32 μg/L),72
+sepsis,72
+renal failure,72
+extubated,96
+regained normal cognitive and neurological function,96
+transferred to renal unit,144
+serum sodium 135 mmol/L,144
+dialysis dependent,144
+discharged from hospital,240
+no evidence of seizure activity,72
+no evidence of cerebral oedema on CT,72
+rapid resolution of symptoms,96
+full neurological function,96
+no ODS diagnosis,96
+chronic hyponatraemia,0
+no neurological symptoms at presentation,0
+transient encephalopathy,72
+multifactorial encephalopathy,72

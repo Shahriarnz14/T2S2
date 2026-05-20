@@ -1,0 +1,58 @@
+event,time
+75 years old,0
+woman,0
+visited emergency room,-168
+dyspnea,-168
+diagnosed with idiopathic thrombocytopenic purpura,-672
+took prednisolone 60 mg/day,-672
+tapered prednisolone 10 mg/day,-672
+blood pressure 156/122 mmHg,-168
+heart rate 180 beats/min,-168
+respiratory rate 44 breaths/min,-168
+O2 saturation 56%,-168
+body temperature 37.7°C,-168
+increased high-sensitivity C-reactive protein,-168
+increased white blood cell count,-168
+negative influenza antigen test,-168
+negative respiratory virus PCR,-168
+negative bacterial PCR,-168
+P. jirovecii test performed,-168
+aspergillosis antigen test performed,-168
+chest radiography diffuse GGOs,-168
+chest radiography infiltration in both lungs,-168
+chest CT diffuse geographic consolidations,-168
+chest CT GGOs in both lungs,-168
+chest CT two cavitary lesions in lower lungs,-168
+admitted to intensive care unit,0
+empirical treatment with piperacillin/tazobactam,0
+empirical treatment with azithromycin,0
+IV sulfamethoxazole/trimethoprim initiated,0
+IV methylprednisolone 60 mg/day,0
+endotracheal intubation,72
+mechanical ventilator support,72
+antibiotics switched to meropenem,72
+antibiotics switched to levofloxacin,72
+FiO2 reduced to 45%,168
+clinical improvement,168
+PCP PCR positive,168
+aspergillus antigen positive,168
+itraconazole 200 mg/day initiated,168
+follow-up chest CT new GGOs in left upper lung,168
+follow-up chest CT cavitary changes in right middle lobe,168
+bronchoscopy performed,216
+BAL performed,216
+BAL fluid cytology aspergillosis positive,216
+antifungal changed to voriconazole,264
+tracheostomy performed,312
+second bronchoscopy performed,312
+second BAL performed,312
+second BAL cytology aspergillosis positive,312
+condition deteriorated,336
+family declined aggressive management,336
+PCP PCR positive in first BAL fluid,360
+fungus culture no growth,360
+died of multi-organ failure,384
+died of septic shock,384
+DRESS syndrome,0
+no shortness of breath,0
+denies chest pain,0

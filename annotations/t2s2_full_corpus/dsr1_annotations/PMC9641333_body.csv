@@ -1,0 +1,80 @@
+event,time
+68-year-old,0
+man,0
+transferred to hospital,0
+dyspnea,0
+femoral neck fracture,0
+radiation therapy,-87600
+tonsil cancer,-87600
+no recurrence of tonsil cancer,-87600
+recurrent aspiration,-87600
+refused nasogastric tube,0
+refused percutaneous endoscopic gastrostomy,0
+admitted to secondary hospital,-2400
+malnutrition,-2400
+slipped,-2400
+broke femur,-2400
+refused femur operation,-2400
+dyspnea aggravation,-2400
+transferred to tertiary hospital,0
+diagnosed aspiration pneumonia,0
+recommended nothing per oral,0
+given vegetable soup,120
+respiratory failure,120
+shock,120
+intubated,120
+transferred to ICU,120
+ventilator care,120
+monitoring,120
+bronchoscopy,144
+extracted vegetables,144
+recovered from pneumonia,144
+difficulty liberating from ventilator,144
+recommended tracheostomy,144
+family refused tracheostomy,144
+sustained persuasion,144
+family agreed,144
+percutaneous dilatational tracheostomy,144
+discharged to nursing hospital,240
+home ventilator,240
+visited ER,6240
+fever,6240
+dyspnea,6240
+transferred to another hospital,6240
+chest CT showed pneumonia,6240
+no evidence of TEF,6240
+visited ER,7680
+secretion from tracheostomy tube,7680
+enteral feeding materials in secretion,7680
+chest CT revealed TEF,7680
+leakage of ventilator circuit,7680
+changed T-tube to endotracheal tube,7680
+balloon inflated to maximum,7680
+bronchoscopy revealed TEF,7680
+NG tube visible through TEF,7680
+malnutrition,7680
+home ventilator,7680
+refused PEG,7680
+consulted radiologist,7680
+consulted gastroenterologist,7680
+consulted pulmonary interventionist,7680
+consulted chest surgeon,7680
+esophageal stent impossible,7680
+endosponge placement refused,7680
+stent unavailable,7680
+recommended primary closure,7680
+refused PEG,7680
+discharged to nursing hospital,7920
+withdrew life-sustaining treatment,7920
+changed mind for PEG,8400
+admitted to ICU,8400
+planned esophagogastroscopy,8400
+esophagus inlet stenosis,8400
+PEG impossible,8400
+thinner scope entered esophagus,8400
+balloon of endotracheal tube in esophagus,8400
+discussed jejunostomy,8400
+general condition poor,8400
+pneumonia,8400
+septic shock,8400
+died,8400

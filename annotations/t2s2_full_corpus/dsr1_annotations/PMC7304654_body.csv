@@ -1,0 +1,111 @@
+event,time
+67 years old,0
+African American male,0
+history of schizophrenia,0
+hypertension,0
+admitted to the hospital,0
+admitted to ICU,0
+evaluated for complaints,0
+shortness of breath,-24
+generalized weakness,-24
+nausea,-24
+diarrhea,-24
+abrupt onset,-24
+"watery, non-bloody diarrhea",0
+denied headache,0
+denied cough,0
+denied chest pain,0
+denied sick contacts,0
+hypotension,0
+blood pressure 80/30 mmHg,0
+fever 101.1°F,0
+clear lungs,0
+regular heart sounds,0
+no hepatosplenomegaly,0
+no peritoneal signs,0
+normal neurologic examination,0
+WBC 42.3/nL,0
+hemoglobin 10 g/dL,0
+platelet count 78/nL,0
+BUN 47 mg/dL,0
+creatinine 5.5 mg/dL,0
+bicarbonate 19.2 mEq/L,0
+anion gap 23,0
+lactic acid 4.3 mmol/L,0
+alkaline phosphatase 162 U/L,0
+AST 210 U/L,0
+total bilirubin 2 mg/dL,0
+direct bilirubin 0.4 mg/dL,0
+CK 5750 U/L,0
+fibrinogen 170 mg/dL,0
+LDH 5490 U/L,0
+"D-dimer >69,000 ng/mL",0
+microangiopathic hemolytic anemia,0
+CT negative for pulmonary infiltrates,0
+CT negative for colitis,0
+CT negative for intraabdominal infection,0
+severe sepsis,0
+treated with fluid resuscitation,0
+treated with vancomycin,0
+treated with piperacillin-tazobactam,0
+developed retiform violaceous patches,0
+central dusky necrosis,0
+upper extremities,0
+thighs,0
+back,0
+lower legs,0
+dorsal feet,0
+abdomen,0
+progression to retiform purpura,0
+ischemic changes,0
+gangrene,0
+required norepinephrine infusion,0
+blood cultures grew Gram positive cocci,24
+switched to ceftriaxone,24
+switched to clindamycin,24
+S. pneumoniae identified,24
+antibiotics narrowed to ceftriaxone,24
+negative Legionella test,24
+negative C. difficile test,24
+progressive oliguric renal failure,24
+initiated hemodialysis,24
+echocardiogram normal,48
+repeat blood cultures negative,48
+weaned off norepinephrine,72
+negative β-D-Glucan Assay,72
+negative Strongyloides serology,72
+negative autoimmune tests,72
+negative HIV,72
+negative HBV,72
+negative HCV,72
+renal function improved,168
+liver function improved,168
+weaned off hemodialysis,168
+rash resolved,168
+purpura fulminans,0
+septic shock,0
+multiorgan failure,0
+disseminated intravascular coagulation,0
+refused pneumococcal vaccination,-Inf
+refused influenza vaccination,-Inf
+no history of splenectomy,0
+no sickle cell disease,0
+no meningeal signs,0
+no valvular vegetations,48
+preserved ejection fraction,48
+no bacterial growth in repeat cultures,48
+no anti-phospholipid antibodies,72
+no anti-cardiolipin antibodies,72
+no C-ANCA,72
+no P-ANCA,72
+normal complement C3 and C4,72
+no cryoglobulin,72
+no valvular vegetations,48
+no fungal infection,72
+no viral hepatitis,72
+no adrenal hemorrhages,72
+no TMA,0
+no calciphylaxis,0
+no warfarin therapy,0
+no hypertension,0
+no compartment syndrome,0

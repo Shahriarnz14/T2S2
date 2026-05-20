@@ -1,0 +1,68 @@
+event,time
+9-year-old,0
+male,0
+admitted to the hospital,0
+periumbilical abdominal pain,-96
+watery diarrhea,-96
+vomiting,-96
+daily fever up to 38°C,-96
+progressive worsening of pain,-96
+discharged home with analgesics,-72
+hospitalized due to worsening symptoms,-48
+antibiotics started,-48
+transferred for diagnostic procedures and surgical evaluation,-24
+dysuria,-24
+oliguria,-24
+abdominal pain,0
+signs of peritonitis,0
+fasting,0
+ceftriaxone,0
+metronidazole,0
+maintenance fluid,0
+inconclusive ultrasound,0
+MIS-C hypothesis,0
+COVID-19 IgG/IgM serology requested,0
+RT-PCR nasopharynx/oropharynx swab requested,0
+persistent abdominal pain,24
+several diarrhea episodes,24
+persistent tachycardia,24
+abdominal CT requested,24
+perforated appendix,48
+pelvic abscess,48
+appendectomy,48
+exploratory laparotomy,48
+abscess formation in pelvis,48
+drain placed,48
+luminal obstruction by fecalith,48
+loss of parietal stratification,48
+ulceration with inflammatory infiltrate,48
+hemorrhage,48
+extensive areas of wall necrosis,48
+loss of mucosa,48
+positive SARS-CoV-2 nucleocapsid protein in appendix glands,48
+positive SARS-CoV-2 nucleocapsid protein in lymphoid nodules,48
+RT-PCR positive in appendix tissue,48
+admitted to PICU,48
+fluid resuscitation,48
+oxygen support via nasal cannula,48
+elevated CRP,48
+elevated fibrinogen,48
+elevated D-dimer,48
+leukocytosis,48
+lymphopenia,48
+elevated INR,48
+elevated troponin,48
+elevated creatine kinase,48
+normal echocardiogram,48
+hemodynamically stable,72
+clinical improvement,72
+discharged home,216
+positive COVID-19 IgG,0
+inconclusive IgM,0
+reagent RT-PCR,0
+no bacterial or viral agents detected,0
+elevated ferritin,120
+elevated AST,48
+elevated ALT,48
+negative blood culture,48
+normal AST and ALT,72

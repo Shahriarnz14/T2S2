@@ -1,0 +1,56 @@
+event,time
+15 years old, 0
+female , 0
+born in a country with a high burden of tuberculosis , 0
+in the care of a tertiary care infectious disease clinic for TB infection , 0
+based on a positive QuantiFERON gold test , 0
+no evidence of TB disease , 0
+history of iron deficiency anemia , 0
+hemoglobin 97-104 g/L , 0
+history of moderately active systemic lupus erythematosus (SLE) , 0
+symmetric nonerosive polyarthritis , 0
+nonscarring alopecia , 0
+photosensitivity , 0
+Raynaud phenomenon , 0
+"positivity for antinuclear, anti-Smith and anti-ribonucleoprotein antibodies ", 0
+"medications were naproxen (375 mg, twice daily) ", 0
+medications were hydroxychloroquine (5.5 mg/kg/d) , 0
+had not taken corticosteroids for several years , 0
+began treatment with 600 mg rifampin (10 mg/kg/d) , -11
+tolerated the medication well for 11 days , -11
+had chills and myalgias for 3 days , -11
+stopped treatment for 3 days without symptom recurrence , -8
+advised to resume rifampin , -1
+"developed sudden onset severe neck pain, myalgias, arthralgias, shortness of breath and chest pain ", 0
+received a fluid bolus for hypotension , 0
+"on physical examination, she was febrile, tachypneic, tachycardic with a low-to-normal blood pressure ", 0
+her weight was 60 kg , 0
+"had no angioedema, rash, wheezing or gastrointestinal symptoms ", 0
+received intravenous fluids and empiric vancomycin and ceftriaxone , 0
+became hypotensive again and required fluid resuscitation and norepinephrine and epinephrine infusions , 3
+admitted to the intensive care unit , 3
+no rash or mucous membrane involvement , 0
+blood work showed a decreased leukocyte count at admission , 0
+which increased to 17.34 × 109/L 6 hours later , 6
+low eosinophil counts throughout , 0
+her hemoglobin level decreased to 74 g/L on the second day of admission , 48
+her bilirubin and haptoglobin levels were normal , 0
+a direct antiglobulin test was negative and her blood film did not show schistocytes , 0
+inflammatory markers were elevated , 0
+C-reactive protein (CRP) level of 13.6 mg/L at admission , 0
+increasing to 101.8 mg/L about 24 hours later , 24
+her aspartate aminotransferase level increased from 71 U/L to 99 U/L , 0
+her complement C3 level was slightly decreased , 0
+her creatinine kinase level was normal , 0
+"given a previous finding of a partially empty sella turcica on magnetic resonance imaging, the patient’s cortisol level was tested and found to be increased ", 0
+"given the presence of severe neck pain, nuchal rigidity and shock, the critical care team suspected sepsis ", 0
+a computed tomography (CT) scan of the head and an echocardiogram were normal , 0
+CT angiography of the neck did not show an infected thrombus or edematous retropharyngeal soft tissue but showed localized myositis , 0
+a chest radiograph showed mild pulmonary edema attributed to fluid resuscitation , 0
+CT imaging of the lungs showed bilateral increased septal thickening with ground glass opacities , 0
+all infectious work-up was negative , 0
+"received 1 dose of rifampin in the ICU, which led to a decreased blood pressure ", 0
+"rifampin was stopped, and the patient was weaned off vasopressors within 30 hours of admission ", 30
+attributed her presentation to a rifampin-induced adverse drug reaction , 0
+started her on isoniazid for TBI and she successfully completed 9 months of therapy , 9x24=216
+told her to avoid rifamycin-based medications in the future , 216

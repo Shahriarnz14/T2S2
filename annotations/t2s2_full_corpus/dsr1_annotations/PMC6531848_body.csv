@@ -1,0 +1,71 @@
+event,time
+80 years old,0
+male,0
+admitted to Intensive care unit,0
+septic shock,0
+Pseudomonas aeruginosa necrotizing community-acquired pneumonia,0
+bacteremia,0
+presented to the emergency department,-72
+severe right sided chest pain,-72
+dyspnea,-72
+fever,-72
+denied use of alcohol,0
+denied use of tobacco,0
+hypertension,0
+hypothyroidism,0
+calcified pleural plaques,0
+autoimmune hemolytic anemia,-1008
+hospitalized,-1008
+treated with oral prednisone 70 mg daily,-1008
+negative HIV serology,-1008
+negative hepatitis B serology,-1008
+negative hepatitis C serology,-1008
+antinuclear antibodies positive,-1008
+anti double-stranded DNA titer 1:360,-1008
+plasma protein electrophoresis normal,-1008
+Positron emission tomography scan normal,-1008
+chest-abdomen-pelvis computed tomography normal,-1008
+dyspneic,-72
+respiratory rate 27 breaths/min,-72
+heart rate 93 beats/min,-72
+fever 39°C,-72
+lung auscultation negative for crackles,-72
+hypotensive,-72
+blood pressure 80/60 mmHg,-72
+no response to intravenous fluids,-72
+required vasopressor support with norepinephrine,-72
+admitted to ICU,-72
+sepsis shock,-72
+leukocytosis,0
+"white blood cell count 27,100/mm3",0
+hemoglobin level 14.5 g/dL,0
+"platelet count 187,000/mm3",0
+arterial blood gas pH 7.48,0
+PaO2 62 mmHg,0
+PaCO2 35 mmHg,0
+C-reactive protein 130 mg/L,0
+acute kidney injury,0
+creatinine 1.386 mg/dL,0
+lactic acid elevated to 31.53 mg/dL,0
+procalcitonin increased to 14.6 ng/mL,0
+blood cultures obtained,0
+pneumococcal urine antigen negative,0
+Legionella urine antigen negative,0
+chest x-ray showed pulmonary consolidation in right upper lobe,0
+chest x-ray showed cavity,0
+CT showed right upper lobe consolidation,0
+CT showed septated cavitation,0
+started intravenous cefotaxime 2 g x3 daily,0
+started intravenous levofloxacin 500 mg twice daily,0
+blood cultures positive for pan-sensitive Pseudomonas aeruginosa,24
+antimicrobials changed to cefepime 2 g twice daily,24
+bronchoscopy with bronchoalveolar lavage,0
+BAL culture positive for Pseudomonas aeruginosa,0
+acid-fast bacilli stain negative,0
+clinical condition improved,24
+vasopressor weaned,48
+oxygen therapy stopped,96
+transferred to pulmonology floor,96
+discharged from hospital,504
+repeat chest x-ray showed decrease of consolidation,336
+repeat chest x-ray showed residual 10 cm cavity,336

@@ -1,0 +1,56 @@
+event,time
+72 years old,0
+male,0
+cirrhosis,0
+hepatocellular carcinoma,0
+systemic immunotherapy,0
+tocilizumab,0
+atezolizumab,0
+bevacizumab,0
+oral prednisone,0
+systemic inflammatory response,0
+emergency department visit,-312
+confusion,-312
+lethargy,-312
+bilateral lower extremity edema,-312
+recurrent falls,-312
+hospital admission prior,-312
+lacerations,-312
+dog licked lacerations,-312
+hospital admission,0
+feeling unwell,0
+temperature 100.0°F,0
+blood pressure 85/50,0
+heart rate 80s,0
+increasing confusion,0
+red leg ulceration,0
+hot leg ulceration,0
+painful leg ulceration,0
+"elevated white blood cell count 24,600/μL",0
+left shift,0
+sepsis protocol initiated,0
+admitted to intensive care unit,0
+broad-spectrum antimicrobials initiated,0
+vancomycin,0
+piperacillin/tazobactam,0
+antibiotics changed,24
+cefepime,24
+metronidazole,24
+acute kidney injury,24
+specimens from right lower extremity,0
+blood cultures from left forearm,0
+blood cultures from left antecubital fossa,0
+M. canis positive cultures,0
+beta-lactamase production,0
+resistant to penicillin,0
+resistant to ampicillin,0
+resistant to amoxicillin,0
+Staphylococcus aureus in wound,0
+clinical improvement after 48 hours,48
+repeat blood cultures negative,48
+fever resolved,48
+leg wounds improved,48
+white blood cell count trended downward,48
+neutrophil count trended downward,48
+IV cefepime continued for five days,120
+oral cefdinir for 10 days,120

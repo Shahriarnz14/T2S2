@@ -1,0 +1,69 @@
+event,time
+backache ,0.0
+calculi in both kidneys associated with ureteral calculi ,0.0
+admitted ,0.0
+HLL combined with double J catheterization ,0.0
+purulent urine ,0.5
+severe fever ,0.5
+chill ,0.5
+low blood pressure ,0.5
+empiric anti-infection drugs ,0.5
+fluid resuscitation ,0.5
+vasoactive agent ,0.5
+Hydrocortisone sodium succinate hormone ,0.5
+anuric ,48.0
+ARDS ,48.0
+invasive ventilatory support with endotracheal intubation ,48.0
+CRRT ,48.0
+transferred to ICU ,48.0
+sedated state ,48.0
+"cold, clammy extremities ",48.0
+loud bubbling sound in the lung ,48.0
+arterial blood gas analysis ,48.0
+cardiac function detected through the chest wall ,48.0
+diffuse dysfunction ,48.0
+severe functional damage in the left ventricle ,48.0
+LVEF 20.3% ,48.0
+normal function in the right ventricle ,48.0
+sinus tachycardia ,48.0
+broad ST depression ,48.0
+elevated troponin I ,48.0
+elevated amino-terminal brain natriuretic peptide precursor ,48.0
+elevated creatinine ,48.0
+anuria ,48.0
+multiple organ function failure ,48.0
+VA-ECMO treatment ,48.0
+ECMO venous leading-out end used a 20F catheter ,48.0
+arterial leading-in end used a 17F catheter ,48.0
+No. 6 arterial catheter ,48.0
+ECMO ran normally ,48.0
+Norepinephrine stopped ,48.5
+Epinephrine stopped ,48.5
+CRRT performed ,49.0
+Imipenem and Cilastatin sodium combined with Vancomycin ,49.0
+lactic acid level declined ,51.0
+vasoactive drugs completely stopped ,58.0
+arterial blood lactate level normal ,60.0
+extended-spectrum β-lactamase-positive Escherichia coli ,72.0
+inflammatory indices diminished ,72.0
+anti-infection regimen continued ,72.0
+minimum serum trough concentration of Vancomycin monitored ,72.0
+LVEF 35% ,120.0
+black and necrotic skin ,120.0
+weaned from ECMO therapy ,144.0
+renal function scaled as acute kidney injury grade 3 ,144.0
+CRRT discontinued ,144.0
+urinating ,144.0
+vascular ultrasonography ,168.0
+computed tomography angiography ,168.0
+vascular surgery consultation ,168.0
+necrotic tissues amputated ,168.0
+spontaneous breathing ,120.0
+trachea opened ,240.0
+anti-infection combination replaced ,240.0
+bedside physical rehabilitation ,240.0
+weaned from ventilator ,480.0
+tracheotomy tube sealed ,600.0
+discharged ,768.0
+intermittent hemodialysis ,768.0
+follow-up ,1056.0

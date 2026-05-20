@@ -1,0 +1,47 @@
+event,time
+66 years old,0
+female,0
+diffuse pruritus,0
+erythroderma,0
+lymphadenopathy,0
+stage IVA1 (T4NxM0B2) Sézary syndrome,0
+uncontrolled hypertension,0
+type 2 diabetes,0
+end-stage renal disease,0
+prescription of extracorporeal photopheresis,0
+prescription of bexarotene,0
+lost to follow-up,-4320
+worsening pruritus,4320
+papulonodular rash,4320
+"Sézary count 11,132",4320
+first SARS-CoV-2 infection,-2592
+shortness of breath,-2592
+afebrile,-2592
+recovered fully,-2592
+Sézary count 6494,-2304
+second SARS-CoV-2 infection,-1680
+admitted to hospital,-1680
+severe COVID-19,-1680
+shortness of breath,-1680
+chills,-1680
+fever 38.5 °C,-1680
+hypoxemia 70% O2 saturation,-1680
+dexamethasone 6 mg for 8 days,-1680
+empiric antibiotics for 25 days,-1680
+false-positive blood culture,-1680
+lymphocyte count decrease,-1680
+Sézary count 1900,-1680
+discharge,0
+Sézary count 936,144
+start romidepsin therapy,144
+improved pruritus,432
+resolved lymphadenopathy,432
+resolved erythroderma,432
+Sézary count 389,432
+third SARS-CoV-2 infection,720
+admitted to intensive care unit,720
+severe COVID-19,720
+encephalopathy,720
+hypotension,720
+cardiac arrest,792
+death,792

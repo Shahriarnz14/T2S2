@@ -1,0 +1,72 @@
+event,time
+23-week gestational age,0
+female,0
+"born to 32-year-old gravida 3, para 1-2-0-2 mother",0
+maternal serology negative for HIV,0
+maternal serology negative for hepatitis,0
+maternal serology negative for chlamydia,0
+maternal serology negative for syphilis,0
+group B streptococcal status unknown,0
+HELLP syndrome,0
+cesarean section,0
+birthweight 485 grams,0
+Apgar score 3 at 1 minute,0
+Apgar score 8 at 5 minutes,0
+intubated in delivery room,0
+received surfactant,0
+mechanical ventilation,0
+transferred to NICU,0
+initial WBC 2.1×10^9/L,0
+initial hematocrit 39.6%,0
+initial hemoglobin 12.6 g/100 mL,0
+initial platelet 186×10^3/mL,0
+differential: 9% segmental WBC,0
+differential: 1% bands,0
+differential: 60% lymphocytes,0
+differential: 26% monocytes,0
+differential: 603 nucleated RBC per 100 WBC,0
+initial CRP <0.3 mg/dL,0
+persistent neutropenia,336
+persistent thrombocytopenia,336
+bandemia,336
+hemodynamically significant hypotension,336
+vasopressors required,336
+no definitive infection,336
+ampicillin started,0
+gentamicin started,0
+blood culture sent,0
+blood culture positive for Actinomyces species,96
+ampicillin switched to penicillin,96
+ampicillin and gentamicin for 7 days,0
+penicillin for 5 days,168
+total antibiotic course 13 days,312
+subsequent blood culture no growth,96
+Actinomyces viscosus identified by 16S rRNA sequencing,624
+MALDI-TOF unable to identify organism,624
+persistent hypotension,744
+vasopressor support,744
+stress dose corticosteroid,744
+disseminated intravascular coagulation,744
+transient hypoglycemia,744
+electrolyte imbalance,744
+adrenal insufficiency,744
+acute renal failure,744
+endotracheal aspirate grew Staphylococcus aureus,744
+urine culture grew Enterococcus faecalis,744
+central line grew Staphylococcus epidermidis,744
+clinical evidence of infection,744
+vancomycin started,744
+ampicillin/sulbactam started,744
+7 days of antibiotics,744
+discharged after 3 months,2160
+secondary infection at 30 days,720
+persistent neutropenia,336
+persistent thrombocytopenia,336
+bandemia,336
+no copious vaginal discharge,0
+no maternal HIV,0
+no maternal hepatitis,0
+no maternal chlamydia,0
+no maternal syphilis,0
+no group B streptococcus status,0
+negative repeat blood culture,96

@@ -1,0 +1,72 @@
+event,time
+35 years old,0\
+female,0\
+infant,0\
+vaginal delivery,-0\
+33 0/7 weeks gestation,-0\
+maternal hypertension,0\
+maternal preeclampsia,0\
+maternal type 2 diabetes mellitus,0\
+maternal previous postpartum deep vein thrombosis,0\
+maternal small pulmonary embolism,0\
+birth weight 1744 g,0\
+Apgar score 9 at 1 minute,0\
+Apgar score 9 at 5 minutes,0\
+transferred to neonatal intensive care unit,0\
+routine management of prematurity,0\
+severe persistent hypoglycemia,48\
+umbilical venous catheter placement,48\
+maximum glucose infusion rate 21 mg/kg/min,48\
+systolic murmur,120\
+echocardiogram,120\
+small patent ductus arteriosus,120\
+UVC tip at foramen ovale,120\
+UVC removal,120\
+fever,168\
+tachypnea,168\
+grunting,168\
+"thrombocytopenia (platelets 81,000 bil/L)",168\
+blood culture,168\
+cerebrospinal fluid studies,168\
+gentamicin,168\
+vancomycin,168\
+acyclovir,168\
+inadequate intravenous access,168\
+need for antibiotics,168\
+peripherally inserted central catheter attempted,168\
+peripherally inserted central catheter failed,168\
+bilious emesis,192\
+abdominal ultrasound,192\
+upper gastrointestinal studies negative,192\
+cranial ultrasound,192\
+bilateral grade 1 intraventricular hemorrhages,192\
+Broviac catheter insertion,192\
+blood culture grew methicillin-sensitive Staphylococcus aureus,192\
+cerebrospinal fluid no growth,192\
+acyclovir discontinued,192\
+cefotaxime added,192\
+repeat echocardiogram,240\
+5×5 mm mass in atrial septum,240\
+mass in contact with central line tip,240\
+Broviac pulled back,240\
+anticoagulation withheld,240\
+risk of progression of IVH,240\
+repeat echocardiogram,264\
+questionable increase in mass size,264\
+gradual decrease in mass size,264\
+no mass seen,552\
+repeated cranial ultrasounds stable,552\
+scalp nodules,408\
+leg nodules,408\
+debridement of nodules,408\
+nodules grew methicillin-sensitive Staphylococcus aureus,408\
+nafcillin course (42 days),408\
+gentamicin course (21 days),408\
+Broviac removed,408\
+echocardiograms stable 1 month post-discharge,408\
+no other sites of infection,408\
+intra-atrial cardiac mass,240\
+methicillin-sensitive Staphylococcus aureus,240\
+conservative management,240\
+persistent positive blood cultures,240\
+no hemorrhagic complications,552\

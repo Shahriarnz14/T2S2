@@ -1,0 +1,99 @@
+event,time
+10-year-old boy,0
+born pre-term at 33 weeks and 2 days,0
+developmental delays in growth,0
+developmental delays in motor function,0
+visited center for evaluation of short stature at age 6,-42048
+clinically diagnosed with Russell–Silver syndrome,-42048
+proteinuria,-42048
+hypoalbuminemia,-42048
+high-dose steroid treatment,-42048
+calcineurin inhibitor treatment,-42048
+renal function deteriorated,-42048
+right renal vein thrombosis at age 8,-17520
+pulmonary embolism at age 8,-17520
+treated with anticoagulants,-17520
+persistent pulmonary hypertension,-17520
+managed with sildenafil,-17520
+living donor kidney transplantation at age 9,-8760
+immunosuppression with prednisolone,-8760
+immunosuppression with mycophenolate mofetil (MMF),-8760
+immunosuppression with tacrolimus,-8760
+discontinued MMF 70 days after transplantation,-8760 + 1680 = -7080
+steroid tapered,-7080
+tacrolimus continued with blood levels ~10 ng/mL,-7080
+pneumocystis pneumonia 3 months post-transplantation,-8760 + 2160 = -6600
+mechanical ventilation,-6600
+intravenous sulfamethoxazole/trimethoprim for 14 days,-6600
+steroid increased from 2.5 mg to 20 mg prednisolone,-6600
+discharged after pneumocystis pneumonia treatment,-6600 + 336 = -6264 (approx. 14 days later)
+presented with dysuria on postoperative day 135,0 (admission event)
+gross hematuria on postoperative day 135,0
+BUN 24 mg/dL,0
+Cr 0.56 mg/dL,0
+CRP 0.42 mg/dL,0
+urinalysis RBC >100/HPF,0
+urinalysis WBC >100/HPF,0
+urine culture negative for bacteria,0
+urine BK virus negative,0
+urine JC virus PCR positive,0
+urine adenovirus culture positive (1–9 cells/HPF),0
+diagnosed with hemorrhagic cystitis,0
+managed with hydration,0
+pain control,0
+dysuria persisted after a week,168 (7 days later)
+hematuria persisted after a week,168
+RBC >100/HPF,168
+WBC 1–4/HPF,168
+immunosuppression maintained,168
+visited ER 3 weeks later,504 (21 days after day 135)
+fever,504
+general weakness,504
+chest tightness,504
+mild cough,504
+persistent dysuria,504
+persistent hematuria,504
+BUN 175 mg/dL,504
+Cr 8.29 mg/dL,504
+CRP 30.23 mg/dL,504
+emergent hemodialysis,504
+empirical piperacillin/tazobactam,504
+sputum culture negative,504
+blood culture negative,504
+urine culture negative,504
+adenovirus PCR positive in sputum,504
+CMV antigen positive in blood,504
+presumed disseminated adenovirus infection,504
+treated with immunosuppression reduction,504
+treated with ganciclovir,504
+renal allograft biopsy showing necrotizing granulomatous tubulointerstitial nephritis,504
+CD3 negative,504
+C4d negative,504
+JC virus PCR positive,504
+CMV PCR positive,504
+treated with ganciclovir,504
+antibiotic therapy with renal impairment dose,504
+granulocyte colony-stimulating factor,504
+immunoglobulin,504
+transfusion,504
+hemodialysis,504
+inflammatory marker high,504
+fever persisted,504
+initiated cidofovir on day 167,167 - 135 = 32 days = 768 hours
+cidofovir 1 mg/kg/day 3 times/week,768
+hemodialysis ongoing,768
+changed to cidofovir 2 mg/kg every 2 weeks,768 + 336 = 1104 (after 14 days)
+completed 3 maintenance treatments,1104 + 336*2 = 1776
+serum adenovirus PCR positive,768
+CSF adenovirus PCR positive,768
+renal function not recovered,768
+generalized tonic-clonic seizure,768
+vancomycin treatment,768
+meropenem treatment,768
+acyclovir treatment,768
+anemia,768
+leukopenia,768
+thrombocytopenia,768
+mechanical ventilation,768
+continuous renal replacement therapy,768
+died on day 215,215 - 135 = 80 days = 1920 hours

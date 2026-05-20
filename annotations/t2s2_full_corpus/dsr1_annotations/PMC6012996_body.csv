@@ -1,0 +1,57 @@
+event,time
+84 years old,0
+male,0
+admitted to emergency department,0
+edema of the right leg,-168
+fever,-168
+no history of cardiovascular disease,0
+no history of specific diseases,0
+conscious,0
+pulse rate 70 beats/min,0
+blood pressure 120/80 mm Hg,0
+temperature 37.5°C,0
+pulsatile mass in abdomen,0
+white blood cells 4.6 ×10³/μL,0
+hemoglobin 11 g/dL,0
+C-reactive protein 3.6 mg/dL,0
+high D-dimer 62 μg/mL,0
+high creatinine 2.5 mg/dL,0
+"high soluble IL-2 receptor 10,300 U/mL",0
+contrast-enhanced CT showed infrarenal AAA (61 mm),0
+bilateral common iliac artery aneurysms,0
+periaortic soft tissue density in retroperitoneal lesion,0
+periaortic lesion compresses inferior vena cava,0
+periaortic lesion compresses right urinary tract,0
+deep venous thrombosis,0
+hydronephrosis,0
+vitamin K antagonist therapy started,0
+lower leg swelling decreased,0
+plain MRI hyperintense signal at periaortic lesion,0
+diagnosis of malignant lymphoma,0
+hemodynamically stable,0
+no typical symptoms of AAA rupture,0
+open biopsy in right groin,96
+diagnosis of diffuse large B-cell lymphoma,96
+sepsis due to urinary tract infection,96
+mechanical ventilation,96
+endotoxin adsorption therapy,96
+recovered from sepsis,216
+recovered from respiratory failure,216
+preliminary informed consent for treatment,216
+asymptomatic,0
+almost normal renal function,0
+no intervention for hydronephrosis,0
+no intervention for urinary tract compression,0
+too frail for open surgery,216
+EVAR chosen,216
+right internal iliac artery embolization,336
+left internal iliac artery embolization,432
+endovascular repair with Excluder device,432
+no endoleak,432
+no postoperative aortic events,0
+no chemotherapy for lymphoma,0
+discharged,1176
+follow-up CT 2 weeks post-op,1344
+no change in aneurysm size,1344
+no change in lymphoma size,1344
+able to spend time at home,0

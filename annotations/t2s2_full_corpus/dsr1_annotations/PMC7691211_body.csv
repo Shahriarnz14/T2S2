@@ -1,0 +1,93 @@
+event,time
+49 years old,0
+male,0
+obese (BMI-33.9),0
+ethanol related decompensated liver cirrhosis,-6720
+recurrent life threatening variceal bleeds,-6720
+mild ascites,-6720
+jaundice,-6720
+CTP score −9,-6720
+Child: B,-6720
+MELD Na: 17,-6720
+no hypertension,-6720
+no diabetes,-6720
+no asthma,-6720
+wife evaluated for donation,-6720
+first nasopharyngeal swab COVID-19 RT-PCR negative,-6720
+second COVID-19 RT-PCR negative,-6720
+third COVID-19 RT-PCR negative,-6720
+informed consent for nosocomial COVID-19 risk,-6720
+live donor liver transplant,-6720
+partial MHV right lobe graft,-6720
+splenic artery ligation,-6720
+GRWR-0.70,-6720
+right graft weight-635 gms,-6720
+intraoperative high portal pressure 16 mmHg,-6720
+uneventful intraoperative course,-6720
+extubated POD1,24
+post-operative doppler high portal blood flows 2000 ml/min,168
+pharmacological modulation with octreotide infusion,168
+intravenous methylprednisolone 10 mg/kg during anhepatic phase,-6720
+methylprednisolone tapered to 100 mg POD1,24
+methylprednisolone 80 mg POD2,48
+methylprednisolone 60 mg POD3,72
+methylprednisolone 40 mg POD4,96
+oral wysolone 20 mg daily from POD5,120
+tacrolimus started POD2 0.05 mg/kg twice daily,48
+tacrolimus adjusted to trough 8-10 ng/ml,48
+low platelet count,168
+low total leucocyte count,168
+low dose MMF 250 mg/12 hr started POD8,192
+rising aminotransferases,336
+methylprednisolone pulse therapy,336
+acute cellular rejection (ACR) suspected,336
+satisfactory hospital course,456
+fever 101°F POD20,480
+heart rate 110/min,480
+respiratory rate 26/min,480
+SpO2 88% on ambient air,480
+COVID-19 RT-PCR positive POD20,480
+nasopharyngeal aspirate negative for other respiratory viruses,480
+MMF stopped,480
+oral steroid changed to intravenous hydrocortisone,480
+tacrolimus continued low dose,480
+SpO2 94-96% with high-flow nasal cannula,480
+tachypnoea 37/min POD22,528
+chest x-ray bilateral patchy opacities,528
+shifted to ICU isolation,528
+"inflammatory markers tested (IL-6, CRP, NT-proBNP, ferritin)",528
+septic screening done,528
+remdesivir 200 mg first day,528
+remdesivir 100 mg daily for five days,528
+enoxaparin 60 mg once daily,528
+non-invasive ventilation continued,528
+"clinical deterioration FiO2 0.5, SpO2 92%, PaO2 71 mmHg, PF ratio 143",528
+IL-6 74.65 pg/dl,528
+NT-ProBNP 1305 pg/dl,528
+CRP 69.95 mg/dl,528
+mean lymphocyte count <0.5×10³/μL,528
+HRCT chest not performed,528
+tocilizumab not administered,528
+thrombocytopenia,528
+first convalescent plasma transfusion 200 ml POD23,552
+second convalescent plasma transfusion 230 ml POD24,576
+third convalescent plasma transfusion 200 ml POD25,600
+IL-6 253.9 pg/ml,600
+CRP 106.04 mg/L,600
+NT-ProBNP 1426 pg/ml,600
+ferritin 108.62 ng/ml,600
+hypoxia worsened,600
+deterioration halted,600
+no intubation needed,600
+SpO2 improved,600
+inflammatory markers improved,600
+off oxygen therapy POD40,960
+absolute lymphocyte count 1.42×10³/μL,960
+radiological resolution of lung opacities,960
+aminotransferases improved,960
+total bilirubin improved,960
+repeat COVID-19 RT-PCR positive day 10,960
+repeat COVID-19 RT-PCR positive day 15,960
+repeat COVID-19 RT-PCR positive day 22,960
+discharged 6th August 2020,960
+telephonic follow-up,960

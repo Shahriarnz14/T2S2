@@ -1,0 +1,173 @@
+event,time
+89-year-old,0\
+man,0\
+admitted to the hospital,0\
+vomiting,-96\
+vomiting (projectile),-96\
+epigastric distension,-96\
+no obvious abdominal pain,-96\
+no bowel movements,-96\
+no flatus,-96\
+gallstones,-87600\
+right upper quadrant pain,-87600\
+hypertension,-87600\
+diabetes,-87600\
+pulmonary tuberculosis,-438000\
+schistosomiasis,-438000\
+moderate drinking,0\
+no smoking,0\
+no allergies,0\
+unremarkable family history,0\
+temperature 36.2 °C,0\
+heart rate 77 beats per min,0\
+respiratory rate 20 breaths per min,0\
+blood pressure 137/74 mmHg,0\
+slight abdominal tenderness in the epigastric abdomen,0\
+no rebound tenderness,0\
+hyperactive bowel sounds in the right abdomen,0\
+normal lung examination,0\
+normal heart examination,0\
+normal routine blood examination,0\
+normal liver function,0\
+normal renal function,0\
+normal coagulation function,0\
+normal troponin,0\
+normal procalcitonin,0\
+high-sensitivity C-reactive protein increased (26.1 mg/L),0\
+abdominal contrast computed tomography (CT) showing liver with normal shape,0\
+dilatation of intrahepatic and extrahepatic ducts,0\
+pneumatosis in the gallbladder,0\
+gallbladder communicating with the duodenal bulb,0\
+stone in upper jejunum,0\
+proximal intestinal effusion,0\
+proximal intestinal dilatation,0\
+cholecystoduodenal fistula,0\
+upper jejunum obstruction due to gallstone,0\
+cholecystitis,0\
+pneumobilia,0\
+Rigler’s triad,0\
+magnetic resonance cholangiopancreatography showing short T2 signal in upper jejunum,0\
+jejunal gallstone ileus,0\
+atrial fibrillation,0\
+postoperative leak,0\
+acute diffuse peritonitis,0\
+septicopyemia,0\
+septic shock,0\
+multiple organ failure,0\
+myocardial damage,0\
+acute renal failure,0\
+coagulation disorder,0\
+pulmonary infection,0\
+ceftriaxone sodium,0\
+sulbactam sodium,0\
+octreotide acetate,0\
+esomeprazole,0\
+nasogastric tube insertion,0\
+gastrointestinal decompression,0\
+fluid drainage,0\
+nutrition support (amino acid),0\
+nutrition support (lipid emulsion),0\
+propulsive enteroscopy,0\
+deep ulcer in duodenal bulb,0\
+yellow purulent secretion,0\
+mucosal edema,0\
+stone incarceration in upper jejunum,0\
+food residue abundant proximal to gallstone,0\
+removal of food residue with basket and snare,0\
+failed to remove stone,0\
+laser lithotripsy,0\
+sodium bicarbonate injection,0\
+second propulsive enteroscopy,48\
+stone smaller than before,48\
+second laser lithotripsy,48\
+second sodium bicarbonate injection,48\
+no passage of gas by the anus,120\
+gastrointestinal decompression drainage 800-1000 mL per day,120\
+transferred to Department of Biliary-pancreatic Surgery,120\
+laparoscopic duodenoplasty (fistula closure),240\
+cholecystectomy,240\
+enterolithotomy,240\
+repair,240\
+severe inflammation and edema around gallbladder,240\
+jejunal gallstone ileus (intraoperative),240\
+gallbladder removed,240\
+cauliflower drainage tube placed around duodenal fistula,240\
+purse-string suturing of full layer performed,240\
+jejunum cut,240\
+gallstone removed,240\
+intestine wall sutured,240\
+drainage tubes placed in foramen of Winslow,240\
+drainage tubes placed in pelvic cavity,240\
+tachycardia (170 beats per min),264\
+normal white blood cell count (7.13 × 109 cells/L),264\
+mild anemia (hemoglobin 117.0 g/L),264\
+hypoproteinemia (32.5 g/L),264\
+elevated urea (14.74 mmol/L),264\
+elevated creatinine (149 µmol/L),264\
+elevated NT-proBNP (5458 pg/mL),264\
+normal troponin,264\
+atrial fibrillation (electrocardiograph),264\
+pulmonary arterial hypertension (44 mmHg),264\
+enlargement of right heart,264\
+tricuspid insufficiency,264\
+deslanoside (0.2 mg intravenous injection),264\
+amiodarone hydrochloride (0.3 mg intravenous pump),264\
+return to sinus rhythm,264\
+hypourocrinia,264\
+anuric,264\
+transferred to intensive care unit,264\
+hyperpyrexia (39 °C),264\
+disturbance of consciousness,264\
+increased white blood cells (10.11 × 109 cells/L),264\
+neutrophilic granulocyte percentage 90.5%,264\
+prolonged prothrombin time (57.9 s),264\
+elevated international normalized ratio (6.02),264\
+elevated troponin (5476.8 pg/mL),264\
+elevated NT-proBNP (31194 pg/mL),264\
+elevated creatinine (347 µmol/L),264\
+elevated procalcitonin (31.01 ng/mL),264\
+high-sensitivity C-reactive protein increased (220.0 mg/L),264\
+Enterococcus faecium in drainage fluid culture,264\
+meropenem (1.0 g Q8H for 16 d),264\
+tigecycline (50 mg Q12H for 4 d),264\
+linezolid (0.6 g Q12H for 7 d),264\
+teicoplanin (400 mg QD for 4 d),264\
+continuous renal replacement therapy (four times),264\
+intravenous plasma transfusion,264\
+coronary dilating drugs,264\
+supporting treatments,264\
+abdominal tenderness,264\
+rebound tenderness,264\
+exudate around drainage tube,264\
+hypotension,264\
+replaced abdominal drainage tube,264\
+noradrenaline and pituitrin to maintain blood pressure,264\
+decrease in platelet count,264\
+urine volume gradually recovered,264\
+vital signs stable,264\
+decreased white blood cell count (2.48 × 109 cells/L),456\
+moderate anemia (hemoglobin 61.0 g/L),456\
+elevated creatinine (225 µmol/L),456\
+elevated troponin (44.7 pg/mL),456\
+elevated NT-proBNP (3229 pg/mL),456\
+elevated procalcitonin (1.74 ng/mL),456\
+transferred to Department of Biliary-pancreatic Surgery,456\
+cefoperzone sodium,456\
+tazobactam sodium,456\
+lethargy,552\
+mouth breathing,552\
+no obvious change in blood tests,552\
+coma,600\
+pupils unresponsive to light,600\
+abdominal CT showing postoperative changes,600\
+exudative effusion around operative region,600\
+chest CT showing right lung infection,600\
+head CT showing cerebral infarction,600\
+transferred to intensive care unit again,624\
+anti-infective therapy,624\
+supportive treatments (enteral nutrition),624\
+maintenance of electrolytes,624\
+oxygen therapy,624\
+decrease in blood pressure,672\
+decrease in oxyhemoglobin saturation,672\
+died,672

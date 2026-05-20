@@ -1,0 +1,59 @@
+event,time
+70 years old,0
+female,0
+admitted to the hospital,0
+pancreatic adenocarcinoma,0
+open pancreaticoduodenectomy,0
+painless jaundice,0
+jaundice,-4320
+weight loss,-4320
+poor appetite,-4320
+computed tomography of chest,-4320
+computed tomography of abdomen,-4320
+computed tomography of pelvis,-4320
+magnetic resonance cholangiopancreatography,-4320
+endoscopic ultrasound,-4320
+endoscopic retrograde cholangiopancreatography,-4320
+positive emission topography scan,-4320
+diagnostic laparoscopy,-4320
+open appendectomy,Prior (negative timestamp not specified)
+nasojejunal feeding tube,6
+enteral nutrition commenced,6
+transferred to surgical ward,24
+high nasogastric output,24
+osmotic laxative prescribed,24
+nausea,120
+vomiting,120
+increasing central abdominal pain,120
+mild tachycardia,120
+central abdominal tenderness,120
+computed tomography organized,120
+small bowel dilatation,120
+faecalisation,120
+transition point not defined,120
+adhesions postulated,120
+laparotomy performed,144
+small bowel distension with serosal tears,144
+full thickness enterotomy,144
+faecal contamination,144
+feed contamination,144
+decompression of small bowel,144
+washout,144
+enterotomy repair,144
+nasojejunal tube replaced with nasogastric tube,144
+central venous catheter placed,144
+total parenteral nutrition commenced,144
+ICU admission,144
+inotropic support,144
+acute kidney injury,144
+antifungal treatment,144
+antibiotic regimen,144
+wound dehiscence,Post-laparotomy (positive timestamp not specified)
+intra-abdominal collection,Post-laparotomy (positive timestamp not specified)
+percutaneous drains,Post-laparotomy (positive timestamp not specified)
+resumed oral intake,360
+nourishing fluids,360
+discharged home,888
+follow-up outpatient clinic,Post-discharge (positive timestamp not specified)
+no ongoing issues,Post-discharge (positive timestamp not specified)
+full diet resumed,Post-discharge (positive timestamp not specified)

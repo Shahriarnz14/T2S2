@@ -1,0 +1,148 @@
+event,time
+55-year-old,0
+man,0
+admitted to emergency room,0
+accidental ingestion of methidathion,-24 (approximated as occurring prior to ER arrival)
+drunken state,-24
+non-insulin dependent diabetes mellitus,"0 (historical, but mentioned as part of admission context)"
+body weight 75 kg,0
+height 173 cm,0
+semi-comatose,0
+intermittent myoclonus-like movements,0
+blood pressure 67/50 mmHg,0
+heart rate 48 bpm,0
+tracheal intubation,0
+mechanical ventilation,0
+intravenous atropine (bolus 1 mg),0
+intravenous atropine infusion (50 mcg/min),0
+norepinephrine infusion (0.25 mcg/kg/min),0
+vasopressin infusion (0.3 units/min),0
+dobutamine infusion (30 mcg/kg/min),0
+epinephrine infusion (0.25 mcg/kg/min),0
+pralidoxime (PAM-A) infusion (2.5 mg/min),0
+intravascular volume expansion with crystalloids,0
+midazolam administration,0
+remifentanil administration,0
+vecuronium administration,0
+gastric lavage,0
+arterial blood gas: pH 6.96,0
+arterial blood gas: PCO2 98 mmHg,0
+arterial blood gas: PO2 85 mmHg,0
+arterial blood gas: HCO3- 19 mEq/L,0
+arterial blood gas: BE -14.8,0
+blood ethanol 144 mg/dl,0
+albumin 4.4 g/dl,0
+glucose 359 mg/dl,0
+HbA1c 11.4%,0
+total CO2 16.9 mEq/L,0
+normal bilirubin,0
+normal aminotransferases,0
+normal electrolytes,0
+normal troponin I,0
+normal coagulation studies,0
+"leukocytosis 17,400 cells/mm3",0
+hemoglobin 15.4 g/dl,0
+hematocrit 46%,0
+"platelets 266,000/mm3",0
+repeated ABG: pH 7.09,0
+repeated ABG: PCO2 29 mmHg,0
+repeated ABG: PO2 66 mmHg,0
+repeated ABG: HCO3- 20 mEq/L,0
+repeated ABG: BE -11.3,0
+lactate 7.8 mEq/L,0
+urine output 200-600 mL/hour,0
+serum cholinesterase 12 units/L,0
+transfer to ICU,0
+negative hepatitis A/B/C,0
+negative HIV,0
+free T4 3.84 mcg/L,0
+ABG: pH 7.23,0
+ABG: PCO2 59 mmHg,0
+ABG: PO2 78 mmHg,0
+ABG: HCO3- 24 mEq/L,0
+lactate 1.7 mEq/L,0
+blood cultures negative,0
+vecuronium discontinued,48 (hospital day 2)
+epinephrine tapered off,48
+norepinephrine reduced to 0.15 mcg/kg/min,48
+vasopressin reduced to 0.15 units/min,48
+dobutamine reduced to 20 mcg/kg/min,48
+resolution of metabolic acidosis,48
+urine output 300 mL/h,48
+atropine discontinued,96 (hospital day 4)
+glycopyrrolate as needed,96
+urine output 100 mL/h,96
+normal chest radiography,96
+Klebsiella pneumoniae in sputum,96
+piperacillin/tazobactam started,96
+unable to reduce vasopressors/inotropes,120 (hospital day 5)
+interleukin-6 335 pg/ml,120
+procalcitonin 92 ng/ml,120
+continued sedation (remifentanil/midazolam),120
+warm/pink extremities,120
+lactate 1.3 mEq/L,144 (hospital day 6)
+fibrinogen 966 mg/dl,144
+d-dimer 6.53 mg/L,144
+negative DVT/PE studies,144
+total parenteral nutrition started,144
+enteral feeding withheld,144
+midazolam discontinued,216 (hospital day 9)
+gradual reduction of vasopressors,216
+vasoactive medications discontinued,264 (hospital day 11)
+opens eyes on command,264
+ketamine added,264
+ulnar nerve stimulation: depolarizing block,336 (hospital day 14)
+MRSA in sputum,336
+vancomycin started,336
+ABG pH 7.29,408 (hospital day 17 afternoon)
+ABG PCO2 56 mmHg,408
+"leukocytes 17,750/mm3",408
+"platelets 765,000/mm3",408
+abdominal ultrasound: ascites,408
+CT abdomen: small bowel perforations,408
+pulmonary artery catheter insertion,408
+pulmonary artery pressure 36/18 mmHg,408
+PCWP 12 mmHg,408
+exploratory laparotomy,408
+small bowel gangrene,408
+small bowel resection,408
+peritoneum closed,408
+postoperative vasopressors,408
+vasopressors tapered,420 (hospital day 18 morning)
+urine output 100-300 mL/h,420
+ABG pH 7.44,420
+ABG PCO2 44 mmHg,420
+ABG PO2 83 mmHg,420
+HCO3- 29.2 mEq/L,420
+lactate 1.8 mEq/L,420
+creatinine 1.15 mg/dl,420
+"leukocytes 17,690/mm3",420
+"platelets 352,000/mm3",420
+fibrinogen 305 mg/dl,420
+glycopyrrolate discontinued,480 (hospital day 20)
+negative peritoneal/blood cultures,480
+procalcitonin 5.03 ng/dl,480
+interleukin-6 92.2 pg/dl,480
+CRP 16.32,480
+fibrinogen 432 mg/dl,480
+"platelets 230,000/mm3",480
+repeated depolarizing block,480
+aspergillosis in surgical specimen,480
+negative galactomannan,480
+voriconazole started,480
+MRSA in peritoneal drain,648 (hospital day 27)
+negative blood culture,648
+second laparotomy: peritonitis,744 (hospital day 31)
+gangrenous colon,744
+abscess with perforations,744
+total colectomy,744
+postoperative septic shock,744
+escalating vasopressors/inotropes,744
+volume expansion guided by PAC,744
+cardiac output 10-12 L/min,744
+severe metabolic acidosis,744
+lactate 10.7 mEq/L,912 (hospital day 38)
+positive galactomannan (5.42 index),912
+cardiac arrest,912
+unsuccessful CPR,912
+death,912

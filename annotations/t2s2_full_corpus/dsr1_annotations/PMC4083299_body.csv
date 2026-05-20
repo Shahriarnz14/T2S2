@@ -1,0 +1,74 @@
+event,time
+47 years old,0
+male,0
+HCV-related cirrhosis,-2160
+hepatocarcinoma,-2160
+spontaneous bacterial peritonitis,-2160
+partial portal vein thrombosis,-2160
+hospitalized,-2160
+liver transplantation,-2160
+duct-to-duct biliary anastomosis,-2160
+antimicrobial prophylaxis,-2160
+stopped antimicrobial prophylaxis,-2160
+no antifungal prophylaxis,-2160
+discharged,-432
+tacrolimus,-432
+mycofenolate mofetil,-432
+prednisone,-432
+readmitted,0
+fever,0
+malaise,0
+moderate hepatic dysfunction,0
+magnetic resonance cholangiography,0
+biliary leak,0
+bilioma,0
+ascites,0
+blood cultures,0
+empirical treatment with vancomycin,0
+empirical treatment with piperacillin/tazobactam,0
+empirical treatment with fluconazole,0
+bilioma drained percutaneously,0
+bile sample sent for microbiological tests,0
+clinical conditions worsened,72
+admitted to ICU,72
+septic shock,72
+mechanical ventilation,72
+inotropic support therapy,72
+blood cultures,72
+tracheal aspirate,72
+vancomycin stopped,72
+piperacillin/tazobactam stopped,72
+linezolid started,72
+meropenem started,72
+increased tacrolimus serum trough-levels,72
+tacrolimus withdrawal,72
+fluconazole stopped,72
+anidulafungin started,72
+chest x-ray,72
+bilateral pneumonia,72
+surgical drainage of hepato-biliary ducts,72
+C. norvegensis,0
+Enterococcus faecalis,0
+blood cultures positive,0
+bile specimens positive,0
+MIC fluconazole 8 µg/mL,0
+MIC voriconazole 0.25 µg/mL,0
+ESBL-producing Klebsiella pneumoniae,144
+bronchoaspirate culture,144
+bile culture,144
+clinical conditions improved,144
+resolution of fever,144
+hemodynamic stability,144
+weaning from MV,144
+blood cultures negative,120
+bile cultures negative for C. norvegensis,168
+trans-esophageal echocardiography negative for infective endocarditis,168
+fundus oculi examination negative for embolisms,168
+linezolid stopped,144
+meropenem continued,144
+anidulafungin continued,144
+bile tract repaired,168
+tacrolimus re-started,168
+plasma trough-levels 8-10 ng/mL,168
+discharged,720
+asymptomatic during follow-up,8760

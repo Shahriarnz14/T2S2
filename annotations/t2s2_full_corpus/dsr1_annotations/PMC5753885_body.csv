@@ -1,0 +1,101 @@
+event,time
+60-year-old,0
+female,0
+history of hypertension,0
+history of chronic obstructive pulmonary disease (COPD),0
+admitted to the hospital,0
+fever,-48
+cough,-48
+dyspnea,-48
+tachypnea (respiratory rate 36 per minute),0
+hypotension (blood pressure 88/56 mmHg),0
+confusion,0
+acute exacerbation of COPD,0
+started on oxygen through nasal cannula,0
+IV fluids,0
+IV azithromycin,0
+IV ceftriaxone,0
+chest x-ray (CXR) showed no consolidations or infiltrates,0
+hypotension worsened (78/49 mmHg),12
+transferred to intensive care unit,12
+IV piperacillin-tazobactam,12
+IV levofloxacin,12
+vasopressors,12
+hydrocortisone,12
+persistent hypotension,72
+persistent fever (38.9°C),72
+"cultures (urine, blood, sputum) showed no growth",72
+hypertriglyceridemia (312 mg/dL),72
+thrombocytopenia (30 K/uL),72
+leukopenia (2.6 K/uL),72
+hyperferritinemia (6872 ng/dL),72
+hypofibrinogenemia (69 mg/dL),72
+normal coagulation profile,72
+normal procalcitonin,72
+negative work-up for connective tissue diseases,72
+negative work-up for viral infections,72
+peripheral blood smear unremarkable,72
+family history of malignancies in first-degree relatives,72
+computerized tomography scan revealed moderate splenomegaly,72
+suspected HLH,72
+elevated soluble CD-25 (1521 U/mL),72
+bone marrow aspirate showed hemophagocytosis,72
+IV methylprednisolone (2 mg/kg/day),72
+improvement in septic shock,144
+negative flow cytometry,168
+negative cytogenetics,168
+switched to HLH-94 protocol (dexamethasone and etoposide),168
+mean arterial pressure maintained above 65 mmHg,240
+no episodes of fever,240
+transferred to medical floor,240
+discharged on dexamethasone and etoposide,240
+60-year-old,0
+female,0
+history of hypertension,0
+history of chronic obstructive pulmonary disease (COPD),0
+admitted to the hospital,0
+fever,-48
+cough,-48
+dyspnea,-48
+tachypnea,0
+hypotension,0
+confusion,0
+acute exacerbation of COPD,0
+oxygen through nasal cannula,0
+IV fluids,0
+IV azithromycin,0
+IV ceftriaxone,0
+chest x-ray no consolidations or infiltrates,0
+hypotension (78/49 mmHg),12
+transferred to intensive care unit,12
+IV piperacillin-tazobactam,12
+IV levofloxacin,12
+vasopressors,12
+hydrocortisone,12
+high vasopressor requirements,72
+persistent fever,72
+cultures no growth,72
+hypertriglyceridemia,72
+thrombocytopenia,72
+leukopenia,72
+hyperferritinemia,72
+hypofibrinogenemia,72
+normal coagulation profile,72
+normal procalcitonin,72
+negative connective tissue disease work-up,72
+negative viral work-up,72
+unremarkable peripheral blood smear,72
+family history of malignancies,72
+moderate splenomegaly,72
+suspected HLH,72
+elevated soluble CD-25,72
+bone marrow hemophagocytosis,72
+IV methylprednisolone,72
+improvement in septic shock,144
+negative flow cytometry,168
+negative cytogenetics,168
+HLH-94 protocol initiated,168
+stabilized mean arterial pressure,240
+afebrile,240
+transferred to medical floor,240
+discharged,240

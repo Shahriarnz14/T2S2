@@ -1,0 +1,69 @@
+event,time
+58 years old,0
+female,0
+hypertension,0
+generalized anxiety disorder,0
+depression,0
+hepatitis C,0
+retroperitoneal leiomyosarcoma,0
+radical resection,0
+segmental duodenectomy,0
+inferior vena cava closure,0
+recurrent disease,0
+nausea,-24
+vomiting,-24
+right upper quadrant abdominal pain,-24
+AIM75/10 chemotherapy,-24
+doxorubicin,-24
+ifosfamide,-24
+mesna,-24
+neutropenic fever,-24
+ifosfamide dose reduction,-24
+acute altered mental status,-24
+thiamine prophylaxis,-24
+confusion,-24
+memory impairment,-24
+inability to follow commands,-24
+incoherent speech,-24
+delirium observation score 10,-24
+thiamine dose increased,-24
+neurological decline,-24
+methylene blue,-24
+paroxetine discontinued,-24
+worsening confusion,-12
+delirium observation score 13,-12
+sinus tachycardia,-12
+hypertension,-12
+diaphoresis,-12
+fever,-12
+combativeness,-12
+hyperreflexia,-12
+ocular clonus,-12
+spontaneous muscular clonus,-12
+facial tremors,-12
+serotonin syndrome concern,-12
+methylene blue discontinued,-12
+ondansetron discontinued,-12
+lorazepam,-12
+metoprolol,-12
+acetaminophen,-12
+hydromorphone,-12
+critical care unit transfer,-12
+intubation,-12
+normal laboratory tests,-12
+sepsis workup unremarkable,-12
+head imaging unremarkable,-12
+IV thiamine continued,-12
+supportive care,-12
+mentation improvement,0
+extubation,144
+normal memory,144
+fluent speech,144
+no uncontrolled movements,144
+discharged,360
+no residual symptoms,360
+follow-up appointment,360
+ifosfamide deemed unsafe,360
+alternative therapies considered,360
+surgical resection,360
+no evidence of disease,360

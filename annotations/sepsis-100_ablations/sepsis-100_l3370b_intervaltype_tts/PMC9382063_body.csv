@@ -1,0 +1,68 @@
+event,time
+3 years old,0
+female,0
+fever,-168
+diarrhea,-168
+abdominal pain,-168
+severe dehydration,-168
+admitted to the hospital,0
+tachypneic,0
+rapid shallow breathing,0
+hypotensive,0
+purpuric eruption,0
+no organomegaly,0
+no lymphadenopathy,0
+pancytopenia,0
+absolute neutropenia,0
+renal impairment,0
+electrolyte imbalance,0
+hyperuricemia,0
+coagulopathy,0
+disseminated intravascular coagulation,0
+high inflammatory markers,0
+gram-negative Bacilli Escherichia coli,0
+intravenous fluid therapy,0
+blood components transfusion,0
+correction of electrolyte disturbance,0
+antibiotic therapy,0
+provisional diagnosis of acute infectious gastroenteritis,0
+sepsis,0
+severe dehydration,0
+acute renal failure,0
+discharged,168
+unexplained irritability,504
+abnormal behavior,504
+hallucinations,504
+failure to recognize parents,504
+cerebral venous sinus thrombosis,504
+thrombosis in both the left sigmoid and the transverse sinuses,504
+low molecular weight heparin,504
+improved,720
+discharged,720
+follow-up appointment,720
+readmitted,1008
+fever,1008
+pallor,1008
+abdominal enlargement,1008
+leukocytosis,1008
+anemia,1008
+thrombocytopenia,1008
+blast cells,1008
+hepatosplenomegaly,1008
+bone marrow examination,1008
+hypercellular bone marrow,1008
+immunophenotyping,1008
+diagnosis of Common ALL,1008
+induction therapy,1008
+consolidation,1344
+thrombophilia mutations panel,1344
+positive factor XIII V34L,1344
+MTHFR A1298C homozygous mutations,1344
+heterozygous positive factor V Leiden mutation,1344
+follow-up MRV,1344
+complete recanalization of the thrombosed sinuses,1344
+no new thrombi,1344
+complete remission,1680
+regular follow-up,1680
+no other thrombotic events,1680
+no leukemia relapses,1680

@@ -1,0 +1,62 @@
+event,time
+66 years old,0
+woman,0
+history of morbid obesity,0
+history of hypertension,0
+history of hyperlipidemia,0
+history of non-insulin dependent diabetes mellitus,0
+history of coronary artery disease,0
+admitted to hospital for sepsis,0
+sepsis secondary to lower extremity ulceration,0
+sepsis secondary to osteomyelitis,0
+contacted family members for assistance,-336
+immobilized in collapsed floor of mobile home,-336
+without access to hydration,-336
+squalid living conditions,-336
+initially refused outside assistance,-336
+requested medical attention,-336
+transported to emergency department,-336
+anxious appearance,0
+temperature 99.8°F,0
+pulse 109 beats per minute,0
+blood pressure 128/60 mmHg,0
+respiratory rate 18 breaths per minute,0
+multiple necrotic ulcers with brown discharge,0
+ulcers located in bilateral lower extremities,0
+left heel ulcer,0
+sacral decubitus ulcer,0
+atrial fibrillation with rapid ventricular response,0
+CT thorax no acute abnormalities,0
+CT abdomen no acute abnormalities,0
+vancomycin administered,0
+piperacillin-tazobactam administered,0
+white cell count 23.6k/mm³,0
+hemoglobin 9.7 g/dL,0
+platelet count 601k/mm³,0
+sodium 128 mEq/L,0
+bicarbonate 18 mEq/L,0
+urea nitrogen 46 mg/dL,0
+creatinine 2.03 mg/dL,0
+lactic acid 2.76 mmol/L,0
+urine culture sent,0
+blood culture sent,0
+orthopedic consult,0
+infectious disease consult,0
+blood culture grew Clostridium sporogenes,24
+urine culture grew Enterococcus spp.,24
+antimicrobials switched to daptomycin,24
+antimicrobials switched to ertapenem,24
+antimicrobials switched to clindamycin,24
+repeat blood cultures negative,120
+clinical gas gangrene documented,24
+severe destruction of subcutaneous tissue,24
+left foot plantar surface affected,24
+right foot parts affected,24
+general surgery consult,24
+recommended left below knee amputation,24
+recommended right foot disarticulation,24
+patient refused amputations,24
+clinical conditions deteriorated,72
+refused all medical management,72
+placed on comfort measures,72
+expired,96

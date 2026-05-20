@@ -1,0 +1,89 @@
+event,time
+19-year-old,0
+male,0
+visited emergency department,0
+pain in nuchal area,-48
+mild occipital headache,-48
+mild sore throat,-72
+headache started,-48
+nuchal pain started,-48
+sore throat started,-72
+fever up to 40°C,-24
+chills,-24
+nuchal rigidity,0
+opposition to passive anteflexion,0
+opposition to rotation of head,0
+limited straight leg raise,0
+afebrile,0
+normal blood pressure,0
+normal heart rate,0
+no neck edema,0
+no neck erythema,0
+no palpable neck mass,0
+"leukocytosis 25,590 cells/mL",0
+"neutrophilia 23,180 cells/mL",0
+CRP 179.88 mg/L,0
+procalcitonin 17.38 ng/mL,0
+CT head unremarkable,0
+chest X-ray no infiltrative changes,0
+no lateralization,0
+no limb paresis,0
+lumbar puncture,0
+CSF pleocytosis 10 mononuclear cells/μL,0
+normal CSF protein,0
+hospitalized at ICU,0
+empiric ceftriaxone,0
+empiric vancomycin,0
+parenteral rehydration,0
+analgesic therapy,0
+headache disappeared,24
+nuchal pain worsened,24
+left neck pain,24
+left neck erythema,24
+left neck tenderness,24
+generalized urticarial exanthema,24
+piperacillin-tazobactam started,24
+clindamycin started,24
+increased neck erythema,48
+increased neck edema,48
+palpable neck mass,48
+CT neck,48
+neck abscess,48
+left internal jugular vein thrombosis,48
+spinal canal hypodense collection,48
+no retropharyngeal pathology,48
+MRI cervical spine,48
+epidural abscess C4-C7,48
+oropharyngeal swab Klebsiella pneumoniae,48
+blood culture Klebsiella pneumoniae,48
+tonsillopharyngitis,48
+cervical abscess,48
+epidural abscess,48
+ceftriaxone continued,48
+clindamycin continued,48
+CRP decline to 125 mg/L,144
+procalcitonin decline to 2.50 ng/L,144
+reduced neck pain,144
+fading erythema,144
+transferred to ENT,168
+surgical drainage,168
+pus culture Klebsiella pneumoniae,168
+negative anaerobic culture,168
+postsurgical recovery,168
+transferred back to ICU,192
+afebrile,192
+minor surgical wound pain,192
+no neck movement limitation,192
+CRP 26.00 mg/L,192
+clindamycin discontinued,192
+piperacillin-tazobactam continued,192
+follow-up CT,504
+abscess regression,504
+partial jugular recanalization,504
+epidural effusion resolved,504
+CRP 13.26 mg/L,504
+switch to moxifloxacin,504
+discharged,504
+asymptomatic at follow-up,672
+CRP <5 mg/L,672
+moxifloxacin discontinued,672

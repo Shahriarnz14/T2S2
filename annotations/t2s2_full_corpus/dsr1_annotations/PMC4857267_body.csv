@@ -1,0 +1,65 @@
+event,time
+40-year-old,0
+Asian,0
+man,0
+parotid cancer,-87600
+metastatic to brain,-87600
+metastatic to lung,-87600
+metastatic to liver,-87600
+metastatic to bone,-87600
+completed several courses of radiation,-87600
+chemotherapy,-87600
+palliative whole brain radiation (XRT),-87600
+presented to the hospital,0
+urinary retention,-3
+ascending paralysis to waist,-3
+MRI revealed large spinal tumor,0
+received emergent XRT to spine,0
+developed rapid upper body weakness,0
+respiratory distress,0
+discussed prognosis,0
+offered palliative supportive measures,0
+offered intubation,0
+cognitively intact,0
+chose electively intubated,0
+without sedation,0
+anticipation of wife’s arrival,0
+wife arrived,24
+neuro-oncology team updated wife,24
+grave prognosis,24
+patient stated “I want to die today”,24
+team restated wishes,24
+"patient replied “I want you to take this tube out, and I want to die today”",24
+wife requested privacy,24
+discussed wishes,24
+absorb gravity of situation,24
+asked about withdrawal of life support,48
+"patient mouthed “I changed my mind, I want to live as long as possible, I want you to do whatever my wife wants”",48
+received feeding tube,72
+received tracheotomy,72
+postoperative course complicated by pneumonia,72
+hypotension,72
+sepsis,72
+requiring intensive care,72
+stated “I want to die”,456
+team advocated to wife,456
+wife believed confused,456
+assessment cognitively intact,456
+stated “I want you to take away the tube and let me die”,504
+family meeting,504
+neuro-oncology team,504
+palliative care specialist,504
+patient’s wife,504
+wife did not agree to extubation,504
+unavailable for 48 h,504
+condition deteriorated,576
+became confused,576
+became agitated,576
+wife asked for meeting,576
+requested withdrawal of life support,576
+transferred to private room,576
+died peacefully,578
+surrounded by wife,578
+family,578
+friends,578
+members of neuro-oncology team,578

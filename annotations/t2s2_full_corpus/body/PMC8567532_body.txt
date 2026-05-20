@@ -1,0 +1,99 @@
+pmc Core Tip: In transplant recipients, visceral disseminated varicella-zoster virus (VZV) infection may develop without skin eruptions, which leads to the failure of early diagnosis and fatal outcome. Early diagnosis and prompt antiviral therapy is the key to successful treatment. Next-generation sequencing is a promising tool for early detection of VZV infection in kidney transplant patients, even if VZV infection is not suspected.
+
+INTRODUCTION
+
+Varicella-zoster virus (VZV), also known as human alphaherpesvirus 3, causes acute varicella (chickenpox) as a primary infection, in which VZV travels to sensory nerve ganglia where it becomes dormant as a potentially pathogenic virus[1]. Years later, VZV can reactivate and cause herpes zoster (shingles) when cell-mediated immunity to VZV wanes with aging or becomes disrupted in a compromised immune state. In solid organ transplant recipients, reactivation of VZV is likely to involve dissemination to multiple visceral organs, which induces hepatitis, pneumonia, encephalitis, and even pancreatitis. Viscerally disseminated VZV infection is life-threatening and early diagnosis is challenging because visceral complications often precede skin eruptions[2]. This case of viscerally disseminated VZV infection in a kidney recipient emphasizes the importance of early diagnosis and prompt treatment.
+
+CASE PRESENTATION
+
+Chief complaints
+
+A 33-year-old renal transplant recipient was referred to our hospital with severe upper abdominal pain of 3-d duration.
+
+History of present illness
+
+Six months previously, the patient underwent parent-to-child kidney transplantation for end-stage renal disease and was then started on immunosuppressive therapy with methylprednisolone, tacrolimus, and mycophenolate mofetil (MMF). Three days before hospital admission, he developed severe acute upper abdominal pain radiating towards his back and was admitted to a local hospital. As abdominal computed tomography (CT) and ultrasonography results were normal, only analgesic treatment was given. However, the patient’s aspartate aminotransferase (AST) and alanine aminotransferase (ALT) increased significantly, and he was referred to our hospital. On admission to the organ transplant center at our hospital, he complained of nausea and upper abdominal pain. Following a diagnosis of acute abdominal pain and liver damage, the patient was prescribed flurbiprofen tapes for pain relief, intravenous magnesium isoglycyrrhizinate against liver damage, and empirical antimicrobial therapy with intravenous cefoperazone sodium and sulbactam sodium. The patient rapidly developed septic shock and multiple organ dysfunction syndrome (commonly known as MODS) with liver dysfunction and acute kidney injury. Two days later, the patient was transferred to our intensive care unit (ICU).
+
+History of past illness
+
+He had a 3-year history of end-stage renal failure.
+
+Personal and family history
+
+He had no other specific diseases or familial medical history.
+
+Physical examination
+
+On admission, the patient was lethargic, with a heart rate of 136 beats/min, respiratory rate of 23 breaths/min, blood pressure of 83/42 mmHg, and body temperature of 36.8 °C. Abdominal examination revealed tenderness in the upper quadrants but no muscle guarding or rebound tenderness.
+
+Laboratory examinations
+
+Laboratory test results revealed high levels of ALT (4814 U/L), AST (8574 U/L), alkaline phosphatase (251 U/L), and gamma-glutamyltransferase (165 U/L), high concentrations of C-reactive protein (53.1 mg/L), procalcitonin (0.33 ng/mL), and creatinine (203 μmol/L), prolonged activated partial thromboplastin time and thrombin time (to about twice normal), and low fibrinogen (0.92 g/L). Serological tests for hepatitis A, B, and C viruses, human immunodeficiency virus, and treponema pallidum were all negative, except for hepatitis B surface and core antibodies. Immunoglobulin (Ig) M antibodies against toxoplasma, rubella virus, cytomegalovirus, and herpes simplex virus 2 were all absent. Blood culture and polymerase chain reaction (PCR) of Epstein-Barr virus DNA were negative.
+
+Imaging examinations
+
+Abdominal ultrasonography revealed a normal pancreas, spleen, and gallbladder. The common bile duct was without stones and had a normal diameter. Ascites or abnormal fluid collection were not seen, and there were no focal liver lesions. Abdominal and pelvic CT revealed no notable abnormalities or evidence of intestinal obstruction, perforation, or mesenteric artery thrombosis. Chest X-ray and electrocardiogram were both normal.
+
+Further diagnostic workup
+
+Separate samples of peripheral blood were collected for next-generation sequencing (NGS), real-time PCR, and IgG assays. The patient was VZV IgG-negative. NGS found 39224 reads mapped on the VZV genome sequence that covered 99.8% of the total VZV genome and accounted for 99.95% of the total viral reads (Figure 1). Real-time PCR for VZV was positive, with 1.2 × 107 copies/mL.
+
+Figure 1 Next-generation sequencing of peripheral blood showed 39,224 reads mapped on the varicella-zoster virus genome sequence. A: Accounting for 99.95% of the total viral reads; B: Covering 99.8% of the varicella-zoster virus genome.
+
+FINAL DIAGNOSIS
+
+The patient’s primary complaint, symptoms, and physical examination, NGS, and real-time PCR results supported a final diagnosis of visceral disseminated VZV infection, septic shock, and MODS with liver dysfunction and acute kidney injury.
+
+TREATMENT
+
+On admission, we considered the possibility of visceral disseminated VZV infection because of acute upper abdominal pain and rapidly evolving MODS after renal transplantation. We promptly initiated antiviral therapy with intravenous acyclovir (750 mg q8 h) combined with intravenous meropenem, linezolid, and caspofungin as empirical antibiotic treatment. Noradrenaline and terlipressin were given to maintain blood pressure, and intravenous sodium bicarbonate was given to correct metabolic acidosis. After the diagnosis of visceral disseminated VZV infection was confirmed, acyclovir treatment and supportive treatment were continued.
+
+OUTCOME AND FOLLOW-UP
+
+Unfortunately, the patient’s condition deteriorated quickly, with acute liver failure, disseminated intravascular coagulation, acute respiratory failure, and acute renal injury. He died 16 h after ICU admission. An autopsy was not performed.
+
+DISCUSSION
+
+VZV is the second most common viral pathogen after cytomegalovirus in renal transplant recipients during the first year after transplantation[3]. Intensive immunosuppression regimens make renal transplant recipients more susceptible to viral infection. MMF, a frequently used immunosuppressive drug, is associated with an increased risk of VZV infection in kidney transplant recipients[4]. Primary VZV infection presents as varicella; shingles is caused by reactivation of latent VZV infection. Either primary infection or reactivation from latency can progress to visceral dissemination in kidney recipients, which causes severe complications[2]. A review of studies reporting a total of 56 kidney transplant recipients with disseminated VZV infection found that 33 (59%) had visceral dissemination that caused hepatitis in 31%, pneumonitis in 29%, neurological complications in 12%, and pancreatitis in 4% of those patients[5]. In this case, methylprednisolone use for 6 mo after renal transplantation may have increased the risk of VZV infection.
+
+Several cases of visceral disseminated VZV infection in renal transplant recipients have been reported. A recent case occurred in a 66-year-old patient in Australia who initially presented with chest and abdominal pain and then simultaneously developed hepatitis and pancreatitis. He was diagnosed with visceral disseminated VZV and received intravenous acyclovir (10 mg/kg twice daily) only after developing a widespread vesicular rash 11 d following the onset of chest and back pain. Despite supportive care and antiviral therapy, the patient died after 6 d in the ICU[6]. Another case involved a renal transplant recipient in India who presented after 7 d of severe epigastric pain and 4 d of multiple vesiculopapular rashes over the entire body. The typical varicella rash plus increased serum lipase and liver enzyme levels led to a diagnosis of visceral disseminated VZV infection complicated by hepatitis and pancreatitis. Intravenous acyclovir was started on hospital admission. After 48 h, the patient’s pain was relieved and the liver enzymes returned to normal levels[7]. A report published in 2002 included 4 renal transplant recipients with visceral disseminated VZV infection[8]. One patient presented with acute epigastric pain, nausea, vomiting, and generalized pustulosis on admission. He was diagnosed by identification of VZV DNA in the pustule content, and the case was complicated with hepatitis, pneumonitis, and pancreatitis. He recovered fully after acyclovir therapy for 13 d. Patient two presented with acute epigastric pain, elevated liver enzymes and pancreatic amylase, and activated coagulation. One day after admission, he developed a vesicular rash of the skin and buccal mucosa. Visceral disseminated VZV infection was diagnosed after detecting VZV DNA in the vesicular fluid. He recovered after 8 d of acyclovir therapy. Patient three was admitted with progressive dyspnea, and a bilateral vesicular rash and rackless partially covering the chest. The chest radiograph showed bilateral interstitial infiltration. Bronchoalveolar lavage fluid was positive for cytomegalovirus early antigen and VZV antigen. The diagnosis was VZV and cytomegalovirus pneumonitis. The patient recovered after 26 d of ganciclovir. Patient four was admitted with disseminated multifocal itching vesicles over the entire body, and diffuse pain, swelling, and redness on the right side of the face. Skin swabs of the excoriations around the nose were positive for Staphylococcus aureus and the vesicles were positive for VZV DNA by PCR. The diagnosis was phlegmonous bacterial infection of the face and visceral disseminated VZV infection complicated by hepatitis. The patient was only given antibiotics and recovered after 10 d.
+
+The clinical characteristics of six previously reported cases and our case of renal transplant recipients with visceral disseminated VZV infection included initial symptoms of intense abdominal pain and widespread vesicular rash, with rapidly evolving visceral organ damage including hepatitis, pneumonitis, and pancreatitis. Early diagnosis and prompt acyclovir treatment were key for improving the prognosis of those patients. In contrast to survivors, patients who did not survive presented initially with abdominal pain in the absence of typical skin rashes, which led to the failure of a prompt diagnosis of VZV infection and the lack of prompt antiviral treatment. The importance of early diagnosis and prompt treatment is highlighted by a review of the outcomes of 38 patients with hematological or rheumatic disorders complicated by visceral VZV infections. In those patients, the mean interval between the onset of symptoms and initiation of antiviral therapy was 5.3 d in survivors and 8.5 d in nonsurvivors[9]. The difference in survival was not tested for significance but did indicate that the failure of prompt diagnosis and early antiviral therapy in patients with disseminated VZV infection and delayed or absent skin lesions resulted in a poor prognosis.
+
+Early diagnosis is the key to prompt treatment and a good prognosis of visceral disseminated VZV infection, especially for cases with delayed or absent skin lesions. Real-time PCR and direct immunofluorescence can detect VZV DNA and VZV antigens in serum and tissues. Serological testing can identify anti-VZV IgM/IgG. PCR is a rapid, highly specific, and sensitive laboratory test for detecting VZV DNA in serum, vesicle fluid, spinal fluid, skin vesicles, and other tissues. Direct immunofluorescence can detect VZV antigens in vesicles, and despite being less sensitive than PCR, it is an alternative to diagnose VZV infection. Serologic testing of serum is accurate, but false negative results may result in immunocompromised patients because of the time it takes to develop antibodies[1]. When VZV infection is suspected, doctors will order PCR and direct fluorescent assays specific for VZV. However, for disseminated VZV infection that begins without skin manifestations, doctors generally ignore the possibility of VZV infection, making early diagnosis difficult. NGS has recently emerged as a commercially available method for diagnosing infectious diseases. NGS is independent of specific primers to pre-amplify target sequences and provides an all-in-one diagnostic test. Massive parallel sequencing that occurs during NGS can rapidly and sensitively sequence millions of small DNA fragments present in a very heterogeneous mixture. These advantages make NGS an ideal tool to detect uncommon viruses[10,11]. In our case, we suspected VZV infection and performed NGS on admission to the ICU, and the result confirmed a diagnosis of visceral disseminated VZV infection within 24 h. It can be inferred that if NGS were conducted at the onset of acute abdominal pain, an early diagnosis of disseminated VZV infection would have been achieved, even if it was not suspected.
+
+CONCLUSION
+
+The case described herein indicates that visceral disseminated VZV infection should be considered if a renal transplant recipient initially presents with acute abdominal pain and rapidly develops visceral organ damage, even without skin rashes. Prompt acyclovir treatment is the key to achieving a good prognosis. NGS facilitates early, accurate diagnosis.
+
+Informed consent statement: Written informed consent was obtained from the patient’s father for the publication of this case report.
+
+Conflict-of-interest statement: The authors have no conflicts of interest to declare.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Manuscript source: Unsolicited manuscript
+
+Peer-review started: April 20, 2021
+
+First decision: July 15, 2021
+
+Article in press: September 14, 2021
+
+Specialty type: Medicine, research and experimental
+
+Country/Territory of origin: China
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): B
+
+Grade C (Good): 0
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Salvadori M S-Editor: Gao CC L-Editor: A P-Editor: Yuan YY

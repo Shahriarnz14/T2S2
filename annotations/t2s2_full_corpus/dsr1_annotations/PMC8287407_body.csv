@@ -1,0 +1,58 @@
+event,time
+59 years old,0\
+female,0\
+hypertension,0\
+diabetes,0\
+admitted to the hospital,0\
+fever,-120\
+cough,-120\
+nasal obstruction,-120\
+diarrhea,-120\
+denied dyspnea,0\
+denied chest pain,0\
+axillary temperature 38.5°C,0\
+blood pressure 170/102 mmHg,0\
+respiratory rate 20 breaths per minute,0\
+oxygen saturation 93%,0\
+breathing ambient air,0\
+leukocytes 9260 per microliter,0\
+D-dimer 2404 ng/mL,0\
+fibrinogen 954 mg/dL,0\
+positive SARS-CoV-2,0\
+chest CT: ground-glass opacities,0\
+ceftriaxone,0\
+azithromycin,0\
+oseltamivir,0\
+prophylactic low molecular weight heparin,0\
+supplemental oxygen 2 L/min,0\
+ROTEM hypercoagulability pattern,0\
+tachypnea,24\
+dyspnea at rest,24\
+oxygen saturation decreased to 88%,24\
+intubation,24\
+mechanical ventilation,24\
+fibrinogen 729 mg/dL,24\
+IL-6 149,24\
+antithrombin III 107%,24\
+D-dimer 40130 ng/mL,24\
+pulmonary thromboembolism suspected,24\
+low molecular weight heparin 1 mg/kg twice daily,24\
+CT angiography: acute pulmonary thromboembolism,24\
+extubated,168\
+pain in right lower limb,216\
+right second toe turned blue,216\
+no palpable pulses right lower limb,216\
+femoral arterial line removed,216\
+anticoagulation maintained,216\
+venous Doppler negative for DVT,216\
+transthoracic echocardiogram: mild tricuspid regurgitation,216\
+arteriography: stenosis posterior tibial artery,216\
+angioplasty right lower limb,216\
+palpable anterior and posterior tibial pulses,216\
+persistent second toe pain,216\
+amputation right second toe,216\
+discharged from hospital,264\
+apixaban 5 mg twice daily,264\
+amputation stump in great condition,504\
+denying new complaints,504\
+no respiratory symptoms,504

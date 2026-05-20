@@ -1,0 +1,82 @@
+event,time
+78 years old,0
+male,0
+admitted to the hospital,0
+malaise,-24
+gait unsteadiness,-24
+left arm weakness,-24
+fever,-24
+vomiting,-24
+headache,-24
+hypertension,0
+no prior ophthalmic records,0
+lethargic,0
+opening eyes to voice,0
+reactive pupils,0
+full extraocular movements,0
+intact corneal reflexes,0
+computed tomography of brain unremarkable,0
+blood cultures unremarkable,0
+loss of oculocephalic movements,24
+small pupils,24
+intact corneal reflexes,24
+no ophthalmology consult,24
+severe lethargy,48
+left hemiplegia,48
+right gaze preference,48
+poor gag reflex,48
+intubated,48
+admitted to Intensive Care Unit,48
+computed tomography of brain showed infarction,48
+neutrophilic pleocytosis,48
+negative CSF cultures,48
+negative blood cultures,48
+treated with ceftriaxone,48
+treated with ampicillin,48
+treated with doxycycline,48
+treated with acyclovir,48
+periodic lateralized epileptiform discharges,48
+loaded with Dilantin,48
+progressive decline in consciousness,72
+progressive neurologic impairment,72
+loss of all brainstem reflexes,72
+left-sided pneumothorax,72
+gastrointestinal hemorrhage,72
+bilateral pulmonary edema,72
+recurrent fevers,72
+septic shock,72
+MRI showed meningoencephalitis,48
+negative India ink examination,48
+negative fungal culture,48
+serological studies positive for EEE IgM,120
+negative EEE IgG,120
+negative St. Louis encephalitis antibodies,120
+negative LaCrosse virus antibodies,120
+expired,168
+respiratory failure,168
+cerebellar tonsillar herniation,168
+cortical petechial hemorrhages,168
+caudate nuclei hemorrhages,168
+pontine hemorrhages,168
+watershed infarcts,168
+perivascular lymphohistiocytic cuffing,168
+microglial nodules,168
+acute infarcts in basal ganglia,168
+acute infarcts in pons,168
+hippocampal infarction,168
+cerebellar myelin pallor,168
+Purkinje cell dropout,168
+no spinal cord lesion,168
+no viral inclusions,168
+retinal hemorrhages,168
+decreased ganglion cells,168
+retinal microcysts,168
+T lymphocytes in retina,168
+T lymphocytes in optic nerve,168
+CD68-positive cells in retina,168
+CD68-positive cells in optic nerve,168
+coronary artery disease,168
+acute bronchitis,168
+bronchiolitis,168
+fibrin microthrombi,168
+no generalized lymphohistiocytosis,168

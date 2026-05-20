@@ -1,0 +1,93 @@
+event,time
+25-year-old mother,0
+hypothyroidism,-24
+meconium-stained amniotic fluid,0
+fetal heart rate normal,0
+amniotic fluid level normal,0
+non-stress test normal,0
+mother's vital signs normal,0
+no COVID-19 screening,0
+mother no COVID-19 signs or symptoms,0
+baby boy born,0
+term (39w + 4d),0
+Apgar score 9 (1st minute),0
+birth weight normal,0
+head circumference normal,0
+length normal,0
+respiratory distress (2 minutes after birth),0.033
+cyanosis (2 minutes after birth),0.033
+Apgar score 6 (5th minute),0.083
+oxygen saturation (SpO2) 60%,0.033
+nasal continuous positive airway pressure (NCPAP),0.033
+transferred to NICU,0.083
+SpO2 dropped again,0.083
+tachypnea,0.083
+mild intercostal retraction,0.083
+moderate subcostal retraction,0.083
+nasal flaring,0.083
+grunting,0.083
+full symmetrical pulses,0.083
+temperature 37.1°C,0.083
+respiratory rate 70 breaths/min,0.083
+heart rate 152 bpm,0.083
+blood pressure 69/42 mmHg,0.083
+SpO2 60–65%,0.083
+decreased sucking reflex,0.083
+normal grasp reflex,0.083
+normal Moro reflex,0.083
+FIO2 increased to 0.6,0.083
+NCPAP failure,0.083
+noninvasive intermittent positive-pressure ventilation (NIPPV),0.083
+endotracheal suctioning,0.083
+intubation,0.083
+symmetrical respiratory sounds,0.083
+SpO2 65%,0.083
+ventilator support increased,0.083
+sepsis workup,0.083
+chest radiograph (CXR) diffuse patchy granular infiltrates,0.083
+venous blood gas (VBG) respiratory acidosis,0.083
+surfactant (Beraksurf ®) administered,0.083
+SpO2 decreased further,0.083
+pulmonary hypertension (PH) suspected,0.083
+milrinone administration,0.083
+dopamine administration,0.083
+sildenafil administration,0.083
+dobutamine administration,0.083
+captopril administration,0.083
+echocardiographic evaluation severe PH,0.083
+COVID-19 RT-PCR performed (endotracheal aspirate),4
+VBG worsened (2 hours after surfactant),2.083
+PIP increased,2.083
+PEEP reduced,2.083
+second dose surfactant administered,10.083
+SpO2 increased,12.083
+VBG improved,12.083
+SpO2 90% (24th hour),24
+ventilator support high,24
+COVID-19 RT-PCR positive,24
+remdesivir initiated,24
+IVIG initiated,24
+methylprednisolone initiated,24
+liver function tests monitored,24
+kidney function tests monitored,24
+ferritin level requested,24
+inotropes tapered (day 4),96
+fentanyl reduced (day 4),96
+ventilatory support decreased (48 hours after treatment),72
+extubation successful,72
+NIPPV initiated,72
+inotropes ceased (day 5),120
+CXR improvement,120
+COVID-19 PCR negative (day 5),120
+methylprednisolone tapered (day 7),168
+methylprednisolone discontinued (day 14),336
+SpO2 drops (day 7),168
+tachypnea 65–70 breaths/min,168
+oxygen dependency (day 7),168
+nebulized magnesium sulfate 2% initiated,168
+SpO2 drops stopped (48 hours after magnesium),216
+tachypnea improved,216
+magnesium sulfate discontinued,312
+discharged,312
+mother COVID-19 RT-PCR positive,48
+mother asymptomatic,48

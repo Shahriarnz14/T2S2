@@ -1,0 +1,134 @@
+event,time
+12-year-old,0
+female,0
+admitted to the intensive care unit,0
+two weeks history of fever,-336
+multiple asymmetrical joint swelling,-336
+joint pain,-336
+admission temperature 39.6°C,0
+heart rate 130 beats/min,0
+arterial blood pressure 127/57 mmHg,0
+respiratory rate 35 breaths/min,0
+oxygen saturation 93% on air,0
+hair lice,0
+multiple scratch marks on scalp,0
+bilateral pleural effusion,0
+ejection systolic murmur grade 2/6 over aortic area,0
+tender hepatomegaly (3 cm below costal margin),0
+liver span 10 cm,0
+right middle finger swelling,0
+right middle finger redness,0
+right middle finger tenderness,0
+right hip swelling,0
+right hip redness,0
+right hip tenderness,0
+both knees swelling,0
+both knees redness,0
+both knees tenderness,0
+both ankles swelling,0
+both ankles redness,0
+both ankles tenderness,0
+white blood cell count 6000 cells/mm3,0
+lymphocytes 0.9×10⁹ cells/l,0
+granulocytes 4.5×10⁹ cells/l,0
+monocytes 0.2×10⁹ cells/l,0
+reticulocytes 28×10⁹ cells/l,0
+"platelets 156,000 cells/mm3",0
+hemoglobin 107 g/l,0
+serum sodium 125 mmol/l,0
+serum potassium 4.8 mmol/l,0
+serum glucose 4.3 mmol/l,0
+serum urea 20.7 mmol/l,0
+serum creatinine 90 mmol/l,0
+lactate dehydrogenase 1427 IU/L,0
+aspartate aminotransferase 408 IU/L,0
+alanine transaminase 307 IU/L,0
+alkaline phosphatase 184 IU/L,0
+albumin 19 g/l,0
+gamma-glutamate transferase 110 IU/L,0
+creatine kinase 142 IU/L,0
+total bilirubin 145 mmol/l,0
+serum osmolality 289 mOsm/kg,0
+urine osmolality 647 mOsm/kg,0
+international normalized ratio 1.2,0
+prothrombin time 14 (control 12),0
+activated partial thromboplastin time 36 (control 34),0
+sickle cell disease negative,0
+hepatitis A negative,0
+hepatitis C negative,0
+human immunodeficiency virus negative,0
+anti-hepatitis B surface antigen antibodies positive,0
+chest X-ray bilateral pleural effusion (right > left),0
+chest X-ray widened mediastinum,0
+chest X-ray pear-shaped heart suggestive of pericardial effusion,0
+electrocardiogram sinus tachycardia,0
+electrocardiogram diffuse ST-segment elevation,0
+electrocardiogram generalized T-wave inversion,0
+transthoracic echocardiogram moderate pericardial effusion,0
+transthoracic echocardiogram no endocarditis,0
+transthoracic echocardiogram no valvular heart disease,0
+blood cultures obtained,0
+sputum cultures obtained,0
+urine cultures obtained,0
+started on ceftazidime 1.3 g IV every 8 hours,0
+started on flucloxacillin 1.2 g IV every 6 hours,0
+right chest tube thoracostomy inserted,0
+right chest tube placed to underwater seal,0
+800 ml serous fluid drained,0
+no air leak initially,0
+pleural fluid LDH 5 IU/L,0
+pleural fluid albumin 19 g/L,0
+pleural fluid pH 7.37,0
+gram-positive cocci in clusters on pleural fluid Gram stain,0
+hair shaved,0
+started on anti-lice shampoo,0
+sputum microscopy negative for acid-fast bacilli,0
+mycobacterium tuberculosis culture sample sent,0
+mycobacterium tuberculosis PCR test sample sent,0
+became tachypneic (RR 40 breaths/min),24
+became hypotensive (BP 90/40 mmHg),24
+trachea intubated,24
+mechanical ventilation initiated,24
+antibiotics changed to meropenem,24
+started on dopamine infusion,24
+started on norepinephrine infusion,24
+air leak from right chest tube,24
+SpO2 > 95% on FiO2 0.4,24
+echocardiography-guided pericardiocentesis performed,24
+500 ml pus aspirated,24
+pig-tail catheter inserted into pericardium,24
+pericardial fluid proteins 42 g/l,24
+pericardial fluid albumin 27 g/l,24
+pericardial fluid Gram-positive cocci in clusters,24
+chest X-ray right minimal hydropneumothorax,24
+ultrasound abdomen perinephric collections,24
+ultrasound abdomen subhepatic collections,24
+ultrasound abdomen free fluid in abdomen and pelvis,24
+methicillin-sensitive Staphylococcus aureus cultured from sputum,24
+methicillin-sensitive Staphylococcus aureus cultured from blood,24
+methicillin-sensitive Staphylococcus aureus cultured from pleural fluid,24
+methicillin-sensitive Staphylococcus aureus cultured from pericardial aspirate,24
+urine cultures negative,24
+rheumatoid factor 48.8 IU/L,24
+cytomegalovirus IgM negative,24
+"cytomegalovirus IgG titer 1/21,000 IU/L",24
+air leak through pericardial pig-tail catheter,96
+air leak marked during mechanical inspiration,96
+broncho-pericardial fistula suspected,96
+broncho-pleuropericardial fistula suspected,96
+pig-tail catheter inadvertently clamped,96
+BP decreased to 80/50 mmHg,96
+HR increased to 120 beats/min,96
+BP returned to baseline after de-clamping,96
+HR returned to baseline after de-clamping,96
+computed tomography chest pneumopericardium,96
+computed tomography chest hydropneumothorax,96
+contrast injected into pericardial pig-tail catheter,96
+contrast spilled into right pleural cavity,96
+CT fistulogram confirmed pleuro-pericardial fistula,96
+cardiothoracic surgeon recommended conservative management,96
+abdominal collections aspirated laparoscopically,120
+developed disseminated intravascular coagulation,264
+bleeding from everywhere,264
+died of multi-organ failure,312
+parents refused autopsy,312

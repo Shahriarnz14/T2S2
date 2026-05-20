@@ -1,0 +1,55 @@
+event,time
+56 years old,0
+female,0
+abnormal vaginal discharge,-336
+visited gynecologist,-336
+vaginal culture,-336
+cervical cytology,-336
+endometrial cytology,-336
+fever 40°C,-24
+lower abdominal pain,-24
+taken to emergency room (ER),0
+blood pressure 71/46 mmHg,0
+marked tenderness from right upper quadrant to lower abdomen,0
+fluid resuscitation therapy (crystalloids 500 mL/h),0
+high procalcitonin (75.49 ng/mL),0
+abdominal CT showed full stomach and small intestine edema,0
+no free air,0
+no massive ascites,0
+severe sepsis,0
+severe pan-peritonitis,0
+exploratory laparotomy performed,+3
+purulent ascites in abdominal cavity,+3
+no gastrointestinal tract injury,+3
+uterus intact,+3
+bilateral ovaries and fallopian tubes red and swollen,+3
+bilateral salpingitis,+3
+peritoneal lavage and drainage,+3
+4000 mL crystalloid administered intraoperatively,+3
+poor blood pressure increase,+3
+small intestine edema worsened,+3
+intubation,+3
+postoperative management,+3
+noradrenaline (NAD) administered,+3
+meropenem 1.5 g/day,+3
+extubated,+48
+NAD tapered,+48
+NAD terminated,+72
+oral intake started,+96
+drainage tube removed,+96
+GAS in vaginal fluid culture,+96
+GAS in ascitic fluid culture,+96
+intravenous antibiotics stopped,+144
+fever 38.1°C,+144
+oral levofloxacin prescribed,+144
+discharged,+240
+no complications,+240
+infection did not recur,+1488
+shock,0
+"elevated WBC (17,600 /μL)",0
+creatinine 1.63 mg/dL,0
+C-reactive protein 3.41 mg/dL,0
+lactate dehydrogenase 200 U/L,0
+no STSS,0
+no organ failure,0
+preserved uterine adnexa,+3

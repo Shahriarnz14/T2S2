@@ -1,0 +1,49 @@
+pmcIntroduction
+
+Brugada syndrome (BS) is a genetic channelopathy syndrome that causes fatal cardiac dysrhythmias and sudden death. Fever, antiarrhythmics, and electrolytes are the unmasking and aggravating factors of BS.[1] There are many reports stating BS that is precipitated by fever.[2] However, few studies have reported that preceding hypercalcemia (HC) and subsequent arrhythmia are related to BS.[3456] Here, we describe a unique case of BS preceded by fever and HC.
+
+Case Presentation
+
+A 46-year-old man weighing 63 kg with ulcerative colitis had malaise, fever, and loss of appetite 3 days before admission. On arrival at the emergency department, his blood pressure was 124/46 mmHg, heart rate was 122 beats per min, SpO2 was 98% in room air, respiratory rate was 16/min, body temperature was 40.2°C, and he was alert. He was lying in bed because of chills and nausea. Suddenly, the patient developed cardiac arrest, and chest compression and tracheal intubation were immediately initiated. Electrocardiogram (ECG) showed ventricular fibrillation (VF). Defibrillation was performed twice, and adrenaline was administered once. After resuscitating the patient, a cardiologist diagnosed the patient with BS because the ECG showed a “coved-type” ST elevation in V1 and V2 [Figure 1, No. 4]. This was improved when the patient's fever subsided with acetaminophen [Figure 1, No. 3]. He also had HC level of 14.8 mg/dL at the same time. After admission to the intensive care unit, he developed hypotension. We suspected septic shock from ulcerative colitis exacerbation because computed tomography (CT) scan showed a high-density area in the descending colon and blood sample data, which showed an increase in the lactate level, white blood cell count, and procalcitonin level. We initiated tazobactam-piperacillin and vasopressors. On day 2 of admission, extubation was performed because the patient was stable. On day 5 of admission, fever reoccurred, and a contrast-enhanced CT scan revealed a round low-density area of his liver in both the arterial and venous phases, which was determined to be a liver abscess. We changed the antibiotics to meropenem and vancomycin and maintained the same for 3 weeks and performed puncture drainage. After the infection was controlled, on day 30 of admission, the cardiologist confirmed a positive pilsicainide test result, and implantation of an implantable cardioverter defibrillator (ICD) was performed. The patient was then discharged. The patient's family history revealed that one of his maternal uncles had experienced sudden death. An endocrinologist examined the causes of HC. It was associated with high parathyroid hormone levels, and on investigation with Tc scintigraphy, abnormal uptake in the anterior mediastinum was observed. After his discharge, tumor resection was performed. Further, ECG and serum calcium level were followed up and treated [ECG is shown in Figure 1, No. 1 and 2]. Pathological diagnosis was determined for an ectopic parathyroid adenoma. In addition, CT and magnetic resonance imaging revealed tumors in the pituitary and adrenal glands. The endocrinologist proved that these were nonfunctional pituitary adenomas and nonfunctional adrenal tumors. The patient was finally presumed to have multiple endocrine neoplasia type 1 (MEN1). Written informed consent was obtained from the patient for the publication of this case report and accompanying images.
+
+Figure 1 A series of electrocardiogram change. (1) Electrocardiogram was taken on October 4, 2021. Serum calcium was 9.7 mg/dL. J point elevation is decreased compared to the electrocardiogram of No. 5. (2) Electrocardiogram was taken on June 28, 2021. Serum calcium was 13.8 mg/dL. (3) Electrocardiogram was taken at 18:05 on March 24, 2021. After administering, acetaminophen showed reduction of coved pattern. Body temperature was 38.9°C. (4) Electrocardiogram was taken at 16:45 on March 24, 2021. After the return of spontaneous circulation, electrocardiogram showed coved-type ST elevation in V1 and V2. This is the type 1 Brugada electrocardiogram pattern. Serum calcium was 14.8 mg/dL, and body temperature was 40.2°C. (5) Electrocardiogram was taken on September 25, 2017, showed J point elevation in I, aVL, V2, V4–V6. This is early repolarization pattern. There were no data on the serum calcium level
+
+Discussion
+
+BS is a rare, fatal genetic arrhythmia without organic disease and is classified into type 1 and 2 according to its characteristic ECG waveform.[1] Patients with prior sudden cardiac arrest (SCA) or a history of syncope are more likely to experience a future arrhythmic event than asymptomatic patients.[7] Fever has been described as a trigger for the Brugada waveform or SCA.[8] Among patients with asymptomatic type 1 BS, the risk of fatal arrhythmic events is 0.5%–0.8%/year in spontaneous pattern, 0%–0.35%/year in drug-induced pattern, and 0.9%/year in fever-induced pattern.[2] Early repolarization is a common ECG finding and characterized by J point elevation ≥0.1 mV in ≥2 continuous inferior and lateral leads displaying either a slurred or notched morphology. Studies have reported that early repolarization increases the risk for SCD.[9] BS with early repolarization has a greater risk for arrhythmic events than BS without early repolarization.[10] In addition, inferolateral early repolarization location confers a higher risk of arrhythmia.
+
+Based on his history of present illness and ECG, we diagnosed the patient with BS and assumed that this was induced by fever. Moreover, there was inferolateral early repolarization [Figure 1, No. 2-5]. These findings suggest that the patient was at high risk for arrhythmic events. Therefore, an ICD was implanted.
+
+Sonoda et al. reported that HC was more likely to cause J point elevation.[5] In this case, J point elevation in No. 1 ECG of normal serum calcium level is decreased compared to No. 2 ECG, which serum calcium level is still high. Although it is difficult to evaluate the extent of HC contribution to the J point elevation, this reduction of J point elevation after serum calcium level had been normalized could indicate that HC caused J point elevation and could be a part of trigger to the induction of arrhythmia. There are some case reports of Brugada-like ECG pattern and VF associated with HC due to hyperparathyroidism,[346] in which ICD was not implanted because hyperparathyroidism was thought to be the main cause. In our case, the patient had both fever and HC before cardiac arrest. The coved-type ST elevation was immediately resolved when the patient's fever improved. It indicates that HC was irrelevant, and fever was probably the only cause of arrhythmia. However, HC is also known to contribute to the induction of arrhythmia. Moreover, as the HC improved, the J point elevation also decreased. From this fact, we cannot deny the involvement of HC in the development of arrhythmia. The cause of HC was determined to be an ectopic parathyroid adenoma, and this patient had a nonfunctional pituitary adenoma with a nonfunctional adrenal tumor. Therefore, he was considered to have MEN1.
+
+Conclusions
+
+BS can present in fatal arrhythmic events as in our case, which can be precipitated by fever. Even though the Brugada pattern improved after the fever had resolved, the J point elevation still persisted until calcium level improved, which indicates HC can be a potential trigger to the induction of VF.
+
+Financial support and sponsorship
+
+None.
+
+Conflicts of interest
+
+None declared.
+
+Data availability statement
+
+None.
+
+Ethical statement
+
+None.
+
+Consent
+
+Written informed consent was obtained from the patient for the publication of this case report and accompanying images.
+
+Declaration of patient consent
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form, the patient has given their consent for his images and other clinical information to be reported in the journal. The patient understand that his names and initials will not be published and due efforts will be made to conceal their identity, but anonymity cannot be guaranteed.
+
+Acknowledgments
+
+I would like to thank the staff at Tsuchiura Kyodo Hospital and Editage (www.editage.com) for English language editing.

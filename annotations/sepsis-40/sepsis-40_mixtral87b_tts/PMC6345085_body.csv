@@ -1,0 +1,76 @@
+event,time
+72 years old, 0
+female , 0
+history of bilateral breast cancers , -5040
+an unusual occipital neck mass , -5040
+formed from a cyst , -5040
+developed after a minor trauma in 1967 , -17504
+started to grow over the past few years , -X
+"would periodically drain, scab over and drain again ", -X
+began to bleed , -X
+a portion of the mass had fallen out and it bled more profusely than it had before , -120
+"developed severe diffuse swelling in her arms, legs and trunk ", -240
+afebrile , 0
+haemodynamically stable , 0
+hypertensive to 170/70 mmHg , 0
+oxygen saturation of 100% on 4-l nasal cannula , 0
+clear lung sounds , 0
+severe upper and lower extremity pitting oedema , 0
+baseball-sized malodorous occipital mass , 0
+soft to touch with thick oozing purulent drainage , 0
+white blood cell count of 8.3*103/μl , 0
+haemoglobin of 4.7 g/dl , 0
+albumin of 2.9 g/dl , 0
+INR of 1.6 , 0
+B-type natriuretic peptide (BNP) level of 666 pg/ml , 0
+mild interstitial oedema on chest X-ray , 0
+severe anaemia , 0
+attributed to recurrent bleeding from the neck mass , 0
+shortness of breath , 0
+primary differential for her anasarca , 0
+nephrotic syndrome , 0
+cirrhosis , 0
+liver metastases from a mass suspicious for malignancy , 0
+CT pan-scan , X
+not able to tolerate it , -24
+transfused three units of packed red blood cells , X
+became febrile to 101.2 °F , X
+tachycardic to 110 bpm , X
+ascribed the fever to a transfusion reaction , X
+order acetaminophen , X
+temperature increased to 102 °F , X+1
+heart rate increased to 120 bpm , X+1
+tachypnoeic to 30 breaths per minute , X+1
+hypertensive to 200/60 mmHg , X+1
+lactate level of 2.7 mEq/l , X+1
+white blood cell count of 24.3*103/μl with 6% band forms , X+1
+blood cultures eventually grew E. coli , X+X hours of culturing
+started on vancomycin and piperacillin–tazobactam , X+1
+creatinine had doubled from 0.72 mg/dl to 1.46 mg/dL , X+1
+INR was now 2.4 , X+1
+platelet count fell from 127*103/μl to 86*103/μl , X+1
+fibrinogen was 224 mg/dl , X+1
+d-dimer level was 4668 ng/ml , X+1
+disseminated intravascular coagulation , X+1
+breathing became increasingly laboured , X+1
+placed on bilevel non-invasive positive pressure ventilation , X+1
+transferred to the medical intensive care unit (MICU) , X+1
+hypotensive to 80/40 mmHg , X+X hours to MICU
+vasopressors were initiated , X+X hours to MICU
+urinalysis drawn upon arrival was notable for pyuria with greater than 180 white blood cells per hpf , X+X hours to MICU
+intubated and sedated , X+X hours to MICU
+pan-CT scan could be performed , X+X hours to MICU
+obstructing left distal ureteric stone measuring up to 1.6 cm with proximal dilation and hydronephrosis , X+X hours to MICU
+taken to the operating room for extraction and stenting , X+X+1 days
+returned to the MICU , X+X+1 days
+weaned from vasopressors , X+X+2 days
+could not be extubated for a day , X+X+2 days
+chest X-ray showed increasing pulmonary oedema , X+X+2 days
+became oliguric with a creatinine elevated to 6.4 mg/dl , X+X+2 days
+urgently dialyzed , X+X+2 days
+ultimately stabilized , X+X+10 days
+transferred back to the general medicine service , X+X+10 days
+discharged from the hospital on day 28 , X+28 days
+required haemodialysis for several months before her kidney function recovered , X+X months
+neck mass was eventually excised , X+X months
+pathology showed a benign haemangioma with infected haematoma and abscess formation , X+X months

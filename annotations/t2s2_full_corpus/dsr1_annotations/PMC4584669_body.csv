@@ -1,0 +1,75 @@
+event,time
+87 years old,0
+man,0
+referred to oncologic center,0
+abnormal prostate-specific antigen (PSA) determination,0
+routine evaluation,0
+abnormal digital rectal examination,0
+firm prostate gland,0
+prostate cancer,-4320
+prostatic biopsy,-4320
+Gleason score 7 (3 + 4) adenocarcinoma,-4320
+radionuclide bone scan,-4320
+abnormal uptake in several ribs,-4320
+bone metastasis,-4320
+hypertension,-4320
+chronic kidney disease,-4320
+estimated creatinine clearance of 20 mL/min,-4320
+amlodipine,-4320
+hydrochlorothiazide,-4320
+no anticoagulants,-4320
+no non-steroidal anti-inflammatory drugs,-4320
+no personal history of abnormal bleeding,-4320
+no familial history of abnormal bleeding,-4320
+no altered blood clotting test at diagnosis,-4320
+surgical castration,-3360
+significant decrease of PSA,-3360
+PSA nadir of 9 ng/dL,-3360
+castration-resistant disease,-2400
+PSA levels rose,-2400
+started bicalutamide,-2400
+transient PSA decline,-2400
+rising PSA within 12 months,-2400
+prednisone 5 mg twice daily,-1440
+PSA stabilization at 20.0 ng/dL,-1440
+gross hematuria,-24
+back pain,-24
+spontaneous skin hematomas,-24
+admitted to emergency department,0
+severe anemia,0
+hemoglobin 4.8 g/dL,0
+red-blood-cell transfusion,0
+prothrombin time (PT) 14.7 seconds,0
+PT 83% activity,0
+active partial thromboplastin time (aPTT) 97.7 seconds,0
+fibrinogen level 406 mg/dL,0
+aPTT not corrected after mixing study,0
+no lupus anticoagulants,0
+normal liver function tests,0
+abnormal bleeding,0
+hypothesis of coagulation factor inhibitor,0
+FVIII < 1%,0
+FVIII inhibitor 864 Bethesda Units,0
+stable PSA level,0
+CT scan,0
+no new metastasis,0
+no cancer progression,0
+iliopsoas hematoma,0
+initiated prednisone 1 mg/kg/day,24
+no improvement in 48 hours,72
+added azathioprine 100 mg daily,72
+hematuria ceased,96
+stable hemoglobin,96
+no new skin hematomas,96
+homeostatic agents not necessary,96
+CT scan showed no hematoma enlargement,168
+back pain improved,168
+asymptomatic,168
+discharged,408
+progressive fall of inhibitor titles,408
+FVIII levels 28%,408
+no other hemorrhage,408
+admitted to ICU,2640
+pneumonia,2640
+septic shock,2640
+died,2640

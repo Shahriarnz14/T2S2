@@ -1,0 +1,169 @@
+event,time
+77-year-old,0
+male,0
+weight: 51 kg,0
+height: 170 cm,0
+history of unstable angina,-70080
+coronary stent insertion,-70080
+treated with Sigmart (nicorandil 5 mg),-70080
+"treated with aspirin (enteric coated tab, 100 mg)",-70080
+treated with Almarl (arotinolol 5 mg),-70080
+treated with Herben (diltiazem 30 mg),-70080
+Aspirin was stopped 7 d before surgery,-194
+no medication was administered on the morning of surgery,-30
+chest X-ray was normal,-30
+Echocardiogram showed a left ventricular ejection fraction of 61%,-30
+grade 2 diastolic dysfunction,-30
+mild aortic regurgitation,-30
+trivial mitral regurgitation,-30
+tricuspid regurgitation,-30
+All hematological parameters were unremarkable,-30
+blood urea nitrogen/creatinine (BUN/Cr) of 11.0/0.8 mg/dL,-30
+low hemoglobin of 11.9 g/dL,-30
+Before surgery SBP 120 mmHg,-30
+Before surgery DBP 70 mmHg,-30
+Before surgery HR 50 beats/min,-30
+Before surgery BT 36.6 °C,-30
+Before surgery SpO2 100%,-30
+initial BP 144/79 mmHg,-28
+initial HR 68 beats/min,-28
+initial SpO2 97%,-28
+"Bupivacaine (0.5%, 10 mg) was injected into the subarachnoid space at T10 for the spinal block",-28
+"Intravenous dexmedetomidine was infused (0.5 μg/kg/min for first 10 min, then at 0.4-0.6 μg/kg/min) for sedation",-28
+A pneumatic thigh tourniquet was applied intraoperatively at an inflation pressure of 300 mmHg for 100 min,-28
+Total anesthesia time was 2 h and 10 min,-28
+"During surgery, 600 mL of crystalloid was administered",-27
+150 mL of urine were collected during surgery,-27
+Estimated blood loss was 90 mL,-27
+intraoperative BP 100-130/50-70 mmHg,-27
+intraoperative HR 45-55 beats/min,-27
+intraoperative SpO2 97%-99%,-27
+BP 97/55 mmHg,-26
+HR 41 beats/min,-26
+SpO2 100%,-26
+After surgery SBP 95 mmHg,-26
+After surgery DBP 58 mmHg,-26
+After surgery HR 48 beats/min,-26
+After surgery BT 35.8 °C,-26
+After surgery SpO2 100%,-26
+Immediately after surgery laboratory results were within the normal range,-26
+derangement in the coagulation panel,-26
+After surgery CK 111 IU/L,-26
+AST 26 U/L,-26
+BUN 10.4 mg/dL,-26
+Cr 0.7 mg/dL,-26
+K 3.5 mEq/L,-26
+Platelet count 91 ×10^3/mL,-26
+PT 12.2 s,-26
+aPTT 28.8 s,-26
+PT INR 1.09,-26
+Fibrinogen 198 mg/dL,-26
+D-dimer 4.14 mg/mL,-26
+FDP 10.2 mg/mL,-26
+About 90 mL of urine were drained,-25
+70 mL of blood were drained,-25
+400 mL of crystalloid was administered,-25
+post-operative pain managed with an intravenous patient-controlled analgesia including 1 mg fentanyl,-26
+"Antibiotics (Refosporen, 1 g and cefazedone sodium 1 g) were injected bid",-26
+6 h after surgery SBP 120 mmHg,-20
+6 h after surgery DBP 70 mmHg,-20
+6 h after surgery HR 61 beats/min,-20
+6 h after surgery BT 36.4 °C,-20
+6 h after surgery SpO2 100%,-20
+12 h after surgery SBP 100 mmHg,-14
+12 h after surgery DBP 60 mmHg,-14
+12 h after surgery HR 75 beats/min,-14
+12 h after surgery BT 36.1 °C,-14
+12 h after surgery SpO2 100%,-14
+severe pain on the right thigh,-14
+overnight shivering,-14
+Tridol Injection (tramadol hydrochloride) was injected for pain control,-14
+urine output 100 mL (0-8 h after operation),-26
+urine output 220 mL (8-16 h after operation),-18
+urine output 250 mL (16-24 h after operation),-10
+19 h after surgery CK 2763 IU/L,-7
+19 h after surgery creatine kinase-myocardial band 13.26 ng/mL,-7
+19 h after surgery AST elevated,-7
+19 h after surgery BUN/Cr elevated,-7
+troponin-I was normal at 0.100 ng/mL,-7
+Prolonged coagulation battery,-7
+thrombocytopenia,-7
+high fibrinogen degradation product,-7
+high D-dimer,-7
+drowsy mental state,-2
+Glasgow coma scale score of 8/15 (M5/V2/E1),-2
+BP 110/70 mmHg,-2
+HR 122 beats/min,-2
+body temperature 37.9 °C,-2
+SpO2 86%-90%,-2
+Electrocardiogram was normal,-2
+"right thigh was stiff and had turned a dark brown, without swelling",-2
+surgical site was unaffected,-2
+distal extremity was unaffected,-2
+Urine collected in a Foley bag was dark colored,-2
+oliguria,-2
+Brain MRI performed,-1
+Mild small vessel disease,-1
+no notable hemorrhage,-1
+no infarction,-1
+Serum myoglobin was 1027 ng/mL,-1
+urine myoglobin was 25.3 ng/mL,-1
+red blood cell count in urine was 100/HPF,-1
+BP dropped to 88/62 mmHg,-1
+norepinephrine (0.5-1 μg/kg/min) was infused,-1
+admitted to the ICU,0
+Arterial line was placed in the left radial artery,0
+central line was secured in the right internal jugular vein,0
+nephrologist was consulted,0
+fluid treatment of 5 L/d was prescribed,0
+"Fluid loading was initiated with normal saline at 400 mL/h for 2 h, then decreased to 250 mL/h",0
+Lasix (furosemide) was administered,0
+sodium bicarbonate was administered,0
+Denogan (propacetamol hydrochloride) was administered,0
+Tourniquet-induced rhabdomyolysis was diagnosed,0
+acute kidney injury (AKIN criteria stage 1),0
+disseminated intravascular coagulation,0
+dialysis was scheduled,1
+urine output 110 mL for the first 3 h,0
+urine output 600 mL for next 4 h,3
+mental status was restored to alert,2
+BP 90-110/60-70 mmHg,2
+HR 104 beats/min,2
+body temperature 36.2 °C,2
+SpO2 98% on room air,2
+body temperature elevated to 38.0 °C,4
+AST 121 U/L,5
+LDH 464 U/L,5
+BUN 20.4 mg/dL,5
+Cr 1.2 mg/dL,5
+K 3.7 mEq/L,5
+Platelet count 44 ×10^3/mL,5
+PT 17.3 s,5
+aPTT 37.9 s,5
+PT INR 1.58,5
+Fibrinogen 361 mg/dL,5
+D-dimer 48.3 mg/mL,5
+FDP 117 mg/mL,5
+pH 7.406,5
+CK 3455 IU/L,7
+AST 128 U/L,7
+LDH 502 U/L,7
+BUN 19.5 mg/dL,7
+Cr 1.4 mg/dL,7
+K 5.3 mEq/L,7
+Platelet count 16 ×10^3/mL,7
+PT 31.7 s,7
+aPTT 120.3 s,7
+PT INR 3.02,7
+Fibrinogen 171 mg/dL,7
+D-dimer 80 mg/mL,7
+FDP 140 mg/mL,7
+pH 7.511,7
+SBP 50 mmHg,7
+DBP 20 mmHg,7
+HR 37 beats/min,7
+SpO2 52%,7
+cardiac arrest,7
+cardiopulmonary resuscitation performed,7
+resuscitation stopped,8
+expired,8

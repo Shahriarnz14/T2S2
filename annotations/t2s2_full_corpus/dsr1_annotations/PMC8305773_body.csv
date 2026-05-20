@@ -1,0 +1,58 @@
+event,time
+13-year-old,0
+girl,0
+admitted,0
+fever,-120
+productive cough,-120
+hemoptysis,-120
+diarrhea,-120
+alert,0
+respiratory distress,0
+tachycardia,0
+chest indrawing,0
+decreased lung sound on right side,0
+lymphopenia,0
+elevated C-reactive protein,0
+elevated procalcitonin,0
+elevated lactate dehydrogenase,0
+chest CT scan,0
+nasopharyngeal swab RT-PCR test,0
+confirmed COVID-19,0
+BiPAP,0
+ICU admission,0
+Atazanavir,0
+interferon beta-1a,0
+signs worsened,24
+arterial oxygen saturation decreased,24
+plasmapheresis (four times in 2 days),24
+fresh-frozen plasma replacement,24
+chest X-ray significant change,72
+general condition improved,72
+arterial oxygen saturation increased to 94%,72
+interferon beta-1a every 48h (three times),72
+tachypnea disappeared,120
+tachycardia disappeared,120
+elevated WBC count,168
+predominance of PMNs,168
+leukocytosis,168
+repeated chest CT scans improvement,168
+transferred from ICU to ward,192
+oxygen therapy changed to nasal cannula,216
+respiratory distress disappeared gradually,216
+supplemental oxygen tapered,216
+discharged,336
+normal oxygen saturation in room air,336
+no fever,336
+no problem at 2-week follow-up,504
+elevated D-Dimer,0
+elevated ferritin,0
+elevated ESR,0
+multisystem inflammatory syndrome (MISC),0
+hydroxychloroquine,0
+ceftriaxone/cefotaxime,0
+vancomycin,0
+ciprofloxacin,0
+abnormal liver function tests,48
+elevated bilirubin,48
+lopinavir/ritonavir discontinued,48
+Atazanavir discontinued,48

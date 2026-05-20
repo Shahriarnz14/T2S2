@@ -1,0 +1,70 @@
+event,time
+60 years old,0
+female,0
+admitted to emergency unit,0
+pain in right lower leg and foot,-48
+paresthesia in right lower leg and foot,-48
+coolness of right lower leg and foot,-48
+cesarean section,N/A (no time relation)
+no previous thromboembolic events,0
+cold toes in right foot,0
+capillary filling >5 seconds,0
+absent distal pulses in both legs,0
+computed tomography angiography of aorta and lower limbs,0
+floating thrombus in abdominal aorta,0
+thromboembolism of entire right deep femoral artery,0
+thromboembolism in distal left deep femoral artery,0
+sustained flow in superficial femoral arteries,0
+occlusion of third segment right popliteal artery,0
+thromboembolus spreading to posterior tibial artery,0
+marginal recanalization,0
+successful surgical thromboembolectomy,0
+LMWH therapy,0
+PPI therapy,0
+analgesic therapy,0
+cefuroxime,0
+transfusions of deplasmatized red blood cells,0
+no fever,0
+no respiratory symptoms,0
+no typical COVID-19 symptoms,0
+positive SARS-CoV-2 PCR test,0
+transferred to COVID-19 center,0
+treated with oral amoxicillin and clavulanic acid,0
+intravenous PPI,0
+subcutaneous LMWH,0
+asymptomatic for SARS-CoV-2,0
+recovery from surgical intervention,0
+homozygous MTHFR C677T mutation,0
+discharged with rivaroxaban 15 mg BID,0
+discharged with PPI QD,0
+admitted to intensive care unit,+2880 (4 months)
+acute liver injury of unknown etiology,+2880
+nausea,+2592 (past month)
+jaundice,+2832 (1 day prior)
+denied hepatotoxic substances except rivaroxaban,+2880
+excluded portal vein thrombosis,+2880
+excluded Budd-Chiari Syndrome,+2880
+excluded viral hepatitis,+2880
+excluded autoimmune liver disease,+2880
+excluded metabolic liver disease,+2880
+excluded biliary tract disease,+2880
+"contrast-enhanced MSCT of thorax, abdomen, pelvis",+2880
+post-COVID-19 lung changes,+2880
+B-mode and color doppler ultrasound of liver,+2880
+normal liver circulation,+2880
+no cirrhosis,+2880
+fulminant liver failure,+2880
+acute hepatocellular injury,+2880
+DILI highly likely,+2880
+negative COVID-19 RT-PCR,+2880
+grade 3 hepatic encephalopathy,+2880
+transfer to National Transplant Center,+2880
+mechanical ventilation,+2880
+liver allocation via Eurotransplant,+2880
+tonic-clonic seizures,+2880
+brain MSCT showing diffuse edema,+2880
+no brain hemorrhage,+2880
+no brain ischemia,+2880
+no neurological response,+2880
+deterioration of general condition,+2880
+death,"+2880 + (days later, but within same admission)"

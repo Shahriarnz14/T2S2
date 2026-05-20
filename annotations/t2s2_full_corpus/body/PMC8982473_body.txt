@@ -1,0 +1,64 @@
+pmcBackground
+
+Hemophagocytic lymphohistiocytosis (HLH) is a life-threatening syndrome of systemic hyper-inflammation. It is caused by an excessive cytokine secretion, secondary to uncontrolled proliferation of lymphocytes and macrophages. The consequences are widespread activation of macrophages, hemophagocytosis, vascular endothelial injury, and subsequent multi-organ failure. HLH is either primary/familial due to genetic mutations or secondary to infections, malignancy, or autoimmune disorders [1,2]. Timely diagnosis using the HLH-2004 criteria and prompt initiation of treatment for HLH are essential for the survival of affected patients. Adults with HLH have poor outcomes even with aggressive treatment [4,5]. Tumor lysis syndrome (TLS) is a well-documented complication of hematologic malignancies treated with cytotoxic chemotherapy. The diagnosis is based on the TLS revised clinical and laboratory criteria [3]. Prevention of TLS rather than treatment improves prognosis.
+
+Case Report
+
+Our patient was a 48-year-old man admitted with altered mental status. He was found by the emergency medical services covered in urines and feces. His roommate stated that he found him confused for the past day, and that he had been bed ridden during the last month with cough and diarrhea. His past medical history was unreliable due to the patient’s confusion.
+
+On admission, his body temperature was 35.8°C and he was tachycardic (118 beats/minute) and tachypneic (28 breaths/minute), with minimal accessory muscle use, and oxygen saturation was 100%. Breath sounds were diminished on the lung bases. The abdomen was soft, distended, but non-tender. Bilateral pitting edema was present in the feet. The rest of the examination was normal. Hours after his admission in the emergency room, he developed acute hypoxemic respiratory failure with tachypnea up to 40 breaths/min, and an oxygen saturation 85% on room air. He was intubated and transferred to intensive care.
+
+Computed tomography (CT) of the chest and abdomen revealed bilateral pleural effusions, a small pericardial effusion, a large heterogeneous splenomegaly, ascites, and mesenteric and soft-tissue anasarca (Figure 1). A head CT showed no intracranial pathology, with diffuse cerebral atrophy (out of proportion to the patient’s age). A summary of the laboratory findings is provided in Table 1. The severe hyperferritinemia prompted us to consider differential diagnoses such as iron overload, hepato-cellular disease, kidney disease, malignancy, sepsis, infections (viral, fungal), and inflammatory/rheumatologic conditions. A limitation of this case report is the lack of diagnostic testing for iron overload (transferrin saturation). However, given the acuity of the presentation, our differential was narrowed down to sepsis, infectious etiologies, and HLH. Blood, sputum, and urine cultures were negative. Hepatitis B surface antigen (HBsAg) and antibody (HBsAb), hepatitis C antibody, Epstein-Barr virus (EBV) PCR, SARS-CoV-2 RNA PCR, HIV 1,2 antigen/antibody test, and HTLV-1/2 antibodies were non-reactive. PCR for cytomegalovirus (CMV) DNA was ordered. Autoimmune workup with antinuclear antibodies, anti-double stranded DNA, Beta-2 Glycoprotein 1 antibody, and C3 and C4 complement was negative. Diagnostic and therapeutic paracentesis and thoracentesis were performed on day 2. Pleural fluid was exudative (pleural LDH 549 U/L) and lymphocytic (3600 white blood cells and 86% lymphocytes). Cytology of the pleural and ascitic fluids showed macrophages and inflammation and was negative for malignant cells. Flow cytometry of the pleural fluid showed T cell predominance (positive CD3, CD5, CD4, partial CD8, negative CD10, rare to absent positive B cells CD19/CD20), and did not detect T/B cell lymphoma. A T cell rearrangement study of the pleural fluid was positive, raising the suspicion for T cell lymphoma. A repeat chest CT was suggestive of bilateral pneumonia. Bone marrow biopsy revealed histiocytes with hemophagocytic activity (Figure 2), without evidence of leukemia, lymphoma, plasma cell carcinoma, or metastatic carcinoma. Additional testing with Interleukin 2 Receptor CD25 Soluble was elevated to 27 416 pg/mL, confirming the diagnosis of HLH as per the HLH-2004 criteria. The diagnosis of HLH secondary to T cell lymphoma was the most likely.
+
+Our patient was treated with fluids, vasopressors, and broad-spectrum antibiotics for suspicion of aspiration pneumonia. Worsening renal function and anasarca prompted the initiation of renal replacement therapy on day 5. The HLH-94 protocol with dexamethasone 20 mg daily and renally adjusted etoposide 75 mg/m2 was initiated on day 12. Ten hours later, the patient had a cardiac arrest secondary to pulseless electrical activity, with return of spontaneous circulation (ROSC) after 7 min. One day later, he developed refractory shock and died. Laboratory workup after ROSC revealed severe hyperkalemia 7.0 meq/L, hyperphosphatemia 16.1 mg/dL, hypocalcemia 6.3 mg/dL, hyperuricemia 11.0 mg/dL, and elevated blood urea nitrogen 66 mg/dL and creatinine 5.78 mg/dL. We presume that the cardiac arrest was likely secondary to the severe electrolytes abnormalities (Table 1). The sudden worsening of laboratory abnormalities hours after chemotherapy raised the suspicion of TLS. CMV PCR test results came back positive at 6900 IU/mL (N <96 IU/mL) on the same day.
+
+Discussion
+
+We report a case of HLH likely secondary to T cell lymphoma and CMV infection, treated with dexamethasone and etoposide, and complicated by TLS. HLH is characterized by systemic hyper-inflammation, secondary to an uncontrolled proliferation of natural killer (NK) cells, CD8+ T cells, and macrophages, causing cytokine hyper-secretion, widespread activation of macrophages, hemophagocytosis, endothelial injury, and multi-organ failure. HLH can be either primary or secondary. Primary HLH is due to familial genetic mutations in the genes coding for the CD8+ and NK T cells cytotoxic proteins (PRF1, STX11, STXBP2, and UNC13D) [2]. Secondary HLH occurs after infections, malignancy, and autoimmune disorders or is idiopathic [5–7].
+
+HLH is a rare disease and the true incidence is currently difficult to determine in the literature. However, since the institution of the HLH-2004 diagnostic criteria, the disease is now more recognized. While primary HLH presents early in childhood, secondary HLH is more common in adults. The annual incidence of primary HLH was 1.2–1.5 per million children per year according to the Swedish National Registry [8]. The mean age of adult HLH was found to be 49 years, with a male predominance (sex ratio of 1.9) [9]. Our patient had evidence of T cell lymphoma. In the literature, 1% of patients with hematologic malignancies were diagnosed with HLH [10]. We suspected HLH based on the extreme elevation of ferritin. The differential diagnosis for severe hyperferritinemia includes iron overload, hepatocellular or kidney disease, malignancy, sepsis, and inflammatory conditions (HLH, macrophage activation syndrome [MAS], Still’s disease, and other autoimmune conditions) [11,12]. However our patient’s acute presentation was more suggestive of sepsis, infection, or acute inflammation. The diagnosis of HLH is either molecular (mutations consistent with familial or primary HLH) or made by the presence of at least 5 of the following 8 criteria: splenomegaly, fever, cytopenias in ≥2 of 3 lineages (hemoglobin <9.0 g/dL, platelets <100 000/uL, neutrophils <1000/uL), ferritin >500 ng/mL, triglycerides >265 mg/dL, and/or fibrinogen <150 mg/dL, hemophagocytosis on the bone marrow or spleen or lymph node, low or absent NK cell activity, and soluble IL-2 receptor elevated (sCD25) ≥2400 U/mL [4]. Our case was diagnosed based on 6 of the 8 HLH-2004 criteria.
+
+The current standard of care, the HLH-94 protocol, consists of an 8-week initial therapy with immunosuppressive and cytotoxic therapy, followed by continuation therapy, for a total of 52 weeks. Initial therapy includes dexamethasone and etoposide (VP-16), with cyclosporine A (CSA) added on week 9. Intrathecal methotrexate (IT-MTX) is indicated on week 3 in case of progressive neurological symptoms or in case of abnormal cerebrospinal fluid value. Hematopoietic stem cell transplantation (HSCT) is indicated in patients with familial/genetic, relapsing, or severe/persistent disease, and should be performed as soon as a suitable donor is available [13,14]. The HLH-2004 protocol reduced the total duration of the treatment to 40 weeks and added cyclosporine to the initial therapy, and intrathecal steroids to IT-MTX in case of neurologic dysfunction. However, no statistically significant improvement was noted [13].
+
+Timely recognition of signs of cytokine excess and treatment of HLH in acutely ill patients is essential for patient survival. Indeed, adults with HLH have poor outcomes even with aggressive treatment [5]. While etoposide treats HLH by inhibiting monocyte-macrophage activation [15], it is one of the cytotoxic chemotherapies most associated with TLS, especially in the context of hematologic malignancy [16]. TLS is best prevented rather than managed. Aggressive hydration, removal of nephrotoxic drugs (iodinated contrast, non-steroidal anti-inflammatory drugs), prophylactic xanthine oxidase inhibitors (allopurinol), and urate oxidase inhibitor therapy (rasburicase) have been shown to improve outcomes [3]. Despite improvement in mortality rates, the prognosis remains guarded [17].
+
+Conclusions
+
+Adults with HLH have poor outcomes even with aggressive treatment. Additional focus on the management of HLH should shift towards preventing complications such as TLS. More studies should focus on post-treatment outcomes of HLH secondary to malignancy to improve the management and prognosis.
+
+Figure 1. (A) Bilateral pleural effusions (black arrows), (B) heterogeneous splenomegaly (red star) (170 mm long axis), and ascites (blue star).
+
+Figure 2. Histiocyte (black arrow) with hemophagocytic activity and dyserythropoiesis (red arrow) (1000×).
+
+Table 1. Summary of the laboratory findings in our patient.
+
+	Unit	Day 1	Day 5	Day 8	Day 11	Day 13	
+Hemoglobin	g/dL	11.1	7.6	8.2	8.7	4.5	
+MCV	fL	84.3	85.8	87.3	86.6	100.6	
+Platelets	×103/uL	43	83	76	86	38	
+WBC	×103/uL	5.74	7.00	5.33	7.21	7.15	
+Neutrophils	%	73.4	81.9	89.2	92	63.1	
+LDH	U/L	1193	1908	1399	1298	–	
+Fibrinogen	U/L	80	–	290	–	–	
+Procalcitonin	ng/mL	1.85	6.49	5.79	7.03	5.55	
+Ferritin	ng/mL	21 400	–	–	–	–	
+Triglycerides	mg/dL	–	250	272	238	343	
+Sodium	meq/L	155	149	139	140	129	
+Chloride	meq/L	120	116	101	101	91	
+Potassium	meq/L	5.4	4.2	4.4	4.8	7.0	
+BUN	mg/dL	126	131	79	84	66	
+Creatinine	mg/dL	3.87	5.79	5.14	5.93	5.78	
+Bicarbonates	mg/dL	18	14	18	18	4	
+Anion Gap	mg/dL	17	19	20	21	34	
+Phosphorus	mg/dL	7.3	9.4	9.1	11.0	16.1	
+Calcium	mg/dL	8.2	6.3	7.0	7.8	6.3	
+Uric acid	mg/dL	13	9,6	–	–	11.0	
+AST	U/L	151	146	69	–	1862	
+ALT	U/L	56	39	42	–	1191	
+ALP	U/L	196	191	158	–	81	
+
+Declaration of Figures’ Authenticity
+
+All figures submitted have been created by the authors who confirm that the images are original with no duplication and have not been previously published in whole or in part.
+
+Financial support: None declared

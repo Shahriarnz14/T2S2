@@ -1,0 +1,73 @@
+event,time
+9-year-old female,0\
+admitted to the hospital,0\
+fever,-48\
+jaundice,-48\
+right upper quadrant abdominal pain,-48\
+rhabdomyosarcoma of the right deltoid and triceps muscles,-1440\
+"VAC chemotherapy (vincristine, 1.5 mg/m2/day; actinomycin-D, 1.35 mg/m2/day; cyclophosphamide, 1.2 g/m2/day for 3 days)",-1440\
+wide excision of the tumor,-1440\
+postoperative VAC chemotherapy,-1440\
+fourth VAC chemotherapy,-168\
+mild abdominal pain,-168\
+neutropenic fever,-168\
+white blood cell 0.78×10³/μL,-168\
+hemoglobin 6.9 g/dL,-168\
+platelets 4×10³/μL,-168\
+started on intravenous broad-spectrum antibiotics (piperacillin and tazobactam),-168\
+"transfusion (red blood cells, platelets)",-168\
+granulocyte colony stimulating factor,-168\
+mild elevation of liver enzymes (AST 103 U/L; ALT 77 U/L),-168\
+total bilirubin 1.5 mg/dL,-168\
+abdominal pain aggravated,-144\
+persistent fever,-144\
+pancytopenia (WBC 0.42×10³/μL; Hb 8.1 g/dL; platelet 6×10³/μL),-144\
+marked increase in liver enzymes (AST 519 U/L; ALT 370 U/L),-144\
+hyperbilirubinemia (total bilirubin 4.8 mg/dL),-144\
+prolonged prothrombin time (1.17 INR),-144\
+prolonged active partial thromboplastin time (55.2 seconds),-144\
+hepatomegaly 3.5 cm distal from right costal margin,-144\
+antibiotics changed to vancomycin and meropenem,-144\
+intravenous immunoglobulin added,-144\
+fever peaked to 38.9°C,72\
+severe abdominal pain,72\
+icteric sclerae,72\
+aggravated hepatomegaly,72\
+abdominal distension,72\
+body weight increased by 6.1% (2.5 kg),72\
+"AST 1,172 U/L",72\
+ALT 810 U/L,72\
+total bilirubin 6.1 mg/dL,72\
+direct bilirubin 3.1 mg/dL,72\
+abdominal Doppler ultrasonography showed reversed blood flow of right portal vein,72\
+SOS diagnosis,72\
+defibrotide treatment initiated (32 mg/kg/day),72\
+transferred to intensive care unit,72\
+condition unstable,72\
+diffuse pleural effusion on chest radiography,72\
+irritable,72\
+did not recognize mother and medical personnel,72\
+"liver enzyme levels peaked (AST 2,110 U/L; ALT 1,908 U/L)",96\
+total bilirubin 15.1 mg/dL,96\
+direct bilirubin 8.6 mg/dL,96\
+ammonia level increased to 135 μg/dL,96\
+diagnosed with hepatic encephalopathy,96\
+vasopressor infusion,96\
+paracentesis of ascites,96\
+glycerin enema,96\
+rifaximin,96\
+lactulose via L-tube,96\
+mechanical ventilation started,96\
+defibrotide treatment continued,72\
+condition gradually improved,96\
+recovery from myelosuppression,96\
+body weight began to decrease,168\
+fever gradually subsided,168\
+laboratory results improved,168\
+weaned from mechanical ventilator,408\
+abdominal US normalized blood flow of right portal vein,528\
+discharged,744\
+bilirubin normalized,1488\
+parents refused further chemotherapy,744\
+surveillance imaging showed no recurrence,14880\
+no liver sequelae,14880

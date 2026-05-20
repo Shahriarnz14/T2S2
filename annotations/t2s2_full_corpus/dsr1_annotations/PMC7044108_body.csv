@@ -1,0 +1,91 @@
+event,time
+79 years old,0
+Chinese male,0
+admitted to the hospital,0
+lower abdominal pain,-24
+pyrexia,-24
+peri-umbilical pain,-24
+migrated to right lower quadrant pain,0
+no dysuria,0
+no nausea,0
+no vomiting,0
+no hematemesis,0
+no melena,0
+hypertension,0
+type 2 diabetes mellitus,0
+hyperlipidaemia,0
+recent admission for bronchoscopy,-168
+biopsy of left bronchial mass,-168
+bronchial carcinoid tumour,-168
+generalized lower abdominal tenderness,0
+periumbilical tenderness,0
+right lower quadrant tenderness,0
+mild guarding,0
+active bowel sounds,0
+no rigidity,0
+tachycardia (110 beats/min),0
+tachypnea (22 times/min),0
+mild hypertension (132/78 mmHg),0
+pyrexia (38.4 °C),0
+normal oxygen saturation (96%),0
+no acute confusion,0
+no neurological deficit,0
+raised white cell count (16.98 × 10³/mm³),0
+raised neutrophils,0
+normal C-reactive protein (0.98 mg/L),0
+CT abdomen and pelvis with contrast,0
+no renal calculi,0
+dilated tubular structure,0
+mild fat stranding,0
+increased enhancement,0
+preliminary diagnosis of acute appendicitis,0
+laparoscopic appendectomy,24
+intact appendix,24
+mildly erythematous appendix,24
+clear ascitic fluid drained,24
+acute deterioration,24
+increasing oxygen requirements,24
+consolidation on chest radiograph,24
+unresolved sepsis,24
+CT scan review,24
+fishbone (1.4 cm),24
+microperforation at 3rd segment of duodenum,24
+abscess formation,24
+fat stranding along right pararenal fascia,24
+air in retroperitoneal space,24
+exploratory laparotomy,36
+broad-spectrum intravenous antibiotics (Meropenam),36
+laparotomy performed,36
+retroperitoneal abscess drained,36
+10 mL pus aspirated,36
+site of perforation not identified,36
+fishbone not retrieved,36
+manual pressure applied,36
+area washed out,36
+retroperitoneal drain inserted,36
+transferred to intensive care unit,36
+feeding jejunostomy inserted,36
+no inotropic support,36
+decreasing ventilatory support,36
+chest radiograph resolution,48
+pain controlled with analgesia,36
+stepped down to wards,48
+antibiotics converted to oral levofloxacin,264
+retroperitoneal drain removed,264
+regular oral feeding reintroduced,264
+discharged after 11 days,264
+pathological examination of appendix,264
+minimal neutrophil infiltration,264
+cultures isolated intestinal coliforms,264
+pulmonary hemorrhage from traumatic suctioning,24
+acute changes on chest radiographs,24
+bronchial carcinoid tumor diagnosed,-168
+fishbone ingestion (fish soup a week prior),-168
+no awareness of fishbone ingestion,0
+migratory epigastric to right lower quadrant pain,0
+distended appendiceal structure on CT,0
+satisfaction-of-search error,0
+retroperitoneal abscess,24
+post-operative recovery,36
+jejunostomy tube removed,264
+no long-term complications,264

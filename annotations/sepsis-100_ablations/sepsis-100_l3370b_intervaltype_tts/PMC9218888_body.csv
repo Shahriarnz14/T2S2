@@ -1,0 +1,64 @@
+event,time
+43 years old,0
+female,0
+difficult-to-manage bronchial asthma,0
+hospitalized in the last 8 months on 10 occasions,-672
+acute exacerbations,-672
+asthmatic crisis,-672
+24-hour history of dry cough,-24
+progressive dyspnea,-24
+psychomotor agitation,-24
+audible wheezing,-24
+salbutamol,-24
+ipratropium bromide,-24
+critical condition,0
+diaphoretic,0
+tachycardic,0
+dyspneic,0
+supraclavicular retractions,0
+respiratory rate of 30 breaths/minute,0
+ambient oxygen saturation 87%,0
+auscultation with abolished vesicular murmur,0
+Glasgow coma scale 12/15,0
+arterial blood gases analysis,0
+respiratory acidosis,0
+hypoxemia,0
+invasive ventilatory support,0
+midazolam,0
+propofol,0
+hydrocortisone,0
+magnesium sulfate,0
+antibiotics,0
+piperacillin tazobactam,0
+clarithromycin,0
+neuromuscular blocking agents,48
+cisatracurium,48
+ventilatory weaning,96
+dual sedation,0
+NMB,48
+dexmedetomidine,96
+GCS 15/15,144
+weakness of the neck flexor muscles,144
+facial paresis,144
+muscular strength 1/5 in lower limbs,144
+muscular strength 2/5 in upper limbs,144
+flaccid hyporeflexia,144
+preserved sensitivity,144
+brain MRI,144
+cervical MRI,144
+cerebrospinal fluid study,144
+MRC score 37 points,144
+electromyography,144
+denervation,144
+irritability,144
+myopathic pattern,144
+polyneuropathic compromise,144
+axonal pattern,144
+ICUAW diagnosis,144
+physiotherapy,144
+comprehensive rehabilitation,144
+ventilator withdrawal,240
+MRC score 55 points,720
+normal ABG control,720
+symptomatic resolution,720
+hospital discharge,720

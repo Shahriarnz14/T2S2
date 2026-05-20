@@ -1,0 +1,80 @@
+event,time
+68 years old,0
+man,0
+obesity,0
+body mass index 34 kg/m2,0
+no history of SARS-CoV-2 vaccination,0
+admitted to intensive care unit,0
+acute respiratory failure,0
+fever 38°C,0
+respiratory rate 30/min,0
+pulse 80/min,0
+blood pressure 102/68 mmHg,0
+oxygen saturation 85% on room air,0
+SARS-CoV-2 RNA negative,0
+Influenza A RNA negative,0
+Influenza B RNA negative,0
+Pneumococcal urinary antigen negative,0
+hemocultures negative,0
+endotracheal intubation,24
+mechanical ventilation,24
+progressive clinical worsening,24
+hypoxemia,24
+APACHE II Score 18,24
+chest CT scan,24
+bilateral infiltrates,24
+basal zones consolidation,24
+fibrosis,24
+coalescence,24
+repeated SARS-CoV-2 RNA negative,72
+SARS-CoV-2 anti-Spike IgG positive,72
+ventilator-associated bacterial pneumonia,216
+Acinetobacter baumannii,216
+colistin,216
+tigecycline,216
+catheter-related A. baumannii bacteremia,408
+colistin and tigecycline therapy,408
+tracheal aspirate positive for Pseudomonas putida,888
+blood culture positive for Enterobacter cloacae,888
+fosfomycin,888
+gentamycin,888
+blood cultures negative,936
+tracheostomy,1272
+prolonged ventilation,1272
+acute respiratory distress syndrome,1272
+PaO2/FiO2 ratio <200,1272
+sepsis,1272
+prone position injuries,1272
+facial injuries,1272
+lower limb injuries,1272
+sacral eschar grade III,1272
+no local signs of infection,1272
+bilateral nail hyperkeratosis,1272
+fever 38°C,1656
+hemocultures,1656
+chest CT scan,1656
+Fusarium spp. in blood culture,1656
+hyphae observed on Gram stain,1656
+Fusarium verticillioides identified,1656
+chest CT scan progression,1656
+bilateral consolidative opacities,1656
+fibrosis progression,1656
+amphotericin B MIC 2 mg/L,1656
+posaconazole MIC 0.25 mg/L,1656
+voriconazole MIC ≥8.0 mg/L,1656
+amphotericin B therapy,1656
+voriconazole therapy,1656
+fungemia cleared,1656
+died,1920
+respiratory instability,1920
+sepsis,1920
+shock,1920
+galactomannan testing negative,0
+tracheal aspirate,0
+serum samples,0
+no cross-reactions with Fusarium,0
+negative Platelia Aspergillus results,0
+overburdened hospital,0
+no fungal cultures taken,1272
+ethical approval,0
+no competing interests,0

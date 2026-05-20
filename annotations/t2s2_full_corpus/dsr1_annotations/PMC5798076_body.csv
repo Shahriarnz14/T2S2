@@ -1,0 +1,62 @@
+event,time
+50-year-old,0
+female,0
+relapsing idiopathic membranous nephropathy (IMN),0
+presented to hospital,0
+maculopapular rash,-168
+received rituximab 1000 mg,-168
+IMN diagnosed,-140256
+complete remission with cyclophosphamide and prednisolone,-140256
+remission maintained with methotrexate,-140256
+intolerance to cyclosporine,-140256
+nephrotic syndrome,-720
+intact renal function,-720
+renal biopsy confirmed relapse,-720
+new nodular changes,-720
+early diabetic nephropathy,-720
+serum antiphospholipase-A2 receptor antibody negative,-720
+treatment with rituximab (two doses of 1000 mg a fortnight apart),-720
+trimethoprim-sulfamethoxazole started,-720
+metformin started for diabetes,-720
+widespread maculopapular rash,0
+"rash involves face, torso, peripheries",0
+hemodynamically stable,0
+allergic urticaria diagnosis,0
+prednisolone 30 mg started,0
+cetirizine 10 mg started,0
+promethazine 25 mg started,0
+hypotension (70 mmHg systolic),24
+fever (38.1°C),24
+tachycardia (110 bpm),24
+generalized myalgias,24
+arthralgias,24
+cervical lymphadenopathy,24
+no response to fluid resuscitation,24
+admission to intensive care unit,24
+inotropic support,24
+empirical antibiotics started,24
+intravenous hydrocortisone started,24
+leucocytosis (24.9 × 10⁹/L),24
+lymphocytosis (7.2 × 10⁹/L),24
+serum eosinophils normal (0.0 × 10⁹/L),24
+serum neutrophils normal (6.4 × 10⁹/L),24
+reactive leucocytosis,24
+elevated C-reactive protein (3581 nmol/L),24
+low C3 (0.63 g/L),24
+normal C4 (0.20 g/L),24
+negative septic workup,24
+"lactic acidosis (lactate 15 mmol/L, pH 7.12)",24
+acute kidney injury (creatinine 339 µmol/L),24
+urine microscopy: 36 × 10⁶ red cells,24
+no pyuria,24
+symptoms resolved within 48 hours,72
+inotropic support weaned within 24 hours,48
+renal function normalized,72
+Rituximab-induced serum sickness (RISS) diagnosis,72
+antibiotics ceased,72
+hydrocortisone changed to prednisolone wean,72
+rechallenged with trimethoprim-sulfamethoxazole,72
+no issues with rechallenge,72
+outpatient skin allergen testing arranged,72
+discharged home,72
+no symptom recurrence over 3 months,2160

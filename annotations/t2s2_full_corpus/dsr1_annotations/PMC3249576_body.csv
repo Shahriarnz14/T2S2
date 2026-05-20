@@ -1,0 +1,93 @@
+event,time
+80 years old,0
+female,0
+admitted to the institution via the emergency room,0
+right femur fracture,0
+5-year history of hypertension,0
+medication regimen of antihypertensive agent,0
+aspirin,0
+obesity,0
+depression,0
+delirium symptoms,0
+brain CT,0
+severe stenosis of the middle cerebral artery (MCA),0
+old localized infarction of the basal ganglia,0
+diffuse atrophy of the brain,0
+cardiomegaly on preoperative chest X-ray,0
+1 degree A-V block on EKG,0
+ejection fraction of 65% on echocardiography,0
+vital signs within normal limits,0
+preoperative PT/PTT 12.7/24.4 seconds,0
+INR 1.15,0
+arterial blood gas analysis (ABGA) pH 7.376,0
+PaO2 78.6 mmHg,0
+PaCO2 27.5 mmHg,0
+scheduled total hip replacement surgery,72
+aspirin maintained until 3rd hospital day,72
+standard monitoring devices applied,96
+left radial artery cannulated,96
+blood pressure (BP) 140/70 mmHg,96
+heart rate (HR) 80 beats/min,96
+O2 saturation 98%,96
+spinal anesthesia administered,96
+unresponsive,96
+BP 70/40 mmHg,96
+HR 40-45 beats/min,96
+repeated ephedrine administration,96
+epinephrine 10 µg IV,96
+full crystalloid dripping,96
+endotracheal intubation,96
+manual ventilation,96
+norepinephrine 0.1 µg/kg/min,96
+dopamine 2 µg/kg/min,96
+BP 60/40 mmHg,96
+HR 110 beats/min,96
+IV epinephrine 0.02 µg/kg/min,96
+ABGA PaO2 488.9 mmHg,96
+ABGA PaCO2 30.8 mmHg,96
+FiO2 1.0,96
+EtCO2 28 mmHg,96
+O2 saturation 99%,96
+suspected high spinal anesthesia,96
+central venous catheterization via right internal jugular vein,96
+central venous pressure 30 mmHg,96
+emergent TEE,96
+TEE right atrium (RA) enlargement,96
+TEE right ventricle (RV) enlargement,96
+TEE interventricular septum straightening,96
+TEE hypokinesia,96
+consistent with PE,96
+"IV heparin 5,000 IU",96
+"heparin maintained at 1,000 IU/hr",96
+milrinone 50 µg/kg IV,96
+milrinone maintained at 0.5 µg/kg/min,96
+ABGA pH 7.224,96
+ABGA PaO2 55.2 mmHg,96
+ABGA PaCO2 52.8 mmHg,96
+operation postponed,96
+transported to ICU,96
+heart rate decreased to 30 beats/min,96
+cardiopulmonary resuscitation,96
+chest 3D PTCA,96
+non-contrast brain CT,96
+low density ovoid thromboembolism,96
+enlargement of right atrium and ventricle,96
+low density large acute infarct,96
+gyral swelling of right insula and temporal lobe,96
+heart rate decreased to 30 beats/min,108
+resuscitation ineffective,108
+death,108
+no patent foramen ovale (PFO),96
+diffuse presence of acute CI in right MCA territory,96
+atherosclerotic plaque breakdown,96
+cerebral infarction due to MCA stenosis,96
+no typical findings of right ventricle embolism,96
+fat embolism,96
+thrombus embolism,96
+brain atrophy,0
+bed rest,0
+immobilization,0
+preoperative use of anticoagulation therapy,0
+thrombolysis,0
+embolectomy,0
+IVC filter,0

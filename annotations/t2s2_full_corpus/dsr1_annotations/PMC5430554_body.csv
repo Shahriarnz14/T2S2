@@ -1,0 +1,79 @@
+event,time
+64 years old,0
+female,0
+admitted to intensive care unit,0
+confusion,0
+fever,0
+temperature 38.8 °C,0
+blood pressure 105/73 mmHg,0
+heart rate 129 bpm,0
+agitated behavior,0
+abdominal sensitivity,0
+"WBC 14,000/mm3",0
+elevated CRP 160.6 mg/l,0
+creatinine 126 µmol/l,0
+negative blood cultures,0
+negative HIV,0
+negative HCV,0
+negative HBV,0
+negative syphilis,0
+MRI head on admission,0
+4 ring-enhancing lesions,0
+cerebellar lesion 28 mm,0
+frontal right lesion 15 mm,0
+parietal lesion 17 mm,0
+occipital lesion 15 mm,0
+surrounding edema,0
+lumbar puncture,0
+WBC 275/mm3,0
+4% PNN,0
+89% lymphocytes,0
+no germ retrieved,0
+total body scan imaging,0
+11 cm liver abscess,0
+right-sided pleural effusion,0
+negative thoracentesis cultures,0
+negative liver drain cultures,0
+brown purulent liquid,0
+intravenous ceftriaxone started,0
+oral metronidazole started,0
+afebrile,120
+neurological symptoms resolved,120
+transferred to infectious diseases unit,120
+cerebral MRI at 3 weeks,504
+no major difference in brain abscess size,504
+ultrasound liver abscess stagnation,504
+craniotomy recommended,504
+brain biopsy,504
+mixed inflammatory reaction,504
+macrophagic infiltrate,504
+granulomas,504
+no evident pathogenic microorganism,504
+negative aerobic cultures,504
+negative anaerobic cultures,504
+PCR 16S rRNA Fusobacterium nucleatum,504
+ceftriaxone changed to clindamycin,504
+metronidazole continued,504
+FDG-PET,504
+no other infection sites,504
+MRI brain at 12 weeks,2016
+cerebellar lesion decreased to 8 mm,2016
+frontal right lesion decreased to 6.5 mm,2016
+parietal lesion decreased to 6.5 mm,2016
+occipital lesion decreased to 6.5 mm,2016
+decreased ring-enhancing intensity,2016
+decreased surrounding edema,2016
+oral metronidazole continued,2016
+total treatment duration 20 weeks,3360
+MRI brain at 6 months,4320
+stability of brain images,4320
+complete recovery of hepatic abscesses,4320
+complete recovery of pleural effusion,4320
+good clinical recovery,4320
+CRP 3.7 mg/l,4320
+no fever,4320
+intra-uterine device present,0
+intra-uterine device removed,0
+negative intra-uterine device culture,0
+no malignancies on FDG-PET,504
+no prior antibiotic delay,0

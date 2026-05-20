@@ -1,0 +1,63 @@
+event,time
+40-year-old man,0
+admitted to the emergency department,0
+odynophagia,-168
+dry cough,-168
+exertional dyspnea,-168
+fever of 39 degrees Celsius,-168
+arthralgias,-168
+fatigue,-168
+no gastrointestinal symptoms,-168
+diabetes,0
+glycosylated hemoglobin 10.8%,0
+insulin treatment with glargine 44 IU daily,0
+insulin treatment with lispro 16 UI before each meal,0
+no history of smoking,0
+no history of alcohol consumption,0
+body mass index 28.3 kg/m²,0
+heart rate 110 beats per minute,0
+respiratory rate 24 breaths per minute,0
+oxygen saturation 82% at ambiance,0
+right lung rales,0
+no cyanosis,0
+no lower limb edema,0
+no direct contact with coronavirus case,0
+worked with public,0
+arterial gases moderate oxygen impairment (PAFI 190),0
+supplemental oxygen required,0
+normal blood count,0
+increased CRP,0
+right basal ground glass opacity on chest x-ray,0
+positive RT-PCR COVID-19,0
+adenovirus isolated in respiratory viral panel,0
+increased lactate dehydrogenase,0
+elevated ferritin,0
+positive D-dimer adjusted by age,0
+ground-glass opacities with multilobar involvement on chest tomography,0
+increased dyspnea,144
+tachypnea,144
+desaturation despite supplemental oxygen,144
+transferred to intensive care unit,144
+ampicillin-sulbactam started,144
+clarithromycin started,144
+hydroxychloroquine 200 mg twice daily started,144
+corrected Qt interval monitored,144
+hypotension,144
+hypoxemia,144
+intravenous crystalloids used,144
+high flux oxygen used,144
+mechanical ventilation started,144
+norepinephrine started,144
+septic shock diagnosed,144
+ARDS diagnosed,144
+pronation cycles required,144
+neuromuscular relaxation cycles required,144
+Klebsiella oxytoca isolated on blood cultures,144
+antibiotic escalation to cefepime,144
+10-day antibiotic treatment completed,144
+successful extubation,432
+transferred to general floor,432
+symptoms resolved,432
+second RT-PCR SARS-CoV2 negative,432
+discharged,480
+supplemental oxygen requirement at home,480

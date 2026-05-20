@@ -1,0 +1,81 @@
+event,time
+leg edema ,-24
+new onset AF ,-24
+ruptured abdominal aortic aneurysm ,-8760
+history of smoking ,-8760
+shortness of breath ,-24
+nonproductive cough ,-168
+malaise ,-504
+fatigue ,-504
+weakness ,-504
+denies fever ,-24
+denies chills ,-24
+denies sweats ,-24
+temperature 36.8oC ,24
+pulse 132/minute ,24
+blood pressure 105/56 mmHg ,24
+respirations 28/minute ,24
+jugular venous distension ,24
+irregularly irregular pulse ,24
+left-sided rhonchi ,24
+bibasilar pulmonary crackles ,24
+left lower pulmonary infiltrate ,24
+left pleural effusion ,24
+cardiomegaly ,24
+AF ,24
+no ischemic changes ,24
+Creatine phosphokinase 2205 U/L ,24
+AST 128 U/L ,24
+LDH 528 U/L ,24
+"WBC 12,400/cu mm ",24
+Hb 11.8 g/dL ,24
+"Plts 447,000/cu mm ",24
+pH 7.37 ,24
+pCO2 19 mm Hg ,24
+pO2 69 mm Hg ,24
+infusion of dopamine ,24
+diltiazem therapy ,24
+intravenous furosemide ,24
+intravenous heparin ,24
+intubated ,24
+unresponsive ,48
+cold mottled skin ,48
+temperature 36.6oC ,48
+heart rate 108/minute ,48
+respiratory rate 15/minute ,48
+BP 88/47 mmHg ,48
+bilateral pulmonary crackles ,48
+irregular rhythm ,48
+no murmurs ,48
+no gallops ,48
+mild edema of the lower extremities ,48
+no pulses palpable distal to the femoral pulses ,48
+pH 7.26 ,48
+pCO2 26 mm Hg ,48
+pO2 299 mm Hg ,48
+lactate 6.9 mEq/L ,48
+glucose 65 mg/dL ,48
+Creatinine 7.1 mg/dL ,48
+left lower lobe infiltrate ,48
+left pleural effusion ,48
+right mid and upper zone infiltrates ,48
+infusion of dobutamine ,48
+empirical antibiotic therapy ,48
+gentamicin ,48
+ticarcillin/clavulanate ,48
+central venous pressure 7 mm Hg ,48
+pulmonary artery pressure 32/21 mm Hg ,48
+pulmonary artery wedge pressure 19 mm Hg ,48
+moderately decreased left ventricular function ,48
+unremarkable cardiac valves ,48
+hypotensive ,72
+multi-organ failure ,72
+died ,72
+Streptococcus pneumoniae ,72
+near-lobar early organizing pneumonia ,72
+empyema ,72
+severe coronary and systemic atherosclerosis ,72
+near-total old occlusion of the left anterior descending and left circumflex coronary arteries ,72
+small old myocardial infarctions ,72
+mild stenosis of the proximal anastomosis ,72
+severe atherosclerosis of the remainder of the aorta ,72

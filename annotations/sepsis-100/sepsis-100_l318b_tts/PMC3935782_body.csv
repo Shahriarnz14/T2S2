@@ -1,0 +1,51 @@
+event,time
+18 years old,0
+male,0
+admitted to the hospital,0
+fever,0
+chills,0
+vomiting,0
+treated with intravenous vancomycin,-24
+cellulitis,-24
+discharged on oral antibiotics,-24
+admitted to the emergency department,0
+afebrile,0
+normotensive,0
+tachycardia,0
+mild tachypnea,0
+left inner thigh and groin induration,0
+morbidly obese,0
+BMI > 45 kg/m2,0
+lactate 3.5 mmol/L,0
+WBC 18.2 × 10^3 per mm^3,0
+hemoglobin 12.3 g/dL,0
+sodium 136 mmol/dL,0
+glucose 225 mg/dL,0
+creatinine 1.8 mg/dL,0
+LRINEC score of 6,0
+C-reactive protein (CRP) excluded,0
+bedside ultrasound,0
+subcutaneous thickening,0
+air,0
+fascial fluid,0
+concerning for necrotizing fasciitis,0
+intravenous vancomycin and piperacillin/tazobactam,0
+surgery was consulted,0
+operative debridement of the left groin and perineum,0
+excision of 15 cm × 23 cm of tissue with extensive washout,0
+admitted to the surgical intensive care unit post-operatively,0
+septic shock requiring vasopressors and ventilator dependence,0
+repeat washouts with minor debridements daily for 3 days,0
+lactate normalization,0
+WBC down-trending to 13.5 × 10^3 per mm^3,0
+extubated,0
+transferred to a step-down unit,0
+plastic surgery was consulted,0
+wound vacuum-assisted closure (V.A.C.) device was placed,0
+transferred to the plastic surgery service,0
+poor graft candidate,0
+wound V.A.C.,0
+fully ambulatory,0
+discharged home,24
+skin graft,28
+recovered well,28

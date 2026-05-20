@@ -1,0 +1,68 @@
+event,time
+72 years old,0
+female,0
+bilateral breast cancers,0
+occipital neck mass,0
+shortness of breath,-120
+haemoglobin of 4.2 g/dl,-120
+cyst,-51360
+minor trauma,-51360
+mass growth,-336
+mass drainage,-336
+mass bleeding,-120
+portion of the mass fell out,-120
+severe diffuse swelling,-240
+afebrile,0
+haemodynamically stable,0
+hypertensive to 170/70 mmHg,0
+oxygen saturation of 100%,0
+clear lung sounds,0
+severe upper and lower extremity pitting oedema,0
+baseball-sized malodorous occipital mass,0
+thick oozing purulent drainage,0
+white blood cell count of 8.3*103/μl,0
+haemoglobin of 4.7 g/dl,0
+albumin of 2.9 g/dl,0
+INR of 1.6,0
+B-type natriuretic peptide (BNP) level of 666 pg/ml,0
+mild interstitial oedema,0
+transfused three units of packed red blood cells,0
+febrile to 101.2 °F,12
+tachycardic to 110 bpm,12
+acetaminophen,12
+temperature increased to 102 °F,24
+heart rate increased to 120 bpm,24
+tachypnoeic to 30 breaths per minute,24
+hypertensive to 200/60 mmHg,24
+lactate level of 2.7 mEq/l,24
+white blood cell count of 24.3*103/μl,24
+E. coli,24
+vancomycin,24
+piperacillin–tazobactam,24
+creatinine doubled,24
+INR of 2.4,24
+platelet count fell,24
+fibrinogen of 224 mg/dl,24
+d-dimer level of 4668 ng/ml,24
+bilevel non-invasive positive pressure ventilation,24
+transferred to the medical intensive care unit (MICU),48
+hypotensive to 80/40 mmHg,48
+vasopressors,48
+pyuria,48
+intubated,48
+sedated,48
+pan-CT scan,48
+obstructing left distal ureteric stone,48
+operating room for extraction and stenting,72
+weaned from vasopressors,96
+chest X-ray showed increasing pulmonary oedema,120
+oliguric,120
+creatinine elevated to 6.4 mg/dl,120
+dialyzed,120
+transferred back to the general medicine service,240
+discharged from the hospital,672
+haemodialysis,672
+neck mass excised,1008
+pathology showed a benign haemangioma,1008
+infected haematoma,1008
+abscess formation,1008

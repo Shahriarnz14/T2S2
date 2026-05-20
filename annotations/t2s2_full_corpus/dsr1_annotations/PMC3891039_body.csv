@@ -1,0 +1,91 @@
+event,time
+84 years old,0\
+male,0\
+admitted to the hospital,0\
+edema on both legs,-720\
+diabetes mellitus,-131400\
+insulin,-131400\
+hypertension,-8760\
+angiotensin converting enzyme inhibitor,-8760\
+calcium channel blocker,-8760\
+idiopathic Parkinson's disease,-61320\
+right hand tremor,-61320\
+alcoholic liver cirrhosis,0\
+small ascites,0\
+serum albumin 2.5 g/dL,0\
+serum bilirubin 2.4 mg/dL,0\
+prothrombin time 88%,0\
+Child's classification B,0\
+thrombocytopenia,0\
+"platelets 79,000/mm3",0\
+diabetic chronic renal failure,0\
+creatinine 2.2 mg/dL,0\
+mild cardiomegaly,0\
+brain natriuretic peptide 193 pg/mL,0\
+left ventricle ejection fraction 55%,0\
+leg edema,24\
+uncompensated liver cirrhosis,24\
+diuretics,24\
+albumin,24\
+leg edema improved,24\
+sudden dyspnea,192\
+tachycardia 123 beats/min,192\
+tachypnea 30 breaths/min,192\
+hypoxemia SaO2 80%,192\
+creatine kinase normal,192\
+CK-MB normal,192\
+troponin-I normal,192\
+electrocardiography no ST depression or elevation,192\
+acute myocardial infarction ruled out,192\
+pulmonary embolism ruled out,192\
+oxygen supplementation,192\
+SaO2 below 90%,192\
+tachypnea 32 breaths/min,192\
+septic shock,192\
+endotracheal intubation,192\
+transferred to ICU,192\
+hypotension BP 75/40 mmHg,216\
+MAP 48 mmHg,216\
+tachycardia 130 beats/min,216\
+hypothermia 34℃,216\
+WBC 700/mm3,216\
+Hb 9.7 g/dL,216\
+"platelets 59,000/mm3",216\
+BUN/Cr 57/2.2 mg/dL,216\
+CRP 8.3 mg/dL,216\
+lactic acid 4.4 mmol/L,216\
+urinalysis negative,216\
+urine culture no growth,216\
+chest radiograph no pneumonic consolidation,216\
+hospital-acquired infection,216\
+blood culture,216\
+piperacillin/tazobactam,216\
+ciprofloxacin,216\
+intravenous fluid,216\
+CVP 12 mmHg,216\
+systolic BP 80 mmHg,216\
+dobutamine 10 µg/kg/min,216\
+dopamine 25 µg/kg/min,216\
+norepinephrine 100 µg/min,216\
+anuria,216\
+exacerbated azotemia,216\
+CVVHD,216\
+norepinephrine infusion for 26 hours,216\
+systolic BP 80 mmHg,216\
+MAP low,216\
+no skin necrosis before vasopressin,216\
+vasopressin 0.02 unit/min,216\
+systolic BP increased to 120 mmHg,216\
+MAP increased to 80 mmHg,216\
+multiple purpura,240\
+skin necrosis,240\
+skin necrosis expanded,240\
+superficial erosion,240\
+bullous lesions,240\
+low-dose vasopressin induced skin necrosis,240\
+discontinued vasopressin,262\
+Escherichia Coli bacteremia,262\
+continuous dobutamine,262\
+continuous norepinephrine,262\
+hemodynamic instability,262\
+death,262

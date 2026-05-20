@@ -1,0 +1,37 @@
+61 years old | 0
+female | 0
+non-smoking | 0
+hypertension | -672
+chronic cough | -504
+dyspnea | -504
+weight loss | -504
+nausea | -168
+vomiting | -168
+cachexia | 0
+scleral icterus | 0
+jaundice | 0
+dry mucous membranes | 0
+normal bowel sounds | 0
+decreased breath sounds | 0
+tachycardia | 0
+hypotension | 0
+hyponatremia | 0
+elevated alkaline phosphatase | 0
+elevated total bilirubin | 0
+elevated aspartate aminotransferase | 0
+elevated alanine aminotransferase | 0
+pulmonary parenchymal nodules | 0
+pleural effusion | 0
+pancreatic head mass | 0
+biliary ductal dilation | 0
+lung adenocarcinoma | 0
+metastases to the brain | 0
+radiation therapy | 24
+adjunctive chemotherapy | 24
+carboplatin | 24
+pemetrexed | 24
+pembrolizumab | 24
+whole brain radiation | 48
+severe pneumonia | 72
+sepsis | 96
+death | 96

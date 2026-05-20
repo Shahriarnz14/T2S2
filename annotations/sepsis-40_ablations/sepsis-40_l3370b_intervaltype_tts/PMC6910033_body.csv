@@ -1,0 +1,47 @@
+event,time
+19 years old,0
+male,0
+admitted to the hospital,0
+fever,-168
+body ache,-168
+throat pain,-168
+decreased oral intake,-168
+low blood pressure,0
+infusion of normal saline,0
+broad-spectrum antibiotic,0
+inotropic support,0
+negative test results for dengue,0
+negative test results for typhoid,0
+negative test results for malaria,0
+negative test results for leptospira,0
+deranged kidney function tests,0
+deranged liver function tests,0
+clinical hematology consultation,0
+pancytopenia,0
+coagulation disturbance,0
+organomegaly,0
+hepatospenomegaly,0
+HLH suspected,0
+further investigations for HLH,0
+bone marrow biopsy,0
+hemophagocytosis in bone marrow,0
+intubation,0
+IV methylprednisolone pulse,0
+therapeutic plasma exchange,0
+lactate dehydrogenase elevated,0
+fibrinogen low,0
+ferritin elevated,0
+fasting triglyceride elevated,0
+improvement in clinical condition,72
+switch to IV dexamethasone,72
+TPE procedures,0
+use of fresh frozen plasma,0
+peripheral femoral line,0
+aseptic precautions,0
+extubation,72
+improvement in organ function,72
+blood transfusion,0
+discharge from hospital,384
+normalization of hematological parameters,384
+normalization of biochemical parameters,384
+normalization of coagulation parameters,384

@@ -1,0 +1,110 @@
+event,time
+85 years old,0
+male,0
+admitted to the hospital,0
+farmer,0
+active lifestyle,0
+atrial fibrillation,-720
+benign prostatic hypertrophy,-720
+trismus,-144
+hypertonia,-144
+C. tetani infection,-144
+injured his leg,-144
+immunoglobulins,-144
+tetanus vaccination,-144
+metronidazole,-144
+transferred to ICU,-120
+tracheostomy,-120
+mechanical ventilation,-120
+vasoactive support,-120
+respiratory failure,-120
+seizures,-120
+baclofen,-120
+midazolam,-120
+diazepam,-120
+electroencephalography,-120
+severely slow cerebral activity,-120
+opacity on chest radiography,-120
+peripheral leukocytosis,-120
+ventilator-associated pneumonia,-120
+blood cultures,-120
+tracheal secretion samples,-120
+Klebsiella pneumoniae,-120
+methicillin-sensitive Staphylococcus aureus,-120
+piperacillin-tazobactam,-120
+transferred to geriatric unit,-110
+coma,-110
+breathed spontaneously,-90
+supplemental oxygen,-90
+linezolid,-90
+VAP exacerbation,-90
+meropenem,-76
+septic shock,-76
+awoke,-59
+feeding tube removed,-59
+cholestasis,-59
+acute edematous pancreatitis,-59
+endoscopic treatment postponed,-59
+urinary tract infection,-59
+multidrug-resistant organisms,-59
+K. pneumoniae,-59
+Acinetobacter baumannii,-59
+Enterococcus faecalis,-59
+colistin,-59
+amoxicillin-clavulanate,-59
+clinical condition improved,-52
+transferred to rehabilitation unit,-52
+MDRO isolation,-52
+tracheal supplemental oxygen,-52
+bladder catheter,-52
+pressure ulcers,-52
+sarcopenic,-52
+low handgrip strength,-52
+appendicular skeletal mass,-52
+rehabilitation,-52
+Clostridioides difficile infection,-24
+oral vancomycin,-24
+atrial fibrillation,-14
+third-degree atrioventricular block,-14
+heart rate 30 beats/min,-14
+transferred to cardiac ICU,-14
+single-chamber pacemaker implantation,-14
+hyperkinetic delirium,-14
+Pseudomonas aeruginosa bloodstream infection,-10
+ceftazidime-avibactam,-10
+amikacin,-10
+SARS-CoV-2,-7
+remdesivir,-7
+droplet isolation,-7
+second recurrence of C. difficile,-4
+fidaxomicin,-4
+bloodstream infection,6
+Candida parapsilosis,6
+MSSA,6
+Candida tropicalis,6
+caspofungin,6
+cefazolin,6
+intravenous catheter replaced,6
+P. aeruginosa,23
+piperacillin-tazobactam,23
+aztreonam,30
+ceftazidime-avibactam,30
+cefepime,30
+tracheostomy closure,40
+nutritional supplementation,-52
+malnutrition,-52
+sarcopenia,-52
+postural transition,0
+aided transfers,0
+axial stability,0
+balance improvement,0
+breath-movement coordination,0
+thoracic expansion,0
+girdle opening,0
+inhalation-exhalation,0
+wheelchairs,0
+walkers,0
+rehabilitation follow-up,0
+ENT follow-up,0
+geriatric follow-up,0
+discharged,0

@@ -1,0 +1,59 @@
+event,time
+37th gestational week birth,-24 (assuming birth occurred 24 hours before admission)
+male,0
+respiratory distress,0
+transferred to intensive care unit,0
+general appearance poor,0
+tachycardia,0
+tachypnea,0
+hypotonia,0
+hypoactivity,0
+generalized edema,0
+facial dysmorphic findings,0
+micropenis,0
+weight >90th percentile,0
+height >90th percentile,0
+head circumference >90th percentile,0
+sagittal suture open,0
+anterior fontanel 4x4 cm,0
+prominent forehead,0
+low-set ears,0
+flat nose,0
+highly-arched palate,0
+testes 1 mL/1 mL,0
+penile length 2x1 cm,0
+tracheal intubation,0 (performed soon after hospitalization)
+mechanical ventilation,0
+surfactant administration,0
+respiratory acidosis,0
+umbilical catheterization,0 (due to severe edema)
+broad-spectrum antibiotics (ampicillin + gentamicin),0
+enteral feeding started,24 (3rd day entry mentions enteral feeding)
+no hypoglycemia,24
+generalized edema persisted,24
+no weight loss,24
+poor feeding,72 (7th day entry)
+vomiting,72
+hypotonia,72
+hypoactivity,72
+ongoing edema,72
+mechanical ventilation resumed,72 (7th day)
+central hypothyroidism,72 (diagnosed on day 3)
+low free-T4,72
+slightly elevated TSH,72
+hyponatremia,72 (day 3 sodium 129)
+baseline cortisol 0.44 µg/dL,72
+secondary adrenal insufficiency,72 (confirmed by ACTH test)
+hydrocortisone replacement,72
+levothyroxine replacement,72
+vomiting ceased,168 (10th day)
+hyponatremia resolved,168
+generalized edema diminished,168
+mechanical ventilation continued,168
+edema disappeared,360 (15th day)
+respiratory distress resolved,360
+extubation,360
+enteral feeding established,360
+"gonadotropin deficiency (low LH, FSH, testosterone)",360 (15th day results)
+hormone replacement continued,360
+no supplemental oxygen needed,552 (23rd day)

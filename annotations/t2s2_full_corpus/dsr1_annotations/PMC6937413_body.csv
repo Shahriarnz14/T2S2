@@ -1,0 +1,53 @@
+event,time
+58-year-old woman,0\
+history of Hodgkin lymphoma,-87600 (approximately 10 years ago)\
+status post radiation therapy,-87600\
+hypertension,-26280 (approximated based on chronic condition presence)\
+diabetes mellitus,-26280\
+hypothyroidism,-26280\
+presented to the emergency room,-336 (2 weeks before admission)\
+increasing dyspnea on exertion,-336\
+metformin 500 mg twice daily,-26280\
+aspirin 81 mg daily,-26280\
+levothyroxine 100 mcg daily,-26280\
+metoprolol 25 mg twice a day,-26280\
+blood pressure of 96/60 mmHg,-336\
+heart rate of 110 beats per minute,-336\
+oxygen saturation 96% on room air,-336\
+clear lung fields,-336\
+elevated jugular venous pressure,-336\
+faint and distant heart sounds,-336\
+weak peripheral pulses,-336\
+low voltage on electrocardiogram,-336\
+sinus tachycardia,-336\
+cardiomegaly on chest X-ray,-336\
+large circumferential pericardial effusion,-336\
+end diastolic right ventricular compression,-336\
+swing sign on echocardiogram,-336\
+LVEF 60%-65%,-336\
+emergent pericardiocentesis,0\
+drainage of 2200 mL serous fluid,0\
+minimal hemodynamic improvement,0\
+worsening dyspnea,1\
+hypotension 72/40 mmHg,1\
+labored breathing,1\
+diffuse bilateral pulmonary edema,1\
+intubation for respiratory failure,1\
+dobutamine support,1\
+norepinephrine support,1\
+interval resolution of pericardial effusion,1\
+LVEF 50%,1\
+mild to moderately dilated right ventricle,1\
+mild RV hypokinesis,1\
+septal shift towards left ventricle,1\
+intravenous saline bolus,1\
+vasopressor support (norepinephrine),1\
+inotrope support (dopamine),1\
+diuresis with lasix,24\
+weaning off vasopressors,48\
+CT-chest angiography negative for pulmonary embolism,72\
+improved hemodynamics,72\
+extubation,72\
+repeat echocardiogram normalized ventricular function,120\
+trivial pericardial effusion,120\
+discharged to home,144

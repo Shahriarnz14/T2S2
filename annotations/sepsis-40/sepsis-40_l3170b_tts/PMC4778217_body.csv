@@ -1,0 +1,49 @@
+event,time
+65 years old ,0
+female ,0
+admitted to the hospital ,0
+fever ,0
+chills ,0
+pain in left leg ,0
+parkinsonism ,-8760
+diabetes mellitus ,-8760
+levodopa / carbidopa ,-8760
+rasagiline ,-8760
+ropinirole ,-8760
+trihexyphenidyl ,-8760
+amantadine ,-8760
+metformin ,-8760
+glipizide ,-8760
+cellulitis ,0
+intravenous clindamycin ,0
+intravenous benzylpenicillin ,0
+high-temperature spikes ,72
+tachycardia ,72
+tachypnea ,72
+hypotensive ,72
+encephalopathic ,72
+intravenous linezolid ,72
+intravenous piperacillin with tazobactam ,72
+confused ,72
+drowsy ,72
+disoriented ,72
+altered sensorium ,72
+myoclonus ,72
+tremors ,72
+jerky movements ,72
+no neck stiffness ,72
+improving white blood cell counts ,72
+better glycemic control ,72
+sterile blood and pus cultures ,72
+serotonin syndrome suspected ,96
+linezolid stopped ,96
+rasagiline stopped ,96
+temperature settled ,104
+heart rate normal ,120
+sensorium improved ,120
+tremors subsided ,120
+shifted out of the ICU ,192
+started walking with support ,240
+discharged from the hospital ,240
+anti-parkinsonism drugs ,240
+rasagiline added ,240

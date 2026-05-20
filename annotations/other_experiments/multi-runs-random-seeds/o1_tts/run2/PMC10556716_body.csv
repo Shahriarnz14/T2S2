@@ -1,0 +1,93 @@
+event,time
+85 years old,0  
+male,0  
+admitted to rehabilitation unit,0  
+past medical history of atrial fibrillation,-8760  
+past medical history of benign prostatic hypertrophy,-8760  
+admitted to local hospital,-1440  
+leg injury,-1440  
+trismus,-1440  
+hypertonia,-1440  
+suspected C. tetani infection,-1440  
+treatment with immunoglobulins (start),-1440  
+tetanus vaccination (start),-1440  
+metronidazole (start),-1440  
+metronidazole (stop),-1200  
+transferred to ICU,-1430  
+respiratory failure,-1430  
+tracheostomy,-1430  
+mechanical ventilation,-1430  
+vasoactive support,-1430  
+seizures,-1430  
+baclofen (start),-1430  
+midazolam (start),-1430  
+diazepam (start),-1430  
+electroencephalography (slow cerebral activity),-1429  
+possible ventilator-associated pneumonia,-1428  
+Klebsiella pneumoniae (infection),-1428  
+methicillin-sensitive Staphylococcus aureus (infection),-1428  
+piperacillin-tazobactam (start),-1428  
+transferred to geriatric unit in coma,-1000  
+breathing spontaneously on 4 L/min O₂,-1000  
+antibiotic therapy switched to linezolid (start),-997  
+linezolid therapy for 14 days (start),-997  
+meropenem therapy for 17 days (start),-997  
+septic shock,-997  
+patient gradually awoke,-980  
+feeding tube removed,-970  
+cholestasis,-960  
+acute edematous pancreatitis,-960  
+endoscopic treatment postponed (spontaneous recovery),-950  
+"urinary tract infection (K. pneumoniae, Acinetobacter baumannii, Enterococcus faecalis)",-940  
+colistin (start),-940  
+amoxicillin-clavulanate (start),-940  
+condition improved,-930  
+eligible for rehabilitation,-930  
+placed in MDRO isolation,0  
+requires tracheal supplemental oxygen (1 L/min),0  
+bladder catheter in place,0  
+pressure ulcers on right heel (unstageable),0  
+pressure ulcers on left heel (stage II),0  
+pressure ulcers on sacrum (stage II),0  
+pressure ulcers on right elbow (stage III),0  
+sarcopenic,0  
+low handgrip strength,0  
+Clostridioides difficile infection,24  
+oral vancomycin (start),24  
+oral vancomycin (stop),24+240  (≈264)  
+atrial fibrillation with third-degree atrioventricular block,96  
+single-chamber pacemaker implantation,120  
+hyperkinetic delirium,122  
+transferred to cardiac ICU,124  
+Pseudomonas aeruginosa bloodstream infection,124  
+ceftazidime-avibactam (start),124  
+amikacin (start),124  
+tested positive for SARS-CoV-2,125  
+remdesivir (start),125  
+remdesivir (stop),125+72  (≈197)  
+second recurrence of C. difficile,126  
+transferred to geriatric medicine unit,126  
+fidaxomicin (start),126  
+fidaxomicin (stop),126+240  (≈366)  
+"bloodstream infection (Candida parapsilosis, MSSA, Candida tropicalis)",414  
+replaced infected catheter,414  
+caspofungin (start),414  
+cefazolin (start),414  
+caspofungin + cefazolin (stop),414+408  (≈822)  
+bloodstream infection (Pseudomonas aeruginosa),832  
+piperacillin-tazobactam (start),832  
+shifted to aztreonam + ceftazidime-avibactam,836  
+improvement in clinical condition,840  
+shifted to cefepime (start),840  
+cefepime (stop),840+240  (≈1080)  
+tracheostomy closure (by ENT specialist),1800  
+nutritional supplementation (ongoing),0  
+short physiotherapy sessions (ongoing),0  
+discharged,2000  
+able to perform postural transitions with assistance at discharge,2000  
+motor and respiratory reconditioning continued at discharge,2000  
+posture transition and balance exercises prescribed,2000  
+breath-movement coordination exercises advised,2000  
+"thoracic expansion, girdle opening, inhalation-exhalation exercises advised",2000  
+wheelchairs and walkers recommended,2000  
+"rehabilitation, ENT, and geriatric follow-up recommended",2000  

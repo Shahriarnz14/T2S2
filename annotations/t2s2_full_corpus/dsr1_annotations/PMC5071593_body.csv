@@ -1,0 +1,84 @@
+event,time
+19 years old,0
+male,0
+admitted to toxicology ward,-2160 (3 months prior to admission for IE)
+significant sleepiness,-2160
+unclear speech,-2160
+drinking bout lasting 3 months,-2160
+alcohol addiction for 5 years,-43200 (5 years prior)
+Tourette syndrome,0 (mentioned as reason for alcohol use)
+pneumonia,-168 (several days after admission to toxicology ward)
+intubation,-168
+mechanical ventilation,-168
+echocardiographic examination revealing vegetations,-168
+transferred to ICU,-168
+intubated,-168
+mechanically ventilated,-168
+sedation with midazolam and fentanyl,-168
+TTE showing grade 4 mitral insufficiency,-168
+vegetation 1.2 × 1.6 cm on anterior mitral cusp,-168
+rupture of tendinous cords,-168
+vegetation 1.0 cm on posterior mitral cusp,-168
+aortic valve vegetation,-168
+grade 1 aortic insufficiency,-168
+tricuspid valve insufficiency,-168
+suspected tricuspid vegetation,-168
+"empiric antibiotic therapy (imipenem, vancomycin, clindamycin)",-168
+"sterile blood, urine, bronchial cultures",-168
+dental consultation,-168
+extraction of 8 carious teeth,-168
+surgical transfer for valve replacement (day 7 of antibiotics),-48 (7 days after antibiotics started)
+median sternotomy,-48
+ECC cannulation,-48
+aortic cross-clamping,-48
+tricuspid valve removal,-48
+mitral valve removal,-48
+aortic valve removal,-48
+implantation of Medtronic Hancock II Porcine 29 mitral bioprosthesis,-48
+implantation of Edwards C-E Perimount 21 aortic bioprosthesis,-48
+implantation of Medtronic Hancock II Porcine 33 tricuspid bioprosthesis,-48
+aortic cross-clamp time 161 minutes,-48
+ECC time 224 minutes,-48
+surgery time 340 minutes,-48
+transfer to recovery room,-48
+postoperative day 3,-48 + 72 = 24
+mediastinal drains removed,24
+ICU transfer,24
+continued antibiotics,0 (ongoing)
+blood cultures sterile,0
+valve cultures sterile,0
+extubation day 14 ICU,336 (14 days = 336 hours after ICU admission)
+postoperative day 23,"528 (23 days = 552 hours from surgery, but event occurs in ICU stay day 23, which started at 24 hours post-surgery: 24 + 23*24 = 576)"
+clinical deterioration,576
+high fever,576
+transfer to cardiology ward,576
+sepsis diagnosis,576
+Pseudomonas aeruginosa cultured from CVC tip,576
+Pseudomonas in urine,576
+Pseudomonas in bronchial secretions,576
+positive blood cultures,576
+"targeted antibiotics (imipenem, Brulamycin)",576
+persistent fever,576 onwards
+weakness,576 onwards
+TEE showing aortic valve vegetation,~576 + 24 = 600
+CT scans negative,~600
+X-ray negative,~600
+decision for aortic valve reoperation,~600
+reoperation day 46,46 days * 24 = 1104
+ECC connection,1104
+aortic cross-clamping,1104
+cardioplegia administration,1104
+check of mitral/tricuspid valves,1104
+no vegetation found,1104
+aortic valve vegetation,1104
+Edwards C-E Perimount 21 reimplanted,1104
+cross-clamp time 92 minutes,1104
+ECC time 140 minutes,1104
+transfer to recovery,1104
+extubation after 19 hours,1104 + 19 = 1123
+Pseudomonas from aortic valve culture,1104
+sterile postoperative blood cultures,1123 onwards
+transfer to rehab hospital (post-reop day 12),1104 + 288 = 1392
+oral anticoagulation,1392
+continued antibiotics,1392
+control echocardiogram (30 days post-discharge),~1392 + 720 = 2112 (approximated)

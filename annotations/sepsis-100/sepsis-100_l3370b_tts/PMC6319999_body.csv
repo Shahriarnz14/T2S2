@@ -1,0 +1,94 @@
+event,time
+29 years old ,0
+female ,0
+admitted to the hospital ,0
+complex regional pain syndrome ,-1096
+sports-related injury ,-1096
+shoulder surgery ,-1096
+recurrent shoulder infections ,-1096
+Pseudomonas aeruginosa ,-1096
+Sphingomonas paucimobilis ,-1096
+Candida colliculosa ,-1096
+Staphylococcus aureus ,-1096
+left shoulder tendon release ,-240
+revision ,-240
+development of CRPS ,-240
+severe pain ,-240
+allodynia ,-240
+edema ,-240
+muscle spasms ,-240
+temperature changes ,-240
+electromyography ,-240
+brachial plexus injury ,-240
+asthma ,-720
+selective IgG3 deficiency ,-720
+oral medical management ,-240
+opioids ,-240
+antidepressants ,-240
+antispasmodics ,-240
+left stellate ganglion blockade ,-240
+continuous cervical epidural infusions ,-240
+placement of epidural catheter ,0
+fluoroscopic guidance ,0
+preprocedure labs ,0
+complete blood count ,0
+complete metabolic panel ,0
+creatinine phosphokinase ,0
+antibiotic prophylaxis ,-1
+vancomycin ,-1
+intravenous vancomycin ,-1
+epidural infusion ,0
+0.25% bupivacaine ,0
+hydromorphone ,0
+clonidine ,0
+oral home medications ,0
+methadone ,0
+diazepam ,0
+baclofen ,0
+amitriptyline ,0
+decrease in pain ,24
+improved sleep ,24
+decrease in LUE spasms ,24
+decrease in edema ,24
+febrile ,120
+temperature 38.1°C ,120
+wean the infusion ,120
+remove the epidural catheter ,120
+progressive headache ,126
+neck pain ,126
+increase in temperature ,126
+temperature 40.0°C ,126
+neurological examination ,126
+nontender to palpation ,126
+no signs of active infection ,126
+blood and urine cultures ,126
+chest x-ray ,126
+increase in white count ,126
+cefepime ,126
+abatement of fever ,132
+decrease in white count ,132
+MRI ,138
+cervical spine MRI ,138
+epidural collection ,138
+compression of left C5 and C6 nerve roots ,138
+effacement of the thecal sac ,138
+interstitial edema ,138
+transfer to NSICU ,144
+hourly neurological examination ,144
+intractable nausea ,168
+vomiting ,168
+left arm weakness ,168
+emergent decompression ,168
+evacuation ,168
+cervical laminectomies ,168
+foraminotomies ,168
+intraoperative cultures ,168
+P aeruginosa ,168
+susceptible to cefepime ,168
+vancomycin stopped ,168
+cefepime continued ,168
+resolution of arm weakness ,192
+uneventful postoperative course ,192
+discharged home ,192
+intravenous cefepime ,192
+postoperative day 3 ,192

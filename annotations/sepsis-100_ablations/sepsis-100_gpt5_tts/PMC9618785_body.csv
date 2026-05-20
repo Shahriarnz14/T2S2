@@ -1,0 +1,108 @@
+event,time
+31-year-old,0
+female,0
+Caucasian,0
+non-smoking,0
+no past medical history,0
+pregnancy uncomplicated,-1560
+vaginal delivery uncomplicated,-1560
+sudden-onset severe headache,-720
+left arm numbness,-720
+cranial computed tomography scan performed,-720
+subarachnoid hemorrhage,-720
+Hunt and Hess grade 2,-720
+admitted to the neurosurgical ward,-720
+digital subtraction angiography revealed ruptured right middle cerebral artery aneurysm,-720
+aneurysm measuring 3.5 mm,-720
+percutaneous endovascular coil embolization,-720
+no prior history of head injury,-720
+without permanent neurological deficits,-720
+admitted to the hospital,-96
+suspected postpartum endometritis,-96
+fever,-96
+chills,-96
+constant abdominal pain,-96
+purulent uterine discharge,-96
+denied urinary symptoms,-96
+denied respiratory symptoms,-96
+blood cultures obtained,-96
+piperacillin/tazobactam initiated,-96
+vancomycin initiated,-96
+azithromycin initiated,-96
+sepsis,-24
+septic shock,-1
+transferred to the intensive care unit,0
+admitted to the intensive care unit,0
+body temperature 38.3 °C,0
+invasive blood pressure 90/65 mmHg,0
+heart rate 135/min,0
+arterial oxygen saturation 82%,0
+requiring crystalloid,0
+requiring vasopressor,0
+mild disorientation,0
+slower capillary refill,0
+coarse rales especially over the lower lung zones,0
+SOFA score 4,0
+Glasgow Coma Scale 15,0
+norepinephrine < 5 μg/kg/min,0
+acute respiratory distress syndrome,0
+PaO2/FiO2 < 400 mmHg,0
+platelets 65 × 10^3/μl,0
+bilirubin 0.89 mg/dL,0
+creatinine 0.54 mg/dL,0
+hemoglobin 6.8 g/dL,0
+d-dimers 4.58 μg/mL,0
+C-reactive protein 322 mg/L,0
+fibrinogen concentration 6.4 mL,0
+chest radiography demonstrated several pulmonary nodules up to 40 mm,0
+computed tomography of the thorax confirmed pulmonary nodules,6
+suspected gestational trophoblastic neoplasia,6
+transvaginal ultrasound depicted an enlarged uterus,12
+complete loss of zonal anatomy,12
+"serum β-human chorionic gonadotrophin 232,085 mUI/mL",12
+abdominal magnetic resonance imaging confirmed an enlarged heterogenous myometrial mass,24
+single splenic metastatic lesion,24
+blood culture showed Escherichia coli,24
+Escherichia coli sensitive to piperacillin/tazobactam,24
+suction evacuation and curettage performed,36
+"β-human chorionic gonadotrophin 97,521 mIU/mL",60
+pathology report confirmed choriocarcinoma,84
+diagnosed with metastatic choriocarcinoma,84
+FIGO modified WHO prognostic score 12,84
+>8 metastatic lesions,84
+brain metastasis occurring as an oncotic aneurysm,84
+largest lung tumor lesion 40 mm,84
+chemonaïve,84
+low-dose etoposide 100 mg/m2 commenced,96
+cisplatin 20 mg/m2 commenced,96
+clinical improvement,264
+EMA/CO regimen started,264
+etoposide administered (EMA/CO),264
+methotrexate administered (EMA/CO),264
+actinomycin D administered (EMA/CO),264
+cyclophosphamide administered (EMA/CO),264
+vincristine administered (EMA/CO),264
+grade 3 neutropenia,600
+granulocyte colony stimulating factor incorporated,600
+dose reduction of etoposide,600
+dose reduction of actinomycin D,600
+grade 2 alopecia,700
+grade 2 nausea,700
+dexamethasone administered,700
+ondansetron administered,700
+six cycles of EMA/CO completed,1272
+β-human chorionic gonadotrophin plateaued above normal,1272
+brain MRI restaging performed,1300
+FDG PET/CT scan performed,1300
+decreased pulmonary nodules,1300
+decreased uterine mass,1300
+standardized uptake value < 3.8,1300
+revised FIGO score 7,1300
+recommended use of male condoms,1300
+EP/EMA regimen started,1310
+etoposide plus cisplatin administered (day 1),1310
+"etoposide, methotrexate, and actinomycin D administered (day 8)",1478
+grade 2 fatigue,1500
+three cycles of EP/EMA completed,1814
+β-human chorionic gonadotrophin normalized,2534
+remains free of disease,15336

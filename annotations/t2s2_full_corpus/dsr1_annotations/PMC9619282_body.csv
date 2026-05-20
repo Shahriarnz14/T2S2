@@ -1,0 +1,47 @@
+event,time
+56 years old,0
+female,0
+history of schizophrenia,0
+admitted to the hospital,-1440
+perforated diverticulitis,-1440
+sigmoid resection,-1440
+anastomotic leak,-1440
+defunctioning ileostomy,-1440
+feculent peritonitis,-1440
+surgical wound dehiscence,-1440
+percutaneous drainage,-1440
+laparotomy,-1440
+prolonged broad-spectrum antibiotic treatment,-1440
+wound debridements,-1440
+high-protein/caloric diet ordered,-1440
+poor oral intake,-1440
+acetaminophen 650 mg 4 times daily,-1440
+acetaminophen dose increased to 3.9 g/d,-720
+transferred to ICU,0
+hypovolemic shock,0
+new abdominal collections,0
+acute kidney injury,0
+high-anion-gap metabolic acidosis,0
+negative alcohol screen,0
+normal liver function tests,0
+lactate normal,0
+negative for salicylates,0
+mildly elevated beta-hydroxybutyrate,0
+elevated serum osmolal gap,0
+suspected 5-oxoproline accumulation,0
+acetaminophen stopped,0
+volume expansion with dextrose,0
+bicarbonate drip,0
+N-acetyl cysteine administered,0
+sustained low-efficiency dialysis initiated,0
+urine organic acid testing,0
+markedly increased 5-oxoproline excretion,0
+diagnosis confirmed as 5-oxoproline accumulation,0
+improved HAGMA after treatment,24
+vasopressor support,24
+ventilatory support,24
+ventilator-associated pneumonia,24
+transferred to medical ward,48
+recurrent aspirations,48
+respiratory failure,144
+passed away,4320

@@ -1,0 +1,74 @@
+event,time
+59 years old,0
+male,0
+hospitalized to manage cardiac insufficiency,0
+inotropic therapy,0
+intra-aortic balloon,0
+prioritized for cardiac transplantation,0
+pre-transplant period,0
+no infectious complications,0
+blood cultures negative (24 h before transplantation),-24
+blood cultures negative (48 h before transplantation),-48
+bicaval-bipulmonary heart transplantation,0
+surgery to resolve hemostasis,24
+mechanical ventilation,0
+vasoactive drugs,0
+intra-aortic balloon (post-transplant),0
+mycophenolate mofetil,0
+cyclosporine,0
+prednisone,0
+blood culture from donor positive for Gram-negative bacilli,72
+donor receiving piperacillin-tazobactam,0
+piperacillin-tazobactam administered to recipient,72
+recipient clinically stable,72
+no signs of infection,72
+blood cultures collected (recipient),72
+"surveillance cultures (groin, rectal) collected",72
+ColR KPC-Kp identified,120
+recipient blood cultures positive for ColR KPC-Kp,168
+surveillance cultures negative,168
+afebrile,168
+hemodynamically stable,168
+"leukocyte count 26,000 cells/mm3",168
+CRP 6.5 mg/dL,168
+"double-carbapenems (meropenem, ertapenem) started",168
+amikacin started,168
+pericarditis,216
+drainage of 1000 mL exudate,216
+pericardial fluid cultures positive for ColR KPC-Kp,216
+surgical cleaning of pericardium,216
+repeated surgery (8 days later),288
+sternum bone fragment positive for ColR KPC-Kp,288
+worsening respiratory signs,888
+chest CT consolidation with lung fluid levels,888
+pulmonary cavitation due to necrosis,888
+histopathology confirmed necrotizing pneumonia,888
+pulmonary abscess,888
+liquefactive necrosis,888
+necrotizing arteritis,888
+septic shock,888
+linezolid added,888
+fluconazole added,888
+multiple organ failure,1200
+died,1200
+donor: 17 years old,0
+donor: male,0
+donor: traumatic brain injury,0
+donor: hospitalized in ICU for 7 days,-168
+donor: received piperacillin-tazobactam,-168
+donor: received vancomycin,-168
+donor blood cultures negative,0
+donor surveillance cultures negative,0
+splenic artery culture positive for ColR KPC-Kp,0
+kidney recipients: no infectious complications,0
+kidney recipients: no positive cultures,0
+liver not used for transplantation,0
+ColR KPC-Kp resistant to multiple antibiotics,0
+amikacin susceptible,0
+blaKPC gene detected,0
+KPC-2 enzyme,0
+PFGE pattern identical (donor and recipient),0
+MLST ST 437,0
+CC 258,0
+no chest pain,0
+denies shortness of breath,0

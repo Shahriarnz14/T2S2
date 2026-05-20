@@ -1,0 +1,33 @@
+event,time
+64 years old,0
+male,0
+history of alcohol consumption,0
+liver cirrhosis,0
+admitted to the emergency department,0
+productive cough,-48
+exertional dyspnea,-48
+temperature 36 °C,0
+blood pressure 100/60 mmHg,0
+heart rate 78 bpm,0
+respiratory rate 19 bpm,0
+oxygen saturation 96% in ambient air,0
+round opacity in right upper lobe on chest X-ray,0
+laboratory tests within normal ranges,0
+antibiotic therapy for community-acquired pneumonia started,0
+intravenous ceftriaxone,0
+oral clarithromycin,0
+sputum culture positive for E. hormaechei,48
+E. hormaechei sensitive to levofloxacin,48
+therapy modified to levofloxacin,48
+systemic respiratory distress syndrome,48
+intubated,48
+transferred to intensive care unit,48
+mechanical ventilation with lung-protective strategy,48
+hemodynamic instability,72
+additional blood cultures drawn,72
+antibiotic therapy escalation to imipenem/cilastatin,72
+died of septic shock,144
+no clinical improvement,72
+no response to imipenem/cilastatin,144
+liver cirrhosis-associated immunodeficiency,0
+no laboratory tests for immunodeficiency,0

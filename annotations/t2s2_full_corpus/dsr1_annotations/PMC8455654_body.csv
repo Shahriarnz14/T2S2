@@ -1,0 +1,55 @@
+event,time
+15 years old,0
+male,0
+admitted to Emergency Department,0
+fever,-24
+confusion,-24
+ate meat in fast food restaurant,-24
+sweating,-24
+vomiting,-24
+myalgias,-24
+cutaneous rash,-24
+mild confusion,0
+body temperature 38.6°C,0
+blood pressure 60/30 mmHg,0
+heart rate 170 bpm,0
+oxygen saturation 98%,0
+diffuse cutaneous exanthema,0
+chest rash,0
+upper limbs rash,0
+moderate abdominal tenderness,0
+elevated inflammatory markers,0
+"21,000 WBC/mm³",0
+92% neutrophils,0
+CRP 250 mg/L,0
+coagulopathy,0
+acute renal failure,0
+transferred to Intensive Care Unit,0
+stabilized with intravenous fluids,0
+vasopressors,0
+empirical amoxicillin-clavulanate initiated,0
+blood cultures positive for staphylococci,24
+Staphylococcus aureus identification,24
+PBP2a negative,24
+multi-sensitive bacterial strain confirmed,24
+follow-up blood cultures negative,48
+stool culture negative,48
+trans-esophageal echocardiography normal,48
+intravenous antibiotics for 7 days,0
+discharged with oral antibiotics,168
+hand desquamation,336
+feet desquamation,336
+tsst-1 gene present,24
+eta toxin absent,24
+etb toxin absent,24
+t2509 Staphylococcus aureus strain,24
+no medical history,0
+no recent travel,0
+no risk factors for TSS,0
+no tampon use,0
+no surgical wound,0
+food poisoning suspected,0
+bacteremia,0
+toxic shock syndrome,0
+septic shock,0
+multiple organ failure,0

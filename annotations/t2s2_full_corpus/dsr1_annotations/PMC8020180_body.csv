@@ -1,0 +1,59 @@
+event,time
+47 years old,0
+male,0
+COVID-19 diagnosis confirmed by RT-PCR,0
+hospitalized,-144
+shortness of breath,-144
+anginal pain,-48
+hypertension,0
+fever,-240
+non-productive cough,-240
+dyspnea,-240
+progressive oxygen desaturation,-96
+admitted to ICU,-96
+"thorax CT with bilateral infiltrates, ground glass opacities, crazy paving, consolidation",-96
+enoxaparin sodium,-96
+prednisolon iv,-96
+moxifloksasin iv,-96
+amlodipin po,-96
+favirapiravir,-240
+ceftriaxone iv,-240
+high-flow nasal oxygen (HFNO),0
+blood pressure 135/68 mmHg,0
+heart rate 73 bpm,0
+oxygen saturation 88-93%,0
+body temperature 36.7°C,0
+normal cardiac examination,0
+inferior STEMI on ECG,0
+acetylsalicylic acid,0
+ticagrelor,0
+heparin treatment,0
+cardiac symptoms decreased,0.5
+cardiac symptoms disappeared,0.5
+coronary angiography shows 30-40% stenosis LAD,0.5
+"normal LMCA, LCx, RCA",0.5
+ST segment elevation regression,0.5
+hs-cTnI 0.012 ng/mL,0
+hs-cTnI 0.056 ng/mL post-procedure,0.5
+normal kidney function,0
+normal liver function,0
+increased d-dimer (520 ng/mL),0
+increased fibrinogen (589 mg/dL),0
+increased ferritin (1693 ng/mL),0
+increased LDH (466 U/L),0
+increased CRP (4.1 mg/dL),0
+normal pro-BNP (20 pg/mL),0
+CTPA no pulmonary embolism,0.5
+MINOCA diagnosis,0.5
+cardiogoniometry shows septal inferior myocardial ischemia,24
+clinical improvement,120
+hemodynamic improvement,120
+transferred to medical ward,120
+discharged,264
+no significant stenosis in coronary angiography,0.5
+no evidence of pulmonary embolism,0.5
+typical angina pain,0
+ST elevation in inferior leads,0
+no myocarditis,0
+no sepsis,0
+no renal disorders,0

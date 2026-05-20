@@ -1,0 +1,89 @@
+event,time
+33 years old,0
+male,0
+history of alcohol use disorder,0
+history of seizures,0
+presented to emergency room,0
+self-reported seizure at home,"-24 (assuming ER presentation was day 0, seizure occurred before arrival)"
+hypothermic,0
+tachypneic,0
+required BiPAP ventilation,0
+CT abdomen/pelvis: cirrhotic liver,0
+large volume ascites,0
+bilateral pleural effusions,0
+admitted to step down unit,0
+anion gap metabolic acidosis,0
+sepsis,0
+urinary tract infection,0
+cirrhosis,0
+hypoxemic respiratory failure,0
+WBC 7.15/uL,0
+hemoglobin 5.7 g/dL,0
+hematocrit 17.10%,0
+platelets 98/mcL,0
+albumin 1.9 g/dL,0
+alkaline phosphatase 150 U/L,0
+AST 61 U/L,0
+ALT 13 U/L,0
+pH 7.33,0
+bicarbonate 21 mEq/L,0
+anion gap 18 mEq/L,0
+thoracentesis performed,+24 (third day of admission)
+paracentesis performed,+24
+developed melena,+72 (third day of admission)
+gastroenterology consult,+72
+interventional radiology consult,+72
+MELD score 19,+72
+TIPS procedure performed,+216 (9 days after admission)
+platelet transfusion,+216
+ultrasound-guided jugular access,+216
+angiography,+216
+hepatic venography,+216
+TIPS needle puncture,+216
+portal vein access confirmed,+216
+angiographic catheter placement,+216
+portal pressure management,+216
+varices visualized,+216
+balloon catheter dilation,+216
+stent deployment,+216
+gradient reduction confirmed,+216
+venography confirmed variceal bleeding stopped,+216
+somnolent post-TIPS,+220 (same night after procedure)
+systolic BP in 80s,+220
+rapid response called,+220
+hemoglobin drop to 4.5 g/dL,+220
+WBC elevated,+220
+2 units RBC transfused,+220
+CT abdomen post-TIPS,+220
+patent shunt,+220
+liver decreased enhancement,+220
+dense material in lesser sac,+220
+blood clots suspected,+220
+no active extravasation,+220
+upgraded to ICU,+220
+4 units RBC,+220
+5% albumin,+220
+2 units cryoprecipitate,+220
+3 units FFP,+220
+multiple transfusions subsequent days,+240 to +336 (next few days after TIPS)
+coagulopathy,+240
+prolonged INR/PT,+240
+prolonged aPTT,+240
+hematology consult,+240
+IV vitamin K 10 mg daily,+240
+cryoprecipitate transfusions,+240
+fibrinogen target 100-120,+240
+"platelet count maintained >50,000",+240
+cyanocobalamin 1000 mcg,+240
+ferrous sulfate 3x daily,+240
+folic acid continued,+240
+prothrombin complex contingency,+240
+angiogram day 16,+384 (day 16 of hospitalization)
+no active extravasation,+384
+post-TIPS venogram,+384
+patent shunt confirmed,+384
+hemoglobin stabilized,+384
+hematocrit stabilized,+384
+discharge,+432 (assuming discharge after stabilization day 18)
+denied liver transplant transfer,+432
+outpatient ESRD follow-up,+432

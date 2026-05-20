@@ -1,0 +1,81 @@
+pmcIntroduction
+
+Raised anion gap metabolic acidosis (RAGMA) is a commonly encountered acid–base disturbance in clinical practice. Aetiologies for RAGMA were previously represented by the popular mnemonic MUDPILES, which stands for Methanol, Uraemia, Diabetic ketoacidosis, Paraldehyde, Iron or Isoniazid, Lactic acidosis, Ethylene glycol, and Salicylate. This old mnemonic includes underrepresented and lately identified but also important causes of RAGMA. The new mnemonic GOLDMARK was first introduced by Mehta et al. [1] as an acronym for Glycols (ethylene and propylene glycol), Oxoproline, L-lactate, D-Lactate, Methanol, Aspirin, Renal failure, and Ketoacidosis. Oxoproline refers to 5-oxoprolinuria which is also known as pyroglutamic acidosis (PGA). This increasingly recognised entity is caused by an accumulation of the endogenous organic acid in the γ-glutamyl cycle, pyroglutamic acid (5-oxoproline). PGA is most frequently associated with chronic acetaminophen (APAP) use. We report a 73-year-old man with invasive pulmonary aspergillosis on long term voriconazole and chronic daily APAP ingestion for pain control during his hospital stay, who subsequently developed severe RAGMA.
+
+Case report
+
+A 73-year-old man with inoperable adenocarcinoma of the right lung received concurrent chemoradiotherapy. The irradiated site developed Salmonella Group D necrotising pneumonia, which progressed to extra-thoracic extension and caused empyema necessitans, a year before the relevant admission to the medical ward. In the index admission, the patient was admitted for haemoptysis and purulent discharge at the site of empyema necessitans. Invasive pulmonary aspergillosis (IPA) was suspected based on the clinical symptom haemoptysis and radiological finding of persistent cavitation on computed tomography (CT) of the thorax. Diagnosis of IPA was further supported by an elevated serum ß-D-glucan titre at 139 pg/ml (Positive ≥ 80 pg/ml), a positive serum galactomannan assay, and growth of Aspergillus niger in his sputum. He was placed on a 6-week course of voriconazole 400 mg/day to treat probable IPA. Multiple intravenous antibiotics including cefoperazone-sulbactam, metronidazole, vancomycin, piperacillin-tazobactam, and meropenem were administered on separate occasions as anti-bacterial coverage. He was also given acetaminophen (APAP) regularly at a therapeutic dose of 4 g/day due to intractable pain at the cavitation site.
+
+On day 40 of the hospital stay, the patient developed acidotic breathing, and blood gas analysis showed severe metabolic acidosis with raised anion gap (Table 1). There was no lactic acidosis, and his serum osmolal gap was normal. There was no exposure to salicylate, toxic alcohols, or glycols. Although both his creatinine and beta-hydroxybutyrate levels were moderately raised, these were not sufficient to account for the degree of metabolic acidosis. Urine anion gap (UAG) was grossly elevated which indicated increased excretion of unmeasured anions in urine. PGA was suspected at this point, in light of an unexplained RAGMA, positive UAG, and chronic APAP use since hospital admission with a total cumulative dose of 160 g.
+
+Table 1: Relevant laboratory studies on day of diagnosis
+
+Parameter	Result	Reference interval	
+Venous blood	
+Sodium, plasma (mmol/L)	142	137– 44 mmol/L	
+Potassium, plasma (mmol/L)	4.4	3.5–4.5 mmol/L	
+Chloride, plasma (mmol/L)	107	98–107 mmol/L	
+Bicarbonate, plasma (mmol/L)	5.8 (L)	23–27 mmol/L	
+Anion gap* (mmol/L)	29 (H)	8–12 mmol/L	
+Albumin, plasma (g/L)	25 (L)	35–52 mmol/L	
+Total bilirubin, plasma (μmol/L)	5	<19 μmol/L	
+ALP, plasma (U/L)	251 (H)	43–105 U/L	
+ALT, plasma (U/L)	11	<53 U/L	
+Urea, plasma (mmol/L)	4.9	3.1–7.8 mmol/L	
+Creatinine, plasma (μmol/L)	176 (H)	65–109 μmol/L	
+eGFR (CKD-EPI) (ml/min/1.73m2)	32	>90 ml/min/1.73m2	
+Lactate, plasma (mmol/L)	2.4 (H)	<2.2 mmol/L	
+Beta-hydroxybutyrate, plasma (mmol/L)	2.92 (H)	≤0.30 mmol/L	
+Osmolality, serum (mOsm/kg)	294	274–295 mOsm/kg	
+Osmolal gap, plasma** (mOsm/kg)	3	<10 mOsm/kg	
+Random glucose, plasma (mmol/L)	8.3	-	
+Acetaminophen, serum (μmol/L)	119	Therapeutic range: 66–199 μmol/L	
+Arterial blood	
+pH	7.17 (L)	7.35–7.45	
+PaCO2 (kPa)	1.73	4.66–6.00 kPa	
+PaO2 (kPa)	12.4	10–13.33 kPa	
+Actual bicarbonate (mmol/L)	4.7 (L)	22–26 mmol/L	
+Base excess (mmol/L)	−21.7 (L)	–2.0–+2.0 mmol/L	
+Spot urine	
+Sodium, urine (mmol/L)	93	-	
+Potassium, urine (mmol/L)	26	-	
+Chloride, urine (mmol/L)	<20	-	
+Urine anion gap*** (mmol/L)	>99 (H)	<10 mmol/L	
+Urine organic acids analysis by LC-MS/MS.	Significant hyper-excretion of pyroglutamic acid.		
+1 Remarks: eGFR: estimated glomerular filtration rate; CKD-EPI: Chronic Kidney Disease Epidemiology Collaboration.
+
+* Plasma anion gap = (Plasma Na+ + Plasma K+) – (Plasma Cl− - Plasma HCO3−)
+
+** Osmolal gap = Measured osmolality – Calculated osmolality [2(Plasma Na+) + Plasma urea + Plasma glucose]
+
+*** Urine anion gap = Urine Na+ + Urine K+ - Urine Cl−
+
+The prescription of APAP was immediately discontinued. Intravenous N-acetylcysteine (NAC) infusion was given according to the standard 3-bag regimen for acute APAP poisoning (150 mg/kg over the first hour, 50 mg/kg over the next 4 hours, 100 mg/kg over the next 16 hours). The patient was transferred to the intensive care unit (ICU) for close monitoring. The acid–base imbalance rapidly improved (pH 7.38, HCO3− 19.9 mmol/L, BE −4.7 mmol/L) following treatment. He was discharged from the ICU to the medical ward on day 43 of hospital stay. Urine organic acid profile revealed significant hyper-excretion of pyroglutamic acid, confirming the diagnosis of PGA retrospectively. Unfortunately, despite the resolution of PGA, the patient developed massive haemoptysis due to uncontrolled IPA and eventually died on day 61 of his hospital stay.
+
+Discussion
+
+It has been widely recognised that in acute APAP overdose, saturation of sulfation, and glucuronidation systems together with glutathione depletion results in an accumulation of the toxic metabolite N-acetyl-p-benzoquinoneimine (NAPQI), which inhibits mitochondrial respiration and causes direct hepatocellular necrosis, resulting in severe lactic acidosis. On the other hand, chronic APAP ingestion, even within therapeutic doses, may nevertheless lead to toxicity in susceptible individuals by causing PGA. This is due to the interruption of the γ-glutamyl cycle which governs the synthesis and metabolism of glutathione, probably via an ATP-depleting cycle of reactions as depicted in Figure 1. In patients with debilitating illness and/or malnourishment who are on chronic APAP treatment, there may be depletions of both glutathione and cysteine stores. Glutathione depletion generates the negative feedback on γ-glutamyl-cysteine synthetase, which catalyses a two-step reaction for synthesis of γ-glutamyl-cysteine from glutamic acid. Because of concomitant cysteine depletion, such a reaction cannot be completed. Instead, γ-glutamyl-phosphate is formed at the expense of ATP and is spontaneously hydrolysed into pyroglutamic acid. With consumption of ATP, 5-oxoprolinase metabolises pyroglutamic acid back into glutamic acid. The newly formed glutamic acid may then be converted into γ-glutamyl-phosphate and subsequently pyroglutamic acid again. As such, an ATP-consuming futile cycle is established, and with ATP depletion, there will be a subsequent accumulation of pyroglutamic acid leading to RAGMA [2].
+
+Figure 1. Pathway of glutathione synthesis and mechanism of pyroglutamic acidosis in cysteine and glutathione depletion.
+
+Inherited forms of PGA are rare and mostly due to glutathione synthetase deficiency, which can manifest as severe metabolic acidosis, haemolytic anaemia, and progressive encephalopathy. Acquired PGA, usually associated with chronic APAP intake, is more common and was first described in 1989 [3]. Additional risk factors for PGA include female sex, malnourishment, concomitant sepsis, hepatic and renal impairment [4, 5]. These risk factors are prevalent and often co-existent in hospitalised patients. Therefore, PGA is likely to be an underrecognised and underdiagnosed condition. Concurrent use of the antibiotics flucloxacillin and netilmicin [6], and the anticonvulsant vigabatrin [7] have also been implicated in PGA. These drugs inhibit the enzyme 5-oxoprolinase, preventing the breakdown of pyroglutamic acid into L-glutamate, resulting in an accumulation of pyroglutamic acid [6].
+
+Urine pyroglutamic acid to creatinine (Cr) ratio in our patient was estimated to be 1716 μmol/mmol Cr as measured by liquid chromatography–mass spectrometry (LC-MS/MS). This high level of urine pyroglutamic acid was at comparable levels as reported PGA cases in the literature, ranging from 700 to 11000 μmol/mmol creatinine [8–10]. Because measurement of pyroglutamic acid is only available in specialised metabolic laboratories, it can be difficult to confirm the diagnosis of PGA. On the other hand, UAG is a readily available test which may provide a clue as to the diagnosis. As in our patient, a positive UAG indicates increased excretion of unmeasured anions in urine, including pyroglutamic acid. Though such a finding is non-specific, it would nevertheless be useful if interpreted in a proper clinical context. In addition, it must be noted that a therapeutic level of APAP does not rule out the diagnosis of PGA as the pathogenesis is different from acute overdose.
+
+Apart from chronic APAP ingestion, additional risk factors are often present in patients with PGA. Our patient had chronic infection, prolonged hospitalisation, and malnutrition, which likely led to a depletion of glutathione and cysteine stores. His renal impairment likely also reduced the clearance of pyroglutamic acid and contributed to its accumulation. The patient was also on chronic voriconazole, which has also been reported to cause glutathione depletion and have potential hepatotoxicity based on an animal study [11]. Recently, a 7-year-old patient with leukaemia who was given chronic APAP, antibiotics, and antifungals including voriconazole was reported to have developed PGA [12]. These findings suggest that voriconazole might be a contributing culprit. We would like to advise cautious use of APAP in susceptible individuals, particularly patients with multiple of the aforementioned risk factors. Prolonged use of APAP should be avoided, the dosages should be kept to a minimum, and alternative analgesics should be used where appropriate.
+
+Treatment for PGA should be initiated based on clinical grounds and must not be delayed until laboratory confirmation. APAP and other offending agents should be withheld, and alternative prescriptions should be employed where appropriate. NAC is widely used as an antidote for acute APAP poisoning and is the standard treatment for hereditary glutathione synthetase deficiency. Its mechanism of action is regeneration of glutathione and cysteine stores [13]. Although there has been limited experience with its use in acquired PGA and the optimal dosage is not uncertain, it appears to be safe and effective according to published case reports [4, 5, 9, 10]. We adopted the treatment protocol as in acute APAP poisoning and demonstrated rapid reversal of acidosis with no noticeable adverse effects after NAC administration in our patient.
+
+This case illustrates acute severe RAGMA due to PGA in a patient on therapeutic doses of APAP. Although PGA is a recognised entity in literature, this represents the first reported local case of PGA in Hong Kong. Extra caution should be exercised when administering repetitive doses of APAP in hospitalised patients at risk of glutathione depletion. Prolonged use of high therapeutic APAP doses, such as 4 g/day in our case, should be avoided. PGA should be considered when patients develop unexplained RAGMA. Elevation of UAG reflect urinary excretion of unmeasured organic acids and may be an informative adjunct to the diagnosis of PGA in an appropriate clinical context. Diagnosis of PGA should be confirmed by measuring organic acids in the serum or urine. However, testing may not be readily available, and results are often delayed. High clinical suspicion in at-risk patients is the key to a timely diagnosis and effective treatment by withholding the offending agents and giving NAC empirically.
+
+Ethics committee approval: None.
+
+Informed consent: Written informed consent was obtained from the patient’s wife for the publication of this case report.
+
+Author contributions: WWSN helped with manuscript conception, data collection, data interpretation, writing of the manuscript, and critical review of the manuscript. HFT helped with manuscript conception, data interpretation, writing of the manuscript, and critical review of the manuscript. WYN helped with manuscript conception, data interpretation, writing of the manuscript, and critical review of the manuscript. JKHY helped with data collection and critical review of the manuscript. JKYY helped with data collection and critical review of the manuscript. RKWW helped with critical review of the manuscript. MMLW helped with critical review of the manuscript. All authors approved the final version of the manuscript to be published and are accountable for all aspects of the work.
+
+Data availability statement: None.
+
+Conflict of interest: None declared.
+
+Financial disclosure: None.

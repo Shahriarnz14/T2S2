@@ -1,0 +1,92 @@
+event,time
+75 years old,0
+woman,0
+brought to the emergency department,0
+unconscious,0
+productive cough,-96
+fever up to 39°C,-96
+high blood pressure,0
+paroxysmal atrial fibrillation,0
+type 2 diabetes,0
+bisoprolol,0
+propafenone,0
+atorvastatin,0
+metformin,0
+aspirin,0
+nonsmoker,0
+no occupational exposures,0
+tachypnoea,0
+tachycardia,0
+atrial fibrillation,0
+normal blood pressure,0
+transcutaneous arterial oxygen saturation decreased to 86% in room air,0
+diffuse wheezing,0
+diminished breath sounds,0
+mild dullness at the right base of the lung,0
+white blood cell count 20.9×109 cells per L,0
+neutrophils 17.2×109 cells per L,0
+C-reactive protein 326.1 mg·L−1,0
+elevated liver transaminases,0
+alanine aminotransferase 3216 U·L−1,0
+aspartate aminotransferase 4359 U·L−1,0
+decreased kidney function,0
+creatinine 313 µmol·L−1,0
+urea 26.2 mmol·L−1,0
+severe hypercapnic respiratory failure,0
+carbon dioxide tension (PaCO2) of 107 mmHg,0
+oxygen tension (PaO2) of 63 mmHg,0
+pH 7.04,0
+HCO3− 28.9 mmol·L−1,0
+chest CT performed,0
+pulmonary oedema,0
+right-sided infiltrates characteristic of aspiration pneumonia,0
+right-sided aspiration pneumonia,0
+intravenous piperacillin/tazobactam initiated,0
+intubated,24
+mechanically ventilated,24
+transferred to the ICU,24
+overall status improved,72
+regained consciousness,72
+laboratory tests returned to normal,72
+bronchoalveolar lavage cultures positive for Haemophilus influenzae,72
+persistent hypercapnic respiratory failure,72
+PaCO2 71 mmHg,72
+PaO2 85 mmHg,72
+pH 7.34,72
+HCO3− 38.3 mmol·L−1,72
+tracheostomy performed,72
+mechanical ventilation discontinued,360
+breathing spontaneously through tracheostomy tube,360
+dyspnoea,360
+mild weakness,360
+pressure support ventilation continued,360
+multiple attempts to evacuate tracheostomy tube unsuccessful,432
+severe shortness of breath,432
+stridor,432
+acute respiratory insufficiency,432
+tracheal dyskinesia,432
+bilateral vocal cord paresis,432
+CT head and chest showed no major pathology,432
+no recent history of surgery,432
+no recent history of trauma,432
+neuromuscular pathology suspected,432
+slight muscular weakness in proximal leg muscles,432
+fatigability of extraocular muscles,432
+myasthenia gravis suspected,432
+critical illness polyneuropathy,432
+Guillain–Barré syndrome,432
+AChR antibodies negative,432
+MuSK antibodies not tested,432
+RNS studies showed decremental muscle electrical response,432
+myasthenia gravis diagnosed,432
+pyridostigmine 150 mg·day−1 initiated,432
+prednisolone 5 mg·day−1 initiated,432
+prednisolone dosing increased to 45 mg·day−1,504
+patient's status greatly improved,504
+dyspnoea disappeared,504
+difficulty breathing disappeared,504
+hypercapnia resolved,504
+PaCO2 returned to normal,504
+active and capable of all self-care,1008
+permanent tracheostomy tube placed,1008
+discharged,1008

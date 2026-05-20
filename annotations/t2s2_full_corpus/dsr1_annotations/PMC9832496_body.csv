@@ -1,0 +1,54 @@
+event,time
+28 years old,0
+nonpregnant,0
+female,0
+no known comorbidities,0
+fever,-120
+epistaxis,-120
+high grade fever,0
+tachycardia,0
+blood pressure 80/50 mmHg,0
+mild icterus,0
+no organomegaly,0
+chest clear,0
+hemoglobin 13.3 g/dL,0
+"total leukocyte count 15,200/cu.mm",0
+"platelets 30,000/cumm",0
+prerenal acute kidney injury,0
+total bilirubin 3.2 mg/dL,0
+mild serum transaminitis,0
+peripheral smear trophozoites of Plasmodium vivax,0
+peripheral smear schizonts of Plasmodium vivax,0
+complicated vivax malaria,0
+sepsis,0
+multi-organ dysfunction,0
+fluids,0
+inotropic support,0
+parenteral anti-malarials,0
+platelet transfusion,0
+hemoptysis,48
+tachypnea,48
+bilateral diffuse coarse crepitations,48
+chest-X-ray bilateral diffuse opacities,48
+pH 7.44,48
+HCO3 15 mEq/l,48
+PaO2 44.5 mmHg,48
+PaCO2 16 mmHg,48
+PaO2/FiO2 <100,48
+hemoglobin 10.5 mg/dL,48
+shifted to intensive care unit,48
+diffuse alveolar hemorrhage,48
+oxygen inhalation,48
+mechanical ventilation,72
+intravenous steroids,72
+blood culture negative,72
+urine culture negative,72
+ultrasonography abdomen polyserositis,72
+moderate ascites,72
+minimal bilateral pleural effusion,72
+Dengue NS1ag positive,72
+Chikungunya IgM positive,72
+reverse transcription polymerase chain reaction positive for dengue,72
+reverse transcription polymerase chain reaction positive for chikungunya,72
+"co-infection with malaria, dengue, chikungunya",72
+succumbed,96

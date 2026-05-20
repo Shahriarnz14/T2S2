@@ -1,0 +1,128 @@
+event,time
+24 years old,0
+mother,0
+second pregnancy,0
+negative human immunodeficiency virus testing,0
+worked in health-care,0
+presented to the emergency department,0
+fever,-72
+constitutional symptoms,-72
+preterm labor,-72
+leukocytosis,0
+elevated C-reactive protein,0
+delivered vaginally,0
+preterm infant,0
+"weight 1,730 g",0
+length 46 cm,0
+Apgar score 2,0
+Apgar score 7,0
+vaginal hyperthermia,0
+warm amniotic fluid,0
+treatment for chorioamnionitis,0
+transferred to neonatal unit,0
+mild respiratory distress,0
+suspected sepsis,0
+ampicillin,0
+gentamycin,0
+normal laboratory examinations,0
+negative blood cultures,0
+completed 7 days of antibiotics,168
+discharged,168
+post-partum period,168
+fever,168
+abdominal pain,168
+foul smelling lochia,168
+acute abdomen,168
+antimicrobial therapy,168
+computed tomographic scan,192
+signs of peritonitis,192
+exploratory laparotomy,192
+acute pelvic peritonitis,192
+severe inflammatory changes,192
+necrotic changes,192
+uterus,192
+ovaries,192
+fallopian tubes,192
+hysterectomy,192
+left salpingectomy,192
+appendectomy,192
+post-operative period,192
+febrile,192
+worsening respiratory distress,192
+bilateral alveolar infiltrates,192
+pneumonia,192
+small pleural effusion,192
+chest X-ray,192
+broad spectrum antibiotics,192
+transferred to intensive care unit,408
+ventilator support,408
+chronic granulomatous inflammation,408
+necrotic changes,408
+ovaries,408
+cervix,408
+uterus,408
+appendix,408
+acid-fast bacilli stains positive,408
+diffuse bilateral nodular infiltrates,408
+miliary TB,408
+four-drug regimen,408
+isoniazid,408
+rifampin,408
+pyrazinamide,408
+ethambutol,408
+bronchoalveolar lavage positive,408
+Mycobacterium tuberculosis isolated,408
+readmitted,456
+19 days old,456
+good condition,456
+no fever,456
+no respiratory distress,456
+no hepatosplenomegaly,456
+adequate weight gain,456
+normal chest X-ray,456
+normal laboratory tests,456
+negative tuberculin test,456
+negative gastric aspirates,456
+developed apnea,504
+desaturations,504
+"leukocytosis 15,300/mm3",504
+neutrophil predominance 64%,504
+"platelets 386,000/mm3",504
+CRP 5.3 mg/dL,504
+bilateral alveolar infiltrates,504
+suspected nosocomial pneumonia,504
+antibiotics started,504
+negative CSF cultures,504
+negative blood cultures,504
+negative urine cultures,504
+worsening respiratory distress syndrome,504
+gastric aspirates AFB positive,504
+four-drug regimen,504
+amikacin,504
+lumbar puncture,504
+normal CSF indexes,504
+negative AFB stain,504
+positive PCR for M. tuberculosis,504
+M. tuberculosis isolated from gastric aspirates,504
+negative CSF cultures,504
+normal brain MRI,504
+susceptibility to first-line anti-TB drugs,504
+steady improvement,528
+resolution of fever,528
+oxygen requirements resolved,528
+improved chest X-ray,720
+negative gastric aspirates,720
+discharged home,720
+completed 12 months of anti-TB therapy,8760
+mild transient hepatotoxicity,0
+mother completed treatment,8760
+clinical resolution,8760
+congenital TB,0
+maternal disseminated disease during pregnancy,-672
+exclusion of postnatal transmission,504
+normal CSF indices,504
+preterm labor,0
+low birth weight,0
+intrauterine growth retardation,0
+obstetric morbidity,0
+central nervous system involvement,504

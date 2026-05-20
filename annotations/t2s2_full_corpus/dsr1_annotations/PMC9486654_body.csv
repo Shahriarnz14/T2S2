@@ -1,0 +1,82 @@
+event,time
+73 years old,0
+female,0
+arterial hypertension,0
+calcium channel blocker use,0
+admitted to emergency department,0
+diffuse abdominal pain,-504
+right hypochondrium pain,-504
+episodic hepatic colic,-168
+fever,-168
+cholestatic jaundice,-168
+hemodynamic instability,0
+blood pressure 80/50 mmHg,0
+heart rate 135 bpm,0
+cold extremities,0
+prolonged capillary refill time,0
+respiratory rate 25 bpm,0
+SpO2 92%,0
+Glasgow Coma Scale 14/15,0
+body temperature 39.2°C,0
+BMI 32 kg/m²,0
+oligo-anuria,0
+tachycardia,0
+confusion,0
+diffuse abdominal tenderness,0
+right hypochondrium defense,0
+positive Murphy sign,0
+transferred to intensive care unit,0
+vascular filling with 2L saline,0
+no hemodynamic response,0
+no renal response,0
+noradrenaline 0.4 μg/kg/min,0
+central venous pressure 1 mmHg,0
+ceftriaxone,0
+metronidazole,0
+blood cultures performed,0
+sinus rhythm 137 bpm,0
+no acute cor pulmonale,0
+LVEF 50%,0
+normal chest X-ray,0
+uncompensated metabolic acidosis,0
+hyperlactatemia 7.02 mmol/L,0
+leukocytosis 15280/μL,0
+thrombocytopenia 80000/μL,0
+hemoglobin 8.2 g/dL,0
+CRP 336 mg/L,0
+procalcitonin 45 μg/L,0
+ferritin 1500 μg/L,0
+prothrombin time 50%,0
+prolonged aPTT,0
+AST 73 U/L,0
+ALT 92 U/L,0
+total bilirubin 27 mg/dL,0
+direct bilirubin 22 mg/dL,0
+GGT 498 U/L,0
+ALP 425 U/L,0
+LDH 214 U/L,0
+urea 4.5 g/L,0
+creatinine 100 mg/L,0
+potassium 7.2 mEq/L,0
+sodium 137 mEq/L,0
+corrected calcium 90 mg/L,0
+lipase 12 IU/L,0
+sterile urine culture,0
+acute cholangitis,0
+gallbladder distension,0
+thickened gallbladder wall 8mm,0
+intrahepatic bile duct dilation,0
+abdominal CT scan,24
+Mirizzi syndrome diagnosis,24
+vitamin K 10mg IV,24
+septic shock,24
+acute renal failure,24
+ictero-uremigenic angiocholitis diagnosis,24
+increased norepinephrine dose,24
+dobutamine introduction,24
+hemodialysis session,48
+metabolic acidosis,48
+hyperkalemia,48
+anuria,48
+cardiorespiratory arrest,48
+death,48

@@ -1,0 +1,75 @@
+event,time
+50 years old,0\
+female,0\
+abdominal pain,-240\
+abdominal pain mild,-240\
+abdominal pain colicky,-240\
+right flank pain,-240\
+nausea,-240\
+vomiting,-240\
+pain worsened,0\
+collapsed while walking,0\
+transferred to hospital,0\
+acute surgical abdomen,0\
+CT scan,0\
+appendix enhanced oedematous wall,0\
+adjacent retroperitoneal subhepatic air,0\
+mild collection,0\
+perforated subhepatic appendix,0\
+diagnosed acute abdomen,0\
+perforated appendix,0\
+peritonitis,0\
+sepsis,0\
+urgent laparotomy,0\
+pus evacuated,0\
+appendix retrocecal,0\
+appendix subhepatic,0\
+appendix perforated,0\
+retrograde appendectomy,0\
+culture and sensitivity swabs taken,0\
+abdomen washed extensively,0\
+suction drains secured right abdomen,0\
+surgery not complicated,0\
+admitted surgical intensive care unit,0\
+managed accordingly,0\
+estimate recovery discharge within 10 days,0\
+treated with antimicrobials,0\
+based culture and sensitivity report,0\
+did not improve as expected,24\
+drains continued 200 ml pus daily,24\
+appropriate antimicrobial coverage,24\
+developed respiratory distress,288\
+intubated,288\
+mechanically ventilated,288\
+second abdominal CT scan,288\
+ill-defined retroperitoneal collection,288\
+right side,288\
+two pockets collection right retroperitoneal area,288\
+first pocket under abdominal muscles peripherally,288\
+second pocket anterior Gerota’s fascia right kidney,288\
+ultrasound-guided drainage,288\
+drained 300 ml pus,288\
+condition improved,312\
+extubated,312\
+discharged ICU regular ward,456\
+total ICU stay 19 days,456\
+accidentally removed drains,504\
+repeated CT scan,504\
+well-defined enhanced collections,504\
+right retroperitoneal space,504\
+left retroperitoneal space,504\
+evidence fat-pus level,504\
+infectious fat necrosis,504\
+offered another drain attempt,504\
+refused procedure,504\
+chose discharge,504\
+total hospital stay 36 days,504\
+sent home cefepime,504\
+sent home vancomycin,504\
+sent home metronidazole,504\
+no RLQP,-240\
+no typical acute appendicitis symptoms,-240\
+no early MDCT scan,-240\
+no second surgical examination initially,288\
+no effective communication between specialists,0\
+no complications during surgery,0

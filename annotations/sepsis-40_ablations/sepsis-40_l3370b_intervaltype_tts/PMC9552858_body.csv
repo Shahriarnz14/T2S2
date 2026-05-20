@@ -1,0 +1,95 @@
+event,time
+male,0
+premature birth,-672
+emergency cesarean delivery,-672
+abruptio placenta,-672
+birth weight 1090g,-672
+Apgar 4 and 8,-672
+respiratory distress,-672
+mild respiratory distress,-672
+respiration rate 65 breaths per min,-672
+chest retraction,-672
+CPAP machine,-672
+positive end expiratory pressures 6,-672
+inspired oxygen 30%,-672
+cloudy eyes,0
+ectropion,0
+dry ichthyotic skin,0
+typical male genitalia,0
+bilateral undescended testicles,0
+height 75th percentile,0
+weight 25th percentile,0
+head circumference 25th percentile,0
+temperature 36.2°C,0
+heart rate 167 beats per min,0
+pulsations well felt,0
+breath sounds equal,0
+no organomegaly,0
+normal blood count,0
+normal electrolytes,0
+normal liver function,0
+respiratory distress syndrome,0
+ground-glass opacity,0
+minor respiratory acidosis,0
+surfactant dosage,0
+CPAP assistance,0
+bowel movement at 12h,-12
+trophic feeding,-72
+breast milk,-72
+abdominal distension,144
+tachycardia,144
+tachypnea,144
+thrombocytopenia,144
+neutropenia,144
+C-reactive protein 70 mg/L,144
+meropenem,144
+vancomycin,144
+antibiotics discontinued,216
+feeding restarted,216
+high-flow oxygen treatment,336
+relapses of unexplained apnea,504
+CPAP,504
+septic examination negative,504
+brain MRI normal,504
+nasogastric tube,504
+conjugated hyperbilirubinemia,504
+total bilirubin 69.8 umol/L,504
+neonatal cholestasis workup,504
+experts suspected hepatitis and TPN,504
+genetic studies,504
+X-ray of spine normal,504
+echocardiogram normal,504
+eye test normal,504
+skull X-ray revealed craniosynostosis,504
+hepatosplenomegaly not seen,504
+biliary atresia not seen,504
+albumin level decline,504
+"bilirubin, AST, and ALT levels rose",504
+multiple albumin infusions,504
+ursodeoxycholic acid 30 mg/kg/day,504
+infectious etiology investigation,504
+"TSH, T3, T4, and cortisol normal",504
+metabolic disorders negative,504
+micropenis not detected,504
+whole genomic sequence,672
+NOTCH2 gene mutation,1008
+heterozygous variant c.1076c>T,1008
+pathogenic variant,1008
+severe cyanosis,1008
+apnea,1008
+bradycardia,1008
+cardio-respiratory resuscitation,1008
+intubation,1008
+mechanical breathing,1008
+epinephrine,1008
+septic shock,1008
+multiorgan failure,1008
+disseminated intravascular coagulation,1008
+acute renal damage,1008
+capillary leak syndrome,1008
+death,2400
+ALGS2 diagnosis,2400
+NOTCH2 mutation,2400
+craniosynostosis,504
+ichthyosis,0
+genetic counseling,2400

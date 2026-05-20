@@ -1,0 +1,68 @@
+event,time
+81 years old,0
+female,0
+multiple myeloma,0
+dexamethasone,0
+zoledronic acid,0
+breast cancer,-43800
+lumpectomy,-43800
+radiation therapy,-43800
+breast cancer remission,0
+hypertension,0
+hypothyroidism,0
+admitted to the hospital,0
+cough,-168
+runny nose,-168
+sore throat,-168
+denied fever,0
+denied shortness of breath,0
+denied chest pain,0
+denied skin rashes,0
+denied abdominal pain,0
+denied diarrhea,0
+tachypnea,0
+no pharyngeal erythema,0
+no tonsil exudates,0
+no respiratory accessory muscle use,0
+lungs clear to auscultation,0
+no skin rashes,0
+white blood cell count 15.1 × 10^9/L,0
+95% segmented neutrophils,0
+bicarbonate 17 mmol/L,0
+lactate 1.5 mmol/L,0
+procalcitonin 0.28 ng/mL,0
+chest radiograph no consolidations,0
+computed tomography chest small airway disease,0
+RSV polymerase chain reaction positive,0
+required 2 L oxygen by nasal cannula,0
+increased oxygen requirements,48
+required high-flow oxygen,48
+ribavirin started,48
+transferred to ICU,120
+intubated,120
+respiratory distress,120
+extubated,216
+bilateral lower extremity weakness,216
+absent lower extremity deep tendon reflexes,216
+paresthesias of feet,216
+weakness progressed,216
+upper extremities involved,240
+normal electrolytes,216
+normal complete blood count,216
+normal procalcitonin,216
+alkaline phosphatase 62 U/L,216
+alanine aminotransferase 22 U/L,216
+aspartate aminotransferase 57 U/L,216
+creatine kinase 198 U/L,216
+bedside lumbar puncture attempted,216
+plasmapheresis initiated,216
+five total plasmapheresis treatments,216
+minimal improvement in quadriparesis,216
+minimal improvement in sensory nerve deficit,216
+EMG low amplitude motor responses,216
+axonal sensorimotor peripheral neuropathy,216
+diminished extraocular movements,264
+absent gag reflex,264
+pupil asymmetry,264
+intubated again,264
+care withdrawn,264

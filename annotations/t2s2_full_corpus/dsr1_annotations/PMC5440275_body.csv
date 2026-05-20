@@ -1,0 +1,79 @@
+event,time
+38 years old,0\
+female,0\
+admitted to the Infectious Diseases Ward,0\
+returned from a 2 week-long trip to Bali,-168\
+no pre travel consultation,-168\
+no malaria prophylaxis,-168\
+travelled around rural areas,-168\
+close contact with people living in poor water and sanitation conditions,-168\
+seeing rats around the accommodation,-168\
+mosquito bites,-168\
+sporadic contact with dogs and cats,-168\
+no scratching or biting episodes,-168\
+returned to Portugal asymptomatic,-168\
+presented to the emergency department,-24\
+fever,-24\
+chills,-24\
+malaise,-24\
+myalgia,-24\
+conjunctival congestion,-24\
+blood tests unremarkable,-24\
+normal chest X-ray,-24\
+negative malaria test,-24\
+negative dengue test,-24\
+discharged home,-24\
+symptomatic treatment with acetaminophen,-24\
+fever persisted,24\
+malaise persisted,24\
+myalgia persisted,24\
+blood tests showed neutrophilia,24\
+elevated hepatic aminotransferases,24\
+elevated LDH,24\
+mildly increased CRP,24\
+normal chest X-ray,24\
+normal abdominal ultrasonography,24\
+blood cultures collected,24\
+serologic screen requested,24\
+admitted to the Infectious Diseases Ward,0\
+deteriorated clinical condition,72\
+shortness of breath,72\
+respiratory rate 32/minute,72\
+SatO2 90–92% on room air,72\
+hypotension (70–80/30–40 mmHg),72\
+headache,72\
+nausea,72\
+faint transient macular rash,72\
+acutely ill appearance,72\
+respiratory alkalosis,72\
+pO2/FiO2 ratio 327,72\
+hyperlactacidemia (2.88 mg/dL),72\
+bilateral interstitial infiltrate on chest X-ray,72\
+admitted to the ICU,72\
+IV fluids,72\
+IV ceftriaxone,72\
+IV doxycycline,72\
+oseltamivir,72\
+oxygen support,72\
+improved progressively,96\
+no invasive ventilation,96\
+no vasopressive support,96\
+oliguria reverted,96\
+transient decrease in hemoglobin,96\
+worsening thrombocytopenia,96\
+coagulopathy,96\
+recovered spontaneously,96\
+afebrile by day 4 of antimicrobials,168\
+discharged from ICU,168\
+fully recovered by day 7 of antimicrobials,240\
+ceftriaxone for 8 days,168\
+doxycycline for 14 days,168\
+discharged from the hospital,312\
+asymptomatic,312\
+chest X-ray confirmed resolution,312\
+PCR positive for Rickettsia spp. group typhus,312\
+negative other microbiological exams,312\
+seroconversion confirmed,312\
+IgM 1:2048,312\
+IgG 1:4096,312\
+R. typhi NAAT positive,312

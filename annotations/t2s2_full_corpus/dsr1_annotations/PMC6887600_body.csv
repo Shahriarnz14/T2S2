@@ -1,0 +1,109 @@
+event,time
+66 year-old woman,0
+admitted to our hospital,0
+chills,-48
+fever,-48
+pharynx pain,-48
+chest tightness,-48
+headache,-48
+no cough,-48
+no sputum,-48
+no wheezing,-48
+no dysphagia,-48
+no hoarseness,-48
+no weight loss,-48
+no edema of lower extremities,-48
+acute upper respiratory tract infection,0
+type 2 diabetes mellitus,-35040
+no history of respiratory disease,0
+no history of trauma,0
+no history of foreign-body ingestion,0
+temperature 39.1 °C,0
+pulse rate 125 beats per min,0
+respiratory rate 24 breaths/min,0
+blood pressure 110/68 mmHg,0
+no clubbing,0
+no icterus,0
+no generalized lymphadenopathy,0
+leukocyte count 9900/μL,0
+segmented neutrophils 88%,0
+erythrocyte sedimentation rate 79 mm/h,0
+C-reactive protein 42.9 mg/dL,0
+CT of lung normal,0
+MRI of brain normal,0
+ultrasound of heart normal,0
+ultrasound of liver normal,0
+intravenous amoxicillin,24
+intravenous levofloxacin,24
+intravenous ribavirin,24
+body temperature 39.0 °C,48
+blood culture gram-positive cocci,48
+antibiotics changed to teicoplanin,48
+antibiotics changed to moxifloxacin,48
+body temperature lowered,120
+dyspnea worsened,120
+respiratory arrest,120
+cardiac arrest,120
+lost consciousness,120
+systemic cyanosis,120
+arterial partial pressure of carbon dioxide 52 mmHg,120
+arterial partial pressure of oxygen 57 mmHg,120
+pH 7.35,120
+cardiopulmonary resuscitation,120
+intravenous epinephrine,120
+emergency tracheal intubation,120
+simple breathing bag,120
+regained consciousness,120
+restored spontaneous rhythm,120
+transferred to Respiratory Intensive Care Unit,120
+penicillin-sensitive Kocuria kristinae isolated from blood,168
+diagnosis of sepsis,168
+intravenous vancomycin,168
+intravenous piperacillin-tazobactam,168
+mechanical ventilation withdrawn,144
+extubated,144
+chest radiograph no obvious abnormalities,144
+arterial blood gas analysis met weaning criteria,144
+dyspnea again,192
+heart rate slowed,192
+respiratory rate slowed,192
+lost consciousness again,192
+arterial partial pressure of carbon dioxide 82 mmHg,192
+arterial partial pressure of oxygen 259 mmHg,192
+pH 7.06,192
+emergency tracheal intubation,192
+mechanical ventilation,192
+acute airway obstruction,192
+respiratory secretions less,192
+radiological examination normal,192
+lumbar puncture,192
+cerebrospinal fluid leukocyte count 350/μL,192
+cerebrospinal fluid lymphocytes 75%,192
+no Cryptococcus,192
+cerebrospinal fluid protein 132 mg/dL,192
+intracranial infection possible,192
+cerebrospinal fluid culture negative,192
+CT scan of neck,216
+soft tissue swelling of nasopharyngeal and oropharyngeal wall,216
+occlusion of nasopharyngeal and oropharyngeal cavity,216
+bedside flexible bronchoscopy,216
+edema of nasopharynx mucosa,216
+edema of oropharynx mucosa,216
+MRI performed,312
+soft tissue swelling and thickening in anterior region of neck,312
+stenosis of nasopharynx,312
+stenosis of oropharynx,312
+stenosis of upper airway,312
+diagnosis of RPA,312
+incision and drainage of RPA,336
+histopathology inflammatory necrosis with granulation tissue,336
+pus culture negative,336
+MRI upper airway stenosis alleviated,336
+uneventful recovery,528
+discharged,528
+no recurrence of RPA,528
+retropharyngeal abscess,312
+acute non-tubercular suppurative inflammation,312
+Kocuria kristinae infection,168
+sepsis,168
+intracranial infection,192

@@ -1,0 +1,59 @@
+event,time
+55-year-old male,0
+history of multiple myeloma,-5040
+previous stem cell transplant,-5040
+recurrence of disease,-5040
+relapsed multiple myeloma,-5040
+started treatment with carfilzomib,-5040
+intermittent fevers,-48
+dyspnea,-72
+productive cough,-72
+admitted to the hospital,0
+febrile,0
+tachypneic,0
+tachycardic,0
+alert,0
+fully oriented,0
+normal blood pressure,0
+decreased breath sounds in right lung base,0
+no rales,0
+no wheezing,0
+pancytopenia,0
+white blood cell count 1.2×10⁹/l,0
+hemoglobin 53 g/l,0
+platelets 4.0×10⁹/l,0
+treated with cefepime,0
+treated with azithromycin,0
+continued acyclovir,0
+continued allopurinol,0
+continued fluconazole,0
+continued pantoprazole,0
+new-onset hypoxia,0
+hypotension,0
+altered mental status,0
+transferred to medical intensive care unit,0
+lactic acid 6.1 mMol/l,0
+arterial blood gas pH 7.40,0
+PaCO₂ 3.3 kPa,0
+PaO₂ 11.3 kPa,0
+measured O₂ saturation 94%,0
+intubation procedure,0
+treated with topical endobronchial lidocaine 4% gel,0
+treated with intravenous etomidate,0
+treated with succinylcholine,0
+hypoxia on 100% FiO₂,2
+arterial blood gas brownish color,2
+pH 7.21,2
+PaCO₂ 3.3 kPa,2
+PaO₂ 55.1 kPa,2
+measured O₂ saturation 49%,2
+co-oximetry requested,2
+methemoglobin level 53%,2
+intravenous methylthioninium chloride 1% solution 1 mg/kg,2
+methemoglobin level 12%,2.5
+O₂ saturation >90%,3
+arterial blood gas bright red color,3
+methemoglobin level 9%,3
+septic shock,48
+bacteremia with Rothia mucilaginosa,48
+deceased,72

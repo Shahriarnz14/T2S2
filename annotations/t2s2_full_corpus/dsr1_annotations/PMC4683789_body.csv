@@ -1,0 +1,127 @@
+event,time
+50 years old,0
+male,0
+admitted to Cardiology department,0
+edema of legs,0
+erythema,0
+pain,0
+abdominal swelling,0
+hospitalized,0
+pulmonary hypertension,0
+right heart failure,0
+atrial fibrillation,0
+chronic obstructive pulmonary disease,0
+cellulitis,0
+appendectomy,-262800
+stabbed in abdomen,-131040
+treated by general surgery,-131040
+discharged 1 week postoperatively,-131040 + 168 = -130872
+smoking history (4 years),-26280
+diagnosed with NYHA Class II shortness of breath,-43800
+echocardiography showed mild right heart cavity enlargement,-43800
+pulmonary artery systolic pressure 45 mmHg,-43800
+complaints regressed after treatment,-43800
+admitted to Pulmonology department 3 years earlier,-26280
+abdominal swelling,-26280
+bilateral leg swelling,-26280
+NYHA Class III shortness of breath,-26280
+CT thorax performed,-26280
+diagnosed with right heart failure,-26280
+dilated IVC missed,-26280
+intravenous diuretics,-26280
+steroids,-26280
+teophylline,-26280
+inhaled bronchodilator,-26280
+complaints regressed,-26280
+LVEF 65%,-26280
+Grade I diastolic dysfunction,-26280
+normal left heart cavities,-26280
+enlarged right heart cavities,-26280
+pulmonary artery systolic pressure 70 mmHg,-26280
+Grade 2-3 tricuspid failure,-26280
+monitored for pulmonary hypertension,-26280
+admitted to Pulmonology department 1 year earlier,-8760
+high ventricular rate atrial fibrillation (168 bpm),-8760
+abdominal ascites,-8760
+diffuse lower extremity edema,-8760
+crackles in middle and lower lung zones,-8760
+NYHA Class IV,-8760
+echo showed normal left heart cavities,-8760
+LVEF 50%,-8760
+paradoxical interventricular septal motion,-8760
+enlarged right heart cavities,-8760
+pulmonary artery systolic pressure 95 mmHg,-8760
+Grade 3 tricuspid insufficiency,-8760
+started on digoxin,-8760
+started on diltiazem,-8760
+started on warfarin,-8760
+symptoms regressed to NYHA Class III,-8760 + 168 = -8592
+discharged,-8592
+admitted to Emergency department 15 days later,-8592 + 360 = -8232
+worsening right heart failure,-8232
+shortness of breath,-8232
+moved to Cardiology department,-8232
+started on intravenous furosemide,-8232
+spironolactone 25 mg,-8232
+clexane 2 × 0.6 cc,-8232
+continued diltiazem,-8232
+continued digoxin,-8232
+started on ampicillin/sulbactam,-8232
+Blood urea nitrogen 60 mg/dl,-8232
+creatinine 1.2 mg/dl,-8232
+AST 40 U/l,-8232
+ALT 45 U/l,-8232
+hemoglobin 12.8 g/dl,-8232
+"WBC 14,500/µl",-8232
+developed respiratory arrest,-8232 + 24 = -8208
+cardiac arrest,-8208
+CPR initiated,-8208
+intubated,-8208
+regained atrial fibrillation rhythm,-8208
+blood pressure 100/60 mmHg,-8208
+transferred to ICU,-8208
+mechanic ventilator,-8208
+initial diagnosis of pulmonary embolism,-8208
+pulmonary CT angiography performed,-8208
+no thrombi detected,-8208
+DVT protocol CT not performed,-8208
+thorax CT angiography,-8208
+lower extremity venous Doppler US,-8208
+no thrombotic formation,-8208
+abdominal auscultation revealed ACP,-8208
+IVC diameter 19 cm,-8208
+tricuspid pansystolic murmur 4-5/6,-8208
+liver palpable 7-8 cm,-8208
+diffuse ascites,-8208
+leg edema 3+,-8208
+umbilical region thrill,-8208
+machine-like murmur,-8208
+echo showed severely enlarged right cavities,-8208
+Grade 3-4 tricuspid failure,-8208
+pulmonary artery pressure 75-80 mmHg,-8208
+normal left heart cavities,-8208
+IVC 18 cm,-8208
+echo detected aortocaval fistula,-8208
+transesophageal echo showed intact interventricular septum,-8208
+patent foramen ovale,-8208
+right-to-left shunt,-8208
+CT angiography confirmed ACP,-8208
+fistula at lower renal artery and bifurcation,-8208
+aorta diameter 22 mm,-8208
+IVC diameter 99 mm,-8208
+fistula tract 11 mm,-8208
+aortic bifurcation fistula,-8208
+aorta diameter 25 mm,-8208
+IVC diameter 169 mm,-8208
+fistula tract 17 mm,-8208
+hemodynamic workup planned,-8208
+shunt measurement planned,-8208
+abdominal aortography confirmed fistulas,-8208
+left-to-right shunt 2.8,-8208
+coronary angiography normal,-8208
+systolic pulmonary artery pressure 75 mmHg,-8208
+decision for percutaneous closure,-8208
+procedure postponed due to pneumonia,-8208
+pneumonia unresolved,-8208 + 72 = -8136
+developed sepsis,-8136
+died of septic shock,-8136 + 24 = -8112

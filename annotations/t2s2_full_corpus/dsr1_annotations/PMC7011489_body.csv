@@ -1,0 +1,31 @@
+event,time
+35-year-old,0
+male,0
+admitted to cardiology unit,0
+unremitting fever,-360
+chest pain,-360
+abdominal pain,-360
+palpitation,-360
+stable vitals,0
+critical general conditions,0
+unspecific ECG abnormalities,0
+endocarditis,0
+vegetation on aortic valve leaflets,0
+vegetation on mitral valve leaflets,0
+optimal medical therapy initiated,0
+high risk for cardiac surgery,0
+"multiorgan failure (pulmonic, kidney, metabolic)",0
+septic condition,0
+daily echocardiographic examination scheduled,0
+complicated with cardiac arrest,120
+high-quality chest compressions,120
+advanced cardiac life support procedures,120
+ROSC achieved,136
+echocardiographic check performed,136
+right atrial thrombus formation,136
+endovenous heparin 5000 IU administered,136
+continued chest compressions,136
+second heparin bolus 5000 IU administered,136
+thrombus disappeared,136
+moved to intensive care department,136
+poor prognosis,136

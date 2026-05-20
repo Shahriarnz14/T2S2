@@ -1,0 +1,119 @@
+event,time
+39-year-old,0
+male,0
+admitted to the hospital,0
+intermittent fever,-1440
+moderate exertion dyspnoea,-168
+orthopnoea,-24
+systolic murmurs in aortic and pulmonary areas,0
+high C-reactive protein,0
+leucocytosis,0
+neutrophilia,0
+empiric antibiotic therapy started,0
+transoesophageal echocardiography,24
+5 mm vegetation attached to the non-coronary cusp of the aortic valve,24
+severe aortic regurgitation,24
+aortic root abscess,24
+left ventricle-to-right atrium fistula,24
+blood cultures positive for Capnocytophaga canimorsus,24
+ceftriaxone started,24
+surgery,48
+aortic valve replacement with biological prosthesis,48
+closure of the fistula,48
+worsening of patient's general condition,360
+computed tomography,360
+transthoracic echocardiography,360
+acute mediastinitis,360
+pericardial abscess,360
+cardiac tamponade,360
+emergency surgery,360
+patient exits intensive care unit,480
+pericardial abscess culture positive for Enterococcus faecalis,480
+ampicillin added to therapy,480
+patient discharged,912
+36 days of ceftriaxone,912
+24 days of metronidazole,912
+19 days of ampicillin,912
+antibiotic therapy to be finished under outpatient regimen,912
+2-month history of intermittent fever,-1440
+1-week moderate exertion dyspnoea,-168
+24-hour orthopnoea,-24
+occasional smoking,0
+alcohol consumption,0
+no lower limb swelling,0
+denies palpitations,0
+denies dizziness,0
+denies syncope,0
+denies weight loss,0
+denies constitutional syndrome,0
+mild tachypnoea at rest,0
+temperature 36.9°C,0
+blood pressure 129/40 mmHg,0
+heart rate 105 b.p.m.,0
+blood oxygen saturation 96%,0
+no need for oxygen therapy,0
+diastolic murmurs in aortic and pulmonary areas,0
+slight crackles in both lung bases,0
+no skin alterations,0
+oropharyngeal cavity normal,0
+abdomen soft and depressible,0
+no pain on palpation,0
+no masses or megalia,0
+no edema in lower limbs,0
+anaemia (haemoglobin 10.8 g/dL),0
+electrocardiogram no significant findings,0
+chest X-ray mild bilateral pleural effusion,0
+right basal atelectasis,0
+initial diagnosis of unknown origin fever,0
+first episode of heart failure,0
+suspicion of infective endocarditis,0
+blood cultures extracted,0
+piperacillin–tazobactam started,0
+moderately dilated left ventricle,0
+preserved ejection fraction,0
+normal size right atrium and ventricle,0
+normal right ventricle function,0
+mild tricuspid regurgitation,0
+estimated sPAP 40 mmHg,0
+aortic regurgitation with central jet,0
+vegetation in non-coronary cusp of aortic valve,0
+aortic root pseudoaneurysm,0
+18 × 7 mm periannular pseudoaneurysm,24
+subaortic left ventricle-to-right atrium fistula,24
+Gerbode defect,24
+Gram-negative bacilli in blood cultures,24
+dog bite 4 months earlier,-2880
+owns vaccinated pet dog,0
+metronidazole added,48
+persistent fever,48
+aortic root enlargement (Nicks procedure),48
+bovine pericardial patch used,48
+Perimount Magna Ease biological prosthesis implanted,48
+significant bleeding during surgery,48
+extracorporeal circulation re-established,48
+post-operative echocardiogram normal prosthesis function,48
+persistence of left ventricle-to-right atrium fistula,48
+dehiscence of pericardial patch,48
+fistula peak velocity 4.7 m/s,48
+peak gradient 89 mmHg,48
+Qp/Qs ratio 1.2,48
+post-operative day +12,360
+low-grade fever,360
+profuse sweating,360
+purulent secretion at pacemaker lead site,360
+severe anterior pericardial effusion,360
+diastolic collapse of right heart cavities,360
+pathological respiratory variations,360
+drainage of pericardial effusion,360
+mediastinal abscess drainage,360
+Enterococcus faecalis in culture,480
+control computed tomography angiography,672
+resolution of mediastinitis,672
+no residual pericardial effusion,672
+no reoperation for fistula closure,672
+oral metronidazole,912
+oral linezolid,912
+subsequent check-ups improved condition,912
+no fever,912
+no heart failure symptoms,912
+normal physical activity,912

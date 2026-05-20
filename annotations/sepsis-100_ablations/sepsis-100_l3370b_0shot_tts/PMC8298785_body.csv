@@ -1,0 +1,53 @@
+event,time
+nausea ,-24
+vomiting ,-24
+abdominal pain ,-24
+discharged ,-36
+febrile ,0
+hypotensive ,0
+leukocytosis ,0
+elevated serum lactate ,0
+acute kidney injury ,0
+acute transaminitis ,0
+severe coagulopathy ,0
+normal serum troponin ,0
+negative comprehensive toxicology screen ,0
+normal sinus rhythm ,0
+normal biventricular function ,0
+no valvular disease ,0
+no pericardial effusion ,0
+fluid resuscitation ,0
+broad-spectrum antibiotics ,0
+vasopressor therapy ,0
+severe multisystem organ failure ,24
+intubation ,24
+paralysis ,24
+intravascular volume repletion ,24
+intravenous vasopressors ,24
+stress-dose steroids ,24
+high-dose vitamin B12 ,24
+Swan-Ganz catheter placement ,24
+distributive shock ,24
+cardiogenic shock ,48
+high filling pressures ,48
+low cardiac output ,48
+high systemic vascular resistance ,48
+elevated troponin ,48
+severe biventricular failure ,48
+intravenous milrinone ,48
+continuous renal replacement therapy ,48
+PRBC transfusion ,48
+improved cardiac output ,72
+decreased troponin ,72
+improved multisystem organ failure ,72
+neutropenia ,96
+recovery of LVEF ,144
+weaning from vasopressors ,312
+discontinuation of CRRT ,312
+extubation ,312
+hair loss ,576
+admission of colchicine overdose ,576
+elevated serum colchicine level ,30
+elevated whole blood colchicine level ,14
+decreased whole blood colchicine level after PRBC exchange ,78
+discharge from hospital ,720

@@ -1,0 +1,117 @@
+pmcCase Presentation
+
+A 25-year-old woman presented to an outside facility with low back pain. Her past medical history included intravenous drug use. Her initial exam was reportedly notable for hypotension and hypoxemic respiratory failure requiring intubation. Transthoracic echocardiography revealed large mobile tricuspid vegetations with severe tricuspid regurgitation (TR), and a chest radiograph demonstrated extensive bilateral patchy opacifications. Recurrent episodes of pulseless electrical activity necessitated veno-arterial extracorporeal membrane oxygenation (VA-ECMO) cannulation via the right femoral vein (25-F) and artery (20-F) with an antegrade catheter (5-F) for distal limb perfusion. She was transferred to our facility for refractory hypoxemia.
+
+On arrival, vital signs were as follows: temperature 97.5 °F, heart rate 74 beats/min in sinus rhythm, blood pressure 88/56 mm Hg on norepinephrine 5 μg/min (0.07 μg/kg/min), and oxygen saturation 84% from her right hand, while on 6 L/min VA-ECMO with maximal oxygenation on ventilator. Right radial arterial blood gas analysis demonstrated a PaO2 of 44 mm Hg. Blood cultures grew methicillin-sensitive Staphylococcus aureus (MSSA). Transesophageal echocardiography (TEE) on maximum VA-ECMO flow demonstrated mildly reduced biventricular systolic function and multiple tricuspid valve vegetations up to 2.6 × 1.5 cm with valve perforation and severe TR (Videos 1, 2, 3, and 4). There were no other vegetations or intracardiac shunt. Computed tomography (CT) revealed extensive lung consolidative and cavitary opacities (Figure 1), small pleural effusions, sacroiliitis, and no intracranial process.Learning Objectives
+
+• To develop an approach to hypoxemia, technical challenges, and circuit reconfiguration in patients on various ECMO configurations.
+
+• To highlight a percutaneous aspiration strategy for severe right-side endocarditis in a patient on ECMO.
+
+Figure 1 Sequential Computed Tomographic Imaging Demonstrating Evolution of Septic Emboli From Large Tricuspid Vegetation
+
+(A) Extensive consolidative and ground glass opacities with cavitary lesions (arrows); (B) large anterior right hemothorax (stars) causing mass effect; (C) right bronchopleural fistula (arrows) from rupture of cavitation; (D) empyema necessitans (stars) with dissection through right chest wall into the breast; (E) status after right Eloesser flap: largely resolved pulmonary opacities.
+
+Question 1: What Is the Most Likely Etiology of Her Hypoxemia on VA-ECMO?
+
+In an otherwise healthy patient with bacterial tricuspid valve endocarditis complicated by severe diffuse lung injury from septic emboli, hypoxemia on VA-ECMO likely resulted from differential hypoxemia from preserved cardiac output of poorly oxygenated blood.
+
+Differential hypoxemia during VA-ECMO
+
+Hypoxemia during VA-ECMO occurs with distal mixing in the descending aorta of poorly oxygenated blood ejecting from the left ventricle (owing to compromised pulmonary gas exchange) and well oxygenated blood from the ECMO return cannula. Thus, poorly oxygenated blood supplies the proximal arterial circulation including coronary, right extremity, and cerebral arteries. The so-called “north-south” or Harlequin syndrome is confirmed by lower oxygenation in the right arm (PaO2 <55-60 mm Hg) compared with left arm and lower limbs. Initial attempts to correct this may include maximization of ECMO flows (though often flows are initially at a maximum) and pulmonary optimization, which may include ventilator adjustments and/or airway clearance maneuvers or targeted therapy to underlying pulmonary pathology. In this case, the patient had severe ongoing airway bleeding and purulent mucous due to her substantial septic pulmonary emboli.
+
+Question #2: With Ongoing Hypoxemia on VA-ECMO, What Is the Next Appropriate Management Strategy?
+
+If ventilator and pulmonary optimization and maximization of ECMO flows are inadequate to correct the differential hypoxemia, a transition to veno-arterial-venous (VAV)–ECMO may be necessary. Introduction of an additional return cannula into the superior vena cava “breaks” the dual circulation syndrome by introducing oxygenated blood to the right heart.
+
+In this patient, because of differential hypoxemia (also referred to as north-south or Harlequin syndrome) despite ventilator optimization and VA-ECMO flows >6 L/min, we converted to VAV-ECMO. A 19-F cannula was advanced into the superior vena cava via the right internal jugular vein and connected to the return arterial limb in a Y-configuration. Resultant return flows were approximately 4.2 L/min to the venous cannula and 2.5 L/min to the arterial cannula, and there was immediate improvement in peripheral oxygenation without hemodynamic compromise from reduced arterial return.
+
+Reconfiguration and optimization of flow on VAV-ECMO
+
+An additional venous cannula can be introduced (in this case, via the internal jugular vein) and connected to the ECMO return arterial limb in a Y-configuration. During venous access and serial dilations, ECMO flows should be reduced to a minimum to avoid entrainment of air into the circuit. Usual de-airing techniques are necessary during Y-attachment of the return venous cannula and arterial limb. Optimizing the distribution of oxygenated blood return between arterial venous limbs (balancing patient-specific relative ECMO needs for improved oxygenation and hemodynamic support) may require an occluder device (such as a Hoffman clamp) to limit full flow into the lower-pressure venous return limb. If the patient’s right ventricle cannot fully compensate for the increased venous return, in the context of decreased arterial flow to the descending aorta, additional inotropic support may be necessary to support cardiac output. As cardiac function improves, flows may be reduced in the return arterial limb (in favor of more flow through the return venous limb) as a VA-ECMO weaning method.
+
+Question 3: After Stabilization of Her Oxygenation, How Would You Approach Management of Her Large Tricuspid Valve Vegetations?
+
+Given the patient’s complexity, a multidisciplinary meeting was warranted for medical decision making. The heart team meeting included cardiology (general and interventional), cardiothoracic surgery, cardiac anesthesia, pulmonary, nursing, and medical ethics. The patient was deemed to not be a surgical candidate owing to severe lung injury. Therefore, successful percutaneous aspiration of the large mobile masses of tricuspid vegetations was performed (Figure 2), a method noted to have high rates of procedural success and low mortality (1, 2, 3). Intraprocedural TEE confirmed trivial echodensity remaining on the tricuspid valve with stable severe TR (Videos 5 and 6).Figure 2 Percutaneous Aspiration of Large Tricuspid Valve Vegetation
+
+(A, B) Multiple large pedunculated vegetations on the tricuspid valve (yellow arrows) with severe tricuspid regurgitation through a leaflet perforation and central valve malcoaptation (red arrow); (C) Percutaneous aspiration catheter advanced to right atrium via the inferior vena cava; (D) Extracted mass of vegetation and destructed leaflet tissue.
+
+Performing percutaneous vegetation aspiration on VAV-ECMO
+
+The percutaneous aspiration system is a separate veno-venous (VV) extracorporeal circuit with aspiration through an inflow cannula, passage of blood through a filter and pump, and reinfusion of blood through a venous return cannula. Due to existing VAV-ECMO catheters in the right internal jugular vein and right femoral system, the percutaneous aspiration circuit was placed via left internal jugular and femoral veins. During additional venous access and dilations, ECMO circuit flows were again temporarily decreased to avoid air entrainment. Throughout percutaneous aspiration, after confirming therapeutic anticoagulation status, the ECMO return arterial limb was clamped to avoid arterial air or vegetation emboli. Clamping of the arterial limb also permitted assessment of hemodynamics on VV bypass exclusively, confirming intact cardiac output on low-dose vasopressor support.
+
+Question 4: What Are Possible Cannulation Strategies for VV-ECMO?
+
+VV-ECMO requires a drainage (or inflow) cannula to withdraw deoxygenated venous blood from the patient, which subsequently passes through the ECMO pump and oxygenator and into a return (outflow) cannula, delivering oxygenated and decarboxylated blood back to the venous system. Conventional VV-ECMO involves percutaneous insertion of a drainage cannula in the femoral vein (with tip just distal to right atrium (RA)–inferior vena cava (IVC) junction) and a return cannula in the right internal jugular vein (with tip at the SVC-RA junction). Ideal separation of the cannula tips is at least 7-10 cm. Femoral-femoral VV-ECMO cannulation is less commonly utilized and requires positioning of the drainage cannula in the IVC adequately below the IVC-RA junction with advancement of the return cannula into the RA to allow adequate cannula separation and avoid significant recirculation.
+
+Alternatively, a single dual-lumen ECMO cannula can be placed in the right internal jugular vein, which allows for the additional benefit of patient mobility with absence of femoral cannulation. Placement of a single dual-lumen venous catheter requires multimodal imaging, optimally both TEE and fluoroscopy (Figure 3, Videos 7, 8, and 9) to confirm adequate positioning with the orifice of the return lumen pointed toward the tricuspid valve. The ProtekDuo (TandemLife, Pittsburgh, Pennsylvania), a novel approach to VV-ECMO, is a dual-lumen cannula inserted into the right internal jugular vein with the distal tip in the main pulmonary artery, allowing for bypass and decompression of the right ventricle.Figure 3 Dual-Lumen Veno-Venous Extracorporeal Membrane Oxygenation Catheter Placement Via Right Internal Jugular Vein
+
+Arrows indicate catheter and radiographic indicators of inflow and outflow sites. IVC = inferior vena cava; SVC = superior vena cava.
+
+Clinical course
+
+After percutaneous aspiration of our patient’s tricuspid valve vegetations, she remained hemodynamically stable but with ongoing severely impaired respiratory gas exchange; thus, she was successfully transitioned from VAV- to VV-ECMO at 6 L/min via a 32-F dual lumen catheter in the right internal jugular vein (Figure 3, Videos 7, 8, and 9).
+
+However, after return to the intensive care unit, she was noted to have ongoing hypoxemia.
+
+Question 5: What Is Your Differential Diagnosis of Hypoxemia on VV-ECMO and What Is the Management Strategy?
+
+Hypoxemia on VV-ECMO is usually due to recirculation, shunting of deoxygenated blood past the ECMO circuit, or membrane dysfunction. If the cannula outflow is malpositioned vertically, or outflow is not directed toward the tricuspid valve, recirculation may occur (where returned oxygenated blood enters the drainage cannula rather than the right heart). Although a small amount of recirculation is usually present, clinically significant recirculation is apparent in the context of a low SaO2 with high SdO2 (O2 saturation measured in the drainage cannula) or visually by identifying bright red (oxygenated) blood in the venous drainage cannula.
+
+In the context of hypoxemia with a well-positioned cannula, membrane integrity should be evaluated by ruling out membrane clots and measurement of membrane pressure gradient and before and after membrane oxygenation. If the membrane is functioning correctly, ongoing hypoxemia in a patient on VV-ECMO is usually due to membrane lung shunting, which occurs when cardiac output exceeds maximal ECMO flow, allowing poorly oxygenated blood to be shunted past the ECMO circuit and ejected from the left heart. Increased sedation and calcium channel or beta-blockers can be utilized to reduce cardiac output while awaiting lung recovery, though negative inotropic agents should be used with caution, because patients with respiratory failure often have right ventricular dysfunction. In cases where these strategies fail to provide adequate peripheral oxygenation, total circuit flows can be increased by placement of a second venous drainage cannula (or in extreme cases, placement of a second parallel VV-ECMO circuit).
+
+Clinical course
+
+Continuous esmolol infusion was required to reduce high cardiac output causing excessive membrane lung shunting. The patient completed a prolonged course of intravenous antibiotics targeting her metastatic MSSA infection. Her course was further complicated by bronchopleural fistula and empyema necessitans requiring video-assisted thorascopic surgery and Eloesser flap. Slowly, her airway bleeding and pleural disease improved, and she was successfully decannulated from VV-ECMO after 1 month. Post-decannulation echocardiography demonstrated preserved left ventricular function, a dilated right ventricle but with normal systolic function, and persistent severe TR with a small amount of thickening on the anterior leaflet of the TR suggestive of small vegetation. After a prolonged critical illness, she was discharged to her local facility for intensive physical therapy and ongoing care. At 6 months after discharge, she reported no dyspnea or other symptoms of heart failure.
+
+Conclusions
+
+We present a case of a critically ill patient with tricuspid valve endocarditis complicated by extensive bilateral septic emboli resulting in hypoxemic respiratory failure and cardiac arrest. Our case uniquely facilitates discussion regarding challenges and approaches to various ECMO configurations, as also displayed in Figure 4. Most notably, the addition of a separate venous circuit (for the purpose of performing a novel percutaneous approach to tricuspid valve vegetation extraction) in the presence of an existing VAV-ECMO circuit was technically challenging and required multidisciplinary expertise in mechanical circulatory support and interventional cardiology.Figure 4 Extracorporeal Membrane Oxygenation Circuit Configurations and Considerations
+
+Funding Support and Author Disclosures
+
+The authors have reported that they have no relationships relevant to the contents of this paper to disclose.
+
+Appendix
+
+Supplemental Video 1
+
+Mid-esophageal view depicting tricuspid valve vegetations.
+
+Supplemental Video 2
+
+Mid-esophageal long axis of the tricuspid valve.
+
+Supplemental Video 3
+
+X-plane color Doppler of the tricuspid valve.
+
+Supplemental Video 4
+
+Bicaval view with color Doppler imaging.
+
+Supplemental Video 5
+
+Advancement of aspiration cannula to right atrium positioned above tricuspid valve vegetation.
+
+Supplemental Video 6
+
+After percutaneous extraction, there is minimal residual vegetation on the tricuspid valve. There is persistent severe tricuspid regurgitation.
+
+Supplemental Videos 7
+
+Optimal positioning of veno-venous extracorporeal membrane oxygenation dual-lumen cannula via right internal jugular. Right atrial return jet is directed across the tricuspid valve in the bicaval view.
+
+Supplemental Videos 8
+
+Optimal positioning of veno-venous extracorporeal membrane oxygenation dual-lumen cannula via right internal jugular. Right atrial return jet is directed across the tricuspid valve in the bicaval view.
+
+Supplemental Video 9
+
+The transgastric view confirms cannula termination in the inferior vena cava, away from the hepatic vein.
+
+The authors attest they are in compliance with human studies committees and animal welfare regulations of the authors’ institutions and Food and Drug Administration guidelines, including patient consent where appropriate. For more information, visit the Author Center.
+
+Appendix
+
+For supplemental videos, please see the online version of this paper.

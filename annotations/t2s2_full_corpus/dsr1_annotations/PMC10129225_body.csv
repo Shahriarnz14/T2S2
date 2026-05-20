@@ -1,0 +1,66 @@
+event,time
+69 years old,0
+female,0
+admitted to the emergency department,0
+oral ingestion of ∼300 ml Roundup,-2
+vomiting,-2
+lethargy,-2
+conscious,0
+disoriented,0
+Glasgow coma scale of 12,0
+blood pressure of 91/56 mm Hg,0
+SpO2 of 91% in room air,0
+tenderness throughout the abdomen,0
+gastric lavage,0
+transferred to emergency ICU,0
+hydrated with normal saline,0
+correction of acidosis with sodium bicarbonate,0
+arterial blood gas analysis,0
+serum lactate level elevated to 19.1 mmol/l,0
+hemoperfusion,0
+consciousness level decreased,6
+ventilatory support,6
+vasoactive support,6
+drop in BP,6
+total leukocyte count high,0
+creatinine elevated to 122 μmol/l,0
+glutamic oxalacetic transaminase elevated to 212 IU/l,0
+alanine aminotransferase elevated to 307 IU/l,0
+alkaline phosphatase elevated to 1131 IU/l,0
+creatine kinase elevated to 246 U/l,0
+uncontrolled seizures,8
+arterial blood gas revealed elevated lactate levels,8
+worsening metabolic acidosis,8
+administering multiple high-dose vasoactive agents,8
+structured fat emulsion injection,8
+large amount of fluid,8
+BP remained low,8
+hemoglobin elevated to 185 g/l,8
+hematocrit elevated to 0.55 l/l,8
+serum creatinine elevated to 164 mg/dl,8
+total protein decreased to 59.6 g/l,8
+albumin decreased to 31.6 g/l,8
+glutamic oxalacetic transaminase elevated to 1012 IU/l,8
+alanine aminotransferase elevated to 570 IU/l,8
+alkaline phosphatase elevated to 2152 IU/l,8
+C-reactive protein elevated to 134.7 mg/l,8
+creatine kinase elevated to 7201 U/l,8
+myoglobin elevated to >3769 ng/ml,8
+IL-6 elevated to 7411 pg/ml,8
+IL-10 elevated to 37.4 pg/ml,8
+computed tomography indicated pulmonary effusion,8
+fluid accumulation in intestinal wall and lumen,8
+edema in interstitial spaces,8
+capillary leak syndrome,8
+CRRT initiated,8
+infusion of large amounts of plasma,8
+albumin infusion,8
+small doses of glucocorticoids,8
+ulinastatin administration,8
+urine output increased,8
+BP stabilized,8
+CRRT discontinued,80
+extubated,168
+transferred out of intensive care unit,240
+discharged,480
+no abnormal signs and symptoms at 3 months,2160

@@ -1,0 +1,86 @@
+event,time
+46 years old,0
+male,0
+Caribbean-Black,0
+presented to emergency department,0
+fever,-48
+cough,-48
+shortness of breath,-48
+systolic blood pressure 140 mmHg,0
+heart rate 142 bpm,0
+respiratory rate 28 bpm,0
+oxygen saturation 88% on room air,0
+hypertension,0
+tachycardia,0
+tachypnea,0
+normal jugular venous pulse,0
+scattered bilateral crackles,0
+no peripheral edema,0
+12-lead ECG: typical atrial flutter with 2:1 AV block,0
+rate-related ST-T segment changes,0
+chest radiograph: no acute cardiopulmonary disease,0
+transthoracic echocardiogram: preserved LVEF,0
+no regional wall motion abnormalities,0
+D-dimer 357 ng/mL,0
+pro-BNP 413 pg/mL,0
+CK-MB 15 U/L,0
+troponin I 0.12 ng/mL,0
+hemoglobin 9.4 g/dL,0
+WBC 13.2 ×10^9/L,0
+platelet 201 ×10^3/µL,0
+serum sodium 134 mmol/L,0
+serum potassium 2.8 mmol/L,0
+serum bicarbonate 22 mmol/L,0
+serum creatinine 0.5 mg/dL,0
+fasting blood sugar 116 mg/dL,0
+ALT 26 IU/L,0
+AST 68 IU/L,0
+total bilirubin 2.2 mg/dL,0
+albumin 2.7 g/dL,0
+albumin-corrected calcium 7.3 mg/dL,0
+magnesium 1.6 mg/dL,0
+phosphorous 2.3 mg/dL,0
+ESR 68 mm/h,0
+CRP 83 mg/dL,0
+LDH 1717 U/L,0
+blood cultures negative,0
+urine culture negative,0
+initiated amiodarone,0
+initiated digoxin bolus,0
+initiated beta-blockade,0
+admitted for hospitalization,0
+unsuccessful cardioversion with 100 J,0
+transitioned to atrial fibrillation with RVR,0
+COVID-19 test positive,0
+transferred to quarantine facility with ICU,0
+continued amiodarone infusion,0
+continued atenolol,0
+symptoms ameliorated,24
+oxygen requirements decreased,24
+reverted to normal sinus rhythm,48
+anticoagulation deferred,48
+hospital course uneventful,48
+discharged to home quarantine,96
+oral amiodarone twice daily,96
+follow-up visit planned,96
+1-week Holter monitor planned,96
+hypokalemia,0
+hypomagnesemia,0
+hypophosphatemia,0
+anemia,0
+mild rhabdomyolysis,0
+judicious IV hydration,0
+no DOAC initiated,0
+atenolol 50 mg every 8 hours,0
+amiodarone 200 mg every 12 hours,0
+digoxin discontinued,0
+hydroxychloroquine not utilized,0
+azithromycin not utilized,0
+lopinavir-ritonavir not utilized,0
+no pneumonitis,0
+QT prolongation concerns,0
+arrhythmogenic effects considered,0
+drug-drug interactions considered,0
+CHADS-VASc score 0,0
+HAS-BLED score 0,0
+verbal informed consent obtained,0

@@ -1,0 +1,54 @@
+event,time
+67 years old,0
+male,0
+admitted to the hospital,0
+SARS-CoV-2 positive,-336
+sore throat,-336
+headache,-336
+fever,-336
+body aches,-336
+diarrhea,-336
+symptoms improved,-336
+hypertension,0
+dyslipidemia,0
+sudden onset confusion,0
+dysarthria,0
+symptomatically hypoxic,0
+oxygen saturation 75% on room air,0
+supplemental oxygen 5 L/min,0
+oxygen saturation improved to 95%,0
+lymphocytopenia,0
+thrombocytopenia,0
+borderline lactic acidosis,0
+mixed respiratory acidosis,0
+metabolic acidosis,0
+SIC score 5,0
+bilateral airspace opacities,0
+generalized seizure,0
+spontaneous resolution of seizure,0
+cardiac arrest,0
+resuscitation,0
+admitted to intensive care unit,0
+heparin anticoagulation,0
+vasopressors,0
+mechanical ventilation,0
+ventilator airway-pressure-release-ventilation mode,0
+poor ventilator synchrony,0
+ventilator pressure-control mode,24
+positive end-expiratory pressure 5 cm H2O,24
+FiO2 50%,24
+respiratory rate 8 breaths/min,24
+inspiratory pressure 10 cm H2O,24
+left temporal acute infarct,0
+diffuse subpleural pneumonitis,0
+ground-glass opacities,0
+consolidation,0
+paraseptal emphysema,0
+acute bilateral pulmonary emboli,0
+right ventricular dysfunction,0
+increasing vasopressor requirements,120
+increasing oxygen demands,120
+unchanged chest radiograph,120
+comfort care measures,120
+terminally extubated,120
+demise,120

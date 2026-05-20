@@ -1,0 +1,140 @@
+event,time
+22 years old,0\
+male,0\
+presented to hospital,-96\
+fever,-96\
+myalgia,-96\
+arthralgia,-96\
+sore throat,-96\
+vomiting,-48\
+diarrhoea,-48\
+fever of 38.4°C,0\
+pulse 89 beats per minute,0\
+blood pressure 77/34 mmHg,0\
+respiratory rate 18 breaths per minute,0\
+oxygen saturations 98% on room air,0\
+regular pulse,0\
+cool peripheries,0\
+normal heart sounds,0\
+no added sounds,0\
+no evidence of fluid overload,0\
+clinical examination otherwise unremarkable,0\
+mild thrombocytopaenia (146×10⁹/L),0\
+leukocytosis (22.87×10⁹/L),0\
+neutrophilia (13.61×10⁹/L),0\
+monocytosis (2.88×10⁹/L),0\
+lymphopaenia (0.82×10⁹/L),0\
+normal eosinophils (0.17×10⁹/L),0\
+normal basophils (0.04×10⁹/L),0\
+acute kidney injury,0\
+creatinine 333 μmol/L,0\
+urea 22.2 mmol/L,0\
+bilirubin 22 μmol/L,0\
+AST 123 U/L,0\
+ALT 46 U/L,0\
+GGT 19 U/L,0\
+ALP 154 U/L,0\
+high-sensitivity troponin T 4550 ng/L,0\
+NT-proBNP 1485 pmol/L,0\
+C-reactive protein 415 mg/L,0\
+lactate 3.6 mmol/L,0\
+mild hyponatraemia (129 mmol/L),0\
+potassium 3.7 mmol/L,0\
+sinus rhythm,0\
+right-axis deviation,0\
+diffuse ST-segment elevation,0\
+chest radiograph unremarkable,0\
+septic shock,0\
+presumed viral illness,0\
+myocarditis,0\
+acute kidney injury,0\
+metabolic acidosis,0\
+transferred to intensive care unit,24\
+vasopressor support,24\
+noradrenaline,24\
+dobutamine,24\
+commenced broad-spectrum antibiotics,24\
+high-dose intravenous dexamethasone (10 mg four times daily),24\
+clinical improvement,24\
+biochemical improvement,24\
+severe global left ventricular systolic impairment (ejection fraction 35%),0\
+normal LV size,0\
+normal wall thickness,0\
+moderate right ventricular systolic impairment,0\
+no significant valvular pathology,0\
+no pericardial effusion,0\
+interstitial lymphocytes,0\
+oedema,0\
+no myonecrosis,0\
+no giant cells,0\
+no eosinophils,0\
+no granulomas,0\
+no fibrosis,0\
+stains for amyloid negative,0\
+stains for iron negative,0\
+cardiac MRI on Day 4,96\
+improved cardiac function,96\
+high myocardial T2 signal,96\
+myocardial oedema,96\
+circumferential late gadolinium enhancement,96\
+subepicardial distribution,96\
+acute myocarditis,96\
+transition to oral steroid therapy (Day 10),240\
+transition unsuccessful,240\
+clinical deterioration,240\
+biochemical deterioration,240\
+mild hypotension,240\
+fever,240\
+chest pain,240\
+rising inflammatory markers,240\
+reinstatement of intravenous steroid,240\
+transition to oral steroid therapy (Day 14),336\
+transition unsuccessful,336\
+clinical deterioration,336\
+biochemical deterioration,336\
+reinstatement of intravenous steroid,336\
+ferritin 20 233 μg/L,288\
+low glycosylated ferritin 5%,288\
+haematology review,288\
+bone marrow biopsy,288\
+no haemophagocytic lymphohistiocytosis,288\
+markedly elevated ferritin,288\
+failure to wean intravenous steroids,288\
+absence of infection,288\
+low/negative antinuclear antibody,288\
+negative rheumatoid factor,288\
+diagnosis of Adult-onset Still’s disease,360\
+mild extensor tendon oedema of both ankles,360\
+bilateral knee joint effusions,360\
+synovial thickening,360\
+new maculopapular rash,384\
+rash over neck,384\
+rash over face,384\
+rash over back,384\
+progressing to arms,384\
+progressing to trunk,384\
+no skin peeling,384\
+no involvement of oral mucosa,384\
+skin biopsy consistent with Still’s disease,384\
+no delayed drug reaction,384\
+no lymphadenopathy,384\
+no organomegaly,384\
+pulsed methylprednisolone for 6 days,408\
+tocilizumab infusion (4 mg/kg),408\
+clinical improvement,408\
+biochemical improvement,408\
+transitioned to oral prednisone 100 mg once daily,552\
+discharged home,600\
+tapering oral prednisone,600\
+signs of relapse,888\
+second infusion of tocilizumab (4 mg/kg),984\
+tocilizumab dose escalated to 8 mg/kg,1512\
+third infusion of tocilizumab,1512\
+biochemical remission,1656\
+ceased prednisone,4320\
+clinical remission,4320\
+biochemical remission,4320\
+monthly tocilizumab infusions (8 mg/kg),4320\
+transitioned to subcutaneous adalimumab,7200\
+repeat cardiac MRI,12960\
+no evidence of on-going inflammation,12960\

@@ -1,0 +1,88 @@
+event,time
+40-year-old male,0
+Graves’ disease,0
+paroxysmal atrial flutter,0
+admitted to the hospital,0
+cardiac arrest,0
+ventricular fibrillation,0
+no risk factors for ischemic heart disease,0
+atrial fibrillation,0
+ventricular extra systoles,0
+q-waves in anterior leads,0
+paroxysmal complete heart block,0
+elevated troponin-T,0
+elevated creatine kinase,0
+cardiomegaly,0
+dilatation of left ventricle,0
+ejection fraction of 25–30%,0
+hypofunction of right ventricle,0
+inferoseptal akinesia,0
+normal coronary arteries,0
+subendocardial late gadolinium enhancement,0
+transmural late gadolinium enhancement,0
+CRT-D implanted,0
+anticoagulants,0
+antiarrhythmics,0
+statin,0
+heart failure therapy,0
+muscle weakness for 2 years,-17520
+elevated total CK in 2014,-17520
+proximal weakness of all extremities,0
+no signs of rheumatic disease,0
+no signs of neurologic disease,0
+progressive muscular weakness,0
+repetitive supraventricular arrhythmias,0
+repetitive ventricular arrhythmias,0
+elevated cardiac enzymes,0
+elevated muscle enzymes,0
+negative myositis-specific autoantibodies,0
+negative anti-HMGCR,0
+negative ANA,0
+negative genetics for neuromuscular diseases,0
+normal whole-body PET-CT,0
+normal pulmonary function tests,0
+muscle biopsy with fiber variability,0
+muscle biopsy with cell necrosis,0
+immune-mediated necrotizing myopathy,0
+prednisolone initiated,0
+improved physical performance,0
+methotrexate added,4320
+prednisolone tapered,4320
+clinical improvement,4320
+stable LVEF 35%,4320
+worsening muscle weakness,25920
+dyspnea,25920
+rising total CK,25920
+pulmonary congestion,25920
+improved on diuretics,25920
+increased MTX,25920
+cardiogenic shock,30240
+decompensated severe biventricular failure,30240
+inotropic support,30240
+diuretics,30240
+amiodarone,30240
+upregulation of CRT pace,30240
+glucocorticoids,30240
+biventricular hypofunction,30240
+biventricular dilatation,30240
+LVEF 10–15%,30240
+nonviable perfusion defect apex,30240
+nonviable perfusion defect lateral wall,30240
+myocardial biopsy hypertrophy,30240
+myocardial biopsy replacement fibrosis,30240
+myocardial biopsy alcian-positive matrix,30240
+myocardial biopsy endothelial proliferation,30240
+myocardial biopsy few inflammatory cells,30240
+cyclosporine added,30240
+mycophenolate mofetil added,30240
+prednisolone continued,30240
+stable peripheral muscle function,30240
+no cardiac improvement,30240
+AMA present,35040
+AMA-associated inflammatory myositis,35040
+rituximab therapy,35040
+no cardiac improvement,35040
+severe chronic renal impairment,35040
+liver failure,35040
+not candidate for heart transplantation,35040
+died,39840

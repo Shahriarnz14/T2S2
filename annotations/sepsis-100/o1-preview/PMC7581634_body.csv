@@ -1,0 +1,52 @@
+event,time
+79-year-old man,0.0
+hypertension,-96360.0
+ischemic heart disease,-96360.0
+coronary artery bypass graft surgery,-96360.0
+mitral valve repair,-96360.0
+severe symptomatic aortic stenosis,-720.0
+symptomatic aortic stenosis,-720.0
+Preprocedural transthoracic echocardiography,-24.0
+severe aortic stenosis,-24.0
+aortic valve area 0.6 cm2,-24.0
+transvalvular maximal gradient 61 mm Hg,-24.0
+transvalvular mean gradient 33 mm Hg,-24.0
+left ventricular ejection fraction of 45%,-24.0
+unfavorable femoral vascular anatomy,-24.0
+no symptoms of dysphagia were reported,-24.0
+no symptoms of odynophagia were reported,-24.0
+preoperative pulmonary radiography and CT revealed prominent anterior thoracic osteophytes,-24.0
+prominent anterior thoracic osteophytes,-24.0
+induction of general anesthesia,0.0
+TEE probe was easily placed,0.5
+SAPIEN 3 valve was deployed without any incident,0.5
+postprocedural TEE showed a prosthesis in good position,1.0
+no visible paravalvular leak,1.0
+no trauma was noticed during transesophageal probe insertion or removal,1.0
+no blood was noticed during transesophageal probe insertion or removal,1.0
+gastric aspiration with an orogastric tube revealed blood-tinged secretions,1.0
+patient was extubated in the operating room,1.5
+patient was transferred to the intensive care unit,1.5
+progressive chest pain,3.0
+important shivering,3.0
+"computed tomography with intravenous contrast of the neck, thorax, and abdomen was performed",4.0
+CT revealed pneumomediastinum,4.0
+CT revealed right hydropneumothorax,4.0
+esophageal perforation was strongly suspected,4.0
+right thoracic drain was inserted,4.5
+three hundred milliliters of serosanguinous liquid was drained from the pleural space,5.0
+esophagogastroscopy showed a 4-cm vertical perforation of the middle third of the esophagus,6.0
+esophageal perforation,6.0
+patient returned to the operating room to undergo a right thoracotomy,7.0
+repair of an esophageal perforation,7.0
+lysis of extensive pleural adhesions,7.0
+esophageal laceration site was found approximately 1.5 cm below the arch of the azygous vein,7.0
+a large vertebral osteophyte was visualized and palpated at the site of the perforation,7.0
+primary closure of the esophageal wall in two layers,7.0
+an intercostal muscular flap was mobilized to complete the closure,7.0
+three thoracic drains were left in place,7.0
+patient was transferred to the intensive care unit,10.0
+postoperative period was complicated by pneumonia,48.0
+severe delirium,48.0
+congestive heart failure with pulmonary edema,48.0
+patient died after withdrawal of care,720.0

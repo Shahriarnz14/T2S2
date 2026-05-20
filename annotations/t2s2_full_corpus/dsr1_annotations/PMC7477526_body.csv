@@ -1,0 +1,60 @@
+event,time
+3-year-old female,0
+complex congenital heart disease,0
+previous cardiac surgeries,0
+admitted to PICU,0
+shock,0
+cardiopulmonary arrest,0
+resuscitation,0
+thrombosis in right ventricle-to-pulmonary artery conduit,0
+severe hypoxic-ischemic encephalopathy,0
+acute kidney injury,0
+AKI resolved,0
+neurological rehabilitation,0
+transition to home ventilation,0
+dystonia,0
+heart failure,0
+endocarditis,0
+pulmonary embolism,0
+stem cell therapy investigated,0
+metformin initiated,-408
+metformin dose increased,-144
+wide complex bradycardia,0
+heart rate 70-80 bpm,0
+peaked T waves,0
+blood pressure 90/40 mmHg,0
+respiratory rate 26 breaths per minute,0
+temperature 37.2°C,0
+oxygen saturation 87%,0
+poor perfusion,0
+prolonged capillary refill time,0
+lethargic,0
+severe lactic acidosis,0
+hyperkalemia,0
+propranolol discontinued,0
+hypotension,0
+dopamine infusion,0
+norepinephrine infusion,0
+higher ventilator support,0
+clinical improvement,3
+support therapies weaned,3
+recurrent wide complex bradycardia,12
+hyperkalemia recurrence,12
+lactate rise,12
+creatinine increased,-120
+metformin discontinued,12
+clinical status returned to baseline,24
+nausea,0
+emesis,0
+hyperglycemia,0
+hypoglycemia,0
+lethargy,0
+abdominal pain,0
+hypothermia,0
+respiratory failure,0
+hypotension,0
+cardiac dysrhythmias,0
+no sepsis,0
+no rhabdomyolysis,0
+normal creatinine kinase,0
+sterile blood cultures,0

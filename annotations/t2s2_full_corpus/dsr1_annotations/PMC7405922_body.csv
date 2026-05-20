@@ -1,0 +1,70 @@
+event,time
+29 years old,0
+male,0
+asthma,0
+previous gunshot wound,0
+obesity,0
+dyspnea,0
+cough,0
+fatigue,0
+myalgias,0
+tobacco use,0
+auto-parts manufacturing work,0
+febrile,0
+tachycardia,0
+tachypnea,0
+supplemental oxygen,0
+ill appearance,0
+high work of breathing,0
+productive cough,0
+lymphopenia 1.4 k/uL,0
+"thrombocytopenia 121,000 k/uL",0
+unremarkable chest radiograph,0
+ICU transfer,0
+SARS-CoV-2 testing,0
+nasopharyngeal swab,0
+RT-PCR Abbott ID NOW™,0
+chest CT not performed,0
+higher non-rebreather flow rates,72
+persistent fevers,96
+tachypnea,96
+right middle and lower lung consolidation,96
+empirical broad-spectrum antibiotics,96
+hydroxychloroquine,96
+mechanical ventilation initiation,96
+extensive bilateral consolidative infiltrates,192
+PaO2/FiO2 59,192
+severe ARDS,192
+SARS-CoV-2 positive,192
+septic shock,192
+vasopressor support,192
+IL-6 46 pg/mL,192
+cytokine release syndrome,192
+tocilizumab 400 mg,192
+left upper extremity DVT,240
+d-dimer over 10 µg/mL,240
+prophylactic enoxaparin increased,240
+persistent fevers,240
+cooling,240
+neuromuscular blockade,240
+deep sedation,240
+low tidal volumes,240
+proning,240
+recruitment maneuvers,240
+diuretics,240
+nitric oxide,240
+vitamin C,240
+high plateau pressures over 30 cm H2O,240
+ECMO consideration,240
+logistical transfer issues,240
+left tension pneumothorax,408
+chest tube placement,408
+serosanguineous fluid drainage,408
+blood clots blocking output,408
+persistent air leaks,408
+clinical decline,408
+DNR status,408
+comfort measures,408
+desaturation,480
+asystole,480
+death,480

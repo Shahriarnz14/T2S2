@@ -1,0 +1,73 @@
+event,time
+51-year-old,0
+indigenous woman,0
+admitted to intensive care unit,0
+back pain,-120
+left flank pain,-120
+dehydration,-120
+treated with intra-muscular anti-inflammatories,-120
+discharged,-120
+acute exacerbation of lower back pain,-120
+vomiting,0
+confusion,0
+blood pressure 76/53 mmHg,0
+tachypnoea 55bpm,0
+impaired consciousness,0
+oliguria,0
+non-ketotic high anion gap metabolic acidosis,0
+pH 7.15,0
+lactate 10.1mmol/L,0
+hyperglycaemia,0
+blood glucose 23.5mmol/L,0
+acute kidney injury,0
+serum creatinine 348μmol/L,0
+urinalysis leukocytes,0
+hemolysed blood,0
+proteinuria 300–500,0
+no nitrites,0
+elevated WCC 14x10^9,0
+CRP 156mg/L,0
+hyponatraemia 126mmol/L,0
+thrombocytopaenia 57x10^9,0
+septic shock,0
+broad-spectrum antibiotics (piperacillin-tazobactam and gentamicin),0
+resuscitation,0
+non-contrast CT abdomen and pelvis,0
+left kidney edema,0
+hydronephrosis,0
+extensive loculated gas in renal parenchyma,0
+trace perinephric gas,0
+simple cyst of superior pole,0
+emphysematous pyelonephritis (EP),0
+vasopressor support,0
+strict fluid balance,0
+indwelling catheter,0
+continuous veno-venous haemodialysis (CVVHD),0
+insulin infusion,0
+urine culture Klebsiella pneumoniae,0
+blood culture Klebsiella pneumoniae,0
+antibiotic therapy narrowed (ceftriaxone and metronidazole),0
+medical management,0
+no clinical progression,48
+8Fr nephrostomy tube placement,48
+nephrostomy drainage,48
+organ support,48
+CVVHD ceased,72
+persisting confusion,120
+high grade fevers,120
+tachycardia,120
+dependence on vasopressors,120
+parenteral analgesia infusion,120
+new anaemia Hb 82g/L,120
+persisting inflammatory rise WCC 13.6x10^9,120
+thrombocytopaenia 114x10^9,120
+recurring renal function deterioration Cr 142μmol/L,120
+post CVVHD nadir Cr 71μmol/L,72
+repeat imaging no improvement,120
+open nephrectomy,120
+fibrous adhesions,120
+subcapsular approach,120
+postoperative recovery,120
+IV antibiotics transitioned to oral,168
+discharged,192
+creatinine 106μmol/L,192

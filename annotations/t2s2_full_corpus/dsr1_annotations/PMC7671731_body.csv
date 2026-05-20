@@ -1,0 +1,65 @@
+event,time
+55 years old,0
+female,0
+presented with chest pain,0
+presented with palpitations,0
+presented with shortness of breath,0
+presented with nausea,0
+blood pressure 182/87 mmHg,0
+heart rate 74 bpm,0
+temperature 98.3°F,0
+oxygen saturation 94% on 15 L/min oxygen,0
+troponin 0.26 ng/mL,0
+creatinine 1.5 mg/dL,0
+white blood cell count 21.6 K/uL,0
+blood glucose 497 mg/dL,0
+AST 110 U/L,0
+ALT 133 U/L,0
+lactic acid 6.9 mmol/L,0
+pro-BNP 926 pg/mL,0
+EKG ST segment elevations in leads V1 and V2,0
+CTPA negative for pulmonary embolism,0
+right adrenal mass 3.5 cm x 4.1 cm,0
+admitted to ICU,0
+STEMI,0
+hyperglycemia,0
+sepsis,0
+heparin drip 12 Units/kg/hr,0
+metoprolol 12.5 mg twice daily,0
+cefepime 1 g,0
+30 ml/kg lactated ringers bolus,0
+insulin drip 0.1 Units/kg/hr,0
+worsening chest pain,0
+worsening palpitations,0
+troponin rose to 1.00 ng/mL,0
+echocardiogram 40–45% ejection fraction,0
+septal hypokinesis,0
+lateral hypokinesis,0
+anteroseptal hypokinesis,0
+posterolateral hypokinesis,0
+cardiac angiography normal coronary vessels,0
+no significant past medical history,0
+no signs of infection,0
+myocarditis considered,0
+erythrocyte sedimentation rate 0 mm/hr,0
+chest pain improved,48
+oxygen requirement decreased to room air,48
+lactic acid decreased to 2.0 mmol/L,48
+blood glucose decreased to 179 mg/dL,48
+AST improved to 39 U/L,48
+ALT improved to 41 U/L,48
+plasma metanephrine 2.13 nmol/L,48
+plasma normetanephrine 4.15 nmol/L,48
+started doxazosin 2 mg daily,48
+started carvedilol 3.125 mg twice daily,48
+CT adrenal confirmed right adrenal mass,48
+robotic assisted laparoscopic right adrenalectomy,480
+histochemical features consistent with pheochromocytoma,480
+echocardiogram resolution of cardiomyopathy,1440
+cardiomyopathy,0
+pulmonary edema,0
+acute kidney injury,0
+acute liver injury,0
+hyperglycemia without diabetes history,0
+elevated lactic acid,0
+pheochromocytoma,0

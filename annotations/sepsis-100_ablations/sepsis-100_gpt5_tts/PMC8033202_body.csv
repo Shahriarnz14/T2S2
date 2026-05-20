@@ -1,0 +1,83 @@
+event,time
+29-year-old,0
+male,0
+in good health before admission,-1
+muscle pain,-144
+joint pain,-144
+general weakness,-144
+fever up to 39°C,-144
+transferred from a small hospital to the University Clinical Centre,0
+admitted to the MICU,0
+acute respiratory failure,0
+altered state of consciousness,0
+continuous sedation administered,0
+muscle relaxation administered,0
+intubation,0
+mechanical ventilation initiated,0
+FiO2 100%,0
+SpO2 88.7%,0
+controlled mechanical ventilation (lung-protective ventilation),0
+hemodynamic instability progressed,0
+norepinephrine infusion started,0
+norepinephrine increased to 0.6 μg/kg/min,0
+vasopressin not administered,0
+unknown infection source,0
+broad-spectrum empirical antimicrobial therapy started,0
+meropenem 1 g every 8 h IV started,0
+azithromycin 500 mg once daily IV started,0
+oseltamivir 75 mg every 12 h p.o. started,0
+methylprednisolone 80 mg every 12 h IV started,0
+stress ulcer prophylaxis administered,0
+thromboprophylaxis (UFH) administered,0
+continuous respiratory and hemodynamic monitoring,0
+arterial blood gases monitored regularly,0
+prone position applied,0
+chest CT performed,0
+massive bilateral pneumonia on CT,0
+minimal pleural effusions on CT,0
+bedside focus ultrasound performed,0
+influenza A (H1N1) infection,0
+massive bilateral pneumonia,0
+pronounced liver dysfunction,0
+total bilirubin 5.7 mg/dl,0
+serum glutamic oxaloacetic transaminase 633 U/L,0
+serum glutamic pyruvate transaminase 412 U/L,0
+gamma-glutamyl transferase 161 U/L,0
+lactate dehydrogenase 1668 U/L,0
+signs of systemic inflammation,0
+C-reactive protein 519 mg/L,0
+procalcitonin 1.28 ng/ml,0
+leukocytes 14.8×10^3/μl,0
+acute renal failure,120
+CRRT started,120
+CRRT in CVVHDF mode,120
+drug doses adjusted for renal function,120
+signs of multiorgan failure developed,120
+progressing hemodynamic instability,144
+uncontrolled inflammatory response,144
+CytoSorb adsorber installed into the CRRT circuit (first session),144
+combined therapy CRRT + CytoSorb initiated,144
+norepinephrine decreased to 0.15 μg/kg/min,144
+C-reactive protein decreased to 330 mg/L,144
+total bilirubin decreased to 3.2 mg/dl,144
+serum glutamic oxaloacetic transaminase decreased to 289 U/L,144
+gamma-glutamyl transferase decreased to 102 U/L,144
+lactate dehydrogenase decreased to 562 U/L,144
+procalcitonin decreased to 0.7 ng/ml,144
+ventilation parameters improved,144
+lung function improved,144
+norepinephrine discontinued,192
+recurring septic episode,216
+second CytoSorb therapy session commenced,216
+norepinephrine demand increased,216
+C-reactive protein decreased further,216
+leukocytes normalized,216
+hemodynamic status stable,216
+norepinephrine discontinued,240
+ICU delirium,264
+antipsychotics started,264
+percutaneous tracheostomy performed,288
+no hemodynamic problems after CytoSorb therapy,288
+weaned off from the ventilator,960
+transferred to the general ward,1152
+sent to the rehabilitation clinic,1224

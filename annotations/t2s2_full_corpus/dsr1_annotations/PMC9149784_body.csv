@@ -1,0 +1,111 @@
+event,time
+38 years old,0
+woman,0
+admitted to hospital,0
+bacteraemia,0
+right-sided device pocket infection,0
+lead infection,0
+intravenous antibiotics started,0
+extraction of device generator,24
+extraction of transvenous leads,24
+debridement of device pocket,24
+blood cultures negative for growth,216
+new device generator placed,432
+new subxiphoid pocket,432
+biventricular epicardial lead placement,432
+trivial pericardial effusion,432
+1st episode of cardiac tamponade,600
+pericardiocentesis,600
+removal of 1 L of fluid,600
+colchicine 1.2 mg started,600
+2nd episode of cardiac tamponade,672
+repeat pericardiocentesis,672
+removal of 1.5 L of fluid,672
+prednisone 60 mg started,672
+ibuprofen 600 mg started,672
+pericardial window,744
+small-bore chest tube placement,744
+discharge home,912
+chest tube in place,912
+intravenous antibiotics completed,1224
+repeat echocardiogram,2928
+no pericardial effusion,2928
+chest tube removed,2928
+fever,-48
+nausea,-48
+severe sepsis,0
+methicillin-sensitive Staphylococcus aureus bacteraemia,0
+left-sided CRT-D pocket infection,-2880
+device extraction,-2880
+re-implantation onto the right side,-2880
+permanent atrial fibrillation,0
+atrioventricular junction ablation,-2880
+heart failure with reduced ejection fraction,0
+non-ischaemic cardiomyopathy,0
+Type 2 diabetes,0
+obesity,0
+hyperlipidaemia,0
+lisinopril 2.5 mg daily,0
+metformin 1000 mg twice daily,0
+metoprolol succinate 12.5 mg daily,0
+rivaroxaban 20 mg daily,0
+spironolactone 25 mg daily,0
+torsemide 150 mg daily,0
+vancomycin,0
+piperacillin-tazobactam,0
+cefazolin monotherapy,0
+transesophageal echocardiogram,0
+no vegetations,0
+cardiovascular thoracic surgery,24
+cultures of device generator,24
+MSSA,24
+suspected endocarditis,0
+normotensive,0
+asymptomatic in AF,0
+complete heart block,0
+junctional escape rhythm,0
+temporary transvenous pacing deferred,0
+haemodynamic stability,0
+intensive care unit,0
+transcutaneous pacer pads,0
+dopamine available,0
+blood cultures cleared,216
+AF with complete heart block,0
+ventricular pacing,0
+marked enlargement of cardiac silhouette,0
+large pericardial effusion,600
+right ventricular collapse,600
+LVEF 30-35%,600
+moderate to large pericardial effusion,600
+systolic right atrial collapse,600
+lactated ringer’s bolus,600
+pericardial drain placed,600
+serous fluid,600
+normal nucleated cell count,600
+neutrophilic predominance,600
+pericardial fluid protein 5.6 g/dL,600
+serum protein 5.5 g/dL,600
+negative pericardial fluid cultures,600
+computed tomography scan,600
+appropriate lead position,600
+pericardial drain output ceased,672
+pericardial drain removed,672
+nausea,672
+hypotension,672
+re-accumulation of pericardial effusion,672
+RA invagination,672
+RV collapse,672
+pericardial drain placed,672
+prednisone taper,912
+home with chest tube,912
+minimal drainage,2928
+surveillance TTE,2928
+no effusion recurrence,2928
+no tachycardia,600
+post-pericardiotomy syndrome,600
+elevated inflammatory markers,672
+negative anti-myocardial antibody screen,672
+pericardial window effective,744
+totally leadless CRT unavailable,0
+no shortness of breath,0
+denies chest pain,0

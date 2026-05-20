@@ -1,0 +1,109 @@
+event,time
+85 years old,0
+male,0
+farmer,0
+active lifestyle,0
+atrial fibrillation,0
+benign prostatic hypertrophy,0
+leg injury,-1440
+trismus,-1440
+hypertonia,-1440
+Clostridium tetani infection,-1440
+immunoglobulins,-1440
+tetanus vaccination,-1440
+metronidazole,-1440
+transferred to ICU,-1344
+tracheostomy,-1344
+mechanical ventilation,-1344
+vasoactive support,-1344
+respiratory failure,-1344
+seizures,-1344
+baclofen,-1344
+midazolam,-1344
+diazepam,-1344
+electroencephalography,-1344
+slow cerebral activity,-1344
+worsening respiratory function,-1344
+chest radiography opacity,-1344
+peripheral leukocytosis,-1344
+ventilator-associated pneumonia,-1344
+blood cultures,-1344
+tracheal secretion samples,-1344
+Klebsiella pneumoniae,-1344
+methicillin-sensitive Staphylococcus aureus,-1344
+piperacillin-tazobactam,-1344
+moved to geriatric unit,-1344
+coma,-1344
+spontaneous breathing,-1344
+supplemental oxygen 4 L/min,-1344
+tracheal cannula,-1344
+antibiotic therapy switched to linezolid,-1296
+VAP exacerbation,-1296
+meropenem,-1296
+septic shock,-1296
+gradually awoke,-1296
+feeding tube removed,-1296
+cholestasis,-1296
+acute edematous pancreatitis,-1296
+postponed endoscopic treatment,-1296
+urinary tract infection,-1296
+multidrug-resistant Klebsiella pneumoniae,-1296
+Acinetobacter baumannii,-1296
+Enterococcus faecalis,-1296
+colistin,-1296
+amoxicillin-clavulanate,-1296
+clinical condition improved,-1296
+transferred to rehabilitation unit,0
+MDRO isolation,0
+tracheal supplemental oxygen 1 L/min,0
+bladder catheter,0
+pressure ulcers right heel,0
+pressure ulcers left heel,0
+pressure ulcers sacrum,0
+pressure ulcers right elbow,0
+sarcopenia,0
+low handgrip strength,0
+low appendicular skeletal mass,0
+rehabilitation initiated,0
+good compliance,0
+Clostridioides difficile infection,0
+oral vancomycin,0
+atrial fibrillation with third-degree AV block,72
+heart rate 30 beats/min,72
+transferred to cardiac ICU,72
+single-chamber pacemaker implantation,72
+hyperkinetic delirium,72
+transferred back to hospital,168
+Pseudomonas aeruginosa bloodstream infection,168
+ceftazidime-avibactam,168
+amikacin,168
+SARS-CoV-2 positive,168
+remdesivir,168
+droplet isolation,168
+recurrence of Clostridioides difficile,192
+transferred to geriatric unit,192
+fidaxomicin,192
+bloodstream infection Candida parapsilosis,456
+fluconazole-resistant,456
+MSSA,456
+Candida tropicalis,456
+intravenous catheter replacement,456
+caspofungin,456
+cefazolin,456
+Pseudomonas aeruginosa bloodstream infection recurrence,624
+piperacillin-tazobactam,624
+aztreonam,624
+ceftazidime-avibactam,624
+cefepime,696
+tracheostomy closure,696
+nutritional supplementation,696
+intensive rehabilitation compromised,696
+discharge,696
+postural transition with assistance,696
+motor reconditioning,696
+respiratory reconditioning,696
+wheelchair recommended,696
+walker recommended,696
+rehabilitation follow-up,696
+ENT follow-up,696
+geriatric follow-up,696

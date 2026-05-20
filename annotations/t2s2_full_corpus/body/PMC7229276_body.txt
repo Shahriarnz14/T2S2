@@ -1,0 +1,88 @@
+1 Introduction
+Independent lung ventilation (ILV) performed with use of a double-lumen endotracheal tube (DLT) is frequently applied peri-operatively in patients undergoing thoracic surgery, and it facilitates complicated thoracic surgeries [1]. With increasing use of extracorporeal membrane oxygenation (ECMO) in cases of severe unilateral pneumonia, the indications for ILV in emergency medicine and critical care settings have not been fully explored. ILV is sometimes used outside the operating room for patients with, for example, unilateral lung contusion, massive hemoptysis, bronchial fistula, or re-expansion pulmonary edema [2].Table 1 Treatment course after Patient's arrival at the emergency department.
+
+Table 1	Time after arrival (hours)	
+1	6	9	25	45	55	81	147	
+SLT	DLT	DLT	DLT	DLT	DLT	SLT	Extubation	
+Left or Both	Mode	Control	Control	Control	Control	Control	A/C	PS		
+FiO2	1.0	0.6	0.6	0.5	0.4	0.4	0.3	NC 4L/min	
+PEEP (cmH2O)	15	8	8	8	8	8	8		
+ΔP (cmH2O)	10	10	12	12	12	12	8		
+TV (mL)	610	310	280	280	240	410	400		
+RR (breaths/min)	24	24	24	20	20	20	20	24	
+Right	Mode		BiLevel	BiLevel	BiLevel	BiLevel				
+FiO2		1.0	0.5	0.5	0.5				
+PEEPlow (cmH2O)		15	15	15	15				
+PEEPhigh (cmH2O)		20	20	20	20				
+TV (mL)		20	50	60	80		2	2	
+RR (/min)		1	1						
+BGA	PaO2 (mmHg)	64	103	90	75	94	87	83	102	
+PaCO2 (mmHg)	53	50	53	48	58	41	27	30	
+HCO3− (mmol/L)	16	17	21	20	24	21	20	20	
+pH	7.10	7.16	7.22	7.25	7.24	7.33	7.49	7.43	
+SLT = single lumen endotracheal tube; DLT = double lumen endotracheal tube; Left = ventilator used to ventilate the left lung; Both = ventilators used to ventilate both lungs; A/C = Assist/Control; PS = pressure support; NC = nasal cannula; Right = ventilator used to ventilate the right lung; PEEP = positive end-expiratory pressure; ΔP = inspiratory positive airway pressure above PEEP; TV = tidal volume; RR = respiratory rate; BiLevel = biphasic positive airway pressure (BiPAP) mode specific to COVIDIEN ventilators; PEEPlow = low PEEP in BiLevel mode; PEEPhigh = high PEEP in BiLevel mode; BGA = blood gas analysis.
+
+
+
+We encountered with a case of severe unilateral pneumonia in which both oxygenation and hemodynamics deteriorated under ventilation performed via a conventional single-lumen endotracheal tube (SLT) and at a high positive end-expiratory pressure (PEEP) level. Therefore, we replaced the SLT with a DLT and used two ventilators, each at a different setting, to ventilate each lung separately. ILV, as described below, proved to be a successful approach to treatment in our case.
+
+2 Case report
+A 90-year-old man was admitted to our emergency department with impaired consciousness and respiratory failure. His family found him unconscious in a bathtub. Although the patient's medical history included a chronic cerebral infarct, he had been able to perform activities of daily living independently. Upon admission, his consciousness was impaired (Glasgow Coma Scale component scores: E1 V1 M3), body temperature was 36.1 °C, blood pressure was 154/110 mmHg, pulse rate was 113/min, respiratory rate was 24 breaths/min, and SpO2 was 60% when oxygen was delivered at 10 L/min via non-rebreather mask. Physical examination revealed poor inflation of the right chest, and auscultation revealed diminished respiratory sounds in the right lower lung.
+
+The patient was intubated with SLT in response to the impaired consciousness and hypoxemia, and immediately after this procedure, the patient's blood pressure dropped markedly (See Table 1). We surmised that this drop was caused by septic shock resulting from pneumonia. Thus, 1000 mL of crystalloid fluid was administered immediately, along with piperacillin/tazobactam and azithromycin. Noradrenalin (NAD) 0.3 μg/kg/min, vasopressin (AVP) 1 unit/hour, and hydrocortisone 100 mg were administered intravenously for the presumed severe septic shock, and dobutamine (DOB) was added for the reduced cardiac output. The treatment course is shown in Fig. 1.Fig. 1 Clinical course after the patient's admission to the emergency department.
+
+NAD = noradrenaline; AVP = arginine vasopressin; DOB = dobutamine; Cdyna (both) = dynamic compliance in both lungs; Cdyna (left) = dynamic compliance in the left lung; Cdyna (right) = dynamic compliance in the right lung; MAP = mean arterial pressure.
+
+Fig. 1
+
+Despite the aforementioned treatment, hemodynamic stability could not be maintained. Chest radiography and computed tomography were performed after intubation, and right middle and lower lung infiltrates were seen. No abnormality was seen in the left lung (Fig. 2, Fig. 3). Arterial blood gas analysis was performed within 1 hour after the patient's arrival, and the following values were obtained: PaO2 64 mmHg, PaCO2 53 mmHg, and pH 7.10 when the ventilator was set to assist-control mode respiratory rate setting 24/min, FiO2 1.0, PEEP 15 cmH2O, and inspiratory pressure 10 cmH2O, making the tidal volume 610 mL and minute ventilation approximately 15 L/min. On physical examination, unilateral distension of left thorax was noted while right thorax did not fully elevate even after intubation and use of high PEEP. Thus, aeration of the affected lung did not improve, whereas the non-affected lung overinflated. We considered applying ECMO as a treatment option because conventional mechanical ventilation was ineffective. Due to the marked difference between the affected lung and the non-affected lung in pathophysiology (especially in compliance and the ventilation/perfusion [V/Q] ratio) and because of the high risk of complications posed by ECMO, especially in light of the patient's advanced age, we decided to ventilate each lung separately using two different ventilators.Fig. 2 Chest radiograph obtained after intubation.
+
+Infiltrative shadows are evident in the right middle and lower lung, but no abnormality is seen in the left lung.
+
+Fig. 2Fig. 3 Computed tomography images obtained after intubation.
+
+Infiltrative shadows are evident in the right middle and lower lung (upper panel), but no abnormality is seen in the left lung (lower panel).
+
+Fig. 3
+
+The SLT was replaced with a DLT (Portex®, BlueLine®, Endobronchial Tube, Left, 37Fr), and temporary oxygenation, with a target SpO2 of 99%, was provided, with the patient in the left lateral decubitus position (i.e., lying on the non-affected side). ILV was performed with two ventilators (COVIDIEN, Puritan Bennett™ 840) and continuous administration of a neuromuscular blocking agent. To address the V/Q mismatch, the ventilator for the left lung, non-affected side, was set to increase pulmonary blood flow by reducing the PEEP, thus preventing over-inflation. In addition, protective ventilation for right lung, the affected side, was performed, i.e., the ventilator for right lung was set to bi-level mode, allowing for permissive hypercapnia and preventing shear stress as much as possible. For this patient, the ventilator for the left lung was set to pressure-controlled ventilation (PCV) mode, PEEP 8 cmH2O, PaO2 10 cmH2O, and 24 respiratory rates/min. The ventilator for the right lung was set to bi-level mode, PEEPhigh 20 cmH2O, PEEPlow 15 cmH2O and one respiratory rate/min. The ILV was started 6 hours after the patient's arrival, and immediately thereafter arterial blood gas analysis showed improved oxygenation, with a PaO2 of 103 mmHg (FiO2: right 1.0, left 0.6), which allowed for a gradual decrease in the amount of oxygen delivered (Fig. 4). With ILV, the patient's mean arterial blood pressure (MAP) increased, allowing for reductions in the NAD and DOB.Fig. 4 Chest radiograph obtained after replacement of the single-lumen endotracheal tube with the double-lumen endotracheal tube.
+
+Fig. 4
+
+Continuous hemodiafiltration was performed because arterial blood gas analysis had revealed mixed respiratory-metabolic acidosis (pH 7.16, PaCO2 50 mmHg, and HCO3− 17 mmol/L). Arterial blood gas analysis was repeated at 25 hours and at 45 hours, showing the PaO2 to be 75 mmHg (FiO2: right 0.5, left 0.5) and 94 mmHg (FiO2: right 0.5, left 0.4), respectively (Fig. 5). The difference in dynamic compliance between the lungs was reduced to 4 mL/cmH2O (right 16 mL/H2O, left 20 mL/cmH2O), and a decrease in the pulmonary infiltrates was seen radiographically. Therefore, the ILV was discontinued, and conventional two-lung ventilation with a single ventilator was started. Arterial blood gas analysis performed 55 hours after the patient's arrival showed the PaO2 to be 87 mmHg, PaCO2 to be 41 mmHg, and pH to be 7.33 with the ventilator set to assist-control mode, FiO2 0.4, PEEP 8 cmH2O, and inspiratory pressure 12 cmH2O, resulting in a tidal volume of 410 mL. On the same day, the vasopressors and continuous hemodiafiltration were also discontinued.Fig. 5 Chest radiograph obtained on hospital day 2 shows a reduction in the right lung infiltrates.
+
+Fig. 5
+
+The DLT was replaced with an SLT on hospital day 4 because there was no collapse of the right (affected) lung and no deterioration in oxygenation even when one ventilator was used for both lungs (Fig. 6). Thus, on hospital day 4, 81 hours after the patient's arrival, the ventilator was set to pressure support mode, FiO2 0.3, PEEP 8 cmH2O, and inspiratory pressure 8 cmH2O. The patient was successfully extubated on hospital day 7 and thereafter transferred to a rehabilitation center.Fig. 6 Chest radiographs obtained on hospital day 4, i.e., after replacement of the double-lumen endotracheal tube with a single-lumen endotracheal tube, shows a reduction in the right lung infiltrates and no collapse of the right lung.
+
+Fig. 6
+
+3 Discussion
+In our patient with severe unilateral pneumonia and in whom pathophysiology of the left and right lungs differed significantly, ILV performed with a DLT and two ventilators at different PEEP settings not only immediately improved oxygenation but also improved hemodynamics. ILV is rarely performed for severe unilateral pneumonia, especially because ECMO is being used increasingly, but ILV is less invasive than ECMO and useful in selected cases. In cases such as ours, use of an SLT and a single ventilator for management of both lungs does not improve oxygenation. If the ventilation volume, compliance, and airway resistance differ significantly between the left and right lungs, blood flow in the affected lung will increase and result in hypoxemia due to V/Q mismatch [[3], [4], [5]].
+
+Hyperinflation of the non-affected lung and high PEEP result in increased vascular resistance and decreased pulmonary blood flow in the non-affected lung, resulting in V/Q mismatch [[3], [4], [5], [6], [7]]. When alveolar hypoxia develops in the affected lung, hypoxic pulmonary vasoconstriction occurs to divert blood to the non-affected lung and thereby optimize V/Q matching and systemic oxygen delivery [8,9]. However, hyperinflation of the non-affected lung and the high PEEP outweigh this compensation mechanism, resulting in V/Q mismatch [6].
+
+An angiographic study performed during respiratory management with SLT in a case of unilateral lung disease with refractory respiratory failure showed that compliance differed significantly between the patient's lungs. With PEEP 0 cmH2O the same amount of contrasted blood flowed to both main pulmonary arteries, whereas with PEEP 10 cmH2O the contrasted blood flowed only to the affected lung [3]. ILV with high PEEP on the affected side and prevention of hyperinflation on the non-affected side increases blood flow in the non-affected lung in comparison to that in the affected lung and thus improves V/Q mismatch. East et al. showed, in a canine unilateral lung injury model, that ILV with high PEEP only in the affected lung improved oxygenation [10]. In our case, high PEEP applied to the affected lung alone prevented the decrease in blood flow in the non-affected lung and improved the V/Q mismatch, thus improving oxygenation.
+
+Respiratory management by means of ILV with use of a DLT in our case improved the oxygenation by increasing PaO2 from 64 mmHg (FiO2 1.0) to 103 mmHg (FiO2: right 1.0, left 0.6). Although the minute ventilation was halved (from approximately 15 L/min [tidal volume: 610 mL/breath × 24 breaths/min] with use of one ventilator and an SLT) to 7 L/min [tidal volume: 310 mL/breath × 24 breaths/min] with use of ILV and a DLT), PaCO2 improved from 53 mmHg to 50 mmHg), suggesting the decrease in dead space of the non-affected lung through diverted blood flow from the affected lung to the non-affected lung. High PEEP and hyperinflation of the non-affected lung deteriorated hemodynamics, i.e., decreased cardiac output and blood pressure [4]. ILV performed with a DLT was reported to improve the cardiac index and V/Q mismatch in 7 cases of refractory hypoxemia [11]. In our case, after the induction of ILV, the MAP rapidly increased, and the catecholamine dose was reduced.
+
+Keeping the plateau pressure below 26 cmH2O is suggested when ILV is performed [12]. The ventilation setting with reduced driving-pressure and respiratory rate will possibly prevent pulmonary injury by minimizing sheer stress. For these reasons, the ventilator used for the affected lung was set to bi-level mode with a PEEPhigh of 20 cmH2O, PEEPlow of 15 cmH2O, and respiratory rate of 1/min. This ventilation setting enables CO2 exhalation from the non-affected lung while the affected lung remains at rest.
+
+In previously reported patients, unilateral atelectasis [13] and lung contusion [14] were successfully treated at similar ventilatory settings (high PEEP on affected side without ventilation). ECMO is indicated in cases of severe respiratory failure with a P/F ratio of 100 or less under conventional respiratory management with 90% or more administration of FiO2 [15]. However, ILV with DLT, which is widely used in surgical settings, is less invasive than ECMO. In our case, regardless of PEEP adjustment, hypoxemia occurred, with a P/F ratio of 64, meeting the ECMO induction criteria. However, our patient was deemed to be at high risk for complications because of his advanced age. Because of possible complications, such as bleeding and infection, not all hospitals are ECMO available. Although ILV with use of a DLT requires close attention to many details, such as proper tube selection, cuff pressure, the intubation procedure, and proper positioning of the patient, complication-free respiratory management by means of ILV with use of a DLT and lasting up to 10 days has been reported [2].
+
+ILV should be kept in mind as a treatment option for critically-ill patients with unilateral lung disease and refractory respiratory failure.
+
+4 Conclusion
+For cases of severe unilateral pneumonia in which pathophysiology differs significantly between the left lung and right lung, ILV performed with a DLT and two ventilators under different ventilator settings, especially the PEEP settings, not only immediately improves oxygenation but also improves hemodynamics. ILV performed with a DLT and two ventilators is less invasive and more useful than ECMO and should be kept in mind for respiratory management in critically ill patients.
+
+Informed consent and patient details
+Written informed consent was obtained from the patient's family for publication of the anonymized case details and images.
+
+CRediT authorship contribution statement
+Minoru Yoshida: Project administration, Writing - original draft. Yasuhiko Taira: Conceptualization, Writing - review & editing. Masayuki Ozaki: Conceptualization, Writing - review & editing. Hiroki Saito: Visualization, Writing - review & editing. Miyuki Kurisu: Conceptualization, Resources. Shinya Matsushima: Resources. Takaki Naito: Conceptualization. Toru Yoshida: Methodology, Visualization. Yoshihiro Masui: Conceptualization, Resources. Shigeki Fujitani: Supervision, Writing - review & editing.
+
+Declaration of competing interest
+None.
+
+Acknowledgements
+We thank Prof. Tina Tajima for her help in reporting this case in English.

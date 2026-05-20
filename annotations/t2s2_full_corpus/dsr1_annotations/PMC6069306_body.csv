@@ -1,0 +1,148 @@
+event,time
+57 years old,0
+female,0
+diabetes,0
+hypertension,0
+transferred to facility,0
+high-grade fever,-72
+fall,-336
+initial treatment at primary health center,-336
+ambulating well at home,-336
+conscious,0
+oriented,0
+febrile,0
+hypotensive,0
+minimal respiratory distress,0
+sepsis,0
+fluid resuscitation,0
+cultures,0
+imaging,0
+broad-spectrum antibiotics,0
+leukocytosis,0
+toxic neutrophil granulation,0
+normal renal panel,0
+normal liver panel,0
+normal coagulation panel,0
+right axis deviation,0
+S1Q3T3 pattern,0
+no right heart strain,0
+no lower limb DVT,0
+CT pulmonary angiogram,0
+no pulmonary embolism,0
+unfractionated heparin initiated,0
+MSSA bacteremia,24
+antibiotic de-escalated,24
+negative cultures,24
+negative tropical infection screening,24
+D8 vertebral fracture,24
+transesophageal echocardiography,48
+no infective endocarditis,48
+acute left lower limb swelling,72
+pain,72
+redness,72
+acute DVT,72
+left internal iliac vein to popliteal vein thrombus,72
+normal coagulation profile,72
+normal platelet count,72
+normal peripheral smear,72
+negative connective tissue workup,72
+negative vasculitis workup,72
+therapeutic anticoagulation,72
+MRI spine,96
+T8 vertebral wedging,96
+T11 vertebral wedging,96
+no cord edema,96
+no mass,96
+left common iliac vein compression,96
+acute thrombus left common iliac vein,96
+May-Thurner syndrome,96
+catheter-based thrombolysis suggested,96
+venous stenting suggested,96
+IVC filter placement,120
+rivaroxaban initiated,120
+afebrile,168
+stable,168
+discharged,168
+asymptomatic follow-up,720
+18 years old,0\
+male,0\
+admitted to the hospital,0\
+fever,-72\
+rash,-72\
+acne,-672\
+minocycline,-672\
+increased WBC count,0\
+eosinophilia,0\
+systemic involvement,0\
+diffuse erythematous or maculopapular eruption,0\
+pruritis,0\
+DRESS syndrome,0\
+fever persisted,0\
+rash persisted,0\
+discharged,24\
+"Separate conjunctive phrases into its component events and assign them the same timestamp (for example, the separation of 'fever and rash' into 2 events: 'fever' and 'rash')  If the event has duration, assign the event time as the start of the time interval. Attempt to use the text span without modifications except 'history of' where applicable. Include all patient events, even if they appear in the discussion; do not omit any events; include termination/discontinuation events; include the pertinent negative findings, like 'no shortness of breath' and 'denies chest pain'.  Show the events and timestamps in rows, each row has two columns: one column for the event, the other column for the timestamp.  The time is a numeric value in hour unit. The two columns are separated by a pipe '",' as a bar-separated file. Skip the title of the table. Reply with the table only. Create a table from the following case:
+57 years old,0
+female,0
+diabetes,0
+hypertension,0
+transferred to facility,0
+high-grade fever,-72
+fall,-336
+initial treatment at primary health center,-336
+ambulating well at home,-336
+conscious,0
+oriented,0
+febrile,0
+hypotensive,0
+minimal respiratory distress,0
+sepsis,0
+fluid resuscitation,0
+cultures,0
+imaging,0
+broad-spectrum antibiotics,0
+leukocytosis,0
+toxic neutrophil granulation,0
+normal renal panel,0
+normal liver panel,0
+normal coagulation panel,0
+right axis deviation,0
+S1Q3T3 pattern,0
+no right heart strain,0
+no lower limb DVT,0
+CT pulmonary angiogram,0
+no pulmonary embolism,0
+unfractionated heparin initiated,0
+MSSA bacteremia,24
+antibiotic de-escalated,24
+negative cultures,24
+negative tropical infection screening,24
+D8 vertebral fracture,24
+transesophageal echocardiography,48
+no infective endocarditis,48
+acute left lower limb swelling,72
+pain,72
+redness,72
+acute DVT,72
+left internal iliac vein to popliteal vein thrombus,72
+normal coagulation profile,72
+normal platelet count,72
+normal peripheral smear,72
+negative connective tissue workup,72
+negative vasculitis workup,72
+therapeutic anticoagulation,72
+MRI spine,96
+T8 vertebral wedging,96
+T11 vertebral wedging,96
+no cord edema,96
+no mass,96
+left common iliac vein compression,96
+acute thrombus left common iliac vein,96
+May-Thurner syndrome,96
+catheter-based thrombolysis suggested,96
+venous stenting suggested,96
+IVC filter placement,120
+rivaroxaban initiated,120
+afebrile,168
+stable,168
+discharged,168
+asymptomatic follow-up,720

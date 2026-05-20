@@ -1,0 +1,69 @@
+event,time
+75 years old,0
+male,0
+hypertension,0
+hyperlipidaemia,0
+nephrolithiasis,0
+right flank pain,-48
+dysuria,-168
+frequency,-168
+admitted to emergency department,-48
+antibiotics,-48
+IVF,-48
+emergency ureteral stent placement,-36
+impacted renal stones,-48
+acute respiratory distress syndrome,-36
+severe hypoxaemia,-36
+transferred to ICU,-36
+intubated,-36
+urosepsis,-36
+vasopressors initiated,-36
+dopamine 2 µg/kg/min,-36
+norepinephrine 1 µg/min,-36
+vasopressin 2.4 units/hour,-36
+lactate 5.35,-36
+blood pressure improved,-24
+vasopressors tapered,-24
+IVF continued,-24
+broad-spectrum antibiotics,-24
+negative cultures,0
+bluish discolouration,24
+capillary refill >3s,24
+dopplerable pulses,24
+intact skin,24
+cool skin,24
+dopamine discontinued,48
+gangrenous changes left hand and bilateral feet,72
+intravenous argatroban 1.5 µg/kg/min,72
+acidosis,0
+dialysis,0
+fluid-filled bullae,216
+necrosis of both feet,0
+left heel cellulitis,0
+intravenous antibiotics,0
+discharged to nursing home,216
+"dry gangrene left hand digits 1,4,5",3840
+"amputation of left hand digits 1,4,5",3840
+soft tissue infections feet,3840
+Methicillin-resistant Staphylococcus aureus,3840
+Pseudomonas,3840
+intravenous antibiotics 6 weeks,3840
+dry demarcated gangrene both forefeet,2880
+dry demarcated gangrene plantar mid-feet,2880
+bilateral transmetatarsal amputations,2880
+Veraflow wound VAC,2904
+split-thickness skin grafts,8760
+current outpatient recovery,8760
+full ambulation goal,8760
+symmetrical peripheral gangrene,72
+DIC,0
+vasopressor use,-36
+septic shock,-36
+elevated lactate,-36
+acidosis,0
+negative cultures,0
+spared right hand,72
+depression,0
+left hand amputation,3840
+bilateral transmetatarsal amputations,2880
+skin grafts,8760

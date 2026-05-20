@@ -1,0 +1,69 @@
+event,time
+50 years old,0
+Chinese,0
+female,0
+admitted to the Emergency Department,0
+abdominal pain,-144
+vomiting,-144
+lactic acidosis,0
+thrombocytopenia,0
+aortic valve replacement,-51840
+mitral valve replacement,-51840
+rheumatic heart disease,-51840
+anemia,-16656
+chronic renal failure,-16656
+admitted to the Department of Cardiology,-720
+palpitation,-336
+fever,-336
+endocarditis,-720
+echocardiography,-720
+blood culture,-720
+methicillin-resistant Staphylococcus intermedius,-720
+neoplasm around the mechanical aortic valve,-720
+serum creatinine 331 µmol/L,-720
+estimated glomerular filtration rate 23 mL/min/1.73 m²,-720
+hemoglobin 78 g/L,-720
+leukocytes 8.7×10⁹/L,-720
+polymorphonuclear neutrophils 7.57×10⁹/L,-720
+platelets 216×10⁹/L,-720
+LZD 600 mg intravenously every 12 hours,-720
+warfarin 1.25 mg orally every 12 hours,-720
+LZD treatment for 13 days,-720
+condition improved,-720
+symptoms disappeared,-720
+body temperature normal,-720
+blood culture negative,-720
+discharged,-720
+received LZD treatment in a local hospital for 12 days,-720
+drowsy,-144
+dyspneic,-144
+nausea,-144
+vomiting,-144
+persistent periumbilical pain,-144
+no fever,-144
+no chill,-144
+no cough,-144
+no diarrhea,-144
+no expectoration,-144
+no rash,-144
+tachypneic (28 breaths/min),0
+atrial fibrillation (83 beats/min),0
+normotensive (112/50 mmHg),0
+afebrile (36.5°C),0
+microbiological investigations negative,0
+no sputum specimen collected,0
+diagnosed with severe lactic acidosis,24
+diagnosed with thrombocytopenia,24
+transferred to Emergency Intensive Care Unit,24
+heart rate 115 beats/min,24
+atrial fibrillation,24
+blood pressure 70/35 mmHg,24
+respiratory rate 30 breaths/min,24
+hemodynamic support with norepinephrine,24
+mechanical ventilation,24
+continuous renal replacement therapy,24
+2U erythrocytes,24
+1U platelets,24
+shock,336
+multiple organ failure,336
+died,432

@@ -1,0 +1,45 @@
+1 Introduction
+
+Coronaviruses cause disorders that range from common cold to severe clinical syndromes such as the Middle East Respiratory Syndrome and the Severe Acute Respiratory Syndrome [1,2]. The novel coronavirus SARS-CoV-2 disease (COVID-19) pandemic, which started last December 2019 in China, is still spreading [3]. Most COVID-19 patients have respiratory symptoms and mild disease. A minority of patients, especially the elderly and individuals with underlying comorbidities, can develop life-threatening features such as acute respiratory distress syndrome (ARDS), thromboembolic disease, sepsis and multi-system organ failure [[4], [5], [6], [7], [8]]. Surely, infection with Mycobacterium tuberculosis remains the top cause of death due to an infectious disease. In theory, tuberculosis (TB) could predispose to the development of COVID-19; however, data and experience with COVID-19 and associated TB are lacking. This report briefly outlines the first case of COVID-19 in a patient with active tuberculosis in Saudi Arabia.
+
+2 Case presentation
+
+A sixty year old hypertensive and diabetic Asian male was admitted, in March 2020, to the emergency department of our COVID-19 health care center due to recent onset fever (38.6 °C), persistent productive cough, chest pain, myalgias, fatigue and respiratory distress. The patient had a past history of TB according to his relatives; however, no medical records were available as he was treated outside Saudi Arabia. He has mentioned unprotected contact with his cousin who has recently recovered from COVID-19 without sharing any further information. Physical examination revealed decreased breath sounds at the lung bases. His saturation of peripheral oxygen (SpO2) was 72%, on room air but he had no respiratory distress. Portable chest X-ray showed bilateral interstitial infiltrates (Fig. 1). Electrocardiogram, cardiac enzymes, coagulation profile and echocardiography were normal. Also, laboratory findings were normal apart from lymphocytopenia (0.59 × 10⁹/L, normal: 1.1–3.2 × 10⁹/L), and increased C-reactive protein [243.3 mg/liter, normal: 0–7 mg/liter], lactate dehydrogenase [944 units/liter, normal: 100–190 units/liter], and ferritin (876 ng/ml, normal: 23–336 ng/ml). Admission chest computed tomography (CT) scans revealed diffuse bilateral ground-glass opacities (Fig. 1B and C). Nasopharyngeal swabs confirmed COVID-19 by Real-Time-Polymerase-Chain-Reaction (RT-PCR) assays using QuantiNova Probe RT-PCR kit (Qiagen) in a Light-Cycler 480 real-time PCR system (Roche, Basel, Switzerland) [[9], [10], [11]]. The patient was admitted to one of the 100 isolation chambers designated for COVID-19 supportive care within our 200-bed polyvalent intensive care unit (ICU), which is the largest in the Middle East. He underwent a full diagnostic work-up for other viral, bacterial, mycobacterial and systemic disorders. A higher level of respiratory support via a high flow nasal cannula (HFNC) was initiated (flow: 60 L/minute, fraction of inspired oxygen 40%) along with awake prone positioning (16–20 hours daily). The rate of oxygenation index [(ROX): oxygen saturation/(fraction of inspired oxygen x respiratory rate)] was maintained over 6 for the upcoming 48 hours indicating successful oxygenation [12]. Empiric therapy for COVID-19 with lopinavir/ritonavir and ribavirin for 14-days, dexamethasone for 7 days, and prophylactic anticoagulation along with supportive ICU care was administered as per hospital protocol [13]. Interestingly, the nucleic acid amplification test (NAAT) that was performed on sputum specimens (Xpert MTB/RIF test) revealed concomitant infection with mycobacterium tuberculosis sensitive to rifampicin [14,15]. Therefore, the patient was also started on isoniazid (along with pyridoxal phosphate to avoid peripheral neuropathy), rifampicin, pyrazinamide, and ethambutol for two months, then isoniazid and rifampicin alone up to the present and for four months in total. No side effects of the treatment for COVID-19 and/or TB were recorded, and the patient has made an uneventful recovery. He maintained a ratio of partial arterial pressure of oxygen to fractional inspired concentration of oxygen >250 during the first week of ICU admission. HFNC and awake prone positioning were discontinued after 12 days. Thereafter, oxygen therapy (2–4 L of oxygen via a nasal cannula) was administered for another four days. Oxygen supportive care was discontinued on day-16. RT-PCR test for COVID-19 and microbiology were negative on day-20. He was discharged to home isolation on day-27, and is being followed-up by our outreach team.Fig. 1 (A) Portable chest X-ray depicting bilateral interstitial infiltrates, and (B), (C) chest computed tomography scans revealing bilateral diffuse ground-glass opacities with mainly a peripheral and lower lobe distribution.
+
+Fig. 1
+
+3 Discussion
+
+Our patient had simultaneously active TB and COVID-19. His past medical history, although obscure, and the application of NAAT have both facilitated the prompt diagnosis of TB. We have utilized a NAAT that can detect Mycobacterium tuberculosis complex and resistance to rifampicin in less than 2 hours [15]. Scarce data exist about the incidence of TB in COVID-19 patients though. In a recent study of 1.217 consecutive respiratory specimens derived from COVID-19 patients, Mycobacterium tuberculosis was not discovered [16]. Moreover, the clinical features of active and/or latent TB in COVID-19 are not fully elucidated. In a most recently published cohort-study of 49 TB patients with COVID-19, which were recruited by the Global Tuberculosis Network, no outcome analysis was available [17]. In the aforementioned study, 38.8% of patients with COVID-19 were diagnosed during anti-TB treatment and limited or no protection against COVID-19. Our patient had former TB and confirmed unprotected contact with a COVID-19 positive individual. The role of RT-PCR complemented by a chest CT scan in the prompt diagnosis of COVID-19, as employed in our case, is well-established [[9], [10], [11],18,19]. Our patient had drug-susceptible TB and was treated with the standard first-line regimen; however, cases requiring second line treatment have been reported [17]. The combination of first-line anti-TB therapy and antiviral treatment for COVID-19 should have theoretically increased the risk for the occurrence of side-effects (i.e., liver toxicity). Although not recorded in our case, the aforementioned risk is real [17]; hence, clinicians should monitor carefully patients under treatment for COVID-19 and TB for side-effects of combination therapies and drug-drug interactions. Fortunately, our patient has made an uneventfully recovery. The application of HFNC and awake prone positioning has been effective in his respiratory management as previously reported [20]. In this case, increased inflammation biomarkers and lymphocytopenia were evident, upon admission, which have been linked to extensive lung parenchymal disease and poor prognosis in COVID-19 [[4], [5], [6], [7], [8]]. Whether a correlation existed as well between these laboratory abnormalities and the underlying TB is uncertain. In conclusion, larger prospective studies are clearly required to investigate further the diagnosis, management and clinical course of COVID-19 patients with active and/or latent TB.
+
+Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Abbreviations
+
+SARS-CoV-2 disease COVID-19
+
+ICU intensive care unit
+
+RT-PCR Real-Time-Polymerase-Chain-Reaction
+
+CT computed tomography
+
+TB tuberculosis
+
+NAAT nucleic acid amplification test
+
+HFNC high flow nasal cannula
+
+Funding
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Ethical approval
+
+The study was approved by the Institutional Review Board of King Saud Medical City, Riyadh, Kingdom of Saudi Arabia [H-01-R-053, IORG0010374, H1RI-May 20]. Written informed consent was obtained from the patient.
+
+Credit authorship contribution statement
+
+Fahad Faqihi: Investigation, Writing - original draft. Abdulrahman Alharthy: Investigation, Validation, and Data Analysis. Alfateh Noor: Investigation, Validation, and Data Analysis. Ahmed Balshi: Validation, Writing-original draft. Abdullah Balahmar: Validation, Writing-original draft. Dimitrios Karakitsos: Conceptualization, Supervision, Writing - review & editing.

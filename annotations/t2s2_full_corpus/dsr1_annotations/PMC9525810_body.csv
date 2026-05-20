@@ -1,0 +1,46 @@
+event,time
+53 years old,0
+male,0
+admitted to the hospital,0
+altered mental status,-24
+hypotension,-24
+fever,-24
+respiratory distress,-24
+diabetic nephropathy,0
+renal replacement therapy,0
+diabetic retinopathy,0
+bilateral amaurosis,0
+cardiac arrest,-24
+acute respiratory failure,-24
+cardiopulmonary resuscitation,-24
+return to spontaneous blood circulation,-21
+orotracheal intubation,-21
+normocytic normochromic anemia,0
+mixed hyperbilirubinemia,0
+conserved renal function,0
+no electrolyte disorders,0
+CT angiography negative for pulmonary embolism,0
+positive SARS-CoV-2 PCR,0
+no vaccination,0
+COVID-19 variant unknown,0
+somnolent,0
+alertable,0
+obeying simple orders,0
+verbal response not assessable,0
+intact brainstem reflexes,0
+normal motor function,0
+normal sensitive function,0
+brain CT showing bilateral frontal leukoencephalopathy,0
+calcified atheromatous plaques,0
+deterioration of mental status,24
+stupor,24
+suspension of sedative agents,24
+severe hypoglycemia,24
+glucose level 18 mg/dl,24
+MRI showing middle cerebellar peduncles lesions,48
+hypoglycemic encephalopathy diagnosis,48
+glucose normalization,72
+mental status improvement,72
+multiple comorbidities,0
+worsened respiratory status,72
+end-of-life symptom management order,96

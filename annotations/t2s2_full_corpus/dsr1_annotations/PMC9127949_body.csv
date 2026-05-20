@@ -1,0 +1,47 @@
+event,time
+52 years old,0
+female,0
+primary hypertension,0
+admitted to the emergency department,0
+diffuse myalgias,-72
+myalgias in lower limbs,-72
+fever,-72
+cough,-72
+temperature 35.9°C,0
+no dyspnea,0
+SpO2 99%,0
+heart rate 62 per minute,0
+blood pressure 127/89 mmHg,0
+diffuse muscle pain,0
+creatine kinase 15000 IU/L,0
+SARS-CoV-2 RNA positive,0
+L452R mutation,0
+renal function unremarkable,0
+CT mild pulmonary infiltrates,0
+no pulmonary embolism,0
+hospitalized in respiratory department,0
+admitted to intensive care unit,48
+Glasgow score 12/15,48
+temperature 40°C,48
+heart rate 130 per minute,48
+hypotension 70/30 mmHg,48
+anuria,48
+diffuse mottling,48
+no dyspnea,48
+oxygen 15 L/min,48
+intravenous saline,48
+bicarbonate 1.4%,48
+norepinephrine,48
+intubated,48
+mechanically ventilated,48
+metabolic acidosis,48
+hyperkalemia,48
+renal replacement therapy,48
+hemodialysis,48
+hydrocortisone 50 mg/6 h,48
+amoxicillin/clavulanic acid,48
+enoxaparin 4000 IU,48
+hemodynamic deterioration,48
+cardiorespiratory arrest,48
+unsuccessful resuscitation,48
+death,48

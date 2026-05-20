@@ -1,0 +1,36 @@
+event,time
+80-year-old woman,0
+admitted to the hospital,0
+abdominal pain,0
+vomiting,0
+barium meal examination,-24
+peritoneal irritation signs,0
+tenderness in the abdomen,0
+guarding in the abdomen,0
+reduced white blood cell count,0
+increased serum C-reactive protein level,0
+sepsis,0
+barium leakage from the sigmoid colon,0
+free air in the intraperitoneal cavity,0
+barium peritonitis,0
+sigmoid colon perforation,0
+emergency surgery,24
+Hartmann's procedure,24
+intraperitoneal drainage,24
+large amount of barium in intraperitoneal cavity,24
+large amount of barium in retroperitoneal cavity,24
+thorough lavage with 20-L saline,24
+imipenem/cilastatin sodium,24
+doripenem,24
+serum CRP level decreased until postoperative day 10,240
+serum CRP level increased again,312
+WBC count increased until postoperative day 13,312
+systemic CT examination,312
+no inflammation origins found,312
+residual barium sulfate in intraperitoneal cavity,312
+residual barium sulfate in retroperitoneal cavity,312
+methylprednisolone 500 mg/body/day,312
+methylprednisolone dose decreased,336
+WBC count improved to normal,336
+serum CRP level improved to normal,336
+discharged,840

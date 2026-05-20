@@ -1,0 +1,86 @@
+Background
+Mycoplasma hominis is a small free-living organism belonging to the genus Mycoplasma [1]. Mycoplasma lacks a rigid cell wall and therefore cannot be visualized by routine light microscopy [1]. Moreover, the lack of a cell wall prevents visualization of Mycoplasma species by Gram staining and makes the organism resistant to cell wall inhibitors such as beta-lactam antibiotics [1–3]. It is very challenging and resource- and time-consuming to diagnose infections caused by this organism because of the requirement for special selective medium and specific incubation conditions for culturing M. hominis [4]. Furthermore, there are few biochemical traits that are valuable for diagnosis [4]. Accordingly, matrix-assisted laser desorption ionization-time-of-flight mass spectrometry (MALDI-TOF MS) has been adopted as a cost-effective, rapid, reliable method for the diagnosis of M. hominis [5].
+
+M. hominis generally colonizes the urogenital tracts of sexually active adults and is a causative organism of urogenital tract infections [1]. Central nervous system (CNS) infections due to M. hominis are rare. To best of our knowledge, only 21 cases of CNS infection caused by M. hominis, including our current case, have been reported in the literature.
+
+Here, we present a successfully treated case of M. hominis ventriculitis secondary to extraventricular drain. This is the first case of M. hominis causing CNS infection reported in a country in the Middle East.
+
+Case Report
+A 25-year-old man was admitted to the emergency room as a victim of a motor vehicle crash. His Glasgow coma score was 8/15, and he was therefore electively intubated and attached to mechanical ventilation. Whole-body computed tomography (CT) was performed, yielding the following findings: CT of the spine showed a nondisplaced compression fracture at the ninth and 10th thoracic vertebrae; CT of the chest showed bilateral basal atelectasis/consolidation likely related to aspiration, with bilateral ground-glass opacities and nondisplaced manubrium sternal fracture; CT of the abdomen showed a small (0.5 cm) contusion over the spleen; CT of the head showed an acute left subdural hemorrhage with underlying mild brain edema and a right midline shift of approximately 1 cm.
+
+Based on these findings, emergency decompressive craniectomy with extraventricular drain (EVD) insertion was performed. He was then admitted to the surgical intensive care unit (SICU) and maintained on mechanical ventilation. On day 5, he developed fever with leukocytosis; septic workup, including cerebral spinal fluid (CSF) analysis and culture, indicated EVD-related ventriculitis, and the patient was administered vancomycin and meropenem. However, the antibiotic regimen was adjusted based on culture results (Table 1), and the patient received a full course of lipid-formulated amphotericin B and vancomycin (for Candida albicans and Staphylococcus hemolyticus).
+
+After 8 days, the EVD was removed. Four days later, he developed deterioration of consciousness, and a new CT scan of the brain showed active hydrocephalus (Figure 1) with a worsening midline shift. Hence, another EVD was inserted, and a full septic workup was performed (Table 1).
+
+On day 18, he underwent debridement at the cephalic surgical site, and a full course of ceftazidime was administered owing to wound infection. On day 25, the patient underwent tracheostomy placement. Postoperatively, he became febrile, and his Glasgow coma scale remained at 8/15. Leukocytosis (14.3 k/µL) was also observed, and another septic screening was performed; the results of CSF culture revealed M. hominis (Table 1). The same isolate regrew from a confirmatory sample on day 28. The next day, the second EVD was changed, and he was administered intravenous ciprofloxacin 400 mg every 8 h for a total duration of 14 days. On day 39, the patient was clinically improved and transferred to the general ward. The third EVD remained in place until day 45. He was maintained on nasogastric feeding and tracheostomy. A few days later, he was transferred to another health care facility upon his employer’s request. The patient did not follow up with our facility after that.
+
+Microbiology laboratory findings
+Yellowish clear CSF samples from EVD were inoculated on sheep blood agar, MacConkey agar, chocolate agar, anaerobic blood agar, and thioglycolate broth, incubated at 37°C according to the internal policies and procedures of the microbiology laboratory at King Fahd Hospital of the University. CSF analysis revealed a white blood cell count of 1430/cu mm, with 82% segmented cells, a protein value of 316 mg/dL, and a glucose level of 3.0 mg/dL. Direct Gram stain smears from samples showed few pus cells and no organisms. After 48 h of incubation, there was growth of nonhemolytic, translucent, pinpoint colonies on anaerobic blood agar only (Figure 2). Gram stain smears from colonies showed no evidence of bacteria. The isolate was identified as M. hominis using MALDI-TOFMS (VITEK MS; bioMérieux) and Knowledge Base database (version 3.0), with a confidence value of 99.9. Subsequent CSF samples also grew colonies of M. hominis. Table 1 summarizes CSF laboratory results for the patient during admission.
+
+Discussion
+M. hominis primarily colonizes the respiratory tract and genitourinary tract. This organism is mainly transmitted to humans through obstruction of the urinary tract, sexual contact, and vertical transmission in utero or intrapartum [1,3]. Surface antigenic variation of M. hominis may be related to the persistence of these organisms at invasive sites [1]. Most infections caused by M. hominis are primarily related to genital tract colonization.
+
+The infections caused by this organism include acute pyelonephritis, cervicitis, endometritis, tubal factor infertility, postabortion bacteremia, bacterial vaginosis, and other genital tract infections. Other reportable clinical conditions caused by M. hominis include bacteremia after renal transplantation, trauma, and genitourinary manipulations; osteomyelitis; septic arthritis; aspiration associated-empyema; peritonitis; intra-abdominal abscesses; and wound infections [1,3]. In the early 1980s, M. hominis infections were also reported following organ transplantation and immunosuppressive therapy. These infections most likely originated from the patient’s normal flora [4].
+
+M. hominis has also been reported from brain abscesses and meningitis. Several cases of CNS infection by M. hominis have been described in premature infants with prolonged rupture of the membranes, probably owing to genital colonization of pregnant women. These neonates usually present with mild, subclinical meningitis without sequelae or neurological damage with permanent handicaps [1,3]. In adults, rare cases of M. hominis meningitis have been described mainly following neurosurgery manipulations [3,6,7]. Moreover, few cases of M. hominis infection following ventriculoperitoneal shunt insertion with central nervous system involvement have been reported [7,8]. In general, CNS infections with M. hominis usually resolve spontaneously [3]. Existing literature on patients with CNS infection caused by M. hominis is summarized in Table 2.
+
+Isolation of M. hominis in any quantity from sterile body fluids is significantly associated with disease, and identification at the species level is necessary [1]. The optimal temperature for M. hominis growth is between 35 and 37°C, and these organisms grow best under anaerobic conditions, usually within 1–5 days of incubation [3]. M. hominis can be detected routinely in bacteriologic culture medium, such as chocolate agar or blood agar; accordingly, there have been many instances of incidental discovery when Mycoplasma species were not specifically sought [3]. MALDI-TOF MS is a rapid, reliable, cost-effective method and has been shown to accurately identify most Mycoplasma species, particularly M. hominis [1,5].
+
+Mycoplasma species are innately resistant to all beta-lactams, sulfonamides, trimethoprim, and rifampin. M. hominis is usually susceptible to tetracycline, fluoroquinolone, clindamycin, chloramphenicol, streptomycin, and gentamicin [1,3]. Some strains of M. hominis have been reported to be resistant erythromycin, fluoroquinolone, and tetracycline. The extent to which tetracycline resistance occurs in M. hominis varies geographically and may reach 40–50% in some locations. Agar dilution is considered the reference method for antimicrobial testing for Mycoplasma [1].
+
+Conclusions
+The findings of this case report, coupled with a thorough review of the literature, demonstrated the pathogenic potential of M. hominis. Particularly in developing countries, in which laboratories may have limited access to advanced technologies, such rare infectious diseases remain major diagnostic challenges.
+
+Department and Institution where work was done
+
+Department of Microbiology, King Fahd Hospital of the University, Imam Abdulrahman Bin Faisal University, Khobar, Saudi Arabia.
+
+Conflict of interest
+
+None.
+
+Figure 1. Computed tomography (CT) scan without contrast of the brain showing interparenchymal brain edema and active hydrocephalus with a midline shift.
+
+Figure 2. Nonhemolytic, translucent pinpoint colonies grew on Anaerobic Blood Agar.
+
+Table 1. CSF results of the patient during admission.
+
+Day of shunting	WBC (cu/mm)	% Segmented	% Lymphocytes	Protein (mg/dL)	Glucose (mg/dL)	Culture	
+Day 5	NA	NA	NA	NA	113	Candida albicans & Staphylococcus haemolyticus	
+Day 11	14	36	59	27.4	55	Candida albicans	
+Day 15	100	83	11	266.4	45	No growth	
+Day 17	135	81	14	410.8	49	No growth	
+Day 21	130	85	10	NA	NA	No growth	
+Day 25	1430	82	6	316.0	3	Mycoplasma hominis	
+Day 28	210	31	49	327.2	32	Mycoplasma hominis	
+Day 33	1892	40	53	176	33	No growth	
+Day 38	19	34	59	151.7	55	No growth	
+Day 39	315	20	78	149.3	43	No growth	
+Day 47	335	54	21	135.5	78	No growth	
+Day 52	25	8	79	152.5	55	No growth	
+Day 57	35	55	23	139.4	68	No growth	
+Table 2. Summary of the reported cases of CNS infection caused by Mycoplasma hominis (1950–2018).
+
+Case N	Author [reference]	Age/sex	Presentation	Treatment	Duration of treatment	Outcome	
+1	Our case	25/Male	Fever and leukocytosis post EVD	Ciprofloxacin 400 milligrams every 8 hours	14 days	NED	
+2	Sato M et al. (2017) [8]	6/Female	Fever post ventriculoperitoneal shunt (VPS)	VPS Replacement and Ciprofloxacin 10 mg/kg every 12 hours plus clindamycin 13 mg/kg every 8 hours	6 weeks	NED	
+3	Zhou M et al. (2016) [6]	71/Male	fever, anepia and right-sided weakness	azithromycin 0.5 g qd and minocycline 100 mg q12h	2 weeks	NED	
+4	Reissier S et al. (2016) [9]	39/Male	Fever, loss of consciousness	Meropenem, vancomycin and moxifloxacin	Day 34 to day 49 of admission	Death at day 80 of admission	
+5	Hos N et al. (2015) [10]	21/Female	Fever, neck pain, nausea, vomiting,	Oral moxifloxacin at a daily dose of 400 mg	4 weeks	NED	
+6	Whitson W et al. (2014) [11]	17/Male	Fever, bicep and deltoid weakness	Initial with vancomycin, moxifloxacin, and doxycycline then changed to intravenous moxifloxacin finally to oral moxifloxacin	6 months	NED	
+7	Pailhoriès H et al. (2014) [12]	43/Male	Fever, delirium tremens	1 g of levofloxacin IV daily and 400 mg of oral doxycycline daily	NA	NED	
+8	Henao-Martínez et al. (2012) [13]	40/Male	Fever	Doxycycline 100 mg intravenously twice per day	16 days	NED	
+9	Lee E et al. (2012) [6]	48/Female	Fever	IV moxifloxacin at a daily dose of 400 mg	14 days	NED	
+10	Al Masalma M et al. (2011) [14]	41/Female	Vertigo, coma headache, hemiparesis	Doxycycline 200 mg/day	12 weeks	NED	
+11	McCarthy KL and Looke DF (2008) [15]	48/Male	Fever	Gatifloxacin 400 mg IV daily and clindamycin 450 mg IV tds (Gatifloxacin was ceased after two weeks of therapy and clindamycin was changed to the oral formulation to complete a three-month course)	3 months	NED	
+12	McCarthy KL and Looke DF (2008) [15]	17/Female	Fever	IV gatifloxacin 400 mg daily for 1 month, then changed to oral moxifloxacin to complete a six-week course	10 weeks	NED	
+13	Kupila L et al. (2006) [16]	40/Male	Hematuria, urine retention and confusion	Tetracycline	NA	NED	
+14	House P et al. (2003) [17]	40/Male	Headache, left facial weakness, nausea, afebrile	Ciprofloxacin and metronidazole	6 weeks	NED	
+15	Douglas M et al. (2003) [18]	17/Female	Fever, headache, photophobia, nausea, vomiting, right-sided hemiparesis and expressive dysphasia	Intravenous doxycycline 100 mg b.i.d. and clindamycin 800 mg t.i.d. then Doxycycline was changed to oral (100 mg b.i.d.) after 5 days, as was clindamycin (300 mg q.i.d.) after 7 days	3 weeks	NED	
+16	Zheng X et al. (1997) [19]	22/Female	Fever, left-sided weakness and numbness	NA	NA	NED	
+17	Cohen M and Kubak B (1997) [20]	18/Female	Fever, altered mental status	Initially IV doxycycline, ciprofloxacin, and erythromycin. Then IV chloramphenicol was added and IV erythromycin discontinued	NA	NED	
+18	McMahon D et al. (1990) [21]	76/Male	Fever, unresponsive	NA	NA	Death	
+19	Madoff S et al. (1988) [22]	11/Female	Fever	Methacycline	3 weeks	Death after 3 weeks of therapy	
+20	Payan D et al. (1981) [23]	29/Male	Fever, loss of consciousness	4 g of IV tetracycline then changed to 4 g of IV erythromycin per day	2 weeks	NED	
+21	Paine T et al. (1950) [24]	20/Male	Fever, headache, a stiff neck	Streptomycin	NA	NA	
+NED – no evidence of disease; NA – not available.

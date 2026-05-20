@@ -1,0 +1,71 @@
+event,time
+76 years old,0
+married,0
+farmer,0
+rural background,0
+presented to ER,0
+non-healing wound,0
+posterior left thigh,0
+falling from a tree,0
+no significant medical history,0
+no significant surgical history,0
+no drug use,0
+no known allergies,0
+does not smoke,0
+alcohol use,0
+independent living,0
+3×2 cm ulcerated suppurative wound,0
+wound exploration,0
+wound debridement,0
+wound dressing,0
+tetanus toxoid,0
+wound swab culture and sensitivity,0
+discharged,0
+oral Flucloxacillin,0
+oral Metronidazole,0
+analgesics,0
+follow-up advised,0
+foreign body suspicion,-168
+sought help at local medical center,-168
+wound cleaned,-168
+analgesics given,-168
+temporary pain relief,-168
+pain returned,-168
+progressive pain increase,-168
+swelling,-168
+purulent discharge,-168
+ER presentation next day,-24
+unrelieved pain,0
+increased white blood cell count,0
+pus cells in urine,0
+discharged home,0
+Ofloxacin,0
+ER presentation same day,0
+slurring of speech,0
+disorientation,0
+board-like abdominal rigidity,0
+muscle spasms,0
+risus sardonicus,0
+symptoms induced by stimuli,0
+down going bilateral plantar reflexes,0
+increased jaw reflex,0
+tetanus suspicion,0
+admitted to ICU,0
+Intravenous Immunoglobulin (IVIG),0
+Tazobactam-Piperacillin,0
+Vancomycin,0
+Metronidazole,0
+lumbar puncture impossible,0
+non-contrast CT head normal,0
+elective intubation,0
+fentanyl sedation,0
+midazolam sedation,0
+Vecuronium infusion,0
+Clostridium tetani growth in blood culture,0
+renal deterioration,24
+hemodialysis sessions,24
+hemoglobin drop to 3,24
+packed red cells transfusion,24
+family counseling,24
+left ICU against medical advice,192
+succumbed to disease,216

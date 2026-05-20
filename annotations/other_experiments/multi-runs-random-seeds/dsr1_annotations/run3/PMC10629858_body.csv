@@ -1,0 +1,79 @@
+event,time
+57-year-old man,0
+admitted to the hospital,0
+lepromatous leprosy,-1440
+skin biopsy,-1440
+rifampicin,-1440
+clofazimine,-1440
+dapsone,-1440
+abdominal distension,0
+constipation,0
+vomiting,0
+10-kg weight loss,0
+peripheral lymphadenopathy,0
+distended abdomen,0
+positive shifting dullness,0
+computed tomography scan of abdomen,0
+mural thickening of terminal ileum,0
+enlarged mesenteric lymph nodes,0
+mesenteric fat stranding,0
+intra-abdominal free fluid,0
+abdominal paracentesis,0
+atypically large lymphocytes,0
+high-grade lymphoma,0
+flow cytometry,0
+abnormal CD4/CD8 double-negative T-cell population,0
+cervical lymph node biopsy,0
+high-grade peripheral T-cell lymphoma,0
+"PTCL, not otherwise specified",0
+stage IV lymphoma,0
+dexamethasone,0
+tumor-lysis syndrome precautions,0
+clinical deterioration,0
+transfer to ICU,0
+severe sepsis,0
+antibiotics,0
+antifungals,0
+ICU stay for 1 week,168
+transfer to national cancer center,168
+EPOCH chemotherapy protocol,168
+etoposide,168
+prednisone,168
+vincristine sulfate,168
+cyclophosphamide,168
+doxorubicin hydrochloride,168
+CNS prophylaxis,168
+intrathecal methotrexate,168
+four cycles of chemotherapy,168
+complete metabolic remission,504
+PET/CT,504
+multiple febrile neutropenia episodes,504
+recurrent bacteremia,504
+generalized weakness,0
+no sensory changes,0
+no clear fatigability,0
+decreased power in all proximal and distal muscles,0
+normal distal latencies,0
+normal compound muscle action potential,0
+normal conduction velocities,0
+normal F waves,0
+normal sensory nerve studies,0
+normal electromyogram insertional activity,0
+no spontaneous activity,0
+normal motor unit action potential,0
+poor recruitment effects,0
+repetitive nerve stimulation,0
+significant incremental response,0
+presynaptic neuromuscular junction disorder,0
+likely LEMS,0
+VGCC antibodies not done,0
+intravenous immunoglobulins,0
+motor function improvement,120
+ambulation,120
+autologous bone marrow transplant planned,120
+recurrent bacteremia,360
+sepsis,360
+readmission to ICU,360
+severe sepsis,360
+multiorgan failure,360
+death,4320

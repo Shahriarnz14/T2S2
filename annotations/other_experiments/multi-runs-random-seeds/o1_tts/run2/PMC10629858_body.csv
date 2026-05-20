@@ -1,0 +1,51 @@
+event,time
+57-year-old man,-1440
+male,-1440
+diagnosed with lepromatous leprosy,-1440
+skin biopsy,-1440
+treatment (rifampicin/clofazimine/dapsone),-1440
+admitted to the hospital,0
+abdominal distension,0
+constipation,0
+vomiting,0
+10-kg weight loss,0
+peripheral lymphadenopathy,0
+distended abdomen,0
+positive shifting dullness,0
+computed tomography scan of his abdomen,0
+abdominal paracentesis,12
+atypically large lymphocytes,12
+abnormal CD4/CD8 double-negative T-cell population (38%),12
+cervical lymph node biopsy,36
+"high-grade peripheral T-cell lymphoma (PTCL), not other specified",36
+bone marrow examination showed no involvement of T-cell NHL,36
+stage IV lymphoma,36
+started on dexamethasone with tumor-lysis syndrome precautions,48
+deteriorated clinically,72
+transfer to the medical intensive care unit (ICU) for severe sepsis,72
+required antibiotics,72
+required antifungals,72
+ICU care,72
+transferred to the national cancer center,168
+commenced on the EPOCH chemotherapy protocol,168
+six cycles,168
+CNS prophylaxis (intrathecal methotrexate),168
+febrile neutropenia episodes,336
+recurrent bacteremia,336
+neurology team was involved,336
+generalized weakness,336
+no sensory changes,336
+no clear fatigability,336
+power was decreased in all proximal and distal muscles (3/5),336
+complete neurophysiological electromyogram/nerve conduction study,340
+significant incremental response on repetitive nerve stimulation,340
+VGCC antibodies were requested,340
+VGCC antibodies not done,340
+started on intravenous immunoglobulins for 5 days as a case of LEMS,340
+significant improvement of his motor function,340
+responded well to chemotherapy,720
+attained complete metabolic remission by positron emission tomography/computed tomography,720
+planned for consolidation by autologous bone marrow transplant,1000
+recurrent bacteremia and sepsis,2000
+re-admitted to the medical ICU for severe sepsis and multiorgan failure,2000
+passed away,4320

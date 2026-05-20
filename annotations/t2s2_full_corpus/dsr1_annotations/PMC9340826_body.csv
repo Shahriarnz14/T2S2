@@ -1,0 +1,68 @@
+event,time
+63-year-old woman,0
+history of transient ischemic attack,0
+history of reflux,0
+hypertension,0
+hyperlipidemia,0
+laparoscopic sleeve gastrectomy,prior to admission (estimated -7200)
+weight loss,prior to admission (estimated -7200)
+weight gain,prior to admission (estimated -7200)
+gastroesophageal reflux disease (GERD),prior to admission (estimated -7200)
+esophagogastroduodenoscopy,prior to admission (estimated -7200)
+large hiatal hernia,prior to admission (estimated -7200)
+laparoscopic hiatal hernia repair,0
+conversion to Roux-en-Y gastric bypass (RYGB),0
+vast adhesive disease,0
+uncomplicated procedure,0
+discharged home,+96 (POD4)
+outpatient follow-up,+192 (POD8)
+Emergency Department visit,+432 (POD18)
+shortness of breath,+432
+left lower leg pain,+432
+left lower leg swelling,+432
+limited ambulation,+432
+hypotensive,+432
+unresponsive,+432
+cardiopulmonary arrest,+432
+cardiopulmonary resuscitation,+432
+return of spontaneous circulation,+432
+intubation,+432
+intensive care unit admission,+432
+acidosis (pH 7.19),+432
+hypoxic respiratory failure,+432
+acute renal failure,+432
+computed tomography (CT) imaging,+432
+enlarged left iliac veins,+432
+external iliac vein enlargement,+432
+common femoral vein enlargement,+432
+left thigh edema,+432
+left leg swelling,+432
+left leg purple discoloration,+432
+left leg cold to touch,+432
+therapeutic anticoagulation,+432
+phlegmasia cerulea dolens (PCD) concern,+432
+diagnostic laparoscopy,+432 (same day)
+viable bowel,+432
+left popliteal venogram,+432
+acute left iliac venous thrombosis,+432
+acute femoral venous thrombosis,+432
+thrombectomy,+432
+clinical deterioration,+432 (post-thrombectomy)
+multisystem organ failure,+432
+shock liver,+432
+respiratory failure,+432
+disseminated intravascular coagulation (DIC),+432
+vasopressor support,+432
+continuous renal replacement therapy (CRRT),+432
+tense left lower extremity,+456 (POD1)
+bullous skin formation,+456
+mottled digits,+456
+no pulses,+456
+compartment syndrome,+456
+calf fasciotomy,+456
+thigh fasciotomy,+456
+brown fluid in thigh,+456
+pale muscle,+456
+tissue death,+456
+cardiopulmonary arrest recurrence,+456 (post-fasciotomy)
+death,+456

@@ -1,0 +1,42 @@
+event,time
+30 years old,0
+African American,0
+woman,0
+presented to the emergency department,0
+shortness of breath on exertion,0
+chest pain with deep inspiration,0
+no indication of recent infections,0
+physical examination did not yield any abnormalities,0
+VQ scan indicated high probability for pulmonary emboli in right lobe,0
+chest x ray showed possible small bilateral pleural effusions,0
+multiple nodular opacities scattered throughout lungs,0
+nodular opacities more prominent than before,0
+CT scan abdomen showed moderate alveolar consolidation in right lower lobe,0
+EKG normal,0
+2D echocardiograms normal,0
+no indication of endocarditis,0
+admitted for treatment of acute pulmonary embolism,0
+Heparin drip initiated,0
+developed high fevers during hospital stay,24
+tachycardia,24
+blood cultures positive for Gram positive cocci in pairs and clusters,24
+Staphylococcus species identified,24
+S. caprae identified by Vitek 2 GP card,48
+vancomycin started,24
+S. aureus ruled out,48
+antibiotics changed to Kefzol 2 gm IV every 8 hours,48
+fever resolved,72
+significant clinical improvement,72
+urinalysis indicated presence of E. coli,48
+E. coli sensitive to all 17 antimicrobial agents,48
+Ciprofloxacin administered for 3 days,48
+echocardiogram no evidence of endocarditis,72
+no recent farm visits,0
+no contact with goats,0
+no transplants,0
+no internal fixation for orthopedic prosthesis,0
+no foreign subject implants,0
+S. caprae contracted during hospital stay,24
+isolate produced acid from mannitol,48
+urease positive,48
+discharged,72

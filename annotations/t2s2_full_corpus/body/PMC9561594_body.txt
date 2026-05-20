@@ -1,0 +1,130 @@
+pmc Core Tip: We document a case of disseminated mucormycosis post-coronavirus disease 2019 (COVID-19) infection. A 58-year-old man underwent a right hemicolectomy during COVID-19 pneumonia. The surgical wound developed necrosis, which was followed by multi-organ failure, leading to death. An autopsy revealed multiple thrombi with Rhizopus oryzae infection, which led to the necrosis of multiple infected organs. Our paper is a rare pathological autopsy report on COVID-19-associated mucormycosis. It is important that treating physicians be aware of the increased risk of mucormycosis in patients with severe COVID-19. Early suspicion and diagnosis followed by treatment are keys to better outcomes.
+
+INTRODUCTION
+
+The coronavirus disease 2019 (COVID-19) pandemic caused by the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has greatly impacted the global population. As of February 1, 2022, there were more than 38000000 confirmed cases and 5500000 deaths according to the World Health Organization[1]. The presentations of COVID-19 can range from symptomless to multi-organ failure and death[2,3]. Current interventions include glucocorticoids and anti-interleukin (IL)-6 drugs to suppress inflammation, extracorporeal membrane oxygenation (ECMO) to address fatal lung injury caused by COVID-19, and mRNA-based vaccines[4]. There have been several reports about concomitant bacterial and fungal infections[2]. An increase in SARS-CoV-2 infections increases the risk of opportunistic fungal infections, including candidiasis, pulmonary aspergillosis, and mucormycosis, resulting in multi-organ failure and death[2,5]. Among opportunistic fungal infections, Mucorales, the order of fungi that causes mucormycosis, causes extensive angioinvasion, resulting in vessel thrombosis and tissue necrosis. The mortality rate for mucormycosis is 30%-50%, which increases to 90% once dissemination occurs[6]. COVID-19 is a known risk factor for disseminated mucormycosis, but there are very few reports detailing related autopsy results[7,8].
+
+We present an autopsy case of systemic Mucorales infection after COVID-19 treatment. Our paper is a rare pathological autopsy report on COVID-19-associated mucormycosis.
+
+CASE PRESENTATION
+
+Chief complaints
+
+A 58-year-old man visited a local hospital with a primary complaint of a sore throat.
+
+History of present illness
+
+He was diagnosed with moderate pneumonia at an emergency hospital for COVID-19 and was managed with oxygen and glucocorticoids[9]. However, his oxygen requirements increased and his pneumonia gradually worsened. Seventeen days later, he developed severe respiratory fatigue and was diagnosed with acute respiratory distress syndrome (ARDS).
+
+History of past illness
+
+The patient had a history of hypertension.
+
+Personal and family history
+
+The patient had no specific personal or family history.
+
+Physical examination
+
+When examined on admission, his vital signs were normal.
+
+Laboratory examinations
+
+A nasopharyngeal swab specimen tested positive for SARS-CoV-2.
+
+Imaging examinations
+
+After admission, chest computed tomography (CT) showed pneumonia in both lobes.
+
+FINAL DIAGNOSIS
+
+ARDS associated with COVID-19.
+
+TREATMENT
+
+The patient was intubated and started on mechanical ventilation and tocilizumab (an anti-IL-6 receptor drug). Subsequently, he was transferred to the intensive care unit of our hospital for venovenous ECMO in the prone position to improve dorsal atelectasis. Computed tomography revealed bilateral and peripheral ground-glass and consolidative pulmonary opacities (Figure 1A).
+
+Figure 1 Imaging and histological findings during treatment. A: Computed tomography (CT) images of acute respiratory distress syndrome (ARDS). Left image: CT image at the time of ARDS diagnosis. Right image: CT image after 38 d; B: The necrotic ileostoma caused by the mucormycosis can be seen in this image; C: Surgical findings at the stomal reconstruction; D and E; Presence of thrombus with Mucorales in the mesenteric vessels of the necrotic ileostoma. H&E staining; magnification × 200 (D), Grocott staining; magnification × 200 (E). Bar: 200 μm.
+
+Nine days after his admission to our facility, he developed hypotension and had an intra-abdominal bleed from the mesentery of the ascending colon. He underwent a right hemicolectomy to remove the bleeding mesenteric vessels. After confirming hemostasis in the abdominal cavity, an ileostoma was created. Histopathological examination revealed the absence of morphological abnormalities, aneurysms, or stenosis in the blood vessels that caused the abdominal bleed. Further, thrombi, bacteria, or fungi were not observed in the mesenteric vessels or tissue.
+
+Eighteen days later, the ileostoma exhibited ischemic changes, and the patient underwent stomal reconstruction (Figure 1B and C). According to enhanced CT imaging and surgical findings, ischemic changes occurred only in the part of the intestines adjacent to the stoma. However, the surgical wound gradually exhibited necrotic changes that required repeated debridement. No fungi were present on culture-based examination of venous blood and necrotic tissues, including the skin, muscular tissue, and adjacent intestine. However, histopathological examination revealed that the necrotic stoma contained many thrombi and Mucorales. Grocott staining demonstrated that Mucorales had invaded the vessel walls and fat tissue in the mesentery of the necrotic intestine (Figure 1D and E). The patient’s respiratory status showed mild improvements, and his SARS-CoV-2 antigen test result was negative at 29 and 31 d after transfer. However, the patient eventually developed multiple organ failure and died 46 days after admission to our hospital.
+
+OUTCOME AND FOLLOW-UP
+
+An autopsy was performed with permission from the patient’s family. Macroscopic examination revealed necrosis of the reconstructed stoma, skin, and abdominal wall muscles (Figure 2A and B). A large thrombus was found in the common iliac vein (Figure 2C) along with the necrosis of multiple abdominal organs, including the small intestine, liver, gall bladder, right kidney, and spleen. Histopathological examination revealed Mucorales in the thrombi and necrotic organs except for the spleen (Figure 3A-D). The stomach and urinary bladder showed Mucorales but no necrosis. We extracted the fungal gene from formalin-fixed paraffin-embedded tissue of the thrombus using NucleoSpin DNA FFPE XS (Macherey-Nagel GmbH & Co. KG, Düren, Germany). Using DNA sequencing, we identified the Mucorales as Rhizopus arrhizus, also known as Rhizopus oryzae [The Basic Local Alignment Search Tool (BLAST); results are shown in Table 1 and 2]. Mucorales were undetectable in the nasal cavity, pharyngeal mucosa, trachea, or lungs. Immunohistochemical analysis of both lungs did not reveal SARS-CoV-2 S proteins. There was partial proliferation of myofibroblasts and lymphocytes in the interstitial and intra-alveolar spaces (Figure 3E). These findings were consistent with the proliferative/organizing phase of diffuse alveolar damage caused by ARDS in COVID-19. In addition, swollen cells with intranuclear inclusion bodies, positive for cytomegalovirus antigen, were observed in the left lung (Figure 3F). Significant inflammation was absent in the heart. Sepsis and multi-organ failure secondary to mucormycosis due to COVID-19 were determined as the causes of death.
+
+Figure 2 Autopsy findings of the Mucorales infection. A: The image shows the necrotic stoma, skin, and abdominal wall; B: The necrotic abdominal organs are seen in this image. A pathologist held the intestine on the oral side of the stoma; C: Dorsal view of the incised common iliac vein. The thrombus can be seen in the common iliac vein (indicated by arrows).
+
+Figure 3 Histopathological findings of the Mucorales infection in the organs and thrombus. A and B: Presence of Mucorales in the thrombus; H&E staining; magnification × 100 (A), × 200 (B); C: Macroscopic image showing partial necrosis of the liver; D: Hepatic infarction caused by the thrombus including Mucorales; H&E staining; magnification × 200; E: The proliferative/organizing phase of diffuse alveolar damage of the left lung. Restoration of type II pneumocytes and proliferation of myofibroblasts are partially shown. H&E staining; magnification × 40; F: Cytomegalovirus infection. Cytomegalovirus-infected cells are indicated by black arrows. H&E staining; magnification × 200. Bar in the autopsy images: 2 cm; Bar in the microscopic images: 200 μm.
+
+Table 1 The identified DNA sequence of the fungi in the thrombi of the common iliac vein
+
+Nucleotide sequence	
+GTAGGTGAACCTGCGGAAGGATCATTAATTATGTTAAAGCGCCTTACCTTAGGGTTTCCTCTGGGGTAAGTGATTGCTTCTACACTGTGAAAATTTGGCTGAGAGACTCAGACTGGTCATGGGTAGACCTATCTGGGGTTTGATCGATGCCACTCCTGGTTTCAGGAGTACCCTTCATAATAAACCTAGAAATTCAGTATTATAAAGTTTAATAAAAAACAACTTTTAACAATGGATCTCTTGGTTCTCGCATCGATGAAGAA	
+The sequence was 263 bp long.
+
+Table 2 The Basic Local Alignment Search Tool results of the DNA sequencing
+
+Scientific Name	Description	Query cover	Expect value	Percent identify	Accession length	Accession number	
+Rhizopus sp.	Rhizopus sp. isolate T78 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	100%	1.00E-134	100	510	MT645142.1	
+Rhizopus arrhizus	Rhizopus arrhizus strain SFR-7 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence	100%	1.00E-134	100	654	MT540020.1	
+Rhizopus arrhizus	Rhizopus arrhizus strain YT-1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence	100%	1.00E-134	100	269	MT477703.1	
+Rhizopus stolonifer	Rhizopus stolonifer isolate Rhi-st4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence	100%	1.00E-134	100	624	MT256940.1	
+Rhizopus arrhizus	Rhizopus oryzae UICC 536 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence	100%	1.00E-134	100	654	LC514334.1	
+Rhizopus arrhizus	Rhizopus oryzae UICC 135 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence	100%	1.00E-134	100	657	LC514329.1	
+Rhizopus arrhizus	Rhizopus oryzae UICC 120 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence	100%	1.00E-134	100	654	LC514326.1	
+Rhizopus arrhizus	Rhizopus oryzae UICC 119 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence	100%	1.00E-134	100	658	LC514325.1	
+Rhizopus arrhizus	Rhizopus oryzae UICC 116 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence	100%	1.00E-134	100	656	LC514324.1	
+Rhizopus arrhizus	Rhizopus oryzae UICC 85 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence	100%	1.00E-134	100	657	LC514323.1	
+Top 10 matched sequences producing significant alignments. The DNA sequence matched the sequence of Rhizopus arrhizus with an identity of 100%.
+
+DISCUSSION
+
+This report describes a case of unexplained necrosis in multiple organs after COVID-19 treatment. Mucorales are highly angioinvasive and are associated with thrombus formation, infarction, and hemorrhage[2]. R. oryzae is the most common organism isolated from patients with mucormycosis, accounting for 70% of cases[10]. In the current case, pathological examination during autopsy and DNA sequencing revealed that R. oryzae had created a large thrombus and invaded the necrotic tissues.
+
+Although COVID-19-associated pneumonia and ARDS were appropriately treated, fungal thrombosis, necrosis, and multi-organ failure due to mucormycosis led to a fatal outcome in this patient. Mucorales were detected in multiple ventral organs, the skin, and surgical wounds (Figure 4A). The predominant site of infection for mucormycosis is the nasal cavity or respiratory tract[2,5]. According to a systematic review of COVID-19-associated mucormycosis, 86% of infections were peri-nasal, 10% were pulmonary, and only 1% were disseminated[2,11]. As Mucorales were not found in the pharyngeal mucosa, trachea, or lungs, it was concluded that the ileostoma and surgical wound were the points of entry of Mucorales in this case. Mucorales are known to invade the gastrointestinal tract, skin, and the upper airway[12,13]. Uncontrolled diabetes mellitus, steroids, numerous cytokines during ARDS, and drugs such as lopinavir, ritonavir, and remdesivir used in COVID-19 treatment increase the risk of mucormycosis in COVID-19 patients[2]. This patient had an increased risk of mucormycosis due to glucocorticoid use, surgical stress, and ARDS.
+
+Figure 4 The autopsy diagnosis. A: The image shows the organs and part of the Mucorales infection. The gray areas indicate areas infected with Mucorales. The resected ascending colon is transparent in the drawing; B: A flowchart of the autopsy diagnosis.
+
+Histopathological examination of the right hemicolectomy specimen did not reveal the existence of Mucorales or anatomical abnormalities, and stomal necrosis caused by mucormycosis was observed 21 d after the right hemicolectomy procedure. Since mucormycotic symptoms were not found during the intra-abdominal hemorrhage, we concluded that the mucormycosis was unrelated to the hemorrhage and occurred after surgery. The cause of intra-abdominal hemorrhage remained unclear from the histopathological diagnosis, but we speculate that several factors such as venovenous ECMO, anticoagulation, prone position, and sepsis might have contributed to the abdominal bleeding[14].
+
+Culture-based examination of blood and necrotic tissue could not identify the causative organism, but histopathological examination revealed that mucormycosis was the cause of necrosis. As the patient’s condition rapidly deteriorated due to multi-organ failure, the clinicians lacked sufficient time to manage the mucormycosis. Thus, early diagnosis before the systemic dissemination of mucormycosis is essential for better outcomes. Although routine serological tests do not help diagnose Mucorales infections, a histopathological examination can play a significant role in confirmation. Antigen-antibody reactions or the beta-D-glucan test used to diagnose other fungal infections, such as Candida and Aspergillus, cannot be used to diagnose mucormycosis[12]. Thus, the diagnosis of mucormycosis before the formation of an infected or necrotic site is quite challenging[15]. A recent case report demonstrated that cell-free DNA next-generation sequencing effectively detected disseminated Rhizomucor pusillus in a patient with Philadelphia-like acute lymphoblastic leukemia[16]. After receiving sufficient treatment with posaconazole and liposomal amphotericin B, the patient survived the infection. Moreover, a prospective multicenter study demonstrated that quantitative polymerase chain reaction examination using the patient’s serum could help diagnose mucormycosis with 85.2% sensitivity and 89.8% specificity[17]. It is important to note that this method detected the presence of Mucorales four days prior to mycological or histopathological evaluation. Recent articles have reviewed other detection methods[15,18]. These novel serum-based techniques may increase the chances of better outcomes in patients with systemic mucormycosis by facilitating the initiation of treatment before tissue necrosis.
+
+CONCLUSION
+
+Our report documents a case of disseminated mucormycosis associated with COVID-19. Autopsy revealed that Mucorales could infect stomas and surgical wounds, apart from the nasal cavity in high-risk patients, and rapidly spread to various organs. Disseminated mucormycosis is rare but lethal in COVID-19 patients, and our paper is a rare report detailing an autopsy for disseminated COVID-19-associated mucormycosis. The flowchart of autopsy diagnosis should be helpful for fellow clinicians (Figure 4B). Although ARDS can be resolved in intensive care, opportunistic infections triggered by COVID-19 are a critical problem, and a diagnosis of mucormycosis is often delayed. Physicians should be aware of the increased risk of mucormycosis among COVID-19 patients. Early suspicion and timely diagnosis followed by treatment are crucial for better outcomes among affected individuals.
+
+Informed consent statement: Appropriate written informed consent was obtained from the patient’s family to publish this case report and the project.
+
+Conflict-of-interest statement: All authors report no relevant conflict of interest for this article.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Provenance and peer review: Unsolicited article; Externally peer reviewed.
+
+Peer-review model: Single blind
+
+Peer-review started: June 20, 2022
+
+First decision: August 4, 2022
+
+Article in press: August 21, 2022
+
+Specialty type: Pathology
+
+Country/Territory of origin: Japan
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): B
+
+Grade C (Good): C
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Gupta MK, Germany; Taghizadeh-Hesary F, Iran S-Editor: Wu YXJ L-Editor: A P-Editor: Wu YXJ

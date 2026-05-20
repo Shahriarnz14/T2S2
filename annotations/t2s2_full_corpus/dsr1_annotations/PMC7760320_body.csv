@@ -1,0 +1,142 @@
+event,time
+55 years old,0
+female,0
+admitted to the Emergency Department,0
+fever,-168
+fever quantified as 40°C every 48 h,-168
+malaise,-168
+fatigue,-168
+decreased appetite,-168
+productive cough,-168
+abdominal pain,-168
+watery diarrhea,-168
+mental status changes,-168
+nonresponsive to name,-168
+visual hallucinations,-168
+denied headache,0
+denied loss of consciousness,0
+denied neck rigidity,0
+denied seizure,0
+denied focal neurological symptoms,0
+denied chest pain,0
+denied hemoptysis,0
+denied difficulty breathing,0
+denied similar past episodes,0
+allergy to penicillin (rash),0
+returned from 10-day trip to Ghana,-432
+returned from California trip,-168
+denied malaria prophylaxis,0
+denied yellow fever vaccination,0
+denied hepatitis A vaccination,0
+developed symptoms in California,-168
+hospitalized in California,-168
+discharged from California hospital,-168
+lethargic,0
+respiratory distress,0
+oral temperature 38.6°C,0
+heart rate 121 beats/min,0
+blood pressure 100/51 mmHg,0
+respiratory rate 45 breaths/min,0
+SpO2 93% on room air,0
+dry mucous membranes,0
+decreased bilateral breath sounds,0
+left lower quadrant abdominal tenderness,0
+no jaundice,0
+no enlarged lymph nodes,0
+no splenomegaly,0
+lethargic,0
+confused,0
+GCS 14 (E4V4M6),0
+"pupils equal, round, reactive to light",0
+no cranial nerve deficit,0
+no sensory deficit,0
+supple neck,0
+Brudzinski’s sign negative,0
+Kernig’s sign negative,0
+"leukocytosis 19,800/µL",0
+neutrophils 44%,0
+lymphocytes 22%,0
+eosinophil 1%,0
+"platelets 51,000/µL",0
+hemoglobin 11.8 g/dL,0
+hematocrit 35.3%,0
+RDW 16.9%,0
+LDH 2714 U/L,0
+haptoglobin <8 mg/dL,0
+PT/INR 14.9/1.4,0
+troponin 0.161 ng/mL,0
+blood glucose 26 mg/dL,0
+BUN 157 mg/dL,0
+creatinine 7.52 mg/dL,0
+eGFR 6 mL/min,0
+bicarbonate 5 mmol/L,0
+anion gap 36,0
+lactic acid 16.2 mmol/L,0
+sodium 131 mmol/L,0
+potassium 5.5 mmol/L,0
+chloride 91 mmol/L,0
+ALT 542 U/L,0
+AST 1328 U/L,0
+total bilirubin 14.5 mg/dL,0
+albumin 2.2 g/dL,0
+malaria smear positive,0
+25% parasitemia,0
+ring forms/trophozoites,0
+developing gametocytes,0
+arterial blood gas pH 7.03,0
+pCO2 20,0
+HCO3 0,0
+mental status deteriorated,3
+GCS 10/15 (E2V3M3),3
+intubated,3
+mechanically ventilated,3
+acute hypoxemic respiratory failure,3
+transferred to ICU,3
+severe malaria diagnosis,0
+Plasmodium falciparum malaria,0
+multi-organ failure,0
+respiratory failure,0
+renal failure,0
+hepatic failure,0
+septic shock,0
+disseminated intravascular coagulation,0
+acute toxic-metabolic encephalopathy,0
+cerebral malaria,0
+acute respiratory distress syndrome,0
+vasopressors started,0
+steroids started,0
+infectious disease consultation,0
+IV quinidine 115.2 mg/h,0
+IV doxycycline 100 mg every 12 h,0
+QTc monitoring,0
+blood glucose monitoring,0
+parasitemia monitoring,0
+CDC contacted for artesunate,0
+IV meropenem 1 g every 12 h,0
+IV vancomycin,0
+exchange transfusion considered,0
+QTc prolongation on day 2,24
+quinidine switched to IV artesunate,24
+parasitemia improved,24
+acidosis improved,24
+PEEP/FiO2 requirements decreased,24
+CT brain unremarkable,24
+lumbar puncture with 3 WBCs,24
+neutrophils 12%,24
+lymphocytes 48%,24
+monocytes 38%,24
+no organisms on gram stain,24
+vancomycin discontinued,24
+meropenem discontinued,24
+parasitemia 0.3% on day 3,48
+parasitemia negative on day 6,120
+multi-organ failure treated,0
+septic shock treated,0
+renal replacement therapy,0
+platelet transfusions,0
+clinical improvement,72
+5-day IV artesunate completed,120
+7-day oral doxycycline at discharge,168
+discharged to rehabilitation facility,168
+favorable outcome,168
+recuperation,168

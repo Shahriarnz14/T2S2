@@ -1,0 +1,137 @@
+INTRODUCTION
+
+Overwhelming postsplenectomy infection (OPSI), a life-threatening condition, causes fulminant bacteremia in asplenic patients. The spleen is a crucially important organ to kill intravascular bacteria. Most notably, spleen marginal zone B cells produce specific antibodies for the encapsulated bacteria, which strongly resist host defenses and opsonization with specific antibodies necessary for phagocytosis.[12] Therefore, OPSI has a mortality rate of 50%–70%, once it develops.[34]
+
+Streptococcus pneumoniae is the most frequent and problematic bacteria in OPSI because it is fulminant, its capsular polysaccharides especially resist macrophages, and specific antibodies are crucial for phagocytosis. As vaccine prevention for OPSI is recommended to increase specific antibodies, intravenous immunoglobulin (IVIG) therapy is theoretically effective for OPSI with antibody supplementation.[5] Moreover, IVIG has other theoretically beneficial effects for pneumococcal sepsis, such as inhibition of complement activity, neutralization of harmful toxins,[67] and anti-inflammatory immunomodulation,[8910] some of which can be achieved without specific antibodies.
+
+However, no report of the relevant literature describes a clinical study of specific treatments, including IVIG, for OPSI. Reasons might be that OPSI is a rare condition and that it is often fulminant. For that reason, it is difficult to collect cases and conduct prospective studies.
+
+Herein, we present a case of OPSI that was treated successfully with ceftriaxone and supportive medical care including IVIG. We reviewed the literature of case reports of OPSI published in English and Japanese, including this case, and analyzed the efficacy of IVIG for OPSI treatment.
+
+CASE REPORT
+
+A 70-year-old male with sudden headache and deteriorating consciousness was transported by ambulance to our emergency room. He had undergone resection of a pancreatic tumor and prostatic cancer 2 years prior. Examination revealed body temperature of 36.0°C, heart rate of 79/min irregular, blood pressure of 123/70 mmHg, oxygen saturation of 100% (O210 l/min), respiratory rate of 12/min, Japan Coma Scale of III-100, and Glasgow Coma Scale of E1V2M5. His pupils were 2 mm/4 mm. Light reflex was ±/±. Left concomitant deviation was observed. He presented with right paresis. Laboratory findings showed a white blood cell count (WBC) of 7800/µl and C-reactive protein (CRP) of 0.23 mg/dl. Results of other examinations were within normal limits. An electrocardiogram showed an atrial fibrillation rhythm. Multiple brain infarctions were observed in diffusion-weighted images obtained from magnetic resonance imaging. No thrombus was detected by transthoracic echocardiography, however, left atrial thrombus was identified by transesophageal echocardiography after intensive care with mechanical ventilation. Carotid echography was not performed. Cardiogenic cerebral infarction was diagnosed. He was admitted to the emergency ward.
+
+After admission, conscious disturbance worsened. He was intubated. Unfractionated heparin 15,000 U and edaravone 30 mg × 2 were administered. In the middle of the night on the 2nd day from admission, he suddenly developed a fever of 38.5°C, followed by a rapid drop of blood pressure 4 h after the fever. We immediately treated and evaluated him as septic shock. Laboratory findings at that point were WBC 28,300/µL, hemoglobin 14.3 g/dL, platelet count 25.6 × 104/µL, total protein 6.2 g/dL, albumin 3.4 g/dL, total bilirubin 0.7 mg/dL, aspartate aminotransferase 22 U/L, alanine aminotransferase 16 U/L, lactase dehydrogenase 194 U/L, alkaline phosphatase 189 U/L, creatine kinase 114 U/L, blood urea nitrogen 11.0 mg/dL, creatinine 0.99 mg/dL, C-reactive protein 1.38 mg/dL, prothrombin time 79.0%, activated partial thromboplastin time 66.0 s, and fibrinogen 686 mg/dL. S. pneumoniae were detected in blood and sputum cultures. X-ray and whole-body computed tomography, for further evaluation of septic origin, revealed slight infiltration in the lower right lung field that was not apparent on admission [Figure 1a] and revealed that he had no spleen [Figure 1b]. It appears to have been resected during the pancreatic tumor operation. A spinal fluid test was normal. The patient was diagnosed as having community-acquired pneumonia by Pneumococcus and OPSI. He was transferred to the intensive care unit. Administration of ceftriaxone 2 g × 2 and IVIG 5 g × 3 days (This dose regimen was covered by the national health insurance. His body weight was 60 kg) was started immediately, with fluid resuscitation, 0.5 γ noradrenaline and mechanical ventilation. Edaravone might be beneficial for septic condition.[1112] However, we discontinued its administration because severe infection is a contraindication in Japan.[13] The patient's condition improved slowly. Catecholamines were reduced. The patient was extubated and free from mechanical ventilation on day 4, but the catecholamine-dependent condition was prolonged. Noradrenaline was discontinued on the 8th day. Unfractionated heparin 15,000 U/day was continued until day 8 and switched to warfarin. He was moved to a different hospital for rehabilitation of brain infarction on the 9th day from admission.
+
+Figure 1 Radiographic examinations Chest X-ray (a) and computed tomography (b) after sudden deterioration on day 2 from admission. Slight pneumonia was visible in his right lung. No spleen was observed in the left abdomen
+
+DISCUSSION AND CONCLUSIONS
+
+This case was very rapid and fulminant OPSI, in which septic shock was developed 4 h after fever. Although intensive care including mechanical ventilation was needed, he survived with favorable outcomes. It would be important to aware OPSI early and to start the treatments for sepis.
+
+In addition, we present a review of international and Japanese case reports of OPSI. We searched for the terms OPSI, splenectomy, and postsplenectomy sepsis from 1971 through 2017 in MEDLINE, PubMed, and Japan Medical Abstracts Society up to July 10, 2017. All OPSI case reports or case series that had been reported in English or Japanese were included. Studies on parasite infection were excluded. Treatment induction from onset was determined as the time to appropriate antibiotic therapy from the first presentation. Survival analysis was applied using the Wilcoxon test with dead/alive outcome and the observation period as factors. Nominal logistic regression analysis was applied to elucidate mortality. Univariate logistic regression analysis was conducted at first in each factor. Then, multivariable logistic regression analysis was performed with the factors strongly related to mortality in univariate analysis. All statistical analyses were conducted using software (JMP 10; SAS Institute Inc. Tokyo, Japan). P < 0.05 was considered statistically significant.
+
+Sixty-nine OPSI case series were extracted including our case: 23 English-language case reports and 46 Japanese-language case reports [Table 1]. The most frequent pathogen was S. pneumoniae and its mortality was high. Twenty patients were treated with IVIG. There was no description of IVIG for the other 49 patients. We designated the former as the IVIG-treated group and the latter as the non-IVIG group. Survival curves with/without IVIG are depicted in Figure 2. Seven-day-survival was 85.0% with IVIG and 59.5% without IVIG: the survival rate was statistically significantly higher with IVIG treatment (P = 0.0046) [Figure 2a]. Thirty-day-survival was also significantly higher: 70.0% with IVIG and 49.0% without IVIG (P = 0.018) [Figure 2b]. Figure 2 Survival analysis with/without intravenous immunoglobulin. Black line, with intravenous immunoglobulin treatment; Gray line, without intravenous immunoglobulin a: survival analysis for 7 days. b: survival analysis for 30 days
+
+Table 1 The review of case reports of overwhelming postsplenectomy infection
+
+Case	Reported year	Age	Sex	Reason for splenectomy	Onset from splenectomy	Treatment from onset	Pathogen	Culture	Antibiotics	DIC	Steroid therapy	IVIG	Outcome	Reference	
+1	1979	41	Male	Gastric Ca ope	6 years	1 day			+	PSL 40 mg	-		D	25	
+2	1979	59	Male	Trauma	35 years	2 day	S. pneumoniae	Blood	ABPC, GM	+	+	-	D	26	
+3	1982	44	Male	Spleen rupture	20 years	12 h	S. pneumoniae	Spinal fluid blood	PCG	+	-	-	S	27	
+4	1983	37	Female	Trauma	25 years	16 h	S. pneumoniae	Blood	PCG, CTM, GM	-	+	-	D	28	
+5	1984	13	Male	Osteopetrosis	9 years		S. pneumoniae	Blood	PCG	-	-	-	D	29	
+6	1985	27	Male	Splenic hyperplasia	6 years	8 h	Group B Streptococcus	Blood	PCG	+	+	-	S	30	
+7	1986	54	Male	Spleen thrombosis	26 years	1 day	S. pneumoniae	Spinal fluid	LMOX, FOM, AMK	-	-	-	S	31	
+8	1987	26	Female	ITP	17 years	7 day	S. pneumoniae	Spinal fluid	LMOX, ABPC, PCG	-	-	-	S	32	
+9	1987	70	Male	Gastric Ca ope	5 days	1 day	Pepto-streptococcus	Pleural effusion	LMOX, GM	+	-	+	D	33	
+10	1989	30	Male	Anemia	1 month	5 h	Pepto-streptococcus	Blood		+	-	-	D	34	
+11	1989			Lymphoma			GPC, E. coli	Blood	ABPC, MNZ, GM	+	-	-	D	35	
+12	1990	35	Female	Anemia	20 years	3 days		CTX, FMOX, CMNX, IPM	+	mPSL 500 mg	+		D	36	
+13	1992	36	Male	Lymphoma, splenic rupture	18 years		S. pneumoniae			-	+	-	D	37	
+14	1992	56	Male	Macroglobulinemia	2 years		S. pneumoniae		PIPC	-	-	-	D	37	
+15	1992	13	Male	ITP	8 years	12 h	S. pneumoniae	Blood		+	-	-	S	38	
+16	1992	36	Male	Hereditary spherocytosis	31 years	12 h	S. pneumoniae	Blood	PCG	+	+	-	D	39	
+17	1993	27	Female	Trauma	3 years	16 h	S. pneumoniae	Spinal fluid blood		+	-	-	D	40	
+18	1993	79	Female	splenic cyst	2 years	19 h	S. pneumoniae		ABPC, TOB	-	-	-	S	41	
+19	1993	16	Male	ITP	7 years				+	+	-		S	41	
+20	1994	34	Male	Trauma	5 years	10 h	S. pneumoniae			+	+	-	D	42	
+21	1997	26	Female	Trauma	10 years	1 days	S. pneumoniae	Blood		+	+	+	D	43	
+22	1997	63	Female	Pancreatic Ca ope	4 years	23 days	E. faecalis, MRSA		PCG, CTX	+	-	-	S	44	
+23	1998	39	Female	ITP	8 years	4 days	S. pneumoniae		CTX, ABPC	-	Dexamethasone 8ｇ	+	S	45	
+24	1998	37	Female	Trauma	11 years	16 h	C canimorsus	Blood	PCG, mezlocillin, GM, CPFX	+	-	-	S	46	
+25	1999	77	Male	Hereditary spherocytosis	13 years	3 days	S. pneumoniae	Spinal fluid	IPM/CS, ABPC CTX	-	-	+	S	47	
+26	2000	22	Female	Hereditary spherocytosis	11 years	7 days	S. pneumoniae	Blood	CTX	+	-	-	S	48	
+27	2002	23	Female	ITP	2 years	2 days	S. pneumoniae	Blood	－	+	-	-	D	49	
+28	2002	30	Male	Gastric Ca ope	1 years	1 days	S. pneumoniae	Blood	MEPM	+	-	-	D	50	
+29	2003	39	Male	Trauma	30 years	1 days	S. pneumoniae	Spinal fluid blood	PAPM/BP	+	mPSL 1000 mg	+	S	51	
+30	2004	52	Male								+	-	D	52	
+31	2005	62	Female	Cirrhosis	10 years	1 day	S. pneumoniae (PRSP)	spinal fluid	ABPC, CTX	+	-	+	D	53	
+32	2005	29	Male	ITP	5 years	1 day	S. pneumoniae	blood	PIPC, GM, MEPM	-	-	+	S	54	
+33	2005	51	Male	Pancreatic cyst	9 years	1 day	S. pneumoniae H. influenzae	sputum		+	-	-	D	55	
+34	2005	75	Male	Gastric Ca ope	9 years	3 days			+	-	-		D	55	
+35	2005	69	Male	Spleen hypoplasia	9 years	2 days	S. pneumoniae	blood		+	-	-	D	55	
+36	2005	64	Female	Hereditary spherocytosis	3 years	2 days	S. pneumoniae	urine		-	-	-	S	55	
+37	2006	30	Female	Trauma	22 years	3 days		SBT/CPZ MINO		+	mPSL 1000 mg	+	S	56	
+38	2007	46	Male	Trauma	28 years	2 days	Streptococcus pneumonia (PRSP)	Blood sputum	MEPM, VCM	+	Hydrocortisone 200 mg	+	S	57	
+39	2007	20	Male	Trauma	5 years	2 days	S. pneumoniae (PRSP)	Spinal fluid	MEPM ABPC CLDM	+	Dexamethasone 12 mg	+	D	58	
+40	2007	52	Male	ITP		12 h	C. canimorsus	Blood	CTRX, VCM	+	-	-	S	59	
+41	2008	50	Female	ABO-incompatible renal transplantation	11 years	3 days	S. pneumoniae (PRSP)	Blood spinal fluid sputum	CTRX	+	mPSL 20 mg	+	S	60	
+42	2008	21	Male	ITP	8 years		S. pneumoniae	Blood		+	-	-	D	61	
+43	2008	43	Female	ITP	15 years		S. pneumoniae	Blood spinal fluid	MEPM		-	-	D	61	
+44	2008	47	Female	Trauma	8 years		S. pneumoniae	Spinal fluid	CTRX	-	-	-	S	61	
+45	2009	61	Female	Trauma, spleen hypoplasia	20 years	1 day	S. pneumoniae	Blood		+	-	-	D	62	
+46	2009	25	Male	ITP	22 years	1 day	S. pneumoniae	Blood	PCG, MEPM, CTX	+	+	-	S	63	
+47	2009	72	Male	AIHA	1 months	1 day	C. albicans		CPFX, FLCZ	-	mPSL 1000 mg	-	S	64	
+48	2009	47	Male	ABO-incompatible liver transplantation	4 months	1 day	S. pneumoniae fungus		CPFX, ST, MCFG	-	-	+	S	65	
+49	2010	59	Female	Hepatitis C	3 years	3 days	S. pneumoniae	Blood	CTRX, VCM	-	-	-	S	66	
+50	2010	34	Female	ITP	14 years	2 days	S. agalactiae	Blood	MEPM, ABPC	+	-	+	S	67	
+51	2010	64	Female	Total gastric resection	3 years	1 day	S. pneumoniae	Blood spinal fluid	CTRX	-	Dexamethasone 8 mg	-	S	68	
+52	2011	49	Male	Idiopathic portal hypertension	29 years	1 day	S. pneumoniae	Sputum, urine	PAPM/BP CPFX IPM/CS	+	-	-	D	69	
+53	2011	68	Male	Gastric Ca ope	20 days	12 h	S. pneumoniae	Blood		-	-	-	S	70	
+54	2011	41	Female	Hepatitis B	21 weeks	10 h	M. pneumoniae		VCM, LZD, ornidazole, SXM	+	+	-	D	71	
+55	2012	64	Female	ITP	19 years	2 days	S. pneumoniae	Urine	KVFX→ABPC	+	-	-	S	72	
+56	2012	76	Female	Total gastric resection	10 months	2 days	S. pneumoniae	Blood	PZFX ABK		-	+	S	73	
+57	2012	45	Male	Trauma	34 years	1 day	S. pneumoniae	Blood spinal fluid	CTRX/CTX VCM	-	Dexamethasone 40 mg	-	S	74	
+58	2012	32	Female	Pancreatic Ca ope	1 year		S. pneumoniae	Blood	CTRX VCM	-	-	+	S	75	
+59	2012	5m	Female	Congenital asplenia,			S. pneumoniae	Blood	CTRX, VCM	+	-	-	S	76	
+60	2013	52	Female	Total gastric resection	6 days	1 day	S. constellatus	Blood	MEPM	+	-	+	S	77	
+61	2013	52	Female	Total gastric resection	9 months	1 days	K. pneumoniae	Blood	MEPM	+	-	+	S	77	
+62	2013	63	Male	Total gastric resection	5 years	2 days	S. pneumoniae	Blood	MEPM	+	-	-	D	78	
+63	2014	58	Female	Spleen hypoplasia			S. pneumoniae	Blood	MEPM, VCM, LMOX,	-	-	-	D	79	
+64	2015	38	Male	ITP	10 years	1 days	S. pneumoniae	Blood urine	MEPM, CLDM, VCM	+	+	-	S	80	
+65	2015	39	Male	Trauma	2 years	2 h	Tuberculosis			+	+	-	S	81	
+66	2016	44	Male	Spleen hypofunction		2 days	S. pneumoniae	Blood	CTX, VCM	+	+	-	S	82	
+67	2016	70	Male	Cirrhosis	3 years	2 days	S. pneumoniae	Blood	CTRX	+	-	+	D	83	
+68	2016	55	Male	Splenic artery aneurysm rupture	10 years	2 days	C. coli	Blood	MEPM, VCM	-	-	-	D	83	
+69	2017	70	Male	Pancreatic tumor ope	2 years	12 h	S. pneumoniae	Blood sputum	CTRX	-	-	+	S	Our case	
+DIC+:There was obvious coagulopathy according to the criteria of International Society on Thrombosis and Haemostasis or that of Japanese Association for Acute Medicine. DIC-:There was no coagulopathy or not described about coagulation. S. pneumonia: Streptococcus pneumonia, E. faecalis: Enterococcus faecalis, C. coli: Campylobacter coli, K. pneumoniae: Klebsiella pneumonia, M. pneumonia: Mycoplasma pneumonia, C. albicans: Candida albicans, H. influenza: Haemophilus influenza, E. coli: Escherichia coli, IVIG: Intravenous immunoglobulin, DIC: Disseminated intravascular coagulopathy, ITP: idiopathic thrombocytopenic purpura, PRSP: penicillin resistant Streptococcus pneumoniae
+
+We conducted univariate logistic regression analyses for mortality [Table 2]. It is particularly interesting that disseminated intravascular coagulopathy (DIC) was found to be a strong risk factor for mortality. The mortality odds ratio of DIC was 17.3 (P = 0.0009) in multiple logistic regression analysis, partly because DIC represents the severity of the infectious condition. Treatment induction from onset was also correlated with survival (odds ratio 0.75, P = 0.089), contrary to expectations. Because they might not be fulminant, they survived without early treatment induction. In addition, IVIG treatment was a statistically significant and independent factor for survival (odds ratio 0.19, P = 0.023).
+
+Table 2 Logistic regression analyses for mortality
+
+	Univariable logistic regression analysis	Multivariable logistic regression analysis	
+Mortality OR (95% CI)	P	Mortality OR (95% CI)	P	
+Published year of the Christian era	0.98 (0.93-1.04)	0.49	0.75 (0.37-1.03)	0.089	
+0.68 (0.07-6.19)	0.73	
+Treatment from onset	0.00005(6.81e-12-1.25)	0.059	
+DIC	2.83 (0.93-9.86)	0.067	17.3 (2.80-340.0)	0.0009*	
+Steroid therapy	0.76 (0.26-2.15)	0.61			
+IVIG	0.20 (0.042-0.69)	0.0099*	0.19 (0.036-0.81)	0.023*	
+OR: Odds ratio, CI: Confidence interval, IVIG: Intravenous immunoglobulin, DIC: Disseminated intravascular coagulopathy p<0.05 was considered statistically significant with *
+
+The clinical course of OPSI is often fulminant. Although antibiotics and supportive medical care are the cornerstone of therapy, adjunctive IVIG is theoretically effective for OPSI. The most important effect of IVIG in the treatment of OPSI is the supplementation of specific antibodies. As some experimental studies have demonstrated the efficacy of IVIG in OPSI,[1415] we demonstrated in a previous study that IVIG was effective in OPSI mouse model, which was due to specific antibodies.[5] The efficacy of IVIG for survival was dose dependent on the amounts of specific antibodies to causative bacteria. There are many serotypes in capsular polysaccharides of pneumococcus.[16] Polyclonal IVIG includes specific antibodies for various serotypes of pneumococcus, mainly in IgG2 fractionate.[17]
+
+For OPSI, IVIG effects other than the specific antibodies supplement might be also effective. Nonspecific neutralization of some toxins might prolong survival. Streptococcal sepsis releases superantigen exotoxins;[1819] IVIG reportedly neutralizes them.[20] Moreover, IVIG has various immunomodulatory and anti-inflammatory effects.[1021] In addition, IVIG suppresses the activation of leukocytes including macrophages and B cells.[2223] This suppression is reportedly beneficial for sepsis treatment by preventing late-onset anergy.[24]
+
+The analysis of this article has several limitations. The first is the possibility of publication bias. Second, we assigned the reports that included no description about IVIG to the non-IVIG group. Third, this review included old and new reports together, from 1971 through 2017, among which the treatment of sepsis probably differed.
+
+In conclusion, we presented a case of OPSI which was treated successfully with IVIG. IVIG might be effective as an adjunctive treatment option for OPSI, as demonstrated by a review of the literature.
+
+Consent to publish
+
+We obtained written consent to report and publish the case from the patient.
+
+Declaration of patient consent
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form, the patient has given his consent for his images and other clinical information to be reported in the journal. The patient understands that his name and initial will not be published, and due efforts will be made to conceal identity, but anonymity cannot be guaranteed.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.

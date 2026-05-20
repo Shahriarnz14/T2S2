@@ -1,0 +1,46 @@
+event,time
+44 years old, 0
+female , 0
+presented to the emergency department , 0
+"history of redness, pain, and swelling ", -72
+"associated with fever, chills, and vomiting ", -72
+treated with intravenous vancomycin for cellulitis , -24
+discharged on oral antibiotics , -24
+initial ED vitals , 0
+afebrile , 0
+normotensive , 0
+tachycardia , 0
+mild tachypnea , 0
+left inner thigh and groin induration , 0
+morbidly obese with a BMI>45 kg/m2 , 0
+initial labs , 0
+lactate 3.5 mmol/L , 0
+WBC 18.2 × 103 per mm3 , 0
+hemoglobin 12.3 g/dL , 0
+sodium 136 mmol/dL , 0
+glucose 225 mg/dL (12.5 mmol/L) , 0
+creatinine 1.8 mg/dL (159 μmol/L) , 0
+"LRINEC score of 6, C-reactive protein (CRP) excluded ", 0
+bedside ultrasound , 0
+"positive subcutaneous thickening, air, and fascial fluid (STAFF) ", 0
+patient’s soft tissue ultrasound findings , 0
+normal soft tissue ultrasound , 0
+started on intravenous vancomycin and piperacillin/tazobactam , 0
+surgery was consulted , 0
+operative debridement of the left groin and perineum , 0
+excision of 15 cm × 23 cm of tissue , 0
+extensive washout , 0
+admitted to the surgical intensive care unit post-operatively , 0
+septic shock requiring vasopressors and ventilator dependence , 0
+repeat washouts with minor debridements daily for 3 days ," 24, 48, 72"
+lactate normalization , 72
+down-trending WBC to 13.5 × 103 per mm3 , 72
+extubated and transferred to a step-down unit , 120
+plastic surgery was consulted to evaluate for possible skin graft , 120
+poor graft candidate ," 120, 144, 168, 216, 240, 264, 312"
+wound vacuum-assisted closure (V.A.C.) device , 264
+transferred to the plastic surgery service , 312
+forgo skin graft during her immediate hospital stay , 312
+fully ambulatory and discharged home with a wound V.A.C. , 672
+subsequently received a skin graft , >672
+recovering well since , >672

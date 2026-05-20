@@ -1,0 +1,125 @@
+event,time
+40 years old,0
+male,0
+admitted to the hospital,0
+sudden altered consciousness,0
+high fever,0
+progressive shortness of breath,0
+febrile,0
+temperature of 39.6°C,0
+heart rate of 140 beats/minute,0
+oxygen saturation (SpO2) of 72% in room air,0
+thin,0
+cachectic,0
+weighed 62 kg,0
+poor nutritional status,0
+numerous mouth ulcers,0
+scrotal swelling,0
+redness,0
+tenderness,0
+Candida mucositis,0
+negative HIV test,0
+ultrasonogram (USG),0
+scrotal edema,0
+normal USG parameters,0
+elevation of inflammatory markers,0
+brain CT showing right basal ganglia infarct,0
+chest CT suggestive of COVID-19 (CO-RADS 5),0
+total leukocyte count (TLC) of 25×109 /L,0
+hemoglobin 5.34 mmol/L,0
+platelets 128×109 /L,0
+C-reactive protein (CRP) 1750 mg/L,0
+procalcitonin 11 mcg/L,0
+normal lipid profile,0
+International normalized ratio (INR) 1.6,0
+glycated hemoglobin (HbA1c) 11.3%,0
+serum creatinine 170 µmol/L,0
+serum potassium 6.2 mmol/L,0
+serum lactate 8 mmol/L,0
+blood sugar level 24 mmol/L,0
+severe metabolic acidosis,0
+pH 7.21,0
+PaCO2 21 mmHg,0
+PaO2 58 mmHg,0
+HCO3 8 mmol/L,0
+sepsis,0
+multiple organ dysfunction,0
+brain infarction,0
+severe viral pneumonia,0
+respiratory failure,0
+uncontrolled DM,0
+oral candidiasis,0
+acute kidney injury,0
+hyperkalemia,0
+hyperlactatemia,0
+ICU admission,0
+Glasgow Coma Scale (GCS) score of 13/15,0
+HFNC therapy,0
+anticoagulation with enoxaparin 40 mg BID,0
+IV remdesivir,0
+IV tigecycline,0
+IV levofloxacin,0
+IV anidulafungin,0
+insulin sliding scale,0
+insulin glargine,0
+electrolytes replenishment,0
+COVID-19 rtPCR positive,24
+left leg swelling,24
+iliofemoral deep vein thrombosis (DVT),24
+enoxaparin increased to 60 mg BID,24
+regained consciousness,168
+improvement in hemodynamic status,168
+improvement in ventilatory status,168
+fever subsided,168
+hyperglycemia controlled,168
+TLC 14 ×109/L,168
+oxygenation improved,168
+weaned from HFNC to 6 L/min nasal cannula,168
+high CRP,168
+high procalcitonin,168
+self-prone positioning,168
+clinical deterioration,168
+GCS 5/15,168
+increased oxygen requirement,168
+hypotension requiring norepinephrine infusion,168
+TLC 23×109/L,168
+refractory hypoglycemia,168
+dextrose 50% infusion,168
+remdesivir discontinued,240
+chest X-ray showing worsening bilateral infiltrates,240
+sputum culture positive for Klebsiella pneumoniae,240
+sputum culture positive for Candida albicans,240
+hospital-acquired pneumonia (HAP),240
+invasive mechanical ventilation,240
+IV meropenem,240
+IV linezolid,240
+continued anidulafungin,240
+improvement in fever,240
+TLC 15×109/L,240
+euglycemia,240
+vasopressors weaned off,240
+decreased oxygen requirement,240
+extubated,288
+HFNC continued,288
+extended ICU stay,288
+oxygenation deterioration,336
+re-intubation,336
+increased oxygen requirement to 70%,336
+suspected pulmonary embolism (PE),336
+CT angiogram negative for PE,336
+HRCT showing lung abscess and pleural effusion,336
+right-sided pleural drainage,336
+pleural fluid exudate negative for bacteria,336
+fiberoptic bronchoscopy with BAL,336
+BAL positive for Candida albicans,336
+continued anidulafungin and antibiotics,336
+gradual improvement,528
+extubated,576
+IV meropenem continued,576
+oral linezolid,576
+oral voriconazole,576
+weaned off HFNC,624
+oxygen support discontinued,816
+shifted to regular ward,912
+chest X-ray improvement,912
+discharged from hospital,1488

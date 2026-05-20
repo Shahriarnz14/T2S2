@@ -1,0 +1,72 @@
+46 years old | 0\
+Asian-Indian | 0\
+male | 0\
+tropical chronic pancreatitis | -8760\
+exocrine pancreatic insufficiency | -8760\
+oral pancreatic enzyme therapy | -8760\
+non-insulin-dependent diabetes mellitus | -1096\
+glipizide | -1096\
+midepigastric pain | -6\
+dull in nature | -6\
+radiating through his back | -6\
+exacerbated by food intake | -6\
+nausea | -6\
+vomiting | -6\
+no fever | -6\
+fatty atrophy of both the pancreatic head and uncinate process | 0\
+pancreatic duct filled with large calcifications | 0\
+possible obstruction at the level of the neck | 0\
+marked upstream ductal dilatation | 0\
+dilated pancreatic duct | -120\
+intraductal calculi | -120\
+ERCP | -120\
+pancreatography | -120\
+fever | 48\
+chills | 48\
+rigors | 48\
+severe sepsis | 48\
+septic shock | 48\
+hypoxemic respiratory failure | 48\
+intubated | 48\
+acute respiratory distress syndrome | 48\
+multiorgan failure | 48\
+broad-spectrum antibiotics | 48\
+vasopressor support | 48\
+activated recombinant human protein C | 48\
+markedly dilated pancreatic duct | 48\
+calculus within the duct | 48\
+diffusely echogenic pancreas | 48\
+prominent common bile duct | 48\
+no obvious obstructing calculi | 48\
+bedside emergency ERCP | 48\
+frank pus | 48\
+no papillitis | 48\
+no tumor | 48\
+no previous sphincterotomy | 48\
+evacuation of pus | 48\
+cholangiogram | 48\
+normal biliary tree | 48\
+no stones | 48\
+pancreatogram | 48\
+marked dilatation of the main pancreatic duct | 48\
+single distal calculus | 48\
+guide wire | 48\
+evacuation of pus | 48\
+selective cannulation | 48\
+5-cm-long 5 F stent | 48\
+inflammatory changes within the fat surrounding the body and tail of the pancreas | 72\
+edema | 72\
+diminished ductal dilatation | 72\
+distal migration of the calculus | 72\
+no pancreatic necrosis | 72\
+no fluid collection | 72\
+bilateral moderate pleural effusions | 72\
+dramatic signs of clinical improvement | 72\
+stabilization of hemodynamic parameters | 72\
+Klebsiella ornithinolytica | 72\
+extubated | 120\
+transferred from the intensive care unit | 120\
+completed antibiotic course | 120\
+discharged home | 264\
+no further complications | 744\
+no further complications | 888

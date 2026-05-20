@@ -1,0 +1,74 @@
+event,time
+28 years old,0
+male,0
+transported to hospital by ambulance,0
+abdominal pain in left lower quadrant,0
+persistent diarrhea,-48
+dissection of basilar artery,"-52560 (age 22, assuming current age 28, 6 years prior)"
+dissection of right common iliac artery,"-52560 (age 23, 5 years prior)"
+retroperitoneal hematoma,"-52560 (age 23, 5 years prior)"
+dissection and embolism of renal artery,"-52560 (age 25, 3 years prior)"
+vEDS diagnosis by genetic testing,-26280 (3 years prior to admission)
+COL3A1 missense variants (c.2815A; p.G939S),-26280
+panperitonitis,0
+rebound tenderness,0
+muscular defensiveness,0
+blood pressure 152/92 mmHg,0
+pulse rate 110 bpm,0
+SpO2 92%,0
+body temperature 37.8°C,0
+WBC 3100/μL,0
+RBC 448×10^4/μL,0
+Hb 13.3 g/dL,0
+Ht 38.3%,0
+Plt 19.1×10^4/μL,0
+PT-INR 1.01,0
+APTT 30.9 sec,0
+D-dimer 1.2 μg/mL,0
+TP 6.1 g/dL,0
+Alb 4.0 g/dL,0
+BUN 11.2 mg/dL,0
+Cre 0.62 mg/dL,0
+Na 139 mmol/L,0
+K 4.2 mmol/L,0
+Cl 102 mmol/L,0
+T-Bil 0.89 mg/dL,0
+AST 39 U/L,0
+ALT 56 U/L,0
+LDH 224 U/L,0
+CK 903 U/L,0
+CRP 0.44 mg/dL,0
+Glucose 111 mg/dL,0
+HbA1c 6.4%,0
+CT non-localized intraabdominal free air,0
+slight enlargement of right common iliac arterial aneurysm,0
+emergency surgery,0
+laparotomy,0
+1-cm perforation of sigmoid colon,0
+fragile intestinal tract wall,0
+fragile mesentery,0
+fragile mesenteric vessels,0
+resection of sigmoid colon,0
+end-colostomy with descending colon,0
+thinning of muscular layer,0
+tear of muscular layer,0
+infiltration of inflammatory cells in serosal layer,0
+transferred to ICU,0
+ventilator management,0
+septic shock,0
+fentanyl administration,0
+acetaminophen administration,0
+discharged on POD 29,696
+no major postoperative complications,696
+no events after 18 months,13140 (approx. 18 months post-discharge)
+CT imaging every 3 months,2160 (approx. 3 months post-discharge)
+right common iliac arterial aneurysm monitoring,2160
+no family history of EDS,-26280 (at time of diagnosis)
+no hyperelastic skin,0
+no joint laxity,0
+constipation,0 (assumed ongoing)
+diarrhea before perforation,-48
+laxative use,0 (assumed ongoing)
+risk of re-perforation,0
+risk of anastomotic leakage,0
+risk of arterial rupture,0

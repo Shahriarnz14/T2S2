@@ -1,0 +1,93 @@
+event,time
+61 years old,0
+female,0
+admitted to the hospital,0
+general weakness,0
+fall at home,-24
+infected heel pressure ulcer,0
+urinary tract infection,0
+thyroid dysfunction,0
+hemodynamic instability,0
+loss of consciousness,0
+admitted to ICU,144
+intubated,144
+unconscious,144
+hypothermic,144
+temperature 35.8°C,144
+hypotensive,144
+systolic blood pressure 75 mm Hg,144
+bradycardic,144
+heart rate 45 beats per min,144
+obese,0
+body mass index 36,0
+generalized subcutaneous edema,0
+macerated skin in lower limbs,0
+irreducible ventral hernia,0
+no features of occlusion,0
+hypercapnia,0
+compensated respiratory acidosis,0
+arterial blood pH 7.36,0
+elevated HCO3 32 mEq/L,0
+hypomagnesemia 0.5 mmol/L,0
+hypophosphatemia 0.4 mmol/L,0
+hypoalbuminemia 20 g/L,0
+CRP 34 mg/L,0
+WBC 5.7 × 10^9 cells/L,0
+thyroxine 1.0 nmol/L,0
+TSH >100 mU/L,0
+myxedema,0
+fluid resuscitation,0
+inotropic support,0
+intravenous T4 500 μg,0
+T4 100 μg/day,0
+intravenous T3 5 μg × 3/day,0
+suspected sepsis,0
+empirical piperacillin/tazobactam 4 g × 3/day,0
+cefuroxime 1.5 g × 3/day,96
+metronidazole 500 mg × 3/day,96
+metronidazole withdrawn,168
+urine culture Escherichia coli,0
+wound Corynobacterium,0
+hemodynamic stabilization,0
+oral T4,240
+extubated,240
+CRP increased 156 ng/L,240
+pneumonia clinical signs,240
+pneumonia radiological signs,240
+piperacillin/tazobactam restarted,240
+CRP increased 206 ng/L,288
+no fever,288
+no increase in WBC,288
+silent abdomen,288
+moderately distended abdomen,288
+no bowel movement,0
+enteral nutrition,0
+CT abdomen,0
+fecal content in colon and rectum,0
+colon expansion 9 cm,0
+sigmoid wall edema,0
+rectal wall edema,0
+bowel obstruction,0
+enemas,0
+violent diarrhea,0
+CDI suspected,0
+CDI confirmed,480
+PCR test positive,480
+enteral vancomycin 250 mg × 4/day,480
+persistent diarrhea,480
+intravenous metronidazole 500 mg × 3/day,528
+enteral fidaxomicin 200 mg × 2/day,528
+intravenous tigecycline 100 mg,528
+tigecycline 50 mg × 2/day,528
+piperacillin/tazobactam stopped,528
+no clinical improvement,600
+colonoscopy,600
+mucosal swelling,600
+fecal microbiota transplant,600
+frozen stool donor,600
+diarrhea resolved,648
+CRP decreased,648
+discharged to ward,1560
+discharged from ICU,1560
+prolonged recovery from myxedema,1560
+no digestive problems,1560

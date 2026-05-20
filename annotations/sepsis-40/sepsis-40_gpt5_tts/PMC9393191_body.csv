@@ -1,0 +1,67 @@
+event,time
+71 years old,0
+male,0
+otherwise healthy,0
+admitted to the hospital,0
+transient intestinal ischemia,0
+history of mild abdominal pain,-72
+history of nausea,-72
+history of profuse diarrhea,-72
+pain worsened,-24
+diarrhea worsened,-24
+became unresponsive,-24
+hypotensive,0
+tachycardic,0
+severe pain in his lower abdomen,0
+tenderness,0
+no fever,0
+no masses,0
+no lymph nodes,0
+metabolic acidosis (pH < 7.2),0
+serum lactate level over 6 mmol/L,0
+immediate intravenous fluid reanimation,0
+abdominal computed tomography,2
+whole extent of the bowel was dilated,2
+no free liquid,2
+no free air,2
+no masses,2
+distention of some loops of the small intestine,2
+abdominal pain worsened,3
+distention worsened,3
+surgical consultation,3
+consent obtained,4
+surgery was decided,4
+intestinal ischemia was among the differential diagnosis,4
+laparotomy,6
+full extent of the small bowel had a purplish color,6
+edematous,6
+no perforation,6
+no necrosis,6
+mesentery was engorged,6
+areas of ecchymosis,6
+visible peristalsis,6
+responded to reanimation maneuvers,6
+second-look surgical laparotomy was planned,6
+surgery was completed using a Bogota bag,6
+low-molecular-weight heparin was initiated,6
+anticoagulation,6
+transferred to the intensive care unit,6
+areas of edema in the mesentery,6
+hematomas,6
+angio-3D reconstruction performed,10
+vascular malformation of the superior mesenteric artery,10
+celiacomesenteric trunk,10
+no thrombus,10
+no embolus,10
+possibility of thrombosis in the celiacomesenteric trunk,12
+second laparotomy,30
+bowel loops were in better condition,30
+regained normal color,30
+regained mobility,30
+never fully recovered from his acidosis,48
+developed ventilator-associated pneumonia,72
+sepsis,84
+refractory shock,90
+organ failure,96
+death,96
+fatal outcome,96

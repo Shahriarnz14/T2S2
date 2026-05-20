@@ -1,0 +1,74 @@
+event,time
+37-year-old,0
+man,0
+no significant previous medical history,0
+presented to emergency department,0
+fever,-96
+vomiting,-24
+loose stools,-24
+abdominal cramps,-24
+headache,-24
+intermittent fever,-96
+low-grade fever,-96
+generalized headache,-24
+nonbilious vomiting,-24
+loose stools,-24
+unmarried,0
+lived with cousin,0
+worked in plastics factory,0
+tachycardia,0
+mild tachypnea,0
+blood pressure 100/70 mmHg,0
+macular erythematous rash over both feet,0
+GCS 15,0
+no neck stiffness,0
+thrombocytopenia (103×10³/µl),0
+high serum creatinine (155 µmol/L),0
+high urea (11 mmol/L),0
+high total bilirubin (100 µmol/L),0
+high AST (80 U/L),0
+high ALT (98 U/L),0
+high CRP (355 mg/L),0
+chest X-ray mild bilateral haziness,0
+started empirical ceftriaxone,0
+IV fluids,0
+provisional diagnosis acute gastroenteritis,0
+acute kidney injury,0
+admitted to hospital,0
+continued fluids,0
+continued antibiotics,0
+day 2 tachypnea increased,24
+tachycardia increased,24
+fever spike 38.3°C,24
+hypoglycemia 2.9 mmol/L,24
+day 3 worsening tachycardia,48
+worsening tachypnea,48
+hypotension,48
+transferred to ICU,48
+blood culture gram-negative bacilli,48
+started piperacillin/tazobactam,48
+intubated,48
+ventilated,48
+day 4 required vasopressors,72
+higher PEEP,72
+maintain BP,72
+maintain PaO2,72
+day 5 blood culture positive S. moniliformis,96
+diagnosed RBF,96
+consultation with microbiologist,96
+consultation with infectious disease specialist,96
+started IV penicillin G,96
+rapid improvement,120
+weaned off ventilator,120
+vasopressor tapered,120
+renal function improved,120
+acidosis improved,120
+extubated,120
+discharged,240
+rats present in house,0
+rats present in workplace,0
+frequently leaves food uncovered,0
+no history of rat bite,0
+no preexisting valvular heart disease,0
+no heart failure,0
+no infective endocarditis,0

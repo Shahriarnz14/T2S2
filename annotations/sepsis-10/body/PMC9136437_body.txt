@@ -1,0 +1,132 @@
+pmcIntroduction
+
+Human orthotopic liver transplantation (LT) was successfully performed for the first time in 1967 by Dr. Thomas Starzl and his colleagues in Denver, Colorado. 1 Calne later developed the Piggyback LT method, which preserves the retrohepatic vena cava, has a shorter anhepatic phase, and exhibits less renal damage.2,3 In China, from 1980 to 2011, a total of 8874 hepatocellular carcinoma (HCC) patients underwent LT, and this number continues to increase. 4
+
+Graft versus host disease (GVHD) following LT was first reported in 1988 by Burdick et al. 5 GVHD is the result of a severe allogeneic immune response when the T-lymphocytes of the donor organ recognize the recipient tissue antigen as a foreign object.6,7 The incidence of GVHD after LT is about 0.1%–0.2%, which is far lower than the 50% incidence observed after hematopoietic stem cell transplantation;8,9 however, the mortality rate is as high as 85%–90%. 10 Therefore, the early identification and prevention of acute graft versus host disease after liver transplantation (lt-GVHD) is important. High human leukocyte antigen (HLA) matching and age differences between donor and recipient were reported as risk factors for lt-GVHD. 11 However, whether targeted therapy and radiation therapy before LT contribute to lt-GVHD has not been determined. The clinical manifestations of lt-GVHD usually appear 2–8 weeks after transplantation and mainly include rashes (92%), diarrhea (65%), and pancytopenia (78%).12–14 Such symptoms can be caused by viral, bacterial or fungal infections, or adverse drug reactions.15,16 A lack of awareness may lead to delays in diagnosis and result in worsened results. 17 The diagnosis of lt-GVHD is based on clinical symptoms, histological evidence from skin biopsies, and the presence of mosaicism.18,19
+
+There is currently no consensus on the best treatment for lt-GVHD. 20 In our medical center, from 1996 to 2020, a total of 151 adult liver transplants were performed, and only one case of lt-GVHD occurred. Here, we report a case of lt-GVHD, and focus on its predisposing factors, etiology, clinical manifestations, diagnosis, treatment, and prevention. We also provide evidence from the literature relating to the prevention, diagnosis, and treatment of lt-GVHD.
+
+Case report
+
+A 59-year-old female (blood type: O, Rh positive) was found to have a segment-V space-occupying lesion in the liver, which was suspected of being liver cancer (Figure 1). A transarterial embolization was performed on 29 August 2018. In October 2018, the patient began taking sorafenib, but stopped in July 2019 due to dizziness, skin ulcers, and other symptoms. A computed tomography (CT) scan in September 2019 found that the lesions in liver segment V had enlarged. Radiation therapy was performed on 29 September 2019. The prescribed dose was: PTV5400cGy/18f, and a dose rate of 0.6–1 Gy/min for a total of seven radiotherapy treatments. Following radiotherapy, Piggyback LT was performed on 13 October 2019. The patient had a history of hepatitis B, but she received entecavir on one occasion (hepatitis B virus (HBV) serology test: HBsAg was 113.23I U/mL (ref: 0–0.05), anti-HBs was 0 mIU/mL (ref: 0–10), HBeAg was 0.08 PEI µ/mL (ref: 0–0.5), anti-HBe was >4.4 PEI µ/mL (ref: 0–0.2), and anti-HBc was 8.26 PEI µ/mL (ref: 0–0.9). Serological tests for human immunodeficiency virus, hepatitis A, and hepatitis C were all negative.
+
+Figure 1. Imaging data. The images from left to right are the plain, arterial, and venous phases of enhanced abdominal CT. (a–c) Before the recipient underwent comprehensive treatment, the liver V-segment space-occupying lesions showed fast forward and fast appearance; (d–f) Prior to the recipient’s liver transplantation, the space-occupying lesions in segments IV, V, and VIII of the liver showed a scattered lipiodol deposition, uneven enhancement in the arterial phase, and reduced enhancement in the venous phase. (g–i) After liver transplantation, blood and fluid accumulation was observed under the liver capsule and around the spleen.
+
+The donor was a 21-year-old male (blood type: O, Rh positive) who suffered brain death from a car accident. The HLA class-I and class-II phenotypes of the donor were A11, A30; B13; DR11, DR15; DQ6, and DQ7, while those of the recipient were A2, A11; B13, B46; DR14, DR15; DQ5, and DQ6 (Table 1). The blood products received by the patient during the transplant were irradiated and filtered before transfusion.
+
+Table 1. The HLA matching results of donor and recipient.
+
+	HLA-A	HLA-B	HLA-DR	HLA-DQ	
+Donor	11,30	13,13	11,15	6,7	
+Recipient	2,11	13,46	14,15	5,6	
+
+The transplantation process was smooth, but afterward, the patient developed acute renal failure and a hematoma around the liver (Figure 1). She received intravenous administration of hepatitis B immunoglobulin, and on postoperative day (POD)-1, the patient received immunosuppressive drugs, including steroids and tacrolimus. The initial goal was to maintain the tacrolimus blood level at ~10 ng/mL. After continuous hemodialysis and intermittent infusion of fresh frozen plasma, leukocyte-depleted red blood cells, and other blood products, active bleeding in the abdominal cavity ceased and renal function gradually recovered. Pathological analyses confirmed the diagnosis of HCC, and massive tumor necrosis was observed (necrosis accounted for ~90%, while the surviving tumor accounted for ~10%; Figure 2). On POD-10, liver function began to improve, aspartate aminotransferase (AST), alanine aminotransferase (ALT), gamma-glutamyl transpeptidase (GGT), and alkaline phosphatase (ALP) levels all returned to normal (Figure 3(d)). However, the patient developed regular and repeated fevers of 37–39°C, peaking at 23:00 h daily. Procalcitonin (PCT) levels began to rise to 10.3 ng/mL (reference range (ref) 0–0.05) (Figure 3(b)). On POD-13, the patient’s serum PCT levels dropped to 3 ng/mL, blood cultures were negative, and cytomegalovirus, Epstein–Barr virus (EBV) were negative, but the fever did not subside, and obscure red spots were also observed on the patient’s chest. However, she had no symptoms such as itching, and the Nikolsky sign was negative. On POD-17, we changed the tacrolimus administration to sirolimus and added mycophenolate mofetil to maintain immune suppression. On POD-18, a sputum culture suggested the presence of Acinetobacter baumannii and methicillin-resistant Staphylococcus aureus (MRSA) infections. On POD-19, the patient’s rash advanced into erythematous macules and papules, and spread to the limbs, palms, neck, and face. An oral examination revealed white ulcers on both sides of the buccal mucosa and lips (Figure 4(a)–(e)), and severe bone marrow suppression was observed, as well as a white blood cell (WBC) count of 0.86 × 109/L (ref: 3.5–9.5), a platelet (PLT) count of 35 × 109/L (ref: 125–350), and a hemoglobin (HGB) level of 70 g/L (ref: 130–175) (Figure 3(a), Table 2). The patient was then transferred to the intensive care unit. A dermatologist hypothesized that the rash may be a drug-related adverse reaction and recommended gamma globulin administration (2500 mg, 3 days). We also performed a skin biopsy on the patient’s left chest and performed fluorescence in situ hybridization (FISH) of the peripheral blood. On POD-29, while awaiting the pathology results, the patient’s abdominal incision split and was sutured again.
+
+Figure 2. Postoperative pathology of the patient’s diseased liver. Based on the morphology, it is considered to be a moderately differentiated hepatocellular carcinoma, with a large amount of necrosis (necrosis accounts for about 90%, and the surviving tumor components account for about 10%), an MVI grade of M0, and no tumor involvement at the surgical margin.
+
+Figure 3. (a)–(d): Changes in laboratory indicators after LT.
+
+Figure 4. Images of large erythematous plaques on the chest, abdomen, back, and palms with multiple ecchymoses over the left waist. The oral mucosa began to present with ulcers: (a)–(e) The 19th day after liver transplantation and (f)–(j) The 36th day after liver transplantation.
+
+Table 2. The change trend of some laboratory indicators after LT.
+
+Data	Reported values	
+POD1	POD10	POD13	POD15	POD19	POD20	POD25	POD29	POD33	POD55	
+White blood cell count (ref: 3.5–9.5*109/L)	5.2	6.21	5.28	2.61	0.86	3.15	1.58	6	4.49	0.34	
+Hemoglobin (ref: 130–175*109/L)	62.1	76.3	70.2	69.1	70	75.4	61.1	55.7	64.7	50.7	
+Platelet count (ref: 125–2350*10/L)	81.6	51	82.4	73.2	35	48.7	54.7	62.1	3.2	52.2	
+Serum creatinine (ref: 59–104 µmol/L)	228	210	133	–	91	–	75	–	–	78	
+Total bilirubin (ref: 3.4–20.5 µmol/L)	39.1	31.1	–	–	–	20.5	–	–	31.4	23.9	
+Direct Bilirubin (ref: 0–6.8 µmol/L)	14.6	14.4	–	–	–	4.4	–	–	8.8	6.1	
+Indirect bilirubin (ref: 3.1–14.3 µmol/L)	24.5	16.7	–	–	–	16.1	–	–	22.6	11.8	
+Aspartate aminotransferase (ref: 15–45 U/L)	2114	23	–	–	–	25	–	–	33	81	
+Alanine aminotransferase (ref: 9-60 U/L)	636	44	–	–	–	16	–	–	21	27	
+Gamma-glutamyl transpeptidase (ref: 10–60 U/L)	48	158	–	–	–	36	–	–	42	39	
+Alkaline phosphatase (ref: 45–125 U/L)	106	131	–	–	–	75	–	–	144	112	
+Procalcitonin (ref:0–0.05 ng/mL)	13.53	10.03	3.02	–	0.841	–	0.589	0.2	0.175	12.55	
+ref: reference values.
+
+On POD-32, we performed a bone marrow aspiration to determine the cause of the bone marrow suppression. The bone marrow pathology report revealed no special lesions in the morphology of granulocytes, red blood cells, or megakaryocytes, and no macrophages phagocytosing neutrophils or platelets were observed in the bone marrow biopsy. The bone marrow cell morphology examination revealed that the bone marrow cells were proliferating and active, while megakaryocyte production was reduced, and platelet levels decreased. On POD-33, FISH analysis of the peripheral blood followed by flow cytometry detected 3% donor lymphocytes. Skin biopsy specimens exhibited epidermal dyskeratosis, basic vacuolization, and lymphocytic infiltrates, which were consistent with grade-1 acute lt-GVHD (Figure 5). Differential diagnoses include bacterial, fungal, and viral infections, drug reactions, toxic epidermal necrolysis, and hemophagocytic syndrome. Blood culture was negative at the onset of the rash, the recipient had no history of allergies to drugs, and no drugs were suspected of causing allergy. Serological tests of the virus were negative, and no macrophages phagocytosing neutrophils or platelets were observed in the bone marrow biopsy. Thus, the collective findings, together with the clinical course, were consistent with the diagnosis of lt-GVHD. Analysis of serum T-lymphocyte subsets revealed that the ratio of CD4:CD8 was reversed (1:13.3 instead of 2:1) (Figure 6(b), Table 3) and the concentration of serum immunoglobin M was reduced to 0.3 g/L, as determined by immunoglobulin electrophoresis (Figure 6(a)). Despite continuous platelet transfusion and the use of thrombopoietin (TPO), the patient’s PLT count dropped to 3.2 × 109/L.
+
+Figure 5. Skin biopsy showed epidermal dyskeratosis, basic vacuolization, and lymphocytic infiltration.
+
+Figure 6. (a)–(b) Changes in immune function after LT.
+
+Table 3. The change trend of immune function after LT.
+
+Days after liver transplantation	Reported values	
+POD1	POD3	POD4	POD10	POD24	POD33	POD34	POD48	POD55	
+IGA (ref: 0.9–4.5 g/L)	1.69	3.15	–	–	–	–	0.98	1.12	1.37	
+IGG (ref: 8–18 g/L)	8.18	11.78	–	–	–	–	11.43	9.57	8.39	
+IGM (ref: 0.84–1.32 g/L)	0.24	0.66	–	–	–	–	0.3	0.43	0	
+Absolute counts of t lymphocyte (ref: 690–2540/L)	62	–	33	48	291	28	–	20	78	
+Absolute counts of CD4 + lymphocyte (ref: 410–1590/L)	35	–	16	13	74	1	–	17	25	
+Absolute counts of CD8 + lymphocyte (ref: 190–1140/L)	22	–	9	34	283	26	–	2	40	
+CD4/CD8 (ref: 0.9–2/L)	1.58	–	1.83	0.37	0.03	0.07	–	3.73	0.62	
+ref: reference values; IGA: immunoglobin A; IGG: immunoglobin G; IGM: immunoglobin M.
+
+A multidisciplinary team (MDT) was then assembled to discuss the next treatment plan for the patient. We continued to use steroids, tacrolimus to strengthen immune suppression, granulocyte colony-stimulating factor (G-CSF) to promote hematopoiesis, and meropenem combined with voriconazole to strengthen the anti-infective therapy. The patient’s rash was significantly reduced, but the patient’s general condition continued to deteriorate, and serum ferritin levels increased to 11,276.55 ng/mL (ref: 4.63–204). The esophageal and oral ulcers also continued to worsen, which prevented the patient from eating (Figure 4(f)–(j)). On POD-47, the patient’s temperature rose to 39.4°C, and she experienced hallucinations.
+
+The destruction of the patient’s skin, bone marrow, and mucosal epithelium further increased her immunodeficiency, resulting in her course of disease being accompanied by multiple infections (MRSA, Acinetobacter baumannii, and Enterococcus faecalis). Despite these intensive treatments, the patient’s serum immunoglobin M level was reduced to 0 g/L, and she succumbed to septic shock and multiple organ dysfunction syndrome (MODS) on the 55th day after LT (Figure 7).
+
+Figure 7. Time course of the key-events and interventions.
+
+Discussion
+
+GVHD is an immune response mediated by donor T-lymphocytes and recipient cell surface antigens (such as HLA and major histocompatibility complex), resulting in a cytokine-injury-cytokine cycle that leads to the development of inflammation and eventually formed.1,6 There are three stages for the development of GVHD, including (1) liver disease before transplantation, damage to the body caused by the operation, and the use of immunosuppressive agents after transplantation that render the recipient’s immune function low; (2) the activation of donor lymphocytes and host antigens triggers the cytokine-injury-cytokine cycle, which promotes the development of inflammation and causes the host’s fragile immune system to fail; and (3) the donor T-lymphocyte target antigen is expressed in the host tissue, leading to cell death and the release of a large amount of inflammatory factors (interleukin 2, tumor necrosis factor (TNF)-a).21,22 However, there are reports that GVHD and acute rejection can occur sequentially, and patients with partial immunodeficiency have not developed GVHD.9,10
+
+The etiology of GVHD might be multifactorial. The risk of GVHD in patients >65 years is nine times higher than that of young people, especially when the age difference between the donor and the recipient is greater than 20 years (a 1-year difference in age will increase the risk by 6%).11,13,23,24 In this case, the age difference between the donor and recipient was 38 years. In addition, glucose intolerance, diabetes, infectious hepatitis, autoimmune hepatitis, viral infections, and liver cancer have also been identified as risk factors for GVHD.25–28
+
+In addition to the above risk factors, there is no report detailing whether radiotherapy and targeted therapy before LT will induce GVHD. It has been reported that radiation therapy can cause GVHD in mice after bone marrow transplantation; the first step in developing the GVHD mouse model is to irradiate the whole mouse prior to bone marrow transplantation. The reason for this requirement may be that the irradiation destroys the host lymphocytes, thereby preventing or improving rejection of the allogeneic bone marrow vaccination. 29 Schwarte et al. 30 used age-matched and sex-matched mice for bone marrow transplantations, and different doses of radiation were used before transplantation. Those studies found that low dose rate radiation equal to or less than 1.5 Gy/min before allogeneic bone marrow transplantation can induce GVHD after allogeneic bone marrow transplantation. Those studies also found that the dose rate was more important for the induction of GVHD than the total radiation dose. 30 A study by Madan Jagasia of 5561 patients from 1999 to 2005 found that radiation therapy causes GVHD in bone marrow transplant patients. 31 However, there is no research describing whether radiotherapy can cause GVHD in humans undergoing solid organ transplantation (existing research was only performed in bone marrow transplantation). In this study, the recipient received seven radiation treatments at a dose rate of 0.6–1 Gy/min before LT, which was similar to the dose rate that caused GVHD in mice. Thus, radiation therapy should be avoided as much as possible before LT. Therefore, we think it is possible that radiation therapy contributed to the development of lt-GVHD.
+
+There is no evidence that sorafenib can cause lt-GVHD. Sorafenib is a multikinase inhibitor that can induce cell apoptosis and inhibit cell growth. It is commonly used for the treatment of acute myeloid leukemia patients with GVHD, and no acute GVHD deterioration has been observed. 32
+
+The early diagnosis of lt-GVHD is important to reduce the mortality of patients. The clinical symptoms of lt-GVHD are not specific, and many drug reactions, graft rejection, and bacterial or viral infections exhibit similar symptoms. 33 Patients usually develop symptoms such as fever, skin rashes, diarrhea, and pancytopenia within 2–8 weeks after transplantation, and thus, requires vigilance.13,14 Yi-Bin Chen found that CD30 was highly expressed in the CD8+ T-cells of allogeneic hematopoietic cell transplantation patients, which could be used as an auxiliary diagnosis of GVHD. 34 Unfortunately, however, the receptor in this case was not tested for CD30. Because the transplanted liver is not the target organ, the immunocompetent cells responsible for GVHD are homologous and lack host antigens, and the liver function is almost normal.27,35 In our case, the recipient’s liver function quickly returned to normal, and the rash may not be obvious at the beginning of the disease, but as the condition progresses, the rash will become more and more obvious.15,16 Histological examinations are the gold standard for the diagnosis of GVHD, and generally include pathological examinations of the skin and intestinal mucosa. The skin histological grades include the following: Grade I, lymphocyte infiltration of the dermal epithelium, without epidermal changes; Grade II, basal cell vacuolation; Grade III, subcutaneous hiatus fused by basal vacuolation; and massive necrosis of grade IV keratinocytes, similar to toxic epidermal necrolysis. 18 Diarrhea is caused by the donor lymphocytes attacking the intestinal mucosa. When the donor lymphocytes attack the oral cavity and esophageal mucosa, the patient will have difficulty eating. In such cases, a colonoscopy will reveal crypt cell apoptosis, gland abscesses, and partial mucosal peeling. However, a colonoscopy is only recommended when symptoms of diarrhea occur.23,36 Our patient had no obvious symptoms of diarrhea and did not undergo a colonoscopy.
+
+Pancytopenia is more common in lt-GVHD than in GVHD patients after hematopoietic stem cell transplantation.37–40 The reason is that the lymphocytes transferred from the donor liver attack and destroy the recipient’s hematopoietic stem cells or use immunosuppressive drugs and viral, bacterial, and fungal infections. In addition, severe aplastic anemia can also occur several months after LT.41–43
+
+GVHD may also affect the lungs and brain, causing symptoms such as dyspnea, hallucinations, and disturbance of consciousness, but not established. 44 Chimerism is also important for the diagnosis of GVHD. Chimerism refers to the presence of genetically different cells in the same organ or organism. Such low-level mosaicism may be related to the acute rejection after LT. 7
+
+When the sex of the donor and recipient do not match, FISH can also be used to diagnose GVHD early. Fluorescent probes for Y chromosome DNA are used to specifically label the donor cells of male origin in different tissues45–47 In our case, FISH analysis of peripheral blood revealed that 3% of lymphocytes were positive for the Y chromosome, it is a great reminder for GVHD.
+
+Due to the low incidence of lt-GVHD, there are currently no unified treatment guidelines. Rather, most treatment regimens are based on GVHD treatment after stem cell transplantation. The treatment of lt-GVHD includes strengthening or reducing immunosuppression, but most studies tend to strengthen immunosuppression. Immunosuppressive drugs include tacrolimus, sirolimus, and mycophenolate mofetil, among others. Corticosteroids have significant anti-inflammatory effects and can induce lymphocyte apoptosis; 12 however, high-doses of corticosteroids increase the risk of bacterial and fungal infections, and aggravation of such infections can lead to death from MODS. 9 Cytokines (G-CSF or GM-CSF) can also be used simultaneously to enhance a patient’s hematopoietic function. 10
+
+Another strategy for the treatment of GVHD is to increase the immunity of the recipient.48,49 This can be achieved by inducing the recipient’s allogeneic immune response to the transplant or by stopping immunosuppressive therapy, especially in patients with more than 10% peripheral chimerism after LT. Stopping immunosuppression and rebuilding the recipient’s immune system can reduce the risk of infections, without increasing the risk of rejection. 50 In addition to stopping immunosuppression, other ways to improve immunity include ALLOGENEIC stem cell transplantation and reperfusion of enriched lymphocytes in vivo and in vitro. 51 Table 4 compares our case to previously reported cases.11,12,52
+
+Table 4. Comparison of our GVHD in LT cases with other case studies.
+
+Reference comparison	Our case	Murali et al. 12	Akbulut et al. 31 : 61 studies	Elfeki et al. 11	
+No. of patients	1	5	87	8	
+Recipient age (mean)	59	64.8	40.4	58.5	
+Recipient sex	Female	80% male	66.7% male	88% male	
+Mean age difference (recipient-donor, years)	38	Unspecified	19.8	29	
+Radiotherapy before LT	YES	Unspecified	Unspecified	Unspecified	
+Hepatocellular carcinoma	YES	40%	23%	Unspecified	
+DM	YES	80%	54%	Unspecified	
+Clinical manifestations (with percentages as available)	Fever, rash, diarrhea, cytopenia	Fever (100%), rash (100%), diarrhea(60%), cytopenia (80%)	Fever (66%), rash (94%), diarrhea (54%), cytopenia (54%)	Fever, rash, diarrhea, cytopenia	
+Peak serum ferritin, ng/mL	11,276.55	7630.75	Unspecified	Unspecified	
+Therapy	Steroids, tacrolimus, sirolimus, and mycophenolate mofetil	Steroids, increase in tacrolimus or cyclosporine. IL-2 antagonist, TNF-a inhibitors	Steroids, monoclonal antibodies, IL-2 antagonist, TNF-a inhibitors	Steroids, etanercept, anti-thymocyte globulin, monoclonal antibodies	
+Outcome	Death	80% mortality	67.8% mortality	87.5% mortality	
+GVHD: graft versus host disease; LT: liver transplantation; DM: diabetes mellitus.
+
+There are many treatment methods for GVHD after solid organ transplantation, but the effect is not significant. The most important step is to reduce the lymphocytes in the transplanted organ 52 by perfusion of anti-T-cells, irradiation, or the removal of lymph node tissue, which can prevent lt-GVHD.53,54
+
+Conclusion
+
+In conclusion, the prevention, early diagnosis, and treatment of lt-GVHD were difficult. We recommend a conservative prescription of radiotherapy for potential LT recipients. For recipients with age differences >20 years compared to their donors, HLA matching, and undergoing radiotherapy before LT, when clinical symptoms such as fever, rash, diarrhea, and bone marrow suppression occur successively, the occurrence of GVHD should be vigilant. The treatment of GVHD after transplantation remains a challenge, and thus, prevention should be the priority.
+
+The authors thank International Science Editing (http://www.internationalscienceediting.com) for editing this manuscript.
+
+Author contributions: Z.C. compiled the data and wrote the manuscript. C.H., X.W., Y.H., T.L., S.M., and X.L. collected the data. Y.H., T.L., and S.M. also assisted in analyzing and interpreting the data. G.Z., H.S., X.Y., L.S., Z.L., Z.W., M.P., and T.P. participated in the preoperative and postoperative evaluation of patients. This study was also supported by T.P. All authors contributed to the drafting and critical revision of the manuscript, and approved the version to be submitted for publication.
+
+Availability of data and materials: The data sets used and analyzed in this study are available from the corresponding author upon reasonable request.
+
+Declaration of conflicting interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Ethics approval and consent to participate: This study strictly followed the basic principles of medical ethics and was approved by the medical ethics committee of the First Affiliated Hospital of Guangxi Medical University, Approval Number: 2021(KY-E-003).
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Informed consent: Written informed consent was obtained from the patient’s legally authorized representative to publish this case report and the accompanying images.
+
+ORCID iD: Tao Peng https://orcid.org/0000-0001-6133-7078

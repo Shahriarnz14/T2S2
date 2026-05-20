@@ -1,0 +1,59 @@
+event,time
+70 years old,0
+male,0
+presented with persistent cough,0
+cough lasted three months,-2160
+never smoked,0
+taking statin,-26304
+taking anti-hypertensive drugs,-26304
+vital signs stable,0
+physical examination no significant findings,0
+chest CT scan,0
+PET scan,0
+malignant lung mass 4.8 cm x 4.3 cm in left lower lobe,0
+invasion of corresponding bronchus,0
+multiple mediastinal lymph node metastases,0
+bone metastases,0
+stage IV cancer,0
+bronchoscopy irregular mucosal changes,0
+protruding mass at LLL orifice,0
+histopathology invasive mucinous lung adenocarcinoma,0
+TTF-1 positive,0
+routine mutation profiling ruled out EGFR mutations,0
+routine mutation profiling ruled out ALK fusions,0
+routine mutation profiling ruled out ROS1 fusions,0
+PD-L1 TPS 100%,0
+initiated first-line pembrolizumab monotherapy,0
+pembrolizumab 200 mg every three weeks,0
+response evaluation November 2019,504
+slight increase in primary tumor size,504
+slight increase in mediastinal lymph nodes,504
+continued two additional cycles,504
+treatment well tolerated,504
+no immune-related adverse events,504
+persistent cough,504
+antitussives,504
+inhaled bronchodilators,504
+systemic corticosteroids,504
+follow-up chest CT January 2020,1344
+follow-up PET January 2020,1344
+marked enlargement of primary lung tumor,1344
+marked enlargement of mediastinal lymph nodes,1344
+newly developed bone metastases,1344
+carcinoembryonic antigen elevated to 57.2 ng/mL,1344
+discontinued frontline treatment,1344
+switched to pemetrexed and carboplatin,1344
+next-generation sequencing performed,1344
+KRAS p.G12V mutation,1344
+TP53 p.E286K mutation,1344
+STK11 p.Y36fs* mutation,1344
+developed pneumonia,1344
+serum CRP elevated to 12.7 mg/dL,1344
+procalcitonin elevated to 1.27 ng/mL,1344
+chest CT showed bronchial obstruction at LLL,1344
+no ground-glass opacities,1344
+no airspace consolidations in right lung,1344
+broad-spectrum antibiotics,1344
+mechanical ventilation,1344
+pneumonia progressed to sepsis,1344
+patient succumbed,1344

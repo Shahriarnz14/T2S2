@@ -1,0 +1,101 @@
+event,time
+67 years old,0
+male,0
+mucosal resection for early gastric cancer,"-inf (history, exact time unknown)"
+partial resection for left lung cancer,"-inf (history, exact time unknown)"
+no heart disease,0
+conventional drug use,0
+collected knee-high wild grass from riverbed for 10 days,-504 (mid-April: 10 days prior to symptoms)
+systemic pain,-336 (late April)
+fatigue,-336 (late April)
+fever,-168 (within two weeks after late April events)
+chills,-168 (within two weeks after late April events)
+watery diarrhea,-168 (within two weeks after late April events)
+loss of appetite,-168 (within two weeks after late April events)
+mildly disturbed consciousness,-168 (within two weeks after late April events)
+visited department of internal medicine,-24 (mid-May)
+decreased WBC,-24 (mid-May)
+decreased platelet count,-24 (mid-May)
+elevated hepatic enzyme levels,-24 (mid-May)
+hospitalized,0
+height 169.0 cm,0
+weight 52.3 kg,0
+Glasgow Coma Scale 14,0
+blood pressure 130/79 mmHg,0
+heart rate 96/min,0
+respiratory rate 20/min,0
+O2 saturation 94%,0
+temperature 38.9°C,0
+no head-and-neck abnormalities,0
+no chest abnormalities,0
+crusted skin lesions left thigh,0
+freely movable adenopathy 2 cm,0
+aggregated papules right inguinal region,0
+no neurological abnormalities,0
+"WBC 1,300 /μL",0
+"platelets 30,000 /μL",0
+neutrophil count 899 /μL,0
+lymphocyte count 342 /μL,0
+prolonged APTT 48.2 s,0
+CRP 1.3 mg/dL,0
+AST 230 U/L,0
+LDH 760 U/L,0
+CK 746 U/L,0
+normal chest radiography,0
+normal electrocardiography,0
+normal head CT,0
+suspected sepsis,24 (day 1)
+suspected febrile neutropenia,24 (day 1)
+antibiotics administered,24 (day 1)
+"elevated ferritin 15,165 ng/mL",48 (day 2)
+negative blood culture,48 (day 2)
+bone marrow biopsy,48 (day 2)
+hemophagocytosis,48 (day 2)
+CD3-positive T cells,48 (day 2)
+CD4-positive T cells,48 (day 2)
+MUM-1-positive lymphoid cells,48 (day 2)
+CD68-positive histiomonocytes,48 (day 2)
+CD163-positive histiomonocytes,48 (day 2)
+no EBERs-positive cells,48 (day 2)
+diagnosed HLH,48 (day 2)
+prednisolone 60 mg/day,48 (day 2)
+chest pain,72 (day 3)
+shivering,72 (day 3)
+fever 39.2°C,72 (day 3)
+blood pressure 88/52 mmHg,72 (day 3)
+HR 89/min,72 (day 3)
+RR 24/min,72 (day 3)
+SPO2 94% (6-L mask),72 (day 3)
+CK 953 U/L,72 (day 3)
+"LDH 1,405 U/L",72 (day 3)
+TnI 271 pg/mL,72 (day 3)
+LVEF 15%,72 (day 3)
+ST elevation V1-2 leads,72 (day 3)
+contrast-enhanced CT normal,72 (day 3)
+suspected myocarditis,72 (day 3)
+managed in ICU,72 (day 3)
+suspected SFTS,72 (day 3)
+serum/urine samples submitted,72 (day 3)
+throat swabs submitted,72 (day 3)
+moved to negative-pressure room,72 (day 3)
+SFTSV RNA detected 1.77×106 copies/mL,72 (day 3)
+anti-SFTSV antibody staining positive,72 (day 3)
+steroid pulse therapy considered,72 (day 3)
+steroid pulse therapy not administered,72 (day 3)
+TnI peaked 82.6 pg/mL,72 (day 3)
+withdrawal from circulatory agonist,336 (day 14)
+withdrawal from ventilator,336 (day 14)
+ECG improvement,336 (day 14)
+SFTSV viremia negative,408 (day 17)
+released from quarantine,408 (day 17)
+CAG performed,576 (day 24)
+EMB performed,576 (day 24)
+no coronary artery stenosis,576 (day 24)
+mild myocardial hypertrophy,576 (day 24)
+mild myofibrillar loss,576 (day 24)
+CD3-positive T cells 10/mm2,576 (day 24)
+CD68-positive macrophages 18/mm2,576 (day 24)
+tenascin-C expression,576 (day 24)
+negative anti-SFTSV in myocardium,576 (day 24)
+discharged,696 (day 29)
+LVEF 52.5%,+720 (1 month post-discharge)

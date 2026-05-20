@@ -1,0 +1,77 @@
+event,time
+60 years old,0\
+male,0\
+ischemic cardiomyopathy,0\
+admitted for VT storm,0\
+anteroseptal myocardial infarction,-262800\
+thrombolytic medication,-262800\
+left ventricular ejection fraction of 17%,-1200\
+primary-prevention subcutaneous implantable cardioverter-defibrillator (S-ICD),-1200\
+VT episodes treated by ICD,-1200\
+medication adjustments,-1200\
+recurrent VT,-240\
+unchanged ejection fraction,-240\
+S-ICD explant,-240\
+cardiac resynchronization therapy (CRT-D),-240\
+cardiac MRI scan,-240\
+LV thrombus,-240\
+vitamin K antagonist,-240\
+admitted to secondary hospital with VT storm,-240\
+transferred to academic hospital,-240\
+hypotensive during VT,-240\
+external electrical cardioversions,-240\
+repeat diagnostic work-up,-240\
+high-dose intravenous amiodarone,-240\
+multiple beta-blockers,-240\
+mexiletine,-240\
+quinidine,-240\
+ineffective in preventing VT,-240\
+septic,-240\
+peripherally inserted central catheter,-240\
+Staphylococcus aureus bacteremia,-240\
+antibiotic therapy adjusted,-240\
+physical examination,0\
+echocardiography,0\
+[18F]FDG-PET/CT scan with endocarditis protocol,0\
+no signs of endocarditis,0\
+continued antibiotics for endocarditis,0\
+urgent catheter ablation considered,0\
+apical thrombus present,0\
+adequate anticoagulation therapy,0\
+multiple VT morphologies,0\
+unsuitable for catheter ablation,0\
+"high-dose antiarrhythmic drugs (200 mg metoprolol, 400 mg amiodarone, 600 mg mexiletine)",0\
+VTs recurred,0\
+sedation,0\
+intubation,0\
+adjustment of antiarrhythmic medication,0\
+extubated,0\
+percutaneous left stellate ganglion blockade,0\
+VTs recurred,0\
+hospitalized for more than a month,0\
+experimental cardiac radioablation considered,0\
+patient opted for cardiac radioablation,0\
+cardiac radioablation,0\
+77 sustained VT episodes,-37 days (converted to -888 hours)\
+25 VT episodes requiring electrical cardioversion,-888\
+VT recurred 4 hours after radioablation,4\
+no further VTs,4\
+transferred back to secondary hospital,312 (13 days)\
+14 days without VT episodes,312\
+antibiotic regimen completed,312\
+discharged home,312 + 336 = 648 (27 days)\
+no VT episodes during follow-up,648\
+COVID-19 infection,"648 + 2400 (assuming 4 months later, approximately 2920 hours from admission)\"
+cardiac rehabilitation therapy,648\
+antiarrhythmic drugs being tapered off,648\
+hs-Troponin-T levels unchanged,"3, 12, 24 hours after treatment (3,12,24)\"
+echocardiographic ejection fraction unchanged,24\
+electrocardiogram unchanged,24\
+NT-ProBNP reduced by 77%,24\
+no pericardial effusion,24 and 2160 (3 months)\
+radiation-induced nausea and vomiting,48 (2 days after treatment)\
+antiemetic medication,48\
+whole body [18F]FDG-PET/CT scan one month after radioablation,720 (30 days)\
+no signs of endocarditis,720\
+extensive 18F-FDG uptake in left ventricle,720\
+LV thrombus evaluation with follow-up CT scans,720\

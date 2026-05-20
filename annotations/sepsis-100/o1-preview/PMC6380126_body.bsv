@@ -1,0 +1,32 @@
+24-year-old female | 0
+Presented to the emergency department of our hospital | 0
+Chief complaints of a severe headache | -72
+Projectile vomiting | -72
+No history of fever | -72
+No history of convulsions | -72
+No focal neurological deficit | -72
+She was treated outside symptomatically | -48
+With no relief | -48
+Provisionally diagnosed with metabolic encephalopathy | 0
+Was put on symptomatic treatment | 0
+Blood culture taken at admission | 0
+Deteriorated further developing altered sensorium (Glasgow Coma Scale-9) | 6
+Developed altered sensorium (Glasgow Coma Scale-9) | 6
+High-grade fever | 6
+Chills | 6
+Transferred to intensive care unit | 6
+Investigations revealed dyselectrolytemia (serum potassium – 3.7 mEq/L) | 6
+Other blood investigations revealed low serum phosphate (1.57 mg/dL) | 6
+Neutrophilic leukocytosis (total leukocyte count – 24,170/μl with neutrophils – 91%) | 6
+Cerebrospinal fluid (CSF) was sent for evaluation | 8
+Patient was empirically treated with ceftriaxone | 8
+Gram stain of the centrifuged deposit of CSF revealed both polymorphs and lymphocytes with Gram-positive bacilli | 10
+Gram-positive bacilli in CSF | 10
+Culture of CSF grew Listeria monocytogenes | 48
+Blood culture taken at admission had grown Gram-positive bacilli and was ignored as diphtheroids | 48
+On reevaluation, blood culture was recognized as Listeria monocytogenes with similar sensitivity pattern | 48
+Patient was switched to meropenem as per the susceptibility pattern along with other corrective measures | 48
+Ceftriaxone discontinued | 48
+Showed clinical improvement | 96
+Showed microbiological improvement | 96
+A thorough evaluation did not reveal any preexisting illness or any prolonged medication which could have contributed to listerial meningitis | 24

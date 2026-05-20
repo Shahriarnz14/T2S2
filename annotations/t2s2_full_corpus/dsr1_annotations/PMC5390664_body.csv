@@ -1,0 +1,50 @@
+event,time
+15 year-old boy,0
+male,0
+admitted to hospital,0
+road traffic accident,-120
+motorbike accident,-120
+not wearing helmet,-120
+collision with car,-120
+possible inhalation of water or soil,-120
+Glasgow Coma Scale 6,-120
+oxygen saturation 75%,-120
+intubated,-120
+respiratory failure,-120
+right hemothorax,-120
+fractured 6th posterior rib,-120
+chest tube inserted,-120
+transferred to tertiary hospital,-120
+subarachnoid hemorrhage,-120
+intracerebral hemorrhage,-120
+burr hole surgery,-120
+ICP monitoring,-120
+ICU admission,0
+ventilator support,0
+noradrenaline 0.1-0.2 mcg/kg/min,0
+extubated after 72 hours,72
+reintubated after 8 hours,80
+non-invasive ventilation failure,80
+significant secretions,80
+fever 38-40°C,80
+bronchoscopy performed,80
+purulent secretions,80
+Burkholderia pseudomallei culture,80
+gram negative bacilli,80
+safety-pin appearance,80
+right hemithorax consolidation,80
+low ventilator settings,80
+minimal inotropes,80
+extubated after 168 hours,168
+discharged to ward after 504 hours,504
+IV Meropenem started at 168 hours,168
+IV Ceftazidime started at 336 hours,336
+oral trimethoprim/sulfamethoxazole planned,504
+no diabetes,0
+no chronic alcohol use,0
+no chronic kidney disease,0
+mild infrequent asthma,0
+negative Hepatitis B,80
+negative Hepatitis C,80
+negative HIV,80
+negative syphilis,80

@@ -1,0 +1,119 @@
+event,time
+27 years old,0
+male,0
+residing in Kathmandu,0
+presented to the clinic,-48
+fever,-48
+axillary temperature 101.8°F,-48
+blood pressure 124/80 mmHg,-48
+pulse 86 bpm,-48
+denied prior comorbidities,-48
+thyroid illness denied,-48
+diabetes mellitus denied,-48
+immunocompromised state denied,-48
+dengue NS1 test positive,-48
+IgG/IgM negative,-48
+haemoglobin 16.7 gm/dl,-48
+WBC 6×10³/mm³,-48
+platelet 131×10³/mm³,-48
+sent home with antipyretics,-24
+presented to emergency room,-24
+vomiting,-24
+severe headache,-24
+myalgia,-24
+rash,-24
+appeared unwell,-24
+axillary temperature 100.5°F,-24
+blood pressure 130/84 mmHg,-24
+pulse 92 bpm,-24
+petechiae over extremities,-24
+petechiae over torso,-24
+petechiae over abdomen,-24
+petechiae over face,-24
+platelet trending down,-24
+WBC trending down,-24
+mild hyponatremia (130 mEq/l),-24
+mild transaminitis,-24
+hospitalized,0
+treated with analgesics,0
+treated with antipyretics,0
+bed rest,0
+fluids,0
+nutritional support,0
+WBC 1900/mm³,120
+"platelet 48,000/mm³",120
+sharp chest pain,120
+pain aggravated during inspiration,120
+electrocardiogram normal,120
+troponin-I normal,120
+USG on day 11,264
+borderline splenomegaly,264
+minimal left-sided pleural effusion,264
+severe pain in lower limbs,264
+fever peak 100.4°F,264
+blood pressure 100/80 mmHg,264
+heart rate 97 bpm,264
+fever persisted,264
+pain became severe,264
+confined to bed,264
+focal tenderness left buttock,264
+focal tenderness left lumbosacral region,264
+focal tenderness bilateral medial thigh,264
+urine examination normal,264
+stool examination normal,264
+urine culture no growth,264
+stool culture no growth,264
+blood culture no growth,264
+HIV negative,264
+Brucella negative,264
+Scrub Typhus negative,264
+Typhoid negative,264
+Malaria negative,264
+Leptospirosis negative,264
+NS1 test positive,264
+IgG/IgM positive,264
+ESR 60 mm/h,264
+CRP 90 mg/l,264
+procalcitonin 0.29 ng/ml,264
+creatinine kinase normal,264
+troponin level normal,264
+echocardiography normal,264
+cannula site normal,264
+no recent trauma,264
+no intramuscular injections,264
+no recreational drug usage,264
+intramuscular hematoma suspected,264
+secondary infection suspected,264
+MRI on day 13,312
+collection in left psoas muscle,312
+muscle edema,312
+collection in left gluteal medius,312
+collection in left adductor longus,312
+collection in right pectineus,312
+diffusion restriction,312
+perilesional edema,312
+pyomyositis diagnosed,312
+clindamycin started,312
+tazobactam-piperacillin started,312
+upgraded to ICU,312
+purulent fluid aspiration,312
+Gram staining no organisms,312
+culture grew MSSA,312
+clindamycin resistant,312
+cloxacillin sensitive,312
+tazobactam-piperacillin sensitive,312
+acid-fast bacilli stain negative,312
+PCR for mycobacteria negative,312
+antibiotics switched to cloxacillin,312
+antibiotics switched to tazobactam-piperacillin,312
+dual IV antibiotics for 2 weeks,312
+oral cloxacillin for 4 weeks,312
+USG monitoring,312
+repeat USG day 18,432
+collection left adductor muscle,432
+collection left gluteus medius,432
+aspiration 30 ml pus,432
+USG decreasing fluid collection,432
+discharged after 25 days,600
+oral antibiotics continued,600
+USG no collection at 6 weeks,1008

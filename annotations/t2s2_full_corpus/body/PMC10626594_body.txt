@@ -1,0 +1,132 @@
+pmcBackground
+
+Sepsis is a life-threatening condition characterized by organ failure from a dysregulated host response to infection [1]. Current guidelines recommend fluid infusion and administration of vasopressors as first-line therapy for sepsis [2]. Septic shock is a subset of sepsis that increases sepsis mortality [1]. Some patients with septic shock do not respond to the first-line therapies, which is considered as “catecholamine-resistant shock” because of concomitant cardiac dysfunctions in sepsis. Sepsis-induced cardiomyopathy is cardiac dysfunction in sepsis and is characterized by a reversible reduced systolic/diastolic function and ventricular dilatation [3–5]. Current sepsis guidelines recommend inotropes for patients with cardiac dys-function and persistent hypoperfusion that does not respond to adequate fluid administration [2]. However, resistance to catecholamines is one of the common findings of sepsis-induced cardiomyopathy [3]. Furthermore, inotrope use is independently associated with high mortality in septic shock [6].
+
+Multiple host responses (eg, tumor necrosis factor alpha, interleukin-1 beta, complement 5a, high morbidity group box-1, and reactive oxygen species) are proposed as causes of the sepsis-induced cardiomyopathy [3–5]; however, treatments of these responses have not promised great improvement of sepsis mortality [7].
+
+Intra-aortic balloon pumping (IABP) is a mechanical therapeutic device for circulatory failure. Due to its positive effect on cardiac functions, IABP is expected to be effective in treating sepsis-induced cardiomyopathy. However, its efficacy and complications in sepsis-induced cardiomyopathy are not fully understood because there have been limited case reports or case series. We present a case of sepsis-induced cardiomyopathy successfully treated with IABP. Additionally, we reviewed published individual cases of sepsis-induced cardiomyopathy treated with IABP to assess the effect of IABP in sepsis-induced cardiomyopathy on circulatory status, cardiac functions, use of inotropic agents, and complications.
+
+Case Report
+
+A 40-year-old woman with vomiting, diarrhea, and loss of consciousness was transported to a hospital by ambulance. The patient had received a common cold treatment and garenoxacin the day before. The patient had a history of hypothyroidism but had not been on treatment. The patient had no family history of cardiovascular diseases. The patient had no previous cardiac function evaluation. On admission, the patient was febrile and in a state of shock, for which she received dopamine, noradrenaline, and antibiotics. Persistence of the symptoms led to the patient’s referral to the Critical Care Center of a university hospital the following day. On arrival, the patient’s vital signs were as follows: body temperature, 38.6°C; blood pressure, 62/46 mmHg (mean arterial pressure [MAP], 44 mmHg); heart rate (HR), 100–110 beats/min; respiratory rate, 20 breaths/min; oxygen saturation, 100% (with O2 supplementation at 5 L/min); and Glasgow Coma Scale, 15/15. The results of the physical examination of her pharynx, chest, and abdomen were unremarkable. Laboratory test results revealed an elevated white blood cell count and elevated C-reactive protein and procalcitonin levels, indicating a bacterial infection. The coagulation profile indicated sepsis-induced disseminated intravascular coagulation. The chemistry panel results, in particular, showed markedly elevated levels of creatinine kinase, creatinine kinase MB, and troponin T, indicating myocar-dial injury (Table 1). The sequential organ failure assessment score was 8. Chest radiography and computed tomography images were unremarkable. A rapid antigen kit test for group A streptococcus was negative. Two samples of blood, sputum, and urine cultures were submitted.
+
+Septic shock with unknown focus was diagnosed. Antibiotics (meropenem, vancomycin, and clindamycin) were administered, with volume adjustments based on renal function and continuous renal replacement therapy (CRRT). Intravenous immunoglobulin (20 g/day) was administered. Vasoactive agents (nor-adrenaline and arginine vasopressin) and hydrocortisone were administered. Dopamine was changed to 2 μg/kg/min of dobutamine. A pulse-induced contour cardiac output monitoring device was placed and revealed a low cardiac output at a pulse contour cardiac index of 2.02 L/min/m2. The patient was intubated, and mechanical ventilation was initiated. Five hours after admission, her circulatory status had not improved: the MAP was 40 mmHg, and the pulse contour cardiac index had decreased to 1.34 L/min/m2, despite the administration of approximately 2.3 L of fluids and catecholamines. Electrocardiography revealed widespread ST elevation (II, III, aVF, V4–V6) and ST depression (aVR, V1) (Figure 1). Echocardiography revealed a reduced left ventricular ejection fraction (LVEF) of approximately 20% and extremely severe diffuse hypokinesia.
+
+Because of several findings suggestive of myocardial injury, cardiogenic shock with concomitant septic shock was suspected. We decided to investigate coronary artery disease and introduce a circulatory assist device rather than increase dobutamine administration. Coronary angiography showed no stenosis. Swan-Ganz catheter measurements showed a low cardiac output of 3.7 to 4.1 L/min and a cardiac index of 2.2 L/min/m2, despite dobutamine administration. Therefore, we introduced IABP as an adjunct circulatory device, with an assist ratio of 1: 1 at 6 h after admission (2 h after dobutamine initiation).
+
+Following IABP introduction, the circulatory status became stable, with HR of 101 beats/min and MAP of 84 mmHg (Figure 2A). Ultrasonography revealed an improved left ventricle motion, with an LVEF of approximately 40%, excluding the diagnosis of acute myocarditis. Nine hours after admission, we initiated CRRT for renal dysfunction with sustained oliguria. The circulatory status improved, and we reduced the doses of noradrenaline and dobutamine 25 h after admission. After discontinuation of dobutamine 36 h after admission and reduction of the IABP assist ratio to 1: 2 at 40 h after admission, the circulation status remained stable. Therefore, IABP assistance and vasoactive agents were discontinued 72 h after admission. There were no IABP-related complications, such as bleeding or infection.
+
+Fever was resolved on day 6. After her recovery, CRRT was discontinued on day 7, and mechanical ventilation was terminated on day 11 (Figure 2B). Echocardiography on day 7 showed an LVEF of 54% and improvement in wall motion. No findings could indicate the cause of infection. Inflammatory markers improved significantly on day 7 and became normal on day 14. Since all culture tests at the previous hospital and our hospital were negative, we discontinued all antibiotics on day 14 due to possible uncomplicated bacteremia. On day 22, the patient returned to the previous hospital for rehabilitation. Posttreatment investigation for pathogens showed highly elevated levels of anti-streptolysin O, and anti-streptokinase detected on day 17 suggested the possibility of a streptococcal infection. Serology examinations revealed no results suggestive of viral infection. Her thyroid function on day 57 was normal. All sepsis-related investigation results are shown in Table 2.
+
+Discussion
+
+We report a case of sepsis-induced cardiomyopathy in which IABP support improved the circulatory status, resulting in early discontinuation of inotropes and subsequent survival. Diagnosing the etiology in our case is challenging because none of the screening tests suggested the pathogens. Negative culture results would be influenced by antibiotics received by the patient before her symptoms escalated. Even after her recovery, she showed no symptoms related to the source of the infection. A single-center retrospective observational study showed that Streptococcus spp. is responsible for approximately 40% of bacteremia of unknown origin and admission to the intensive care unit or death [8]. In our case, the highly elevated procalcitonin levels and streptococcus-related antigens in serology suggested a possible diagnosis of streptococcal infection of unknown origin.
+
+Acute viral myocarditis is one of the differential diagnoses in this case. Differentiating sepsis-induced cardiomyopathy from acute myocarditis is difficult because there is little histopathologic understanding, although they share findings of myocardial inflammation [9]. The electrocardiogram with diffuse ST-segment elevation indicated only that transmural myocardial inflammation occurred globally but did not differentiate the etiologies of the inflammation. Magnetic resonance imaging (MRI) can help differentiate them, although we did not perform it in this patient. One study showed that T1-weighted images with late gadolinium enhancement in patients with bacterial septic shock did not show subepicardial enhancement [10], which suggests myocarditis. Further studies are expected to standardize MRI for the differential diagnosis of cardiac dys-function in sepsis. Transesophageal echocardiography would be an optional examination in this case to classify the pheno-types of septic shock [11].
+
+We searched PubMed and ScienceDirect for individual adult cases of sepsis-induced cardiomyopathy treated with IABP. Studies in languages other than English, extracorporeal membrane oxygenation (ECMO) cases, cases with suspected primary cardiac disease, and case series were excluded. We assessed the effects of IABP on circulatory status, use of inotropic agents, cardiac function, and complications. Eleven individual cases, including ours, were eligible for review finally [12–19] (Table 3). The average patient age was 53 years, and 8 patients were female. The sites of infection and infected micro-organisms were diverse. The median duration of IABP support was 3 days (n=10). One patient died from primary infection.
+
+After IABP introduction, the median MAP (n=6) increased from 44 to 70 mmHg, and the median HR (n=9) slightly decreased from 130 to 120 beats/min. Dobutamine was administered (n=5) at a median (minimum-maximum) dose of 6 (2–10) µg/ kg/min before IABP introduction. The dose was reduced in 4 of 5 patients after IABP introduction. Before IABP introduction, the LVEF was markedly reduced, with a median of 20% (n=9). The median cardiac index, including the pulse contour cardiac index, was 1.96 L/min/m2 (n=6), indicating a low cardiac output. After IABP introduction, the LVEF increased in all the patients (n=4), and the cardiac index increased in 3 of 4 patients. These changes indicate that IABP improved left ventricular contractility. These positive effects of IABP on cardiac function are consistent with the findings in animal experiments [20,21]. Moreover, these findings are consistent with a clinical case series of 10 sepsis-induced cardiomyopathies treated with IABP from a single center; the MAP and stroke volume increased, resulting in a lower catecholamine administration index [22]. The use of ino-tropic agents in patients with sepsis is associated with a high mortality rate [6] due to the downregulation of beta-adrenergic receptors on cardiomyocytes by adrenergic stimulation [23]. The dose of dobutamine before IABP introduction was low in our patient compared with that in the other patients, which was average. The duration of catecholamine is associated with the histopathological findings of sepsis-induced cardiomyopathy [9]. Therefore, early IABP introduction can be more effective in treating the circulatory status than increasing the dobutamine by avoiding exacerbation of the pathophysiology of sepsis-induced cardiomyopathy. Therefore, the IABP positive effects on cardiac function may be beneficial for the survival of patients with sepsis-induced cardiomyopathy.
+
+Hematomas at the insertion site and thrombocytopenia have been reported as IABP complications in 1 patient each. No patient had serious complications. A retrospective analysis of 16 909 cases reported a low death rate of 0.05% from serious IABP complications, indicating low risk of serious IABP complications [24].
+
+The main limitation of our review was selection bias from unreported cases of sepsis-induced cardiomyopathy in which IABP was not used. Additionally, patients with extremely severe circulatory failure would require ECMO support [25] because IABP depends on the remaining cardiac function [26,27]. IABP can be a treatment choice; however, the circulatory status should be monitored closely after initiation to avoid delays in ECMO induction.
+
+Conclusions
+
+Sepsis-induced cardiomyopathy with a low cardiac output may not respond to inotropic agents, even with a moderate dose. IABP can be effective in treating sepsis-induced cardiomyopathy owing to its positive effect on cardiac function and circulatory status, resulting in a reduction in the use of inotropic agents. Therefore, IABP would be a treatment option for sepsis-induced cardiomyopathy.
+
+We would like to express our appreciation to all the staff for their support in the treatment of this patient.
+
+Figure 1. Electrocardiography findings on arrival. Electrocardiography reveals ST elevation in II, III, aVF, and V4–6 (black arrowheads) and ST depression in aVR and V1 (white arrowheads) without any reciprocal changes, which are not specific ST changes for ischemic heart diseases.
+
+Figure. 2 Clinical course of this case until 24 h (A) and until 12 days (B). (A) The patient showed severe hypotension and hyperlactatemia on arrival. Despite the infusion of catecholamines and arginine vasopressin (AVP), the pulse contour cardiac index remained low. The intra-aortic balloon pumping (IABP) was introduced 7 h after admission. After IABP introduction, the mean arterial pressure increased and the lactate levels decreased. Dobutamine and noradrenaline were titrated at 24 h after admission. (B) Continuous renal replacement therapy (CRRT) and mechanical ventilation were introduced on day 1. After IABP introduction, catecholamines and AVP were titrated and discontinued by day 5. The urine volume increased from day 5 and CRRT was discontinued on day 7. Mechanical ventilation was discontinued on day 11. AVP – arginine vasopressin; CRRT – continuous renal replacement therapy; DOB – dobutamine; IABP – intra-aortic balloon pumping; Lac – lactate; MAP – mean arterial pressure; NAD – noradrenaline; PCCI – pulse contour cardiac index.
+
+Table 1. Laboratory findings on admission.
+
+Variables	Result	Reference range	
+White blood cell count (×103/μL)	13.6	3.3–8.6	
+Hemoglobin (g/dL)	10.4	11.6–14.8	
+Platelet count (×104/μL)	134	158–348	
+Urea nitrogen (mg/dL)	30.4	8.0–20.0	
+Creatinine (mg/dL)	1.87	0.46–0.79	
+Aspartate aminotransferase (IU/L)	65	13–30	
+Alanine aminotransferase (IU/L)	13	7–23	
+Lactate dehydrogenase (IU/L)	233	124–222	
+Creatine kinase (U/L)	752	41–153	
+Creatine kinase MB (U/L)	58	<12	
+Cardiac troponin T (ng/mL)	<0.01	3.39	
+C-reactive protein (mg/dL)	18.44	0.00–0.14	
+Procalcitonin (ng/mL)	55.56	<0.05	
+Prothrombin time (%)	26.6	80.0–100.0	
+Prothrombin time international normalized ratio (INR)	2.45		
+Activated partial thromboplastin time (sec.)	39.4	25.0–35.0	
+Fibrinogen (mg/dL)	492	200.0–400.0	
+D-Dimer (μg/mL)	7.45	0.00–1.00	
+Fibrin degradation product (μg/mL)	15.1	0.0–5.0	
+Thyroid stimulating hormone (µIU/mL)	0.76	0.35–4.94	
+Free thyroxine 4 (ng/dL)	0.65	0.7–1.48	
+Free thyroxine 3 (pg/mL)	<1.50	1.88–3.18	
+(Blood gas analysis [venous])			
+pH	7.400	7.350–7.450	
+pCO2	37.0	35.0–45.0	
+HCO3	22.2	20.0–26.0	
+Base excess	−1.7	−3.0–3.0	
+Lactate	4.2	0.50–2.00	
+
+Table 2. Investigations for infectious pathogens.
+
+Variables	Day	Result	Reference range	
+Blood culture	Day 1	Negative	Negative	
+Day 8	Negative	Negative	
+1,3-βD-glucan (pg/mL)	Day 1	< 6.0	<11.0	
+Anti-streptolysin O antibody (IU/mL)	Day 17	3988	<156	
+Anti-streptokinase antibody	Day 17	1: 10240	<1: 2560	
+Anti-echo virus 3 antibody	Day 3	1: 16	<1: 4	
+Day 31	1: 64	<1: 4	
+Anti-echo virus 9 antibody	Day 3	1: 16	<1: 4	
+Day 31	1: 16	<1: 4	
+Anti-coxsakie virus A9 antibody	Day3	1: 8	<1: 4	
+Day 31	1: 64	<1: 4	
+Anti-adenovirus antibody	Day 3	1: 16	<1: 4	
+Day 31	1: 4	<1: 4	
+Antinuclear antibody	Day 2	<1: 40	<1: 40	
+
+Table 3. Summary of published cases of sepsis-induced cardiomyopathy treated with intra-aortic balloon pumping.
+
+Authors, year	Age, (years)	Sex	Site of Infection (microorganism)	EF, (%)	CI, (L/min/m2)	
+Pre	Post	Pre	Post	
+Dhainaut, 1982 [16]	42	Female	Enteritis (Yersinia enterocolitica)			1.9	4.2	
+Chiu, 2007 [17]	43	Female	Meningitis (Neisseria meningitidis)	26				
+Arora, 2008 [18]	64	Male	NSTI (Ochrobactrum anthropi)	20				
+Lee, 2010 [19]	41	Female	Unknown					
+Nakamura, 2013 [20]	74	Female	Peritonitis (Unknown)	35.3		1.45		
+Nakamura, 2013 [20]	19	Female	Enteritis (s/o viral infection)	32.1		2.96		
+Hiromi, 2017 [21]	78	Female	Renal calculus pyelonephritis (Unknown)	25		1.7	1.7	
+Hiromi, 2017 [21]	62	Male	Pneumonia (Unknown)	20	35	2.2	3.4	
+Dalakoti, 2018 [22]	78	Female	Unknown (Escherichia coli)	20	60			
+Saxena, 2019 [23]	19	Male	Peritonitis (Unknown)	15–20	40–45			
+[Present case]	40	Female	Unknown (s/o Streptococcus spp.)	20	40	2.02	2.73	
+
+Authors, year	SBP [MAP], (mmHg)	HR, (beats/min)	Inotropes*, (µg/kg/min)	Duration of IABP (days)	Complication*	Outcome	
+Pre	Post	Pre	Post	Pre	Post				
+Dhainaut, 1982 [16]	[48]	[70]	135	125	10	8	3	N.D.	Survive	
+Chiu, 2007 [17]	77 [55]		121				2	N.D.	Survive	
+Arora, 2008 [18]	100 [73]							Hematoma	Dead	
+Lee, 2010 [19]	70		120				2	N.D.	Survive	
+Nakamura, 2013 [20]	[40]	[70]	125	130	10	3	2	None	Survive	
+Nakamura, 2013 [20]	[35]	[40]	158	160			4	N.D.	Survive	
+Hiromi, 2017 [21]	100	120	130	100	9	7.2	2	N.D.	Survive	
+Hiromi, 2017 [21]	100	150	160	90	6	6	5	N.D.	Survive	
+Dalakoti, 2018 [22]	42	120					5	N.D.	Survive	
+Saxena, 2019 [23]	160	120					3	Thrombo-cytopenia	Survive	
+[Present case]	62 [40]	133 [101]	100	102	2	0	3	None	Survive	
+Pre and Post represent pre-IABP and post-IABP values.
+
+* Complications include only IABP-related complication. CI – cardiac index; EF – ejection fraction; IABP – intra-aortic balloon pumping; MAP – mean arterial pressure; N.D. – not described; NSTI – necrotizing soft tissue infection; SBP – systolic blood pressure.
+
+Publisher’s note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher
+
+Declaration of Figures’ Authenticity
+
+All figures submitted have been created by the authors who confirm that the images are original with no duplication and have not been previously published in whole or in part.

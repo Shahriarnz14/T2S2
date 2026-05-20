@@ -1,0 +1,143 @@
+event,time
+77 years old,0
+male,0
+hypertension,0
+hyperlipidemia,0
+uncontrolled diabetes mellitus type two,0
+recurrent diabetic foot ulcers,0
+osteomyelitis,0
+peripheral vascular disease,0
+coronary artery disease,0
+five-vessel coronary artery bypass grafting,-148920
+pacemaker/defibrillator implantation,-148920
+systolic heart failure,0
+ischemic cardiomyopathy,0
+syncope,0
+dizziness,0
+dyspnea,0
+fevers (101°F to 102°F),-24
+primary care evaluation,-168
+persistently elevated blood glucose readings,-168
+lethargy,-168
+rigors,-168
+chills,-168
+malaise,-168
+found down at bedside,0
+unwitnessed time (2.5 hours),0
+elevated troponin levels (2.8 ng/mL),0
+"NT-proBNP (24,000 pg/mL)",0
+"leukocyte count (16,000/uL)",0
+wide complex tachycardia (146 bpm),0
+tachypnea (22 bpm),0
+hypertension (157/136 mmHg),0
+mean arterial pressure (143 mmHg),0
+cardioversion,0
+right bundle branch block,0
+left anterior fascicular block,0
+QTc (445 msec),0
+Levophed initiation,0
+vancomycin initiation,0
+piperacillin/tazobactam initiation,0
+blood cultures obtained,0
+agonal breathing,0
+intubation,0
+transfer to ICU,0
+hypotension,0
+dopamine initiation,0
+emergency cardiac catheterization,0
+severe native vessel disease,0
+vein graft to right coronary artery (85% stenosis),0
+PCI,0
+stent deployment,0
+pseudoaneurysm,0
+intra-aortic balloon pump (IABP) insertion,0
+persistent sustained ventricular tachycardia,0
+lidocaine infusion,0
+amiodarone infusion,0
+defibrillator reprogramming (lower threshold 130 bpm),0
+blood cultures positive for MSSA,48
+elevated liver function tests,48
+elevated creatinine,48
+IABP removal,48
+lactic acidosis,48
+resolving lactic acidosis,48
+persistent fevers,48
+worsening leukocytosis,48
+transition to IV linezolid,48
+extubation,72
+hypoxia,72
+BiPAP initiation,72
+volume overload,72
+diuresis,72
+IV amiodarone transition to oral,72
+episodes of ventricular tachycardia,72
+additional amiodarone bolus,72
+reinstatement of maintenance amiodarone,72
+Infectious Disease Service consultation,72
+transition to cefazolin,72
+transition to rifampin,72
+leukocytosis resolved,72
+defervescence,72
+runs of ventricular tachycardia,72
+appropriate defibrillations (2 times),72
+transition to nasal cannula,72
+Precedex initiation,72
+disrupted sleep-wake cycle,72
+disorientation,72
+repeat blood cultures (no growth),72
+pacemaker interrogation,72
+ventricular tachycardia zone (140–150 seconds),72
+appropriate anti-tachycardia pacing (18 times),72
+AICD discharges (4 times),72
+mexiletine triggered V-tach,72
+pacemaker at elective replacement status,72
+end-of-life (EOL) of device imminent,72
+symptoms concordant with VT episodes,72
+TEE recommended,72
+transcutaneous pacer pads placement,72
+palliative care consideration,72
+Diuril initiation,72
+Precedex discontinuation,96
+lidocaine transition to amiodarone,96
+seven runs of VT,96
+mexiletine initiation,96
+continued amiodarone,96
+TTE performed,96
+dilated left ventricle,96
+segmental wall motion abnormalities,96
+LVEF (35%),96
+moderate concentric left ventricular hypertrophy,96
+left atrial enlargement,96
+pacemaker leads in right heart,96
+mitral annular calcification,96
+mild mitral regurgitation,96
+TEE performed,96
+fibrinous lead vegetations,96
+right atrial abscess (4.0×4.4×3.9 cm),96
+lucent core encasing lead,96
+moderate LV dysfunction,96
+moderate mitral regurgitation,96
+moderate tricuspid regurgitation,96
+tertiary care transfer proposed,96
+gentamicin initiation,96
+transfer declined,120
+no VT episodes,120
+VT storm resolution,120
+lidocaine discontinuation,120
+amiodarone discontinuation,120
+oral mexiletine continued,120
+oral amiodarone continued,120
+defibrillator detection inhibited,120
+pacemaker function intact,120
+IV antibiotics (15 days),120
+oral rifampin (300 mg daily),120
+oral Keflex (750 mg twice daily),120
+discharge to home hospice,120
+no further VT episodes,120
+afebrile,120
+no leukocytosis,120
+negative blood cultures (two),120
+clinically stable,120
+prognosis dismal,120
+conservative management,120
+hospice care,120

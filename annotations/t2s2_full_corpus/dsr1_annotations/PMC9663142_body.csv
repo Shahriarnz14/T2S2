@@ -1,0 +1,134 @@
+event,time
+14 years old,0
+male,0
+presented to pediatric OPD,0
+fever,-96
+abdominal pain,-72
+cough,-24
+fever onset acute,-96
+maximum temperature 103F,-96
+chills,-96
+sweating,-96
+no rigors,-96
+periumbilical pain,-72
+pain severe,-72
+pain aggravated with movement,-72
+pain relieved on rest,-72
+dry cough,-24
+fast breathing,-24
+no noisy breathing,-24
+no chest indrawing,-24
+no bluish discoloration,-24
+no recent travel,0
+no known sick contacts,0
+no chronic medications,0
+no drug allergies,0
+no dust allergies,0
+no food allergies,0
+ill appearance,0
+thinly built,0
+weight <3rd centile,0
+febrile,0
+tachypnea,0
+respiratory rate 42 breaths/min,0
+hypotension,0
+blood pressure 90/48 mmHg,0
+oxygen saturation maintained with 2L O2,0
+right inguinal lymphadenopathy 1.5 cm,0
+lymph nodes non-tender,0
+soft abdomen,0
+distended abdomen,0
+liver palpable 3 cm below subcostal margin,0
+liver span 12 cm,0
+fluid thrill present,0
+no splenomegaly,0
+decreased air entry right mammary area,0
+neutrophilia,0
+lymphopenia,0
+thrombocytopenia,0
+elevated ALT 104 IU/L,0
+elevated AST 153 IU/L,0
+elevated ALP 173 U/L,0
+TSB 2 mg/dL,0
+DSB 0.5 mg/dL,0
+elevated GGT 90 IU/L,0
+total protein 5.4 g/dL,0
+serum albumin 2.5 g/dL,0
+normal renal function tests,0
+arterial blood gas pH 7.43,0
+arterial blood gas Pco2 27,0
+arterial blood gas Po2 135,0
+arterial blood gas HCO3 20,0
+urine pus cells,0
+urine culture no growth,0
+scrub typhus negative,0
+chest X-ray diffuse coalescent opacities,0
+chest X-ray volume loss left side,0
+ultrasound abdomen gross ascites,0
+ultrasound abdomen minimal pleural effusion,0
+echocardiography minimal pericardial effusion,0
+echocardiography mild tricuspid regurgitation,0
+echocardiography mild mitral regurgitation,0
+ascitic fluid WBC 300/mm³,0
+ascitic fluid lymphocytosis 98%,0
+ascitic fluid glucose 92 mg/dL,0
+ascitic fluid protein 4 g/dL,0
+ascitic fluid ADA 54 U/L,0
+ascitic fluid LDH 1080 IU/L,0
+ascitic fluid gram stain no organisms,0
+ascitic fluid culture no growth,0
+peripheral blood smear normal,0
+troponin negative,0
+CK-MB 18 IU/L,0
+admitted to pediatric ICU,0
+intravenous ceftriaxone,0
+intravenous metronidazole,0
+intravenous fluids,0
+vasopressors dobutamine,0
+vasopressors dopamine,0
+vasopressor rate 12 mcg/kg/min,0
+intravenous albumin,0
+CT lung subpleural reticular opacities,0
+CT lung ground glass opacity,0
+CT abdomen mild hepatomegaly,0
+COVID-19 antibody positive,0
+IVIg started,0
+methylprednisolone high dose started,0
+MIS-C suspected,0
+diuretics added,24
+low molecular weight heparin added,24
+BIPAP respiratory support,24
+antibiotics upgraded to clindamycin,96
+antibiotics upgraded to piperacillin-tazobactam,96
+troponin positive,120
+CK-MB 26 IU/L,120
+condition improved,120
+inotropes tapered,120
+oxygen weaned off,120
+afebrile,192
+oxygen saturation maintained on 3L O2,192
+LMWH stopped,192
+intravenous diuretics stopped,192
+oral rivaroxaban started,192
+oral diuretics started,192
+feeding initiated,192
+shifted to pediatric ward,312
+oxygen saturation room air,312
+repeat echocardiography dilated IVC 1.5 cm,312
+repeat echocardiography dilated left ventricle,312
+repeat echocardiography no diastolic dysfunction,312
+repeat echocardiography minimal pericardial effusion,312
+repeat echocardiography coronary artery 3 mm,312
+repeat echocardiography EF 65%,312
+platelet count improved,312
+discharged,336
+afebrile at discharge,336
+feeding well,336
+clinically stable,336
+oral antibiotics at discharge,336
+oral steroids at discharge,336
+oral anticoagulants at discharge,336
+oral diuretics at discharge,336
+oral multivitamins at discharge,336
+follow-up after 2 weeks,672
+chest X-ray normal at 8 weeks,1344

@@ -1,0 +1,78 @@
+event,time
+42-year-old,0
+female,0
+previously healthy,0
+history of intravenous drug use,-8760
+no IV drugs in the past 12 months,-8760
+extraction of all maxillary teeth,-3600
+mandibular dental infection,-2160
+oral amoxicillin,-2160
+low grade fevers,-120
+sudden deterioration in mental status,0
+sudden onset altered mental status,0
+brought in due to sudden onset altered mental status,0
+temperature 36.7 °C,0
+heart rate 98 beats/min,0
+respiratory rate 17 breaths/min,0
+blood pressure 131/66 mm Hg,0
+oxygen saturation of 99% on room air,0
+denied fevers,0
+denied chills,0
+denied chest pain,0
+denied dyspnea,0
+denied nausea,0
+denied vomiting,0
+denied diarrhea,0
+denied skin lesions,0
+denied numbness,0
+denied tingling,0
+denied weakness of the lower extremities,0
+prominent holosystolic murmur at the apex,0
+petechial rash on the abdomen,0
+petechial rash on the palms,0
+petechial rash on the soles of the feet,0
+encephalopathy,0
+facial droop,0
+slurred speech,0
+admitted to the hospital,0
+admitted to the intensive care unit,0
+empiric vancomycin,0
+empiric meropenem,0
+leukocytosis of 24.7 × 10^9/L,0
+neutrophils 87.6%,0
+platelet count of 17 × 10^9/L,0
+liver function within normal,0
+kidney functions within normal,0
+patient declined a HIV test,0
+innumerable acute to subacute embolic infarcts in both cerebral and cerebellar hemispheres,0
+largest involving the right lentiform nucleus and corona radiata,0
+proximal right internal carotid artery T-shaped acute thrombus,0
+occlusion of the right middle cerebral artery,0
+subarachnoid hemorrhage in the right parietal region and around the posterior aspect of the midbrain,0
+tricuspid valve vegetation,0
+aortic valve vegetation,0
+mitral valve vegetation,0
+transesophageal echocardiogram not conducted,0
+blood culture grew S. marcescens in two bottles,0
+infective endocarditis,0
+Serratia marcescens infective endocarditis,0
+tri-valvular endocarditis,0
+new valvular regurgitation,0
+septic embolization to the brain,0
+became unresponsive to voice,24
+minimally responsive to pain,24
+left hemi-neglect,24
+right gaze deviation,24
+Glasgow Coma Scale 6,24
+intubated for airway protection,24
+"S. marcescens isolate was pansensitive susceptible to ceftriaxone, cefepime, ceftazidime, meropenem, gentamicin, tobramycin, amikacin, ciprofloxacin, and levofloxacin",72
+antibiotic was changed to cefepime,72
+cardiothoracic surgery consulted,72
+poor candidate for surgery due to deterioration in neurological status,72
+surgery not performed,72
+neurological status continued to deteriorate,96
+no cough reflex,144
+no gag reflex,144
+pupils fixed and mid-dilated,144
+family decided to withdraw care,144
+discharged to hospice care,144

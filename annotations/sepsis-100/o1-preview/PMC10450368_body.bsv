@@ -1,0 +1,104 @@
+Recurrent fever with the highest body temperature being 39.2 ℃ | -240
+Fever decreased to normal after oral acetaminophen | -240
+Oral acetaminophen | -240
+Cough | -240
+Yellow viscous sputum | -240
+Chest distress | -240
+Shortness of breath | -240
+Without chills | -240
+Symptoms worsened with dyspnoea | -120
+35-year-old pregnant woman | 0
+34 + 4 wk past her menstrual period | 0
+Presented with fever | 0
+Presented with cough | 0
+Aggravated dyspnoea | 0
+Admitted to our hospital | 0
+Body temperature of 36.4 ℃ | 0
+Blood pressure of 117/87 mmHg | 0
+Heart rate of 130 beats/min | 0
+Respiratory rate of 20 times/min | 0
+Cyanosis of the lip | 0
+Thick breathing sounds in both lungs | 0
+Dry and wet rales in the right lower lung | 0
+Heart rate was regular | 0
+No noises heard in the auscultation area of each valve | 0
+Uterine height was 34 cm | 0
+Abdominal circumference was 89 cm | 0
+Contractions were sporadic and weak | 0
+Head presentation | 0
+Foetal heart sounds were 142 beats/min | 0
+Intrapelvic and extrapelvic measurements were normal | 0
+Remaining physical examinations showed no significant abnormalities | 0
+No significant medical history | 0
+No significant personal history | 0
+No significant family history | 0
+pH 7.472 | 0
+Partial pressure of carbon dioxide 34.0 mmHg | 0
+Partial pressure of oxygen 56 mmHg | 0
+Sulfur dioxide 88.6% | 0
+C-reactive protein 186.33 mg/L | 0
+Erythrocyte sedimentation rate 69.00 mm/h | 0
+Procalcitonin 2.24 ng/mL | 0
+White blood cell 18.29 × 10^9/L | 0
+Neutrophil % 90.10% | 0
+Lymphocyte 0.97 × 10^9/L | 0
+Alkaline phosphatase 232 U/L | 0
+Total bilirubin 23.1 μmol/L | 0
+Albumin 33.9 g/L | 0
+K+ 2.93 mmol/L | 0
+Sodium 129 mmol/L | 0
+Chloride 89 mmol/L | 0
+Cardiac markers were normal | 0
+D-dimer 3.50 mg/L | 0
+Chest computed tomography showed multiple plaques in both lungs | 0
+Chest computed tomography showed miliary foci in both lungs | 0
+Chest computed tomography showed nodular foci with partial consolidation in both lungs | 0
+Chest computed tomography showed cavities in the upper and lower lobes of both lungs | 0
+Obstetric ultrasound showed a single viable foetus | 0
+Obstetric ultrasound showed head presentation | 0
+Obstetric ultrasound showed oligohydramnios | 0
+Cardiac ultrasound and lower extremity vascular ultrasound showed no significant abnormalities | 0
+Administered cefoperazone sodium and sulbactam sodium for anti-infective therapy | 0
+Administered 10 mg dexamethasone to promote foetal lung maturation | 0
+Under oxygen-uptaking conditions, oxyhemoglobin saturation continued to progressively decline | 0
+Foetal heart sounds were 146 beats/min | 0
+Planned to perform a caesarean section of the lower uterus | 0
+Changed to high-flow nasal cannula oxygen therapy with fraction of inspired oxygen at 100% and a flow rate of 50 L/min | 0
+Patient's cyanosis improved significantly | 0
+Oxyhemoglobin saturation increased to 95%-98% | 0
+Oxyhemoglobin saturation was measured on the 2nd day | 24
+Caesarean section performed | 24
+Delivery of premature live baby | 24
+Foetus transferred to the neonatal intensive care unit | 24
+Puerperant woman transferred to the respiratory intensive care unit | 24
+Given assisted ventilation by endotracheal intubation with a ventilator | 24
+Empirical antibiotic therapy by intravenous drip of meropenem and vancomycin | 24
+Symptomatic treatment of fluid and albumin infusion | 24
+Irrigation solution collected and tested for metagenomic next-generation sequencing by bedside tracheoscopy | 24
+Metagenomic next-generation sequencing showed Staphylococcus aureus combined with novel coronavirus infection | 24
+No acid-fast bacilli in sputum tuberculosis smear | 24
+Tubercle bacillus-polymerase chain reaction was negative | 24
+Nontuberculosis mycobacterium-polymerase chain reaction was negative | 24
+Galactomannan experiments were normal | 24
+Evidence for tuberculosis infection was insufficient | 24
+Continued intravenous drip of 1 g every 12 h vancomycin | 24
+Continued intravenous drip of 1 g every 8 h meropenem | 24
+Anticoagulant therapy | 24
+Treatments to relieve the cough | 24
+Treatments to reduce the amount of sputum | 24
+Transitioned from assisted ventilation by the invasive ventilator to nasal tube oxygen with a flow rate of 3-4 L/min | 48
+Chest computed tomography showed multiple areas of inflammation in both lungs | 96
+Chest computed tomography showed mildly enlarged mediastinal lymph nodes | 96
+Chest computed tomography showed a small amount of bilateral pleural effusion | 96
+C-reactive protein 38.54 mg/L | 96
+White blood cell count 8.25 × 10^9/L | 96
+Procalcitonin 0.129 ng/mL | 96
+Potassium was 4.04 mmol/L | 96
+D-dimer was 2.44 mg/L | 96
+Tuberculosis-polymerase chain reaction was negative | 96
+Chest computed tomography showed inflammatory lesions had been absorbed | 216
+Antibiotics were adjusted to sitafloxacin 50 mg twice daily | 216
+Patient's condition was stable | 264
+Discharged from the hospital without special treatment | 264
+Chest computed tomography showed multiple lung inflammation was absorbed slightly compared with previous findings | 432
+Chest computed tomography showed multiple lung inflammation was apparently absorbed compared with previous findings | 720

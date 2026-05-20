@@ -1,0 +1,44 @@
+event,time
+62-year-old man,0
+COPD Gold II,0
+Hashimoto's disease,0
+shortness of breath,-240
+coughing,-240
+fever,-240
+myalgia,-240
+tested positive for SARS-CoV-2,-168
+admitted to intensive care,0
+hypoxia,0
+treatment with remdesivir,0
+treatment with dexamethasone,0
+high-dose prophylactic low molecular weight heparin twice a day (LMWH),0
+LMWH dose adjusted to therapeutic range,0
+anti-Xa levels 0.6–1.0 IU/ml,0
+CTPA no pulmonary embolisms,0
+high-flow nasal cannula support,0
+paroxysmal hypoxia,192
+chest pain,192
+macrocirculation stable,192
+mono-organ failure,192
+SOFA score of 2,192
+electrocardiogram no abnormalities,192
+cardiac markers no abnormalities,192
+echocardiography no abnormalities,192
+D-dimer increased from 1.73 mg/L to 8.44 mg/L,192
+new CTPA performed,192
+large vessel thrombosis of pulmonary arteries,192
+large vessel thrombosis of thoracic aorta,192
+renal infarction,192
+spleen infarction,192
+sublingual microcirculation measurements,192
+hyperdynamic circulation,192
+increased total vessel density of capillaries,192
+no thrombosis in microcirculation,192
+isolated respiratory failure,192
+treatment with continuous high molecular weight heparin infusion,192
+APTT therapeutic target every 6 hours,192
+respiratory status deteriorated,264
+mechanical ventilation needed,264
+Staphylococcus Aureus pneumosepsis,336
+progressive multi-organ failure,336
+patient died,408

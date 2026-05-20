@@ -1,0 +1,132 @@
+event,time
+39 years old,0
+female,0
+chronic kidney disease,-78840
+maintenance hemodialysis,-78840
+severe pulmonary artery hypertension,-78840
+chronic pulmonary thromboembolism,-78840
+progressive breathlessness,-168
+abdominal distension,-168
+Grade III dyspnea,-168
+orthopnea,-168
+no fever,-168
+no cough,-168
+blood pressure 92/46 mmHg,0
+pulse rate 96/min,0
+respiratory rate 36/min,0
+recurrent hypotension,-72
+non-tolerance to hemodialysis,0
+planned peritoneal dialysis,0
+severe hypotension,24
+altered sensorium,24
+shifted to intensive care unit,24
+drowsy,24
+sluggishly responding to verbal commands,24
+distended neck veins,24
+respiratory distress,24
+active accessory muscles of respiration,24
+loud P2,24
+pan systolic murmur,24
+soft abdomen,24
+mildly distended abdomen,24
+free fluid,24
+palpable liver,24
+blood pressure 70/40 mmHg,24
+pulse rate 102/min,24
+respiratory rate 30/min,24
+SpO2 99% on high flow O2,24
+hemoglobin 12.3 g/dl,24
+total leucocyte count 8600/μL,24
+serum sodium 138 mEq/L,24
+serum potassium 6 mEq/L,24
+blood urea nitrogen 63 mg/dl,24
+creatinine 6.0 mg/dl,24
+arterial blood gas hypoxia,24
+arterial blood gas hypercarbia,24
+mixed acidosis,24
+pH 7.189,24
+PaCO2 60.3 mmHg,24
+pO2 52.7 mmHg,24
+HCO3 22.5 mmol/L,24
+BE -6.54 mmol/L,24
+serum lactate 1.92 mmol/L,24
+high D-dimer,24
+high fibrin degradation product,24
+echocardiogram dilated right ventricle,24
+dilated right atrial,24
+dilated inferior vena cava,24
+moderate tricuspid regurgitation,24
+severe pulmonary arterial hypertension,24
+PASP 93 mmHg,24
+paradoxical septal motion,24
+decreased right ventricular function,24
+reduced left ventricular compliance,24
+work-up for sepsis,24
+work-up for acute myocardial ischemia,24
+sepsis ruled out,24
+acute myocardial ischemia ruled out,24
+critically ill state,24
+no radiological investigation for acute pulmonary embolus,24
+managed with high dose inotropes,24
+managed with vasopressors,24
+nor-adrenaline infusion 1 mcg/kg/min,24
+dopamine infusion 20 mcg/kg/min,24
+empiric broad spectrum antibiotics,24
+low molecular weight heparin,24
+sustained low efficiency dialysis,24
+increased vasopressor requirement,48
+vasopressin infusion 0.04 units/min,48
+poor sensorium,48
+hemodynamic instability,48
+acidosis,48
+elective intubation,48
+mechanical ventilation,48
+pre-intubation ABG pH 7.18,48
+pre-intubation PaCO2 60 mmHg,48
+pre-intubation PO2 66.6 mmHg,48
+pre-intubation HCO3 21.9 mmol/L,48
+pre-intubation BE -7.1 mmol/L,48
+post-intubation ABG pH 7.29,48
+post-intubation PaCO2 36.7 mmHg,48
+post-intubation PO2 80.4 mmHg,48
+post-intubation HCO3 17.3 mmol/L,48
+post-intubation BE -8.3 mmol/L,48
+echocardiography PASP 95 mmHg,72
+refractory pulmonary hypertension,72
+inhaled nitric oxide started,72
+nitric oxide blender NOxBOX,72
+iNO 5 ppm,72
+iNO increased to 10 ppm,72
+hemodynamic parameters improving,72
+vasopressors tapered down,108
+PD restarted,120
+cumulative negative balance 2 L,120
+ABG pH 7.45,120
+ABG PaCO2 28.4 mmHg,120
+ABG PO2 136.2 mmHg,120
+ABG HCO3 20 mmol/L,120
+ABG BE -5.3 mmol/L,120
+lactates 1.61 mmol/L,120
+echocardiography PASP 73 mmHg,168
+echocardiography PASP 63 mmHg,192
+vasopressors weaned off,192
+nitric oxide withdrawn,192
+extubated,216
+non-invasive ventilation,216
+inspiratory positive airway pressure 12 mmHg,216
+expiratory positive airway pressure 4 mmHg,216
+shifted out of ICU,240
+methemoglobin levels <1%,240
+acute right heart syndrome,0
+chronic pulmonary artery hypertension,0
+decompensated by multifactorial causes,0
+hypoxic pulmonary vasoconstriction,0
+fluid overload,0
+pulmonary edema,0
+metabolic acidosis,0
+peritoneal fluid inflow,0
+upward diaphragm displacement,0
+ventilation/perfusion mismatch,0
+hypoxia,0
+mechanical compression of IVC,0
+decreased RV preload,0

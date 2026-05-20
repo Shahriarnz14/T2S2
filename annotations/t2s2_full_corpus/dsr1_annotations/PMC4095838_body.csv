@@ -1,0 +1,76 @@
+event,time
+79-year-old,0
+man,0
+presented to the emergency department,0
+fever,-48
+unproductive cough,-48
+dyspnea on exertion,-48
+chronic corticosteroid use,-5760
+prednisone 10 mg daily,-5760
+polymyalgia rheumatica,-5760
+non-smoker,0
+no pre-existing pulmonary diseases,0
+gardening,-168
+temperature 38.5°C,0
+heart rate 95 beats/min,0
+blood pressure 128/64 mmHg,0
+respiratory rate 18 breaths/min,0
+fine crackles left lower lobe,0
+oxygen saturation 94%,0
+anemia 9.1 g/dL,0
+CRP 373 mg/L,0
+creatinine 141 µmol/L,0
+WBC 10.1 × 10⁹ cells/L,0
+neutrophils 83%,0
+lymphocytes 8.5%,0
+pneumococcal urinary antigen negative,0
+legionella urinary antigen negative,0
+blood cultures negative,0
+chest radiographs no focal consolidations,0
+intravenous ceftriaxone 2g/24h,0
+productive cough,24
+cough-assist use,24
+respiratory failure,48
+hemodynamic instability,48
+chest radiograph left lung opacification,48
+intubation,48
+bronchoscopy no endobronchial obstruction,48
+minimal left pleural effusion,48
+mini lavage cultures,48
+imipenem-cilastatin 500 mg/6h,48
+clarithromycin 500 mg/12h,48
+prednisone increased to 50 mg daily,48
+transferred to ICU,72
+mechanical ventilation,72
+FIO2 80%,72
+peak airway pressure <30 cm H2O,72
+PEEP 8-10 cm H2O,72
+SaO2 >92%,72
+paO2/FIO2 <200 mmHg,72
+norepinephrine 10-15 mcg/min,72
+chest CT consolidation left lower lobe,72
+bilateral infiltrates,72
+echocardiography normal,96
+BAL neutrophil predominance >50%,96
+CRP decreased to 129 mg/L,96
+procalcitonin decreased to 2.2 µg/L,96
+persistent high fever,96
+abundant tracheal secretions,96
+clarithromycin discontinued,96
+levofloxacin 500 mg/12h,96
+Legionella longbeachae culture positive,144
+acute respiratory distress syndrome,144
+septic shock,144
+clinical improvement,144
+worsening respiratory parameters,216
+increased FIO2,216
+increased PEEP,216
+prone positioning,216
+respiratory support reduced,216
+fever recurrence,312
+hemodynamic instability recurrence,312
+suspected VAP,312
+diagnostic evaluation withheld,312
+support withheld,312
+death,312
+autopsy not performed,312

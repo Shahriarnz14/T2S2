@@ -1,0 +1,85 @@
+event,time
+57 years old,0
+male,0
+admitted to the hospital,0
+lepromatous leprosy,-1440
+skin biopsy,-1440
+rifampicin,-1440
+clofazimine,-1440
+dapsone,-1440
+abdominal distension,-24
+constipation,-24
+vomiting,-24
+10-kg weight loss,-24
+peripheral lymphadenopathy,0
+distended abdomen,0
+positive shifting dullness,0
+computed tomography scan of abdomen,0
+mural thickening of terminal ileum,0
+enlarged mesenteric lymph nodes,0
+mesenteric fat stranding,0
+intra-abdominal free fluid,0
+abdominal paracentesis,24
+atypically large lymphocytes,24
+flow cytometry,48
+abnormal CD4/CD8 double-negative T-cell population (38%),48
+cervical lymph node biopsy,72
+high-grade peripheral T-cell lymphoma (PTCL),72
+bone marrow examination,96
+no involvement of T-cell NHL,96
+stage IV lymphoma,96
+dexamethasone,120
+tumor-lysis syndrome precautions,120
+clinical deterioration,144
+transfer to medical ICU,144
+severe sepsis,144
+antibiotics,144
+antifungals,144
+ICU care for 1 week,144
+transfer to national cancer center,216
+EPOCH chemotherapy protocol,216
+etoposide,216
+prednisone,216
+vincristine sulfate,216
+cyclophosphamide,216
+doxorubicin hydrochloride,216
+CNS prophylaxis,216
+intrathecal methotrexate,216
+complete metabolic remission by PET/CT,480
+multiple febrile neutropenia episodes,480
+recurrent bacteremia,480
+generalized weakness,480
+no sensory changes,480
+no clear fatigability,480
+decreased power in proximal and distal muscles (3/5),480
+critical illness myopathy-neuropathy (differential),480
+toxic neuropathy (differential),480
+paraneoplastic syndrome (differential),480
+neurophysiological electromyogram/nerve conduction study,504
+normal distal latencies,504
+normal compound muscle action potential,504
+normal conduction velocities,504
+normal F waves,504
+normal sensory nerve studies,504
+normal onset latencies,504
+normal sensory nerve action potential amplitude,504
+normal conduction velocities (sensory),504
+needle electromyogram of proximal and distal muscles,504
+normal insertional activity,504
+no spontaneous activity,504
+normal motor unit action potential,504
+poor recruitment effects,504
+repetitive nerve stimulation (30–40 Hz),504
+significant incremental response,504
+presynaptic neuromuscular junction disorder (LEMS),504
+VGCC antibodies requested,504
+intravenous immunoglobulins for 5 days,528
+significant improvement of motor function,600
+ambulation,600
+plan for autologous bone marrow transplant,600
+recurrent bacteremia,720
+sepsis,720
+readmission to medical ICU,720
+severe sepsis,720
+multiorgan failure,720
+death,4320

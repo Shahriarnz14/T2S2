@@ -1,0 +1,102 @@
+event,time
+25 years old,0
+female,0
+nausea,-120
+vomiting,-120
+dizziness,-120
+abdominal pain,-120
+altered sensorium,-120
+ingestion of two bottles (refills) of mosquito repellent,-120
+transfluthrin,-120
+conscious,0
+pupils bilaterally semi constricted,0
+sluggishly reactive to light,0
+crepitations,0
+respiratory rate 28/min,0
+blood pressure 110/70 mmHg,0
+gastric lavage,0
+continuous gastric aspiration,0
+oral syrup charcoal 10 ml,0
+atropine 0.6 mg,0
+pantoprazole 40 mg,0
+ondansetron 4 mg,0
+tonic-clonic convulsions,60
+phenytoin 700 mg bolus,60
+diazepam 10 mg,60
+hydrocortisone 100 mg,60
+frusemide 20 mg,60
+oxygen enrichment,60
+uncontrolled convulsions,60
+shifted to intensive care unit,60
+midazolam 5 mg,60
+propofol 100 mg,60
+endotracheal intubation,60
+oxygen enrichment 4–6 L/min,60
+midazolam 4 mg/h infusion,60
+propofol 200 mg/h infusion,60
+SpO2 100%,60
+blood pressure 94/62 mmHg,60
+pulse rate 74/min,60
+arterial blood gas normal,60
+IV mannitol 20% 100 ml twice a day,60
+IV phenobarbitone SOS,60
+seizure free,60
+seizures started,60
+blood pressure 80/40 mmHg,60
+respiratory rate 35/min,60
+pulse rate 190/min,60
+SpO2 95%,60
+serum potassium 2.98 mmol/L,60
+serum calcium 2.5 mmol/L,60
+serum sodium 129 mmol/L,60
+dopamine 10 μg/kg/min,60
+potassium chloride 1.5 g,60
+hypertonic saline,60
+phenytoin repeated,60
+midazolam repeated,60
+propofol repeated,60
+phenobarbitone repeated,60
+seizures not controlled,60
+vecuronium 4 mg bolus,60
+vecuronium 4 mg/h infusion,60
+controlled mechanical ventilation,60
+blood pressure decreased,60
+dopamine dose increased,60
+propofol infusion stopped,60
+ABG normal,60
+CT scan brain normal,60
+chest X-ray normal,60
+central venous pressure 5-8 cm H2O,60
+ventilator for 48 hours,60
+weaning started,2880
+vecuronium stopped,2880
+midazolam infusion stopped,2880
+SIMV mode,2880
+airway pressure support 15 cm H2O,2880
+PEEP 4 cm H2O,2880
+pulse rate 102/min,2880
+blood pressure 132/82 mmHg,2880
+SpO2 >96%,2880
+total leucocyte count 7200/mm³,0
+"leucocyte count 22,000/mm³",24
+"leucocyte count 32,000/mm³",48
+"leucocyte count 13,000/mm³",72
+leucocyte count 4000/mm³,144
+neutrophilia,0
+antibiotics continued,0
+dopamine infusion tapered,2880
+dopamine stopped,2880
+spontaneous respiration 16 breaths/min,2880
+neostigmine 2.5 mg,2880
+glycopyrrolate 0.4 mg,2880
+breathing spontaneously,2880
+extubated,2880
+oxygen mask 4–5 L/min,2880
+respiratory rate 25/min,2880
+blood pressure 108/72 mmHg,2880
+pulse rate 119/min,2880
+pupils reactive to light,2880
+mistabron 3 mg nebulized,2880
+referred to psychiatrist,2880
+shifted to ward,96
+discharged,168

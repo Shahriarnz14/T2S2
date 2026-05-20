@@ -1,0 +1,94 @@
+event,time
+85 years old,0
+male,0
+farmer,0
+active lifestyle,0
+admitted to the hospital,0
+atrial fibrillation,-6720
+benign prostatic hypertrophy,-6720
+trismus,-144
+hypertonia,-144
+injured his leg,-144
+C. tetani infection,-144
+immunoglobulins,-144
+tetanus vaccination,-144
+metronidazole,-144
+transferred to ICU,-120
+tracheostomy,-120
+mechanical ventilation,-120
+vasoactive support,-120
+seizures,-120
+baclofen,-120
+midazolam,-120
+diazepam,-120
+electroencephalography,-120
+slow cerebral activity,-120
+respiratory failure,-120
+opacity on chest radiography,-120
+peripheral leukocytosis,-120
+ventilator-associated pneumonia,-120
+blood cultures,-120
+tracheal secretion samples,-120
+Klebsiella pneumoniae,-120
+methicillin-sensitive Staphylococcus aureus,-120
+piperacillin-tazobactam,-120
+transferred to geriatric unit,-100
+coma,-100
+spontaneous breathing,-100
+supplemental oxygen,-100
+tracheal cannula,-100
+antibiotic therapy switched to linezolid,-96
+septic shock,-96
+meropenem,-96
+awoke,-79
+feeding tube removed,-79
+cholestasis,-79
+acute edematous pancreatitis,-79
+endoscopic treatment postponed,-79
+urinary tract infection,-72
+multidrug-resistant organisms,-72
+K. pneumoniae,-72
+Acinetobacter baumannii,-72
+Enterococcus faecalis,-72
+colistin,-72
+amoxicillin-clavulanate,-72
+clinical condition improved,-65
+transferred to rehabilitation unit,-65
+MDRO isolation,-65
+tracheal supplemental oxygen,-65
+bladder catheter,-65
+pressure ulcers,-65
+sarcopenic,-65
+low handgrip strength,-65
+low appendicular skeletal mass,-65
+rehabilitation,-65
+Clostridioides difficile infection,-60
+oral vancomycin,-60
+atrial fibrillation with third-degree atrioventricular block,-57
+single-chamber pacemaker implantation,-57
+hyperkinetic delirium,-55
+Pseudomonas aeruginosa bloodstream infection,-55
+ceftazidime-avibactam,-55
+amikacin,-55
+SARS-CoV-2,-53
+remdesivir,-53
+droplet isolation,-53
+recurrence of C. difficile,-50
+fidaxomicin,-50
+transferred to geriatric medicine unit,-40
+bloodstream infection due to Candida parapsilosis,-38
+caspofungin,-38
+cefazolin,-38
+bloodstream infection due to P. aeruginosa,-28
+piperacillin-tazobactam,-28
+aztreonam,-21
+ceftazidime-avibactam,-21
+cefepime,-14
+tracheostomy closure,-7
+nutritional supplementation,-7
+discharge,0
+postural transition with assistance,0
+motor and respiratory reconditioning,0
+rehabilitation follow-up,0
+ENT follow-up,0
+geriatric follow-up,0

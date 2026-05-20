@@ -1,0 +1,44 @@
+event,time
+28 years old,0\
+male,0\
+insulin-dependent diabetes mellitus,0\
+admitted to the Intensive Care Unit,0\
+progressively worsening urinary incontinence,-8760\
+progressively worsening dysuria,-8760\
+worsening shortness of breath,-8760\
+cachexia,0\
+suprapubic tenderness,0\
+diffuse lung crackles,0\
+decreased breath sounds on the right,0\
+blood pressure 150/91,0\
+pulse 84,0\
+temperature 97.5,0\
+respiratory rate 16,0\
+urinalysis white blood cells,0\
+urinalysis leukocyte esterase,0\
+urinalysis blood,0\
+"urinalysis glucose 10,000 mg/dL",0\
+chest CT multiple bilateral densities,0\
+chest CT nodules,0\
+chest CT consolidated cavitated mass in right lung,0\
+abdominal CT bilateral hydroureteronephrosis,0\
+abdominal CT fluid collection at bladder base,0\
+suspicious for abscess causing post-renal obstructive nephropathy,0\
+urology consult,0\
+infectious disease consult,0\
+bronchoalveolar lavage culture Coccidioides immitus,0\
+urine culture Coccidioides immitus,0\
+Coccidioidal serology reactive IgG,0\
+Coccidioidal serology reactive IgM,0\
+complement fixation titer 1:128,0\
+severe disseminated coccidioidal infection,0\
+intravenous amphotericin B,0\
+CT-guided drainage of prostatic abscess,24\
+drained pus cultured C. immitis,24\
+ICU monitoring 2 weeks,336\
+follow-up CT resolution of abscess,504\
+downtrending serum creatinine,504\
+transferred to medicine wards,336\
+completed amphotericin B course,504\
+symptoms resolved,504\
+discharged,504

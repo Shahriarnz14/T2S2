@@ -1,0 +1,67 @@
+event,time
+19-year-old,0
+nulliparous,0
+female,0
+mammary ptosis,0
+mammary asymmetry,0
+appendicitis surgery,-*
+tattoos without complications,-*
+mastopexy,0
+silicone implants placement,0
+discharged same day,0
+ulceration,96
+necrosis at incision,96
+no secretions,96
+no fever,96
+tachycardia,96
+arterial hypotension,96
+hemoglobin 7.5 g/dL,96
+hematocrit 23%,96
+"leukocytes 64,500/mm",96
+C-reactive protein >270 mg/L,96
+low total proteins 4.10 g/dL,96
+low serum albumin 2.0 g/dL,96
+low globulins 2.1 g/dL,96
+transferred to ICU,96
+suspected surgical site infection,96
+sepsis,96
+vancomycin,96
+meronem,96
+daptomycin,96
+saline solution wound care,96
+chlorhexidine antiseptic,96
+rifampicin,96
+silver sulfadiazine,96
+silicone implants removal,216
+saline rinse,216
+garamycin 80 mg,216
+kefazol 1 g,216
+breast reconstruction with mononylon sutures,216
+no bacterial growth in cultures,216
+dermatitis biopsy result,216
+neutrophilic panniculitis biopsy result,216
+necrosis biopsy result,216
+wound dehiscence,264
+necrosis area expansion,264
+no secretion,264
+VAC therapy initiation,264
+hydrophobic polyurethane foam sponges with silver,264
+purplish secretion aspiration up to 1 L/d,264
+clinical condition worsening,264
+anasarca,264
+prednisone 40 mg/d,336
+prednisone increased to 125 mg/d,336
+granulation tissue appearance,336
+wound edge contraction,336
+pectoralis major muscle adherence to glandular tissue,336
+hydrophobic polyvinyl alcohol foam VAC,336
+deep mononylon sutures,336
+surgical wound improvement,672
+sodium carboxymethyl cellulose with silver (Aquacel) dressing,672
+discharged,1008
+prednisone 60 mg/d at discharge,1008
+outpatient wound care,1008
+prednisone dose reduction,1008
+prednisone discontinuation,2880
+nipple-areola complex sensitivity,5040
+complete healing,9360

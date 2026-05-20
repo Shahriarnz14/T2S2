@@ -1,0 +1,52 @@
+event,time
+28 years old,0
+woman,0
+8 weeks pregnant,0
+acute severe asthma,0
+hypoxic cardiac arrest,0
+ventricular fibrillation,0
+resuscitation,-10
+endotracheal intubation,-10
+therapeutic cooling to 33°C,0
+salbutamol (inhaled),0
+salbutamol (intravenous),0
+ipratropium,0
+aminophylline,0
+hydrocortisone,0
+magnesium,0
+ketamine,0
+isoflurane (1 MAC),0
+severe hypercapnic acidosis,0
+neuromuscular blockade,0
+ventilation improvement,48
+cessation of intravenous sedatives,48
+cessation of neuromuscular blockade,48
+isoflurane (0.25–0.5 MAC),48
+generalized status myoclonus,48
+coma,96
+absent motor response to painful stimulus,96
+preserved pupillary reflexes,96
+preserved corneal reflexes,96
+preserved cough reflex,96
+preserved gag reflex,96
+spontaneous breathing,96
+refractory generalized status myoclonus,96
+electroencephalography generalized periodic discharges,96
+reversible causes eliminated,96
+no agreement on neurological outcome,192
+social issues due to interethnic marriage,192
+pregnancy-related social issues,192
+delayed GSM interpreted as poor prognosis,192
+Lance Adams Syndrome considered,192
+plasma NSE 51 mcg/L,240
+SSEP unhelpful due to motion artefacts,192
+brain MRI showing basal ganglia infarction,240
+brain MRI showing frontoparietal cortex infarction,240
+medical consensus on poor prognosis,240
+extubation,240
+death,264
+comfort measures,264
+no abnormalities in AAN indicators,192
+preserved brainstem reflexes,96
+high NSE,240
+MRI as emerging prognostic tool,240

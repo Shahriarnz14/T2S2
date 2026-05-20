@@ -1,0 +1,68 @@
+event,time
+29-year-old male,0
+admitted to the hospital,0
+presented with penetrating stab wound to anterior left second intercostal space,0
+haemodynamically unstable,0
+grade 3 haemorrhagic shock,0
+resuscitation,-1
+improved as transient fluid responder,-1
+left-sided intercostal drain insertion,-1
+"vital signs after resuscitation: heart rate 100, respiratory rate 14, SpO2 95%, BP 101/64",-1
+no angina reported,-1
+no features of cardiac failure,-1
+no central cyanosis,-1
+no bruits,-1
+no murmurs,-1
+no ST abnormalities,-1
+no rhythm abnormalities,-1
+chronic septic hardware of right lower limb,-1
+microbiological workup deferred,-1
+broad-spectrum antibiotic prophylaxis,-1
+Focused Assessment with Sonography for Trauma (FAST) scan,0
+1 cm pericardial effusion,0
+contrasted computed tomographical scan ordered,0
+transthoracic cardiac ECHO ordered,0
+right ventricular outflow tract (RVOT) injury,0
+suspected thrombus,0
+small aortic root injury,0
+small pseudo-aneurysm,0
+intimal flap,0
+injury tract extending to medial SVC,0
+suspected SVC injury,0
+TTE findings: no valvulopathies,0
+no flow reversal,0
+no shunting,0
+no regional wall motion abnormalities,0
+no tamponade,0
+no infective endocarditis,0
+preserved LV ejection fraction,0
+large dense lesion beneath pulmonary valve,0
+normocytic normochromic anaemia (Hb 10.9),0
+normal renal function,0
+normal liver function,0
+no coagulation abnormalities,0
+intubated under general anesthesia,24
+femoral cardiopulmonary bypass initiated,24
+median sternotomy performed,24
+aorta clamped,24
+cold blood cardioplegia administered,24
+large clot in RVOT defect,24
+RVOT repair with 3/0 prolene sutures,24
+aorta opened via transverse 'J' incision,24
+0.5 cm aortic laceration near right coronary ostium,24
+aortic laceration repaired,24
+dissection between PA and ascending aorta,24
+right coronary artery not injured,24
+contralateral ascending aortic defect,24
+small SVC injury,24
+defects repaired,24
+weaned off cardiopulmonary bypass,48
+closure of femoral cannulation site,48
+sternal closure,48
+transported to ICU intubated,48
+complete recovery at follow-up,720
+no residual thrombus,720
+no intracardiac shunt,720
+no cardiac sequelae,720
+no respiratory sequelae,720
+no neurological sequelae,720

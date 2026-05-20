@@ -1,0 +1,106 @@
+event,time
+50 years old,0
+male,0
+admitted to the intensive care unit,0
+diffuse abdominal pain,-168
+vomiting,-168
+watery diarrhea,-168
+fever,-168
+productive cough,-168
+bilateral pleuritic chest pain,-168
+intermittent asthma,0
+seizure disorder,0
+denied sick contact,0
+denied recent traveling,0
+heavy alcohol drinker,0
+severe respiratory distress,0
+tachycardic,0
+afebrile,0
+hypoxic,0
+borderline hypotension,0
+blood pressure 90/60 mm Hg,0
+diffuse rhonchi,0
+intubation,0
+mechanical ventilation,0
+leucopenia,0
+thrombocytopenia,0
+lactic acidosis,0
+severe transaminitis,0
+bilateral infiltrates,0
+intravenous fluids,0
+vancomycin,0
+piperacillin tazobactam,0
+oseltamivir,0
+azithromycin,0
+septic shock,0
+pneumonia,0
+acute respiratory distress syndrome,24
+meropenem,24
+levofloxacin,24
+suspected leptospirosis,24
+fiberoptic bronchoscopy,24
+bronchoalveolar lavage,24
+Klebsiella pneumoniae,24
+parainfluenza,24
+antibiotics de-escalated,24
+blood cultures negative,24
+urine cultures negative,24
+spinal fluid cultures negative,24
+hepatitis profile negative,24
+head CT normal,24
+transthoracic echocardiography normal,24
+sedation with propofol,0
+sedation with fentanyl,0
+sedation with lorazepam,0
+condition improving by day 4,96
+weaning attempts started,96
+severe agitation,96
+dexmedetomidine started,96
+other sedatives tapered off,96
+acute abdominal distension,216
+ileus,216
+abdominal pain,216
+non-bloody diarrhea,216
+dilated cecum over 15 cm,216
+colon dilatation up to 10.1 cm,216
+no bowel perforation,216
+toxic megacolon,216
+volvulus,216
+nasogastric tube decompression,216
+rectal tube decompression,216
+electrolyte replacement,216
+fluid replacement,216
+serial imaging persistent distention,216
+start antibiotics for infectious colitis,216
+Clostridium difficile infection considered,216
+metabolic derangement,216
+electrolyte derangement,216
+C. difficile toxin A and B negative,240
+GDH antigen negative,240
+stool ova negative,240
+stool parasite negative,240
+stool culture negative,240
+endoscopic decompression unsuccessful,264
+clinical deterioration,264
+elevated intra-abdominal pressure,264
+surgery,264
+cecal perforation,264
+serosal tear,264
+ileocolic anastomosis,264
+diversion loop ileostomy,264
+transmural suppurative inflammation,264
+ulceration,264
+mucosal necrosis,264
+serositis,264
+fungal hyphae colonization,264
+ischemic colitis,264
+perforation,264
+ACPO diagnosis,264
+dexmedetomidine exposure,264
+weaned off sedatives,264
+metabolic causes addressed,264
+infectious causes excluded,264
+liberated from mechanical ventilation,672
+discharged to skilled nursing facility,672
+jejunostomy tube feeding,672
+tracheostomy,672

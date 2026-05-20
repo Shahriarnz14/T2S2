@@ -1,0 +1,71 @@
+event,time
+29-year-old,0
+primigravida,0
+32-week gestation,0
+presented to the emergency department,0
+sore throat,-240
+high-grade fever,-240
+abdominal pain,-240
+cough,-240
+progressive shortness of breath,-240
+poor urine output,-48
+decreased fetal movements,-48
+uneventful pregnancy,-240
+ultrasonography (USG) scan at 30 weeks,-168
+single live fetus,-168
+normal biometry parameters,-168
+suspicious for COVID-19,-240
+RT-PCR assay,-240
+negative COVID-19 test,-240
+worsening clinical condition,-240
+referred to hospital,-240
+residence in COVID-19 containment zone,-240
+institutional COVID-19 protocol,0
+chest X-ray,0
+minimal bilateral basal haziness,0
+prominent interstitial markings,0
+acute hypoxemic respiratory failure,0
+hypotension,0
+admitted to respiratory intensive care unit,0
+community-acquired pneumonia,0
+septic shock,0
+inhaled oxygen supplementation,0
+intravenous fluids,0
+vasopressors,0
+broad-spectrum antibiotics,0
+fundal height corresponding to gestational age,0
+no fetal movements,0
+no fetal heart rate,0
+anemia,0
+leukocytosis,0
+elevated C-reactive protein (CRP) levels,0
+elevated serum procalcitonin levels,0
+acute kidney injury,0
+prerenal,0
+deranged liver function tests,0
+intrauterine death,0
+induction of labor,0
+delivery,24
+stillborn male fetus,24
+no intrapartum adverse events,24
+no postpartum adverse events,24
+febrile after 48 h of admission,48
+work-up for tropical fevers,48
+peripheral smear for malaria,48
+antigen-based assays for malaria,48
+serology for dengue,48
+serology for leptospira,48
+serum Widal tests,48
+negative for malaria,48
+negative for dengue,48
+negative for leptospira,48
+negative for typhoid,48
+positive IgM antibodies for Scrub typhus,48
+characteristic eschar,48
+started on doxycycline 200 mg/day,48
+clinical response,168
+improved clinical–radiological parameters,168
+normalization of leukocyte counts,168
+normalization of serum creatinine,168
+maintaining vitals without oxygen support,168
+discharged,168

@@ -1,0 +1,113 @@
+event,time
+63-year-old,0
+male,0
+admitted after left hip and tibia fracture due to road traffic accident,0
+left hip fracture,0
+tibia fracture,0
+road traffic accident,0
+underwent transsphenoidal approach operation for pituitary adenoma 5 years previously,-43800
+panhypopituitarism,-43800
+diabetes mellitus,-43800
+followed up at institution,-43800
+complained of mild dyspnea 10 hours after accident,-10
+arterial blood gas analysis,-10
+pH 7.423,-10
+PaCO2 37.3 mmHg,-10
+PaO2 50.1 mmHg,-10
+SaO2 86.5%,-10
+FiO2 0.2,-10
+alveolar-arterial oxygen gradient increased to 53,-10
+chest x-ray normal,-10
+dyspnea worsened on 3rd hospital day,72
+hypoxemia worsened on 3rd hospital day,72
+chest computed tomography performed,72
+chest CT showed thromboembolism in right interlobar pulmonary artery,72
+right lower lobe segmental artery thromboembolism,72
+subsegmental pulmonary artery thromboembolism,72
+heparin treatment initiated,72
+dyspnea improved,72
+hypoxemia improved,72
+transthoracic echocardiography on 4th hospital day,96
+no abnormality on echocardiography,96
+no thrombus on echocardiography,96
+left lower limb venography on 7th hospital day,168
+no venous thrombus,168
+inferior vena cava filter not inserted,168
+operation scheduled 11 days after accident,264
+heparin administered,72 to 264
+aPTT maintained between 60 and 67 sec,72 to 264
+heparin stopped at midnight on day before operation,264 -24
+prothrombin time within normal range on operation day,264
+aPTT within normal range on operation day,264
+BUN/Cr increased to 23.7/1.5 mg/dl,264
+not premedicated,264
+standard monitoring applied,264
+left radial artery cannulated,264
+initial BP 120/70 mmHg,264
+5 L 100% O2 applied,264
+initial ABGA pH 7.43,264
+initial ABGA PaCO2 38.1 mmHg,264
+initial ABGA PaO2 102.9 mmHg,264
+initial ABGA SaO2 98%,264
+spinal anesthesia administered,264
+sensory block to T10 confirmed,264 +5
+700 ml Hartmann's solution administered,264
+no significant changes in BP or HR,264
+pneumatic tourniquet inflated on left thigh 40 min after spinal anesthesia,264 +40
+tourniquet pressure 350 mmHg,264 +40
+no Esmarch bandage used,264 +40
+skin incision made,264 +40
+patient unresponsive,264 +40
+BP 50/30 mmHg,264 +40
+HR 40 bpm,264 +40
+ephedrine hydrochloride 8 mg administered,264 +40
+ephedrine hydrochloride 12 mg administered,264 +40
+BP did not increase,264 +40
+phenylephrine 300 µg administered,264 +40
+endotracheal intubation performed,264 +40
+ventilated with 100% oxygen,264 +40
+BP increased to 80/70 mmHg,264 +40
+cardiac arrest,264 +40
+external cardiac massage initiated,264 +40
+epinephrine 1 mg administered x4,264 +40
+atropine 0.5 mg administered x4,264 +40
+epinephrine 0.1 µg/kg/min infusion,264 +40
+norepinephrine 0.1 µg/kg/min infusion,264 +40
+HR increased to 140 bpm after 15 min CPR,264 +55
+BP increased to 140/90 mmHg after 15 min CPR,264 +55
+ABGA pH 7.127,264 +55
+ABGA PaCO2 37.2 mmHg,264 +55
+ABGA PaO2 144.4 mmHg,264 +55
+ABGA HCO3 12.0 mmol/L,264 +55
+ABGA BE -15.9 mmol/L,264 +55
+ABGA SaO2 98.1%,264 +55
+sodium bicarbonate 200 mEq administered,264 +55
+BP maintained with epinephrine and norepinephrine,264 +55
+TEE performed,264 +55
+multiple emboli in right atrium,264 +55
+interatrial septum bulging into left atrium,264 +55
+vital signs improved,264 +55
+operation resumed,264 +55
+transferred to ICU,264 +135
+endotracheal tube with 100% oxygen,264 +135
+mechanical ventilation continued,264 +135
+ABGA pH 7.165,264 +135
+ABGA PaCO2 66.6 mmHg,264 +135
+ABGA PaO2 66.6 mmHg,264 +135
+ABGA SaO2 87.1%,264 +135
+heparin initiated in ICU,264 +135
+D-dimer 9467 ng/ml,264 +135
+"D-dimer increased to 52,796 ng/ml on POD 2",264 +135 +48
+PaO2 continuously improved,264 +135 onwards
+ABGA on POD 7 pH 7.485,264 +168
+ABGA on POD 7 PaCO2 32.4 mmHg,264 +168
+ABGA on POD 7 PaO2 142.2 mmHg,264 +168
+ABGA on POD 7 SaO2 99.0%,264 +168
+FiO2 0.4 on POD 7,264 +168
+extubated on POD 9,264 +216
+heparin treatment for 20 days,264 +135 onwards
+D-dimer decreased,264 +135 onwards
+chest CT no emboli,264 +135 onwards
+echocardiography no emboli,264 +135 onwards
+vital signs within normal range,264 +720
+transferred to general ward on POD 30,264 +720

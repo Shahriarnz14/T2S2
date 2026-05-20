@@ -1,0 +1,63 @@
+event,time
+52 years old ,0
+female ,0
+abdominal pain ,-48
+nausea ,-48
+vomiting ,-48
+diarrhea ,-24
+increased liver enzyme alanine aminotransferase ,-840
+positive autoimmune antibody ,-840
+elevated immunoglobulin G ,-840
+coarse liver surface ,-840
+liver biopsy ,-840
+diagnosed with overlap syndrome ,-840
+started ursodeoxycholic acid ,-840
+started prednisolone ,-840
+reduced prednisolone ,-144
+started azathioprine ,-144
+mild heartburn ,-48
+abdominal tenderness ,0
+mild fever ,0
+tachycardia ,0
+tachypnea ,0
+reduced white blood cells ,0
+reduced platelets ,0
+decreased neutrophil level ,0
+elevated C-reactive protein level ,0
+abnormal liver enzymes ,0
+necrotizing gastritis ,0
+septic shock ,0
+intravenous hydration ,0
+antibiotic treatment ,0
+transferred to intensive care unit ,0
+inotropics ,2
+fluid treatment ,2
+increased blood pressure ,2
+decreased heart rate ,3
+stress-induced cardiomyopathy ,3
+extracorporeal membrane oxygenation ,3
+cardiac arrest ,3
+death ,3
+discharge ,-168
+admitted to the emergency room ,0
+visited outpatient clinic ,-840
+visited emergency room ,0
+liver biopsy performed ,-840
+started treatment ,-840
+reduced prednisolone dose ,-144
+maintained azathioprine ,-144
+symptoms worsened ,-24
+abdominal pain interfered with sleep ,-24
+nausea and vomiting worsened ,-24
+diarrhea started ,-24
+physical examination ,0
+laboratory examinations ,0
+imaging examinations ,0
+diagnosed with necrotizing gastritis ,0
+diagnosed with septic shock ,0
+treated with intravenous antibiotics ,0
+treated with fluid ,0
+treated with inotropics ,2
+treated with extracorporeal membrane oxygenation ,3
+cardiopulmonary resuscitation ,3
+died of cardiac arrest ,3

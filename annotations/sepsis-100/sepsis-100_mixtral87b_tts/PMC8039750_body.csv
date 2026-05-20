@@ -1,0 +1,39 @@
+event,time
+66 years old, 0
+male , 0
+underwent colonoscopy , 0
+had no history of trauma or surgery , 0
+had DM , 0
+had obesity , 0
+consumed a bottle of rice wine thrice a week , 0
+15 polyps were resected by endoscopic mucosal resection , 0
+hot snare was used , 0
+preventive hemoclips were applied , 0
+nine polyps were located in the right colon , 0
+six polyps were located in the left colon and rectum , 0
+cecal intubation time was 3 minutes , 0
+quality of bowel preparation in all colon segments was excellent , 0
+discharged from the endoscopy room , 0
+visited the emergency department 24 hours after the procedure , 24
+complaining of right abdominal pain , 24
+tenderness and rebound tenderness were noted , 24
+"white blood cell count was 21,460/mm3 ", 25.25
+C-reactive protein level was 17.8 mg/dL , 25.25
+blood urea nitrogen level was 28 mg/dL , 25.25
+creatinine was 2.13 mg/dL , 25.25
+lactic acid was 2.4 mmol/L , 25.25
+total bilirubin was 1.7 mg/dL , 25.25
+abdominopelvic computed tomography (CT) was performed , 25.25
+no pneumoperitoneum or bowel perforation was found , 25.25
+multiple air bubbles in the right lateral abdominal muscles were found , 25.25
+"intensive medical treatments, including broad-spectrum antibiotic therapy were started ", 25.25
+emergency exploratory laparotomy was performed , 45.25
+laparoscopic right hemicolectomy was performed , 45.25
+diagnosis of NF of the abdominal wall muscle was made , 67.25
+urgent surgical debridement and drainage were performed , 67.25
+"despite surgical debridement, extensive broad-spectrum antibiotic therapy was given ", 67.25
+best supportive care with renal replacement therapy in the intensive care unit was given , 67.25
+two more surgical debridements and drainages were performed ," 109.25, 133.25"
+imipenem-resistant Acinetobacter baumannii and extended spectrum beta-lactamase negative Escherichia coli were identified , 133.25
+died because of septic shock and multiple-organ failure , 35*72=2520
+"Note: the time of death is estimated to be 2520 hours after the procedure, assuming the patient died 35 days after admission and each day has 24 hours.",

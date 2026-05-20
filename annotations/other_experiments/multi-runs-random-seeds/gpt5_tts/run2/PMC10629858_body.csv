@@ -1,0 +1,90 @@
+event,time
+57-year-old man ,0
+male ,0
+presented to the hospital ,0
+lepromatous leprosy ,-1440
+skin biopsy confirmed lepromatous leprosy ,-1440
+rifampicin started ,-1440
+clofazimine started ,-1440
+dapsone started ,-1440
+abdominal distension ,0
+constipation ,0
+vomiting ,0
+10-kg weight loss ,0
+vitally stable ,0
+peripheral lymphadenopathy ,0
+distended abdomen ,0
+positive shifting dullness ,0
+computed tomography scan of abdomen ,6
+mural thickening of the terminal ileum ,6
+significantly enlarged mesenteric lymph nodes ,6
+mesenteric fat stranding ,6
+intra-abdominal free fluid ,6
+suggesting abdominal granulomatous infection or neoplastic process ,6
+abdominal paracentesis ,12
+atypically large lymphocytes ,12
+flow cytometry ,24
+abnormal CD4/CD8 double-negative T-cell population (38%) ,24
+multiple phenotypic aberrancies ,24
+cervical lymph node biopsy ,72
+"high-grade peripheral T-cell lymphoma (PTCL), not other specified ",72
+non-Hodgkin's lymphoma ,72
+bone marrow examination ,96
+no bone marrow involvement by T-cell NHL ,96
+staged as a stage IV lymphoma ,96
+dexamethasone started ,96
+tumor-lysis syndrome precautions ,96
+deteriorated clinically ,120
+severe sepsis ,120
+transfer to the medical intensive care unit ,120
+antibiotics required ,120
+antifungals required ,120
+ICU stay around 1 week ,120
+transferred to the national cancer center ,288
+EPOCH chemotherapy protocol commenced ,288
+etoposide started ,288
+prednisone started ,288
+vincristine sulfate (oncovin) started ,288
+cyclophosphamide started ,288
+doxorubicin hydrochloride (hydroxydaunorubicin) started ,288
+CNS prophylaxis (intrathecal methotrexate) ,288
+six cycles planned ,288
+febrile neutropenia ,456
+recurrent bacteremia ,456
+immunocompromised state ,456
+neurology team involved ,1296
+generalized weakness ,1296
+no sensory changes ,1296
+no clear fatigability ,1296
+power decreased in all proximal and distal muscles (3/5) ,1296
+electromyogram/nerve conduction study performed ,1320
+normal distal latencies ,1320
+normal compound muscle action potential ,1320
+normal conduction velocities ,1320
+normal F waves ,1320
+normal onset latencies (sensory) ,1320
+normal sensory nerve action potential amplitude ,1320
+normal sensory conduction velocities ,1320
+needle electromyogram normal insertional activity ,1320
+no spontaneous activity ,1320
+normal motor unit action potential ,1320
+poor recruitment effects ,1320
+repetitive nerve stimulation (30–40 Hz) significant incremental response ,1320
+presynaptic neuromuscular junction disorder (likely LEMS) suggested ,1320
+VGCC antibodies requested ,1320
+VGCC antibodies not done due to technical issues ,1320
+intravenous immunoglobulins started ,1320
+"3,4-diaminopyridine not available ",1320
+Lambert-Eaton myasthenia syndrome ,1320
+significant improvement of motor function ,1440
+could ambulate ,1440
+dramatic response to treatment ,1440
+assessment after four cycles ,2304
+responded well to chemotherapy ,2304
+complete metabolic remission by positron emission tomography/computed tomography ,2304
+planned for consolidation by autologous bone marrow transplant ,2304
+re-admitted to the medical intensive care unit ,4368
+severe sepsis ,4368
+multiorgan failure ,4368
+remission status maintained ,4368
+passed away ,4416

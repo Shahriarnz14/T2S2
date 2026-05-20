@@ -1,0 +1,119 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+abdominal pain,-2160
+pancreatic head lesion,-2160
+history of stage IIIA lung cancer,-6480
+smoking history,-6480
+hypertension,-6480
+hypothyroidism,-6480
+dyslipidemia,-6480
+spiculated suprahilar RUL nodule,-6480
+lung-RADS 4X,-6480
+PET/CT scan,-6480
+bronchoscopy-attained tissue sample,-6480
+NSCLC,-6480
+adenocarcinoma,-6480
+lymph node sampling,-6480
+stage IIIA lung adenocarcinoma,-6480
+program death ligand-1 expression,-6480
+surgical resection,-6480
+carboplatin,-5040
+paclitaxel,-5040
+radiation therapy,-5040
+CT scan,-4320
+decrease in RUL mass,-4320
+adjuvant immunotherapy,-3960
+durvalumab,-3960
+pneumonitis,-3744
+steroid taper,-3744
+staging chest CT,-3744
+increase in RUL mass,-3744
+follow-up chest CT,-2160
+increase in RUL mass,-2160
+"thoracic, abdominal, and pelvic CT scan",-1440
+no distant metastasis,-1440
+stable lung nodules,-1440
+chest CT scans,-720
+stable appearance of lung nodules,-720
+post-radiation changes,-720
+epigastric pain,-120
+constipation,-120
+loss of appetite,-120
+weight loss,-120
+abdominal and pelvic CT scan,0
+pancreatic head mass,0
+pancreatic ductal dilatation,0
+gastroenterology referral,0
+endoscopic ultra-sound-guided biopsy,24
+tumor cells,24
+nuclear pleomorphism,24
+prominent nucleoli,24
+irregular nuclear contours,24
+coarse chromatin,24
+CK7,24
+TTF-1,24
+Napsin-A,24
+CDX-2,24
+KOC,24
+synaptophysin,24
+Smad-4,24
+lung adenocarcinoma,24
+AST,24
+ALT,24
+ALP,24
+total bilirubin,24
+direct bilirubin,24
+CA 19.9,24
+PET/CT scan,168
+fluorodeoxyglucose-avid mass,168
+SUV max,168
+brain MRI scan,168
+no intracranial metastasis,168
+palliative radiation therapy,336
+carboplatin,336
+pemetrexed,336
+combination chemotherapy,336
+generalized weakness,720
+dyspnea,720
+electrolyte derangements,720
+acute anemia,720
+hemoglobin nadir,720
+transfusion,720
+CT scan of the chest,720
+new left lower lobe nodule,720
+staging PET/CT scan,1008
+decreased metabolic activity,1008
+metabolic activity,1008
+fatigue,1008
+treatment discontinuation,1008
+pulmonology clinic,1176
+rapid response,1176
+oxygen saturation,1176
+accessory muscles,1176
+blood pressure,1176
+heart rate,1176
+increased dyspnea,1176
+cough,1176
+generalized weakness,1176
+emergency department,1176
+hospital admission,1176
+imaging studies,1176
+right lung consolidation,1176
+loculated pleural effusion,1176
+acute hypoxic respiratory failure,1176
+sepsis,1176
+pneumonia,1176
+broad-spectrum antibiotics,1176
+vancomycin,1176
+azithromycin,1176
+cefepime,1176
+oxygen supplementation,1176
+bilevel-positive airway pressure,1176
+altered mentation,1248
+worsening hypoxemia,1248
+vasopressor support,1248
+palliative medicine team,1248
+inpatient hospice care,1248
+death,1260

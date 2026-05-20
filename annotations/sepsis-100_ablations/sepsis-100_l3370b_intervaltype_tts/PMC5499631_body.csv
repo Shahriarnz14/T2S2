@@ -1,0 +1,68 @@
+event,time
+15 years old,0
+female,0
+acute myelogenous leukemia,0
+standard induction treatment,-336
+chemotherapy,-336
+pancytopenia,-168
+anti-infective treatment,-168
+ciprofloxacin,-168
+linezolid,-168
+meropenem,-168
+tobramycin,-168
+liposomal amphotericin,-168
+tachycardia,0
+hypotension,0
+lactic acidosis,0
+admitted to pediatric intensive care unit,0
+severely impaired left ventricular ejection fraction,0
+sinus tachycardia,0
+incomplete right bundle branch block,0
+elevated NT-proBNP,0
+elevated high-sensitive troponin T,0
+fluid therapy,0
+noradrenaline,0
+dobutamine,0
+milrinone,0
+deep sedation,0
+mechanical ventilation,0
+lactate acidosis worsened,0
+hypotonic,0
+va-ECMO initiated,24
+cannulation of left femoral artery and vein,24
+Dacron conduit sewed on right femoral artery,48
+second arterial cannula introduced,48
+ECBF enhanced,48
+MAP maintained,48
+PCT levels rose,48
+Hickman catheter explanted,72
+broad-complex tachycardia,72
+esmolol,72
+metoprolol,72
+left ventricular function further decreased,72
+aortic valve ceased to open,96
+second venous cannula placed,96
+left atrium cannulation,96
+ECBF reached 5-6 l/min,96
+lactate levels peaked,96
+MAP rose,120
+cerebral oximetry,120
+left ventricle unloaded,120
+therapeutic anticoagulation,120
+PCT peaked,120
+CRP peaked,120
+leukocytes remained low,120
+high-sensitive troponin T increased,120
+creatine kinase MB increased,120
+cardiac systolic function recovered,168
+ECMO cannulas removed,240
+ECMO completely removed,288
+LVEF recovered,288
+CVVHDF stopped,288
+leucocyte count recovered,312
+respirator weaning,408
+allogenic stem cell transplantation,1008
+discharged to rehabilitation facility,1512
+severe critical illness,1512
+polyneuropathy,1512
+LVEF recovered,1512

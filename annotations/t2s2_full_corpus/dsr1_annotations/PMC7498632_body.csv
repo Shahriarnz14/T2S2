@@ -1,0 +1,94 @@
+event,time
+61 years old,0
+male,0
+non-Hodgkin's lymphoma,0
+prior radiation therapy,0
+coronary artery disease,0
+coronary artery bypass graft,0
+mechanical aortic valve replacement,0
+severe bicuspid aortic valve stenosis,0
+fever,-288
+malaise,-288
+respiratory distress,-288
+sepsis,-288
+intubated,-288
+intravenous antibiotics,-288
+methicillin-sensitive Staphylococcus aureus,-288
+transesophageal echocardiogram,-288
+vegetation on mechanical aortic valve,-288
+prosthetic endocarditis,-288
+intravenous oxacillin,-288
+gentamicin,-288
+rifampin,-288
+pulseless electrical activity cardiac arrest,-264
+complete heart block,-264
+external MRI-compatible pacemaker placement,-264
+right ventricle MRI-compatible active-fixation lead placement,-264
+left subclavian approach,-264
+stenosis of internal jugular veins,-264
+CT head,-264
+multifocal bilateral infarcts,-264
+parenchymal hemorrhage,-264
+subarachnoid hemorrhage,-264
+persistent ventilator requirement,-264
+left pneumothorax,-264
+chest tube placement,-264
+progressive renal injury,-264
+acute tubular necrosis,-264
+transferred,-12
+intubated,-12
+sedated,-12
+corneal reflexes present,-12
+gag reflex present,-12
+grimaced to upper extremity stimuli,-12
+no withdrawal,-12
+no response to lower extremity stimuli,-12
+"WBC 22,700/μL",-12
+hemoglobin 9.4 g/dL,-12
+"platelets 402,000/μL",-12
+creatinine 3.2 mg/dL,-12
+transthoracic echocardiogram,-12
+aortic valve vegetation,-12
+trace aortic regurgitation,-12
+brain MRI requested,0
+renal insufficiency,0
+contrast CT contraindicated,0
+noncontrast CT insufficient,0
+MRI approved,0
+1.5 T MR scanner,0
+transmit-receive head coil,0
+normal mode imaging,0
+generator repositioned,0
+generator insulated,0
+complete heart block,0
+no ventricular escape,0
+pre-MRI impedance 773 ohms,0
+threshold 0.3 V,0
+VOO pacing,0
+transcutaneous pacing pads,0
+external defibrillator,0
+telemetry monitoring,0
+pulse oximetry,0
+35-minute scanning,0
+post-MRI unchanged parameters,0
+no lead migration,0
+bilateral multifocal infarcts,0
+septic emboli,0
+no brain abscess,0
+cardiac CT,24
+over-breathing ventilator,24
+benzodiazepine bolus,24
+neuromuscular blockade,24
+device reprogrammed VOO 70 bpm,24
+large hypoattenuated mass,24
+vegetation,24
+mitral-aortic intervalvular fibrosa thickening,24
+perivalvular involvement,24
+no abscess,24
+lead tip in RV apex,24
+surgical evaluation,24
+40% operative mortality risk,24
+surgery not offered,24
+palliative care discussion,24
+comfort-oriented care,24
+died,48

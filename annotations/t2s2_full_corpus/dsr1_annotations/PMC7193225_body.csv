@@ -1,0 +1,232 @@
+event,time
+48-year-old incarcerated male,0\
+presented to an outside hospital,-1440\
+"multisystem sarcoidosis involving bone marrow, liver, and lymph nodes",-1440\
+progressive abdominal pain,-5760\
+100-pound weight loss,-5760\
+nausea,-5760\
+vomiting,-5760\
+paraplegia with urinary retention,-52560\
+motor vehicle accident,-52560\
+asthma,0\
+type 2 diabetes mellitus,0\
+gastroesophageal reflux disease,0\
+hiatal hernia,0\
+hypertension,0\
+alcoholism,0\
+MRI thoracic spine,-26280\
+degenerative disc disease of thoracic spine,-26280\
+MRI lumbar spine,-26280\
+disc bulging at L5–S1,-26280\
+albuterol,0\
+terazosin,0\
+oxybutynin,0\
+pantoprazole,0\
+admitted to outside hospital,-1440\
+leukopenia,-1440\
+anemia,-1440\
+CT abdomen and pelvis,-1440\
+mesenteric lymph node adenopathy,-1440\
+retroperitoneal lymph node adenopathy,-1440\
+splenomegaly,-1440\
+splenic masses,-1440\
+heterogenous liver parenchyma,-1440\
+liver biopsy,-1440\
+bone marrow biopsy,-1440\
+retroperitoneal lymph node biopsy,-1440\
+non-necrotizing granulomatous inflammation in bone marrow,-1440\
+non-necrotizing granulomatous inflammation in retroperitoneal lymph node,-1440\
+necrotizing granulomatous inflammation in liver,-1440\
+diagnosed with sarcoidosis,-1440\
+prednisone,-1440\
+methotrexate,-1440\
+admitted to same hospital,-72\
+chest pain,-72\
+anorexia,-72\
+nausea,-72\
+vomiting,-72\
+continued abdominal pain,-72\
+hypotension,-72\
+blood pressure 85/63 mmHg,-72\
+temperature 98.6°F,-72\
+pulse 117 beats per minute,-72\
+respiratory rate 22 breaths per minute,-72\
+oxygen saturation 95%,-72\
+CT thorax,-72\
+right pleural effusion,-72\
+left pleural effusion,-72\
+CT abdomen and pelvis,-72\
+moderate ascites,-72\
+negative urine cultures,-72\
+negative blood cultures,-72\
+lactate 2.3 mmol/L,-72\
+INR >12,-72\
+fibrinogen 50 mg/dL,-72\
+ALT 86 IU/L,-72\
+AST 204 IU/L,-72\
+WBC 0.8 K/uL,-72\
+hemoglobin 7.9 g/dL,-72\
+platelets 92 K/uL,-72\
+admitted to ICU,-72\
+suspected sepsis,-72\
+intravenous fluids,-72\
+cefepime,-72\
+vancomycin,-72\
+vitamin K,-72\
+Hematology consult,-72\
+Infectious Disease consult,-72\
+Rheumatology consult,-72\
+cefepime stopped,-24\
+vancomycin stopped,-24\
+worsening lactate 5.3,-24\
+pancytopenia,-24\
+methylprednisolone 1 gram,-24\
+no clinical status change,-24\
+transferred to our hospital,0\
+blood pressure 87/64 mmHg,0\
+pulse 104 beats per minute,0\
+respiratory rate 19 breaths per minute,0\
+temperature 98.2°F,0\
+oxygen saturation 99%,0\
+soft abdomen,0\
+diffusely tender abdomen,0\
+mildly distended abdomen,0\
+rebound tenderness,0\
+positive bowel sounds,0\
+hepatosplenomegaly,0\
+pancytopenia,0\
+WBC 0.8 k/uL,0\
+Hb 9.3 g/dL,0\
+platelets 90 k/uL,0\
+ANC 0.76 K/uL,0\
+ALT 146 IU/L,0\
+AST 224 IU/L,0\
+INR 1.99,0\
+PT 22,0\
+PTT 43,0\
+fibrinogen 106 mg/dL,0\
+D-Dimer 5.06,0\
+lactic acid 5.0 mmol/L,0\
+"ferritin 6,420 ng/mL",0\
+triglycerides 168 mg/dL,0\
+negative blood cultures,0\
+negative urine cultures,0\
+negative tuberculosis cultures,0\
+chest x-ray,0\
+small pleural effusions,0\
+cytomegalovirus DNA negative,0\
+parvovirus B19 IgG positive,0\
+parvovirus B19 IgM negative,0\
+HIV negative,-1440\
+admitted to ICU,0\
+broad-spectrum antibiotics,0\
+vancomycin,0\
+cefepime,0\
+altered mental status,24\
+ammonia level 58 umol/L,24\
+glucose 150 mg/dL,24\
+sodium 133 mmol/L,24\
+concern for HLH,24\
+splenomegaly,24\
+cytopenia,24\
+hyperferritinemia,24\
+dexamethasone 20 mg twice daily,24\
+CT head,24\
+bone marrow biopsy,48\
+hypocellular bone marrow,48\
+trilineage hematopoiesis,48\
+no malignancy,48\
+occasional histiocytic hemophagocytosis,48\
+"soluble CD 25 70,000 pg/mL",48\
+antibiotics discontinued,48\
+etoposide 150 mg/m2,48\
+IVIG,48\
+ferritin improved,72\
+worsening kidney function,72\
+creatinine 1.26 mg/dL,72\
+etoposide dose decreased to 75 mg/m2,72\
+transferred to floors,72\
+hypothermic,96\
+lactic acidosis 7.3,96\
+hemoglobin 5.3,96\
+packed red blood cells,96\
+platelets transfusion,96\
+cryoprecipitate,96\
+lethargic,96\
+transferred back to ICU,96\
+negative blood cultures,96\
+negative urinalysis,96\
+chest x-ray,96\
+bilateral pleural effusions,96\
+airspace disease,96\
+worsening edema,96\
+possible multifocal pneumonia,96\
+CT abdomen,96\
+abdominopelvic ascites,96\
+possible blood products in pelvis,96\
+Infectious Disease consult,96\
+febrile neutropenia,96\
+ANC 690,96\
+WBC 0.6 k/uL,96\
+vancomycin,96\
+meropenem,96\
+doxycycline,96\
+fluconazole,96\
+Peripherally Inserted Central Catheter Line,96\
+negative fungal PCR,96\
+atovaquone,96\
+valacyclovir,96\
+EBV IgM negative,96\
+EBV IgG positive,96\
+EBV nuclear antibody positive,96\
+QuantiFERON Gold negative,96\
+AFB sputum negative,96\
+General Surgery consult,96\
+intraabdominal bleeding,96\
+poor surgical candidate,96\
+paracentesis deferred,96\
+thoracentesis deferred,96\
+CT angiogram recommended,96\
+Interventional Radiology consult,96\
+lipase 518 IU/L,96\
+acute pancreatitis,96\
+oliguric,96\
+acute kidney injury,96\
+Nephrology consult,96\
+acute tubular necrosis,96\
+pre-renal azotemia,96\
+renal ultrasound,96\
+third dose etoposide held,96\
+ANC 0,96\
+filgrastim 480 micrograms,96\
+vancomycin discontinued,96\
+Sustained Low Efficiency Dialysis (SLED),120\
+positive fluid balance 20 liters,120\
+azotemia,120\
+confusion,120\
+bumetanide 0.5 mg/hour,120\
+obtunded,144\
+hypotensive,144\
+vasopressor support,144\
+hypothermic,144\
+bear hugger,144\
+intubated,144\
+ALT 1985 IU/L,144\
+AST 3322 IU/L,144\
+"LDH 10,692 IU/L",144\
+haptoglobin <30 mg/dL,144\
+"ferritin 65,620 ng/mL",144\
+lactate 14 mmol/L,144\
+WBC 0.1 K/uL,144\
+hemoglobin 6.5,144\
+platelets <10 k/uL,144\
+ANC 0 k/uL,144\
+GI bleed considered,144\
+hypovolemic shock,144\
+hemorrhagic shock,144\
+intracranial hemorrhage considered,144\
+CT head,144\
+no intracranial hemorrhage,144\
+blood pressure drop,144\
+pulseless electrical activity arrest,144\
+unsuccessful resuscitation,144

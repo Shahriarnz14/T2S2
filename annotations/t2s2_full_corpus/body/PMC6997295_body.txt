@@ -1,0 +1,35 @@
+Introduction
+Bordetella hinzii is a Gram-negative, rod-shaped bacterium causing mainly respiratory infections in poultry. To date, its pathogenic role in human disease remains poorly understood. The first case of infection in humans was described in 1994; it caused causing bacteraemia in an AIDS patient [1]. Besides bloodstream infections, respiratory infections, chronic cholangitis, endocarditis and cervical abscess can also be caused by B. hinzii, mainly in immunocompromised patients [[2], [3], [4], [5]].
+
+Here we report what is to our knowledge the first case of B. hinzii's the causative pathogen of an abdominal abscess being with associated systemic inflammation.
+
+Case report
+A 42-year-old man with a history of extensive alcohol abuse and fatty liver disease was transferred to our intensive care unit with a complicated, protracted course of acute necrotizing pancreatitis. On day 14, the patient underwent catheter-guided implantation of a self-expanding nitinol stent into the thrombosed portal vein, superior mesenteric artery and splenic artery. Because of sigmoid colon perforation, a resection of this including a transversostoma application was performed on day 16. The postoperative course was uneventful, and the patient was extubated 2 days after surgery.
+
+After initial laboratory parameters improved, white blood cell count and C-reactive protein levels increased again on day 19 (white blood cell count, 19 × 109/L, normal 3.9–10.9 × 109/L; C-reactive protein, 14.6 mg/dL, normal <0.5 mg/dL). Additionally, the patient experienced a new onset of fever.
+
+Computed tomography (CT) performed on day 24 revealed a peripancreatic abscess expanding to the left psoas muscle which increased in size, as demonstrated by a second CT scan on day 37. A CT-guided percutaneous catheter (day 42) drained brownish, partly solid pus from the retroperitoneal part of the abscess, which was cultured on Columbia blood agar, chocolate agar, MacConkey agar (all BD, Heidelberg, Germany), Kimmig agar and ChromID Candida (bioMérieux, Marcy l’Etoile, France) at 36 ± 1°C (ambient air) (Fig. 1).Fig. 1 Coronal view of computed tomographic scan of abdomen showing peripancreatic abscess formation, course of inserted drainage catheter (arrow) and portal vein stent (asterisk).
+
+Fig. 1
+
+After 24 hours, two phenotypically different colonies were detected and identified by MALDI-TOF (Bruker Daltonics, Bremen, Germany): Candida albicans and Bordetella hinzii.
+
+A deep skin swab sample taken from the puncture site of the drainage catheter also tested positive for B. hinzii. After no significant change of the intra-abdominal abscess formation in size, microbiologic analysis of the drained fluid on day 61 revealed Staphylococcus epidermidis and again B. hinzii. 16S ribosomal RNA gene sequencing confirmed the species identification of B. hinzii (100% coverage and identity with B. hinzii strain NCTC13199; accession no. LR134382.1, GenBank BLAST).
+
+On the basis of a review of literature [1,3,6], antimicrobial susceptibility testing was performed using Etest (bioMérieux) according to the manufacturer's instructions and was interpreted following the European Committee on Antimicrobial Susceptibility Testing (EUCAST, version 9.0, 2019) clinical guidelines for non–species-related breakpoints. Cefotaxime, levofloxacin and trimethoprim/sulfamethoxazole were reported resistant (all MIC > 256 mg/L); and piperacillin/tazobactam (MIC = 1.5 mg/L), ceftazidime (MIC = 2 mg/L), meropenem (MIC = 0.064 mg/L) and tigecycline (MIC = 0.5 mg/L) were reported susceptible.
+
+Empirical therapy was initiated on day 42 with piperacillin/tazobactam (iv, 4 × 4.5 g per day), and after allergic skin reactions including pruritus and exanthema, therapy was switched to meropenem (iv, 4 × 1 g per day), resulting in the same reactions after a single injection. Subsequently, levofloxacin was administered (on day 45, before receipt of laboratory susceptibility results), but it was again accompanied by an anaphylactic reaction, including hypotension and tachycardia. Finally, tigecycline was initiated once aspartate aminotransferase results on day 46 were available. After defervescence and reduction of drained secretion, intravenous tigecycline was stopped after a 7-day course of application.
+
+In further investigations, we performed whole genome sequencing (Illumina MiSeq platform; Illumina, San Diego, CA, USA) and extracted all coding core genome regions to elucidate the genetic relation of this isolate to the genome sequences available in GenBank. SeqSphere+ 6.0.0 software (Ridom, Münster, Germany) and B. hinzii F582 (GenBank accession no. CP012076.1) as a reference sequence were used to compare the present isolate with the genome sequences available in GenBank via an ad hoc gene-by-gene approach (core genome multilocus sequence typing) because of the lack of a published core genome multilocus sequence typing scheme (Fig. 2). In total, 3935 target genes, which were present in all samples, were compared and resulted in a widespread genetic distance compared to the present genotype. Additional analyses from in silico data revealed no acquired antimicrobial resistance genes.Fig. 2 Minimum spanning tree of Bordetella hinzii genome sequences displaying their genetic diversity. Eleven B. hinzii GenBank genome sequences (grey) and present isolate's genotype (red) are compared based on 3935 core genome multilocus sequence typing targets. Each dot represents one genotype. Connecting lines and neighbouring numbers between dots indicate number of alleles differing between genotypes.
+
+Fig. 2
+
+Discussion
+As a strictly aerobic pathogen that is usually isolated from poultry, rabbits and laboratory-raised mice [[7], [8], [9], [10]], transmissions via contact to these animals and development of respiratory tract infections are most likely, but persistence in the digestive tract has also been described [5]. We could not ascertain the exact path of transmission, but it is likely that the organism reached the retroperitoneum during the sigmoid colon perforation. Internalization/colonization with B. hinzii could have taken place by eating contaminated poultry.
+
+Previous reports usually present cases of immunocompromised patients with an underlying immunosuppression. Consistent with published case reports describing Bordetella bronchiseptica peritonitis, pneumonia and a pancreatic abscess after chronic alcohol abuse, this and alcoholic liver disease should be discussed as causative risk factors favouring immunosuppression [11,12].
+
+Antibiotic treatment of nonclassical Bordetella spp. infections is not standardized. In this case, 7-day therapy with tigecycline, after drug intolerance to β-lactams and levofloxacin, was effective, together with continued drainage of the abscess. However, specific susceptibility breakpoints would lead to more rational use of antibiotics and higher treatment success rates in infections with these increasingly frequently reported group of pathogens.
+
+Conflict of Interest
+None declared.

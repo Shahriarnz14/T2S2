@@ -1,0 +1,56 @@
+event,time
+68 years old,0
+female,0
+admitted to emergency room with altered level of consciousness,0
+chronic kidney disease (stage 4),0
+18-year history of type 2 diabetes mellitus,0
+treated with insulin over past 10 years,-87600
+admitted for acute pyelonephritis in February 2015,-32880
+admitted for acute pyelonephritis in December 2016,-16800
+admitted for acute pyelonephritis in August 2018,-2160
+resided in nursing hospital,-2160
+non-smoker,0
+no previous history of pulmonary disease,0
+blood pressure 80/60 mm Hg,0
+pulse rate 112 beats/min,0
+respiratory rate 24 breaths/min,0
+body temperature 34.9°C,0
+"elevated WBC count (18,990/uL)",0
+low hemoglobin (8.3 g/dL),0
+"normal platelets (317,000/uL)",0
+elevated blood urea nitrogen (160 mg/dl),0
+elevated serum creatinine (11.59 mg/dl),0
+septic shock,0
+metabolic acidosis,0
+lactate 5.9 mmol/L,0
+blood pH 6.965,0
+bicarbonate 5.5 mmol/L,0
+urine microscopy: many WBCs per high power field,0
+urine dipstick test positive for nitrite,0
+transferred to medical intensive care unit,0
+received continuous renal replacement therapy,0
+received piperacillin/tazobactam 2.25 g every 6 hours,0
+developed dyspnea,408
+chest X-ray showed atelectasis in right upper lobe,408
+"urine culture: Escherichia coli >100,000/ml",408
+blood culture: no bacterial growth,408
+chest CT scan: partial atelectasis in RUL,408
+chest CT scan: prominent wall thickening and enhancement in proximal RUL bronchus,408
+no evidence of bronchiectasis,408
+bronchoscopy: inflammation of RUL bronchus with necrosis,480
+AFB stain negative,480
+MTB DNA PCR negative,480
+MTB culture negative,480
+bronchoscopic biopsy: fungal infection with necrosis,480
+yeast-like fungus with PAS stain positive,480
+Candida albicans in endobronchial aspirate,480
+WBC in aspirate: >25,480
+epithelial cell in aspirate: <10,480
+treated with IV fluconazole 400 mg induction,480
+fluconazole 200 mg daily by mouth,504
+electrolyte imbalance worsened,504
+uremia worsened,504
+dialysis considered,504
+dialysis rejected by patient,504
+signed do-not-resuscitate order,504
+died,816

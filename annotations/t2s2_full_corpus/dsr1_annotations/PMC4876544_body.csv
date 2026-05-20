@@ -1,0 +1,96 @@
+event,time
+72 years old,0
+female,0
+hypothyroidism,0
+hyperlipidemia,0
+hypertension,0
+osteoarthritis,0
+presented to the emergency room,0
+severe abdominal pain,-8
+vaginal bleeding,-8
+bilateral oophorectomy,-40
+ovarian cysts,-40
+bilateral knee replacements,0
+colonoscopy,-175200
+benign findings,-175200
+severe nausea,0
+vomiting,0
+chills,0
+denied fever,0
+denied changes in bowel habits,0
+denied pain when urinating,0
+temperature 98.4°F,0
+blood pressure 128/84mmHg,0
+heart rate 104 beats per minute,0
+respiration rate 20 breaths per minute,0
+O2 saturation 98%,0
+severe distress,0
+tympanic abdomen,0
+distended abdomen,0
+tender to palpation,0
+rebound tenderness,0
+moderate leukocytosis,0
+anion gap metabolic acidosis,0
+azotemia,0
+Foley catheter placement,0
+minimal urine output,0
+received 2L normal saline,0
+uterine prolapse,0
+mild vaginal bleeding,0
+CT scan abdomen and pelvis,0
+pneumoperitoneum,0
+pneumobilia,0
+intrauterine infection,0
+necrosis,0
+colonic perforation,0
+enterofistula,0
+no obstruction,0
+exploratory laparotomy,0
+foul-smelling gas,0
+spontaneous rupture of posterior fundus,0
+suspected intrauterine malignancy,0
+total abdominal hysterectomy,0
+salpingectomy,0
+appendectomy,0
+healthy small bowel,0
+healthy colon,0
+peritoneal cavity irrigation,0
+peritoneal-cavity fluid cultures,0
+uterine myometrial tissue pathology,0
+abdomen closure,0
+Jackson-Pratt drain placement,0
+severe end organ damage,0
+multi end organ failure,0
+intubated,0
+transferred to surgical ICU,0
+high-grade serous adenocarcinoma,0
+endometrial cancer,0
+C. perfringens confirmed,0
+severe acidemia,24
+hypotension,24
+norepinephrine administration,24
+piperacillin/tazobactam,24
+vancomycin,24
+metronidazole,24
+antibiotics changed to vancomycin and penicillin G,48
+tense abdomen,96
+distended abdomen,96
+worsening multiorgan failure,96
+reexploration of abdominal cavity,96
+brown fluid,96
+ashy fluid,96
+necrosis of distal small bowel,96
+necrosis of entire colon,96
+necrosis of proximal rectum,96
+ileectomy,96
+total colectomy,96
+resection of proximal rectum,96
+bowel left in discontinuity,96
+wound vacuum placement,96
+ileostomy creation,144
+patchy necrosis small bowel,144
+ileostomy necrosis,168
+hemodynamic instability,168
+comfort care initiated,168
+terminal wean,168
+patient death,168

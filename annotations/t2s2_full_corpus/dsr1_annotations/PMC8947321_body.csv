@@ -1,0 +1,78 @@
+event,time
+53 years old,0\
+male,0\
+hypertension,0\
+hypercholesterolemia,0\
+bioprosthetic aortic valve replacement,0\
+bicuspid aortic valve,0\
+acute abdominal pain,-24\
+lower extremity pain,-24\
+lower extremity weakness,-24\
+right neck pain,-2880\
+low-grade fevers,-1440\
+sweats,-1440\
+malaise,-1440\
+dysphagia,-1440\
+febrile,0\
+bilateral cold lower extremities,0\
+absent femoral pulses,0\
+large ascending aortic pseudoaneurysm,0\
+embolic occlusions of aorta,0\
+embolic occlusions of renal arteries,0\
+embolic occlusions of superior mesenteric artery,0\
+embolic occlusions of hepatic artery,0\
+embolic occlusions of splenic artery,0\
+well-seated prosthetic aortic valve,0\
+no perivalvular regurgitation,0\
+intravenous vancomycin,0\
+intravenous cefepime,0\
+emergency laparotomy,6\
+surgical thrombectomies of superior mesenteric artery,6\
+surgical thrombectomies of aortoiliac arteries,6\
+bilateral lower limb fasciotomies,6\
+mechanical ventilation,144\
+vasopressors,144\
+renal replacement therapy,144\
+multiple acute infarcts,144\
+intraparenchymal hemorrhages,144\
+subarachnoid hemorrhages,144\
+pigmented septate fungal hyphae,144\
+melanin in fungal cell wall,144\
+broad-spectrum antifungal therapy,144\
+liposomal amphotericin B,144\
+intravenous voriconazole,144\
+intravenous micafungin,144\
+negative blood cultures,144\
+Karius test,144\
+Curvularia species detected,144\
+fungal culture of aortic thrombus,144\
+Curvularia species,144\
+ascending aorta replacement,504\
+hemi-arch replacement graft,504\
+biological Bentall aortic root replacement,504\
+biological aortic valve replacement,504\
+large mycotic aneurysm,504\
+fungal balls,504\
+Curvularia alcornii,504\
+right neck swelling,1440\
+right external carotid artery pseudoaneurysm,1440\
+open right external carotid artery ligation,1992\
+septate hyphae,1992\
+completed liposomal amphotericin B,1992\
+completed micafungin,1992\
+suppressive oral voriconazole,1992\
+left leg pain,2448\
+left leg numbness,2448\
+fever,2448\
+voriconazole level 4.0 µg/mL,2448\
+bilateral iliac artery pseudoaneurysms,2448\
+thrombus,2448\
+abscesses,2448\
+bilateral iliac artery coil embolization,2448\
+restarted liposomal amphotericin B,2448\
+restarted micafungin,2448\
+posaconazole,2448\
+further arterial pseudoaneurysms,2448\
+persistent fever,2448\
+comfort care,3600\
+death,3600

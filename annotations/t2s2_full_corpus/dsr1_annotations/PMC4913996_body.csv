@@ -1,0 +1,107 @@
+event,time
+32 years old,0
+female,0
+admitted to the hospital,0
+lymphangioleiomyomatosis,0
+end-stage chronic respiratory failure,0
+placed on organ transplant waiting list,-105120
+rapidly progressing respiratory insufficiency,-105120
+multiple lymphangioleiomyomas in retroperitoneum,0
+repeated spontaneous pneumothoraces,0
+required drainage,0
+transesophageal echocardiography,-720
+low ejection fraction,-720
+intubated,-672
+ventilated,-672
+respiratory failure,-672
+bronchopneumonia,-648
+multiresistant Pseudomonas aeruginosa,-648
+sepsis,-648
+disseminated intravascular coagulopathy,-648
+severe bleeding from nose,-648
+severe bleeding from hypopharynx,-648
+severe bleeding from lower respiratory tract,-648
+mechanical ventilation insufficient,-144
+venovenous ECMO,-144
+urgent lung transplantation,-144
+donor found,-48
+sequential bilateral lung transplant,0
+clamshell incision,0
+arteriovenous ECMO,0
+cannulae from VV-ECMO left in place,0
+arterial cannula inserted into ascending aorta,0
+cannulation of vena jugularis interna dextra terminated,0
+anatomic disproportion,0
+donor lungs partially resected,0
+perioperative TEE,0
+hypokinetic right ventricle,0
+hypokinetic left ventricle,0
+large thrombus in left atrium,0
+diffuse bleeding,0
+coagulopathy,0
+10 L blood loss,0
+AV-ECMO left in place,0
+poor myocardial function,0
+sternotomy not closed,0
+arterial cannula remained in aorta,0
+admission to ICU,0
+severe pulmonary edema,0
+continuous leakage of edematous fluid from endotracheal tube,0
+tidal volumes 30–40 mL,0
+peak pressure 30 cm H2O,0
+PEEP 10 cm H2O,0
+cardiovascular support with norepinephrine,0
+good oxygenation,0
+immunosuppression therapy,0
+tacrolimus,0
+mycophenolate mofetil,0
+corticosteroids,0
+anticoagulation with heparin,0
+activated coagulation time target 150–200 seconds,0
+TEE performed,6
+thrombi in left atrium,6
+thrombi in right atrium,6
+high risk of embolism,6
+thrombolysis initiated,6
+25 mg alteplase over 2 hours,6
+left atrial thrombus reduced,8
+second dose 25 mg alteplase,8
+pulmonary edema resolved,10
+TEE showed no thrombi in left ventricle,10
+TEE showed no thrombi in pulmonary veins,10
+small thrombi in right atrium,10
+small thrombi in left atrium,10
+full dose 50 mg alteplase over 2 hours,24
+no thrombi detected,26
+lung function improved,168
+radiological findings improved,168
+acute kidney injury,72
+continuous renal replacement therapy,72
+heart function improved,144
+lung function improved,144
+ECMO support stopped,192
+sternotomy closed,192
+Pseudomonas aeruginosa infection resolved,192
+weaning complicated,192
+rehabilitation complicated,192
+poor muscle strength,192
+worsening lung function,216
+transbronchial biopsy,216
+tissue rejection A 1–2,216
+treated with pulses of steroids,216
+loss of consciousness,240
+posterior reversible encephalopathy syndrome,240
+epileptic status,240
+antiepileptic medications prescribed,240
+stenosis of right main bronchus,2160
+biodegradable stent implanted,2160
+pulmogenic sepsis,4320
+multiorgan failure,4320
+continuous renal replacement therapy,4320
+extubated,4320
+active rehabilitation,4320
+discharged,5040
+good quality of life,5040
+no signs of stenosis,5040
+stationary spirometric values,5040
+FEV1 38%,5040

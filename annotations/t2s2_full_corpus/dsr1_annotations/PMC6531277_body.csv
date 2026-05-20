@@ -1,0 +1,47 @@
+event,time
+85 years old,0
+female,0
+admitted to the emergency room,0
+cardiac arrest,0
+cardiopulmonary resuscitation,0
+returning to spontaneous circulation,20
+urinary tract infection,-720
+left pleuritic pain,-48
+cough,-48
+dementia,0
+arterial hypertension,0
+diabetes mellitus type II,0
+depression,0
+sedation effects,0
+no brain reflexes,0
+mydriatic pupils,0
+leukocytosis,0
+neutrophilia,0
+type II myocardial infarction,0
+right basal consolidation,0
+septic shock,0
+myocardial infarction,0
+admitted to intensive care unit,0
+antibiotics,0
+piperacillin,0
+clarithromycin,0
+vasopressor,0
+norepinephrine,0
+mechanical ventilator support,0
+brain CT scan,0
+diffuse brain edema,0
+subfalcine herniation,0
+transtentorial herniation,0
+sedation withdrawal,48
+Glasgow Coma Scale score 3/15,48
+absence of brainstem reflexes,48
+brain MRI scan,72
+BOLD signal acquisition,72
+DTI acquisition,72
+second cardiac arrest,72
+unsuccessful cardiopulmonary resuscitation,72
+deceased,72
+dorsal tegmental tract disruption,72
+ventral tegmental tract disruption,72
+reduced FA values,72
+hyperconnected functional connectivity,72

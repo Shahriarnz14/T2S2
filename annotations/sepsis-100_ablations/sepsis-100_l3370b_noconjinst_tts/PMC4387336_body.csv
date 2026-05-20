@@ -1,0 +1,56 @@
+event,time
+60 years old ,0
+male ,0
+admitted to the hospital ,0
+PAN ,-8760
+paroxysmal atrial fibrillation ,-8760
+hypertension ,-8760
+dyslipidemia ,-8760
+non-insulin dependent diabetes mellitus ,-8760
+septic shock ,-720
+scrotal pain ,0
+fever ,0
+fatigue ,0
+tachycardic ,0
+hypotensive ,0
+broad-spectrum antibiotics ,0
+vancomycin ,0
+Zosyn ,0
+kidney function worsened ,24
+switch in antibiotics to meropenem ,24
+creatinine level continued to rise ,48
+fevers without a specific source of an infection ,48
+"no focus was found on the CT chest, abdomen, and pelvis ",48
+stopping all antibiotics ,48
+macular rash ,168
+rash progressed slowly ,240
+axillary area ,240
+chest ,240
+head ,240
+neck ,240
+abdomen ,240
+decline of his mental status ,240
+worsening of skin lesions ,240
+bullae ,240
+vesicles ,240
+dermatology team was involved ,240
+biopsy was obtained ,240
+local steroid cream ,240
+AGEP ,240
+kidney injury ,240
+neutrophilia ,240
+cyclic fevers ,240
+rash became pustular ,312
+high grade fever ,312
+transfer to the intensive care unit ,312
+pulse steroids ,312
+fever subsided ,336
+improvement of the initial rash ,336
+decreased progression of sloughing ,336
+complete resolution of acute kidney injury ,336
+taper in steroids ,336
+skin biopsy ,0
+urine analysis ,0
+CT chest/abdomen/pelvis ,0
+CBC/BMP/coagulation ,0
+discharged ,720

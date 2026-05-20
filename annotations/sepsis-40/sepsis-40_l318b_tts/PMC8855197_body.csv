@@ -1,0 +1,43 @@
+event,time
+Unstable angina,-70080
+Coronary stent insertion,-70080
+Sigmart (nicorandil 5 mg),-70080
+Aspirin (enteric coated tab 100 mg),-70080
+Almarl (arotinolol 5 mg),-70080
+Herben (diltiazem 30 mg),-70080
+Chest X-ray,0
+Echocardiogram,0
+Bupivacaine (0.5% 10 mg),0
+Dexmedetomidine (0.5 μg/kg/min),0
+Pneumatic thigh tourniquet,0
+Total anesthesia time,2
+Crystalloid (600 mL),0
+Urine collection (150 mL),0
+Estimated blood loss (90 mL),0
+Arrival in recovery room,0
+Vital signs (BP 97/55 mmHg HR 41 beats/min SpO2 100%),0
+Crystalloid (400 mL),0
+Urine and blood drainage (90 mL and 70 mL),0
+Post-operative pain management,0
+Antibiotics (Refosporen 1 g and cefazedone sodium 1 g),0
+Tridol Injection (tramadol hydrochloride 50 mg/mL),24
+Glasgow coma scale score (8/15),24
+Vital signs (BP 110/70 mmHg HR 122 beats/min body temperature 37.9 °C SpO2 86%-90%),24
+Physical examination (right thigh stiff and dark brown),24
+Urine output (100 mL 220 mL 250 mL),24
+Laboratory results (CK 2763 IU/L AST 93 U/L LDH 15.2 BUN/Cr 1/1.2 mg/dL K 3.5 mEq/L),19
+Brain MRI,24
+Serum myoglobin (1027 ng/mL),24
+Random urine analysis (urine myoglobin 25.3 ng/mL red blood cell count 100/HPF),24
+Diagnosis of tourniquet-induced rhabdomyolysis,24
+Norepinephrine infusion,28
+Arterial line and central line placement,28
+Fluid treatment (5 L/d),28
+Dialysis,28
+Lasix (furosemide 20 mg injection),28
+Sodium bicarbonate (40 mL injection of 8.4%),28
+Denogan (propacetamol hydrochloride 1 g injection),28
+Restoration of mental status,30
+Elevated body temperature,32
+Cardiopulmonary resuscitation,33
+Death,33

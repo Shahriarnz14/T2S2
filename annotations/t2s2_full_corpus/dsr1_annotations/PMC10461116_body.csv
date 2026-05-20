@@ -1,0 +1,147 @@
+event,time
+56 years old,0
+male,0
+admitted to the hospital,0
+chronic left leg ulcer,0
+liver cirrhosis,0
+congestive heart failure,0
+substance use disorder,0
+bacteremia,0
+non-healing wound,0
+left leg,0
+pain in both legs,0
+chills,-24
+subjective fevers,-24
+febrile at 103.2 degrees Fahrenheit,0
+heart rate of 98 beats per minute,0
+respiratory rate of 16 breaths per minute,0
+oxygen saturation of 99 per cent,0
+mean arterial pressure of 100,0
+alert and oriented,0
+no cardiorespiratory distress,0
+no murmur,0
+no friction rub,0
+clear breath sounds,0
+soft abdomen,0
+no guarding,0
+no rigidity,0
+tenderness on deep palpation at left lower quadrant,0
+bilateral chronic venous stasis changes,0
+hyperpigmentation,0
+dryness,0
+superficial scaling,0
+edema,0
+left leg ulcer with clean margins,0
+clean base,0
+no drainage,0
+no crepitus,0
+pedal pulses appreciated,0
+grossly intact sensation,0
+grossly intact motor function,0
+"able to move knees, feet, toes",0
+right knee suprapatellar effusion,0
+not tender,0
+qSOFA score zero,0
+hypertension,0
+hyperlipidemia,0
+stroke 12 years ago,-105120
+left sided residual weakness,-105120
+Childs Pugh A liver cirrhosis,0
+untreated hepatitis C,0
+heart failure with ejection fraction 40–45 per cent,0
+polysubstance use,0
+methadone maintenance program,0
+aspirin 81 mg daily,-24
+atorvastatin 40 mg daily,-24
+ferrous sulfate 325 mg daily,-24
+folic acid 1 mg daily,-24
+gabapentin 300 mg twice a day,-24
+metoprolol succinate 50 mg daily,-24
+mirtazapine 15 mg nightly,-24
+sacubitril 24 mg,-24
+valsartan 26 mg twice a day,-24
+thiamine 100 mg daily,-24
+misses medications on occasion,-24
+multiple emergency room visits,-24
+multiple admissions for chronic left leg ulcer,-24
+previous wound cultures with Streptococcus epidermidis,-336
+previous wound cultures with Streptococcus pyogenes,-336
+admission two weeks prior,-336
+blood culture no growth,-336
+completed 10 days intravenous vancomycin,-336
+wheelchair bound,0
+lives in shelter,0
+alcohol use since 14 years old,-24
+drinking 10 tall cans beer daily,-24
+last drink one day prior to admission,-24
+denies smoking,0
+opioid use disorder with heroin since 24 years old,-24
+last heroin use 2 days prior to admission,-48
+normocytic normochromic anemia,0
+chronic thrombocytopenia,0
+white blood cells within normal limits,0
+elevated C-reactive protein,0
+normal lactic acid,0
+sinus tachycardia,0
+no acute ischemic changes,0
+blood cultures obtained,0
+loaded with intravenous vancomycin,0
+started ampicillin-sulbactam,0
+abdominal tenderness persistent,0
+urinalysis with significant hematuria,0
+urinalysis otherwise unremarkable,0
+no deep venous thrombosis,0
+normal chest radiograph,0
+right lower extremity radiography with severe joint space narrowing,0
+right knee small suprapatellar joint effusion,0
+left lower extremity radiography with moderate degenerative changes,0
+left knee suprapatellar joint effusion,0
+subcutaneous emphysema at left leg,0
+CT abdomen and pelvis bibasilar atelectasis,0
+coronary artery atherosclerosis,0
+cardiomegaly,0
+nodular liver contour,0
+liver enlargement,0
+mild splenomegaly,0
+splenorenal varices,0
+gastric varices,0
+degenerative changes L5-S1,0
+blood cultures positive Empedobacter falsenii,96
+multidrug resistance,96
+urine culture no growth,96
+swab culture left leg ulcer vancomycin-resistant Enterococcus faecalis,96
+received vancomycin,0
+started piperacillin-tazobactam,0
+urology consult,0
+urine cytology ordered,0
+prostate specific antigen levels ordered,0
+started tamsulosin,0
+wound care recommended,0
+cleansing with normal saline,0
+XeroForm occlusive gauze,0
+foam dressing,0
+Kerlix wrap daily,0
+orthopedics consult,0
+compressive knee support,0
+ice packs,0
+elevation of lower extremities,0
+careful weight bearing,0
+shifted to intravenous cefepime,96
+fever defervesced on day 2,48
+afebrile rest of stay,72
+improved during admission,120
+discharged home,168
+oral trimethoprim-sulfamethoxazole for 7 days,168
+missed follow up,672
+admitted another hospital left lower extremity cellulitis,672
+urinary tract infection,672
+urine culture Klebsiella pneumoniae,672
+levofloxacin 5 days,672
+discharged after antibiotics,672
+readmitted 2 months later,1440
+acute hypoxemic respiratory failure,1440
+pneumonia,1440
+septic shock,1440
+encephalopathy,1440
+blood culture Klebsiella pneumoniae,1440
+bronchial aspirate culture multi-drug resistant Staphylococcus aureus,1440

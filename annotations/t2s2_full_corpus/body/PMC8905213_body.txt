@@ -1,0 +1,115 @@
+pmcIntroduction
+
+Autopsy reports of the lungs in COVID-19 to date have primarily shown acute respiratory distress syndrome (ARDS) with diffuse alveolar damage (DAD). Many recent findings have reported a wider spectrum of histological lesions involving both epithelial and vascular components of the lung and other organs. In particular, several stages of COVID-19-related lung disease have been identified 1 :
+
+(a) initial stage with edema, incipient epithelial damage (24 hours);
+
+(b) exudative phase of DAD (days 1-7);
+
+(c) organizing phase of diffuse fibrosis (weeks to months).
+
+Although this indicates an orderly progression along the different stages, and the fibrotic stage is usually associated with long-standing severe disease, it should be noted that several manifestations of DAD frequently coexist, reflecting the marked spatial and temporal heterogeneity of COVID-19. 2 Thrombosis of large and medium-sized vessels, mostly arteries, associated with widespread endothelial damage is a frequent feature of COVID-19. 3
+
+One of the thorny issues from a clinical and healthcare point of view in the management of the patient concerns the advanced stage of DAD, which is characterized by changes that merge into interstitial myofibroblastic proliferations, deposition of septal collagen, development of loose alveolar plugs of fibroblastic tissue and mural fibrosis. When it comes to these advanced stages of lung injury, the patient is treated with respiratory support 4 (including high-flow nasal cannula, non-invasive positive pressure ventilation, and intubation) for several days, with the risk of incurring ventilator-induced lung injury (VILI) or ventilator-associated lung injury (VALI). In addition, nosocomial bacterial superinfections are likely to occur, linked to prolonged hospitalization and/or imperfect care management of the bedridden patient. 5
+
+This report describes the autopsy case of a patient with advanced COVID-19 ARDS, who was treated for a long period with non-invasive and invasive ventilation and who developed polymicrobial lung superinfection. After analyzing the subject’s clinical story and presenting the pulmonary anatomopathological findings, we point out some healthcare aspects that should lead to an adequate diagnostic framework and correct patient care management.
+
+Case Presentation
+
+A 62-year-old male patient with COVID-19 (infection confirmed by RT-PCR molecular test, made after the onset of dyspnea and asthenia), not vaccinated, was admitted to an emergency medicine unit complaining of a cough, asthenia, dyspnea, fever (38°C) and oxygen saturation (SaO2) of 93%. He was affected by hypertension in treatment and left hydronephrosis (II-III grade) sustained by kidney stones. The thoracic CT taken at the time of admission revealed bilateral pneumonia with diffuse ground-glass opacity (GGO). The patient’s clinical condition worsened significantly from the time of admission to arrival in the medical ward, and he had to be shifted to an Intensive Care Unit (ICU) requiring nasal intermittent positive pressure ventilation (NIPPV) alternated with Venturi mask, with oxygen at 14 l/m. In ICU (with pO2 of 42.5 mmHg and pCO2 of 32.9 mmHg), continuous positive airway pressure (CPAP) was immediately applied. In the space of a few days he received endotracheal intubation and mechanical ventilation; lung-protective ventilation with low-medium tidal volume (VT) at 6 mL/kg was adopted. The patient was also placed in the prone position for cycles of several hours during the day. After 2 weeks of hospitalization, he presented positivity to Klebsiella pneumoniae in bronchoaspirate. A chest X-ray revealed consolidation in the left lower lobe (LLL). SaO2 remained stable above 90%; however there was a progressive increase of the D-dimer, reaching the values of 974 ng/mL. In the third-fourth week there was positivity of blood culture to Staphylococcus capitis, as well as positivity to Stenotrophomonas maltophilia and evidence of bronchoaspiration. The patient’s clinical condition progressively worsened with severe hypoxemia and ventilator maladjustment, severe respiratory acidosis and hypotension despite supportive drug therapy. After thirty-seven days of hospitalization, the patient died. He maintained mechanical ventilation until death, the last 2 weeks via tracheostomy.
+
+The case was brought to the attention of the Judicial Authority (Italian Office of the State Prosecutor), which launched an investigation to understand if there had been issues regarding management and assistance to the patient. So, it was necessary to examine in detail the clinical history and health documentation, define the causes of death, describe the histopathological findings, assess in particular whether the pulmonary findings were the direct consequence of COVID-19 infection or also of other concausal factors.
+
+Autopsy
+
+A postmortem lower respiratory tract swab for COVID-19 was negative. This could have been interpreted as a resolution of the original COVID-19 infection or as a low viral load in the upper respiratory tract, or explained by the fact that several hours had elapsed since death at the time of the autopsy, resulting in non-survival of the virus in the corpse.
+
+Anatomopathological examination confirmed signs of sepsis.
+
+Macroscopic findings included:
+
+- suppurative pericarditis and mural thrombi in the large heart vessels;
+
+- superficial microhemorrhagic areas and parenchymal congestion in the kidneys;
+
+- necrotic area including the fifth and sixth hepatic segment and liver parenchymal congestion.
+
+Microscopic findings showed:
+
+- glomerular collapse, acute tubulointerstitial nephritis, occasional thrombosis of the renal arterioles;
+
+- in the liver, hepatic centrilobular vein thrombosis, periportal inflammation, massive dilatation and congestion of the hepatic sinusoids, signs of mild cholestasis.
+
+Pulmonary anatomopathological findings
+
+Both lungs (the right weighing 885 g and the left 852 g) had an increased parenchymal density, with whitish fibrotic areas alternating with areas of pulmonary infarction (Figure 1).
+
+Figure 1. Left lung showing pattern of patchy areas of white consolidation alternating with infarcted areas.
+
+Microscopic aspects of the lung consisted in advanced DAD. In particular, the parenchymal-alveolar architecture was altered due to the presence of collagen/fibrotic replacement tissue and scattered large protein globules (Figure 2). Vascular microthrombosis and fibrosis with obliteration of the lumen was detected (Figure 3). Parenchymal cells mainly included fibroblasts, macrophages and type II hyperplastic pneumocytes.
+
+Figure 2. DAD pattern with scattered large protein globules (black arrows) (a) Hematoxylin and eosin stain, ×10 and fibrotic replacement tissue (b) Masson’s Trichrome Stain, ×10.
+
+Figure 3. Vascular fibrosis with obliteration of the lumen in a larger vessel and reduction of the lumen of small adjacent vessels (Masson’s Trichrome Stain, ×40).
+
+Discussion
+
+ARDS causing respiratory failure is a frequent cause of morbidity and mortality in COVID-19 patients and often necessitates mechanical ventilation (MV). 6 However, lung inflammation can be augmented by the mechanical forces of MV. 7 VILI is clinically indistinguishable from ARDS, therefore it is difficult to determine whether the virus, the disease process (ARDS) or the treatment (MV) is the responsible mechanism for lung damage (which may be irreversible). Alveolar overdistension, atelectrauma, and biotrauma are the principal mechanisms of VILI, although the relative contribution of each is unknown. 8 Alveolar injury results in high alveolar permeability, interstitial and alveolar edema, alveolar hemorrhage, hyaline membranes, loss of functional surfactant, and alveolar collapse. In addition to direct structural damage, an inflammatory response can be determined not only local, but also systemic (biotrauma) that propagates injury to non-pulmonary organs, with possible multiple organ dysfunction syndrome (MODS) and death. 9
+
+Bronchopneumonia as an indication of bacterial or (less commonly) fungal superinfection has been described in a large autopsy series, although it is currently unclear how frequently superinfection causes death. 10 Patients who have severe forms of the disease and those requiring a prolonged stay in ICUs are more inclined to develop superinfections by nosocomial pathogens. 11 In fact, mechanical ventilation is frequently required to support patients with severe COVID-19 admitted to ICUs, along with heavy sedation, prone positioning, and muscle blockers for prolonged periods which can increase the risk of acquiring secondary nosocomial infection, mainly ventilator-associated pneumonia (VAP). 12
+
+Thromboembolism and hypercoagulability may be implicated in pathogenesis of pulmonary fibrosis. A possible mechanism would be pulmonary emboli leading to lung injury and damage, triggering or contributing to fibrosis. 13 Grosse et al 14 evaluated the spectrum of cardiopulmonary histopathology of COVID-19 based on non-minimally invasive autopsies, and their findings revealed different stages of DAD in all 14 patients assessed, with the presence of thrombotic/thromboembolic vascular occlusions in an overwhelming majority. Thus, pulmonary artery thrombi in COVID-19 may be attributable to dysregulation of the inflammatory and reparatory mechanisms as a result of DAD.
+
+Our case concerns the result of lung injury from initial COVID-19 infection, which was followed by a necessary prolonged period of assisted ventilation that inevitably aggravated the lung condition with a VILI. Finally, sepsis by Klebsiella pneumoniae, Staphylococcus capitis, and Stenotrophomonas maltophilia was demonstrated, which contributed to subverting the pulmonary cytoarchitecture.
+
+With the progressive increase in hospitalizations of COVID-19 cases, especially in ICU, it has been shown that SARS-CoV-2 can facilitate the colonization and attachment of bacteria to the respiratory tissue of the host, leading to mixed infections. Likewise, bacterial superinfection can facilitate the systemic spread of the virus, increasing the risk of septic shock.15,16 Review studies have shown that up to 25% of in hospitalized and non-hospitalized patients with COVID-19 may have superinfections, with poor therapeutic outcomes, including increased mortality. The most involved pathogens are bacterial. 17
+
+Focusing on our case, it is well known as Klebsiella pneumoniae is an opportunistic pathogen, which mostly affects those with weakened immune systems and tends to cause nosocomial infections. It utilizes a variety of virulence factors for survival and immune evasion during infection. Klebsiella pneumonia is particularly liable to suppurate and form lung abscesses, which may progress to massive pulmonary gangrene. 18
+
+Coagulase-negative staphylococci (CoNS) have emerged as major causes of opportunistic nosocomial infections. These microorganisms usually infect premature neonates and immunocompromised patients, particularly those hospitalized with indwelling devices such as central venous catheters. In particular Staphylococcus capitis 19 has been implicated in biofilm-related infections such as endocarditis, urinary tract infection, and catheter-related bacteremia. Like other CoNS, its pathogenicity derives from the formation of biofilms resulting in resistance to antibiotics such as methicillin.
+
+Stenotrophomonas maltophilia is responsible for various infectious diseases and death in hospitalized patients especially among the immunosuppressed, immunocompromised as well as those with medical implants. It has been associated with a significant decline in pulmonary function especially in patients with pre-existing major pulmonary insufficiency. 20
+
+This finally resulted in a pulmonary pattern characterized by massive parenchymal and vascular fibrosis (Figure 4).
+
+Figure 4. Pathophysiological mechanisms for the genesis of pulmonary fibrosis in the presented case.
+
+Fibrosis is a known sequelae of Acute Respiratory Distress Syndrome. There are different potential ways in which COVID-19 could promote fibrogenesis, including activation of inflammatory pathways, injury to the alveolar epithelium, and vascular alterations. All these pathways lead to cytokine activation. 21
+
+Clarifications were provided to the Judicial Authority, highlighting all the aforementioned points. It was reported that the evolution of COVID-19 disease is highly variable and that many patients are hospitalized when they already have initial interstitial pneumonia, even with not yet alarming vital signs. Then, the Judicial Authority was informed that pulmonary fibrosis was the result of an ARDS in which the 3 mechanisms illustrated in Figure 4 took part. The only critical aspect was the lack of an internal epidymological investigation to monitor nosocomial superfections in patients hospitalized for COVID-19.
+
+In light of what has been observed, the following useful recommendations can be made in the context of COVID-19-related respiratory medicine.
+
+(1) The health professional has to follow patient management recommendations based on disease severity, especially for patients who have recently been hospitalized and who have rapidly increasing oxygen requirements.
+
+(2) The prevention and management of VILI is the same as for patients with ARDS 22 ; health professional specialists in the field should be aware of the increased incidence of VILI and its possible manifestations in COVID-19 pneumonia. Intensive care physicians can initiate appropriate ventilatory settings to prevent VILI in ARDS and non-ARDS patients. 23
+
+(3) Due to the challenges involved in treating pulmonary fibrosis and the lack of effective therapies, it is essential to minimize the factors implicated in the perpetuation of the cycle that leads to persistent lung injury, prolonged inflammatory response, and fibroproliferation. 24
+
+(4) For COVID-19 patients suffering from ARDS and receiving mechanical ventilation, a multidisciplinary diagnostic-therapeutic approach is recommended, with the recruitment of various professional figures including an anesthetist, a pulmonologist, an infectious disease specialist, and a cardiologist. 25
+
+(5) In addition to lung damage, a multi-organ assessment must be always made; in our case, in fact, there was also a suppurative pericarditis. Although the pathophysiology of pericarditis in COVID-19 is still under investigation, a systemic inflammatory response and subsequent COVID-19-related cytotoxic and immune-mediated effects have been reported as a trigger. 26
+
+(6) It is necessary to calibrate antimicrobial therapy management to prevent the onset of septicemia. Constant epidemiological investigations are recommended in each hospital, through the activation of Clinical Risk Units and Internal Audits, to monitor hospital superinfections in COVID-19 patients. 27
+
+(7) Rapid detection of bacterial infections may also limit the development of virus super-spreaders. It is important to isolate patients with known bacterial infections in designated wards and apply effective infection control measures in order to limit the super-spread of COVID-19, as hospitalized patients could be co-infected with the virus causing an exponential increase of COVID-19 in the same health facility. 28
+
+(8) To avoid personal injury or compensation claims for COVID-19-related death, it is important to provide the patient and family members in permitted situations with adequate information on the possible medical sequelae of COVID-19, including the potential complications of assisted ventilation, as well as the possibility of developing infections linked to prolonged hospitalization. 29
+
+Conclusions
+
+The COVID-19 pandemic has highlighted the critical importance of the histopathologic examination of tissues, especially in the setting of clinical autopsies, for elucidating pathomechanisms and the underlying causes of death in emerging diseases. Given the massive extent of the pandemic, significant efforts have been made to maximize the information gained from postmortem examinations in fatal COVID-19. Superinfections are a major risk factor for adverse outcomes in COVID-19, and hospitalized patients with severe illness supported by mechanical ventilation are the most exposed. Rapid diagnosis of secondary bacterial infections can improve the outcome, especially in high-risk groups, so there is a continuous need for prospective studies to assess the diagnostic performance of biomarkers to prevent bacterial superinfection.
+
+However, it remains difficult to establish the exact mechanism of “cause and effect” when all the above situations arise in the same hospitalized patient.
+
+Thanks to Jemma Dunnill for proofreading the manuscript.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Author Contributions: Roberto Scendoni conceived the study idea, designed the study, drafted the manuscript. Diego Gattari made significant edits to the manuscript text. Mariano Cingolani helped draft and supervise the entire manuscript.
+
+ORCID iDs: Roberto Scendoni https://orcid.org/0000-0003-1910-2405
+
+Mariano Cingolani https://orcid.org/0000-0003-1916-1819

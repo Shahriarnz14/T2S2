@@ -1,0 +1,75 @@
+event,time
+47 years old,0
+male,0
+presented at emergency clinic,0
+chest pain,-27
+shortness of breath after activity,-27
+chest pain aggravated upon deep inhalation,0
+chest pain aggravated upon turning over,0
+nitroglycerin administration,0
+symptoms relieved by nitroglycerin,0
+symptoms reappeared 1 to 2 hours later,0
+heart stent implantation,0
+hypertension,0
+smoking index 500,0
+lobster catering company worker,0
+electrocardiogram normal,0
+troponin T normal,0
+chest computed tomography,0
+inflammation of lower lobes in both lungs,0
+inflammation of inferior lingular segment of left lung,0
+left pleural effusion,0
+intravenous ceftazidime 2g every 12 hours,0
+left lower lung dullness on percussion,0
+left lung breath sounds low,0
+no rale heard in both lungs,0
+transferred to department of respiratory and critical care medicine,48
+intravenous levofloxacin 0.5g once daily,48
+ultrasound-guided thoracentesis drainage,96
+adenosine deaminase 50.3 U/L,96
+lactate dehydrogenase 2523 U/L,96
+protein level 49.64 g/L,96
+pleural fluid cytology negative for bacteria,96
+pleural fluid cytology negative for tumor cells,96
+antibiotics adjusted to ceftazidime and moxifloxacin,120
+rise in peak body temperature,120
+antibiotics adjusted to meropenem and moxifloxacin,192
+no significant changes in body temperature peak,192
+re-examination chest CT,216
+double-under pneumonia roughly same,216
+pleural effusion increased,216
+C reactive protein re-examined,240
+erythrocyte sedimentation rate re-examined,240
+blood routine examination re-examined,240
+no obvious changes in lab results,240
+bronchoscopy performed,360
+alveolar lavage fluid collected,360
+mNGS analysis performed,360
+bronchoscopy no abnormalities,360
+fever disappeared,360
+mNGS results received,408
+Gardnerella vaginalis detected,408
+Corynebacterium urealyticum detected,408
+Atopobium vaginae detected,408
+Lactobacillus iners detected,408
+Prevotella amnii detected,408
+Mycobacterium chelonae detected,408
+sputum culture negative,408
+blood culture negative,408
+urine culture negative,408
+discharged from hospital,456
+chest CT prior to discharge,456
+left interlobular fissure pleural effusion wrapped,456
+left lower lobe pleural effusion slightly reduced,456
+ornidazole 0.5g orally twice daily prescribed,456
+follow-up on November 14th 2020,480
+chest CT review,480
+right lower lobe inflammation absorbed,480
+left interlobular fissure effusion reduced,480
+ornidazole tablets 2-week regimen restarted,480
+telephone follow-up,480
+outpatient clinic follow-up February 6th 2021,2400
+no chest tightness,2400
+no discomfort,2400
+chest CT inflammation absorbed in right lower lobe,2400
+left lung inflammation basically absorbed,2400

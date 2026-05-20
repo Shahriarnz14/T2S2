@@ -1,0 +1,79 @@
+event,time
+29 years old,0
+male,0
+admitted to the hospital,0
+severe dysphonia,0
+dyspnea,0
+15 kg weight loss in 6 months,-4320
+recurrent fever,0
+coughing,-336
+fever,-336
+leg pain,-336
+elevated LDH (298 U/L),-336
+elevated CRP (11.5 mg/dL),-336
+elevated uric acid (8.7 mg/dL),-336
+elevated d-dimer (1.58 mg/dL),-336
+discharged,-336
+symptomatic treatment,-336
+elevated LDH (444 U/L),0
+elevated uric acid (8 mg/dL),0
+elevated CRP (27.7 mg/dL),0
+cervical lymphadenopathy,0
+supraclavicular lymphadenopathy,0
+left vocal cord paresis,0
+FDG uptake in left hemithorax,0
+FDG uptake in mediastinum,0
+FDG uptake in supraclavicular lymph nodes,0
+infradiaphragmal lymph nodes,0
+intrapulmonary masses,0
+cervical lymph node removed,24
+diffuse proliferation of centroblastic lymphoid cells,24
+high proliferative activity (80% Ki-67),24
+CD20 positive,24
+Pax5 positive,24
+Bcl6 co-expression,24
+MUM-1 co-expression,24
+CD5 negative,24
+CD23 negative,24
+Cyclin D1 negative,24
+CD30 negative,24
+EBV negative,24
+DLBCL diagnosis,24
+stage IVB DLBCL,24
+bone marrow biopsy negative,24
+prephase dexamethasone 40 mg daily,24
+dyspnea regression,48
+dysphonia regression,48
+Rituximab-CHOP regimen initiated,48
+Rituximab 375 mg/m2 day 1,48
+doxorubicin 50% reduced,48
+cyclophosphamide 50% reduced,48
+vincristine 2 mg total cycle 1,48
+vincristine 1 mg subsequent cycles,48
+prednisolone 100 mg days 1–5,48
+cotrimoxazole 960 mg 3x/week,48
+valaciclovir 500 mg twice daily,48
+posaconazole 300 mg once daily,48
+ciprofloxacin 500 mg twice daily during neutropenia,48
+PEGylated G-CSF day 4,52
+cycles 2–6 outpatient,72
+additional Rituximab at 3 weeks,504
+additional Rituximab at 6 weeks,1008
+PET/MRI complete remission,1008
+"follow-up at 3, 6, 9, 12 months",2160
+mediastinal/hilar lymphadenopathy at 12 months,8760
+biopsy chronic inflammation,8760
+ongoing CR,8760
+NBS diagnosis at birth,-262800
+stage IV nodular sclerosis cHL in 2011,-61320
+attenuated chemotherapy,-61320
+CR after 4 cycles,-61320
+liver failure,-61320
+kidney failure,-61320
+fungal sepsis,-61320
+restored liver function,-61320
+restored kidney function,-61320
+selective IgG4 deficiency at birth,-262800
+previous intensive care hospitalization,-61320
+DNA repair disorder,-262800
+immunodeficiency,-262800

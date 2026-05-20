@@ -1,0 +1,65 @@
+event,time
+unstable angina ,-192
+coronary stent insertion ,-192
+Sigmart (nicorandil 5 mg) ,-192
+"aspirin (enteric coated tab, 100 mg) ",-192
+Almarl (arotinolol 5 mg) ,-192
+Herben (diltiazem 30 mg) ,-192
+aspirin stopped ,-168
+admission ,0
+chest X-ray ,0
+echocardiogram ,0
+hematological parameters ,0
+BUN/Cr ,0
+hemoglobin ,0
+"bupivacaine (0.5%, 10 mg) ",0
+dexmedetomidine ,0
+pneumatic thigh tourniquet ,0
+crystalloid ,0
+estimated blood loss ,0
+vital signs ,0
+recovery room ,0
+vital signs ,0
+AutoFuser ,0
+Refosporen ,0
+cefazedone sodium ,0
+Tridol Injection ,12
+severe pain on the right thigh ,12
+shivering ,12
+drowsy mental state ,24
+Glasgow coma scale ,24
+vital signs ,24
+electrocardiogram ,24
+physical examination ,24
+urine collected ,24
+oliguria ,24
+CK ,19
+CK-MB ,19
+AST ,19
+BUN/Cr ,19
+troponin-I ,19
+coagulation panel ,19
+thrombocytopenia ,19
+fibrinogen degradation product ,19
+D-dimer ,19
+DIC ,19
+brain MRI ,25
+serum myoglobin ,25
+random urine analysis ,25
+urine myoglobin ,25
+red blood cell count ,25
+tourniquet-induced rhabdomyolysis ,25
+AKI ,25
+norepinephrine ,26
+ICU ,26
+arterial line ,26
+central line ,26
+fluid treatment ,26
+Lasix ,26
+sodium bicarbonate ,26
+Denogan ,26
+fever ,28
+vital signs ,28
+cardiac arrest ,33
+CPR ,33
+death ,33

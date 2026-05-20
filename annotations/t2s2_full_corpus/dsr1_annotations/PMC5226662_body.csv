@@ -1,0 +1,91 @@
+event,time
+54 year old,0
+male,0
+autism,0
+bipolar disorder,0
+intellectual disability,0
+urinary incontinence,0
+scrotal swelling,-24
+admitted to the emergency department,0
+blood pressure 131/83,0
+febrile,0
+temperature 101.2F,0
+maximum temperature 103F,0
+tachycardic,0
+heart rate 111 beats/min,0
+respiratory rate 16 breaths/min,0
+oxygen saturation 100% on room air,0
+awake,0
+disheveled,0
+disoriented,0
+not following commands,0
+unremarkable cardiac exam,0
+unremarkable respiratory exam,0
+unremarkable gastrointestinal exam,0
+scrotum swelling,0
+scrotum erythema,0
+leukocytosis 20k/uL,0
+neutrophil predominance 74%,0
+bandemia 5%,0
+acute renal injury,0
+creatinine 1.38 mg/dL,0
+lactatemia 1.8 mmol/L,0
+urinalysis pyuria,0
+WBC >50 cells/hpf,0
+leukocyte esterase concentration large,0
+RBC 10-25 cells/hpf,0
+blood cultures sent,0
+urine cultures sent,0
+started intravenous vancomycin,0
+started piperacillin/tazobactam,0
+ultrasound testicles,0
+scrotal wall thickening,0
+right testes 3.8 × 1.3 × 2.5 cm,0
+left testes 3.6 × 1.7 × 2.4 cm,0
+normal echogenicity,0
+normal echotexture,0
+no masses,0
+no areas of architectural distortion,0
+normal blood flow pattern,0
+no hydrocele,0
+no varicocele,0
+distended urinary bladder,0
+ultrasound kidneys,0
+moderate hydronephrosis right kidney,0
+CT abdomen and pelvis,0
+perineal abscess 3.8 × 5.2 × 5.2 cm,0
+urinary bladder distention,0
+bilateral hydronephrosis,0
+right hydronephrosis greater than left,0
+septic shock,24
+transferred to medical intensive care unit,24
+resuscitated,24
+norepinephrine initiated,24
+interventional radiology guided aspiration,24
+suprapubic catheter placement,24
+aspirated 30 mL purulent sanguinous fluid,24
+abscess culture sent,24
+abscessogram performed,24
+collapsed amorphous cavity,24
+blood cultures negative,72
+abscess culture gram positive cocci,72
+Aerococcus urinae identified,96
+stabilized,96
+norepinephrine discontinued,96
+returned to medicine floor,96
+repeat CT pelvis,168
+near-complete resolution peripenile abscess,168
+persistent cavity,168
+persistent output,168
+catheter remained in place,168
+repeat CT,240
+fluoroscopic guided tube check,240
+drainage catheter removal,240
+failed trial of voiding,240
+retention 400 mL at 10 hours,240
+suspected urethral strictures,240
+suprapubic catheter remaining,240
+discharged to group home,240
+follow-up with urologist,240
+oral amoxicillin/clavulanate,336
+completed two weeks antimicrobials,336

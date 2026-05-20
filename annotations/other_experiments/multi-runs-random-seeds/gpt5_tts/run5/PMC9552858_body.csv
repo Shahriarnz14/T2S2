@@ -1,0 +1,139 @@
+event,time
+male ,0.0
+delivered by emergency cesarean delivery ,0.0
+abruptio placenta ,0.0
+31 weeks of pregnancy ,0.0
+birth weight 1090 g ,0.0
+first newborn resuscitation attempt ,0.0
+Apgar 1 min 4 ,0.017
+Apgar 5 min 8 ,0.083
+mild respiratory distress ,0.0
+respiration rate 65 breaths per min ,0.0
+chest retraction ,0.0
+CPAP 6 positive end expiratory pressures ,0.0
+FIO2 30% ,0.0
+admitted to the Neonatal Intensive Care Unit ,0.0
+cloudy eyes ,0.0
+ectropion ,0.0
+dry ichthyotic skin ,0.0
+typical male genitalia ,0.0
+bilaterally undescended testicles ,0.0
+no signs of dysmorphia ,0.0
+height 75th percentile ,0.0
+weight 25th percentile ,0.0
+head circumference 25th percentile ,0.0
+temperature 36.2°C ,0.0
+neurologically fine ,0.0
+heart rate 167 beats per min ,0.0
+breath sounds from both sides of the lung were equal ,0.0
+no organomegaly in the abdomen ,0.0
+blood count normal ,0.0
+electrolytes normal ,0.0
+liver function normal ,0.0
+ground-glass opacity on the X-ray ,0.0
+minor respiratory acidosis on blood gas ,0.0
+Acute respiratory distress syndrome diagnosed ,0.0
+surfactant dosage given ,0.5
+bowel movement ,12.0
+trophic feeding to give the baby breast milk started ,72.0
+abdominal distension ,144.0
+tachycardia ,144.0
+tachypnea ,144.0
+thrombocytopenia ,144.0
+neutropenia ,144.0
+C-reactive protein 70 mg/L ,144.0
+meropenem started ,144.0
+vancomycin started ,144.0
+trophic feeding stopped ,144.0
+antibiotics discontinued ,216.0
+feeding restarted at a rate of 30 mL/kg/day ,216.0
+weaned from CPAP ,240.0
+high-flow oxygen treatment started ,240.0
+relapses of unexplained apnea ,336.0
+CPAP required ,336.0
+FIO2 30% ,336.0
+septic examination negative ,336.0
+persistence of conjugated hyperbilirubinemia ,336.0
+albumin began to decline ,168.0
+relapses of unexplained apnea ,504.0
+CPAP required ,504.0
+FIO2 30% ,504.0
+septic examination negative ,504.0
+brain magnetic resonance imaging normal ,504.0
+nasogastric tube feeding about half of nutritional requirements ,504.0
+occasional breast milk ,504.0
+preterm formula ,504.0
+no pale stools ,504.0
+neonatal cholestasis workup recommended ,504.0
+suspected total parenteral nutrition-associated cholestasis ,504.0
+increased nasogastric feeding volume ,504.0
+TPN adjusted ,504.0
+lipid infusion adjusted to 0.5 g/kg/day ,504.0
+carbohydrate intake increased to 15 kcal/kg/day ,504.0
+carnitine supplementation added ,504.0
+ursodeoxycholic acid 30 mg/kg/day started ,504.0
+bile acid 120 umol/L ,504.0
+ECHO normal ,504.0
+X-ray spine no abnormalities ,504.0
+eye examination normal ,504.0
+abdominal ultrasonography repeat: normal-appearing gallbladder ,600.0
+no intrahepatic or extrahepatic biliary tree dilatation ,600.0
+no hepatosplenomegaly on ultrasonography ,600.0
+hepatobiliary scintigraphy test difficult ,600.0
+craniosynostosis on skull X-ray ,672.0
+FiO2 weaned to 21% ,720.0
+cholestasis worsened despite ursodeoxycholic acid ,840.0
+TORCH screening normal ,840.0
+Hepatitis A negative ,840.0
+Hepatitis B negative ,840.0
+Hepatitis C negative ,840.0
+thyroid function normal ,840.0
+TSH normal ,840.0
+T3 normal ,840.0
+T4 normal ,840.0
+cortisol normal ,840.0
+galactosemia negative ,840.0
+tyrosinemia type 1 negative ,840.0
+urine for reducing substance negative ,840.0
+tandem mass spectrometry normal ,840.0
+urine organic acid normal ,840.0
+serum amino acid non-specific elevation of multiple amino acid ,840.0
+no micropenis ,840.0
+no history of hypoglycemia ,840.0
+panhypopituitarism not confirmed ,840.0
+total bilirubin 69.8 umol/L ,504.0
+direct bilirubin 21.8 umol/L ,504.0
+hypoalbuminemia ,1008.0
+multiple albumin infusions ,1008.0
+bilirubin levels rose ,1008.0
+AST levels rose ,1008.0
+ALT levels rose ,1008.0
+whole-exome sequencing sent ,1344.0
+liver biopsy deferred ,1344.0
+caffeine 5 mg/kg/day started ,504.0
+hemoglobin optimization ,504.0
+caffeine failed to manage recurrent apnea and bradycardia ,1344.0
+phenobarbitone used empirically ,1344.0
+portable electroencephalogram not available ,1344.0
+severe cyanosis ,2184.0
+apnea ,2184.0
+bradycardia ,2184.0
+aggressive cardio-respiratory resuscitation 3 min ,2184.0
+epinephrine provided ,2184.0
+intubation ,2184.0
+mechanical breathing ,2184.0
+septic shock ,2184.0
+multiorgan failure ,2184.0
+disseminated intravascular coagulation ,2184.0
+acute renal damage ,2184.0
+capillary leak syndrome ,2184.0
+C-reactive protein 223.3 mg/L ,2208.0
+inotropic support ,2184.0
+high-frequency oscillating ventilation ,2184.0
+continuous inhaled nitric oxide treatment ,2184.0
+Enterobacter cloacae gram-negative sepsis ,2304.0
+died ,2400.0
+whole exome sequencing results received ,2568.0
+ALGS2 due to NOTCH2 pathogenic heterozygous variant c.1076C>T (Ser359Phe) chr1:120512166 diagnosed ,2568.0
+segregation analysis recommended ,2568.0
+family genetic counseling not yet documented ,2568.0

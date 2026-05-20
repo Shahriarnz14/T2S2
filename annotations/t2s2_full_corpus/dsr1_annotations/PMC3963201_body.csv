@@ -1,0 +1,46 @@
+event,time
+36 years old,0
+male,0
+presented to institute,0
+low-grade fever,-96
+sore throat,-96
+myalgia,-96
+nausea,-96
+temperature 38.1°C,0
+injected pharynx,0
+no neck tenderness,0
+no neck swelling,0
+"thrombocytopenia (45,000/uL)",0
+hemoglobin 14.8 g/dL,0
+WBC 8700 cells/uL,0
+neutrophil 85%,0
+band form 6%,0
+elevated creatinine 2.1 mg/dL,0
+diagnosed with viral upper respiratory tract infection,0
+admitted to general medicine service,0
+received 2 L intravenous normal saline,0
+developed high fever (39.2°C),24
+pleuritic chest pain,24
+low blood pressure (80/50 mmHg),24
+transferred to ICU,24
+resuscitated with intravenous fluids,24
+blood cultures obtained,24
+empirical antibiotics (vancomycin and piperacillin/tazobactam) initiated,24
+chest X-ray bilateral patchy and irregular parenchymal opacities,24
+chest CT right-sided pleural effusion,24
+multiple thick-walled cavitary and nodular opacities (septic emboli),24
+blood cultures grew F. necrophorum,48
+antibiotic therapy narrowed to piperacillin/tazobactam,48
+responded well to fluids and antibiotics,48
+blood pressure normalized,48
+no vasopressor use,48
+no mechanical ventilation,48
+received 5 L intravenous normal saline total,48
+venous duplex ultrasonography thrombus in left IJV,48
+diagnosed with Lemierre's syndrome,48
+pleural effusion managed conservatively,48
+piperacillin/tazobactam continued for 7 days,48
+discharged home,336
+intravenous ertapenem for 4 weeks,336
+recovered well,336
+no anticoagulation,336

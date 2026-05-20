@@ -1,0 +1,81 @@
+event,time
+10 years old,0
+male,0
+admitted to the hospital,0
+history of pain in epigastrium,-24
+dull pain,-24
+mild to moderate pain,-24
+no radiation of pain,-24
+hepatomegaly,0
+computed tomography scan abdomen,-24
+cystic lesion in left lobe of liver,-24
+small cysts in right kidney,-24
+normal blood investigations,-24
+normal liver function tests,-24
+anti-Echinococcus IgG antibody positive,-24
+hydatid cyst of liver,-24
+hydatid cyst of kidney,-24
+posted for laparoscopic removal of hepatic cysts,0
+posted for laparoscopic removal of renal cysts,0
+normal baseline haemodynamic parameters,0
+inhalational induction with sevoflurane,0
+administered fentanyl,0
+administered vecuronium,0
+tracheal intubation,0
+injection of 2.5 L 10% povidone-iodine into hepatic hydatid cyst,0
+heart rate increased from 110 to 180/min,1
+hypercarbia (end-tidal CO2 55 mmHg),1
+hyperthermia (35.1 to 37.4°C),1
+administered paracetamol,1
+administered normal saline bolus,1
+arterial blood gas pH 7.14,1
+arterial blood gas pCO2 36.5 mmHg,1
+arterial blood gas pO2 135 mmHg,1
+arterial blood gas SO2 97.7%,1
+arterial blood gas K+ 7.4 mmol/L,1
+arterial blood gas Na+ 127 mmol/L,1
+arterial blood gas Ca+ 0.81 mmol/L,1
+arterial blood gas Cl- 249 mmol/L,1
+arterial blood gas lactate 4.3 mmol/L,1
+arterial blood gas base deficit -15 mmol/L,1
+arterial blood gas HCO3 12.7 mmol/L,1
+arterial blood gas Hb 16 gm%,1
+normal blood pressure,1
+normal airway pressures,1
+decreased urine output,1
+administered second fluid bolus,1
+administered frusemide 15 mg IV,1
+improved urine output,1
+diagnosis of anaphylaxis suspected,1
+administered hydrocortisone,1
+administered pheniramine maleate,1
+shifted to intensive care unit,1
+haemoglobin 17 g/dL,1
+leukocyte count 49.6 × 10³/μL,1
+serum creatinine 0.9 mg/dL,1
+serum albumin 1.9 g/dL,1
+potassium 5.2 mEq/L,1
+normal liver function tests,1
+normal renal function tests,1
+normal thyroid function tests,1
+severe metabolic acidosis,1
+plan for haemodialysis,1
+tachycardia fluid responsive,1
+started Sterofundin® 100 ml/h,1
+started albumin 20% 25 ml/h,1
+started hydrocortisone 6 mg/h,1
+echocardiography good cardiac contractility,1
+under filled heart chambers,1
+inferior vena cava diameter 0.4–0.8 cm,1
+collapsibility of inferior vena cava,1
+haemodialysis initiated,4
+acidosis corrected,7
+heart rate settled,7
+post-operative day 1,24
+fully awake,24
+obeying commands,24
+tracheal extubation,24
+hydrocortisone infusion tapered,24
+hydrocortisone infusion stopped,24
+kept in ICU for observation,24
+shifted to ward,72

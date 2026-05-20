@@ -1,0 +1,97 @@
+event,time
+51 years old,0
+male,0
+admitted to the hospital,0
+moderate to severe mitral stenosis,0
+mild to moderate regurgitation,0
+atrial fibrillation,0
+chest tightness,-720
+diarrhoea,-720
+anti-diarrhoea medication,-720
+temperature 36.5°C,0
+heart rate 91 bpm,0
+respiratory rate 15 cpm,0
+blood pressure 131/79 mmHg,0
+diastolic murmur in the mitral region,0
+systolic murmur in the tricuspid valve,0
+cardiac border enlargement,0
+blood analysis normal,0
+blood biochemistries normal,0
+prothrombin time normal,0
+partial thromboplastin time normal,0
+D-dimers normal,0
+arterial blood gas normal,0
+echocardiogram severe mitral stenosis,0
+mild mitral regurgitation,0
+mild tricuspid regurgitation,0
+moderate tricuspid regurgitation,0
+mild aortic regurgitation,0
+mild pulmonary hypertension,0
+enlarged cardiac shadow,0
+pericardial effusion,0
+electrocardiogram atrial fibrillation,0
+slurred speech,24
+shallow left nasolabial fold,24
+left limb grade 4 muscle strength,24
+acute cerebral infarction right frontotemporal occipital lobe,24
+post-infarct blood leakage,24
+high fever 38.6°C,216
+heart rate 170 bpm,216
+blood pressure 90/60 mmHg,216
+respiratory rate 25 cpm,216
+white blood cell count 7010/mm3,216
+neutrophils 85.6%,216
+lactate 2.8 mmol/L,216
+calcitonin 0.98 Pg/L,216
+vegetation anterior leaflet of mitral valve,216
+severe mitral stenosis,0
+mild regurgitation,0
+moderate tricuspid regurgitation,0
+mild aortic regurgitation,0
+mild pulmonary hypertension,0
+pericardial effusion,0
+atrial fibrillation,0
+acute cerebral infarction,24
+acute cerebral haemorrhage,24
+shock,216
+acute infective endocarditis,216
+L. adecarboxylata infection,216
+sensitive to ampicillin,216
+sensitive to amikacin,216
+sensitive to aztreonam,216
+sensitive to ciprofloxacin,216
+sensitive to cefazolin,216
+sensitive to cefepime,216
+sensitive to cefotaxime,216
+sensitive to gentamicin,216
+sensitive to imipenem,216
+sensitive to meropenem,216
+sensitive to piperacillin,216
+fluid replacement,216
+volume expansion,216
+norepinephrine 18 μg/min,216
+vancomycin 1 g q12h,216
+emergency surgery,216
+cardiac lesion resection,216
+mitral bioprosthetic valve replacement,216
+tricuspid valvuloplasty,216
+radiofrequency ablation of atrial fibrillation,216
+left atrial auricular resection,216
+levosimendan 1 mg/h,216
+norepinephrine 24 μg/min,216
+vancomycin 1 g q12h,216
+warfarin 2.5 mg qd,216
+fever,240
+piperacillin tazobactam 4.5 g q8h,240
+vancomycin 1 g q12h,240
+fever resolved,288
+neutrophil percentage normal,288
+blood cultures positive,216
+blood cultures positive,240
+blood cultures positive,264
+blood cultures negative,312
+blood cultures negative,360
+discharged,408
+vital signs stable,408
+echocardiogram normal biologic valve function,408
+no abnormal echogenicity,408

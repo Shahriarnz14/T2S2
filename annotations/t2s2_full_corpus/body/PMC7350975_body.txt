@@ -1,0 +1,41 @@
+BACKGROUND
+Staphylococcus aureus is a major cause of infection worldwide that can cause multiple life-threatening complications including sepsis, endocarditis and systemic embolism. Staphylococcus aureus bacteraemia is associated with high morbidity and mortality rates [1]. Immediate treatment with antibiotics is essential. In the Dutch clinical care setting, methicillin-resistant Staphylococcus aureus is rare, and therefore, most Staphylococcus aureus infections are treated with flucloxacillin [2].
+
+Acetaminophen, considered by many to be one of the safest drugs, is used frequently for the treatment of pain, fever and malaise. For this reason, the prescription of flucloxacillin contemporaneously with acetaminophen is highly prevalent in patients with Staphylococcus aureus infections [3]. Although rare, long-lasting treatment with flucloxacillin combined with acetaminophen can lead to severe high anion gap metabolic acidosis due to changes in glutathione metabolism and 5-oxoproline accumulation [4].
+
+We present the case of a 79-year-old woman with severe 5-oxoprolinaemia after long-lasting treatment with flucloxacillin and acetaminophen, explaining the toxicological mechanism and risk factors, and we make recommendations for acetaminophen use in patients receiving long-lasting flucloxacillin treatment.
+
+CASE PRESENTATION
+A 79-year-old woman was admitted to our intensive care unit (ICU) after a surgical interposition graft for a thoracoabdominal aortic aneurysm extending from the level of the 9th thoracic vertebra to the coeliac artery. Her previous medical history showed hypertension, chronic obstructive pulmonary disease, chronic kidney disease (creatinine 105 μmol/l; MDRD 44 ml/min), a transcatheter aortic valve implantation, percutaneous coronary intervention of the right coronary artery and a vascular graft of the abdominal aorta below the renal arteries.
+
+Her postoperative course was complicated by acute-on-chronic kidney failure treated with continuous veno-venous haemofiltration, persistent chylous leakage needing re-thoracotomy and a third-degree atrioventricular block for which a pacemaker was implanted. A surgical tracheostomy was performed to facilitate weaning from the mechanical ventilator.
+
+Approximately 5 weeks after the initial surgery, she had a Staphylococcus aureus bacteraemia originating from an infected thoracotomy wound. Pleural fluid cultures were also positive for the same microorganism. Initially, she was treated with continuous intravenous flucloxacillin (12 g/24 hours) but because of high flucloxacillin blood concentrations after 2 days of treatment (119,000 mg/l), the dosage was decreased to 3 g/24 hours. After 6 days, the dose was changed to 6 g/24 hours based on a new flucloxacillin blood concentration (48,000 mg/l). She was also treated with acetaminophen 3 g per day.
+
+Ten days after the Staphylococcus aureus bacteraemia, she developed appendicitis, but because of her clinical condition, surgery was postponed and she was treated with antibiotics (piperacillin-tazobactam) and supportive care.
+
+Three weeks after the start of flucloxacillin treatment, our patient developed reduced consciousness again, requiring controlled mechanical ventilation. Arterial blood gas analysis showed a severe respiratory and high anion gap metabolic acidosis [pH 7.16 (7.38–7.43); pCO2 7.1 kPa (4.5–6.0 kPa); pO2 14.9 kPa (10.6–13.3 kPa); bicarbonate 18.5 mmol/l (22.0–26.0 mmol/l); base excess −9.6 mmol/l (−2.0–2.0 mmol/l); lactate 1.1 mmol/l (0.8–2.1 mmol/l); sodium 143 mmol/l (135–145 mmol/l); potassium 3.7 mmol/l (3.5–4.7 mmol/l); chloride 107 mmol/l (97–107 mmol/l); albumin 13 g/l (35–50 g/l); creatinine 158 μmol/l (45–90 μmol/l); MDRD-GFR 27 ml/min (>60 ml/min)]. After exclusion of other causes of the high anion gap metabolic acidosis, 5-oxoprolinaemia was considered to be the most likely reason. Acetaminophen prescription was stopped.
+
+The next day, the patient had progression of abdominal pain. A CT scan of the abdomen showed intra-abdominal abscesses. After consultation with her family, we decided to stop ICU treatment and the patient died several hours later.
+
+High anion gap metabolic acidosis due to 5-oxoproline accumulation was confirmed by urinary analysis: 5-oxoproline 1,721 μmol/mmol/creatinine (<65 μmol/mmol/creatinine); creatinine 1.69 mmol/l.
+
+DISCUSSION
+5-oxoproline is an amino acid and intermediate of glutathione metabolism in the γ-glutamyl cycle (Fig. 1). Acetaminophen and flucloxacillin both interfere with the γ-glutamyl cycle.
+
+In vivo, acetaminophen is oxidized to N-acetyl-p-benzoquinone imine (NAPQI). Almost immediately after oxidation, NAPQI binds irreversibly to glutathione and inhibits glutathione synthetase. In this way, toxic dosages or long-lasting acetaminophen use depletes glutathione levels [5]. Glutathione inhibits γ-glutamyl cysteine production by inhibiting glutamic acid production. Therefore, low glutathione levels lead to γ-glutamyl cysteine overproduction. The excess γ-glutamyl cysteine is converted to 5-oxoproline by γ-glutamyl cyclotransferase. Flucloxacillin inhibits breakdown of 5-oxoproline to glutamic acid by inhibiting 5-oxoprolinase [3, 4]. Consequently, long-lasting acetaminophen and flucloxacillin therapy can lead to 5-oxoproline accumulation and high anion gap metabolic acidosis.
+
+In paediatric patients, congenital defects in glutathione metabolism frequently present as high anion gap metabolic acidosis, haemolytic anaemia and neurological deficits (seizures, mental retardation and ataxia) [4].
+
+Females seem to be at increased risk for 5-oxoproline accumulation. This may be explained by a sex-related difference in the activity of several glutathione S-transferase isoenzymes. Other risk factors are sepsis, impaired kidney and/or liver function, malnutrition, an advanced age and supratherapeutic acetaminophen and flucloxacillin dosage [4].
+
+A recent retrospective observational study reported simultaneous prescription of acetaminophen and flucloxacillin in 2% of all hospitalized patients in a Dutch university hospital. Although concomitant prescription of flucloxacillin and acetaminophen is frequent, severe high anion gap metabolic acidosis and toxic accumulation of 5-oxoproline is rare [3]. In cases of high anion gap metabolic acidosis caused by 5-oxoproline accumulation, stopping acetaminophen use will lead to normalization of pH and the anion gap. Therefore, there is no reason to avoid concomitant prescription of acetaminophen and flucloxacillin in all patients. Another possibility is to replace flucloxacillin with other antibiotics such as cefazolin. In severe cases, treatment with N-acetylcysteine to supplement glutathione is indicated [4]. In patients receiving long-lasting flucloxacillin and acetaminophen therapy, regular blood gas analysis is recommended to evaluate pH, bicarbonate, base excess and the anion gap.
+
+Apart from regular blood gas analysis, the need for acetaminophen use in patients receiving long-lasting flucloxacillin treatment should be carefully evaluated. Acetaminophen is considered to be safe, effective and harmless and is frequently prescribed to reduce the need for opioid analgesics. In some cases, acetaminophen treatment is part of standardized local protocols or guidelines that do not take specific risks, such as 5-oxoproline accumulation, into account. In patients with one or more risk factors and who have a concomitant flucloxacillin prescription, a critical attitude towards acetaminophen prescription is even more important.
+
+Acknowledgements
+The authors thank the family of the patient for giving consent for publication of this case report.
+
+Conflicts of Interests: The authors declare that there are no competing interests.
+
+Figure 1 The γ-glutamyl cycle. NAPQI binds irreversibly to glutathione and inhibits glutathione synthetase and depletes glutathione levels. Glutathione inhibits γ-glutamyl cysteine production by inhibiting glutamic acid production. When glutathione levels are low, there is no negative feedback for γ-glutamyl production, which leads to γ-glutamyl cysteine overproduction. The excess γ-glutamyl cysteine is converted to 5-oxoproline by γ-glutamyl cyclotransferase. Flucloxacillin inhibits 5-oxoprolinase and therefore inhibits the breakdown of 5-oxoproline

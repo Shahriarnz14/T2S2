@@ -1,0 +1,104 @@
+event,time
+22 years old,0
+female,0
+presented to hospital,0
+headache,-48
+neck pain,-48
+vomiting,-48
+diarrhea,-48
+abdominal pain,-48
+photophobia,-48
+malaise,-48
+Pfizer vaccine second dose,-48
+no history of previous COVID-19 infection,0
+tachycardic,0
+pyrexial,0
+blood pressure normal,0
+suspected meningitis,0
+treated with ceftriaxone,0
+treated with acyclovir,0
+CSF sampling unremarkable,0
+managed on the ward,0
+deteriorated on Day 3,72
+persistent fever over 40°C,72
+tachycardia,72
+severe hypoxia,72
+lactatemia,72
+hypotension unresponsive to IV fluids,72
+admitted to ITU,72
+managed with high-flow nasal oxygen,72
+managed with vasopressors,72
+quickly fatigued,72
+intubated,72
+ventilated,72
+rapid and progressive multisystem failure over next 18 hours,72
+hypotension (cardiovascular),72
+hypoxia (respiratory),72
+azotemia,72
+oliguria (renal),72
+nonabsorption of feeds,72
+diarrhea (GI),72
+focused intensive care echocardiogram,72
+well filled but poorly contracting right and left ventricles,72
+commenced on dobutamine,72
+renal dysfunction managed conservatively,72
+severe metabolic acidosis,72
+oliguria,72
+azotemia,72
+progressive severe hyperpyrexia,72
+commenced on hemofiltration,72
+CT chest/abdomen performed,72
+working diagnosis severe sepsis,72
+multiple enlarged mesenteric lymph nodes,72
+no other abnormalities,72
+moribund,72
+diagnostic laparoscopy,72
+multiple mesenteric lymph node enlargement,72
+minimal ascites,72
+small left ovarian cyst,72
+lymph node biopsy,72
+ascitic sampling,72
+no source of sepsis identified,72
+all microbiological sampling negative,72
+"broad-spectrum antibiotics administered (ciprofloxacin, vancomycin, meropenem)",72
+no clinical improvement,72
+multidisciplinary discussion,72
+diagnosis of MIS-A,72
+treatment with IV immunoglobulin (2 gm/kg),72
+treatment with methylprednisolone (1 gm daily for 5 days),72
+rapid improvement in clinical condition,108
+resolution of hyperpyrexia,108
+resolution of cardiovascular instability,108
+decreasing oxygen requirements,108
+successfully extubated on Day 7,168
+repeat echo showed normal ventricular function,168
+full recovery,312
+discharged home on Day 13 postadmission,312
+raised white cell count (15.1 × 109/L),0
+CRP 349 mg/L,0
+CSF analysis clear,0
+no cells detected,0
+Gram stain negative,0
+no organisms in culture,0
+admission chest X-ray normal,0
+CT head normal,0
+CT abdomen/pelvis Day 3 showed mesenteric lymphadenopathy,72
+microbiology cultures negative,0
+CMV IgG positive,0
+CMV IgM positive,0
+EBV IgG positive,0
+EBV IgM positive,0
+virology results nonsignificant,0
+vasculitis screen negative,0
+autoimmune screen negative,0
+transthoracic echocardiogram no vegetations,0
+biventricular dysfunction resolved,168
+lymph node biopsy suppurative inflammation,72
+acute vasculitic changes,72
+compatible with MIS-A,72
+three negative SARS-CoV-2 PCR tests,0
+COVID-19 antibodies positive,0
+macrophage activation syndrome considered,0
+mildly elevated ferritin,0
+no hypofibrinogenemia,0
+no cytopenias in more than two lineages,0

@@ -1,0 +1,83 @@
+event,time
+24-year-old,0
+primiparous,0
+Japanese woman,0
+no significant medical history,0
+pregnancy without complications,0
+vaginal delivery,0
+healthy baby girl,0
+depressive mood,-504
+emotional incontinence,-504
+auditory hallucination,-432
+abnormal behavior,-432
+mandatorily hospitalized,-432
+postpartum psychosis,-432
+antipsychotic drugs,-432
+somnolence,-408
+unstable breathing,-408
+generalized seizure,-408
+status epilepticus,-384
+hyperthermia,-384
+transferred to intensive care unit,-384
+generalized seizure difficult to control,-384
+respiratory depression,-384
+tracheal intubation,-384
+artificial ventilation,-384
+methylprednisolone pulse therapy,-384
+intravenous immunoglobulin therapy,-384
+symptoms deteriorated,-384
+involuntary movements in face,-384
+involuntary movements in right upper limb,-384
+transferred to Shinshu University Hospital,-336
+body temperature 38.5°C,0
+orofacial dyskinesia,0
+athetoid movement in right hand,0
+deep sedation with propofol,0
+no nuchal stiffness,0
+no pathological reflexes,0
+inflammatory reaction,0
+"white blood cell 13,350/μL",0
+C reactive protein 4.31 mg/dL,0
+mild liver dysfunction,0
+aspartate aminotransferase 37 IU/L,0
+alanine aminotransferase 103 IU/L,0
+negative herpes simplex virus,0
+negative herpes zoster virus,0
+negative Epstein-Barr virus,0
+anti-thyroglobulin antibody positive,0
+anti-thyroperoxidase antibody positive,0
+cerebrospinal fluid lymphocytic pleocytosis,0
+CSF mononuclear cells 77/μL,0
+CSF protein 51 mg/dL,0
+CSF glucose 73 mg/dL,0
+anti-NMDAR antibody positive,0
+EEG extreme delta brush,0
+brain MRI bilateral medial temporal lobe signal,0
+abdominal CT right ovarian cystic tumor,0
+diagnosis anti-NMDAR encephalitis,0
+laparoscopic removal of ovarian tumor,1344
+mature cystic teratoma,1344
+IVIg,1344
+mPSL pulse therapy,1344
+plasma exchange,1344
+double filtration plasmapheresis,1344
+prolonged involuntary movements,1344
+higher brain dysfunction,1344
+autonomic dysfunction,1344
+no intensive immunosuppressive therapy,1344
+severe infections,1344
+pneumonia,1344
+sepsis,1344
+anti-NMDAR antibody titer decreased,2880
+involuntary movements improved,5760
+respiratory failure improved,5760
+transferred to rehabilitation hospital,5760
+bedridden state,5760
+severe cognitive dysfunction,5760
+brain MRI normal,5760
+independent gait,8064
+verbal communication,8064
+memory disturbance,17520
+mental juvenility,17520
+no brain atrophy,17520
+no abnormal signals on MRI,17520

@@ -1,0 +1,47 @@
+event,time
+history of diabetes mellitus ,0
+history of hypertension ,0
+history of hyperlipidemia ,0
+history of obesity ,0
+history of early stage chronic obstructive pulmonary disease ,0
+intermittent fever ,-336
+muscle ache ,-336
+nonproductive cough ,-168
+dyspnea ,-168
+admission to ICU ,0
+ARDS ,0
+mechanical ventilation ,0
+norepinephrine ,0
+diabetic ketoacidosis ,0
+acute kidney failure ,0
+multiple bilateral ground-glass opacities with a crazy paving pattern ,0
+3 pulmonary nodules ,0
+SARS-CoV-2 positive ,0
+dexamethasone ,0
+eculizumab ,48
+broad-spectrum antibiotic regimen ,0
+piperacillin-tazobactam ,0
+cefotaxime ,0
+spiramycin ,0
+negative tracheal aspirate ,96
+screening for fungal infections ,0
+serum galactomannan index negative ,0
+serum β-D-Glucan negative ,0
+condition worsened ,144
+increasing vasopressor ,144
+increasing oxygen need ,144
+tracheal aspirate showed branching hyphae ,144
+culture isolated A. fumigatus ,144
+A. fumigatus quantitative PCR positive ,144
+bacterial culture negative ,144
+serum galactomannan index negative ,144
+serum β-D-Glucan negative ,144
+serum qPCR-Af negative ,144
+transthoracic echocardiogram showed hypertrophy and dilation of the right ventricle ,144
+D-dimer level increased ,144
+fibrinogen level ,144
+cardiac arrest ,168
+death ,168
+autopsy prohibited ,168
+antifungal susceptibility testing ,168
+TR34/L98H mutation identified ,168

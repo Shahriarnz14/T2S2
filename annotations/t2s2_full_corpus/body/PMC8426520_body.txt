@@ -1,0 +1,78 @@
+pmcCase report
+
+A 29-year-old male with previous history of right knee fracture was admitted to our intensive care unit because of persistent fever for 2 weeks as well as swelling and pain of right knee joint for 10 days. Two weeks before admission, the patient developed fever with chills after being drenched in the rain. After taking 999® cold particles (antipyretic and analgesic; for headache and fever caused by cold) orally, the patient felt a drop in body temperature, although specific temperature was unknown. About ten days before hospitalization, the patient developed swelling and pain of right knee joint, accompanied by shortness of breath and fatigue after physical activity. The patient complained of oliguria and having frothy and foul-smelling urine.
+
+When the patient was initially admitted to the department of Rheumatology and Immunology (day 1), his vital signs were as follows: hypothermia 37 ℃, heart rate 100 beats/min, respiratory rate 20 breaths/min and blood pressure 138/80 mmHg. Laboratory test results upon admission were indicative of infection (Table 1). An ultrasound color doppler showed cavity effusion and synovial thickening in right knee joint, and thoracic CT showed pneumonia and hepatic cyst in S7 segment (Fig. 1A). An empiric antibiotic therapy (intravenous (IV) piperacillin/tazobactam) was started right after collecting blood cultures. On the second day, cavity effusion sample of right knee joint was obtained through puncture for culture. The results about cavity effusion sample showed that color of cavity effusion was yellow, and white blood count (WBC)(+++/HP), red blood count (RBC)(1–3/HP) and transparency (turbidity) were positive. On day 3, the patient was still persistent fever (with a peak temperature at 39.5 °C) after the original treatment. Considering little clinical improvement, the treatment was upgraded to carbapenems(biapenem). At the same time, empiric gram positive coverage was added with IV vancomycin for pneumonia. On day 5, Blood culture was positive for Klebsiella pneumoniae, and microbiology laboratory tests (the string test in Fig. 1B) for hvKP turned out to be positive [1], [2], [3]. However, right knee effusion culture was negative. The antibiotic sensitivity testing (Table 2) showed the strain was sensitive to levofloxacin, cefotaxime, piperacillin/tazobactam and carbapenems, etc. The results of drug sensitivity were consistent with those reported in relevant literature. For example, Patel et al. and Chi-Tai Fang et al. reported that antimicrobial susceptibility patterns of hvKP remains largely pan-sensitive for now, usually only resistant to ampicillin [4], [5]. We kept the same empiric coverage. Afterwards, the antifungal drugs (voriconazole 0.4 g q12h) was also combined because of urine culture Candida albicans, but the patient was still persistent fever with a peak temperature at 40.6 °C during two weeks. Meanwhile, inflammatory markers were still elevated. Hence, we changed the antimicrobial therapy to meropenem (2 g q8h) combined with RFP (0.6 g q12h), and both of vancomycin and voriconazole were discontinued. The patient improved clinically (Fig. 2) three days after changing the antimicrobials to meropenem and RFP. He became afebrile and was discharged after two weeks. During the treatment, meropenem combined with RFP was treated for 10 days.Table 1 Clinical laboratory findings.
+
+Table 1Biochemical indexes	Reference range	Upon admission	Without RFP	With RFP	
+White cell count (×10^9/L)	4.00–10.00	13.5	23.84	9.5	
+Neutrophil (%)	50–70	85.9	94.2	76.3	
+Hemoglobin (g/L）	120–160	129	117	97	
+Platelet count (×10^9/L)	100–300	316	441	399	
+Hs-CRP (mg/L)	0–3	177.07	103.23	49.19	
+Procalcitonin (ng/ml)	0–0.5	0.919	2.33	<0.08	
+Alanine aminotransferase (U/L)	9–50	19.95	48	19	
+Albumin (g/L)	35–55	30.4	33.5	30.1	
+Total bilirubin (μmol/L)	5.1–17.2	9.1	13.8	11.6	
+GLU (mmol/L)	3.6–6.1	15.37	10.33	5.62	
+CK (U/L)	25–200	55.59	73.03	41.16	
+CK-MB (U/L)	1.00–25.00	8.9	14.3	26.6	
+Creatinine (μmol/L)	44–133	39	293.03	47	
+Notes: Hs-CRP = hypersensitive C-reactive protein; CK = creatine kinase; CK-MB = MB isoenzyme of creatine kinase; GLU = glucose in the blood; Without RFP = the results after 2 weeks treatment; With RFP = the results after 3 days with Meropenem and RFP combinations treatment.
+
+Fig. 1 (A) Thoracic CT scan showed hepatic cyst in S7 segment; (B) The string test prompted hypermucoviscosity phenotype.
+
+Fig. 1
+
+Table 2 The drug sensitivity for Klebsiella pneumoniae from blood culture.
+
+Table 2Antibiotics	Sensitivity	MIC	Antibiotics	Sensitivity	MIC	
+Ceftazidime	S	≤1	Ciprofloxacin	S	≤0.5	
+Polymyxin	S	1	Cefotaxime	S	≤1	
+Cefazolin	S	≤4	Cefepime	S	≤2	
+Gentamicin	S	≤2	Imipenem	S	≤1	
+Levofloxacin	S	≤1	Meropenem	S	≤1	
+Piperacillin	S	8	Ampicillin/sulbactam	S	≤4/2	
+Compound Sulfanilamide	S	≤0.5/9.5	Tetracycline	S	≤2	
+Piperacillin/tazobactam	S	≤4/4	Ampicillin	R	>16	
+Amoxicillin/clavulanic acid	S	≤4/2	Amikacin	S	≤8	
+Aztreonam	S	≤2	Cefoperazone/sulbactam	S	≤4/4	
+Notes: Results from Central People's Hospital of Zhanjiang. Report date: February 8, 2021 (day 4). MIC: minimum inhibitory concentration; R: resistant; S: sensitive.
+
+Fig. 2 Body temperature and antibiotic therapy use during hospitalization. Body temperature: measured every 4 h; Antibiotic use: Piperacillin/tazobactam 4.5 g q8h (day1–4), Biapenem 0.3 g q6h (day 4–7) and vancomycin 1 g q12h (day 4–6 and day14–17), Meropenem 2 g q8h (day 7–25), Linezolid 0.6 g q12h (day 10–14), Voriconazole 0.4 g q12h (day 12–14), Rifampicin 0.6 g q12h (day 16–27).
+
+Fig. 2
+
+Discussion
+
+HvKP, which causes community-acquired liver abscess, was first reported in Taiwan in 1986 [6]. It can cause serious disseminated infections in young and healthy hosts [7], [8], [9], especially in the diabetic patients. Over the past few decades, because of its increasing emergence rate and its capacity to cause serious and metastatic infections, hvKP has gradually attracted scientists’ attention worldwide. The detection rate of hvKP in China is the highest, reaching over 80%, whilst it is less than 10% in other regions such as United States, Britain, Spain and Canada [6], [10], [11]. The prevalence of hvKP infection ranges from 8.33% to 73.9% in China [7]. The main associated infection of hvKP is liver abscess combined with multiple invasive infections, namely invasive Klebsiella pneumoniae liver abscess syndrome. Hiroki Namikawa et al. reported that the independent predictors of hvKP bacteremia were abscess and no antibiotic exposure. Therefore, early assessment of these factors is important. For patients with a history of abscess but no antibiotic exposure, it is necessary to apply anti-infection in which anti-hvKP methods should be considered [12]. Compared with Klebsiella pneumoniae, mortality of infection by hvKP is much higher, which is up to 29.2% [12]. Among hvKP infection, 30-day mortality for hvKP-induced bloodstream infections even reached 37.1% [13]. Diabetes mellitus is an independent risk factor not only for hvKP induced bloodstream infections (hvKP-BSIs) [13], but also for Klebsiella pneumoniae liver abscess (KPLA). In the present case, the young patient was persistent fever (with a peak temperature at 40.6 °C) with chills and the laboratory examination revealed high blood glucose concentration (15.37 mmol/L on admission) which might be a risk factor. Tian et al. reported that hyperglycemia in diabetic patients can inhibit the chemotaxis and adhesion of leukocytes, which damaged the function of intestinal barrier so intestinal flora are displaced, and promoted the formation of liver abscess [14]. Further, hyperglycemia can lead to change in the structure and function of vascular intima, Klebsiella pneumoniae can be transported to the blood and cause liver abscess. These pathophysiologic changes can lead to poor efficacy of conventional anti-infective therapy. As is known, capsular polysaccharide, which was mediated in part by regulator of mucoid phenotype A(rmpA) gene and/or mucus related gene A(magA), not only increases the virulence but also protects the strain against human defense activities [4]. As it is reported in relevant literature, capsular polysaccharide is the most important virulence factor of hvKP, which is related to the migration, adhesion and proliferation of hvKP in the host [15]. Compared with Klebsiella pneumoniae，hvKP is able to produce more capsular polysaccharide. This could explain why the treatment was not effective in the case. Yi-Hsiang Cheng et al. identified alterations in the rmpA as a mechanism of in-vivo tigecycline resistance development in a hvKP strain [16]. And Hiroki Namikawa et al. reported that RFP, which inhibits not only transcription of the rmpA gene but also capsular polysaccharide biosynthesis to reduce capsular thickness, may serve as potential anti-virulence agent for hvKP infection. Besides, RFP exerts strong mucoviscosity-suppressing activity against hvKP [17]. The above characteristics possibly enabled RFP to fight against hvKP effectively and potentially benefited our patient. This could possibly explain why the treatment was not effective prior to the combination therapy with RFP.
+
+In summary, we present a case of 29-year-old male with hyperglycemia with hypervirulent Klebsiella pneumoniae bacteremia, pneumonia and septic knee arthritis. Initially, the patient did not improve clinically on susceptible monotherapy antimicrobial. Combination therapy with meropenem and RFP lead to clinical improvement and discharge. This case report provides foundation and reference for RFP combination treatment for hvKP infection, but identifies the lack of studies on sequence identification, typing and drug resistance mechanism.
+
+Funding
+
+Not applicable.
+
+Ethics approval
+
+Not applicable.
+
+Consent for publication
+
+Written and signed consent for publication from the patient was acquired prior to the submission.
+
+Authors’ contributions
+
+Yong-Chun Lin, Xi Cao and Yun-Chao Mo oversaw the therapeutic decisions during the patient’s treatment. Xi Cao and Yong-Chun Lin drafted and wrote the manuscript. Yun-Chao Mo and Cai-Peng Xie critically revised the manuscript. Yong-Fang Zhang, Na Li and Hua-Ling Chen processed the data and plotting. All authors read and approved the final manuscript.
+
+CRediT authorship contribution statement
+
+Yong-Chun Lin: Conceptualization, Methodology, Writing – original draft. Xi Cao: Conceptualization, Methodology, Software, Writing – review & editing, Visualization. Yun-Chao Mo: Conceptualization, Writing – original draft. Cai-Peng Xie: Formal analysis, Writing – review & editing. Yong-Fang Zhang: Data curation. Na Li: Data curation. Hua-Ling Chen: Data curation.
+
+Conflicts of interest
+
+None of the authors reported any conflict of interests regarding this manuscript.
+
+Acknowledgments
+
+We thank all the medical staff who participated in the treatment of the modified cases, as well as the patient.

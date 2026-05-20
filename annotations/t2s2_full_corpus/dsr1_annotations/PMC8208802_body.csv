@@ -1,0 +1,66 @@
+event,time
+57 years old,0
+male,0
+admitted to department with acute abdomen,0
+nausea,0
+vomiting,0
+incarcerated incisional hernia (supra-umbilical),0
+body mass index 38.3 kg/m2,0
+elevated white cell count (12.01 ×10³/ul),0
+elevated CRP (10.69 mg/dl),0
+elevated interleukins (417.2 pg/ml),0
+elevated creatinine (1.54 mg/dl),0
+elevated urea (56.6 mg/dl),0
+taking amiodarone,0
+taking pantoprazole,0
+taking bisoprolol,0
+taking eplerenone,0
+taking sacubitril/valsartan,0
+taking eliquis,0
+taking l-thyroxin,0
+dilated cardiomyopathy (ejection fraction 15-20%),0
+atrial fibrillation,0
+left atrial thrombus,0
+implantable cardioverter defibrillator,0
+radioiodine therapy for thyroid autonomy,0
+laparoscopic appendectomy for perforated appendicitis with peritonitis (past),-unknown (past)
+emergency laparotomy,0
+incarcerated ischaemic segment of ileum (30 cm),0
+intramural lesions scattered throughout ileum,0
+ileal segment resection,0
+end-to-end ileo-ileostomy,0
+intraoperative sepsis,0
+intraoperative cardiopulmonary instability,0
+postoperative intensive care (4 days),+96
+no surgical morbidity,0
+discharged home on postoperative day 11,+264
+resected ileum histology: hemorrhagic mucosa,0
+resected ileum histology: mural necrosis,0
+"three foci of well-differentiated NET (5mm, 2mm, 2mm)",0
+immunohistochemistry positive for CK AE 1/3,0
+immunohistochemistry positive for synaptophysin,0
+immunohistochemistry positive for chromogranin,0
+immunohistochemistry positive for CD56,0
+"G1 NET (Ki67 <1%, mitotic activity 1/10 HPF)",0
+staging pT2m pN0 (0/1) pL0 pV0,0
+R0 resection margins,0
+NET-specific workup 6 weeks post-surgery,+1008
+CT thorax/abdomen/pelvis: no neuroendocrine disease,+1008
+DOTATATE PET/CT: no increased avidity,+1008
+elevated plasma chromogranin A (104 ng/ml),+1008
+normal 5-HIAA in 24-h urine (3.20 mg),+1008
+denied carcinoid syndrome symptoms,+1008
+repeat laparotomy,+1008
+palpation of entire small bowel,+1008
+resection of 70 cm ileum with multiple intramural deposits,+1008
+end-to-end ileo-ileostomy,+1008
+remaining 280 cm unaffected small intestine,+1008
+uneventful postoperative course,+1008
+histology: 25 well-differentiated NET,+1008
+positive chromogranin,+1008
+positive synaptophysin,+1008
+positive SSTR2A,+1008
+Ki67 <2% (G1),+1008
+"staging pT1m (18 mm), pN1 (7/41), pL0 pV0",+1008
+R0 resection margins,+1008
+follow-up 9 months post-surgery: no evidence of disease,+6480

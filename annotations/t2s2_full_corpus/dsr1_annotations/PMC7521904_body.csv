@@ -1,0 +1,85 @@
+event,time
+67 years old,0
+male,0
+presented to the hospital,-96
+malaise,-96
+anorexia,-96
+dry cough,-96
+dyspnea,-96
+severe respiratory distress,0
+oxygen saturation 79%,0
+chest radiography bilateral interstitial infiltrates,0
+right lower lobe consolidation,0
+shock,0
+elevated lactic acid 7.8 mmol/L,0
+endotracheal intubation,0
+mechanical ventilation,0
+fluid resuscitation,0
+antibiotics,0
+vasopressor support for septic shock,0
+hepatocellular carcinoma,-720
+rectal adenocarcinoma,-720
+non-small-cell lung cancer,-720
+surgical resections,-720
+chemoradiation therapy,-720
+remission,-720
+office visit to oncologist 1 month before hospitalization,-720
+chronic obstructive lung disease,-720
+chronic kidney disease stage 3,-720
+diabetes mellitus,-720
+SARS-CoV-2 positive,0
+echocardiography,0
+preserved left ventricular ejection fraction,0
+severely dilated right ventricle,0
+reduced RV function,0
+flattening of interventricular septum,0
+severe tricuspid regurgitation,0
+estimated systolic pulmonary artery pressure 56 mm Hg,0
+previous echocardiogram 4 years ago,-35040
+normal RV function,-35040
+elevated D-dimer >4.0 mg/L,0
+high-sensitivity troponin baseline 275 ng/L,0
+subsequent 6-hour troponin 255 ng/L,6
+electrocardiogram normal sinus rhythm,0
+no significant ST-T-wave changes,0
+therapeutic anticoagulation,0
+venous duplex studies acute deep vein thrombosis left posterior tibial vein,0
+computed tomographic angiography chest subsegmental right upper lobe pulmonary embolism,0
+neuromuscular blockade,0
+prone-position ventilation,0
+ARDS,0
+tidal volumes 5-7 ml/kg,0
+positive end-expiratory pressure 10-14 cm H2O,0
+plateau pressure 26-32 cm H2O,0
+norepinephrine,0
+vasopressin,0
+acute kidney injury,0
+continuous renal replacement therapy,0
+shock liver,0
+gastrointestinal hemorrhage,0
+Escherichia coli pneumonia,0
+bacteremia,0
+comfort measures,528
+withdrawal of life-support interventions,528
+passed away,528
+22 days in ICU,528
+RV diameter base 4.71 cm,0
+RV diameter mid cavity 3.99 cm,0
+right ventricle fractional area change 3.21%,0
+tricuspid annular plane systolic excursion 1.46 cm,0
+tricuspid regurgitant jet velocity 3.41 m/sec,0
+inferior vena cava diameter 2.63 cm,0
+inferior vena cava collapsibility <50%,0
+no endomyocardial biopsy,0
+low clot burden,0
+severe thrombocytopenia,0
+multiorgan dysfunction,0
+excluded from extracorporeal support,0
+comorbidities,0
+hemodynamic collapse,0
+acute right ventricular failure,0
+pulmonary thromboembolism,0
+hypercapnia,0
+high plateau pressures,0
+blunted hypoxic pulmonary vasoconstriction,0
+higher lung compliance,0

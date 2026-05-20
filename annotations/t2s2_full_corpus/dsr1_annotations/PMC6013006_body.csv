@@ -1,0 +1,83 @@
+event,time
+20 year old,0
+male,0
+motor vehicle accident,-24
+severe trauma to abdomen,0
+severe trauma to trunk,0
+severe trauma to extremities,0
+unstable vital signs,0
+flaccid paraplegia,0
+cord level at T10,0
+complete loss of voluntary control over bowel function,0
+complete loss of voluntary control over bladder function,0
+FAST examination negative,0
+multiple rib fractures,0
+bilateral hemothoraces,0
+hemoperitoneum,0
+AAST grade 4 splenic injury,0
+left-sided renal injury,0
+left-sided adrenal injury,0
+right-sided scapular fracture,0
+transdiscal AO type C fracture,0
+bilateral facet subluxation of T11 over T12,0
+pneumothoraces drained,0
+exploratory laparotomy,0
+splenectomy,0
+retroperitoneal hematoma,0
+damage control surgery,0
+transferred to ICU,0
+MRI spine on PAD 1,24
+subluxation T11 over T12,24
+rupture intervertebral disc,24
+rupture posterior longitudinal ligament,24
+9 mm epidural hematoma T11,24
+medullary contusion T11-T12,24
+spinal surgery PAD 2,48
+reduction of subluxation,48
+trans-pedicular screw fixation T9-L2,48
+post-traumatic dural tear,48
+CSF leak,48
+second look laparotomy PAD 3,72
+retroperitoneal hematoma persistence,72
+turbid liquid identified,72
+intense back pain,72
+hallucinations,72
+agitation,72
+septic state,72
+thoracolumbar MRI,72
+thoraco-abdominal CT,72
+large bilateral paravertebral fluid collections,72
+large retroperitoneal fluid collections,72
+AAST grade 3 pancreatic injury,72
+wound revision surgery,72
+CSF leak from dural breach,72
+fibrin sealant repair,72
+debridement necrotic tissue,72
+drainage purulent collections,72
+Penrose drains placed,72
+CT-guided drain placement,72
+Enterobacter cloacae positive cultures,72
+Meropenem initiated,72
+increased paravertebral collections,72
+increased abdominal collections,72
+persistent Enterobacter cloacae,72
+serum amylase elevated,168
+serum lipase elevated,168
+dorsal spinal fluid amylase 12716 U/I,72
+dorsal spinal fluid lipase 72610 U/I,72
+ERCP performed,168
+pancreatic duct stent placed,168
+reoperation for drainage,168
+total parenteral nutrition 15 days,0
+subcutaneous somatostatin 7 days,0
+proton pump inhibitors,0
+naso-jejunal tube feeding,168
+oral feeding resumed,336
+general condition improved,504
+fluid collections resolved,504
+drains removed,1248
+transferred to rehabilitation PAD 52,1248
+complete paraplegia,1248
+sensory level T10,1248
+antibiotic treatment 7 months,5040
+CT resolution of collections,5040

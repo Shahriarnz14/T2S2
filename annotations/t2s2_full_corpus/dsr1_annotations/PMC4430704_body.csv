@@ -1,0 +1,149 @@
+event,time
+83 year-old,0
+female,0
+admitted to the emergency department,0
+abdominal pain lasting for three days,-72
+weight loss,"-7200 (several months approximated as 3 months = 2160 hours, placed before abdominal pain)"
+dyspepsia,-7200
+fever,-48
+no history of trauma,0
+no history of surgery,0
+no history of alcoholism,0
+no history of smoking,0
+hypertension,0
+diabetes mellitus,0
+blood pressure 110/70 mmHg,0
+no history of coronary artery disease,0
+normal heart sounds,0
+diminished bowel sounds,0
+distended abdomen,0
+diffuse defense,0
+rebound,0
+sensitivity,0
+white blood cell: 10.8 10³/ml,0
+hemoglobin: 8.1 g/dl,0
+urea: 38 mg/dL,0
+creatinine: 1.6 mg/dL,0
+potassium 5.7 mmol/L,0
+normal blood amylase level,0
+normal sinus rhythm on ECG,0
+free air under right diaphragm on X-ray,0
+widespread free abdominal fluid on ultrasound,0
+admitted to intensive care unit,0
+supportive therapy,0
+preoperative diagnosis of hollow organ perforation,0
+midline laparotomy,0
+giant perforation (7×7 cm) at anterior surface of stomach,0
+proximal edge 3 cm distal to cardia,0
+distal end 5 cm proximal to pylorus,0
+abdomen full of pus and fibrin,0
+aspiration of purulent material,0
+peritoneal cavity washed with warm saline,0
+blood pressure decreased,0
+inotropic support with dopamine,0
+multiple biopsies from perforation edges,0
+decision against gastric resection,0
+purse-string sutures narrowing perforation,0
+omental flap prepared,0
+omental flap transfixed with vicryl sutures,0
+narrowed perforation to 4 cm diameter,0
+methylene blue test for leaks,0
+three drains placed,0
+operation time 40 minutes,0
+intubated postoperatively,0
+Meropenem 3*1 gr/IV,0
+white blood cell count reduced,+24 (follow-up)
+pre-renal failure improved,+24
+inotropic agents decreased,+24
+inotropic agents discontinued,+48
+smooth abdomen,+120 (day 5)
+no distension,+120
+no rigidity,+120
+methylene blue test on day 5,+120
+methylene blue test on day 6,+144
+no leakage observed,+144
+abdominal drains withdrawn,+144
+peritonitis improved,+144
+renal functions improved,+144
+pulmonary problems persisted,+144
+conscious state,+144
+sedation discontinued for weaning,+144
+failed ventilator weaning,+144
+acquired pneumonia,+144
+supportive therapies continued,+144
+died of pulmonary failure,+360 (postoperative day 15)
+histopathology: moderately differentiated adenocarcinoma,0
+83 year-old,0
+female,0
+admitted to the emergency department,0
+abdominal pain lasting for three days,-72
+weight loss,-7200
+dyspepsia,-7200
+fever,-48
+no history of trauma,0
+no history of surgery,0
+no history of alcoholism,0
+no history of smoking,0
+hypertension,0
+diabetes mellitus,0
+blood pressure 110/70 mmHg,0
+no history of coronary artery disease,0
+normal heart sounds,0
+diminished bowel sounds,0
+distended abdomen,0
+diffuse defense,0
+rebound,0
+sensitivity,0
+white blood cell: 10.8 10³/ml,0
+hemoglobin: 8.1 g/dl,0
+urea: 38 mg/dL,0
+creatinine: 1.6 mg/dL,0
+potassium 5.7 mmol/L,0
+normal blood amylase level,0
+normal sinus rhythm on ECG,0
+free air under right diaphragm on X-ray,0
+widespread free abdominal fluid on ultrasound,0
+admitted to intensive care unit,0
+supportive therapy,0
+preoperative diagnosis of hollow organ perforation,0
+midline laparotomy,0
+giant perforation (7×7 cm) at anterior surface of stomach,0
+proximal edge 3 cm distal to cardia,0
+distal end 5 cm proximal to pylorus,0
+abdomen full of pus and fibrin,0
+aspiration of purulent material,0
+peritoneal cavity washed with warm saline,0
+blood pressure decreased,0
+inotropic support with dopamine,0
+multiple biopsies from perforation edges,0
+decision against gastric resection,0
+purse-string sutures narrowing perforation,0
+omental flap prepared,0
+omental flap transfixed with vicryl sutures,0
+narrowed perforation to 4 cm diameter,0
+methylene blue test for leaks,0
+three drains placed,0
+operation time 40 minutes,0
+intubated postoperatively,0
+Meropenem 3*1 gr/IV,0
+white blood cell count reduced,24
+pre-renal failure improved,24
+inotropic agents decreased,24
+inotropic agents discontinued,48
+smooth abdomen,120
+no distension,120
+no rigidity,120
+methylene blue test on day 5,120
+methylene blue test on day 6,144
+no leakage observed,144
+abdominal drains withdrawn,144
+peritonitis improved,144
+renal functions improved,144
+pulmonary problems persisted,144
+conscious state,144
+sedation discontinued for weaning,144
+failed ventilator weaning,144
+acquired pneumonia,144
+supportive therapies continued,144
+died of pulmonary failure,360
+histopathology: moderately differentiated adenocarcinoma,0

@@ -1,0 +1,109 @@
+pmcIntroduction
+
+Lactate is a degradation product of glucose in anaerobic conditions. Under optimal conditions with adequate oxygen supply, glycolytic production of pyruvate is followed by its conversion into acetyl CoA which ultimately undergoes mitochondrial oxidation in the Krebs cycle (tricarboxylic acid cycle) to produce adenosine triphosphate. During anaerobic conditions, mitochondrial oxidation cannot occur, and pyruvate is preferentially diverted through the Cori cycle (lactic acid cycle) in an attempt to produce cellular energy. Eventually, the resultant lactate is cyclically converted to glucose by the liver [1].
+
+There are 2 major subtypes of hyperlactatemia causing lactic acidosis: type A and type B. The distinction is based on the underlying pathophysiology. Type A lactic acidosis is observed in cases of oxygen debt resulting from the supply-demand mismatch. Examples include shock, regional tissue hypoperfusion (mesenteric ischemia, compartment syndrome, and burns), cellular hypoxia (carbon monoxide poisoning and methemoglobinemia), and increased metabolic demand (grand-mal seizures, vigorous exercise, and severe shivering/hypothermia). Type B lactic acidosis is linked to various pathologies affecting critical metabolic pathways such as decreased gluconeogenesis (liver disease), accelerated glycolysis (malignancy-induced adrenergic states), impaired Krebs cycle (genetic diseases, drug-mediated mitochondrial toxicity, and deficiency of cofactors), and iatrogenic exogenous loads [2, 3].
+
+Lactic acidosis is one of the most commonly reported acid-base abnormalities in critically ill patients [4]. In a retrospective cohort study of intensive critical unit admissions, mortality among patients with metabolic acidosis was significantly higher than those with no metabolic acidosis (45 vs. 25%, p < 0.001). Moreover, lactate was associated with higher fatal outcomes (56%) compared to other metabolic acidosis subtypes (hyperchloremic acidosis: 29%; other anions: 39%) [5]. Given that lactic acidosis is predominantly driven by systemic or organ-limited hypoperfusion in critically ill patients, resuscitative efforts are generally focused on optimization of oxygen delivery through volume expansion, inotropic support, and broad-spectrum antibiotics. In this study, we present a case of a rare cause of persistent type B lactic acidosis in a patient with concomitant hypoglycemia without neuroglycopenic symptoms, secondary to a physiological phenomenon called Warburg's effect.
+
+Case Report
+
+A 65-year-old man with a past medical history of mild chronic obstructive pulmonary disease presented to the emergency department with a 9-month history of weight loss, lack of appetite, and generalized fatigue in the absence of localizing visceral symptoms. On examination, he appeared to be dehydrated and cachexic with fluid-responsive hemodynamics. The patient's vitals on arrival to the emergency department were heart rate 109 beats per minute, blood pressure 78/54 mm Hg, respiratory rate 17 per min, and oxygen saturation 97% on room air. After receiving 3 L of crystalloids, his blood pressure rose to 93/69 mm Hg. On inspection, there were no stigmata of chronic liver disease with the exception of numerous ecchymoses on his extremities. Occasional coarse crepitations were auscultated bilaterally in his lower lung zones. He had nontender splenomegaly and a palpable nonpulsatile firm periumbilical mass. No lymphadenopathy, scrotal, or pedal swelling was noted.
+
+Initial workup revealed anemia (62 g/L), thrombocytopenia (48 × 109/L), hypoglycemia (2.9 mmol/L), and severely elevated anion gap metabolic acidosis (pH 7.22, pCO2 26, HCO3 10, and anion gap 26) felt to be secondary to hyperlactatemia (18.8 mmol/L). Table 1 documents key laboratory results during his hospitalization. He was admitted to a high-dependency unit where he received aggressive fluid-resuscitation with crystalloids, blood transfusion, and broad-spectrum antibiotics. Workup for infection was negative including cultures of blood and urine. D-lactate level was normal. Chest and abdominal CT showed diffuse cervical-mediastinal lymphadenopathy, nodular consolidative changes in the left upper lobe, and a 3.9 cm × 1.8 cm mesenteric mass, suspicious for lymphoproliferative disorder versus lymphomatous spread of another suspected primary malignancy (Fig. 1).
+
+The patient continued to have persistent hypoglycemia (2.5–3.9 mmol/L) without neuroglycopenic symptoms. Workup for hypoglycemia (Table 2) was also grossly unyielding for hepatic dysfunction, endogenous insulin, or major hormonal deficiency (with the exception of mild hypothyroidism [TSH 7.11 mIU/L plus fT4 7.3 pmol/L]; not felt likely to be the cause). He required continuous dextrose infusion to achieve normoglycemia, despite oral food intake.
+
+The patient's mesenteric mass was not easily accessible without high risk of complications given its proximity to the vasculature, and so he underwent bronchoscopy and gastrointestinal endoscopies to obtain tissue samples. These did not yield any malignant cells. Bronchoalveolar lavage also did not yield any organisms. A bone marrow aspiration and biopsy on day 11 of admission, delayed due to initial patient apprehension, eventually diagnosed CD20-positive non-Hodgkin's lymphoma: diffuse large B-cell lymphoma with CD10 and cyclin D1 overexpression (Fig. 2).
+
+His lactate levels climbed steadily (Fig. 3), and he continued to require dextrose infusions to maintain normoglycemia despite initiation of prednisone 100 mg orally daily. He acutely deteriorated between days 18 and 19 when he developed encephalopathy, nosocomial pneumonia from aspiration, sepsis, tumor lysis syndrome, and eventual multiorgan failure. After transfer to the intensive care unit, mechanical intubation, initiation of vasopressors, and continuous renal replacement therapy, his family eventually opted to withdraw care on day 19, and he passed away shortly thereafter.
+
+Discussion
+
+Introduction
+
+Hyperlactatemia is defined as a serum lactate level exceeding 2.0 mmol/L without definite acidemia. Lactic acidosis is hyperlactatemia with acidemia pH < 7.35 [2]. This continuum results from an imbalance between production and clearance of lactate. In normal physiologic conditions, lactate is the byproduct of anaerobic respiration. Lactate can also be produced from the deamination of alanine as well. On the clearance side, lactate is largely recycled by the liver to glucose followed by renal clearance of 25–30% of the circulating load [1, 6].
+
+Pathophysiology and Mechanisms of Disease
+
+Excess lactate is observed in 2 situations, secondary to direct tissue hypoperfusion (type A), leading to overproduction, and in its absence (type B). While cancer patients are particularly vulnerable to sepsis and shock-related illnesses, type B hyperlactatemia can also be seen due to a peculiar phenomenon called Warburg's effect. Warburg described this phenomenon in 1956 when malignant ascitic cells were compared with healthy tissue. A unique shift in a tumor's metabolic physiology to “aerobic glycolysis” regardless of the local oxygenation status was noted [7, 8]. In advanced cases, as glucose is sequestered and preferentially driven through the pyruvate-lactate pathway, overwhelming glucose consumption occurs with eventual hypoglycemia and lactate production. Moreover, bulky malignancies with high proliferative rates that exhaust the local oxygenation capacity via angiogenesis will create relative hypoxia and subsequent lactatemia. Other purported mechanisms include decreased hepatic and/or renal clearance in cases of advanced hepatic malignancy, extensive malignant deposits, or cytotoxic therapy. Additionally, thiamine and riboflavin are known enzymatic cofactors of aerobic carbohydrate metabolism, and their deficiency may result in lactate accumulation [9, 10]. Both conditions are seen in cancer patients and linked to chronic malnutrition (decreased intake) and hypercatabolism (overutilization) [11, 12].
+
+We now understand that Warburg's effect plays an important role in sustaining carcinogenesis and cellular proliferation for tumors [13]. Clinical implications of lactic acidosis stem from electrochemical alterations leading to cerebral injury, muscular dysfunction including respiratory fatigue, predisposition to cardiac arrhythmia, and circulatory collapse [14]. Similarly, hypoglycemia causes complications due to sympathoadrenal activation, neurocognitive dysfunction, and the generation of a pro-inflammatory response [15].
+
+Description of Trends from the Literature
+
+It is not uncommon for aggressive hematologic and highly undifferentiated solid organ malignancies to present with lactic acidosis that is unresponsive to resuscitative efforts [16, 17]. In fact, a few case reports have reported worsening of lactic acidosis when dextrose infusions are started for the treatment of concurrent and asymptomatic hypoinsulinemic hypoglycemia [18]. These cases support Warburg's effect and preferential shuffling of glucose through glycolytic metabolic pathways. Proposed mechanisms by which this can occur include upregulated expression of membrane-bound glucose uptake transporters, hexokinase, pyruvate kinase (M2-PK), insulin-like growth factors, and inflammatory cytokines (namely, TNF-α) which attenuate enzymatic activity leading to lactate overproduction [19, 20, 21]. These protein mediators have been a heavy focus for cancer research, as therapeutic targets and prognostic tools. Biomarkers of predicting resistance to traditional therapies (chemotherapy, radiation, and immunology) have been successfully demonstrated in gastrointestinal and breast malignancies [22, 23]. In a model studying key proteins implicated in the metabolism of testicular germ cell tumors, overexpression of certain molecular markers (CAIX: carbonic anhydrase IX; HKII: hexokinase II) was associated with statistically significant rates of recurrence and high-risk features (nonseminoma tumors, advanced stage) [24]. Furthermore, even more interestingly so, ketogenic diets have been recognized for their tumor-suppressive benefits. The fat-rich, carbohydrate-restricted composition of such diets directs metabolism toward ketolysis which leads to a reduction in circulating serum glucose levels. This in turn has an anti-proliferative effect through depriving neoplastic cells of their major metabolic substrate (i.e., glucose) as well as through negative feedback of anabolic proteins such as insulin and insulin-like growth factors [25].
+
+Ruan et al. [26] demonstrated that in established lymphoma patients presenting with elevated lactate levels, 35% (18/51) had proven progression of lymphoproliferative disease histologically or radiologically. All patients had aggressive non-Hodgkin lymphoma. Among 78% (14/18) of the type B lactic acidosis group, the estimated median time to death was 6 days. They concluded that after exclusion of sepsis and major ischemia, lactate level that fails to normalize in 48 h of initiated resuscitative measures and/or elevated lactate dehydrogenase ≥2× upper limit of normal are potentially indirect biochemical signs of poor overall survival and disease progress or relapse. While lactic acidosis by itself is a significant predictor of morbidity and mortality in hematological malignancies, there is a paucity of evidence describing prognostic associations with Warburg's effect [9, 14].
+
+Management of lactic acidosis and hypoglycemia in suspected or confirmed cases of malignancy should account for causative processes (sepsis, drug toxicity, and liver failure), which in these patients are not always mutually exclusive. Despite that, supportive measures are eventually futile without timely administration of directed cytoreductive therapy, even in patients with good performance status and functional capacity. A nonsystemic review of case reports of lactic acidosis in lymphoma patients concluded that the only successful intervention in patients that induced biochemical resolution and cancer remission was not, unsurprisingly, chemotherapy. The earliest documented lactate normalization was achieved by 15 h after induction [27]. Bicarbonate infusions have also been utilized in conjunction with renal replacement therapy for severe cases until a diagnosis is made and definitive management can be started. Both modalities work to normalize extracellular pH and reverse the toxic effects of acidemia on cardiac function. Besides, the safety of bicarbonate infusions has been scrutinized due to eventual paradoxical increases in lactate production while failing to correct intracellular acidity [28, 29].
+
+Our patient's lactic acidosis and hypoglycemia persisted despite resuscitative fluids, antibiotics, and dextrose infusions and worsened following administration of steroids. This can likely be attributed to multiple factors. First, the development of tumor lysis syndrome which has been associated with steroid initiation in high disease burden states in malignancies [30, 31]. Second, the gradual onset of sepsis from aspiration and pneumonia almost certainly contributed. Finally, with the onset of multiorgan failure, hepatic dysfunction would have ensued and worsened the lactic acidosis and hypoglycemia eventually resulting in circulatory collapse and his demise.
+
+Conclusion
+
+Warburg effect is a paraneoplastic phenomenon of hyperlactatemia and hypoglycemia that should be considered on the differential for acutely ill patients with suspected malignancy, especially those with a high disease burden. Patients demonstrating Warburg's effect likely have a higher risk of morbidity, mortality, and potential conversion to tumor lysis syndrome. Management should be targeted toward the underlying malignancy along with supportive fluids, dextrose, and close monitoring for infectious complications. Warburg's effect may present a unique window of opportunity for salvage therapy; however, more research is needed to understand its prognostic significance.
+
+Statement of Ethics
+
+Written informed consent was obtained from the next of kin for publication of this case report and any accompanying images. Based on our local policies, institutional approval was not required for case report(s) that included 3 or less patients where no systematic investigation was conducted. However, the case was written within standards of reporting, and no identifiers were included.
+
+Conflict of Interest Statement
+
+The authors have no conflicts of interest to declare.
+
+Funding Sources
+
+The authors have not declared a specific grant for this research from any funding agency in the public, commercial, or not-for-profit sectors.
+
+Author Contributions
+
+Z.A. and S.M. worked on procurement of data, drafting the original manuscript, and formulation of the index. A.P. was involved in proofreading and manuscript design. A.W. secured informed consent and critically reviewed the original manuscript. C.R. provided relevant graphs and images.
+
+Data Availability Statement
+
+All data generated or analyzed during this case report are included in this article and its supplementary material files. Further enquiries can be directed to the corresponding author.
+
+Fig. 1 Contrast CT of the head, neck, thorax, abdomen, and pelvis. Imaging showed cervical and mediastinal lymphadenopathy (A), extensive centrilobular and paraseptal emphysema with patchy bilateral nodular consolidative opacities in both lungs (B), and a new bulky confluent central mesenteric soft tissue and splenomegaly (C).
+
+Fig. 2 Histopathology of bone marrow aspirate and biopsy. Bone marrow at ×20 (A) and ×100 (B) showing increased cellularity with an increase in atypical mononuclear cells. Bone marrow at ×200 (C) and ×400 (D) showing marked increase in atypical large lymphocytes. E CD20 (×200) identifies the numerous B cells. F Cyclin D1 (×200) overexpression is noted.
+
+Fig. 3 Trend of serum lactate and glucose (mmol/L) in relation to days of hospitalization.
+
+Table 1 Summary of key laboratory findings during hospitalization
+
+Variable	Reference range	Pre-admission	D0	D3	D6	D12	D15	D17	D19	
+Hemoglobin, g/L	130–180	99	62	78	72	77	72	62	90	
+Platelets, ×109/L	150–400	81	48	35	43	36	40	24	12	
+Absolute neutrophils, ×109/L	2.0–7.5	2.0	3.5	1.7	2.0	1.8	2.3	5.1	4.6	
+INR	0.8–1.1	1.1	1.0	−	−	−	1.6	1.6	1.3	
+APTT, s	22–35	24	36	−	−	−	−	120	51	
+pH	7.35–7.45	7.39	7.22	7.19	7.26	7.28	7.31	<6.8	6.91	
+HCO3, mmol/L	22–26	23	11	9	13	12	16	6	9	
+Anion gap	<12	9	26	25	23	20	24	28	27	
+Glucose, mmol/L	3.5–11	5.8	2.9	2.8	2.9	3.6	3.1	2.6	1.7	
+Lactate, mmol/L	0.7–2.1	3.5	18.8	16.8	14.9	17.1	19.9	26.7	36.0	
+Urate, mmol/L	218–459	−	454	397	−	−	612	597	161	
+LDH, U/L	120–250	−	179	−	236	−	246	265	756	
+Creatinine, μιηοΙ/L	60–110	62	82	71	58	53	88	160	208	
+Urea, mmol/L	3.6–9.2	5.2	9.8	5.8	6.1	7.8	21.9	27.6	23.1	
+Potassium, mmol/L	3.5–5.2	4.4	4.5	3.6	3.7	4.2	5.0	5.3	6.6	
+Calcium, mmol/L	2.10–2.60	2.17	2.08	1.93	−	−	2.33	2.25	1.87	
+Phosphate, mmol/L	0.90–1.52	1.01	1.09	0.59	0.52	−	1.52	3.69	2.91	
+
+Table 2 Hypoglycemia workup
+
+Test	Reference range	Result	
+Markers of liver function			
+ ALT, U/L	0–49	21	
+ AST, U/L	18–54	29	
+ Bilirubin, umol/L	<21	6	
+ Albumin, g/L	42–50	31	
+ INR	0.8–1.1	1.1	
+Ketones		Negative	
+Insulin, pmol/L	<120	<6	
+C-peptide, pmol/L	298–2,350	253	
+AM cortisol, nmol/L	200–660	472	
+Thyroid function			
+ TSH, mlU/L	0.47–4.68	7.11	
+Free thyroxine, pmol/L	10.8–28.2	7.3

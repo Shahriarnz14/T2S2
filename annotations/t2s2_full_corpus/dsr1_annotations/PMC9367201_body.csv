@@ -1,0 +1,39 @@
+event,time
+18-year-old,0
+transferred to ICU,0
+acute respiratory deterioration,0
+ulcerative colitis diagnosed,-22 days (converted to -528 hours)
+infliximab administered,"-22 days (first dose, -528 hours) and -9 days (second dose, -216 hours)"
+septic shock,24 (day 1)
+moderate acute respiratory distress syndrome,24 (day 1)
+acute kidney failure,24 (day 1)
+invasive ventilation initiated,24 (day 1)
+renal replacement therapy initiated,24 (day 1)
+hemodynamically unstable,24 (day 1)
+septic cardiomyopathy,48 (day 2)
+reduced left ventricular ejection fraction <15%,48 (day 2)
+reduced right ventricular function,48 (day 2)
+VA-ECMO applied,48 (day 2)
+right femoral vein cannulation,48 (day 2)
+left femoral artery cannulation,48 (day 2)
+distal limb perfusion,48 (day 2)
+dilated right ventricle,72 (day 3)
+dilated left ventricle,72 (day 3)
+ejection fraction severely impaired,72 (day 3)
+Impella CP inserted,72 (day 3)
+ejection fraction improved to 20%,96 (day 4)
+progressive colitis/pancolitis,96 (day 4)
+gastrointestinal bleeding,96 (day 4)
+Mayo score maximum severity,96 (day 4)
+subtotal colectomy performed,96 (day 4)
+recurrent intra-abdominal bleeding,"168 (day 7), 216 (day 9), 288 (day 12)"
+revision surgeries,"168 (day 7), 216 (day 9), 288 (day 12)"
+packing and depacking,"168 (day 7), 216 (day 9), 288 (day 12)"
+heart function recovered,264 (day 11)
+perfusion recovered,264 (day 11)
+transaminase levels decreased,264 (day 11)
+ECMELLA support removed,"264 (VA-ECMO day 11), 288 (Impella day 12)"
+transferred to general ward,936 (day 39)
+discharged to rehabilitation,1464 (day 61)
+topical corticosteroids initiated,1464 (day 61)
+improved general condition,2208 (2 months post-discharge)

@@ -1,0 +1,82 @@
+event,time
+50 years old,0\
+male,0\
+admitted to the hospital,0\
+progressive dyspnea,0\
+cough,0\
+cold sweats,0\
+night sweating,-8760\
+weight loss (15 kilograms),-8760\
+HIV infection since 2003,-175200\
+double-sided pneumonia with Pneumocystis jirovecii,0\
+AIDS,0\
+antiretroviral therapy,-175200\
+undetectable viral load in 2012,-87600\
+stopped antiretroviral medication 1 year ago,-8760\
+lived in homeless shelter,0\
+no drug use,0\
+no alcohol use,0\
+quit smoking 15 years ago,-131400\
+non-acutely ill,0\
+tachypneic,0\
+oxygen saturation 88% on room air,0\
+blood pressure 130/80 mmHg,0\
+heart rate 132 per minute,0\
+temperature 38.2°C,0\
+no dullness on lung percussion,0\
+normal breath sounds except left lower side,0\
+hemoglobin 7.2 mmol/L,0\
+white blood cell count 6.6 ×10⁹/L,0\
+platelets 214 ×10⁹/L,0\
+CRP 64 mg/L,0\
+no renal insufficiency,0\
+no hepatic insufficiency,0\
+CD4 0.039 ×10⁹/L,0\
+CD8 1.2 ×10⁹/L,0\
+CD4/CD8 ratio 0.033,0\
+chest X-ray bilateral cloudy infiltrates,0\
+treated with gentamicin 280 mg,0\
+treated with amoxicillin/clavulanic acid 1200 mg,0\
+cotrimoxazole 3 ×1920 mg,24\
+prednisolone 2 ×40 mg,24\
+suspected PJP,24\
+bronchoscopy with BAL performed,48\
+dyspnea after bronchoscopy,48\
+oxygen saturation 82%,48\
+subcutaneous emphysema,48\
+progressive respiratory insufficiency,48\
+endotracheal intubation,48\
+mechanical ventilation,48\
+bronchoscopy-guided intubation,48\
+CT scan subcutaneous and mediastinal emphysema,48\
+no pneumothorax,48\
+severe air bronchograms,48\
+bilateral infiltrations,48\
+admitted to ICU,48\
+subcutaneous emphysema increased,48\
+mediastinal emphysema increased,48\
+"swelling of face, arms, torso, scrotum",48\
+bronchoscopies performed,48\
+no tracheal injury,48\
+lung protective ventilation,48\
+low tidal volumes,48\
+low airway pressures,48\
+emphysema continued to increase,168\
+CT scan 1 week after ICU admission,168\
+treatment with skin incisions considered,168\
+"discarded due to high HIV viral load (700,000 copies/mL)",168\
+VAC therapy initiated,168\
+two infraclavicular skin incisions,168\
+"ActiV.A.C., -125 mmHg",168\
+subcutaneous emphysema improved,240\
+clinical improvement,240\
+VAC therapy ended,360\
+subcutaneous emphysema decreased,360\
+inflammatory markers decreased,408\
+pulmonary infiltrations decreased,408\
+extubated after 17 days,408\
+ICU-acquired weakness,408\
+dysphonia,408\
+discharged to general ward,600\
+antiretroviral medication restarted,600\
+discharged to medical rehabilitation center,600

@@ -1,0 +1,42 @@
+event,time
+cough ,-72
+fevers ,-72
+shortness of breath ,-72
+pleuritic chest pain ,-72
+light-headedness ,-72
+near syncope ,-72
+dyspnoea ,-72
+COVID-19 diagnosis ,0
+sub-massive pulmonary embolism diagnosis ,0
+unfractionated heparin initiation ,0
+hypotension ,12
+massive pulmonary embolism diagnosis ,12
+catheter-directed thrombolysis ,12
+improvement ,24
+discharge plan ,48
+acute respiratory failure ,72
+hypotension ,72
+intubation ,72
+cardiac arrest ,72
+return of spontaneous circulation ,72
+vasopressor initiation ,72
+extracorporeal membrane oxygenation initiation ,72
+recurrent massive pulmonary embolism diagnosis ,72
+repeat catheter-directed thrombolysis ,72
+ventilation parameter improvement ,120
+vasopressor discontinuation ,120
+extracorporeal membrane oxygenation weaning ,120
+deep venous thrombus diagnosis ,120
+inferior vena cava filter placement ,120
+unfractionated heparin transition to low-molecular-weight heparin ,120
+emboli burden improvement ,240
+extracorporeal membrane oxygenation decannulation ,240
+septic shock ,240
+right thigh haematoma diagnosis ,960
+compartment syndrome diagnosis ,960
+surgical debridement ,960
+transition to rivaroxaban ,960
+discharge ,1248
+home return ,1344
+independent activities of daily living ,1344
+no major adverse events ,1488

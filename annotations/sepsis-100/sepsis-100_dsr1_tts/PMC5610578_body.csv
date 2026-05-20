@@ -1,0 +1,93 @@
+event,time
+69-year-old man,0
+Child–Pugh class C cirrhosis,0
+presented to the Emergency department,0
+slipped on wet grass,-4
+fell on left side,-4
+glasgow coma score 15/15,0
+pulse rate 78/min,0
+RR 13/min,0
+BP 113/54 mm Hg,0
+SpO2 100% in air,0
+left hip tenderness,0
+no ecchymosis to the abdomen,0
+no ecchymosis to the flank,0
+no ecchymosis to the thigh,0
+radiograph of pelvis,0
+undisplaced fracture of left acetabulum,0
+anterior column fracture,0
+posterior column fracture,0
+blood tests confirmed liver dysfunction,0
+pH 7.271,0
+base excess -7.3,0
+PT 18.2,0
+INR 1.5,0
+APTT ratio 1.42,0
+platelets 73,0
+bilirubin 63 mmol/l,0
+Hb 124 g/l,0
+18 g intravenous cannula inserted,0
+warmed Hartmanns one litre infusion commenced,0
+referred to Orthopaedic on call team,0
+initial delay due to emergency department pressure,0
+blood pressure dropped to 75/51 mm Hg,4
+tachycardic,4
+serum lactate 9 mmol/l,4
+FAST examination,4
+intraabdominal fluid,4
+decompensated liver disease,4
+low energy fall,0
+haemorrhagic shock not considered,4
+treated for sepsis,4
+intensive care team attended,4
+orthopaedic team attended,4
+general registrar attended,4
+pH 7.227,4
+base excess -17.9,4
+serum lactate 16.3 mmol/l,4
+Hb 75 g/l,4
+arterial blood pressure 90/60 mm Hg,4
+pulse rate 90/min,4
+left lower abdominal quadrant swollen,4
+left upper thigh swollen,4
+ecchymosis present,4
+diagnosis of haemorrhagic shock,4
+massive transfusion pathway activated,4
+4 units of Blood transfused,4
+4 units of FFP transfused,4
+2 adult therapeutic doses of platelets transfused,4
+10 units of cryoprecipitate transfused,4
+noradrenaline infusion required,4
+pelvic binder in place,4
+pelvic binder not tightened,4
+lateral compression injury,4
+CT scan deemed necessary,4
+radiology team contacted,4
+vascular surgeons contacted,4
+CT abdomen confirmed left acetabulum fracture,6
+significant haematoma on left pelvic sidewall,6
+8 mm enhancing nodule,6
+internal iliac artery pseudoaneurysm,6
+ill-defined blush of contrast within haematoma,6
+extra-peritoneal haematoma,6
+inseparable from bladder,6
+cirrhotic liver,6
+6.7 cm infra-renal aortic aneurysm,6
+transferred to intensive care unit,6
+invasive cardiovascular monitoring,6
+CT Angiogram next morning,24
+no arterial bleed demonstrated,24
+discussion with vascular team,24
+prophylactic embolization recommended,24
+gelfoam embolization after 48 h,48
+embolization of anterior division branches,48
+embolization of posterior division branches,48
+10 lb skeletal traction applied,48
+skeletal traction to offload acetabulum,48
+discharged to orthopaedic ward,120
+uncontrollable bleeding from pin site,144
+coagulopathic state,144
+skeletal traction removal,144
+continuous pressure applied to wound,144
+died,1224
+death due to chronic liver disease,1224

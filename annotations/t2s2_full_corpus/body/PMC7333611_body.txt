@@ -1,0 +1,83 @@
+Introduction
+
+Since the start of the COVID-19 pandemic, COVID-19 had displayed its gastrointestinal manifestation, which included diarrhea, nausea, vomiting, and mild abdominal pain. However, few reports of COVID-19 resulting in an acute abdomen-like picture have been published [1,2]. This may result in a diagnostic and a therapeutic dilemma as extensive workup is required to rule out surgical emergencies, leading to a prolonged hospital stay, management impasse, and overburden of the resources. We here report a case of SARS-CoV-2 infection mimicking bacterial sepsis due to perforated viscus.
+
+Case presentation
+
+The patient was a 47-year-old man with no prior comorbidities. He presented to the emergency department with a three-day history of fever, sore throat, and left-sided neck swelling that associated with generalized fatigue and myalgia. No other symptoms were present. His initial vitals were recorded as the following: blood pressure measured (BP) 100/65 mm hg, heart rate (HR) 115 beat/min, temperature (T) 38.9 °C, respiratory rate (RR) 20 breath/min, and oxygen saturation (SpO2) 100 % on ambient room air. On examination, his throat was congested, and left-sided mild posterior lymphadenopathy was noted. The remainder of the systemic examination was insignificant. The initial laboratory investigations were significant for high C-reactive protein, a slight rise in serum creatinine, and high international normalized ratio (INR) (Table 1). The initial chest x-ray was unremarkable. A real-time polymerase chain reaction (RT-PCR) confirmed the SARS-CoV-2 infection. The patient received COVID-19 treatment following a local protocol including hydroxychloroquine, azithromycin, and cefuroxime, and the patient was transferred to a quarantine facility for care continuity.Table 1 The Patient's laboratory tests during the hospitalization.
+
+Table 1Laboratory tests (Normal range)	Day 1	Day 3	Day 7	Day 12	
+WBCs (4−10 × 109/L)	10	19.3	25.9	7.8	
+Lymphocytes (1−3 × 109/L)	0.49	0.5	1.2	1.5	
+Hemoglobin (13−17 gm/dl	14.2	10.3	9.7	9.8	
+Platelets (150−400 × 109/L)	132	146	178	359	
+Serum creatinine (62−106 umol/L)	119	247	156	70	
+Potassium (3.5−5.1 mmol/L)	3.9	4.1	3.7	3.7	
+ALT (0−55 U/L)	60	132	97	73	
+AST (0−4- U/L)	83	355	266	90	
+CRP (0−5 mg/L)	251	239	ND	10	
+Procalcitonin (0−0.5 ng/mL)	ND	>100	76	2.6	
+Ferritin (30−490 ug/L)	ND	3983	2928	1431	
+Lactic acid (036−1.60 mmol/L)	ND	2.4	1.8	1.2	
+Amylase (13−53 U/L)	ND	ND	349	ND	
+Lipase (13−60 U/L)	ND	ND	>600	ND	
+INR	1.8	2	1.3	1.1	
+WBCs = white blood cells, ND = not done, INR = International normalized ratio.
+
+Two days later, the patient developed diarrhea and vomiting with mild, diffuse abdominal pain that became severe and more localized to the right lower quadrant for which he was transferred back to the hospital. He looked sick, alert, but not oriented. Vitals were BP 84/52 mm hg, HR 102 beats/min, T 38.1 °C, SpO2 96 % on 2 L oxygen via nasal cannula. Abdominal examination showed diffuse abdominal tenderness more in the right iliac fossa with guarding. Repeated laboratory investigation showed acute kidney injury, transaminitis, worsening CRP, and procalcitonin (Table 1). The repeat chest x-ray revealed bilateral reticular infiltrates with no gross consolidation (Fig. 1). Based on these parameters, the patient was shifted to the intensive care unit (ICU) with suspicion of sepsis versus severe SARS-CoV-2 infection. He was started on meropenem and resuscitated with crystalloid fluids. Urgent computed tomography (CT) scan of the abdomen was done to rule out acute appendicitis and perforation as a source of infection and to explore the reason for the severe abdominal pain. The CT scan revealed no evidence of bowel perforation or appendiceal inflammation. However, it depicted diffuse paracolic gutters fat stranding, mild free fluid, bilateral mild pleural effusion with consolidations, and filling defect at superior mesentery vein that is attributed to streaming artifact or thrombosis (Fig. 2). CT angiogram of the abdomen was subsequently done due to pain persistence, high d-dimers, and previous CT findings to rule out mesenteric vein thrombosis and bowel ischemia. Although the CT angiogram scan showed suboptimal venous system opacifications, no acute thrombosis detected, and the major abdominal arterial system was patent. Serum lipase and amylase were sent following that and found to be high, >600 U/L (normal range 13−60 U/L), and 451 U/L (normal range 13−53 U/L), respectively. Sepsis workup, including blood, urine, sputum cultures, was unremarkable.Fig. 1 Chest x-ray showing bilateral infiltrates.
+
+Fig. 1
+
+Fig. 2 Abdominal CT scan showing diffuse fat stranding (arrows).
+
+Fig. 2
+
+After an extensive workup, surgical causes were ruled out; hence, the patient was treated conservatively with close monitoring. His pain settled within few days. The kidney and liver injury improved with trending down inflammatory markers. A follow-up phone call one week after discharge confirmed that the patient was doing well and remained asymptomatic.
+
+Discussion
+
+Coronavirus Disease 2019 (COVID 19) is known to cause respiratory symptoms like cough, sore throat, shortness of breath, chest pain, and respiratory distress. As the cases expanded, gastrointestinal (GI) manifestations are also reported [3]. Nonetheless, an acute abdomen-like presentation was rarely described in association with COVID-19 infection. We here briefly discussed a challenging case of SARS-CoV-2 infection complicated by a picture of sepsis and peritonitis. The patient had low BP and persistently high inflammatory markers, including procalcitonin.
+
+Additionally, the patient had pancreatitis, which is depicted by the marked lipase and amylase elevation along with abdominal pain. This can be labeled as SARS-CoV-2 infection sequelae, as it was reported in the literature that COVID-19 could cause severe abdominal pain and even acute pancreatitis [3,4]. This is supported by the fact that the patients initially presented with mild URI symptoms, a typical presentation of COVID-19 [5]. His acute abdomen picture was preceded by nausea and vomiting, which are known to occur in the background of SARS-CoV-2 infection. The CT scan showed no signs of bowel perforation, and all the sepsis workup was repeatedly negative for microorganisms other than SARS-CoV-2 infection. Finally, the spontaneous improvement of the patient's condition. While pancreatitis could be partially responsible for the patient's pain, it is less likely to explain the generalized abdominal pain the patient demonstrated. Thus, the lipase and amylase elevation or even pancreatitis could have been simply part of an exaggerated inflammatory response.
+
+Cabrero-Hernandez et al. presented five SARS-CoV-2 infected pediatric cases presenting with an acute abdomen picture. In his description, all five patients had elevated procalcitonin values with two patients' values measuring 27 ng/mL2 and 65 ng/mL2 (range 0.1–0.5 ng/mL2) [2]. All the patients in this cohort had low blood pressure (BP) requiring ionotropic support. Cabrero-Hernandez et al. attributed the low BP to the effect of the multisystem inflammatory response rendering the vessels more permeable, leading to extravasation of fluids from the intravascular compartment to the extravascular compartment resulting in intravascular volume depletion. Calinescu et al. described four children (10 to 13-year-old) with acute abdomen like-presentation and septic shock similar to our case. In this cohort, the patients had severe abdominal pain, tenderness with guarding, and extremely high inflammatory markers (CRP and procalcitonin), which raised suspicion of appendiceal perforation. CT scan revealed free fluids in all patients with ileocolitis in two patients. The patients were managed conservatively and did not need surgical intervention [6].
+
+Ashraf et al. presented three cases of SARS-CoV-2 infection presenting with an acute abdomen like-picture. In their case series, they highlighted pancreatitis, referred pulmonary pain, micro-thrombosis resulting in epiploic appandagitis, and non-occlusive mesenteric ischemia as possible causes of the acute abdomen like-picture [3]. The latter is an interesting and possibly an overlooked entity of abdominal pain in COVID-19 patients. Thrombosis and higher incidence of VTE have been reported in patients with COVID-19 [7]. Microthrombi can travel and block non-major arterioles or venules, causing pain without clear evidence of blockade on conventional imaging modalities; however, this speculation needs to be further explored.
+
+In conclusion, we presented an acute abdomen like-presentation in the course of COVID-19. It is essential to identify and treat concomitant infections as a possibility. Nonetheless, acknowledge SARS-CoV-2 infection as a possible cause when all other etiologies are ruled out. This will prevent the resources drain and will help in avoiding additional extra investigations. We think with the accumulating data, we will see more reports that are similar to our report. Learning from such reports will enable us to manage these patients efficiently and cost-effectively.
+
+Ethical declaration
+
+The patient provided verbal consent for the publication of this case. Local IRB approval was sought for the publication of the case.
+
+Funding
+
+Open access publication fees were covered by the Qatar National Library (QNL).
+
+Consent
+
+Written consent has been obtained from the patient himself
+
+Author contribution
+
+Dr. Ashraf Omer Elamin Ahmed: Ashrafzone1@gmail.com; Correspondent Author,
+
+First author, Literature review and manuscript writing.
+
+Dr. Sara Faisal Hamad Mohamed: Smohamed51@hamad.qa; Literature Review and manuscript writing.
+
+Dr. Ahmed Osman Saleh: geway7990@gmail.com; Literature Review and manuscript writing.
+
+Dr. Shaikha Daoud N.A. Al-Shokri: s.alshokri@gmail.com; Literature Review and manuscript writing.
+
+Dr. Khalid Mahmoud Fadlelmoula Ahmed: drhanfuli@hotmail.com; Imaging interpretation and editing.
+
+Dr. Mouhand Faisal Hamad Mohamed: Dr.m.oraiby@hotmail.com; Mentor, final editing, manuscript writing, literature review.
+
+Declaration of Competing Interest
+
+All authors do not have any conflict of interest from this case report.
+
+Acknowledgment
+
+We want to acknowledge the efforts of all teams who took part in the care of this patient. Additionally, we thank the QNL for sponsoring the open-access publication fees of this paper.

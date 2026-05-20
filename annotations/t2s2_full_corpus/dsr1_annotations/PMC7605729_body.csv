@@ -1,0 +1,108 @@
+event,time
+6-year-old,0
+male,0
+admitted to the pediatric emergency department,-14
+fatigue,-14
+looks pale,-14
+shock,-14
+fever,-120
+abdominal pain,-14
+no history of cough,0
+no breathing difficulties,0
+no bleeding,0
+no rashes,0
+no history of traveling,0
+no contact with COVID-19 patients,0
+active child,-48
+altered consciousness (GCS 12),-14
+heart rate 135 bpm,-14
+blood pressure 70/40 mmHg,-14
+respiratory rate 40 breaths/min,-14
+temperature 36.5°C,-14
+prolonged capillary refill >2s,-14
+oxygen saturation 83%,-14
+receiving oxygen 5 L/min,-14
+no spleen enlargement,-14
+no liver enlargement,-14
+fluid resuscitation,-14
+transfusion,-14
+hemodynamic monitoring,-14
+inotropic agent administration,-14
+orotracheal intubation,-14
+hemoglobin 2.9 g/dL,0
+hematocrit 9.3%,0
+leukocyte 18 ×10³/μL,0
+basophil 0%,0
+eosinophil 0%,0
+neutrophil band 1%,0
+neutrophil segment 55%,0
+lymphocyte 33%,0
+monocyte 4%,0
+erythrocyte 1.13 ×10¹²/L,0
+platelets 213 ×10³/μL,0
+albumin 1.96 g/dL,0
+urea 46.2 g/dL,0
+serum creatinine 1.15 mg/dL,0
+AST 510 U/L,0
+ALT 173 U/L,0
+potassium 6 mmol/L,0
+sodium 123 mEq/L,0
+CRP 0.09 mg/dL,0
+procalcitonin 0.78 ng/mL,0
+pH 6.8,0
+pO2 24.2 mmHg,0
+pCO2 27.2 mmHg,0
+HCO3 4.8 mmol/L,0
+TCO2 5.6 mmol/L,0
+BE –2.78 mmol/L,0
+SO2 17.3%,0
+lactate dehydrogenase 10.6 mmol/L,0
+normochromic erythrocytes,0
+anisopoikilocytosis,0
+microcytic,0
+leukocytic hypersegmentation,0
+serum iron 157 mcg/dL,0
+TIBC 207 mcg/dL,0
+ferritin 3985 ng/mL,0
+SARS CoV-2 IgM reactive,0
+SARS CoV-2 IgG non-reactive,0
+PCR SARS CoV-2 negative,0
+IgM anti-dengue reactive,0
+IgG anti-dengue non-reactive,0
+normal chest x-ray,0
+refractory septic shock,-14
+broad-spectrum antibiotic administration,-14
+multiple organ failure,-14
+death,0
+no conjunctivitis,0
+no rash,0
+severe anemia,0
+hypoalbuminemia,0
+hyperferritinemia,0
+elevated liver enzymes,0
+elevated urea,0
+elevated creatinine,0
+slightly increased procalcitonin,0
+leukocytosis,0
+normal CRP,0
+reactive IgM anti-dengue,0
+reactive IgM SARS CoV-2,0
+no infiltrates,0
+no pleural effusion,0
+no electrocardiography abnormalities,0
+no echocardiography performed,0
+no abdominal ultrasound performed,0
+lived in dengue-endemic area,0
+no hemorrhagic manifestations,0
+no plasma leakage,0
+primary dengue infection,0
+coinfection with dengue,0
+fulfilled WHO MIS-C criteria,0
+fulfilled CDC MIS-C criteria,0
+severe illness requiring hospitalization,0
+multisystem organ involvement,0
+laboratory evidence of inflammation,0
+evidence of SARS-CoV-2 infection,0
+circulating COVID-19 in area,0
+unusual dengue manifestation,0
+deteriorated quickly,-14

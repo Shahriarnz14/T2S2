@@ -1,0 +1,74 @@
+event,time
+29-year-old male,0
+admitted to the hospital,0
+transferred to University Clinical Centre of Republika Srpska,-144
+muscle pain,-144
+joint pain,-144
+general weakness,-144
+fever,-144
+liver dysfunction,0
+total bilirubin 5.7 mg/dl,0
+serum glutamic oxaloacetic transaminase 633 U/L,0
+serum glutamic pyruvate transaminase 412 U/L,0
+gamma-glutamyl transferase 161 U/L,0
+lactate dehydrogenase 1668 U/L,0
+systemic inflammation,0
+C-reactive protein 519 mg/L,0
+procalcitonin 1.28 ng/ml,0
+leukocytes 14.8 × 10³/µl,0
+acute respiratory failure,0
+altered state of consciousness,0
+continuous sedation,0
+muscle relaxation,0
+intubation,0
+mechanical ventilation,0
+FiO2 100%,0
+SpO2 88.7%,0
+hemodynamic instability,0
+norepinephrine 0.6 μg/kg/min,0
+broad-spectrum empirical antimicrobial therapy,0
+meropenem,0
+azithromycin,0
+oseltamivir,0
+methylprednisolone,0
+stress ulcer prophylaxis,0
+thromboprophylaxis,0
+continuous sedation,168
+paralysis,168
+intubation,168
+mechanical ventilation,168
+hemodynamic monitoring,168
+arterial blood gases monitoring,168
+prone positioning,0
+chest CT,0
+bilateral pneumonia,0
+pleural effusions,0
+bedside focus ultrasound,0
+acute renal failure,144
+CRRT started,144
+CytoSorb® therapy,168
+recurring septic episode,240
+second CytoSorb® therapy,240
+norepinephrine reduced to 0.15 μg/kg/min,168
+norepinephrine discontinued,216
+CRP decreased to 330 mg/L,168
+leukocytes normalized,168
+ventilation parameters improved,168
+lung function improved,168
+ICU delirium,0
+antipsychotics,0
+percutaneous tracheostomy,0
+hemodynamically stable,168
+ventilator weaning,0
+transferred to general ward,1152
+sent to rehabilitation clinic,1200
+influenza A (H1N1),0
+multiorgan failure,0
+CRRT in CVVHDF mode,144
+norepinephrine discontinued 1 day later,24
+bilateral pneumonia caused by H1N1,0
+cytokine adsorption,168
+hemodynamic stabilization,168
+inflammation markers decreased,168
+vasopressors discontinued,216
+patient recovery,1200

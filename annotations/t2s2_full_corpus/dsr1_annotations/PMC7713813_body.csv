@@ -1,0 +1,67 @@
+event,time
+44 years old,0
+man,0
+admitted to the intensive care unit,0
+rash,-72
+vesicle on the left side of forehead,-72
+headache,-144
+serologic tests for VZV (IgM and IgG),-72
+tested positive for VZV IgG,-72
+tested positive for VZV IgM,-72
+diagnosed with HZO,-72
+treated with antiviral drugs,-72
+treated with analgesics,-72
+continuous fever (38°C and higher),-72
+hospitalization (primary care),-72
+worsening of left-sided frontal headache,-72
+nausea,-72
+blurred vision,-72
+diplopia,-72
+transferred to our hospital,-72
+alert,0
+febrile (38.3°C),0
+crust on forehead,0
+no marked facial swelling,0
+no marked periorbital swelling,0
+normal cardiopulmonary findings,0
+normal neurological findings,0
+heart rate 78 beats/min,0
+blood pressure 110/60 mmHg,0
+respiratory rate 20 breaths/min,0
+visual acuity 6/12 bilaterally,0
+no abnormalities in ocular tissues,0
+no visual field defects,0
+horizontal diplopia,0
+lateral rectus muscle paresis in left eye,0
+6th cranial nerve (abducens nerve) palsy,0
+no evidence of infection in facial region (except HZO),0
+no respiratory tract infection,0
+no urinary tract infection,0
+no skin infection,0
+"white blood cell count 10,100 mm3",0
+elevated erythrocyte sedimentation rate (120 mm/h),0
+elevated C-reactive protein (10.17 mg/dl),0
+blood culture performed,0
+no consent for CSF analysis,0
+brain MRI revealed lateral bulging in cavernous sinus,0
+brain MRI revealed irregular marginal enhancement in cavernous sinus,0
+bilateral CST,0
+superior ophthalmic vein thrombosis,0
+neurological consultation,0
+infectious medicine consultation,0
+no medical history of diabetes mellitus,0
+no medical history of hypertension,0
+dental treatment 3 months ago,-2160
+left maxillary area pain 1 month ago,-720
+started antibiotic treatment,0
+second-generation cephalosporin administered,0
+Streptococcus constellatus subsp. constellatus in blood culture,0
+switched to clindamycin,0
+echocardiography performed,0
+no signs of infective endocarditis,0
+antithrombotic therapy with low molecular weight heparin,0
+treatment in intensive care unit,0
+symptoms improved,168
+transferred to general room,168
+discharged,168
+no complications during one-year follow-up,17520

@@ -1,0 +1,137 @@
+event,time
+89 years old,0
+female,0
+referred to medical center,0
+loss of consciousness,0
+admitted to emergency department,0
+sudden loss of consciousness,0
+ate breakfast,-0.5
+dry cough,-48
+body aches,-48
+no comorbidity,0
+no history of drug use,0
+no history of alcohol use,0
+no history of smoking,0
+no allergy,0
+vaccinated twice with Sinopharm vaccine,-672
+Glasgow Coma Scale score 3,0
+oral temperature 36.5 °C,0
+normal vital signs,0
+oxygen saturation 98%,0
+elevated lactate dehydrogenase,0
+elevated C-reactive protein,0
+elevated ESR,0
+elevated CPK,0
+elevated urea,0
+elevated blood sugar,0
+low hemoglobin,0
+normal liver function,0
+normal arterial blood gas,0
+normal electrolytes,0
+normal coagulation,0
+brain CT scan partial dilatation of ventricles,0
+brain CT scan sulcus dilatation,0
+brain CT scan periventricular hypodense areas,0
+senile parenchymal atrophy,0
+severe small vessel disease,0
+lung CT scan ground glass patches,0
+lung CT scan consolidation areas,0
+right lung base involvement 50-75%,0
+bilateral minimal pleural effusion,0
+no gas poisoning,0
+no hypoxemia,0
+no superimposed aspiration pneumonia,0
+positive SARS-CoV-2 RT-PCR,0
+treated with routine COVID-19 therapy,0
+fever 39.3 °C,24
+severe lymphopenia,24
+condition worsened,24
+admitted to ICU,72
+intubated,72
+decline in respiration,72
+O2 saturation 78%,72
+lymphopenia corrected,480
+inflammatory biomarkers corrected,480
+O2 saturation deficiency corrected,480
+respiratory distress corrected,480
+discharged,624
+partial recovery,624
+negative PCR testing,624
+no particular problem at follow-up,2160
+no findings of stroke,0
+no trauma,0
+no embolism,0
+no thrombosis,0
+no septic encephalopathy,0
+no orthostatic hypotension,0
+no cardiac syncope,0
+no reflex syncope,0
+no typical COVID-19 signs,0
+89 years old,0
+female,0
+referred to medical center,0
+loss of consciousness,0
+admitted to emergency department,0
+sudden loss of consciousness,0
+ate breakfast,-0.5
+dry cough,-48
+body aches,-48
+no comorbidity,0
+no history of drug use,0
+no history of alcohol use,0
+no history of smoking,0
+no allergy,0
+vaccinated twice with Sinopharm vaccine,-672
+Glasgow Coma Scale score 3,0
+oral temperature 36.5 °C,0
+normal vital signs,0
+oxygen saturation 98%,0
+elevated lactate dehydrogenase,0
+elevated C-reactive protein,0
+elevated ESR,0
+elevated CPK,0
+elevated urea,0
+elevated blood sugar,0
+low hemoglobin,0
+normal liver function,0
+normal arterial blood gas,0
+normal electrolytes,0
+normal coagulation,0
+brain CT scan partial dilatation of ventricles,0
+brain CT scan sulcus dilatation,0
+brain CT scan periventricular hypodense areas,0
+senile parenchymal atrophy,0
+severe small vessel disease,0
+lung CT scan ground glass patches,0
+lung CT scan consolidation areas,0
+right lung base involvement 50-75%,0
+bilateral minimal pleural effusion,0
+no gas poisoning,0
+no hypoxemia,0
+no superimposed aspiration pneumonia,0
+positive SARS-CoV-2 RT-PCR,0
+treated with routine COVID-19 therapy,0
+fever 39.3 °C,24
+severe lymphopenia,24
+condition worsened,24
+admitted to ICU,72
+intubated,72
+decline in respiration,72
+O2 saturation 78%,72
+lymphopenia corrected,480
+inflammatory biomarkers corrected,480
+O2 saturation deficiency corrected,480
+respiratory distress corrected,480
+discharged,624
+partial recovery,624
+negative PCR testing,624
+no particular problem at follow-up,2160
+no findings of stroke,0
+no trauma,0
+no embolism,0
+no thrombosis,0
+no septic encephalopathy,0
+no orthostatic hypotension,0
+no cardiac syncope,0
+no reflex syncope,0
+no typical COVID-19 signs,0

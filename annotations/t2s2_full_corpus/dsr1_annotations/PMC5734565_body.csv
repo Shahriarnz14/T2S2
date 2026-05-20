@@ -1,0 +1,106 @@
+event,time
+9-year-old,0
+boy,0
+presented to the emergency department (ED),0
+abdominal pain,-12
+abdominal pain worsened in supine position,-12
+nonbilious vomiting,-12
+no fever,0
+normal stool output via colostomy,0
+spina bifida,0
+hydrocephalus,0
+imperforate anus,0
+scoliosis,0
+solitary kidney,0
+multiple urinary tract infections,0
+ventriculoperitoneal (VP) shunt,0
+colostomy,0
+titanium rib placement,0
+Monti procedure,-1680
+Monti procedure performed 2½ months prior,-1680
+catheterization schedule every 3 hours,-1680
+blood with catheterization since procedure,-1680
+intermittent difficulty catheterizing vesicostomy,-168
+catheter deviating to the right,-168
+mild difficulty inserting catheter,-168
+good output,-168
+heart rate 166 beats/min,0
+blood pressure 132/90,0
+respiratory rate 25 breaths/min,0
+temperature 99.6°F,0
+oxygen saturation 98%,0
+alert,0
+talkative,0
+comfortable in sitting position,0
+pain when supine,0
+abdominal distension in superior quadrants,0
+evaluation for tenderness and guarding difficult,0
+white blood cell count 32.1 ×10³/mm³,0
+77% neutrophils,0
+14% bands,0
+serum bicarbonate 12 mEq/L,0
+BUN 24 mg/dL,0
+"cloudy, blood-tinged fluid",0
+malodorous urine,0
+50–100 RBC/HPF,0
+50–100 WBC/HPF,0
+nitrite negative,0
+leukocyte esterase 3+,0
+Foley catheter balloon inflated,0
+computed tomography (CT) scan abdomen/pelvis,0
+ascitic fluid,0
+no evidence of pseudocyst,0
+worsening hydronephrosis,0
+CT cystogram,0
+urine extravasation into peritoneal cavity,0
+Foley catheter balloon outside bladder,0
+perforation of continent ileovesicostomy,0
+infected urine causing peritonitis,0
+neurosurgery consulted,0
+urology consulted,0
+CT scan of brain,0
+cerebrospinal fluid clear,0
+head CT mild increase in ventricular size,0
+fracture in shunt tubing at postauricular level,0
+plans to externalize proximal shunt,0
+remove indwelling shunt,0
+bladder neck reconstruction,-1680
+right ureteral implant,-1680
+construction of Monti channel vesicostomy,-1680
+bladder not augmented,0
+no appendix,0
+endoscopy of Monti channel,0
+cystoscopy,0
+fluid bolus,0
+cefepime,0
+admitted to PICU,0
+worsening tachycardia,0
+diminished pulses,0
+compensated septic shock,0
+vancomycin,0
+additional fluid bolus,0
+surgery for externalizing proximal shunt,0
+removal of chest portion of distal catheter,0
+externalization of distal peritoneal catheter,0
+purulent material aspirated from peritoneal cavity,0
+endoscopy revealed large posterior false passage,0
+catheter placed across stoma into bladder,0
+cystoscopy and cystogram no bladder perforation,0
+additional Foley catheter via native urethra,0
+dilation of bladder neck,0
+mechanical ventilation,24
+low-dose norepinephrine,24
+urine culture grew Escherichia coli,0
+cultures of shunt negative,0
+cultures of peritoneal fluid negative,0
+removal of retained fractured shunt catheter,144
+conversion to ventriculocardiac shunt,264
+discharged,336
+urethral catheter to gravity drainage,336
+vesicostomy catheters to gravity drainage,336
+Monti catheter left in place,672
+cystoscopy for difficulty catheterization,1440
+no stenosis or false passage,1440
+another cystoscopy for difficulty,2160
+false passage,2160
+Monti revision for stenosis,4320

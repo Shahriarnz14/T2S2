@@ -1,0 +1,63 @@
+event,time
+28 years old,0
+male,0
+admitted to the hospital,0
+hepatomegaly,0
+splenomegaly,0
+leukopenia,0
+thrombocytopenia,0
+Gilbert’s syndrome,0
+elevated aminotransferases,0
+increased total bilirubin,0
+negative HIV,0
+negative HCV,0
+negative HBV,0
+enlarged liver (15 cm),0
+enlarged spleen (17 cm),0
+fever,-240
+dry cough,-240
+Escherichia coli in urine culture,-240
+Chlamydophila pneumoniae antigen in urine,-240
+increased LDH,-240
+neutropenia,-240
+treatment with levofloxacin,-240
+treatment with filgrastim,-240
+recurrent fever,-168
+worsening neutropenia,-168
+restarted filgrastim,-168
+prophylactic antibiotic therapy,-168
+suspected autoimmune disease,-168
+initiated prednisone (30 mg/day),-168
+elevated aminotransferases,-168
+increased bilirubin,-168
+liver biopsy performed,-24
+post-procedure fever,24
+started empirical antibiotics,24
+escalated steroids,24
+abdominal pain,24
+significantly enlarged spleen,24
+significantly enlarged liver,24
+free fluid in abdominal cavity,24
+rapid drop in hemoglobin,24
+liver enlargement (23 cm),24
+spleen enlargement (23 cm),24
+subcapsular spleen rupture,24
+retroperitoneal enlarged lymph nodes,24
+splenectomy performed,48
+lymph node biopsy,48
+transfusions of erythrocytes,48
+transfusions of platelets,48
+fresh frozen plasma,48
+recombinant factor VIIa,48
+hematoma in spleen extraction site,72
+laparotomy performed,72
+hemophagocytes in bone marrow,72
+"hyperferritinemia (120,000 μg/l)",72
+met HLH04 criteria,72
+HScore 253,72
+treatment with dexamethasone,72
+treatment with etoposide,72
+treatment with cyclosporine A,72
+multiple-organ failure,216
+death,240
+PTCL-NOS diagnosis,240

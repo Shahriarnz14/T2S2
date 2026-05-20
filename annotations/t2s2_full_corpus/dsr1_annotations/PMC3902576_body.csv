@@ -1,0 +1,69 @@
+event,time
+24-year-old,0
+male,0
+admitted to the hospital,0
+sore throat,-240
+difficulty swallowing,-240
+pain left side of neck,-96
+swelling left side of neck,-96
+severe throbbing headache,-48
+vomiting,-48
+restlessness,-48
+bulge posterior pharyngeal wall (left),0
+uvula deviation to the right,0
+febrile,0
+tachycardic,0
+"tender swelling left neck (angle of mandible, upper sternomastoid)",0
+Hb 13.3 gm%,0
+total count 9800 cells/cumm,0
+"platelet count 282,210 cells/cumm",0
+ESR 37 mm/h,0
+HIV negative,0
+left parapharyngeal abscess,0
+thrombosis left IJV,0
+reduced flow/stasis left transverse sinus,0
+reduced flow/stasis left sigmoid sinus,0
+Lemierre's syndrome,0
+abscess drained,0
+imepenem started,0
+fondaparinux started,0
+persistent hypotension (systolic 70-90 mmHg),48
+fluid boluses,48
+total count 3720 cells/cu mm,48
+"platelet count 35,000/cu mm",48
+aPTT prolonged (84 s),48
+serum procalcitonin 1.4 ng/mL,48
+septic shock,48
+ICU transfer,48
+imipenem stopped,48
+vancomycin started,48
+clindamycin started,48
+metronidazole started,48
+single donor platelet transfusion,48
+central venous access (right femoral),48
+fondaparinux stopped,48
+noradrenaline infusion,48
+S. aureus culture (pus),48
+blood culture negative,48
+no anaerobes isolated,48
+stable for 2 days,72
+tachypnea,120
+hypoxemia,120
+bilateral lower zone opacities (CXR),120
+intubation,120
+mechanical ventilation,120
+gradual recovery over 3 days,144
+weaned off inotropes,168
+ventilator support discontinued,168
+"platelet count 379,000/cu mm",168
+coagulation normalized,168
+CXR normalized,168
+ICU discharge,168
+ward stay,168
+GCS 15/15,0
+no neurological deficits,0
+hospital course uneventful,504
+discharged,504
+oral linezolid continued (3 weeks),504
+no resolution of IJV thrombus,504
+anticoagulant restarted,504

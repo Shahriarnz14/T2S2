@@ -1,0 +1,120 @@
+INTRODUCTION
+Round pneumonia is an unusual radiological manifestation that varies from a small circular mass to a large undefined round opacity1. Only one percent of round pneumonia cases occur in adults2. Clinical presentations range from asymptomatic to a history of fever, productive cough and chills3,4. We report the case of an elderly adult admitted to the emergency room with exertional dyspnea.
+
+CASE REPORT
+A 64-year-old male with a history of alcohol consumption and liver cirrhosis arrived at the emergency department with a two-day history of productive cough and exertional dyspnea. The initial examination revealed a temperature of 36 °C, blood pressure 100/60 mmHg, heart rate 78 bpm and respiratory rate 19 bpm with an oxygen saturation of 96% in ambient air. On admission, a round opacity was observed in the right upper lobe on his chest X-ray (Figure 1). Laboratory tests were within normal ranges. Antibiotic therapy for community-acquired pneumonia was started with intravenous ceftriaxone and oral clarithromycin. The sputum culture was positive for E. hormaechei and the bacterium was sensitive to levofloxacin. Therapy was modified accordingly. Matrix-Assisted Laser Desorption Ionization–Time of Flight Mass Spectrometry analysis was used for the initial bacterial identification, while antimicrobial susceptibility testing was performed with the MicroScan WalkAway 96 plus system (Beckman Coulter Life Sciences, Indianapolis, IN, USA), proven by the Minimum Inhibitory Concentration (MIC), and interpretation/classification following the Clinical and Laboratory Standards Institute guidelines5 (Table 1).
+
+
+Figure 1 (A) Well circumscribed opacity in the right upper lobe of the chest x-ray of our 64-year-old patient; (B) A focal round opacity with an air bronchogram at the upper lobe of the right lung on a chest CT scan was seen in our patient.
+
+
+
+
+Table 1 Minimum inhibitory concentration (MIC) values of antimicrobial agents against E. hormaechei.
+
+Antibiotic	MIC	Interpretation	
+Amikacin	≤ 16	Susceptible	
+Amoxicillin-clavulanate	> 16/8	Resistant	
+ampicillin-sulbactam	> 16/8	Resistant	
+Ampicillin	> 16	Resistant	
+Cefazolin	> 16	Resistant	
+Cefepime	≤ 4	Susceptible	
+Cefotaxime	> 32	Resistant	
+Ceftazidime	> 16	Resistant	
+Ceftriaxone	> 32	Resistant	
+Cefuroxime	> 16	Resistant	
+Ciprofloxacin	≤ 1	Susceptible	
+Ertapenem	1	Intermediate	
+Gentamicin	≤ 2	Susceptible	
+Imipenem/cilastatin	≤ 1	Susceptible	
+Levofloxacin	≤ 2	Susceptible	
+Meropenem	≤ 1	Susceptible	
+Piperacillin-tazobactam	32	Intermediate	
+Tetracycline	≤ 4	Susceptible	
+Tigecycline	≤ 2	Susceptible	
+Tobramycin	≤ 4	Susceptible	
+Trimethoprim-sulfamethoxazole	≤ 2/38	Susceptible	
+
+
+
+Forty-eight hours after presentation to the emergency room, the patient developed a systemic respiratory distress syndrome, was intubated and transferred to the intensive care unit. Mechanical ventilation with a lung-protective strategy was provided. During his ICU stay the patient developed hemodynamic instability. Additional blood cultures were drawn and there was a subsequent antibiotic therapy escalation with imipenem/cilastatin; however, the patient did not respond and died of septic shock.
+
+DISCUSSION
+Round pneumonia is a radiological and clinical entity described as the result of an infection that spreads centrifugally through the accessory connections between bronchioles and alveoli (canals of Lambert), between alveoli (pores of Kohn), or by destroying the acini walls. Another theory sustains that underdeveloped pores of Kohn and the absence of canals of Lambert limit the spread of the organism, resulting in a focal, round lesion in the lung1.
+
+Physicians are obliged to differentiate between an infectious and a malignant etiology, which appears to be challenging in this presentation. An air bronchogram is found in 5- 50% of cases on CT scans in adults1; however, up to 65% of malignant nodules present with this same radiological pattern. Therefore, an air bronchogram does not seem to help distinguishing between round pneumonia and malignancy.
+
+Wagner et al.1 reported that round pneumonia is more frequent in the lower lobe; accordingly, upper lobe lesions are especially suspicious of malignancy. It is important to note that, in contrast to what is reported in the existing literature, the predominance of these lesions in the upper lobe of the lung was found in the most contemporary review: nine (53.0%) cases in the upper lobes, six (35.3%) cases in the lower lobe and 2 (12.7%) cases in the middle lobe (Table 1). The predominance of the upper lobe has also been confirmed in this case. The mean age of patients of the cited studies is 45.2 years; this finding is similar to a previously reported case with a mean age of 40.93. This may help raising the suspicion that this is an infectious rather than a neoplastic process.
+
+Infectious round infiltrates resolve over time, and the recommended assessment is through a repeated chest X-ray approximately eight weeks after treatment initiation6,7. However, studies in pediatric populations suggest that a follow-up chest X-ray is of limited value for those with a good response to medication8. Current practice guidelines of community-acquired pneumonia do not indicate the follow-up of patients with thoracic images if clinical improvement is evident, but recommendations for adults diagnosed with round pneumonia are not explicitly stated9.
+
+Similar to patients with lobar pneumonia, the ideal antibiotic treatment should be directed against the most common bacterial pathogens (Streptococcus pneumoniae, Klebsiella pneumoniae, and Haemophilus influenza)4,10. However, some authors suggest that Q fever is currently the leading cause of round pneumonia in adults.
+
+First-line therapy consists of doxycycline, but macrolides (erythromycin and clarithromycin) and quinolones (levofloxacin) are also curative and prevent the progression to chronic Q fever11. The duration of treatment for community-acquired pneumonia in current guidelines suggests a short 5-day course of antibiotics. Only patients without clinical improvement receive extended antibiotic therapy and further diagnostic approach9. Current antibiotic regimens for round pneumonia are typically long and highly heterogeneous, with duration ranging from 1 to 6 weeks (Table 2)3,4,12-24. In this regard, evidence-based recommendations on the duration of antibiotics in round pneumonia are needed. The pathogen identified in our case was E. hormaechei, which is a bacteria of the family Enterobacteriaceae that grows in most routine microbiological media and is identified by conventional tests25. Susceptibility testing can be performed using agar dilution, broth microdilution or disk diffusion. E. hormaechei is commonly susceptible to aminoglycosides, third-generation cephalosporins, carbapenems, and TMP/SMX, but resistant to aminopenicillins and penicillin G. According to a previous study, it is also susceptible to fluoroquinolones, but this finding contrasts with other reports26. Our patient had a poor clinical response to intravenous levofloxacin; for this reason, we switched to imipenem/cilastatin, but with no response. Risk factors for infection with Enterobacter spp. include immunosuppression, recent surgery, length of ICU stay, presence of an indwelling vascular or urinary catheter, and previous use of antibiotics26,27.
+
+
+Table 2 Main clinical, radiological and treatment characteristics of case reports on round pneumonia over the last 20 years.
+Articles	Sex	Age	Risk factors	Main complaint	Chest image	Subsequent image	Antibiotic	Treatment duration	Bacterial pathogen	Outcome	
+Gupta et al. 12
+	Female	29	None	Fever and cough	Chest X-ray and chest CT scan, right upper lobe	ChestX-ray, 2 weeks	Not specified	2 weeks	Not identified	Resolution	
+Yoshimura et al.
+13
+	Male	43	History of recent travel	Fever, fatigue, and headache	Chest X-ray and chest CT scan, right lower lobe	Not specified, 2 months	minocycline	3 days	
+Rickettsia typhi
+	Resolution	
+Mahmood et al.14
+	Female	74	Current smoker and older age	Dry cough and shortness of breathe	Chest X-ray and chest CT scan, right lower lobe	chest CT scan, 8 weeks	Not specified	Not specified	
+Streptococcus pneumoniae
+	Resolution	
+Harvey et al.
+15
+	Female	70	Older age	Fever, shortness of breathe, and productive cough	Chest X-ray and chest CT scan, right upper lobe	chest CT, not specified	co-amoxiclav and clarithromycin	Not specified	Not identified	Resolution	
+Cunha et al.16
+	Male	50	schizophrenia	Cough, fever, myalgias, and shortness of breathe	Chest X-ray, right upper lobe	ChestX-ray, 8 weeks	doxycycline	6 weeks	Not identified	Resolution	
+Köhne et al.
+17
+	Male	55	Current smoker, seizures. Parkinson´s disease	Fever and cough	Chest X-ray and chest CT scan left upper lobe	chest CT scan, 2 weeks	ceftriaxone	2 weeks	Not identified	Resolution	
+Velasco-Tirado et al.
+18
+	Male	58	zoonosis (cats)	Fever, chills, headache, and abdominal pain	Chest X-ray and chest CT scan, right upper lobe	chest CT scan, 2 weeks	doxycycline	Not specified	
+Rickettsia typhi
+	Resolution	
+Velasco-Tirado et al.
+18
+	Male	20	zoonosis (dog)	Fever, dry cough, arthralgias, myalgias, headache, sweating and vomiting	ChestX-ray , Right middle lobe	ChestX-ray, 2 weeks	doxycycline	Not specified	
+Rickettsia typhi
+	Resolution	
+Kara et al.19
+	Female	26	None	Fever and myalgia	Chest X-ray and chest CT scan, Right middle lobe	Not specified	clarithromycin	10 days	None.	Resolution	
+Rodríguez20
+	Female	44	Current smoker, diabetes	Fever, dyspnea, chest pain	Chest X-ray and chest CT scan left lower lobe	ChestX-ray, 1 week	co-amoxiclav	7 days	None	Resolution	
+Jiménez-Castillo et al.21
+	Male	40	HIV infection	Fever, headache, and fatigue	Chest x-ray and chest CT scan left lower lobe	Chest X-ray and chest CT scan, 4 days	Co-trimoxazole	21 days	
+Pneumocystis jirovecii
+	Resolution	
+Violante-Cumpa et al.
+22
+	Male	44	Diabetes and chronic kidney disease	Dyspnea, orthopnea, and asthenia	Chest X-ray h and chest CT scan left upper lobe	Not specified	Ceftriaxone and clarithromycin	7 days	None	Resolution	
+Zhang et al.23
+	Male	43	None	Fever, chills, and cough	Chest X-ray and chest CT scan left upper lobe	chest CT scan, 2 weeks and 6 weeks	Ceftriaxone and azithromycin	2 weeks	none	Resolution	
+Zylberman et al.
+24
+	Female	24	None	Fever and dry cough	Chest X-ray and chest CT scan, right upper lobe.	ChestX-ray, 1 week	erythromycin	1 week	
+Chlamydia psittaci
+	Resolution	
+Zylberman et al.
+24
+	Female	34	None	Fever, dyspnea, and hemoptysis	Chest X-ray and chest CT scan, right upper lobe	Chest X-ray and chest CT scan, 1 week	Ampicillin–sulbactam plus clarithromycin	11 days	none	Resolution	
+Durning et al.4
+	Female	58	None	Fever, cough, and dyspnea.	Chest X-ray left lower lobe	ChestX-ray, 2 weeks	Levofloxacin	14 days	none	Resolution	
+Camargo et al.3
+	Female	57	Current smoker	Asymptomatic	Chest X-ray right lower lobe	ChestX-ray, 3 weeks	none	none	Not applicable	Resolution	
+
+
+
+Round pneumonia is an easily treatable infection as was corroborated by most of the cases reviewed here, but patients with abnormal immunity could progress rapidly to a life-threatening presentation10. We treated our patient according to bacterial susceptibility; despite this, his clinical evolution was unsatisfactory, potentially due to his history of liver cirrhosis, which has been associated with several abnormalities in innate and adaptive components of the immune system, leading to a state of acquired immunodeficiency and failure to resolve with standard therapy28. Laboratory tests for evaluation of cellular or antibody deficiencies were not available in our hospital at that moment.
+
+The need for a standardized diagnosis and treatment approach in adults with round pneumonia is present. To the best of our knowledge, this is the first report on a case of round pneumonia due to E. hormaechei. There are several causes of oval lesions on chest images, however, clinicians should always have in mind this atypical presentation of a common disease.
+
+ACKNOWLEDGMENTS
+We thank Sergio Lozano-Rodriguez, MD, for his critical review of the manuscript.

@@ -1,0 +1,109 @@
+event,time
+22-year-old man,0
+admitted to the hospital,0
+mild COVID-19 illness,-1176
+sore throat,-1176
+loss of sense of smell,-1176
+positive COVID-19 PCR,-1176
+full recovery,-840
+negative PCR,-840
+first dose of inactivated SARS-CoV-2 vaccine,-840
+asymptomatic,-816
+second dose of inactivated SARS-CoV-2 vaccine,-24
+headache,-24
+fatigue,-24
+fever,-12
+sore throat,-12
+abdominal pain,-12
+high-grade fever,0
+myalgia,0
+nausea,0
+vomiting,0
+diarrhoea,0
+faint erythematous non-itchy rash,0
+dry irritant cough,0
+no shortness of breath,0
+no chest discomfort,0
+no urinary symptoms,0
+no pain or swelling of joints,0
+ibuprofen,-48
+antibiotic,-48
+temperature 39°C,0
+systolic blood pressure 110 mmHg,0
+tachycardia 140 bpm,0
+dry mucous membranes,0
+congested throat,0
+bilateral conjunctival injection,0
+left conjunctival haemorrhage,0
+generalised erythematous maculopapular rash,0
+no enlarged lymph nodes,0
+no cardiac murmurs,0
+clear chest auscultation,0
+unremarkable abdomen examination,0
+leukocytosis,0
+thrombocytopenia,0
+elevated creatinine,0
+elevated AST,0
+elevated ALT,0
+hyperbilirubinemia,0
+hypoalbuminemia,0
+elevated CRP,0
+hyperferritinemia,0
+elevated D-dimer,0
+elevated procalcitonin,0
+elevated interleukin-6,0
+SARS-CoV-2 IgG positive,0
+proteinuria,0
+negative ANA,0
+negative dsDNA,0
+negative c-ANCA,0
+negative p-ANCA,0
+reduced C3,0
+reduced C4,0
+admitted to ICU,0
+hypotension,0
+ceftriaxone,0
+levofloxacin,0
+intravenous fluids,0
+intravenous hydrocortisone,0
+hemodynamic stability,24
+facial puffiness,48
+generalised body oedema,48
+persistent tachycardia,48
+persistent diarrhoea,48
+watery stools,48
+incontinence,48
+myalgia,48
+anasarca,48
+renal impairment,48
+sinus tachycardia,48
+non-specific T-wave abnormalities,48
+elevated troponin-I,48
+elevated pro-BNP,48
+severe tricuspid regurgitation,48
+pulmonary hypertension,48
+right atrium dilation,48
+right ventricle dilation,48
+reduced ejection fraction,48
+pericardial effusion,48
+pleural effusion,48
+basal atelectasis,48
+negative cultures,72
+multisystem inflammatory syndrome in adults diagnosis,96
+intravenous dexamethasone,96
+improved edema,144
+resolved rash,144
+resolved conjunctivitis,144
+normalized WBC,144
+improved renal function,144
+normalized inflammatory markers,144
+improved tricuspid regurgitation,144
+normal right atrium size,144
+normal right ventricle size,144
+normalized pulmonary artery pressure,144
+oral prednisolone,192
+discharged,192
+resolved symptoms,336
+general weakness,336
+fatigue,336
+normal echocardiogram,336

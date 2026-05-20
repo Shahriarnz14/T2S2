@@ -1,0 +1,138 @@
+event,time
+53 years old,0
+woman,0
+admitted to the hepatopancreatobiliary surgery department,0
+intermittent abdominal pain,-5 years
+fever,-5 years
+intermittent abdominal pain worsened,-72
+fever worsened,-72
+hyperpyrexia,-72
+chills,-72
+jaundice,-72
+cholecystectomy,-8 years
+no nausea,-5 years
+no vomiting,-5 years
+no diarrhea,-5 years
+no history of chronic diseases,0
+no smoking history,0
+no drinking history,0
+no history of allergies,0
+unremarkable family history,0
+temperature 39.0 °C,0
+heart rate 104 beats per min,0
+respiratory rate 21 breaths per min,0
+blood pressure 117/85 mmHg,0
+yellow skin coloration,0
+scleral icterus,0
+right quadrant abdominal tenderness,0
+no rebound tenderness,0
+normal lung examination,0
+normal heart examination,0
+normal white blood cell count,0
+moderate anemia,0
+hypoproteinemia,0
+elevated ALT,0
+elevated AST,0
+elevated total bilirubin,0
+elevated direct bilirubin,0
+elevated alkaline phosphatase,0
+elevated γ-GT,0
+normal coagulation markers,0
+negative hepatitis B,0
+negative hepatitis C,0
+Child-Pugh score 7,0
+Child-Pugh class B,0
+splenomegaly,0
+splenic varices,0
+portal vein narrowing,0
+collateral circulation expansion,0
+spontaneous spleno-renal shunting,0
+magnetic resonance cholangiopancreatography,0
+multiple intrahepatic stones,0
+intrahepatic duct dilatation,0
+common bile duct dilatation,0
+normal liver volume,0
+normal left-to-right lobe proportion,0
+preoperative diagnosis: bilateral hepatolithiasis,0
+preoperative diagnosis: choledocholithiasis,0
+preoperative diagnosis: cholangitis,0
+segmental hepatectomy,0
+cholangioplasty,0
+left hepaticolithotomy,0
+biliary duct exploration,0
+choledocholithotomy,0
+T-tube drainage,0
+accretion lysis,0
+nodular liver changes,0
+atrophic liver changes,0
+cirrhosis,0
+liver-protective therapy,0
+anti-infective treatment,0
+polyene phosphatidylcholine,0
+"ademetionine 1,4-butanedisulfonate",0
+glycine cysteine sodium chloride,0
+ceftriaxone sodium,0
+tazobactam sodium,0
+imipenem,0
+cilastatin sodium,0
+linezolid,0
+glucose,0
+meropenem,0
+tigecycline,0
+teicoplanin,0
+voriconazole,0
+methylprednisolone,0
+fiberoptic bronchoscopy,0
+ventilator support,0
+packed red blood cell transfusion,0
+fresh frozen plasma transfusion,0
+noradrenaline bitartrate,0
+artificial liver support therapy,0
+plasmapheresis,0
+dyspnea,+96
+decreased oxygen saturation,+96
+increased total bilirubin,+96
+liver failure,+96
+transferred to infectious disease department,+168
+tachypnea,+216
+bilateral moist rales,+216
+arterial PaO2 66.3 mmHg,+216
+arterial PaCO2 43.9 mmHg,+216
+tracheal intubation,+216
+transferred to ICU,+216
+Pseudomonas aeruginosa infection,+192
+Enterococcus faecalis infection,+192
+Candida parapsilosis infection,+192
+sputum culture positive,+192
+catheter fluid culture positive,+192
+blood culture positive,+192
+peak TBIL 357 μmol/L,+144
+peak WBC count 29.81 ×109/L,+240
+peak PT 19.5 s,+384
+peak blood ammonia 70 µmol/L,+600
+acute respiratory distress syndrome,+216
+bilateral pulmonary infection,+144
+left pulmonary atelectasis,+336
+septicemia,+240
+abdominal infection,0
+anemia,0
+hypoproteinemia,0
+liver failure,+96
+respiratory failure,+216
+discontinued treatment,+744
+final diagnosis: bilateral hepatolithiasis,0
+final diagnosis: choledocholithiasis,0
+final diagnosis: cholangitis,0
+final diagnosis: subacute liver failure,0
+final diagnosis: secondary biliary cirrhosis,0
+final diagnosis: splenomegaly,0
+final diagnosis: splenic varices,0
+final diagnosis: type 1 respiratory failure,0
+final diagnosis: severe pneumonia,0
+final diagnosis: septicemia,0
+final diagnosis: abdominal infection,0
+final diagnosis: anemia,0
+final diagnosis: hypoproteinemia,0
+successful extubation,+360
+reintubation,+408
+disturbance of consciousness,+408

@@ -1,0 +1,66 @@
+event,time
+22 years old,0
+African American,0
+female,0
+systemic lupus erythematosus,-132
+lupus nephritis,-132
+cyclophosphamide,-132
+mycophenolate,-132
+azathioprine,-132
+prednisone,-132
+hypothyroidism,-132
+hypertension,-132
+myasthenia gravis,-132
+admitted to the intensive care unit,0
+acute hypoxic respiratory failure,0
+endotracheal intubation,0
+mechanical ventilation,0
+fever,0
+tachycardia,0
+decreased breath sounds over the left anterior hemi-thorax,0
+chest X-ray consistent with pneumonia,0
+respiratory muscle weakness,0
+myasthenia crisis,0
+sepsis,0
+plasmapheresis,0
+steroids,0
+antimicrobial agents,0
+pyridostigmine therapy not initiated,0
+hypotension,192
+oliguria,192
+acute renal failure,192
+acute tubular necrosis,192
+abdominal tenderness,216
+abdominal CT scan,216
+free air in the abdominal cavity,216
+emergent laparotomy,216
+peritonitis,216
+gastric cardia perforation,216
+repaired,216
+worsening coagulation panel,0
+prothrombin time increased,0
+albumin decreased,0
+bilirubin normal,0
+alkaline phosphatase normal,0
+AST normal,0
+ALT normal,0
+AST increased,216
+ALT increased,216
+fulminant hepatic failure,216
+AST peaked,240
+ALT peaked,240
+acute respiratory distress syndrome,360
+fatal cardiac arrest,360
+herpes hepatitis,360
+disseminated herpes,360
+enlarged liver,360
+mottled liver,360
+coagulative necrosis,360
+intra-nuclear ground glass inclusions,360
+minimal inflammatory response,360
+pneumonia,0
+ARDS,360
+peritonitis,216
+plasmapheresis cessation,240
+liver function tests skewed,0
+death,360

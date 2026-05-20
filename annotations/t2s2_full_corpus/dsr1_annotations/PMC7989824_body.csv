@@ -1,0 +1,60 @@
+event,time
+79 years old,0
+female,0
+on ventilator,0
+transferred to ICU,0
+biliary sepsis,0
+treated with combined antibiotics,-168
+treated with supportive treatment,-168
+severely ill,0
+jaundiced,0
+heart problems,0
+hypothyroidism,0
+diabetes mellitus,0
+high total bilirubin (10.94 mg/dL),0
+high direct bilirubin (9.67 mg/dL),0
+high CRP (269.48 mg/L),0
+abdominal ultrasound showed large liver cyst,0
+abdominal MRI showed large liver cyst,0
+gastric compression,0
+bile duct obstruction,0
+large stone in distal CBD,0
+"antibiotics (piperacillin-tazobactam, amikacin)",0
+levothyroxine,0
+insulin therapy,0
+supportive treatments,0
+MRI reviewed by radiologist,0
+large cyst possibly pancreatic pseudocyst,0
+biliary drainage decided,0
+bedside PTBD performed,0
+Chiba needle puncture,0
+bile fluid aspiration,0
+guide wire insertion,0
+PTBD catheter insertion,0
+bile drainage established,0
+cyst percutaneous aspiration,0
+dark-brown cyst fluid,0
+infected cyst,0
+cyst fluid amylase 42 U/L,0
+cyst fluid lipase 125 U/L,0
+cyst fluid CEA 476.55 ng/mL,0
+bilirubin decreased (3.38 mg/dL),144
+CRP decreased (180.93 mg/L),144
+breathing improvement,144
+ventilator mode changed to CPAP,144
+PTBD catheter dislodged,144
+ERCP performed,144
+cholangiogram showed large stone,144
+7-Fr double-pigtail stent placed,144
+EUS cyst evaluation,144
+EUS-guided cyst puncture,144
+6-Fr cystotome used,144
+7-Fr double-pigtail cyst stent inserted,144
+condition improved,168
+breathing spontaneously,168
+discharged from ICU,168
+discharged from hospital,216
+repeat ERCP after 3 months,2160
+CBD stone crushed,2160
+cyst size reduced,2160
+cyst stent maintained,2160

@@ -1,0 +1,124 @@
+event,time
+21 years old,0\
+female,0\
+primigravida,0\
+16 weeks gestation,0\
+asthma,0\
+depression,0\
+anxiety,0\
+suspected streptococcal pharyngitis,-504\
+oral Amoxicillin 500 mg 2 times daily for 10 days,-504\
+fever,-336\
+sore throat,-336\
+rash over hands,-168\
+rash over feet,-168\
+rash over mouth,-168\
+fever 104°F (40°C),-168\
+body aches,-168\
+dry cough,-168\
+prenatal vitamin supplement,-168\
+temperature 103.8°F (39.8°C),-168\
+blood pressure 109/57 mmHg,-168\
+pulse 114 beats per minute,-168\
+respiratory rate 18 breaths per minute,-168\
+98% oxygen saturation on room air,-168\
+erythematous plaques on glabella,-168\
+erythematous plaques on malar cheeks,-168\
+erythematous plaques on nasal bridge,-168\
+erythematous plaques on temples,-168\
+vesicles on fingers,-168\
+vesicles on palms,-168\
+multiple ulcers in hard palate,-168\
+lactate 2.6,-168\
+WBC 3.3 k/ul,-168\
+hemoglobin 8.3 g/dl,-168\
+platelets 157 k/ul,-168\
+spherocytes on peripheral smear,-168\
+chest x-ray unremarkable,-168\
+intravenous fluids,-168\
+IV antibiotics,-168\
+sepsis,-168\
+negative blood cultures,-168\
+negative group A streptococci throat culture,-168\
+negative MRSA culture,-168\
+Systemic Inflammatory Response Syndrome criteria,-168\
+tachycardia heart rate 120s,-168\
+tachypnea RR 30,-168\
+T max 102.8°F (39.3°C),-168\
+transferred to facility,0\
+febrile,0\
+tachycardic,0\
+borderline hypotensive,0\
+high-flow nasal cannula,0\
+IV azithromycin 500 mg daily,0\
+IV cefepime 2 g every 8 h,0\
+IV vancomycin 750 every 8 h,0\
+oral acyclovir 800 mg 5 times daily,0\
+IV acyclovir 5 mg/kg every 8 h,0\
+persistent fevers,0\
+persistent tachycardia,0\
+persistent tachypnea,0\
+acute dyspnea,96\
+hypoxia 88% on room air,96\
+bilateral pleural effusions,96\
+multifocal pneumonia,96\
+pulmonary edema,96\
+antibiotics continued,96\
+CT chest with contrast,96\
+bilateral airspace disease,96\
+emergent endotracheal intubation,96\
+mechanical ventilation,96\
+hemoglobin decreased to 5.7 g/dL,96\
+leukopenia 2.6 K/dL,96\
+"thrombocytopenia 119,000 K/dL",96\
+lymphopenia,96\
+negative peripheral smear for hemolysis,96\
+positive Coombs test,96\
+elevated LDH,96\
+haptoglobin 109,96\
+positive ANA 1:640 speckled,96\
+anti-RNP 113,96\
+anti-Smith 103,96\
+complement C3 26,96\
+complement C4 <8,96\
+negative anti-dsDNA,96\
+negative anti-SSA/Ro,96\
+negative anti-SSB/La,96\
+negative antiphospholipid antibodies,96\
+skin biopsy with interface dermatitis,96\
+BAL confirmed alveolar hemorrhage,96\
+Candida albicans in BAL culture,96\
+negative respiratory viral/bacterial panels,96\
+estimated proteinuria 1.83 g/24 h,96\
+IV methylprednisolone 1 g for 5 days,96\
+plasmapheresis for 6 treatments,96\
+cyclophosphamide IV 500 mg,168\
+fever,168\
+hypotension,168\
+tachycardia,168\
+candidemia,168\
+IV fluconazole,168\
+bilateral cotton wool spots,168\
+SLE retinopathy,168\
+extubated,168\
+cyclophosphamide 840 mg (500 mg/m2),672\
+acute abdominal pain,216\
+lipase 1688,216\
+amylase 560,216\
+CT confirmed acute pancreatitis,216\
+hydroxychloroquine 200 mg twice daily,672\
+prednisone taper,672\
+C-reactive protein <0.5 mg/dL,672\
+preterm premature rupture of membranes,2688\
+spontaneous labor,2688\
+magnesium sulfate,2688\
+delivered healthy baby at 32 weeks,2688\
+SLE,0\
+DAH,96\
+acute pancreatitis,216\
+retinopathy,168\
+lupus nephritis,96\
+negative lupus nephritis,96\
+systemic involvement,0\
+no hemoptysis,0\
+no chest pain,0

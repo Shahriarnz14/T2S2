@@ -1,0 +1,123 @@
+event,time
+45-year-old male,0\
+low backache,-17520\
+weakness of both lower limbs,-17520\
+urinary retention,-48\
+constipation,-48\
+upper limb full power,0\
+Grade 3 power in lower limbs,0\
+MRI dorso-lumbar spine thickened ligamentum flavum indenting thecal sac D9-D12,0\
+cord oedema,0\
+distended soft abdomen,0\
+no ascites,0\
+no organomegaly,0\
+bowel sounds present,0\
+urinary bladder catheterized,0\
+laminectomy and decompression of the spine,0\
+invasive blood pressure monitoring,0\
+arterial blood gas monitoring,0\
+anaesthesia induced with propofol 140 mg,0\
+fentanyl citrate 150 μg,0\
+rocuronium bromide 50 mg,0\
+tracheal intubation,0\
+mechanical prophylaxis for deep vein thrombosis,0\
+warm air blanket,0\
+normal post-induction ABG,0\
+anaesthesia maintained with 2% sevoflurane in 50% O2 in air,0\
+propofol infusion 25 μg/kg/min,0\
+vecuronium bromide 2 mg/h,0\
+surgery duration 5 hours,0\
+intermittent fentanyl total 500 μg,0\
+hydration with IV 3.5 L 0.9% saline,0\
+hydration with IV 0.5 L colloid (tetra starch),0\
+noradrenaline 2-4 μg/min started,0\
+blood loss 250 ml,0\
+urine output 250 ml,0\
+ABG 2 hours post-induction showed metabolic acidosis,2\
+severe canal stenosis D9-D12,0\
+cord oedema D9-D12,0\
+methylprednisolone 30 mg/kg bolus,0\
+methylprednisolone infusion 5.4 mg/kg/h,0\
+inadequate motor power post-surgery,5\
+inadequate respiratory effort post-surgery,5\
+repeat ABG showed metabolic acidosis,5\
+blood sugar 246 mg%,5\
+urine ketone negative,5\
+insulin infusion started,5\
+shifted to intensive care unit for elective ventilation,5\
+central venous line inserted,5\
+central venous pressure 1-2 cm H2O,5\
+overnight fluid therapy resolved acidosis,24\
+overnight fluid therapy resolved oliguria,24\
+extubated,24\
+KFT high normal values,24\
+serum sodium normal,24\
+serum potassium normal,24\
+thyroid status normal,24\
+upper limb power almost normal,24\
+lower limb power 1/5,24\
+methylprednisolone continued,24\
+tense abdominal distension,30\
+respiratory distress,30\
+ABG revealed respiratory alkalosis,30\
+reintubated,30\
+ventilated,30\
+chest X-ray normal,30\
+echocardiogram normal,30\
+abdominal ultrasound inconclusive,30\
+CT abdomen showed colonic gaseous distension,30\
+no free fluid in abdomen,30\
+Ryle's tube inserted,30\
+neostigmine 2.5 mg/h for 2 hours,30\
+POD 2 deranged KFT,48\
+high-grade fever,48\
+blood culture sent,48\
+urine culture sent,48\
+tracheal aspirate culture sent,48\
+antibiotics upgraded,48\
+sepsis,48\
+procalcitonin 4.4 ng/ml,48\
+hypocalcaemia 4.1 mg%,48\
+hypoalbuminemia 2 g%,48\
+serum amylase normal,48\
+serum lipase normal,48\
+factitious hypocalcaemia ruled out,48\
+ionized calcium 0.5 mmol/L,48\
+hyperphosphatemia,48\
+low parathormones,48\
+normal magnesium levels,48\
+IV albumin started,48\
+refractory hypocalcaemia,48\
+IV calcium 450 mg elemental calcium 4th hourly,48\
+oral calcitriol 0.5 μg q8h,48\
+POD 3 renal functions resolving,72\
+acidosis resolving,72\
+neostigmine trial 2 days,72\
+prokinetics trial,72\
+laxatives trial,72\
+abdominal symptoms persisted,72\
+no faecal impaction,72\
+decompressive sigmoidoscopy performed,72\
+TPN started,72\
+GI symptoms decreased,96\
+procalcitonin decreased,96\
+total leucocyte count decreased,96\
+serum calcium 7.7 mg%,96\
+POD 9 extubated,216\
+reintubated after 18 hours,234\
+severe tachypnea,234\
+decreased consciousness,234\
+pulmonary embolism ruled out,234\
+USG Doppler lower limbs normal,234\
+echocardiography normal,234\
+MRI spine no fresh changes,234\
+CSF analysis ruled out meningitis,234\
+POD 13 tracheostomy,312\
+ventilator weaned,312\
+fully conscious,312\
+good power in all limbs,312\
+normal calcium levels,312\
+normal albumin levels,312\
+no GI symptoms,312\
+decannulated,312\
+discharged,312

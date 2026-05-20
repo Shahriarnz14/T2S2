@@ -1,0 +1,75 @@
+event,time
+28 weeks of gestation,0
+male,0
+admitted to the hospital,0
+respiratory distress syndrome,0
+nasal continuous positive airway pressure (nCPAP),0
+apnoea of prematurity,48
+caffeine citrate,48
+preterm formula,48
+freshly expressed breast milk (EBM),48
+feedings advanced at 10–20 mL/kg/d,48
+increased gastric residual,168
+apnoea,168
+grossly bloody stools,168
+abdominal distention,168
+left abdominal tenderness,168
+sluggish bowel sounds,168
+increased C-reactive protein (CRP) levels,168
+decreased white blood cell (WBC) levels,168
+positive stool occult blood,168
+pneumatosis intestinalis (PI) of the descending colon,168
+feeds stopped,168
+intravenous antibiotics started,168
+pale,168
+less active,168
+tachycardia,168
+hypotension,168
+conventional mechanical ventilation,168
+fluid resuscitation,168
+haemodynamic support,168
+definitive NEC (stage 3A),168
+IV antibiotics (piperacillin/tazobactam and vancomycin),168
+blood culture positive for Escherichia coli (E. coli),192
+vancomycin stopped,192
+antibiotics changed to piperacillin/tazobactam and meropenem,192
+clinical and radiological improvement,336
+feedings resumed with EBM,360
+bloody stools (second episode),696
+soft abdomen,696
+not distended,696
+non-tender,696
+active bowel sounds,696
+positive stool occult blood,696
+normal CRP and WBC levels,696
+mild thickening of the small bowel,696
+antibiotic therapy started,696
+feeding suspended again,696
+enteral feeding with breast milk resumed,720
+bloody stools (third episode),1104
+expressed mother’s milk fortified with cow’s milk,1104
+no emesis,1104
+no abdominal distension,1104
+active bowel sounds,1104
+decreased WBC levels,1104
+normal CRP levels,1104
+mild increase in eosinophil counts,1104
+suspected FPIES,1104
+feeding suspended,1104
+symptoms disappeared,1104
+expressed mother’s milk fortified without cow’s milk,1128
+bloody stools (fourth episode),1296
+preterm formula feeding reinitiated,1296
+abdominal distension,1296
+grossly bloody stools,1296
+normal WBC and CRP levels,1296
+eosinophil count increased (13.8%),1296
+suspicion of FPIES,1296
+formula changed to hydrolyzed formula,1296
+resolution of symptoms,1296
+diagnosed with FPIES,1296
+discharged home,1440
+expressed mother’s milk,1440
+no recurrence of symptoms,1440
+breastfed for 8 months,1440
+no bloody stools recurred,1440

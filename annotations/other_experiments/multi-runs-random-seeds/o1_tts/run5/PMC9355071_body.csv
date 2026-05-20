@@ -1,0 +1,46 @@
+event,time
+maternal uncle had sudden death,-1
+ulcerative colitis,-1
+malaise,-72
+fever,-72
+loss of appetite,-72
+admission,0
+46-year-old man,0
+weighing 63 kg,0
+chills,0
+nausea,0
+cardiac arrest,1
+chest compression,1
+tracheal intubation,1
+ventricular fibrillation,1
+defibrillation,1
+adrenaline was administered,1
+diagnosed with Brugada syndrome,2
+coved-type ST elevation in V1 and V2,2
+hypercalcemia (14.8 mg/dL),2
+developed hypotension,3
+suspected septic shock from ulcerative colitis exacerbation,3
+CT scan showed a high-density area in the descending colon,3
+increased lactate level,3
+increased white blood cell count,3
+increased procalcitonin level,3
+tazobactam-piperacillin started,3
+vasopressors started,3
+Brugada pattern improved,24
+fever subsided with acetaminophen,24
+extubation,48
+fever reoccurred,120
+contrast-enhanced CT scan revealed a round low-density area of the liver,120
+changed antibiotics to meropenem,120
+changed antibiotics to vancomycin,120
+puncture drainage performed,120
+positive pilsicainide test,720
+ICD was performed,720
+discharged,744
+high parathyroid hormone levels,750
+abnormal uptake in the anterior mediastinum,750
+tumor resection was performed,912
+ectopic parathyroid adenoma,912
+nonfunctional pituitary adenoma,912
+nonfunctional adrenal tumor,912
+multiple endocrine neoplasia type 1,912

@@ -1,0 +1,77 @@
+event,time
+55-year-old,0
+female,0
+transferred to oncology centre for tertiary care,0
+abdominal distension,-336
+ovarian cancer,-87600
+hysterectomy,-87600
+bilateral salpingo-oophorectomy,-87600
+five cycles of chemotherapy,-87600
+normochromic normocytic anaemia,0
+healthy liver function,0
+healthy kidney function,0
+normal clotting limits,0
+significant ascites,0
+moderate right pleural effusion,0
+pelvic mass at distal ileum (10cm x 8cm x 2.8cm),0
+normal liver parenchyma,0
+DLBCL (diffuse large B-cell lymphoma),0
+pleural effusion drained,0
+ascites drained,0
+persistent tachycardia,168
+respiratory failure requiring intubation and ventilation,168
+metabolic acidosis with respiratory compensation (pH 7.29),168
+elevated anion gap (18),168
+pneumoperitoneum,168
+left lower zone lung consolidation,168
+septic shock secondary to perforated gut,168
+progressively drowsy,168
+tachycardic (HR 170 bpm),168
+hypotensive (BP 82/50 mmHg),168
+fluid boluses (2 liters),168
+blood pressure increased to 90/60 mmHg,168
+noradrenaline infusion started (0.1 mcg/kg/min),168
+pelvic lymphoma with perforation of distal ileum,168
+feculent peritonitis,168
+resection of perforated bowel,168
+temporary abdominal closure,168
+"broad-spectrum antibiotics (Vancomycin, Caspofungin, Meropenem)",168
+fentanyl infusion for analgesia,168
+noradrenaline weaned off,192
+mean arterial pressure >65mmHg,192
+urine output 0.5-1ml/kg/hr,192
+PlasmaLyte infusion (2 liters),192
+20% human albumin solution (100ml daily),192
+positive fluid balance,192
+tachycardia persisted,192
+lactic acidosis persisted,192
+left shift neutrophilia,192
+normal liver function tests,192
+normal renal function tests,192
+respiratory failure resolved,288
+hyperlactatemia plateaued,288
+Type A LA contributory,288
+Type B LA attributed to intra-abdominal sepsis,288
+Klebsiella pneumoniae isolated,288
+Candida tropicalis isolated,288
+Meropenem switched to Ceftazidime-Avibactam,288
+prolonged respiratory wean (RR 35-45),288
+respiratory compensation from lactic acidosis,288
+Vancomycin 1gm 12 hourly,288
+Caspofungin 50mg daily,288
+Ceftazidime-Avibactam 2.5gm 8 hourly,288
+Fentanyl infusion (10-50 mcg/hr),288
+worsening Type B LA,336
+second laparotomy,336
+normal intra-abdominal pressure (12mmHg),336
+double barrel stoma created,336
+permanent abdominal closure,336
+downward trend in infection biomarkers,336
+elevated LDH (1002 units/L),336
+Type B LA attributed to DLBCL,336
+CRRT (continuous renal replacement therapy),336
+"chemotherapy (cyclophosphamide, rituximab, etoposide)",336
+resolution of Type B LA,408
+extubated,336
+transferred out of ICU,336
+succumbed to DLBCL months later,unknown

@@ -1,0 +1,61 @@
+event,time
+62 years old,0
+male,0
+admitted to the hospital,0
+lumbar back pain,-168
+fever (>38.5°C),-168
+chronic congestive heart failure,0
+hypertension,0
+diabetes mellitus,0
+peripheral arterial disease,0
+atrial fibrillation,0
+hemodynamically stable,0
+diffusely tender abdomen,0
+no peritoneal inflammation,0
+non-contrast CT: periaortic soft tissue mass (retroperitoneal fibrosis),0
+aortic calcifications,0
+"leukocytosis (12,280/mm³)",0
+neutrophilia (96%),0
+elevated CRP (225 mg/L),0
+MRI: no spondylodiscitis,0
+transthoracic echocardiogram: no cardiac vegetations,0
+intravenous meropenem,0
+intravenous vancomycin,0
+MSSA bacteremia,0
+treatment changed to cloxacillin,0
+syncope,168
+shock,168
+worsening lumbar pain,168
+retroperitoneal hemorrhage on CT,168
+aortic rupture (left renal artery level),168
+angiography confirmation,168
+aortic balloon occlusion (superior mesenteric artery),168
+endovascular aortic cuff placement,168
+ICU transfer,168
+CT: right renal artery leak,192
+celiac trunk patency,192
+SMA patency,192
+right renal artery patency,192
+inferior mesenteric artery patency,192
+"colon ischemia (right, transverse, left)",216
+colon resection,216
+second look operations,240
+repeat CT: no endoleak,240
+splanchnic arteries patent except left renal,240
+vasopressor dependence,0
+inotropic support dependence,0
+mechanical ventilation,0
+hemodialysis,0
+persistence of MSSA bacteremia,0
+patient expired,408
+autopsy: mycotic thrombosed abdominal aneurysm (5.5 cm × 4 cm),408
+aortic wall necrosis (left),408
+left renal artery thrombosis,408
+neutrophil infiltration (aortic wall),408
+gram-positive cocci present,408
+no endocardial vegetations,408
+no valvular vegetations,408
+no peritoneal fibrotic tissue,408
+peritoneal fat abscesses,408
+bacterial invasion,408
+yeast invasion,408

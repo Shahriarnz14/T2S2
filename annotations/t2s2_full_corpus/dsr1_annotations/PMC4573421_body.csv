@@ -1,0 +1,60 @@
+event,time
+72 years old,0
+woman,0
+admitted for fever,0
+pain in bilateral big toes,0
+no history of trauma,0
+no history of insect bites,0
+episodes twice a year,"-8760 (approx. 2 years prior, assuming ""twice a year"" implies previous occurrences)"
+resolves spontaneously,-8760
+took Traditional Chinese Medicine,-8760 (past use for episodes)
+drug toxicology screen negative,0
+no diagnosis of gout,0
+no diagnosis of Lupus,0
+no diagnosis of Raynaud's syndrome,0
+vasculitis screen negative,0
+borderline positive anti-nuclear antibody,0
+no risk factors for peripheral vascular disease,0
+pain on bilateral big toes,0
+bilateral podagra,0
+minimal swelling,0
+full range of motion,0
+pulses well felt,0
+admitted to Medical Intensive Care Unit,0
+streptococcal septicaemia,0
+Streptococcus pneumoniae in blood culture,0
+broad spectrum antibiotics started,0
+hypotension 60/40 mmHg,0
+urine output <20 ml/h,0
+did not respond to fluid replacement,0
+dopamine used up to 18 mcg/kg/min,0 (day of admission)
+noradrenaline used up to 0.5 mcg/kg/min,24 (second day)
+vital signs normalized,0 (assuming stabilization after initial inotrope use)
+extremities dusky,24 (second day)
+marked livedo reticularis,24 (second day)
+patches of ecchymosis,24 (second day)
+mottled skin,24 (second day)
+terminal digits necrotic,120 (fifth day)
+tip of nose necrotic,120
+dry gangrene appearing,120
+ecchymotic bullae over bilateral lower limbs,"168 (second week, ~7 days)"
+plantar gangrene,168
+dorsalis pedis and posterior tibial pulses not palpable,168
+ecchymotic bullae over bilateral hands and forearms,168
+radial pulses not palpable,168
+dry gangrene involved all digits,168
+microvascular spasm diagnosis,168
+toe pressure no pulsations,168
+arterial occlusion test moderate calcification,168
+referral to plastic surgery,168
+dry gangrene demarcated up to upper forearms,"720 (first month, ~30 days)"
+dry gangrene demarcated up to mid-shin left,720
+dry gangrene demarcated up to upper shin right,720
+re-admitted electively two months later,1464 (two months post-admission)
+4 limb amputations,1464
+bilateral below knee amputations,1464
+bilateral above elbow amputations,1464
+recovery smooth post-operatively,1464
+rehabilitation started,1464
+ambulatory with lower limb prosthesis,26280 (5 years post-operation)
+utilizes upper limb prosthesis,26280

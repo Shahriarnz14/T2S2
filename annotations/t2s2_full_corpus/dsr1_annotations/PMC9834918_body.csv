@@ -1,0 +1,77 @@
+event,time
+49 years old,0
+morbidly obese,0
+African American,0
+man,0
+end-stage renal disease,0
+peritoneal dialysis,0
+hypertension,0
+admitted to the hospital,0
+nausea,-96
+nonbilious emesis,-96
+nonbloody emesis,-96
+severe diffuse abdominal pain,-96
+reported symptoms to outpatient PD nurse,-48
+cloudy white fluid,-48
+peritoneal fluid sent for evaluation,-48
+culture sent for evaluation,-48
+started on intraperitoneal cefazolin,-48
+started on intraperitoneal ceftazidime,-48
+fever,-24
+home thermometer reading 101.5 °F,-24
+on PD for 2 years,0
+no prior similar episodes,0
+oliguric at baseline,0
+not using sterile aseptic technique during last week,-168
+using dish towels to wipe hands,-168
+accessing transfer set,-168
+afebrile on admission,0
+blood pressure 95/72 mmHg,0
+heart rate 88 bpm,0
+respiratory rate 20 breaths/min,0
+acute distress secondary to abdominal pain,0
+distended abdomen,0
+tender to light palpation,0
+positive fluid wave,0
+dull to percussion,0
+"leukocytosis 13,700",0
+potassium 3.3 mmol/L,0
+anion gap 25,0
+PD effluent records from 2 days prior,0
+"peritoneal fluid WBC 93,557",0
+neutrophil predominance 80%,0
+hospital day 1,24
+Acinetobacter pittii identified,24
+started on intraperitoneal ceftazidime,24
+started on intraperitoneal gentamicin,24
+susceptibilities pending,24
+hospital day 2,48
+susceptibilities returned,48
+sensitivity to ceftazidime (4 μg/mL),48
+hospital day 5,120
+blood culture no growth,120
+continued on intraperitoneal ceftazidime 1.5 g for 21 days,120
+persistence of cloudy effluent,504
+treatment extended to 28 days,504
+readmitted to the hospital for fever,816
+readmitted to the hospital for abdominal pain,816
+"peritoneal fluid WBC 43,245",816
+neutrophil percentage 80%,816
+cultures growing same organism,816
+treated with vancomycin,816
+treated with gentamicin,816
+placed on intravenous ceftazidime,816
+blood cultures no growth in second hospital stay,816
+improvement in abdominal pain,816
+decreasing intraperitoneal WBC count,816
+PD catheter removed,816
+hemodialysis initiated via tunneled HD catheter,816
+discharged with 2-week ciprofloxacin,816
+plan for HD until kidney transplant,816
+asymptomatic on day 28,672
+recurrence of peritonitis symptoms on day 34,816
+"peritoneal WBC >43,000",816
+clinical response to ceftazidime,816
+asymptomatic upon completion of therapy,1176
+no shortness of breath,0
+denies chest pain,0

@@ -1,0 +1,92 @@
+event,time
+55 years old,0
+Saudi woman,0
+admitted to the emergency department,0
+fever,-24
+cough,-24
+progressive lower limb edema,-24
+abdominal distention,-24
+type 2 diabetes mellitus,0
+oral metformin 500 mg twice daily,0
+hypertension,0
+oral amlodipine 5 mg once daily,0
+non-smoker,0
+no alcohol consumption,0
+no history of drug abuse,0
+admitted to hospital,0
+temperature 37.7°C,0
+heart rate 111 beats per minute,0
+respiratory rate 26 breaths per minute,0
+normal blood pressure,0
+normal oxygen saturation,0
+peripheral blood leukocytosis 12.3×109/L,0
+platelets 41×109/L,0
+albumin 26 g/L,0
+bilirubin 47 µmol/L,0
+creatinine 59 µmol/L,0
+chest X-ray right-sided pleural effusion,0
+hydrothorax,0
+possible consolidation,0
+empirical antibiotics,0
+increased diuretics dosage,0
+6 liters ascitic fluid drained,0
+6 liters pleural fluid drained,0
+urine culture positive for Streptococcus agalactiae,0
+clinical condition improved,168
+repeated chest X-ray reduction in right hydrothorax,168
+discharged home,168
+oral ciprofloxacin 500 mg/12 hrs,168
+oral lasix 20 mg,168
+multivitamin tablets,168
+admitted for elective liver transplant,720
+total hepatectomy,720
+liver transplantation with full right lobe graft,720
+three biliary anastomoses,720
+arterial anastomosis repeated twice,720
+transfusion of 12 units packed red blood cells,720
+transferred to ICU,720
+extubated after 24 hours,744
+re-intubated due to ARDS,768
+acute respiratory distress syndrome (ARDS),768
+moved to general ward,792
+immunosuppressive therapy,792
+oral tacrolimus 1mg,792
+oral mycophenolate mofetil 500 mg,792
+oral prednisolone 5mg,792
+post-operative anastomotic biliary stricture,0
+post-operative bile leak,0
+percutaneous transhepatic cholangiography (PTC),0
+percutaneous transhepatic biliary drainage (PTBD),0
+internal-external biliary catheter,0
+pigtail catheter for bile collection drainage,0
+drains kept in place,0
+pigtail catheter removed,504
+PTBD catheter left in place,504
+right upper quadrant abdominal pain,1008
+no fever,1008
+no vomiting,1008
+no change in leukocyte count,1008
+no change in bilirubin,1008
+no change in ALT,1008
+no change in alkaline phosphatase,1008
+CRP increased from 65.1 mg/L to 155.3 mg/L,1008
+abdominal ultrasound right sub-diaphragmatic collection 3.4×4.4×2.0 cm,1008
+septic screen,1008
+blood culture,1008
+urine culture,1008
+biliary drain fluid culture,1008
+abdominal collection culture,1008
+empirical IV meropenem 20 mg/kg every 8 hrs,1008
+PTBD catheter culture positive for Elizabethkingia meningoseptica,1008
+IV meropenem changed to IV ciprofloxacin 400 mg/12 hrs,1008
+IV metronidazole loading dose 15mg/kg,1008
+IV metronidazole maintenance dose 7.5 mg/kg every six hours,1008
+PTBD catheter fluid repeat culture,1056
+repeat culture positive for E. meningoseptica,1104
+abdominal pain resolved,1104
+antibiotics continued for two weeks,1104
+asymptomatic,2688
+normal peripheral blood leukocyte count 9×109/L,2688
+CRP 30 mg/L,2688
+repeat PTBD catheter fluid cultures negative,2688
+no antibiotic treatment complications,2688

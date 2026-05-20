@@ -1,0 +1,56 @@
+event,time
+65 year-old female,0
+end-stage osteoarthritis of the right knee,-168
+progressively worsening joint pain,-168
+hypertension,0
+gastroesophageal reflux disease,0
+remote history of DVT,0
+right total knee arthroplasty,-24
+discharge home,-48
+enoxaparin 30 mg BID,-24
+DVT prophylaxis,-24
+admitted,0
+vague epigastric pain,0
+lethargy,0
+febrile episodes,0
+decreased appetite,0
+somnolence,0
+anxiety,0
+nausea,0
+physical examination unremarkable,0
+temperature 101.7 F,0
+heart rate 111,0
+respiration 20,0
+blood pressure 123/87,0
+oxygen saturation 92%,0
+hyponatremia 126,0
+hypokalemia 2.6,0
+glucose 60,0
+hematocrit 25.3,0
+creatinine 0.8,0
+"WBC count 14,900",0
+"platelet count 161,000",0
+chest CT negative for pulmonary embolism,0
+MRI brain negative for acute pathology,0
+presumed sepsis,0
+intravenous antibiotics,0
+cultures obtained,0
+rapid deterioration,24
+transfer to ICU,24
+intravenous volume support,24
+pressors,24
+adrenal insufficiency suspected,24
+basal cortisol levels 0.3 nmol/L,24
+cosyntropin stimulation test,24
+abdominal CT bilateral adrenal hemorrhages,24
+enoxaparin discontinued,24
+high dose hydrocortisone,24
+clinical improvement,48
+discharge from ICU,72
+glucocorticoid taper,72
+discharge home,168
+1-year follow-up,8760
+excellent range of motion,8760
+well-placed components,8760
+no evidence of loosening,8760
+returned to previous activity level,8760

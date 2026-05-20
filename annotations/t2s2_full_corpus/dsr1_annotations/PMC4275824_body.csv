@@ -1,0 +1,69 @@
+event,time
+64 years old,0
+female,0
+admitted to the hospital,0
+right flank pain,0
+dysuria,0
+pollakuria,0
+diabetes,0
+hypertension,0
+hypothyroidism,0
+"medications for diabetes, hypertension, hypothyroidism",0
+preoperative evaluation,-24
+complete blood count,-24
+serum urea,-24
+creatinine,-24
+ALT,-24
+AST,-24
+coagulation parameters,-24
+urine culture,-24
+right renal pelvic stone (41-40 mm),0
+right PNL (percutaneous nephrolithotomy),0
+general anesthesia,0
+lithotomy position,0
+ureteral catheter placement,0
+prone position,0
+posterior middle calyx puncture (11th-12th ribs),0
+uncomplicated procedure,0
+16 Fr nephrostomy tube placement,0
+initial hemoglobin 13 g/dl,0
+hemoglobin decrease to 11 g/dl post-procedure,0
+respiratory distress during recovery,6
+referred to intensive care unit,6
+sudden severe hypotension after 45 minutes,6.75
+900cc hemorrhagic fluid in drainage tube,6.75
+hemoglobin 8.1 g/dl,6.75
+postoperative thoraco-abdomino-pelvic tomography (no hematoma/organ injury),6.75
+nephrostomy tube clamped,6.75
+blood transfusion initiated,6.75
+two units erythrocyte suspension,6.75
+one unit fresh frozen plasma,6.75
+hemoglobin increased to 10 g/dl,7.5
+respiratory stabilization,7.5
+hemodynamic stabilization,7.5
+transferred to urology clinic,8
+AST elevation (end of first postoperative day),24
+ALT elevation (end of first postoperative day),24
+LDH elevation (end of first postoperative day),24
+AST peak >20x ULN at 96 hours,96
+ALT peak >25x ULN at 96 hours,96
+LDH peak >10x ULN at 96 hours,96
+serum bilirubin normal,0
+alkaline phosphatase normal,0
+INR normal,0
+ischemic hepatitis diagnosis,24
+AST normalization (12th day),288
+ALT normalization (12th day),288
+LDH normalization (12th day),288
+discharged on postoperative day 9,216
+no abdominal findings,0
+no specific treatment for IH,24
+systemic hypotension,6.75
+hemorrhage post-PNL,6.75
+blood transfusion,6.75
+creatinine elevation (postoperative days 1-3),24
+creatinine normalization (postoperative day 5),120
+no liver inflammation histologically,0
+centrilobular necrosis,0
+increased oxygen delivery goal,24
+exclusion of other hepatic pathologies,24

@@ -1,0 +1,70 @@
+event,time
+75 years old,0
+Japanese man,0
+admitted to intensive care unit,0
+transferred from local hospital,0
+necrotizing pancreatitis,0
+smoked 40 cigarettes per day,-438000
+no medical history of cardiovascular disease,0
+initial ECG showed reversed R-wave progression,0
+old anterior myocardial infarction,0
+treated with antibiotics,0
+endoscopic catheter drainage of pancreatic necrosis,0
+day 8 of admission,192
+presented with bradycardia,192
+presented with dyspnea,192
+body temperature 38.2°C,192
+blood pressure 74/52 mmHg,192
+pulse rate 50 beats per minute,192
+oxygen saturation 91% on 5 L/min oxygen,192
+"elevated white blood cell count (10,900 /μL)",192
+elevated C-reactive protein level (12.8 mg/dL),192
+"elevated presepsin level (1,342 pg/mL)",192
+elevated fibrin degradation products (45.8 μg/mL),192
+prothrombin time-international normalized ratio 1.41,192
+low AT activity (49%),192
+platelet count within normal limit,192
+ECG showed new-onset ST elevation in inferior leads,192
+complete atrioventricular block,192
+transthoracic echocardiography visualized reduced left ventricular ejection fraction (25%),192
+local hypokinesia in inferior wall,192
+local dyskinesia in anterior wall,192
+diagnosed with acute inferior myocardial infarction,192
+old anterior myocardial infarction,192
+cardiogenic-septic shock,192
+septic disseminated intravascular coagulation (DIC),192
+inserted intra-aortic balloon pump (IABP),192
+inserted temporary pacemaker,192
+coronary angiography revealed sub-occlusion of proximal right coronary artery (RCA),192
+started emergent PCI for RCA,192
+"administered dual antiplatelet agents (200 mg aspirin, 20 mg prasugrel)",192
+"administered bolus of 8,000 units UFH",192
+IVUS showed hypoechoic plaque with deep ultrasound attenuation,192
+vulnerable plaque at culprit lesion,192
+no visible thrombus,192
+3.0-mm balloon dilatation,192
+thrombolysis in myocardial infarction grade 3 flow,192
+culprit lesion reoccluded,192
+repeat IVUS detected lobulated hypoechoic mobile masses (fresh thrombi),192
+aspirated small red thrombi using 7-F aspiration catheter,192
+thrombi remained,192
+blood flow not improved,192
+ACT 248 seconds,192
+"administered 16,000 units UFH total",192
+suspected heparin resistance (HR),192
+low plasma AT activity,192
+acquired AT deficiency due to septic DIC,192
+"administered 2,400 units AT gamma",192
+"administered additional 5,000 units UFH",192
+ACT increased to 364 seconds,192
+intravascular thrombi decreased,192
+occluded lesion recanalized,192
+implanted drug-eluting stent,192
+completed PCI without subsequent thrombus formation,192
+plasma AT activity increased to 74%,216
+platelet count did not decrease after PCI,216
+heparin/platelet factor 4 antibody not detected,216
+IABP removed,240
+temporary pacemaker removed,240
+refractory pancreatitis,0
+died due to sepsis,1080

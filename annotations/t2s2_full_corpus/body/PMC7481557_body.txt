@@ -1,0 +1,61 @@
+Abbreviations
+ARDSacute respiratory distress syndrome
+
+CRPC-reactive protein
+
+CTcomputed tomography
+
+CXRChest X-ray
+
+DADdiffuse alveolar damage
+
+GGOground-glass opacities
+
+VATventilator-associated tracheobronchitis
+
+VAPventilator-associated pneumonia
+
+VCMvancomycin
+
+1 Introduction
+Lower respiratory tract infections in intubated patients include ventilator-associated tracheobronchitis (VAT) and ventilator-associated pneumonia (VAP) [1]. VAT was first described in the early 2000s as an intermediate process between lower respiratory tract colonization and VAP [[2], [3], [4]].
+
+Corynebacterium spp., which are Gram-positive bacilli, comprise normal respiratory flora and are often dismissed as a contaminant; however, they have been recently reported to be the cause of pneumonia and characterized as an emerging pathogen [5].
+
+Here, we report the rare case of VAT caused by Corynebacterium spp., which was complicated with pathological diffuse alveolar damage (DAD).
+
+2 Case presentation
+A 55-year-old man was diagnosed with Hodgkin lymphoma 5 years previously. Two months before hospitalization, he received autologous peripheral blood stem cell transplantation after chemotherapy. He began to suffer from fever and marked dyspnea for 1 week and was subsequently hospitalized. Serum lactate dehydrogenase (258 U/L; normal, <225 U/L) and C-reactive protein (CRP) (16.63 mg/dL; normal, ≦0.3 mg/dL) were increased and marked hypoxemia (partial pressure of oxygen and carbon dioxide in arterial blood were 57.5 mmHg and 32.9 mmHg under 10 L/min oxygen supplementation, respectively). Chest X-ray revealed ground-glass opacities (GGO) in bilateral lower lung fields (Fig. 1A) and chest computed tomography showed extensive consolidation with GGO in bilateral lung fields (Fig. 2). Urinary pneumococcal and Legionella antigen tests were negative, and no significant bacteria were detected in sputum and blood cultures. We therefore diagnosed the patient as having drug-induced lung injury associated with treatment for Hodgkin lymphoma. After methylprednisolone pulse therapy (1000 mg/day for 3 days), CRP level decreased (2.62 mg/dL) and lung involvement remarkably improved (Fig. 1B). However, 10 days after admission, following second steroid pulse therapy, CRP levels became elevated again (15.09 mg/dL) and progressive bilateral diffuse extensive infiltrates appeared (Fig. 1C). Despite the combined use of tazobactam/piperacillin and micafungin, the patient's respiratory failure worsened and he died about 2 weeks after hospitalization. During treatment, Corynebacterium spp. had been detected in tracheal sputum culture, and histologic findings of autopsy revealed DAD and extensive fibrosis with no evidence of bacterial pneumonia (Fig. 3). Additionally, neutrophilic infiltration was observed in the tracheal epithelium with mucosal hemorrhage (Fig. 4). We thus concluded that the diagnosis of this case was acute respiratory distress syndrome (ARDS) related to VAT caused by Corynebacterium spp. infection.Fig. 1 Chest X-ray (CXR) findings. (A) On admission, CXR revealed ground-glass opacities in bilateral lower lung fields. (B) After initial methylprednisolone pulse therapy, C-reactive protein (CRP) level decreased (data not shown) and lung involvement remarkably improved. (C) Ten days after admission, following second steroid pulse therapy, CRP became elevated again (data not shown) and progressive bilateral diffuse extensive infiltrates appeared.
+
+Fig. 1Fig. 2 Chest computed tomography (CT) findings on admission. Chest CT on admission showed extensive consolidation with ground-glass opacities in bilateral lung fields.
+
+Fig. 2Fig. 3 Autopsy findings of the lung (A, hematoxylin-eosin staining, 30×). During intensive treatment, Corynebacterium spp. was detected in tracheal sputum culture, and histologic findings of the autopsy revealed diffuse alveolar damage (DAD) with hyaline membrane (B, black arrow) and extensive fibrosis with no evidence of bacterial pneumonia. Dense fibrotic lesions reflect inappropriate repair of DAD after initial steroid pulse therapy.
+
+Fig. 3Fig. 4 Autopsy findings of the trachea. Neutrophilic infiltration (A, black arrows) was observed in the tracheal epithelium with mucosal hemorrhage (B, hematoxylin-eosin staining, 20×). Considering the finding of diffuse alveolar damage with no evidence of bacterial pneumonia, we concluded that the diagnosis of this case was acute respiratory distress syndrome related to ventilator-associated tracheitis caused by Corynebacterium spp. infection.
+
+Fig. 4
+
+3 Discussion
+Corynebacterium is a Gram-positive bacillus that is considered normal flora of the skin, respiratory tract, and mucous membranes and is usually considered a contaminant even if detected from sputum culture. There are limited reports of Corynebacterium as a pathogen, though Corynebacterium spp. have been reported as causative pathogens of pneumonia. Yang et al. reviewed the literature on 67 patients with pneumonia caused by Corynebacterium spp. and well described its clinical appearance [5]. Pneumonia caused by Corynebacterium spp. has occurred in patients with chronic lung diseases such as chronic obstructive pulmonary disease or cystic fibrosis, bypass of airway protection, and immunocompromised conditions such as diabetes mellitus, ongoing chemotherapy, and steroid use. In the present case, the patient was receiving chemotherapy for Hodgkin lymphoma. Corynebacterium includes many species with varied antimicrobial susceptibility profiles. Yang et al. emphasized that in the case of pneumonia caused by Corynebacterium spp., vancomycin (VCM) should be initially selected for empiric therapy and subsequently switched to definitive antibiotic treatment after species identification (e.g., by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry) [5]. In the present case, we considered VCM treatment; however, this was contraindicated due to the patient's severe renal dysfunction associated with multiple organ failure.
+
+Lower respiratory tract infections in intubated patients include VAP and VAT. Nseir et al. reported that antimicrobial treatment in patients with VAT is associated with lower rates of VAP and intensive care unit mortality [3]. VAT is thought to be an intermediate process between respiratory tract colonization and VAP [[2], [3], [4]]. The present case was diagnosed as VAT because of neutrophil infiltration with mucosal hemorrhage of the trachea and DAD pattern without bacterial pneumonia of the lung tissue. It was speculated that VAT caused by Corynebacterium spp. infection could progress to septic ARDS without onset of VAP in immunodeficient patients. Moreover, Corynebacterium has recently been suggested to be an important causative pathogen, not contaminant, in bacterial pneumonia in mechanically ventilated patients [6]. Therefore, even without VAP diagnosis, antibiotic treatment such as VCM should be considered in patients who meet the established diagnostic criteria for VAT if Corynebacterium spp. is detected in the sputum culture from endotracheal aspiration [1,7].
+
+In conclusion, we experienced a rare case of septic ARDS due to VAT caused by Corynebacterium spp. For immunodeficient patients who meet the diagnostic criteria of VAT and demonstrate Corynebacterium spp. in the sputum culture from endotracheal aspiration, early intervention of optimal antibiotics such as VCM should be considered to avoid progression to VAP.
+
+Statement confirming consent
+Appropriate written informed consent was obtained for publication of this case report and accompanying images.
+
+Funding statement
+None.
+
+Declaration of competing interest
+None of the authors have any conflicts of interest to declare.
+
+Appendix A Supplementary data
+The following is the Supplementary data to this article:Multimedia component 1
+Multimedia component 1 
+
+Acknowledgments
+We appreciate the efforts of Mr. Koki Maeda in providing advice regarding the pathological diagnosis.
+
+Appendix A Supplementary data to this article can be found online at https://doi.org/10.1016/j.rmcr.2020.101208.

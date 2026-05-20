@@ -1,0 +1,113 @@
+event,time
+64 years old,0
+male,0
+admitted to the hospital,0
+end-stage liver disease,0
+secondary biliary cirrhosis,0
+non-alcoholic steatohepatitis,0
+robotic cholecystectomy,-unknown (prior to LT)
+hepatic duct leak,-unknown (post-cholecystectomy)
+open choledochojejunostomy,-unknown (post-cholecystectomy)
+elevated liver function tests,-unknown (post-cholecystectomy)
+choledochojejunostomy stricture,-unknown (pre-LT)
+intrahepatic biliary tree dilation,-unknown (pre-LT)
+cirrhosis,-unknown (pre-LT)
+chronic biliary obstruction,-unknown (pre-LT)
+liver transplantation,-528 (22 days pre-admission)
+adhesions from previous surgeries,-528
+extended two-hepatic vein piggy-back technique,-528
+portal vein to portal vein anastomosis,-528
+common HA to common HA anastomosis,-528
+reconstruction of small accessory right HA to donor GDA,-528
+biliary reconstruction with choledochojejunostomy,-528
+steroid taper,-528
+Myfortic,-528
+Tacrolimus,-528
+Micafungin prophylaxis,-528
+Valcyte prophylaxis,-528
+Bactrim prophylaxis,-528
+thrombus of accessory right HA,-528 + 24 = -504 (post-LT day 1)
+patent common HA,-504
+therapeutic low molecular weight heparin,-504
+perihepatic hematoma,-504
+percutaneous drain placed,-504
+negative drain fluid cultures,-504
+nonbilious drain output,-504
+transitioned to Apixaban,-528 + 192 = -336 (discharge day 8)
+perihepatic drain removed,-528 + 240 = -288 (post-LT day 10)
+sudden onset right upper quadrant abdominal pain,-528 + 504 = -24 (post-LT day 22)
+lightheadedness,-24
+hemodynamic instability,-24
+tachycardia,-24
+hypotension,-24
+abdominal distension,-24
+massive transfusion protocol activated,-24
+resuscitation initiated,-24
+sepsis protocol initiated,-24
+lactic acidosis,-24
+bicarbonate 8 mmol/L,-24
+lactate 9.8 mmol/L,-24
+acute blood loss anemia,-24
+hemoglobin 6.5 g/dl,-24
+acute kidney injury,-24
+creatinine 3.1 mg/dl,-24
+worsening liver function tests,-24
+transient response to resuscitation,-24
+computed tomography performed,-24
+main HA pseudoaneurysm,-24
+active extravasation,-24
+moderate hemoperitoneum,-24
+acute decompensation,0 (en route to IR)
+mean arterial pressure 30-40 mmHg,0
+pulseless electrical activity,0
+ACLS initiated,0
+intubation,0
+right femoral arterial line exchanged to REBOA sheath,0
+REBOA inflated zone 1,0
+cardiopulmonary resuscitation,0
+spontaneous cardiac activity recovered,0
+emergency transport to operating room,0
+rapid laparotomy,+1 (estimated)
+REBOA inflated during laparotomy,+1
+large fresh blood clot,+1
+hematoma to hepatic hilum,+1
+no biloma,+1
+no bile leak,+1
+no enteric leak,+1
+no abscess formation,+1
+ischemic hepatic allograft,+1
+REBOA occlusion 22 minutes prior,+1
+recipient HA control,+1
+REBOA deflation,+1
+severe reperfusion injury,+1
+recurrent PEA,+1
+REBOA re-inflated,+1
+ACLS resumed,+1
+pulse resumption,+1
+additional 5 minutes aortic occlusion,+1
+donor HA thrombosed,+1
+donor HA damaged,+1
+donor HA rupture,+1
+mycotic change,+1
+recipient HA stump ligated,+1
+ABTHERA placed,+1
+transferred to SICU,+2 (estimated)
+continuous renal replacement therapy,+2
+goal-directed resuscitation,+2
+refractory septic shock,+2
+severe acidosis,+2
+electrolyte abnormalities,+2
+coagulopathy,+2
+hepatic ischemic insult,+2
+hemorrhagic insult,+2
+stabilization for re-transplant,+2
+condition declined,+14
+refractory septic shock,+14
+multiorgan failure,+14
+allograft non-function,+14
+bradycardia,+14
+pulseless,+14
+resuscitative efforts discontinued,+14
+pronounced deceased,+14
+Streptococcus Constellatus bacteremia,+14
+Klebsiella Pneumoniae colonization,+14

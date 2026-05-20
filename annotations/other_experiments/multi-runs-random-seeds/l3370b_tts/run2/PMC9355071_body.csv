@@ -1,0 +1,50 @@
+event,time
+ 46 years old ,0
+     male ,0
+     ulcerative colitis ,0
+     malaise ,-72
+     fever ,-72
+     loss of appetite ,-72
+     admission to hospital ,0
+     blood pressure 124/46 mmHg ,0
+     heart rate 122 beats per min ,0
+     SpO2 98% ,0
+     respiratory rate 16/min ,0
+     body temperature 40.2°C ,0
+     alert ,0
+     chills ,0
+     nausea ,0
+     cardiac arrest ,0
+     chest compression ,0
+     tracheal intubation ,0
+     ventricular fibrillation ,0
+     defibrillation ,0
+     adrenaline administration ,0
+     Brugada syndrome diagnosis ,0
+     coved-type ST elevation in V1 and V2 ,0
+     hypercalcemia ,0
+     acetaminophen administration ,0
+     fever subsided ,0
+     coved-type ST elevation improved ,0
+     hypotension ,12
+     septic shock suspicion ,12
+     tazobactam-piperacillin initiation ,12
+     vasopressors initiation ,12
+     extubation ,48
+     fever reoccurrence ,120
+     liver abscess diagnosis ,120
+     meropenem and vancomycin initiation ,120
+     puncture drainage ,120
+     infection control ,216
+     pilsicainide test ,720
+     implantable cardioverter defibrillator implantation ,720
+     discharge ,720
+     family history of sudden death ,0
+     high parathyroid hormone levels ,720
+     ectopic parathyroid adenoma diagnosis ,720
+     nonfunctional pituitary adenoma diagnosis ,720
+     nonfunctional adrenal tumor diagnosis ,720
+     multiple endocrine neoplasia type 1 diagnosis ,720
+     tumor resection ,720
+     electrocardiogram follow-up ,720
+     serum calcium level follow-up ,720

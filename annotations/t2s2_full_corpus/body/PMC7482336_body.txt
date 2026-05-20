@@ -1,0 +1,128 @@
+Introduction
+The ongoing pandemic of coronavirus disease (COVID-19) leads to a typical presentation of respiratory features due to the affinity of the novel coronavirus (SARS-CoV-2) for the upper and lower respiratory tracts. But increasingly, the recent literature has shown varied systemic involvement. Extrapulmonary sites are being recognized as sites of disease expression and virus transmission.1 These include the gastrointestinal tract (GIT), nervous system, cardiovascular system (CVS), renal system, eyes, and manifestations due to hematological abnormalities.
+
+Materials and Methods
+Inclusion and Exclusion Criteria
+All retrospective clinical studies, case series, and case reports with data on extrapulmonary manifestations in COVID-19 that were published from the end of December 2019 till the end of April 2020 were included. Studies that did not mention extrapulmonary manifestations were excluded.
+
+Literature Search
+The review was based on publications available on PubMed and data collected by the WHO. Search terms we used were “2019-nCoV,” “SARS-CoV-2,” or “COVID-19” combined with “asymptomatic,” “gastrointestinal,” “cardiac,” “neurological,” “hepatic,” “hematological,” “ophthalmological,” “dermatological,” “psychiatric,” “hematological,” “renal,” and “atypical.”
+
+Data Extraction
+We reviewed eligible studies and extracted data like country of origin, study period, demographics, systemic manifestations, and the incidence of symptoms. Two researchers, SAA and RSR, extracted the data by consensus; major disagreements were settled by the senior researcher, HM.
+
+A case vignette at the outset will drive home the purpose of this review. A 42-year-old male was referred by his primary physician to the emergency department with a history of 8 days of testicular pain migrating into the abdomen, back, and chest. Although he had a fever 2 days back, he denied respiratory symptoms. Clinical examination revealed diffuse abdominal tenderness. Computerized tomography (CT) of the abdomen captured the lung bases. Pulmonary ground-glass opacification and consolidation consistent with pneumonia and possible colitis were noted. Two days into hospitalization, his primary physician notified his COVID-19-positive status. He had attended a biotechnology conference 2 weeks prior in a COVID-19-impacted area. Eventually, many healthcare workers (HCWs) had accidental exposure to SARS-CoV-2.2
+
+Asymptomatic Patient
+Individuals with positive reverse transcription-polymerase chain reaction (RT-PCR) results, who never develop any signs or clinically symptoms of COVID-19, are considered as asymptomatic. Those with positive RT-PCR results, who have no signs or symptoms of COVID-19 at testing but eventually develop symptoms, are considered as presymptomatic. About 80% COVID-19 cases in China are asymptomatic.3 The possible mechanism is that the nasal epithelial cells shelter genes for innate immunity and the viral entry-associated genes. An adequate early immune response can limit viral replication and prevent its spread into the lungs. Thus, the patient would have no or mild symptoms.4 The relative transmissibility of such cases is significantly smaller than symptomatic ones.5 Evidence stating otherwise is also published.6 This needs further appraisal.
+
+Table 1 Cardiac manifestations of COVID-19
+
+Cardiac manifestation	Frequency reported	
+Coronary artery disease	4.2–25%7,8	
+Acute cardiac injury:	7.2%7	
+    Myocardial infarction—type 2	
+    Myocarditis	
+Arrhythmia: Atrial arrhythmias are more common	16.7%7	
+Cardiogenic shock	8.7%7	
+Heart failure	49%8	
+Cardiac tamponade	Case report9	
+Myopericarditis	Case report10	
+Cardiovascular System
+Cardiac manifestations of COVID-19 (Table 1) commonly include acute cardiac injury, shock, and arrhythmia in 7.2, 8.7, and 16.7%, respectively. Intensive care unit (ICU) patients have a higher prevalence of CVS involvement.7
+
+Myocardial injury among hospitalized COVID-19 patients ranges from 7 to 28%.11,12 Usually, even COVID-19 patients with myocardial injury present with the typical symptoms and signs of SARS-CoV-2 infection. A minority may present with cardiac symptoms such as chest pain, palpitations,13 or fatigue. Evidence of myocardial injury like increased cardiac troponin or ECG abnormalities can be seen in 20%.11 A direct relation between the magnitude of troponin elevation and mortality has been reported.7,11,12 A few others may present as an acute coronary syndrome (ACS). In such cases, the myocardial infarctions are type 2 (consequent to a mismatch between oxygen supply and demand). Putative causes for this mismatch include direct myocardial injury from hemodynamic derangement, hypoxemia, inflammatory myocarditis, stress cardiomyopathy, microvascular dysfunction or thrombosis due to hypercoagulability, or systemic inflammation with cytokine storm syndrome (CSS), which may also destabilize coronary artery plaques.14 Some patients develop systemic hyperinflammatory response with vasodilatory shock. Concomitant myocardial suppression and cardiogenic shock may ensue.15
+
+Clinical manifestations of acute coronary artery disease (CAD) in COVID-19 are similar to those without the virus. Concurrent respiratory symptoms may or may not accompany cardiac symptoms.16,17 Prevalence of CAD in COVID-19 ranges from 4.2 to 25%.7,8 Coronary artery disease is commoner in critically ill or deceased patients.8
+
+Arrhythmias in COVID-19 may remain asymptomatic or may be overshadowed by typical respiratory manifestations. However, palpitations can be presenting symptom in 7.3%.13,18 But more frequently, arrhythmias are an additional feature in patients presenting with conditions that may predispose to the development of arrhythmias. Examples include myocardial injury, myocardial ischemia, hypoxia, shock (septic or cardiogenic), or electrolyte disturbances like hypokalemia.19 Further, atrial arrhythmias are more common among patients requiring mechanical ventilation.20
+
+In a retrospective study, heart failure has been identified as a complication in 49% of the deceased.8 Heart failure may be precipitated by acute illness in preexisting known or undiagnosed heart disease (CAD, hypertensive heart disease), or by acute myocardial injury (e.g., acute myocardial infarction, stress cardiomyopathy, CSS). A case of COVID-19-associated cardiac tamponade in a middle-aged female has been reported.9 Similarly, COVID-19 presenting as myopericarditis in a middle-aged female without respiratory symptoms has been reported.10 Outcomes of these cases were not mentioned.
+
+Cardiac pathology in COVID-19 may occur through multiple mechanisms. Oudit et al. in 2009 detected viral RNA in 35% of autopsied human heart samples from severe acute respiratory distress syndrome patients. This suggested that viral infection directly causes damage to cardiomyocyte.21 Angiotensin converting enzyme-2 (ACE2) receptor expression in the CVS may possibly augment viral effects on the myocardial tissue.22 But, SARS-CoV-2 is not a known cardiotropic virus such that it may cause viral myocarditis. The relationship between COVID-19 and myocardial injury is yet to be characterized. Second, hypoxemia due to COVID-19 pneumonia leads to anaerobic respiration, intracellular acidosis, and influx of calcium. Subsequently, there is apoptosis of cardiomyocytes. Third, patients in ICU have higher concentrations of inflammatory factors like monocyte chemoattractant protein-1, interleukin-1β, interferon-γ, and interferon inducible protein-10. These could accentuate the CSS.23 The prognosis for COVID-19 patients is worse with CVS comorbidities, with mortality approaching >10%.24
+
+Neuromuscular System
+Neurological manifestations (Table 2) in COVID-19 can be categorized into three categories: central nervous system (CNS), peripheral nervous system (PNS), and skeletal muscle injury.25
+
+Overall, neurological manifestations have been recorded in 36.4% cases. Neurologic manifestations tend to occur early in the illness (median time, 1–2 days). Some patients have presented only with neurologic manifestations and no typical symptoms. Neurologic manifestations are more likely to develop in severe COVID-19 cases (45.5% vs 30%). SARS-CoV-2 probably enters the CNS through the hematogenous or retrograde neuronal route. The expression and distribution of the ACE2 receptor in the CNS and skeletal muscle tissue might explain the virus's affinity and resultant neurologic manifestations.25
+
+The presence of SARS-CoV-2 has been confirmed in the cerebrospinal fluid of COVID-19 patients by genome sequencing.28 This is definitive evidence of SARS-CoV-2 causing viral encephalitis. Toxic encephalopathy can also occur in patients with COVID-19 as they tend to have severe hypoxia and viremia.31 The multiple drugs in the ICU also are potential culprits. SARS-CoV-2 can cause CSS leading to acute cerebrovascular disease.32,33 In addition, elevated levels of D-dimer and thrombocytopenia in critically ill COVID-19 patients increase the occurrence of acute cerebrovascular events.34 Also, SARS-CoV-2 binds to ECA2 receptors on endothelial cells. This can lead to an increase in blood pressure, which together with thrombocytopenia and coagulation disorders can increase the risk of ischemic and hemorrhagic strokes.25,35
+
+A unique feature of the COVID-19 disease can be the absence of dyspnea, which is “an unpleasant urge to breathe.” Even the most severe cases presenting with tachypnea and tachycardia may not complain of dyspnea. In a Wuhan cohort, nearly half of those who were intubated or dead did not present dyspnea.26,27 Cytokine storm syndrome in COVID-19 could damage the C-pulmonary fibers and cause a total or partial loss of their function.36
+
+Table 2 Neuromuscular manifestations of COVID-19
+
+Part of neuraxis	Manifestation	Frequency reported	
+Central nervous system manifestations (25%)	• Dizziness	17%25	
+• Headache	13%25	
+• Impaired consciousness—confusion, delirium, somnolence, stupor, coma	16%25	
+• Acute cerebrovascular disease—acute ischemic stroke, intracranial hemorrhage	3%25	
+• Ataxia	1%25	
+• Seizure	1%25	
+Peripheral nervous system manifestations (9%)	• Taste impairment	5.6%25	
+• Smell impairment	5%25	
+• Vision impairment	1.4%25	
+• Nerve pain	2.3%25	
+Skeletal muscle injury manifestations (11%)	• Myalgia	Up to 11% cases have muscle injury25	
+• Elevated creatine kinase level >200 U/L	
+Unusual manifestations	• Absence of dyspnea	46–62%26,27	
+• Viral encephalitis	Case report28	
+• Acute hemorrhagic necrotizing encephalopathy	Case report29	
+• Guillain-Barre syndrome	Case report30	
+Many COVID-19 patients report sudden loss of smell or taste even in the absence of nasal symptoms.37 Analysis of a European multicenter case registry has found that 85.6 and 88% of patients describe disorders of smell and taste, respectively. Of these, olfactory dysfunction is the initial symptom in 12%.38
+
+Magnetic resonance imaging (MRI) of the brain of a COVID-19 patient presenting with fever and altered sensorium showed contrast-enhancing, multifocal, symmetrical hemorrhagic lesions in both thalamus, insula, and medial temporal lobes. He was diagnosed as having acute hemorrhagic necrotizing encephalopathy,29 probably due to CSS of COVID-19.32
+
+An elderly male was diagnosed as Guillain-Barre syndrome, and 1 week later, he had symptoms of COVID-19 with fever and dry cough. However, this relation is likely to be coincidental.30
+
+Gastrointestinal System
+The overall incidence of gastrointestinal symptoms (Table 3) of COVID-19 varies from 3 to 70%.46 SARS-CoV-2 may probably cause acute gastritis and enteritis, leading to vomiting, nausea, and diarrhea.47 Some of the COVID-19 cases may present with digestive manifestations without any respiratory symptoms or fever. This results in unexpected exposure to the HCWs.45
+
+Literature reported from China has suggested that approximately 50% COVID-19 patients will have at least one gastrointestinal symptom.40,41 As a corollary, those with gastrointestinal symptoms are associated with a 70% increased risk of testing COVID-19 positive.48 High expression of ACE2 in esophageal epithelial cells and the absorptive enterocytes from ileum and colon is known.49
+
+COVID-19 patients with GIT symptoms suffer a severe or critical illnesses such as ARDS, liver injury, and shock more frequently than in those without (22.97% vs 8.14%).47 Fang et al. have reported that 85% of critical cases have digestive symptoms and 45% of these have diarrhea.50 However, conflicting data have also been published. It states that among COVID-19 patients with GIT symptoms there is a nonsignificant trend toward a lower rate of ICU admission, and a significantly lower rate of death (0.0% with gastrointestinal symptoms vs 5.0% without) during short-term follow-up. These might indicate an indolent form of COVID-19 in those with gastrointestinal symptoms.48 Gastrointestinal symptoms in COVID-19 patients are more frequent in the presence of preexisting chronic liver disease (10.81% vs 2.95% in those without).47
+
+Table 3 Gastrointestinal manifestations of COVID-19
+
+Digestive manifestation	Frequency reported	
+Anorexia	30–40%39,40	
+Diarrhea	2–50%41	
+Nausea/vomiting	2–12%26,39,40	
+Abdominal pain	2–4%39,40	
+Digestive symptoms only	3–23%39,40	
+Abnormal liver tests:		
+    Aminotransferases	14–53%26,42	
+    Bilirubin	10–18%	
+Virus detected in stool	50–55%39,43,44	
+Uncommon symptoms	Gastrointestinal bleeding45	
+Renal Manifestations
+Studies from China has reported AKI in 25–29 % critically ill patients of COVID-19 or the deceased.8,51 Renal abnormalities such as massive albuminuria on the 1st day of admission in 34% have been reported, while proteinuria developed in 63% of all cases during hospitalization.52 Another study on hospitalized COVID-19 patients has reported proteinuria and hematuria in 44% and hematuria on admission in 26.7%.53 Blood urea nitrogen can be elevated in 27% COVID-19 patients, and in 66% of those who have died.52 Kidneys show reduced density on CT scan, suggestive of inflammation and edema. COVID-19 patients with both chronic kidney disease (CKD) and hypertension are at risk for more severe disease (3.3 vs 0.4%).54,55 Postulated mechanisms of kidney injury include CSS or direct cellular injury by the virus. Recently, SARS-CoV-2 has been isolated from the urine sample of an infected patient, suggesting the kidney as the target due to the expression of the ACE2 receptor on renal tubular cells.56
+
+Ocular Manifestations
+Ocular involvement in COVID-19 is uncommon with prevalence between 0.926 and 31%.57 The patient may even present with an ocular manifestation. Symptoms include watery eyes, which can be a presenting feature, followed by increased secretions, chemosis, ocular irritation, and foreign body sensation. Examination findings include unilateral or bilateral bulbar conjunctiva injection, follicular reaction of the palpebral conjunctiva, epiphora, and mild eyelid edema. These suggest follicular conjunctivitis. Unusual reports of presentation as conjunctivitis or keratoconjunctivitis58 have been published. It generally carries a good prognosis. Positive RT-PCR results of a conjunctival swab, as well as nasopharyngeal swabs, have been obtained in two patients.57 Possible pathogenetic mechanisms include direct inoculation of the ocular tissues from respiratory droplets or aerosolized viral particles, migration from the nasopharynx via the nasolacrimal duct, or hematogenous spread through the lacrimal gland.59
+
+Hematological Abnormalities
+COVID-19 may herald a hypercoagulable state with an increased risk of venous thromboembolism (VTE) called thromboinflammation.60 Common VTE events include pulmonary embolism (PE), deep vein thrombosis, and catheter-associated thrombosis. The rate of these events in critically ill COVID-19 patients is 33%, PE being the commonest (vs 3% in the non-ICU setting).61 Venous thromboembolism occurs despite using prophylactic-dose anticoagulation.62 Exact incidence of acute PE in COVID-19 is not clear, but it may be as high as 20%.63 Pathogenesis of PE involves the elevated D-dimer level and thromboinflammation.34,60,64 Obesity also contributes to increased PE frequency.65 Arterial events such as myocardial infarction, ischemic strokes, and peripheral arterial thromboembolism have been reported. Microvascular thrombosis may affect the lungs60,66 due to hypercoagulability, direct endothelial injury, complement activation, or other processes.
+
+Thrombocytopenia in COVID-19 is well known, while the underlying mechanisms are not. It is associated with an increased risk of severe illness and mortality in COVID-19 patients.67 However, symptomatic thrombocytopenia is uncommon. On the contrary, in COVID-19, thrombosis is common. Bleeding in the form of intracranial hemorrhage has been outlined above.
+
+Antiphospholipid antibodies can also arise transiently in patients with critical illness68 and rarely lead to multifocal thrombosis in critical patients. Cases of APLA syndrome in critically ill cases of COVID-19 have also been reported.69
+
+Psychiatric Manifestations
+Regardless of disease exposure, during an outbreak individuals with preexisting mental illnesses may experience anxiety, depression, panic attacks, somatic symptoms, posttraumatic stress disorder, delirium, psychosis, and even suicidality.70 Healthcare workers face a lack of social support and communication, maladaptive coping, and lack of training. They can experience psychiatric morbidities due to these factors.71
+
+Dermatological Manifestations
+Cutaneous manifestations have been reported in around 20% COVID-19 patients.72 Another review noted that cutaneous manifestations were the presenting features in 12.5%. Common manifestations in decreasing frequency are maculopapular exanthem (morbilliform), papulovesicular rash, urticaria, painful acral red-purple papules, livedo reticularis lesions, and petechiae. Lesions are commoner on the trunk than extremities (66.7% vs 19.4%). Lesions tend to heal spontaneously in 10 days.73 A hypothesis states that cutaneous blood vessels contain viral particles. Blood immune complexes can activate cytokines and cause lymphocytic vasculitis. This can result in vasodilatation and spongiosis.74
+
+Unusual Presentations
+All the cases below had an atypical presentation; they were diagnosed as COVID-19 by RT-PCR. The CT chest was done wherever necessary. A middle-aged female with arthralgia with fever and thrombocytopenia subsequently developed pneumonia and diagnosed as COVID-19.75 An elderly female presented with syncope and orthostatic hypotension, and 2 days later with altered sensorium. Eventually, COVID-19 was confirmed.76 A COVID-19 patient presented after 12 days of discharge with hemoptysis, dyspnea, and worsening chest pain due to segmental PE with no risk factor for VTE.77 A middle-aged female presented with dark-colored urine, followed by mild fever, and liver function derangement favoring acute hepatitis. This was an acute, nonicteric hepatitis presentation of COVID-19.78 A hospitalized case of COVID-19 with respiratory distress developed acute liver failure alongside multiorgan failure.79
+
+Limitations of Study
+Knowledge about the COVID-19 pandemic is evolving. We included data only up to April 30, 2020. By the time this write-up is published, newer data might become available. Second, we reviewed case reports, case series, retrospective studies, and registries. All of these tend to be inherently biased.
+
+Conclusion
+Up-to-date knowledge of atypical and extrapulmonary manifestations can help to increase surveillance of COVID-19 and can protect the HCWs. A high index of suspicion for COVID-19 is required when tackling patients with extrapulmonary manifestations. Notable manifestations among them are gastrointestinal—anorexia, diarrhea; cardiovascular—arrhythmias, myocarditis; consequences of hypercoagulability—pulmonary embolism, ACS, ischemia stroke.
+
+Source of support: Nil
+
+Conflict of interest: None

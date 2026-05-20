@@ -1,0 +1,77 @@
+event,time
+75 years old,0
+man,0
+admitted to the cardiac care unit,0
+congestive heart failure (CHF),0
+non-ST elevated myocardial infarction (NSTEMI),0
+CHF,- (prior history)
+hypertension,- (prior history)
+diabetes,- (prior history)
+bronchial asthma,- (prior history)
+hyperuricemia,- (prior history)
+denied past surgical interventions,0
+intubated,0
+underwent percutaneous coronary angioplasty (PCA),0
+refractory respiratory failure,0
+pulmonary edema,0
+pneumonia,0
+bronchial asthma,0
+intubated three times in 18 days,"0 (first intubation at admission, subsequent intubations during admission)"
+steroids,0 (initiated at admission)
+intravenous methylprednisolone 40 mg,0 (administered for 3 days)
+oral prednisone 30 mg,72 (after 3 days)
+tapering to 5 mg over 12 days,72 (started after 3 days)
+ceftriaxone administered on hospital days 4–11,96 (day 4)
+extubated on hospital day 18,432
+routine chest radiography,432
+pneumomediastinum,432
+subcutaneous emphysema,432
+subdiaphragmatic free air,432
+afebrile,432
+vital signs normal except mild tachycardia (105 bpm),432
+abdominal bloating,432
+denied abdominal pain,432
+crepitation all over body,432
+abdomen distended and soft,432
+white cell count 1.21x10^9/L,432
+blood urea nitrogen 89.6 mg/dL,432
+creatinine 4.35 mg/dL,432
+non-contrast CT,432
+extensive subcutaneous emphysema,432
+pneumomediastinum without pneumothorax,432
+massive pneumoperitoneum,432
+pneumoretroperitoneum,432
+diffuse mesenteric emphysema,432
+no ascites,432
+acute care surgery service consulted,432
+upper gastrointestinal study,432 (after CT)
+no contrast leakage,432
+refused lower gastrointestinal contrast study,432
+exploratory laparotomy,432 (performed after consultation)
+gush of air evacuated,432
+no free fluid in peritoneum,432
+diffuse emphysema in mesenteries,432
+mild emphysema and edema from descending colon to sigmoid colon,432
+no diverticula observed,432
+no perforation or discoloration,432
+descending colon not mobilized,432
+abdomen closed,432
+transferred to surgical intensive care unit,432
+extubated on postoperative day 1,456 (432 + 24)
+transferred to ward on POD 2,480 (432 + 48)
+fever spiked on POD 9,648 (432 + 216)
+left lower quadrant pain,648
+septic shock,648
+"blood, sputum, urine cultures sent",648
+CT with contrast,648
+fat stranding,648
+extraluminal air,648
+small amount of free fluid around descending colon,648
+re-exploration surgery,648
+small abscess cavity in mesentery,648
+Hartmann’s procedure performed,648
+resected specimen revealed tiny diverticulum,648
+pathological analysis compatible with perforated diverticulitis,648
+postoperative course with prolonged mechanical ventilation,648
+tracheostomy,648 (during prolonged ventilation)
+discharged to rehabilitation hospital on POD 68/77,1632 (77 days * 24)

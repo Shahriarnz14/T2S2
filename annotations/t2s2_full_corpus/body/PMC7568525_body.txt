@@ -1,0 +1,83 @@
+Background
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been a central health concern worldwide for the last 6 months. During that time, it has caused more than 484,249 deaths [1]. It was first reported as a novel corona-virus causing a cluster of pneumonia cases in Wuhan city in China at the end of 2019. The virus causes coronavirus disease 2019 (COVID-19), which ranges in severity from mild asymptomatic to fatal disease due to severe acute respiratory distress syndrome and respiratory failure [2]. It typically presents with symptoms of fever and upper respiratory symptoms. Nonrespiratory symptoms of SARS-CoV-2 infection include gastrointestinal symptoms such as diarrhea, vomiting, and abdominal pain, which have occurred in 17.6% of cases [3]. Most patients recover with supportive care only, without the use of specific medications [4]. SARS-CoV-2 infection can occur at any age, but the disease is uncommon in young people, with only 0.9% of patients being younger than 15 years [5]. Hospital admission is more common in the elderly population and mortality is high among older patients and patients with comorbidities [6]. Investigations on the disease pathogenesis and its effects in different populations are ongoing. We present a case in which a young man with no significant past medical history presented with SARS-CoV-2 infection symptoms. He developed fulminant hepatitis B infection and multiorgan failure that led to his death. In severe cases, COVID-19 is associated with cytokine release syndrome and fatality is high.
+
+Case Report
+A 24-year-old Nepalese male with no previous medical history was brought by ambulance to the Emergency Department. He reported experiencing fever, cough, and fatigue for the past 3 days. On examination, he weighed 60 kg (height, 170 cm), and he appeared tired and was disoriented to place and time. Blood was observed in the nasopharynx, but he had no oral injury (e.g., tongue bite). No urinary or bowel incontinence and no neck stiffness was present. The patient vomited around 500 mL of coffee ground emesis (hematemesis). He was maintaining 99% oxygen saturation on room air, his blood pressure was 126/84 mmHg, and his temperature was 39.4°C. His level of consciousness deteriorated rapidly, and he was intubated to maintain the airway. A portable chest X-ray revealed normal lung parenchyma (Figure 1). Initial blood work showed severe deranged liver function.
+
+A nasopharyngeal/throat swab was tested using fully automated reverse-transcription polymerase chain reaction (RT-PCR) Cobas® 6800 (Roche), and the result was positive for SARSCoV-2. The patient was classified as having severe disease according to the World Health Organization case definition [7].
+
+He was started on SARS-CoV-2 treatment for severe disease per Infectious Disease Department protocol for patients with SARS-CoV-2 infection confirmed by PCR (chloroquine, azithromycin, oseltamivir, tocilizumab). For liver support, the patient received acetylcysteine infusion, lactulose, vitamin K (phytonadione 10 mg), rifaximin, and intravenous pantoprazole. He was also given 4-factor prothrombin complex concentrate (4F-PCC), fresh frozen plasma, and fibrinogen for coagulopathy, and he was started on sustained low-efficiency dialysis for acute kidney injury. Work-up for the underlying liver injury showed no other causes (Table 1). Computed tomography of the Head showed no evidence of intra- or extra-axial intracranial hemorrhage. Normal attenuation of brain parenchyma and no hydrocephalus were noted. No midline shift or mass effect was present, and posterior fossa structures were grossly unremarkable. Abdominal ultrasound showed the liver was normal in size, measuring 11 cm, with coarse parenchymal echotexture with no obvious foci, measuring 11 mm and patent. The common bile duct proximal part was normal in diameter, measuring 3 mm. The spleen was normal in size, measuring 10.7 cm, with homogeneous echotexture and no focal lesions. Both kidneys were normal in size, with no calculus or hydronephrosis.
+
+The patient’s body temperature was high on admission (39.4°C), but later it was fluctuating between 31.8°C and 39°C and occasionally dropping to 24.4°C. His ventilatory settings were continuous mandatory ventilation, positive end expiratory pressure at 5 cm of H2O, and inspired oxygen fraction at 25%, with oxygen saturation at 99–100% most of the time. Repeat RT-PCR for SARS-CoV-2 after 7 days was still positive. The patient developed disseminated intravascular coagulation and bleeding from the intravenous site and endotracheal tube. The patient remained in the Intensive Care Unit (ICU) and died on the 10th day of admission due to multiorgan failure, acute liver failure, acute renal failure, and disseminated intravascular coagulation.
+
+Discussion
+Our patient had a rapid deterioration in consciousness and no detailed information was obtained from him. He presented to the Emergency Department with typical symptoms of SARS-CoV-2 infection, including fever, fatigue, and dry cough, which are the 3 most common symptoms of COVID-19 (fever, 98.6%; fatigue, 69.6%; dry cough, 57%) [2]. His respiratory symptoms were mild, however, and respiratory function was stable. He was maintaining good saturation on room air, and his chest X-ray (Figure 1) was unremarkable, with no signs of acute respiratory distress syndrome (ARDS). Even after intubation, he was on a low ventilatory setting, with low positive end-expiratory pressure and inspired oxygen fraction, and the criteria for ARDS were not met. The main affected system was the liver, with liver enzymes measured at more than 7000 U/L (Figure 2). The patient also had acute kidney injury requiring hemodialysis, with coagulopathy and features of disseminated intravascular coagulation (high international normalized ratio, low platelets, low fibrinogen, and high d-dimer).
+
+The hepatitis B profile suggested early acute hepatitis B infection (Table 1) [8]. Ultrasound of the abdomen did not show features of chronic liver disease. The patient’s model for end-stage liver disease score was 51 (before starting dialysis). Although it is uncommon for COVID-19 to present mainly as hepatitis, 1 case has been reported [9]. It is uncommon for acute hepatitis B viral infection to coincide with SARS-CoV-2 infection.
+
+Increased levels of liver enzymes (e.g., aspartate transferase) during SARS-CoV-2 infection is common. It is seen in 18.2% of patients with nonsevere disease, and up to 39.4% of patients with severe disease [10]. Liver injury was more common among ICU-admitted patients, reaching up to 62% compared with 25% of patients not requiring ICU admission [10]. In most cases, liver injury is transient and requires no action. However, for severe liver injury, there are no clear guidelines, and management is based on an individualized approach [10]. The mechanism of liver injury in patients with COVID-19 could be due to SARS-CoV-2 infecting liver cells directly [10]. It is less likely that hypoxia due to ARDS and the positive pressure ventilation lead to hepatic congestion [11]. Additionally, the worsening of underlying liver disease during the infection or by drug hepatotoxicity may play a role [11]. Another explanation is that the increased liver enzymes are not released from hepatocytes but from other sites, similar to myositis in severe influenza, which is supported by elevated levels of creatinine kinase, lactate dehydrogenase, and myoglobin [11]. Similar to other respiratory viruses, SARS-CoV-2 might lead to hepatic damage from an altered immune response involving cytotoxic T cells and Kupffer cells [12]. This mechanism is the most likely explanation for the severe fulminant hepatitis seen in this patient, which led to an extremely high hepatitis B viral count (>17 million). Moreover, cytokine storms with associated altered immune response can aid in the activation of viral hepatitis, as seen with severe hepatitis B flares that occur during immunosuppression and chemotherapy treatment of lymphoma [13] or in treatment with disease-modifying anti-rheumatoid drugs [14]. Severe COVID-19 is also reported to have marked activation of coagulative and fibrinolytic system and a relatively lower platelet count [2] and higher ratio of neutrophil count to lymphocyte count. In our patient, the white blood cell count was rising but the ratio of lymphocytes to white blood cells was not constant and became inverse at the end of the disease course, as demonstrated in Figure 3. The patient had an H score of 172 (no organomegaly, temperature of 39.4°C, ferritin more than 6000 ng/mL, fibrinogen 0.8 g/L, 2 types of cytopenia [thrombocytopenia and anemia], triglycerides less than 1.5 mmol, and high aspartate transferase), with a 54% to 70% risk of hemophagocytic syndrome [15]. These findings were associated with COVID-19-induced cytokine storm and immunosuppression, which precipitated the flare of severe hepatitis B infection [16]. Similarly, patients with chronic liver disease, including patients with chronic hepatitis B infection co-occurring with SARS-CoV-2 infection, had more severe illness and poor outcomes [17]. These findings support that SARS-CoV-2 influences the immune response and aggravates hepatitis B viral replication during both acute and chronic phases of hepatitis B infection [17].
+
+Our patient initially had a fever reaching up to 39.4°C during his hospital stay, although it fluctuating up and down and at times dropped to 24.4°C. In patients admitted to intensive care, this pattern may indicate poor neurological outcome, which was observed in patients admitted to ICU with brain injury [18] and after cardiac arrest [19]. It may also indicate a severe cerebral injury.
+
+Conclusions
+Patients with COVID-19 without severe respiratory involvement are at risk of immune-mediated activation of hepatitis B and fulminant hepatitis. Severe spontaneous hypothermia in the context of SARS-CoV-2 infection may be associated with poor outcome. Inverse neutrophil to lymphocyte count ratio could be used to monitor and predict the outcome.
+
+All authors wish to express gratitude to the Internal Medicine Residency Program, Dr. Ahmed Ali Almohammed, and Dr. Dabia Hamad Almohanadi for the scientific support.
+
+Conflict of interest
+
+None.
+
+Figure 1. Anteroposterior chest X-ray showing normal lung parenchyma without signs of acute respiratory distress syndrome.
+
+Figure 2. Trends for liver enzymes (ALT, AST) and total bilirubin during the hospital course. ALT – alanine transferase; AST – aspartate transferase.
+
+Figure 3. Trends for white blood cells (WBCs) and lymphocytes (manual count) throughout the hospital course, with the lymphocyte percentage decreasing and WBCs increasing at the end of the disease course.
+
+Table 1. Shows the lab investigation done for the patients, including toxicology screen, liver function, hepatitis serology, and inflammatory markers.
+
+	Lab result	Normal range	
+Blood group	O positive		
+WBC	10×103/uL	4–10×103/uL	
+Absolute neutrophil count	7.0×103/uL		
+Eosinophil count	0.0×103/uL	0–0.5	
+Lymphocyte	Count 1.7×103/uL	1–3×103/uL	
+Hemoglobin	13.9 gm/dL	13–17 gm/dL	
+Platelets	64×103/uL	150–400 103/uL	
+Creatinine	305	62–106 umol/L	
+urea	8.7 umol/L	2.8–8.1 umol/L	
+PH	7.14	7.350–7.450	
+HCO3	7 mmol/L	22–29 mmol/L	
+Glucose	3.2 mmol/L	3.3–5.5 mmol/L	
+Lactate	22.8 mmol/L	0.5–2.2 mmol/L	
+ALT	>7000 U/L	0–41 U/L	
+AST	>7000 U/L	0–40 U/L	
+INR	9.8	Critical high >4.9	
+Prothrombin time	84.9	7.9–11.8	
+bilirubin	115 umol/L	0–21 umol/L	
+Albumin	37 gm/L	35–53 gm/L	
+LDH	1,134 U/L	135–225 U/L	
+Ammonia	268 umol/L	16–60 umol/L	
+D-dimer	11.51 mg/L FEU	0–0.44 mg/L FEU	
+Fibrinogen	0.8 gm/L	2–4.1 gm/L	
+Cholesterol	0.7 mmol/L	Normal: <1.7 mmol/L	
+TAG	0.7 mmol/L	Normal: <1.7 mmol/L	
+Acetaminophen level	193 umol/L	Therapeutic Range: 66–199 umol/L	
+Ethanol level	<2.2 mmol/L	Critical: >44.9 mmol/L	
+Salicylate	<0.3 mg/dL	Therapeutic range: 15–30 mg/dL for Anti-inflammatory/Rheumatic condition, Toxic: >30 mg/dL, Lethal: >60	
+CRP	67.4 mg/L	0–5 mg/L	
+Ferritin	20,573.0 ug/L	38–270 ug/L	
+Procalcitonin	4.89 ng/mL	>2.0 ng/mL represents a high risk of sever sepsis and/or septic shock ng/mL	
+Blood culures	Negative		
+HIV Ag/Ab combo	Negative		
+Hepatitis C Ab	Negative		
+Hepatitis c PCR	Negative		
+Hepatitis A total Ab	Negative		
+Hepatitis B S Ag	Positive		
+Hepatitis B S Ag Ab	<2.00	Antibody titers of ≥10 mIU/ml post HBV vaccination confirms successful	
+Hepatitis B S Ag	Positive		
+Hepatitis B PCR	>170,000,000 IU/mL		
+Hepatitis B core Ab IgM	Positive		
+Hepatitis B e Ag	Positive		
+Hepatitis B e Ab	Negative		
+Hepatitis D Ab	Negative

@@ -1,0 +1,72 @@
+event,time
+76 years old,0
+woman,0
+history of atrial fibrillation,0
+on coumadin,0
+history of rheumatic heart disease,0
+history of congestive heart failure,0
+preserved ejection fraction,0
+treated with digoxin,0
+presented to the Emergency Department,0
+admitted to the Cardiac Intensive Care Unit,0
+cardiology was consulted,0
+generalized malaise,-168
+shortness of breath,-168
+lower extremity swelling,-168
+subjective fever,-168
+denied chest pain,0
+denied orthopnea,0
+denied paroxysmal nocturnal dyspnea,0
+blood pressure 79/54 mmHg,0
+oral temperature 38.3°C,0
+heart rate 55 beats/min,0
+crackles up to the mid-lung fields bilaterally,0
+"irregularly, irregular heart rhythm",0
+2+ pitting edema up to the knees,0
+chest X-ray showed congestion in the bilateral lower lung fields,0
+cardiomegaly,0
+sodium level 126 mmol/L,0
+potassium 5.2 mmol/L,0
+blood urea nitrogen 33 mg/dL,0
+creatinine 2.77 mg/dL,0
+white blood count 4.9 uL,0
+INR 2.8,0
+electrocardiogram showed signs of digoxin toxicity,0
+junctional rhythm,0
+ventricular bigeminy,0
+peak troponin level 0.20 ng/mL,0
+digoxin level 3.6 ng/mL,0
+digoxin toxicity,0
+digoxin immune fab (Digibind) administered,1
+atrial fibrillation,2
+multiple premature ventricular contractions,2
+echocardiogram displayed an ejection fraction of 45% to 49%,0
+possible vegetation on the mitral valve,0
+severe eccentric mitral regurgitation,0
+severe eccentric tricuspid regurgitation,0
+moderate to severe aortic stenosis,0
+apical 4-chamber view of severe eccentric mitral regurgitant jet,0
+apical 4-chamber view of severe eccentric tricuspid regurgitant jet,0
+transesophageal echocardiogram significant for a mitral valve vegetation measuring 1.2×0.7 cm,0
+vegetation attached to ventricular surface of posterior leaflet of the mitral valve,0
+severe biatrial enlargement,0
+left atrium volume 101.40 mL/m2,0
+right atrium volume 233.80 mL/m2,0
+previous echocardiogram unobtainable,0
+head computed tomography revealed numerous chronic infarctions,24
+septic emboli likely,24
+blood cultures were positive for Pasteurella multicoda,48
+Pasteurella septicemia,48
+ceftriaxone was started,48
+screened for risk factors for Pasteurella exposure,48
+owns 4 cats,48
+infective endocarditis due to Pasteurella multocida,48
+infective endocarditis affecting the mitral valve,48
+cardiothoracic surgery evaluated for multi-valve replacement surgery and biopsy of the vegetation,72
+classified as being at high risk for such an operation,72
+chose conservative treatment,72
+condition stabilized,160
+discharged to a skilled nursing facility,168
+ceftriaxone 6-week course,168
+readmitted for congestive heart failure exacerbation,888
+family elected for hospice care,900

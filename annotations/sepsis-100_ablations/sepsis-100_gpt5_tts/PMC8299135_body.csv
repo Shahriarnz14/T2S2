@@ -1,0 +1,80 @@
+event,time
+54-year-old,0
+male,0
+admitted to the hospital,0
+presented to the hospital,0
+pre-syncope,0
+syncope,0
+left-sided chest tightness,0
+chest tightness self-resolved,0.033
+weight 41 kg,0
+blood pressure 96/60 mm Hg,0
+unremarkable cardiac examination,0
+unremarkable respiratory examination,0
+diffuse erythematous rash in the left lower limb,0
+electrocardiography demonstrated normal sinus rhythm,0
+no ST-segment changes of ischemia,0
+"raised troponin concentration of 1,268 ng/l",0
+eosinophil count of 7.6 × 10^9/l,0
+referred to cardiology,4
+review at the cardiac center,24
+believed the diagnosis was myocarditis,24
+CMR appearances consistent with a diagnosis of eosinophilic myocarditis,30
+eosinophilic myocarditis,30
+mild LV systolic impairment,30
+ejection fraction 50%,30
+diffuse subendocardial late gadolinium enhancement,30
+increased signal on short-T1 inversion recovery (STIR) images,30
+edema in the apical and lateral segments,30
+edema in the anterior to inferior segments,30
+interrupted subendocardial late gadolinium enhancement predominantly in the anterior and inferolateral segments,30
+coronary angiography revealed no evidence of coronary artery disease,36
+decision to perform a skin biopsy,40
+cardiac biopsy was considered,40
+skin biopsy revealed eczematous changes,60
+improved clinically,66
+discharged,72
+"edoxaban, 30 mg once daily, prescribed",72
+"prednisolone, 40 mg once daily, prescribed",72
+scheduled for follow-up in the rheumatology clinic in 2 weeks,72
+missed rheumatology clinic appointment,408
+presented to cardiology clinic,1848
+neck swelling,1848
+urgently admitted to hospital,1848
+eosinophil count 19.7 × 10^9 cells/l,1850
+prednisolone increased to 100 mg once daily,1852
+CT of his neck demonstrated lymphadenopathy,1854
+T-cell lymphoma on biopsy,1858
+decision for a course of chemotherapy with cyclophosphamide,1860
+bone marrow biopsy revealed no increase in eosinophils,1862
+deteriorated from sepsis secondary to cholecystitis,1870
+new onset of seizures,1874
+reduction in his consciousness,1874
+GCS 9/15,1874
+head CT demonstrated multiple bilateral acute infarctions,1875
+infarct areas were not amenable to thrombectomy,1875
+transferred to the intensive care unit,1876
+investigations were undertaken to identify the source for the bilateral cerebral infarcts,1877
+critical care echocardiography demonstrated an apical tear,1880
+preserved apical architecture,1880
+intramural myocardial tear,1880
+small apical cavity in continuity with the main LV cavity,1880
+small mobile structures were attached to dissected myocardium,1880
+believed to be the source of embolism,1880
+color flow Doppler revealed diastolic flow in the apical cavity,1880
+pulse wave Doppler demonstrated diastolic flow into the apical cavity and systolic flow out of it,1880
+LV tear favored,1880
+cardiac thrombus alone considered,1880
+cyclophosphamide therapy was begun,1886
+eosinophil count 70 × 10^9 cells/l,1886
+partial response,1920
+eosinophil count 20 to 30 × 10^9 cells/l,1920
+multidisciplinary team meeting,2000
+palliation was appropriate,2000
+under review by his general practitioner,-2880
+generalized fatigue,-2880
+weight loss,-2880
+history of hepatitis B,-8760
+history of asthma,-8760
+history of intravenous drug use,-8760
+history of excessive use of alcohol,-8760

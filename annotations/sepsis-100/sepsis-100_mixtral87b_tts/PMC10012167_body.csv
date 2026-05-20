@@ -1,0 +1,78 @@
+event,time
+46 years old, 0
+male , 0
+admitted to ICU , 0
+history of arterial hypertension , -X
+history of obesity , -X
+underwent a cardiological examination with ECG and TTE for hypertension follow-up , -X
+cardiological examination showed normal findings , -X
+COVID-19 infection occurred , -504
+COVID-19 infection characterized by rhinitis and mild cough , -504
+"alert, oriented, cooperative, and asthenic ", 0
+blood pressure (BP) of 85/55 mmHg , 0
+heart rate (HR) of approximately 120 bpm , 0
+arterial oxygen saturation of 85% in spontaneous respiration , 0
+fever with a body temperature of 38.3 C° , 0
+femoral central venous catheter (CVC) was positioned , 0
+ECG showed sinus tachycardia with a rate of 122 beats per minute (bpm) , 0
+diffuse low voltages , 0
+absence of significant repolarization abnormalities , 0
+neutrophilic leukocytosis with a white blood cell count of 26800 x 1000/mm3 , 0
+C-reactive protein (CRP) elevation with a value of 17.4 mg/dl , 0
+Procalcitonin elevation with a value of 11.7 ng/ml , 0
+elevated high sensitivity Troponin (hs-Tn) with a value of 23000 ng/L , 0
+elevated brain natriuretic peptide (BNP) with a value of 6890 pg/ml , 0
+elevated creatinine with a value of 1.8 mg/dl , 0
+transaminases and total bilirubin , 0
+RT-PCR nasopharyngeal swab for COVID-19 was negative , 0
+COVID-19 IgM antibody test was performed resulting in high IgM levels , 0
+TTE showed normal left ventricular (LV) cavitary dimensions , 0
+diffuse LV parietal thickening with thicknesses of 15-16 mm , 0
+several areas of increased myocardial echogenicity , 0
+severely reduced LV global systolic function with an ejection fraction (EF) , 0
+dP/dT ratio of 672 mmHg/sec , 0
+indexed stroke volume (SVi) calculated by velocity-time integral (VTI) method of 11 ml/m2 , 0
+elements defining the picture of low output , 0
+Grade II LV diastolic dysfunction , 0
+normal cavitary dimensions and reduced global right ventricular (RV) systolic function , 0
+inferior vena cava (IVC) was dilated with a maximum diameter of 26 mm , 0
+right ventricular systolic pressure (RVSP) was 41 mmHg (26+15) , 0
+absence of hemodynamically significant valvulopathy , 0
+slight amount of pericardial effusion , 0
+thoracic computed tomography scan was performed , 12
+picture of perivascular aortic and pulmonary adipose tissue imbibition , 12
+abdominal ultrasonography was performed , 12
+no significant findings , 12
+blood cultures were started , 12
+broad-spectrum antibiotic therapy was initiated , 12
+crystalloid hydration was initiated , 12
+nasal cannula ventilatory therapy with four l/min oxygen flow , 12
+therapy with norepinephrine in continuous intravenous infusion was initiated , 12
+poor hemodynamic response , 24
+therapy with levosimendan was initiated , 24
+bolus administration was avoided , 24
+continuous maintenance intravenous infusion was directly initiated at a 0.1 mcg/kg/min dosage , 24
+blood pressure (BP) had increased to 100/60 mmHg , 36
+heart rate (HR) had decreased to 110 bpm , 36
+hemodynamic improvement was observed , 48
+diuresis since the start of infusion of 1800 ml , 48
+control with TTE was performed , 48
+clear and progressive improvement of systolic performance indices , 48
+LV EF was 66% , 72
+dP/dT ratio was 1275 mmHg/sec , 72
+TAPSE 23 mm , 72
+tricuspid S-wave velocity at TDI was 11.2 cm/sec , 72
+SVi was 27 ml/m2 with a CI of 2.5 l/min/m2 , 72
+LV diastolic function showed improvement from grade II to normal , 72
+IVC showed a maximum diameter of 18 mm with complete inspiratory collapse , 72
+RVSP was 28 mmHg (23+5) , 72
+diffuse parietal thickening persisted with increased myocardial reflectivity , 72
+unchanged features , 72
+coronary arteriography was performed , 504
+normal coronary circulation , 506
+endomyocardial biopsy was performed , 508
+painting of lymphocytic myocarditis , 510
+discharged , X
+TTE performed at 1 and 3 months after discharge , X
+normal findings , X
+normal LV and RV systolic and diastolic function , X

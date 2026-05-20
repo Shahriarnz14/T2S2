@@ -1,0 +1,49 @@
+event,time
+37 years old,0
+female,0
+admitted to Dr. Cipto Mangunkusumo National General Hospital (RSCM),0
+pregnant,0
+33 weeks pregnant,0
+referred after ultrasound,0
+fetal gastroschisis detected,-336
+diagnosed with Graves’ disease,"-328320 (2010, assuming 10 years prior)"
+treated with methimazole 120 mg/day,-328320
+methimazole reduced to 20 mg/day,-328320 (over time)
+discontinued methimazole in 2011,-262944 (9 years prior)
+"hyperthyroidism symptoms (palpitations, sweating, easy fatigue)","-302400 (March 2013, 8 years prior)"
+started propylthiouracil 900 mg/day,-302400
+switched to methimazole 90 mg/day,-302400 + 672 (1 month later) = -295728
+high FT4 (8.8 ng/L),-295728 + 672 (May 2013) = -295056
+methimazole increased to 120 mg/day,-295056
+confirmed 4 weeks pregnant,-295056 + 672 (1 month later) = -294384
+did not visit hospital until August 2013 (12 weeks pregnant),-294384 + 672 (August 2013) = -293712
+FT4 dropped to 0.11 ng/L,-293712
+methimazole reduced to 60 mg/day,-293712
+started levothyroxine 50 µg/day,-293712
+methimazole reduced to 40 mg/day at 20 weeks,-293712 + (20-12)*168 = -292416
+methimazole reduced to 20 mg/day at 24 weeks,-292416 + (24-20)*168 = -291744
+FT4 level 2.77 mg/dL before delivery,0
+cesarean section at 36 weeks,504 (36 weeks from admission at 33 weeks)
+baby died after 20 days,504 + 480 = 984
+restricted fetal growth,0
+nuchal cord,0
+gastroschisis confirmed,0
+block-and-replace therapy,0
+septic shock in baby,984
+denied surgery,0
+poor compliance,0
+high-dose methimazole,-294384 to 0
+preconception counseling not done,-328320
+Graves’ disease remission not achieved,-328320
+thyroid antibody levels not measured,0
+euthyroid state maintained,0
+hypothyroidism risk,0
+congenital abnormalities (gastroschisis),0
+hyperthyroidism in pregnancy,0
+FT4 monitoring infrequent,0
+education on compliance lacking,0
+radioiodine therapy contraindicated,0
+surgery considered but not performed,0
+methimazole teratogenicity risk,0
+propylthiouracil ineffective,-302400
+adverse drug reaction (Naranjo score probable),0

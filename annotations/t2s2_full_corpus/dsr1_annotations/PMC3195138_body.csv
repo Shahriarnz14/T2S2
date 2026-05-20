@@ -1,0 +1,92 @@
+event,time
+61 years old,0
+male,0
+"admitted to Neelachal Hospital Pvt Ltd, Bhubaneswar",0
+continuous high-grade intermittent fever,-192
+chills,-192
+rigor,-192
+hiccup,-192
+nausea,-48
+breathlessness,-24
+administered arteether 150 mg i.v.,-192
+hypertension,"-113880 (13 years prior, approximated as 13*365*24 = 113880 hours)"
+cerebrovascular accident (CVA),-113880
+right-sided hemiparesis,-113880
+atenolol 75 mg daily,-113880
+amlodipine 7.5 mg daily,-113880
+amiloride 40 mg daily,-113880
+aspirin 50 mg daily,-113880
+confused,0
+temperature 104°F,0
+pulse 110/min,0
+blood pressure 130/80 mmHg,0
+respiration rate 40/min,0
+SPO2 96%,0
+pallor,0
+normal blood sugar,0
+normal ultrasonography (USG) of whole abdomen,0
+increased serum urea (76 mg/dl),0
+increased serum creatinine (3.2 mg/dl),0
+increased serum glutamic oxaloacetic transaminase (40 IU/L),0
+increased serum glutamic pyruvic transaminase (49 IU/L),0
+increased total leukocytic count (TLC) (10600),0
+Plasmodium vivax negative,0
+Plasmodium falciparum negative,0
+Hepatitis C Virus (HCV) negative,0
+Australian antigen negative,0
+diagnosed sepsis,0
+diagnosed acute renal failure (ARF),0
+administered ceftriaxone,0
+administered tazobactam,0
+continued arteether 150 mg i.v. daily,0
+no relief in symptoms,96 (4 days later)
+progressive increase in serum urea,96
+progressive increase in serum creatinine,96
+normal urine output,96
+antibiotics replaced by teicoplanin,120 (5th day)
+antibiotics replaced by meropenem,120
+hemodialysis started,144 (6th day)
+symptoms abated,168 (7th day)
+serum urea 116 mg/dl,168
+serum creatinine 4.3 mg/dl,168
+TLC 11900/cumm,168
+serum urea 168 mg/dl,240 (10th day)
+serum creatinine 4.34 mg/dl,240
+TLC 21600/cumm,240
+antibiotics stopped,240
+arteether stopped,240
+furosemide 40 mg twice daily started,240
+torsemide 20 mg twice daily started,240
+metolazone 5 mg once daily started,240
+cefotaxime 1 g twice daily started,240
+hemodialysis every 3-4 days,240
+TLC 31000,288 (12th day)
+serum urea 219 mg/dl,288
+serum creatinine 4.64 mg/dl,288
+hemodialysis performed,288
+urea decreased,288
+creatinine decreased,288
+urea increased again,312 (13th day)
+creatinine increased again,312
+hemodialysis required within 3-4 days,312
+tigecycline 50 mg twice daily started,408 (17th day)
+caspofungin 50 mg once daily started,576 (24th day)
+TLC decreased,696 (29th day)
+doripenem 250 mg twice daily started,696
+TLC 11000/cumm,840 (35th day)
+antibiotics stopped,840
+serum urea 400 mg/dl,840
+serum creatinine 3.6 mg/dl,840
+diagnosed chronic renal failure (CRF),840
+dialysis recommended at regular intervals,840
+torsemide stopped,984 (41st day)
+metolazone stopped,984
+serum urea 208 mg/dl,1008 (42nd day)
+serum creatinine 2.2 mg/dl,1008
+furosemide stopped,1032 (43rd day)
+serum urea decreasing,1032
+serum creatinine decreasing,1032
+serum urea 27 mg/dl,1440 (60th day)
+serum creatinine 1.1 mg/dl,1440
+TLC 7700/cumm,1440
+dialysis no longer required,1440

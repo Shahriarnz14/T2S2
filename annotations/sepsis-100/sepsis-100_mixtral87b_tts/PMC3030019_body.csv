@@ -1,0 +1,84 @@
+event,time
+65 years old, 0
+female , 0
+scheduled to undergo a left lobe hepatectomy , 0
+no medical problems except liver cirrhosis , 0
+liver cirrhosis (Child-Pugh class A) due to chronic hepatitis B , 0
+administered intravenous glycopyrrolate 0.2 mg as premedication , -1
+general anesthesia was induced , -1
+propofol 100 mg , -1
+rocuronium 50 mg , -1
+remifentanil 40 µg , -1
+maintained with sevoflurane (1-2.5%) , 0
+remifentanil (0.1-0.25 µg/kg/min) , 0
+rocuronium (5-10 µg/kg/min) , 0
+intubated and ventilated mechanically , 0
+monitored continuously by electrocardiography (EKG) , 0
+arterial blood pressure , 0
+central venous pressure , 0
+SpO2 , 0
+vital signs were stable , -1 to 0
+middle phase of the liver resection , -1 to 0
+sudden decrease in arterial blood pressure , -1
+systolic blood pressure <40 mmHg , -1
+end-tidal carbon dioxide , -1
+<26 mmHg , -1
+SpO2 , -1
+<50% , -1
+tachycardia , -1
+110-135 beats/min , -1
+ST elevation on the EKG , -1
+resuscitation with the rapid intravenous administration of colloid and catecholamines , -1
+intravenous epinephrine 1 mg , -1
+infusion of norepinephrine , -1
+intraoperative ultrasonography revealed massive air emboli in both her left and right heart , -1
+diagnosed with VAE and PAE , -1
+arterial blood gas analysis (ABGA) , -1
+pH (7.278) , -1
+pCO2 (51.3 mmHg) , -1
+PO2 (84.6 mmHg) , -1
+HCO3- (24.2 mmHg) , -1
+SaO2 (94.4%) on FiO2 (0.5) , -1
+systolic blood pressure and heart rate were maintained at approximately 90 mmHg and 110 beats/min , -1 to 0
+central venous pressure was approximately 2 mmHg , -1 to 0
+End-tidal carbon dioxide was restored to 32 mmHg , -1 to 0
+ABGA at 30 minutes after the occurrence of this episode , 0.5
+pH (7.338) , 0.5
+pCO2 (44.3 mmHg) , 0.5
+PO2 (234.0 mmHg) , 0.5
+HCO3- (24.0 mmHg) , 0.5
+SaO2 (99.6%) on FiO2 (1.0) , 0.5
+norepinephrine infusion (0.2-0.3 µg/kg/min) and fluid resuscitation was continued , 0.5 to 2
+colloid 1000 ml and crystalloid 500 ml was infused , 0.5 to 2
+air emboli in her left heart disappeared 70 min later , 1.5 to 2.5
+hepatectomy was restarted and completed , 2.5 to 5
+systolic pressure was maintained at approximately 90 mmHg , 2.5 to 5
+norepinephrine infusion (0.2-0.3 µg/min/kg) , 2.5 to 5
+"2,950 ml of fluid had been administered ", 5
+total urinary output , 5
+220 ml , 5
+blood loss , 5
+800 ml , 5
+still intubated and ventilated mechanically , 5
+responded only to intense pain , 5
+systolic pressure was still maintained at approximately 90 mmHg , 5
+postoperative laboratory findings revealed an abnormal PT/PTT (25.5/51.8 sec) , 5
+fibrinogen (96 mg/dl) , 5
+"d-dimer (6,519 ng/ml) ", 5
+antithrombin III (19%) , 5
+CK-MB (40.74 ng/ml) , 5
+troponin-T (1.880 ng/ml) , 5
+"postoperative EKG showed a ST elevation in II, III and aVF ", 5
+EKG findings recovered normally , 1
+trans-thoracic echocardiogram to evaluate her cardiac function , 1
+unremarkable findings , 1
+did not reveal the existence of patent foramen ovale (PFO) , 1
+vital signs were stable , 1 to 5
+norepinephrine infusion was tapered out , 5
+"at POD 5, her mental status had not changed ", 5 to 120
+brain CT and MRI revealed multiple acute cerebral infarctions , 120
+"at POD 11, she was weaned to spontaneous ventilation with CPAP mode and extubated ", 132
+"from POD 15, her vital signs became unstable ", 132 to 264
+intravenous administration of catecholamines was started , 264
+"finally, panperitonitis was confirmed by the identification of gram (+) cocci on the peritoneal culture ", 31
+expired due to a cardiac arrest caused by septic shock , 31

@@ -1,0 +1,76 @@
+event,time
+49 years old,0
+male,0
+chronic kidney disease (CKD) stage 5,0
+chronic glomerulonephritis,0
+hypertension,0
+long-term hemodialysis,0
+deceased donor transplant,0
+antibody-mediated rejection,-432
+cytomegalovirus colitis,-221088
+cyclosporin,-221088
+ketoconazole,-221088
+azathioprine,-221088
+prednisone,-221088
+lansoprazole,-221088
+amlodipine,-221088
+cough,-168
+fever,-168
+shortness of breath,-168
+myalgia,-168
+SARS-CoV-2 infection,0
+blood pressure 111/64 mmHg,0
+oxygen saturation 78%,0
+compensated metabolic acidosis,0
+chest X-ray findings,0
+creatinine 180 μmol/l,0
+estimated glomerular filtration rate 35 ml/min per 1.73 m2,0
+urea 12 mmol/l,0
+potassium 4.9 mmol/l,0
+raised D-dimer 1.03 mg/l,0
+C-reactive protein 178 mg/l,0
+white cell count 12.08 ×109/l,0
+normal lymphocyte count,0
+high-flow nasal oxygen,0
+prednisone increased to 40 mg/d,0
+enoxaparin 80 mg subcutaneously twice daily,0
+prednisone decreased to 20 mg daily,216
+temperature spike,264
+urine cultures,264
+blood cultures,264
+chest X-ray bilateral diffuse infiltrates,264
+creatinine 853 μmol/l,264
+urea 38.8 mmol/l,264
+potassium 5.1 mmol/l,264
+white cell count 25.21 ×109/l,264
+C-reactive protein 216 mg/l,264
+ertapenem 1 g i.v. daily,264
+sterile cultures,264
+noncontrast CT abdomen and chest,312
+graft kidney pain,312
+nephrology referral,312
+ertapenem dose adjusted to 500 mg daily,312
+sodium polystyrene sulfonate,312
+azathioprine discontinued,312
+creatinine 1276 μmol/l,384
+mild dehydration,384
+poor fluid balance documentation,384
+hemodialysis initiation,384
+refractory hyperkalemia 6.2 mmol/l,384
+worsening metabolic acidosis,384
+urine output >1 l/d,384
+oral sodium bicarbonate,384
+hemodialysis sessions,408
+temperature settled,456
+polyuria 2650 ml/24h,456
+ertapenem completed,528
+creatinine plateaued 650 μmol/l,600
+kidney biopsy,672
+renal infarction,672
+cyclosporin level 366 ng/mL,672
+ketoconazole stopped,672
+cyclosporin increased to 50 mg twice daily,672
+creatinine 650 μmol/l at discharge,840
+estimated glomerular filtration rate 7 ml/min per 1.73 m2,840
+discharged,840
+no donor-specific antibodies,672

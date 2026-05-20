@@ -1,0 +1,111 @@
+event,time
+81-year-old,0
+male,0
+admitted to internal medical department,0
+upper abdominal pain,0
+history of auricular fibrillation,-unknown
+history of chronic heart failure,-unknown
+history of chronic renal dysfunction,-unknown
+temperature 36.1°C,0
+abdominal distention,0
+epigastric tenderness,0
+bilateral giant inguinoscrotal hernia,0
+no tenderness in hernia,0
+no redness in hernia,0
+white blood cell count 4900/mm²,0
+C-reactive protein 1.2 mg/dl,0
+creatinine 1.71 mg/dl,0
+PT 18.7 s,0
+PT-INR 1.61,0
+CT scan: dilated stomach,0
+CT scan: dilated jejunum,0
+CT scan: inguinoscrotal hernia containing small bowel,0
+CT scan: hernia containing cecum,0
+CT scan: hernia containing ascending colon,0
+CT scan: hernia containing sigmoid colon,0
+no remarkable occlusion point on CT,0
+acute entire abdominal pain,48
+blood pressure decreased to eighties,48
+CT scan: free air in right inguinal hernia sac,48
+CT scan: ascites,48
+consultation with internal medicine specialist,48
+emergency operation,48
+diagnosis of acute generalized peritonitis,48
+diagnosis of small bowel perforation,48
+general anesthesia,48
+mid-lower median abdominal incision,48
+transverse incision at right inguinal area,48
+dirty ascites in inguinal sac,48
+perforated cecum,48
+necrotic terminal ileum (100 cm),48
+lateral extension of internal hernia ring,48
+mobilization of pancreas head,48
+mobilization of duodenum,48
+mobilization of right colon,48
+bile found,48
+rupture of inferior duodenum angle,48
+right hemicolectomy,48
+side-to-side anastomosis of duodenum and jejunum,48
+primary closure of peritoneum at hernia gate,48
+transferred to intensive care unit,48
+septic shock,48+
+leakage of duodenum-jejunum anastomosis,48+
+use of several antibiotics,48+
+use of vasopressors,48+
+continuous hemodiafiltration,48+
+patient passed away,432 (18 days post-op)
+81-year-old,0
+male,0
+admitted to internal medical department,0
+upper abdominal pain,0
+history of auricular fibrillation,-unknown
+history of chronic heart failure,-unknown
+history of chronic renal dysfunction,-unknown
+temperature 36.1°C,0
+abdominal distention,0
+epigastric tenderness,0
+bilateral giant inguinoscrotal hernia,0
+no tenderness in hernia,0
+no redness in hernia,0
+white blood cell count 4900/mm²,0
+C-reactive protein 1.2 mg/dl,0
+creatinine 1.71 mg/dl,0
+PT 18.7 s,0
+PT-INR 1.61,0
+CT scan: dilated stomach,0
+CT scan: dilated jejunum,0
+CT scan: inguinoscrotal hernia containing small bowel,0
+CT scan: hernia containing cecum,0
+CT scan: hernia containing ascending colon,0
+CT scan: hernia containing sigmoid colon,0
+no remarkable occlusion point on CT,0
+acute entire abdominal pain,48
+blood pressure decreased to eighties,48
+CT scan: free air in right inguinal hernia sac,48
+CT scan: ascites,48
+consultation with internal medicine specialist,48
+emergency operation,48
+diagnosis of acute generalized peritonitis,48
+diagnosis of small bowel perforation,48
+general anesthesia,48
+mid-lower median abdominal incision,48
+transverse incision at right inguinal area,48
+dirty ascites in inguinal sac,48
+perforated cecum,48
+necrotic terminal ileum (100 cm),48
+lateral extension of internal hernia ring,48
+mobilization of pancreas head,48
+mobilization of duodenum,48
+mobilization of right colon,48
+bile found,48
+rupture of inferior duodenum angle,48
+right hemicolectomy,48
+side-to-side anastomosis of duodenum and jejunum,48
+primary closure of peritoneum at hernia gate,48
+transferred to intensive care unit,48
+septic shock,48
+leakage of duodenum-jejunum anastomosis,48
+use of several antibiotics,48
+use of vasopressors,48
+continuous hemodiafiltration,48
+patient passed away,432

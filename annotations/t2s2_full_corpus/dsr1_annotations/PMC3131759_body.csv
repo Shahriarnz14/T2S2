@@ -1,0 +1,65 @@
+event,time
+17-year-old,0
+girl,0
+admitted,0
+fever,-504
+productive cough,-504
+right pleuritic chest pain,-504
+respiratory rate 28 breaths/minute,0
+blood pressure 87/52 mm Hg,0
+heart rate 140 beats/minute,0
+temperature 39.5°C,0
+oxygen saturation 96% room air,0
+crepitations bilaterally,0
+reduced breath sounds right lower hemithorax,0
+stony dullness on percussion,0
+hemoglobin 9.0 g/dL,0
+"platelet count 386,000/μL",0
+"white blood cell count 12,140/μL",0
+coagulation profile normal,0
+chest radiograph large right loculated pleural effusion,0
+28-French chest tube inserted,0
+1.2 L pus drained,0
+diagnosed with right loculated empyema thoracis,0
+started intravenous co-amoxiclav 1.2 g three times daily,0
+vital signs returned to normal,48
+chest tube replaced (blocked),72
+chest tube drainage remained poor,72
+persistent pleural effusion on chest radiograph,72
+regular flushing with normal saline failed,72
+"started intrapleural streptokinase 250,000 units 12 hourly",72
+3 doses of IPSK administered,84
+complained of palpitations,84
+sweating,84
+giddiness,84
+respiratory rate 25 breaths/minute,84
+blood pressure 70/50 mm Hg,84
+pulse rate 140 beats/minute,84
+temperature 38.3°C,84
+hemoglobin dropped to 6.5 g/dL,84
+"platelet count 209,000/μL",84
+"white cell count 18,600/μL",84
+International Normalized Ratio 1.5,84
+activated partial thromboplastin time normal,84
+chest radiograph right massive hemothorax,84
+diagnosed with right massive hemothorax,84
+thoracic surgical consult requested,84
+unstable for transport,84
+resuscitated and stabilized in ICU,84
+chest tube blocked,84
+chest tube replaced,84
+new chest tube drained 1.1 L altered blood,96
+7 units packed red blood cells transfused,96
+hemoglobin 9.6 g/dL post-transfusion,96
+coagulation profile normalized,96
+transferred to cardiothoracic center,336
+underwent right lung decortications,336
+recovered uneventfully,336
+no active bleeding on CT thorax,84
+small lung parenchymal injury not ruled out,84
+IPSK dissolved blood clot at traumatized lung parenchyma,84
+hemorrhage originated from possible lung injury,84
+streptokinase activated plasminogen to plasmin,84
+plasmin broke down fibrin,84
+lysed blood clot,84
+inhibited local hemostasis,84

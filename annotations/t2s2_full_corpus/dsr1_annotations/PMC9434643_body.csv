@@ -1,0 +1,82 @@
+event,time
+44 years old,0
+male,0
+pulmonary sarcoidosis,-336
+pleuritic chest pain,0
+presented to community emergency department,0
+fever,-24
+chills,-24
+night sweats,-24
+persistent chest pain,-24
+endobronchial ultrasound (EBUS) bronchoscopy,-336
+continuous sharp chest pain,0
+chest pain relieved with leaning forward,0
+tachycardia 110 beats/min,0
+oxygen saturation 92% on room air,0
+mild distress,0
+distant heart sounds,0
+no pericardial rubs,0
+oral temperature 97.9°F (36.6°C),0
+blood pressure 110/71 mmHg,0
+no pulsus paradoxus,0
+essential hypertension,-336
+mediastinal lymphadenopathy,-336
+hilar lymphadenopathy,-336
+noncaseating granulomas,-336
+denied smoking,0
+denied alcohol use,0
+denied illicit drug use,0
+denied prior international travel,0
+no pets,0
+routine pre-employment chest x-ray,-52560
+scattered pulmonary nodules,-52560
+comprehensive chest CT,-52560
+small scattered pulmonary nodules,-52560
+differential diagnoses: COVID-19 pneumonia,0
+differential diagnoses: acute pericarditis,0
+differential diagnoses: pulmonary embolism,0
+differential diagnoses: myocarditis,0
+differential diagnoses: acute coronary syndrome,0
+diffuse ST-segment elevations,0
+PR depression,0
+serial negative troponin,0
+D-dimer >250 ng/mL,0
+C-reactive protein 204.5 mg/L,0
+sedimentation rate 65 mm/h,0
+chest CT with pulmonary angiography,0
+negative for pulmonary embolism,0
+significant circumferential pericardial effusion,0
+worsening multiple diffuse pulmonary nodules,0
+negative blood cultures,0
+echocardiogram: preserved left ventricular ejection fraction 55%,0
+moderate-size circumferential pericardial effusion,0
+early diastolic right ventricular collapse,0
+significant variation in mitral inflow E velocity with inspiration,0
+plethoric inferior vena cava,0
+supplemental oxygen,0
+oral analgesia,0
+echocardiography-guided pericardiocentesis,0
+drainage of 250 mL purulent material,0
+admitted to intensive care unit,0
+intravenous piperacillin/tazobactam,0
+intravenous vancomycin,0
+pericardial drain,0
+chest pain improved,24
+chest CT: worsening left pleural effusion,96
+left thoracocentesis,96
+left chest tube placement,96
+intrapleural thrombolysis,96
+exudative pericardial fluid,0
+exudative pleural fluid,0
+Actinomyces odontolyticus culture,0
+antibiotics de-escalated to ampicillin-sulbactam,0
+chest tube removed,168
+pericardial effusion recurred,240
+no clinical tamponade,240
+no echocardiographic tamponade,240
+pericardial window placement via left anterior thoracotomy,312
+inflammatory markers improvement,360
+discharged,360
+CRP 19 mg/L,360
+sedimentation rate 40 mm/h,360
+no recurrence of acute pericarditis,360

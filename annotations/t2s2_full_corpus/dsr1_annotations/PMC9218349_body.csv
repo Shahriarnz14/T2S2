@@ -1,0 +1,90 @@
+event,time
+70 years old,0\
+female,0\
+uncontrolled Diabetes Mellitus,0\
+Lantus 20 units once daily,0\
+irregular treatment,0\
+uncompliant to Lantus,0\
+uncompliant to follow up,0\
+chronic renal disease,0\
+hypertensive,0\
+Zestril 10 mg once daily,0\
+Zestoretic 20 one tab daily,0\
+Norvasc 5 mg once daily,0\
+pacemaker,0\
+anticoagulants,0\
+left deep ear pain,0\
+gradual pain progression,0\
+severe pain,0\
+gradual decrease in hearing on left ear,0\
+facial asymmetry,0\
+no tinnitus,0\
+no discharge,0\
+no itching,0\
+first time complaint,0\
+family history unsignificant,0\
+conscious,0\
+oriented,0\
+alert,0\
+febrile,0\
+vitally stable,0\
+left ear edematous,0\
+left ear painful on touch,0\
+tympanic membrane not visible,0\
+ear pack inserted in left external canal,0\
+polypoidal mass in inferior-posterior part of left external canal,0\
+biopsy of mass,0\
+inflammatory mass,0\
+right ear unremarkable,0\
+facial nerve exam,0\
+slight weakness with effort on right side,0\
+mild oral asymmetry,0\
+mild forehead asymmetry,0\
+unable to raise eyebrows completely on right side,0\
+able to close eyes completely with minimal effort,0\
+mouth dropped slightly to right side when smiling,0\
+Grade 2 left facial palsy,0\
+Hypoglossal nerve palsy,0\
+other cranial nerves unremarkable,0\
+mild bulging in fossa of Rusenmuller region,0\
+normal mucosa,0\
+pure tone audiometry requested,0\
+tympanogram requested,0\
+admitted,0\
+left malignant otitis externa,0\
+IV Tazocin,0\
+IV Fortum,0\
+baseline investigations,0\
+COVID-19 nasopharyngeal swab negative,0\
+developed sudden slurred speech,24\
+urgent CT scan of ear and skull base,24\
+urgent neurology consultation,24\
+left nasopharyngeal heterogenous enhanced soft tissue mass lesion,24\
+bone erosion,24\
+"destruction of skull base (clivus, jugular foramen, carotid canal)",24\
+destruction of external auditory canal,24\
+suspected jugular thrombosis,24\
+opacity of left middle ear,24\
+opacity of mastoid,24\
+mild mucosal thickening of left sphenoidal sinus,24\
+MRI not done,24\
+surgical debridement of diseased tissues,48\
+biopsy of nasopharynx,48\
+biopsy of left ear mass,48\
+nasopharyngeal swab for COVID-19 negative,48\
+fungal hyphae broad with right angle branching,48\
+mucormycosis diagnosis,48\
+IV Tazocin discontinued,48\
+IV Fortum discontinued,48\
+liposomal amphotericin B started,48\
+insulin for blood sugar control,48\
+Eliquis administered,48\
+hypothermia (33°C),72\
+AKI on CKD (creatinine 249 μmol/L),72\
+hyponatremia (117 mEq/L),72\
+liposomal amphotericin B discontinued,72\
+Posaconazole syrup started,72\
+"septic shock (Temp 33°C, WBC 39x109/L, BP 70/40, HR 120)",96\
+shifted to ICU,96\
+levophid infusion,96\
+died,168

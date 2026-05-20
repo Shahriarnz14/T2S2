@@ -1,0 +1,60 @@
+event,time
+80 year old,0
+Caucasian,0
+female,0
+hypertension,0
+asthma,0
+hypothyroidism,0
+presented to the Emergency Department,0
+erythematous right lower extremity,0
+edematous right lower extremity,0
+ecchymosis on right lower extremity,0
+superficial erosions on right lower extremity,0
+clear drainage from right lower extremity,0
+remained in wet pants for multiple hours,-94
+increased edema to the affected leg,-54
+increased erythema to the affected leg,-54
+pain to the affected leg,-54
+Bullae developed,-2
+patient drained the lesions,-1
+expression of clear fluid,-1
+sloughing of the epidermis,-1
+forced the patient to seek care,-0.5
+vital signs were within normal limits,0
+WBC count of 7400 cells/mcL,0
+50% band neutrophils,0
+elevated lactate of 3.0 mmol/L,0
+Blood cultures were obtained,0
+1 g ceftriaxone IVPB was given,0
+admitted to the hospital,0
+cellulitis of the right lower extremity,0
+bandemia,0
+lactic acidosis,0
+acute hypoxic respiratory failure,24
+altered mentation,24
+hypotension,24
+transferred to the Intensive Care Unit secondary to severe sepsis,24
+severe sepsis,24
+Cefepime started,24
+metronidazole started,24
+return to the medical floor,72
+blood cultures grew Plesiomonas shigelloides,48
+organism was sensitive to ceftriaxone,72
+organism was sensitive to ciprofloxacin,72
+organism was sensitive to ertapenem,72
+organism was sensitive to meropenem,72
+Ciprofloxacin was added,72
+experienced changes in her stool,216
+ciprofloxacin was discontinued after 7 days,240
+concerns for Clostridium difficile infection,216
+wound debridement,168
+discharged to inpatient rehab,336
+10-day course of 500 mg metronidazole TID,336
+one month course of 2 g ceftriaxone IVPB administered daily,336
+discharged from inpatient rehab,672
+laceration to the affected leg,-96
+General surgery was consulted,144
+instructions to follow up with her family doctor,672
+boating on a freshwater river in Michigan,-96
+condition continued to improve throughout her 14-day hospital stay,72
+transitioned to ceftriaxone due to concerns of C. difficile infection,240

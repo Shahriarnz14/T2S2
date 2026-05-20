@@ -1,0 +1,82 @@
+pmcIntroduction
+
+The coronavirus disease 2019 (COVID-19) infection has been associated with coagulopathy.1,2 The mechanism of COVID-19 complicated by hypercoagulability is multifactorial. The direct pathogenic effect of the virus on the endothelial cells and microvascular damage can precipitate the increased coagulation of blood. 3 We have presented a unique case report with relapsing right ventricular (RV) thrombus even when the patient is treated with anti-inflammatory treatment and anticoagulation. He was cleared of the COVID-19 infection but still had repeated episodes of thrombus formation. The recurrent episodes of the thrombotic complications might result from the rebound of the chronic inflammatory state but possibly not from the viral recurrence.
+
+Case report
+
+History of present illness
+
+A 49-year-old male presented to the emergency department with a dry cough, shortness of breath, nausea, and vomiting for 1 week. He was tachypneic, tachycardiac, normotensive, and hypoxic (oxygen (O2) saturation was 64% on room air). He tested positive for COVID-19 and was admitted with decreasing O2 requirements over the ensuing days. However, on Day 11 of the hospital stay, he developed persistent tachycardia and chest pain in the right lateral chest. The patient was diagnosed with pulmonary embolism (PE) and RV thrombus. He was transferred to the intensive care unit (ICU). After 7 days of ICU stay, he was transferred back to the medicine floor. He developed a dry cough, increased work of breathing, and spiking fevers on the following day. He was re-admitted to ICU on Day 20. The patient’s respiratory condition progressively worsened, and he was transferred to a tertiary referral center on Day 24.
+
+Past medical history
+
+There was no known significant past medical history for this patient, except for eight-pack-year smoking history.
+
+Differential diagnosis
+
+Given the clinical scenario, COVID-19 pneumonia was the most likely diagnosis. However, later, the pre-test probability for PE was high with acute chest pain and persistent tachycardia. In addition, the secondary bacterial infection might cause the worsening work of breathing and fever after his 7-day ICU stay. However, reactivation, relapse, or reinfection of COVID-19 pneumonia and a second PE were also considered.
+
+Investigations
+
+The reverse transcription-polymerase chain reaction (RT-PCR) was positive for COVID-19 on admission. Relevant serial laboratory reports are shown in Table 1. On admission, the chest X-ray (CXR) showed diffuse patchy bilateral pulmonary opacities (Figure 1(a)). On Day 10, a repeat CXR showed extensive bilateral airspace disease, densest in the left lower lung. During the further hospital course, the CXRs showed stable extensive bilateral mixed airspace disease (Figure 1(b)). On Day 11, computed tomography pulmonary angiography (CTPA) showed right lower lobe PE on top of bilateral pneumonia (Figure 2). The echocardiogram showed a dilated right ventricle with a mobile echo density of 11x12 mm, suggestive of RV thrombus (Figure 3(a)). The patient received thrombolytic therapy. On Day 14, a repeat echocardiogram revealed the resolution of the RV thrombus (Figure 3(b)). CTPA and venous duplex ultrasound showed no evidence of a new thrombus. However, on Day 20, the patient deteriorated clinically, and a repeat echocardiogram detected a second RV thrombus, with a size larger than the previous one (Figure 3(c)). In addition, repeat venous duplex US detected left gastrocnemius vein DVT.
+
+Table 1. Laboratory findings of inflammatory and coagulation markers related to COVID-19 infection.
+
+Date	LOS (day)	D-dimer (0–230 ng/mL)	CRP (0–5 mg/L)	PCT (0.02–0.08 ng/mL)	LDH (100–210 u/L)	Ferritin (14–179 mcg/L)	Fibrinogen (200–400 mg/dL)	PT	INR	aPTT	
+21 April 2020	1	17,710	118.2	0.16	830	1688	409	14.6	1.3	27	
+23 April 2020	3	2655	175.2	0.21	825	1878		13.6	1.2	30	
+26 April 2020	6		25.9	0.07	748	1869					
+30 April 2020	10	2069	2.0								
+02 May 2020	12	4388	1.2			1132	388	10.5	0.9	39	
+04 May 2020	14	3183	18.1			981	448			62	
+10 May 2020	20	3814		0.65		842	612	29.7	2.5	30	
+11 May 2020	21		501.9	2.47	725	936	466	82.7	7.0	62	
+12 May 2020	22	2932	426.1		405	1420	683	58.0	4.9	76	
+13 May 2020	23	5153	227.6		388	1641	431	21.4	1.8	63	
+14 May 2020	24	9754	78.3	1.31	516	1368	231	16.4	1.4	54	
+15 May 2020	25	11,580	37.13	1.40	533	1864	162	24.0	2.0	67	
+17 May 2020	27	7805	6.98		440	1244	163	20.6	1.7	71	
+19 May 2020	29	5892	2.74		507	1645	175	19.6	1.7	68	
+27 May 2020	37	2056	1.93		448	794	209	26.2	2.2	85	
+28 May 2020	38	4701	4.07	0.23	404	680	231	22.9	1.9	74	
+16 June 2020	57	8592	163.49	0.47	450	777	189	30.2	2.6	70	
+28 July 2020	99	1297	86.6	0.64	170	309		13.7	1.2	34	
+LOS: length of stay; CRP: C-reactive protein; PCT; procalcitonin; LDH: lactate dehydrogenase; aPTT: activated partial thromboplastin time; PT: prothrombin time; INR: international normalized ratio.
+
+The reference range for each laboratory parameter is presented in brackets.
+
+Figure 1. (a) CXR on admission. (b) Follow-up CXR on Day 19.
+
+Figure 2. CT pulmonary angiogram showing a right lower lobe pulmonary arterial thrombus. (Arrow marks the thrombus).
+
+Figure 3. (a) Transthoracic echocardiogram showing a dilated right ventricle with a mobile echodensity suggestive of thrombus (Day 11). (b) Similar echocardiographic view after two tPA treatments (Day 14). (c) Echocardiographic showing recurrence of the RV thrombus (Day 21). In this occasion, a globular RV thrombus in transit “caught” in the tricuspid chordae was observed.
+
+Management
+
+On admission, he was first placed on a nasal cannula. However, immediately after that required a non-rebreather mask with 15 L of O2 and prone positioning as the saturation was not improving. The O2 saturation improved from 64% to 97%. As the D-dimer level was high (17,710 ng/mL), the patient was started on therapeutic subcutaneous enoxaparin (Day 1 of admission). The patient was enrolled in the therapeutic clinical trial of sarilumab (an anti-interleukin-6 monoclonal antibody) and was given the trial medication twice. He was also given methylprednisolone intravenously (IV) for 8 days. On Day 11, once the PE and RV thrombus were diagnosed, subcutaneous enoxaparin was stopped. The patient was placed on an IV heparin drip and was given tissue plasminogen activator (tPA). As repeat fibrinogen was stable (> 150 mg/dL), the patient was placed on continuous tPA infusion for 24 h. Since a repeat echocardiogram showed that RV thrombus was not resolved, a decision was made to repeat the tPA therapy (i.e. an additional 50 mg IV bolus). A subsequent echocardiogram confirmed the resolution of the thrombus (Figure 3(b)). As the patient developed PE despite the full therapeutic dose of enoxaparin and IV heparin, he was transitioned to apixaban. On Day 20, the patient developed a worsening cough with severe work of breathing, tachycardia, fever, and leukocytosis, and was started on levofloxacin IV and transferred back to the ICU where the patient required intubation. The echocardiogram showed a mass suggestive of RV thrombus that was not seen on the echocardiogram done on Day 14 (Figure 3(b) and (c)). No additional PE was observed on repeat CTPA. As the echocardiogram showed a new RV thrombus while the patient was on apixaban, this medication was switched to argatroban IV. On Day 21, the patient was started on empiric broad-spectrum antibiotics (piperacillin-tazobactam + vancomycin IV) for concern of secondary bacterial pneumonia. All microbiology investigations were negative, including blood, fungal, urine, and sputum cultures. Due to worsening respiratory distress, fevers, and high inflammatory markers (i.e. CRP > 500 mg/L), a cytokine storm was thought to be at least partially responsible for the acute worsening status of the patient, so the decision was made to administer tocilizumab IV (anti-interleukin-6 therapy) as a compassionate use of this medication. On Day 24, he was transferred to a more advanced care facility for venovenous extracorporeal membrane oxygenation (ECMO) due to a lack of improvement in respiratory status. On Day 25, the patient’s respiratory condition progressively worsened in this new facility. The RV thrombus was enlarged compared to the previous echocardiograms, so a percutaneous thrombectomy was performed successfully. Eventually, he could not be weaned off the ventilator, and a tracheostomy was performed on Day 38. He was finally decannulated on Day 57. Of note, further imaging studies did not reveal any new thrombotic events.
+
+Follow-up
+
+Post-decannulation from ECMO, the hospital course was complicated with septic shock. He underwent percutaneous endoscopic gastrostomy tube placement on Day 93. He was discharged to a long-term acute care hospital after 4 months of hospital stay. Later, the family was called for follow-up, and the wife informed that the patient passed away 3 days after the discharge to the facility.
+
+Discussion
+
+The association between COVID-19 and thrombotic risk has been consistently reported.1,2 However, the pathophysiology remains incompletely understood. The underlying coagulation disorder in COVID-19 is characterized by increased inflammatory and coagulation markers.1,3 The attachment of SARS-CoV-2 to the cell surface through angiotensin-converting enzyme 2 (ACE2) would cause direct endothelial damage and inflammation, leading to the micro-thrombus formation.1,4 According to our institution’s protocol, the patient was started on full-dose enoxaparin from Day 1 as the D-dimer level was high. The cause of multiple episodes of RV thrombus is unclear, although propagation of an already present thrombus (i.e. from an occult IVC thrombus) may be a possible explanation. RV thrombus complicating COVID-19 patients have already been reported.5–8 Those individuals had a significant past medical history or were more than 60 years of age. One of the patients died secondary to cardiogenic shock, but those who survived had a short hospital course.6–8 In the present case, the patient was treated for cytokine storm with anti-interleukin-6 therapy. Still, we evidenced a surge of inflammatory and coagulation markers (Table 1). It is unclear why the patient developed a thrombus even after being on anticoagulation. He was on therapeutic enoxaparin from the first day of admission and still formed the blood clot. The second time he was on IV heparin and then followed by oral apixaban, but he still developed the thrombus for the second time. The one likely explanation is the persistence of the inflammation, as mentioned before. The other explanation can be the requirement of higher doses of anticoagulation in critically ill patients of COVID-19 as proposed by studies. 9
+
+However, what makes this clinical case extremely unique is the remitting and relapsing thrombotic disease that seemed to correlate with a rebound of a chronic inflammatory condition rather than viral recurrence. Although previously described, 10 the latter hypothesis does not apply to the present clinical case, as repeat SARS-CoV-2 RT-PCRs were persistently negative except at the time of admission. Conversely, a rebound of the underlying inflammatory response could explain the repeated thrombotic episodes. Indeed, in severe cases, the excessive inflammatory reaction leading to a cytokine storm would also perpetuate the hypercoagulability state. 11 Recent data have also suggested that some patients with severe COVID-19 may develop diverse autoantibodies that activate the endothelium, driving endotheliopathy and thrombo-inflammatory effects. 12 According to this theory, it is possible that discontinuation of IV steroids after 8 days of treatment may have allowed the inflammatory process to rebound, leading to endothelial reactivation and recurrent thrombi formation. Interestingly, the tPA therapy did not help improve respiratory function in the long run, as shown in a case series by Wang et al. 13 Furthermore, data have shown that the use of anti-IL-6 therapy has risks of secondary bacterial and viral infections, delayed viral clearance, and reinfection from the COVID-19 virus, 14 but, in the above clinical setting, we decided to go for the anti-IL-6 therapy for the second time to control the inflammatory surge. Another challenge we had to deal with in this case was the decision of giving certain anticoagulation to a patient who had received anti-IL-6 treatment. There is a risk of drug interactions between apixaban with sarilumab or tocilizumab. 15 We kept the patient on therapeutic enoxaparin and subsequently IV heparin. Later, we had to change the anticoagulation to apixaban as there was an anticoagulation failure with both agents, but the patient never received apixaban simultaneously with anti-IL-6 therapy.
+
+Conclusion
+
+Despite being on treatment, this case outlines a prolonged and refractory COVID-19-induced thrombotic state. Viral recurrence, either by reactivation (relapse) or eventually reinfection, was postulated to be the driving cause of the recurrent thrombotic episodes. However, it is unlikely in this clinical scenario considering the patient tested negative for SARS-CoV-2 RT-PCR multiple times during the thrombotic complications. Thus, it seems that SARS-CoV-2 can induce a severe persistent (chronic) inflammatory condition, promoting a severe thrombotic milieu. Further investigation is needed to test this hypothesis.
+
+Author contributions: A.H., J.T., and S.I.S. wrote the first draft of the article. A.H. and J.T. designed the figures and Table. C.A., S.B., N.K., and R.F. performed revisions and critically discussed the complete article. All authors read and approved the submitted version.
+
+Declaration of conflicting interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Ethical approval: Our institution does not require ethical approval for reporting individual cases or case series.
+
+Informed consent: Written informed consent was obtained from a legally authorized representative(s) for anonymized patient information to be published in this article.
+
+ORCID iD: Adrija Hajra https://orcid.org/0000-0003-4972-9073

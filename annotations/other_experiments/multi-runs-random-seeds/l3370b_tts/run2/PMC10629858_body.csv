@@ -1,0 +1,72 @@
+event,time
+ 57 years old , 0
+     male , 0
+     lepromatous leprosy , -144
+     skin biopsy , -144
+     rifampicin , -144
+     clofazimine , -144
+     dapsone , -144
+     abdominal distension , 0
+     constipation , 0
+     vomiting , 0
+     weight loss , 0
+     peripheral lymphadenopathy , 0
+     distended abdomen , 0
+     positive shifting dullness , 0
+     computed tomography scan , 0
+     mural thickening of the terminal ileum , 0
+     enlarged mesenteric lymph nodes , 0
+     mesenteric fat stranding , 0
+     intra-abdominal free fluid , 0
+     abdominal paracentesis , 0
+     atypically large lymphocytes , 0
+     flow cytometry , 0
+     abnormal CD4/CD8 double-negative T-cell population , 0
+     cervical lymph node biopsy , 0
+     high-grade peripheral T-cell lymphoma , 0
+     bone marrow examination , 0
+     no involvement of T-cell NHL , 0
+     stage IV lymphoma , 0
+     dexamethasone , 0
+     tumor-lysis syndrome precautions , 0
+     severe sepsis , 24
+     transfer to ICU , 24
+     antibiotics , 24
+     antifungals , 24
+     ICU care , 24-168
+     EPOCH chemotherapy protocol , 168
+     etoposide , 168
+     prednisone , 168
+     vincristine sulfate , 168
+     cyclophosphamide , 168
+     doxorubicin hydrochloride , 168
+     CNS prophylaxis , 168
+     intrathecal methotrexate , 168
+     complete metabolic remission , 336
+     febrile neutropenia , 336
+     recurrent bacteremia , 336
+     generalized weakness , 336
+     decreased power , 336
+     no sensory changes , 336
+     no clear fatigability , 336
+     electromyogram , 336
+     nerve conduction study , 336
+     normal distal latencies , 336
+     normal compound muscle action potential , 336
+     normal conduction velocities , 336
+     normal F waves , 336
+     normal sensory nerve action potential amplitude , 336
+     poor recruitment effects , 336
+     repetitive nerve stimulation , 336
+     incremental response , 336
+     presynaptic neuromuscular junction disorder , 336
+     LEMS , 336
+     intravenous immunoglobulins , 336
+     significant improvement , 360
+     ambulate , 360
+     consolidation , 360
+     autologous bone marrow transplant , 360
+     re-admission to ICU , 4320
+     severe sepsis , 4320
+     multiorgan failure , 4320
+     passed away , 4320

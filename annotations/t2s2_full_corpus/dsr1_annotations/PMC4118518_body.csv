@@ -1,0 +1,147 @@
+event,time
+45-year-old,0
+male,0
+admitted to intensive care unit,0
+fever,-168
+cough,-48
+generalized weakness,-48
+loose motions,-48
+altered sensorium,-48
+herpetiform rash,-168
+petechiae,-168
+ecchymotic patch,-168
+disoriented,0
+irritable,0
+no lymphadenopathy,0
+no eschar,0
+chronic alcoholism,0
+heavy smoking,0
+severe thrombocytopenia,0
+raised urea,0
+raised creatinine,0
+raised liver enzymes,0
+increased serum bilirubin,0
+increased lactate,0
+increased ammonia,0
+normal coagulation parameters,0
+normal fibrinogen,0
+oropharyngeal bleeding,0
+severe metabolic acidosis,0
+urine output improved,0
+started on meropenem,0
+started on ciprofloxacin,0
+intubated,0
+mechanical ventilator support,0
+neurologic deterioration,0
+hemodynamic deterioration,0
+respiratory deterioration,0
+magnetic resonance imaging brain normal,0
+generalized retiform purpuric rash,0
+purpura fulminans,0
+high grade fever,0
+hypotension,0
+negative malaria parasite,0
+negative dengue serology,0
+negative Leptospira serology,0
+presumptive diagnosis of meningococcemia,0
+negative Gram stains,0
+negative Neisseria meningitidis Ag detection,0
+lumbar puncture not performed,0
+negative venereal disease tests,0
+negative acute hepatitis profile,0
+negative vasculitis workup,0
+sterile blood cultures,0
+sterile urine culture,0
+Weil-Felix test positive OX-2,0
+started on doxycycline,0
+bullous eruptions,24
+skin biopsy hyperkeratotic epidermis,24
+epidermis-dermis separation,24
+negative direct immunofluorescence,24
+no toxic epidermal necrosis,24
+no fixed drug eruption,24
+no graft versus host disease,24
+prominent vasculitis,24
+neurologic improvement,48
+hemodynamic improvement,48
+extubated,48
+shifted out of ICU,48
+serum creatinine improved,48
+liver enzymes elevated,48
+serum bilirubin decreased,48
+retiform rash fading,48
+clinical improvement,48
+discharged,336
+45-year-old,0
+male,0
+admitted to intensive care unit,0
+fever,-168
+cough,-48
+generalized weakness,-48
+loose motions,-48
+altered sensorium,-48
+herpetiform rash,-168
+petechiae,-168
+ecchymotic patch,-168
+disoriented,0
+irritable,0
+no lymphadenopathy,0
+no eschar,0
+chronic alcoholism,0
+heavy smoking,0
+severe thrombocytopenia,0
+raised urea,0
+raised creatinine,0
+raised liver enzymes,0
+increased serum bilirubin,0
+increased lactate,0
+increased ammonia,0
+normal coagulation parameters,0
+normal fibrinogen,0
+oropharyngeal bleeding,0
+severe metabolic acidosis,0
+urine output improved,0
+started on meropenem,0
+started on ciprofloxacin,0
+intubated,0
+mechanical ventilator support,0
+neurologic deterioration,0
+hemodynamic deterioration,0
+respiratory deterioration,0
+magnetic resonance imaging brain normal,0
+generalized retiform purpuric rash,0
+purpura fulminans,0
+high grade fever,0
+hypotension,0
+negative malaria parasite,0
+negative dengue serology,0
+negative Leptospira serology,0
+presumptive diagnosis of meningococcemia,0
+negative Gram stains,0
+negative Neisseria meningitidis Ag detection,0
+lumbar puncture not performed,0
+negative venereal disease tests,0
+negative acute hepatitis profile,0
+negative vasculitis workup,0
+sterile blood cultures,0
+sterile urine culture,0
+Weil-Felix test positive OX-2,0
+started on doxycycline,0
+bullous eruptions,24
+skin biopsy hyperkeratotic epidermis,24
+epidermis-dermis separation,24
+negative direct immunofluorescence,24
+no toxic epidermal necrosis,24
+no fixed drug eruption,24
+no graft versus host disease,24
+prominent vasculitis,24
+neurologic improvement,48
+hemodynamic improvement,48
+extubated,48
+shifted out of ICU,48
+serum creatinine improved,48
+liver enzymes elevated,48
+serum bilirubin decreased,48
+retiform rash fading,48
+clinical improvement,48
+discharged,336

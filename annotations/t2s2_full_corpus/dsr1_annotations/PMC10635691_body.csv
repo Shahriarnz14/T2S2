@@ -1,0 +1,104 @@
+event,time
+34 years old,0
+male,0
+admitted to intensive care unit,0
+septic shock,0
+multiple organ failure,0
+poor oral intake,-unknown (assumed 0)
+fever,-unknown (assumed 0)
+altered mental status,-unknown (assumed 0)
+anorexia,-unknown (assumed 0)
+dyspnea,-unknown (assumed 0)
+alcohol use disorder,0
+scleral icterus,0
+dry mucosal membranes,0
+tachycardia,0
+bilateral rales,0
+bilateral rhonchi,0
+distended abdomen,0
+temperature 35.8°C,0
+heart rate 152 bpm,0
+respiratory rate 42 breaths/min,0
+blood pressure 114/75 mmHg,0
+oxygen saturation 97% on HFNC,0
+leukopenia (WBC 2.6 x10³/μL),0
+lactic acid 4.3 mmol/L,0
+hyperbilirubinemia (total bilirubin 4.3 mg/dL),0
+elevated AST (423 units/L),0
+elevated ALT (495 units/L),0
+elevated ALP (218 units/L),0
+normal ammonia,0
+urine toxicology positive for benzodiazepines,0
+acute respiratory acidosis,0
+anion gap metabolic acidosis,0
+hypoxic respiratory failure,0
+COVID-19 PCR positive,0
+microangiopathic hemolytic anemia ruled out,0
+multifocal pneumonia,0
+right-sided pleural effusion,0
+cardiac enlargement,0
+severe hepatosplenomegaly,0
+steatosis,0
+gallstones,0
+pericholecystic fluid,0
+enlarged kidneys,0
+mesenteric edema,0
+diffuse abdominal lymphadenopathy,0
+omental nodularity,0
+dexamethasone for COVID-19 (6 days),0
+remdesivir not administered,0
+tocilizumab not administered,0
+intubation on hospital day 2,48
+antibiotics escalation,48
+worsening renal function,48
+hemodialysis initiated,48
+broad spectrum antibiotics continued,48
+steroids continued,48
+clinical decline continued,48
+infectious work-up expanded,48
+negative HIV,48
+negative hepatitis B,48
+negative hepatitis C,48
+negative syphilis,48
+negative histoplasma,48
+negative aspergillus,48
+negative cryptococcus,48
+negative candida,48
+negative pneumocystis jirovecii,48
+negative herpes simplex virus 1/2,48
+negative cytomegalovirus,48
+negative clostridium difficile,48
+negative malaria,48
+Epstein-Barr virus serology (past exposure),48
+negative gastrointestinal stool PCR,48
+sputum culture positive for Klebsiella pneumoniae,48
+antibiotics de-escalated,48
+hepatitis A IgM positive,48
+positive IGRA (latent/active TB concern),48
+AFB cultures positive (active TB),72 (assuming a few days later after HD2)
+four-drug TB therapy initiated,72
+TB therapy discontinued (due to bilirubin increase),74 (assumed after 2 days)
+rifampin restarted,96 (after bilirubin improvement)
+ethambutol restarted,96
+pyrazinamide restarted,96
+isoniazid held,96
+levofloxacin started (replacing isoniazid),96
+concern for HLH raised,0 (overlaps with admission)
+"elevated ferritin (77,455.2 ng/mL)",0
+elevated triglycerides (252 mg/dL),0
+hypofibrinogenemia (120 mg/dL),0
+"elevated CXCL9 (232,385 pg/mL)",0
+elevated soluble IL-1 receptor alpha (5867 units/mL),0
+bone marrow biopsy deferred,0
+H-score 233 (97% HLH probability),0
+methylprednisolone initiated,0
+etoposide not initiated,0
+tracheostomy,0 (during critical care)
+percutaneous endoscopic gastrostomy,0
+tracheostomy removed,"variable (before discharge, timing unclear)"
+gastrostomy removed,"variable (before discharge, timing unclear)"
+renal function recovery,"variable (before discharge, timing unclear)"
+hemodialysis line removed,"variable (before discharge, timing unclear)"
+discharged to long-term care,variable (end of admission)
+steroid taper continued,variable (post-discharge)
+antituberculosis therapy (6 months),variable (post-discharge)

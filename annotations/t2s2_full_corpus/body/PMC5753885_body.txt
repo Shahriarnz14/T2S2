@@ -1,0 +1,51 @@
+Introduction
+Hemophagocytic syndrome or hemophagocytic lymphohistiocytosis (HLH) is a rare condition characterized by excessive inflammation that is caused by the absence of normal downregulation of activated macrophages and lymphocytes, which leads to multi-organ failure. It can be primary (hereditary) or secondary due to malignancies, infections, or immune-related diseases. Diagnosis can be assertively made if at least five out of eight of its diagnostic criteria are met:1 (1) splenomegaly; (2) fever ≥38.5°C; (3) peripheral blood cytopenia (at least two cell lines); (4) hypertriglyceridemia or/and hypofibrinogenemia; (5) hemophagocytosis in bone marrow, spleen, lymph node, or liver; (6) low or absent NK cell activity; (7) hyperferritinemia; and (8) elevated soluble CD-25.
+
+Taking septic shock into consideration, diagnosing HLH has been a challenge since both conditions overlap and can potentially be life-threatening if not recognized early.2
+
+In general, the treatment approach of secondary HLH should be directed toward suppression of immune system and treating the underlying cause. The current standard treatment regimen of HLH for adults, known as HLH-94 protocol, consists of initial phase of high-dose dexamethasone (10 mg/m2) and etoposide, and maintenance phase of cyclosporin with/without intrathecal methotrexate.3,4 However, the management of HLH in the setting of septic shock is challenging since there is no proposed specific approach. As such, we would like to share our experience in a case of HLH in the setting of septic shock origin as it may hold valuable information for future approaches in similar circumstances.
+
+Case description
+A 60-year-old female, with history of hypertension and chronic obstructive pulmonary disease (COPD), presented with fever, cough, and dyspnea of 2-day duration. Physical examination on admission was significant for tachypnea (respiratory rate was 36 per minute), hypotension (blood pressure was 88/56 mmHg), and confusion. The patient was admitted initially for acute exacerbation of COPD and was started on oxygen through nasal cannula, IV fluids, and IV azithromycin and ceftriaxone which were given after obtaining the cultures. Chest x-ray (CXR) showed no consolidations or infiltrates. Twelve hours after admission, the patient became more hypotensive (78/49 mmHg) and was immediately transferred to the intensive care unit. Her antibiotics regimen was switched to IV piperacillin-tazobactam and levofloxacin, and she was started on vasopressors and hydrocortisone. Three days after admission, despite being on high requirements of vasopressors, broad spectrum antibiotics, and hydrocortisone, the patient showed no improvement and was still febrile (38.9°C). Her cultures (urine, blood, and sputum) from admission showed no growth. Further investigations revealed hypertriglyceridemia (312 mg/dL), thrombocytopenia (30 K/uL), leukopenia (2.6 K/uL), hyperferritinemia (6872 ng/dL), hypofibrinogenemia (69 mg/dL), normal coagulation profile, normal procalcitonin, and negative work-up for connective tissue diseases (including anti-nuclear antibody and rheumatoid factor) and viral infections (including hepatitis A/B/C viruses, human immunodeficiency virus, cytomegalovirus, parvovirus 19, and Epstein–Barr virus). Peripheral blood smear was unremarkable as well.
+
+Family history was significant for malignancies in her first-degree relatives (lung and brain malignancies). Thus, a computerized tomography scan without contrast (due to renal failure) was performed for chest, abdomen, and pelvis, which revealed moderate splenomegaly. HLH was highly suspected, and therefore, soluble cluster differentiation 25 (CD-25) sent which was elevated (1521 U/mL). A bone marrow aspirate was also performed and showed hemophagocytosis (Figure 1(a) and (b)). It was decided to start the patient on IV methylprednisolone (2 mg/kg/day) while waiting for flow cytometry testing and cytogenetics results. Three days after the methylprednisolone was started, the patient improved markedly and was no longer in septic shock. One week later, the results of flow cytometry and cytogenetics were negative for any lymphomas or leukemias; thus, the patient was switched to HLH-94 protocol (high dose of dexamethasone and etoposide). One week after initiation of the protocol, her mean arterial pressure was maintained above 65 mmHg and had not developed any episodes of fever (Table 1 summarizes the trend of the important laboratory values and sequential organ failure assessment (SOFA) score). The patient was transferred then to medical floor and was discharged on dexamethasone and etoposide, and was advised to follow up closely with Hematology–Oncology Outpatient Clinics.
+
+Figure 1. (a, b) Hemophagocytosis in the bone marrow. Erythrocytes (red arrow) can be seen within the macrophage (blue arrow).
+
+Table 1. Trend of the important laboratory values and SOFA score.
+
+	Day 1	Day 2	Day 3	
+Hb	12.1 g/dL	10.2 g/dL	11.3 g/dL	
+WBC	5.3 K/uL	2.6 K/uL	7.2 K/uL	
+Platelets	35,000 /uL	25,000 /uL	53,000 /uL	
+INR	1.44	2.09	1.12	
+Fibrinogen	Not sent	69 mg/dL	220 mg/dL	
+AST	66 U/L	143 U/L	43 U/L	
+ALT	44 U/L	112 U/L	32 U/L	
+ALKP	154 U/L	539 U/L	124 U/L	
+Total bilirubin	1.2 mg/dL	1.6 mg/dL	0.9 mg/dL	
+Procalcitonin	1.2 ng/mL	1.76 ng/mL	0.4 ng/mL	
+CRP	11 mg/L	33 mg/L	8 mg/L	
+SOFA score	8 points	11 points	4 points	
+Hb: hemoglobin; WBC: white blood cells; INR: international normalized ratio; AST: aspartate aminotransferase; ALT: alanine aminotransferase; ALKP: alkaline phosphatase; CRP: C-reactive protein; SOFA: sequential organ failure assessment.
+
+Discussion
+After literature review, only one case report was extensively described, by Maheshwari et al.,5 in which a patient was diagnosed with HLH after presenting with septic shock of unknown origin. Although their patient was eventually diagnosed with HLH, the patient deteriorated and developed more complications. Their patient had similar findings and course of progression as ours. However, we initiated steroid treatment for our patient immediately after we diagnosed HLH. This significant difference in our management was directed after taking detailed family history, which revealed various malignancies (brain and lung cancers) in first-degree relatives. The rarity of HLH might be attributed to the fact that the diagnostic guidelines, which were published based on studies of the adolescence age group, require fulfilling five of the eight criteria.1,4 In adults, the five criteria are not always met which may delay early recognition of HLH and thus leads to a poorer outcome.4 It should be emphasized that both patients presented with severe sepsis as an early manifestation of HLH.
+
+A retrospective study by Agarwal and Agarwal6 showed that seven patients were admitted for sepsis and multiple organ dysfunction syndrome (MODS), but met the criteria for HLH, which was not diagnosed. Another study by Raschke reported three patients who were diagnosed with both sepsis and HLH. Both studies emphasized that having fewer diagnostic requirements for adults may lead to an earlier diagnosis of HLH. It was found that after employing and modifying different diagnostic criteria, ferritin level, NK cells activity, and soluble CD-25 levels were more sensitive for HLH than the other criteria.7,8 Thus, a modified diagnostic criteria for adults based on these three findings might prove beneficial in improving patient prognosis and outcome.
+
+It should be noted that although our patient had no underlying cause of HLH (i.e. malignancies, infections, or immune-related conditions), she still improved significantly on methylprednisolone before she was switched to the HLH-94 protocol. This could indicate that HLH treatment with methylprednisolone might be beneficial before switching to specific treatment. A recent study by Bentzer et al.9 demonstrated that the use of steroids was associated with decreased mortality in special groups of patients with septic shock and high levels of cytokines. The results of this study can explain the improvement in our patient on methylprednisolone as cytokines level would be expected to be high with HLH.
+
+Conclusion
+It should be emphasized that septic shock, with or without focus of infection, overlaps with HLH. This combination can consequently lead to refractory septic shock and death. Thus, our aim with this case is to encourage implementing a special protocol for further investigations, specifically assessing for HLH in the setting of refractory septic shock, which can effectively decrease the mortality rate if treated. More importantly, initiation of immunosuppression therapy might be a crucial step before initiating other specific treatments, such as HLH-94 protocol. Our recommendations to diagnose HLH in the setting of sepsis is to send for soluble CD-25 and ferritin level as these markers have higher sensitivity compared to other diagnostic criteria.
+
+Declaration of conflicting interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Ethical approval: Our institution does not require ethical approval for reporting individual cases or case series.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+ORCID iD: Zakaria Hindi 
+http://orcid.org/0000-0003-0222-2312
+
+Informed consent: Verbal and written consents were obtained from the patient(s) for their anonymized information to be published in this article.

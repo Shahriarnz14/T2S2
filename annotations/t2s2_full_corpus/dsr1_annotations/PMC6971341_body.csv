@@ -1,0 +1,81 @@
+event,time
+54 years old,0
+female,0
+rheumatoid arthritis,0
+uncontrolled diabetes mellitus type II,0
+neuropathy,0
+hypothyroidism,0
+transferred to tertiary care referral center,0
+admitted for acute idiopathic necrotizing pancreatitis,0
+multiple prior episodes of pancreatitis,0
+sepsis from infected pseudocyst,0
+pressor support,0
+acute respiratory distress syndrome,0
+acute kidney injury,0
+deep vein thrombosis,0
+pulmonary embolism,0
+anticoagulation,0
+retroperitoneal drainage catheter placed,-24
+enlarging abscess,-24
+no subcapsular hepatic hematoma,-24
+liver enhanced normally,-24
+transferred to surgical intensive care unit,0
+critical but stable condition,0
+anticoagulation therapy continued,0
+progressive abdominal pain,24
+low drain output,24
+imaging demonstrated persistent collection,24
+tissue-plasminogen activator injected,24
+fresh blood in drainage catheter,48
+hypotensive,48
+hemoglobin decreased to 6.2 gm/dL,48
+platelet count within normal limits,48
+coagulation panel within normal limits,48
+liver enzymes within normal limits,48
+resuscitation with crystalloid and blood transfusions,48
+pressors not initiated,48
+unenhanced CT showed subcapsular and perihepatic collections,48
+contrast-enhanced CT confirmed active hemorrhage,48
+percutaneous endovascular embolization,48
+transfusion of 5 units packed red blood cells,48
+transfusion of 2 units fresh frozen plasma,48
+transfusion of 400 mL albumin,48
+blood pressure stabilized,48
+hemoglobin stabilized,48
+critical condition,48
+bedbound,48
+anticoagulation discontinued,48
+serum transaminases increased,72
+alkaline phosphatase increased,72
+bilirubin increased,72
+hemoglobin decreased to 6.8 gm/dL,72
+contrast-enhanced CT showed increased hematoma size,72
+hepatic ischemia,72
+multiple punctate areas of contrast extravasation,72
+hepatic angiography demonstrated contrast blush,72
+cystic artery occluded,72
+no embolization performed,72
+blood products administered,72
+crystalloid resuscitation,72
+laboratory indicators worsened,72
+concern for liver failure due to mass effect,96
+taken to operating room,96
+laparoscopy showed inflammatory adhesions,96
+organized hematoma,96
+unable to suction or morcellate hematoma,96
+diffuse oozing from liver parenchyma,96
+right subcostal incision,96
+subcapsular hematoma evacuated,96
+packs placed for hemostasis,96
+subhepatic hematoma evacuated,96
+cholecystectomy,96
+retroperitoneal necrosectomy,96
+feeding jejunostomy tube placed,96
+primary closure of incision,96
+repeat laboratories improved,100
+no further bleeding events,100
+liver enzymes stable,100
+follow-up imaging 32 days post-evacuation,768
+persistent hepatic infarcts,768
+follow-up imaging 5 months post-evacuation,3600
+persistent infarctions,3600

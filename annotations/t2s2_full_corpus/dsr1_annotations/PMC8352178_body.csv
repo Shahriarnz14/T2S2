@@ -1,0 +1,83 @@
+event,time
+66 years old,0
+female,0
+admitted to the hospital (acute decompensated HF),0
+DLBCL diagnosis,-52560
+R-CHOP (10 cycles),-52560
+doxorubicin exposure >500 mg/m2,-52560
+autologous hematopoietic stem cell transplant,-48168
+DLBCL recurrence,-17520
+R-CHOP (6 cycles),-17520
+TTE (LVEF 55-60%),-744
+TTE (global longitudinal strain -12%),-744
+TTE (LVEF 25%),0
+global LV dysfunction,0
+pulmonary nodules,0
+mild coronary artery disease,0
+no infiltrative or inflammatory disease,0
+anthracycline-induced cardiomyopathy,0
+furosemide initiated,0
+lisinopril 2.5 mg daily,0
+metoprolol succinate 12.5 mg daily,0
+hypotension limiting GDMT titration,0
+good exercise tolerance,0
+RHC (mildly elevated biventricular filling pressures),0
+normal cardiac output,0
+CAR T cell therapy decision,0
+3-month GDMT trial,-2160
+CardioMEMS implantation,-2160
+RHC (normal filling pressures),0
+CardioMEMS placement,0
+TTE (LVEF 24.6%),0
+RV improvement,0
+"lympho-depleting chemotherapy (fludarabine, cyclophosphamide)",0
+neutropenic fever,24
+hypotension,24
+antibiotics initiated,24
+GDMT held,24
+CAR T cell infusion (axicabtagene ciloleucel),48
+CRS (mild),72
+fever,72
+sinus tachycardia (150s),72
+systolic BP 90s,72
+PAd 20 mmHg,72
+furosemide 20 mg IV,72
+tocilizumab dose 1,72
+tachypnea,96
+oxygen requirement 2L NC,96
+tocilizumab dose 2,96
+chest x-ray (diffuse pulmonary opacities),96
+PAd 10 mmHg,96
+noncardiogenic pulmonary edema,96
+atrial flutter,144
+rapid ventricular rates (140s),144
+hypoxic respiratory failure (cardiogenic),144
+PAd 23 mmHg,144
+intubation,144
+norepinephrine initiated,144
+amiodarone initiated,144
+sinus rhythm restored,144
+furosemide 20-40 mg IV intermittent,144
+PAd 10-20 mmHg target,144
+vasopressors weaned,288
+extubation,288
+GDMT not restarted,288
+PAd 6 mmHg,288
+discharge to rehabilitation,720
+furosemide 20 mg PO restarted,2304
+PAd 18 mmHg,2304
+no dyspnea,2304
+nausea (3 days),4896
+acute shortness of breath,4896
+oxygen saturation 88%,4896
+chest x-ray (pulmonary edema),4896
+possible left lower lobe infiltrate,4896
+PAd 22 mmHg,4896
+intubation,4896
+severe LV dysfunction,4896
+normal RV function,4896
+mixed septic and cardiogenic shock,4896
+ventricular tachycardia,4896
+cardiac arrest,4896
+death,4896
+CAR T cell therapy,0

@@ -1,0 +1,64 @@
+event,time
+65 years old,0
+female,0
+liver cirrhosis,-8760
+hepatocellular carcinoma,-8760
+scheduled for left lobe hepatectomy,0
+administered intravenous glycopyrrolate,0
+general anesthesia induced with propofol,0
+general anesthesia induced with rocuronium,0
+general anesthesia induced with remifentanil,0
+general anesthesia maintained with sevoflurane,0
+general anesthesia maintained with remifentanil,0
+general anesthesia maintained with rocuronium,0
+intubated and ventilated mechanically,0
+monitored by electrocardiography,0
+monitored by arterial blood pressure,0
+monitored by central venous pressure,0
+monitored by SpO2,0
+stable vital signs,0
+sudden decrease in arterial blood pressure,60
+sudden decrease in end-tidal carbon dioxide,60
+sudden decrease in SpO2,60
+tachycardia,60
+ST elevation on the EKG,60
+resuscitation with colloid and catecholamines,60
+intraoperative ultrasonography revealed massive air emboli,60
+diagnosed with VAE and PAE,60
+arterial blood gas analysis,60
+catecholamine administration,60
+systolic blood pressure maintained,70
+heart rate maintained,70
+central venous pressure maintained,70
+end-tidal carbon dioxide restored,70
+ABGA at 30 minutes after the occurrence of VAE,90
+norepinephrine infusion,70
+fluid resuscitation,70
+air emboli in left heart disappeared,130
+hepatectomy restarted,130
+systolic pressure maintained,130
+total anesthesia time,0
+total fluid administered,0
+total urinary output,0
+total blood loss,0
+intubated and ventilated mechanically in ICU,300
+responded only to intense pain,300
+systolic pressure maintained in ICU,300
+norepinephrine infusion in ICU,300
+postoperative laboratory findings,300
+postoperative EKG,300
+EKG findings recovered normally,744
+trans-thoracic echocardiogram,744
+vital signs stable,744
+norepinephrine infusion tapered out,744
+mental status unchanged,744
+brain CT and MRI,120
+multiple acute cerebral infarctions,120
+weaned to spontaneous ventilation,264
+extubated,264
+vital signs became unstable,360
+intravenous administration of catecholamines,360
+panperitonitis confirmed,360
+expired due to cardiac arrest,744
+septic shock,744
+cardiac arrest,744

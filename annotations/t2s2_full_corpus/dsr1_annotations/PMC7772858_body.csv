@@ -1,0 +1,101 @@
+event,time
+46 years old,0
+male,0
+deceased donor kidney transplantation,-8760
+basiliximab induction,-8760
+"extended-release tacrolimus (Tac, 2.5 mg/day)",-8760
+"mycophenolic acid (MPA, 720 mg bid)",-8760
+prednisone (5 mg/day),-8760
+creatinine level 1.13 mg/dL,-2160
+productive cough,-72
+diarrhea,-72
+"MPA reduced from 1,440 mg/day to 1,080 mg/day",-72
+amoxicillin/clavulanic acid therapy initiated (875/125 mg bid),-72
+MPA dose further reduced to 720 mg/day,-48
+Tac dose reduced from 2.5 mg/day to 2 mg/day,-48
+antibacterial therapy switched to Azithromycin (500 mg/day),-48
+PCR positive for SARS-CoV-2 RNA,-24
+admitted to hospital in hometown,-24
+body temperature 38.8°C,-24
+persistent cough,-24
+diarrhea,-24
+chest X-ray showed left basal opacity and right infra-hilar reticulonodular interstitial pattern,-24
+leukocytopenia,-24
+thrombocytopenia,-24
+hypokalemia,-24
+elevated C-reactive protein,-24
+elevated lactate dehydrogenase,-24
+MPA withdrawn,-24
+Tac dose further reduced to 1.5 mg/day,-24
+Tac withdrawn,-24
+hydroxychloroquine (200 mg/day) initiated,-24
+respiratory status deterioration,-24
+renal function deterioration,-24
+transferred to ICU,0
+marked dyspnea,0
+peripheral blood oxygenation 93% under 15 L/min O2,0
+"marked dehydration signs (tachycardia, hypotension)",0
+diarrheic stool passage,0
+elevated acute phase reactants,0
+hyperleukocytosis,0
+thrombocytopenia,0
+raised D-dimers,0
+hypokalemia,0
+hyponatremia,0
+"sepsis biomarkers (procalcitonin, lactate) negative",0
+no hydronephrosis on echography,0
+normal Doppler graft parameters,0
+hematuria (3+),0
+proteinuria (2+),0
+leukocyturia,0
+urine microscopy 8–10 erythrocytes/field,0
+urine microscopy 3–5 leucocytes/field,0
+chest CT suggestive of COVID-19 pneumonia with bacterial pneumonia features,0
+intubated,2
+"high-flow nasal cannula oxygen therapy (FiO2 60%, 40–60 L/min O2)",2
+respiratory rate 40/min,2
+O2 saturation 89%,2
+PaO2/FiO2 117,2
+noninvasive mechanical ventilation,96
+oxygen therapy,96
+complete remission of respiratory insufficiency,96
+stage 3 acute kidney injury (AKI),0
+creatinine peak 2.65 mg/dL,312
+creatinine returned to baseline,456
+oliguria,0
+polyuria,48
+normal urine output,144
+severe hyponatremia,0
+hypertonic saline administration,0
+inadequate response to hypertonic saline,0
+prednisone replaced with methylprednisolone 16 mg/day,0
+methylprednisolone i.v. pulse therapy (50 mg/day for 2 days),48
+methylprednisolone i.v. pulse therapy (100 mg/day for 2 days),96
+Tac reintroduced (1.5 mg/day),528
+Tac increased to 2.5 mg/day,576
+discharged home,672
+hydroxychloroquine 200 mg bid,0
+lopinavir/ritonavir (LPVr) 400/100 mg bid,0
+meropenem 3 g/day,0
+linezolid 1.2 g/day,0
+trimethoprim/sulfamethoxazole 400/80 mg/day,0
+caspofungin 70 mg/day,0
+caspofungin 50 mg/day,24
+transferred to pneumology unit,528
+hypertension,0
+impaired glucose tolerance,0
+lymphopenia,0
+"prophylactic anticoagulation with enoxaparin 8,000 UI/day",0
+absence of dysmorphic erythrocytes,0
+absence of red blood cell casts,0
+absence of nephrotic range proteinuria,0
+rapid resolution of kidney function,0
+moderate tubular dysfunction,0
+pre-renal cause of decreased urine output,0
+no renal replacement therapy needed,0
+drug toxicity,0
+direct viral infiltration,0
+LPVr introduced,0
+SARS-CoV-2 PCR negative,528
+hypertension,-8760
+impaired glucose tolerance,-8760

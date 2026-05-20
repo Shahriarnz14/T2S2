@@ -1,0 +1,85 @@
+event,time
+52 years old,0
+male,0
+admitted to the hospital,0
+swelling in left groin,-336
+soreness in left groin,-336
+swelling and soreness in left groin persisted for 2 months,-336
+abdominal wall skin defect with necrosis and suppuration,0
+perineal skin defect with necrosis and suppuration,0
+conscious,0
+respiratory rate 20 breaths/min,0
+heart rate 125 beats/min,0
+blood pressure 92/77 mmHg,0
+40 × 20 cm² skin defect in abdomen,0
+exposed rectus abdominus muscle,0
+necrotic tissue,0
+purulent discharge,0
+scrotum black areas with ulcers,0
+scrotum defects,0
+scrotum erosion,0
+scrotum pus,0
+scrotum foul odor,0
+penis black areas with ulcers,0
+penis defects,0
+penis erosion,0
+penis pus,0
+penis foul odor,0
+testes not exposed,0
+history of diabetes,0
+daily insulin intake,0
+no previous treatment for diabetes,0
+no complications from diabetes,0
+no renal diseases,0
+no infectious diseases,0
+no immunosuppressive diseases,0
+no unidentified bites,0
+bedridden,0
+moderate nutritional assessment,0
+high-sensitivity C-reactive protein 244.34 mg/L,0
+white blood cells 8.79 ×10⁹/L,0
+fasting blood glucose 7.64 mmol/L,0
+glycated hemoglobin 6.70%,0
+creatinine 185.0 μmol/L,0
+hemoglobin 118.0 g/L,0
+sodium 130.0 mmol/L,0
+modified LRINEC score 36,0
+CT scan extensive infections in lungs,0
+CT scan extensive infections in skin,0
+subcutaneous effusion,0
+gas accumulation,0
+progression of PTB,0
+wound debridement days 1-5,0
+full surgical debridement day 6,144
+type I respiratory failure day 6,144
+transferred to ICU day 6,144
+ventilatory support day 6,144
+abdominal tissue pathology day 14,336
+necrosis with infection of adipose tissue,336
+neutrophil infiltration,336
+lymphocyte infiltration,336
+plasma cell infiltration,336
+multinucleated giant cells observed,336
+Ziehl–Neelsen staining acid-fast bacilli,336
+Mycobacterium TB proteins present,336
+bronchoscopy,336
+alveolar lavage,336
+NGS testing,336
+NGS alveolar lavage fluid 994 sequences,336
+multidrug-resistant Escherichia coli in wound secretions,336
+no bacteria in blood cultures,336
+treated with ornidazole,0
+treated with meropenem,0
+fluid rehydration,0
+daily wound care,0
+daily dressing changes,0
+diagnosed with NF day 15,360
+diagnosed with PTB day 15,360
+diagnosed with CTB day 15,360
+prescribed tigecycline day 15,360
+prescribed isoniazid day 15,360
+prescribed rifampicin day 15,360
+prescribed ethambutol day 15,360
+prescribed pyrazinamide day 15,360
+discharged day 17,408
+patient died after discharge,408

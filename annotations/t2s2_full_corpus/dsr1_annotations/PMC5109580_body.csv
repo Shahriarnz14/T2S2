@@ -1,0 +1,82 @@
+event,time
+72 years old,0
+woman,0
+diabetes,-241920
+hypertension,-241920
+hyperlipidemia,-241920
+candidiasis,-241920
+diagnosed with HIV-1,-241920
+CD4+ T-lymphocyte count 32 cells/μL,-241920
+"VL 16,600 copies/mL",-241920
+"initiated ART with ABC, 3TC, RAL",-241920
+CD4 cell count 265 cells/μL,-17280
+VL controlled below detection,-17280
+abdominal pain,-720
+vomiting,-720
+decreased level of consciousness,-720
+blood pressure 102/58 mmHg,-720
+tachycardia,-720
+labored polypnea,-720
+Glasgow Coma Scale score 13,-720
+metabolic acidosis pH 7.0,-720
+hyperlactacidemia 199 mg/dL,-720
+gas in superior mesenteric and intrahepatic portal veins,-720
+intramural emphysema of the colon,-720
+diagnosed with intestinal ischemia,-720
+emergency laparotomy performed,-720
+jejunum to colon necrosed,-720
+mesentery color normal,-720
+diagnosed with NOMI,-720
+subtotal small bowel resection,-720
+jejunostomy performed,-720
+70 cm jejunum preserved,-720
+95 cm small intestine preserved,-720
+large intestine completely resected,-720
+lactic acidosis resolved,-720
+intensive care continued,-720
+CD4 cell count 163 cells/μL,504
+"VL 49,600 copies/mL",504
+HIV-1 subtype B,504
+no drug-resistant mutation,504
+R5 tropism,504
+concerns regarding poor ARV absorption,504
+"single-dose administration of DRV, RTV, LPV, ETR, MVC, RAL",504
+DRV 400 mg,504
+RTV 100 mg,504
+LPV 400 mg,504
+ETR 100 mg,504
+MVC 150 mg,504
+RAL 400 mg,504
+tablets pulverized,504
+ETR dissolved in water,504
+liquid LPV and RTV,504
+omeprazole co-administered,504
+plasma drug concentrations determined,504
+Cmax LPV <0.01 μg/mL,504
+Cmax RTV <0.01 μg/mL,504
+Cmax MVC 0.580 μg/mL,504
+Cmax RAL 0.566 μg/mL,504
+Cmax DRV 2.18 μg/mL,504
+Cmax ETR 2.09 μg/mL,504
+"resumed ART DRV 600 mg, RTV 200 mg, ETR 200 mg, MVC 300 mg every 12 hours",600
+Cmin MVC 0.45 μg/mL,744
+Cmin DRV 1.72 μg/mL,744
+Cmin ETR <0.01 μg/mL,744
+initiated 3TC 150 mg every 12 hours,936
+tube feeding initiated,768
+Cmin MVC 0.128 μg/mL,1032
+Cmax DRV 1.1 μg/mL,1032
+Cmin DRV <0.01 μg/mL,1032
+ETR discontinued,1032
+RTV discontinued,1032
+"changed dosing intervals of 3TC, DRV, MVC",1032
+DRV and MVC t.i.d.,1032
+Cmin DRV <0.01 μg/mL,1032
+Cmin MVC 0.093 μg/mL,1032
+DRV and MVC q.i.d.,1032
+Cmin DRV 0.210 μg/mL,1032
+Cmin MVC 0.039 μg/mL,1032
+VL decreased to 32 copies/mL,2304
+developed sepsis,2568
+catheter-related bloodstream infection,2568
+died,2568

@@ -1,0 +1,82 @@
+right total knee replacement| -168
+pain in right knee| -168
+redness in right knee| -168
+swelling in right knee| -168
+low-grade fever| -48
+dry cough| -48
+shortness of breath| -48
+74-year-old white woman| 0
+female| 0
+presented to the Emergency Department| 0
+admitted to hospital| 0
+denied any recent sick contacts| 0
+denied travel history| 0
+oxygen saturation of 87% while breathing ambient air| 0
+bilateral rhonchi| 0
+rales| 0
+mild absolute lymphopenia| 0
+anemia| 0
+patchy air space opacity in the right upper lobe suspicious for pneumonia| 0
+negative rapid nucleic acid amplification test for influenza A and B| 0
+nasopharyngeal swab specimen obtained for detection of SARS-CoV-2| 0
+started on cefepime| 0
+started on levofloxacin| 0
+blood cultures drawn| 0
+sputum cultures drawn| 0
+started on 2 L supplemental oxygen| 0
+essential hypertension| 0
+obesity| 0
+myasthenia gravis in remission| 0
+osteoarthritis| 0
+mild diarrhea| 72
+generalized weakness| 72
+fatigue| 72
+mild myasthenia gravis exacerbation| 72
+evaluated by Neurology| 72
+started on intravenous immunoglobulin| 72
+increased shortness of breath| 96
+oxygen requirements increased to 10 L high-flow nasal cannula| 96
+positive nasopharyngeal swab for SARS-CoV-2 by RT-PCR| 96
+started on hydroxychloroquine| 96
+started on azithromycin| 96
+started on zinc sulfate| 96
+started on oral vitamin C| 96
+blood cultures negative| 96
+sputum cultures negative| 96
+cefepime discontinued| 96
+levofloxacin discontinued| 96
+shortness of breath worsened rapidly| 144
+oxygen requirements increased to 15 L| 144
+drowsy| 144
+moderate distress| 144
+unable to protect airways| 144
+blood pressure of 78/56 mmHg| 144
+heart rate of 112 beats per minute| 144
+temperature 38°C| 144
+respiratory rate of 28 breaths per minute| 144
+elevated lactate dehydrogenase| 144
+elevated ferritin| 144
+elevated interleukin-6| 144
+bilateral alveolar infiltrates due to pneumonia| 144
+interstitial edema| 144
+acute respiratory distress syndrome| 144
+intubated| 144
+started on mechanical ventilation| 144
+septic shock| 144
+started on norepinephrine| 144
+started on colchicine| 144
+started on high-dose intravenous vitamin C infusion| 168
+norepinephrine discontinued| 216
+hydroxychloroquine discontinued| 216
+azithromycin discontinued| 216
+spontaneous breathing trial successfully tolerated| 240
+extubated to 4 L oxygen with nasal cannula| 240
+colchicine discontinued| 240
+received inpatient physical rehabilitation| 240
+received inpatient occupational rehabilitation| 240
+zinc sulfate discontinued| 336
+oxygen saturation of 92% while breathing ambient air| 384
+chest radiograph revealed almost complete resolution of the infiltrates| 384
+still positive by RT-PCR for SARS-CoV-2| 384
+discharged from the hospital| 384
+vitamin C infusion discontinued| 384

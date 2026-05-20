@@ -1,0 +1,65 @@
+event,time
+26 years old,0
+male,0
+generalized abdominal pain,-2160
+infrequent watery diarrhea,-2160
+acute hepatitis A,-2160
+increased liver enzymes,-2160
+high HAV IgG Ab,-2160
+abdominal pain radiating to flanks,-2160
+pain aggravating after food ingestion,-2160
+one episode of bloody diarrhea,-720
+night sweats,-720
+significant weight loss,-720
+epigastric abdominal pain,-720
+infrequent nausea,-720
+vomiting,-720
+watery diarrhea,-720
+mild epigastric tenderness,0
+splenomegaly (14 cm span),0
+abdominal ultrasonography (moderate splenomegaly),0
+stool exam (RBC present),0
+chronic gastritis,0
+histopathology suggestive of IBD,0
+worsened symptoms,0
+fever,0
+several episodes of bloody diarrhea,0
+treatment with Mesalazine,0
+treatment with Asacol enema,0
+antibiotics for gastrointestinal coverage,0
+peripheral blood smear (aggregated platelets),0
+Doppler ultrasound (portal vein diameter 16 mm),0
+splenic vein diameter 11 mm,0
+normal flow in portal system,0
+normal patency of superior mesenteric artery,0
+abdominopelvic CT (mesenteric fat stranding),0
+thick-walled bowels,0
+portal vein thrombosis,0
+superior mesenteric vein thrombosis,0
+intolerable abdominal pain,24
+generalized tenderness,24
+rebound tenderness,24
+guarding,24
+thrombocytopenia (22000),24
+peripheral blood smear check,24
+fibrinogen check,24
+FDP check,24
+thrombocytopenia corrected,48
+laparotomy performed,48
+bloody ascites,48
+colon necrosis,48
+total colectomy,48
+ileostomy,48
+mural necrosis (colon),48
+intraluminal thrombosis of vascular canals,48
+critically ill in ICU,72
+hypotension,72
+dyspnea,72
+abnormal coagulation studies,72
+thrombocytopenia,72
+elevated fibrinogen,72
+elevated FDP levels,72
+treatment with fresh frozen plasma,72
+death,96
+Factor V Leiden,96
+antiphospholipid syndrome,96

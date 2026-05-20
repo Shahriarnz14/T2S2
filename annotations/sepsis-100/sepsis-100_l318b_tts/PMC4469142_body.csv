@@ -1,0 +1,46 @@
+event,time
+man,0
+admitted to the hospital,0
+fever,0
+high-grade fever,0
+wife diagnosed with influenza B virus infection,-4
+daughter 1 diagnosed with influenza B virus infection,-4
+daughter 2 diagnosed with influenza B virus infection,-4
+influenza B virus infection,0
+oseltamivir,0
+fever persisted,4
+dyspnea at rest,4
+admitted to our hospital,4
+temperature 38.7°C,4
+blood pressure 117/80 mmHg,4
+heart rate 76 beats/min,4
+oxygen saturation level 88% on room air,4
+fine crackles in lung fields on both sides,4
+white blood cell count 7400/mm3,4
+C-reactive protein 18.1 mg/dL,4
+aspartate transaminase 91 IU/L,4
+L-lactate dehydrogenase 362 IU/L,4
+creatinine kinase 793 IU/L,4
+Krebs von den Lungen-6 1772 U/mL,4
+hypoxemia,4
+ground-glass opacity in lung fields on both sides,4
+diffuse ground-glass opacity in lung fields on both sides,4
+no bacterial or fungal infection,4
+no bacterial infection in blood cultures,4
+high-flow nasal oxygen support,4
+peramivir,4
+antibiotics,4
+reticular shadow on chest CT worsened,7
+PaO2/FiO2 ratio deteriorated to 83,7
+severe ARDS associated with influenza B virus infection,7
+refused to do intubation,7
+continued high-flow nasal oxygen support,7
+polymyxin B-immobilized fiber column hemoperfusion,7
+intravenous methylprednisolone,10
+respiratory status did not improve,10
+reticular infiltrates on chest CT worsened,10
+noninvasive positive pressure ventilation support,10
+immunotherapy,10
+died,129
+autopsy,129
+diffuse alveolar damage with prominent hyaline membranes,129

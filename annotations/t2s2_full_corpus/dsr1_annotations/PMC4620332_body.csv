@@ -1,0 +1,66 @@
+event,time
+42 years old,0
+woman,0
+admitted,0
+dyspnea,-96
+enduring cough,-96
+diagnosed with influenza A (H1N1),-96
+PCR positive for influenza A (H1N1),-96
+oseltamivir administered,-96
+blood pressure 90/60 mmHg,0
+pulse rate 100 beats per minute,0
+respiratory rate 22 breaths per minute,0
+body temperature 36.3℃,0
+oxygen saturation 93.3%,0
+2 L/min oxygen via nasal cannula,0
+coarse breathing sounds,0
+chest X-ray peribronchial consolidations,0
+multifocal ground glass opacities,0
+hypoxemia,0
+arterial blood gas pH 7.390,0
+PCO2 27.9 mm Hg,0
+PO2 67.9 mm Hg,0
+bicarbonate 17.0 mmol/L,0
+hemoglobin 13.8 g/dL,0
+"WBC count 4,640 cells/mm3",0
+neutrophils 77.4%,0
+"platelet count 161,000 cells/mm3",0
+C-reactive protein 30.24 mg/dL,0
+serum albumin 3.7 g/dL,0
+AST 35 U/L,0
+ALT 27 U/L,0
+total bilirubin 0.9 mg/dL,0
+serum creatinine 1.8 mg/dL,0
+chest CT tracheobronchial wall thickening,0
+multifocal patchy consolidations,0
+nodular opacities with cavitations,0
+bronchoscopy severe mucosal inflammation,0
+sloughing,0
+diffuse cobblestone-like mucus swelling,0
+exudates,0
+partial airway obstruction,0
+pseudomembranous tracheobronchitis,0
+bronchoscopic biopsy not performed,0
+desaturation during procedure,0
+respiratory failure,0
+transferred to ICU,0
+mechanical ventilation started,0
+MSSA isolated,0
+acid fast bacillus stain negative,0
+PCR for Mycobacterium tuberculosis negative,0
+serum galactomannan negative,0
+antibiotics changed to ciprofloxacin and amoxicillin/clavulanate,0
+tube thoracotomy for bilateral pneumothoraces,48
+infected pneumatoceles occurred,72
+pneumatocele drained with pigtail catheter,72
+antibiotics changed to colistin,72
+multi-drug resistant Acinetobacter baumannii isolated,72
+dyspnea improved,1248
+radiologic findings improved,1248
+pigtail catheter removed,1248
+follow-up bronchoscopy improvement,1248
+discharged,1248
+no underlying illness,-96
+denied prior chronic respiratory disease,-96
+denied hematologic malignancy,-96
+denied transplantation,-96

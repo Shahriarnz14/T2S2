@@ -1,0 +1,67 @@
+event,time
+40-year-old man,0
+admitted to our hospital,0
+shock,0
+flu-like illness,-72
+nausea,-72
+general malaise,-72
+lower abdominal pain,-72
+severe diarrhea,-72
+5% albumin administration,-72
+saline administration,-72
+consciousness deterioration,-48
+right hemiparesis,-48
+temperature 36.0°C,0
+blood pressure 95/72 mm Hg,0
+pulse 160 beats/min,0
+respiratory rate 25 breaths/min,0
+SpO2 100%,0
+collapsed jugular vein,0
+insufficient radial artery pulses,0
+cold extremities,0
+hyperviscosity,0
+polycythemia,0
+hypoalbuminemia,0
+severe leukocytosis,0
+elevated creatinine,0
+normal serum electrolytes,0
+severe metabolic acidosis,0
+influenza virus A positive,0
+influenza virus B positive,0
+pericardial effusion,0
+collapsed inferior vena cava,0
+left M2 MCA occlusion,0
+MCA territory infarction,0
+midline shift,20
+external decompression surgery,20
+internal decompression surgery,20
+postoperative intracranial pressure 9 mm Hg,20
+cerebral edema progression,32
+excessive cerebral edema,32
+internal decompression added,32
+hypoproteinemia,0
+hemoconcentration,0
+intravascular volume depletion,0
+increased vascular permeability,0
+extravasation of albumin,0
+mechanical ventilation,0
+fluid resuscitation 10 liters/day,0
+leg swelling,0
+leg redness,0
+leg heat sensation,0
+pretibial compartment syndrome,0
+bilateral calf fasciotomy,0
+negative pan cultures,0
+severe right hemiparesis,0
+Broca's aphasia,0
+unable to walk without assistance,1440
+theophylline administration,1440
+7 ISCLS attacks,8760
+2 severe fasciotomy episodes,8760
+fluid resuscitation,8760
+no stroke recurrence,8760
+monoclonal IgG kappa,8760
+immunoglobulins infusion,8760
+corticosteroids,8760
+immunosuppressive therapy,8760
+negative plasmacytosis,8760

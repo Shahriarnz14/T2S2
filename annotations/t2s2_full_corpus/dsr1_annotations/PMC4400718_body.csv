@@ -1,0 +1,58 @@
+event,time
+32 years old,0
+male,0
+admitted to the Intensive Care Unit,0
+classic pyoderma gangrenosum,-43800
+cough,-96
+sputum,-96
+dyspnea,-96
+methylprednisolone pulses,-168
+oral prednisolone,0
+cyclosporine,0
+surgical wound therapy,0
+respiratory rate 30 breaths/min,0
+temperature 39°C,0
+heart rate 150 beats/min,0
+oxygen saturation below 90%,0
+"diffuse necrotic skin lesions on upper limbs, chest, back",0
+white blood cell count 9.8 × 10^9/l,0
+79% neutrophils,0
+22% lymphocytes,0
+3% monocytes,0
+1% eosinophil,0
+platelets 25 × 10^9/L,0
+no vegetation in transthoracic echocardiogram,0
+CT scan lung nodules with feeding vessels sign,0
+cavitations,0
+halo sign,0
+air-crescent signs,0
+left pleural effusion,0
+respiratory failure,48
+intubated,48
+mechanically ventilated,48
+bronchoscopy,48
+bronchoalveolar lavage specimen obtained,48
+probable invasive pulmonary aspergillosis,48
+acute branching septate hyphae,48
+Aspergillus flavus,48
+cutaneous fusariosis,0
+Fusarium proliferatum isolated from skin lesion biopsy,0
+polymerase chain reaction assays,0
+voriconazole,48
+linezolid,48
+meropenem,48
+ciprofloxacin,48
+treatment failure,288
+sepsis,288
+expired,288
+long-term systemic corticosteroid use,-43800
+multiple debridement,-43800
+progression of PG lesions,-168
+no relation with bacterial infection,0
+multiple red or violaceous macules or nodules,0
+"skin lesions erythematous, papular or nodular",0
+central necrosis,0
+echthyma gangrenosum-like appearance,0
+respiratory failure unresponsive to therapy,288
+ulcerative lesions unresponsive to therapy,288
+chronic PG,-43800

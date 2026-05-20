@@ -1,0 +1,52 @@
+event,time
+62 years old,0
+male,0
+arterial hypertension,0
+dilated heart disease of ischemic origin,0
+severe left ventricular dysfunction,0
+chronic hepatitis B infection,0
+left colostomy carrier,0
+complicated acute diverticulitis,0
+admitted to the hospital,0
+diagnosis of bilateral SARS-CoV-2 pneumonia,0
+onset of symptoms,-504
+pulmonary CT compatible with severe bilateral SARS-CoV-2 lung infection (CO-RADS 6),0
+remained in respiratory care unit for 20 days,0
+high-flow oxygen therapy required,0
+treatment with dexamethasone (6 mg/day),0
+ceftriaxone,0
+piperacillin-tazobactam as empirical antibiotic treatment,0
+admitted to ICU,0
+intubation required,0
+mechanical ventilation required,0
+two prone position sessions,0
+severe acute respiratory distress syndrome (ARDS),0
+PaO2/FiO2 <100mmHg,0
+APACHE II: 11 points,0
+SOFA score: 9 points,0
+"nosocomial pneumonia (clinical, radiological, microbiological criteria)",264
+empirical therapy initiated with meropenem and linezolid,264
+Pseudomonas aeruginosa (AmpC profile) isolated in tracheobronchial aspirate,264
+meropenem MIC 1 mg/L,264
+antibiotic treatment adjusted to meropenem,264
+continued meropenem for 10 days,264
+new episode of nosocomial pneumonia,864
+secondary bacteremia,864
+carbapenem-resistant Pseudomonas aeruginosa (meropenem MIC >16 mg/L),864
+initial empirical treatment with meropenem and colistin,864
+adjusted to ceftazidime-avibactam for 14 days,864
+extensively drug-resistant Pseudomonas aeruginosa tracheobronchitis,1872
+ceftazidime-avibactam resistance (MIC 32 mg/L),1872
+"isolate susceptible to ceftalozane-tazobactam, colistin, tobramycin",1872
+treatment with ceftalozane-tazobactam and inhaled colistin,1872
+prolonged mechanical ventilation,0
+tracheostomy required,0
+multiple weaning attempts,0
+Aspergillus fumigatus isolated from respiratory sample,0
+two bacteremias due to Enterococcus faecium,0
+multiple febrile episodes,0
+received multiple antibiotics,0
+CRP kinetics adjusted to infectious episodes,0
+procalcitonin >0.5 ng/ml during enterococcal bacteremia,0
+discharged from ICU,1872
+transferred to rehabilitation healthcare center,1872

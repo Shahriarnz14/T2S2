@@ -1,0 +1,102 @@
+Introduction
+
+An increasing number of reports have recognized the contribution of COVID-19 to the development of acute kidney injury (AKI) and its impact on morbidity and mortality in hospitalized patients.1 Of concern is the high rate of AKI reported in kidney transplant recipients infected with SARS-CoV-2 compared with the general population.2 Lubetzky et al. reports a higher incidence of AKI in transplant recipients requiring admission for COVID-19 compared with nontransplant patients (51% vs. 16%, respectively).3
+
+The causes of AKI in this vulnerable population are multifactorial, including sequelae from the cytokine storm syndrome as well as probable direct renal injury.3 New evidence suggests that renal infarction should be considered as one of the causes of AKI in transplant patients.4 Protocols for treating hospitalized kidney transplant recipients with severe disease have been developed and include anticoagulation, addition of or increasing corticosteroids, omitting antimetabolites, and reduction of calcineurin inhibitors.2
+
+Case Presentation
+
+Mr. C.A, a 49-year-old man, had his index presentation with chronic kidney disease (CKD) stage 5 in 2001. His CKD was presumed to be due to chronic glomerulonephritis. His only comorbidity included hypertension. He was commenced on long-term hemodialysis and received a deceased donor transplant in August 2001. His posttransplant course was complicated by antibody-mediated rejection 4 days after transplant and cytomegalovirus colitis in March 2002. Between 2002 and 2020 he maintained a stable estimated glomerular filtration rate between 40 and 60 ml/min per 1.73 m2. He was maintained on cyclosporin (50 mg twice daily) with ketoconazole (to boost levels), azathioprine (100 mg/d), prednisone (5 mg/d), lansoprazole, and amlodipine.
+
+On 1 July 2020, Mr. C.A. presented with a 1-week history of cough, fever, shortness of breath, and myalgia. He was diagnosed with SARS-CoV-2 via a nasal swab polymerase chain reaction. On admission, his blood pressure was 111/64 mm Hg, oxygen saturation was 78% on room air, and he had a compensated metabolic acidosis (pH 7.35; Pco2, 4.7; kPa, HCO3 20 mmol/l). Figure 1 depicts the chest X-ray on admission, which demonstrates scattered bilateral mixed ground-glass opacity and dense airspace opacification, with a predominantly peripheral distribution.Figure 1 Demonstrates chest X-ray findings on admission.
+
+Laboratory values on admission were creatinine, 180 μmol/l (2.03 mg/dl); estimated glomerular filtration rate, 35 ml/min per 1.73 m2; urea, 12 mmol/l; and potassium (K+), 4.9 mmol/l. He had a raised D-dimer of 1.03 mg/l (reference range, 0.0-0.25 mg/l), C-reactive protein of 178 mg/l, and white cell count 12.08 × 109/l with a normal lymphocyte count. Ferritin was not measured on admission. Table 1 demonstrates his laboratory results throughout his admission.Table 1 Blood results at baseline, during admission, and after discharge
+
+Variable	06/11/19 baseline	01/07/2020 admission	10/07/2020	13/07/2020	17/07/2020	20/07/2020a	24/07/2020	28/07/2020	05/08/2020 discharge	
+Na,+ mmol/l	139	130	135	124	132	135	132	135	137	
+K,+ mmol/l	4.0	4.9	5.6	5.1	6.2	3.7	3.9	4.1	6.3	
+Urea, mmol/l	6.6	12.0	18.4	36.8	50.8	35.1	35.6	33.0	25.8	
+Cr, μmol/l (mg/dl)	131 (1.48)	180 (2.04)	153 (1.73)	893 (10.10)	1276 (14.43)	724 (8.19)	658 (7.44)	664 (7.51)	712 (8.05)	
+WCC, ×109/l	10.20	12.08		25.40		8.51	16.49	12.92	12.71	
+Hemoglobin, g/dl	11.7	10.7		11.0		7.9	8.7	7.8	7.8	
+Platelets, ×109/l	313	252		309		307	502	511	413	
+Ca2+, mmol/l	2.34								2.03	
+D-dimer, mg/l		1.03								
+CRP, mg/l		178		216						
+UPCR, g/mmol	0.027								0.232	
+ALT, U/l	16	19							18	
+Cyclosporin, ng/ml	155.5					141.1	191.6	366.6	120.9	
+ALT, alanine transaminase; Ca2+, calcium; CRP, C-reactive protein; Cr, creatinine; K+, potassium; Na+, sodium; UPCR, urine protein-to-creatinine ratio; WCC, white cell count.
+
+a Indicates days on which hemodialysis was performed on 17th, 18th, and last session 20th July.
+
+He was initiated on high-flow nasal oxygen (40 l/min at fraction of inspired oxygen of 0.8) and gradually weaned to nasal prong oxygen over the course of 1 week. He was continued on his immunosuppression, including azathioprine, cyclosporin, and ketoconazole, and his prednisone was increased from 5 mg/d to 40 mg/d. He was initiated on full anticoagulation in the form of enoxaparin (Clexane, Sanofi, Berkshire, UK) 80 mg subcutaneously twice daily. After 1 week, and on transfer out of the high care unit, he was changed to enoxaparin 40 mg subcutaneously daily. This change of dose was aligned with the intermediate anticoagulation policy of our institution. The trend of his creatinine, immunosuppression alterations, and anticoagulation are depicted in Supplementary Figure S1.
+
+On the 10th of July his prednisone was decreased to 20 mg daily. His temperature spiked 2 days later (12th of July), and urine cultures and blood cultures were performed. The chest X-ray demonstrated bilateral diffuse infiltrates compatible with COVID-19 pneumonia. His creatinine had risen to 853 μmol/l (9.65 mg/dl), urea was 38.8 mmol/l, and K+ was 5.1 mmol/l. The white cell count increased to 25.21 × 109/l, and C-reactive protein increased to 216 mg/l. He was initiated on a carbapenem (ertapenem) (1 g i.v. daily) for presumed nosocomial sepsis. However, all cultures ultimately remained sterile.
+
+A noncontrast computed tomography scan of the abdomen and chest was performed on the 13th of July due to pain over the graft kidney to rule out obstruction and review the findings within the chest. No abnormalities to the kidney were noted on this imaging (Supplementary Figures S2 and S3). He was referred to the nephrology team on the 13th of July, where his ertapenem was dose adjusted to 500 mg daily, and sodium polystyrene sulfonate (Kayexalate, Concordia Pharmaceuticals Oakville, Ontario, Canada) commenced for the hyperkalemia. Azathioprine was discontinued.
+
+By the 17th of July, his creatinine had risen to 1276 μmol/l (14.43 mg/dl). He was mildly dehydrated, with poor documentation of his fluid balance. He was initiated on hemodialysis due to refractory hyperkalemia of 6.2 mmol/l and worsening metabolic acidosis (pH 7.25; HCO3, 15.2 mmol/l). He still maintained a urine output of more than 1 l/d. He was also started on oral sodium bicarbonate and received 2 additional sessions of hemodialysis on the 18th and the 20th. His temperature settled on the 19th and he became polyuric on the 20th, with a urine output of 2650 ml in 24 hours. He completed a total of 9 days of ertapenem. His creatinine plateaued at approximately 650 μmol/l (7.35 mg/dl) by the 26th.
+
+The etiology of kidney injury was presumed to be multifactorial, including COVID-19 sepsis and dehydration, causing acute tubular necrosis. However, his renal function was not improving, making acute tubular necrosis less likely. Therefore, a biopsy of the graft kidney was performed on the 28th of July. This demonstrated an infarcted kidney.
+
+The patient’s cyclosporin level was never subtherapeutic and peaked at 366 ng/mL (normal reference range, 75–200 ng/mL) on the 28th. The ketoconazole was stopped, and therefore, the cyclosporin needed to be increased to 50 mg twice daily. This change was made for ease of dosing and to limit pharmacologic interactions of ketoconazole. His creatinine reached a new stable baseline on discharge of 650 μmol/l (7.35 mg/dl), with an estimated glomerular filtration rate of 7 ml/min per 1.73 m2. The patient was accepted back on the transplant program.
+
+Histology
+
+Histopathologic findings of both allograft biopsy cores showed almost complete infarction of the renal cortical parenchyma. No viable glomeruli were seen, with most of the tubules, interstitium, and blood vessels also showing nonviability. The glomeruli showed coagulative necrosis with marked congestion of glomerular capillaries and isolated segmental fibrin microthrombus formation within glomerular capillary loops (Figure 2).Figure 2 The graft kidney showed a fibrin thrombus within the lumen of an artery, regions of microscopic infarction, with tubules exhibiting coagulative-type necrosis, and prominent neutrophil infiltration with neutrophilic debris. Moderate acute tubular injury is also seen adjacently (hematoxylin and eosin, original magnification ×100.)
+
+The tubular, interstitial, and vascular components showed complete coagulative infarction with aggregates of acute inflammatory cells, consistent with a vital reaction, at the periphery of the cores. The parenchymal arteries and arterioles showed fibrinoid necrosis and occasional intraluminal fibrin thrombi. The small regions of viable tubules showed features consistent with moderate tubular injury. C4d staining was negative; however, C4d diagnostic value is suboptimal in areas of infarction. Subsequent human leukocyte antigen antibody screening showed class 1 panel reactive antibodies of 4% and class 2 of 1%. No donor-specific antibodies were found.
+
+Discussion
+
+Kidney and other transplant recipients are considered a high-risk population for severe SARS-CoV-2 infection due to coexisting comorbid diseases and permanent immunosuppression.2 Kidney transplant patients admitted with COVID-19 have shown a higher early mortality compared with the general population with more rapid clinical progression.2 The international consensus has been to modify immunosuppression in patients requiring hospital admission. The suggestion has been to stop the antimetabolite, such as azathioprine, mycophenolate mofetil, or mycophenolic sodium, and to increase the dose of corticosteroids.3 The trough level of calcineurin inhibitors, such as tacrolimus, has mostly been reduced in patients with severe disease, and on occasion, the calcineurin inhibitor has been withheld.3 The balance between risk of rejection vs. the risk of death has to be considered and cases individualized. Prognostic indicators include an increased D-dimer, lymphopenia, and a raised ferritin, which all suggest severe disease and are associated with an increased risk of microvascular thrombosis.5
+
+The causes of AKI in patients with COVID-19 are multifactorial. Potential mechanisms include indirect renal damage by virus-induced cytokine release, direct cytotoxic effects on renal tubules and endothelium, angiotensin II pathway activation, fluid balance disturbances (prerenal AKI), cardiorenal syndrome, and drug nephrotoxicity, as well as endotheliitis and thrombotic events.6 In healthy individuals, the endothelium prevents thrombus formation.
+
+Newer studies describe endothelial activation by SARS-CoV-2 providing an explanation for vascular complications and thromboembolism.6,7 In a recent study, 69% of screened patients developed a venous thromboembolism.8 There is growing evidence demonstrating that COVID-19–related renal infarction due to vascular complications from SARS-CoV-2 may contribute to AKI in any patient with severe disease.9 Post et al.9 describe 2 case reports of nontransplant patients who developed renal infarction. Our patient may have had increased susceptibility to thrombi formation. He had calcineurin inhibitors toxicity which may have affected the endothelium, and although a long time prior, there was a previous episode of antibody-mediated rejection and cytomegalovirus infection.
+
+However, there is paucity of published data describing infarction in kidney transplant recipients. Only a few reported cases have described significant coagulopathy in the graft kidney.4,S1 This patient was initially on enoxaparin, 80 mg twice daily, and then reduced to 40 mg daily during hospital admission. He was not discharged on any anticoagulation and presented with an infarction 26 days after the COVID-19 diagnosis.4
+
+International guidelines for anticoagulation in COVID-19 differ in their approach to prophylactic and therapeutic anticoagulation. In a recent comparative study, none of the major societies advocate the use of therapeutic heparin for the prevention of thrombotic complications.S2 However, there have been recommendations for intermediate dosing, including enoxaparin 1 mg/kg/d, enoxaparin 40 mg twice daily, or unfractionated heparin targeting a prothrombin time of 50 to 70 seconds; yet, no consensus has been reached.S2
+
+In a recent audit of 45 kidney transplant recipients testing positive for SARS-Co-V2 between 1 April 2020 and 6 August 2020 in a public sector institution in South Africa, the mean age of the cohort (45.9 years) was lower but had similar comorbidities compared with international cohorts (mean age range, 54–61 years).S3 Despite the younger age there was still a high mortality of 22% (10 of 45). Three patients were declined intensive care unit admission due to poor prognosis.
+
+Mr. C.A. was the only transplant patient who experienced graft loss during the COVID-19 pandemic, to date. At our facility, practice has changed to include intermediate-dose enoxaparin for patients with hypoxic pneumonia.S4 The rationale is to overcome heparin resistance that occurs in COVID-19 due to increased levels of factor VII, von Willebrand factor, and fibrinogen. A dosage of 1 mg/kg/d for body weight <80 kg and 0.5 mg/kg every 12 hours for a weight >80 kg has been recommended. In kidney impairment, the dose needs to be reduced by 50% for the former and to a once-daily dose for the latter.S4 In a resource-limited setting where access or return to long-term kidney replacement therapy is not guaranteed, this was an important lesson. Adequate doses of anticoagulation throughout the patient’s stay might have prevented this outcome. Although considerable uncertainty remains regarding the optimal anticoagulation strategy in transplant recipients, anticoagulation clearly is an important facet of management and should always be considered after a careful assessment of the risks and benefits. Please see Table 2 for relevant learning points of the case.Table 2 Learning points
+
+Learning points	
+1	To consider renal infarction from thrombosis as a cause of acute kidney injury in severe COVID-19 infection.	
+2	Kidney transplant recipients are at high risk for morbidity and mortality when infected with SARS-Co-V2.	
+3	Consensus has not been reached for optimal dosing of anticoagulation in kidney transplant recipients in the setting of severe COVID-19.	
+4	Individualization of risk vs. benefit is essential in managing high-risk patients and anticoagulation	
+5	When kidney function does not improve with standard therapy, then a kidney biopsy specimen may be useful to provide diagnostic clarity	
+
+Disclosures
+
+Nothing to disclose.
+
+Patient Consent
+
+The authors declare that they have obtained consent from the patient discussed in the report.
+
+Supplementary Material
+
+Supplementary File (PDF)
+
+Figure S1. Graph of creatinine trend.
+
+Figure S2. Noncontrast computed tomography of the chest.
+
+Figure S3. Noncontrast computed tomography of the abdomen.
+
+Supplementary References
+
+Supplementary File (PDF)
+
+Figure S1. Graph of creatinine trend.
+
+Figure S2. Noncontrast computed tomography of the chest.
+
+Figure S3. Noncontrast computed tomography of the abdomen.
+
+Supplementary References

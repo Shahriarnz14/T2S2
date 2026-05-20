@@ -1,0 +1,105 @@
+event,time
+15 years old ,0
+female ,0
+acute myelogenous leukemia ,-672
+induction treatment ,-672
+chemotherapy ,-672
+ciprofloxacin ,-672
+linezolid ,-672
+meropenem ,-672
+tobramycin ,-672
+liposomal amphotericin ,-672
+pancytopenia ,-336
+infection ,-336
+tachycardia ,-24
+hypotension ,-24
+lactic acidosis ,-24
+admitted to pediatric intensive care unit ,0
+severely impaired left ventricular ejection fraction ,0
+sinus tachycardia ,0
+incomplete right bundle branch block ,0
+elevated NT-proBNP ,0
+elevated high-sensitive troponin T ,0
+fluid therapy ,0
+noradrenaline ,0
+dobutamine ,0
+milrinone ,0
+deep sedation ,0
+mechanical ventilation ,0
+respiratory insufficiency ,0
+va-ECMO ,0
+cannulation of left femoral artery and vein ,0
+distal leg perfusion ,0
+va-ECMO blood flow ,0
+extracorporeal blood flow ,0
+mean arterial pressure ,0
+noradrenaline ,0
+vasopressin ,0
+levosimendan ,0
+hydrocortisone ,0
+continuous venovenous hemodiafiltration ,0
+anti-infective therapy ,0
+meropenem ,0
+ciprofloxacin ,0
+metronidazole ,0
+cotrimoxazole ,0
+liposomal amphotericin B ,0
+acyclovir ,0
+linezolid ,0
+vancomycin ,0
+procalcitonin ,0
+C-reactive protein ,0
+leukocytes ,0
+high-sensitive troponin T ,0
+creatine kinase MB ,0
+viral myocarditis ,0
+myocardial biopsy ,0
+second arterial cannula ,24
+Dacron conduit ,24
+right femoral artery ,24
+ECMO circuit ,24
+Y-connector ,24
+augment ECBF ,24
+inspiratory oxygen fraction ,24
+harlequin syndrome ,24
+arterial oxygen partial pressure ,24
+broad-complex tachycardia ,48
+esmolol ,48
+metoprolol ,48
+left ventricular function ,48
+aortic valve ,48
+pulmonary edema ,48
+intracardiac clot formation ,48
+second venous cannula ,48
+left atrium ,48
+percutaneous atrioseptostomy ,48
+catheter lab ,48
+ECBF ,48
+lactate levels ,48
+mean arterial pressure ,48
+cerebral oximetry ,48
+near infrared spectroscopy ,48
+regional oxygen saturation ,48
+unfractionated heparin ,48
+partial thrombin time ,48
+PCT ,72
+CRP ,72
+leukocytes ,72
+high-sensitive troponin T ,72
+creatine kinase MB ,72
+cardiac systolic function ,120
+ECMO cannulas ,120
+left femoral vessels ,120
+ECMO ,168
+operating theater ,168
+LVEF ,168
+mean arterial pressures ,168
+CVVHDF ,168
+renal function ,168
+leucocyte count ,312
+respirator weaning ,408
+allogenic stem cell transplantation ,1008
+rehabilitation facility ,1344
+critical illness ,1344
+polyneuropathy ,1344
+LVEF ,1344

@@ -1,0 +1,82 @@
+event,time
+18 years old,0
+male,0
+college student,0
+brought to the emergency,0
+progressively increasing fever,-240
+abdominal discomfort,-240
+anorexia,-240
+persistent vomiting,-240
+decreased urine output,-24
+physical examination: generalized abdominal mild tenderness,0
+febrile (102°F),0
+dehydrated,0
+tachycardia (132/min),0
+toxic look,0
+blood pressure 90/60 mmHg,0
+thrombocytopenia (7000/L),-24
+leukopenia (2.9 × 109/L),-24
+"elevated transaminases (AST- 2312 U/L, ALT- 512 U/L)",-24
+hemoglobin 12 g/dL,-24
+bilirubin within normal limits,-24
+admitted to ICU,0
+initial diagnosis: enteric fever,0
+initial diagnosis: malaria,0
+initial diagnosis: leptospirosis,0
+normal hemoglobin 13.2 g/dL,24
+leukopenia (3.5 × 109/L),24
+"thrombocytopenia (40,000/L)",24
+"deranged liver function tests (ALT- 468 U/L, AST- 2464 U/L, LDH- 3873 U/L, INR 1.4)",24
+"deranged kidney function tests (urea 208 mg/dL, creatinine 12.2 mg/dL, eGFR 5, uric acid 16.5 mg/dL)",24
+started on hemodialysis,24
+malaria test negative,24
+IgM anti-HAV negative,24
+IgM anti-HEV negative,24
+HBsAg negative,24
+dengue serology negative,24
+urinalysis: 3+ proteinuria,24
+urinalysis: 2+ hematuria,24
+urinalysis: 10 WBC,24
+urinalysis: no casts,24
+chest X-ray normal,24
+2D-echocardiography normal,24
+ultrasound abdomen: hepatosplenomegaly,24
+ultrasound abdomen: splenic infarcts,24
+ultrasound abdomen: bulky distal body and tail of pancreas,24
+ultrasound abdomen: mild ascites,24
+amylase raised (278 U/L),24
+lipase raised (432 U/L),24
+multiorgan involvement,24
+autoimmune workup negative,24
+rickettsia ruled out,24
+PSGN ruled out,24
+Weil–Felix negative,24
+ASO titer negative,24
+COVID RT-PCR negative,24
+leptospiral serology negative,24
+urine culture negative,24
+myalgia,24
+leg pains,24
+"elevated CPK (58,011 U/L)",24
+blood culture grew S. enterica serovar typhi,96
+enteric fever,96
+acute hepatitis,96
+acute pancreatitis,96
+splenic infarcts,96
+acute renal failure secondary to rhabdomyolysis,96
+lower gastrointestinal bleeding,120
+hemoglobin 5.5 g/dL,120
+started on intravenous antibiotics,120
+blood transfusions,120
+hemodialysis,120
+afebrile,168
+no gastrointestinal bleed,168
+hemoglobin stabilized to 9 g/dL,168
+good urine output,168
+creatinine 2.4 mg/dL,168
+discharged,168
+serial CPK levels declined,168
+follow-up 5 days post-discharge,264
+kidney function normal,264
+transaminases normal,264
+CPK levels normal,264

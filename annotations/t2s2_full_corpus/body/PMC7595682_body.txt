@@ -1,0 +1,87 @@
+Introduction
+Ehlers-Danlos syndrome (EDS) is a rare autosomal dominant connective tissue disease with 13 subtypes[1]. The vascular EDS (vEDS), with its abnormality of type III collagen, is considered its most severe subtype because the median life expectancy is estimated at 48 years[2]. About 25% of these patients experience severe complications (such as spontaneous arterial or intestinal rupture) before they reach their 20th birthday, and 80% have experienced them before they are 40 years old. Patients with vEDS do not exhibit the hyperelastic skin and joint laxity that are discriminative symptoms of other types of EDS[2,3]. Instead, they have extremely fragile connective tissue, which puts them at high risk during surgery. Most EDS patients facing their first emergency surgery have already been diagnosed with EDS because of the hereditary characteristics of the disease. We report a case of colonic perforation in a patient with vEDS with no familial history of the disease and address the appropriate surgical management.
+
+Case Report
+A 28-year-old man was transported to our hospital by ambulance because of rapid onset of abdominal pain in the left lower quadrant. He had a 2-day history of persistent diarrhea. His history included having undergone dissection of the basilar artery at 22 years of age, dissection of the right common iliac artery and a retroperitoneal hematoma at 23 years, and dissection and embolism of the renal artery at 25 years. He had been definitively diagnosed as having vEDS by genetic testing which found missense variants in COL3A1 (c. 2815A; p. G939S).
+
+Physical examination revealed signs of panperitonitis―that is, rebound tenderness and muscular defensiveness over the entire abdomen. Vital signs were as follows: blood pressure, 152/92 mmHg; pulse rate, 110 bpm; peripheral arterial oxygen saturation (SpO2) in room air, 92%; body temperature, 37.8°C. The blood test results at the first visit are shown in Table 1. Computed tomography (CT) revealed non-localized intraabdominal free air and slight enlargement of a right common iliac arterial aneurysm with no signs of imminent rupture (Figure 1). He was deemed to require emergency surgery because of the diagnosis of panperitonitis with intestinal perforation.
+
+Table 1. Blood Test on the First Visit.
+
+Hematology	Biochemistory				
+WBC	3100	/μL	TP	6.1	g/dL	CK	903	U/L	
+RBC	448×104	/μL	Alb	4.0	g/dL	CRP	0.44	mg/dL	
+Hb	13.3	g/μL	BUN	11.2	mg/dL	Glucose	111	mg/dL	
+Ht	38.3	%	Cre	0.62	mg/dL	HbA1c	6.4	%	
+Plt	19.1×104	/μL	Na	139	mmol/L				
+Coagulation	K	4.2	mmol/L				
+PT-INR	1.01		Cl	102	mmol/L				
+APTT	30.9	sec	T-Bil	0.89	mg/dL				
+D-dimer	1.2	ug/mL	AST	39	U/L				
+			ALT	56	U/L				
+			LDH	224	U/L				
+WBC: white blood cell, RBC: red blood cell, Hb: hemoglobin, Ht: hematocrit, Plt: platelet, PT: prothrombin time, INR: international normalized ratio, APTT: activated partial thromboplastin time, TP: total protein, Alb: albumin, BUN: blood urea nitrogen, Cre: creatinine, T-Bil: total bilirubin, AST: aspartate aminotransferase, ALT: alanine aminotransferase, LDH: lactate dehydrogenase, CK: creatine kinase, CRP: C-reactive protein
+
+Figure 1. Computed tomography images obtained at the time of the patient’s emergency room visit. (a, b) Non-localized free air in the abdomen (arrowheads). (c) There is a slight enlargement of the right common iliac arterial aneurysm with no signs of rupture (arrowhead).
+
+During laparotomy, we found a 1-cm perforation of the sigmoid colon (Figure 2). Additionally, the intestinal tract wall, mesentery, and mesenteric vessels were extremely fragile and easily ruptured. We resected the sigmoid colon and created an end-colostomy using the descending colon. Pathological findings of the resected specimen showed a thinning and a tear of the muscular layer and infiltration of inflammatory cells in the serosal layer representing perforation and peritonitis. The thinning of muscular layer was supposed to be the characteristics of this disease. After the operation, the patient was transferred to the intensive care unit with ventilator management because he remained in a persistent state of septic shock. Analgesic agents, including fentanyl and acetaminophen, were actively administered to prevent blood pressure elevation, which can trigger vascular rupture. He was discharged without major postoperative complications on POD 29. Until now, he has not had any events after 18 months and is followed with CT imaging every 3 months for right common iliac arterial aneurysm.
+
+Figure 2. (a) Intraoperative view of a 1-cm perforation of the sigmoid colon (arrowhead). (b) Postoperative specimen. The probe is resting on the perforation site.
+
+Discussion
+EDS is a connective tissue disease with various patterns of inheritance. A relatively new (2017) classification recognized 13 subtypes[1]. An especially rare subtype, vEDS, has an estimated prevalence of 1:50,000 to 1:250,000. This disease results from germline variants in COL3A1 that encodes type III procollagen and exhibits an autosomal dominant inheritance pattern. EDS, however, can occur de novo[2]. The median life expectancy for EDS patients is estimated at 48 years. About 25% of these patients have severe complications (such as spontaneous arterial or intestinal rupture) before reaching their 20th birthday, and 80% have them before reaching age 40.
+
+Arterial rupture is the chief determinant of death among EDS patients, whereas gastrointestinal rupture accounts for only 8% of the deaths[2]. Colonic perforation occurs most frequently in the sigmoid colon.
+
+There remains a lack of consensus regarding the surgical management in vEDS patients with gastrointestinal perforation because only a limited number of such patients have been reported[3,4], despite the 32 gastrointestinal perforations in 20 vEDS cases (including the present one), which is searched by Google Scholar using the terms of “Ehlers-Danlos syndrome” and “intestinal perforation” until March 2020, that have occurred in Japanese patients (Table 2).
+
+Table 2. Gastrointestinal Perforation of Vascular Ehlers-Danlos Syndrome in Japan (20 Cases with Total 32 Events).
+
+Age (yr)	27.5 ± 12.0*	
+Sex (male/female)	10/10	
+Perforation sites	SB 5, A 1, T 4, D 6, S 14, RS 2	
+Stoma creation (yes/no)	18 (56.2%)/14	
+Anastomotic leakage (yes/no)	3 (21.4 %)/11	
+Re-perforation (yes/no)	6 (30.0 %)/14	
+Perioperative death (yes/no)	3 (15.0 %)/17	
+Preoperative vEDS† diagnosis (yes/no)	5 (25.0 %)/15	
+*average ± SD, †vascular Ehlers Danlos syndrome
+
+SB: small bowel, A: ascending colon, T: transvers colon, D: descending colon, S: sigmoid colon, RS: rectosigmoid
+
+The first reported case of vEDS was in a patient undergoing emergency surgery. The patient had no family history and none of the distinguishing features of other types of EDS (such as thin, translucent skin with highly visible vessels, facial dysmorphia, a history of pneumothorax or dislocation)[5]. Our patient was definitively diagnosed as having vEDS 3 years prior to the present admission because of numerous arterial ruptures, although he had no family history of EDS.
+
+We have thus reported a vEDS patient without a family history of the disease who presented with hemothorax with no history of a traumatic injury[6]. Only 5 of 20 Japanese patients were diagnosed with their vEDS before undergoing the surgery that ultimately unmasked it in others. A definitive diagnosis of vEDS requires genetic testing for the COL3A1 gene or detection of a deficit in collagen III secretion from skin fibroblasts[1,2]. These tests, however, are not covered by insurance in Japan. Therefore, we should be aware of the possibility of vEDS when we treat young patients with a history of arterial aneurysm, arterial rupture, or intestinal rupture.
+
+A primary intestinal anastomosis is at a major risk of leakage. Some reports have recommended the creation of a stoma without intestinal anastomosis because the risk of anastomotic leakage is very high[7,8]. In patients with vEDS, the most frequently perforated anatomical site is the colon, probably because the colonic wall contains a large amount of collagen[9]. Therefore, we performed partial colonic resection and colostomy.
+
+Previous Japanese reports have documented anastomosis or suture repair in 14 of 32 gastrointestinal perforations. Three of them (21.4%) experienced anastomotic leakage, and the re-perforation rate was 30% (6/20). Moreover, 3 of 20 patients died during the perioperative period. Hartmann's operation may be the most adequate procedure, although subtotal colectomy may also be a reasonable treatment because of the low incidence of reported small bowel and rectal perforations[9,10].
+
+It is very important that vEDS patients with intestinal perforations are treated in a way minimizing surgical stress and then observed with fastidious care postoperatively. Surgical stresses can increase blood pressure and induce arterial complications. Additionally, surgical trauma increases collagenase activity, which results in fragility of the collagen[11]. It is important that the indications for stomal closure are reviewed with extreme caution because of the high risk of anastomotic leakage and anesthesia-related problems. Several authors have concluded that surgery should be avoided whenever possible in this group of patients[12,13].
+
+Although no detailed exploration of the risk factors for re-perforation has been reported, we do recognize constipation as a risk factor[3,14]. Evidence supporting this conclusion was provided by 2 patients, including ours, who experienced diarrhea for some days before perforation. Such excessive peristaltic action can cause re-perforation. Constipation is a common complication of vEDS, and many vEDS patients regularly use laxatives such as magnesium oxide. Thus, physicians should cautiously to prescribe laxatives to these patients.
+
+During the course of this case, we concluded the following. (1) Patients may be assigned a definitive diagnosis of vEDS without a family history. (2) A primary anastomosis in vEDS patients is at extremely high risk for leakage. (3) Both constipation (because of laxative use) and diarrhea can put the vEDS patient at risk of colonic re-perforation. Therefore, physicians should pay attention not only to arterial aneurysms in patients with vEDS but also to the patients' bowel movements.
+
+
+Conflicts of Interest
+
+There are no conflicts of interest.
+
+
+Author Contributions
+
+Surgical assistance: GT and KH; manuscript preparation: SK and AM; supervision: TY and HY. All the authors read and approved the final manuscript.
+
+
+Disclaimer
+
+Takeshi Yamada is one of the Associate Editors of Journal of the Anus, Rectum and Colon and on the journal's Editorial Board. He was not involved in the editorial evaluation or decision to accept this article for publication at all.
+
+
+Informed Consent
+
+Written informed consent was obtained from the patient.
+
+Acknowledgements
+We thank Nancy Schatken, BS, MT(ASCP), from Edanz Group (https://en-author-services.edanzgroup.com/), for editing a draft of this manuscript.

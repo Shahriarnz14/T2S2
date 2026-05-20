@@ -1,0 +1,164 @@
+event,time
+41 year old,0\
+morbidly obese,0\
+male,0\
+admitted to the emergency department,0\
+painful bilateral oedema of lower legs,0\
+generalized abdominal pain,0\
+liver cirrhosis,-?\
+excessive alcohol abuse,-?\
+hepatitis C infection,-?\
+portal hypertension,-?\
+oesophageal varices,-?\
+febrile (37.6 °C),0\
+bilateral pitting oedema,0\
+superficial pre-tibial abrasions over left leg,0\
+normal capillary refill time,0\
+distal pulses present in both lower limbs,0\
+unremarkable abdominal examination,0\
+unremarkable respiratory examination,0\
+unremarkable cardiovascular examination,0\
+unremarkable neurological examination,0\
+haemoglobin 11.2 g/dl,0\
+platelet count 44 × 10^9/l,0\
+albumin 19 g/l,0\
+elevated bilirubin 36 μmol/l,0\
+CRP 37 mg/l,0\
+INR 2.1,0\
+lactate 8.6 mmol/l,0\
+liver enzymes at upper limits of normal,0\
+Child's B cirrhosis,0\
+blood cultures performed,0\
+swab of left leg performed,0\
+intravenous flucloxacillin started,0\
+intravenous benzylpenicillin started,0\
+left leg swelling increased,24\
+erythematous skin,24\
+tender to touch,24\
+induration,24\
+blistering,24\
+CRP increased to 101.7 mg/l,24\
+intravenous ciprofloxacin started,24\
+intravenous cephazolin started,24\
+left leg duplex ultrasound performed,24\
+severe oedema below knee,24\
+large knee joint effusion,24\
+no deep vein thrombosis,24\
+CT scan of legs performed,24\
+bilateral knee joint effusions,24\
+non-specific synovitis,24\
+no necrotizing fasciitis,24\
+blood cultures grew Acinetobacter baumannii,48\
+multi drug resistance to amoxicillin,48\
+multi drug resistance to amoxicillin/clavulanate,48\
+multi drug resistance to ceftriaxone,48\
+multi drug resistance to ceftazidime,48\
+sensitive to co-trimoxazole,48\
+sensitive to gentamycin,48\
+sensitive to meropenem,48\
+sensitive to ciprofloxacin,48\
+sensitive to ticarcillin/clavulanate,48\
+antibiotic regime changed to meropenem,48\
+antibiotic regime changed to vancomycin,48\
+leg elevation,48\
+compression bandages,48\
+referred to reconstructive surgeons,48\
+referred to orthopaedic surgeons,48\
+MRI scan of lower legs performed,72\
+extensive subcutaneous oedema of left leg,72\
+mild to moderate subcutaneous oedema of right leg,72\
+moderate bilateral joint effusions,72\
+cellulitic changes,72\
+extensive myositis of left leg,72\
+possible fasciitis,72\
+suspicion of compartment syndrome,72\
+no immediate surgical intervention,72\
+left leg remained erythematous,72\
+bullous,72\
+blistering secondary to oedema,72\
+lincomycin added,72\
+fever of 38.4 °C,96\
+left leg surgically explored,96\
+general anaesthesia,96\
+leg tourniquet applied,96\
+longitudinal incision in mid lateral line,96\
+no necrotizing fasciitis,96\
+no compartment syndrome in lateral compartments,96\
+no compartment syndrome in anterior compartments,96\
+no abscess,96\
+no drainable collection,96\
+extensive subcutaneous oedema,96\
+circumferential debridement of fat necrosis,96\
+circumferential debridement of muscle,96\
+washout of left leg wound,96\
+vacuum assisted closure (VAC) dressing applied,96\
+antibiotics continued,96\
+subcutaneous fat sent for culture,96\
+fascia sent for culture,96\
+histopathological review,96\
+cultures confirmed Acinetobacter baumannii,96\
+ventilated post operatively,96\
+noradrenaline infusion started,96\
+hypotension despite fluid resuscitation,96\
+cultures from subcutaneous tissue confirmed A. baumannii,96\
+resistant to amoxicillin,96\
+resistant to augmentin,96\
+resistant to ceftriaxone,96\
+resistant to ceftazidime,96\
+sensitive to co-trimoxazole,96\
+sensitive to gentamicin,96\
+antibiotic regime changed to ciprofloxacin,96\
+antibiotic regime changed to meropenem,96\
+antibiotic regime changed to lincomycin,96\
+vancomycin ceased,96\
+MRSA cultures negative,96\
+VRE cultures negative,96\
+further surgical debridement performed,168\
+necrotic circumferential subcutaneous fat,168\
+circumferential debridement of subcutaneous tissue,168\
+extensive washout with hydrogen peroxide,168\
+new VAC dressing applied,168\
+histopathology revealed epidermal infarction,168\
+histopathology revealed dermal infarction,168\
+histopathology revealed focal fat necrosis,168\
+histopathology revealed acute inflammation,168\
+no histological evidence of fasciitis,168\
+antibiotic management tailored to meropenem,168\
+antibiotic management tailored to ciprofloxacin,168\
+two further surgical procedures performed,?\
+VAC dressing changes,?\
+13 days after admission,312\
+wound clean,312\
+areas of necrosis along wound edges,312\
+minor debridement performed,312\
+VAC dressing replaced,312\
+16 days after admission,384\
+VAC dressing replaced again,384\
+wound reviewed,384\
+significant improvement,384\
+small areas of necrotic tissue proximally,384\
+small areas of necrotic tissue distally,384\
+necrotic tissue attached to fascia,384\
+viable musculature,384\
+minor debridement performed,384\
+removal of small areas of necrotic tissue,384\
+removal of small areas of fascia,384\
+samples sent for culture,384\
+wound washed with hydrogen peroxide,384\
+clinically jaundiced,?\
+worsening hepatic function,?\
+worsening renal function,?\
+condition deteriorated,?\
+developed hepatic failure,?\
+developed circulatory failure,?\
+developed respiratory failure,?\
+developed haematological failure,?\
+blood glucose levels fluctuated between 4-8 mmol/l,?\
+significant inotrope dependence,?\
+single glucose reading of 10 mmol/l,?\
+insulin required,?\
+three weeks after presentation,504\
+required significant vasopressor support,504\
+significant tissue loss from lower limbs,504\
+decision to palliate,504\
+death,504\

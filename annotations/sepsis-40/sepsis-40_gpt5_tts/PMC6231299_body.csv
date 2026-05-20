@@ -1,0 +1,67 @@
+event,time
+21-year-old,0
+female,0
+Caucasian,0
+pregnant,0
+27 weeks of pregnancy,0
+admitted to the obstetric department for pre-term labor,0
+pre-term labor,0
+nifedipine 10 mg administered (1st of 4 doses in 1 h),0
+nifedipine 10 mg administered (2nd of 4 doses in 1 h),0.33
+nifedipine 10 mg administered (3rd of 4 doses in 1 h),0.67
+nifedipine 10 mg administered (4th of 4 doses in 1 h),1
+pulmonary edema,1.5
+hypoxemia,1.5
+transfer to the intensive care unit (ICU),2
+admission to ICU,2
+blood pressure 101/61 mm Hg (MAP = 72),2
+sinus tachycardia (142 bpm),2
+oxygen saturation 98% under 100% high flow oxygenation,2
+100% high flow oxygenation,2
+loud first heart sound,2
+diastolic murmur,2
+bilateral wheezing,2
+jugular venous distension,2
+fall in systolic blood pressure,3
+worsening desaturation (78%),3
+metabolic acidosis,3
+hyperlactatemia (34 mg/dL),3
+intubated,3
+ventilated (volume-controlled ventilation),3
+FiO2 100%,3
+PEEP at 15 cm of H2O,3
+chest X-ray confirmed pulmonary edema,3
+cardiogenic shock precipitated by administration of nifedipine,3
+cardiac echography revealed severe mitral stenosis,4
+unknown severe mitral stenosis,4
+normal left ventricular function,4
+left atrial enlargement,4
+left atrial pressure overload,4
+severe pulmonary hypertension (estimated PAP = 85 mm Hg),4
+loop diuretics (furosemide) administered,5
+full-dose heparin administered,5
+blood pressure stabilized,5
+ultrasound showed no fetal distress,5
+no fetal distress,5
+transoesophageal echocardiography: severe rheumatic mitral stenosis,6
+mitral valve area 0.5 cm2,6
+transmitral mean gradient 25 mmHg,6
+Wilkins score 8,6
+percutaneous valvuloplasty authorized,6
+spontaneous vaginal delivery,8
+baby alive,8
+baby transferred to intensive neonatal care unit,8
+hypotension despite the delivery,8
+needed ventilation despite the delivery,8
+endometritis,24
+sepsis,24
+ceftriaxone started,24
+ampicillin started,24
+valvuloplasty postponed,24
+infection resolved,192
+percutaneous double balloon mitral valvuloplasty,192
+mitral mean gradient 10 mmHg (pre-procedure),192
+mitral mean gradient 3 mmHg (post-procedure),192
+mitral valve area 1.65 cm2,192
+pulmonary pressure normalized,192
+extubated,216

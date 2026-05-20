@@ -1,0 +1,76 @@
+event,time
+78 years old,0
+male,0
+presented to the emergency department,0
+dyspnea exacerbating,-240
+shortness of breath,-240
+cough,-240
+anosmia,-240
+myalgia,-240
+hypertension,0
+Valsartan,0
+tachycardia,0
+heart rate 110 bpm,0
+normal core temperature,0
+body temperature 37.2 °C,0
+hypertension,0
+blood pressure 170/85 mmHg,0
+tachypnea,0
+respiratory rate 40,0
+oxygen saturation 72%,0
+Glasgow Coma Scale 12,0
+nasopharyngeal swab positive,0
+plasma lactate 65 mg/dL,0
+albumin 2.5 g/L,0
+C-Reactive Protein 163 mg/L,0
+high sensitivity troponin 103 ng/ml,0
+CK-MB 66 IU/L,0
+chest CT diffuse bilateral ground-glass opacities,0
+pleural effusion,0
+cardiomegaly,0
+ECG atrial fibrillation,0
+echocardiography LVEF 15%,0
+pulmonary arterial pressure 50 mmHg,0
+left ventricular enlargement,0
+moderate to severe LV dysfunction,0
+mild diastolic dysfunction,0
+mild mitral valve regurgitation,0
+normal septal thickness,0
+intubated,0
+transferred to ICU,-24
+USCOM low SVR,0
+low cardiac output,0
+low oxygen delivery,0
+cardiogenic shock,0
+septic shock,0
+Hydroxychloroquine,0
+Dexamethasone,0
+IVIG,0
+high troponin,0
+Ascorbic acid,0
+Melatonin,0
+broad-spectrum antibiotics,0
+vasopressor,0
+amiodarone,0
+Midodrine,0
+echocardiography LVEF 25%,600
+pulmonary arterial pressure 38 mmHg,600
+moderate LV dysfunction,600
+RV dilation,600
+echocardiography LVEF 35%,840
+pulmonary arterial pressure 55 mmHg,840
+mild RV dilation,840
+respiratory distress improved,840
+echocardiography LVEF 45%,1008
+pulmonary arterial pressure 45 mmHg,1008
+mild RV dilation,1008
+hemodynamic stability,1008
+weaned mechanical ventilation,1008
+discharged from ICU,1008
+normal vital signs,1008
+venous oxygen saturation normal,1008
+discharged to ward,1008
+respiratory arrest,1056
+CPR,1056
+expired,1056
+acute foreign-body aspiration,1056

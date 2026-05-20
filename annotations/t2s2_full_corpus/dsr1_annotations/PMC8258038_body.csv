@@ -1,0 +1,95 @@
+event,time
+36-year-old man,0
+transferred to intensive care unit (ICU),0
+intubated,-24
+ventilated,-24
+type 1 respiratory failure,-24
+COVID-19,0
+1-week history of persistent fever,-168
+dry cough,-168
+3 days of coryzal symptoms,-72
+lower/mid zone opacities,0
+multiple peripheral opacities,0
+moderate to severe disease status,0
+SARS-CoV-2 PCR positive,48
+raised C-Reactive Protein (CRP) (320 mg/L),0
+ferritin (2020 µg/L),0
+D-dimer (2262 ng/mL),0
+lymphocytopaenia (0.7×109/L),0
+neutrophilia,0
+normal Glycated Haemoglobin (HbA1c),0
+normal lipid profile,0
+serum vitamin D—25-hydroxyvitamin D (25(OH)D) insufficient (34 nmol/L),1008
+estimated weight (75 kg),0
+estimated height (1.75 m),0
+Body Mass Index (BMI) 24.5 kg/m²,0
+later corrected weight (80–85 kg),0
+BMI ~26.1 kg/m²,0
+nasogastric tube placement,0
+enteral tube feeding,0
+Penn State protocol (Mifflin-St.Jeor formula) 1631 kcal/day,0
+ESPEN recommendations 15–20 kcal/kg,0
+1125–1500 kcal/day,0
+protein requirements 90–112.5 g/day,0
+propofol use (>300 mg/hour),0
+sepsis,0
+no significant medical history,0
+no comorbidities,0
+previously well-nourished,0
+physically active,0
+no regular medications,0
+prolonged ICU admission (52 days),1200
+ventilatory support (50 days),1200
+poor lung compliance,0
+brittle ventilation,0
+oxygenation,0
+protracted ventilator wean,1200
+tracheostomy wean,1200
+pulmonary embolism (PE) confirmed,672
+non-occlusive right lower lobe PE,672
+extensive COVID-19 pneumonitis,0
+early fibrotic change,0
+multiple antibiotic therapies,0
+elevated procalcitonin,0
+"prone ventilation (12 periods, 196 hours)",0
+low volume feeding,0
+interruptions in feeding (weeks 2-4),336
+gastrointestinal tolerance issues,0
+fluid restrictions,0
+high energy/protein feeds (1.3 kcal/mL),0
+concentrated feed (2 kcal/mL),0
+propofol contribution (264 kcal/day),0
+midazolam use,168
+sedation reduced,168
+agitation,0
+fasting secondary to investigations,0
+proning,0
+patient removing tubes,0
+delays in feed provision,0
+chest radiographs for tube placement,0
+14-hour delay in feed reinitiation,0
+mild/moderate gastrointestinal symptoms,0
+loose bowels,0
+constipation,0
+abdominal distension,0
+laxatives/enemas,0
+minimal gastric aspirates,0
+severe weight loss (19 kg),1200
+24% body weight loss,1200
+subcutaneous fat reduction,1200
+muscle wasting,1200
+reduced appetite,1200
+poor oral intake,1200
+modified texture diet,1200
+enteral tube feeding continued (2 days post ICU),1272
+oral nutritional supplements,1272
+oral intake <30% of requirements,1272
+tube removed,1272
+hospital stay (10 days post ICU),1272
+physiotherapy,1272
+speech and language therapy,1272
+dietetic support,1272
+fortified diets,1272
+virtual clinic invitation,1272
+vitamin D insufficiency,1008
+discharge advice for vitamin D replacement,1272

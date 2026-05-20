@@ -1,0 +1,65 @@
+event,time
+3 years old,0
+male,0
+admitted to the hospital,0
+cough,-48
+cold,-48
+fever,-48
+poor oral intake,-48
+two episodes of febrile convulsions in the past 1 year,-8760
+sudden onset vomiting,-8760
+cyanosis,-8760
+moderate to high-grade fever,-8760
+deviation of eyes to one side,-8760
+loss of consciousness,-8760
+normal EEG,-8760
+normal cerebrospinal fluid studies,-8760
+normal neuroimaging,-8760
+diagnosis of atypical febrile convulsions,-8760
+normal birth history,0
+normal developmental history,0
+no family history of epilepsy,0
+febrile,0
+mild congestion in the throat,0
+started on symptomatic treatment,0
+high-grade fever,4
+vomiting,4
+bluish discoloration of the extremities,4
+tachypnea,4
+deviation of both eyes to the right side,4
+unresponsive,4
+passed a large quantity of loose stools,4
+second episode of vomiting,4
+drowsy,4
+temperature 39.9°C,4
+oxygen saturation 90%,4
+blood pressure 72/30 mmHg,4
+respiratory rate 39/min,4
+heart rate 220/min,4
+fluid resuscitation,4
+high flow oxygen,4
+loading dose of phenytoin (20 mg/kg),4
+electrocardiogram showed sinus tachycardia,4
+shifted to Intensive Care Unit,4
+regaining consciousness,6
+hemodynamically stable,6
+fully conscious,9
+normal neurological examination,9
+shifted to pediatric ward,24
+complete blood count normal,4
+serum electrolytes normal,4
+blood gases normal,4
+serum calcium normal,4
+serum magnesium normal,4
+glucose levels normal,4
+blood culture normal,4
+urine culture normal,4
+C-reactive protein 0.2 mg/L,4
+discharged after 3 days,72
+phenytoin continued for 3 days after discharge,72
+phenytoin stopped,120
+asymptomatic on follow-up after 2 months,1464
+normal neurological examination on follow-up,1464
+normal neuroimaging,1464
+normal EEG,1464
+diagnosed with Panayiotopoulos syndrome,0

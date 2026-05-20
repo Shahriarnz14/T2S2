@@ -1,0 +1,79 @@
+event,time
+44 years old,0
+female,0
+presented to the emergency department,0
+admitted to the hospital,0
+history of left groin redness,-72
+history of left inner thigh redness,-72
+history of left groin pain,-72
+history of left inner thigh pain,-72
+history of left groin swelling,-72
+history of left inner thigh swelling,-72
+history of fever,-72
+history of chills,-72
+history of vomiting,-72
+seen at urgent care,-24
+cellulitis,-24
+intravenous vancomycin,-24
+discharged on oral antibiotics,-24
+no crepitus,-24
+no discharge,-24
+no fever,-24
+afebrile (36.9ºC),0
+normotensive (126/63),0
+tachycardia (124),0
+mild tachypnea (22),0
+left groin induration 12 cm × 12 cm,0
+left inner thigh induration 12 cm × 12 cm,0
+BMI >45 kg/m2,0
+crepitus difficult to appreciate,0
+lactate 3.5 mmol/L,0
+WBC 18.2 × 10^3 per mm3,0
+hemoglobin 12.3 g/dL,0
+sodium 136 mmol/L,0
+glucose 225 mg/dL (12.5 mmol/L),0
+creatinine 1.8 mg/dL (159 μmol/L),0
+LRINEC score 6,0
+CRP not ordered,0
+bedside ultrasound performed,0
+subcutaneous thickening on ultrasound,0
+subcutaneous air on ultrasound,0
+fascial fluid on ultrasound,0
+started on intravenous vancomycin empirically,0
+started on piperacillin/tazobactam empirically,0
+surgery consulted,0
+presumed necrotizing fasciitis,0
+taken to the operating room,1
+CT not performed,1
+MRI not performed,1
+operative debridement of the left groin,1
+operative debridement of the perineum,1
+excision of 15 cm × 23 cm of tissue,1
+extensive washout,1
+admitted to the surgical intensive care unit,4
+septic shock,4
+vasopressors required,4
+ventilator dependence,4
+repeat washout,24
+minor debridement,24
+repeat washout,48
+minor debridement,48
+repeat washout,72
+minor debridement,72
+lactate normalization,72
+WBC 13.5 × 10^3 per mm3,72
+extubated,120
+transferred to a step-down unit,120
+plastic surgery consulted to evaluate for possible skin graft,120
+operative washout,144
+operative washout,168
+operative washout,192
+operative washout,216
+deemed poor graft candidate,216
+wound vacuum-assisted closure (V.A.C.) device placed,216
+transferred to the plastic surgery service,216
+decision to forgo skin graft during immediate hospital stay,216
+fully ambulatory,672
+discharged home with a wound V.A.C.,672
+skin graft received,840
+recovering well since,840

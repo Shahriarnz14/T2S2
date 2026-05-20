@@ -1,0 +1,77 @@
+Introduction
+
+Takotsubo cardiomyopathy (TCM) was first reported in Japan in the early 1990s.1 Initial reports had described it mostly as a consequence of emotional or physical stress.1,2 However, over the past 30 years, a variety of conditions have been reported to elicit TCM.2 Atypical situations, such as a lightning strike, hypoglycemic attack, and SARS-CoV-2 infection, have been reported to induce TCM.3, 4, 5 Occasionally, pacemaker implantation has also been described as a potential trigger of TCM.6
+
+Permanent His bundle pacing has emerged as an important physiological pacing modality since its first report by Deshmukh and colleagues in 2000.7,8 More recently, left bundle branch (LBB) pacing has been described as an effective alternative to permanent His bundle pacing.9 However, physicians must be aware of and prepared to deal with the early and late complications of this novel technique, which are still being described.10
+
+Here, we report the case of a 93-year-old man who presented with TCM and cardiogenic shock immediately after the replacement of the ventricular pacemaker lead with an LBB pacing lead.
+
+Case report
+
+A 93-year-old man was admitted to our hospital because of a syncopal episode during breakfast. There was no prodrome, and the episode lasted for a minute. The patient had coronary heart disease and had undergone percutaneous coronary intervention with stent implantation in the left anterior descending artery 2 months before the episode. He was also receiving dual antiplatelet therapy with aspirin and clopidogrel and had undergone atrioventricular pacemaker implantation 14 years ago for a 2:1 atrioventricular block, which had been replaced 4 years ago (Endurity DR; Abbott, Plymouth, MN).
+
+On admission, his blood pressure was 112/68 mm Hg, heart rate was 60 beats/min, and physical examination revealed no other noteworthy findings. Electrocardiogram (ECG) showed normal pacemaker function, indicated by atrial and ventricular stimulation in DDD mode, maintaining a heart rate of 60 beats/min (Figure 1A). Chest radiography revealed no abnormalities. Furthermore, blood tests revealed normal cardiac marker levels. Echocardiography showed normal cardiac function, with an ejection fraction (EF) of 63%.Figure 1 Electrocardiography changes in the course of clinical care. A: The basal electrocardiogram (ECG) showing apical right ventricular stimulation. B: Postprocedure ECG showing selective left bundle branch (LBB) pacing and inverted T waves, especially in the precordial leads, compatible with acute onset of Takotsubo cardiomyopathy. C: The ECG recorded 3 weeks after the procedure showing selective LBB pacing and regression of inverted T waves.
+
+However, 255 episodes of ventricular noise reversion were observed during pacemaker telemetry, and the most prolonged one matched the syncopal episode time. Telemetry detected no other relevant arrhythmias. Impedance, sensing, and ventricular capture were unaltered. Subsequently, Holter monitoring confirmed pacemaker inhibition owing to ventricular oversensing, causing asystole periods of 2 to 3.5 seconds.
+
+Consequently, even under less-than-ideal circumstances owing to previous coronary stenting only 2 months earlier, ventricular lead change was indicated. Surgery was performed to extract the former right ventricular (RV) lead and replace it with a new LBB pacing lead in the deep interventricular septal position. There were no complications during the procedure, except for arterial hypertension noticed during the placement of the new LBB lead.
+
+After withdrawal of anesthesia, the patient presented with a severe fall in blood pressure, pallor, signs of hypoperfusion, and shock. ECG showed atrial sensing and ventricular-paced rhythm with selective LBB capture, along with expressive inverted T waves, especially in the precordial leads (Figure 1B). Subsequently, echocardiography showed reduced left ventricular (LV) function with an EF of 15%, apical dyskinesis (ballooning), hyperkinesia of basal segments, and LV outflow tract (LVOT) obstruction with an intraventricular pressure gradient (IVPG) of 83 mm Hg (Figure 2). Moderate-to-severe mitral regurgitation was also observed.Figure 2 Echocardiogram recorded after left bundle branch pacing. Echocardiography performed to assess stroke volume through Simpson’s method after left bundle branch pacing showing apical ballooning.
+
+Cardiac catheterization was rapidly performed and revealed no obstruction in the coronary arteries. Left ventriculography revealed apical ballooning and basal hyperkinesia, along with significant LVOT obstruction, confirming TCM (Figure 3).Figure 3 Coronary angiography and ventriculography performed after left bundle branch pacing. A, B: Left and right coronary angiography, respectively, showing the absence of acute obstructions. C, D: Systole and diastole during left ventriculography showing apical ballooning and basal hyperkinesia.
+
+An intra-aortic balloon pump (IABP) was used for cardiogenic shock management.
+
+The patient was transferred to the intensive care unit (ICU) and treated for cardiogenic shock. First, inotropes, such as dobutamine, were avoided owing to LVOT obstruction and a high IVPG, since inotropes may worsen the gradient by deteriorating basal hyperkinesia. After a gradual reduction in LVOT obstruction within a couple of days, inotropes were started.
+
+After 5 days, the patient showed improved hemodynamics, and the IABP was removed. He also exhibited complete resolution in LVOT obstruction and apical ballooning, and LV function recovered, resulting in an EF of 50% within 3 weeks. After partial recovery of LV function, ECG showed regression of inverted T waves in the precordial leads, implying that the repolarization change observed immediately after the procedure probably arose owing to the acute onset of TCM (Figure 1C). The pacing parameters for the capture threshold (0.5 V at 0.4 ms for unipolar and bipolar measurements) and sensing (R wave of 18 mV) remained unchanged during the evolution, regardless of ventricular function.
+
+However, the patient required prolonged mechanical ventilation. Consequently, he developed septic shock due to ventilation-associated pneumonia and remained in the ICU for treatment. The patient died of septic shock after 5 weeks.
+
+Discussion
+
+In this case report, we describe the case of a 93-year-old man who presented with syncope and inappropriate ventricular noise reversion promoting periods of asystole. The replacement of the ventricular electrode lead with an LBB pacing lead elicited TCM and cardiogenic shock shortly after the procedure.
+
+As for the pacing mode choice, the patient was an active and functionally independent 93-year-old man who was still working. Moreover, LBB pacing is an alternative to maintain physiological ventricular activation in a patient with 100% ventricular pacing, further promoting the correction of LBB-induced RV pacing. Therefore, LBB pacing was preferred for managing the patient after discussion by the cardiology team. We also considered the immense experience of our interventional team with this technique, which has emerged as a state-of-the-art technique for ventricular stimulation in the past few years.9,10
+
+While the exact mechanism underlying TCM remains unknown, the general understanding is that the excess of circulating catecholamines, secondary to physical and emotional stress, induces the syndrome.2 Several psychological and physical stressors have been implicated as potential triggers, with emotional breakdown involved in most of the reported cases.2, 3, 4, 5
+
+Surgical procedures are considered potential stressful events triggering TCM.2 In the literature, although uncommon, there are reported cases suggesting TCM as a potential complication of pacemaker implantation.6,11, 12, 13 Hsu and colleagues,6 Gardini and colleagues,11 and Postema and colleagues12 reported cases of postmenopausal women who presented with TCM after undergoing pacemaker implantation owing to atrioventricular block, and cardiac function in these patients recovered to normal few weeks after the intervention.6,11,12
+
+Dashwood and colleagues13 reported a case of a 76-year-old woman who developed TCM on the day after pacemaker implantation for sinus node dysfunction (SND). Her cardiac function also recovered to normal within a few weeks after the procedure. However, unlike the previous cases, pacemaker implantation was an elective procedure, which was indicated for SND and not for atrioventricular block.13
+
+These cases emphasize typical features of TCM, such as prevalence in postmenopausal women, chest pain as a common symptom, ST-segment elevation (more frequently) or deep T-wave inversion on ECG, LV basal hyperkinesia, apical ballooning on echocardiogram and ventriculography, normal coronary angiography, and recovery of LV function within 3–4 weeks. However, our patient was a 93-year-old man who did not present with chest pain. He developed signs of acute heart failure and cardiogenic shock shortly after LBB pacing lead placement. He needed ICU support and IABP for the management of cardiogenic shock. Although cardiac function partially recovered after 3 weeks, the patient remained in the ICU and died after 5 weeks. Importantly, echocardiography revealed LVOT obstruction in the course of the treatment, and dealing with cardiogenic shock in such a situation in the ICU might be challenging because inotropes might worsen the obstruction by increasing IVPG and consequently deteriorate the hemodynamic parameters.13
+
+In most reported cases involving pacemaker implantation, the authors did not find any stressful event triggering TCM, other than the procedure itself. Although complete atrioventricular block could be implicated in triggering TCM, a routine outpatient procedure to implant a permanent pacemaker was indicated for SND in the case reported by Dashwood and colleagues.13
+
+The case presented here is emblematic in this setting because it reveals that this condition may be a result of pacemaker implantation also in male patients, presenting with a more severe form of acute heart failure, and may be associated with higher mortality rates in male patients than those observed in postmenopausal women.2
+
+However, Kurisu and colleagues14 described 2 cases of TCM occurring after pacemaker implantation in postmenopausal women, who presented with persistent LV dysfunction, even during their convalescence at 2 and 4 months of follow-up. Although their LV dysfunction persisted, deep T waves during pacing resolved during the convalescent period, as in the present case.14
+
+Importantly, all reported cases of TCM had RV apex lead implantation. To the best of our knowledge, this is the first reported case to describe the development of TCM after LBB pacing.
+
+Together with His bundle pacing, LBB pacing has played an important role in clinical practice in the past few years. It promotes physiological ventricular activation by markedly reducing dyssynchrony caused by regular apical RV pacing. Therefore, it has become an option for patients requiring frequent RV pacing as well as alternative resynchronization therapy for patients with LV dysfunction.8, 9, 10
+
+Awareness of the possible complications of this novel technique may be vital for the perioperative care of patients undergoing such procedures. After LBB pacing, some patients developed right bundle branch block, most of which resolved before hospital discharge.10 Pacing parameters usually remain stable during follow-up, unlike His bundle pacing.10 Similar to common early complications of RV pacing, other complications of this novel pacing technique are related to the surgical procedure itself.10,15 Our case shows that LBB pacing might elicit TCM, similar to RV pacing.
+
+Conclusion
+
+Both LBB pacing and His bundle pacing have become preferred pacing modalities in several clinical situations for producing physiological ventricular activation, with a growing number of clinical indications in the last few years.
+
+Nonetheless, the complications associated with this novel technique remain relatively unknown. Our case demonstrates that LBB pacing may elicit TCM. The awareness of this possible complication of LBB pacing may be crucial for perioperative care, since clinical and surgical teams must be prepared to provide prompt and adequate therapeutic management for such condition, with unique clinical and hemodynamic characteristics.Key Teaching Points
+
+• The incidence of Takotsubo cardiomyopathy (TCM) has increased over the last decades.
+
+• Conventional right ventricular pacing as well as left bundle branch pacing may trigger TCM.
+
+• Although TCM is rare in older men, it has a more severe course, leading to heart failure and cardiogenic shock and often requiring intensive care unit support.
+
+• Left ventricular outflow tract obstruction can result from basal hyperkinesia and apical ballooning, and inotropes should be avoided in this condition.
+
+• Surgical and clinical teams should be aware of this potential complication of pacemaker implantation, since prompt recognition and management may be crucial to successful treatment.
+
+Acknowledgments
+
+We would like to thank the entire Cardiology Department and the Intensive Care Unit staff of Hospital Samaritano Higienopolis for their prompt support for the management of this case.
+
+Funding Sources: This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. Disclosures: The authors have no conflicts to disclose.

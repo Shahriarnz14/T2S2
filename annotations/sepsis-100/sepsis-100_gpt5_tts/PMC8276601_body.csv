@@ -1,0 +1,106 @@
+event,time
+21 years old,0
+male,0
+cough,-72
+fevers,-72
+shortness of breath,-72
+pleuritic chest pain,-72
+light-headedness,-24
+near syncope,-24
+acutely worsened dyspnoea,-24
+denies contact with sick persons,0
+denies exertional chest pain,0
+denies weight loss,0
+denies night sweats,0
+denies abdominal pain,0
+denies changes in bladder habits,0
+denies changes in bowel habits,0
+denies recent travel,0
+denies recent surgery,0
+denies prolonged immobilization,0
+admitted to the hospital,0
+presented to the emergency department,0
+febrile (38.9°C),0
+tachycardic (121 beats per minute),0
+normotensive (104/66 mmHg),0
+hypoxic saturating 82% on room air,0
+non-rebreather mask at 15 L/min,0
+oxygen saturation improved to 100% with non-rebreather mask,0
+obesity,0
+body mass index (BMI) 37,0
+diagnosed with Coronavirus Disease-2019 (COVID-19),0
+ECG evidence of right heart strain,0
+S1Q3T3 pattern on ECG,0
+point of care ultrasound: right ventricular free wall hypokinesis with preserved apical contractility (McConnell’s sign),0
+initial D-dimer elevated (3.71 mcg/mL),0
+troponin-T elevated (0.04 ng/mL),0
+pro-BNP NT elevated (4573 pg/mL),0
+CTPA pulmonary emboli involving the bilateral pulmonary arteries,0
+enlargement of the pulmonary trunk,0
+flattening of the interventricular septum,0
+right ventricle to left ventricle ratio 1.4 to 1,0
+acute sub-massive pulmonary embolism,0
+admitted to the intensive care unit,0
+high-flow nasal cannula,0
+intravenous unfractionated heparin infusion initiated,0
+increasingly hypoxic,12
+persistently hypotensive with systolic blood pressure <90 mmHg,12
+diagnosed with massive pulmonary embolism,12
+catheter-directed thrombolysis of the bilateral pulmonary arteries,12
+tissue plasminogen activator infusion 1 mg/h per side,12
+intravenous heparin infusion continued,12
+improved clinically,18
+transferred to the general medicine floor,48
+minimal supplemental oxygen,48
+plans made for discharge,48
+normotensive (114/64 mmHg),72
+oxygen saturation 99% on 2 L/min oxygen via nasal cannula,72
+developed acute respiratory failure,72
+oxygen saturation 65%,72
+non-rebreather mask required,72
+hypotension (70/30 mmHg),72
+intubated,72
+cardiac arrest,72
+cardiopulmonary resuscitation,72
+electrical shock,72
+return of spontaneous circulation,72
+vasopressors initiated,72
+norepinephrine initiated,72
+epinephrine initiated,72
+vasopressin initiated,72
+phenylephrine initiated,72
+veno-arterial extracorporeal membrane oxygenation initiated,72
+repeat CTPA not obtained due to clinical instability,72
+pulmonary artery angiogram: interval worsening bilateral pulmonary emboli,72
+recurrent massive pulmonary embolism,72
+repeat catheter-directed thrombolysis of the bilateral pulmonary arteries,72
+tissue plasminogen activator infusion 2 mg/h per side,72
+intravenous unfractionated heparin infusion continued,72
+ventilation parameters improved,120
+vasopressors discontinued,120
+weaning of ECMO began,120
+repeat pulmonary angiography: significant improvement in right central pulmonary embolism,120
+residual obstruction of the left central pulmonary artery,120
+venous duplex ultrasound: non-occlusive thrombus of the right femoral vein,120
+venous duplex ultrasound: non-occlusive thrombus of the right popliteal vein,120
+inferior vena cava filter placed,120
+unfractionated heparin transitioned to low-molecular-weight heparin,120
+unfractionated heparin discontinued,120
+enoxaparin 1 mg/kg every 12 h initiated,120
+hypercoagulable workup unremarkable,120
+repeat pulmonary artery angiogram: improvement in emboli burden,216
+weaned from ECMO,216
+ECMO decannulated,216
+septic shock,240
+broad-spectrum antibiotics initiated,240
+extubated,720
+right thigh haematoma,936
+compartment syndrome,936
+surgical debridement,936
+rivaroxaban 15 mg twice daily initiated,936
+discharged to an acute rehabilitation facility,1224
+rivaroxaban 20 mg once daily initiated,1440
+returned home,1608
+able to perform activities of daily living independently,1608
+remained anticoagulated on rivaroxaban 20 mg daily,4128
+no major adverse events,4128

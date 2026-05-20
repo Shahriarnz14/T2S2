@@ -1,0 +1,36 @@
+event,time
+sick sinus syndrome ,-8760
+paroxysmal atrial fibrillation ,-8760
+dual-chamber pacemaker implanted ,-8760
+severe lumbar back pain ,0
+mental status changes ,0
+hypotension ,0
+acute renal failure ,0
+hypoxemic respiratory failure ,0
+emergent intubation ,0
+severe sepsis ,0
+hemodynamic support with 2 vasoactive agents ,0
+blood cultures yielded methicillin-sensitive Staphylococcus aureus ,0
+vancomycin started ,0
+antibiotic coverage narrowed to nafcillin ,12
+transthoracic echocardiogram showed left ventricular ejection fraction of 55% ,12
+positive bubble study ,12
+patent foramen ovale ,12
+"computed tomography scan of the chest, abdomen, and pelvis revealed osteomyelitis ",24
+magnetic resonance imaging of the brain demonstrated multiple small acute infarctions ,24
+septic emboli to the distal extremities ,24
+"transesophageal echocardiogram showed a long, independently mobile structure within the right atrium ",48
+vegetation attached to the pacemaker lead ,48
+cardiothoracic surgery consulted ,48
+decision to perform a laser lead extraction procedure ,72
+laser lead extraction procedure performed ,96
+vegetation removal using Indigo Penumbra system ,96
+RA and RV leads extracted ,96
+patient tolerated the procedure well ,168
+condition improved for the first 48 hours after the procedure ,168
+condition took a turn for the worse ,216
+tissue necrosis of the distal upper and lower extremities ,216
+lactic acidosis ,216
+worsening renal failure ,216
+care withdrawn ,216
+patient died ,216

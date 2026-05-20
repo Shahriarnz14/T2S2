@@ -1,0 +1,85 @@
+event,time
+apixaban previously treated,-168
+apixaban discontinued,-168
+severe thrombocytopenia,-168
+history of recent urethral instrumentation for a urological procedure,-96
+scheduled to undergo port placement for chemotherapy,-4
+chemotherapy planned,-4
+routine preoperative evaluation,-4
+severe hyponatremia,-4
+sodium level of 116 mmol/L,-4
+presented to the emergency department for severe hyponatremia,0
+admitted to the hospital,0
+76-year-old,0
+man,0
+pancreatic adenocarcinoma with metastasis to the liver,0
+diastolic heart failure,0
+atrial fibrillation,0
+coronary artery disease,0
+x-ray findings consistent with pneumonia,0
+pneumonia,0
+started on broad-spectrum antibiotics,0
+small boluses of fluid for hyponatremia,0
+jugular vein distention,0
+lower extremity pitting edema,0
+afebrile,0
+leukocytosis,0
+transferred to the intensive care unit,4
+continued management of severe hyponatremia,4
+transthoracic echocardiogram performed,6
+normal left ventricular cavity size,6
+mildly reduced systolic function,6
+left ventricular ejection fraction of 45%-50%,6
+septal flattening (right ventricular pressure/volume overload),6
+left atrial enlargement,6
+left atrial dilation (left atrial volume index 59 mL/m2),6
+suspected mitral valve vegetation,6
+severe mitral regurgitation (MV E wave = 1.3 m/sec),6
+elevated right ventricular systolic pressure 53 mm Hg,6
+inferior vena cava-estimated right atrial pressure 15 mm Hg,6
+ill-defined thickening in the tricuspid valve leaflets,6
+mobile vegetation on the tricuspid valve,6
+blood cultures obtained,6
+infectious disease specialist consulted,8
+possible infective endocarditis,8
+continued on broad-spectrum antibiotics,8
+elevated right heart pressure attributed to type 2 pulmonary arterial hypertension,6
+elevated right heart pressure attributed to type 3 pulmonary arterial hypertension,6
+undiagnosed obstructive sleep apnea suspected,6
+transesophageal echocardiogram performed,24
+normal left ventricular size and function,24
+ejection fraction of 60%-65%,24
+normal right ventricular size and function,24
+hypermobile interatrial septum,24
+no patent foramen ovale,24
+no left atrial thrombus,24
+no left atrial appendage thrombus,24
+vegetation on the mitral valve anterior leaflet 1.3 × 1.1 cm,24
+vegetation on the mitral valve posterior leaflet 1.2 × 0.9 cm,24
+severe mitral regurgitation,24
+systolic flow reversal in the pulmonary vein,24
+large vegetation on the tricuspid valve leaflet 1.6 × 1.1 cm,24
+tricuspid regurgitation,24
+moderate tricuspid regurgitation,24
+right ventricular systolic pressure 47 mm Hg,24
+vegetation on tricuspid subvalvular apparatus,24
+mild pulmonic regurgitation,24
+bivalvular regurgitation,24
+effective regurgitant orifice area 0.68 cm2,24
+persistent confusion,72
+computed tomography imaging of the head completed,72
+blood cultures negative for growth on 4 repeat cultures,72
+polymerase chain reaction testing for Coxiella burnetii negative,72
+polymerase chain reaction testing for Legionella spp negative,72
+polymerase chain reaction testing for Brucella spp negative,72
+workup for antiphospholipid syndrome unremarkable,72
+suspected diagnosis marantic (nonbacterial) endocarditis,72
+infectious disease recommended the patient be discontinued from broad-spectrum antibiotics,72
+broad-spectrum antibiotics discontinued,72
+observation of clinical course,72
+recommended start low molecular weight heparin when safe,72
+recommended start unfractionated heparin when safe,72
+"platelets had recovered to above 50,000 109/L",120
+enoxaparin started,120
+discharged,168
+died,504

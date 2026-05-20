@@ -1,0 +1,64 @@
+event,time
+26 years old,0
+female,0
+admitted to the hospital,0
+jaundice,-3600
+intermittent epigastric pain,-3600
+weight loss,-3600
+pruritus,-3600
+tea-colored urine,-3600
+obstructive jaundice,-3600
+choledocholithiasis,-3600
+transabdominal ultrasound,-3600
+non-dilated common bile duct,-3600
+intrahepatic ductal dilatation,-3600
+bile duct sludges,-3600
+biliary stricture,-3600
+hepatobiliary tuberculosis,-3600
+ERCP,0
+sphincterotome-guidewire technique,0
+non-dilated common bile duct,0
+tapering at the common hepatic duct,0
+dilated intrahepatic ducts,0
+partial sphincterotomy,0
+Fr 8.5 17 cm plastic biliary stent inserted,0
+TB-PCR positive,0
+admitted for monitoring,0
+occasional abdominal pain,24
+fever,48
+tachycardia,48
+epigastric tenderness,48
+post-ERCP pancreatitis,48
+elevated amylase,48
+normal lipase,48
+generalized abdominal pain,72
+hypotension,72
+distended abdomen,72
+direct tenderness,72
+rebound tenderness,72
+acute abdomen,72
+iatrogenic bile duct injury,72
+intestinal perforation,72
+negative chest X-ray,72
+negative abdominal radiographs,72
+normal abdominal ultrasound,72
+elevated WBC count,72
+elevated prothrombin time,72
+elevated PT-INR,72
+elevated aPTT,72
+broad-spectrum antibiotics,72
+Vitamin K infusion,72
+FFP transfusion,72
+norepinephrine,72
+exploratory laparotomy,72
+bile drained,72
+generalized peritonitis,72
+duodenal perforation,72
+duodenorrhaphy,72
+primary repair,72
+peritoneal lavage,72
+tube jejunostomy,72
+intubated,96
+persistent hypotension,96
+supraventricular tachycardia,96
+death,96

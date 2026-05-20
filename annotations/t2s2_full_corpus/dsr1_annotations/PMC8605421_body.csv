@@ -1,0 +1,90 @@
+event,time
+64 years old,0
+man,0
+referred to the hospital,0
+cough,0
+right pleural effusion,0
+right hilar mass,0
+significant facial edema,0
+SVC syndrome,0
+transbronchial biopsy,-72
+SCLC,-72
+right hilar lymph node metastasis,0
+mediastinal lymph node metastasis,0
+right supraclavicular lymph node metastasis,0
+aortic lymph node metastasis,0
+superior mediastinal lymph node metastasis,0
+pleural effusion,0
+no brain metastases,0
+no abnormal abdominal findings,0
+extensive SCLC,0
+carboplatin,0
+etoposide,0
+right pneumothorax,96
+chest tube drainage,96
+ampicillin/sulbactam,144
+fever,144
+right thoracic empyema,144
+febrile neutropenia,192
+meropenem,192
+filgrastim,192
+pleural effusion culture positive for peptostreptococcus,192
+diarrhea,456
+fecal culture negative,456
+Clostridium difficile toxin negative,456
+Clostridium difficile antigen negative,456
+persistent diarrhea,504
+persistent fever,504
+white blood cell count surge,504
+bloody stools,576
+abdominal pain,576
+ascites,576
+intestinal retention,576
+ileocecal intussusception,576
+left hepatic lobe abscess,576
+ileus,576
+intestinal perforation,576
+emergency surgery,600
+extensive colon necrosis,600
+colectomy,600
+colostomy,600
+septic shock,600
+piperacillin/tazobactam,600
+vancomycin,600
+micafungin,600
+portal vein thrombosis,672
+anticoagulation therapy,672
+Entamoeba histolytica trophozoites,600
+inflammatory cell infiltration,600
+abscess formation,600
+intestinal wall discontinuity,600
+amoebic colitis,600
+gastrointestinal perforation,600
+liver abscess,600
+no history of amoebiasis,0
+no homosexual intercourse,0
+no commercial sex worker contact,0
+no multiple sexual partners,0
+travel to Philippines 7 years prior,-61320
+travel to West Coast USA 10 years prior,-87600
+travel to Hawaii 10 years prior,-87600
+travel to Shanghai 10 years prior,-87600
+metronidazole,792
+liver abscess size 36 mm x 30 mm,576
+bacterial culture of pleural effusion negative,1176
+chest tube removal,1176
+paromomycin,1032
+lower gastrointestinal endoscopy,1464
+mild white mucus,1464
+residual redness,1464
+amoebic trophozoite carcasses,1464
+liver abscess shrinkage,1464
+amoebic dysentery cured,1464
+palliative radiotherapy,1416
+SVC syndrome exacerbation,1416
+second chemotherapy cycle,2016
+carboplatin dose reduction,2016
+etoposide dose reduction,2016
+four chemotherapy cycles completed,2016
+partial response,2016
+no amoebic dysentery recurrence,2016

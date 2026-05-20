@@ -1,0 +1,78 @@
+event,time
+63 years old,0
+male,0
+admitted with altered sensorium,0
+known diabetic,0
+diabetic diagnosed,-175200
+below-knee amputation,-2928
+stupurous,0
+pallor,0
+afebrile,0
+hypoglycemic,0
+capillary blood glucose 12 mg/dL,0
+blood sugar stabilized 110-135 mg/dL,0
+febrile,72
+urine pus cells,72
+urine culture Klebsiella spp.,72
+Klebsiella spp. sensitive to colistin,72
+Klebsiella spp. sensitive to meropenem,72
+Klebsiella spp. sensitive to cefoperazone + sulbactam,72
+Klebsiella spp. sensitive to doxycycline,72
+Klebsiella spp. sensitive to tigecycline,72
+Klebsiella spp. resistant to nalidixic acid,72
+Klebsiella spp. resistant to nitrofurantoin,72
+Klebsiella spp. resistant to amikacin,72
+Klebsiella spp. resistant to cefotaxime,72
+Klebsiella spp. resistant to cefepime,72
+Klebsiella spp. resistant to cefoperazone,72
+Klebsiella spp. resistant to piperacillin + tazobactam,72
+ESBL producer,72
+"leukocyte count 24,100/mm3",72
+neutrophils 88%,72
+lymphocytes 8%,72
+eosinophils 3%,72
+basophils 1%,72
+hemoglobin 8.4 gm%,72
+"platelet count 424,000/mm3",72
+serum sodium 137 meq/L,72
+serum potassium 3.5 meq/L,72
+urea 33 mg/dL,72
+creatinine 0.87 unit/L,72
+blood sugar 119 mg/dL,72
+ultrasonography urinary bladder wall thickening,72
+intravenous meropenem,72
+afebrile,72
+blood cultures no growth,72
+improved blood counts,72
+serum electrolyte imbalance,72
+sodium 123 meq/L,72
+potassium 3.9 meq/L,72
+chloride 8.9 meq/L,72
+urine culture no growth,144
+afebrile period,144
+fever low grade,216
+urine pus cells 5-6/hpf,216
+urine red blood cells 6-7/hpf,216
+urine culture Stenotrophomonas maltophilia,216
+Stenotrophomonas maltophilia identified,216
+Stenotrophomonas maltophilia susceptible to polymyxin B,216
+Stenotrophomonas maltophilia susceptible to cefoperazone,216
+Stenotrophomonas maltophilia susceptible to gatifloxacin,216
+Stenotrophomonas maltophilia susceptible to piperacillin + tazobactam,216
+Stenotrophomonas maltophilia susceptible to levofloxacin,216
+Stenotrophomonas maltophilia susceptible to colistin,216
+Stenotrophomonas maltophilia resistant to doxycycline,216
+Stenotrophomonas maltophilia resistant to cotrimoxazole,216
+Stenotrophomonas maltophilia resistant to meropenem,216
+Stenotrophomonas maltophilia resistant to amoxicillin + clavulanic acid,216
+Stenotrophomonas maltophilia resistant to cefotaxime,216
+Stenotrophomonas maltophilia resistant to ceftazidime,216
+Stenotrophomonas maltophilia resistant to ticarcillin + clavulanic acid,216
+Stenotrophomonas maltophilia resistant to nalidixic acid,216
+Stenotrophomonas maltophilia resistant to amikacin,216
+repeated urine cultures same organism,216
+blood cultures sterile,216
+piperacillin + tazobactam,216
+pyuria cleared,216
+urine cultures no growth,216
+discharged,216

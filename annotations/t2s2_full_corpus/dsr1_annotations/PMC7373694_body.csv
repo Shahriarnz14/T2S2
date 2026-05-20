@@ -1,0 +1,104 @@
+event,time
+41-year-old,0
+female,0
+G5P4,0
+32 weeks pregnant,0
+admitted to the hospital,0
+dry cough,-72
+shortness of breath,-72
+headache,-72
+regular prenatal care,0
+no diabetes mellitus,0
+no hypertension,0
+no bronchial asthma,0
+no other comorbidities,0
+BMI 35.6,0
+heart rate 99 bpm,0
+respiratory rate 24 bpm,0
+oxygen saturations 93–96%,0
+chest x-ray showed diffuse bilateral alveolar infiltrates,0
+diagnosis of sepsis,0
+community acquired pneumonia,0
+started on ceftriaxone,0
+started on azithromycin,0
+COVID-19 PCR positive,0
+oxygenation worsened,15
+saturations dropped below 90%,15
+supplemental oxygen at 3 L/min,15
+ongoing desaturations,24
+high flow nasal cannula started,24
+HFNC set at 40 L flow with 100% FiO2,24
+ABG PaO2 111 mmHg,24
+PaO2:FiO2 ratio 111,24
+moderate ARDS,24
+transferred to ICU,24
+repeat ABG PaO2 89 mmHg,31
+PaO2:FiO2 ratio 89,31
+severe ARDS,31
+furosemide 40 mg IV,31
+no effect from furosemide,31
+intravenous dexamethasone started,31
+decision to intubate,31
+ultrasound revealed placenta previa,24
+possible placenta accreta,24
+no vaginal bleeding,31
+fetus no signs of distress,31
+urgent delivery not indicated,31
+endotracheal intubation performed,35
+sevoflurane,35
+rocuronium,35
+succinylcholine,35
+respiratory status unstable post-intubation,35
+ventilator settings PEEP 20 cmH2O,35
+ventilator settings FiO2 100%,35
+ABG PaO2 59 mmHg,35
+PaO2:FiO2 ratio 59,35
+transferred back to ICU,35
+sedation with fentanyl,35
+sedation with midazolam,35
+intermittent doses for pain,35
+ABG PaO2 150 mmHg,37
+PaO2:FiO2 ratio 150,37
+ventilator tidal volume ≤6 mL/kg,37
+plateau pressure 39 cmH2O,37
+PEEP decreased to 15 cmH2O,37
+vaginal bleeding,38
+emergency cesarean section,38
+sevoflurane,38
+rocuronium,38
+midazolam,38
+fentanyl,38
+oxytocin,38
+phenylephrine,38
+intravenous bicarbonate,38
+infant delivered,38
+infant limp,38
+no spontaneous breathing,38
+"Apgar score 0, 5, 7",38
+infant intubated,38
+infant heart rate 60,38
+brief compressions performed,38
+no intraoperative respiratory complications,38
+postoperative transfer to ICU,38
+ventilator settings PEEP 15 cmH2O,38
+ventilator settings FiO2 100%,38
+ABG PaO2 438 mmHg,41
+PaO2:FiO2 ratio 438,41
+plateau pressure 25 cmH2O,41
+convalescent plasma given,41
+oxygenation improved,65
+PEEP weaned to 10 cmH2O,65
+FiO2 weaned to 40%,65
+ABG PaO2 92 mmHg,65
+ventilator settings gradually weaned,89
+liberated from mechanical ventilation,168
+transferred out of ICU,168
+oxygen requirements improved,168
+transitioned to room air,192
+no further hypoxemia,192
+discharged from hospital,288
+infant COVID PCR negative at 24 hours,62
+infant COVID PCR negative at 48 hours,86
+infant extubated,86
+placental pathology no abnormalities,38
+placental tissue not tested for COVID RNA,38

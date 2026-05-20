@@ -1,0 +1,71 @@
+event,time
+31-year-old female,0
+Aboriginal,0
+admitted to hospital,0
+headaches,-168
+fevers,-168
+confusion,-168
+seizures,-168
+congenital bicuspid aortic valve,-175200
+severe aortic stenosis,-175200
+severe aortic regurgitation,-175200
+ascending aortic aneurysm (4.7 cm),-175200
+bioprosthetic aortic valve replacement (2016),-175200
+ascending aortic root replacement (2016),-175200
+dual-chamber pacemaker insertion (2016),-175200
+type 2 diabetes mellitus,-175200
+hypertension,-175200
+smoking,-175200
+suboptimal adherence to metformin,-175200
+suboptimal adherence to bisoprolol,-175200
+suboptimal adherence to aspirin,-175200
+hypotension (82 mmHg systolic),0
+fever (40.1°C),0
+Glasgow Coma Scale 14,0
+normocytic anemia (Hb 113 g/L),0
+elevated CRP (320 mg/L),0
+normal WCC (6.7 × 10^9/L),0
+neutrophilic pleocytosis,0
+"multi-organ septic emboli (brain, kidney, radial artery)",0
+septic shock,0
+IV flucloxacillin 2g Q4H,0
+hyperglycemia,0
+anemia (Hb 62 g/L),0
+red blood cell transfusion,0
+biventricular heart failure,0
+left bundle branch block,0
+vegetation on bioprosthetic aortic valve,0
+no aortic root abscess,0
+no para-valvular regurgitation,0
+no vegetations on pacemaker leads,0
+multiple cerebral infarcts,144
+meningeal enhancement,144
+left frontal lobe cerebral abscess (30x40x20 mm),312
+S. aureus cultured from brain abscess,312
+added rifampicin 450 mg Q12H,312
+DAMA (discharged against medical advice),312
+interruptions to IV flucloxacillin,312
+interruptions to oral rifampicin,312
+FDG-PET baseline activity (PVE),1008
+new mild paravalvular aortic incompetence,1080
+abnormal Doppler flow external to aortic root,1080
+two pseudo-aneurysms (left and right coronary sinuses),1080
+para-valvular abscess,1080
+peri-aortic abscess,1080
+transfer to interstate cardiac surgical center,1200
+redo bioprosthetic aortic valve replacement,1344
+aortic root replacement,1344
+pacemaker explantation,1344
+new dual-chamber pacemaker insertion,1488
+shortened antibiotic course (11 days early),1344
+high-dose oral dicloxacillin,2760
+FDG-PET showing no infection,2952
+two stable pseudo-aneurysms,2976
+antibiotics ceased,2976
+stable pseudo-aneurysms on CTCA,4656
+normal bioprosthetic valve function,10008
+failed follow-up appointments,10008
+overdue CTCA,10008
+no peripheral stigmata of IE,0
+no history of IV drug use,0
+no evidence of bleeding,0

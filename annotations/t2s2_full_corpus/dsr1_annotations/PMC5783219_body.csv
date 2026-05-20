@@ -1,0 +1,83 @@
+event,time
+39 years old,0
+female,0
+ingested ~500 caffeine tablets,0
+dissolved in water,0
+caffeine overdose,0
+suicidal intention,0
+generalized tonic-clonic seizure,1
+emergency medical service treated seizure,1
+three episodes of broad complex tachycardia,1
+cardiopulmonary resuscitation,1
+defibrillations,1
+epinephrine administered,1
+amiodarone administered,1
+intubated,1
+sinus rhythm,1
+blood pressure 62/33 mmHg,1
+heart rate 140/min,1
+activated charcoal administered,1
+gastric tube,1
+ventricular extrasystoles,1
+intravenous magnesium administered,1
+intravenous calcium administered,1
+hypotension,1
+9 L crystalloids administered,1
+repeated epinephrine boluses,1
+continuous epinephrine infusion,1
+lactic acidosis,1
+intravenous sodium bicarbonate administered,1
+haemodialysis initiated,5
+blood samples drawn before dialysis,5
+blood samples drawn at end of dialysis,9
+blood samples drawn 1 hour after dialysis,10
+recurrent cardiovascular instability,5
+epinephrine replaced by dobutamine,5
+hypotension-induced acute renal failure,24
+rhabdomyolysis-induced acute renal failure,24
+"creatine kinase max 69,885 U/L",24
+aspartate transaminase max 1908 U/L,24
+volume overload,24
+persistent haemodynamic instability,24
+CVVHDF initiated,48
+serum caffeine concentrations reported on Day 3,72
+daily haemodialysis recommenced,72
+pulmonary failure,336
+tricuspid endocarditis,336
+line sepsis,336
+renal function improved,336
+haemodialysis stopped,336
+survived,336
+no disequilibrium syndrome,0
+previous normal renal function,0
+risk of line sepsis,0
+risk of tricuspid endocarditis,0
+risk versus benefit of haemodialysis,0
+severe caffeine intoxication,0
+clinical course,0
+serum caffeine concentrations monitored,0
+pharmacokinetic modelling,0
+repeated haemodialysis sessions beneficial,0
+no chest pain,0
+denies shortness of breath,0
+hypokalaemia,0
+leucocytosis,0
+glycogenolysis,0
+lipolysis,0
+vasodilation,0
+tachycardia,0
+malignant hypertension risk,0
+alpha-receptor stimulation,0
+shock-induced tissue hypoxia,0
+ischaemia,0
+seizures,0
+tetany,0
+intracellular calcium release,0
+active charcoal effective,0
+ongoing caffeine absorption,0
+unbound caffeine fraction non-linear,0
+higher drug removal during first dialysis,0
+CVVHDF less effective,0
+toxin removal principle,0
+LD50 serum caffeine concentration >0.5 mmol/L,0
+clinical re-evaluation needed,0

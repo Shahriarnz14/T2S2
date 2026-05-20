@@ -1,0 +1,50 @@
+event,time
+65 years old,0
+man,0
+hypertension,0
+subarachnoid hemorrhage,-192
+external ventricular drain,-192
+coiling,-192
+admitted to the medical intensive care unit,-192
+septic shock,-168
+Clostridioides difficile infection (CDI),-168
+C. difficile toxin positive,-168
+leukocytosis (39.5 K/uL),-168
+creatinine 1.86 mg/dL,-168
+vancomycin liquid 125 mg every 6 hours NG tube,-168
+IV metronidazole 500 mg every 8 hours,-168
+worsening sepsis,-96
+no improvement in diarrhea,-96
+fidaxomicin 200 mg NG tube twice daily,-96
+worsening abdominal pain,-72
+abdominal distension,-72
+acute hypoxemic respiratory failure,-72
+mechanical ventilation,-72
+computed tomography abdomen/pelvis with contrast,-72
+diffuse severe bowel wall thickening (sigmoid colon and rectum),-72
+colonic distension (6 cm),-72
+toxic megacolon,-72
+flexible sigmoidoscopy,-72
+extensive pseudomembranes up to 50 cm,-72
+laparoscopic loop ileostomy,-72
+colonic lavage (Pittsburgh protocol),-72
+IV metronidazole continued,-72
+vancomycin irrigation via Foley catheter (efferent limb),-72
+vancomycin irrigation for 10 days,-72
+weaned off vasopressors,0
+critical condition,0
+persistent diarrhea,0
+fever,0
+leukocytosis,0
+gastroenterology consultation,0
+antibiotics held for 24 hours,0
+polyethylene glycol preparation via Foley catheter,0
+donor stool (250 cc from Open Biome) administered,24
+clinical improvement,72
+resolution of leukocytosis,72
+resolution of diarrhea,72
+transferred to general medical floor,96
+discharged to rehabilitation facility,144
+repeat colonoscopy in 6 months,4320
+resolution of CDI,4320
+successful ileostomy reversal,4320

@@ -1,0 +1,101 @@
+event,time
+40-year-old male,0
+admitted to hospital,0
+sudden hemiplegia of right limb,-180
+coma,-120
+cerebral hemorrhage in left basal ganglia region,-120
+left frontotemporal parietal craniotomy,0
+hematoma removal,0
+decompression with bone flap removal,0
+head CT reexamination,24
+hematoma cleared,24
+midline centered,24
+cistern clearly displayed,24
+subdural effusion,72
+head CT reexamination,144
+residual hematoma,144
+intraventricular hematoma,144
+effusion beside falx,144
+subcutaneous effusion,144
+head CT reexamination,528
+subcutaneous effusion progression,528
+high tension of flap,552
+cerebrospinal fluid leakage,552
+body temperature 39.5°C,552
+lumbar puncture,552
+cloudy CSF,552
+white blood cells 1690×10⁶/L,552
+protein 2034.6 mg/L,552
+glucose 0.16 mmol/L,552
+intracranial infection,564
+subcutaneous drainage,564
+decompression window flap,564
+drainage tube fixed,564
+subcutaneous effusion test,564
+white blood cells 4916×10⁶/L,564
+glucose 3.30 mmol/L,564
+protein 2565.8 mg/L,564
+CSF culture,564
+drug sensitivity test,564
+head CT reexamination,600
+subcutaneous effusion decrease,600
+flap tension decreased,672
+body temperature normal,672
+subcutaneous drainage tube removal,672
+head CT reexamination,696
+subcutaneous effusion disappearance,696
+CT enhancement,696
+no brain abscess,696
+high fever recurrence,696
+body temperature above 39.5°C,696
+lumbar puncture,696
+white blood cells 570×10⁶/L,696
+glucose 2.56 mmol/L,696
+protein 2506.8 mg/L,696
+severe intracranial infection,696
+lumbar cistern catheter drainage,696
+CSF culture results,720
+multiple drug-resistant Klebsiella pneumoniae,720
+carbapenem-resistant Enterobacteriaceae,720
+polymyxin B unavailable,720
+tigecycline unavailable,720
+amikacin use,720
+body temperature 39.5°C,744
+CSF cloudy,744
+white blood cells 6168×10⁶/L,744
+glucose 1.83 mmol/L,744
+protein 1403.0 mg/L,744
+intrathecal gentamicin,744
+oral cotrimoxazole,744
+body temperature below 38°C,768
+white blood cells 112×10⁶/L,768
+glucose 2.03 mmol/L,768
+protein 1643.0 mg/L,768
+body temperature 38°C,792
+white blood cells 366×10⁶/L,792
+glucose 2.95 mmol/L,792
+protein 1464.6 mg/L,792
+body temperature 37°C,816
+white blood cells 84×10⁶/L,816
+glucose 2.93 mmol/L,816
+protein 1093.7 mg/L,816
+body temperature normal,840
+white blood cells 6×10⁶/L,840
+glucose 2.20 mmol/L,840
+protein 1683.6 mg/L,840
+lumbar cistern blockage,840
+tube removal,840
+head CT,864
+no hydrocephalus,864
+subcutaneous effusion disappearance,864
+midline centered,864
+cistern clear,864
+body temperature normal,984
+white blood cells 8×10⁶/L,984
+glucose 2.41 mmol/L,984
+protein 1279.3 mg/L,984
+CSF clear,984
+slight hydrocephalus,1056
+infection controlled,1056
+consciousness regained,1056
+transferred to rehabilitation,1056

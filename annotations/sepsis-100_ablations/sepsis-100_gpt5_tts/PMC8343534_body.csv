@@ -1,0 +1,116 @@
+event,time
+64 years old,0
+female,0
+arrived at our Hospital’s Emergency Department,0
+fever (39°C),-336
+headache,-336
+light pain in the right ear,-336
+purulent secretion from the ear (otorrhea),-336
+swelling behind the right ear,-336
+redness of the skin behind the right ear,-336
+tinnitus,-336
+hearing disorder,-336
+sought treatment from a general practitioner (GP),-336
+sent to the nearest Ear-Nose-Throat (ENT) Service,-336
+native head CT performed,-336
+HRCT right mastoiditis with partial sclerosis of mastoid air cells,-336
+diagnosed with right acute mastoiditis,-336
+treated with antibiotics Amoxicillin 500 mg three times a day (TDS),-336
+treated with painkillers,-336
+treated with anti-inflammatory drugs,-336
+symptoms improved slightly,-312
+severe headache appeared,-240
+anorexia,-240
+high fever,-240
+confusion,-216
+severe headache,-24
+right periorbital swelling,-24
+right mid-facial swelling,-24
+marked right facial swelling,0
+marked right periorbital swelling,0
+right blepharoptosis,0
+chemosis,0
+proptosis,0
+visual acuity of 7/12 on her right eye,0
+no visual fields abnormalities,0
+intraocular pressures normal,0
+no relative afferent pupillary defect,0
+color vision normal,0
+no signs of optic disc swelling on fundoscopy,0
+left eye seemed to be fine,0
+full range of eye movements,0
+pain on right eye movement,0
+no clinical evidence of right optic nerve compression,0
+no trigeminal sensory deficit,0
+febrile (38.8°C),0
+conscious,0
+somnolent,0
+no other neurological deficits,0
+cardiovascular examination normal,0
+respiratory examination normal,0
+blood cultures taken,0
+white blood cells count 18×10^4/L,0
+erythrocyte sedimentation rate 67 mm/h,0
+C-reactive protein 250 mg/L,0
+renal function normal,0
+liver function normal,0
+tests for vasculitis negative,0
+HIV negative,0
+diabetes negative,0
+prothrombin G20210A mutation (PT20210A) detected,0
+coagulation profile normal,0
+urinalysis normal,0
+hepatitis B virus negative,0
+syphilis negative,0
+protein C deficiency negative,0
+protein S deficiency negative,0
+Factor V Leiden deficiency negative,0
+raised Factor VIII negative,0
+MTHFR C677T homozygosity negative,0
+MRI brain revealed non-opacification of the right cavernous sinus,0
+lacunar image in right cavernous sinus on MRI,0
+thickening of the nearby meninges on MRI,0
+cavernous sinus thrombosis,0
+septic condition suspected,0
+high-dose intravenous Ceftriaxone 2 g twice a day (BD) started,0
+anticoagulation with Enoxaparin 8000 IU twice a day (BD) started,0
+did not receive corticosteroids,0
+no surgical treatment used,0
+cephalosporins used for four days,0
+history of arterial hypertension,0
+treatment with angiotensin-converting enzyme (ACE) inhibitors,0
+blood cultures positive for Streptococcus pneumoniae,48
+antibiogram sensitive to Ceftriaxone,48
+ceftriaxone continued,48
+developed shortness of breath,96
+reduced oxygen saturation,96
+chest X-ray revealed right lobar pneumonia,96
+suspicion of hospital acquired pneumonia,96
+referred to the Intensive Care Unit (ICU),96
+non-invasive mechanical ventilation needed,96
+antibiotics changed to Amikacin 20 mg/kg once a day (OD),96
+antibiotics changed to Piperacillin–Tazobactam 4.5 g three times a day (TDS),96
+ceftriaxone discontinued,96
+piperacillin–tazobactam and amikacin planned for 10 days,96
+hospital acquired pneumonia confirmed by bronchial aspirate culture,120
+antibiotics adapted to the antibiogram,120
+extracranial Doppler ultrasonography performed,120
+transcranial Doppler ultrasonography performed,120
+transthoracic echocardiography performed,120
+extracranial Doppler without significant changes,120
+transcranial Doppler without significant changes,120
+transthoracic echocardiography without significant changes,120
+symptoms resolved,216
+transferred back to our Service,264
+non-invasive mechanical ventilation discontinued,264
+control contrast-enhanced magnetic resonance angiography (CE–MRA) performed,264
+persistence of lacunar image in the right cavernous sinus on CE–MRA,264
+ophthalmological symptoms improved,300
+periorbital swelling diminished,300
+discharged,336
+switched to oral anticoagulant Acenocoumarol,336
+enoxaparin discontinued,336
+continue oral anticoagulant for at least three months,336
+follow-up CT venogram planned,2496
+oral anticoagulant will be stopped if resolution of the thromboses,2496
+full recovery,2496

@@ -1,0 +1,333 @@
+event,time
+\boxed{,
+59 years old ,0.0
+female ,0.0
+"blood type: O, Rh positive ",0.0
+segment-V space-occupying lesion in the liver ,0.0
+suspected liver cancer ,0.0
+transarterial embolization ,-1008.0
+sorafenib ,-720.0
+stopped sorafenib ,-360.0
+CT scan ,-240.0
+enlarged lesions in liver segment V ,-240.0
+radiation therapy ,-288.0
+Piggyback LT ,0.0
+history of hepatitis B ,0.0
+received entecavir ,0.0
+HBsAg 113.23 IU/mL ,0.0
+anti-HBs 0 mIU/mL ,0.0
+HBeAg 0.08 PEI µ/mL ,0.0
+anti-HBe >4.4 PEI µ/mL ,0.0
+anti-HBc 8.26 PEI µ/mL ,0.0
+"negative HIV, hepatitis A, and hepatitis C serology ",0.0
+acute renal failure ,0.0
+hematoma around the liver ,0.0
+intravenous hepatitis B immunoglobulin ,0.0
+immunosuppressive drugs ,0.0
+steroids ,0.0
+tacrolimus ,0.0
+continuous hemodialysis ,0.0
+intermittent infusion of fresh frozen plasma ,0.0
+leukocyte-depleted red blood cells ,0.0
+active bleeding in the abdominal cavity ceased ,0.0
+renal function gradually recovered ,0.0
+pathological confirmation of HCC ,0.0
+massive tumor necrosis ,0.0
+liver function improvement ,240.0
+fever ,240.0
+procalcitonin levels rise ,240.0
+fever persists ,312.0
+rash observed on the chest ,312.0
+no itching ,312.0
+Nikolsky sign negative ,312.0
+tacrolimus to sirolimus ,408.0
+mycophenolate mofetil added ,408.0
+sputum culture positive for Acinetobacter baumannii and MRSA ,432.0
+rash advances to erythematous macules and papules ,456.0
+"rash spreads to limbs, palms, neck, and face ",456.0
+oral examination reveals white ulcers ,456.0
+severe bone marrow suppression ,456.0
+WBC count 0.86 × 10^9/L ,456.0
+platelet count 35 × 10^9/L ,456.0
+hemoglobin level 70 g/L ,456.0
+transferred to the intensive care unit ,456.0
+skin biopsy ,456.0
+fluorescence in situ hybridization (FISH) of peripheral blood ,456.0
+bone marrow aspiration ,768.0
+bone marrow pathology report ,768.0
+FISH analysis of peripheral blood ,768.0
+flow cytometry detects 3% donor lymphocytes ,768.0
+skin biopsy consistent with grade-1 acute lt-GVHD ,792.0
+differential diagnoses considered ,792.0
+serum T-lymphocyte subsets analysis ,792.0
+reversed CD4:CD8 ratio ,792.0
+serum immunoglobin M reduced ,792.0
+platelet count drops to 3.2 × 10^9/L ,792.0
+multidisciplinary team (MDT) assembled ,816.0
+continued use of steroids ,816.0
+tacrolimus to strengthen immune suppression ,816.0
+granulocyte colony-stimulating factor (G-CSF) ,816.0
+meropenem combined with voriconazole ,816.0
+rash significantly reduced ,816.0
+general condition continues to deteriorate ,816.0
+serum ferritin levels increase ,816.0
+esophageal and oral ulcers worsen ,816.0
+temperature rises to 39.4°C ,1128.0
+experienced hallucinations ,1128.0
+"multiple infections (MRSA, Acinetobacter baumannii, Enterococcus faecalis) ",1128.0
+serum immunoglobin M level reduced to 0 g/L ,1128.0
+succumbed to septic shock and multiple organ dysfunction syndrome (MODS) ,1320.0
+},
+Note: The timestamps are approximations based on the provided information and clinical judgment. The exact timing of some events may vary slightly. The timestamps are in hours.,
+\boxed{TEXT HERE},
+\boxed{,
+59 years old ,0.0
+female ,0.0
+"blood type: O, Rh positive ",0.0
+segment-V space-occupying lesion in the liver ,0.0
+suspected liver cancer ,0.0
+transarterial embolization ,-1008.0
+sorafenib ,-720.0
+stopped sorafenib ,-360.0
+CT scan ,-240.0
+enlarged lesions in liver segment V ,-240.0
+radiation therapy ,-288.0
+Piggyback LT ,0.0
+history of hepatitis B ,0.0
+received entecavir ,0.0
+HBsAg 113.23 IU/mL ,0.0
+anti-HBs 0 mIU/mL ,0.0
+HBeAg 0.08 PEI µ/mL ,0.0
+anti-HBe >4.4 PEI µ/mL ,0.0
+anti-HBc 8.26 PEI µ/mL ,0.0
+"negative HIV, hepatitis A, and hepatitis C serology ",0.0
+acute renal failure ,0.0
+hematoma around the liver ,0.0
+intravenous hepatitis B immunoglobulin ,0.0
+immunosuppressive drugs ,0.0
+steroids ,0.0
+tacrolimus ,0.0
+continuous hemodialysis ,0.0
+intermittent infusion of fresh frozen plasma ,0.0
+leukocyte-depleted red blood cells ,0.0
+active bleeding in the abdominal cavity ceased ,0.0
+renal function gradually recovered ,0.0
+pathological confirmation of HCC ,0.0
+massive tumor necrosis ,0.0
+liver function improvement ,240.0
+fever ,240.0
+procalcitonin levels rise ,240.0
+fever persists ,312.0
+rash observed on the chest ,312.0
+no itching ,312.0
+Nikolsky sign negative ,312.0
+tacrolimus to sirolimus ,408.0
+mycophenolate mofetil added ,408.0
+sputum culture positive for Acinetobacter baumannii and MRSA ,432.0
+rash advances to erythematous macules and papules ,456.0
+"rash spreads to limbs, palms, neck, and face ",456.0
+oral examination reveals white ulcers ,456.0
+severe bone marrow suppression ,456.0
+WBC count 0.86 × 10^9/L ,456.0
+platelet count 35 × 10^9/L ,456.0
+hemoglobin level 70 g/L ,456.0
+transferred to the intensive care unit ,456.0
+skin biopsy ,456.0
+fluorescence in situ hybridization (FISH) of peripheral blood ,456.0
+bone marrow aspiration ,768.0
+bone marrow pathology report ,768.0
+FISH analysis of peripheral blood ,768.0
+flow cytometry detects 3% donor lymphocytes ,768.0
+skin biopsy consistent with grade-1 acute lt-GVHD ,792.0
+differential diagnoses considered ,792.0
+serum T-lymphocyte subsets analysis ,792.0
+reversed CD4:CD8 ratio ,792.0
+serum immunoglobin M reduced ,792.0
+platelet count drops to 3.2 × 10^9/L ,792.0
+multidisciplinary team (MDT) assembled ,816.0
+continued use of steroids ,816.0
+tacrolimus to strengthen immune suppression ,816.0
+granulocyte colony-stimulating factor (G-CSF) ,816.0
+meropenem combined with voriconazole ,816.0
+rash significantly reduced ,816.0
+general condition continues to deteriorate ,816.0
+serum ferritin levels increase ,816.0
+esophageal and oral ulcers worsen ,816.0
+temperature rises to 39.4°C ,1128.0
+experienced hallucinations ,1128.0
+"multiple infections (MRSA, Acinetobacter baumannii, Enterococcus faecalis) ",1128.0
+serum immunoglobin M level reduced to 0 g/L ,1128.0
+succumbed to septic shock and multiple organ dysfunction syndrome (MODS) ,1320.0
+},
+\boxed{TEXT HERE},
+\boxed{,
+59 years old ,0.0
+female ,0.0
+"blood type: O, Rh positive ",0.0
+segment-V space-occupying lesion in the liver ,0.0
+suspected liver cancer ,0.0
+transarterial embolization ,-1008.0
+sorafenib ,-720.0
+stopped sorafenib ,-360.0
+CT scan ,-240.0
+enlarged lesions in liver segment V ,-240.0
+radiation therapy ,-288.0
+Piggyback LT ,0.0
+history of hepatitis B ,0.0
+received entecavir ,0.0
+HBsAg 113.23 IU/mL ,0.0
+anti-HBs 0 mIU/mL ,0.0
+HBeAg 0.08 PEI µ/mL ,0.0
+anti-HBe >4.4 PEI µ/mL ,0.0
+anti-HBc 8.26 PEI µ/mL ,0.0
+"negative HIV, hepatitis A, and hepatitis C serology ",0.0
+acute renal failure ,0.0
+hematoma around the liver ,0.0
+intravenous hepatitis B immunoglobulin ,0.0
+immunosuppressive drugs ,0.0
+steroids ,0.0
+tacrolimus ,0.0
+continuous hemodialysis ,0.0
+intermittent infusion of fresh frozen plasma ,0.0
+leukocyte-depleted red blood cells ,0.0
+active bleeding in the abdominal cavity ceased ,0.0
+renal function gradually recovered ,0.0
+pathological confirmation of HCC ,0.0
+massive tumor necrosis ,0.0
+liver function improvement ,240.0
+fever ,240.0
+procalcitonin levels rise ,240.0
+fever persists ,312.0
+rash observed on the chest ,312.0
+no itching ,312.0
+Nikolsky sign negative ,312.0
+tacrolimus to sirolimus ,408.0
+mycophenolate mofetil added ,408.0
+sputum culture positive for Acinetobacter baumannii and MRSA ,432.0
+rash advances to erythematous macules and papules ,456.0
+"rash spreads to limbs, palms, neck, and face ",456.0
+oral examination reveals white ulcers ,456.0
+severe bone marrow suppression ,456.0
+WBC count 0.86 × 10^9/L ,456.0
+platelet count 35 × 10^9/L ,456.0
+hemoglobin level 70 g/L ,456.0
+transferred to the intensive care unit ,456.0
+skin biopsy ,456.0
+fluorescence in situ hybridization (FISH) of peripheral blood ,456.0
+bone marrow aspiration ,768.0
+bone marrow pathology report ,768.0
+FISH analysis of peripheral blood ,768.0
+flow cytometry detects 3% donor lymphocytes ,768.0
+skin biopsy consistent with grade-1 acute lt-GVHD ,792.0
+differential diagnoses considered ,792.0
+serum T-lymphocyte subsets analysis ,792.0
+reversed CD4:CD8 ratio ,792.0
+serum immunoglobin M reduced ,792.0
+platelet count drops to 3.2 × 10^9/L ,792.0
+multidisciplinary team (MDT) assembled ,816.0
+continued use of steroids ,816.0
+tacrolimus to strengthen immune suppression ,816.0
+granulocyte colony-stimulating factor (G-CSF) ,816.0
+meropenem combined with voriconazole ,816.0
+rash significantly reduced ,816.0
+general condition continues to deteriorate ,816.0
+serum ferritin levels increase ,816.0
+esophageal and oral ulcers worsen ,816.0
+temperature rises to 39.4°C ,1128.0
+experienced hallucinations ,1128.0
+"multiple infections (MRSA, Acinetobacter baumannii, Enterococcus faecalis) ",1128.0
+serum immunoglobin M level reduced to 0 g/L ,1128.0
+succumbed to septic shock and multiple organ dysfunction syndrome (MODS) ,1320.0
+},
+\boxed{TEXT HERE},
+\boxed{,
+59 years old ,0.0
+female ,0.0
+"blood type: O, Rh positive ",0.0
+segment-V space-occupying lesion in the liver ,0.0
+suspected liver cancer ,0.0
+transarterial embolization ,-1008.0
+sorafenib ,-720.0
+stopped sorafenib ,-360.0
+CT scan ,-240.0
+enlarged lesions in liver segment V ,-240.0
+radiation therapy ,-288.0
+Piggyback LT ,0.0
+history of hepatitis B ,0.0
+received entecavir ,0.0
+HBsAg 113.23 IU/mL ,0.0
+anti-HBs 0 mIU/mL ,0.0
+HBeAg 0.08 PEI µ/mL ,0.0
+anti-HBe >4.4 PEI µ/mL ,0.0
+anti-HBc 8.26 PEI µ/mL ,0.0
+"negative HIV, hepatitis A, and hepatitis C serology ",0.0
+acute renal failure ,0.0
+hematoma around the liver ,0.0
+intravenous hepatitis B immunoglobulin ,0.0
+immunosuppressive drugs ,0.0
+steroids ,0.0
+tacrolimus ,0.0
+continuous hemodialysis ,0.0
+intermittent infusion of fresh frozen plasma ,0.0
+leukocyte-depleted red blood cells ,0.0
+active bleeding in the abdominal cavity ceased ,0.0
+renal function gradually recovered ,0.0
+pathological confirmation of HCC ,0.0
+massive tumor necrosis ,0.0
+liver function improvement ,240.0
+fever ,240.0
+procalcitonin levels rise ,240.0
+fever persists ,312.0
+rash observed on the chest ,312.0
+no itching ,312.0
+Nikolsky sign negative ,312.0
+tacrolimus to sirolimus ,408.0
+mycophenolate mofetil added ,408.0
+sputum culture positive for Acinetobacter baumannii and MRSA ,432.0
+rash advances to erythematous macules and papules ,456.0
+"rash spreads to limbs, palms, neck, and face ",456.0
+oral examination reveals white ulcers ,456.0
+severe bone marrow suppression ,456.0
+WBC count 0.86 × 10^9/L ,456.0
+platelet count 35 × 10^9/L ,456.0
+hemoglobin level 70 g/L ,456.0
+transferred to the intensive care unit ,456.0
+skin biopsy ,456.0
+fluorescence in situ hybridization (FISH) of peripheral blood ,456.0
+bone marrow aspiration ,768.0
+bone marrow pathology report ,768.0
+FISH analysis of peripheral blood ,768.0
+flow cytometry detects 3% donor lymphocytes ,768.0
+skin biopsy consistent with grade-1 acute lt-GVHD ,792.0
+differential diagnoses considered ,792.0
+serum T-lymphocyte subsets analysis ,792.0
+reversed CD4:CD8 ratio ,792.0
+serum immunoglobin M reduced ,792.0
+platelet count drops to 3.2 × 10^9/L ,792.0
+multidisciplinary team (MDT) assembled ,816.0
+continued use of steroids ,816.0
+tacrolimus to strengthen immune suppression ,816.0
+granulocyte colony-stimulating factor (G-CSF) ,816.0
+meropenem combined with voriconazole ,816.0
+rash significantly reduced ,816.0
+general condition continues to deteriorate ,816.0
+serum ferritin levels increase ,816.0
+esophageal and oral ulcers worsen ,816.0
+temperature rises to 39.4°C ,1128.0
+experienced hallucinations ,1128.0
+"multiple infections (MRSA, Acinetobacter baumannii, Enterococcus faecalis) ",1128.0
+serum immunoglobin M level reduced to 0 g/L ,1128.0
+succumbed to septic shock and multiple organ dysfunction syndrome (MODS) ,1320.0
+},
+\boxed{TEXT HERE},
+\boxed{,
+59 years old ,0.0
+female ,0.0
+"blood type: O, Rh positive ",0.0
+segment-V space-occupying lesion in the liver ,0.0
+suspected liver cancer ,0.0
+transarterial embolization ,-1008.0
+sorafenib ,-720.0
+stopped sorafenib ,-360.0
+CT scan ,-240.0
+enlarged lesions in,

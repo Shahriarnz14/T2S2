@@ -1,0 +1,108 @@
+event,time
+78 years old,0\
+female,0\
+myasthenia gravis,0\
+hypertension,0\
+chronic kidney disease,0\
+obesity,0\
+proctosigmoidectomy for rectal cancer,-26280\
+L3-L4 laminectomy,-26280\
+foraminotomy for spinal stenosis,-26280\
+percutaneous spinal cord stimulator implantation,-26280\
+myasthenic crisis,-3600\
+dysphagia,-3600\
+ptosis,-3600\
+dysarthria,-3600\
+intubation,-3600\
+plasma exchange,-3600\
+prednisone,-3600\
+pyridostigmine,-3600\
+discharged home,-3480\
+pyridostigmine continued,-3480\
+prednisone 60 mg daily,-3480\
+neurology follow up,-3360\
+mycophenolate started,-3360\
+prednisone decreased to 40 mg daily,-3360\
+left hand and wrist purulent cellulitis,-720\
+soft tissue ulceration,-720\
+cellulitis,-720\
+ill-defined intramuscular abscess,-720\
+hand surgery evaluation,-720\
+no surgical intervention,-720\
+ceftaroline for three days,-720\
+discharged home,-696\
+doxycycline for one week,-696\
+trimethoprim-sulfamethoxazole initiated,-696\
+Pneumocystis jirovecii prophylaxis,-696\
+chronic steroid use,-696\
+Nocardia farcinica culture,-696\
+right shoulder pain,-2160\
+intermittent right shoulder pain,-2160\
+persistent worsening right shoulder pain,-168\
+denied recent trauma,0\
+denied fevers,0\
+denied chills,0\
+denied sweats,0\
+resolved left-hand cellulitis,0\
+temperature 35.8°C,0\
+heart rate 88 bpm,0\
+respiratory rate 18 bpm,0\
+blood pressure 135/85 mmHg,0\
+oxygen saturation 97%,0\
+right shoulder pain with passive range of motion,0\
+limited active range of motion,0\
+no erythema,0\
+no warmth,0\
+no swelling,0\
+"white blood cell count 14,300/µL",0\
+"absolute neutrophil count 11,930/µL",0\
+CRP 7.63 mg/dL,0\
+ESR 45 mm/h,0\
+contrasted CT right shoulder,0\
+multiloculated collections,0\
+abscesses,0\
+subacromial bursitis,0\
+moderate glenohumeral joint effusion,0\
+septic arthritis concern,0\
+arthrocentesis right shoulder,24\
+"synovial fluid WBC 107,865/µL",24\
+95% neutrophils,24\
+1% lymphocytes,24\
+5% monocytes,24\
+no crystals,24\
+Gram-positive beaded bacilli,24\
+Nocardia farcinica culture,24\
+CRP 26.32 mg/dL,24\
+ESR 71 mm/h,24\
+operative debridement right shoulder,48\
+glenohumeral joint purulent material,48\
+extra-articular purulent material,48\
+chronic infection,48\
+15 cc intra-articular purulent material,48\
+40 cc extra-articular purulent material,48\
+periscapular fluid culture N. farcinica,48\
+meropenem 2 g twice daily,48\
+TMP-SMX 320–1600 mg three times daily,48\
+leukocytosis improved,240\
+CRP 0.5 mg/dL,240\
+ESR 23 mm/h,240\
+repeat CT right shoulder,240\
+decreased fluid collections,240\
+chest CT,240\
+bibasilar effusions,240\
+bibasilar infiltrates,240\
+scattered nodularity,240\
+no pulmonary abscesses,240\
+noncontrasted head CT,240\
+no intracranial abscesses,240\
+disseminated nocardiosis,240\
+MRI brain not possible,240\
+dual antimicrobial therapy,240\
+meropenem discontinued,720\
+TMP-SMX continued,720\
+thrombocytopenia,1440\
+TMP-SMX discontinued,1440\
+amoxicillin-clavulanate started,1440\
+admitted for altered mentation,2160\
+failure to thrive,2160\
+hospice care transition,2160\

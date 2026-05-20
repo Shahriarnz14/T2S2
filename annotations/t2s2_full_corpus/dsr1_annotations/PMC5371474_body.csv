@@ -1,0 +1,93 @@
+event,time
+73 years old,0
+male,0
+medical history of multiple thromboses,0
+deep vein thrombosis in 1995,-163200
+deep vein thrombosis in 2011,-17520
+pulmonary embolism in 1995,-163200
+pulmonary embolism in 2004,-78840
+acute coronary syndromes within a 1-month interval,-720
+admitted to cardiology department for acute thoracic pain in May 2013,-720
+electrocardiogram evidenced inferior Q waves with ST elevation,-720
+echography revealed antero-inferior akinesia,-720
+serum troponins not quantified,-720
+transferred for coronarography,-720
+coronary catheterization revealed intraluminal thrombus in right coronary artery,-720
+balloon angioplasty performed,-720
+no stent inserted due to unexplained fever,-720
+antiplatelet therapy with acetylsalicylic acid,-720
+antiplatelet therapy with clopidogrel,-720
+anticoagulation with vitamin K antagonists (fluindione),-720
+acute chest pain one month later,-480
+electrocardiogram evidenced inferior Q waves,-480
+echography found antero-inferior akinesia,-480
+ultrasensitive troponins elevated (560 ng/L),-480
+new coronary catheterization performed,-480
+thrombosis in right coronary artery,-480
+asymptomatic incomplete intraluminal obstruction of circumflex artery,-480
+angioplasty performed without stent due to unexplained fever,-480
+persistent fever for two months,-1440
+marked inflammatory syndrome,-1440
+investigations performed,-1440
+fatigue,-1440
+signs of anemia,-1440
+hemoglobin 90 g/L,-1440
+reticulocytes 52 × 10^9/L,-1440
+white blood cells 6.6 × 10^9/L,-1440
+platelet count 52 × 10^9/L,-1440
+CRP 147 mg/L,-1440
+tests for infectious diseases negative,-1440
+tests for systemic inflammatory diseases negative,-1440
+tests for vasculitis negative,-1440
+serum haptoglobin decreased (<0.10 g/L),-1440
+LDH elevated,-1440
+direct antiglobulin test negative,-1440
+CT scan showed thrombosis of hepatic vein,-1440
+flow cytometry test performed,-1440
+"PNH clone with 80% neutrophils lacking CD66b, CD16, CD24",-1440
+monocytes lacking CD24 antigen,-1440
+BM smears normocellular,-1440
+mild dysmegacaryocytopoiesis,-1440
+no excess blasts (2%),-1440
+karyotype normal,-1440
+diagnosis of classical PNH,-1440
+postponed eculizumab due to fever and infection risk,-1440
+acute abdomen,-1440
+hypotension,-1440
+functional renal insufficiency,-1440
+admitted to intensive care unit,-1440
+CT scan not helpful,-1440
+surgical exploration of abdomen performed,-1440
+no major abnormality found,-1440
+eculizumab started,-1440
+prophylaxis with meningococcal vaccination,-1440
+prophylaxis with pneumococcal vaccination,-1440
+penicillin V therapy,-1440
+anticoagulation maintained,-1440
+antiplatelet treatment maintained,-1440
+fever resolved,-1440
+abdominal pain resolved,-1440
+inflammatory syndrome resolved,-1440
+LDH normalized,0
+repeated red blood cell transfusions,0
+severe thrombocytopenia occurred after 8 months,5760
+no signs of hemolysis,5760
+BM examination showed normocellular BM,5760
+dysplasia of three myeloid lineages,5760
+11% blasts,5760
+diagnosis of refractory anemia with excess blast-2,5760
+myelodysplastic syndrome,5760
+karyotype normal,5760
+vitamin K antagonists stopped,5760
+antiplatelet treatment maintained,5760
+platelet transfusions,5760
+red blood cell transfusions,5760
+transient improvement,5760
+ineligible for BM transplantation,5760
+hypomethylating treatment with 5-azacytidine (AZA),5760
+after 2 cycles of AZA,5760
+cytopenias unchanged,5760
+admitted to intensive care unit for septic shock,7680
+infection of implantable chamber by Aeromonas veronii,7680
+multiorgan failure,7680
+death,7680

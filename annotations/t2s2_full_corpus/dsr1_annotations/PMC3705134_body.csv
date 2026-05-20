@@ -1,0 +1,95 @@
+event,time
+72 years old,0
+man,0
+admitted to Saiseikai Sendai Hospital,0
+recurrent lymph node metastases from gastric cancer,0
+history of distal gastrectomy,"- (relative to admission, time not specified, assumed as prior event)"
+right hepatic lobectomy,"- (relative to admission, same as distal gastrectomy)"
+advanced gastric cancer with liver metastases,"- (historical, prior to admission)"
+paraaortic lymph node metastases re-grown,0 (on admission)
+17 courses of combination chemotherapy with paclitaxel and S-1,- (prior to current admission)
+chemotherapy regimen changed to docetaxel,0 (current admission)
+first administration of docetaxel in short-term hospitalization,- (prior to current admission)
+second treatment of docetaxel,0 (current admission)
+looked well-being on admission,0
+blood chemistry data showed no inflammatory disease,0
+abdominal CT showed no metastasis,0 (before chemotherapy)
+abdominal CT showed no abscesses in the liver,0 (before chemotherapy)
+95 mg docetaxel infused intravenously,0
+8 mg methyl prednisolone pretreated,0 (before docetaxel)
+high-grade fever up to 39℃,24
+low blood pressure (80/55 mmHg),24
+"white blood cell count 13,550/L",24
+"red blood cell count 2,420,000/L",24
+"blood platelet count 109,000/L",24
+"aspartate aminotransferase 1,112 IU/L",24
+alanine aminotransferase 774 IU/L,24
+CRP 4.6 mg/dl,24
+diagnosed with septicemia unknown etiology,24
+continuous dopamine infusion,24
+broad-band antibiotics started,24
+serious liver dysfunction,48 (next day after fever)
+serious renal dysfunction,48
+leucocytosis,48
+high C-reactive protein,48
+sepsis strongly suspected,48
+origin of sepsis not identified,48
+intensive care including hemodialysis,48
+respiratory support,48
+died,120 (5 days after docetaxel)
+blood bacterial culture positive for E. coli,120 (post-mortem result)
+autopsy performed,120
+no evidence of myelo-suppression,120
+residual lymph node metastases confirmed,120
+multiple occult liver abscesses,120 (identified at autopsy)
+gram-negative rods,120
+fungi,120
+fatal E. coli septicemia,120
+immuno-compromised host,0 (due to anticancer treatment)
+72 years old,0
+man,0
+admitted to Saiseikai Sendai Hospital,0
+recurrent lymph node metastases from gastric cancer,0
+history of distal gastrectomy,-17520 (approx. 2 years prior)
+right hepatic lobectomy,-17520
+advanced gastric cancer with liver metastases,-17520
+paraaortic lymph node metastases re-grown,0
+17 courses of combination chemotherapy (paclitaxel + S-1),-8568 (approx. 51 weeks prior)
+chemotherapy regimen changed to docetaxel,0
+first administration of docetaxel (prior hospitalization),-336 (approx. 2 weeks prior)
+second treatment of docetaxel,0
+looked well-being on admission,0
+blood chemistry data showed no inflammatory disease,0
+abdominal CT showed no metastasis,0
+abdominal CT showed no abscesses in the liver,0
+95 mg docetaxel infused intravenously,0
+8 mg methyl prednisolone pretreated,0
+high-grade fever (39℃),24
+low blood pressure (80/55 mmHg),24
+"white blood cell count 13,550/L",24
+"red blood cell count 2,420,000/L",24
+"blood platelet count 109,000/L",24
+"aspartate aminotransferase 1,112 IU/L",24
+alanine aminotransferase 774 IU/L,24
+CRP 4.6 mg/dl,24
+diagnosed with septicemia unknown etiology,24
+continuous dopamine infusion,24
+broad-band antibiotics started,24
+serious liver dysfunction,48
+serious renal dysfunction,48
+leucocytosis,48
+high C-reactive protein,48
+sepsis strongly suspected,48
+origin of sepsis not identified,48
+intensive care (hemodialysis),48
+respiratory support,48
+died,120
+blood bacterial culture positive for E. coli,120
+autopsy performed,120
+no evidence of myelo-suppression,120
+residual lymph node metastases confirmed,120
+multiple occult liver abscesses,120
+gram-negative rods,120
+fungi,120
+fatal E. coli septicemia,120
+immuno-compromised host,0

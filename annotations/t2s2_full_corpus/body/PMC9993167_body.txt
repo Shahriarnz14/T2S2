@@ -1,0 +1,108 @@
+pmcIntroduction
+
+Patients treated with intensive immunochemotherapy for haematological malignancies are at high risk of severe infection. This is mainly due to neutropenia caused by anticancer agents, damage to gastrointestinal mucosa, and frequent need for central venous catheters [1]. Patients with febrile neutropenia (FN) are at high risk of severe infection or septic shock (and, consequently, death). Early initiation of adequate antibiotic therapy is the key to the successful management of FN in such patients. The use of antibiotics as soon as possible once the patient develops fever significantly reduces the mortality of neutropenic patients within the next 28 days [2]. Telemedicine may help by reducing the reaction time through early detection of incipient infection, thus facilitating prompt intervention.
+
+A telehealth project focusing on timely detection of FN in high-risk haemato-oncological patients undergoing active treatment has been underway at the Department of Haematooncology of the University Hospital Ostrava for several years. Within this project, patients suffering from various diagnoses such as acute leukaemia, chronic leukaemia, lymphoma, multiple myeloma, myelodysplastic syndrome, or aplastic anaemia who are at high risk of infectious complications are equipped with a digital blood pressure monitor and an infrared thermometer, both of which communicate via Bluetooth with a mobile hub. The patients measure their blood pressure (once a day) and body temperature (twice a day) at home and, additionally, whenever they feel unwell. The data are encrypted and forwarded to the National Monitoring Centre, our technical support. Physicians have real-time access to the measured values through a password-protected web portal accessible from any device with internet connection. Importantly, values registered outside the individually set range are immediately sent by text message to the designated physician, who can then promptly contact the patient [3].
+
+In this article, we present a case report of a haemato-oncological patient with two separate events of Gram-negative infection. The first one occurred before the patient’s enrolment in our telemedicine project and was detected late, which led to a septic shock and severe complications. The second episode occurred after the patient’s inclusion in the telemedicine project, which resulted in early intervention and rapid recovery.
+
+Case Presentation
+
+The patient is a 69-year-old man treated for high-grade B-cell non-Hodgkin lymphoma that has developed from an advanced follicular lymphoma through Richter’s transformation. Besides the lymphoma, the patient had comorbidities including severe chronic ischemic heart disease, arterial hypertension, chronic bronchitis, and type 2 diabetes mellitus. He was intended for treatment with three cycles of salvage immunochemotherapy with rituximab, ifosfamide, carboplatin, and etoposide (R-ICE) followed by autologous haematopoietic stem cell transplantation. The second cycle was complicated by oropharyngeal mucositis with candida superinfection treated by amikacin, piperacillin/tazobactam, and fluconazole. During the third cycle of R-ICE with pegfilgrastim support, the first episode of sepsis occurred. At that time, the patient did not participate in the telemonitoring project.
+
+On the seventh day of the third cycle of R-ICE, the patient called our emergency phone number and informed us that he had not been feeling well over the past 2 days, stating that he was weak and had diarrhoea, fever, and dyspnoea. He was advised to go to the hospital immediately. The initial examination revealed signs of septic shock, and the patient was hypotensive with blood pressure 90/57 mm Hg, tachycardic (120/min), and dyspnoeic. The patient was immediately admitted to the intensive care unit (ICU). Laboratory findings showed neutropenia – white blood cell (WBC) count of 0.68 × 109/L and absolute neutrophil count (ANC) of 0.6 × 109/L; C-reactive protein (CRP) concentration on admission was 120 mg/L, and kidney injury was classified as the 1st stage of acute kidney injury according to KDIGO classification [4]. Further, lactate acidosis (lactate concentration of 4.32 mmol/L) was detected along with base excess of −9.8 and electrolyte imbalance hyponatremia of 133 mmol/L and hypokalemia of 3.2 mmol/L (Table 1).
+
+Table 1. The laboratory findings on the 1st admission to the hospital
+
+WBC	0.68	× 109/L	Urea	8.8	mmol/L	
+ANC	0.6	× 109/L	Creatinine	120	μmol/L	
+Lymphocytes	0.04	× 109/L	eGF	0.89	mL/s	
+Monocytes	0.03	× 109/L	ALT	0.88	μkat/L	
+Eosinophils	0.00	× 109/L	AST	0.53	μkat/L	
+Basophils	0.01	× 109/L	GGT	0.92	μkat/L	
+Erythrocytes	2.6	× 1012/L	ALP	1.03	μkat/L	
+Haemoglobin	78	g/L	LDH	2.8	μkat/L	
+Haematocrit	0.226		Bilirubin	16.4	μmol/L	
+MCV	87	fL	CRP	121.1	mg/L	
+Platelets	27	× 109/L	Glucose	9.29	mmol/L	
+MCH	30	pg	Protein	47.6	g/L	
+MCHC	345	g/L	Albumin	34	g/L	
+			Lipase	0.32	μkat/L	
+Natrium	133	mmol/L	Lactate	4.32	g/L	
+Kalium	3.2	mmol/L				
+Chloride	109	mmol/L	pH	7.259		
+Calcium	1.9	mmol/L	CO2	4.92	mmol/L	
+Corrected calcium	2.05	mmol/L	pO2	4.18		
+Phosphorus	0.73	mmol/L	HCO3	16	kPa	
+Magnesium	0.75	mmol/L	BE	−9.8	kPa	
+WBC, white blood cell count; ANC, absolute neutrophil count; MCV, mean corpuscular volume; MCH, mean corpuscular hemoglobin; MCHC, mean cell haemoglobin concentration; eGF, estimated glomerular filtration; ALT, alanine transaminase; AST, aspartate transaminase; GGT, gamma-glutamyl transferase; ALP, alkaline phosphatase; LDH, lactate dehydrogenase; CRP, C-reactive protein; BE, base excess.
+
+Considering the recent antibiotic therapy and the presence of multidrug resistant bacteria in recent cultivation, broad-spectrum antibiotics were administered immediately (meropenem, linezolid). Although fluid resuscitation was initiated, the hypotension progressed, necessitating continuous infusion of norepinephrine (Fig. 1). The initial blood cultures revealed the presence of Escherichia coli sensitive to the used antibiotics. In stool samples, non-toxin-producing Clostridium difficile was detected. CRP peaked 2 days later at 286 mg/L, and the kidney injury progressed into the oligoanuric acute kidney insufficiency stage 3 according to KDIGO classification [4], which was successfully treated with continuous diuretic support. Chest X-ray showed bilateral opacities at the bases of the lungs. The differential diagnosis included co-infection combined with ischemic damage following the septic shock. The treatment was further complicated by oral candidiasis and herpes labialis necessitating additional antimicrobial treatment. The patient’s condition had been gradually improving until the thirteenth day when fever and diarrhoea returned. E. coli was cultivated from blood culture from the peripherally inserted central catheter, and C. difficile was detected in stool samples; however this time, the Clostridioides toxin was detected. The peripherally inserted central catheter was extracted to remove a possible source of infection. However, the catheter tip culture was negative. Antibiotic treatment consisting of piperacillin, tazobactam, amikacin, and fidaxomicin was administered, after which the patient finally recovered. After 27 days of ICU hospitalization with the costly treatment of septic shock with multiple organ dysfunction syndrome and resulting complications, the therapy succeeded and the patient was discharged (Fig. 2). Following this complication, the treatment strategy was changed, and instead of the intended autologous stem cell transplantation, treatment using chimeric antigen receptor-T cell was planned. The patient was also enrolled in our telemedicine project to prevent another life-threatening sepsis.
+
+Fig. 1. 1st event – blood pressure and need of norepinephrine (NE) in the first 48 h.
+
+Fig. 2. Time from fever to antibiotics and length of hospitalization.
+
+Before the chimeric antigen receptor-T cell therapy was initiated, the lymphoma progressed; therefore, a combination of rituximab, gemcitabine, and oxaliplatin was used as a bridge therapy. On the fifth day of the second cycle of this regimen, the patient developed another infectious complication. Fever (38.4°C) was detected during the regular morning measurement. The patient was contacted by phone and advised to go to the hospital. He was admitted within 3 h from the first occurrence of fever. In addition to fever, he also presented with diarrhoea, vomiting, blood pressure of 189/93 mm Hg, and irregular tachycardia with multiple ventricular extrasystoles on electrocardiogram (Fig. 3). Therefore, he was immediately admitted to the ICU. Laboratory findings showed WBC of 3.16 × 109/L, out of which 2.95 × 109/L were neutrophils; the WBC decreased to 1.1 × 109/L WBC the next day. CRP level on admission was 32 mg/L, peaking 2 days later at 271 mg/L. Serum electrolytes and renal parameters were within the normal range (Table 2). Intravenous hydration was initiated, along with antibiotic treatment (cefepime and amikacin). Granulocyte colony-stimulating factor was administered due to the expected imminent neutropenia. Blood culture revealed the presence of E. coli sensitive to the used antibiotics. This time, the first-line therapy was sufficient. The patient recovered after 10 days without any further complications and was discharged from the hospital (Fig. 2).
+
+Fig. 3. 2nd event – blood pressure in the first 48 h.
+
+Table 2. The laboratory findings on the 2nd admission to the hospital
+
+WBC	3.16	× 109/L	Urea	6.0	mmol/L	
+ANC	2.95	× 109/L	Creatinine	94	μmol/L	
+Lymphocytes	0.16	× 109/L	eGF	1.19	mL/s	
+Monocytes	0.02	× 109/L	ALT	0.54	μkat/L	
+Eosinophils	0.01	× 109/L	AST	0.59	μkat/L	
+Basophils	0.02	× 109/L	GGT	0.47	μkat/L	
+Erythrocytes	2.9	× 1012/L	ALP	1.40	μkat/L	
+Haemoglobin	95	g/L	LDH	7.36	μkat/L	
+Haematocrit	0.275		Bilirubin	12.6	μmol/L	
+MCV	95	fl	CRP	32.2	mg/L	
+Platelets	101	× 109/L	Glucose	11.07	mmol/L	
+MCH	33	pg	Protein	57.4	g/L	
+MCHC	345	g/L	Albumin	41	g/L	
+Natrium	137	mmol/L				
+Kalium	4.4	mmol/L				
+Chloride	104	mmol/L				
+Calcium	2.28	mmol/L				
+Corrected calcium	2.29	mmol/L				
+WBC, white blood cell count; ANC, absolute neutrophil count; MCV, mean corpuscular volume; MCH, mean corpuscular haemoglobin; MCHC, mean cell haemoglobin concentration; eGF, estimated glomerular filtration; ALT, alanine transaminase; AST, aspartate transaminase; GGT, gamma-glutamyl transferase; ALP, alkaline phosphatase; LDH, lactate dehydrogenase; CRP, C-reactive protein.
+
+Discussion
+
+Telemonitoring of oncological patients can serve various purposes. For example, the Electronic Symptom Management using the Advanced Symptom Management System Remote Technology (e-SMART) study evaluated the impact of telemedicine on symptom management and quality of life in cancer patients. The monitored group had a lower level of anxiety and better control of symptoms [5]. Our telehealth project aims to detect the first signs of infection in actively treated haemato-oncological outpatients in order to prevent the development of septic shock caused by a delay in the initiation of appropriate treatment as described above. The early management of infection improves the outcome, shortens the hospital stay, and reduces the costs of treatment [6].
+
+FN is a common complication in the treatment of haemato-oncological patients. The absence of neutrophils changes the clinical presentation of the infection, and fever can often be the only symptom; in particular, Gram-negative bacterial infection can lead to a rapid progression of sepsis and death. Therefore, appropriate antibiotic therapy should always be initiated in patients with neutropenic fever [7].
+
+The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) defined sepsis as “a life-threatening organ dysfunction caused by a dysregulated host response to infection,” and septic shock is defined as “a subset of sepsis in which circulatory, cellular, and metabolic abnormalities are profound enough to substantially increase mortality” [8]. For patients in septic shock, the hospital mortality is over 40% [8]. In patients with sepsis, the relative risk of sepsis-induced death grows by 4–8% per hour of delay in the initiation of effective antibiotic therapy [9]. In neutropenic patients, the role of early initiation of antibiotic therapy is even greater – in patients with FN, each hour of delay increases the relative risk of death by 18% [2]. This further underlines the importance of early detection and reaction to an infection in high-risk patients.
+
+In the first episode of sepsis, our patient was admitted to the hospital after more than 24 h since developing the first symptoms; during this event, he progressed to a septic shock that led to the multiple organ dysfunction syndrome. The ICU hospitalization lasted for 27 days, required multiple antibiotics and antimicrobial drugs, and cost over 652,000 CZK (25,800 EUR). In the second episode, during which the patient was already enrolled on our telemonitoring project, he was admitted to the hospital within 3 h after the first detection of fever, did not develop septic shock, and his hospitalization lasted for 10 days, costing 218,000 CZK (8,600 EUR).
+
+Conclusion
+
+The use of telemonitoring can be very helpful in the early detection of infection and has the potential to significantly reduce the incidence of severe complications. In some cases, it might even reduce the necessity, or at least length, of hospitalization or the need for intensive care. The monitoring can help prevent potentially life-threatening complications and, consequently, significantly reduces healthcare expenses. The reduction of the patients' visits to outpatient clinics that pose an additional risk of infection for both the patient and the medical personnel constitutes another benefit of the use of telemetric medicine, which is especially pronounced in the era of the COVID-19 pandemic.
+
+Acknowledgment
+
+The authors would like to thank Dr. Jaroslav Janošek for English editing.
+
+Statement of Ethics
+
+Written informed consent was obtained from the patient for publication of this case report and any accompanying images. Ethical approval is not required for this report in accordance with local or national guidelines.
+
+Conflict of Interest Statement
+
+The authors have no conflicts of interest to declare.
+
+Funding Sources
+
+This research paper was written as a part of a research project of a long-term intersectoral collaboration “Smart technologies for the improvement of quality of life in cities and regions,” identification number CZ.02.1.01/0.0/0.0/17_049/0008452. This project is funded by European Union Social Fund, Operational Programme “Research, Development and Education” led by the “Ministry of Education, Youth and Sports of the Czech Republic.” The leader of the project consortium is the Faculty of Science, University of Ostrava. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Author Contributions
+
+Lucie Dudová and Katarina Hradská wrote the manuscript. Tereza Popková, Michaela Skořupová, and Roman Hájek read, critically reviewed, and approved the manuscript.
+
+Data Availability Statement
+
+All data generated or analysed during this study are included in this article. Further enquiries can be directed to the corresponding author Lucie Dudová.

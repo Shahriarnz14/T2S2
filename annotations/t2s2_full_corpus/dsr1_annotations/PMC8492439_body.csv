@@ -1,0 +1,58 @@
+event,time
+80 years old,0
+female,0
+referred for surgical treatment of recurrent RCC,0
+first endoscopic surgery,-17520 (2 years prior)
+cyst fenestration,-17520
+partial cyst wall resection,-17520
+pedicled nasoseptal flap technique,-17520
+no CSF fistula observed,-17520
+bilateral reduction in visual acuity,"-8784 (1 year before first surgery, but timestamp calculated as -17520 - 8760 = -26280, adjusted to 0 for main admission event)"
+bitemporal hemianopsia,-26280
+mild bifrontal headache,-26280
+no pituitary dysfunction,-26280
+preoperative sellar CT,-17520
+preoperative sellar MRI,-17520
+cystic sellar lesion,-17520
+recovered from visual disturbances,-17520 + few weeks (approximated to -17520)
+recurrence of visual disturbance,-8760 (1 year after first surgery)
+recurrence of bifrontal headaches,-8760
+anisocoric pupils,-8760
+fixed mydriasis in left eye,-8760
+bitemporal hemianopsia,-8760
+new endoscopic transnasal transsphenoidal surgery,0 (current admission)
+gross total resection (GTR),0
+CSF leak observed during surgery,0
+resurface of skull base with nasoseptal flap,0
+no hypertensive episodes during surgery,0
+postoperative sellar MRI confirmed total resection,0 (post-op)
+reservoir sign (CSF leakage),0 (post-op day 0)
+conservative approach with head elevation,0 (post-op day 0)
+neuro checks,0
+stable condition until 3rd postoperative day,72
+subtle paraparesis,96 (4th post-op day)
+paraplegia,96
+dorsal spine MRI,96
+T3-T4 intramedullary lesion,96
+hyperintense on T2,96
+emergency thoracic laminectomy (T2-T5),96
+SDAVF identified,96
+intramedullary hematoma,96
+feeder artery on right T3 dural sleeve,96
+arterial supply interrupted,96
+draining vein varix thrombosed,96
+hematomyelia evacuation,96
+neurogenic shock,96
+high doses of norepinephrine,96
+admitted to ICU,96
+no CSF rhinorrhea,96
+progressive worsening of neurogenic shock,144 (4 days post-laminectomy)
+septic shock due to pneumonia,144
+higher doses of vasoactive amines,144
+mean arterial pressure 50-60 mmHg,144
+hypoxic encephalopathy,240 (10 days post-laminectomy)
+brain death,240
+brain CT showing white matter hypodensity,240
+no hypertensive episodes,240
+no corticosteroid therapy,240
+patient death,240

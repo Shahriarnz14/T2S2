@@ -1,0 +1,72 @@
+event,time
+2-year-old castrated male domestic shorthair cat,0
+admitted to a university teaching hospital,0
+progressive weakness,-2
+neurologic dysfunction,-2
+chronic kidney disease (CKD),-168 (presumed prior diagnosis)
+ataxic,-2
+vomiting,-2
+leukocytosis,-2
+neutrophilia,-2
+lymphocytosis,-2
+mild azotemia,-2
+tetraparesis,-2 (approximated based on referral timing)
+respiratory depression concerns,-2
+bradycardic (HR 120 bpm),0
+tachypneic (48 breaths/min),0
+stuporous mentation,0
+tetraplegia,0
+absent withdrawals,0
+absent peripheral reflexes,0
+weak gag reflex,0
+absent menace response,0
+short shallow breaths,0
+mild hypercapnia (PvCO2 43.4 mmHg),0
+"mild azotemia (BUN 45 mg/dl, creatinine 2.2 mg/dl)",0
+urine specific gravity 1.018,0
+moderate bacteriuria,0
+rare white blood cells in urine,0
+minimal red blood cells in urine,0
+suspected ingestion of 10 mg baclofen tablet (2.1 mg/kg),-4 (2-4 hours prior)
+IV fluid therapy initiation (LRS 10 ml/h),0
+hemodialysis catheter placement,+1.5 (1.5 hours after admission)
+hemodialysis initiation,+1.5
+blood flow set to 90 ml/min,+1.5
+ultrafiltration flow rate 100 ml/h,+1.5
+sodium profiling (150 mmol/l),+1.5
+sodium phosphate supplementation,+1.5
+LRS increased to 150 ml/h,+1.5
+heparin anticoagulation,+1.5
+progressive hypercapnia (PvCO2 88.6 mmHg),+1.5 (during HD initiation)
+respiratory acidosis (pH 7.181),+1.5
+propofol administration for intubation,+1.5
+mechanical ventilation initiation,+2.5 (1 hour after HD start)
+severe hemorrhage from dialysis catheter,+3.5 (2 hours into HD)
+hypotension (unreadable BP),+3.5
+tachycardia (HR 225 bpm),+3.5
+ACT >999 seconds,+3.5
+packed cell volume 24%,+3.5
+heparin discontinued,+3.5
+hypertonic saline bolus,+3.5
+blood transfusion (packed RBCs and FFP),+3.5
+heparin restarted,+4.5 (after transfusion)
+serum baclofen level 1495.4 ng/ml,+1.5 (start of HD)
+serum baclofen level 227.7 ng/ml,+2.5 (1 hour after HD start)
+serum baclofen level 168.4 ng/ml,+4.5 (3 hours after HD start)
+serum baclofen level 291.5 ng/ml,+5.5 (end of HD)
+serum baclofen level 333.3 ng/ml,+7.5 (2 hours post-HD)
+ventilator weaning,+5.5 (near HD conclusion)
+extubation,+5.5
+IV LRS at 50 ml/kg/day,+5.5
+weak ambulation,+6.5 (1 hour post-HD)
+resolution of hypercapnia,+7.5 (2 hours post-HD)
+neurologic resolution,+19.5 (12 hours post-HD)
+cephalexin initiation,+19.5
+E. coli urinary culture result,+19.5
+discharge,+24
+follow-up 1 week later,+192 (1 week)
+persistent mild azotemia,+192
+non-regenerative anemia (Hct 18%),+192
+normal behavior and appetite,+192
+follow-up at 4 months,+2928 (4 months)
+no recurrence of clinical signs,+2928

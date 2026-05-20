@@ -1,0 +1,196 @@
+event,time
+49 years old,0
+woman,0
+hepatocellular carcinoma,0
+end-stage hepatitis B liver cirrhosis,0
+model for end stage liver disease score 14,0
+Child-Pugh class B,0
+hypertension,0
+medications for hypertension,0
+blood type A Rh+,0
+anesthesia induced with fentanyl,0
+thiopental sodium,0
+vecuronium,0
+oxygen,0
+air,0
+desflurane,0
+neuromuscular block maintained with atracurium,0
+right radial arterial pressure monitoring,0
+femoral arterial pressure monitoring,0
+central venous pressure monitoring,0
+right femoral venous pressure monitoring,0
+pulmonary arterial pressure monitoring,0
+capillary wedge pressure monitoring,0
+cardiac output monitoring,0
+right internal jugular vein catheter,0
+piggyback technique liver transplantation,0
+preservation of caval flow,0
+reperfusion of graft liver,0
+right posterior sectionectomy,0
+decreased right hepatic venous flow,0
+relatively large size of graft liver,0
+"recipient original liver weight 1,049 g",0
+"graft volume 1,500 ml",0
+"graft weight 1,228 g",0
+graft-recipient weight ratio 1.3%,0
+morbid obesity,0
+body mass index 37.0 kg/m2,0
+intractable bleeding at resection site,0
+hypovolemia,0
+cardiac arrest,0
+chest compression,0
+epinephrine bolus 1 mg x4,0
+aggressive volume resuscitation,0
+fluid management system,0
+cardiopulmonary resuscitation,0
+spontaneous circulation recovered,8
+normal sinus rhythm,8
+arterial blood gas analysis pre-CPR,0
+arterial blood gas analysis post-CPR,8
+serum potassium level 4.5 mmol/L pre-CPR,0
+serum potassium level 5.1 mmol/L post-CPR,8
+serum calcium level 0.62 mmol/L pre-CPR,0
+serum calcium level 0.45 mmol/L post-CPR,8
+hematocrit 16% pre-CPR,0
+hematocrit 14% post-CPR,8
+significant oozing continued,8
+surgical hemostasis failed,8
+decision to stop surgery,8
+gauze packing,8
+transferred to surgical intensive care unit,8
+"operation duration 1,270 minutes",0
+"crystalloid infused 33,255 ml",0
+"5% albumin infused 1,300 ml",0
+"colloid infused 2,000 ml",0
+leukocyte depleted red blood cell 14 units,0
+leukocyte depleted platelet concentrate 6 units,0
+cell saver blood 984 ml,0
+fresh frozen plasma 8 units,0
+cryoprecipitate 3 units,0
+"urine output 1,520 ml",0
+"estimated blood loss 10,000 ml",0
+metabolic acidosis post-operation,0
+pH <7.2,0
+azotemia,0
+creatinine over 2.0 mg/dl,0
+ongoing graft failure,0
+intractable bleeding,0
+severe hypoxemia,0
+mechanical ventilation FiO2 1.0,0
+tidal volume 6 ml/kg,0
+respiratory rate 30 breaths/minute,0
+positive end-expiratory pressure up to 10 cmH2O,0
+chest radiography pulmonary congestion,0
+echocardiography normal,0
+anuria,7
+continuous renal replacement therapy initiated,7
+right femoral vein CRRT access,7
+brain tomography normal,7
+failure of conventional ventilatory support,7
+decision to initiate VV ECMO,7
+hypovolemic arrest during first LT,0
+post-operative echocardiography normal,0
+28 Fr drainage cannula right femoral vein,7
+21 Fr Medtronic return cannula right internal jugular vein,7
+CAPIOX emergent bypass system,7
+circuit primed with 470 ml normal saline,7
+CAPIOX EBS oxygenator 1.8 m2 membrane,7
+CRRT continued through ECMO circuit,7
+VV ECMO circulation 4.0-5.0 L/min,7
+sweep gas flow 5-6 L/min,7
+100% oxygen on ECMO,7
+heparin not used,7
+antithrombin 500 IU every 6 hours,7
+activated clotting time monitored,7
+ACT maintained 120-180 seconds,7
+SpO2 improved to 95%,7
+FiO2 0.3-0.4 ventilator,7
+FiO2 1.0 ECMO,7
+transferred for deceased donor LT,31
+warm ischemic time 41 minutes,31
+cold ischemic time 446 minutes,31
+preoperative chest radiograph pulmonary congestion,31
+bilateral pleural effusions,31
+MELD score 30 at secondary LT,31
+high risk of massive bleeding,31
+decision to discontinue CRRT during operation,31
+intubated on arrival,31
+core temperature monitoring,31
+FMS 2000 fluid warming,31
+warm blanket,31
+humidifier on ventilator circuit,31
+cotton roll and vinyl wrap limbs,31
+room temperature 24.0-28.0℃,31
+SpO2 97-100% during secondary LT,31
+FiO2 0.5 ventilator,31
+pressure controlled ventilation,31
+tidal volume 3-4 ml/kg,31
+respiratory rate 8-12 breaths/min,31
+PEEP 5-10 cmH2O,31
+ECMO flow 4-5 L/min,31
+gas sweep 5-6 L/min,31
+body temperature 35.8-36.1℃,31
+compartment syndrome concern,31
+abdomen left open,31
+"crystalloid infused 7,400 ml",31
+"colloid infused 2,530 ml",31
+5% dextrose water 450 ml,31
+cell saver autotransfusion 792 ml,31
+leukocyte-depleted red blood cell 11 units,31
+fresh frozen plasma 8 units,31
+plateletpheresis 2 units,31
+cryoprecipitate 8 units,31
+operation duration 350 minutes,31
+hematocrit maintained over 24%,31
+no severe oozing,31
+no acute massive bleeding,31
+mean arterial pressure maintained over 70 mmHg,31
+anuria during operation,31
+sedation with midazolam,0
+sedation with fentanyl,0
+CRRT restarted post-operation,0
+ECMO continued post-operation,0
+body temperature 35.3-37.0℃ post-operation,0
+forced-air warmer,0
+heated humidifier,0
+pre-warmed fluid,0
+Glasgow coma scale tested every 4 hours,0
+pupil size monitored,0
+light reflex monitored,0
+limb movement monitored,0
+orientation checked,0
+pupil dilatation absent,0
+continuous sedation,0
+cisatracurium infusion,0
+arterial oxygen saturation improved,64
+chest roentgenogram improved,64
+sonography showed functional graft,64
+coagulopathy improved,64
+hemodynamic stability achieved,64
+norepinephrine infusion tapered,64
+hepatic failure recovery,64
+ECMO weaning initiated,64
+bypass flow reduced to 3.0 L/min,64
+oxygen flow to ECMO gradually reduced,71
+FiO2 ventilator increased to 0.6,71
+ABGA appropriate oxygenation,73
+ECMO removed,73
+PaO2/FiO2 ratio improved from 56.9 to 117.2,73
+PaCO2 similar to pre-ECMO,73
+ventilatory demand decreased,73
+PaO2/FiO2 stabilized,73
+laparotomy closure 5 days post-operation,120
+liver congestion noted,144
+hepatic drainage failed,144
+surgical decompression performed,144
+stenosis intrahepatic IVC,144
+stenting performed,216
+graft failure not improved,216
+leg necrosis,216
+sepsis,216
+fentanyl discontinued,216
+cisatracurium discontinued,216
+eye opening for half-day,216
+low grade motor responses,216
+no consciousness improvement,216
+expired due to multi-organ failure,576

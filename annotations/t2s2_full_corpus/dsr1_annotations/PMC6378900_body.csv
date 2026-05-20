@@ -1,0 +1,78 @@
+event,time
+35 years old,0
+male,0
+no past medical history,0
+presented to the emergency department,0
+complaining of polydipsia,-168
+complaining of generalized weakness,-168
+complaining of light headedness,-168
+complaining of visual disturbances,-168
+blood glucose 600 mg/dL,0
+arterial blood pH 7.26,0
+beta-hydroxybutyrate greater than 46.8 mg/dL,0
+anion gap 27 mmol/L,0
+hemoglobin A1c 11%,0
+"mild leukocytosis 12,250 cells/mcl",0
+admitted to intensive care unit,0
+treated with intravenous fluids,0
+treated with insulin infusion,0
+transferred to medical floor,24
+transitioned to subcutaneous insulin,24
+developed fever 101.6 °F,24
+altered mental status,24
+unable to follow multistep commands,24
+unable to tell time,24
+unaware of location,24
+unaware of hospitalization details,24
+unaware of current President,24
+auditory hallucinations,24
+visual hallucinations,24
+no prior psychiatric history,24
+generalized muscle soreness,24
+neck stiffness,24
+impaired finger to nose testing,24
+dysconjugate gaze,24
+no nuchal rigidity,24
+Kernig’s sign negative,24
+Brudzinski’s sign negative,24
+chest radiograph no acute cardiopulmonary pathology,24
+CT head negative,24
+MRI brain negative,24
+lumbar puncture performed,24
+CSF protein elevated 74 mg/dL,24
+CSF glucose normal 95 mg/dL,14
+CSF 14 red blood cells,24
+CSF 10 white blood cells,24
+CSF Gram stain no organisms,24
+Herpes virus PCR negative,24
+Enterovirus PCR negative,24
+blood cultures sent,24
+urine cultures sent,24
+urine analysis large blood,24
+urine analysis 2 red blood cells per HPF,24
+myoglobinuria suspected,24
+"creatine kinase 19,154 U/L",24
+started on vancomycin,24
+started on cefepime,24
+mental status improved,72
+hallucinations resolved,72
+"creatine kinase rose to 118,400 U/L",72
+weakness improved,72
+muscle tenderness mild,72
+vastus lateralis muscle biopsy,72
+muscle biopsy rare hypotrophic fibers,72
+muscle viral myositis panel sent,72
+muscle paraneoplastic panel sent,72
+blood cultures negative,72
+urine cultures negative,72
+vancomycin stopped,72
+cefepime stopped,72
+continued improvement,72
+no recurrence of fever,72
+creatine kinase decreased,96
+muscle tenderness resolved,96
+discharged home,264
+CSF IgM positive for WNV,264
+CSF IgG positive for WNV,264
+muscle viral panel negative,264
+paraneoplastic panel negative,264

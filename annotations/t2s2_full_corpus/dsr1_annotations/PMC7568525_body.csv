@@ -1,0 +1,87 @@
+event,time
+24 years old,0
+male,0
+no previous medical history,0
+admitted to the Emergency Department,0
+fever,-72
+cough,-72
+fatigue,-72
+weighed 60 kg,0
+height 170 cm,0
+appeared tired,0
+disoriented to place,0
+disoriented to time,0
+blood in nasopharynx,0
+no oral injury,0
+no urinary incontinence,0
+no bowel incontinence,0
+no neck stiffness,0
+vomited coffee ground emesis,0
+hematemesis,0
+oxygen saturation 99%,0
+blood pressure 126/84 mmHg,0
+temperature 39.4°C,0
+level of consciousness deteriorated rapidly,0
+intubated,0
+portable chest X-ray normal lung parenchyma,0
+severe deranged liver function,0
+nasopharyngeal/throat swab positive for SARS-CoV-2,0
+severe disease,0
+chloroquine,0
+azithromycin,0
+oseltamivir,0
+tocilizumab,0
+acetylcysteine infusion,0
+lactulose,0
+vitamin K,0
+rifaximin,0
+intravenous pantoprazole,0
+4-factor prothrombin complex concentrate,0
+fresh frozen plasma,0
+fibrinogen,0
+sustained low-efficiency dialysis,0
+acute kidney injury,0
+no other causes for liver injury,0
+computed tomography of head normal,0
+abdominal ultrasound liver normal size,0
+spleen normal size,0
+kidneys normal size,0
+body temperature fluctuating 31.8°C-39°C,0
+body temperature dropped to 24.4°C,0
+ventilatory settings continuous mandatory ventilation,0
+positive end expiratory pressure 5 cm H2O,0
+inspired oxygen fraction 25%,0
+oxygen saturation 99-100%,0
+repeat RT-PCR positive for SARS-CoV-2 after 7 days,168
+disseminated intravascular coagulation,0
+bleeding from intravenous site,0
+bleeding from endotracheal tube,0
+remained in ICU,0
+died,240
+multiorgan failure,240
+acute liver failure,240
+acute renal failure,240
+disseminated intravascular coagulation,240
+good saturation on room air,0
+chest X-ray unremarkable,0
+no acute respiratory distress syndrome,0
+low ventilatory setting,0
+liver enzymes >7000 U/L,0
+acute kidney injury requiring hemodialysis,0
+coagulopathy,0
+high international normalized ratio,0
+low platelets,0
+low fibrinogen,0
+high d-dimer,0
+early acute hepatitis B infection,0
+model for end-stage liver disease score 51,0
+elevated creatinine kinase,0
+elevated lactate dehydrogenase,0
+elevated myoglobin,0
+H score 172,0
+hemophagocytic syndrome 54-70% risk,0
+COVID-19-induced cytokine storm,0
+immunosuppression,0
+severe hepatitis B flare,0
+severe spontaneous hypothermia,0
+inverse neutrophil to lymphocyte ratio,0

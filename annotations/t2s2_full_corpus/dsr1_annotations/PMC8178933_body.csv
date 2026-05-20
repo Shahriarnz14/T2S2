@@ -1,0 +1,45 @@
+event,time
+89 years old,0
+Caucasian,0
+man,0
+body weight 82 kg,0
+fever,-168
+cough,-168
+valvular heart disease,0
+atrial fibrillation,0
+hypertension,0
+warfarin,0
+bisoprolol,0
+ramipril,0
+furosemide,0
+international normalized ratio over 2,-4320
+COVID-19 diagnosis,-240
+positive SARS-CoV-2 test,-240
+amoxicillin,-240
+spiramycin,-240
+azithromycin,-240
+major bleeding,0
+epistaxis,0
+hypoxaemia,0
+pulse oxygen saturation 80%,0
+systolic blood pressure 105 mmHg,0
+diastolic blood pressure 59 mmHg,0
+heart rate 104 per minute,0
+INR > 10,0
+D-dimer 400 ng/mL,0
+B-type natriuretic peptide 81 pg/mL,0
+high-sensitivity troponin T 10 ng/L,0
+ground-glass opacity,0
+crazy paving,0
+air space consolidation,0
+colon dilatation,0
+vitamin K administration,0
+enoxaparin,0
+D-dimer > 12000 ng/mL,168
+acute proximal bilateral pulmonary embolism,168
+discharged,384
+low-molecular-weight heparin,384
+oxygen therapy 2 L/min,384
+non-documented bacterial pneumonia,480
+septic shock,624
+death,624

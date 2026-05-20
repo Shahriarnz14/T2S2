@@ -1,0 +1,91 @@
+event,time
+65-year-old ,0
+female ,0
+admitted to the hospital ,0
+fever ,0
+chills ,0
+pain in left leg ,0
+cellulitis ,0
+intravenous clindamycin 600 mg thrice daily started ,0
+intravenous benzylpenicillin 2 million units 4 times daily started ,0
+parkinsonism ,-17520
+diabetes mellitus ,-17520
+levodopa / carbidopa prescribed ,-17520
+rasagiline prescribed ,-17520
+ropinirole prescribed ,-17520
+trihexyphenidyl prescribed ,-17520
+amantadine prescribed ,-17520
+metformin prescribed ,-17520
+glipizide prescribed ,-17520
+multiple hospital admissions for worsening parkinsonism ,-8760
+multiple Intensive Care Unit (ICU) admissions for worsening parkinsonism ,-8760
+worsening parkinsonism ,-8760
+levodopa / carbidopa continued ,0
+rasagiline continued ,0
+ropinirole continued ,0
+trihexyphenidyl continued ,0
+amantadine continued ,0
+metformin continued ,0
+glipizide continued ,0
+persistent high-temperature spikes (above 102°F) ,48
+tachycardia ,48
+tachypnea ,48
+hypotensive ,48
+encephalopathic ,48
+shifted to ICU ,48
+sepsis with multi-organ dysfunction syndrome considered ,48
+intravenous linezolid 600 mg twice daily started ,48
+intravenous piperacillin with tazobactam 4.5 gm thrice daily started ,48
+vancomycin not considered ,48
+borderline renal parameters ,48
+hemodynamics improved ,48
+minimal inotropic supports ,48
+oral hypoglycemic agents stopped ,48
+metformin stopped ,48
+glipizide stopped ,48
+insulin started ,48
+"white blood cell count 14,200 cells/mm3 ",48
+confused ,60
+drowsy ,60
+disoriented ,60
+altered sensorium ,60
+myoclonus ,60
+tremors ,60
+jerky movements ,60
+no neck stiffness ,60
+computed tomography of the brain not significant ,60
+cerebrospinal fluid analysis not significant ,60
+"white blood cell counts improved to 11,000 cells/mm3 ",60
+better glycemic control ,60
+no other abnormalities ,60
+blood cultures sterile ,60
+pus cultures sterile ,60
+high temperature of 103°F ,72
+altered mental status ,72
+myoclonus ,72
+jerky movements ,72
+tremors ,72
+no other drugs were added ,72
+medications were scrutinized ,72
+serotonin syndrome suspected ,72
+linezolid probable adverse drug reaction ,72
+Naranjo score of six ,72
+probable causality of serotonin syndrome due to rasagiline and linezolid ,72
+linezolid stopped ,72
+rasagiline stopped ,72
+temperature settled ,80
+heart rate was normal ,96
+sensorium improved ,96
+tremors completely subsided ,96
+shifted out of the ICU ,96
+started walking with support ,240
+discharged from the hospital ,240
+discharged with anti-parkinsonism drugs ,240
+levodopa / carbidopa continued at discharge ,240
+ropinirole continued at discharge ,240
+trihexyphenidyl continued at discharge ,240
+amantadine continued at discharge ,240
+rasagiline later added ,336
+regular follow-up with the neurologist ,360
+stable ,360
+asymptomatic for serotonin syndrome ,360

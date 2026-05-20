@@ -1,0 +1,72 @@
+event,time
+57 years old,0
+male,0
+unconscious,0
+alcohol abuse,0
+alcohol dementia,0
+arterial hypertension,0
+increasingly confused,-24
+unresponsive,0
+hypothermic,0
+temperature 34.7°C,0
+Kussmaul breathing,0
+respiratory rate 28 breaths/min,0
+blood pressure 150/90 mmHg,0
+heart rate fluctuating 75–150 beats/min,0
+atrial fibrillation,0
+ECG no abnormalities,0
+rigid limbs,0
+pupils absent light reflex,0
+computed tomography cerebrum unremarkable,0
+chest X-ray unremarkable,0
+hyperkalemia (K+=5.1 mmol/L),0
+high anion gap (34.7 mEq/L),0
+elevated lactic acid (>30 mmol/L),0
+"metabolic acidosis (pH 7.07, HCO3− 6.4 mmol/L)",0
+bladder catheterization clear urine,0
+urine drug screen positive benzodiazepines,0
+intubated,0
+transferred to ICU,0
+treatment with bicarbonate,0
+electrolyte correction,0
+suspicion ethylene glycol poisoning,0
+intravenous ethyl alcohol infusion,0
+suspicion sepsis,0
+"intravenous antibiotics (Meropenem, Metronidazole)",0
+increasing creatinine (90 to 138 µmol/L),6
+decreasing urine production,6
+hyperkalemia,6
+worsening acidosis (pH 6.90),6
+increased anion gap (35.5 mEq/L),6
+hemodialysis initiated,6
+hypotension,6
+increased heart rate,6
+urine sediment COM crystals,6
+clinical recovery,48
+extubated,48
+hemodialysis discontinued,48
+ethyl alcohol infusion discontinued,48
+regained urine production under furosemide,48
+normalized creatinine,48
+normalized calcium,48
+corrected acidosis,48
+decreasing lactate,48
+transferred to medical ward,48
+discharged to home,96
+previous antifreeze coolant intake,-672
+previous ethylene glycol poisoning,-672
+history of similar hospitalization,-672
+WBC 15.6 ×10^9/L,0
+hemoglobin 9.5 mmol/L,0
+urea 4.0 mmol/L,0
+Na 140 mmol/L,0
+Cl− 104 mEq/L,0
+calcium 2.67 mmol/L,0
+glucose 6.1 nmol/L,0
+CRP 0.7 mg/L,0
+ethanol <3 mmol/L,0
+calculated osmolarity 290.1 mOsm/kg,0
+pCO2 1.02 kPa,0
+pO2 19.4 kPa,0
+base excess -29 mmol/L,0
+"urine toxicology negative for amphetamines, methamphetamines, barbiturates, marijuana, cocaine, PCP, methadone, opioids",0

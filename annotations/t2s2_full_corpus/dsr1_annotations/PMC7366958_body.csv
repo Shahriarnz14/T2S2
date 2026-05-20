@@ -1,0 +1,64 @@
+event,time
+58 years old,0
+woman,0
+hypertension,0
+diabetes mellitus,0
+Brugada syndrome,0
+implantable cardioverter-defibrillator implantation,-26280 (2017)
+syncopal episode,-17520 (2019)
+ventricular fibrillation,-17520 (2019)
+ICD shock,-17520 (2019)
+febrile illness,-72
+multiple syncopal episodes,0
+ICD interrogation,0
+multiple episodes of ventricular fibrillation,0
+nonsustained VF,0
+7 episodes terminated by ICD shocks,0
+fever persisted,0
+antipyretics,0
+maximum temperature 101.7°F,24
+additional episodes of VF requiring shock termination,24
+SARS-CoV-2 positive,0
+admitted to intensive care unit,0
+isoproterenol infusion,0
+aggressive fever treatment,0
+acetaminophen,0
+salsalate,0
+cooling blanket,24
+fever control,24
+temperature normalized,48 (assuming 24 hours after cooling blanket)
+hydroxychloroquine started,24 (hospital day 1)
+hydroxychloroquine discontinued,48 (hospital day 2)
+QTc prolongation 554 ms,48
+oxygenation difficulty,48
+respiratory status decline,48
+non-rebreather mask,48
+prone positioning,48
+unremarkable chest radiograph,0
+multifocal airspace opacities,72 (hospital day 3)
+interstitial opacities,72
+acute respiratory distress syndrome,72
+COVID-19-associated pneumonia,72
+isoproterenol discontinued,72 (hospital day 3)
+atrial tachycardia 140-150 bpm,72
+broad-spectrum antibiotics,120 (hospital day 5)
+possible superimposed bacterial pneumonia,120
+remdesivir initiated,144 (hospital day 6)
+respiratory function decline,144
+intubation,144
+lymphopenia 130/μL,144
+increased C-reactive protein 54.5 mg/dL,144
+D-dimer 8474 ng/mL,144
+fibrinogen >1000 mg/dL,144
+ferritin 1116 ng/mL,144
+procalcitonin 2.7 ng/mL,144
+therapeutic anticoagulation,144
+hypercoagulable state,144
+septic shock,432 (hospital day 18)
+multiple vasopressors,432
+infrequent atrial tachycardia,432
+sedation holiday,432
+unarousable,432
+computed tomography intracranial hemorrhage,432
+mass effect,432
+transition to comfort care,432

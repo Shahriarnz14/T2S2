@@ -1,0 +1,119 @@
+Clostridioides (Clostridium) difficile is an anaerobic, spore-forming gram-positive bacterium that causes nosocomial diarrhea with high mortality and morbidity. Previous antibiotic treatment is the main risk factor for C. difficile infection (CDI), and the clinical appearance of CDI varies from asymptomatic carriers to severe pseudomembranous colitis and toxic megacolon [1]. Approximately 11%–27% of all CDI cases seem to be community acquired [2]. Up to 30% of adult hospitalized patients and 0%–15% of healthy adults are estimated to be asymptomatically colonized [3]. The major pathogenic factors expressed by C. difficile are enterotoxin A and cytotoxin B, but more virulent strains can express a third “binary toxin” encoded by cdtAB [4]. The strains associated with outbreaks and severe infections are ribotypes 078 and 027 [5]. In Europe RT027, RT001, RT014, and RT020 are dominant, with regional differences [6]. Extra-intestinal C. difficile manifestations are rare given the high incidence of intestinal CDI. The majority of extra-intestinal manifestations are either abdominopelvic infections, wound infections after antibiotic exposure, or wound infections after gastrointestinal surgery [7]. C. difficile bacteremia is mainly polymicrobial and primarily seen in patients with abdominal pathologies. Mortality can be as high as 35%; however, patients usually have severe underlying medical conditions [8].
+
+Infections of cardiovascular implantable electronic devices are increasing due to a rising number of implanted devices and more complex implantation procedures, with an incidence of 0.5%–3.4%. Bacterial colonization can occur during implantation or hematogenously [9], and the most common pathogens are staphylococcal species, followed by gram-negative pathogens, streptococci, enterococci, and anaerobic species [10]. Pocket infection with bacteremia and lead-associated endocarditis is associated with higher morbidity and mortality compared with pocket infection alone. The presence of ghosts after lead extraction is associated with infective endocarditis and leads to increased mortality [11]. Standard treatment is complete device removal with antibiotic therapy and reimplantation at an alternate site after adequate antibiotic treatment [12].
+
+To date, no C. difficile pacemaker pocket and lead infection has been described. We present a case of C. difficile pacemaker pocket and lead infection with bacteremia in a patient without gastrointestinal CDI symptoms. Written informed consent was obtained from the patient for publication.
+
+CASE REPORT
+A 75-year-old male was referred to our stroke unit from a secondary care hospital with acute ischemic stroke due to thrombotic occlusion of the M1 segment of the left A. cerebri media following coronary angiography and intervention for non-ST-elevation myocardial infarction. He was referred to our hospital with right-sided hemiplegia for successful mechanical thrombectomy. An aspiration pneumonia was treated empirically with piperacillin/tazobactam for a total of 7 days. Additionally, an electrocardiogram revealed recurrent sinus bradycardia with intermittent ventricular escape rhythm and third-degree sinoatrial block. He underwent 2-chamber pacemaker implantation (Medtronic Ensura, Dublin, Ireland). According to national recommendations, povidone-iodine solution was used for preoperative skin antisepsis (exposure time 1 minute). No specific antibiotic prophylaxis was used for the procedure, as the patient was still under piperacillin/tazobactam at the time of pacemaker implantation. Postimplantation measurements and wound inspections were normal. The patient was discharged to a neurological rehabilitation facility 4 days after pacemaker implantation, a total of 16 days after initial admission.
+
+He was readmitted after 7 days with fever and a hyperthermic, reddened pacemaker incision site. Laboratory examination revealed leucocytosis and elevated C-reactive protein. Blood cultures were collected before empirical antibiotic therapy with ampicillin/sulbactam was initiated. With suspected pacemaker pocket infection, system extraction was performed. Intraprocedural inspection of the pacemaker pocket revealed no pus but an old hematoma. Swab samples of pacemaker and pocket, as well as the explanted leads, were retained for microbiological diagnostic. The patient was transferred to our intensive care unit with persisting sinoatrial block for further monitoring and transesophageal echocardiography (TEE). TEE revealed mobile vegetation from the right atrium to the superior vena cava (Figure 1) consistent with the presence of ghosts, indicating bacterial colonization of the intravascular segment of the lead with device-associated endocarditis.
+
+Figure 1.  Transesophageal echocardiography (TEE) results. A, TEE revealing mobile vegetation from the right atrium to the superior vena cava. B, Control TEE with elimination of endocarditis vegetation.
+
+Five sets of blood cultures (BACTEC, Becton Dickinson, Franklin Lakes, NJ, USA) were positive on culture day 2 for C. difficile isolated on schaedler agar (Becton Dickinson, Franklin Lakes, NJ, USA). The pacemaker samples (swabs and lead culture) and pocket swab cultures were positive for C. difficile on culture day 2. In order to detect an intestinal colonization with C. difficile, a stool sample was obtained. Two toxigenic C. difficile strains and 1 nontoxigenic isolate were obtained from the stool cultures. All acquired isolates underwent antimicrobial testing and ribotyping. The minimum inhibitory concentration of the isolate from the pacemaker was 0.5 mg/L for vancomycin and 1 mg/L for metronidazole (Table 1). Genotyping detected the toxigenic ribotype RT014 (Clade 1, MLST sequence type 2) in the stool and pacemaker isolate. Clonality of the RT014 isolates was confirmed by whole-genome sequencing (cgMLST) [13]. Additionally, 1 RT020 (toxigenic) and 1 unclassified nontoxigenic isolate were detected in the stool sample, indicating mixed strain colonization. Detailed medical history of the patient uncovered no signs of previous C. difficile infection. The patient neither suffered from nor previously had contact with infectious diarrhea, and abdominal ultrasound revealed no pathologies. In our institution, prevalence of C. difficile–associated diarrhea is low (0.28 CDI cases/100 patients were reported in 2019).
+
+Table 1. Results of Antimicrobial Susceptibility Testing of the RT014 Isolate From Blood Cultures (According to EUCAST, Version 9.0, 2019) for C. difficile
+
+Antimicrobial	Minimum Inhibitory Concentration, mg/L	Interpretation 	
+Vancomycin	0.38	S	
+Metronidazole	0.75	S	
+Moxifloxacin	3.0	S	
+Benzylpenicillin	1.5	
+a
+	
+Ampicillin	3.0	
+a
+	
+Ampicillin/sulbactam	3.0	
+a
+	
+Piperacillin/tazobactam	6.0	
+a
+	
+Cefuroxime	>256	
+a
+	
+Cefepime	>256	
+a
+	
+Cefotaxime	>32	
+a
+	
+Ceftriaxone 	>32	
+a
+	
+Imipenem 	3.0	
+a
+	
+Meropenem	2.0	
+a
+	
+Ertapenem	2.0	
+a
+	
+Ciprofloxacin	16.0	
+a
+	
+Levofloxacin	8.0	
+a
+	
+Trimethoprim/sulfamehoxazole	>32	
+a
+	
+Teicoplanin	0.38	
+a
+	
+Clindamycin	4.0	
+a
+	
+Rifampicin	0.002	
+a
+	
+Clarithromycin 	2.0	
+a
+	
+Abbreviations: EUCAST, European Committee on Antimicrobial Susceptibility Testing; S, susceptible. 
+
+
+aNo breakpoints for interpretation of results of susceptibility testing available.
+
+Antibiotic treatment was switched to intravenous vancomycin and oral metronidazole according to susceptibility testing and under continuous drug monitoring. Laboratory tests revealed normalization of leukocytes and C-reactive protein. On the third day of treatment, oral antibiotic therapy was switched from metronidazole to vancomycin due to increasing liver enzymes. Repeated blood cultures and stool samples during therapy remained negative.
+
+The patient was transferred back to the rehabilitation facility on day 23 of antibiotic treatment. Intravenous vancomycin was continued for a total of 30 days. To decolonize the intestine as a possible reservoir for reinfection, oral vancomycin was administered for a total of 42 days using a tapering regime [14]. Seven days after discontinuation of oral vancomycin, the patient was readmitted for pacemaker reimplantation. Before reimplantation, TEE revealed complete elimination of vegetations (Figure 2). Repeated blood cultures and skin swabs of the groin, axilla, rump, and pacemaker pocket were negative for C. difficile. Colonoscopy showed no signs of intestinal inflammation but a few noninflamed sigmoid diverticula. However, toxigenic C. difficile was again isolated from follow-up stool samples, but genotyping revealed a different toxigenic RT005, indicating reinfection.
+
+After 3 days of treatment with intravenous vancomycin, reimplantation of the pacemaker was performed on the contralateral side. The patient was released to a rehabilitation facility on day 5 with an oral vancomycin tapering regime for another 50 days. Upon a scheduled follow-up visit 2 months after reimplantation, normal pacemaker function with no sign of infection was documented.
+
+DISCUSSION
+To the best of our knowledge, no case of C. difficile pacemaker pocket and lead infection has been described previously. In the literature, 3 cases of C. difficile infection of endovascular grafts [15–17] and 1 case with infected epicardial patch could be identified [18].
+
+Two cases of C. difficile infection of endovascular aortic graft had preceding abdominal pathologies and underwent surgical treatment in addition to intravenous vancomycin and metronidazole [15, 16].
+
+One case with mycotic aneurysm of an axillo-bifemoral bypass after pseudomembranous colitis was treated with surgical debridement and intravenous ampicillin/sulbactam and metronidazole [17]. C. difficile infection of an epicardial patch occurred after transverse colectomy 9 years after patch implantation and was treated with patch removal and intravenous vancomycin and metronidazole [18]. Another case with mycotic abdominal aortic aneurysm caused by C. difficile is of special interest as the patient was an asymptomatic community-acquired carrier of C. difficile without any history of hospital admission 3 years before infection. He did, however, suffer from severe diverticulosis, and hematogenous spread from the colonized gut was postulated as the most likely origin of infection [19]. In all cases, the pathway of graft infection was most likely through bacteremia, as all patients had gastrointestinal pathologies and preceding antibiotic therapies. In these cases, surgical removal and prolonged antibiotic treatment was successful.
+
+In contrast, in our case no underlying gastrointestinal pathologies or diarrhea was evident. One may speculate that even diverticulosis without active diverticulitis might act as a translocation route, leading to transient bacteremia and prosthetic material infection, especially as skin swabs remained negative. This finding is in contrast to other cases, where severe intestinal pathologies were present with extra-intestinal C. difficile manifestations [7]. Possible pathomechanisms for C. difficile bacteremia are bacterial transfer in mucosal injury or bacterial translocation in disrupted mucosal barrier function [8, 20].
+
+In our case, 3 C. difficile strains were detected in stool samples (2 toxigenic, 1 nontoxigenic), but only the toxigenic RT014 strain was isolated from pacemaker probes and blood cultures. Clonality of the RT014 strain might suggest hematogenous translocation to the bloodstream from the intestine. Coinfections by multiple different C. difficile ribotypes can occur, but data are lacking on the question of whether toxigenic strains or some ribotypes translocate more easily [8, 21].
+
+The asymptomatic C. difficile reinfection after initial eradication in our patient might indicate a higher susceptibility for C. difficile colonization, but studies do not indicate a higher prevalence or reinfection risk of C. difficile when diverticulosis is present [22]. Notably, the majority of short-term C. difficile recurrences are relapses rather than reinfections [23, 24].
+
+Infections of cardiac implantable electronic devices can occur hematogenously or more commonly due to contamination with skin flora at initial implantation [25]. This is particularly the case for early-onset infections within 6 months [26]. Hematogenous infection of cardiac implantable electronic devices usually presents late and without concomitant pocket infection. Seeding to an implanted device in patients with bacteremia is primarily described in infections due to Staphylococcus aureus [25] but rarely occurs with gram-negative pathogens [25, 27]. Therefore, another explanation for the presented C. difficile pacemaker infection is surgical site infection due to skin colonization by C. difficile.
+
+In patients with CDI, skin colonization of multiple body sites including the chest, groin, forearms, and hands has been shown [28]. Asymptomatic toxigenic C. difficile colonization is found in 7%–15% of healthy adults and up to 50% of residents of long-term care facilities [3]. Our patient might have contracted C. difficile during his first hospital admission, or a community-acquired colonization might have occurred. Asymptomatic C. difficile carriers show skin and environmental contamination [29]. Spores of asymptomatic carriers can easily be transmitted as skin and hand disinfectants do not inactivate spores. The presented patient had asymptomatic intestinal colonization. Skin contamination of multiple body sites could have occurred, resulting in a risk of periprocedural pacemaker contamination. Swabs taken before reimplantation remained negative; nevertheless skin contamination preceding the initial implantation cannot be ruled out, as no testing was initially performed.
+
+For pacemaker implantations, infection prevention measures such as special procedure room, double gloving, annual hygiene inspections, and glucoprotamin-based surface disinfection (Incidin Plus 0.5%, exposure time 30 minutes) are in place at our institution. Povidone-iodine solution (exposure time 1 minute) was used for preoperative skin antisepsis during all procedures; however, this preparation has no sporicidal efficacy in short-term application. At this point, the route of infection in our patient remains unclear, but contamination during the implantation procedure seems to be the more likely route of infection. We present a highly unique case of pacemaker pocket infection, lead endocarditis, and bacteremia with C. difficile. This is the first reported case of C. difficile causing a cardiac device infection, and it is unique, as no acute gastrointestinal inflammatory pathologies or diarrhea was present. Given the high numbers of asymptomatic C. difficile carriers and the growing use of cardiac implantable electronic devices, it remains unclear why this problem has not become apparent before.
+
+Until now, C. difficile bacteremia has been associated with underlying gastrointestinal pathologies, severe comorbidities, and immunosuppression. In our patient, none of these was the case. Hence CDI would never have been suspected. With rising numbers of implanted cardiac electronic devices and the high incidence of C. difficile infections and colonizations, bloodstream and device infections with C. difficile might be a potentially growing issue. Recommendations for management of extra-intestinal C. difficile infection risk and treatment are needed.
+
+Acknowledgments
+
+Financial support. Not applicable.
+
+
+Potential conflicts of interest. All authors: no reported conflicts of interest. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.
+
+
+Author contributions. A.B. and K.L.L. were the patient’s internal medicine physicians and provided images. K.R. was the consulting microbiologist for the case. F.K.B. and B.C.G. at the National Reference Laboratory supported the microbiological analysis of the case. K.R. and A.B. wrote the manuscript, analyzed the case, and did the review of the literature. D.B., K.L.L., F.K.B., N.W., A.P., and B.C.G. reviewed and edited the manuscript.
+
+
+Patient consent. Written informed consent was obtained from the patient for publication. Publication of the retrospectively obtained and anonymized data conformed to article 27 of the “Bayerisches Krankenhausgesetzes.”

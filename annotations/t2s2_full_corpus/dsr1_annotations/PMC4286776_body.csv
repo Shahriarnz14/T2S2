@@ -1,0 +1,81 @@
+event,time
+84 years old,0
+male,0
+chronic constipation,0
+history of chronic constipation,-87600
+history of chronic heart failure,0
+history of atrial fibrillation,0
+admitted to the hospital,0
+diagnostic barium enema scheduled,0
+barium enema administered,0
+lower abdominal discomfort,0
+lower abdominal pain,0
+rectal tube insertion,0
+sudden lower abdominal pain,0
+pain increased during procedure,0
+vague lower abdominal pain,0
+generalized abdominal tenderness,0
+lower quadrant tenderness,0
+insignificant rebound tenderness,0
+hypogastric rebound tenderness,0
+digital rectal exam,0
+loose stool,0
+bloody stool,0
+supine abdominal x-ray,0
+contrast extravasation,0
+rectal perforation,0
+barium extravasation,0
+fluid replacement,0
+resuscitation,0
+prophylactic antibiotics,0
+emergent exploratory laparotomy,0
+midline incision,0
+no visible perforation in distal colon,0
+no visible perforation in sigmoid,0
+no visible perforation in upper rectum,0
+barium drops on posterior peritoneum,0
+barium around sigmoid mesocolon,0
+barium around mesoileum,0
+retroperitoneal barium penetration into intraperitoneal cavity,0
+barium extraction,0
+peritoneal irrigation,0
+peritoneal lavage,0
+diverting ileostomy,0
+tissue sample taken,0
+fat necrosis,0
+foreign-body reaction,0
+transferred to ICU,0
+broad-spectrum IV antibiotics,0
+sepsis developed,48
+rigid proctoscopy,48
+rectal inflammation,48
+rectal blood clots,48
+presacral drain insertion,48
+improved general condition,240
+sepsis resolved,240
+generalized abdominal pain,336
+high fever,336
+abdominopelvic CT scan,336
+retroperitoneal hyperdense area,336
+extension to psoas muscles,336
+second laparotomy,336
+retroperitoneal barium dissemination,336
+barium up to inferior kidney poles,336
+mesentery covered by barium,336
+inflamed retroperitoneal tissues,336
+retroperitoneal irrigation,336
+massive debridement,336
+corrugated drains inserted,336
+stable vital signs,408
+fever resolved,408
+appetite regained,408
+presacral drain removal,408
+abdominal drain removal,408
+oral diet initiated,408
+discharged,480
+referred to stoma care center,480
+biweekly surgical visits,480
+ileostomy closure,960
+monthly visits,960
+bimonthly visits,960
+residual barium on x-ray,17520

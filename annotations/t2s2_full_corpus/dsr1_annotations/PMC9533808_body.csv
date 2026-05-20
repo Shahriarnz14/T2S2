@@ -1,0 +1,111 @@
+event,time
+50 years old,0
+male,0
+transferred to intensive care unit,0
+recent tick bite,-168
+generalized myalgias,-168
+lethargy,-168
+dizziness,-168
+admitted to medical intensive care unit (outside hospital),-48
+peak temperature 101.5 °F,-48
+systolic blood pressure 80 mm Hg,-48
+WBC 23.6 10E3/μL,-48
+hemoglobin 21.3 g/dL,-48
+hematocrit 63.4%,-48
+ESR 1 mm/h,-48
+venous doppler negative for deep vein thrombosis,-48
+computed tomography chest negative for pulmonary embolism,-48
+computed tomography chest negative for pneumonia,-48
+transthoracic echocardiogram ejection fraction 56.4%,-48
+EKG normal sinus rhythm,-48
+Lyme titer negative,-48
+IV aztreonam,-48
+IV vancomycin,-48
+IV levofloxacin,-48
+pulseless electrical activity (PEA) arrest,-24
+intubated,-24
+return of spontaneous circulation,-24
+extensive dusky mottling of distal extremities,0
+cool extremities,0
+full and firm extremities,0
+lower extremity pulses present via Doppler,0
+capillary refill time >3 s,0
+right leg lesion concerning for necrosis/vasculopathy,0
+IV vancomycin,0
+IV tazobactam-piperacillin,0
+IV doxycycline,0
+hypotensive requiring norepinephrine,0
+hypotensive requiring vasopressin,0
+hemoglobin 22.4 g/dL,0
+hematocrit 65.1%,0
+WBC 34.5 10E3/μL,0
+platelets 167 10E3/μL,0
+lactic acid 7.5 mEq/L,0
+creatinine 2.49 mg/dL,0
+AST 433 IU/L,0
+ALT 477 IU/L,0
+alkaline phosphatase 26 IU/L,0
+total bilirubin 0.4 mg/dL,0
+direct bilirubin 0.0 mg/dL,0
+serum albumin <1.5 g/dL,0
+received albumin infusions,0
+serum calcium 5.1 mg/dL,0
+intravenous calcium supplementation,0
+fibrinogen 118 mg/dL,0
+d-dimer 16.17 μg/ml,0
+fibrin split products >40 μg/ml,0
+worsening diffuse edema of extremities,24
+four-compartment right lower extremity fasciotomy,48
+right lateral thigh fasciotomy,48
+right forearm fasciotomy,48
+application of vacuum-assisted closures (VACs),48
+compartment syndrome of bilateral lower legs,48
+compartment syndrome of bilateral lateral thighs,48
+compartment syndrome of bilateral forearms,48
+below-knee amputation of right lower extremity,168
+multiple wound VAC changes,168
+closure of wounds,720
+CPK 735 IU/L (outside hospital),-48
+CPK 1360 IU/L (admission),0
+CPK peaked at 33786 IU/L,24
+creatinine worsened to 6.61 mg/dL,72
+initiated on renal replacement therapy,72
+acute kidney injury due to rhabdomyolysis,72
+acute tubular necrosis (ATN),72
+continuous renal replacement therapy,72
+transitioned to intermittent hemodialysis,336
+renal function recovered,336
+dialysis halted,336
+furosemide drip for third-space fluid removal,336
+creatinine 1.03 mg/dL,336
+blood cultures negative,24
+blood parasite smear negative,24
+Ehrlichia chaffeensis IgG antibody negative,24
+Anaplasma phagocytophilum IgG antibody negative,24
+rocky mountain spotted fever IgG negative,24
+total Brucella antibody negative,24
+HIV antibody-antigen screen negative,24
+C3 31.4 mg/dL,24
+C4 5.5 mg/dL,24
+C3 normalized 62.4 mg/dL,72
+C4 normalized 14.6 mg/dL,72
+serum IgG 148 mg/dL,24
+serum IgA 32 mg/dL,24
+serum IgM 19 mg/dL,24
+immunoglobulins normalized,336
+serum protein electrophoresis restriction in gamma region,24
+faint band in IgG kappa,24
+monoclonal gammopathy of unknown significance (MGUS),24
+ANA titer 1:640,24
+anti-dsDNA antibody negative,24
+cardiolipin IgG antibody negative,24
+cardiolipin IgM antibody negative,24
+myeloperoxidase IgG antibody negative,24
+anti-proteinase 3 IgG antibody negative,24
+rheumatoid factor antibody negative,24
+hemoglobin 8.5 g/dL,720
+hematocrit 26.7%,720
+fungemia with Candida albicans,336
+IV micafungin,336
+discharged to acute rehab,720
+diagnosed with idiopathic SCLS,168

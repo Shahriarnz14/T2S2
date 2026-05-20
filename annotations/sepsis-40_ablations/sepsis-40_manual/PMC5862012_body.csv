@@ -1,0 +1,105 @@
+event,time
+19-year-old,0
+patient weight 48 kg,0
+patient height 172 cm,0
+background of mild asthma,0
+scratched by a cat,-336
+developed fever,-240
+deep venous thrombosis in his left leg,-240
+treated with 2 mg fondaparinux subcutaneously twice daily for 7 days,-156
+treated with 5 mg apixaban orally twice daily,-36
+consulted his family physician,-24
+macroscopic hematuria,-24
+leg edema,-24
+asthenia,-24
+persistent fever,-24
+lethargic,0
+Glasgow Coma Scale of 15/15,0
+blood pressure of 100/ 66 mm Hg,0
+sinus tachycardia at 120 beats per minute,0
+mitral murmur,0
+Hemocultures were taken,0
+piperacillin was started,0
+blood cultures revealed Haemophilus parainfluenzae,12
+Hemoglobin (Hb) was 6.3 g/dL,0
+4 units of red blood cells were transfused,0
+Anterograde amnesia,6
+cerebral computed tomography revealing a large hematoma in the left occipitoparietal region (46 mm × 28 mm),12
+nuclear magnetic resonance scan revealing multiple bilateral microhemorrhage,12
+cerebral computed tomography revealing a hematoma next to the right cerebellum,12
+cerebral computed tomography revealing a hematoma in the right occipital region,12
+nuclear magnetic resonance scan revealing multiple ischemic microlesions,12
+nuclear magnetic resonance scan revealing a left cerebellar ischemic stroke,12
+nuclear magnetic resonance scan (angio-MR) revealing an intracerebral mycotic aneurysm of the left posterior cerebral artery,12
+Transthoracic echocardiography revealed a large vegetation of 20 mm on the mitral valve,20
+Transthoracic echocardiography revealed 2 mobile echo dense masses (>15 mm) on the mitral valve,20
+Transthoracic echocardiography revealed significant mitral valve prolapse,20
+went into septic shock,24
+intubated,24
+sedated,24
+norepinephrine started,24
+dobutamine started,24
+wake-up test,36
+obeying commands,36
+wake-up test did not reveal any neurological deficits,36
+emergency surgery started,48
+minimal cardiopulmonary bypass initiated,48.3
+in situ right radial arterial line,24
+left internal jugular central venous line,24
+sedation continued with propofol infusion for surgery,48
+sedation continued with sufentanil infusion for surgery,48
+norepinephrine infusion continued for surgery,48
+Tranexamic acid 1 g was given intravenously,48
+MCPB was primed with 200 mL of lactated Ringer's solution (total priming volume 800 mL),48
+retrograde priming technique utilized,48
+"During MCBP, Hb dropped to 7.8 g/dL (hematocrit, 23%)",49
+2 units of red blood cells were given,49
+"After transfusion, Hb of 8.5–8.8 g/dL (hematocrit, 25%–26%)",49.2
+"MAP maintained above 70 mm Hg (range, 60–93 mm Hg) during MCBP",49
+temperature increased to 36.8°C at the end of cardiopulmonary bypass,49.5
+Transesophageal echocardiography confirmed the presence of large vegetations on the mitral valve,48.5
+Transesophageal echocardiography confirmed damage of the mitral annulus,48.5
+replacing the entire valve by a biological mitral valve,49
+Nonin cerebral oximeter displayed tissue oxygen saturation above 60,49
+Nonin cerebral oximeter lowest value at 53 in the right hemisphere at the end of surgery,50.5
+ACT before heparin administration was 133 seconds,48
+"on controls every 30 min, ACT remained at 283 and 289 seconds",49.5
+ACT normalized at 126 seconds after protamine,50
+Atrioventricular pacemaker stimulation was temporarily used at a rate of 90/min,50
+Four units of fresh frozen plasma transfused after protamine,50.1
+1 unit of platelets transfused after FFP,50.2
+transferred to the intensive care unit,51
+norepinephrine at 0.032 mg/h,51
+ventilation-acquired pneumonia,120
+tracheostomy,240
+percutaneous gastric feeding,240
+good neurological recovery,1155
+no loss in memory capacity,1155
+no signs of neurological deficits,1155
+discharged home,1155
+bilateral emboli into the legs,168
+residual bilateral claudication,2000
+control nuclear magnetic resonance,2000
+resorption of the occipital and left cerebellar hematoma,2000
+intracerebral mycotic aneurysm of the left posterior cerebral artery was embolized without complication,18
+ACT peaked at 401 seconds,48.5
+MCBP ended after 74 minutes,49.5
+Aortic clamping started (56 minutes duration),48.5
+18-day intensive care unit stay,483
+4 weeks in rehabilitation medicine,819
+"10,000 units of heparin were given",48.1
+MCBP weaning started (18 minutes duration),49.5
+100 mg protamine was given after weaning,49.9
+norepinephrine peak infusion rate 1 mg/h,49
+Reoperation to remove thromboemboli from left popliteal artery,192
+ceftriaxone started,24
+gentamicin started,24
+Anterograde cold cardioplegia administered every 15 minutes,48.5
+Retrograde cold cardioplegia administered every 15 minutes,48.5
+"Central body temperature, measured in the bladder, was cooled down to 33°C",48.5
+piperacillin was stopped,24
+Tranexamic acid infusion of 10 mg/kg/h started,48
+venous cannula placed for MCPB and retrograde priming,48.25
+arterial cannula placed for MCPB and retrograde priming,48.25
+Aortic clamp removed (after 56 minutes),49.4
+MCBP weaning completed (after 18 minutes),49.8

@@ -1,0 +1,151 @@
+event,time
+69-year-old woman,0
+hypertension,0
+type 2 diabetes mellitus,0
+hypersensitivity pneumonitis,0
+obesity,0
+gastric band placement,0
+right breast cancer,0
+status post-lumpectomy,0
+airlifted to emergency department,-24
+chest pain,-24
+shortness of breath,-24
+diaphoresis,-24
+no cardiac disease,0
+social drinker,0
+regular heart rate and rhythm,0
+no murmurs,0
+no gallops,0
+clear lungs,0
+electrocardiogram,0
+anterior ST elevation,0
+"troponin level >10,000 ng/dL",0
+ST-elevation myocardial infarction,0
+aspirin,0
+heparin,0
+statin therapy,0
+percutaneous coronary intervention,0
+cardiac catheterization,0
+radial artery,0
+100% occlusion of LAD artery,0
+aspiration thrombectomy,0
+dual antiplatelet therapy,0
+prasugrel,0
+left upper quadrant abdominal pain,24
+diaphoretic,48
+short of breath,48
+fever 103°F,48
+tachycardia,48
+heart rate 109 beats/minute,48
+hypotension,48
+blood pressure 93/60 mmHg,48
+leukocytosis,48
+WBC 16.5 ×10³ cells/L,48
+lactate 1 mmol/L,48
+CT abdomen,48
+splenic infarct,48
+high-grade stenosis of celiac artery,48
+mild thickening of splenic flexure,48
+transthoracic echocardiography,48
+ejection fraction 40%,48
+apical hypokinesia,48
+mid/anteroseptal wall hypokinesia,48
+trace pericardial effusion,48
+no significant valvular pathology,48
+distributive shock ruled out,48
+hypovolemic shock ruled out,48
+obstructive shock ruled out,48
+cardiogenic shock,48
+milrinone,48
+Swan-Ganz catheter,48
+blood cultures collected,48
+cefepime,48
+metronidazole,48
+vascular surgery consult,48
+heparin infusion,48
+CT angiography,48
+no emboli,48
+blood culture growth,72
+gram-positive cocci in pairs and chains,72
+WBC 26 ×10³ cells/L,72
+vancomycin,72
+repeat blood cultures,72
+E. faecalis identification,96
+ampicillin susceptibility,96
+gentamicin susceptibility,96
+penicillin susceptibility,96
+ceftriaxone,96
+ampicillin,96
+urinalysis,96
+urine culture,96
+afebrile,120
+WBC trending downward,120
+trace leukocytes,120
+negative nitrites,120
+urine culture no growth,120
+repeat blood cultures positive,120
+CT abdomen and thorax,120
+worsening pleural effusion,120
+pericardial effusion,120
+DENOVA score ≥3,144
+septic embolization to spleen,144
+unknown origin of bacteremia,144
+four positive blood cultures,144
+TEE,144
+mitral valve vegetation,144
+mild mitral regurgitation,144
+no mitral stenosis,144
+cardiothoracic surgery consult,144
+repeat blood cultures E. faecalis,168
+head CT,168
+subarachnoid hemorrhage,168
+head MRI,168
+multiple emboli in left frontal lobe,168
+MRI spine,168
+discitis,168
+osteomyelitis L1/L2,168
+carotid duplex ultrasonography,168
+<50% stenosis,168
+right internal jugular vein thrombus,168
+heparin withheld,168
+GI consult,168
+general surgery consult,168
+gastric band fluid aspirate clear,168
+esophagogastroduodenoscopy,168
+gastric mucosal atrophy,168
+colonoscopy,168
+rectosigmoid perforation,168
+perforation closed,168
+hypoxia,168
+tachycardia,168
+abdominal pain,168
+diffuse abdominal tenderness,168
+guarding,168
+rebound tenderness,168
+noninvasive positive-pressure ventilation,168
+epinephrine,168
+exploratory laparotomy,168
+extraperitoneal perforation of rectum,168
+end-colostomy,168
+ICU transfer,168
+persistently febrile,168
+peritonitis,168
+not candidate for mitral valve replacement,168
+WBC 23 ×10³ cells/L,168
+fever 102°F,168
+hydrocortisone,168
+vancomycin,168
+piperacillin/tazobactam,168
+no blood culture growth,192
+no tracheal aspirate growth,192
+afebrile,192
+ceftriaxone,192
+ampicillin,192
+ventilator-associated pneumonia,192
+Stenotrophomonas maltophilia,192
+acute kidney injury,192
+inpatient rehabilitation transfer,192
+acute-on-chronic heart failure,192
+septic shock,192
+multiorgan failure,192
+death,192

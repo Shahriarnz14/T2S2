@@ -1,0 +1,119 @@
+event,time
+78-year-old,0\
+male,0\
+gastric cancer,0\
+laparoscopic-assisted total gastrectomy,0\
+type II diabetes mellitus,0\
+ischemic heart disease,0\
+previous myocardial infarction,-105120 (12 years earlier)\
+occasional ongoing angina,0\
+benign prostatic hypertrophy,0\
+open cholecystectomy,"-N/A (several years earlier, approximated to -26280 hours assuming 3 years)\"
+general anesthesia,0\
+epidural analgesia,0\
+adhesions around cholecystectomy site,0\
+dense perisplenic capsular adhesions,0\
+fatty liver,0\
+bulky left lobe of liver,0\
+Nathanson retractor insertion,0\
+reverse Trendelenburg position,0\
+laparoscopic mobilization of stomach,0\
+laparoscopic mobilization of omentum,0\
+division of first part of duodenum,0\
+stapling device use,0\
+oversewn duodenum,0\
+splenic capsular bleeding,0\
+laparoscopic division of splenic vessels,0\
+splenectomy,0\
+epigastric transverse incision,0\
+removal of stomach,0\
+removal of spleen,0\
+Roux-en-Y esophagojejunostomy,0\
+feeding jejunostomy tube sited,0\
+total laparoscopic time 3.5 hours,0\
+postoperative intensive care unit admission,0\
+hypotension,0\
+increasing inotropic support,0-18\
+blood pressure stabilized,24\
+serum AST elevation,5\
+jejunostomy feed started,24\
+tachycardia,48\
+fever (38°C),48\
+rapid deterioration,54\
+large doses of inotropes,54\
+ventilatory assistance,54\
+urgent noncontrast abdominal CT,54\
+massive destruction of left liver lobe,54\
+intraparenchymal gas,54\
+gas in portal radicals,54\
+exploratory laparotomy,54\
+necrotic left liver lobe,54\
+left lateral sectionectomy,54\
+inotropic support continued,54\
+myocardial infarction,68\
+death,68
+"Therefore, ""increasing inotropic support","0""."
+"- ""serum AST elevation","5"" (5 hours post-op)"
+"- ""jejunostomy feed started","24"""
+"- ""urgent noncontrast abdominal CT","54"""
+"- ""inotropic support continued","54"""
+"- ""myocardial infarction","68"""
+"- ""death","68"""
+"Also, during the CT scan: ""no evidence of anastomotic leak","54"", which is a pertinent negative."
+"But the assistant's answer didn't include this. According to the user's instruction, pertinent negatives should be included. So ""no anastomotic dehiscence","54""."
+"Similarly, during initial laparoscopy: ""no evidence of peritoneal or occult spread of cancer","0""."
+78-year-old,0
+male,0
+gastric cancer,0
+laparoscopic-assisted total gastrectomy,0
+type II diabetes mellitus,0
+ischemic heart disease,0
+previous myocardial infarction,-105120
+occasional ongoing angina,0
+benign prostatic hypertrophy,0
+open cholecystectomy,-26280
+general anesthesia,0
+epidural analgesia,0
+no peritoneal or occult cancer spread,0
+adhesions around cholecystectomy site,0
+dense perisplenic capsular adhesions,0
+fatty liver,0
+bulky left liver lobe,0
+Nathanson retractor insertion,0
+reverse Trendelenburg position,0
+laparoscopic stomach mobilization,0
+laparoscopic omentum mobilization,0
+duodenum division,0
+stapling device use,0
+oversewn duodenum,0
+splenic capsular bleeding,0
+laparoscopic splenic vessel division,0
+splenectomy,0
+epigastric transverse incision,0
+stomach removal,0
+spleen removal,0
+Roux-en-Y esophagojejunostomy,0
+feeding jejunostomy tube placement,0
+total laparoscopic time 3.5 hours,0
+postoperative ICU admission,0
+hypotension,0
+increasing inotropic support,0
+blood pressure stabilized,24
+serum AST elevation,5
+jejunostomy feed initiation,24
+tachycardia,48
+fever (38°C),48
+rapid clinical deterioration,54
+increased inotropic support,54
+ventilatory assistance,54
+urgent noncontrast abdominal CT,54
+no anastomotic dehiscence,54
+massive left liver lobe destruction,54
+intraparenchymal gas,54
+portal venous gas,54
+exploratory laparotomy,54
+necrotic left liver lobe,54
+left lateral sectionectomy,54
+persistent inotropic support,54
+myocardial infarction,68
+death,68

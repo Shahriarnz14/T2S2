@@ -1,0 +1,48 @@
+event,time
+69 years old,0
+male,0
+admitted to the intensive care unit,0
+septic shock,-504
+bloody diarrhea,-504
+hypertension,0
+cardiomyopathy,0
+chronic obstructive pulmonary disease,0
+laryngeal carcinoma (T3N0),0
+used amoxicillin/clavulanic acid,-1440
+laryngitis,-1440
+confused mental state,0
+hypotension 77/28 mmHg,0
+temperature 35.6°C,0
+diffuse abdominal tenderness,0
+increased leucocytes 38.9 × 109/l,0
+increased C-reactive protein 318 mg/l,0
+renal insufficiency (creatinine 534 µmol/l),0
+low albumin (23 g/l),0
+normal lactate (1.6 mmol/l),0
+started broad-spectrum antibiotics,0
+abdominal CT-scan showing diffuse colonic wall thickening,0
+mucosal enhancement pattern,0
+infiltration,0
+colitis,0
+Clostridium difficile isolated (PCR-ribotype 001),0
+severe CDI diagnosis,0
+switched to oral vancomycin,0
+metronidazole intravenously,0
+no clinical improvement,0
+dependent on vasopressor support,216
+progressive abdominal distension,216
+delirium,216
+metabolic acidosis,216
+surgical consultation for colectomy,216
+considered curative FMT,216
+FMT via nasoduodenal tube,288
+vancomycin stopped,276
+metronidazole stopped,276
+started oral fidaxomicin,276
+continued fidaxomicin during and after FMT,276
+marked decrease in abdominal distension,336
+feces PCR negative for C. difficile,336
+fidaxomicin continued until nine days post-FMT,432
+discharged from ICU,480
+no recurrent CDI,480
+received antibiotic treatments post-FMT,480

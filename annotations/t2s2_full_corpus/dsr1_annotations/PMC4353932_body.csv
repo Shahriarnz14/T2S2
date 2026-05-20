@@ -1,0 +1,75 @@
+event,time
+54 years old,0
+female,0
+admitted to the Emergency Department,0
+syncope,0
+hematemesis,0
+smoking habit of 34 packs/year,0
+alcohol consumption of 16 g/day,0
+hemodynamically stable,0
+asymptomatic,0
+physical examination anodyne,0
+hemoglobin 10.2 mg/dl,0
+hemoglobin 14 mg/dl,-1440
+coagulation parameters normal,0
+cranial CT scan performed,0
+no pathological findings,0
+initial EGD performed,0
+traces of blood in the stomach,0
+hiatal hernia,0
+no active bleeding,0
+in-hospital observation for 72 h,0
+no hemodynamic instability,0
+several stools compatible with melenae,0
+hemoglobin level stable,0
+EGD after 48 h of admission,48
+no traces of blood,48
+no pathological features,48
+asymptomatic,48
+discharged,72
+readmitted 2 days later,120
+syncope,120
+hypotension (90/40 mmHg),120
+heart rate 92 bpm,120
+fluid replacement started,120
+hemodynamic stability gained,120
+hemoglobin 8.4 mg/dl,120
+transfusion of 2 units packed red blood cells,120
+new episode of melenae,120
+new EGD performed,120
+pulsatile vessel in second portion of duodenum,120
+no active bleeding,120
+CT scan performed,120
+irregular fusiform aortic aneurysm (63 × 41 × 54 mm),120
+aneurysm contacted third duodenal portion,120
+aneurysm extended toward iliac bifurcation,120
+1 cm mural thrombus in right iliac artery,120
+duodenal AEF originating from aneurysm,120
+distance of 4.3 cm from renal arteries origin,120
+urgent laparotomy performed,120
+inflammatory infrarenal aortic aneurysm found,120
+ligation of common iliac arteries,120
+ligation of infrarenal aorta,120
+axilo-bifemoral bypass with PTFE prosthesis,120
+resection of aortic-jejunal fistula,120
+primary suture repair of defect,120
+required low dose vasoactive drugs,120
+transfusion of 5 additional units packed red blood cells,120
+admitted to Intensive Care Unit post-operatively,120
+favorable evolution,120
+hemodynamically stable,144
+asymptomatic,144
+transferred to ward on postoperative day 6,144
+discharged 11 days after procedure,264
+no signs of active bleeding,264
+stable hemoglobin analysis,264
+pathology report identified AEF,264
+no presence of pathogens,264
+culture positive for gram positive aerobic flora,264
+Streptococcus viridians,264
+coagulase-negative Staphyloccocus,264
+treated with Piperacillin/Tazobactam for 4 weeks,264
+follow-up CT scan 1.5 months later,1080
+no evidence of recurrent AEF,1080
+patient remains in good condition,1080
+no further gastrointestinal bleeding,1080

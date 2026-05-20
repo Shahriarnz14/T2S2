@@ -1,0 +1,70 @@
+event,time
+28 years old,0\
+male,0\
+history of peptic ulcer disease,-72\
+burning epigastric pain,-72\
+abdominal distention,-72\
+nausea,-72\
+vomiting,-72\
+bloody diarrhoea,-72\
+fevers,-72\
+admitted to emergency centre,0\
+blood pressure 90/60,0\
+heart rate 111,0\
+respiratory rate 34,0\
+oxygen saturation 91%,0\
+pale,0\
+diaphoretic,0\
+collapsing in triage,0\
+weak pulses,0\
+undetectable blood pressure,0\
+respiratory rate 40,0\
+saturation 90% on ten litres oxygen,0\
+rigid abdomen,0\
+distended abdomen,0\
+absent bowel sounds,0\
+decreased level of consciousness,0\
+irregularly irregular wide complex tachycardia,0\
+IV fluids bolused,0\
+push dose IV dextrose,0\
+hemoglobin 15.8 g/dl,0\
+hematocrit 50.1%,0\
+white blood cell count 24 × 10³/mm³,0\
+segmented neutrophils 52.6%,0\
+lymphocytes 17.4%,0\
+platelets 175 × 10³/mm³,0\
+point-of-care echocardiogram,0\
+left ventricular thrombus,0\
+abdominal ultrasound,0\
+dilated bowel loops,0\
+thickened bowel loops,0\
+absence of peristalsis,0\
+pneumatosis intestinalis,0\
+mesenteric thromboembolism,0\
+bowel ischemia,0\
+surgery consulted,0.5\
+operating room mobilized,0.75\
+antibiotics administered,0.75\
+aggressive IV fluid resuscitation,0.75\
+exploratory laparotomy,1\
+gangrenous necrosis of small bowel,1\
+cecum necrosis,1\
+ascending colon necrosis,1\
+proximal jejunum viable,1\
+transverse colon viable,1\
+descending colon viable,1\
+sigmoid colon viable,1\
+normal pancreas,1\
+palpable middle colic artery pulse,1\
+absent distal superior mesenteric artery pulse,1\
+600 mL haemorrhagic peritoneal fluid,1\
+peritoneal lavage,1\
+bowel resection deferred,1\
+transferred to ICU,2\
+intubated,2\
+broad spectrum antibiotics,2\
+vasopressors,2\
+overwhelming sepsis,48\
+multi-organ failure,48\
+cardiopulmonary arrest,48\
+expired,48

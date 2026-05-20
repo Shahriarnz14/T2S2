@@ -1,0 +1,42 @@
+event,time
+48 years old,0.0
+female ,0.0
+brought to the emergency room ,0.0
+shortness of breath ,0.0
+headache ,0.0
+nausea ,0.0
+referred from a local hospital for increased blood pressure ,0.0
+developed sudden painless loss of vision in both eyes ,-0.5
+no history of hypertension or other comorbidities ,-3.0
+heart rate of 104/min ,0.0
+blood pressure of 220/120 mm of Hg ,0.0
+basal crepitations ,0.0
+drowsy but arousable ,0.0
+normal pupillary reflex ,0.0
+normal extra-ocular movements ,0.0
+"normal fundoscopy but, no light perception ",0.0
+no signs of meningeal irritation ,0.0
+normal hemoglobin (13.5 g/dl) ,0.0
+mild leukocytosis (11 300 cells/dl) ,0.0
+elevated C-reactive protein (4.5 mg/dl) ,0.0
+"ESR, liver function tests and renal function tests were normal ",0.0
+"other blood tests, coagulation profile, autoantibodies and neoplastic markers were normal ",0.0
+cerebrospinal fluid analysis revealed an increase in protein level (55 mg/dl) ,0.0
+chest radiography showed features of pulmonary edema ,0.0
+"magnetic resonance imaging brain showed bilateral occipital, parietal and subcortical white matter T2/Fluid-attenuated inversion recovery (FLAIR) hyperintensities ",0.0
+"electroencephalography showed diffuse theta/delta slowing, bilateral temporal–occipital epileptiform discharges ",0.0
+electrocardiogram and echocardiogram were normal ,0.0
+"ultrasound abdomen, renal artery doppler and neck vessel doppler were normal ",0.0
+improved symptomatically in form of reduced shortness of breath and regaining vision completely over a period of 5 days ,240.0
+"blood pressure of patient was 160/90 mmHg on Telmisartan 40 mg once daily, Cilnidipine 10 mg bis in die (two times a day) (BID), and Hydrochlorothiazide 12.5 mg once daily ",96.0
+beta blocker Metoprolol 25 mg BID was added on Day 4 ,96.0
+blood pressure increased to 180/100 mmHg ,120.0
+"serum cortisol, parathormone, calcium, and phosphorus was normal ",120.0
+urine VMA was normal (5.6 mg/dl) ,120.0
+urine metanephrine (1200 μg/ml) and plasma metanephrine (550 μg/ml) were elevated ,120.0
+"contrast-enhanced computerized tomography (CECT) abdomen showed a 33 × 23 × 34 mm3 irregularly marginated, locally infiltrative, retroperitoneal mass in the left para-aortic prevertebral region below the level of left renal hila suggestive of paraganglioma ",120.0
+PET scan showed no evidence of metastasis ,144.0
+patient was started on α blocker Phenoxybenzamine along with other antihypertensives after which BP normalized ,168.0
+patient underwent surgical resection of the tumor ,336.0
+"biopsy confirmed the diagnosis of neuroendocrine tumor, i.e. extra-adrenal paraganglioma ",384.0
+patient is discharged in a stable condition after 1 week with normal BP ,396.0

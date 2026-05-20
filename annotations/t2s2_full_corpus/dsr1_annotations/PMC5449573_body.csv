@@ -1,0 +1,205 @@
+event,time
+57 years old,0
+man,0
+hypertension,-?
+diabetes mellitus,-?
+hyperlipidemia,-?
+hypothyroidism,-?
+former smoker,-?
+consumes alcohol occasionally,-?
+generalized weakness,-336
+fatigue,-336
+confusion,-336
+dizziness,-336
+mild jaundice,-336
+anemia,0
+thrombocytopenia,0
+acute liver injury,0
+acute renal failure,0
+intermittent hemodialysis,0
+transferred to ICU,0
+lactic acidosis,0
+sepsis,0
+worsening hepatic encephalopathy,0
+febrile (39°C),0
+hemoglobin 7.5 g/dL,0
+"platelets 26,000/mm3",0
+creatinine 4.34 mg/dL,0
+total bilirubin 19 mg/dL,0
+alanine aminotransferase 395 U/L,0
+aspartate aminotransferase 261 U/L,0
+serum lactate 10 mmol/L,0
+"serum ferritin >40,000 ng/mL",0
+serum triglycerides 556 mg/dL,0
+coagulopathy (INR 4.2),0
+fibrinogen <70 mg/dL,0
+MELD score >40,0
+emergent liver transplant evaluation,0
+hepatic steatosis,0
+splenomegaly,0
+multiple splenic infarcts,0
+right axillary lymphadenopathy,0
+retropectal lymphadenopathy,0
+mechanical ventilation,+?
+circulatory shock,+?
+vasopressor support,+?
+worsening renal failure,+?
+continuous renal replacement therapy,+?
+bone marrow biopsy negative for malignancy,+?
+transjugular liver biopsy positive for diffuse large B-cell lymphoma,+?
+removed from transplant list,+?
+met HLH criteria,+?
+fever,+?
+bicytopenia,+?
+hypertriglyceridemia,+?
+"started chemotherapy (dexamethasone, ifosfamide, carboplatin, etoposide)",+?
+worsening metabolic acidosis,+?
+hypoglycemia,+?
+shock,+?
+subdural hemorrhages,+?
+generalized tonic-clonic seizures,+?
+comfort care measures,+?
+died,+120
+"ICU course complications: mechanical ventilation, circulatory shock, vasopressors, worsening renal failure requiring CRRT. These happened after admission, but the exact timing isn't given. The text says ""His ICU course was complicated by..."" which starts after admission. Since the patient died on ICU day 5, the events during the ICU stay would be between 0 and +120 hours (5 days). But without specific times, we need to approximate. Maybe assign them as +24, +48, etc., but the example assigned discharged at +24 even if ""one day later"". Alternatively, the user might want to assign all ICU events as sequential but with approximate timestamps. However, since the exact order isn't clear, perhaps assign them as +24 (1 day after admission), but the user might want to spread them out. Alternatively, if they occurred during the ICU stay which lasted 5 days, the events could be timestamped between 0 and +120. But the user wants the timestamp as the start of the event. For example, if mechanical ventilation was started on day 1, that's +24. If the biopsy came back later, maybe +48. But the case doesn't specify. The example had ""discharged","24"" because the discharge was one day after admission. Here, the patient died on ICU day 5, so death is at +120 (5*24). The liver biopsy result came back after admission, but when? The text says ""after transjugular liver biopsy came back positive..."" which led to removal from the transplant list. It's part of the ICU course, so maybe a few days in. If the biopsy was done on day 2, the result might be day 3, so +72. Starting chemotherapy would be after that, say +96. Then complications leading to death on day 5."
+"- Past medical history (hypertension, etc.): since they are chronic and ongoing, maybe assign 0, as they are current at admission. But in the example, past conditions (acne) were assigned a prior timestamp. However, in the example, the acne was treated 4 weeks prior, so it's a resolved or past event. Here, hypertension, diabetes, etc., are ongoing, so perhaps they are considered present at admission, timestamp 0. But the user's example included ""acne","-672"" because it was a past diagnosis. So in this case, the past medical history (hypertension, etc.) would be prior to admission. But without a specific time, how to approximate? Maybe assign a default like -9999, but the user might want to leave them at 0. Alternatively, since they are part of his history, assign them to a very early time, but the example didn't do that. Hmm, this is unclear. The user's instruction says: ""If the event is not available, we treat the event, e.g. current main clinical diagnosis or treatment with timestamp 0."" So for ongoing conditions, maybe they are at 0. But the example had ""acne"" at -672 because it was a past event. The hypertension, etc., are part of his past medical history, ongoing, but their onset is before admission. Since there's no time given, perhaps they are assigned to 0 as they are current conditions. Alternatively, if they are historical, maybe assign a large negative. But the user's example used specific times when available, otherwise approximated. Since there's no info, maybe leave them at 0. But I'm not sure. Let me check the example again: the patient had a history of acne treated 4 weeks prior, so that's -672. In this case, the past medical history is ongoing, so perhaps timestamp 0. For example, if someone has hypertension for years, it's still present at admission, so timestamp 0. But the user's example treated past resolved conditions (acne treatment) with a prior timestamp. So maybe chronic conditions like hypertension, ongoing, would be at 0, while past resolved conditions (like acne in the example) are at prior times. So in this case, hypertension, diabetes, etc., are current, so timestamp 0. But the example didn't have such a case. Hmm."
+"ICU complications: mechanical ventilation, circulatory shock, vasopressors, worsening renal failure, CRRT – these happened during the ICU stay. Since the ICU stay is 5 days, these events would be between 0 and +120. But without exact times, maybe assign them to +24 each. But the user example had ""discharged","24"" for one day later. Here, if mechanical ventilation was needed early, maybe +12, but without info, perhaps spread them out. Alternatively, group all ICU complications under 0, but that's not accurate. The user might want to approximate based on the course. Since the patient died on day 5, maybe assign mechanical ventilation on day 1 (+24), circulatory shock day 1 (+24), etc. But the exact order isn't clear. Alternatively, since the text lists them in order, maybe the first complications (mechanical ventilation, shock, vasopressors, renal failure, CRRT) happen early, say +24, then bone marrow biopsy negative (+48), liver biopsy positive (+72), removed from transplant list (+72), met HLH criteria (+72), started chemo (+72), then complications leading to death (+96 to +120). Death at +120."
+- Mechanical ventilation,+24
+- Circulatory shock,+24
+- Vasopressor support,+24
+- Worsening renal failure,+24
+- Continuous renal replacement therapy,+24
+- Bone marrow biopsy negative,+48
+- Transjugular liver biopsy positive,+72
+- Removed from transplant list,+72
+- Met HLH criteria,+72
+- Fever (as part of HLH),+72
+- Bicytopenia,+72
+- Hypertriglyceridemia,+72
+- Started chemotherapy,+72
+- Worsening metabolic acidosis,+96
+- Hypoglycemia,+96
+- Shock (again?),+96
+- Subdural hemorrhages,+96
+- Generalized tonic-clonic seizures,+96
+- Comfort care measures,+120
+- Died,+120
+57 years old,0
+man,0
+hypertension,0
+diabetes mellitus,0
+hyperlipidemia,0
+hypothyroidism,0
+former smoker,0
+consumes alcohol occasionally,0
+generalized weakness,-336
+fatigue,-336
+confusion,-336
+dizziness,-336
+mild jaundice,-336
+anemia,0
+thrombocytopenia,0
+acute liver injury,0
+acute renal failure,0
+intermittent hemodialysis,0
+transferred to ICU,0
+lactic acidosis,0
+sepsis,0
+worsening hepatic encephalopathy,0
+febrile (39°C),0
+hemoglobin 7.5 g/dL,0
+"platelets 26,000/mm3",0
+creatinine 4.34 mg/dL,0
+total bilirubin 19 mg/dL,0
+alanine aminotransferase 395 U/L,0
+aspartate aminotransferase 261 U/L,0
+serum lactate 10 mmol/L,0
+"serum ferritin >40,000 ng/mL",0
+serum triglycerides 556 mg/dL,0
+coagulopathy (INR 4.2),0
+fibrinogen <70 mg/dL,0
+MELD score >40,0
+emergent liver transplant evaluation,0
+hepatic steatosis,0
+splenomegaly,0
+multiple splenic infarcts,0
+right axillary lymphadenopathy,0
+retropectal lymphadenopathy,0
+mechanical ventilation,+24
+circulatory shock,+24
+vasopressor support,+24
+worsening renal failure,+24
+continuous renal replacement therapy,+24
+bone marrow biopsy negative for malignancy,+48
+transjugular liver biopsy positive for diffuse large B-cell lymphoma,+72
+removed from transplant list,+72
+met HLH criteria,+72
+fever,0 (already listed as febrile at 0)
+bicytopenia,+72
+hypertriglyceridemia,0 (triglycerides were 556 at admission)
+"started chemotherapy (dexamethasone, ifosfamide, carboplatin, etoposide)",+72
+worsening metabolic acidosis,+96
+hypoglycemia,+96
+shock,+96
+subdural hemorrhages,+96
+generalized tonic-clonic seizures,+96
+comfort care measures,+120
+died,+120
+57 years old,0
+man,0
+hypertension,-9999
+diabetes mellitus,-9999
+hyperlipidemia,-9999
+hypothyroidism,-9999
+former smoker,-9999
+consumes alcohol occasionally,-9999
+generalized weakness,-336
+fatigue,-336
+confusion,-336
+dizziness,-336
+mild jaundice,-336
+anemia,0
+thrombocytopenia,0
+acute liver injury,0
+acute renal failure,0
+intermittent hemodialysis,0
+transferred to ICU,0
+lactic acidosis,0
+sepsis,0
+worsening hepatic encephalopathy,0
+febrile (39°C),0
+hemoglobin 7.5 g/dL,0
+"platelets 26,000/mm3",0
+creatinine 4.34 mg/dL,0
+total bilirubin 19 mg/dL,0
+alanine aminotransferase 395 U/L,0
+aspartate aminotransferase 261 U/L,0
+serum lactate 10 mmol/L,0
+"serum ferritin >40,000 ng/mL",0
+serum triglycerides 556 mg/dL,0
+coagulopathy (INR 4.2),0
+fibrinogen <70 mg/dL,0
+MELD score >40,0
+emergent liver transplant evaluation,0
+hepatic steatosis,0
+splenomegaly,0
+multiple splenic infarcts,0
+right axillary lymphadenopathy,0
+retropectal lymphadenopathy,0
+mechanical ventilation,+24
+circulatory shock,+24
+vasopressor support,+24
+worsening renal failure,+24
+continuous renal replacement therapy,+24
+bone marrow biopsy negative for malignancy,+48
+transjugular liver biopsy positive for diffuse large B-cell lymphoma,+72
+removed from transplant list,+72
+met HLH criteria,+72
+bicytopenia,+72
+"started chemotherapy (dexamethasone, ifosfamide, carboplatin, etoposide)",+72
+worsening metabolic acidosis,+96
+hypoglycemia,+96
+shock,+96
+subdural hemorrhages,+96
+generalized tonic-clonic seizures,+96
+comfort care measures,+120
+died,+120

@@ -1,0 +1,56 @@
+event,time
+60 years old,0
+female,0
+admitted to the hospital,0
+impaired consciousness,-1
+atrial fibrillation,-672
+dilated cardiomyopathy,-672
+oral warfarin,-672
+biventricular pacing implantable cardioverter defibrillator,-672
+found lying at home,-1
+transported to hospital,-1
+Japan Coma Scale score was II-10,0
+Glasgow Coma Scale score was 14,0
+no clear neurological deficits,0
+non-contrast head CT,0
+hemorrhage in the third and fourth ventricles,0
+hemorrhage in bilateral lateral ventricles,0
+brain 3D-CTA,0
+spot enhancement on the lateral wall of the anterior horn of the left lateral ventricle,0
+blood pressure control,0
+ventricular drainage not performed,0
+cerebral angiograph,72
+aneurysm at the distal site of the mLSA,72
+embolization,72
+endovascular treatment,72
+N-butyl-2-cyanoacrylate injection,72
+aneurysm embolization,72
+postoperative head CT,96
+no signs of hemorrhagic complications,96
+no cerebral infarction,96
+no impaired consciousness,96
+no paralysis,96
+sepsis triggered by pneumonia,120
+decrease in muscle strength,120
+disuse,120
+rehabilitation,240
+discharged to home,432
+modified Rankin Scale of 1,432
+intraventricular aneurysm,0
+distal medial lenticulostriate artery aneurysm,0
+primary intraventricular hemorrhage,0
+intraventricular hemorrhage,0
+DRESS syndrome,0
+fever,0
+rash,0
+acne,0
+minocycline,0
+increased WBC count,0
+eosinophilia,0
+systemic involvement,0
+diffuse erythematous or maculopapular eruption,0
+pruritus,0
+DRESS syndrome diagnosis,0
+fever persisted,0
+rash persisted,0
+discharged,24

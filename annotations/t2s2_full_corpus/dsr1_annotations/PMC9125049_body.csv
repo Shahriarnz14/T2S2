@@ -1,0 +1,112 @@
+event,time
+35 years old,0
+female,0
+admitted to the hospital,0
+altered mental status,-24
+bedbound,-2160
+withdrawn,-2160
+decreased appetite,-2160
+poor nutrition,-2160
+acute lymphocytic leukemia (in remission since 1997),0
+diabetes mellitus,0
+bipolar disorder,0
+recurrent urinary tract infections,0
+obesity,0
+status post gastric bypass surgery,0
+afebrile,0
+tachycardic (150 bpm),0
+tachypneic (30-40 bpm),0
+hypotensive (72/52 mm Hg),0
+severe cachexia,0
+mottled bilateral upper extremities,0
+necrotic sacral decubitus ulcer,0
+sluggish bilateral pupils,0
+right-sided downward gaze preference,0
+roving eye movements,0
+pH 7.564,0
+PCO2 23 mm Hg,0
+PO2 67 mm Hg,0
+lactic acid 5.3 mmol/L,0
+leukocytosis (19.2 K/UL),0
+neutrophilic predominance,0
+sodium 137 mmol/L,0
+potassium 3.8 mmol/L,0
+BUN 10 mg/dL,0
+creatinine 0.6 mg/dL,0
+albumin 1.5 g/dL,0
+total bilirubin 1.4 mg/dL,0
+direct bilirubin 0.6 mg/dL,0
+AST 26 IU/L,0
+alkaline phosphatase 109 IU/L,0
+ALT 18 IU/L,0
+total protein 3.4 g/dL,0
+ammonia 261 µmol/L,0
+negative urine toxicology,0
+unremarkable noncontrast head CT,0
+urine culture sent,0
+stool culture sent,0
+blood culture sent,0
+CSF culture sent,0
+treated for septic shock,0
+empiric broad-spectrum antibiotics,0
+intravenous fluids,0
+vasopressors,0
+stress-dose hydrocortisone,0
+continuous video EEG,0
+no seizures,0
+generalized delta-range background slowing,0
+excess beta activity,0
+generalized sharply contoured waveforms with triphasic morphology,0
+moderate-to-severe diffuse cerebral dysfunction,0
+toxic-metabolic encephalopathy,0
+medication effect,0
+duloxetine XR 30 mg OD,0
+gabapentin 800 mg BID,0
+quetiapine XR 800 mg OD,0
+alprazolam 1 mg OD,0
+glargine 40 units OD,0
+lispro 9 units TID,0
+acute hypoxemic respiratory failure,48
+intubation,48
+urine culture positive for ESBL E. coli,48
+respiratory culture positive for ESBL E. coli,48
+blood culture positive for M. morganii,48
+stool culture positive for P. mirabilis,48
+high-dose dextrose intravenous solution,48
+lactulose,48
+rifaximin,48
+l-carnitine,48
+continued broad-spectrum antibiotics,48
+ammonia levels rising,48
+urine amino acids sent,48
+plasma amino acids sent,48
+new seizure activity,48
+"rhythmic jerking movements of head, jaw, tongue",48
+right downward gaze,48
+subsided with IV benzodiazepines,48
+subsided with levetiracetam,48
+second continuous video EEG,48
+near-continuous left hemispheric posteriorly predominant blunted lateralized periodic discharges,48
+posteriorly maximal generalized periodic discharges,48
+findings concerning for focal epilepsy,48
+no electrographic seizures,48
+severe diffuse cerebral dysfunction,48
+brain MRI with diffuse gyriform restricted diffusion,48
+ammonia levels 551 µmol/L,48
+CVVHD initiated,48
+abnormal plasma amino acids,48
+elevated glutamine (1926.8 µM),48
+elevated urine glutamine (1575 nmol/mg Cr),48
+elevated plasma glutamic acid (147.3 µM),48
+elevated urine glutamic acid (89 nmol/mg Cr),48
+elevated plasma asparagine (171.7 µM),48
+normal plasma arginine (72.6 µM),48
+normal plasma citrulline (37.5 µM),48
+normal urine citrulline (3 nmol/mg Cr),48
+elevated acylcarnitine/carnitine ratio,48
+ammonia levels decreased to 55 µmol/L,528
+CVVHD discontinued,528
+tracheostomy placed,528
+tracking motion with eyes,528
+minimal responsiveness to painful stimuli,528
+died,N/A (event after discharge not specified in timeline)

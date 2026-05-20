@@ -1,0 +1,79 @@
+event,time
+65-year-old woman,0
+scheduled to undergo left lobe hepatectomy,0
+hepatocellular carcinoma,0
+liver cirrhosis (Child-Pugh class A),0
+chronic hepatitis B,0
+intravenous glycoppyrolate 0.2 mg,0
+general anesthesia induced,0
+propofol 100 mg,0
+rocuronium 50 mg,0
+remifentanil 40 µg,0
+sevoflurane (1-2.5%),0
+remifentanil (0.1-0.25 µg/kg/min),0
+rocuronium (5-10 µg/kg/min),0
+intubated,0
+mechanically ventilated,0
+monitored by EKG,0
+arterial blood pressure monitoring,0
+central venous pressure monitoring,0
+SpO2 monitoring,0
+vital signs stable,-1
+hepatectomy with CUSA® started,0
+sudden decrease in arterial blood pressure (systolic <40 mmHg),1
+end-tidal carbon dioxide <26 mmHg,1
+SpO2 <50%,1
+tachycardia (110-135 beats/min),1
+ST elevation on EKG,1
+resuscitation with colloid,1
+"resuscitation with catecholamines (epinephrine 1 mg, norepinephrine infusion)",1
+intraoperative ultrasonography revealed air emboli in left and right heart,1
+diagnosed with VAE,1
+diagnosed with PAE,1
+ABGA: pH 7.278,1
+ABGA: pCO2 51.3 mmHg,1
+ABGA: PO2 84.6 mmHg,1
+ABGA: HCO3- 24.2 mmHg,1
+ABGA: SaO2 94.4% on FiO2 0.5,1
+systolic BP ~90 mmHg,1.17
+heart rate ~110 beats/min,1.17
+central venous pressure ~2 mmHg,1.17
+end-tidal CO2 restored to 32 mmHg,1.17
+ABGA at 30 minutes: pH 7.338,1.5
+ABGA at 30 minutes: pCO2 44.3 mmHg,1.5
+ABGA at 30 minutes: PO2 234.0 mmHg,1.5
+ABGA at 30 minutes: HCO3- 24.0 mmHg,1.5
+ABGA at 30 minutes: SaO2 99.6% on FiO2 1.0,1.5
+norepinephrine infusion (0.2-0.3 µg/kg/min),1
+"fluid resuscitation (colloid 1000 ml, crystalloid 500 ml)",1
+air emboli in left heart disappeared,4.17
+hepatectomy restarted,4.17
+hepatectomy completed,5
+total anesthesia time: 5 hours,5
+fluid administered: 2950 ml,5
+urinary output: 220 ml,5
+blood loss: 800 ml,5
+postoperative intubation,5
+mechanical ventilation,5
+responsive only to intense pain,5
+systolic BP ~90 mmHg on norepinephrine,5
+abnormal PT/PTT (25.5/51.8 sec),5
+fibrinogen 96 mg/dl,5
+d-dimer 6519 ng/ml,5
+antithrombin III 19%,5
+CK-MB 40.74 ng/ml,5
+troponin-T 1.880 ng/ml,5
+"ST elevation in II, III, aVF",5
+EKG findings recovered,24
+trans-thoracic echocardiogram unremarkable,24
+no PFO identified,24
+vital signs stable,24
+norepinephrine tapered out,24
+mental status unchanged at POD 5,120
+brain CT and MRI showing multiple cerebral infarctions,120
+weaned to CPAP mode at POD 11,264
+extubated at POD 11,264
+vital signs unstable at POD 15,360
+intravenous catecholamines restarted,360
+panperitonitis confirmed by gram (+) cocci,744
+expired due to cardiac arrest from septic shock,744

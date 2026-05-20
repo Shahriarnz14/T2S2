@@ -1,0 +1,120 @@
+event,time
+79 years old,0
+male,0
+hypertension,0
+ischemic heart disease,0
+admitted to the hospital,0
+severe symptomatic aortic stenosis,0
+coronary artery bypass graft surgery,-7920
+mitral valve repair,-7920
+preprocedural transthoracic echocardiography,-1
+severe aortic stenosis,-1
+left ventricular ejection fraction of 45%,-1
+induction of general anesthesia,0
+TEE probe insertion,0
+SAPIEN 3 valve deployment,0
+postprocedural TEE,1
+prosthesis in good position,1
+no visible paravalvular leak,1
+gastric aspiration,1
+blood-tinged secretions,1
+extubation,1
+transferred to the intensive care unit,1
+progressive chest pain,2
+shivering,2
+computed tomography,2
+pneumomediastinum,2
+right hydropneumothorax,2
+esophageal perforation suspected,2
+right thoracic drain insertion,2
+serosanguinous liquid drained,2
+esophagogastroscopy,2
+4-cm vertical perforation of the middle third of the esophagus,2
+right thoracotomy,7
+repair of esophageal perforation,7
+primary closure of the esophageal wall,7
+intercostal muscular flap mobilized,7
+thoracic drains left in place,7
+transferred to the intensive care unit,7
+pneumonia,7
+severe delirium,7
+congestive heart failure,7
+pulmonary edema,7
+withdrawal of care,720
+died,720
+prominent anterior thoracic osteophytes,-1
+vertebral osteophytes compressing the esophagus,-1
+anatomic proximity of thoracic osteophytes to the esophagus,-1
+esophageal laceration,0
+transesophageal probe manipulation,0
+esophageal perforation,1
+esophageal injury,1
+repeated insertion and withdrawal of the probe,0
+extensive transesophageal probe manipulation,0
+preoperative imaging,-1
+chest CT,-1
+vertebral osteophytes,-1
+anatomic relation to the esophagus,-1
+safe performance of TEE,0
+relative contraindication to TEE,0
+elderly patients,0
+interventional cardiologic procedures,0
+general anesthesia,0
+MitralClip implantation,0
+left atrial appendage occlusion,0
+guide catheter–based procedures,0
+probe manipulations,0
+repeated motion,0
+esophageal injury,0
+procedural duration,0
+contributing factor,0
+preoperative pulmonary radiography,-1
+CT,-1
+routine investigation,-1
+iatrogenic esophageal perforation,1
+transesophageal echocardiography,0
+rare event,0
+high mortality rate,0
+incidence,0
+complication,1
+adverse effect,1
+adverse event,1
+laceration,1
+rupture,1
+tear,1
+injury,1
+perforation,1
+osteophyte,-1
+hyperostosis,-1
+exostoses,-1
+diffuse idiopathic skeletal hyperostosis,-1
+spine,-1
+vertebral column,-1
+preexisting esophageal pathologies,0
+esophageal stricture,0
+Zenker's diverticulum,0
+fibrosis,0
+prior chest radiation,0
+ulceration,0
+medication,0
+severe cardiomegaly,0
+large calcified lymph nodes,0
+mechanical compression,0
+mucosal and muscular fibers,0
+esophagus,0
+common radiologic findings,-1
+elderly population,-1
+dysphagia,-1
+aspiration,-1
+anterior cervical osteophytes,-1
+thoracic region,-1
+tracheal bifurcation,-1
+diaphragmatic hiatus,-1
+anatomic space,-1
+esophagus,-1
+symptoms,-1
+extrinsic esophageal compression,-1
+lower thoracic region,-1
+supine position,-1
+weight of thoracic organs,-1
+osteophytes,-1

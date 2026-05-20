@@ -1,0 +1,63 @@
+event,time
+71-year-old female,0
+obese,0
+type 2 diabetes,0
+admitted to tertiary referral hospital,0
+obstructive jaundice,0
+total bilirubin level 13.6 mg/dL,0
+abdominal ultrasound showed multiple gallbladder stones,0
+large impacted stone (12 mm) in cystic duct,0
+thickened gallbladder wall up to 17 mm in diameter,0
+magnetic resonance cholangiopancreatography performed,0
+delayed enhancement of thickened gallbladder wall,0
+thickened wall interpreted as inflammation associated with Mirizzi syndrome,0
+ERCP performed,0
+biliary stent inserted,0
+cholangiography showed subhilar stenosis,0
+intrahepatic cholestasis,0
+stent occlusion,72
+cholangitis,72
+ERCP performed,72
+no microorganism detected,72
+antibiotic treatment with ceftriaxone,72
+antibiotic treatment with metronidazole,72
+discharged,72
+total bilirubin level 1.9 mg/dL,72
+readmission cholecystectomy scheduled,72
+readmitted,240
+fever,240
+signs of cholangial sepsis,240
+hypotension,240
+renal failure,240
+CRP 314 mg/dL,240
+computed tomography showed liver abscess in seg. VII,240
+liver abscess drained percutaneously,240
+blood culture revealed Enterococcus faecalis,240
+blood culture revealed Streptococcus anginosus,240
+liver abscess culture showed vancomycin-resistant Enterococcus faecium (VRE),240
+meropenem treatment,240
+linezolid treatment,240
+inserted double pigtail plastic stent exchanged with shorter plastic stent,240
+intrahepatic biloma abscess,240
+elevated total bilirubin level 44 mg/dL in drained abscess fluid,240
+prolonged systemic VRE sepsis,504
+pleural effusions,504
+articular effusions,504
+central venous catheter infection,504
+linezolid-vancomycin-resistant E. faecium (LVRE) detected,672
+core genome multilocus sequence typing performed,672
+VRE and LVRE strains belonged to same clone,672
+linezolid mutation G2576T in 23 rRNA gene,672
+meropenem treatment,672
+tigecycline treatment,672
+biliary plastic stents exchange failed,672
+double-sided percutaneous biliary drainage performed,672
+discharged,1488
+improvements in infection after 2-month hospital stay,1488
+readmitted,1512
+cholangial septic shock,1512
+emergency cholecystectomy performed,1512
+bile duct revision performed,1512
+t-tube insertion,1512
+moderate differentiated adenocarcinoma of gallbladder (pT3 pNX L1 V0 R1 G2),1512
+died,1536

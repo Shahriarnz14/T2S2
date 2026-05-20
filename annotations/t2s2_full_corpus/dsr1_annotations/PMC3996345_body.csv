@@ -1,0 +1,133 @@
+event,time
+55 years old,0
+male,0
+back pain,-1440
+trivial fall,-1440
+analgesics,-1440
+bed rest,-1440
+pain relieved,-1440
+back pain increased,Approximately -1440 to 0 (gradual increase over two months)
+restricted movements,0
+gibbus at thoracolumbar junction,0
+para-spinal muscle spasm,0
+spine movements restricted,0
+spine movements painful,0
+normal motor power,0
+normal sensation,0
+intact reflexes,0
+normal bladder function,0
+normal bowel function,0
+anorexia,-1440
+weight loss,-1440
+type-2 diabetes,0
+CRP 11 mg/L,0
+ESR 27 mm/hr,0
+"white cell count 10,000 cells/mm3",0
+normal bone profile,0
+normal renal function,0
+normal liver function,0
+T12 compression fracture,0
+marrow edema,0
+fluid in fracture site,0
+prevertebral soft-tissue swelling,0
+epidural soft-tissue component,0
+osteopenia (T-score -2),0
+intact posterior cortex (T12),0
+transpedicular biopsy,0
+kyphoplasty planned,0
+general anesthesia,0
+prone position,0
+needle insertion,0
+minimal resistance,0
+aspiration attempt,0
+saline injection,0
+sero-sanguineous material with pus,0
+kyphoplasty deferred,0
+extubation,0
+bronchospasm,0
+desaturation,0
+reintubation,0
+"respiratory acidosis (pH 7.16, PaCO2 72)",0
+bilateral lung infiltrates,0
+mechanical ventilation,0
+PaO2/FiO2 205,0
+pulmonary edema progression,+24
+CT multifocal infiltrates,+24
+pleural fluid,+24
+vancomycin started,+24
+ventilator weaned,+24
+extubation,+48
+chest clear,+72
+X-ray resolution,+72
+Staphylococcus aureus culture,+72
+linezolid IV,+72
+thoracolumbar orthosis,+72
+CRP normalized,+720 (approximated to 6 months follow-up)
+ESR normalized,+720
+symptom-free,+4320 (6 months follow-up)
+55 years old,0
+male,0
+back pain,0
+trivial fall,-1440
+analgesics,-1440
+bed rest,-1440
+pain relieved,-1440
+back pain increased,-1440 to 0 (over two months)
+restricted movements,0
+gibbus at thoracolumbar junction,0
+para-spinal muscle spasm,0
+spine movements restricted,0
+spine movements painful,0
+normal motor power,0
+normal sensation,0
+intact reflexes,0
+normal bladder function,0
+normal bowel function,0
+anorexia,-1440
+weight loss,-1440
+type-2 diabetes,0
+CRP 11 mg/L,0
+ESR 27 mm/hr,0
+"white cell count 10,000 cells/mm3",0
+normal bone profile,0
+normal renal function,0
+normal liver function,0
+T12 compression fracture,0
+marrow edema,0
+fluid in fracture site,0
+prevertebral soft-tissue swelling,0
+epidural soft-tissue component,0
+osteopenia (T-score -2),0
+intact posterior cortex (T12),0
+transpedicular biopsy,0
+kyphoplasty planned,0
+general anesthesia,0
+prone position,0
+needle insertion,0
+minimal resistance,0
+aspiration attempt,0
+saline injection,0
+sero-sanguineous material with pus,0
+kyphoplasty deferred,0
+extubation,0
+bronchospasm,0
+desaturation,0
+reintubation,0
+"respiratory acidosis (pH 7.16, PaCO2 72)",0
+bilateral lung infiltrates,0
+mechanical ventilation,0
+PaO2/FiO2 205,0
+pulmonary edema progression,+24
+CT multifocal infiltrates,+24
+pleural fluid,+24
+vancomycin started,+24
+ventilator weaned,+24
+extubation,+48
+chest clear,+72
+X-ray resolution,+72
+Staphylococcus aureus culture,+72
+linezolid IV,+72
+thoracolumbar orthosis,+72
+CRP normalized,+720
+ESR normalized,+720
+symptom-free,+4320

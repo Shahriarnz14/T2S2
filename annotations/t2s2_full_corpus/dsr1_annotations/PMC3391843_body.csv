@@ -1,0 +1,60 @@
+event,time
+40-year-old,0
+female,0
+admitted to intensive burn care unit,0
+assault chemical burn,-1.5
+conjugal violence,-1.5
+total burned surface area 35%,0
+third-degree burns,0
+neck burns,0
+face burns,0
+head burns,0
+arms burns,0
+thorax burns,0
+abdomen burns,0
+left leg burns,0
+bilateral eyes lesions,0
+ears lesions,0
+sulfuric acid exposure,-1.5
+pH 0.9,0
+no irrigation at scene,-1.5
+irrigation started at burn center,0
+fluid resuscitation (Parkland's formula),-1.5
+orotracheal intubation performed,-1.5
+sedation for transfer,-1.5
+arterial blood pressure 70/30 mmHg,0
+pulse 110 bpm,0
+SpO2 >90%,0
+normal lung auscultation,0
+admission electrocardiogram normal,0
+chest X-ray normal,0
+metabolic acidosis pH 6.92,0
+PaCO2 42 mmHg,0
+bicarbonate 8.6 mEq/l,0
+base deficit 23.4 mEq/l,0
+sodium 148 mEq/l,0
+potassium 4.1 mEq/l,0
+chloride 117 mEq/l,0
+calcium 6.1 mg/dl,0
+phosphorus 15.1 mg/dl,0
+lactate 1.7 mmol/L,0
+serum creatinine 0.83 mg/dl,0
+no rhabdomyolysis,0
+fibrinogen 117 mg/dl,0
+APTT 69 s,0
+INR 2.23,0
+platelets 169000/mm3,0
+sodium bicarbonate 300 mmol over 14 h,0
+Hartmann's solution 140 mmol over 24 h,0
+thoracic rigidity,0
+mechanical ventilation required for 40 days,24
+percutaneous tracheostomy after 1 month,720
+inotropic support (dobutamine 5 μg/kg/min) for 15 days,24
+left ventricular dysfunction,24
+urine output maintained first week,168
+continuous venovenous hemofiltration started after 1 week,168
+hemofiltration continued for 7 weeks,168
+multiple wound-related sepsis episodes,24
+antimicrobial therapy,24
+iterative surgery (15 procedures),24
+discharge from ICU after 5 months,3600

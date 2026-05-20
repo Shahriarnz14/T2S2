@@ -1,0 +1,104 @@
+event,time
+31 years old,0
+female,0
+pancreas-kidney transplant,-78840
+advanced diabetic nephropathy,-78840
+end-stage renal disease,-78840
+chronic renal graft dysfunction,-2160
+regular hemodialysis,-2160
+immunosuppressive therapy,0
+mycophenolate 180 mg tab twice daily,0
+tacrolimus 3 mg tab twice daily,0
+prednisolone 5 mg tab once daily,0
+fever,-72
+shortness of breath,-72
+dry cough,-72
+shivering,0
+high-grade fever,0
+admitted to hospital,0
+suspected catheter related blood stream infection,0
+type 1 diabetes,0
+hypertension,0
+bronchial asthma,0
+glaucoma,0
+depression,0
+mild chest discomfort,0
+temperature 39.4 °C,0
+pulse 112 beats/min,0
+respiratory rate 24 breaths/min,0
+oxygen saturation 90%,0
+blood pressure 138/75 mmHg,0
+WBC 9.44 × 10³/μL,0
+RBC 3.46 × 10⁶/mcL,0
+hemoglobin 9.0 g/dL,0
+neutrophils 86%,0
+lymphocytes 8%,0
+absolute neutrophil count 7.17 × 10³/mcL,0
+RDW 18.0,0
+serum creatinine 541 μmol/L,0
+urea 11.66 mmol/L,0
+potassium 4.85 mmol/L,0
+sodium 139 mmol/L,0
+phosphorus 2.24 mmol/L,0
+eGFR 8.4 mL/min/1.73 m²,0
+total protein 51 g/L,0
+albumin 23.3 g/L,0
+CRP 78.0 mg/L,0
+procalcitonin 3.25 μg/L,0
+D-dimer 1.40 mg/L,0
+random blood sugar 7.5 mmol/L,0
+HbA1C 6.7%,0
+ABG pH 7.349,0
+ABG pCO2 40.9 mmHg,0
+ABG pO2 115.4 mmHg,0
+ABG HCO3 22.0 mmol/L,0
+chest CT bilateral diffuse patchy ground glass and consolidations,0
+chest X-ray bilateral extensive multifocal pulmonary opacities,0
+tacrolimus reduced to 2 mg twice daily,0
+mycophenolate withheld,0
+prednisolone increased to 20 mg/day,0
+empiric vancomycin 1 g every 48h,0
+empiric meropenem 500 mg every 24h,0
+empiric amikacin 400 mg every 48h,0
+hemodialysis continued,0
+RT-PCR COVID-19 negative,24
+blood culture negative,72
+bronchoscopy refused,0
+ICU admission,168
+chills,168
+shivering,168
+high-grade fever,168
+desaturation 82-83%,168
+HFNC initiated,168
+CPAP initiated,168
+repeat blood cultures sent,168
+repeat sputum cultures sent,168
+TB workup sent,168
+increased oxygen requirements,168
+chest X-ray worsening,168
+hemodialysis continued,168
+TMP/SMX 1200 mg daily started,192
+vancomycin stopped,192
+meropenem stopped,192
+clinical improvement,192
+sputum PCR positive for Pneumocystis jirovecii,192
+high-grade fever,360
+condition deterioration,360
+pan-culture sent,360
+vancomycin restarted,360
+meropenem restarted,360
+blood culture yeast cells,360
+anidulafungin loading dose 200mg,360
+anidulafungin maintenance 100mg daily,360
+tachypnea 40/min,360
+severe respiratory distress,360
+chest X-ray extensive bilateral opacities,360
+no neurological symptoms,360
+severe hypoxemia,360
+intubated,360
+mechanical ventilation,360
+bradycardia,360
+asystole,360
+CPR initiated,360
+death,360.5
+blood culture Cryptococcus neoformans,480

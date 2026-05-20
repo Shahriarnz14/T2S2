@@ -1,0 +1,50 @@
+event,time
+79 years old,0
+male,0
+acute abdominal pain,-24
+abdominal computed tomography (CT),-24
+hepatic portal venous gas (HPVG),-24
+transferred to our hospital,-24
+no remarkable past medical history,0
+body temperature: 37.2°C,0
+blood pressure: 112/74 mmHg,0
+pulse rate: 68 beats/min,0
+abdominal distention,0
+rebound tenderness,0
+abdominal guarding,0
+peritoneal irritation,0
+"white blood cell count: 18,400/μL",0
+C-reactive protein concentration: 17.7 mg/dL,0
+dehydration,0
+metabolic acidosis,0
+base excess: −7.0 mmol/L,0
+"creatine kinase: 28,327 IU/L",0
+plain abdominal radiographs: distention of the small intestine,0
+subileus,0
+contrast-enhanced abdominal CT,0
+contrast defect in small intestine,0
+small amount of ascites,0
+no thrombus in artery,0
+appendix wall thickening,0
+urgent laparotomy,0
+generalized peritonitis,0
+intestinal necrosis,0
+turbid ascites,0
+dilated small intestine,0
+no intestinal ischemia,0
+discoloration of appendix,0
+gangrenous appendicitis,0
+no macroscopic perforation,0
+appendectomy,0
+abdominal drainage,0
+pathological diagnosis: gangrenous appendicitis,0
+no malignancy,0
+Escherichia coli in ascitic culture,0
+intravenous meropenem,0
+septic shock,24
+disseminated intravascular coagulation (DIC),24
+admitted to ICU,24
+blood purification therapy,24
+CT on Day 7: HPVG disappeared,168
+left ICU,168
+discharged from hospital,336

@@ -1,0 +1,73 @@
+event,time
+27 years old,0
+male,0
+admitted to Emergency Department,0
+severe respiratory distress,0
+cyanosis,0
+hemodynamic instability,0
+right pneumothorax,0
+thoracic drainage inserted,0
+bilateral pneumothorax,0
+rib fractures,0
+multiple pulmonary contusions,0
+sacral wing fracture,0
+right tibial plateau fracture,0
+no traumatic brain injury,0
+ICU admission,0
+intubation,0
+mechanical ventilation,0
+left chest drainage inserted,0
+conscious sedation with dexmetomidine,0
+conscious sedation with remifentanil,0
+systemic antimicrobial treatment with amikacin,0
+systemic antimicrobial treatment with cefazolin,0
+plate osteosynthesis for tibial plateau fractures,0
+septic episode,96
+blood cultures,96
+bilateral bronchoalveolar lavage,96
+empiric antimicrobials modified to piperacillin-tazobactam,96
+empiric antimicrobials modified to linezolid,96
+Gram-negative bacteria (Pseudomonas spp),96
+Gram-positive bacteria (Staphylococcus spp),96
+XDR Pseudomonas aeruginosa (XDR-PA),168
+high-dose meropenem started,168
+colistin started,168
+nebulized colistin added,168
+XDR-PA isolate from broncho-alveolar lavage,168
+intense headache,216
+neck rigidity,216
+lumbar puncture performed,216
+cloudy CSF,216
+CSF neutrophils >500/microL,216
+CSF glucose 19 mg/dL,216
+CSF protein 279 mg/dL,216
+Gram-negative bacteria (Pseudomonas spp) in CSF,222
+XDR-PA bacteremia,0
+salvage regimen with high-dose ceftolozane-tazobactam,222
+salvage regimen with high-dose fosfomycin,222
+salvage regimen with rifampicin,222
+dexamethasone added,222
+right middle-ear and mastoid suppurative infection,222
+no bone fractures,222
+meningeal syndrome resolved,264
+right mastoidectomy,264
+tympanoplasty,264
+extubated,264
+transferred to Infectious Diseases Unit,264
+XDR-PA MIC colistin <0.5 mg/L,0
+XDR-PA MIC ceftolozane-tazobactam 3 mg/L,0
+sterile CSF,336
+normalized CSF parameters,336
+fosfomycin discontinued,504
+ceftolozane-tazobactam discontinued,1008
+control head bone CT-scans confirmed resolution,1008
+discharged,1008
+no neurological sequelae,1008
+chronic otitis media,0
+recurring otitis,0
+previous treatment with quinolones,-
+previous treatment with cephalosporins,-
+pneumonia,0
+bloodstream infection,0
+right mastoidectomy with tympanoplasty postponed,222
+ear surgery,264

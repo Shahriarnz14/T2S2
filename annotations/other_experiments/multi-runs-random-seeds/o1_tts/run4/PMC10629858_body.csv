@@ -1,0 +1,73 @@
+event,time
+diagnosed with lepromatous leprosy ,-1344
+skin biopsy ,-1344
+started rifampicin/clofazimine/dapsone ,-1344
+57-year-old ,0
+male ,0
+admission to hospital ,0
+abdominal distension ,0
+constipation ,0
+vomiting ,0
+10-kg weight loss ,0
+vitally stable ,0
+peripheral lymphadenopathy ,0
+distended abdomen ,0
+positive shifting dullness ,0
+abdominal CT scan ,0
+mural thickening of terminal ileum ,0
+enlarged mesenteric lymph nodes ,0
+mesenteric fat stranding ,0
+intra-abdominal free fluid ,0
+suspected abdominal granulomatous infection ,0
+suspected neoplastic process ,0
+abdominal paracentesis ,12
+atypically large lymphocytes ,12
+flow cytometry ,12
+abnormal CD4/CD8 double-negative T-cell population ,12
+cervical lymph node biopsy ,24
+high-grade peripheral T-cell lymphoma ,24
+bone marrow exam ,24
+no involvement of T-cell NHL ,24
+stage IV lymphoma ,24
+started on dexamethasone ,36
+tumor-lysis syndrome precautions ,36
+deteriorated clinically ,48
+severe sepsis ,48
+transferred to ICU ,48
+required antibiotics ,48
+required antifungals ,48
+stayed in ICU for 1 week ,48
+recovered ,216
+transferred to national cancer center ,216
+started EPOCH chemo ,216
+intrathecal methotrexate ,216
+responded well to chemotherapy ,1000
+complete metabolic remission ,1000
+multiple febrile neutropenia episodes ,1000
+recurrent bacteremia ,1000
+neurology team involvement ,1100
+generalized weakness ,1100
+no sensory changes ,1100
+no clear fatigability ,1100
+decreased power in proximal and distal muscles ,1100
+no other abnormalities ,1100
+electromyogram/nerve conduction study ,1100
+normal distal latencies ,1100
+normal conduction velocities ,1100
+normal F waves ,1100
+normal insertional activity ,1100
+no spontaneous activity ,1100
+normal motor unit action potential ,1100
+poor recruitment ,1100
+repetitive nerve stimulation significant incremental response ,1100
+LEMS ,1100
+VGCC antibodies requested ,1100
+VGCC antibodies not done ,1100
+started on IVIG ,1100
+significant improvement of motor function ,1105
+patient could ambulate ,1105
+planned for autologous bone marrow transplant ,1200
+re-admitted to ICU ,4032
+severe sepsis ,4032
+multiorgan failure ,4032
+death ,4032

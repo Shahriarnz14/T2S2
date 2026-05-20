@@ -1,0 +1,160 @@
+event,time
+75-year-old,0
+male,0
+admitted to the Department of Infectious Diseases,0
+fever,-168
+highest body temperature 39.0 °C,-168
+chills,-168
+dizziness during the fever,-168
+remission after fever,-168
+no headache,0
+no abdominal pain,0
+no diarrhea,0
+no sputum,0
+no nasal congestion,0
+no runny nose,0
+temperature 39 °C,0
+heart rate 98 bpm,0
+respiratory rate 20 breaths per minute,0
+blood pressure 139/75 mmHg,0
+oxygen saturation in room air 98%,0
+breath sounds in both the lungs were clear,0
+heart rhythm was uniform,0
+neurological tests were negative,0
+white blood cell count 7.1 × 10^9/L,0
+neutrophils 58.6%,0
+monocytes 24.4%,0
+hemoglobin 83 g/L,0
+C-reactive protein 111.20 mg/L,0
+cell factor interleukin (IL)-6 279.22 pg/mL↑,0
+cell factor IL-10 3653.30 pg/mL↑,0
+plasma procalcitonin 0.19 ng/mL,0
+blood amyloid A 509.5 mg/L↑,0
+erythrocyte sedimentation rate 71 mm/L,0
+lactate dehydrogenase 694 U/L↑,0
+creatine kinase 19 U/L↓,0
+albumin 27 g/L↓,0
+K+ 2.99 mmol/L↓,0
+Na+ 135.1 mmol/L↓,0
+Cl- 98.5 mmol/L↓,0
+calcium 1.87 mmol/L↓,0
+phosphorus 0.65 mmol/L↓,0
+creatinine normal,0
+"anti-nuclear antibody, titer 1:100",0
+anti-SSA-,0
+anti-SCL70 positive,0
+TORCH test normal,0
+Plasmodium test normal,0
+fungal D-glucan test normal,0
+coronavirus disease 2019 normal,0
+hemorrhagic fever IgM antibody normal,0
+Widder test normal,0
+Weil Felix reaction normal,0
+chest computed tomography: small amount of effusion in the pleural cavities on both the sides,12
+chest computed tomography: nodules in the pleura and under the pleura,12
+cranial computed tomography no obvious abnormalities,12
+bilateral blood culture suggested the occurrence of Listeria monocytogenes,24
+lumbar puncture,24
+cerebrospinal fluid nucleated cell count 420 × 10^6/L,36
+cerebrospinal fluid lymphocyte 75%,36
+cerebrospinal fluid lactate dehydrogenase 472 U/L,36
+cerebrospinal fluid total protein 261.3 mg/dL,36
+cerebrospinal fluid glucose 1.51 mmol/L,36
+cerebrospinal fluid chloride content 111.0 mmol/L,36
+cerebrospinal fluid adenosine deaminase 16 U/L (normal),36
+cerebrospinal fluid cryptococcal smear negative,36
+cerebrospinal fluid cryptococcal capsular antigen test negative,36
+cerebrospinal fluid culture negative,36
+cerebrospinal fluid metagenomic test positive for Listeria monocytogenes (relative abundance 2.14%),36
+cerebrospinal fluid metagenomic test detected suspected background bacteria Staphylococcus aureus (relative abundance 0.43%),36
+sepsis,36
+lung infection,36
+respiratory failure,36
+electrolyte imbalance,36
+hyponatremia,36
+hypokalemia,36
+autoimmune disease,36
+Listeria monocytic meningoencephalitis,36
+levofloxacin 0.5 g qd intravenously,0
+body temperature did not drop significantly,72
+highest body temperature above 39.0 °C,72
+blood culture indicated penicillin-resistant Staphylococcus capital subspecies,72
+Vancomycin injection 500000 U q6h intravenously,72
+body temperature reached the normal levels,96
+vancomycin used for 6 d,72
+body temperature was maintained at the normal level for more than 3 d,144
+vancomycin discontinued,216
+discharged from the hospital,216
+high fever again with a maximum body temperature of 39.7 °C,240
+chills,240
+cough,240
+sputum was rather thick and difficult to cough up,240
+no chest pain,240
+no limb twitching,240
+pupils were sluggish in the light reflection,240
+appeared confused,240
+mentally soft,240
+could only communicate briefly,240
+muscle strength test could not cooperate,240
+voluntary activities were seen,240
+diarrhea,240
+hospitalized in the emergency intensive care unit,240
+high-frequency oxygen inhalation,240
+piperacillin and tazobactam 4.5 g q8h intravenously,240
+methylprednisolone injection 40 mg,240
+repeated fever,244
+body temperature above 38.3 °C,244
+levofloxacin 0.5 g qd intravenously,252
+cranial magnetic resonance: abnormal signals in the sub-frontal cortex,260
+cranial magnetic resonance: abnormal signals in the midbrain,260
+cranial magnetic resonance: abnormal signals in the posterior horns of both sides of the ventricle,260
+cranial magnetic resonance: lacunar foci scattered under the frontal cortex on both the sides,260
+cranial magnetic resonance: transparent interstitial space was formed,260
+no obvious brain abscess formation was noted,260
+body temperature returned to normal,264
+consciousness became clear,264
+C-reactive protein dropped to 76.4 mmol/L,264
+transferred to the general ward of the Department of Respiratory Medicine,264
+atrial fibrillation occurred,264
+unresponsiveness,264
+slurred speech,264
+shortness of breath under nasal cannula oxygen inhalation,264
+slow light reflexes,264
+stiff neck,264
+increased muscle tone,264
+wet rales in both lungs,264
+repeated fever with the body temperature fluctuating around 38.7 °C,264
+sudden blood pressure drops,264
+signs of septic shock,264
+active rehydration,264
+norepinephrine micropump used to maintain blood pressure,264
+antibiotics adjusted to 1 million units of vancomycin injection q12h,264
+meropenem injection 1.0 g q8h,264
+again transferred to ICU,264
+methylprednisolone reduced to 20 mg,264
+methylprednisolone stopped,300
+chest computed tomography: multiple nodules in both lungs,348
+chest computed tomography: scattered patchy shadows in both the lungs,348
+chest computed tomography: possible infection,348
+small amount of pleural effusion in both lungs decreased,348
+"distributed along with the bronchial vascular bundle, mainly under the pleura",348
+suddenly became unconscious,420
+the base of the tongue fell back,420
+shortness of breath,420
+stiff neck,420
+tremor of the limbs,420
+heart rate dropped to 40 beats per minute,420
+trachea was intubated,420
+ventilator-assisted ventilation,420
+repeated high fever,420
+septic shock,420
+multiple organ failure,420
+gradual decrease in consciousness,420
+active fluid resuscitation,420
+norepinephrine injection,420
+condition did not improve significantly,432
+family decided to discontinue the further treatment,432
+treatment discontinued,432
+history of hypertension,-8760
+no special personal history,0
+no special family history,0

@@ -1,0 +1,83 @@
+pmcIntroduction
+
+Systemic capillary leak syndrome (SCLS) is a rare disease characterized by severe hypotension, hypoalbuminemia, and hemoconcentration (1). SCLS is caused by leakage of protein-rich fluid into the interstitium due to increased vascular permeability in response to cytokines (2). Interleukin (IL)-2, IL-11, and tumor necrosis factor are believed to be involved in SCLS attacks because they cause drug-induced SCLS (3,4). Elevated IL-2 levels induce overproduction of nitric oxide, causing vasodilation and systemic hypotension, leading to capillary-level water loss and cytotoxic effects on endothelial cells (5). This can cause sepsis-like syndromes, resulting in hypovolemic shock with multiple organ failure and death, with an overall mortality rate of 14% (6).
+
+Herein, we describe a patient who had an exacerbation of SCLS after receiving the Pfizer-BioNTech BNT162b2 mRNA COVID-19 vaccine.
+
+Case Report
+
+A 60-year-old Japanese man was admitted to the hospital with syncope. He had received a second dose of the BNT162b2 COVID-19 vaccine 2 days before admission. The first vaccination had been administered 3 weeks before admission, and he had not experienced any adverse effects other than pain at the site of inoculation. He developed a fever of 38°C and malaise on the day after the second vaccination, and on the following day (the day of admission), he noticed decreased urine output, right leg edema, nausea, dizziness, and dyspnea on exertion. As he stood up, he lost consciousness and was taken to the emergency department.
+
+On examination, he was awake and alert. His vital signs were: blood pressure, 97/50 mmHg; pulse rate, 114/min; body temperature, 36.0°C; respiratory rate, 12 breaths/min, and percutaneous oxygen saturation, 97%. He had generalized pitting edema in his legs, but no other abnormalities were detected on physical examination. Blood tests revealed an elevated white blood cell count (12,000 /μL), hemoglobin (22.2/dL) and serum creatinine (1.51 mg/dL) level (Table 1). Urinalysis revealed no proteinuria, hematuria, or urinary casts. Chest radiography and electrocardiography findings were normal. He was admitted to the intensive care unit, and aggressive fluid therapy was administered to maintain his blood pressure. The following day, his urine output increased (6,000 mL/day), blood pressure stabilized, and hemoconcentration improved. He was hospitalized for 5 days and was subsequently discharged.
+
+Table 1. Laboratory Parameters and Vital Signs during Hospitalization.
+
+Laboratory parameters		Reference range		Admission (Day 0)		Day 1		Day 2		Day 3		Day 4	
+Blood pressure (mmHg)		-		97/50		100/67		107/60		124/70		120/80	
+Pulse rate (beats/min)		-		114		130		90		80		78	
+														
+White blood cell count (/μL)		3,300-9,000		12,000		25,200		17,400		8,400		7,000	
+Neutrophil (%)		32-73		73.0		76.0		73.5		61.4		60.3	
+Eosinophil (%)		0.0-7.0		1.0		0.0		0.0		0.7		2.3	
+Basophil (%)		0.0-2.0		1.0		0.0		0.1		0.2		0.4	
+Monocytes (%)		1.0-10		8.0		10.5		10.7		11.9		11.1	
+Lymphocyte (%)		18-59		15.0		13.5		15.7		25.8		25.9	
+Myelocyte (%)		0.0-0.0		2.0		0.0		0.0		0.0		0.0	
+Hemoglobin (g/dL)		13.5-17.5		22.2		20.3		13.6		10.9		11.2	
+Hematocrit (%)		42-53		67.5		62.0		40.6		32.9		33.4	
+Platelet count (/μL)		120,000-350,000		231,000		233,000		187,000		145,000		139,000	
+Total protein (g/dL)		6.6-8.1		5.6		4.0		4.7		4.7		5.2	
+Albumin (g/dL)		3.3-5.3		3.2		2.4		3.0		3.0		3.2	
+Creatinine (mg/dL)		0.33-1.17		1.51		1.89		1.39		0.87		0.88	
+Blood urea nitrogen (mg/dL)		8.0-23		19.0		28.0		37.0		20.0		15.0	
+Creatinine kinase		35-210		110		-		181		90		76	
+Aspartate aminotransferase (U/L)		11-35		20		14		16		24		42	
+Alanine aminotransferase (U/L)		5.0-40		14		11		11		16		31	
+Lactic acid dehydrogenase (U/L)		124-222		172		176		129		150		165	
+Sodium (mEq/L)		135-147		135		135		132		140		142	
+Potassium (mEq/L)		3.6-5.0		5.2		5.3		5.1		4.1		4.1	
+C-reactive protein (mg/dL)		0.0-0.30		0.96		0.70		0.89		0.48		0.37	
+
+He had been hospitalized thrice for the same symptoms within 9 years. The first episode had occurred 12 years previously. After 4 days of common cold-like symptoms, he had developed nausea and vomiting, pain and swelling in the lower extremities, oliguria, hypotension, and hemoconcentration. He had spent 36 days in a hospital for fluid and antimicrobial therapy and had been diagnosed with sepsis of unknown origin. The second episode occurred 4 years later. The disease was preceded by cold-like symptoms, and he had developed nausea, oliguria, and swelling in the lower extremities. He had been discharged within 4 days and had been diagnosed with acute renal failure of unknown origin. The third episode had occurred 5 years later, without preceding symptoms. His left leg began swelling 2 days before admission. The following day, he had noticed a decrease in urine output, generalized body edema, nausea, dizziness, dyspnea on exertion, and hypotension. Laboratory data had revealed a strong inflammatory response, hemoconcentration, and kidney dysfunction. He was admitted to the intensive care unit, and aggressive fluid therapy was administered to maintain his blood pressure. The following day, his urine output had increased, blood pressure stabilized, and hemoconcentration improved. He had been hospitalized for 9 days and was subsequently discharged. Investigations performed during the hospitalization had revealed no abnormal findings other than IgG-κ-type M-proteinemia and small JAK2 mutations of unknown pathological significance. He was diagnosed with SCLS owing to repeated hypotension caused by capillary leakage in the absence of an identified cause.
+
+The presenting episode occurred 2 years after the third episode, after receiving a second dose of BNT162b2 COVID-19 vaccine. Detailed investigations to determine the cause were performed during hospitalization. His highly sensitive Troponin I and brain natriuretic peptide levels were low, but his soluble interleukin-2 receptor levels were not elevated. C4 and C1 elastase inhibitors were within the normal range. The findings of blood culture and anti-streptolysin O antibody tests were negative. Antinuclear antibody, anti-glomerular basement membrane antibody, antineutrophil cytoplasmic antibody, and rheumatoid factor test observations were negative. Based on the course of the events and the examination results, he was diagnosed with a fourth attack of SCLS. After discharge, he started oral terbutaline and theophylline prophylaxis for SCLS and has had no further episodes of SCLS during 1 year of follow-up.
+
+Discussion
+
+Here, we report a patient who had an exacerbation of SCLS, which was thought to have been triggered by COVID-19 vaccination.
+
+Upper respiratory tract infections have been reported as a precipitating factor in 30-44% of SCLS cases (6,7). The first two episodes in our case were preceded by common cold-like symptoms. Recently, there have been several reports of COVID-19 triggering SCLS (8-14). Cytokine storms in patients with COVID-19 (15) may trigger SCLS attacks.
+
+Previous studies have reported an association between COVID-19 vaccines [BNT162b2 mRNA COVID-19 (Pfizer-BioNTech) (16-20), Ad26.COV2-S (Janssen) (16,21), mRNA-1273 (Moderna) (16), and ChAdOx1 nCoV-19 (Oxford-AstraZeneca) (22)] and SCLS attacks. The UK Medicines and Healthcare Products Regulatory Agency (MHRA) recommends that the COVID-19 AstraZeneca vaccine should not be administered to individuals who have previously experienced episodes of SCLS (23). Additionally, the MHRA reported a potential risk of flare-up of existing SCLS for mRNA-1273 (Moderna); however, no association was found between new-onset or flare-up of SCLS and the BNT162b2 mRNA COVID-19 vaccine. Two studies have used disproportionality analysis of the pharmacovigilance database to investigate the relationship between COVID-19 and SCLS (24,25). Park et al. (24) reported a significant potential signal of disproportionality of SCLS in ChAdOx1 nCoV-19 (Oxford-AstraZeneca), and Ruggiero et al. (25) reported a small but statistically significant safety concern for SCLS after receiving COVID-19 viral vector vaccines, particularly the Ad26.COV2-S vaccine (Janssen). These reports showed no major safety concerns regarding SCLS with the BNT162b2 mRNA COVID-19 vaccine. However, cases of SCLS following BNT162b2 mRNA COVID-19 vaccine inoculation have been reported, including this case. Given the severe nature of SCLS, the BNT162b2 mRNA COVID-19 vaccine should not be administered to individuals with a history of SCLS.
+
+Table 2 shows the characteristics of SCLS cases following COVID-19 vaccination described in the literature. In seven of the nine cases, the SCLS attack occurred 1-2 days after vaccination (16,17,19,21,22), and in seven of the nine cases, the attack occurred after the second dose of vaccine (16-20). In four of the nine cases, there were no previous SCLS episodes (16,18-20), although there was a possibility of episodes being missed due to the difficulty in diagnosing SCLS. In our case, SCLS flared up 2 days after receiving the second dose of BNT162b2 vaccine. These cases indicate that if the COVID-19 vaccine is administered to patients with a history of SCLS, the patients should be carefully monitored for 1-2 days after vaccination.
+
+Table 2. Characteristics of Systemic Capillary Leak Syndrome (SCLS) following COVID-19 Vaccination Described in the Literature.
+
+Reference	Age (years)	Sex	Previous history of SCLS	SCLS prophylaxis	MGUS	COVID-19 vaccination	Outcome	
+Number of administrations	Type of vaccine	Time from inoculation to SCLS	
+Present case	60	M	Yes	No	IgG kappa	2	BNT162b2	2 days	Recovery	
+(16)	68	F	Yes	Yes (oral terbutaline and theophylline)	Yes	1	Ad26.
+COV2-S	2 days	Death	
+(16)	46	F	Yes	No	IgG kappa	2	mRNA-1273	2 days	Recovery	
+(16)	36	M	No	No	No	2	BNT162b2	1 day	Recovery	
+(17)	60	F	Yes	No	NI	2	BNT162b2	1 day	Recovery	
+(18)	40’s	F	No	No	IgG kappa	2	BNT162b2	3 days	Recovery	
+(19)	53	F	No	No	No	2	BNT162b2	2 days	Recovery	
+(20)	65	M	No	No	NI	2	BNT162b2	12 days	Recovery	
+(21)	38	M	No	No	Multiple myeloma	No information	Ad26.
+COV2-S	2 days	Death	
+(22)	66	M	Yes	No	IgG kappa	1	ChAdOx1 nCoV-19	1 day	Recovery	
+COVID-19: coronavirus disease, MGUS: monoclonal gammopathy of undetermined significance
+
+Previous reports indicate that even if an SCLS attack does not develop after the first vaccination, it may occur after the second vaccination. This is because more cytokines are released after the second COVID-19 vaccination. The BNT162b2 COVID-19 vaccine activates virus-specific CD4+ and CD8+ T cells, leads to a robust release of immunomodulatory cytokines (26), and produces antibodies against SARS-CoV-2. Previous studies have reported higher rates of adverse reactions and antibody production after the second dose of vaccine than after the first one (27,28) because of the second vaccination having a boosting effect, leading to greater release of cytokines.
+
+The mortality rate of SCLS has been reported to be 14% (6), and two of ten cases of SCLS occurring after vaccination resulted in death (20%) (Table 2). The clinical presentation of this case was not significantly different from that of the three previous episodes. It was milder than the first episode, which may be partly because both the patient and healthcare providers were familiar with the disease and reacted quickly.
+
+In our case, the patient had IgG-κ-type monoclonal gammopathy of undetermined significance (MGUS). MGUS has been reported in 68% of adult cases of idiopathic SCLS (6). In one case, MGUS was found in a person without a history of SCLS who developed SCLS following COVID-19 vaccination (22). Caution should be exercised when administering the COVID-19 vaccine to individuals with a history of MGUS, including those without previous SCLS episodes.
+
+Oral terbutaline and theophylline prophylaxis for SCLS (3,29) and intravenous immunoglobulin (30) have been reported to be effective. However, it is unknown whether these prophylactics are equally effective against SCLS flare-ups after COVID-19 vaccination, and cases of SCLS flare-ups have been reported after receiving the Ad26.COV2-S vaccine following oral terbutaline and theophylline prophylaxis (16). It is important to note that COVID-19 vaccination may cause SCLS flare-ups even after receiving prophylaxis.
+
+In conclusion, we encountered a 60-year-old Japanese man with an SCLS exacerbation following administration of the BNT162b2 mRNA COVID-19 vaccine. If possible, individuals with a history of SCLS should avoid COVID-19 vaccination and should be carefully monitored for 1-2 days if they receive the vaccine.
+
+The authors state that they have no Conflict of Interest (COI).

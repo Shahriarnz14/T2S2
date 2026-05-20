@@ -1,0 +1,105 @@
+event,time
+29-year-old female,0
+referred to emergency department,0
+4-day history of vomiting,-96
+general malaise,-96
+atypical chest pain,-96
+epigastric pain,-96
+recent history of polyuria,-720
+recent history of polydipsia,-720
+mild eczema,0
+3 pack-year smoking history,0
+normotensive (141/100 mmHg),0
+sinus tachycardia (127 bpm),0
+temperature 34.6°C,0
+oxygen saturation 98% on room air,0
+respiratory rate 22 breaths/min,0
+normal lung examination,0
+normal heart examination,0
+normal lower limb examination,0
+arterial pH 6.87,0
+hyperglycemia (31.6 mmol/L),0
+capillary ketones 4.6 mmol/L,0
+bicarbonate 2.9 mmol/L,0
+PO2 11.7 kPa,0
+PCO2 1.5 kPa,0
+normal CXR,0
+ECG sinus tachycardia,0
+no acute coronary syndrome,0
+hypokalemia 3.2 mmol/L,0
+white cell count 33.09 × 10^9/L,0
+neutrophils 28.43 × 10^9/L,0
+CRP 13.9 mg/L,0
+normal plasma sodium,0
+normal serum creatinine,0
+diagnosed with new-onset type 1 DM,0
+severe DKA,0
+potassium replacement,0
+insulin infusion,0
+volume expansion with crystalloids,0
+intravenous amoxicillin/clavulanic acid,0
+pH improved to 7.07,24
+capillary ketones 4.1 mmol/L,24
+hypothermia resolved (36.6°C),24
+desaturation to 88% on room air,24
+commenced on supplemental oxygen,24
+ABG on 3L oxygen: PaO2 6.4 kPa,24
+PCO2 2.3 kPa,24
+pH 7.24,24
+bicarbonate 7.5 mmol/L,24
+suspected SARS-CoV2,24
+nasopharyngeal swab,24
+further desaturation,24
+type 1 respiratory failure,24
+CXR bilateral infiltrates (ARDS-like),24
+pO2 5.3 kPa on high flow oxygen,24
+diuretic treatment,24
+antibiotics continued,24
+transferred to ICU,24
+intubated and ventilated,24
+FiO2 100%,24
+PEEP 15 cm H2O,24
+PaO2 10.3 kPa,24
+noradrenaline 40 µg/min,24
+vasopressin 2.4 units/h,24
+lung protective ventilation,24
+ECMO initiated,24
+CVVH initiated,24
+SARS-CoV2 swabs negative (2 swabs),72
+bronchoscopy samples negative for SARS-CoV2,72
+troponin rise (38 to 2869 ng/L),48
+normal creatine kinase (84 U/L),48
+TTE reduced ejection fraction (45%),48
+suspected peri-myocarditis,48
+ECMO discontinued (4 days),120
+extubated,168
+PaO2 16.7 kPa on FiO2 30%,168
+troponin elevated (401 ng/L),240
+echo ejection fraction 50-55%,240
+minimally thickened aortic valve,240
+stress myocarditis resolved,240
+insulin infusion discontinued,192
+subcutaneous insulin (basal/bolus),192
+cultures negative,0
+CXR no cardiomegaly,0
+CXR no mediastinal lymphadenopathy,0
+diagnosis of ARDS with DKA,0
+discharged to endocrine ward,264
+discharged home,384
+HbA1c 58 mmol/mol,1440
+positive GAD antibodies,1440
+normal cardiac function,1440
+troponin <14 ng/L,1440
+no shortness of breath,1440
+clear chest examination,1440
+oxygen saturation 99% on room air,1440
+ARDS complication,0
+DKA as first presentation of type 1 DM,0
+excluded sepsis,0
+excluded aspiration,0
+excluded inhalation injury,0
+excluded trauma,0
+excluded burns,0
+excluded SARS-CoV2,0
+no complications from ECMO,0
+successful ECMO outcome,0

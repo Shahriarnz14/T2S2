@@ -1,0 +1,112 @@
+event,time
+44-year-old female,0
+ECOG performance status 0,0
+wide local surgical excision,-24
+sentinel node biopsy,-24
+complete regional lymphadenectomy,-24
+diagnosis of ulcerated MM,-24
+Breslow thickness 1.2 mm,-24
+mitosis between 1 and 6 per mm2,-24
+absence of intense intra-tumor lymphocyte infiltrate,-24
+Stage III C,-24
+BRAF-V600E mutation,-24
+adjuvant Pembrolizumab 200 mg flat dose,-24
+5 treatment cycles,-24
+severe grade 3 diarrhea,0
+eight-ten stools/day,0
+intense abdominal pain,0
+weight loss,0
+fever,0
+refractory to antibiotics,0
+grade 4 neutropenia,0
+zero neutrophils total count,0
+hospitalized,0
+anti-PD-1 treatment suspended,0
+Loperamide,0
+hydration,0
+pyrexia,0
+body temperature up to 39°C,0
+CRP increased,0
+procalcitonin increased,0
+blood cultures,0
+stool cultures,0
+fecal calprotectin,0
+serology for Salmonella,0
+serology for Clostridium,0
+serology for common viruses,0
+intravenous antibiotic therapy,0
+Piperacillin/Tazobactam,0
+Vancomycin,0
+antimycotic treatment,0
+severe hypocellularity,0
+less than 30% cellularity,0
+marked reduction of maturing granulopoiesis,0
+normal erythroid component,0
+CD-34 positive cells,0
+myeloperoxidase reactivity,0
+glycophorin reactivity,0
+diagnosis of autoimmune neutropenia,0
+high dose corticosteroids,0
+methylprednisolone 2 mg/kg,0
+GCSF,0
+initial oxygen therapy,0
+Venturi mask,0
+high flow oxygenation ventilation device,0
+hypoxemic respiratory failure,0
+alkalosis,0
+no radiological signs of pneumonia,0
+moved to ICU,24
+pH = 7.511,24
+pCO2 = 25.3 mmHg,24
+pO2 = 50.6 mmHg,24
+worsening conditions,24
+progressive improvement of neutrophil counts,24
+colitis worsened,24
+stool cultures reperformed,24
+serology reperformed,24
+radiological imaging of abdomen,24
+radiological imaging of pelvis,24
+colonoscopy,24
+multiple biopsies,24
+ileum biopsies,24
+colon biopsies,24
+Mayo Endoscopic score grade 3,24
+erythema,24
+absent vascular pattern,24
+friability,24
+erosions,24
+ulcerations with spontaneous bleeding,24
+crypt architectural distortion,24
+neutrophil-mediated epithelial injury,24
+cryptitis,24
+neutrophil increase in lamina propria,24
+steroid-resistant colitis,24
+15 days of high-dose corticosteroid,24
+Infliximab excluded,24
+Vedolizumab recommended,24
+Vedolizumab 300 mg flat dose,24
+induction scheme,24
+stools frequency decreased to 2–3/day,24
+steroids tapering,24
+reduction by 5 mg every 5 days,24
+symptoms completely disappeared,24
+CRP reduction,24
+calprotectin reduction,24
+released from hospital,240
+sigmoidoscopy,1680
+biopsies,1680
+mucosal healing,1680
+single layer of columnar or cuboidal epithelium,1680
+occasional lymphocytes between epithelial cells,1680
+HLA A*02 *02,1680
+HLA B*14 *35,1680
+HLA C *04*08,1680
+HLA DRB *01 *07,1680
+Pembrolizumab discontinued,1680
+clinical follow-up,1680
+instrumental follow-up,1680
+good general conditions,1680
+CT scan no signs of disease progression,1680
+colonoscopy remission,1680
+Vedolizumab maintenance scheme,1680
+no disease progression at 6 months,4320

@@ -1,0 +1,138 @@
+pmc Core Tip: Procalcitonin (Pct) is a biomarker used very commonly for infections in our clinical practice. It is routinely used in coronavirus disease 2019-infected patients. In this setting, persistent Pct elevation despite normalization of other inflammatory markers may present a diagnostic dilemma. This case highlights the importance of identifying occult medullary thyroid carcinoma in such situations, which would otherwise have been missed and left untreated. In our patient, this led to proper treatment and a successful outcome.
+
+INTRODUCTION
+
+Over the last 2 years, coronavirus disease 2019 (COVID-19) has emerged as a global pandemic affecting millions of people. National healthcare systems have been stretched to their limits. In many countries, critical care teams have been overwhelmed by the pandemic, with high requirements for ventilators and life support machines[1-3]. During the course of this disease, several inflammatory biomarkers are commonly elevated and provide a prognostic assessment of the clinical course. Procalcitonin (Pct) is a common biomarker used in clinical practice and is found at extremely low levels in healthy individuals. It is commonly used to distinguish bacterial infections from other causes of infection or inflammation[4,5].
+
+In the absence of systemic inflammation caused by bacterial infection, Pct is synthesized by thyroid neuroendocrine cells and is a precursor of calcitonin (Ctn). Some studies have advocated the use of Pct levels as a screening tool in the diagnosis and follow-up of medullary thyroid carcinoma (MTC)[6-8]. This is especially true because Pct is easier to measure at the community level[9]. In patients with systemic inflammatory responses, elevated Pct levels are common in clinical practice. In our experience, Pct levels often correlate with the severity and outcomes of patients infected with severe acute respiratory syndrome coronavirus 2[10,11].
+
+Herein, we present a case of occult MTC diagnosed because of a persistently elevated Pct level in a patient with COVID-19 pneumonia.
+
+CASE PRESENTATION
+
+Chief complaints
+
+A 43-year-old woman presented with fever associated with a dry cough for 10 d in April 2021.
+
+History of present illness
+
+She complained of mild respiratory distress, and her peripheral capillary oxygen saturation (SpO2) recorded at home was 88%-89%. Three days earlier, she was diagnosed with reverse transcription-polymerase chain reaction confirmed COVID-19.
+
+History of past illness
+
+She did not have any significant comorbidities, except for polycystic ovarian disease.
+
+Personal and family history
+
+No significant family history or personal history was present.
+
+Physical examination
+
+On presentation, the patient had a blood pressure of 140/90 mmHg, pulse rate of 88 beats/min, respiratory rate of 20 breaths/min, and SpO2 of 92% in room air. Lung examination revealed a bilateral decrease in air entry.
+
+Laboratory examinations
+
+Initial blood investigations revealed a total leucocyte count of 11650 cells/µL (neutrophils 88% and lymphocytes 8%) (normal: 4000-11000 cells/µL), C-reactive protein (CRP) of 16.44 mg/L (normal: < 10 mg/L), Pct of 9.52 ng/mL (normal: < 0.1 ng/mL), lactate dehydrogenase of 282 IU/L (normal: 105-333 IU/L), ferritin of 158 ng/mL (normal: males: 12-300 ng/mL; females: 12-150 ng/mL), D-dimer of 775.84 ng/mL (normal: < 500 ng/mL), interleukin-6 of 18.55 pg/mL (normal: 0-7 pg/mL), and slightly elevated liver enzymes. Electrolyte and renal function test results were normal. Arterial blood gas analysis confirmed severe hypoxia with an arterial oxygen partial pressure of 39.0 mmHg (normal: 75-100 mmHg).
+
+Imaging examinations
+
+High-resolution computed tomography (CT) of the chest confirmed atypical viral infection with approximately 50% lung involvement with a CT severity index (CTSI) score of 18/25 (COVID-19 Reporting and Data System 5/5). The patient was placed on a non-rebreather mask with 15 L/min of oxygen, to which she maintained 100% oxygen saturation. Echocardiography revealed no cardiac issues with an ejection fraction of 60%.
+
+Clinical course and further diagnostic work-up
+
+She underwent chest physiotherapy and incentive spirometry. She was started on a course of intravenous (IV) remdesivir, IV dexamethasone, oral doxycycline, low molecular weight heparin, multivitamins, antibiotics, and appropriate nebulization. Over the next 7 d, she gradually improved, and her oxygen requirement decreased. Chest CT was repeated on day 8, and the CTSI score was 12/25. On day 12, she was weaned off oxygen, and all reports normalized except the Pct level, which was persistently elevated (Table 1, Figure 1). Since she was clinically stable, she was subsequently discharged with a plan of investigating the persistently elevated Pct level on an outpatient basis.
+
+Figure 1 Graph of procalcitonin vs C-reactive protein during admission and procalcitonin drop postoperatively (she was operated at 140 d since her first admission). Procalcitonin measured in ng/mL; C-reactive protein in mg/L. Pct: Procalcitonin; CRP: C-reactive protein.
+
+Table 1 Serial measurements while hospitalized and first follow-up of white blood cell count, procalcitonin, C-reactive protein, and D-dimer levels
+
+Day from admission	WBC, cells/µL	Pct, ng/mL	CRP, mg/L	D-dimer, ng/mL	
+2	11650	9.52	16.44	775.84	
+5	4690	8.94	25.92	890.35	
+8	8070	9.42	3.52		
+12	12400	9.82	3.31	456.61	
+16	8240	11.6	3.08		
+19 (Discharge)		13.1	2.71		
+24	3720	16.69	2.77	0.14	
+50	5850	16.21	0.67		
+CRP: C-reactive protein; Pct: Procalcitonin; WBC: White blood cell count.
+
+Due to persistently elevated Pct level on follow-up, with no other clinical signs of infection, she was evaluated for other possible causes of elevated Pct. The neck examination results were unremarkable. Ultrasonography of the neck, however, revealed a 15.7 mm × 15 mm nodule in the left lobe of the thyroid gland, and fine-needle aspiration cytology (FNAC) confirmed a malignant epithelial neoplasm (The Bethesda System for Reporting Thyroid Cytopathology VI). FNAC of the left supraclavicular node confirmed metastatic carcinoma. The Ctn level was 406 pg/mL (normal: < 10 pg/mL). Carcinoembryonic antigen (CEA) was not elevated. Positron emission tomography-CT (PET-CT) confirmed the presence of a well-defined inhomogeneously enhancing fluorodeoxyglucose-avid (maximum standardized uptake value: 4.8) nodule in the left lobe of the thyroid gland measuring 18 mm × 13 mm with no evidence of distant spread (Figure 2).
+
+Figure 2 Axial (A) and coronal (B) sections of positron emission tomography-computed tomography showing positive uptake of fluorodeoxyglucose in the left lobe of the thyroid gland.
+
+FINAL DIAGNOSIS
+
+A final diagnosis of MTC was confirmed in a patient with COVID-19 pneumonia and persistently elevated Pct.
+
+TREATMENT
+
+The initial surgery was performed in July 2021 and comprised total thyroidectomy and central lymph node dissection. The left lobe contained a single nodule measuring 3 cm × 2 cm x 1.5 cm. The right lobe and isthmus were unremarkable. Histological examination confirmed the presence of MTC with lymphovascular invasion. Eleven of the fourteen lymph nodes examined were positive from the neck dissection (American Joint Committee on Cancer stage III, pT2N1M0).
+
+Postoperatively, due to persistently elevated Ctn (189 pg/mL), a PET-CT scan was repeated, and she was advised to undergo a second radical neck dissection, wherein six positive nodes out of 16 lymph nodes were successfully removed. Subsequently, the Pct and Ctn levels dropped to 3.54 ng/mL and 14 pg/mL, respectively. Multiple endocrine neoplasia type II (MEN-2) syndrome was ruled out due to negative family history, relevant normal laboratory parameters, and negative Rearranged during Transfection (RET) gene mutation analysis.
+
+OUTCOME AND FOLLOW-UP
+
+Six months have elapsed since her first surgery. She is currently doing well and is on 150 mcg/d levothyroxine supplementation with a successful external beam radiotherapy (EBRT) regimen without any current evidence of recurrence.
+
+DISCUSSION
+
+This is an unusual presentation of an incidental diagnosis of MTC in a patient with COVID-19 pneumonia. In this patient, serum Pct levels remained persistently high despite normalization of the remaining acute phase reactants, which led to subsequent investigation and diagnosis. Eventually, this allowed the patient to receive complete treatment, which would otherwise not have been possible. Thus, a high Pct combined with normal CRP or other indicators of sepsis warrants a differential diagnosis of MTC.
+
+The workup of MTC includes measurement of serum Ctn, CEA, ultrasonography of the neck, PET-CT, appropriate genetic testing for RET mutations, and evaluation of other tumors related to MEN-2 syndrome[12]. In our patient, the Ctn level was elevated, while the CEA level was normal. Ultrasonography revealed locoregional disease, and PET-CT and mammography ruled out distant metastasis. MEN-2 syndrome was ruled out based on history, biochemical parameters, and negative RET mutation analysis. FNAC confirmed the diagnosis, and successful surgery was performed, followed by postoperative EBRT, as indicated.
+
+Ctn is a hormone produced by the parafollicular cells of the thyroid gland and is therefore used as a marker for MTC. Ctn is present in multiple heterogeneous forms and is synthesized from a prohormone, Pct. Pct is a 116-amino acid prohormone comprising three peptides, and its subsequent enzymatic processing produces Ctn as a byproduct[13]. Some of the differential diagnoses of increased Ctn precursors in the blood (including Pct) are summarized in Table 2.
+
+Table 2 Differential diagnoses of increased procalcitonin
+
+Bacterial infection or sepsis	
+Medullary thyroid carcinoma	
+Acute respiratory disease syndrome	
+Pulmonary neuroendocrine hyperplasia	
+Aspiration pneumonia	
+Small cell or non-small cell cancer of the lung	
+Carcinoid tumor	
+Other neuroendocrine tumors	
+Breast cancer	
+
+Azevedo et al[14] evaluated the concordance between Ctn and Pct values in 41 patients with MTC and concluded that they were strongly correlated with each other. Machens et al[9] studied 457 patients with MTC and concluded that serum Pct could potentially replace Ctn as a screening biomarker, especially in a community setting, because the samples did not need to be kept frozen or on ice. Unlike Ctn, Pct is a very stable protein with a concentration-independent in vivo half-life of 20-24 h[7]. Karagiannis et al[8] performed a systematic review of Pct as an MTC marker. Among the 15 studies (including three case reports) assessed, the suggestion was that Pct was a useful biomarker, with an acceptable cut-off of 0.1 ng/mL in everyday clinical practice. Ctn was considered the best primary biomarker, with Pct as an adjunct, per clinical indication. Giovanella et al[6] reviewed 2705 patients with thyroid nodules and concluded that the Pct level was a sensitive and accurate method of screening for MTC.
+
+The sensitivity and specificity of Ctn for the diagnosis of MTC are high (> 90%), whereas they are much lower for Pct, as seen in Table 2[15-18]. Hence, while Pct, a much more stable compound, may be more useful as a screening test at the community level, Ctn remains the best diagnostic screening tool for MTC[7]. However, because Pct is a more common investigation in a hospital setting due to its varied usefulness, there are some reports of MTC diagnosis due to elevated Pct. In the context of COVID-19 infection, two isolated case reports have been reported in Europe[19,20]. To the best of our knowledge, this is the first report from Asia of an incidental diagnosis of MTC due to persistently elevated Pct. Our patient was diagnosed with a locoregional disease which was successfully operated on and is currently doing well.
+
+CONCLUSION
+
+In conclusion, it is important to consider the differential diagnosis of MTC in patients with persistently elevated Pct despite normal levels of other acute phase reactants. This can occur in any pro-inflammatory state, including infection, sepsis, or acute respiratory distress syndrome. In the current setting, COVID-19 infection is a clinical scenario where Pct elevation is common, and in rare situations of persistent elevation, MTC may need to be ruled out.
+
+Informed consent statement: Informed written consent was obtained from the patient for the publication of this report and any accompanying images.
+
+Conflict-of-interest statement: The authors declare that they have no conflicts of interest.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Provenance and peer review: Unsolicited article; Externally peer reviewed.
+
+Peer-review model: Single blind
+
+Peer-review started: February 4, 2022
+
+First decision: March 23, 2022
+
+Article in press: May 17, 2022
+
+Specialty type: Medicine, general and internal
+
+Country/Territory of origin: India
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): 0
+
+Grade C (Good): C, C
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Ata F, Qatar; Tiejun W, China A-Editor: Lin FY S-Editor: Ma YJ L-Editor: Filipodia P-Editor: Ma YJ

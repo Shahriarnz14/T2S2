@@ -1,0 +1,111 @@
+event,time
+50-year-old man,0
+presented to an affiliate hospital,-144
+chest pain,-144
+shortness of breath,-144
+chest computed tomography (CT),-144
+pulmonary emboli,-144
+left lower segmental arteries,-144
+right lower lobe (RLL),-144
+pulmonary infarction,-144
+hospital day 6,6
+transferred to intensive care unit,6
+intubated,6
+severe respiratory distress,6
+hospital day 7,7
+repeat CT,7
+progressive necrosis of RLL infarction,7
+thoracotomy,7
+partial decortication,7
+right thoracoscopy,7
+chest tubes placed,7
+empiric piperacillin-tazobactam,7
+intravenous vancomycin,7
+hospital day 9,9
+bronchoalveolar lavage,9
+meropenem-susceptible Acinetobacter baumannii,9
+hospital day 12,12
+switched to extended infusion meropenem,12
+another thoracotomy,12
+RLL resection,12
+complete decortication,12
+new large multiloculated pleural effusion,12
+acute fibrinopurulent exudate,12
+extensive abscess,12
+necrosis,12
+hemorrhage,12
+hospital day 18,18
+pleural tissue culture,18
+XDR Acinetobacter baumannii,18
+intermediate susceptibility to colistin,18
+tigecycline MIC 2 mg/L,18
+switched to tigecycline,19
+hospital day 19,19
+hospital day 26,26
+required vasoactive agents,26
+CT chest,26
+RLL pyopneumothorax,26
+switched to colistin,26
+meropenem infused over 3 hours,26
+persistent purulent chest tube drainage,26
+hospital day 28,28
+bronchoscopy,28
+right bronchopleural fistula,28
+acute tubular necrosis,28
+serum creatinine increase,28
+hospital day 23,23
+chest tube fluid culture,23
+eravacycline susceptibilities,23
+cefiderocol susceptibilities,23
+hospital day 29,29
+susceptible to cefiderocol,29
+susceptible to eravacycline,29
+switched to cefiderocol,29
+significant chest tube output,29
+hospital day 40,40
+bronchial washings,40
+hospital day 45,45
+XDR Acinetobacter baumannii,45
+cefiderocol-resistant,45
+hospital day 49,49
+switched to eravacycline,49
+hospital day 54,54
+febrile,54
+tachycardic,54
+increased chest tube output,54
+eravacycline MIC increased,54
+eravacycline discontinued,54
+combination therapy with cefiderocol,54
+combination therapy with tigecycline,54
+hospital day 62,62
+started sulbactam-durlobactam,62
+started meropenem,62
+increased supplemental oxygen requirement,62
+persistent chest tube output,62
+hospital day 75,75
+completed antibiotic therapy,75
+resolution of chest tube output,75
+antibiotics discontinued,75
+discharged,77
+outpatient follow-up,77
+prehospital baseline,105
+chromosomal DNA extraction,0
+whole-genome sequencing,0
+genomic content analysis,0
+aminoglycoside resistance genes,0
+fluoroquinolone resistance genes,0
+macrolide resistance genes,0
+sulfonamide resistance genes,0
+tetracycline resistance genes,0
+OXA-23,0
+OXA-66,0
+ADC-30,0
+TonB-dependent siderophore receptor mutation,0
+checkerboard assays,0
+combination MICs,0
+time-kill analyses,0
+meropenem MIC reduction,0
+SUL-DUR MIC reduction,0
+FIC index 0.375,0
+synergy demonstrated,0
+no adverse drug effects,75

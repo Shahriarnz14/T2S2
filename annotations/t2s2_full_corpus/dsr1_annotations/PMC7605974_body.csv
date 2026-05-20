@@ -1,0 +1,83 @@
+event,time
+49-year-old,0\
+female,0\
+presented to a peripheral hospital,0\
+fatigue,-96\
+dizziness,-96\
+intermittent fever,-96\
+minor scratch on left foot,0\
+trauma to left foot,-96\
+computed tomography (CT) revealed large vegetation at aortic valve cusp,0\
+pericardial effusion,0\
+calculated antibiotic therapy,0\
+referred to department of cardiology,0\
+increasing pericardial effusion,0\
+emergency surgery,0\
+standard sternotomy,0\
+hemorrhagic pericardial effusion detected,0\
+cardiopulmonary bypass (CPB),0\
+aortotomy,0\
+large vegetation identified near left main coronary artery,0\
+thromboembolism prevention during vegetation removal,0\
+two small septic perforations of aortic wall detected,0\
+Prolene 4–0 sutures,0\
+aortic valve replaced with 21-mm SJM mechanical valve,0\
+uneventful weaning of CPB,0\
+no bleeding in situ,0\
+chest closed,0\
+transferred to ICU under stable hemodynamics,0\
+mild catecholamines,0\
+sudden large quantities of blood in thoracic drainage (1.5 L),24\
+hemodynamic instability,24\
+reoperation initiated,24\
+resuscitation needed,24\
+sternum reopened under resuscitation,24\
+placed on CPB,24\
+large rupture of left ventricular lateral wall (1.5 × 1.5 cm),24\
+rupture near left ventricular appendage and circumflex artery,24\
+unsuccessful direct closure of myocardial rupture,24\
+Dor or modified Dor plasty not feasible,24\
+excision of soft phlegmonlike myocardium,24\
+histopathological examination revealed myocardial infarction with bacteria,24\
+Dacron patch placed endomyocardially,24\
+second Dacron patch placed externally,24\
+"""empty-sandwich"" technique",24\
+additional running suture placed around second patch,24\
+venous bypass graft to posterolateral branch,24\
+BioGlue used,24\
+no bleeding detected post-repair,24\
+extracorporeal life support (ECLS) via left femoral artery and vein,24\
+CPB weaned,24\
+chest closure,24\
+mild-to-moderate catecholamines,24\
+ECLS weaned after 5 days,168\
+abscess at left foot lanced,168\
+ICU stay for 14 days postoperatively,336\
+referred to peripheral hospital,336\
+Staphylococcus aureus infection,0\
+6 weeks of antibiotics (clindamycin and flucloxacillin),1008\
+echocardiography showed LVEF 60%,168\
+mild pericardial effusion without hemodynamic relevance,168\
+pseudoaneurysm detected after 1 year,8760\
+reoperation for aneurysm resection,8760\
+7-day postoperative course,8760\
+referred to rehabilitation,8784\
+well at home after half a year,4392\
+septic thromboembolism of myocardium,0\
+free left ventricular wall rupture,24\
+hemopericardium,24\
+exitus letalis not occurred,0\
+successful surgical treatment,24\
+acute heart failure not reported,0\
+myocardial phlegmon,24\
+septic coronary embolism,0\
+left ventricular ejection fraction preserved,168\
+mechanical valve thrombosis prevented,24\
+pericardial adhesions due to inflammation,0\
+CO2 insufflation during surgery,0\
+myocardial defect reconstruction,24\
+coronary artery thromboembolism,0\
+septic valve vegetation,0\
+cardiac cavity preservation,24\
+infective endocarditis,0\
+myocardial rupture complication,24

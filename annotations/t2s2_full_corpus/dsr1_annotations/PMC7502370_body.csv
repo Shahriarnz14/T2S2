@@ -1,0 +1,67 @@
+event,time
+45 years old,0
+man,0
+admitted to the hospital,0
+general malaise,-336
+fever,-336
+purpura,-336
+pancytopenia,0
+leukopenia,0
+anemia,0
+thrombocytopenia,0
+increased bone marrow concentration,0
+acute panmyelosis with myelofibrosis,0
+induction therapy (idarubicin hydrochloride and cytosine arabinoside),8
+febrile neutropenia,2
+cefozopran treatment,2
+left cheek cellulitis,20
+meropenem/vancomycin treatment,29
+blood cell recovery,38
+improved cellulitis,38
+levofloxacin treatment,38
+bone marrow aspiration failure,38
+hematological complete remission,38
+consolidation therapy (cytosine arabinoside),38
+febrile neutropenia,49
+cefozopran treatment,49
+sustained hyperthermia,54
+blood culture test,54
+central venous catheter removal,54
+pneumonia in entire right lung field,56
+meropenem and amikacin treatment,56
+transferred to ICU,56
+intubation,57
+S. maltophilia in blood and sputum cultures,57
+trimethoprim-sulfamethoxazole (SMX-TMP) administration,57
+hematic tracheal aspirates,60
+granulocyte-colony stimulating factor administration,57
+ventilator deterioration,63
+airway pressure-release ventilation,66
+prone positioning,66
+severe ARDS,66
+PaO2/FiO2 69.5,66
+chest CT consolidation and opacities,66
+catecholamines reduced,66
+bronchoalveolar lavage with neutrophils 59%,66
+negative blood and sputum cultures,66
+VV ECMO initiation,68
+ventilator settings lowered,68
+lung collapse,68
+tracheotomy,71
+awakened partially,71
+spontaneous breathing,71
+bronchial secretions mobilization,71
+weaned off VV ECMO,79
+mechanical ventilation support,79
+pulmonary infiltration improvement,79
+biphasic positive airway pressure weaned,88
+oxygen supplementation discontinued,131
+discharged from hospital,145
+subsequent consolidation chemotherapy,145
+allogenic hematopoietic stem cell transplantation,145
+complete remission,145
+no liver or splenic enlargement,0
+no chronic respiratory disease,0
+no active uncontrollable bleeding,0
+age less than 65,0
+no recent bone marrow transplant,0

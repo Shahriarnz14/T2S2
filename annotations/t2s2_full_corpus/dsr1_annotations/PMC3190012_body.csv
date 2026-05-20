@@ -1,0 +1,133 @@
+event,time
+70 years old,0
+woman,0
+admitted to the Plastic Surgery department,0
+fever,-24
+dizziness,-24
+unstable angina,-115488
+diabetes mellitus,-115488
+skin flap operation,-7872
+third-degree burn,-7872
+osteomyelitis,-1440
+pale,0
+febrile,0
+temperature 38.2℃,0
+intermittent fever,0
+fever 37.3-38.1℃,120
+blood pressure 110/80 mmHg,0
+pulse 78/min,0
+respiratory rate 20/min,0
+"peripheral WBC count 8,730/µL",0
+hemoglobin 8.6 g/dL,0
+"platelet count 261,000/µL",0
+AST 7 U/L,0
+ALT 11 U/L,0
+alkaline phosphatase 77 U/L,0
+BUN 23.4 mg/dL,0
+creatinine 1.42 mg/dL,0
+total protein 5.6 g/dL,0
+albumin 2.9 g/dL,0
+ESR 53 mm/hr,0
+CRP 220.03 mg/L,0
+yellow turbid urine,0
+urinalysis WBC 3+,0
+urinalysis protein 1+,0
+urine microscopy >60 WBCs,0
+urine microscopy yeast organisms,0
+chest radiograph right pleural thickening,0
+chest radiograph right lower lung collapse,0
+CT abdomen cystitis,0
+CT abdomen fluid collection,0
+CT pelvic fluid collection,0
+blood culture negative,0
+urine culture Candida albicans,0
+fever 38.1℃,768
+blood culture negative,768
+urine culture multidrug-resistant K. pneumoniae,768
+Vitek2 GN species identification,768
+AST-N044 antimicrobial susceptibility test,768
+gentamicin susceptible,768
+high-level MIC for other antibiotics,768
+E-test MIC tigecycline 1 µg/mL,768
+E-test MIC colistin 0.25 µg/mL,768
+modified Hodge test positive,768
+AmpC test negative,768
+ESBL test negative,768
+carbapenemase inhibition test APB positive,768
+PCR blaKPC-2 positive,768
+MLST ST258,768
+ertapenem treatment,0
+tigecycline treatment,768
+colistin treatment,768
+pyuria persistent,768
+wound persistent,768
+MDR K. pneumoniae repeated isolation,768
+kidney function decline,768
+ICU admission,768
+expired,2160
+70 years old,0
+female,0
+admitted to Plastic Surgery department,0
+fever,-24
+dizziness,-24
+unstable angina,-78840
+diabetes mellitus,-78840
+skin flap operation,-5760
+third-degree burn,-5760
+osteomyelitis,-1440
+pale,0
+febrile,0
+temperature 38.2℃,0
+intermittent fever,0
+fever 37.3-38.1℃,120
+blood pressure 110/80 mmHg,0
+pulse 78/min,0
+respiratory rate 20/min,0
+"peripheral WBC count 8,730/µL",0
+hemoglobin 8.6 g/dL,0
+"platelet count 261,000/µL",0
+AST 7 U/L,0
+ALT 11 U/L,0
+alkaline phosphatase 77 U/L,0
+BUN 23.4 mg/dL,0
+creatinine 1.42 mg/dL,0
+total protein 5.6 g/dL,0
+albumin 2.9 g/dL,0
+ESR 53 mm/hr,0
+CRP 220.03 mg/L,0
+yellow turbid urine,0
+urinalysis WBC 3+,0
+urinalysis protein 1+,0
+urine microscopy >60 WBCs,0
+urine microscopy yeast organisms,0
+chest radiograph right pleural thickening,0
+chest radiograph right lower lung collapse,0
+CT abdomen cystitis,0
+CT abdomen fluid collection,0
+CT pelvic fluid collection,0
+blood culture negative,0
+urine culture Candida albicans,0
+fever 38.1℃,768
+blood culture negative,768
+urine culture multidrug-resistant K. pneumoniae,768
+Vitek2 GN species identification,768
+AST-N044 antimicrobial susceptibility test,768
+gentamicin susceptible,768
+high-level MIC for other antibiotics,768
+E-test MIC tigecycline 1 µg/mL,768
+E-test MIC colistin 0.25 µg/mL,768
+modified Hodge test positive,768
+AmpC test negative,768
+ESBL test negative,768
+carbapenemase inhibition test APB positive,768
+PCR blaKPC-2 positive,768
+MLST ST258,768
+ertapenem treatment,0
+tigecycline treatment,768
+colistin treatment,768
+pyuria persistent,768
+wound persistent,768
+MDR K. pneumoniae repeated isolation,768
+kidney function decline,768
+ICU admission,768
+expired,2160

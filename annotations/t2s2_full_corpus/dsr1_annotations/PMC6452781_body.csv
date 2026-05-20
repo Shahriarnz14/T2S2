@@ -1,0 +1,61 @@
+event,time
+25 years old,0
+male,0
+admitted to the emergency room,0
+motor vehicle crash,0
+Glasgow coma score 8/15,0
+electively intubated,0
+mechanical ventilation,0
+whole-body computed tomography performed,0
+compression fracture at ninth and 10th thoracic vertebrae,0
+bilateral basal atelectasis/consolidation,0
+bilateral ground-glass opacities,0
+nondisplaced manubrium sternal fracture,0
+spleen contusion (0.5 cm),0
+acute left subdural hemorrhage,0
+mild brain edema,0
+right midline shift (1 cm),0
+decompressive craniectomy,0
+extraventricular drain insertion,0
+admitted to surgical intensive care unit,0
+fever,120
+leukocytosis,120
+septic workup,120
+cerebral spinal fluid analysis,120
+cerebral spinal fluid culture,120
+EVD-related ventriculitis,120
+vancomycin,120
+meropenem,120
+antibiotic regimen adjusted,120
+lipid-formulated amphotericin B,120
+vancomycin (for Candida albicans and Staphylococcus haemolyticus),120
+EVD removed,192
+deterioration of consciousness,240
+CT scan of brain showing active hydrocephalus,240
+worsening midline shift,240
+new EVD inserted,240
+debridement at cephalic surgical site,432
+ceftazidime,432
+tracheostomy placement,600
+fever post-tracheostomy,600
+Glasgow coma scale 8/15,600
+leukocytosis (14.3 k/µL),600
+septic screening performed,600
+CSF culture revealed Mycoplasma hominis,600
+confirmatory sample regrew Mycoplasma hominis,672
+EVD changed,672
+intravenous ciprofloxacin 400 mg every 8 hours,672
+clinical improvement,936
+transferred to general ward,936
+third EVD removed,1080
+nasogastric feeding,1080
+tracheostomy,1080
+transferred to another healthcare facility,1080
+no follow-up,1080
+CSF white blood cell count 1430/cu mm,600
+CSF protein 316 mg/dL,600
+CSF glucose 3.0 mg/dL,600
+nonhemolytic translucent pinpoint colonies on anaerobic blood agar,600
+no organisms on Gram stain,600
+Mycoplasma hominis identified by MALDI-TOF MS,600
+subsequent CSF samples grew Mycoplasma hominis,672

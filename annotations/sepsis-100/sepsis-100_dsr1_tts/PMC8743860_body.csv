@@ -1,0 +1,86 @@
+event,time
+65-year-old,0
+male,0
+no history of smoking,0
+no underlying pulmonary diseases,0
+treated at the Pulmonary Department,0
+not vaccinated against COVID-19,0
+admission,0
+4-day history of gradually increasing shortness of breath,-96
+fever,-96
+dry cough,-96
+fatigue,-96
+reduced breath sounds in lower lung segments,0
+oxygen saturation (SpO2) 93%,0
+chest CT showing bilateral peripheral ground-glass attenuation,0
+chest CT showing patchy consolidation,0
+60%-70% lung involvement,0
+SARS-CoV-2 RT-PCR positive,0
+symptoms worsened during hospital stay,0
+increased temperature persisted,0
+saturation decreased to 90%,0
+white cell count 7.93 х 10⁹/L,0
+neutrophils 80%,0
+lymphocytes 8%,0
+monocytes 10%,0
+plasma cell 2%,0
+hemoglobin 159 g/l,0
+platelet count 468 × 10⁹/l,0
+Westergren ESR 41 mm/h,0
+interleukin-6 102 pg/ml,0
+С-reactive protein 142 mg/l,0
+ferritin 939.92 μg/ml,0
+D-dimer 609 ng/ml,0
+procalcitonin 0.11 ng/ml,0
+treatment with dexamethasone,0
+treatment with heparin,0
+treatment with tocilizumab,0
+treatment with acetylcysteine,0
+treatment with pantoprazole,0
+treatment with nadroparin calcium,0
+oxygen supplementation via face mask 4 l/min,0
+chest radiography on day 15 showing right pneumothorax,360
+right pleural effusion,360
+right lung collapse,360
+transfer to ICU,360
+thoracentesis performed,360
+thoracostomy performed,360
+1400 ml yellowish opaque liquid evacuated,360
+follow-up chest radiograph showing expanded lung,360
+initiation of linezolid,360
+initiation of imipenem/cilastatin,360
+oxygen supplementation increased to 8-10 l/min,360
+daily drainage volume 300-1000 ml,360
+chest CT on day 3 post-thoracentesis showing pleural effusion with gas bubbles,408
+right lung volume reduced by half,408
+subpleural infiltration with central cavity destruction in S6 segment,408
+left side hydropneumothorax,408
+pleural effusion 25 mm depth posteriorly,408
+air layer 19 mm anteriorly,408
+multiple bilateral ground glass infiltrates,408
+exudative lymphocytic-rich pleural effusion,0
+no AFB growth,0
+Acinetobacter baumannii cultured,0
+Pseudomonas aeruginosa cultured,0
+Klebsiella pneumoniae in urine culture,0
+needle thoracocentesis,432
+new pleural drainage in second intercostal space,432
+200-800 ml serofibrinous hemorrhagic fluid daily,432
+chest CT showing right hydropneumothorax,432
+diagnosis of pleural empyema,432
+transfer to Surgical Department,432
+daily pleural irrigation with antiseptics,0
+continuous vacuum aspiration,0
+encapsulated pleural effusion identified,576
+ultrasound-guided puncture,576
+new pleural drainage installed,576
+4-week antibiotic therapy,672
+colistimethatum natrium,672
+imipenem/cilastatin,672
+discharge in satisfactory condition,744
+SpO2 97% on room air,744
+chest CT showing small right pleural fluid,744
+normal lab tests,744
+С-reactive protein 11.7 mg/l,744
+procalcitonin <0.1 ng/ml,744
+plasma D-dimer 2424 ng/ml,576

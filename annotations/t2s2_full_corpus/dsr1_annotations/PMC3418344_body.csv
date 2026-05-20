@@ -1,0 +1,76 @@
+event,time
+69-year-old,0
+woman,0
+presented,-72
+general myalgia,-72
+fever,-72
+nausea,-72
+resided in an urban area,-240
+picked ginkgo nuts in the mountains,-240
+visited a local hospital,-72
+right upper abdominal tenderness,-72
+referred to our hospital,-72
+surgical treatment,-72
+clinically suspected acute cholecystitis,-72
+admitted,0
+blood pressure 110/90 mm Hg,0
+pulse rate 78/min,0
+respiratory rate 24/min,0
+body temperature 38.5℃,0
+enlarged cervical lymph nodes,0
+right upper abdominal tenderness,0
+rebound tenderness,0
+no eschar on the trunk,0
+"WBC count 4,510/mm3",0
+segmented neutrophils 70.6%,0
+hemoglobin 14.0 g/dL,0
+platelet count 57 × 10^3/mm3,0
+CRP 17.51 mg/dL,0
+AST 374 IU/L,0
+ALT 254 IU/L,0
+ALP 982 IU/L,0
+"LDH 1,141 IU/L",0
+total protein 7.0 g/dL,0
+albumin 3.8 g/dL,0
+total bilirubin 1.2 mg/dL,0
+chest radiography no abnormalities,0
+electrocardiogram no abnormalities,0
+abdominal CT edematous GB wall,0
+GB stones,0
+acute calculous cholecystitis suspected,0
+intravenous ceftriaxone 2g/d,0
+percutaneous cholecystostomy,0
+sustained nausea,0
+sustained abdominal pain,0
+developed progressive shortness of breath,96
+increasing sputum production,96
+hypoxemia,96
+confusion,96
+oxygen 5 L/min via nasal cannula,96
+arterial blood gas pH 7.45,96
+PaCO2 36 mm Hg,96
+PaO2 67 mm Hg,96
+HCO3- 25,96
+follow-up chest radiography airspace consolidation,96
+endotracheal intubation,96
+admitted to ICU,96
+developed maculopapular rash on trunk and face,120
+sputum culture negative,120
+blood culture negative,120
+scrub typhus suspected,120
+acute cholecystitis,120
+ARDS,120
+oral doxycycline 200 mg/d,120
+intravenous piperacillin 4.5 g/d,120
+serologic test positive for O. tsutsugamushi,120
+"titer 1:5,120",120
+multi-organ function returned to normal,288
+mental alertness improved,288
+follow-up chest radiography resolved abnormalities,288
+discharged,312
+complete blood count normal,312
+biochemistry results normal,312
+percutaneous cholecystostomy catheter removed,312
+elective cholecystectomy,312
+three black pigment stones,312
+no complications,312

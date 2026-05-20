@@ -1,0 +1,88 @@
+event,time
+61-year-old,0
+white,0
+woman,0
+Ashkenazi Jewish descent,0
+admitted to the hospital,0
+history of 8 days of nausea,-192
+vomiting,-192
+fever,-192
+severe pitting edema in both legs,0
+ascites,0
+splenomegaly,0
+palpable axillary lymph nodes,0
+bilateral pleural effusion,0
+retroperitoneal lymph node enlargement,0
+mild anemia,0
+hemoglobin 10.7 g/dL,0
+thrombocytopenia,0
+118 x 109/L,0
+hypoalbuminemia,0
+2.8 g/dL,0
+elevated C-reactive protein,0
+84.5 mg/L,0
+elevated alkaline phosphatase,0
+134 U/dL,0
+elevated gamma-glutamyltranspeptidase,0
+98 U/day,0
+HIV negative,0
+HTLV-1 virus serologies negative,0
+HHV-8 negative,0
+anti-citrullinated protein antibody positive,0
+normal complement levels,0
+no hypergammaglobulinemia,0
+no monoclonal immunoglobulin,0
+elevated IL-6 serum level,0
+75.9 pg/mL,0
+lymphoid hyperplasia,0
+hyalinization of the germinal center,0
+increased scattered plasma cells,0
+HV-subtype of CD,0
+increased number of megakaryocytes,0
+dysplastic features,0
+grade 1 fibrosis,0
+JAK2V617F negative,0
+CALR exon 9 mutations negative,0
+diploid karyotype,0
+renal thrombotic microangiopathy,0
+mesangial expansion,0
+duplication of the glomerular capillary basal membrane,0
+increased FDG uptake in lymph nodes,0
+worsening of anasarca,168
+worsening of renal function,168
+admission to the ICU,168
+multiple organ failure,168
+mechanical ventilation,168
+vasopressor medications,168
+continuous renal replacement therapy,168
+diagnosis of TAFRO syndrome,432
+hemoglobin 8.3 g/dL,432
+WBC 17.11 x 109/L,432
+platelets 21 x 109/L,432
+alkaline phosphatase 205 U/L,432
+GGT 210 U/L,432
+creatinine 2.14 mg/dL,432
+CRP 231.2 mg/L,432
+IL-6 722.6 pg/mL,432
+pulse steroids,432
+methylprednisolone 1 g/day,432
+tocilizumab 8 mg/kg/dose,432
+rituximab 375 mg/m2/dose,432
+improvement in respiratory status,600
+improvement in hemodynamic status,600
+discontinued ventilator support,600
+discontinued vasopressor medications,600
+switch to intermittent hemodialysis,936
+discharged from the ICU,1104
+discharged from hospital,2160
+4 doses of tocilizumab,0
+4 doses of rituximab,0
+reduction in FDG uptake,720
+complete resolution of anasarca,0
+complete resolution of organomegaly,0
+normalization of hemoglobin,0
+13 g/dL,0
+normalization of platelet counts,0
+204 x 109/L,0
+decreasing IL-6 levels,0
+69.3 pg/mL,4320

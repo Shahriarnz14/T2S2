@@ -1,0 +1,84 @@
+event,time
+48 year old,0
+female,0
+brought to the emergency room,0
+shortness of breath,-3
+headache,-3
+nausea,-3
+referred from a local hospital,-1
+increased blood pressure,-1
+sudden painless loss of vision in both eyes,0.08
+no history of hypertension,0
+no other comorbidities,0
+heart rate of 104/min,0
+BP of 220/120 mm of Hg,0
+basal crepitations,0
+drowsy but arousable,0
+normal pupillary reflex,0
+normal extra-ocular movements,0
+normal fundoscopy,0
+no light perception,0.25
+no signs of meningeal irritation,0
+normal hemoglobin (13.5 g/dl),0
+mild leukocytosis (11 300 cells/dl),0
+elevated C-reactive protein (4.5 mg/dl),0
+normal ESR,0
+normal liver function tests,0
+normal renal function tests,0
+normal other blood tests,0
+normal coagulation profile,0
+normal autoantibodies,0
+normal neoplastic markers,0
+increase in protein level (55 mg/dl) in cerebrospinal fluid,0
+features of pulmonary edema on chest radiography,0
+normal arterial blood gas analysis,0
+MRI brain showed findings suggestive of PRES,0
+managed in intensive care unit,0
+nitroglycerin (NTG) infusion,0
+furosemide,0
+calcium channel blockers,0
+telmisartan,0
+normal lipid profile,0
+normal thyroid profile,0
+bilateral temporal–occipital epileptiform discharges on electroencephalography,0
+normal electrocardiogram,0
+normal echocardiogram,0
+normal ultrasound abdomen,0
+normal renal artery doppler,0
+normal neck vessel doppler,0
+reduced shortness of breath,120
+regaining vision completely,120
+BP of 160/90 mmHg on Day 4,84
+Telmisartan 40 mg once daily,84
+Cilnidipine 10 mg bis in die,84
+Hydrochlorothiazide 12.5 mg once daily,84
+persistently high BP,84
+anxiety,84
+beta blocker Metoprolol 25 mg BID added,84
+BP paradoxically increased to 180/100 mmHg,90
+normal serum cortisol,90
+normal parathormone,90
+normal calcium,90
+normal phosphorus,90
+normal urine VMA (5.6 mg/dl),90
+elevated urine metanephrine (1200 μg/ml),90
+elevated plasma metanephrine (550 μg/ml),90
+"33 × 23 × 34 mm3 irregularly marginated, locally infiltrative, retroperitoneal mass in the left para-aortic prevertebral region on CECT abdomen",110
+mass suggestive of paraganglioma,110
+no evidence of metastasis on PET scan,120
+started on α blocker Phenoxybenzamine,130
+BP normalized,140
+surgical resection of the tumor,150
+diagnosis of neuroendocrine tumor confirmed by biopsy,160
+extra-adrenal paraganglioma,160
+discharged in a stable condition,168
+normal BP at discharge,168
+presented with shortness of breath,-3
+developed painless loss of vision,0.08
+diagnosed with PRES,0
+paradoxical hypertension on starting beta blockers,90
+diffuse theta slowing on electroencephalography,0
+diffuse delta slowing on electroencephalography,0
+bilateral occipital T2/FLAIR hyperintensities on MRI brain,0
+bilateral parietal T2/FLAIR hyperintensities on MRI brain,0
+subcortical white matter T2/FLAIR hyperintensities on MRI brain,0

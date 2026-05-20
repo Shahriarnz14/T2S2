@@ -1,0 +1,77 @@
+event,time
+57 years old,0
+male,0
+admitted to emergency department,0
+right flank pain,0
+high fever,0
+poor health,0
+urosepsis,0
+right nephrolithotomy,-unknown
+kidney stones,-unknown
+stenting during angiography,-unknown
+coronary heart disease,-unknown
+multiple kidney stones,0
+pyonephrosis,0
+renal cyst,0
+13 cm size renal cyst,0
+non-functional right kidney,0
+nephrectomy,0
+cyst excision,0
+nephrostomy catheter insertion,0
+intravenous antibiotic therapy,0
+preoxygenation with 100% oxygen,0
+anesthesia induced with thiopental 400 mg,0
+anesthesia induced with rocuronium 50 mg,0
+anesthesia maintained with sevoflurane 1.5% in N2O:O2,0
+endotracheal intubation with 8.0 mm ID tube,0
+laparoscopy started,0
+converted to open surgery,"-50 (assuming surgery started at 0, conversion at -50)"
+very adherent tissues,-50
+kidney tissue removed,0
+cyst removed,0
+cyst ruptured at 50th minute,"-50 (rupture during operation, operation duration 100 minutes)"
+adhesions caused rupture,-50
+cyst content diffused to retroperitoneal area,-50
+surgeon aspirated retroperitoneal area,-50
+surgeon irrigated retroperitoneal area,-50
+operation continued for 40 minutes after rupture,-50 to 10
+total anesthesia duration 100 minutes,100
+hemodynamic parameters stable throughout operation,0 to 100
+extubated at end of surgery,100
+agitation after extubation,115
+difficulty breathing,115
+blood gas analysis at 18 minutes post-extubation,118
+hypoxemia,118
+pH 7.49,118
+pO2 54 mmHg,118
+pCO2 30 mmHg,118
+HCO3 23,118
+SpO2 88 with O2 mask,118
+admitted to intensive care unit,118
+conscious in ICU,118
+decreased right lung sounds,118
+serious respiratory distress,118
+chest X-ray revealed pleural effusion,118
+thoracentesis,118
+chest tube insertion,118
+pleural effusion culture Klebsiella pneumoniae,118
+cyst fluid culture Klebsiella pneumoniae,0 (during operation)
+imipenem 500 mg qid,118
+linezolid 600 mg bid,118
+metronidazole 500 mg tid,118
+diaphragm intact during surgery,0
+no defect on CT,118
+retroperitoneal fluid transition through diaphragmatic pores,0 (during operation)
+general condition improved,118 (after interventions)
+pathology report chronic pyelonephritis,"unknown (after surgery, approx. days later)"
+referred to urology department 4 days post-op,96 (4 days = 96 hours)
+improved blood gas values,96
+pH 7.35,96
+pO2 88 mmHg,96
+pCO2 36 mmHg,96
+HCO3 24,96
+SpO2 96,96
+improved respiratory parameters,96
+improved chest radiography,96
+chest tube removed twelve days later,288 (12 days = 288 hours)
+discharged as healthy,288

@@ -1,0 +1,85 @@
+event,time
+57 years old,0\
+male,0\
+visited emergency department,0\
+dyspnea,-48\
+cough,-48\
+sputum,-48\
+left shoulder pain,-48\
+diaphoresis,-48\
+myalgia,-48\
+fever,-48\
+chilled sensation,-48\
+diabetes mellitus,-26280\
+linagliptin,-26280\
+metformin,-26280\
+well-controlled diabetes mellitus,0\
+30-pack year smoker,0\
+alcohol use (100 mg twice weekly),0\
+exposure to marble dust,0\
+industrial mask use,0\
+no recent loss of consciousness,0\
+no recent vomiting,0\
+traveled to Incheon beach,-168\
+ate raw unboned gizzards,-168\
+blood pressure 206/109,0\
+heart rate 123 beats/minute,0\
+sinus tachycardia,0\
+body temperature 38.2°C,0\
+chest radiograph left hydropneumothorax,0\
+chest radiograph pleural adhesion,0\
+low-dose chest CT left hydropneumothorax,0\
+low-dose chest CT multiloculated left pleural effusion,0\
+low-dose chest CT pleural adhesion,0\
+low-dose chest CT passive atelectasis,0\
+enhanced CT pleural enhancement,0\
+"leukocytosis (24,300 cells/mm³)",0\
+neutrophils 93%,0\
+erythrocyte sedimentation rate 121 mm/hr,0\
+C-reactive protein 45.8 mg/dL,0\
+arterial pO₂ 50.9 mmHg,0\
+oxygen therapy via nasal prong,0\
+hemoglobin A1c 6.9%,0\
+normal liver function tests,0\
+prothrombin time 1.18 INR,0\
+albumin 3.0 g/dL,0\
+blood cultures collected,0\
+pleural fluid turbid,0\
+pleural fluid thick,0\
+pleural fluid brownish-yellow,0\
+pleural fluid foul odor,0\
+pleural fluid exudative,0\
+pleural fluid LDH/serum LDH 1.08,0\
+pleural fluid glucose 0 mg/dL,0\
+"pleural fluid WBC 2,976 cells/mm³",0\
+pleural fluid pH 6.34,0\
+pleural fluid culture,0\
+intravenous ceftriaxone,0\
+intravenous levofloxacin,0\
+intravenous clindamycin,0\
+24-French chest tube insertion,0\
+admitted to intensive care unit,0\
+esophago-gastro-duodenoscopy performed,24\
+EGD no abnormalities,24\
+K. kristinae identified in cultures,144\
+K. kristinae gram-positive cocci,144\
+K. kristinae catalase-positive,144\
+K. kristinae coagulase-negative,144\
+antibiotic escalation to piperacillin-tazobactam,264\
+antibiotic escalation to levofloxacin,264\
+relapsed fever up to 37.8°C,264\
+improved general condition,552\
+improved chest radiographic findings,552\
+discharged,552\
+amoxicillin-clavulanic acid prescribed,552\
+follow-up blood culture negative,240\
+bacteremic empyema,0\
+K. kristinae bacteremia,0\
+no history of hospitalization,0\
+possible aspiration pneumonia,0\
+possible esophageal micro-perforation,0\
+no visible esophageal mucosal defects,24\
+contamination unlikely,0\
+misidentification possible,0\
+no genomic confirmation,0\
+no respiratory symptoms at discharge,552

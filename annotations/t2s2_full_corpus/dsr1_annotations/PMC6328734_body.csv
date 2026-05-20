@@ -1,0 +1,66 @@
+event,time
+38-year-old,0
+non-smoker,0
+teetotaler,0
+male,0
+diagnosed with primary sclerosing cholangitis (PSC),-26280
+absence of inflammatory bowel disease,-2160
+colonoscopy-directed mucosal biopsy,-2160
+ursodeoxycholic acid (UDCA) treatment,-26280
+three episodes of bacterial cholangitis (BC),-4320
+intensive care unit admission for septic shock,-4320
+magnetic resonance cholangiography,-4320
+mucosal irregularities in right and left hepatic duct,-4320
+"beading in liver segments 3, 6, and 8",-4320
+absence of dominant strictures,-4320
+normal immunoglobulin G4 serum level,-4320
+absence of systemic manifestations of IgG4-related disease,-4320
+normal carbohydrate antigen 19-9 level,-4320
+absence of cholangiocarcinoma,-4320
+listed for liver transplantation (LT),-4320
+persistent pruritus (Itch score 6/10),-2160
+jaundice lasting 3 months,-2160
+fourth episode of bacterial cholangitis,-720
+Escherichia coli bacteremia,-4320
+Enterococcus fecalis bacteremia,-720
+sensitivity to linezolid,-720
+clinical response to linezolid,-720
+informed consent for fecal microbiota transplantation (FMT),0
+donor screening,0
+stool sample collection,-6
+stool homogenization with normal saline,-6
+endoscopic FMT to duodenum,0
+weekly FMT for 4 weeks,0
+antibiotics withheld,0
+continuation of UDCA,0
+blood biochemistries monitoring,0
+total and fractionated serum bile acids monitoring,0
+stool microbial community analysis,0
+Illumina MiSeq sequencing,0
+GreenGenes Database classification,0
+Shannon diversity index analysis,0
+QIIME analysis,0
+PICRUSt analysis,0
+KEGG Pathway analysis,0
+afebrile after third FMT,168
+anicteric after fourth FMT,168
+pruritus worsening (score 8/10),1008
+pruritus improvement (score 2/10),8760
+improvement in liver function tests,0
+reduction in total bile acids,0
+decrease in toxic bile acids,0
+increased Bacteroidetes,0
+increased Firmicutes,0
+decreased Proteobacteria,0
+emergence of Clostridium,0
+emergence of Veillonella,0
+loss of Fecalibacterium,0
+loss of Oscillopsira,0
+loss of Lachnospira,0
+modified ATP-binding cassette transport pathways,0
+altered bacterial motility pathways,0
+recurrence of cholangitis at 12 months,8760
+managed with broad-spectrum antibiotics,8760
+emergence of pathogenic species,8760
+declined second FMT,8760
+referred for liver transplantation,8760

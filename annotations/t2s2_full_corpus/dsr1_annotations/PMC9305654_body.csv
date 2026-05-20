@@ -1,0 +1,59 @@
+event,time
+45-year-old male,0
+hypertension,0
+admitted to a hospital,0
+COVID-19,0
+ground-glass pattern on thoracic CT,0
+nasopharyngeal swab positive for SARS-CoV-2 RNA,0
+oseltamivir started,0
+hydroxychloroquine started,0
+broad-spectrum antibiotics started,0
+mechanical ventilation required,24
+transferred to ICU,24
+endotracheal intubation,24
+favipiravir added,24
+rehabilitation program planned,24
+passive ROM exercises planned,24
+rehabilitation program not implemented,24
+ARDS,24
+bed positioning every 2 hours,24
+prone position 12 to 16 hours,24
+sepsis developed,720
+broad-spectrum antibiotherapy continued,720
+tracheostomy performed,720
+stayed two months in ICU,1440
+mechanical ventilator for 55 days,1440
+oxygen support still needed,1440
+stayed eight more days in ward,1488
+rehabilitation program planned,1488
+discharged,1488
+walking disability,1632
+stiffness in both hips,1632
+stiffness in elbows,1632
+stiffness in shoulders,1632
+unable to stand,1632
+unable to move comfortably,1632
+dependent on daily living activities,1632
+"no red, warm, swollen joints",1632
+pain in elbows,1632
+pain in hips,1632
+"hard, fixed growth masses in hips",1632
+ankylosis of right elbow at 45 degrees flexion,1632
+ankylosis of left elbow at 50 degrees flexion,1632
+decreased ROM in right shoulder,1632
+decreased ROM in left shoulder,1632
+flexion deformity left hip 10 degrees,1632
+flexion deformity right hip 20 degrees,1632
+difficulty lying in prone position,1632
+normal ROM in other joints,1632
+muscle strength not evaluable in affected limbs,1632
+"X-rays revealed HO in hips, shoulders, elbows",1632
+increased ALP (291 IU/L),1632
+normal serum calcium (9.3 mEq/L),1632
+chronic sensory-motor polyneuropathy,1632
+cranial MRI mild cerebral atrophy,1632
+home-based rehabilitation program planned,1632
+stretching exercises,1632
+submaximal muscle strengthening exercises,1632
+pulmonary exercises,1632
+physiotherapist supervision,1632

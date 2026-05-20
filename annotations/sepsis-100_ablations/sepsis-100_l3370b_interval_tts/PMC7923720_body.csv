@@ -1,0 +1,72 @@
+event,time
+83 years old,0
+male,0
+admitted to the hospital,0
+leg ecchymosis,0
+anuric,0
+rhabdomyolysis-induced AKI,0
+sepsis,0
+acute prostatitis,0
+syncope,-12
+fell to the ground,-12
+lying on the floor,-12
+increased urea,0
+increased creatinine,0
+increased myoglobin,0
+increased CPK,0
+increased LDH,0
+increased CRP,0
+increased PCT,0
+increased total bilirubin,0
+increased direct bilirubin,0
+increased AST,0
+increased ALT,0
+increased PSA,0
+increased white blood cell count,0
+volume expansion,0
+diuretic treatment,0
+antibiotic treatment,0
+furosemide,0
+femoral central venous catheter placement,0
+HFR-Supra,0
+extracorporeal treatment,0
+myoglobin removal,0
+inflammatory status reduction,0
+fluid balance maintenance,0
+low molecular weight heparin administration,0
+urea reduction,96
+creatinine reduction,96
+myoglobin reduction,96
+CPK reduction,96
+LDH reduction,96
+CRP reduction,96
+PCT reduction,96
+urine output increase,96
+furosemide tapering,192
+oral furosemide administration,192
+antibiotic therapy switch,48
+piperacillin/tazobactam,0
+meropenem,48
+HFR-Supra sessions,0
+blood flow,0
+endogenous ultrafiltrate flow,0
+ultrafiltration rate adjustment,0
+femoral hemodialysis catheter removal,120
+right jugular central venous catheter placement,120
+on-line hemodiafiltration,120
+high-flux hemodialysis,168
+dialysis therapy prolongation,120
+renal failure,0
+chronic kidney disease,504
+discharge,504
+urea level at discharge,504
+creatinine level at discharge,504
+CRP level at discharge,504
+total bilirubin level at discharge,504
+ASL level at discharge,504
+ALT level at discharge,504
+PSA level at discharge,504
+white blood cell count at discharge,504
+urea level 6 months after discharge,1512
+creatinine level 6 months after discharge,1512
+GFR 6 months after discharge,1512

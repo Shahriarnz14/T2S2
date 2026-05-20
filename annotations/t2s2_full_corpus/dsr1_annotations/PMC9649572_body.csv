@@ -1,0 +1,42 @@
+event,time
+43 years old,0
+male,0
+left facial swelling,0
+left buccal area swelling,0
+left submandibular area swelling,0
+left hemifacial swelling,-336
+pain,-336
+fever,-240
+diabetes mellitus,0
+insulin treatment,0
+trismus,0
+skin thinning,0
+crepitation,0
+elevated HbA1C (17.1%),0
+high WBC count (15170/μL),0
+low hemoglobin (10.5 g/dL),0
+elevated hs-CRP (212.94 mg/L),0
+high glucose (242 mg/dL),0
+low sodium (134 mmol/L),0
+low albumin (2.3 g/dL),0
+elevated procalcitonin (1.140 ng/mL),72
+gram-negative Klebsiella pneumoniae,0
+multiple abscesses with air bubbles (CT),0
+pleomorphic wall-enhancing lesions (CT),0
+tachycardia,24
+hypotension,24
+septic shock,24
+septic emboli (chest CT),48
+pneumonia,48
+renal abscess (APCT),72
+seizures,72
+metabolic encephalopathy,72
+cytopenia,144
+percutaneous catheter drainage (PCD),168
+ceftriaxone treatment,168
+blood glucose control,168
+discharged,672
+no trismus (follow-up),4320
+no renal abscesses (APCT),1080
+HbA1C decreased (4.9%),4320
+infection resolved,4320

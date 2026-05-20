@@ -1,0 +1,115 @@
+event,time
+25-year-old,0
+female,0
+pregnant,0
+30th week of gestation,0
+admitted for treatment of heart failure,0
+control of non-sustained ventricular tachycardia,0
+sore throat,192
+cough,192
+COVID-19 test positive,192
+non-contrast chest computed tomography scan,192
+bilateral ground-glass opacities in up to 25% of the lungs,192
+fever,288
+pulse oximetry oscillating between 89% and 93% SaO2,288
+progressive reduction of arterial pressure,288
+foetal distress,288
+emergency caesarean delivery at 32nd week of gestation,288
+healthy premature baby,288
+baby negative for SARS-CoV-2,288
+developed progressive multisystem organ failure,336
+septic shock,336
+significant increase in inflammatory biomarkers,336
+significant increase in prothrombotic biomarkers,336
+severe impairment of pulmonary parenchyma,336
+ventilation in volume control mode,336
+antibiotic therapy,336
+amiodarone,336
+methylprednisolone,336
+therapeutic unfractionated heparin,336
+inotropic drugs,336
+gradual clinical improvement,696
+no fever,696
+extubated,696
+non-invasive support,696
+conscious,696
+nasal oxygen catheter,696
+recovering physically,696
+deteriorated rapidly,888
+massive bleeding from digestive tract,888
+massive bleeding from airways,888
+tachypnoea,888
+tachycardia,888
+respiratory failure,888
+re-intubation,888
+cardiopulmonary arrest,888
+death,888
+complete atrioventricular canal repair at 2 years of age,0
+mitral regurgitation,0
+left ventricular ejection fraction 33%,0
+mechanical mitral prosthesis implantation,0
+cardiac resynchronization therapy,0
+New York Heart Association Class III,0
+unplanned pregnancy,0
+14th week of gestation,0
+refusal to terminate pregnancy,0
+carvedilol 25 mg/day,0
+furosemide 40 mg/day,0
+warfarin,0
+INR levels between 3.0 and 3.5,0
+worsening heart failure,0
+non-invasive positive pressure ventilation,0
+low-dose intravenous furosemide,0
+morphine,0
+carvedilol adjusted to 75 mg/day,0
+improved clinical condition,0
+temperature 36°C,192
+blood pressure 115/75 mmHg,192
+heart rate 85 b.p.m.,192
+oxygen saturation 97%,192
+decrease in respiratory sounds in lung bases,192
+systolic murmur along left sternal border,192
+fever after 4 days of COVID-19 symptoms,192
+myalgia,192
+hypotension,192
+referred to COVID-19 ICU,192
+piperacillin,192
+tazobactam,192
+norepinephrine,192
+dobutamine,192
+acute foetal distress,288
+mechanical ventilation,336
+sedation with midazolam,336
+sedation with fentanyl,336
+neuromuscular blockade with cisatracurium,336
+lung-protective ventilation,336
+PaO2/FiO2 167,336
+FiO2 45%,336
+positive end-expiratory pressure 8,336
+furosemide,336
+methylprednisolone,336
+meropenem,336
+fluconazole,336
+polymyxin B,336
+amikacin,336
+daptomycin,336
+PaO2/FiO2 240,696
+oxygen saturation 94%,696
+2 L/min nasal catheter,696
+non-invasive ventilation,696
+videoconferencing with family,696
+acute respiratory failure,888
+low cardiac output,888
+major gastrointestinal bleeding,888
+airway bleeding,888
+diffuse alveolar damage,0
+viral cytopathic effects,0
+small pulmonary thrombi,0
+acute tubular necrosis,0
+cerebral oedema,0
+villous maturation appropriate for gestational age,0
+frequent syncytial knots,0
+mild fibrin depositions,0
+acute placental infarcts,0
+no chronic histiocytic intervillositis,0
+no deciduous acute inflammation,0

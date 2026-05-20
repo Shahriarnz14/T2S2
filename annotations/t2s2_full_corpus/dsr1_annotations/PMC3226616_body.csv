@@ -1,0 +1,169 @@
+event,time
+36 years old,0
+woman,0
+"admitted to Hospital das Clínicas, University of São Paulo, Brazil",0
+pregnancy five weeks after IVF,0
+IVF performed,-840
+attempted IVF three times without success,"-2520 (estimated as three cycles prior to current IVF, assuming each cycle spans weeks to months; approximate as prior events)"
+previous IVF complicated with mild OHSS,-2520 (assumed concurrent with prior IVF attempts)
+abdominal enlargement at oocyte retrieval,-840 (oocyte retrieval at time of IVF)
+25 oocytes collected,-840
+embryo transfer,"-816 (5 days after IVF: 840 - 24*5 = 840 - 120 = 720? Wait, IVF performed five weeks before admission. Admission is time 0. So IVF was at -5 weeks = -35 days = -840 hours. Embryo transfer five days after IVF would be at -840 + 120 = -720 hours. Then three weeks after embryo transfer is -720 + 504 = -216 hours (three weeks is 504 hours). But she was admitted three weeks after embryo transfer, so admission is at -216? Wait, the case states: ""five weeks after IVF was performed... Three weeks after embryo transfer, she was admitted."" So IVF was at -5 weeks (admission is 0). Embryo transfer was five days after IVF (so -5 weeks + 5 days = -35 days +5 days= -30 days = -720 hours). Then three weeks after embryo transfer (-30 days +21 days= -9 days= -216 hours). So admission is at -216 hours? But in the case, the admission is stated as five weeks after IVF, which would be 35 days (840 hours) after IVF, but the embryo transfer was five days after IVF, and admission was three weeks (21 days) after embryo transfer. So IVF at day -35 (relative to admission), embryo transfer at day -30, admission at day -30 +21= day -9 (relative to admission as 0). Wait, this seems conflicting. Let me re-express:"
+IVF performed,-840 (five weeks before admission)
+Embryo transfer,"-720 (five days after IVF, 840 -120= 720 hours before admission)"
+Previous IVF attempts (three times),"prior events, approximate as -2520 (assuming each attempt was spaced months apart, but this is uncertain; perhaps assign a very early timestamp)"
+Previous mild OHSS,"during prior IVF attempts, assign same time as those attempts."
+Abdominal enlargement at oocyte retrieval (during IVF),-840
+25 oocytes collected,-840
+Human albumin administered intravenously (at embryo transfer),-720
+Three weeks after embryo transfer (admission),0 (since the admission is the main event here)
+abdominal discomfort,0
+hyperemesis,0
+low urine output,0
+weight gain 7 kg in previous seven days,-168 (since it's the seven days prior to admission)
+abdomen distended,0
+ascites detectable,0
+core temperature normal,0
+blood pressure normal,0
+small bilateral pleural effusions,0
+transabdominal ultrasonographic examination,0
+viable intrauterine twin pregnancy,0
+bilateral multiloculated cystic ovaries,0
+right ovary 5.8×4.4×4.8 cm,0
+left ovary 5.9×4.5×5.3 cm,0
+ascites,0
+hemoglobin 15 g/dL,0
+hematocrit 42.7%,0
+"leukocyte count 18,540/mm3",0
+"platelet count 450,000/μL",0
+serum sodium 133 mmol/L,0
+potassium 4.7 mmol/L,0
+creatinine 0.6 mg/dL,0
+albumin 3.5 g/dL,0
+AST 45 IU/L,0
+ALT 27 IU/L,0
+bilirubin normal,0
+thyroid function normal,0
+"serum E2 level 6,204 pg/mL",0
+"human chorionic gonadotropin 14,765 mIU/mL",0
+serology for viral hepatitis negative,0
+OHSS suspected,0
+supportive care in ICU initiated,0
+intravenous crystalloid hydration,0
+20% albumin 150 mL/day,0
+"heparin 5,000 IU three times a day",0
+adequate urine output,0
+hemoconcentration resolved,0
+discharged to obstetric ward,"+168 (assuming after initial admission, which is time 0, she was in ICU and then discharged to ward after a week: 7 days=168h)"
+"After one week (from time 0): fever, shivering, renal failure (creatinine 1.68)",+168
+C-reactive protein increased from 42.7 to 116 mg/L,+168
+respiratory compromise,+168
+transvaginal paracentesis,+168
+4 L ascites aspirated,+168
+fluid analysis 520 cells/mm3,+168
+400 PMN cells/mm3,+168
+total protein 5.0 g/dL,+168
+E. coli in ascitic fluid culture,+168
+ceftriaxone initiated,+168
+human albumin 1.5 g/kg on day 1,+168
+human albumin 1.0 g/kg on day 3,+168*3= +168+48= +216
+general condition improved,+216 (approx)
+renal function improved,+216
+no other source of infection found,+168
+"after 48h treatment, another paracentesis",+168+48= +216
+fluid analysis 280 cells/mm3,+216
+ceftriaxone discontinued after eight days,+168 + (8*24)= +168+192= +360
+remained in hospital for another month (approx 4 weeks=672h),events after +360
+two further episodes of bacteremia,approximately +360 to +672
+E. coli ESBL,+480 (approximate midpoint)
+Acinetobacter baumannii,+600 (approx)
+treated with piperacillin/tazobactam,+480
+treated with meropenem,+600
+transvaginal paracentesis 5 L ascites,+480 and +600
+albumin infusion,+480 and +600
+discharged after two months,+1344 (approx 8 weeks=1344h)
+readmitted at 31 weeks gestation,"outside the scope of current admission's timeline (but if needed, timestamp as new admission, but in this case, we focus on the initial admission and subsequent events)"
+premature rupture of membranes at 34 weeks,"+ (assuming weeks after discharge, but not relevant to the current timeline)"
+Caesarean section performed,+ (after readmission)
+discharged two days after delivery,+ (later event)
+Other pertinent negatives: no previous liver disease,0
+36 years old,0
+woman,0
+"admitted to Hospital das Clínicas, University of São Paulo, Brazil",0
+IVF performed,-840
+attempted IVF three times without success,-2520
+previous IVF complicated with mild OHSS,-2520
+abdominal enlargement at oocyte retrieval,-840
+25 oocytes collected,-840
+embryo transfer,-720
+human albumin administered intravenously,-720
+abdominal discomfort,0
+hyperemesis,0
+low urine output,0
+weight gain 7 kg,-168
+abdomen distended,0
+ascites detectable,0
+core temperature normal,0
+blood pressure normal,0
+small bilateral pleural effusions,0
+viable intrauterine twin pregnancy,0
+bilateral multiloculated cystic ovaries,0
+right ovary 5.8×4.4×4.8 cm,0
+left ovary 5.9×4.5×5.3 cm,0
+ascites,0
+hemoglobin 15 g/dL,0
+hematocrit 42.7%,0
+"leukocyte count 18,540/mm3",0
+"platelet count 450,000/μL",0
+serum sodium 133 mmol/L,0
+potassium 4.7 mmol/L,0
+creatinine 0.6 mg/dL,0
+albumin 3.5 g/dL,0
+AST 45 IU/L,0
+ALT 27 IU/L,0
+bilirubin normal,0
+thyroid function normal,0
+"serum E2 level 6,204 pg/mL",0
+"human chorionic gonadotropin 14,765 mIU/mL",0
+serology for viral hepatitis negative,0
+OHSS suspected,0
+supportive care in ICU initiated,0
+intravenous crystalloid hydration,0
+20% albumin 150 mL/day,0
+"heparin 5,000 IU three times a day",0
+adequate urine output,0
+hemoconcentration resolved,0
+discharged to obstetric ward,168
+fever,168
+shivering,168
+renal failure (creatinine 1.68 mg/dL),168
+C-reactive protein increased,168
+respiratory compromise,168
+transvaginal paracentesis,168
+4 L ascites aspirated,168
+fluid analysis 520 cells/mm3,168
+400 PMN cells/mm3,168
+total protein 5.0 g/dL,168
+E. coli in ascitic fluid culture,168
+ceftriaxone initiated,168
+human albumin 1.5 g/kg,168
+human albumin 1.0 g/kg,216
+general condition improved,216
+renal function improved,216
+no other source of infection found,168
+transvaginal paracentesis,216
+fluid analysis 280 cells/mm3,216
+ceftriaxone discontinued,360
+two further episodes of bacteremia,480
+E. coli ESBL,480
+Acinetobacter baumannii,600
+piperacillin/tazobactam administered,480
+meropenem administered,600
+transvaginal paracentesis 5 L,480
+transvaginal paracentesis 5 L,600
+albumin infusion,480
+albumin infusion,600
+discharged from hospital,1344
+no previous liver disease,0
+denies chest pain,0
+no shortness of breath,0

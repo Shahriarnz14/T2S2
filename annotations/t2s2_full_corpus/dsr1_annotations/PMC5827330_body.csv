@@ -1,0 +1,82 @@
+event,time
+31 years old,0
+male,0
+admitted to the hospital,0
+high fever,-72
+sore throat,-72
+dog keeping started,-720
+son high fever,-504
+son strawberry tongue,-504
+son desquamation of the fingertips,-504
+body temperature 39℃,0
+swollen and reddened pharynx,0
+erythema of the trunk,0
+erythema of the right thigh,0
+streptococcal antibody tests negative,0
+ampicillin/sulbactam administered,0
+septic shock,0
+noradrenalin support,0
+referred to our hospital,0
+no abdominal pain,0
+no diarrhea,0
+blood pressure 112/54 mmHg,0
+heart rate 110 beats/min,0
+respiratory rate 24 breaths/min,0
+oxygen saturation 96%,0
+body temperature 37.3℃,0
+conjunctival congestion,0
+multiple areas of erythema on right lower limb,0
+"increased white blood cell count 27,650 /μL",0
+elevated erythrocyte sedimentation rate 79 mm/h,0
+elevated C-reactive protein 27.77 mg/dL,0
+elevated total bilirubin 5.88 mg/dL,0
+elevated direct bilirubin 4.09 mg/dL,0
+elevated serum ferritin 911.7 ng/mL,0
+"elevated soluble interleukin-2 receptor 3,837 U/mL",0
+"elevated brain natriuretic peptide 1,850.3 pg/mL",0
+elevated procalcitonin 2.53 ng/mL,0
+decreased total protein 4.5 g/dL,0
+decreased albumin 1.7 g/dL,0
+"normal platelet count 269,000 /μL",0
+blood cultures unremarkable,0
+urine cultures unremarkable,0
+cerebrospinal fluid cultures unremarkable,0
+CT bilaterally enlarged posterior cervical lymph nodes,0
+CT pulmonary congestion,0
+CT mild splenomegaly,0
+no abdominal lymphadenopathy,0
+no ileocecal lymphadenopathy,0
+IV meropenem initiated,0
+IV gamma-globulin 5 g/day for 3 days,0
+levofloxacin 500 mg every 24 hours,24
+clindamycin 600 mg every 8 hours,24
+fever not resolved,24
+minocycline 100 mg every 12 hours,96
+suspected Leptospira infection,96
+fever improved,96
+general condition improved,96
+moved to general ward,216
+bilateral desquamation of fingertips,216
+meets Kawasaki disease criteria,216
+peripheral blood platelets increasing,216
+coronary CT angiography no lesions,384
+cardiac ultrasonography unremarkable,1440
+anti-leptospiral antibodies negative,72
+anti-leptospiral antibodies negative,408
+discharged,480
+no recurrence,480
+streptococcal toxic shock syndrome differential,0
+staphylococcal toxic shock syndrome differential,0
+positive Y. pseudotuberculosis antibody YP2a 1:160,96
+FESLF diagnosis,480
+Y. pseudotuberculosis septicemia,480
+domestic transmission suspected,480
+contaminated well water possible source,480
+dog possible source,480
+YPM superantigen activity,480
+anti-YPM antibodies negative,480
+third-generation cephalosporins treatment,0
+fluoroquinolones treatment,0
+antibiotic treatment duration 3 weeks,480
+intrafamilial transmission suggested,480
+Kawasaki disease-like symptoms,0

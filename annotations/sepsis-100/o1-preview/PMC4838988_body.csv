@@ -1,0 +1,91 @@
+event,time
+63-year-old woman ,0
+general body malaise ,-48
+diarrhea ,-48
+vomiting ,-48
+influenza-like symptoms ,-48
+became increasingly more confused ,0
+past medical history included splenectomy 43 years earlier ,-376680
+idiopathic thrombocytopenic purpura ,-376680
+menometrorrhagia ,-376680
+vaccinated with PPV23 ,-2880
+antibody response to the vaccine tested ,-2880
+antibody response found to be adequate ,-2880
+fever (41.1 °C) ,0
+hypotension (62/52 mmHg) ,0
+bradycardia (35 beats per minute) ,0
+tachypnea (34 breaths per minute) ,0
+decreased oxygen saturation (92% on room air) ,0
+cyanosis of the lips ,0
+cyanosis of distal extremities ,0
+no sign of neck stiffness ,0
+no meningeal reactions ,0
+cardiac auscultations were normal ,0
+pulmonic auscultations were normal ,0
+abdomen was soft ,0
+abdomen not tender on palpation ,0
+diagnosed with severe sepsis ,0
+volume therapy was started ,0
+blood cultures obtained ,0
+broad-spectrum antimicrobial therapy commenced ,0
+cefuroxim started ,0
+gentamicin started ,0
+metronidazole started ,0
+hydrocortisone commenced ,0
+white blood cell count 27.5 × 10⁹/l ,0
+neutrophils 20.63 × 10⁹/l ,0
+hemoglobin 8.6 mmol/l ,0
+thrombocytes 92 × 10⁹/l ,0
+C-reactive protein 224.2 mg/l ,0
+P-lactate 4.8 mmol/l ,0
+arterial blood gas P-O₂ 21.2 kPa ,0
+arterial blood gas P-CO₂ 2.5 kPa ,0
+arterial blood gas pH 7.5 ,0
+Streptococcus pneumococcal urinary antigen test positive ,0
+chest x-ray showed discrete pulmonic stasis ,0
+transferred to the intensive care unit (ICU) ,1
+developed disseminated intravascular coagulation ,12
+microthrombi in the hands and feet ,12
+blood cultures showed growth of S. pneumoniae ,48
+antimicrobial treatment changed to penicillin G ,48
+MIC for penicillin was <0.1 μg/ml ,48
+suspicion of endocarditis was raised ,72
+trans-thoracic echocardiography performed ,72
+TTE showed modest hypokinesia of the apical part of the left ventricle ,72
+ejection fraction of 45% ,72
+endocarditis dismissed ,72
+necrosis of the fingertips and toes ,72
+renal insufficiency treated with hemodialysis ,72
+antibiotic therapy altered to ceftriaxone ,72
+leucocytes decreased ,96
+CRP decreased ,96
+fever dissolved ,96
+tracheal secretion culture obtained ,96
+tracheal culture was negative ,96
+transferred from the ICU to the medical department ,216
+antibiotics stopped ,216
+serotype 12F identified ,216
+remained afebrile ,216
+fluctuating CRP ,216
+condition improved clinically ,216
+discharged ,528
+oral dicloxacillin for 10 days prescribed ,528
+raised leucocytes ,528
+raised CRP ,528
+wound cultures showed Staphylococcus aureus ,528
+wound cultures showed haemolytic streptococci group C/G ,528
+new trans-thoracic echocardiography was unchanged ,528
+several necrotic fingers and toes were amputated ,2160
+readmitted with severe sepsis ,3600
+sepsis regimen and ceftriaxone therapy started ,3600
+transesophageal echocardiography revealed endocarditis with moving elements on the aortic valve ,3600
+blood cultures showed growth of S. pneumoniae ,3600
+antimicrobial treatment altered to penicillin G ,3600
+treated conservatively with penicillin G for 4 weeks ,3600
+recovered ,3888
+antipneumococcal antibodies measured 18 months before first IPD episode ,-12960
+antipneumococcal antibodies measured between IPD episodes ,2064
+antipneumococcal antibodies measured 1 year after second IPD episode ,12360
+showed antibodies to serotype 12F ,-12960
+showed antibodies to serotype 12F ,2064
+showed antibodies to serotype 12F ,12360

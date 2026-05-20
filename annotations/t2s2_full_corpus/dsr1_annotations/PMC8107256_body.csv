@@ -1,0 +1,97 @@
+event,time
+13-year-old male,0
+admitted to the hospital,0
+scheduled for elective insertion of continuous ambulatory peritoneal dialysis (CAPD) catheter,0
+admission height 135 cm,0
+admission weight 31 kg,0
+born at 40 weeks,-172800 (assuming 13 years ago)
+normal vaginal delivery,-172800
+admitted to neonatal intensive care unit for 10 days,-172800 (birth admission)
+sepsis,-172800
+mitochondrial disease diagnosed,-164160 (12 months old)
+Joubert syndrome diagnosed during outpatient observation,-164160 (approximated same as MD diagnosis)
+started hemodialysis,-105120 (8 years old)
+end-stage renal disease,-105120
+hospitalized with intracranial hemorrhage,-78840 (10 years old)
+high blood pressure,-78840
+admitted for uncontrolled hypertension,-52560 (11 years old)
+change in permanent catheter,-52560
+hyperkalemia-induced cardiac arrest,-52560
+cardiopulmonary resuscitation (CPR) for 1 hour,-52560
+transferred to intensive care unit (ICU),-52560
+post-CPR care for 2 weeks,-52560
+"hospitalized and discharged repeatedly due to heart, lung, and kidney problems",-52560 to -0 (ongoing)
+regular hemodialysis,-52560 to 0 (ongoing)
+hemoglobin level continued to fall,-52560 to 0
+blood pressure continued to fall,-52560 to 0
+scheduled to switch to peritoneal dialysis,0
+stuporous mental status,0
+Glasgow coma scale (GCS) score 11,0
+bed-ridden,0
+percutaneous endoscopic gastrostomy tube,0
+hypotension managed by norepinephrine infusion (0.07–0.19 µg/kg/min),0
+mean blood pressure (MBP) 90–106 mmHg,0
+heart rate (HR) 95–107 beats/min,0
+breathing shallow,0
+100% oxygen saturation on room air,0
+small jaw,0
+slightly protruding mouth,0
+short neck,0
+reduced cervical mobility,0
+poor mouth opening,0
+rigidity of jaw,0
+airway not properly evaluated,0
+blood sugar 132 mg/dl,0
+initial noninvasive blood pressure (NIBP) 120/90 mmHg,0
+initial heart rate (HR) 105 beats/min,0
+norepinephrine infusion 0.07 µg/kg/min,0
+bispectral index (BIS) monitoring initial 71,0
+anesthesia induced with propofol 1 mg/kg,0
+remifentanil 0.05 µg/kg/min,0
+rocuronium 0.4 mg/kg,0
+propofol infusion 77–102 µg/kg/min,0
+remifentanil infusion 0.05–0.1 µg/kg/min,0
+BIS maintained 40–60,0
+mask ventilation well maintained,0
+I-gel insertion attempted,0
+air leak during ventilation,0
+insufficient tidal volume,0
+I-gel reinsertion with jaw thrust method,0
+continued air leak,0
+endotracheal intubation with McGrath video-laryngoscope,0
+Cormack-Lehane grade 1,0
+endotracheal tube (ETT) 5.0 mm with cuff,0
+cuff pressure 18 cmH2O,0
+decreased left lung sounds,0
+coarse breath sounds,0
+mechanical ventilation settings,0
+end-tidal carbon dioxide 35–39 mmHg,0
+oxygen saturation 100%,0
+surgery duration 45 minutes,0
+MBP 73–103 mmHg,0
+HR 105–130 beats/min,0
+norepinephrine 0.03–0.07 µg/kg/min,0
+train-of-four (TOF) count 1–2,0
+no additional muscle relaxants,0
+no additional opioids,0
+spontaneous breathing returned,0
+BIS 73,0
+TOF ratio 76%,0
+respiration rate <10 breaths/min,0
+midazolam 3 mg administered,0
+transferred to SICU with ETT,0
+GCS score 6 in SICU,24 (1 hour post-op)
+ventilator settings in SICU,24
+MBP 105–111 mmHg,24
+HR 124–137 beats/min,24
+norepinephrine 0.07 µg/kg/min,24
+trachea extubated 1 hour post-ICU arrival,24
+oxygen saturation 100% with nasal cannula,24
+venous pH 7.30,24
+venous PCO2 53 mmHg,24
+venous PO2 47 mmHg,24
+base excess 0.3 mmol/L,24
+venous SO2 78%,24
+glucose 130 mg/L,24
+lactate 0.3 mmol/L,24
+no irregular respiratory patterns post-extubation,24

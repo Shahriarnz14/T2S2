@@ -1,0 +1,66 @@
+event,time
+77 years old,0
+male,0
+admitted to hospital,0
+anorexia,0
+deranged liver enzymes,0
+no significant past medical history,0
+no significant risk factors for liver disease,0
+does not take regular medications,0
+denied abdominal pain,0
+denied altered bowel habits,0
+afebrile,0
+hemodynamically stable,0
+unremarkable abdominal examination,0
+cholestatic liver enzymes,0
+elevated alkaline phosphatase (ALP) of 145 unit/L,0
+elevated gamma-glutamyl transferase (GGT) of 107 units/L,0
+elevated total bilirubin of 48 μmol/L,0
+raised white blood cell count of 23.7 × 10³/μL,0
+raised neutrophil count of 22.21 × 10³/μL,0
+abdominal ultrasound showed no visible gallstones,0
+became febrile,336
+worsening ALP of 849 unit/L,336
+worsening GGT of 624 unit/L,336
+Escherichia Coli bacteraemia,336
+Klebsiella pneumoniae bacteraemia,336
+CT abdomen revealed hypodense focal liver lesions,336
+CT abdomen revealed multiple thrombosed portal vein branches,336
+CT abdomen revealed pneumobilia in liver's left lobe,336
+incidental finding of 5.8 cm infra-renal AAA,336
+Piperacillin–Tazobactam 4.5 g commenced,336
+Rivaroxaban 15 mg twice daily started,336
+responded well to medical therapy,504
+large volume hematemesis,504
+clinically unstable,504
+repeat CT abdomen showed infra-renal AAA increased to 8 cm,504
+Rivaroxaban ceased,504
+urgent gastroscopy revealed large blood clots in gastric fundus and body,504
+pulsatile lesion at D2 suspicious for aortoenteric fistula,504
+emergency endovascular aneurysm repair,504
+admitted to ICU postoperatively,504
+acute right lower limb pain,672
+right lower limb swelling,672
+Doppler ultrasound revealed extensive DVT in right leg,672
+CT abdomen angiogram revealed DVT extending to distal IVC,672
+intravenous heparin infusion commenced,672
+second episode of hematemesis,816
+third gastroscopy revealed bleeding duodenal fistula at D2/3 junction,816
+diagnosis of cholecystoduodenal fistula (CDF) confirmed,816
+second laparotomy identified fistula between gallbladder and duodenum (D2),816
+stones and sludge in contracted gallbladder,816
+6 mm stone in ampulla,816
+fistula and adjacent duodenal wall repaired,816
+cholecystectomy performed,816
+further hematemesis,840
+third laparotomy performed,840
+intraoperative findings revealed deep ulcer in D3,840
+aortoenteric fistula with D3,840
+aneurysm sac bleeding into duodenum from iliolumbar arteries and inferior mesenteric artery,840
+aneurysm sac opened,840
+iliolumbar arteries closed from inside sac,840
+inferior mesenteric artery closed from inside sac,840
+admitted into ICU,840
+discharged from hospital,840
+re-admitted 3 weeks later,2688
+passed away,2688

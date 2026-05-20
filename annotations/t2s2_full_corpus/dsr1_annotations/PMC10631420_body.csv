@@ -1,0 +1,60 @@
+event,time
+48 years old,0
+male,0
+admitted to ICU,-168
+central venous catheter insertion,-216
+decompressive craniotomy,-216
+hypertension,-61320
+sudden onset headache,-240
+coma,-240
+emergency decompressive craniotomy,-240
+CVC inserted through right subclavian vein,-240
+no ultrasound assistance,-240
+no chest X-ray,-240
+transferred to ICU,-168
+right neck swelling,0
+redness,0
+tenderness,0
+warmth,0
+fever,0
+tachycardia,0
+hypotension,0
+septic shock,0
+leukocytosis,0
+elevated C-reactive protein,0
+elevated procalcitonin,0
+elevated alanine aminotransferase,0
+elevated aspartate aminotransferase,0
+normal renal function,0
+pH 7.30,0
+PaCO2 33 mmHg,0
+PaO2 108 mmHg,0
+lactate 3.8 mmol/L,0
+HCO3- 16.8 mmol/L,0
+POCUS performed,0
+thrombosis in right internal jugular vein,0
+misplaced CVC,0
+gas bubbles,0
+hyperechoic lines with dirty shadowing,0
+comet-tail artifacts,0
+CT scan confirmed air bubbles,0
+emphysematous thrombophlebitis,0
+CVC removal,24
+peripheral venous blood culture,24
+CVC blood culture,24
+antibiotic treatment,24
+vancomycin,24
+imipenem-cilastatin,24
+low-molecular-weight heparin,24
+contrast-enhanced CT scan,48
+organized thrombus,48
+S. cohnii detected,96
+methicillin-resistant,96
+weaned off vasopressors,168
+redness subsided,168
+swelling subsided,168
+left limb weakness,168
+transferred to general ward,168
+discharged,264
+organized thrombus at follow-up,744
+stable blood flow,744

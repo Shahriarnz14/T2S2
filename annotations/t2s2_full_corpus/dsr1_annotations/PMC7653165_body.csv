@@ -1,0 +1,68 @@
+event,time
+11-year-old,0
+male,0
+hospitalized,0
+fever,-96
+nausea,-96
+abdominal pain,-96
+pneumonia,-61320
+contact with COVID-19 cases,0
+traveled to Philippines,-2016
+elevated CRP (121.50 mg/L),0
+elevated procalcitonin (0.750 mcg/L),0
+normal blood cell count,0
+bowel wall thickening (terminal ileum),0
+enlarged lymph nodes (ileocolic artery),0
+diarrhea,48
+hypotension (66/36 mmHg),72
+inotropic agents,72
+transferred to ICU,72
+WBC 5.82 × 10³/µL,72
+segmented neutrophils 92.1%,72
+platelet count 100 × 10³/µL,72
+CRP 189.50 mg/L,72
+procalcitonin 14.55 mcg/L,72
+elevated AST/ALT (61/86 U/L),72
+"pro-BNP 3,131 ng/L",72
+prolonged PT (16.1 sec),72
+prolonged aPTT (42.5 sec),72
+elevated fibrinogen (18.61 g/L),72
+elevated D-dimer (0.894 µg/mL),72
+normal cardiac markers,72
+cardiomegaly (CXR),96
+hypoalbuminemia (22 g/L),96
+IVIG administration (2 days),96
+conjunctival injection,144
+cracked lips,144
+strawberry tongue,144
+left main coronary artery dilation,144
+left anterior descending artery not tapered,144
+right coronary artery dilatation,144
+aneurysmal changes (RCA),144
+mild pericardial effusion,144
+pleural effusion,144
+lung consolidation,144
+KDSS diagnosis,144
+high-dose aspirin,144
+fever subsided,192
+erythematous papular rash,192
+finger desquamation,192
+transferred to general ward,192
+aspirin dose reduced,192
+left wrist desquamation,312
+perianal desquamation,312
+normalized inflammation markers,312
+normalized coagulopathy,312
+resolved cardiomegaly,312
+resolved pleural effusion,312
+reduced lymph nodes (0.89 cm),312
+coronary artery normalization (echocardiography),312
+"negative pathogen tests (blood, sputum, stool, urine)",312
+negative PCR for SARS-CoV-2,312
+SARS-CoV-2 IgG positive (23.69),312
+SARS-CoV-2 IgM negative (0.08),312
+repeated antibody tests positive,312
+IVIG cross-reactivity excluded,312
+discharged,312
+asymptomatic post-discharge,312
+confirmed MIS-C,312

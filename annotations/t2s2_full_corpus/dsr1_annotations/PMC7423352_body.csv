@@ -1,0 +1,63 @@
+event,time
+73 years old,0
+male,0
+myocardial infarction,-720
+percutaneous coronary intervention,-720
+stent insertion into left circumflex artery,-720
+fever,0
+chills,0
+anorexia,-72
+nausea,-72
+diarrhea,-72
+visited emergency room,0
+oxygen saturation 85%,0
+high-resolution computed tomography,0
+ground-glass opacity in both lungs,0
+admitted to COVID-19 ward,0
+"therapeutic regimen (Oseltamivir, hydroxychloroquine, lopinavir/ritonavir)",0
+"superinfection battery (levofloxacin, linezolid)",0
+RT-PCR positive for COVID-19,0
+breathing difficulty,24
+oxygen saturation 94% on nasal cannula,24
+oxygen saturation decrease,24
+facial mask,24
+non-rebreather mask,24
+respiratory distress,72
+oxygen saturation below 90%,72
+impairments of consciousness,72
+transferred to ICU,72
+meropenem added,72
+pronounced consciousness impairments,72
+systolic blood pressure fluctuations (70-160 mmHg),72
+oxygen saturation below 89%,72
+severe sepsis,72
+septic shock,72
+endotracheal intubation,144
+mechanical ventilation with high PEEP,144
+creatinine increase (1.2 to 1.7),144
+acute kidney damage (stage one),144
+jugular vein access,144
+episodic symptom worsening,144
+temperature 39°C,144
+tachycardia (160 bpm),144
+respiratory distress,144
+oxygen saturation drop,144
+diarrhea,144
+blood pressure instability,144
+hemoperfusion (HA230 cartridge),144
+heparin administration,144
+symptom improvement,144
+reduced oxygen therapy need,144
+fever resolution,144
+heart rate decrease,144
+respiratory rate decrease,144
+second hemoperfusion,168
+mechanical ventilation support reduction,168
+extubation,192
+independent breathing,192
+discharged,312
+fever recurrence,816
+oxygen saturation decrease,816
+segmental pulmonary thromboembolism,816
+"anticoagulant therapy (Enoxaparin, Rivaroxaban)",816
+condition stabilization,864

@@ -1,0 +1,190 @@
+event,time
+65 years old,0
+female ,0
+patient ,0
+presented to the oncology clinic ,0
+abdominal pain ,0
+pancreatic head lesion ,0
+found on abdominal and pelvic computed tomography (CT) scan ,0
+at a non-affiliated hospital ,0
+in August 2022 ,0
+substantial smoking history ,0
+greater than 40 pack years ,0
+hypertension ,0
+hypothyroidism ,0
+dyslipidemia ,0
+spiculated suprahilar 4.5 × 2.6 cm right upper lobe (RUL) nodule ,-544
+screening low-dose CT scan ,-544
+multiple sub-centimeter left lung nodules ,-544
+consistent with lung-RADS 4X ,-544
+positron emission tomography/CT (PET/CT) scan ,-544
+augmented activity in the RUL mass ,-544
+Bronchoscopy-attained tissue sample ,-544
+tissue sample showed that the RUL mass was a NSCLC ,-544
+consistent with adenocarcinoma ,-544
+Lymph node sampling ,-544
+negative for nodal involvement ,-544
+consistent with stage IIIA lung adenocarcinoma (T4N0M0) ,-544
+Program death ligand-1 expression ,-544
+15% (April 2020) ,-544
+Surgical resection of the mass ,-544
+aborted at the time of surgery ,-544
+findings of encasement of the pulmonary artery and superior vena cava ,-544
+completed 7 rounds of carboplatin and paclitaxel ,-272
+completed 8 rounds of radiation therapy ,-272
+July-September 2020 ,-272
+"on follow-up, a repeat CT scan ",-240
+revealed a decrease in the RUL mass ,-240
+Adjuvant immunotherapy with durvalumab ,-216
+3 rounds were received ,-168
+before premature discontinuation ,-168
+due to pneumonitis ,-168
+A steroid taper ,-168
+was prescribed and completed for this pneumonitis ,-168
+Staging chest CT showed an increase in the RUL mass ,-168
+a further follow-up chest CT ,-120
+showed an increase in the RUL mass ,-120
+without distant metastasis ,-120
+routine follow-up by the pulmonary medicine clinic ,-72
+radiation oncology clinic ,-72
+and the hematology-oncology clinic ,-72
+"underwent a single thoracic, abdominal, and pelvic CT scan ",-72
+in September 2021 ,-72
+showed no distant metastasis ,-72
+relatively stable lung nodules ,-72
+5 subsequent chest CT scans ,-72
+showed stable appearance of the lung nodules ,-72
+and post-radiation changes ,-72
+consistent with radiation fibrosis ,-72
+The patient presented to her primary care physician ,-24
+in July 2022 ,-24
+complaints of epigastric pain ,-24
+associated with constipation ,-24
+loss of appetite ,-24
+and weight loss ,-24
+Symptoms had been ongoing for a few months ,-24
+An abdominal and pelvic CT scan ,-24
+showed a mass in the head of the pancreas ,-24
+that measured 3.1 × 3.4 cm ,-24
+and pancreatic ductal dilatation to 7 mm ,-24
+The patient was immediately referred to the oncology clinic ,-24
+At the oncology clinic ,0
+referred to gastroenterology ,0
+for endoscopic ultra-sound-guided biopsy of the pancreatic head mass ,0
+The pathology of the pancreatic mass ,0
+showed tumor cells with nuclear pleomorphism ,0
+prominent nucleoli ,0
+irregular nuclear contours ,0
+and coarse chromatin ,0
+Tumor cells showed CK7 ,0
+TTF-1 ,0
+and Napsin-A positivity ,0
+on immunohistochemical staining ,0
+a pattern consistent with pulmonary origin ,0
+Tumor cells were negative for CDX-2 ,0
+KOC ,0
+and synaptophysin ,0
+An immunostain for Smad-4 ,0
+showed a mixed staining pattern ,0
+when the tumor cells of the pancreatic lesion ,0
+were compared to those of the patient’s original lung adenocarcinoma ,0
+they were found to be morphologically similar ,0
+Overall ,0
+the cytomorphology and immunoprofile support the finding of a lung adenocarcinoma ,0
+metastasized to the pancreas ,0
+All liver enzymes were within normal limits ,0
+AST 35 U/L (normal 4--35 U/L) ,0
+ALT 23 U/L (normal 10--35 U/L) ,0
+ALP 74 U/L (normal 35--130 U/L) ,0
+Total bilirubin was also within normal limits ,0
+0.5 mg/dL (normal <1.2 mg/dL) ,0
+as was direct bilirubin ,0
+0.2 mg/dL (normal <0.3 mg/dL) ,0
+a lipase level ,0
+was not sent ,0
+CA 19.9 ,0
+was 22.5 U/mL (normal <35 U/mL) ,0
+A PET/CT scan ,0
+showed fluorodeoxyglucose-avid mass in the pancreatic head ,0
+with an SUV max of 13.3 ,0
+and increased uptake in the porta hepatis ,0
+with an SUV max of 4.2 ,0
+no other regions of metastases ,0
+were appreciated ,0
+and no lymphadenopathy ,0
+was noted ,0
+A brain MRI scan ,0
+was negative for intracranial metastasis ,0
+The patient was a poor surgical candidate ,0
+and underwent palliative radiation therapy ,0
+to the pancreatic mass ,0
+with subsequent combination chemotherapy ,0
+with carboplatin and pemetrexed ,0
+initiated in November 2022 ,216
+Three cycles were completed by December 2022 ,252
+Chemotherapy was subsequently held ,252
+when the patient was admitted in December 2022 ,252
+for generalized weakness ,252
+and dyspnea at rest ,252
+The patient was found to have electrolyte derangements ,252
+and an acute anemia ,252
+with a hemoglobin nadir of 6.9 g/dL ,252
+requiring transfusion ,252
+A CT scan of the chest ,252
+revealed a new 9 mm left lower lobe nodule ,252
+The patient was discharged home in January 2023 ,336
+A staging PET/CT scan ,408
+was performed in February 2023 ,408
+showed decreased metabolic activity in the pancreatic mass ,408
+and metabolic activity in the new left lower lobe nodule ,408
+At this point in February 2023 ,408
+the patient expressed uncertainty ,408
+regarding treatment continuation ,408
+No further treatments were given ,408
+after the third cycle in December 2022 ,408
+While visiting the pulmonology clinic in March 2023 ,504
+a rapid response was called ,504
+saturating at 87% on 3 L of oxygen ,504
+via nasal cannula ,504
+increased dyspnea ,504
+cough ,504
+and generalized weakness ,504
+The patient was taken to the emergency department ,504
+and subsequently admitted to the hospital ,504
+Imaging studies on admission ,504
+revealed right lung consolidation ,504
+concerning for an infectious process ,504
+with an associated loculated pleural effusion ,504
+The patient was initiated on treatment ,504
+for acute hypoxic respiratory failure ,504
+in the context of sepsis ,504
+secondary to pneumonia ,504
+Broad-spectrum antibiotics ,504
+including vancomycin ,504
+azithromycin ,504
+and cefepime ,504
+were initiated ,504
+Oxygen supplementation ,504
+was initiated using bilevel-positive airway pressure ,504
+On the sixth day of admission ,510
+the patient experienced an episode ,510
+of altered mentation ,510
+and worsening hypoxemia ,510
+which necessitated a critical care consult ,510
+The patient required vasopressor support ,510
+and continued bilevel-positive airway pressure ,510
+at this point ,510
+The palliative medicine team ,510
+was consulted ,510
+and engaged in a discussion ,510
+with the patient’s family ,510
+regarding the transition ,510
+to inpatient hospice care ,510
+Subsequently ,516
+this transition ,516
+was implemented ,516
+on the eighth day of the patient’s admission ,516
+in March 2023 ,516
+The patient subsequently passed peacefully ,524
+under comfort measures ,524
+on the eighth day of admission ,524

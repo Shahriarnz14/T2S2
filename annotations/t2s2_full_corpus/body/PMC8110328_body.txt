@@ -1,0 +1,50 @@
+1 Introduction
+
+The coronavirus disease 2019 (COVID-19) pandemic has so far caused over 120 million confirmed cases and resulted in at least 2.6 million deaths worldwide [1]. Severe SARS-CoV-2 infection leads to acute respiratory distress syndrome (ARDS) induced hypoxemia, requiring intensive care treatment. Critical illness, underlying patient risk factors and the SARS-CoV-2 infection itself predispose to arterial and venous thrombotic events, such as venous thromboembolism (VTE), acute coronary syndrome (ACS), disseminated intravascular coagulation (DIC), stroke and critical limb ischemia [2]. The mechanisms of coagulopathy in COVID-19 patients is still not entirely clear. In severely affected COVID-19 patients a cytokine storm is observed, which leads to endothelial dysfunction and a hypercoagulable state [[3], [4], [5]]. Furthermore, a direct effect of the SARS-CoV-2 virus on the renin-angiotensin-aldosterone system and endothelial cells contributes to this state [3,6].
+
+Apart from monitoring macro vascular parameters and following patients biomarkers, monitoring microcirculation at the bedside could give the clinician information about the current status of the patient and the optimal treatment [5]. In resuscitation of critically ill patients, targeting vascular hemodynamic parameters does not always ensure correction of microcirculation [7]. Moreover, microcirculatory alterations have showed to be a better predictor of outcome than global hemodynamic variables [8]. In this case report sublingual microcirculation was measured in a critically ill patient with COVID-19 pneumonia, using the Cytocam-IDF (Incident Dark Field illumination), a handheld microscope [9].
+
+2 Case presentation
+
+A 62-year-old man with a medical history of COPD Gold II and Hashimoto's disease presented to the emergency department with increasing complaints of shortness of breath, coughing, fever and myalgia. He had experienced symptoms for ten days and tested positive for SARS-CoV-2 seven days before. Due to severe hypoxia, the patient had to be admitted to our intensive care. At admission, treatment with remdesivir, dexamethasone and high-dose prophylactic low molecular weight heparin twice a day (LMWH) was started. The dose of LWMH was adjusted to therapeutic range based on anti-Xa levels (range 0.6–1.0 IU/ml). Computed tomography pulmonary angiography (CTPA) did not show pulmonary embolisms at day of admission. Despite eight days on high - flow nasal cannula support, the patient experienced increased events of paroxysmal hypoxia for several minutes in addition to chest pain. His macrocirculation was stable with persisting mono-organ failure (SOFA score of 2). The electrocardiogram, cardiac markers, and echocardiography showed no abnormalities. However, D-dimer was increased from 1,73 mg/L to 8,44 mg/L. A new CTPA was performed which showed large vessel thrombosis of both the pulmonary arteries and the thoracic aorta (Fig. 1A). Partial abdominal imaging showed renal and spleen infarction. Sublingual microcirculation measurements at five different sublingual locations all showed hyperdynamic circulation (Table 1) and an excessive increased amount of total vessel density of capillaries, without thrombosis (Fig. 1B). At the time of these findings, the patient only exhibited isolated respiratory failure.Fig. 1 A and B: CTPA (Panels A) showing large vessel thrombosis of both the pulmonary arteries and the thoracic aorta (arrows) and unilateral pulmonary opacity. Image B shows the sublingual microcirculation measurement: hyperdynamic circulation and increased amount of total vessel density of capillaries, without thrombosis.
+
+Fig. 1
+
+Table 1 Functional parameters of the microcirculation.
+
+Table 1Variable	Value	
+TVD [mm/mm2]	24.7 ± 4.4	
+FCD [mm/mm2]	23.85 ± 3.97	
+PPV [%]	0.97 ± 0.03	
+RBCv [μm/s]	366 ± 40	
+Values are presented as mean ± standard deviation.
+
+Abbreviations: FCD, functional capillary density; PPV, proportion of perfused vessels; RBCv, red blood cell velocity; TVD, total vessel density.
+
+Treatment with continuous high molecular weight heparin infusion was started, adjusted for therapeutic target APTT every 6 h. The subsequent day the patients respiratory status deteriorated and he needed mechanical ventilation. One week later, Staphylococcus Aureus pneumosepsis caused progressive multi-organ failure and the patient died.
+
+3 Discussion
+
+This case report shows a COVID-19 patient suffering from massive macrovascular thrombotic complications in the pulmonary arteries, thoracic aorta, spleen and kidneys. However, at the time of these complications, the patient experienced only single organ failure without need for mechanical ventilation. His microcirculation showed no evidence of micro-thrombosis, but a hyperdynamic circulation with increased amount of total vessel density and red blood cell velocity.
+
+In microcirculation research in septic patients, microvascular variables are markedly altered, showing a decreased proportion of perfused vessels and slower microvascular flow [8]. So far, published results of sublingual measurements in COVID-19 patients are limited in number and there is heterogeneity in the parameters of microvascular circulation reported.
+
+As far as we know, this is the only report of sublingual measurements in a patient with severe thrombotic complications.
+
+In the available literature on sublingual circulation in COVID-19 patients, the results are contradictory. A case series by Damiani et al. measured low total vessel density (TVD) and perfused vessel density (PVD), however, they found a proportion of perfused vessels (PPV) of 97.3% and microvascular flow index (MFI) of 2.9 [11]. Rovas et al. found a decrease in vessel density and in patients with need for mechanical ventilation, red blood cell velocity was significantly lower compared to healthy controls; COVID-19 patients without ventilation showed normal velocity values [10]. Kanoore Edul et al. found a higher total and perfused vessel density in twenty-seven COVID-19 patients, however, the PPV, MFI, and red blood cell velocity was lower compared to healthy controls [12].
+
+Hutchings et al. compared thirty mechanically ventilated COVID-19 patients to thirty-three patients with septic shock and twelve healthy volunteers. In COVID 19 patients, total vessel density and perfused vessel density were higher than in controls, with a lower MFI and PPV [14]. Favaron et al. measured an significant increase in total vessel density, functional capillary density, proportion of perfused vessels and a significant higher red blood cell velocity in thirty-four COVID-19 patients compared to controls, suggesting a hyperdynamic microvascular circulation [13].
+
+The sublingual microcirculatory parameters in this case report and a previous case report of our study group [15], are in line with the findings of Hutchings and Favaron and support our hypothesis that the microcirculation is able to enhance its oxygen extraction capacity as a compensatory mechanism. This microcirculatory response has also been observed in studies reporting sublingual microcirculatory vessel density in healthy persons subjecting themselves to hypobaric hypoxic conditions [16,17]. The role of sublingual microcirculation measurements in COVID-19 would be promising for monitoring disease severity and activity in patients before and after suffering from multiple thrombotic events when this compensated state of microcirculation is persisting despite treatment.
+
+This case reports has multiple limitations. Unfortunately, we only have the measurement of sublingual microcirculation on the day of first respiratory deterioration while on high-flow nasal cannula and detection of the arterial and vascular thrombosis. It would have been insightful to be able to compare measurements at the different points in disease progression. We would then be able to verify hemodynamic coherence in COVID-19, matching macrovascular hemodynamic parameters, current clinical state and microcirculation. Further research is warranted to assess the potential clinical use of sublingual microcirculation measurements as a parameter of disease severity and response to treatment in COVID-19 patients.
+
+CRediT author statement
+
+S Akin: Conceptualization, investigation, writing of original draft, reviewing and supervision. D van Hooven: writing of original draft, visualization and reviewing. C Ince: reviewing and editing. T Jansen: reviewing, editing and supervision.
+
+Declaration of competing interest
+
+Dr. Ince has developed SDF imaging and is listed as an inventor on related patents that were commercialized by Micro Vision Medical (MVM) under a license from the Academic Medical Center (AMC). He receives no royalties or benefits from this license. He has been a consultant for MVM in the past but has not been involved with this company for more than five years and holds no shares or stock. Braedius Medical, which is a company that is owned by a relative of Dr. Ince, has developed and designed a handheld microscope, namely, the CytoCam-IDF imaging microscope. Dr. Ince has no financial relationship with Braedius Medical of any sort (he has never owned shares or received consultancy or speaker fees from Braedius Medical). Dr. Ince runs an internet site (https://.microcirculationacademy.org) that offers services (e.g., training, courses, and analysis) that are related to clinical microcirculation.
+
+The other authors declare that they have no competing interests.

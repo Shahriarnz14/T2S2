@@ -1,0 +1,59 @@
+event,time
+60-year-old,0
+male,0
+hypertension,0
+admitted to the hospital,0
+left eye swelling,-168
+left eye pain,-168
+left eye erythema,-168
+no history of previous trauma,0
+no sinus disease,0
+no recent surgery,0
+circulatory shock,0
+sepsis,0
+left periorbital cellulitis,0
+intravenous Vancomycin,0
+intravenous Gentamycin,0
+intravenous Meropenem,0
+intravenous Clindamycin,0
+aggressive fluid resuscitation,0
+oxygen supplementation,0
+CT carotid angiogram,0
+diffuse left orbital cellulitis,0
+no intraorbital collection,0
+no intracerebral vascular thrombosis,0
+inflammatory picture,0
+rapid deterioration,0
+respiratory compromise,+24
+haemodynamic instability,+24
+intubated,+24
+ventilatory support,+24
+vasopressor treatment,+24
+multiorgan failure,+24
+suspected periorbital necrotizing fasciitis,+24
+intravenous immunoglobulin,+24
+emergency transfer,+24
+left periorbital swelling,+24
+necrosis of the upper eyelid,+24
+suspected abscess of the lower eyelid,+24
+debridement of upper and lower eyelids,+24
+debridement of periorbital tissues,+24
+intensive care unit admission,+24
+septic shock,+24
+acute kidney injury,+24
+renal replacement therapy,+24
+Meropenem,+24
+Clindamycin,+24
+Ceftriaxone,+24
+Linezolid,+24
+Beta-haemolytic Group A Streptococcus isolated,+24
+Staphylococcus Aureus isolated,+24
+condition stabilization,+48
+repeat CT orbit,+168
+persistent soft tissue swelling,+168
+no orbital breach,+168
+no collections,+168
+discharged from hospital,+456
+wounds healed,+2160
+no visual deficit,+2160
+awaiting reconstructive surgery,+2160

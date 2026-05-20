@@ -1,0 +1,73 @@
+event,time
+66 years old,0
+male,0
+hypertension,0
+hyperlipidemia,0
+hepatitis C virus infection,0
+atrial fibrillation,0
+anticoagulated with apixaban,0
+fall,-72
+dizziness,-72
+lost consciousness,-72
+Glasgow Coma Score of 15,-72
+no focal neurological deficits,-72
+subdural hematoma,-72
+right medial orbital wall fracture,-72
+admitted to the surgical intensive care unit,0
+severe headache,48
+expansion of the SDH,48
+mass effect,48
+midline shift,48
+discharged to acute inpatient rehabilitation,144
+repeat head CT,216
+terrible headache,216
+expansion of the hematoma,216
+increased mass effect,216
+midline shift,216
+burr holes for evacuation of the SDH,222
+placement of subdural drain,222
+headache improved,222
+SDH decreased in size,222
+discharged home,228
+seizure prophylaxis with levetiracetam,228
+strange sensation in the right arm,384
+feeling of inability to control the arm,384
+focal left arm seizure,384
+EEG monitoring,384
+unresponsive,384
+status epilepticus,384
+intubated,384
+transferred to the medical intensive care unit,384
+ventilator-dependent respiratory failure,384
+septic shock,384
+Pseudomonas bacteremia,384
+tracheostomy,384
+gastrostomy,384
+discharged to long-term acute care hospital,609
+less responsive,637
+transferred back for neurosurgical evaluation,637
+CT and CTA head,637
+right frontal intraparenchymal hemorrhage,637
+cerebral catheter angiography,637
+AVM,637
+Spetzler-Martin Grade 1,637
+Spetzler-Ponce Grade A,637
+embolization of the AVM,645
+N-butyl-cyanoacrylate glue,645
+successful embolization,645
+resection of the AVM,661
+right pterional craniotomy,661
+microdissection techniques,661
+coagulated using bipolar electrocautery,661
+resected,661
+intraoperative Doppler ultrasound,661
+no arterial flow in the draining vein,661
+evacuation of the intraparenchymal hematoma,661
+postoperative angiography,661
+no residual AVM,661
+mental status improved,670
+followed commands,670
+tracked with his eyes,670
+spontaneous antigravity movement of the right upper extremity,670
+pseudomonas sepsis,670
+discharged to long-term acute care,690

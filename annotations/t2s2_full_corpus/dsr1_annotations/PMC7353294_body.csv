@@ -1,0 +1,114 @@
+event,time
+16-year-old female,0
+weighted 60 kg,0
+sudden loss of consciousness,-80
+running in physical education class,-80
+CPR applied,-80
+admitted to Emergency Department,-80
+CPR continuously applied,-80
+no return of spontaneous circulation,-80
+ECPR performed,-60
+femoral cannula kit used,-60
+Stöckert centrifugal pump used,-60
+D905 EOS membrane oxygenator used,-60
+ECMO established,-20
+ECMO speed 2650 rpm,-20
+ECMO flow rate 3.6 L/minute,-20
+heparin administered,-20
+ACT maintained 160–200 seconds,-20
+spontaneous heart rate returned,0
+transferred to ICU,+60
+respiratory arrest,0
+cardiac arrest,0
+no history of drug allergy,0
+no history of food allergy,0
+body temperature 35°C (rectal),0
+heart rate 112 bpm,0
+blood pressure 85/52 mm Hg,0
+ECMO care,0
+ventilator care,0
+deep coma,0
+no pupillary reflex,0
+pupil size 6 mm both eyes,0
+no other abnormalities observed,0
+balanced salt administered,0
+lansoprazole administered,0
+meropenem administered,0
+vancomycin administered,0
+no urine output in 6 hours,0
+CRRT used in series with ECMO,+0
+CRRT duration April 16 to April 18,+0
+shivering observed,+24
+left lower extremity edema observed,+24
+reduced arterial blood flow left lower extremity,+24
+papaverine administered,+24
+thermotherapy applied,+24
+pupillary reflex resumed,+24
+pupil constricted to 3 mm,+24
+sedative stopped,+24
+analgesic drugs stopped,+24
+painful expression observed,+24
+limb expression observed,+24
+sedative continued,+24
+analgesic drugs continued,+24
+left lower extremity swelling worsened,+48
+left lower extremity pale,+48
+blood flow to left lower extremity completely restricted,+48
+ejection fraction 42%,+48
+ECMO stopped,+50
+blood flow to left lower extremity resumed,+50
+no urine output,+50
+CRRT performed via right internal jugular vein,+50
+CRRT duration April 18 to May 21,+50
+enteral nutrition started,+72
+anti-infective therapy switched to cefoperazone/sulbactam,+168
+spontaneous breathing,+216
+shallow coma,+216
+diminished coughing,+216
+percutaneous dilatation tracheostomy performed,+216
+ventilator withdrawn,+240
+diarrhea developed,+336
+light-yellow stools,+336
+high fever 40°C,+336
+shock,+336
+sputum culture positive for Acinetobacter baumannii,+336
+nasogastric feeding replaced by parenteral nutrition,+336
+metronidazole administered,+336
+Smecta administered,+336
+tigecycline administered,+336
+"combined Bifidobacterium, Lactobacillus, Enterococcus, and Bacillus cereus tablets administered",+336
+body temperature decreased to 38°C,+336
+no improvement in diarrhea,+336
+PMC considered,+408
+vancomycin 0.5 g every 6 hours via nasogastric tube,+408
+metronidazole 0.5 g every 6 hours intravenous drip,+408
+diarrhea frequency 20–40 times/day,+408
+diarrhea volume 3000–4000 mL,+408
+bedside colonoscopy confirmed PMC,+456
+anti-infectives changed to piperacillin/tazobactam,+456
+treatment strategy adjusted to protect intestinal mucosa,+456
+treatment to modulate intestinal flora,+456
+treatment to ensure water-electrolyte balance,+456
+no significant amelioration of diarrhea,+456
+dark red diarrhea observed,+696
+hematochezia,+696
+poisoning symptoms worsened,+696
+first fecal microbiota transplantation (5 U),+696
+diarrhea volume reduced to 1500–2000 mL,+696
+second fecal microbiota transplantation,+1008
+third fecal microbiota transplantation,+1080
+stool color changed to yellow,+1080
+nasogastric feeding of lactose-free formula milk started,+1080
+diarrhea frequency reduced to 10 times/day,+1080
+diarrhea volume reduced to 1000 mL,+1080
+fourth fecal microbiota transplantation,+1272
+diarrhea frequency reduced to 2–4 times/day,+1272
+diarrhea volume reduced to 300–600 mL,+1272
+gradual transition to total enteral nutrition,+1272
+tracheotomy closed,+1320
+coronary CTA performed,+1968
+right coronary artery origin anomaly,+1968
+rehabilitation therapy started,+2928
+discharged,+5040
+grade II brain function,+5040
+self-care ability restored after 6 months follow-up,+5040

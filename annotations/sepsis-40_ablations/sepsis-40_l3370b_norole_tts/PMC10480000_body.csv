@@ -1,0 +1,74 @@
+event,time
+15 years old ,0
+female ,0
+admitted to the hospital ,0
+tuberculosis infection ,-672
+positive QuantiFERON gold test ,-672
+iron deficiency anemia ,-672
+systemic lupus erythematosus ,-672
+symmetric nonerosive polyarthritis ,-672
+nonscarring alopecia ,-672
+photosensitivity ,-672
+Raynaud phenomenon ,-672
+antinuclear antibodies ,-672
+anti-Smith antibodies ,-672
+anti-ribonucleoprotein antibodies ,-672
+naproxen ,-672
+hydroxychloroquine ,-672
+started treatment with rifampin ,-11
+tolerated rifampin ,-11
+chills ,-8
+myalgias ,-8
+stopped treatment ,-8
+resumed rifampin ,0
+severe neck pain ,1
+myalgias ,1
+arthralgias ,1
+shortness of breath ,1
+chest pain ,1
+hypotension ,1
+fluid bolus ,1
+febrile ,2
+tachypneic ,2
+tachycardic ,2
+low-to-normal blood pressure ,2
+received intravenous fluids ,2
+empiric vancomycin ,2
+empiric ceftriaxone ,2
+hypotensive ,4
+diaphoretic ,4
+fluid resuscitation ,4
+norepinephrine infusions ,4
+epinephrine infusions ,4
+admitted to the intensive care unit ,4
+no rash ,4
+no mucous membrane involvement ,4
+decreased leukocyte count ,4
+low eosinophil counts ,4
+hemoglobin level decreased ,24
+bilirubin normal ,24
+haptoglobin normal ,24
+direct antiglobulin test negative ,24
+blood film did not show schistocytes ,24
+inflammatory markers elevated ,24
+C-reactive protein elevated ,24
+aspartate aminotransferase elevated ,24
+complement C3 level slightly decreased ,24
+complement C4 level normal ,24
+creatinine kinase level normal ,24
+cortisol level increased ,24
+computed tomography scan of the head normal ,24
+echocardiogram normal ,24
+CT angiography of the neck showed localized myositis ,24
+chest radiograph showed mild pulmonary edema ,24
+CT imaging of the lungs showed bilateral increased septal thickening ,24
+infectious work-up negative ,24
+negative for SARS-CoV-2 ,24
+received 1 dose of rifampin in the ICU ,24
+decreased blood pressure ,24
+vasopressor dose increased ,24
+rifampin stopped ,24
+weaned off vasopressors ,30
+started isoniazid ,30
+completed 9 months of therapy ,2160
+avoid rifamycin-based medications ,2160

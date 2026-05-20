@@ -1,0 +1,94 @@
+event,time
+50 years old,0
+male,0
+hospitalized,0
+dry cough,-96
+chills,-96
+fever,-96
+back pain,-96
+cough,-96
+no gastrointestinal symptoms,-96
+no diarrhea,-96
+acetaminophen,-96
+carbocysteine,-96
+symptoms did not improve,-96
+referred to our hospital,-96
+maintenance hemodialysis,-96
+previous 20-pack-year smoker,0
+no alcohol use,0
+lived in over 40-year-old house,0
+contaminated shower use presumed,0
+worked in a bar,0
+no humidifier use,0
+no air conditioner use,0
+no recent travel,0
+diabetic kidney disease,0
+percutaneous coronary intervention 8 years ago,0
+congestive heart failure,0
+beta blockers,0
+angiotensin receptor blockers,0
+ejection fraction 33% 4 months ago,0
+ejection fraction 30%,0
+no gastrointestinal disorders,0
+no family history of diabetes,0
+no family history of hemodialysis,0
+no immunodeficiency,0
+body temperature 38.9°C,0
+blood pressure 131/97 mmHg,0
+heart rate 117/min,0
+respiratory rate 18/min,0
+SpO2 96%,0
+consciousness intact,0
+left pulmonary rales,0
+bilateral lower leg edema,0
+no xerostomia,0
+elevated leukocyte count,0
+elevated CRP,0
+severe liver dysfunction,0
+elevated creatine kinase,0
+moderate hypoxemia,0
+tachycardia,0
+no ST elevation,0
+lobular infiltrates left lower lung,0
+mild heart enlargement,0
+no significant pleural effusion,0
+lobar consolidation left lower lobe,0
+air bronchogram,0
+chronic liver injury,0
+fatty liver,0
+bacterial pneumonia diagnosis,0
+no dyspnea,0
+no oxygen needed,0
+A-DROP score <1,0
+qSOFA score 0,0
+piperacillin/tazobactam started,0
+progressive worsening next day,24
+negative blood cultures,24
+sputum culture oral microflora,24
+serous sputum,24
+suspected Legionnaires' disease,24
+oral azithromycin started,24
+consciousness deteriorated,34
+systolic blood pressure deteriorated,34
+septic shock diagnosis,34
+noradrenaline started,34
+bradycardia,48
+cardiac arrest,48
+cardiopulmonary resuscitation,48
+defibrillation attempts,48
+adrenaline bolus,48
+return of spontaneous circulation,48
+transferred to ICU,48
+hydrocortisone phosphate started,48
+gamma globulin started,48
+continuous renal replacement therapy started,72
+noradrenaline dose reduced,72
+azithromycin changed to levofloxacin,72
+blood pressure suddenly dropped,120
+CRRT discontinued,120
+death,120
+Legionella pneumophila detected postmortem,120
+lobar pneumonia autopsy,120
+hepatic congestion,120
+shock liver,120
+Legionnaires' disease confirmed,120

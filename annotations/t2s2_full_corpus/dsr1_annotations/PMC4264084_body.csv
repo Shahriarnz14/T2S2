@@ -1,0 +1,68 @@
+event,time
+20 years old,0
+pregnant,0
+gestation 26 weeks,0
+anti-epileptic therapy,0
+carbamazepine,0
+consumption of 4000 mg carbamazepine,-4
+denied concomitant overdose with other medications,0
+gastric lavage,-4
+transferred to our hospital,0
+Glasgow coma score 3/15,0
+pulse rate 138/min,0
+blood pressure 110/70 mmHg,0
+respiratory rate 25/min,0
+capillary blood glucose level 109 mg/dl,0
+pupils dilated 6 mm bilaterally,0
+reacting to light,0
+deep tendon reflexes sluggish,0
+Babinski sign negative,0
+systemic examination unremarkable,0
+intubated,0
+multi-dose activated charcoal therapy,0
+shifted to intensive care unit,0
+ventilation,0
+monitoring,0
+serum carbamazepine level >20 μg/ml,0
+hemoglobin 8 g/dl,0
+"white count 15,200/cumm",0
+renal function normal,0
+liver function test normal,0
+coagulation profile normal,0
+circulatory shock,6
+fluid resuscitation,6
+low dose vasopressors,6
+empiric antibiotic therapy,6
+discontinued empiric antibiotic therapy,6
+negative cultures,6
+low procalcitonin 0.34,6
+absence of definite focus of infection,6
+hypoglycemia episodes,72
+50% dextrose bolus,72
+25% dextrose infusion,72
+hypoglycemia resolved,132
+serum carbamazepine level 17.3 μg/ml,72
+serum carbamazepine level 2.97 μg/ml,168
+extubated,168
+vasoactive agents weaned,168
+no further hypoglycemic episodes,168
+follow-up at 2 months,1440
+rash,0
+photosensitivity,0
+drug-induced lupus,0
+agranulocytosis,0
+neurotoxicity,0
+cardiac collapse,0
+ataxia,0
+nystagmus,0
+seizures,0
+status epilepticus,0
+altered sensorium,0
+tachycardia,0
+hypotension,0
+ventricular extra systoles,0
+acute hypernatremia,0
+hepatotoxicity,0
+depressed sensorium,0
+prolonged circulatory shock,0
+increased fetal glucose demand,0

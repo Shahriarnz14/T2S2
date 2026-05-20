@@ -1,0 +1,82 @@
+event,time
+74 years old,0
+Japanese,0
+woman,0
+history of schizophrenia,0
+referred to the hospital,0
+high-grade fever,0
+unaware of febrile status prior to admission,-24
+no chest pain,0
+no cough,0
+no dyspnea,0
+no palpitation,0
+no urinary complaints,0
+no bowel complaints,0
+no history of tuberculosis,0
+no history of malignancy,0
+no previous hospital admissions,0
+denied smoking cigarettes,0
+denied drinking alcohol,0
+denied using illicit drugs,0
+no recent travel history,0
+high-grade fever of 39.1°C,0
+pulse rate 110 beats/min,0
+blood pressure 100/60 mmHg,0
+respiratory rate 24 times/min,0
+oxygen saturation 99% at room air,0
+Glasgow Coma Scale E4V4M6,0
+non-tender mass in lower right back,0
+mass present for approximately 1 month,-720
+cardiovascular examination unremarkable,0
+abdominal examination unremarkable,0
+leukocytosis 23300 cells/mm3,0
+polymorphic neutrophil predominance 93.8%,0
+hemoglobin 8.6 g/dL,0
+platelet count 339000/mm3,0
+CPK 125 IU/L,0
+blood urea nitrogen 23.3 mg/dl,0
+creatinine 0.97 mg/dl,0
+CRP 15.26 mg/dl,0
+blood sugar 116 mg/dl,0
+HbA1c 5.4%,0
+HIV test negative,0
+urinalysis +/- protein,0
+urinalysis 1+ nitrite,0
+urinalysis 2+ leukocyte,0
+urine glucose negative,0
+urine occult blood negative,0
+urine ketones negative,0
+subcutaneous abscess suspected,0
+abscess reached adjacent subcutaneous space,0
+mass observable from body surface,0
+ultrasound examination performed,0
+low echoic mass with penetration to right kidney depth,0
+CT detected large mass in right retroperitoneum,0
+mass extended into adjacent subcutaneous space,0
+staghorn calculus,0
+surgical drainage performed,24
+admitted to intensive care unit,24
+post-procedural septic shock,24
+M. morganii detected in abscess fluid,24
+M. morganii detected in urine culture,24
+blood cultures negative,24
+repeat CT with intravenous contrast,72
+right renal abscess,72
+staghorn calculus,72
+retroperitoneum abscess improvement,72
+iliopsoas abscess likely from renal abscess and UTI spread,72
+M. morganii susceptible to piperacillin/tazobactam,72
+M. morganii susceptible to meropenem,72
+M. morganii susceptible to cefmetazole,72
+M. morganii susceptible to gentamycin,72
+M. morganii susceptible to amikacin,72
+M. morganii susceptible to levofloxacin,72
+M. morganii resistant to cephalosporins,72
+M. morganii resistant to ampicillin,72
+meropenem administered,24
+salvage nephrectomy performed,96
+post-operative recovery exceptional,120
+intravenous meropenem 0.5g every 8h for 2 weeks,24
+responded well to initial treatment,168
+oral levofloxacin 250mg for 4 weeks,168
+discharged to nursing home,336

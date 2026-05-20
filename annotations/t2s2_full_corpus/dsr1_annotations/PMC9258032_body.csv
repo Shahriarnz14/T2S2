@@ -1,0 +1,103 @@
+event,time
+58 years old,0
+male,0
+admitted to the hospital,0
+recurrent episodes of syncope,-24
+sore throat,-96
+fever,-96
+flu-like symptoms,-96
+syncope during a febrile episode,-8760
+haemoconcentration,-8760
+haemoglobin value 18.7 g/dL,-8760
+oedema of lower extremities,-8760
+previous hospital admission,-26280
+suspected myopericarditis,-26280
+normotensive,0
+blood pressure 115/70 mmHg,0
+normal heart rate,0
+normal oxygen saturation,0
+physical examination negative,0
+no sign of peripheral or pulmonary congestion,0
+sinus rhythm,0
+no conduction disorders,0
+normal ventricular repolarization,0
+decreased left ventricular ejection fraction,0
+mild concentric remodelling,0
+mild pericardial effusion,0
+negative chest X-ray,0
+moderate leukocytosis,0
+polyglobulia,0
+haematocrit 57%,0
+decreased serum albumin concentration,0
+mildly increased C-reactive protein,0
+elevated high sensitivity troponin T,0
+elevated NT-pro-B natriuretic peptide,0
+suspected myopericarditis,0
+clinical status deteriorated,48
+hypotension,48
+systolic blood pressure 60–70 mmHg,48
+pulmonary oedema,48
+signs of hypoperfusion,48
+cold extremities,48
+oliguria,48
+raised blood lactates,48
+LVEF 20%,48
+increased LV wall thickness,48
+restrictive transmitral filling pattern,48
+admitted to ICU,48
+cardiogenic shock,48
+mechanical ventilation,48
+high dosage of vasoactive drugs,48
+coronary angiography,48
+endomyocardial biopsy,48
+normal coronary vessels,48
+active myocarditis,48
+inflammatory infiltrates,48
+myocardial necrosis,48
+positive for parvovirus B19,48
+negative blood cultures,48
+refractory shock,48
+mechanical support with IABP,48
+pulmonary artery catheter insertion,48
+mixed hypovolemic-cardiogenic shock,48
+high doses of i.v. methylprednisolone,48
+SCLS triggered by PVB19 infection suspected,48
+rhabdomyolysis,72
+creatine kinase 9297 U/L,72
+acute kidney injury,72
+CRRT,72
+cytokine adsorber haemofilter,72
+improvement,96
+LVEF 35%,96
+weaned from IABP,168
+weaned from inotropes and vasopressors,264
+CRRT stopped,72
+ventilatory-associated pneumonia,264
+ventilatory weaning,288
+CMRI performed,480
+improved biventricular performance,480
+complete resolution of myocardial oedema,480
+late gadolinium enhancement,480
+pre-discharge echocardiography,720
+LVEF 52%,720
+reduced LV wall thickness,720
+tests for autoimmune diseases negative,720
+polyglobulia investigations negative,720
+discharge,720
+normal haematocrit values,720
+normal renal function,720
+new ISCLS flare,3720
+flu-like syndrome,3720
+hypotension,3720
+syncope,3720
+haemoconcentration,3720
+Hb 16.4 g/dL,3720
+HcT 49%,3720
+rhinovirus infection,3720
+admitted to ICU,3720
+haemodynamically stable,3720
+no myocardial dysfunction,3720
+IVIG prophylaxis,3720
+no new syncopal episodes,7200
+good clinical condition,26280
+no new SCLS flares,26280

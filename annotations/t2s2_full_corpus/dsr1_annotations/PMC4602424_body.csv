@@ -1,0 +1,88 @@
+event,time
+55 years old,0
+male,0
+admitted to intensive care unit,0
+ingested 100 mL of 28% sodium chlorite solution,-24
+ingested 0.75 L of whiskey,-24
+ingested 12 tablets of 400 mg ibuprofen,-24
+attempted to hang himself,-24
+found lying on the floor,-24
+cyanotic,-24
+lowered consciousness,-24
+inadequate response to verbal stimulus,-24
+vomited,-24
+transported to emergency department,-24
+Glasgow Coma Scale score 13,0
+body temperature 33.6°C,0
+heart rate 110/min,0
+blood pressure 150/80 mm Hg,0
+respiratory rate 28/min,0
+pulse oximetry 65%,0
+generalized skin cyanosis,0
+neck markings after strangulation,0
+silent abdomen,0
+incontinence for urine and feces,0
+chocolate-brown serum,0
+depression,0
+previous suicide attempt,0
+alcohol abuse,0
+sedated,0
+intubated,0
+mechanically ventilated,0
+hemoglobin 179 g/L,0
+leukocytes 28.5 ×10^9/L,0
+platelet count 279 ×10^9/L,0
+BUN 5.5 mg/dL,0
+creatinine 142 μmol/L,0
+potassium 7.5 mM,0
+osmolality 351 mosm/L,0
+arterial lactate 6.5 mM,0
+myoglobin 433 ng/mL,0
+bilirubin 28 mM,0
+pH 7.25,0
+PaCO2 4.45 kPa,0
+PaO2 52.45 kPa,0
+BE -12.2 mmol/L,0
+HCO3 14.1 mmol/L,0
+SaO2 99%,0
+MetHb 40.1%,0
+2 mg/g alcohol in blood,0
+ibuprofen in gastric content and urine,0
+gastric fibroscopy performed,0
+"superficial necrotic spots in antrum, body of stomach, and duodenum",0
+edema of pylorus,0
+peaked T waves,0
+antidote therapy with methylene blue,2
+intravenous bolus of 34 mg methylene blue,2
+acute renal failure,4.5
+anuria,4.5
+hyperkalemia,4.5
+metabolic acidosis,4.5
+CVVHDF initiated,4.5
+hemoglobin levels dropped to 116 g/L,24
+thrombocytes dropped to 164,24
+D-dimer 29.1 mg/mL,24
+international normalized ratio 1.8,24
+activated partial thromboplastin time ratio 1.4,24
+hemolytic anemia,24
+DIC,24
+hemoglobin dropped to 59 g/L,120
+platelet count 77 ×10^9/L,120
+4 units of packed red blood cells transfused,120
+norepinephrine drip instituted,20
+hypotension 80/60 mm Hg,20
+bronchopneumonia,192
+sepsis,192
+body temperature 39°C,192
+antibiotics initiated,192
+gastric and esophageal ulceration improved,240
+weaned from mechanical ventilation,312
+intermittent hemodialysis every second day,408
+urinated 2500 mL/24h,528
+blood urea 12 mg/dL,528
+creatinine 428 μmol/L,528
+estimated GFR 15.6 mL/min,528
+transferred to medium care facility,528
+hemodialysis performed 16 times,0
+transferred to psychiatric ward,1032
+discharged from hospital,1536

@@ -1,0 +1,116 @@
+event,time
+66 years old,0
+female,0
+presented with fever,-192
+close contact with confirmed COVID-19 case,-192
+SARS-CoV-2 RNA detected,-192
+initial supportive treatment at home,-192
+fever,-192
+headache,-192
+fatigue,-192
+muscle aches,-192
+mild abdominal pain,-192
+diarrhea,-192
+vomiting,-192
+presented to hospital,0
+hypertension,0
+osteopenia,0
+perindopril/amlodipine,0
+cholecalciferol,0
+recent ex-smoker,0
+20 pack years,0
+no immunosuppression,0
+no chronic organ dysfunction,0
+no history of fungal colonization,0
+independent in activities of daily living,0
+fever 40°C,0
+respiratory rate 26/min,0
+pulse 80/min,0
+blood pressure 120/70 mmHg,0
+SpO2 89% on room air,0
+increased work of breathing,0
+bibasal coarse crepitations,0
+arterial blood gas pH 7.44,0
+PaO2 70 mmHg,0
+PaCO2 34 mmHg,0
+lactate 0.9 mmol/L,0
+WBC 5.3 × 10⁹/L,0
+neutrophil count 3.9 × 10⁹/L,0
+lymphocyte count 1.2 × 10⁹/L,0
+AST 52 U/L,0
+ALT 32 U/L,0
+GGT 61 U/L,0
+LDH 429 U/L,0
+normal renal function,0
+blood cultures isolated Facklamia hominis,0
+urine culture isolated Escherichia coli,0
+chest radiology with bilateral pulmonary opacities,0
+admitted to COVID-19 respiratory ward,0
+ceftriaxone 1g daily,0
+azithromycin 500mg daily,0
+supplemental oxygen,0
+enoxaparin sodium,0
+no COVID-19 specific therapy,0
+deteriorated rapidly,48
+progressive dyspnea,48
+increased oxygen requirement,48
+admitted to COVID-19 ICU,48
+temperature 39.5°C,48
+respiratory rate 40/min,48
+SpO2 91% on HFNP,48
+FiO2 40%,48
+no signs of heart failure,48
+normal biventricular function,48
+mild right ventricular dilatation,48
+arterial blood gas pH 7.46,48
+PaO2 59 mmHg,48
+PaCO2 31 mmHg,48
+moderate acute ARDS,48
+awake prone positioning,48
+no improvement in oxygenation,48
+elective endotracheal intubation,48
+mechanical ventilation,48
+lung-protective ventilation,48
+severe ARDS,48
+worsening respiratory function,192
+hypercapnea,192
+CRP 351 mg/L,192
+ALT 125 U/L,192
+AST 154 U/L,192
+GGT 611 U/L,192
+ALP 229 U/L,192
+ferritin 1295 μg/L,192
+D-dimer 0.99 mg/L,192
+fibrinogen 5.8 g/L,192
+chest radiology progression,192
+endotracheal aspirate sample,192
+piperacillin/tazobactam,192
+prone ventilation,192
+persistent SARS-CoV-2 RNA,192
+fungal elements on Gram stain,192
+Aspergillus fumigatus complex isolated,192
+three subsequent ETT cultures,192
+new onset fever,240
+progressive bilateral consolidation,240
+initiated voriconazole,240
+rapid clinical improvement,240
+radiological improvement,240
+fevers settled,264
+inflammatory markers improved,264
+liver function normalized,264
+voriconazole trough 2.72 mg/L,264
+extubated,336
+oral voriconazole 300mg twice daily,336
+discharged home,456
+negative SARS-CoV-2 PCR,456
+chest CECT on day+45,528
+bilateral organizing pneumonia,528
+fibrosis,528
+probable pulmonary embolism,528
+voriconazole ceased,528
+risk of drug interaction,528
+abnormal liver function,528
+voriconazole trough 3.6 mg/L,528
+no systemic features,528
+mild dry cough,528
+improved effort tolerance,528

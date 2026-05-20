@@ -1,0 +1,76 @@
+event,time
+49 years old,0
+male,0
+presented to emergency department,0
+worsening fever,-168
+cough,-168
+shortness of breath,-168
+febrile,0
+temperature 100.9°F,0
+tachycardic,0
+heart rate 94,0
+hypoxic,0
+SpO2 70% without oxygen,0
+chest X-ray patchy opacities,0
+nasal cannula oxygen 5 L/min,0
+SpO2 improved 92%-95%,0
+white blood cell count 11.3 ×10^9/L,0
+"lactate dehydrogenase 3,147 units/L",0
+C-reactive protein 265.9 mg/L,0
+"ferritin 1,760 ng/mL",0
+"D-dimer 124,802 ng/mL",0
+admitted for acute hypoxic respiratory failure,0
+suspected COVID-19,0
+SARS-CoV-2 RNA positive,0
+initial treatment ceftriaxone,0
+azithromycin,0
+enoxaparin,0
+dexamethasone,0
+remdesivir,0
+convalescent plasma therapy refused,0
+inflammatory markers increased,24
+tocilizumab started,24
+clinical picture improving,336
+acutely dyspneic,336
+nonrebreather mask 10-15 L/min,336
+chest X-ray right pneumothorax,336
+mediastinal shift,336
+CT-guided chest tube placement,336
+8.5-French pigtail catheter inserted,336
+low intermittent suction,336
+repeat chest X-ray persistent pneumothorax,336
+second 22-French chest tube placed,336
+chest X-ray mildly improved pneumothorax,336
+transferred to ICU,336
+antibiotic therapy broadened,336
+dexamethasone continued,336
+36-French chest tube placed,336
+CT chest air-filled bullous process,336
+bronchopulmonary fistula suspected,336
+intubated for respiratory failure,336
+cardiothoracic surgery consulted,336
+right thoracotomy recommended,336
+bronchopleural fistula repair,336
+pleurodesis,336
+large bronchopleural fistula,336
+necrotic empyema,336
+surgical repair,336
+resection,336
+specimens sent for pathology,336
+fungal process suspected,336
+mucormycosis suspected,336
+amphotericin B started,336
+hospitalized 21 days,504
+mechanical ventilation 7 days,504
+postoperative day 5,504
+succumbed to respiratory failure,504
+septic shock,504
+maximum vasopressors,504
+antimicrobial therapy,504
+bradycardia,504
+asystole,504
+Rhizopus species positive,840
+no significant past medical history,0
+denies nausea,0
+denies vomiting,0
+denies diarrhea,0

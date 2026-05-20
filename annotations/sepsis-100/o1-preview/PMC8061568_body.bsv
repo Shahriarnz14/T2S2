@@ -1,0 +1,118 @@
+diagnosed with mild COVID-19 illness | -1104
+sore throat | -1104
+loss of sense of smell | -1104
+positive COVID-19 PCR | -1104
+full recovery by resolution of symptoms | -960
+negative PCR | -960
+received first dose of inactivated SARS-CoV-2 vaccine | -840
+remained asymptomatic and well | -840
+received second dose of inactivated SARS-CoV-2 vaccine | -120
+started to experience headache | -118
+started to experience fatigue | -118
+started to develop fever | -96
+started to develop sore throat | -96
+started to develop abdominal pain | -96
+took ibuprofen | -48
+took one dose of an antibiotic | -48
+22 years old | 0
+male | 0
+presented to our emergency department | 0
+WBC count elevated at 15 x10 9/L | 0
+platelet count low at 122 x10 9/L | 0
+creatinine elevated at 115 mmol/L | 0
+AST elevated at 53 U/L | 0
+ALT elevated at 81 U/L | 0
+direct bilirubin elevated at 35 µmol/L | 0
+albumin low at 16 g/L | 0
+C-reactive protein elevated at 249 mg/L | 0
+ferritin elevated at 4357 ng/mL | 0
+D-dimer elevated at 14 mg/mL | 0
+procalcitonin elevated at 9 ng/mL | 0
+interleukin-6 elevated at 90 pg/mL | 0
+SARS-CoV-2 PCR negative | 0
+SARS-CoV-2 IgG strongly positive at 345 AU/mL | 0
+throat swab negative for group A streptococcus | 0
+sputum culture showed mixed flora | 0
+bacterial blood cultures were negative | 0
+urinalysis showed significant proteinuria of more than 300 µg | 0
+ANA, dsDNA, c-ANCA and p-ANCA titres were all negative | 0
+C3 and C4 were reduced | 0
+high-grade fever | 0
+myalgia | 0
+nausea | 0
+vomiting | 0
+diarrhoea | 0
+faint erythematous non-itchy rash over torso | 0
+dry irritant cough | 0
+no shortness of breath | 0
+no chest discomfort | 0
+no urinary symptoms | 0
+no pain or swelling of his joints | 0
+no history of recent travel | 0
+no sick contacts | 0
+no animal exposure | 0
+no consumption of raw dairy products | 0
+not on any chronic medications | 0
+no known allergies | 0
+non-smoker | 0
+did not use recreational drugs | 0
+temperature of 39°C | 0
+systolic blood pressure of 110 mmHg | 0
+tachycardia, 140 beats per minute | 0
+dry mucous membranes | 0
+congested throat | 0
+bilateral conjunctival injection | 0
+left conjunctival haemorrhage | 0
+generalised erythematous maculopapular rash | 0
+peripheral lymph nodes were not enlarged | 0
+no audible cardiac murmurs | 0
+chest clear to auscultation | 0
+abdomen examination unremarkable | 0
+admitted to intensive care unit | 2
+hypotension | 2
+treated empirically with ceftriaxone | 2
+treated empirically with levofloxacin | 2
+given intravenous hydrocortisone 100 mg two times per day | 2
+hydrocortisone was given for 2 days | 2
+blood pressure stabilised | 24
+developed facial puffiness | 24
+developed generalised body oedema | 24
+tachycardia persisted | 24
+diarrhoea persisted | 24
+anasarca | 24
+difficult to mobilise without the support of a walking frame | 24
+renal impairment with significant proteinuria | 24
+ECG showed sinus tachycardia with non-specific T-wave abnormalities | 24
+troponin-I was raised at 0.29 ng/mL | 24
+pro-BNP over 8000 pg/mL | 24
+transthoracic echocardiogram showed severe tricuspid regurgitation | 24
+pulmonary hypertension, PASP of 46 mm Hg | 24
+right atrium and ventricle were moderately dilated | 24
+left ventricle cavity size was normal with mildly reduced ejection fraction of 45% | 24
+thin rim of pericardial effusion | 24
+computed tomography scan of the chest was negative for pulmonary embolism | 24
+bilateral moderate pleural effusion | 24
+basal atelectasis | 24
+hydrocortisone was discontinued | 48
+shifted to the medical ward | 48
+high-level fever began to recur | 50
+all cultures came back negative | 168
+patient met criteria for multisystem inflammatory syndrome in adults | 168
+started therapy with intravenous steroids, dexamethasone 6 mg daily | 168
+dexamethasone was continued for 8 days | 168
+condition improved markedly after initiation of dexamethasone | 184
+generalised oedema subsided | 184
+skin rash resolved | 184
+conjunctivitis resolved | 184
+white blood cell count normalised | 184
+renal function including albuminuria improved | 184
+inflammatory markers came down to normal levels | 184
+repeat transthoracic echocardiography showed trace tricuspid regurgitation | 192
+marked improvement in right ventricular systolic function | 192
+pulmonary artery systolic pressure normalised | 192
+switched to oral prednisolone | 192
+discharged home | 200
+tapering dose of prednisolone over a period of 2 weeks | 200
+seen in the outpatient clinic 2 weeks following discharge from the hospital | 536
+patient’s symptoms resolved although some general weakness and fatigue | 536
+repeat echocardiogram was completely normal | 536

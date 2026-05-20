@@ -1,0 +1,106 @@
+event,time
+29 years old,0
+male,0
+admitted to the hospital,0
+biventricular failure,-720
+ejection fraction 5-10%,-720
+myopericarditis,-720
+constrictive physiology,-720
+peripherally inserted central catheter (PICC) line placed,-720
+discharged on milrinone,-720
+fever,-24
+chills,-24
+septic shock,0
+PICC line removed,0
+IV vancomycin,0
+piperacillin/tazobactam,0
+vasopressor support,0
+Chryseobacterium indologenes grew from PICC line,48
+Chryseobacterium indologenes grew from peripheral blood cultures,48
+antibiotics changed to ciprofloxacin,48
+piperacillin/tazobactam,48
+weaned off vasopressor support,48
+pericardiectomy,240
+completed 14 days of antibiotics,336
+discharged from the hospital,336
+off inotropes,336
+stable vital signs,336
+stable labs,336
+seen in outpatient cardiology clinic,744
+remains in good health,744
+no evidence of recurrent infection,744
+cardiogenic shock,-720
+atrial flutter,-720
+radiofrequency ablation,-720
+inotrope therapy,-720
+home milrinone infusion,-720
+elective pericardiectomy,-24
+fever of 38.7°C,-24
+tachycardia,-24
+heart rate in the 110s,-24
+blood pressure of 96/57 mmHg,-24
+heart tachycardic,-24
+normal rhythm,-24
+no murmurs,-24
+no rubs,-24
+no gallops,-24
+no signs of elevated jugular venous pressure,-24
+no lower extremity oedema,-24
+bilateral radial and dorsalis pedis pulses equal,-24
+lungs clear to auscultation,-24
+normal work of breathing,-24
+no redness or drainage around PICC line,-24
+chest X-ray showed no abnormalities,-24
+sinus tachycardia,-24
+normal axis,-24
+RSR′ pattern in V1,-24
+QRS duration of 90 ms,-24
+non-specific T wave flattening,-24
+febrile to 39.5°C,0
+severe rigours,0
+hypotension,0
+elevated lactate level of 5.5 mmol/L,0
+blood cultures drawn,0
+empiric vancomycin,0
+transferred to cardiac intensive care unit,0
+Gram-negative rods,48
+Chryseobacterium indologenes,48
+ciprofloxacin,48
+susceptibility testing,48
+sensitive to ciprofloxacin,48
+sensitive to piperacillin,48
+sensitive to trimethoprim/sulfamethoxazole,48
+resistant to meropenem,48
+improved clinically,48
+remained afebrile,48
+follow-up blood cultures remained negative,168
+interval echocardiogram,240
+dilated and hypertrophied left ventricle,240
+diastolic septal bounce,240
+constrictive pericarditis,240
+ejection fraction of 30-35%,240
+right ventricle dilated,240
+reduced systolic function,240
+no evidence of valvular stenosis,240
+no evidence of valvular regurgitation,240
+no evidence of vegetations,240
+simultaneous right and left heart catheterization,240
+discordance of right and left ventricular pressures,240
+diastolic equalization of pressures,240
+dense areas of adhesions,240
+calcium laterally and towards the apex of the heart,240
+adhesions taken down,240
+complete removal of pericardium,240
+follow-up transthoracic echocardiogram,288
+left ventricular ejection fraction increased to 50-55%,288
+right ventricular systolic dysfunction improved,288
+discharged following completion of antibiotic course,336
+inotrope independent,336
+guideline-directed medical therapy for heart failure,336
+furosemide,336
+metoprolol succinate,336
+sacubitril-valsartan,336
+follow-up with outpatient cardiologist,744
+great improvement in functional status,744
+denies symptoms of heart failure,744
+NYHA Class I,744

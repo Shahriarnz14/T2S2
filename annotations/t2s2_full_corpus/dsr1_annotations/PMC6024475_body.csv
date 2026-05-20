@@ -1,0 +1,82 @@
+event,time
+56 years old,0\
+male,0\
+"resident of Hangzhou, Zhejiang Province, China",0\
+intermittent headache,-72\
+fever,-72\
+transsphenoidal pituitary adenoma resection,-26280 (3 years ago)\
+gamma knife stereo-radiosurgery,-26280 (3 years ago)\
+gamma knife stereo-radiosurgery,-8760 (1 year ago)\
+no history of CSF leakage,0\
+no chronic illness,0\
+no alcohol abuse,0\
+no drug abuse,0\
+no recent travel,0\
+no tick bites,0\
+no contact with sick,0\
+body temperature 38.2°C,0\
+heart rate 85 bpm,0\
+blood pressure 125/78 mm Hg,0\
+respiratory rate 18 breaths/min,0\
+doubtful neck resistance,0\
+right pupil slightly larger,0\
+asthenocoria from oculomotor nerve injury,0\
+WBC count 10.12×10^9/L,0\
+neutrophil ratio 59.9%,0\
+CRP 12.9 mg/L,0\
+blood glucose 6.63 mmol/L,0\
+increased D-dimer 860 μg/L,0\
+normal serum pituitary hormone tests,0\
+normal ECG,0\
+normal chest CT scan,0\
+normal abdominal ultrasonography,0\
+residual pituitary adenoma 25mm×24mm,0\
+suspicious hemorrhage in sellar region,0\
+acute residual tumor hemorrhage diagnosis,0\
+dehydration therapy,0\
+hemostasis therapy,0\
+progressive headache,3\
+sudden loss of left eye vision,3\
+loss of consciousness,3\
+cardiac arrest,3\
+CPR performed,3\
+spontaneous heartbeat recovered,3\
+head CT scan,3\
+MR,3\
+MRV,3\
+no cerebral infarction,3\
+no venous sinus thrombosis,3\
+inhomogeneous CSF signal at cisterna magna,3\
+mechanical ventilation,3\
+endotracheal intubation,3\
+transferred to ICU,3\
+no improvement,24\
+pupils dilated 4mm,24\
+no light reflex,24\
+GCS score 1+1+1,24\
+body temperature 37.6°C,24\
+unstable blood pressure,24\
+unstable hemodynamic,24\
+lumbar puncture,24\
+intracranial pressure 400 mm H2O,24\
+CSF yellow and thick,24\
+CSF WBC 2520/μL,24\
+neutrophils 90%,24\
+CSF RBC 34000/μL,24\
+CSF protein 2570 mg/L,24\
+CSF glucose 0.03 mmol/L,24\
+CSF chloride 112.7 mmol/L,24\
+lateral ventricular drainage,24\
+purulent meningitis diagnosis,24\
+septic shock diagnosis,24\
+daptomycin,24\
+linezolid,24\
+voriconazole,24\
+K. pneumoniae in blood culture,24\
+K. pneumoniae in CSF culture,24\
+meropenem,48\
+vancomycin,48\
+refused lateral ventricular drainage,48\
+refused bilateral ventricular irrigation,48\
+deteriorated vital signs,48\
+died of cardiac arrest,48

@@ -1,0 +1,100 @@
+event,time
+right upper quadrant pain ,-168
+abdominal fullness ,-168
+abdominal distention ,-168
+admission ,0
+afebrile ,0
+pulse rate of 80 beats/minute ,0
+blood pressure of 118/73 mmHg ,0
+respiratory rate of 26 breaths/minute ,0
+leukocyte count of 16.4×10^9/L ,0
+haemoglobin level of 85 g/L ,0
+platelet count of 240×10^9/L ,0
+procalcitonin level of 2.3 ng/mL ,0
+plasma fibrinogen level of 7.48 g/L ,0
+serum glutamic oxalacetic transaminase level of 67 U/L ,0
+glutamic-pyruvic transaminase level of 83 U/L ,0
+cholinesterase level of 1360 U/L ,0
+total protein level of 50.8 g/L ,0
+albumin level of 21.5 g/L ,0
+blood urea nitrogen level of 10.8 mmol/L ,0
+creatinine level of 51.3 umol/L ,0
+negative for HIV ,0
+negative for syphilis ,0
+abdominal distension ,48
+mild bellyache ,48
+extreme thirst ,48
+right abdominal tenderness ,48
+temperature of 36.8 °C ,48
+drainage catheter yield of 150 mL of fulvous fluid ,48
+abdominal and pelvic computed tomography (CT) scan ,48
+"irregular, slightly low-density lesion in the right posterior hepatic lobe ",48
+gas density shadow inside the liver ,48
+liquid density shadow and high-density drainage tube shadow around the lower margin of liver ,48
+round-like low-density lesion in the right lobe of the liver ,48
+appendix thickened to about 20 mm in diameter ,48
+structure of the ascending colon near the ileocecal region became disorganised ,48
+multiple gas accumulation and dilation in the bowel ,48
+air-fluid levels inside the abdomen ,48
+hepatic abscesses ,48
+ileus ,48
+mild ascites ,48
+appendicitis ,48
+liver cyst ,48
+abdominal infection ,48
+peritonitis ,48
+pre-shock ,72
+insufficient blood pressure of 93/59 mmHg ,72
+exploratory laparotomy ,72
+fulvous purulent exudate and necrotic tissue in the extraperitoneal space and abdominal cavity ,72
+partial postnecrotic defect in the peritoneum ,72
+massive epiploon adhesion in the right upper abdomen ,72
+two perforations ,72
+ileocecal resection ,72
+partial resection of the ascending colon ,72
+ileostomy ,72
+"drainage of hepatic, abdominal and extraperitoneal abscesses ",72
+orotracheal intubation ,96
+hypotension ,96
+anemia ,96
+fever ,96
+transfer to the intensive care unit (ICU) ,96
+noradrenaline ,96
+ventilator ,96
+intravenous hydration ,96
+nutritional support therapy ,96
+blood transfusion ,96
+intravenous tigecycline and piperacillin/tazobactam ,96
+temperature of 39.3°C ,120
+pulse rate of 130 beats/minute ,120
+leukocyte count of 35.9×10^9 cells/L ,120
+procalcitonin level of 8.15 ng/mL ,120
+C-reactive protein level of 174 mg/L ,120
+anaerobic blood culture positive ,144
+Gram stain revealed short Gram-positive bacillus without spores ,144
+E. lenta identified by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) ,144
+plasma fibrinogen fell to 1.0 g/L ,168
+tigecycline replaced by teicoplanin ,168
+piperacillin/tazobactam discontinued ,168
+ertapenem added to teicoplanin ,168
+cultures of the drainage fluid obtained ,168
+Escherichia coli isolated ,168
+ertapenem and teicoplanin ,168
+fever improved ,192
+leukocytosis improved ,192
+procalcitonin level improved ,192
+C-reactive protein level improved ,192
+transfer to the general ward ,216
+ertapenem and teicoplanin for another 14 days ,216
+debridement ,216
+dressing change ,216
+symptomatic supportive treatment ,216
+repeat CT scan ,240
+size of the hepatic abscess decreased ,240
+amount of ascites decreased ,240
+intravenous ertapenem and teicoplanin for another 7-day course ,288
+symptoms alleviated ,288
+discharged from the hospital ,288
+oral antibiotics (clindamycin) ,288
+no recurrence of fever ,336
+complete resolution of the abscess ,336

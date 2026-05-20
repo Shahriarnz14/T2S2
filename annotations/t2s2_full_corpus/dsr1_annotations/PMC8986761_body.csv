@@ -1,0 +1,71 @@
+event,time
+7-day-old female,0
+newborn,0
+admitted to the Department of Neonatology,0
+poor feeding,-24
+bloody stools,-24
+term delivery,-168
+cesarean section,-168
+scarred uterus in the mother,-168
+birth weight 3300g,-168
+uncomplicated antenatal period,-168
+no history of maternal infections,-168
+well till 6th day of life,-24
+loss of consciousness,-18
+transported to NICU,-18
+temperature 35.6°C,0
+heart rate 170 beats per minute,0
+respiratory rate 65 times per minute,0
+capillary refill time >3 seconds,0
+blood pressure 35/23mmHg,0
+unresponsive,0
+dry mucous membranes,0
+diminished pulses,0
+mottled cold extremities,0
+decreased urine output <1 mL/kg/h,0
+abdominal distention,0
+no abdominal wall cellulitis,0
+WBC 38.51×10^9/L,0
+polymorphonuclear cells 49%,0
+lymphocytes 38.8%,0
+monocytes 12.2%,0
+hemoglobin 14.6g/dL,0
+platelet count 279×10^9/L,0
+C-reactive protein 37mg/L,0
+normal coagulation on admission,0
+NEC confirmed,0
+abdominal X-ray showing pneumatosis intestinalis,0
+CT scan showing portal venous gas,0
+ascitic fluid WBC 2815×10^6/L,6
+ascitic fluid polymorphonuclear cells 56%,6
+ascitic fluid lymphocytes 15%,6
+ascitic fluid monocytes/macrophages 29%,6
+ascitic fluid RBC 55×10^6/L,6
+negative blood culture,0
+negative fecal culture,0
+normal saline administered,0
+dopamine administered,0
+"empiric antibiotics (ceftazidime, penicillin G sodium)",0
+deterioration despite antibiotics,0
+increased abdominal distension,2
+soy sauce-colored urine,2
+jaundice,2
+hemoglobin decreased to 5.1g/dL,2
+negative DAT,2
+negative acid elution,2
+RBC transfusion 60mL,2
+blood potassium 8.7mmol/L,2
+premature ventricular contractions,2
+CRRT initiated,2
+antibiotics switched to vancomycin and meropenem,2
+antibiotics for meningitis administered,2
+abnormal repeated coagulation tests,13
+prothrombin time >180 sec,13
+activated partial thromboplastin time >120 sec,13
+increased fibrin degradation products,13
+increased D-Dimer,13
+DIC,13
+metagenomic NGS positive for C. perfringens,13
+explorative laparotomy not performed,13
+multi-organ failure,18
+death,48

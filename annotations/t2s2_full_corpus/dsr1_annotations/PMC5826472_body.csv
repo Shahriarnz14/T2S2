@@ -1,0 +1,81 @@
+event,time
+50 years old,0
+male,0
+presented to the emergency department,0
+unsteady gait,-72
+weakness,-72
+somnolence,-72
+systolic heart failure,0
+ejection fraction of 21%,0
+remote orthotopic liver transplantation,0
+alcohol-induced cirrhosis,0
+hepatitis C-induced cirrhosis,0
+acute renal failure,0
+hemodialysis,0
+nonadherence to immunosuppressant medications,-2920
+tacrolimus,-2920
+everolimus,-2920
+creatinine of 6.1 mg/dL,0
+blood urea nitrogen of 23 mg/dL,0
+prothrombin time of 15.9 seconds,0
+partial thromboplastin time of 35 seconds,0
+international normalized ratio of 1.5,0
+leukocytosis of 13.4 ×10^9/L,0
+diagnostic paracentesis,0
+therapeutic paracentesis,0
+bloody ascitic fluid,0
+no spontaneous bacterial peritonitis,0
+concern for sepsis,0
+started on vancomycin,0
+started on piperacillin/tazobactam,0
+hypotensive to 73/35 mmHg,24
+hemoglobin dropped from 7.4 to 5.6 gm/dL,24
+received 3 units packed red blood cells,24
+received 1 L Ringer's lactate,24
+received 75 g albumin,24
+received 1 unit fresh frozen plasma,24
+hemoglobin improved to 7.1 mg/dL,24
+hemodynamics normalized,24
+no vasopressors initiated,24
+computed tomography abdomen pelvis with contrast,24
+intraperitoneal active extravasation,24
+injury to right inferior epigastric artery,24
+injury to intercostal artery,24
+taken to interventional radiology,48
+right common femoral artery accessed,48
+5Fr sheath placed,48
+Mikaelson catheter used,48
+right 10th intercostal artery selected,48
+right 11th intercostal artery selected,48
+right 12th intercostal artery selected,48
+arteriograms performed,48
+11th intercostal artery irregularity,48
+12th intercostal artery irregularity,48
+embolization with gelatin foam slurry,48
+occlusion of vessels,48
+hemoglobin decreased to 5.6 gm/dL,72
+repeat computed tomography abdomen pelvis,72
+persistent arterial extravasation,72
+received 3 units packed red blood cells,72
+received 1 unit platelets,72
+received 2 units fresh frozen plasma,72
+received prothrombin complex concentrate,72
+no vasopressors initiated,72
+conservative management,72
+high risk for surgical intervention,72
+endovascular success unlikely,72
+Doppler ultrasound evaluation,96
+color jet in peritoneum,96
+vessel not traced proximally or distally,96
+percutaneous thrombin injection,96
+3000-3500 U thrombin injected,96
+vascular jet ceased,96
+hemoglobin stabilized,96
+hemodynamics improved,96
+persistent leukocytosis,120
+no systemic inflammatory response syndrome,120
+no identified infection source,120
+continued on vancomycin,120
+continued on piperacillin/tazobactam,120
+restarted immunosuppressants,120
+transferred to outside hospital,120

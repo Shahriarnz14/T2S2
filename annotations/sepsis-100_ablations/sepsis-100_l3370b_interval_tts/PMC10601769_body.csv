@@ -1,0 +1,88 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+stage IIIA lung cancer,-648
+smoking history,-648
+hypertension,-648
+hypothyroidism,-648
+dyslipidemia,-648
+spiculated suprahilar RUL nodule,-648
+lung-RADS 4X,-648
+PET/CT scan,-648
+bronchoscopy,-648
+NSCLC,-648
+adenocarcinoma,-648
+lymph node sampling,-648
+surgical resection,-648
+carboplatin,-216
+paclitaxel,-216
+radiation therapy,-216
+CT scan,-120
+adjuvant immunotherapy,-84
+durvalumab,-84
+pneumonitis,-56
+steroid taper,-56
+staging chest CT,-28
+RUL mass increase,-28
+follow-up chest CT,0
+abdominal pain,0
+pancreatic head lesion,0
+abdominal and pelvic CT scan,0
+constipation,0
+loss of appetite,0
+weight loss,0
+epigastric pain,0
+endoscopic ultra-sound-guided biopsy,0
+pancreatic mass,0
+tumor cells,0
+CK7,0
+TTF-1,0
+Napsin-A,0
+CDX-2,0
+KOC,0
+synaptophysin,0
+Smad-4,0
+lung adenocarcinoma,0
+metastasized to the pancreas,0
+liver enzymes,0
+AST,0
+ALT,0
+ALP,0
+total bilirubin,0
+direct bilirubin,0
+CA 19.9,0
+PET/CT scan,24
+brain MRI scan,24
+palliative radiation therapy,168
+carboplatin,168
+pemetrexed,168
+chemotherapy,168
+generalized weakness,168
+dyspnea,168
+electrolyte derangements,168
+acute anemia,168
+hemoglobin nadir,168
+transfusion,168
+CT scan of the chest,168
+new left lower lobe nodule,168
+staging PET/CT scan,240
+metabolic activity,240
+treatment continuation,240
+pulmonology clinic,288
+rapid response,288
+oxygen supplementation,288
+bilevel-positive airway pressure,288
+broad-spectrum antibiotics,288
+vancomycin,288
+azithromycin,288
+cefepime,288
+acute hypoxic respiratory failure,288
+sepsis,288
+pneumonia,288
+altered mentation,288
+worsening hypoxemia,288
+vasopressor support,288
+palliative medicine team,288
+inpatient hospice care,288
+death,288

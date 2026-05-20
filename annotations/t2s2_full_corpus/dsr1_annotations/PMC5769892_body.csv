@@ -1,0 +1,100 @@
+event,time
+66 years old,0
+male,0
+admitted to the Dermatology Clinic,0
+rash,-48
+erythemato-violaceous macules,-48
+papules,-48
+purpuric macules,-48
+purpuric papules,-48
+itchy rash,-48
+postblister erosions,-48
+oral mucosa erosions,-48
+nasal mucosa erosions,-48
+genital mucosa erosions,-48
+deep fissures,-48
+haematic crusts,-48
+painful burning sensations,-48
+prodromal flu-like symptoms,-48
+fever,-48
+fatigue,-48
+malaise,-48
+diabetes mellitus type II,0
+chronic kidney disease Stage 5,0
+chronic haemodialysis,0
+obstructive nephropathy,0
+right nephrostomy,0
+secondary renal hypertension,0
+mixed decompensated toxic cirrhosis,0
+hepatic encephalopathy,0
+insulin,0
+amlodipine,0
+carbamazepine,0
+erythemato-papulous rash,-48
+face rash,-48
+hand rash,-48
+foot rash,-48
+purpuric elements,-24
+flaccid blisters,-24
+large areas of denudation,-24
+drug-induced allergic vasculitis,-24
+malaise,0
+itchy rash,0
+erythemato-violaceous macules,0
+purpuric macules,0
+purpuric papules,0
+trunk rash,0
+upper limb rash,0
+lower limb rash,0
+cephalic extremity rash,0
+flaccid blisters,0
+erosions,0
+denudation over 10% BSA,0
+oral mucosa erosions,0
+nasal mucosa erosions,0
+genital mucosa erosions,0
+yellow-white exudates,0
+balano-preputial folding,0
+high blood pressure,0
+ascites,0
+collateral venous circulation,0
+marked anemia,0
+leukocytosis,0
+neutrophilia,0
+thrombocytopenia,0
+inflammatory syndrome,0
+elevated ASLO titer,0
+elevated IgE,0
+nitrogen retention syndrome,0
+elevated blood sugar levels,0
+hydro-electrolyte imbalance,0
+hypokalemia,0
+abnormal liver function,0
+bacterial supra-infection,0
+Klebsiella pneumoniae,0
+toxic epidermal necrolysis,0
+severe kidney disease,0
+vascular decompensated cirrhosis,0
+complicated diabetes mellitus type II,0
+drug reaction syndrome,0
+pulse-therapy with corticosteroid,0
+topical corticosteroids,0
+topical antiseptics,0
+topical antibiotics,0
+hydro-electrolyte rebalancing,0
+high blood sugar values,24
+worsened nitrogenous retention,24
+low alkaline reserve,24
+hyponatremia,24
+hypokalemia,24
+upper gastrointestinal hemorrhage,24
+transferred to ICU,24
+reduction in corticosteroids,72
+discontinuation of systemic corticosteroid,240
+blood glucose levels returning to normal,240
+resumption of dialysis,240
+electrolyte rebalancing,240
+normalization of renal function,240
+acid-basic balance normalization,240
+discharged,360
+stop carbamazepine,360

@@ -1,0 +1,68 @@
+event,time
+28 years old,0
+male,0
+fatigue,-168
+anosmia,-168
+dyspnea for progressively shorter efforts,-168
+SpO2 levels 55%,-168
+nasal cannula oxygen therapy,-168
+SpO2 levels improved to 75%,-168
+hospitalized,0
+chest radiography,0
+bilateral lung infiltrates,0
+RT-PCR positive for SARS-CoV-2,0
+admitted to COVID-19 infirmary unit,0
+non-invasive ventilation support,0
+non-invasive ventilation unsuccessful,0
+intubation,0
+invasive mechanical ventilation,0
+ventral decubitus positioning,0
+Escherichia coli detected on sputum culture,48
+methicillin-sensitive Staphylococcus aureus detected on sputum culture,48
+confirmed superinfection,48
+amoxicillin prescribed,48
+methicillin-resistant Staphylococcus aureus detected on blood culture,48
+methicillin-resistant Staphylococcus aureus dismissed,48
+steady clinical improvement,72
+extubated,72
+discharged,72
+retrosternal thoracalgia,240
+left upper limb pain,240
+abduction limited,240
+external rotation limited,240
+soft tissue swelling of shoulder,240
+soft tissue swelling of arm,240
+fever,240
+increased C-reactive protein,240
+hemoculture negative,240
+urine culture negative,240
+chest radiograph,240
+thoracic CT,240
+admitted for investigation,240
+gentamicin prescribed,240
+gentamicin administered,240
+thoracic CT with contrast,432
+scapulohumeral synovitis (left),432
+intramuscular collections (left),432
+glenohumeral joint continuity (left),432
+scapulohumeral synovitis (right),432
+joint fluid (right),432
+bilateral shoulder MRI,528
+infraspinatus fossa collections (left),528
+subscapular fossa collections (left),528
+glenohumeral joint communication (left),528
+capsular thickening (left),528
+increased post-gadolinium signal (left),528
+infraspinatus muscle heterogeneity (right),528
+enhancement (right),528
+suggestive of septic arthritis,528
+rotator cuff collections,528
+myonecrosis,528
+aspiration of infraspinatus fossa collection,528
+seropurulent fluid,528
+drainage catheter placed,528
+drainage catheter removed,552
+improvement of left shoulder range of motion,552
+transferred to another hospital,552
+physical therapy indicated,552
+rehabilitation exercises indicated,552

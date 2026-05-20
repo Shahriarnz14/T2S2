@@ -1,0 +1,97 @@
+event,time
+34 years old,0
+man,0
+transferred to intensive care unit,0
+pulmonary hemorrhage,0
+septic shock,0
+admitted to local hospital,-24
+acute dyspnea,-24
+hemoptysis,-24
+fatigue,-168
+back pain,-168
+abdominal pain,-168
+nausea,-168
+vomiting,-168
+temperature 35.9 °C,-24
+systolic blood pressure 70 mmHg,-24
+heart rate 100 beats per minute,-24
+respiratory rate 19 breaths per minute,-24
+oxygen saturation 60%,-24
+jaundice,-24
+hemoptysis,-24
+abdominal pain over right upper quadrant,-24
+chest auscultation ubiquitous coarse crackles,-24
+chest X-ray bilateral patchy infiltrates,-24
+mild normochromic normocytic anemia,-24
+hemoglobin 13.0 g/dL,-24
+bilirubin 8.45 mg/dL,-24
+severe thrombocytopenia 20 × 109/L,-24
+acute renal failure,-24
+creatinine 4.9 mg/dL,-24
+leukocytosis 31 × 109/L,-24
+elevated C-reactive protein,-24
+elevated procalcitonin,-24
+community acquired pneumonia,-24
+sepsis,-24
+blood cultures obtained,-24
+empiric antimicrobial therapy,-24
+piperacillin/tazobactam,-24
+ciprofloxacin,-24
+hypoxia aggravated,-24
+non-invasive ventilation,-24
+endotracheal intubation,-16
+mechanical ventilation,-16
+extracorporeal membrane oxygenation (ECMO),-16
+ECMO implanted,-16
+transferred to tertiary referral hospital,0
+combined metabolic acidosis,0
+respiratory acidosis,0
+hypoxemia,0
+CT-scan confluent infiltrates,0
+severe ARDS,0
+bronchoscopy diffuse alveolar hemorrhage,0
+hemoptysis,0
+intravascular hemolysis,0
+hemoglobin drop 13.0 g/dL to 5.9 g/dL,0
+reduced haptoglobin,0
+increased lactate dehydrogenase,0
+coagulation compromised,0
+fibrinogen below 30 mg/dL,0
+10 packed red blood cells transfused,0
+12 g fibrinogen transfused,0
+hemoglobin stabilized at 7.0 g/dL,0
+urinalysis muddy-brown casts,0
+urinalysis acanthocytes,0
+hyperkalemia,0
+continuous venovenous renal replacement therapy,0
+citrate anticoagulation,0
+gastrointestinal symptoms,-168
+plasmapheresis,0
+hemolytic uremic syndrome suspected,0
+volume therapy 13 L,0
+2250 mL 8.4% sodium bicarbonate,0
+10 packed red blood cells,0
+conventional therapy failed,0
+extracorporeal cytokine absorbent filter,0
+1000 mg prednisolone,0
+died,17
+fulminant multi-organ failure,17
+17 hours after admission to our hospital,17
+29 hours after initial presentation,17
+fibrin monomers negative,0
+disseminated intravascular coagulation excluded,0
+anti-glomerular basement antibodies negative,0
+Goodpasture syndrome excluded,0
+anti-nuclear antibodies negative,0
+anti-neutrophil cytoplasmic antibodies negative,0
+autoimmune disease excluded,0
+peripheral blood smear 6–8% schistocytes,0
+ADAMTS-13 activity 35%,0
+thrombotic thrombocytopenic purpura excluded,0
+LipL32-PCR positive Leptospira interrogans DNA,8
+blood cultures sterile,0
+urine sterile,0
+bronchoalveolar lavage sterile,0
+Leptospirosis diagnosed post-mortem,17
+pet rat transmission,-672
+Leptospira interrogans serovar icterohaemorrhagiae strain 17 in rat kidney,-672

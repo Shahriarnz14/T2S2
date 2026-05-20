@@ -1,0 +1,106 @@
+event,time
+22 years old,0
+male,0
+admitted to the hospital,0
+mild COVID-19 illness,-720
+sore throat,-720
+loss of sense of smell,-720
+positive COVID-19 PCR,-720
+recovery from COVID-19,-720
+received first dose of inactivated SARS-CoV-2 vaccine,-336
+asymptomatic,-336
+received second dose of inactivated SARS-CoV-2 vaccine,-24
+headache,-24
+fatigue,-24
+fever,0
+sore throat,0
+abdominal pain,0
+high-grade fever,96
+myalgia,96
+nausea,96
+vomiting,96
+diarrhea,96
+faint erythematous non-itchy rash,96
+dry irritant cough,96
+no shortness of breath,96
+no chest discomfort,96
+no urinary symptoms,96
+no pain or swelling of joints,96
+temperature of 39°C,0
+systolic blood pressure of 110 mm Hg,0
+tachycardia,0
+dry mucous membranes,0
+congested throat,0
+bilateral conjunctival injection,0
+left conjunctival hemorrhage,0
+generalised erythematous maculopapular rash,0
+peripheral lymph nodes not enlarged,0
+no audible cardiac murmurs,0
+chest clear to auscultation,0
+abdomen examination unremarkable,0
+SARS-CoV-2 PCR negative,0
+SARS-CoV-2 IgG positive,0
+throat swab negative for group A streptococcus,0
+sputum culture showed mixed flora,0
+bacterial blood cultures negative,0
+urinalysis showed significant proteinuria,0
+ANA negative,0
+dsDNA negative,0
+c-ANCA negative,0
+p-ANCA negative,0
+C3 reduced,0
+C4 reduced,0
+WBC 15,0
+platelet 122,0
+creatinine 115,0
+AST 53,0
+ALT 81,0
+direct bilirubin 35,0
+albumin 16,0
+C reactive protein 249,0
+ferritin 4357,0
+D-dimer 14,0
+procalcitonin 9,0
+interleukin-6 90,0
+admitted to ICU,0
+treated with ceftriaxone,0
+treated with levofloxacin,0
+treated with intravenous hydrocortisone,0
+blood pressure stabilised,48
+fever persisted,48
+facial puffiness,48
+generalised body oedema,48
+tachycardia persisted,48
+diarrhea persisted,48
+myalgia,48
+renal impairment,48
+significant proteinuria,48
+ECG showed sinus tachycardia,48
+non-specific T-wave abnormalities,48
+troponin-I raised,48
+pro-BNP over 8000,48
+transthoracic echocardiogram showed severe tricuspid regurgitation,48
+pulmonary hypertension,48
+right atrium and ventricle moderately dilated,48
+left ventricle cavity size normal,48
+mildly reduced ejection fraction,48
+thin rim of pericardial effusion,48
+computed topography scan of chest showed bilateral moderate pleural effusion,48
+basal atelectasis,48
+discharged from ICU,168
+treated with dexamethasone,168
+generalised oedema subsided,168
+skin rash resolved,168
+conjunctivitis resolved,168
+white blood cell count normalised,168
+renal function improved,168
+inflammatory markers came down to normal levels,168
+repeat transthoracic echocardiography showed trace tricuspid regurgitation,216
+right ventricular systolic function improved,216
+pulmonary artery systolic pressure normalised,216
+discharged from hospital,216
+treated with oral prednisolone,216
+follow-up in outpatient clinic,240
+symptoms resolved,240
+general weakness and fatigue,240
+repeat echocardiogram completely normal,240

@@ -1,0 +1,80 @@
+event,time
+27 year-old male,0\
+fell from 4m height,-4500\
+U shaped projecting up metallic bar,-4500\
+metallic bar penetrated left side of pelvis,-4500\
+bar trajectory toward right femur through pelvic cavity,-4500\
+bystanders lifted patient,-4500\
+impaling metallic bar left in place,-4500\
+EMS arrived,-75\
+hemodynamically stable,-75\
+severe pain,-75\
+deformed right lower extremity,-75\
+EMS staff evaluated and stabilized,-75\
+transported to tertiary hospital,-75\
+arrival to tertiary hospital,0\
+airway patent,0\
+bilateral good air entry,0\
+blood pressure 110/70,0\
+pulse rate 98,0\
+respiratory rate 12,0\
+temperature 36.9°C,0\
+oxygen saturation 99% on room air,0\
+Glasgow coma scale 15,0\
+metallic bar penetrating left pelvis without active external bleeding,0\
+initial evaluation and management per ATLS protocol,0\
+FAST inconclusive,0\
+deformity of right thigh,0\
+distal pulses intact,0\
+rectal examination negative for blood,0\
+rectal examination negative for masses,0\
+rectal examination negative for foreign body,0\
+prophylactic antibiotic given,0\
+tetanus toxoid given,0\
+pelvic X-ray showed right femur fracture,0\
+abdominal X-ray showed right femur fracture,0\
+protruded metal bar cut using heavy metal cutter,0\
+CT scan abdomen and pelvis performed,0\
+metallic bar entered left pelvis without exit site,0\
+comminuted fracture of left iliac bone supra-acetabular region,0\
+overlying hematoma,0\
+surgical emphysema in soft tissue extending to left psoas muscle,0\
+bar passed through junction of descending and sigmoid colon,0\
+extravasation of rectally administered contrast,0\
+large amount of free air in upper abdomen,0\
+soft tissue contusions behind rectus muscle,0\
+small metal density fragment anterior to right rectus muscle,0\
+transferred to operating room,0\
+exploratory laparotomy performed,0\
+metallic bar pulled out under vision,0\
+injury of sigmoid colon with minimal contamination,0\
+repair of sigmoid colon with 3-0 Vicryl sutures,0\
+thorough irrigation performed,0\
+systematic exploration of abdomen,0\
+abdomen closed,0\
+orthopedic team performed intramedullary nailing for fractured femur,0\
+day 4 post-operative,96\
+fever,96\
+tachycardia,96\
+tachypnea,96\
+desaturation,96\
+low WBC count,96\
+intubated,96\
+admitted to ICU,96\
+broad spectrum antibiotic started,96\
+chest CT scan performed,96\
+abdominal CT scan performed,96\
+CT scan unremarkable,96\
+blood culture showed methicillin sensitive Staphylococcus aureus bacteremia,96\
+condition improved,144\
+extubated,144\
+transferred back to ward,168\
+four days later in ward,264\
+abdominal wound infection,264\
+pus collection,264\
+drainage performed,264\
+bacteriology testing,264\
+culture positive for Escherichia Coli,264\
+antibiotic changed per sensitivity,264\
+wound managed and closed within week,336\
+discharged home in good health,408

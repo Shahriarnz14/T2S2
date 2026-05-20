@@ -1,0 +1,89 @@
+event,time
+43 years old,0
+male,0
+admitted to the Emergency Department,0
+fever,-48
+sneezing,-48
+fatigue,-48
+sore throat,-48
+dry cough,-48
+no dyspnea,-48
+mild cognitive impairment since birth,0
+arterial hypertension,0
+systemic lupus erythematosus,0
+lupus nephritis,0
+mycophenolate,0
+prednisone,0
+negative family history for cancer,0
+negative family history for endocrinopathy,0
+negative family history for inflammatory diseases,0
+fever (38°C),0
+oxygen saturation 94%,0
+respiratory rate 18 breaths/min,0
+decreased breath sounds,0
+coarse crackles in both lung bases,0
+white blood cell count 7110/μL,0
+mild lymphocytopenia 650/μL,0
+D-dimer 0.73 μg/mL,0
+C-reactive protein 62 mg/L,0
+PCT 94 ng/mL,0
+normal hemoglobin,0
+normal platelets,0
+normal serum electrolytes,0
+normal creatinine,0
+normal liver function tests,0
+arterial blood gas pH 7.44,0
+pO2 75 mm Hg,0
+pCO2 37 mm Hg,0
+SARS-CoV-2 RNA positive,0
+bilateral ground-glass opacities on chest CT,0
+hyperdense and irregular foci in thoracic vertebral bodies,0
+admitted to coronavirus disease 2019 ward,0
+diagnosis of SARS-CoV-2 pneumonia,0
+empirical antibiotic therapy with piperacillin/tazobactam,0
+oxygen support,0
+general condition improved at hospital day 12,264
+C-reactive protein normalized (3.5 mg/L),264
+negative blood and urine cultures,264
+serum PCT 84 ng/mL,264
+serum CTN 2120 pg/mL,264
+carcinoembryonic antigen 108 ng/mL,264
+total calcium 9.3 mg/dL,264
+ionized calcium 1.21 mmol/L,264
+normal thyrotropin (1.29 μU/mL),264
+normal thyroxine (13.2 pg/mL),264
+painless right laterocervical swelling,264
+neck ultrasound: inhomogeneous lymph nodes with calcifications,264
+thyroid with multiple nodules (largest 30 mm),264
+fine-needle aspiration confirmed MTC,264
+CTN in aspiration needle washout fluid >2000 pg/mL,264
+PCT:CTN ratio 3.96,264
+"negative neck, lung, and abdomen CT scan",264
+multiple sclerotic lesions in dorsal spine and hip bone,264
+increased tracer uptake in right laterocervical lymph nodes,264
+slight tracer uptake in thyroid and dorsal vertebral bodies,264
+total thyroidectomy with bilateral cervical lymph node dissection,264
+histologic confirmation of MTC,264
+CTN positive immunohistochemical staining,264
+carcinoembryonic antigen positive,264
+synaptophysin positive,264
+chromogranin A positive,264
+thyroglobulin positive,264
+MTC metastases in 3 of 12 lymph nodes,264
+"MTC classified as T1b-N1a, stage III",264
+CTN 986 pg/mL post-surgery,288
+PCT 16 ng/mL post-surgery,288
+negative SARS-CoV-2 swabs,528
+discharged with prednisone (5 mg/die),528
+discharged with ramipril (10 mg/die),528
+discharged with levothyroxine (50 μg/die),528
+discharged with cholecalciferol (800 IU/die),528
+discharged with calcium carbonate (1 g/die),528
+6-month follow-up scheduled,528
+(18)F-fluorodihydro-xyphenylalanine PET performed,528
+no suspicious fixations in thyroid lodge,528
+no suspicious fixations in cervical lymph nodes,528
+multiple osteoblastic foci in skeletal area,528
+CTN 921 pg/mL at follow-up,528
+PCT 16 ng/mL at follow-up,528
+close follow-up planned pending RET gene analysis,528

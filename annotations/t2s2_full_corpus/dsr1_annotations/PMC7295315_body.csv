@@ -1,0 +1,77 @@
+event,time
+37 years old,0
+female,0
+type 2 diabetes mellitus,0
+peripheral neuropathy,0
+morbid obesity,0
+BMI 45.8 kg/m²,0
+obstructive sleep apnea,0
+gastroesophageal reflux disease,0
+depression,0
+intellectual disability,0
+metformin 500 mg twice daily,0
+hemoglobin A1c 9.8%,0
+sitagliptin added,0
+canagliflozin added,0
+pain in left gluteal region,-120
+dysuria,-120
+trimethoprim/sulfamethoxazole initiated,-120
+urinary tract infection presumed,-120
+no improvement in symptoms,-72
+hospital admission,0
+afebrile (36.9°C),0
+tachycardia (117 bpm),0
+blood pressure 144/79 mmHg,0
+respiratory rate 19 breaths/minute,0
+lethargy,0
+distress,0
+suprapubic tenderness,0
+induration left gluteal region,0
+perineum involvement,0
+blood glucose 402 mg/dL,0
+serum bicarbonate 12 mmol/L,0
+anion gap 24 mmol/L,0
+lactate 1.8 mmol/L,0
+normal serum electrolytes,0
+normal creatinine,0
+normal BUN,0
+serum osmolarity 295 mOsm/kg,0
+glycosuria,0
+ketonuria,0
+serum β-hydroxybutyrate 2.49 mmol/L,0
+arterial pH 7.23,0
+PCO2 34 mmHg,0
+computed tomography abdomen/pelvis,0
+Fournier’s gangrene diagnosed,0
+intravenous normal saline bolus,0
+IV ceftazidime 2 g,0
+IV clindamycin 600 mg,0
+IV vancomycin 2 g,0
+debridement,0
+incision and drainage left gluteal,0
+hypotension,48
+tachycardia,48
+second surgical exploration,48
+surgical ICU admission,48
+intubation,48
+vasopressors required,48
+antibiotics switched to vancomycin and piperacillin/tazobactam,48
+four additional surgical re-explorations,72 to 144
+laparoscopic transverse loop colostomy,168
+subcutaneous insulin initiated,0
+insulin infusion started,72
+aggressive fluid resuscitation,72
+anion gap closed,96
+acidosis resolved,96
+transferred to general medical floor,408
+urinary catheter placed,28
+vacuum dressing applied,28
+colostomy placed,168
+discharged to STR facility,672
+insulin glargine 18 U started,672
+canagliflozin discontinued,672
+sitagliptin-metformin discontinued,672
+smoking history,0
+DKA,0
+Fournier’s gangrene,0
+sepsis,48

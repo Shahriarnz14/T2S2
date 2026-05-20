@@ -1,0 +1,86 @@
+event,time
+91-year-old,0
+female,0
+admitted to the emergency room,-48
+hypertension,0
+beta blocker bevantolol,0
+dementia,0
+donepezil,0
+risperidone,0
+ambulate without assistance,-336
+communicate without assistance,-336
+short-leg splint,-336
+undisplaced fractures of the 4th and 5th metatarsal bones of the right foot,-336
+no injury with skin defects,0
+no trauma history,0
+no injection history,0
+watery diarrhea,-168
+sputum production,-48
+abdominal CT scan,0
+fluid retention in right gluteal area,0
+gas shadow in right gluteal area,0
+transferred to our hospital,0
+sepsis suspected,0
+systolic blood pressure 149/64 mmHg,0
+pulse rate 74 beats/minute,0
+respiratory rate 17 breaths/minute,0
+body temperature 36.5℃,0
+no skin necrosis,0
+no fluctuation,0
+mild heat around hip and thigh,0
+BP dropped to 81/38 mmHg,0
+body temperature increased to 38.5℃,0
+chilling sensation,0
+"WBC 14,300/mm3",0
+neutrophils 95%,0
+ESR 41 mm/hour,0
+CRP 17.46 mg/dL,0
+diagnosis of sepsis,0
+ceftriaxone,0
+clindamycin,0
+gas on right gluteal area (plain radiograph),0
+increased signal intensity on gluteus fascia (MRI),0
+abscess between right gluteus maximus and medius,0
+smaller abscess on left gluteus maximus,0
+air formation on both hips,0
+cystic shadows on posterosuperior surface of uterus,0
+bilateral necrotizing fasciitis confirmed,0
+incisions and debridement on right side,24
+bacterial cultures (right side),24
+gray-colored abscess discharged,24
+abscess and necrotic tissues along gluteus medius,24
+deep muscles invaded,24
+fascia and subcutaneous tissues partially invaded,24
+right hip joint puncture for culture,24
+drainage catheter inserted,24
+referred to gynecologist,24
+transvaginal sonography,24
+cyst aspiration,24
+clear aspirated fluid,24
+non-inflammatory lesions,24
+postoperative intensive care,24
+SBP 132 mmHg,48
+body temperature 36.2℃,48
+"WBC 9,400/mm3",48
+ESR 16 mm/hour,48
+CRP 3.77 mg/dL,48
+Escherichia coli detected,168
+sustained-release ciprofloxacin,168
+drainage catheter removed,168
+suture removal,336
+limited ambulation,0
+pressure ulcer on ischial areas,336
+no general symptoms,336
+no high fever,336
+CRP elevated to 8.37 mg/dL,336
+body temperature 38.5℃,336
+follow-up MRI,336
+increased abscess size on left side,336
+incision and debridement on left aspect,360
+serosanguinous fluid drained,360
+drainage catheter inserted (left side),360
+postoperative intensive care,360
+body temperature ≤36.7℃,360
+pressure ulcer deterioration,360
+ambulation with wheelchair,504
+no infection-related complications,4320

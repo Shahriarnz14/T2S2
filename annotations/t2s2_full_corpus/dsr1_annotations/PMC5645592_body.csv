@@ -1,0 +1,110 @@
+event,time
+45-year-old woman,0
+end-stage heart failure,0
+cardiac cirrhosis,0
+valvular heart disease,0
+New York Heart Association class IV,0
+mild jaundice,0
+mitral valve replacement,-720
+tricuspid annuloplasty,-720
+transferred to hospital,-720
+ischemic kidney injury,-720
+continuous renal replacement therapy (CRRT),-720
+cardiac arrest,-672
+ventricular fibrillation,-672
+venoarterial extracorporeal membrane oxygenation (ECMO),-672
+severe biventricular dysfunction,0
+left ventricular ejection fraction <5%,0
+waitlisted for CHLT,0
+peripheral ECMO converted to central ECMO,0
+ECMO flow rate 3.6–4.1 L/min,0
+heparinization (ACT 160–180 s),0
+norepinephrine infusion (0.03 µg/kg/min),0
+mean arterial pressure 50–60 mmHg,0
+progressive hyperbilirubinemia,0
+chronic liver disease,0
+splenomegaly,0
+moderate ascites,0
+dilated inferior vena cava,0
+congestive hepatopathy,0
+tracheostomy,0
+remifentanil sedation (0.03 µg/kg/min),0
+atrial fibrillation,0
+ventricular response 76 bpm,0
+cardiomegaly,0
+total atelectasis left lung,0
+compression left main bronchus,0
+total bilirubin 47.3 mg/dl,0
+direct bilirubin 36.2 mg/dl,0
+aspartate transaminase 92 units/L,0
+alanine transaminase 51 units/L,0
+creatinine 0.91 mg/dl,0
+"platelet count 34,000 /µl",0
+PT INR 1.49,0
+Child-Pugh class C,0
+MELD score 26,0
+emergent CHLT scheduled,0
+general anesthesia induced,0
+mechanical ventilation (pressure-controlled),0
+intra-arterial monitoring,0
+central venous pressure monitoring,0
+pulmonary arterial pressure monitoring,0
+ECMO cannulation sites disturbed,0
+transesophageal echocardiography probe inserted,0
+sequential heart and liver transplant,0
+heart transplanted (modified bicaval technique),24
+temporary pacemaker (90 bpm),24
+leukocyte-depleted red blood cells transfused,24
+fresh frozen plasma transfused,24
+CPB converted to ECMO,24
+protamine sulfate administered,24
+chest left open,24
+liver transplantation initiated,24
+substantial hemorrhage,24
+massive volume resuscitation,24
+piggyback technique,24
+transfusion protocol followed,24
+potassium management,24
+metabolic acidosis correction,24
+calcium chloride administered,24
+Portland protocol for glucose control,24
+post-reperfusion syndrome,24
+epinephrine administered,24
+tranexamic acid administered,24
+residual bleeding controlled,24
+crystalloid infused,24
+albumin infused,24
+half saline infused,24
+cell saver blood infused,24
+cryoprecipitate infused,24
+no urine output,24
+dobutamine infusion,24
+norepinephrine infusion,24
+vasopressin infusion,24
+epinephrine infusion,24
+transferred to ICU on ECMO,24
+total anesthesia time 13h15min,24
+right hand ischemia (POD 1),24
+thromboembolectomy (right radial/brachial artery),24
+ECMO removed (POD 4),96
+norepinephrine tapered,720
+transaminase normalized,504
+prothrombin time normalized,504
+bilirubin normalized,504
+type II respiratory failure,720
+mechanical ventilation >1 month,720
+oliguric acute kidney injury,720
+CRRT transitioned to hemodialysis (POD 45),1080
+hemodialysis discontinued,1080
+defective wound healing,1440
+antibiotics administered,1440
+surgical revision,1440
+transudative ascites,1440
+right pleural effusion,1440
+daily drainage,1440
+abdominal CT findings,1440
+septic shock (catheter-related infection),1440
+normal left ventricular function,1440
+right ventricular systolic dysfunction,1440
+pericardial effusion,1440
+discharged (5 months postop),3600

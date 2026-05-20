@@ -1,0 +1,59 @@
+event,time
+84 years old,0
+woman,0
+chronic kidney disease,0
+hypertension,0
+mild cognitive dysfunction,0
+uterine mass,0
+lived in rural area of Tainan City,0
+presented to regional hospital,0
+fever,-48
+dry cough,-48
+dyspnea,-48
+10-day heavy rain with total precipitation >800mm,-480
+chest x-ray showed bilateral lower lung patches,0
+pleural effusion,0
+septic shock,0
+acute kidney injury,0
+respiratory failure,0
+antibiotics,0
+fluid resuscitation,0
+tracheal intubation,0
+transferred to tertiary hospital,0
+admitted to intensive care unit,0
+curved gram-negative bacteria isolated from blood culture,0
+direct gram stain of pleural fluid demonstrated curved gram-negative bacilli,0
+biochemical phenotype: oxidase-positive,0
+catalase-negative,0
+urease-negative,0
+glucose-nonfermenting,0
+VITEK MS failed to identify bacterium,0
+VITEK2 GN ID card reported Burkholderia mallei with 90% probability,0
+diagnosis of Paludibacterium species infection via 16S rRNA PCR assay,0
+1.5-kb amplified fragments identified as Paludibacterium purpuratum,0
+pleural effusion culture did not yield bacteria,0
+16S rRNA sequencing identified P. purpuratum in inoculated broth,0
+pneumonia,0
+empyema,0
+ampicillin-sulbactam,0
+bilateral pleural drainage with 24-Fr chest tubes,0
+extubated,96
+acute kidney injury resolved,0
+discharged home,480
+genome sequencing performed with PaciBio Sequencing Platform,0
+genome size 3.63 M,0
+P. purpuratum isolate grew on blood agar and chocolate agar at 35°C,0
+Gram stain showed curved and long gram-negative bacilli,0
+indole test negative,0
+hanging drop motility test negative,0
+isolate grew less at 42°C,0
+no growth on MacConkey plate,0
+no growth on colistin nalidixic acid blood agar plate,0
+colony morphology on blood agar: small and gray at 24 hours,0
+"colony morphology on blood agar: smooth, translucent, white at 48 hours",0
+colony morphology on chocolate agar: white or translucent at 48 hours,0
+"low MIC for ampicillin/sulbactam, piperacillin/tazobactam, cefotaxime, cefepime, fluoroquinolones, meropenem, aminoglycosides",0
+high MIC for colistin,0
+phenotype microarray analysis of metabolic profiles,0
+utilized 33 substrates including carbon and nitrogen sources,0
+ICR-Mo gene encoding colistin resistance,0

@@ -1,0 +1,75 @@
+event,time
+74 years old,0
+Caucasian,0
+female,0
+body mass index 29.3,0
+chronic atrial fibrillation,0
+VATS-LA maze procedure,-1008
+general anesthesia,-1008
+sequential one lung ventilation,-1008
+EZ-Blocker endobronchial blocker,-1008
+transesophageal echocardiography,-1008
+LA appendage exclusion,-1008
+pulmonary vein flow assessment,-1008
+bipolar radiofrequency catheter ablation,-1008
+no esophageal temperature probe,-1008
+persistent fever,-1008
+altered mental status,-1008
+left upper extremity weakness,-1008
+emergency department presentation,0
+computed tomography head,0
+magnetic resonance imaging/angiography head,0
+no acute intracranial process,0
+CT thorax,0
+air in posterior left atrium,0
+LA wall abscess suspicion,0
+atrio-esophageal fistula suspicion,0
+surgical exploration planned,24
+median sternotomy,24
+cardiopulmonary bypass standby,24
+intubation,-12
+worsening mental status,-12
+9F double-lumen central venous catheter,24
+right internal jugular vein,24
+ultrasound guidance,24
+poor distal circulation upper extremities,24
+poor distal circulation lower extremities,24
+18-G catheter right axillary artery,24
+blood pressure monitoring,24
+blood sampling,24
+esophagogastroduodenoscopy,24
+no esophageal pathology,24
+LA wall abscess suspicion,24
+sudden severe hypotension,24
+phenylephrine boluses,24
+norepinephrine,24
+epinephrine,24
+TEE probe placement,24
+air in left atrium,24
+air in left ventricle,24
+air in aortic root,24
+emergent median sternotomy,24
+cardiopulmonary bypass,24
+no obvious lesion,24
+nasogastric tube placement,24
+air injection through NG tube,24
+fistula identification,24
+posterior LA wall defect,24
+bovine pericardium patch,24
+repair integrity assessment,24
+transferred to SICU,48
+intubated,48
+mechanical ventilation,48
+neurological deterioration,48
+postoperative day 1 MRI,168
+pontine hyperintensities,168
+caudal midbrain hyperintensities,168
+posterior cerebral artery territory lesions,168
+middle cerebral artery foci,168
+anterior cerebral artery foci,168
+postoperative day 3 EEG,216
+global slowing,216
+global cortical dysfunction,216
+family withdrew care,240
+profound neurologic injury,240
+poor prognosis,240

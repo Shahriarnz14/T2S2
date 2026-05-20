@@ -1,0 +1,75 @@
+event,time
+58 years old,0
+woman,0
+admitted to ICU,0
+fever,-240
+fatigue,-240
+generalized body aches,-240
+diarrhea,-72
+chest tightness,-72
+shortness of breath after physical activity,-72
+leukopenia,-240
+thrombocytopenia,-240
+antibiotic treatment (cephalosporin),-240
+antipyretics,-240
+no history of tick bite,0
+temperature 36.5°C,0
+heart rate 117/min,0
+respiratory rate 45/min,0
+blood pressure 170/100 mmHg,0
+crackles in both lungs,0
+skin petechiae,0
+swollen lymph node in right inguinal region,0
+leukopenia (WBC 3.1×10⁹/L),0
+thrombocytopenia (platelets 24×10⁹/L),0
+elevated liver enzymes,0
+elevated muscle enzymes,0
+procalcitonin 0.563 ng/ml,0
+C-reactive protein 18.03 mg/L,0
+urine occult blood,0
+urine protein,0
+chest CT multiple patchy infiltrations,0
+chest CT ground-glass opacities,0
+bronchoscopy edema,0
+bronchoscopy white mold,0
+arterial blood gas PH 7.233,0
+PaO2 91.8 mmHg,0
+PaCO2 55.6 mmHg,0
+SaO2 95.8%,0
+pulmonary infection,0
+sepsis,0
+biapenem,0
+voriconazole,0
+mental confusion,24
+PaCO2 79.4 mmHg,24
+endotracheal intubation,24
+mechanical ventilation,24
+negative serological tests,24
+serum galactomannan positive,24
+"1,3-β-d-glucan positive",24
+mNGS Aspergillus species,24
+mNGS SFTSV,24
+ribavirin,24
+plasma transfusion,24
+platelet transfusion,24
+acute renal failure,48
+heart failure,48
+CRRT,48
+metaraminol therapy,48
+fever 37.8°C,168
+WBC 10.44×10⁹/L,168
+procalcitonin 2.66 ng/ml,168
+chest X-ray patchy infiltrations,168
+Acinetobacter baumannii,168
+tigecycline,168
+improved pulmonary function,216
+improved radiological findings,312
+thrombocytopenia (platelets 40×10⁹/L),408
+anemia,408
+elevated creatine kinase 1534 IU/L,408
+prolonged aPTT 63.2 s,408
+bronchoscopy uncontrolled white mold,408
+mNGS A. fumigatus,432
+SFTSV not detected,432
+discharged,432
+death,456

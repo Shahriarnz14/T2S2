@@ -1,0 +1,66 @@
+left lower quadrant abdominal pain|-1008  
+pelvic heaviness|-1008  
+urinary frequency|-1008  
+57 years old|0  
+French|0  
+menopausal female|0  
+admitted to gynecological emergency unit|0  
+past history of 5 miscarriages|0  
+past history of tubal ligation|0  
+active smoker|0  
+no medication|0  
+large mass palpated|0  
+painful mass palpated|0  
+mass extending up to the umbilicus|0  
+pelvic MRI showed mass measuring 18 × 17 × 12 cm|0  
+mass well-delimited|0  
+mass polylobed|0  
+mass poorly vascularized|0  
+mass with central fluid component|0  
+mass located on the left ovary|0  
+mass extending up to the umbilicus|0  
+no lymphadenopathy|0  
+no ascites|0  
+no peritoneal implants|0  
+uterus normal|0  
+adnexa normal|0  
+serum tumor markers negative|0  
+no malodorous and greyish vaginal secretions|0  
+surgical pelvic exploration revealed 30-centimeter mass of left broad ligament|720  
+no ascites|720  
+no peritoneal carcinomatosis|720  
+uterus normal|720  
+right adnexa normal|720  
+total hysterectomy with adnexectomy and removal of mass performed|720  
+leiomyosarcoma diagnosis|720  
+fever of 39 °C|768  
+leukocytes 15,000/μL|768  
+C-reactive protein 317 mg/dL|768  
+contrast-enhanced computed tomography scan showed bilobed air and fluid collection suggesting abscess in retroperitoneum and extending along left psoas muscle and Douglas pouch|768  
+blood pressure dropped to 74/46 mmHg|768  
+did not respond to intravenous volume replacement with 2 L of Ringer Lactate|768  
+vasopressor therapy (continuous infusion of noradrenaline) started|768  
+blood pressure stabilized at 100/60 mmHg|768  
+transferred to operating room for emergency revision surgery|768  
+peritoneal cavity exploration revealed non-purulent serosanguinous peritoneal fluid|768  
+adhesions to the Douglas pouch|768  
+peritonitis suggested|768  
+no surgical wound explaining infection found|768  
+antibacterial treatment with piperacillin/tazobactam and gentamicin administered|768  
+microbiological samples taken|768  
+patient extubated in postoperative recovery room without complication|768  
+still needed hemodynamic support with noradrenaline|768  
+transferred to intensive care unit|768  
+preoperative blood cultures remained sterile|768  
+microbiological analysis of peritoneal fluid identified Gardnerella vaginalis|816  
+gentamicin discontinued|816  
+metronidazole added to antibacterial treatment|816  
+noradrenaline discontinued|840  
+decrease in inflammatory markers|840  
+Atopobium vaginae identified in peritoneal fluid|864  
+antibacterial susceptibility testing of Gardnerella vaginalis showed resistance to metronidazole and ciprofloxacin|864  
+antibacterial susceptibility testing of Gardnerella vaginalis showed susceptibility to penicillin G, amoxicillin/clavulanate, cefotaxime, clindamycin and vancomycin|864  
+antibacterial susceptibility testing of Atopobium vaginae showed susceptibility to all tested antibacterials including metronidazole|864  
+diagnosis: early postoperative peritonitis-induced septic shock caused by Gardnerella vaginalis and Atopobium vaginae|864  
+patient discharged from intensive care unit|888  
+antibacterial therapy stopped|936

@@ -1,0 +1,75 @@
+event,time
+77 years old,0
+male,0
+admitted to the emergency department,0
+impaired consciousness,0
+hypotension,0
+lower abdominal discomfort,-120
+bloody loose stools,-120
+prostate cancer,-17520
+Bicalutamide,-17520
+hypertension,0
+hyperlipidemia,0
+hyperuricemia,0
+lumbar spinal stenosis,0
+Glasgow Coma Scale score 10,0
+cold and moist limbs,0
+body temperature 35.6°C,0
+pulse rate 42 bpm,0
+blood pressure 65/36 mmHg,0
+respiration rate 28 breaths/min,0
+oxygen saturation 95%,0
+abdominal distension,0
+normal bowel sounds,0
+normal white blood cell count,0
+normal platelet count,0
+normal hemoglobin,0
+normal C-reactive protein,0
+normal procalcitonin,0
+normal liver function tests,0
+normal clotting screen,0
+normal arterial blood gases,0
+elevated serum creatinine,0
+elevated lactic acid,0
+elevated hemoglobin A1c,0
+no echocardiography abnormalities,0
+no abdominal ultrasound abnormalities,0
+edematous swelling of small intestinal wall,0
+no free air,0
+no ascites,0
+septic shock,0
+intra-abdominal infection,0
+intravenous crystalloid administration,0
+noradrenaline administration,0
+meropenem initiation,0
+improved consciousness,72
+normalized vital signs,72
+fever 38.5°C,72
+blood culture positive for C. paraputrificum,72
+ampicillin/sulbactam treatment,72
+discharged from ICU,96
+persistent bloody loose stools,0
+low-grade fever,0
+mild anemia,0
+negative Clostridium difficile toxins,24
+negative stool ova and parasites,24
+negative stool culture,24
+sigmoidoscopy with mucosal inflammation,840
+crypt disarray,840
+epithelial cell abnormalities,840
+increased lamina propria cellularity,840
+basal plasmacytosis,840
+lamina propria eosinophils,840
+ulcerative colitis diagnosis,840
+oral probiotics,840
+intravenous prokinetic medications,840
+persistent abdominal manifestations,0
+dilated colon >12 cm,1488
+abdominal X-ray,1488
+non-contrast-enhanced abdominal CT,1488
+acute colonic pseudo-obstruction diagnosis,1488
+total parenteral nutrition,1488
+pharmacologic decompression therapy,1488
+endoscopic decompression therapy,1488
+unsuccessful conservative treatments,1488
+colon resection,2256

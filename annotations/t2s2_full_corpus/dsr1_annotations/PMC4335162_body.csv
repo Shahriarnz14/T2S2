@@ -1,0 +1,67 @@
+event,time
+55-year-old,0
+African American,0
+male,0
+chronic pulmonary obstructive disease,0
+alcohol dependence,-175200
+alcohol withdrawal symptoms,0
+headache,0
+tremors,0
+sweating,0
+denied history of liver disease,0
+denied sleep disturbances,0
+denied memory changes,0
+denied seizures,0
+vital signs stable,0
+anxious,0
+tremulous,0
+slow and delayed response to questions,0
+unsteady gait,0
+scleral icterus,0
+skin icterus,0
+gynecomastia,0
+bibasilar crackles,0
+liver edge palpable 3cm below costal margin,0
+asterixis,0
+nail clubbing,0
+non-pitting edema of legs,0
+macrocytic anemia,0
+hemoglobin 11.3 g/dl,0
+MCV 101.8 fL,0
+"platelet count 83,000/μL",0
+total protein 8.2 g/dL,0
+albumin 2.8 g/dL,0
+total bilirubin 3.9 mg/dL,0
+AST 69 U/L,0
+ALT 36 U/L,0
+ammonia level 124 mcg/dl,0
+INR 1.6,0
+computed tomography of abdomen showed early cirrhosis,0
+admitted to hospital,0
+diagnosis of alcohol withdrawal,0
+possible hepatic encephalopathy,0
+chlordiazepoxide-based alcohol withdrawal protocol started,0
+lactulose started,0
+300 mg chlordiazepoxide given over 9 days,216
+mental status deteriorated,240
+upgraded to intensive care unit,240
+urine drug screen positive for benzodiazepines,240
+repeat ammonia level 121 mcg/dl,240
+septic work-up unremarkable,240
+diagnosis of benzodiazepine-induced hepatic encephalopathy,240
+flumazenil 1mg IV given,240
+mental status improved,240
+effect lasted 20 minutes,240
+mental status deteriorated again,240
+repeated flumazenil doses failed,264
+flumazenil drip started at 0.25 mg/hour,264
+persistent nausea,264
+treated with ondansetron,264
+attempts to decrease infusion rate,720
+mental status deterioration,720
+repeated urine benzodiazepine tests positive three times,720
+flumazenil drip maintained for 28 days,672
+flumazenil tapered off,672
+mental status returned to normal,672
+repeat urine benzodiazepine test negative,672
+discharged home,672

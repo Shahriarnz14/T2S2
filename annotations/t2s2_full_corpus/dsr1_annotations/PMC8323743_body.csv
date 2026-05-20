@@ -1,0 +1,67 @@
+event,time
+74 years old,0
+woman,0
+hypertension,0
+hyperlipidemia,0
+small cell lung cancer,-504
+metastatic to the brain,-504
+admitted to the hospital,0
+lethargy,-48
+weakness,-48
+gamma knife radiation therapy,-336
+dexamethasone,-504
+cerebral edema,-504
+DM diagnosed,-504
+HbA1c 6.5%,-504
+blood glucose >799 mg/dL,0
+HbA1c 10.8%,0
+left eyelid swelling,0
+erythema,0
+preseptal cellulitis,0
+ophthalmoplegia,0
+visual impairment left eye,0
+mental status worsened,0
+difficulty following commands,0
+aggressive hydration,0
+i.v. fluids,0
+insulin,0
+septic shock,0
+broad-spectrum antibiotics,0
+vasopressors,0
+central venous catheter,0
+ICU evaluated,0
+poor prognosis,0
+not candidate for ICU care,0
+CT scan head and neck,0
+left ocular proptosis,0
+invasive rhinomaxillary fungal disease,0
+amphotericin B started,0
+surgical debridement,0
+MRI head and neck,0
+invasive fungal disease left inferior frontal lobe,0
+surgical pathology confirmed invasive mucormycosis,0
+R. oryzae,0
+S. maltophilia infection,0
+blood cultures MSSA,0
+cefazolin,0
+levofloxacin,0
+herpetic lesion,0
+valacyclovir,0
+vasopressor support,0
+electrolyte abnormalities,0
+hypokalemia,0
+hypokalemia persisted,120
+potassium 4.2 mmol/L,0
+potassium supplementation,0
+spironolactone,0
+discharged,624
+declined follow-up appointments,624
+no symptoms at follow-up,-72
+elevated blood glucose at follow-up,-72
+denied ICU care,0
+orbital exenteration declined,0
+skull base surgery declined,0
+conservative medical management,0
+hypokalemia after amphotericin B,120
+hypokalemia resolved,600
+amphotericin B completed,600

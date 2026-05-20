@@ -1,0 +1,65 @@
+pmcIntroduction
+
+Novel coronavirus SARS-CoV-2, responsible for Coronavirus Disease (COVID-19) emerged in December 2019 in Wuhan, China, and rapidly developed into a global health emergency. Respiratory symptoms represent the most common clinical manifestation. Since the beginning of the pandemic, neurological involvement has been observed, mainly associated with a more severe disease form (1, 2). The most frequent neurological symptoms include: headaches (11–13%), dizziness (8–17%), confusion and altered consciousness (8–9%), acute cerebrovascular disease (3–5%), and seizures (0.5%). Lately, reports about COVID-19-related severe neurological para/post-infectious complications have been published (3). Single episodes of status epilepticus (SE) related to SARS-CoV-2 infection have been reported (4-9).
+
+Herein, we describe a woman positive for anti-SARS-CoV-2 antibodies with recurrent new-onset SE characterized by different clinical features and increased drug-resistance.
+
+Case report
+
+A 63-year-old healthy woman was admitted to the Emergency Department (ED) of our University Hospital for fever (T 39°C) lasting for 10 days and diarrhea. During ED examination, the patient was wet, confused, and febrile (T 40°C). Vital parameters were as follows: heart rate 121 bpm, blood pressure 85/50 mmHg, and SpO2 95% while breathing room air.
+
+Fluid challenge with normal saline was immediately started to restore normal blood pressure. Blood analysis revealed: leukopenia (2190/mm3) with low neutrophil and lymphocyte counts (N 1690/mm3, Ly 440/mm3), thrombocytopenia (33000/mm3), high levels of C-reactive protein (157 mg/L), D-dimers (65.588 FEUng/mL) and lactic dehydrogenase (1098 mmol/l), and mild renal insufficiency (1.41 mg/dl). Arterial gas analysis was unremarkable. Rapid serology testing was positive (IgG+, IgM-) for SARS-CoV-2, whereas the nasopharyngeal swab test was negative. A pulmonary CT scan showed diffuse pulmonary basal lobe opacifications. Blood and urine cultures were obtained, and empiric antibiotic therapy with meropenem and gentamycin was delivered. The patient was admitted to the COVID-19 intensive care unit (ICU) since an active SARS-CoV-2 infection could not be definitively excluded. Nevertheless, no subsequent repeated nasopharyngeal swabs or gastric tube samples confirmed an active COVID-19.
+
+During ICU stay, she developed a further decrease in leukocytes and platelets, with coagulation tests indicating a diffuse intravascular coagulation (DIC). Blood and fresh frozen plasma transfusions were required. Microbiological cultures were all negative and no septic foci were found. Bone marrow aspirate excluded acute leukemia. After two days from ICU admission, the patient was sedated, intubated and put under mechanical ventilation because of worsening clinical conditions and incoming multiorgan failure. She was extubated three days later, but she presented mental confusion and unresponsiveness to external stimuli. EEG recording revealed a non-convulsive status epilepticus (NCSE), characterized by diffuse slow background activity with epileptiform discharges (spike-and-wave and sharp-and-slow-wave complexes) on bilateral fronto-polar and fronto-basal electrodes with right prevalence (Figure 1A).
+
+Figure 1. Electroencephalographic findings. First status epilepticus (SE): panel A showed a diffuse slow background activity, with high amplitude delta waves and spike-and-wave and sharp-and-slow-wave complexes on bilateral fronto-polar and fronto-basal regions with right prevalence. Second SE: panel B revealed a diffuse theta background activity with sub-continuous epileptiform discharges (sharp-waves and spikes) over the right parietal region and the vertex, that spread to ipsilateral and contralateral temporal regions.
+
+The status epilepticus severity scale (STESS) rating was 3. A benzodiazepine I.V. bolus was ineffective, so I.V. levetiracetam (3000 mg daily) was started, with SE resolution after two days. Cerebral spinal fluid (CSF) examination was normal and negative for neurotropic viruses. Brain MRI was unremarkable. She remained in the ICU for 11 days, before being transferred to the Internal Medicine Unit. After 20 days, she was discharged home without any neurological sequelae.
+
+Eleven days later, she was referred to the ED for worsening mental slowing and aphasia. She was afebrile and without any other symptoms. During ED staying, she developed a motor seizure, with right upper limb jerks evolving into a bilateral tonic-clonic seizure. Moreover, she appeared confused, partially oriented, and with a hypertonic and hyposthenic left lower limb. Laboratory tests and brain CT scan were unremarkable. EEG revealed sub-continuous epileptiform discharges on the right parietal region with contralateral diffusion (Figure 1B). A diagnosis of focal convulsive SE was made, with a STESS rating of 5, and the patient was admitted to our Neurology Unit. A new brain MRI showed signal alterations in DWI sequences localized to right occipitoparietal and bilateral frontoparietal paramedian regions with right prevalence, with cortical distribution and no gadolinium enhancement (Figure 2A-B).
+
+Figure 2. Radiological findings. Brain magnetic resonance imaging (MRI): diffusion-weighted imaging (DWI) images revealed mild signal restriction in frontoparietal paramedian regions with right prevalence and cortical distribution (A - white arrow), without gadolinium enhancement in T1-weighted sequences (B). After 16 days, follow-up MRI showed no alterations in DWI and fluid attenuated inversion recovery (FLAIR) sequences (D and C).
+
+A second CSF examination was performed, showing all normal parameters. Polymerase chain reaction (PCR) testing for SARS-CoV-2 and neurotropic viruses was negative, as well as a complete autoimmune panel for encephalitis, both on serum and CSF. The serology test for SARS-CoV-2 antibodies continued to be positive (IgG+, IgM-) and the nasopharyngeal swab was negative once more. Cytokine levels, in particular of IL-6 and IL-8, were mildly increased on serum and CSF. A whole-body positron emission tomography-computed tomography scan excluded occult neoplasms.
+
+Since the patient was still on levetiracetam at highest dosage (3000 mg daily), she was treated with I.V. lacosamide 200 mg bid. Motor signs ceased, whereas confusion persisted and psychiatric symptoms appeared: behavioral disturbances, persecutory ideation, and aggressiveness. Levetiracetam was withdrawn, and treatment with valproic acid (30 mg/kg/day) and dexamethasone (16 mg/day) was started. Six days later, the patient clinically improved. EEG monitoring showed SE resolution. A control brain MRI performed 16 days later was negative (Figure 2C-D).
+
+The patient was discharged home after 34 days: she was alert, oriented to herself, able to follow commands, and compliant with no focal neurological deficits, she appeared only repetitive and fatuous. She was still under lacosamide 200 mg bid and valproic acid 1250 mg daily. Forty-five days after being discharged, she was slightly improved. She did not experience any further seizures. A new EEG was performed, showing a mild diffuse slowing, without any epileptiform activity.
+
+Discussion
+
+Since the onset of COVID-19 pandemic, a growing number of case reports and series describe a wide array of neurological manifestations in the context of active SARS-CoV-2 infection or in the para/post-infectious phase (1, 2). Recently, SE cases associated with COVID-19, with or without encephalitis, have also been reported (4-10).
+
+Here, we describe a woman presenting recurrent SE as a possible expression of a COVID-19 related encephalopathy. In both episodes, SE etiology remained otherwise unknown: metabolic encephalopathy, viral encephalitis, cerebral thrombosis and vasculitis, paraneoplastic encephalopathies, and known autoimmune encephalitis could all be ruled out. However, serum positivity for anti SARS-CoV-2 antibodies suggests that the recurrent SE may be a possible post-infectious neurological manifestation.
+
+Different patterns of seroconversion have been described, the most common being IgM seroconversion occurring later than that of IgG. IgG detection in patients’ blood samples reaches 100% approximately 17–19 days after symptom onset, whereas IgM reaches a peak of 94.1% after 20–22 days.
+
+One possibility is that our patient developed a more rapid IgG antibody response since IgM antibodies were never detected. However, the second analysis was performed more than 2 months after the first, and by that time IgM could have already decreased.
+
+The absence of a positive nasal or gastric swab does not exclude a SARS-CoV-2 infection. In clinical practice, many patients with clear symptoms of COVID-19 demonstrate multiple negative PCR tests for SARS-CoV-2. Indeed, numerous studies have pointed out the high prevalence of false negative results (11).
+
+The second SE was characterized by neuropsychiatric manifestations, correlating with a neuroanatomical substrate in the bilateral frontal cortex. Without EEG monitoring, it would have been impossible to make a differential diagnosis between NCSE with neuropsychiatric symptoms and delirium – the latter being a possible acute manifestation of COVID-19 (12). The complete brain MRI normalization after 16 days is suggestive of cortical suffering induced by SE. This SE lasted longer and was more difficult to treat than the first. These aspects may reflect that a recurrent SE is intrinsically more prone to drug resistance.
+
+Other authors have reported cases of SE as an expression of an autoimmune/inflammatory response related to COVID-19 (4-7, 9). In particular, Balloy et al. (9) described a NCSE in a COVID-19 patient, without underlying meningitis or encephalitis. Two further articles reported cases of SE as the first and only symptom of COVID-19 without respiratory manifestations (5, 8). Dono and co-workers (6) presented the case of a woman previously affected by COVID-19 pneumonia who developed SE after the acute phase. They hypothesized that the SE was an expression of an autoimmune COVID-19 related encephalitis, despite reporting no data on anti-SARS-CoV-2 antibodies (6).
+
+Carrol and colleagues (4) described a patient who developed refractory SE (RSE) 50 days after recovering from severe SARS-CoV-2 pneumonia. They performed an extensive diagnostic workup that demonstrated elevated inflammatory markers and concluded that the RSE was the result of a post infectious inflammatory response.
+
+In our patient, cytokine levels were mildly increased, both in serum and CSF. However, cytokine tests were only performed at the time of the second SE, so we cannot exclude whether high levels were already present during the first hospitalization.
+
+Conclusions
+
+Our case adds to and broadens the clinical descriptions of SE associated with COVID-19 and suggests the possibility of SE recurrence in patients with previous SE as clinical manifestation or consequence of SARS-CoV-2 disease.
+
+SE out of the blue is not rare, thus COVID-19 should now be considered as part of the diagnostic workup for new-onset SE. Action to prevention SE recurrence should be taken into considerations, especially given the increased drug-resistance at SE relapse.
+
+Acknowledgements:
+
+We would like to thank Dr. Stephanie Parsley for the English revision of the manuscript.
+
+Author Contributions:
+
+Dr. Pauletto: conceptualization, methodology, data curation, data analysis and interpretation, writing-original draft preparation, writing – review & editing. Dr. Nilo: conceptualization, methodology, data curation, data analysis and interpretation, writing-original draft preparation, writing – review & editing. Dr. Deana: conceptualization, data curation, data analysis and interpretation, writing-original draft preparation, writing – review & editing. Dr. Verriello: data analysis and interpretation, writing – review & editing. Dr. Del Negro: data curation, data analysis and interpretation, writing – review & editing. Dr. Lettieri: data analysis and interpretation, writing – review & editing. Dr. Vetrugno: writing – review & editing. Prof. Valente: supervision, writing – review & editing. Prof. Gigli: supervision, writing – review & editing. Dr. Pauletto and Dr. Nilo equally contributed to this work.
+
+Conflicts of interest:
+
+Each author declares that he or she has no commercial associations (e.g. consultancies, stock ownership, equity interest, patent/licensing arrangement etc.) that might pose a conflict of interest in connection with the submitted article.

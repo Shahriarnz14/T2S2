@@ -1,0 +1,60 @@
+60-year-old man | 0
+PAN | 0
+On prednisone | 0
+On cyclophosphamide | 0
+Prior failure on cyclophosphamide alone | 0
+Paroxysmal atrial fibrillation | 0
+Hypertension (not on calcium channels blocker) | 0
+Dyslipidemia | 0
+Non-insulin dependent diabetes mellitus | 0
+Multiple prior admissions for PAN flares | 0
+History of an admission for septic shock 2 years prior to the current admission | -17520
+Scrotal pain | 0
+Fever of 103°F | 0
+Fatigue | 0
+Tachycardic to 130 beats per minute | 0
+Hypotensive to 103/40 mm Hg | 0
+Leukocytosis | 0
+Started on vancomycin | 0
+Started on Zosyn | 0
+Admission under medicine service | 0
+On 40 mg of prednisone daily | 0
+Acute kidney injury | 24
+Kidney function worsened | 48
+Switch in antibiotics to meropenem | 48
+Creatinine level continued to rise | 72
+Spiking fevers without a specific source found | 72
+Negative blood cultures | 72
+Negative urine cultures | 72
+Negative sputum cultures | 72
+No focus found on CT chest, abdomen, and pelvis | 96
+All antibiotics stopped | 96
+Macular rash developed | 168
+Decline in mental status | 168
+Rash progressed to axillary area | 200
+Rash progressed to chest | 200
+Rash progressed to head | 200
+Rash progressed to neck | 200
+Rash progressed to abdomen | 200
+Worsening of skin lesions with bullae | 200
+Worsening of skin lesions with vesicles | 200
+Dermatology team involved | 200
+Skin biopsy obtained | 200
+Diagnosis of AGEP | 200
+Skin biopsy showed intra- and subcorneal spongiform | 200
+Skin biopsy showed superficial, interstitial, mid-dermal infiltrate rich in neutrophils | 200
+Skin biopsy showed dermal edema | 200
+Recommendation of initiating local steroid cream | 200
+Local steroid cream initiated | 200
+Neutrophilia | 200
+Cyclic fevers | 200
+Rash became pustular | 384
+High grade fever of 109°F | 384
+Transfer to intensive care unit | 384
+Cooling protocol initiated | 384
+Administered pulse steroids | 384
+After three days of pulse steroids, fever subsided | 456
+Improvement of rash observed | 456
+Decreased progression of sloughing | 456
+Complete resolution of acute kidney injury | 456
+Taper in steroids followed pulse steroids | 456

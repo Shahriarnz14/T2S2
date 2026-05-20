@@ -1,0 +1,72 @@
+event,time
+54-year-old male,0\
+admitted to the Accident and Emergency Department,0\
+huge ventral hernia,0\
+hernia increased in size within previous month,-720\
+"hernia became stony, hard, painful, and irreducible in past week",-168\
+vomiting,-168\
+absolute constipation,-168\
+road-traffic accident 20 years earlier,-175200\
+dysarthria,-175200\
+socially inactive,-175200\
+no significant past surgical history,0\
+no significant medical history,0\
+not on any specific medications,0\
+dehydrated,0\
+pulse rate 104 beats/minute,0\
+blood pressure within normal range,0\
+tense and tender hernia,0\
+hernia bulging more on right side of abdomen,0\
+skin discoloration overlying hernia,0\
+no bowel sounds,0\
+unremarkable rectal examination,0\
+leukocytosis,0\
+no air under diaphragm on chest x-ray,0\
+dilated bowel loops on abdominal x-ray,0\
+air fluid levels on abdominal x-ray,0\
+diagnosis of strangulated ventral hernia,0\
+resuscitation with isotonic fluids,0\
+intravenous cefuroxime,0\
+intravenous metronidazole,0\
+ICU bed arrangement,0\
+shifted for operation within 2 hours from presentation,0\
+laparotomy,2\
+entire small bowel protruding in hernial sac,2\
+large bowel protruding in hernial sac,2\
+hemorrhagic fluid in hernial sac,2\
+constriction at abdominal wall,2\
+pressure over mesentery due to tight sac neck,2\
+offensive fluid in hernial sac,2\
+gangrenous bowel,2\
+gangrenous mesentery,2\
+gangrenous omentum,2\
+high pressure within hernial sac,2\
+gangrenous jejunum,2\
+gangrenous ileum,2\
+gangrenous cecum,2\
+gangrenous ascending colon,2\
+gangrenous proximal half of transverse colon,2\
+resection of gangrenous bowel,2\
+resection of omentum,2\
+excision of gangrenous sac,2\
+60 cm of proximal jejunum remaining,2\
+primary anastomosis,2\
+direct hernia repair without prosthetic mesh,2\
+histopathology showed gangrenous bowel with clear margins,2\
+total parenteral nutrition started,2\
+postoperative course uneventful,2\
+enteral feeding overlapped with TPN,24\
+episodes of diarrhea,24\
+managed conservatively,24\
+discharged after 30 days,720\
+short bowel syndrome,720\
+combination of enteral and normal diet,720\
+passing stool 4-5 times daily,720\
+lost 30 kg weight in last 3 months,-2160\
+dietary management with dietitian,720\
+no comorbid conditions,0\
+neglected hernia,0\
+mesenteric ischemia,2\
+anastomosis to remaining transverse colon,2\
+no second exploratory procedure,2\
+regular follow-up in outpatient clinic,720

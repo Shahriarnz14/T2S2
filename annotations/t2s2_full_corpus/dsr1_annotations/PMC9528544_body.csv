@@ -1,0 +1,83 @@
+event,time
+23 years old,0
+female,0
+admitted to the emergency room,-72
+C-section delivery,-72
+pseudotumor cerebri,0
+acetazolamide,0
+emergent laparotomy,-72
+diffuse abdominal rebound tenderness,-72
+guarding,-72
+small bowel gangrene,-72
+bowel resection,-72
+stoma creation,-72
+septic shock,0
+stoma gangrene,0
+transferred to center,0
+remnant small intestine resection,0
+gastrodouodenostomy tube insertion,0
+admitted to intensive care unit,0
+admitted to intestinal rehabilitation unit,24
+parenteral nutrition,24
+listed for small intestinal transplantation,24
+AB+ blood group,0
+negative flow panel reactive assay,0
+negative anti-HLA antibodies,0
+positive bacterial culture (central venous catheter),0
+pulmonary thromboembolism,0
+small intestine transplantation,0
+donor blood group O+,0
+methylprednisolone,0
+thymoglobulin,0
+rituximab,0
+rituximab (5th POD),120
+tacrolimus,0
+mycophenolate mofetil,0
+prednisolone,0
+small bowel biopsy (no rejection),120
+oral nutrition started,120
+hemoglobin 9 g/dL,120
+hemoglobin 7.2 g/dL,240
+hypotension,240
+tachycardia,240
+AB+ RBC transfusion (2 units),240
+hemoglobin 6.2 g/dL,264
+AB+ RBC transfusion,264
+hemoglobin 8 g/dL,264
+hemoglobin 6 g/dL,288
+acute jaundice,288
+total bilirubin 22 mg/dL,288
+exploratory laparotomy,288
+small intestinal hernia,288
+no internal bleeding,288
+LDH 935 U/L,288
+reticulocyte count 10%,288
+haptoglobin 0.149 g/L,288
+total bilirubin 34.9 mg/dL,288
+indirect bilirubin 18 mg/dL,288
+bilirubinuria (2+),288
+fragmented RBCs,288
+MCV 97 fL,288
+negative direct coombs test,288
+O+ RBC transfusion,288
+positive direct coombs test,336
+total bilirubin 11 mg/dL,432
+IVIG transfusion,432
+plasmapheresis (7 cycles),432
+decreased hemolysis severity,432
+discharged,1032
+hemoglobin 8.7 g/dL,1032
+cytomegalovirus infection,0
+acute rejection,0
+neck soft tissue abscess,1344
+sepsis,1344
+death,1344
+no medication-induced hemolysis,288
+no preexisting hemolytic disease,288
+no infection-induced hemolysis,288
+normal G6PD enzyme,0
+normal hemoglobin electrophoresis,0
+normal kidney function,288
+normal platelet count,288
+PLS suspected,288
+exclusion of TTP/HUS,288

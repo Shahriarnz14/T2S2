@@ -1,0 +1,48 @@
+event,time
+liver cirrhosis ,-72.0
+hepatocellular carcinoma ,-72.0
+admission ,0.0
+intravenous glycoppyrolate administration ,0.0
+general anesthesia induction ,0.0
+intubation ,0.0
+mechanical ventilation ,0.0
+stable vital signs ,0.0
+hepatectomy with CUSA ,0.0
+sudden decrease in arterial blood pressure ,1.0
+tachycardia ,1.0
+ST elevation on EKG ,1.0
+resuscitation with colloid and catecholamines ,1.0
+diagnosis of VAE and PAE ,1.0
+intraoperative ultrasonography ,1.0
+arterial blood gas analysis ,1.0
+catecholamine administration ,1.17
+restoration of end-tidal carbon dioxide ,1.5
+norepinephrine infusion ,1.5
+fluid resuscitation ,1.5
+disappearance of air emboli from left heart ,2.17
+completion of hepatectomy ,2.17
+end of surgery ,5.0
+intensive care unit admission ,5.0
+mechanical ventilation ,5.0
+norepinephrine infusion ,5.0
+abnormal PT/PTT ,5.0
+abnormal fibrinogen ,5.0
+abnormal d-dimer ,5.0
+abnormal antithrombin III ,5.0
+abnormal CK-MB ,5.0
+abnormal troponin-T ,5.0
+ST elevation on EKG ,5.0
+recovery of EKG findings ,24.0
+trans-thoracic echocardiogram ,24.0
+tapering out norepinephrine infusion ,24.0
+unchanged mental status ,120.0
+brain CT ,120.0
+brain MRI ,120.0
+multiple acute cerebral infarctions ,120.0
+weaning to spontaneous ventilation ,264.0
+extubation ,264.0
+unstable vital signs ,360.0
+intravenous administration of catecholamines ,360.0
+panperitonitis ,360.0
+cardiac arrest ,744.0
+death ,744.0

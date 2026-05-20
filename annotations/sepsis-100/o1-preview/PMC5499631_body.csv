@@ -1,0 +1,92 @@
+event,time
+15-year-old girl,0
+168 cm,0
+57 kg,0
+acute myelogenous leukemia,0
+received standard induction treatment consisting of 2 cycles of chemotherapy according to AML-BFM guidelines,-672
+developed pancytopenia,-504
+received broad anti-infective treatment for an infection with unknown focus with ciprofloxacin,-504
+received broad anti-infective treatment for an infection with unknown focus with linezolid,-504
+received broad anti-infective treatment for an infection with unknown focus with meropenem,-504
+received broad anti-infective treatment for an infection with unknown focus with tobramycin,-504
+received broad anti-infective treatment for an infection with unknown focus with liposomal amphotericin,-504
+developed tachycardia (140/min),-72
+developed hypotension (75/41 torr),-72
+developed lactic acidosis,-72
+admitted to pediatric intensive care unit,0
+transthoracic echocardiography revealed severely impaired left ventricular ejection fraction (12%) without dilatation of left ventricle (LVIDd 38 mm),0
+electrocardiogram showed sinus tachycardia with incomplete right bundle branch block,0
+"N-terminal prohormone of brain natriuretic peptide (NT-proBNP) was 19,384 pg/ml (normal range 0–153 pg/ml)",0
+high-sensitive troponin T 53.7 pg/ml (normal range 0–14 pg/ml),0
+started fluid therapy,0
+noradrenaline started,0
+dobutamine started,0
+milrinone started,0
+deep sedation initiated,0
+mechanical ventilation initiated due to respiratory insufficiency,0
+"lactic acidosis worsened (16 mmol/l, pH 6.91)",3
+remained hypotensive (50/30 torr),3
+heart rate 160/min,3
+va-ECMO initiated via cannulation of left femoral artery and vein,6
+9 Fr sheath placed into left superficial femoral artery to ensure distal leg perfusion,6
+va-ECMO applied at blood flow of 3.3 l/min at 3800 rpm,6
+noradrenaline administered (80 µg/min),6
+vasopressin administered (2 units/h),6
+levosimendan administered (0.5 mg/h),6
+hydrocortisone administered (200 mg/d),6
+residual LVEF remained at about 10–15%,6
+continuous venovenous hemodiafiltration started because of anuric acute kidney injury,6
+anti-infective therapy continued with dose-adjustment of meropenem,6
+anti-infective therapy continued with dose-adjustment of ciprofloxacin,6
+anti-infective therapy continued with dose-adjustment of metronidazole,6
+anti-infective therapy continued with dose-adjustment of cotrimoxazole,6
+anti-infective therapy continued with dose-adjustment of liposomal amphotericin B,6
+anti-infective therapy continued with dose-adjustment of acyclovir,6
+linezolid replaced by vancomycin,6
+procalcitonin was 2.37 ng/ml,6
+C-reactive protein was 2.98 mg/dl,6
+mean arterial pressure declined to 40 torr despite increasing doses of vasopressors,36
+noradrenaline increased to 144 µg/min,36
+vasopressin increased to 4 IE/h,36
+LVEF decreased below 10%,36
+levosimendan infusion stopped after 21 hours without positive effect,27
+acute ischemic injury of non-cannulated leg developed,36
+right femoral artery was dissected in groin,36
+insufficient blood inflow due to low cardiac output causing leg ischemia,36
+lactate levels rose to 25 mmol/l,36
+Dacron conduit sewn on right femoral artery and second arterial cannula introduced through conduit connected to ECMO circuit,36
+impaired lung function,36
+inspiratory oxygen fraction increased up to 0.55 to prevent Harlequin syndrome,36
+procalcitonin levels rose to 42.5 ng/ml,36
+Hickman catheter was explanted as potential septic focus,36
+no causal organism identified,36
+broad-complex tachycardia occurred,36
+treated with esmolol,36
+treated with metoprolol,36
+left ventricular function further decreased,36
+aortic valve ceased to open,36
+second venous cannula placed through right femoral vein into left atrium via percutaneous atrioseptostomy,36
+second venous cannula connected to ECMO circuit by another Y-connector,36
+lactate levels peaked at 29 mmol/l but fell instantly,36
+mean arterial pressure rose from nadir of 30 torr after acidosis leveled out,36
+echocardiography showed left ventricle was unloaded with no residual left ventricular function,36
+therapeutic anticoagulation ensured by unfractionated heparin with target partial thrombin time of 60–80 s,36
+PCT peaked at 80.4 ng/ml,72
+CRP peaked at 7.23 mg/dl,72
+leukocytes remained low at 300/µl,72
+high-sensitive troponin T increased to 343 pg/ml,72
+creatine kinase MB increased to 178 U/l,72
+CK total 577 U/l,72
+all microbial specimens collected during this period remained negative,72
+viral myocarditis was excluded by myocardial biopsy,72
+cardiac systolic function gradually recovered,72
+ECMO cannulas in left femoral vessels were removed,120
+"ECMO was completely removed after LVEF recovered to approximately 30%, with mean arterial pressure 60–70 torr",168
+"after removal of transseptal cannula, no relevant communication between left and right atrium observed",168
+CVVHDF could be stopped due to normal renal function,168
+leucocyte count recovered to 1000/µl,312
+leucocyte count reached normal values,720
+respirator weaning reached,792
+successful allogenic stem cell transplantation performed,1008
+"patient discharged to rehabilitation facility, still suffering from severe critical illness polyneuropathy",5520
+LVEF recovered to approximately 40% without ventricular dilatation,5520

@@ -1,0 +1,88 @@
+event,time
+84-year-old,0
+male,0
+admitted to the hospital,0
+right inguinal pain,-48
+fever,-48
+decreased appetite,-48
+limited mobility,-48
+obesity,0
+permanent atrial fibrillation,0
+apixaban,0
+chronic kidney disease stage IIIb,0
+repaired abdominal aortic aneurysm,0
+endovascular graft,0
+motor vehicle accident,-2160
+left knee hemarthrosis,-2160
+left lower limb cellulitis,-2160
+resolved cellulitis,0
+hypotension,0
+blood pressure 95/61 mmHg,0
+febrile 37.8°C,0
+hypoxia,0
+oxygen saturation 90%,0
+heart rate 75/min,0
+weight 114.4 kg,0
+alert,0
+oriented,0
+unremarkable cardiovascular exam,0
+unremarkable inguinal exam,0
+unremarkable ocular exam,0
+no infective endocarditis stigmata,0
+cellulitis left lower limb,0
+erythema extending from hemarthrosis scar,0
+acute on chronic renal impairment,0
+creatinine 111 μmol/L,0
+albumin 32 g/L,0
+total bilirubin 18 μmol/L,0
+creatinine kinase 72 U/L,0
+aspartate aminotransferase 14 U/L,0
+alanine transferase 10 U/L,0
+white cell count 8.7 × 10⁹/L,0
+neutrophil count 7.24 × 10⁹/L,0
+lymphocyte count 0.66 × 10⁹/L,0
+pH 7.45,0
+HCO3 22 mmol/L,0
+lactate 2.3 mmol/L,0
+unremarkable coagulation profile,0
+unremarkable lymphocyte subsets,0
+unremarkable immunoglobulin subsets,0
+unremarkable HIV serology,0
+C-reactive protein 95 mg/L,0
+SOFA score 3,24
+CT angiography no acute findings,24
+intravenous flucloxacillin,24
+gentamicin,24
+vancomycin,24
+crystalloid fluid resuscitation,24
+metaraminol infusion,24
+intensive care unit admission,24
+hypoxia improvement,72
+positive blood cultures,24
+Staphylococcus schleiferi ssp. coagulans,72
+IV piperacillin/tazobactam,72
+IV vancomycin,72
+antimicrobial susceptibility testing,72
+IV flucloxacillin,72
+transthoracic echocardiography,72
+transesophageal echocardiography,72
+no infective endocarditis,72
+CT-PET FDG uptake left iliac graft,168
+exposure to pet dog otorrhea,-168
+dog otitis externa,-168
+dog treated with topical miconazole,-168
+dog treated with prednisolone,-168
+dog treated with polymyxin B,-168
+dog licking patient,0
+ocular exposure to otorrhea,0
+lower limb exposure to otorrhea,0
+left knee hemarthrosis,0
+vascular surgical opinion,168
+multidisciplinary team discussion,168
+indefinite antimicrobial suppression,168
+oral flucloxacillin,168
+IV flucloxacillin course,168
+pulmonary edema,168
+diuresis with furosemide,168
+discharged,168
+outpatient antimicrobial therapy,168

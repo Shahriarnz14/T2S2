@@ -1,0 +1,68 @@
+event,time
+28 years old,0
+male,0
+schizophrenia,-6720 (assuming chronic condition predating admission)
+admitted to Emergency Department,0
+impaired vigilance of unknown duration,"-unknown (before admission, approximated to -24 based on guardian's last contact)"
+depleted clozapine blisters (8 g) found,-24 (before admission)
+somnolent,0
+Glasgow Coma Scale 11,0
+sinus tachycardia 130/min,0
+hypertension 157/93 mmHg,0
+watch and wait strategy,0
+symptomatic therapy,0
+cranial CT (no cerebral pathologies),0
+"thoracic CT (pulmonary infiltrates, atelectasis)",0
+pneumomediastinum,0
+soft-tissue emphysema,0
+rhabdomyolysis,0
+crush syndrome,0
+acute renal failure AKIN II,0
+creatinine 188 µmol/l,0
+myoglobin 6231 µg/l,0
+creatine kinase 367 µkat/l,0
+urine investigations negative for other drugs,0
+progressive impairment of vigilance,+6 (during initial hours in ED)
+respiratory insufficiency,+6
+GCS 7,+6
+oxygen saturation <90%,+6
+respiratory rate 26/min,+6
+invasive ventilation required,+6
+no fever,0
+bronchoscopy (no air leakage),+6
+esophagogastroduodenoscopy (no air leakage),+6
+SOFA score 15,+6
+sepsis (community-acquired pneumonia),+6
+Piperacillin/Tazobactam initiated,+6
+admitted to ICU,+10
+septic shock,+10
+vasopressors required,+10
+vasopressors tapered,+12 (after fluid supplementation)
+hypertension developed,+12
+moderate tachycardia,+12
+sodium nitroprusside required,+12
+extubated after 31 hours,+31
+drowsiness (RASS-2),+31
+tachycardia,+31
+hypertension,+31
+inadequate communication,+31
+hyposalivation,+31
+anticholinergic syndrome,+31
+physostigmine treatment,+31
+RASS 0 after physostigmine,+34 (assuming improvement within 3 hours)
+tachycardia resolved,+34
+hypertension resolved,+34
+physostigmine discontinued after 2 days,+72 (48 hours after initiation)
+follow-up CT at day 6,+144
+pneumomediastinum resolved,+144
+soft-tissue emphysema resolved,+144
+pneumonia resolving,+144
+serum clozapine decreased to therapeutic (day 4),+96
+transferred to Psychiatry Department,+144
+confirmed clozapine intake,+144
+denied suicidal intent,+144
+awake and oriented (RASS 0),+144
+creatinine 78 µmol/l,+144
+myoglobin 145 µg/l,+144
+WBC 10.5 GPt/l,+144
+no oxygen required,+144

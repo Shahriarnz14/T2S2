@@ -1,0 +1,98 @@
+event,time
+24 years old,0
+male,0
+admitted to our hospital,0
+bilateral lumbago,-336
+fever,-336
+hematuria,-336
+reduced urine volume,-336
+gross hematuria at the end of urination,-336
+visited another hospital,-336
+no past medical history,0
+no personal and family history,0
+body temperature 37.7°C,0
+WBC 42.08 ×10^9/L,0
+neutrophil count 0.89,0
+CRP 271.42 mg/L,0
+PCT 46.97 ng/mL,0
+creatinine 199 μmol/L,0
+Na 123 mmol/L,0
+alanine aminotransferase 63 U/L,0
+aspartate transaminase 96 U/L,0
+total bilirubin 177.3 μmol/L,0
+abscess drainage culture positive for MRSA,0
+blood culture negative for MRSA,0
+vancomycin MIC 0.5 μg/mL,0
+teicoplanin susceptible,0
+linezolid susceptible,0
+daptomycin susceptible,0
+"multiple lesions in left psoas major, iliopsoas, iliacus, piriformis",0
+inflammation and abscess formation,0
+local pneumatosis,0
+multiple calculi in left kidney,0
+calculus in left upper ureter,0
+"mild dilation and effusion in left renal pelvis, calyx, upper ureter",0
+admitted to emergency department,-336
+vancomycin 1g every 12h,-336
+no significant improvement,-336
+"CT re-examination June 2, 2020",-120
+abscess in psoas major similar to previous,-120
+bilateral pleural effusion progressed,-120
+WBC 23.59 ×10^9/L,-144
+neutrophil count 0.902,-144
+CRP 113.2 mg/L,-144
+creatinine 176 μmol/L,-144
+Na 126 mmol/L,-144
+PCT 2.57 ng/mL,-144
+transferred to ICU,-144
+fever 37.9°C,-144
+shortness of breath,-144
+respiratory rate 33 bpm,-144
+fast heart rate 116 bpm,-144
+multiple renal calculi,-144
+ureteral calculi,-144
+indwelling urinary catheter,-144
+complicated urinary tract infection,-144
+imipenem and cilastatin sodium 1g every 8h,-144
+vancomycin trough concentration 35.18 μg/mL,-144
+pathogenic metagenomics testing positive for MRSA,-120
+drained pus culture MRSA,-120
+vancomycin MIC 1.5 μg/mL,-120
+persistent hyperpyrexia 38.9°C,-96
+duration of temperature above 38°C 13h,-96
+left leg red and swollen,-96
+new abscess under B-ultrasonography,-96
+CT scans new infectious lesions,-96
+CRP 139.62 mg/L,-96
+WBC 26.86 ×10^9/L,-96
+neutrophil count 0.883,-96
+psoas abscess,0
+sepsis (MRSA bacteremia),0
+kidney calculi with ureteral calculi,0
+skin and soft tissue infection,0
+switched to daptomycin 0.5g daily,-96
+linezolid 0.6g every 12h,-96
+ultrasound-guided catheter drainage left renal pelvis,-96
+fever persisted 38.8°C,-72
+duration above 38°C 10h,-72
+CRP 79.86 mg/L,-72
+WBC 19.17 ×10^9/L,-72
+neutrophil count 0.841,-72
+PCT 0.61 ng/mL,-72
+stable respiration and circulation,0
+fever duration 8h,0
+infection indicators decreased,0
+transferred to general ward,240
+daptomycin 0.5g daily continued,240
+linezolid 0.6g every 12h continued,240
+imipenem de-escalated to cefoperazone sulbactam,240
+drainage culture negative,264
+no fever,264
+PCT 0.21 ng/mL,456
+WBC 10.36 ×10^9/L,456
+CRP 35.56 mg/L,456
+neutrophil count 0.706,456
+no fever recorded,456
+stable condition,504
+discharged,504
+left nephrostomy tube unobstructed,504

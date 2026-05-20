@@ -1,0 +1,90 @@
+event,time
+47-year-old,0
+woman,0
+presented to emergency department,0
+weakness,0
+numbness of the limbs,0
+nausea,0
+fatigue,0
+dyspnea,0
+fever,-168
+cough,-168
+acute upper respiratory infection,-168
+influenza virus A infection,-168
+weakness,-48
+numbness of the limbs,-48
+history of Guillain-Barré syndrome,-61320
+influenza virus A infection (previous),-61320
+clear consciousness,0
+blood pressure 84/58 mmHg,0
+heart rate 115 beats/minute,0
+peripheral oxygen saturation 99%,0
+respiratory rate 22 breaths/minute,0
+body temperature 35.7°C,0
+muscle strength 3/5 lower extremities,0
+muscle strength 4/5 upper extremities,0
+sinus tachycardia,0
+elevated ST segment V2-6,0
+cardiothoracic ratio 53%,0
+pulmonary congestion,0
+troponin I 1.3 ng/mL,0
+brain natriuretic peptides 896 pg/mL,0
+creatine kinase 235 IU/L,0
+creatine kinase-myocardial band 15.5 IU/L,0
+influenza virus A positive PCR,0
+negative Campylobacter serology,0
+negative coxsackievirus serology,0
+negative adenovirus serology,0
+negative cytomegalovirus serology,0
+negative parvovirus B19 serology,0
+negative Epstein-Barr virus serology,0
+negative human herpesvirus 6 serology,0
+negative enterovirus serology,0
+negative hepatitis serology,0
+negative HIV serology,0
+LV end-diastolic diameter 38 mm,0
+ejection fraction 25%,0
+LV wall thickness 14 mm,0
+myocardial edema,0
+no coronary artery stenosis,0
+lymphocytes present on biopsy,0
+no eosinophils on biopsy,0
+no giant cells on biopsy,0
+fulminant myocarditis diagnosis,0
+VA-ECMO support,6
+IABP support,6
+sedation,6
+shock state persists,0
+norepinephrine administration,0
+LV function severely reduced,6
+EF 4%,6
+aortic valve hardly opened,6
+increased liver enzymes,72
+bilirubin peak 5.6 mg/dL,72
+AST 409 IU/dL,72
+ALT 120 IU/dL,72
+gradual LV improvement,168
+EF 67%,168
+weaned from VA-ECMO,168
+weaned from IABP,168
+ventilator weaned,264
+cessation of sedation,192
+motor disorders limbs persisted,192
+sensory disorders limbs persisted,192
+muscle strength lower extremities 0/5,192
+muscle strength upper extremities 1/5,192
+absent deep tendon reflexes,192
+glove-and-stocking sensory disturbance,192
+decreased CMAP median nerve,192
+decreased CMAP ulnar nerve,192
+absent CMAP tibial nerve,192
+acute motor axonal neuropathy,192
+no albuminocytologic dissociation,192
+axonal GBS diagnosis,192
+immunoadsorption therapy,216
+motor improvement,216
+sensory improvement,216
+discharged on foot,648
+no respiratory muscle paralysis,0
+no ICU-AW,192
+immunoadsorption complications monitored,216

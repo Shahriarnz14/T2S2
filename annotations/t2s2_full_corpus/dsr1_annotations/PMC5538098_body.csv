@@ -1,0 +1,112 @@
+event,time
+57 years old,0
+male,0
+admitted to the hospital,0
+diarrhea,-1080
+weight loss,-1080
+intermittent fever,-1080
+right loin pain,-1080
+intermittent abdominal pain,-1080
+small volume diarrhea,-5760
+weight loss of 8 kg over 8 months,-5760
+no prior comorbidities,0
+denies fever,0
+denies vomiting,0
+denies cough,0
+denies urinary symptoms,0
+recurrent infections,0
+history of tuberculosis,0
+tuberculosis contact,0
+no exposure to cattle,0
+no exposure to pets,0
+reported consumption of cooked food,0
+no food intolerance,0
+lives in rural South India,0
+walks barefooted in farm,0
+consumes alcohol daily,0
+denies intravenous drug abuse,0
+denies high-risk sexual behavior,0
+not on steroids,0
+not on immunosuppressive drugs,0
+cachexia,0
+hypotension,0
+blood pressure 80/60,0
+dry tongue,0
+sunken eyes,0
+oral candida,0
+perioral vitiligo,0
+generalized macular erythematous lesion,0
+purpuric lesion over trunk and abdomen,0
+nonmigratory lesions,0
+right loin tenderness,0
+bilateral wheezes,0
+no neck stiffness,0
+normal cardiac examination,0
+chronic diarrhea syndrome,0
+possible sepsis,0
+admitted to medical Intensive Care Unit,0
+started on ertapenem,0
+started on flucanozole,0
+neutrophilic leucocytosis,0
+low protein,0
+low albumin,0
+macrocytic anemia,0
+low mg,0
+low K,0
+low B12,0
+low folate,0
+normal cortisol,0
+stool GI pathogen multiplex PCR negative,0
+contrast CT chest,24
+contrast CT abdomen,24
+ground glass opacities,24
+ileocaecal thickening,24
+upper GI endoscopy,24
+biopsy,24
+antral gastritis,24
+colonoscopy,24
+colonoscopy biopsy,24
+small ulcers throughout colon,24
+blood culture Klebsiella pneumoniae,0
+stool routine initial sample pinworms,0
+duodenal biopsy Strongyloides larvae,24
+colonic biopsy chronic colitis,24
+repeat stool Strongyloides positive,72
+Strongyloides hyperinfection,24
+started on ivermectin,24
+diarrhea settled,48
+developed encephalopathy,48
+switched to meropenem,48
+brain imaging normal,48
+CSF pyogenic meningitis,48
+CSF cell count 1200,48
+CSF protein 213,48
+CSF sugar 40,48
+CSF Gram stain negative,48
+CSF multiplex PCR Klebsiella,48
+CSF culture Enterococcus faecium,72
+improved with meropenem,72
+improved with vancomycin,72
+repeat stool persistent Strongyloides,72
+added albendazole,72
+skin lesions larva migrans,72
+autoimmune workup negative,72
+HIV negative,72
+CD4 1270,72
+low IgG,72
+low IgM,72
+low IgE,72
+normal IgA,72
+no thymoma,72
+no lymph node enlargement,72
+peripheral smear normal,72
+common variable immunodeficiency considered,72
+HTLV serology negative,72
+CD19 negative,72
+CD20 negative,72
+antiendomysial antibody negative,72
+tissue transglutaminase antibody negative,72
+IVIg 400 mg/kg,72
+stool cleared of Strongyloides,96
+improved remarkably,96
+discharged,96

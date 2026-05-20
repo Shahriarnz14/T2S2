@@ -1,0 +1,50 @@
+event,time
+24-year-old,0
+female,0
+presented to the emergency department of our hospital,0
+severe headache,-72
+projectile vomiting,-72
+no history of fever,-72
+no history of convulsions,-72
+no history of any focal neurological deficit,-72
+treated outside symptomatically,-24
+no relief,-24
+admitted to our hospital,0
+provisionally diagnosed with metabolic encephalopathy,0
+put on symptomatic treatment,0
+transferred to intensive care unit,6
+deteriorated,6
+altered sensorium,6
+Glasgow Coma Scale-9,6
+high-grade fever,6
+chills,6
+investigations revealed dyselectrolytemia,8
+serum potassium – 3.7 mEq/L,8
+low serum phosphate (1.57 mg/dL),8
+"neutrophilic leukocytosis (total leukocyte count – 24,170/μl with neutrophils – 91%)",8
+Cerebrospinal fluid (CSF) was sent for evaluation,10
+empirically treated with ceftriaxone,11
+Gram stain of CSF: polymorphs and lymphocytes with Gram-positive bacilli,12
+CSF biochemistry: Raised protein (91 mg/dL),12
+CSF biochemistry: decreased glucose (6 mg/dL),12
+CSF biochemistry: normal ADA,12
+CSF cytology: high cell count (1080/cm) with 60% neutrophils and 40% lymphocytes,12
+blood culture taken at admission,0
+blood culture grew Gram-positive bacilli,24
+blood culture ignored as diphtheroids,24
+blood culture on reevaluation recognized as Listeria monocytogenes,48
+Culture of CSF grew Listeria monocytogenes,48
+identified by conventional methods,48
+"identified by automated methods (VITEK-2, Biomerieux)",48
+listerial meningitis,48
+"Colony on blood agar and chocolate agar: Grayish, translucent, smooth, nonhemolytic, about 1 mm in diameter",48
+Gram stain of isolate: Gram-positive coccobacilli,48
+"Biochemical reaction: Catalase positive, oxidase negative, CAMP positive, motile at 25°C, nonmotile at 37°C, glucose and mannitol fermenting, hydrolyzed bile esculin, MR positive, VP positive, indole positive, hydrolyze urea, utilize citrate",48
+"Sensitivity by Kirby Bauer’s disc diffusion method: Sensitive-amikacin, clarithromycin, meropenem, netilmicin, piperacillin tazobactam, amoxicillin clavulanic acid, imipenem",60
+Sensitivity by Kirby Bauer’s disc diffusion method: Resistant- ceftriaxone,60
+switched to meropenem,60
+other corrective measures,60
+no preexisting illness,24
+no prolonged medication,24
+clinical improvement,96
+microbiological improvement,96

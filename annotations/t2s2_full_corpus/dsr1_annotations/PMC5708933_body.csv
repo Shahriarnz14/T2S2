@@ -1,0 +1,231 @@
+event,time
+27 years old,0
+woman,0
+gravida 2 para 0,0
+pregnancy,0
+admitted,0
+abdominal pain,0
+fever,0
+body temperature 38.9 °C,0
+blood pressure 110/70 mm Hg,0
+heart rate 115 beats per minute,0
+marked splenomegaly,0
+no swelling of superficial lymph nodes,0
+no tumor mass,0
+hemoglobin level 7.9 g/dL,0
+absolute neutrophil count 0.92 × 109/L,0
+platelet count 25 × 109/L,0
+elevated alanine aminotransferase 72 U/L,0
+elevated aspartate aminotransferase 463 U/L,0
+elevated lactate dehydrogenase 1799 U/L,0
+elevated C-reactive protein 19.5 mg/dL,0
+hypofibrinogenemia 0.94 g/L,0
+"elevated serum ferritin 438,600 ng/mL",0
+prolonged prothrombin time,0
+elevated fibrinogen degradation product 48.7 μg/mL,0
+splenic swelling 9.8 cm thick,0
+negative viral serology,0
+no relief of symptoms,0
+elevated alanine aminotransferase 163 U/L,24
+elevated aspartate aminotransferase 825 U/L,24
+deteriorating general status,24
+fetal distress,24
+emergency cesarean section,24
+male infant delivered,24
+Apgar scores 5 to 8,24
+respiratory distress syndrome,24
+no macroscopic placental abnormalities,24
+declining postoperation condition,48
+disseminated intravascular coagulation,48
+transfusion of 2 units packed red blood cells,48
+transfusion of 2 units fresh frozen plasma,48
+hemoglobin 5.7 g/dL,48
+pink drainage fluid,48
+swollen spleen 6.3 cm,48
+probable postoperative abdominal hemorrhage,48
+explorative laparotomy,48
+ruptured spleen,48
+splenectomy,48
+no improvement,72
+degrading liver function,72
+acute respiratory distress,72
+sustained kidney injury,72
+intensive care unit admission,72
+PiCCO monitor,72
+CRRT,72
+ventilator assistance,72
+multiple blood product transfusions,72
+persistent cytopenia,72
+coagulopathy,72
+deteriorating condition,72
+bone marrow biopsy,72
+focal hemophagocytosis,72
+atypical lymphoid cells,72
+no abnormal clone cells,72
+no PNH clones,72
+3.57% abnormal NK cells,72
+attenuated CD7 and cytoplasin,72
+no expression of CD16,72
+no expression of CD11b,72
+no expression of CD8,72
+no expression of CD57,72
+Ki67 28.8%,72
+positive EBV serology,72
+EBV DNA >1.0 × 107,72
+splenic rupture,72
+splenic tissue structure discernible,72
+atrophied splenic corpuscle,72
+splenic pulp with histiocyte proliferation,72
+hemophagocytosis in spleen,72
+diffuse lymphoid cell infiltration,72
+T-cell infiltration,72
+CD56(+),72
+GrB(+),72
+TIA-1(+),72
+CD2(+),72
+CD3(part+),72
+CD5(−),72
+CD7(+),72
+CD43(+),72
+CD4(−),72
+CD8(−),72
+TdT(−),72
+CD20(−),72
+CD79α(−),72
+PAX-5(−),72
+CD34(−),72
+CD117(−),72
+MPO(−),72
+CD99(−),72
+CD123(−),72
+LCA(+),72
+CD68(−),72
+CD163(−),72
+Mum-1(−),72
+κ(−),72
+λ(−),72
+Ki-67 40%,72
+EBER CISH (+),72
+diagnosed invasive NK/T-cell lymphoma,72
+diagnosed HLH,72
+dexamethasone 10 mg/day,72
+etoposide 270 mg/week,72
+rituximab 370 mg/m2 weekly,72
+clinical deterioration,168
+multiorgan failure,408
+died,408
+27 years old,0
+woman,0
+gravida 2 para 0,0
+pregnancy,0
+admitted,0
+abdominal pain,0
+fever,0
+body temperature 38.9 °C,0
+blood pressure 110/70 mm Hg,0
+heart rate 115 beats per minute,0
+marked splenomegaly,0
+no swelling of superficial lymph nodes,0
+no tumor mass,0
+hemoglobin level 7.9 g/dL,0
+absolute neutrophil count 0.92 × 10⁹/L,0
+platelet count 25 × 10⁹/L,0
+elevated alanine aminotransferase 72 U/L,0
+elevated aspartate aminotransferase 463 U/L,0
+elevated lactate dehydrogenase 1799 U/L,0
+elevated C-reactive protein 19.5 mg/dL,0
+hypofibrinogenemia 0.94 g/L,0
+"elevated serum ferritin 438,600 ng/mL",0
+prolonged prothrombin time,0
+elevated fibrinogen degradation product 48.7 μg/mL,0
+splenic swelling 9.8 cm thick,0
+negative viral serology,0
+no relief of symptoms,0
+elevated alanine aminotransferase 163 U/L,24
+elevated aspartate aminotransferase 825 U/L,24
+deteriorating general status,24
+fetal distress,24
+emergency cesarean section,24
+male infant delivered,24
+Apgar scores 5 to 8,24
+respiratory distress syndrome,24
+no macroscopic placental abnormalities,24
+declining postoperation condition,48
+disseminated intravascular coagulation,48
+transfusion of 2 units packed red blood cells,48
+transfusion of 2 units fresh frozen plasma,48
+hemoglobin 5.7 g/dL,48
+pink drainage fluid,48
+swollen spleen 6.3 cm,48
+probable postoperative abdominal hemorrhage,48
+explorative laparotomy,48
+ruptured spleen,48
+splenectomy,48
+no improvement,72
+degrading liver function,72
+acute respiratory distress,72
+sustained kidney injury,72
+intensive care unit admission,72
+PiCCO monitor,72
+CRRT,72
+ventilator assistance,72
+multiple blood product transfusions,72
+persistent cytopenia,72
+coagulopathy,72
+deteriorating condition,72
+bone marrow biopsy,72
+focal hemophagocytosis,72
+atypical lymphoid cells,72
+no abnormal clone cells,72
+no PNH clones,72
+3.57% abnormal NK cells,72
+attenuated CD7 and cytoplasin,72
+no expression of CD16,72
+no expression of CD11b,72
+no expression of CD8,72
+no expression of CD57,72
+Ki67 28.8%,72
+positive EBV serology,72
+EBV DNA >1.0 × 10⁷,72
+splenic rupture,72
+splenic tissue structure discernible,72
+atrophied splenic corpuscle,72
+splenic pulp with histiocyte proliferation,72
+hemophagocytosis in spleen,72
+diffuse lymphoid cell infiltration,72
+T-cell infiltration,72
+CD56(+),72
+GrB(+),72
+TIA-1(+),72
+CD2(+),72
+CD3(part+),72
+CD5(−),72
+CD7(+),72
+CD43(+),72
+CD4(−),72
+CD8(−),72
+TdT(−),72
+CD20(−),72
+CD79α(−),72
+PAX-5(−),72
+CD34(−),72
+CD117(−),72
+MPO(−),72
+CD99(−),72
+CD123(−),72
+LCA(+),72
+CD68(−),72
+CD163(−),72
+Mum-1(−),72
+κ(−),72
+λ(−),72
+Ki-67 40%,72
+EBER CISH (+),72
+diagnosed invasive NK/T-cell lymphoma,72
+diagnosed HLH,72
+dexamethasone 10 mg/day,72
+etoposide 270 mg/week,72
+rituximab 370 mg/m² weekly,72
+clinical deterioration,168
+multiorgan failure,408
+died,408

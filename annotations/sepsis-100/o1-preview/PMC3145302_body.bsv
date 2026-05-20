@@ -1,0 +1,44 @@
+28 years old|0  
+8 weeks pregnant|0  
+Short non-infective prodrome|-6  
+Acute severe asthma|-4  
+Hypoxic cardiac arrest|-2  
+Ventricular fibrillation|-2  
+Resuscitation|-2  
+Endotracheal intubation|-2  
+Admitted to ICU|0  
+Therapeutic hypothermia|0  
+Salbutamol inhaled|0  
+Salbutamol intravenous|0  
+Ipratropium|0  
+Aminophylline|0  
+Hydrocortisone|0  
+Magnesium|0  
+Ketamine|0  
+Inhalation anesthesia with 1 MAC isoflurane|0  
+Severe hypercapnic acidosis|0  
+Inadequate minute ventilation|0  
+Neuromuscular blockade initiated|0  
+Ventilation improving|0  
+Ceased intravenous sedatives|48  
+Ceased neuromuscular blockade|48  
+Used 0.25–0.5 MAC isoflurane as sole sedative|48  
+Developed generalised status myoclonus|48  
+Isoflurane stopped|96  
+Comatose|96  
+Absent motor response to painful stimulus|96  
+Preserved pupillary reflexes|96  
+Preserved corneal reflexes|96  
+Preserved cough reflex|96  
+Preserved gag reflex|96  
+Spontaneously breathing|96  
+Severe GSM|96  
+GSM refractory to three antiepileptic medications|96  
+Administered antiepileptic medications|96  
+Electroencephalography showed generalised periodic discharges with no discernable background rhythm|96  
+Reversible causes of coma eliminated|96  
+Plasma neuron-specific enolase (NSE) 51 mcg/L|96  
+SSEP unhelpful due to myoclonus motion artefacts|192  
+Brain MRI showed bilateral basal ganglia and frontoparietal cortex infarction consistent with severe hypoxic encephalopathy|240  
+Extubated with family agreement|240  
+Died in 24 h with comfort measures|264

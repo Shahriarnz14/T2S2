@@ -1,0 +1,56 @@
+Presentation
+A 47-year-old woman with a self-reported 11-year history of diabetes mellitus presented with 2 days of nausea, vomiting, decreased oral intake, and back pain radiating to the neck. Her review of systems was remarkable for a “throbbing” headache of 1 day’s duration. Her medications included levothyroxine, subcutaneous long-acting insulin (glargine), topiramate, and canagliflozin, a selective sodium–glucose cotransporter 2 (SGLT2) inhibitor of the gloflozin class, which had been initiated 2 weeks earlier.
+
+Her medical history was remarkable for post-thyroidectomy Graves’ disease, cholecystectomy for multiple cholelithiasis, depression, fibromyalgia, and hyperlipidemia. She also had a history of spinal fusion surgery.
+
+In the emergency department, she appeared volume depleted. Her vital signs were temperature 98.9° F, blood pressure 118/76 mmHg, and a regular heart rate of 91 bpm. Her BMI was 27.45 kg/m2. Physical examination was remarkable for dry mucosal membranes, the absence of axillary sweat, and mild epigastric tenderness. Blood chemistry tests revealed a glucose of 152 mg/dL, sodium 138 mEq/L, potassium 4.4 mEq/L, chloride 105 mEq/L, and total carbon dioxide 16 mEq/L, with an anion gap of 17. Her serum blood urea nitrogen and creatinine were 16 mg/dL and 0.76 mg/dL, respectively. An arterial blood gas revealed a mixed acid-base disorder with both an anion gap and non–anion gap metabolic acidosis, as well as a primary respiratory acidosis with a pH of 7.18, partial pressure of carbon dioxide (PCO2) of 47.6 mmHg, and bicarbonate of 17 mEq/L. Urinalysis revealed a pH of 5 with 2+ ketones and 3+ glucose. Thyroid and liver function tests were unremarkable, and her serum lactic acid level was 1 mEq/L. Urine and serum drug screens were nondiagnostic.
+
+Initial management included withholding insulin, discontinuing canagliflozin, and initiating intravenous volume expansion with 5 L of 0.9% saline on a medical-surgical floor. Cultures, a spine MRI, and lumbar puncture to exclude infection or sepsis were unremarkable.
+
+The patient’s oral intake remained poor, although her nausea and vomiting partially responded to antiemetic therapy with ondansetron. Her serum glucose remained <200 mg/dL, and as a result, insulin prescribed on a sliding scale was not administered. Her serum bicarbonate level fell to 10 mEq/L, and she was transferred to the medical intensive care unit for presumed acidemia.
+
+A repeat arterial blood gas per-formed 12 hours after initial hospitalization confirmed progressive acidemia despite improved ventilation (pH 7.05 and PCO2 26.9 mmHg). The calculated bicarbonate level fell to only 7 mEq/L, and the total serum carbon dioxide content was 5 mEq/L. Her blood glucose level remained low at 107 mg/dL.
+
+Because of the progressive acidosis, isotonic bicarbonate (150 mEq/L) in 5% dextrose was begun at a rate of 150 mL/hour. The patient successfully ingested a soft diet, and her blood glucose rapidly increased to the 200–300 mg/dL range. The renal and endocrine consultants made a presumptive diagnosis of atypical diabetic ketoacidosis (DKA), and an IV infusion of regular insulin at 2 units/hour was initiated. Within 12–16 hours, both the serum bicarbonate level and anion gap normalized. A regular diet was resumed after nausea, vomiting, and abdominal discomfort resolved. Although this patient was previously managed for type 2 diabetes, her C-peptide level was undetectable.
+
+Questions
+Which patients are at risk for SGLT2 inhibitor–induced DKA?
+
+Should latent autoimmune diabetes in adults (LADA) be excluded before patients are exposed to an SGLT2 inhibitor?
+
+What are the signs and symptoms of euglycemic DKA caused by an SGLT2 inhibitor?
+
+What is the optimal management of euglycemic DKA caused by these agents?
+
+
+
+Commentary
+SGLT2 inhibitors are a new class of antihyperglycemic drugs. Canagliflozin, the prototype SGLT2 inhibitor, was approved in 2013 for use in type 2 diabetes. Most of the body’s circulating glucose is reabsorbed in the proximal convoluted tubule. SGLT2 cotransporters primarily expressed on the apical border absorb >90% of proximal tubule glucose uptake (1). The reduction in glucose absorption at this site by SGLT2 inhibitors promotes glycosuria, thereby lowering blood glucose and inducing modest weight loss (2). Although this class of drugs is not approved for the treatment of hypertension, the osmotic diuretic effect of SGLT2 inhibitors has recently been shown to modestly lower blood pressure (3).
+
+Since its approval, sporadic reports of canagliflozin-associated side effects have emerged. The U.S. Food and Drug Administration (FDA) Adverse Event Reporting System database accumulated 20 cases of acute ketoacidosis over 18 months (from March 2013 to June 2014), suggesting that the gloflozin drug class increases the risk of this specific complication (4). Subsequently, the FDA released a “black box” warning in May 2015 regarding SGLT2 inhibitors as a potential cause of acute ketoacidosis. Although the type of diabetes present in these 20 case reports was not confirmed, the FDA warned that type 1 diabetes is a relative contraindication for this agent class (4). However, a recent phase 2 clinical study by Henry et al. (5) safely added SGLT2 inhibitors to insulin as combined treatment for type 1 diabetes. The combination of heightened awareness and mitigation strategies to minimize euglycemic DKA risk could now expand the use of SGLT2 inhibitors to a broader patient population.
+
+Recently, Bonner et al. (6) suggested that euglycemic DKA occurs because of the endocrine pancreatic effects of SGLT2 inhibitors. Specifically, inhibition of SGLT2 in glucagon-secreting α-cells of the pancreatic islets increases glucagon secretion, promotes hepatic ketogenesis, and potentially increases ketoacidosis risk.
+
+In our case, the initial absence of exogenous insulin treatment for 24 hours (partially because of concern about hypoglycemia in the absence of overt hyperglycemia) likely promoted ketoacid production, especially during the time period when both oral and intravenous caloric intake was markedly reduced. Low insulin levels promote lipolysis in adipose tissue and increase ketogenesis, potentially causing a dramatic drop in systemic pH. The relatively low glucose level is partly caused by SGLT2 inhibitor–mediated glycosuria (7). The fall in systemic pH is exacerbated when renal organic acid secretion is limited by a volume depletion–mediated fall in glomerular filtration rate. In this case, the omission of exogenous insulin (because of poor caloric intake and relatively low serum glucose levels in an individual with presumed type 2 diabetes) likely contributed to continued ketoacidosis and the dramatic fall in serum bicarbonate (from 16 to 7 mEq/L) during the first 12 hours of admission.
+
+Interestingly, the calculated total base deficit at the peak of acidemia (∼524 mEq) far exceeded the exogenous bicarbonate delivered in the first 24 hours (300 mEq). Clearly, catabolism of circulating ketoacids contributed to bicarbonate regeneration and the improved acid-base status. In addition, ketoacid production would predictably fall as a result of both dextrose (a caloric source contained in the isotonic bicarbonate solution) and insulin administration.
+
+In this case, progressive acidemia with euglycemia were the key hallmarks of the patient’s disorder. Within 24 hours, both sepsis and lactic acidosis were rapidly excluded. The non–anion gap component of her acidosis was explored. In the absence of other causes such as diarrhea, topiramate-induced renal tubular acidosis was considered. Alternatively, prolonged excretion of ketoacids (i.e., the loss of bicarbonate equivalents) has been associated with a non-gap metabolic acidosis at hospital presentation (8). In the absence of other causes of an anion gap acidosis, the role of the SGLT2 inhibitor was considered.
+
+Although the type of diabetes often is not specified, marked anion gap acidosis in this case has been sporadically detected after SGLT2 inhibitor exposure (9,10). In these reports, ketoacidosis was ascribed either to the direct effect of the SGLT2 inhibitor or to the indirect effects of starvation, infection, or volume depletion. Although our patient exhibited features typical of euglycemic DKA, this entity has rarely been detected in patients with type 2 diabetes acutely exposed to an SGLT2 inhibitor (7). However, her onset of diabetes at the age of 37 years, combined with an undetectable C-peptide level, is consistent with LADA (7), in which low endogenous insulin levels prevail.
+
+Given the increased risk of ketoacidosis in people with type 1 diabetes compared to those with type 2 diabetes, the FDA expressed concern about exposing individuals with type 1 diabetes to this new drug class (4). These warnings are supported by the known effects of currently available SGLT2 inhibitors on pancreatic islet cell function, as well as this case report. Once manifest, rapid insulin administration and the provision of carbohydrate curtails ketoacid production and improves acidemia. In contrast, delayed recognition and treatment (even for 16 hours, as illustrated by our case) promote progressive acidosis and its potentially life-threatening complications (7).
+
+Clinical Pearls
+The presentation of euglycemic DKA in a patient exposed to an SGLT2 inhibitor should increase suspicion for insulin deficiency as the cause of diabetes.
+
+Potential effects of SGLT2 inhibitors on pancreatic islet cell function make this agent class relatively contraindicated in patients with either type 1 diabetes or LADA.
+
+Delayed recognition, as well as withheld calories and insulin, risk life-threatening metabolic acidosis in patients with euglycemic DKA.
+
+SGLT2 inhibitors should be promptly discontinued if metabolic acidosis develops.
+
+
+
+Duality of Interest
+No potential conflicts of interest relevant to this article were reported.

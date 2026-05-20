@@ -1,0 +1,77 @@
+event,time
+32 years old,0
+male,0
+admitted to the emergency department,0
+beating including multiple blunt trauma,0
+no penetrating injury,0
+Glasgow Coma Scale score 10,0
+heart rate 95,0
+blood pressure 120/80 mmHg,0
+loss of consciousness,0
+no nausea,0
+no vomiting,0
+pain on bilateral upper quadrants,0
+no abdominal tenderness,0
+no rebound tenderness,0
+no abdominal rigidity,0
+no hematuria,0
+leukocytosis 30.000×106/ml,0
+hemoglobin 14.8 g/dl,0
+AST 496 U/l,0
+ALT 940 U/l,0
+direct bilirubin 0.44 mg/dl,0
+total bilirubin 0.82 mg/dl,0
+computed tomography scan,0
+right parietal bone depression fracture,0
+free perihepatic fluid,0
+free perisplenic fluid,0
+splenic laceration suspected,0
+observation,4
+abdominal CT scan,4
+cranial CT,4
+increased perihepatic fluid,4
+heterogeneous appearance at falciform ligament,4
+focal enlargement at duodenum,4
+mural thickening at duodenum,4
+initial diagnosis of bleeding from liver due to laceration,4
+neurosurgeons decided to operate,4
+followed by neurosurgeons at neurosurgical ICU,4
+decreased abdominal pain,24
+"leukocyte count 15,800×106/ml",24
+AST 2265 U/l,24
+ALT 2224 U/l,24
+Hgb 9.5 g/dl,24
+tachycardia,48
+tenderness on four quadrants of abdomen,48
+total bilirubin 24.63 mg/dl,48
+serum total bilirubin 8.69 mg/dl,48
+direct bilirubin 10.8 mg/dl,48
+serum direct bilirubin 5.7 mg/dl,48
+urea 48 mg/dl,48
+serum urea 39 mg/dl,48
+creatinine 0.93 mg/dl,48
+serum creatinine 1.08 mg/dl,48
+amylase 214 U/l,48
+serum amylase 310 U/l,48
+exploratory laparotomy,48
+intestines covered with bile,48
+free bile in abdomen,48
+no gastric perforation,48
+no intestinal perforation,48
+common hepatic duct fully transected,48
+Bismuth type 2 injury,48
+Strasberg type E2 injury,48
+cholecystectomy,48
+instability of patient,48
+inflammation on tissues,48
+drain placed to common hepatic duct,48
+multiple drains placed,48
+operation ended,48
+followed up at general surgery ward,48
+abdominal drains removed day by day,48
+discharged postoperatively 10th day,240
+biliary drain changed for percutaneous drainage,720
+patient did not follow regular appointments,4320
+accepted second operation,4320
+Roux-en-Y hepaticojejunostomy,4320
+discharged postoperatively 10th day with full recovery,4320

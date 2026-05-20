@@ -1,0 +1,151 @@
+event,time
+60 years old,0
+gentleman,0
+insulin dependent diabetes mellitus,0
+failed renal allograft,0
+maintenance hemodialysis,0
+transferred to tertiary care center,0
+fever,0
+diffuse abdominal pain,0
+elevated white blood cell count,0
+CT scan showing air in failed renal allograft,0
+focal segmental glomerulosclerosis,-262800
+end-stage renal disease,-262800
+dilated cardiomyopathy,-262800
+bilateral radical nephrectomies,-189216
+right radical nephrectomy,-189216
+left radical nephrectomy,-189216
+kidney cancer,-189216
+deceased donor renal transplant,-131400
+left ventricular function worsening,-131400
+ejection fraction 25%,-131400
+severe mitral regurgitation,-131400
+acute renal failure,-131400
+transplant ureteric stricture,-131400
+balloon dilatation,-131400
+stent insertion,-131400
+transplant ureterectomy,-131400
+pyelovesicostomy,-131400
+psoas hitch of bladder,-131400
+myocardial infarction,-86400
+medical therapy,-86400
+no revascularization,-86400
+transplant failure,-86400
+anuria,-86400
+hemodialysis initiation,-86400
+deceased donor transplant wait list,-86400
+ICU admission,-43200
+hypoglycemia,-43200
+fever,-43200
+NSTEMI,-43200
+in-hospital arrest,-43200
+hepatomegaly,-43200
+right-sided heart failure,-43200
+elevated white blood cell count,-43200
+blood culture grew Bacteroides,-43200
+ciprofloxacin,-43200
+metronidazole,-43200
+CT abdomen and pelvis,-43200
+no foley's catheterization,-43200
+no recent urologic instrumentation,-43200
+piperacillin-tazobactam initiation,-43200
+transfer to tertiary care center,-43200
+allograft nephrectomy,0
+emergent subcapsular nephrectomy,0
+necrotic kidney with pus,0
+no significant blood loss,0
+ICU transfer postoperatively,0
+stable over next few days,96
+died,96
+myocardial infarction,96
+histopathology: necrotic kidney with acute inflammation,96
+total effacement of kidney architecture,96
+emphysematous pyelonephritis,0
+Bacteroides infection,0
+no urine culture,0
+anuric,0
+poor baseline cardiac function,0
+recent NSTEMI,0
+multiple co-morbidities,0
+sepsis,0
+no metastatic spread from kidney cancer,-189216
+failed balloon dilatation,-131400
+failed stent insertion,-131400
+death due to cardiac complications,96
+delay in diagnosis and treatment,0
+successful nephrectomy,0
+recovery from surgery,96
+60 years old,0
+male,0
+admitted to the hospital,0
+insulin dependent diabetes mellitus,0
+failed renal allograft,0
+maintenance hemodialysis,0
+transferred to tertiary care center,0
+fever,0
+diffuse abdominal pain,0
+elevated white blood cell count,0
+CT scan showing air in failed renal allograft,0
+focal segmental glomerulosclerosis,-262800
+end-stage renal disease,-262800
+dilated cardiomyopathy,-262800
+bilateral radical nephrectomies,-189216
+right radical nephrectomy,-189216
+left radical nephrectomy,-189216
+kidney cancer,-189216
+deceased donor renal transplant,-131400
+left ventricular function worsening,-131400
+ejection fraction 25%,-131400
+severe mitral regurgitation,-131400
+acute renal failure,-131400
+transplant ureteric stricture,-131400
+balloon dilatation,-131400
+stent insertion,-131400
+transplant ureterectomy,-131400
+pyelovesicostomy,-131400
+psoas hitch of bladder,-131400
+myocardial infarction,-86400
+medical therapy,-86400
+no revascularization,-86400
+transplant failure,-86400
+anuria,-86400
+hemodialysis initiation,-86400
+deceased donor transplant wait list,-86400
+ICU admission,-43200
+hypoglycemia,-43200
+NSTEMI,-43200
+in-hospital arrest,-43200
+hepatomegaly,-43200
+right-sided heart failure,-43200
+blood culture grew Bacteroides,-43200
+ciprofloxacin,-43200
+metronidazole,-43200
+CT abdomen and pelvis,-43200
+no foley's catheterization,-43200
+no recent urologic instrumentation,-43200
+piperacillin-tazobactam initiation,-43200
+allograft nephrectomy,0
+emergent subcapsular nephrectomy,0
+necrotic kidney with pus,0
+no significant blood loss,0
+ICU transfer postoperatively,0
+stable over next few days,96
+died,96
+myocardial infarction,96
+histopathology: necrotic kidney with acute inflammation,96
+total effacement of kidney architecture,96
+emphysematous pyelonephritis,0
+Bacteroides infection,0
+no urine culture,0
+anuric,0
+poor baseline cardiac function,0
+recent NSTEMI,0
+multiple co-morbidities,0
+sepsis,0
+no metastatic spread from kidney cancer,-189216
+failed balloon dilatation,-131400
+failed stent insertion,-131400
+death due to cardiac complications,96
+delay in diagnosis and treatment,0
+successful nephrectomy,0
+recovery from surgery,96

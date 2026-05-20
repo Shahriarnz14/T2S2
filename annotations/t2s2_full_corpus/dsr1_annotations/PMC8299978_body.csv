@@ -1,0 +1,81 @@
+event,time
+64 years old,0
+white,0
+male,0
+presented to the hospital,0
+ground-level fall,-1
+episode of dizziness,-1
+lightheadedness,-1
+hypoglycemia,-1
+hemodynamically stable,0
+alert,0
+oriented,0
+3+ bilateral lower extremity pitting edema,0
+small superficial forehead abrasion,0
+stage 2 sacral decubitus ulcer,0
+ruptured skin blister on left medial calcaneus,0
+leukocytosis,0
+white blood cell count 14.7 × 10³ cells/μl,0
+neutrophil count 12.2 × 10³ cells/μl,0
+serum creatinine concentration 1.33 mg/dl,0
+optimal medical therapy,0
+evolving sepsis,0
+septic shock,24
+exacerbation of congestive heart failure,24
+admission to intensive care unit,24
+MSSA bacteremia,0
+skin infection,0
+acute tubular necrosis,264
+dialysis,264
+persistently positive blood cultures,0
+echocardiography for infective endocarditis,0
+heart failure with preserved ejection fraction,0
+symptomatic bradycardia,0
+pacemaker placement,0
+hypertension,0
+hyperlipidemia,0
+controlled type 2 diabetes mellitus,0
+dental procedure 2 months prior,-1440
+computed tomography of chest,0
+large bilateral pleural effusions,0
+pulmonary vascular congestion,0
+transudative effusions,0
+no evidence of bacteria in pleural effusions,0
+urine cultures without bacterial growth,0
+sputum cultures without bacterial growth,0
+bronchial washings after bronchoscopy without bacterial growth,0
+transthoracic echocardiogram,0
+moderate pulmonic valve regurgitation,0
+no vegetation visualized,0
+transesophageal echocardiogram on day 11,264
+mobile 7×8mm pulmonic valve mass,264
+moderate regurgitation,264
+papillary fibroelastoma differential,264
+bacterial vegetation differential,264
+not a surgical candidate,0
+AngioVac mass debulking on day 16,384
+therapeutic anticoagulation with heparin,384
+right common femoral vein access,384
+left common femoral vein access,384
+18-F cannula insertion,384
+26-F sheath in inferior vena cava,384
+fluoroscopic guidance,384
+TEE guidance during AngioVac,384
+right heart bypass,384
+mass extraction,384
+complete removal of mass,384
+no valve damage,384
+no worsening regurgitation,384
+pathology confirmed papillary fibroelastoma,384
+MSSA bacteremia,0
+PFE infected with Streptococcus salivarius,384
+PFE infected with Rothia spp,384
+linezolid treatment,384
+meropenem treatment,384
+no bacterial growth in follow-up cultures,408
+comfort care election,480
+hospice care,480
+discharged to hospice,480
+multisystem organ failure,480
+no shortness of breath,0
+denies chest pain,0

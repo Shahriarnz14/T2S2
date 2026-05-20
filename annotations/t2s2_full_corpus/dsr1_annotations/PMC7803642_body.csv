@@ -1,0 +1,104 @@
+event,time
+19-year-old male,0
+admitted to the hospital,0
+fever,-48
+malaise,-48
+headache,-48
+vomiting,-48
+near-syncope,-48
+no relevant medical history,0
+confusion,0
+39.3 °C fever,0
+blood pressure 124/66 mmHg,0
+pulse rate 126 bpm,0
+oxygen saturation 100%,0
+maculopapular rash in legs and thigh,0
+1 cm tender solid non-fluctuant mobile nodule in left armpit,0
+nodule developed a few days back,-72
+normal breath sounds bilaterally,0
+no lymphadenopathy,0
+white count 26.9 k/mm³,0
+neutrophils 91%,0
+bands present,0
+procalcitonin 0.42 ng/mL,0
+lactic acid 3.1 mmol/L,0
+chest radiography no acute pulmonary disease,0
+urine analysis negative,0
+SARS-CoV-2 RT-PCR negative,0
+Legionella urinary antigen negative,0
+pneumococcus urinary antigen negative,0
+started on ceftriaxone,0
+started on doxycycline,0
+admitted to general medical ward,0
+lumbar puncture performed,24
+cerebrospinal fluid analysis no infection,24
+transthoracic echocardiogram no vegetations,24
+persistent hypotension,48
+tachycardia,48
+fever 40 °C,48
+profound upper and lower extremities weakness,48
+transferred to ICU,48
+white count 41.7 k/mm³,48
+AST 113 IU/L,48
+ALT 151 IU/L,48
+CK 319 IU/L,48
+high sensitivity troponin 27 pg/mL,48
+D-dimer 1067 ng/mL FEU,48
+C-reactive protein 18 mg/dL,48
+erythrocyte sedimentation rate 42 mm/h,48
+interleukin-6 1620 pg/mL,48
+fibrinogen 625 mg/dL,48
+repeat SARS-CoV-2 RT-PCR negative,48
+respiratory viral panel negative,48
+MRSA PCR positive,48
+gonococcus DNA probe negative,48
+Chlamydia DNA probe negative,48
+HSV1 and 2 antigen/antibodies negative,48
+hepatitis panel negative,48
+Rickettsia antibody agglutination negative,48
+Brucella antibody agglutination negative,48
+EBV IgM and IgG VCA antibodies negative,48
+EBV PCR negative,48
+CMV antibodies negative,48
+West Nile Virus antibody panel negative,48
+Lyme IgM and IgG antibodies Western Blot negative,48
+Syphilis screen negative,48
+interferon release assay for tuberculosis negative,48
+malarial smear negative,48
+Histoplasma galactomannan urine antigen negative,48
+C3 complement level normal,48
+C4 complement level normal,48
+ANA negative,48
+P-ANCA negative,48
+C-ANCA negative,48
+rheumatoid factor negative,48
+MRI spine no abscess,48
+CT head no intracranial infection,48
+CT chest no new lung involvement,48
+CT abdomen no intraabdominal infection,48
+started on IV vancomycin,48
+white count trending down,96
+lactic acid trending down,96
+fever decreased,96
+vitals stable,96
+discharged from ICU,96
+left armpit pain,96
+abscess with fluctuance,96
+flushed appearance,96
+nonspecific erythrasma on lower limbs,96
+deep palmar erythema,96
+suspicion for staphylococcal TSS,96
+incision and drainage of abscess,96
+culture sent,96
+rash central clearance,120
+flaky skin in palms,120
+monitored for desquamation,120
+discharged in stable condition,168
+oral amoxicillin-clavulanate prescribed,168
+diffuse erythroderma resolved,168
+pinkish coloration in palms,168
+rash improvement on vancomycin,96
+vancomycin-induced rash deemed unlikely,96
+wound culture MSSA,168
+definitive diagnosis staphylococcal TSS,168
+axillary abscess,0

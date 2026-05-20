@@ -1,0 +1,64 @@
+event,time
+40 years old,0
+male,0
+motorcycle collision,0
+traveling approximately 75 mph,0
+collided with guardrail,0
+hypotensive,0
+alert,0
+left needle thoracostomy,0
+decreased breath sounds,0
+intubated,0
+massive transfusion protocol activated,0
+left chest deformity,0
+left chest tube placed,0
+initial return of >2000 cc blood,0
+taken to operating room emergently,0
+left thoracotomy,0
+multiple comminuted rib fractures,0
+multiple large pulmonary lacerations,0
+left diaphragm injury,0
+bilateral hemothoraces,0
+fragment of bone abutting pericardium,0
+clamshell thoracotomy,0
+pericardium incised,0
+heart intact,0
+tractotomy,0
+left chest packed,0
+exploratory laparotomy,0
+superficial splenic lacerations,0
+left humerus fracture,0
+left scapula fracture,0
+postoperative hypotension,24
+systolic blood pressures in low 80s mmHg,24
+hypoxic,24
+massive transfusion,24
+38 packed red blood cells,24
+36 plasma,24
+4 units platelets,24
+exhausted hospital blood supply,24
+poor prognosis,24
+started on vasopressors,24
+resuscitation continued,24
+failed to respond to additional fluid resuscitation,24
+hemorrhage controlled,24
+empiric hydrocortisone 100 mg,24
+hydrocortisone every 8 h,24
+systolic blood pressures into 150s mmHg,48
+vasopressors weaned,48
+fluids decreased,48
+history of hypopituitarism,0
+previous head trauma,-87600
+taking levothyroxine,-87600
+taking hydrocortisone,-87600
+returned to operating room 2 days later,48
+washout,48
+rib fixation,48
+closure of left chest,48
+extubated on posttrauma day 6,144
+left bronchopulmonary fistula,0
+pulmonary embolism,0
+heparin-induced thrombocytopenia,0
+discharged on 47th day,1128
+returned to work,8760
+no respiratory difficulty,8760

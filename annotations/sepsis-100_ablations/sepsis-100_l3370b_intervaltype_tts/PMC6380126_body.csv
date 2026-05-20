@@ -1,0 +1,35 @@
+event,time
+24 years old,0
+female,0
+severe headache,-72
+projectile vomiting,-72
+no fever,-72
+no convulsions,-72
+no focal neurological deficit,-72
+symptomatic treatment outside,-72
+no relief,-72
+admission to hospital,0
+provisional diagnosis of metabolic encephalopathy,0
+symptomatic treatment,0
+altered sensorium,0
+Glasgow Coma Scale-9,0
+high-grade fever,0
+chills,0
+transfer to intensive care unit,0
+dyselectrolytemia,0
+low serum phosphate,0
+neutrophilic leukocytosis,0
+cerebrospinal fluid sent for evaluation,0
+empirical treatment with ceftriaxone,0
+Gram stain of CSF,0
+polymorphs and lymphocytes in CSF,0
+Gram-positive bacilli in CSF,0
+culture of CSF,0
+Listeria monocytogenes in CSF,0
+blood culture at admission,0
+Gram-positive bacilli in blood culture,0
+Listeria monocytogenes in blood culture,0
+switch to meropenem,24
+clinical improvement,24
+microbiological improvement,24
+discharge,48

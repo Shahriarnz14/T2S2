@@ -1,0 +1,97 @@
+event,time
+66-year-old,0
+male,0
+hypertension,0
+hyperlipidemia,0
+hepatitis C virus infection,0
+atrial fibrillation,0
+chronic anticoagulation with apixaban,0
+admitted to the hospital,0
+fall,-24
+dizziness,-24
+loss of consciousness,-24
+Glasgow Coma Score of 15,-24
+no focal neurological deficits,-24
+right frontal subdural hematoma (6 mm),-24
+right medial orbital wall fracture,-24
+no operative intervention recommended,-24
+admitted to surgical intensive care unit,-24
+severe headache on hospital day 2,-24
+worsening subdural hematoma,-24
+mass effect,-24
+2 mm midline shift,-24
+no surgical intervention,-24
+discharged to acute inpatient rehabilitation on hospital day 6,120
+repeat head CT in 2 weeks,120
+headache 6 days after discharge,192
+repeat neurosurgical evaluation,192
+neurologically intact,192
+hematoma expansion to 15 mm,192
+8 mm midline shift,192
+burr hole craniotomy for SDH evacuation,192
+subdural drain placement,192
+headache improved,192
+SDH decreased in size,192
+discharged home on postoperative day 2,240
+levetiracetam for seizure prophylaxis,240
+14-day postoperative follow-up,432
+strange sensation in right arm,432
+inability to control right arm,432
+sent to emergency room,432
+focal left arm seizure,432
+treated for seizure,432
+EEG monitoring,432
+admitted,432
+unresponsive,432
+CT head no acute hemorrhage,432
+EEG indicated status epilepticus,432
+intubated for airway protection,432
+transferred to medical ICU,432
+CTA obtained,432
+negative for pathology,432
+ventilator-dependent respiratory failure,432
+septic shock secondary to Pseudomonas bacteremia,432
+tracheostomy,432
+gastrostomy,432
+stabilized,432
+discharged to long-term acute care hospital on day 29,696
+levetiracetam,696
+oxcarbazepine,696
+4 days after discharge,768
+less responsive,768
+transferred back for neurosurgical evaluation,768
+opens eyes to stimulation,768
+localizes with right upper extremity,768
+minimal movement of left upper and bilateral lower extremities,768
+cough reflex present,768
+gag reflex present,768
+corneal reflex present,768
+pupillary reflexes present,768
+CT and CTA head,768
+right frontal intraparenchymal hemorrhage (5.2 cm × 3.3 cm),768
+no vascular lesion or anomaly,768
+cerebral catheter angiography performed,768
+anterior temporal branch of right MCA prominence,768
+early rapid shunting of blood through cortical vein to superior sagittal sinus,768
+capillary-like serpiginous tangle of vessels,768
+AVM Spetzler-Martin Grade 1 (Spetzler-Ponce Grade A),768
+embolization of AVM with N-butyl-cyanoacrylate glue,768
+successful embolization,768
+no opacification of early draining vein,768
+no AVM nidus,768
+8 days postembolization,864
+right pterional craniotomy for AVM resection,864
+microdissection,864
+coagulation of feeding arteries,864
+coagulation of draining vein,864
+resection of AVM,864
+intraoperative Doppler ultrasound no arterial flow in draining vein,864
+evacuation of intraparenchymal hematoma,864
+postoperative angiography no residual AVM,864
+mental status improved,864
+postoperative day 3 follows commands,864
+tracks with eyes,864
+spontaneous antigravity movement of right upper extremity,864
+no movement of left upper or bilateral lower extremities,864
+pseudomonas sepsis,864
+discharged to long-term acute care on postoperative day 15,984

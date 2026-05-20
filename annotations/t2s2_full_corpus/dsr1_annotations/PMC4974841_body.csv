@@ -1,0 +1,114 @@
+event,time
+43 years old,0
+male,0
+presented to emergency room,0
+shortness of breath,-336
+azithromycin prescribed,-336
+presumed pneumonia,-336
+non-productive cough,-720
+subjective fevers,-720
+chills,-720
+weakness,-720
+malaise,-720
+denies autoimmune conditions,0
+denies systemic conditions,0
+denies immune-compromising conditions,0
+denies sick contacts,0
+denies recent travel,0
+denies tuberculosis exposure,0
+denies chemical exposure,0
+denies nausea,0
+denies vomiting,0
+denies diarrhea,0
+denies muscular weakness,0
+denies neurological symptoms,0
+denies orthopnea,0
+denies paroxysmal nocturnal dyspnea,0
+baseline able to walk five blocks without dyspnea,0
+20 pack year smoking history,0
+desk job,0
+no environmental pollutants exposure,0
+afebrile,0
+respiratory rate 26 breaths/min,0
+heart rate 115 beats/min,0
+room air saturation 75%,0
+blood pressure 90/60 mm Hg,0
+hyperkeratosis over index fingers and thumbs,0
+thickening over metacarpophalangeal joints,0
+thickening over proximal interphalangeal joints,0
+"white blood cell count 25,000 units/L",0
+hemoglobin 13.5 g/dL,0
+platelet count 385 × 109/L,0
+sodium 133 mg/dL,0
+BUN 13 mg/dL,0
+creatinine 0.69 mg/dL,0
+troponin 0.09 μg/L,0
+B-type natriuretic peptide 79 pg/mL,0
+aspartate transaminase 259 units/L,0
+alanine transaminase 266 units/L,0
+"CPK 7,500 International Units/L",0
+albumin 2.4 g/dL,0
+globulin 4.2 g/dL,0
+arterial blood gas 7.37/43/52,0
+lactic acid 2.4 mg/dL,0
+ESR 35 mm/h,0
+CRP 24 mg/L,0
+procalcitonin 34 ng/mL,0
+ANA speckled pattern 1:320,0
+anti-Jo-1 antibody positive,0
+anti-CCP antibody positive,0
+CT chest pericardial effusion 1.3 cm,0
+non-confluent ill-defined opacities,0
+consolidations with air bronchograms,0
+right middle lobe involvement,0
+lower lobe involvement,0
+chest X-ray small right pleural effusion,0
+patchy right opacity,0
+ECHO moderate to large pericardial effusion,0
+intensive care unit transfer,48
+worsening hypoxia,48
+hypotension,48
+non-invasive positive pressure ventilation,48
+mechanical ventilation,48
+VV ECMO,96
+acute respiratory distress syndrome,96
+acute interstitial pneumonia suspected,96
+negative bronchoscopic serology,96
+negative viral serology,96
+negative fungal serology,96
+negative bacterial serology,96
+negative mycobacterial serology,96
+broad spectrum antibiotics,96
+vancomycin,96
+zosyn,96
+azithromycin,96
+mechanic’s hands,0
+non-specific interstitial pneumonia,0
+ILD,0
+elevated CK,0
+positive anti-Jo-1,0
+suspicion of anti-synthetase syndrome,96
+high dose methylprednisolone 1 g daily,96
+methylprednisolone 125 mg four times daily,168
+prednisone taper 60 mg four times daily,192
+prednisone 40 mg daily,discharge
+minimal vasopressor requirements,0
+worsening pericardial effusion,96
+pericardial window,96
+non-oliguric renal failure,96
+acute tubular necrosis,96
+hypotension,96
+sepsis,96
+rhabdomyolysis,0
+"CPK peak 7,500 International Units/L",0
+upper gastrointestinal bleed,96
+erosive gastritis,96
+proton pump inhibitors,96
+respiratory improvement,discharge
+cardiovascular improvement,discharge
+renal improvement,discharge
+decannulated from ECMO,discharge
+mechanical ventilation transition,discharge
+extubated,discharge
+clinical dyspnea improved,discharge
+discharged home,discharge

@@ -1,0 +1,97 @@
+event,time
+45 years old,0
+male,0
+farmer,0
+no significant medical history,0
+chest pain,0
+generalized myalgias,0
+exposed to flood waters,-168
+fever,-168
+flu-like symptoms,-168
+fever resolved,-48
+flu-like symptoms resolved,-48
+lifelong nonsmoker,0
+denied alcohol use,0
+denied illicit substance use,0
+blood pressure 86/58 mmHg,0
+heart rate 102 bpm,0
+pulse oximetry 94%,0
+random blood glucose 184 mg/dL,0
+temperature 36.4 °C,0
+severely icteric,0
+S3 gallop,0
+no murmurs,0
+decreased air entry,0
+scattered crackles bilaterally,0
+mild abdominal distension,0
+nontender abdomen,0
+alert and oriented,0
+no neurological deficits,0
+mild pitting edema tibial tuberosity,0
+chest radiography borderline cardiomegaly,0
+chest radiography mild interstitial edema,0
+electrocardiogram sinus rhythm 94 bpm,0
+no acute dynamic changes,0
+resuscitated with IV crystalloid,0
+electrolytes repleted,0
+coronavirus rapid antigen negative,0
+admitted to medical ICU,0
+empirical piperacillin-tazobactam,0
+empirical tigecycline,0
+suspected leptospirosis,0
+severe sepsis management bundle,0
+no corticosteroid therapy,0
+respiratory failure,24
+severe hypoxemia,24
+high-flow noninvasive ventilation,24
+echocardiogram moderate global hypokinesis,24
+ejection fraction 30-35%,24
+mild-moderate mitral regurgitation,24
+CT chest bilateral air-space disease,24
+aspiration pneumonitis,24
+leptospirosis serology positive,24
+white cell count 19.6,0
+hemoglobin 13.4 g/dL,0
+platelets 67 ×10³/µL,0
+serum sodium 132 mEq/L,0
+serum potassium 4.4 mEq/L,0
+serum creatinine 4.3 mg/dL,0
+blood urea nitrogen 81 mg/dL,0
+serum calcium 9.2 mg/dL,0
+serum magnesium 0.9 mg/dL,0
+alanine aminotransferase 73 IU/L,0
+aspartate aminotransferase 34 IU/L,0
+alkaline phosphatase 154 IU/L,0
+serum albumin 3.2 g/dL,0
+troponin I 1.2 ng/mL,0
+creatine kinase 293 IU/L,0
+erythrocyte sedimentation rate 55 mm/h,0
+C-reactive protein 42 mg/dL,0
+blood cultures negative,0
+urine culture negative,0
+HIV negative,0
+QuantiFERON-TB negative,0
+Biofire Respiratory Panel negative,0
+COVID-19 negative,0
+leptospirosis IgM positive,0
+Hepatitis B negative,0
+Hepatitis C IgM negative,0
+Hepatitis C IgG negative,0
+Dengue IgM negative,0
+Dengue IgG negative,0
+Malaria smears negative,0
+urine Legionella antigen negative,0
+atrial tachycardia,48
+atrial fibrillation with rapid ventricular response,48
+ventricular tachycardia,48
+defibrillation,48
+amiodarone infusion 0.5 mg/min,48
+hepatic function monitoring,48
+clinically unstable,72
+nonischemic cardiomyopathy tentative diagnosis,72
+myocarditis tentative diagnosis,72
+septic shock,72
+cardiogenic shock,72
+multiple inotropic supports,72
+multiorgan failure,96
+death,96

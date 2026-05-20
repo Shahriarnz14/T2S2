@@ -1,0 +1,49 @@
+impaired consciousness | 0
+history of atrial fibrillation | 0
+history of dilated cardiomyopathy | 0
+oral warfarin | 0
+biventricular pacing implantable cardioverter defibrillator | 0
+found lying at home | -1
+transported to hospital | -1
+arrival at hospital | 0
+Japan Coma Scale score was II-10 | 0
+Glasgow Coma Scale score was 14 | 0
+no clear neurological deficits | 0
+non-contrast head CT | 0
+hemorrhage in the third and fourth ventricles | 0
+hemorrhage in bilateral lateral ventricles | 0
+brain 3D-CTA | 2
+spot enhancement on the lateral wall of the anterior horn of the left lateral ventricle | 2
+blood pressure control | 2
+ventricular drainage not performed | 2
+cerebral angiograph | 72
+aneurysm at the distal site of the mLSA | 72
+endovascular treatment | 72
+embolization with N-butyl-2-cyanoacrylate | 72
+general anesthesia | 72
+right femoral introducer replaced | 72
+systemic heparinization | 72
+guiding sheath navigated | 72
+distal access catheter used | 72
+Marathon catheter advanced | 72
+compression study of the right common carotid artery | 72
+contralateral approach attempted | 72
+DeFrictor nano catheter used | 72
+TENROU S10 guide wire used | 72
+mLSA cannulation | 72
+selective angiography | 72
+NBCA-Lipiodol mixture injected | 72
+aneurysm filled with NBCA | 72
+DeFrictor removed | 72
+angiography after NBCA injection | 72
+no signs of hemorrhagic complications | 96
+no cerebral infarction | 96
+no impaired consciousness | 96
+no paralysis | 96
+Lipiodol remained as a high-density spot | 96
+sepsis triggered by pneumonia | 120
+decrease in muscle strength | 120
+disuse | 120
+rehabilitation | 720
+discharged to home | 720
+modified Rankin Scale of 1 | 720

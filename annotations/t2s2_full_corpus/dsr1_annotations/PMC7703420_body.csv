@@ -1,0 +1,65 @@
+event,time
+30 years old,0
+woman,0
+abdominal pain,-48
+nausea,-48
+vomiting,-48
+fever,-48
+severe pulmonary hypertension,0
+bilateral pulmonary emboli,0
+right heart failure,0
+hypothyroidism,0
+systemic hypertension,0
+WHO functional class III,0
+tenderness to palpation over the right lower quadrant,0
+no rebound,0
+leukocytosis (18.3 k/µL),0
+left shift (82.5% neutrophils),0
+CT scan distended fluid-filled appendix,0
+appendicoliths,0
+surrounding edema,0
+transferred to facility,0
+respiratory distress,0
+admitted to intensive care unit,0
+right heart catheterization,0
+right ventricular systolic pressure of 120 mm Hg,0
+moderate to severe tricuspid regurgitation,0
+high risk for right ventricular failure,0
+high risk for pulmonary hypertensive crisis,0
+started on sildenafil,0
+intravenous epoprostenol,0
+heparin infusion,0
+intravenous piperacillin/tazobactam,0
+worsening leukocytosis (20.7 k/µL),24
+fever of 39.1°C,24
+tachypnea,24
+worsening focal peritonitis,24
+surgical planning initiated,24
+severe sepsis,24
+impending shock,24
+multidisciplinary preoperative planning,24
+preparation for intraoperative venoarterial ECMO,24
+femoral vessel cannulation,24
+open appendectomy,24
+purulent peritoneal fluid,24
+necrotic appendix,24
+gangrenous appendix,24
+multiple perforations,24
+Jackson-Pratt drain placed,24
+extubated,24
+transferred to ICU,24
+ECMO not needed,24
+arterial sheath removed,24
+venous sheath removed,24
+recovered from surgery,24
+prolonged hospital course,432
+medical management for pulmonary hypertension,432
+decompensated right ventricular failure,432
+discharged on postoperative day 18,432
+sildenafil continued,432
+bumetanide,432
+macitentan,432
+intravenous epoprostenol titrated to 30 ng/kg/min,432
+tolerating medication regimen,432
+no significant side effects,432
+consideration of pre-emptive ECMO cannulation,0

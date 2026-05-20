@@ -1,0 +1,60 @@
+event,time
+30 years old,0
+male,0
+idiopathic bronchiectasis,0
+admitted to emergency department,0
+fever,0
+productive cough,0
+chest pain,0
+dyspnea,0
+anosmia,0
+contact with COVID-19 recovered friend,0
+bilateral crackles at lower lobes,0
+SpO2 65%,0
+no respiratory distress,0
+high flow nasal cannula,0
+chest X-ray peripheral infiltrates,0
+desaturation SpO2 55%,0
+intubation,0
+mechanical ventilation,0
+COVID-19 confirmed by RT-PCR,0
+normal electrocardiogram,0
+normal cardiac enzymes,0
+normal echocardiography,0
+leukocytosis 17.9 × 10⁹/L,0
+lymphocytopenia 0.42 × 10⁹/L,0
+increased D-dimer 3.3 mcg/ml,0
+increased C-reactive protein 245 mg/l,0
+increased lactate dehydrogenase 904 units/l,0
+increased ferritin 883 ng/ml,0
+chest CT bilateral peripheral ground-glass opacities,0
+bronchiectasis confirmed,0
+admitted to COVID-19 ICU,0
+diagnostic work-up for infections,0
+serum 25(OH) D measured,0
+lockdown for 3 months,-2160
+empiric therapy ribavirin,0
+empiric therapy ceftriaxone,0
+empiric therapy azithromycin,0
+prophylactic anticoagulation,0
+ARDS-net ventilation,0
+prone position ventilation,0
+supportive ICU care,0
+day-3 post-ICU admission,72
+no respiratory improvement,72
+SpO2/FiO2 ratio 160,72
+endotracheal aspirate cultures day-1,24
+Bordetella bronchiseptica ≥ 10⁵ cfu/ml,24
+sensitive to doxycycline,24
+antibiotic regime adjusted,72
+doxycycline treatment started,72
+serum 25(OH) D 25 nmol/L,0
+"vitamin D3 bolus 100,000 IU",0
+"weekly vitamin D3 25,000 IU",0
+day-15 extubation,360
+day-18 COVID-19 RT-PCR negative,432
+microbiology negative,432
+discharged to home isolation,480
+monitor pet dog for kennel cough,480
+review vitamin D supplementation,480
+review dietary habits,480

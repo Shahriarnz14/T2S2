@@ -1,0 +1,60 @@
+Introduction
+Acute cardiac dysfunction with new-onset cardiomyopathy manifesting clinically as heart failure with or without associated hemodynamic instability has been described in a substantial minority of severe coronavirus disease-19 (COVID-19) patients.1 In a case series study of 21 critically ill patients with COVID-19 admitted to intensive care unit, cardiomyopathy, which was defined as an echocardiographic evidence of a globally decreased left ventricular ejection fraction (LVEF) along with clinical features of cardiogenic shock, an elevation in cardiac biomarkers, or a decrease in central venous oxygen saturation, was present in a third of patients (33%).2 Although unclear, the major proposed mechanisms for cardiac dysfunction in COVID-19 patients include myocardial suppression due to heightened systemic inflammatory response, a myocarditis-like syndrome due to direct viral invasion of cardiac myocytes, and stress-induced cardiomyopathy.1 We describe a patient with severe COVID-19 who developed transient reversible cardiomyopathy and illustrate the association of acute cardiac dysfunction with profound systemic inflammation among COVID-19 patients.
+
+Case Presentation
+A 66-year-old male patient, with a past medical history of diabetes mellitus type 2, hypertension, and dyslipidemia, presented to the emergency department with a dry cough, mild shortness of breath, and fever. Initial workup including chest X-ray was unremarkable and hence the patient was discharged home. However, a reverse transcription–polymerase chain reaction (RT-PCR) test performed on a sample obtained from a nasopharyngeal swab returned positive for severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). The patient returned 1 week later due to worsening shortness of breath and was subsequently transferred to our institution for a higher level of care. Initial vital signs were blood pressure 128/77 mm Hg, heart rate 84 beats/minute, respiratory rate 32 beats/minute, temperature 36.2 °C, and oxygen saturation 98% on 6 liters of oxygen. He was admitted to the intensive care unit for closer monitoring and treated with hydroxychloroquine, azithromycin, and intravenous (IV) ceftriaxone.
+
+On day 4 of admission, the patient developed respiratory distress, severe hypoxia with oxygen saturation of 40%, and was hemodynamically unstable (blood pressure 50/31 mm Hg). The patient was emergently intubated and resuscitated with 2 liters of IV fluid boluses. He required norepinephrine, vasopressin, and epinephrine infusion to increase the mean arterial pressure above 65 mm Hg. Point-of-care cardiac ultrasonography showed severely reduced LVEF. The patient was started on dobutamine for refractory cardiogenic shock.
+
+Arterial blood gas obtained immediately after intubation showed pH 7.17, PaCO2 (partial pressure of carbon dioxide) 48, partial pressure of oxygen (PaO2) 69, and bicarbonate of 19 mmol/L on 100% fraction of inspired oxygen (FiO2), with a PaO2/FiO2 ratio of 69 g consistent with severe acute respiratory distress syndrome. Chest X-ray showed interval worsening of patchy and confluent opacities throughout the both lungs. An electrocardiogram (ECG) showed new changes: sinus tachycardia, low voltage complexes, and nonspecific T-wave abnormalities (Figures 1 and 2). Troponin T was 0.39 ng/mL, and N-terminal pro-B-type natriuretic peptide (NT-proBNP) was 798 pg/mL, which were elevated compared with the values at admission. A formal transthoracic echocardiography performed on day 5 showed normal LV size, severe LV dysfunction, and an estimated LVEF of 32% with global LV hypokinesia (Figure 3; Supplemental Video 1, available online). There was a parallel rise in the values of the serum inflammatory markers: ferritin 100 586 ng/mL, lactate dehydrogenase (LD) >25 000 U/L, D-dimer 6.99 µg/mL, and C-reactive protein (CRP) 278.4 mg/L, in comparison to the values during admission. The serial laboratory tests and reference range are detailed in Table 1.
+
+Figure 1. Electrocardiogram on admission demonstrating sinus rhythm with borderline first-degree heart block.
+
+Figure 2. Electrocardiogram on day 4 demonstrating low voltage QRS, poor precordial lead R-wave progression, and nonspecific T-wave abnormality in anterolateral leads.
+
+Figure 3. Initial echocardiogram showing estimated left ventricular ejection fraction of 32% by modified Simpson’s method.
+
+Table 1. Serial Values of Pro-Inflammatory Markersa.
+
+Variables (blood)	Reference range	On admission	Day 4	Day 5	Day 6	Day 7	Day 8	Day 9	Day 10	Day 13	
+Ferritin	30-400 ng/mL	2121	6816	100 586	55 877	28 467	14 129	7067	4320	1975	
+C-reactive protein	<8.0 mg/L	248.9	278.4	155.4	208.8	97.7	58.9	97.0	69.7	65.7	
+Lactate dehydrogenase	122-225 U/L	474		>25 000		441			427	298	
+D-dimer	<0.50 µg/mL	2.95	3.93	6.99	6.42	4.50	2.99	2.76	2.38	2.72	
+Aspartate transaminase	<41 U/L	37	>7000	3179	1283	675	333	167	51	29	
+Alanine transaminase	<41 U/L	43	4104	3321	2467	2112	1633	1317	657	218	
+Erythrocyte sedimentation rate	<20 mm/h	103	91	86	84	61	104	90	>120	>120	
+Pro-B-type natriuretic peptide	<125 pg/mL	954	4798			5242			26		
+Troponin T	<0.01 ng/mL	<0.01	0.39	0.24					0.05	0.04	
+a The values increased remarkably on day 4 in association with an elevation of N-terminal pro-B-type natriuretic peptide (NT-proBNP) and troponin T. After an administration of convalescent plasma on day 5 and day 6, the concentration pro-inflammatory markers, troponin T and NT-proBNP trended down.
+
+The patient was weaned off norepinephrine, vasopressin, and epinephrine infusion within 2 hours after the dobutamine was started. Supportive treatment, including mechanical ventilation, antibiotics (IV vancomycin and cefepime), and IV diuretics (to decrease the cardiac load), was continued. Due to his worsening clinical condition, the patient received convalescent plasma, as per our institutional protocol, for a total of 3 doses, which were transfused on days 5, 6, and 12 of hospitalization. Over the next 4 days, cardiogenic shock improved with a deescalating need for dobutamine, which was discontinued on day 8. Further evaluation for myocarditis with cardiac magnetic resonance imaging and laboratory testing for interleukin-6 and other inflammatory cytokines to confirm cytokine storm syndrome was not performed due to the patient’s rapid clinical improvement. Treatment with IV steroids was also deferred for the same reason. Myocardial injury and pro-inflammatory markers improved and had the following values on day 8: troponin T 0.05 ng/mL, NT-proBNP 26 pg/mL, ferritin 4320 ng/mL, CRP 69.7 mg/L, D-dimer 2.38 µg/mL, and LD 427 U/L. A repeat transthoracic echocardiography performed on day 10 showed improvement in LVEF (60% to 65%) and normal LV systolic function with no wall motion abnormalities (Figure 4; Supplemental Video 2, available online). The patient was successfully extubated on day 15 following an improvement in respiratory function. A repeat COVID-19 RT-PCR test on day 19 was negative, and the patient was subsequently discharged home after a week of inpatient rehabilitation (Figure 5).
+
+Figure 4. Follow-up echocardiogram showing estimated left ventricular ejection fraction of 62% by modified Simpson’s method
+
+Figure 5. Timeline of patient’s course in the hospital.
+
+Abbreviations: COVID-19, coronavirus disease-2019; ICU, intensive care unit; ABG, arterial blood gas; ARDS, acute respiratory distress syndrome; TTE, transthoracic echocardiography; LVEF, left ventricular ejection fraction; RT-PCR, reverse transcriptase–polymerase chain reaction.
+
+Discussion
+The COVID-19 illness manifests as a hyperinflammatory state similar to cytokine storm syndrome in the later stages, which is characterized by dysregulated and uncontrolled activation of host immune and nonimmune cells, resulting in elevated pro-inflammatory markers (serum ferritin, CRP, D-dimer, LD, and transaminases) and cytokines that manifest clinically as rapid progression to acute respiratory distress syndrome, shock, and multiorgan failure.3 Studies have shown a higher frequency of cardiovascular events, including acute cardiac injury, cardiac arrhythmias, and heart failure once these inflammatory biomarkers are established.3 The cytokine-mediated cardiomyopathy phenomenon is well described in other inflammatory condition such as sepsis, where cytokines like tumor necrosis factor-α and interleukins have shown to suppress the cardiomyocyte contractility directly.4
+
+Conversely, several case reports suggest that acute cardiac dysfunction when associated with evidence of myocardial injury might represent clinical myocarditis in a subset of COVID-19 patients; it remains unclear whether the SARS-CoV-2 can cause direct cardiomyocyte infection. Although case reports from Italy have described biopsy-proven acute lymphocytic myocarditis and low-grade myocardial inflammation with localization of SARS-CoV-2 within macrophages in patients with COVID-19, direct identification of the SARS-CoV-2 genome within cardiomyocytes have not been demonstrated in performed biopsy or autopsy to date.1
+
+Severe cardiac dysfunction with elevated cardiac injury biomarkers in our patient correlated with a profound increase in pro-inflammatory markers such as ferritin, D-dimer, CRP, LD, and serum transaminases. Although the therapy is currently experimental, administration of convalescent plasma obtained from recovered COVID-19 patients that contained a considerable amount of neutralizing SARS-CoV-2 antibodies likely eradicated the viral particles from the blood circulation and hence dampened the inflammation and overactivation of the immune system, leading to a rapid decrease in the concentration of the inflammatory markers, which ultimately resulted in a favorable effect on the hemodynamic condition and led to rapid recovery of cardiac function.5 Thus, severe inflammation in the context of COVID-19 resulting in myocardial suppression, not myocarditis, is, at least in part, the most likely etiology of transient LV dysfunction in this case. However, the possibility of transient cardiac dysfunction due to a variant of stress-induced cardiomyopathy in the setting of critical illness cannot be ruled out despite the absence of the most associated morphology (apical ballooning) in echocardiography.
+
+Conclusion
+In conclusion, cardiomyopathy in the context of COVID-19 infection is most likely related to myocardial suppression due to profound systemic inflammatory response, although myocarditis-like syndrome due to direct viral injury and stress cardiomyopathy remains a possibility. The predominant mechanism of cardiomyopathy in patients with COVID-19 is currently an area of robust research.
+
+Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Ethics Approval: Our institution does not require ethical approval for reporting individual cases.
+
+Informed Consent: Verbal informed consent was obtained from the patient(s) for their anonymized information to be published in this article.
+
+ORCID iD: Anupama B. K. 
+https://orcid.org/0000-0002-6345-8153
+
+Supplemental Material: Supplemental material for this article is available online.

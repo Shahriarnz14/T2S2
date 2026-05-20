@@ -1,0 +1,73 @@
+event,time
+56 years old,0
+male,0
+janitor,0
+diabetes mellitus,-672
+hypertension,-672
+hyperlipidemia,-672
+obesity,-672
+admitted to ICU,0
+intermittent fever,-336
+muscle ache,-336
+nonproductive cough,-168
+dyspnea,-168
+antihypertensive association,-672
+metformin,-672
+glimepiride,-672
+atorvastatin,-672
+inhaled fluticasone propionate/salmeterol,-672
+amoxicillin,-168
+pristinamycin,-160
+heart rate 99 beats/min,0
+respiratory rate 34 breaths/min,0
+blood pressure 132/92 mmHg,0
+temperature 38 °C,0
+oxygen saturation 95%,0
+arterial blood gas,0
+"white blood-cell count 10,720 cells per mm3",0
+neutrophils 82.6%,0
+lymphocytes 12.7%,0
+lactate dehydrogenase 882 U per liter,0
+CRP 206 mg per deciliter,0
+ferritin 556 ng per milliliter,0
+D-Dimer 2390 ng per milliliter,0
+interleukin-6 93.6 pg per milliliter,0
+SOFA score 8,0
+hypoxemic respiratory failure,0
+mechanical ventilation,0
+norepinephrine,0
+diabetic ketoacidosis,0
+continuous insulin infusion,0
+acute kidney failure,0
+chest CT,0
+nasopharyngeal swab real-time reverse-transcriptase PCR,0
+SARS-CoV-2 positive,0
+dexamethasone,0
+eculizumab,2
+piperacillin-tazobactam,0
+cefotaxime,0
+spiramycin,0
+tracheal aspirate BioFire FilmArray pneumonia plus panel,4
+serum galactomannan index,0
+serum β-D-Glucan,0
+worsening condition,6
+tracheal aspirate,6
+branching hyphae,6
+A. fumigatus culture,6
+A. fumigatus quantitative PCR,6
+bacterial culture,6
+serum galactomannan index,6
+serum β-D-Glucan,6
+serum qPCR-Af,6
+transthoracic echocardiogram,6
+D-dimer level,6
+fibrinogen,6
+cardiac arrest,24
+death,24
+antifungal susceptibility testing,24
+posaconazole,24
+itraconazole,24
+voriconazole,24
+isavuconazole,24
+cyp51A gene sequencing,24
+TR34/L98H mutation,24

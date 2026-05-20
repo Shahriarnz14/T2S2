@@ -1,0 +1,116 @@
+event,time
+69 years old,0
+man,0
+admitted to the department of family medicine,0
+chronic weakness,0
+recurrent admissions,-87600
+untreated pancytopenia,-87600
+undiagnosed longstanding pancytopenia,-87600
+splenomegaly,0
+neutropenia,0
+fungal pneumonia,0
+aspergilloma,0
+Pneumocystis jirovecii pneumonia,-24
+right thyroidectomy,-87600
+thyroid cancer,-87600
+posterior right coronary artery stenting,-87600
+chronic stable angina pectoris,-87600
+paroxysmal atrial fibrillation,-87600
+exacerbation of fungal pneumonia,0
+afebrile,0
+body temperature 36.5°C,0
+blood pressure 99/66 mm Hg,0
+heart rate 77 beats per minute,0
+respiratory rate 20 per minute,0
+poor nutritional status,0
+weight 48.7 kg,0
+height 169 cm,0
+BMI 17.05 kg/m²,0
+cachectic,0
+exhausted,0
+pancytopenia,0
+neutropenia (ANC 150/μL),0
+hyponatremia (131 mmol/L),0
+increased prothrombin time (12.9 seconds),0
+increased partial thromboplastin time (41.1 seconds),0
+elevated C-reactive protein (40.3 mg/L),0
+elevated erythrocyte sedimentation rate (59 mm/h),0
+no cytomegalovirus infection,0
+negative blood culture,0
+negative sputum culture,0
+urine culture with Gram-positive cocci,0
+chest X-ray with multiple nodular consolidations,0
+chest CT with multiple nodular consolidations,0
+left pleural effusion,0
+pericardial effusion,0
+no enlarged lymph nodes,0
+spleen size 21.4 cm,0
+aspirin,0
+nicorandil,0
+trimetazidine,0
+bisoprolol,0
+levothyroxine,0
+total parenteral nutrition,0
+trimethoprim/sulfamethoxazole,0
+meropenem,0
+amphotericin B,0
+cefepime,0
+normocytic normochromic anemia,0
+reticulocyte percentage 0.65%,0
+anemia of chronic disease,0
+"elevated ferritin (3,308.5 ng/mL)",0
+low transferrin (98 mg/dL),0
+normal serum iron (79 μg/dL),0
+no B12 deficiency,0
+no folate deficiency,0
+bone marrow biopsy with 60% cellularity,0
+no bone marrow failure,0
+positive ANA (titer 320:1),0
+positive rheumatoid factor (23 IU/mL),0
+weakly-positive anti-DNA (19 IU/mL),0
+anti-cardiolipin IgM (11 MPL-U/mL),0
+negative anti-beta2-glycoprotein 1 antibodies,0
+negative lupus anticoagulant,0
+low C3 (36.7 mg/dL),0
+normal C4 (11.98 mg/dL),0
+oral ulcer,0
+no skin rash,0
+no arthritis,0
+no muscular weakness,0
+no uveitis,0
+no Reynaud phenomenon,0
+elevated cystatin C (1.53 mg/L),0
+eGFR 42.6 mL/min/1.73 m²,0
+normal creatinine (0.82 mg/dL),0
+indeterminate renal failure,0
+equivocal anti-DNA antibodies (10 IU/mL),0
+sepsis suspected,264
+body temperature 37.0°C,264
+blood pressure 86/52 mm Hg,264
+pulse rate 84,264
+fluid infusion,264
+blood transfusion,264
+norepinephrine infusion,264
+partial splenic embolization,408
+splenic infarction,408
+white blood cell count increase to 820/μL,432
+hemoglobin increase to 10.0 g/dL,432
+platelet count 45×10³/μL,432
+fever 38.5°C,456
+hypothermia 35.7°C,456
+blood pressure 84/56 mm Hg,456
+pulse rate 148,456
+septic shock,456
+norepinephrine infusion,456
+fluid resuscitation,456
+chest CT,456
+abdominal CT,456
+no pulmonary embolism,456
+no bowel perforation,456
+increased rales,458
+oxygen saturation 55%,458
+mechanical ventilation,458
+refusal of ICU admission,458
+cardiac arrest,462
+CPR initiated,462
+death,522

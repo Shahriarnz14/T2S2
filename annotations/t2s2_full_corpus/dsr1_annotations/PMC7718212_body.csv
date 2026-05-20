@@ -1,0 +1,107 @@
+event,time
+71-year-old,0
+Saudi man,0
+rheumatic heart disease,0
+hypertension,0
+chronic kidney disease,0
+admitted for workup of anemia,0
+admitted for workup of weight loss,0
+anemia,0
+weight loss,-2880
+gradual painless decline in vision of both eyes,-2880
+no history of eye redness,0
+no history of photophobia,0
+no history of floaters,0
+no history of flashes,0
+no history of scotoma,0
+no previous history of eye trauma,0
+no previous history of eye surgery,0
+history of raw milk ingestion,0
+visual acuity 6/200 right eye,0
+visual acuity 20/200 left eye,0
+intraocular pressure 13 mmHg right eye,0
+intraocular pressure 15 mmHg left eye,0
+normal external examination,0
+normal extra-ocular movements,0
+reactive pupils,0
+no relative afferent pupillary defect,0
+right eye deep and quiet anterior chamber,0
+left eye 3 mm pinkish hypopyon,0
+left eye iris pigments on lens surface,0
+left eye irregular pupil with posterior synechiae,0
+nuclear sclerotic cataract both eyes,0
+multiple corneal scars both eyes,0
+obscuring dilated fundus exam,0
+blood culture negative,0
+sputum culture negative,0
+urine culture negative,0
+acid fast bacilli culture negative,0
+Brucella titer negative,0
+B-Scan ultrasonography flat retina,0
+B-Scan ultrasonography no vitritis,0
+B-Scan ultrasonography no subretinal infiltrate,0
+poor fundus view due to dense cataract,0
+ultrasound biomicroscopy floating cells in anterior chamber,0
+ultrasound biomicroscopy hypopyon,0
+prednisolone acetate 1% drops 4 times daily,0
+cyclopentolate 0.5% drops 3 times daily,0
+left cataract extraction,0
+intraoperative diagnostic paracentesis,0
+atypical small to medium lymphoid cells with blastoid morphology,0
+T-cell lymphoma,0
+CD5 positive,0
+CD3 positive,0
+CD2 positive,0
+CD8 positive,0
+CD56 positive,0
+loss of CD4,0
+loss of CD7,0
+no expression of CD10,0
+no expression of CD34,0
+alpha TCR positive,0
+beta TCR positive,0
+gamma TCR negative,0
+visual acuity counting fingers at 3 feet both eyes,24
+normal intraocular pressure both eyes,24
+reforming pinkish hypopyon left eye,24
+IOL in place,24
+hazy fundus view right eye,24
+whitish retinal infiltrate left eye,24
+chest x-ray pulmonary edema,0
+chest x-ray unremarkable for tuberculosis,0
+chest x-ray unremarkable for sarcoidosis,0
+liver ultrasound heterogeneous liver,0
+liver ultrasound no definite mass,0
+CT CAP left adrenal mass,0
+adrenal mass suspicious for malignancy,0
+no other suspicious lesions,0
+adrenal mass biopsy atypical lymphoid cells,0
+adrenal mass biopsy T-cell lymphoma,0
+consultation with haemato-oncology team,0
+lumbar puncture recommended,0
+PET scan brain recommended,0
+PET scan orbit recommended,0
+CVP chemotherapy started,24
+lumbar puncture CSF negative for malignancy,24
+bone marrow biopsy negative for malignancy,24
+PET brain increased uptake right nasal sinus,24
+PET brain increased uptake ethmoidal sinus,24
+PET pelvis high uptake scrotum,24
+PET pelvis high uptake testicles,24
+ultrasonography scrotum metastatic involvement,24
+ultrasonography testicles metastatic involvement,24
+local radiotherapy orbits,24
+local radiotherapy testicles,24
+deterioration after two chemotherapy cycles,720
+atrial fibrillation,720
+transfer to Medical ICU,720
+cardiopulmonary resuscitation,744
+intubation,744
+GCS 6/15,744
+sepsis,744
+antibiotics treatment,744
+chemotherapy hold,744
+radiation hold,744
+GCS 3/15,768
+Do not attempt resuscitation,768
+death,768

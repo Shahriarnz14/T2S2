@@ -1,0 +1,88 @@
+event,time
+37 years old,0
+female,0
+visited emergency room,0
+altered mental state,0
+cortisol-secreting adrenocortical carcinoma,-12960
+adrenalectomy,-12960
+cancer recurrence,-4320
+radical nephrectomy,-4320
+adjuvant radiotherapy,-4320
+recurrent lesion,-2160
+hypercortisolemia,-2160
+morning cortisol level 45.5 μg/dL,-2160
+"24hr urine cortisol 2,529 μg/day",-2160
+chemotherapy with Avastin + FOLFOX,-1032
+mental change,0
+blood pressure 76/30 mmHg,0
+heart rate 91/min,0
+respiratory rate 36/min,0
+body temperature 37.2°C,0
+oxygen saturation 86%,0
+progressive septic shock,0
+respiratory failure,0
+fluid resuscitation,0
+vasopressor support,0
+invasive ventilation,0
+white blood cell count 140/mm3,0
+hemoglobin level 7.2 g/dL,0
+"platelet count 8,000/mm3",0
+total bilirubin level 1.6 mg/dl,0
+serum aspartate aminotransferase 102 IU/L,0
+alanine aminotransferase 102 IU/L,0
+blood urea nitrogen 24.1 mg/dL,0
+serum creatinine 1.12 mg/dL,0
+lactic acid level 8.13 mmol/L,0
+c-reactive protein level 21.86 mg/dl,0
+procalcitonin level 42.46 ng/ml,0
+chest radiograph lobar consolidation in right lower lung zone,0
+neutropenic septic shock,0
+pneumonia,0
+suspected catheter-related infection,0
+"antibiotics (meropenem, vancomycin)",0
+central catheter removal,0
+septic shock improvement,48
+respiratory failure improvement,48
+vasopressor tapering,48
+mechanical ventilation discontinuation,96
+"neutrophil count recovery (absolute neutrophil count >1,500/mm3)",72
+MRSA in peripheral culture,0
+MRSA in central blood cultures,48
+respiratory failure relapse,120
+re-intubation,120
+chest CT multifocal ground-glass opacities,120
+consolidation worsening in right lower lung zone,120
+serum galactomannan titer elevation,72
+Aspergillus fumigatus in tracheal aspirate cultures,72
+invasive pulmonary aspergillosis,72
+intravenous voriconazole,72
+Pneumocystis jirovecii in bronchoscopic lavage,120
+pneumocystis pneumonia,120
+trimethoprim/sulfamethoxazole,120
+vancomycin,0
+linezolid,120
+MRSA bacteremia persistence,120
+echocardiography,120
+duplex scan of central-line insertion site,120
+no metastatic infection,120
+Candida albicans in blood cultures,168
+candidemia,168
+voriconazole treatment,168
+Stenotrophomonas maltophilia growth,120
+bacterial pneumonia,120
+purulent sputum,120
+lobar consolidation progression,120
+trimethoprim/sulfamethoxazole,120
+levofloxacin,120
+mitotane therapy,0
+cortisol level decrease,0
+recurrent hemoptysis,720
+pneumonia-associated cavitary lesion,720
+ventilator deterioration,720
+increased oxygen requirements,720
+abdominal CT interval increase in peritoneal seeding,720
+lymph node metastases,720
+discharged,720
+died,1488
+no do-not-resuscitate order,720
+death,1488

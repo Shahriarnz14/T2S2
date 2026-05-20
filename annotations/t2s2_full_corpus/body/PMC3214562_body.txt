@@ -1,0 +1,114 @@
+Introduction
+There are little or no well-controlled clinical trials until now that relate serum vancomycin concentrations to efficacy or toxicity,[1–3] but due to widespread interpatient variability in pharmacokinetic parameters, serum concentrations monitoring is needed in certain conditions, such as renal failure or changing renal function, to help avoid excessive peaks and troughs. From a pharmacodynamic perspective, vancomycin exhibits time-dependent killing of susceptible bacteria, so maintaining its concentration above the minimum inhibitory concentration (MIC) for the majority of the dosing interval is desirable.
+
+Target peak concentrations are 30–40 mcg/mL, whereas target trough concentrations are 5–15 mcg/mL.[45] It can even be higher (15–20 mcg/mL) in the treatment of certain serious conditions, such as meningitis, endocarditis, osteomylitis, and pneumonia, to ensure adequate penetration to the infected sites.[6] Steady-state conditions should be attained when obtaining Cpeak and Ctrough, the time to reach steady state plasma concentrations is 4–5 times the half-life.
+
+Case Report
+A 47-year-old, 158 kg, 173 cm man with a past medical history of diabetes mellitus, hypertension, and obstructive sleep apnea on bi-level positive airway pressure (BiPAP) ventilation at home, was admitted to our intensive care unit following laparoscopic sleeve gastrectomy. The patient had a complicated hospital course due to an anastomotic leak. He underwent computed tomography–guided aspiration of abdominal collections, closing gastric fistula and transverse colon, and washing abdomen with repeated peritoneal lavage. The patient had developed peritonitis and sepsis, which was further complicated by the development of acute kidney injury.
+
+His sputum cultures were positive for coagulase-negative Staphylococcus aureus (CNSA). The patient had no known allergies, and due to comorbidities and prevalence of methicillin-resistant S. aureus (MRSA) at our institution, vancomycin 1500 mg intravenously twice daily was started in addition to tigecycline and meropenem.
+
+Since the patient experienced red-man syndrome with previous doses of vancomycin, the decision was to infuse the dose over 3 h (500 mg/h). Two peak and trough samples were drawn 6 days after starting vancomycin to ensure that steady state levels of vancomycin are attained. Levels revealed a peak and trough of 32.4 and 24.8 mg/L, respectively. Peak plasma concentration was drawn directly after finishing the infusion, so our calculations were based on that, while trough level was drawn just before giving the next dose.
+
+Calculating true vancomycin pharmacokinetic parameters using equations[7]
+
+Step 1: Calculating true elimination rate constant K:
+
+K = (In Ct – In Cp)/(T – t – t’)
+
+where Cp is peak plasma concentration, Ct is trough plasma concentration, T is the dosing interval, t is the infusion time, t’ is time after taking peak level.
+
+Cp = 32.4 mg/L
+
+Ct = 24.8 mg/L
+
+K = (In 24.8 – In 32.4)/(12 – 3 – 0)
+
+K = 0.0297/h
+
+Step 2: Calculating true volume of distribution V:
+
+Cp = (K0/3) (1 – e-Kt)/VK (1 – e-KT).e-Kt’;(K0: dose of vancomycin infused)
+
+Cp = 32.4 mg/L
+
+Ct = 24.8 mg/L
+
+32.4 = (1500/3)(1 – e(–0.0297×3))/V(0.0297)(1 – e(–0.0297×12))
+
+Since t’= 0 then e(–0.0297×0)= 1→
+
+V = 148 L or 0.9 L/kg (patient's weight is 158 kg)
+
+Step 3: Calculate recommended dosing interval (T) to achieve desired Cp of 25 mg and Ct of 10 mg/L
+
+T = 1/–K[ In Ct – In Cp] + t + t’
+
+T = [1/–0.0297 (In 10 – In 25)] + 3 + 0
+
+T = 34 h rounded up to 36 h
+
+Step 4: Calculating recommended dose (K0) to achieve desired levels
+
+Cp = (K0) (1 − e-Kt)/VK (1 – e-KT). e-Kt’
+
+Since t’=0, then e(–0.0297×0)=1
+
+Cp = (K0) (1 – e-Kt)/VK (1 – e-KT). e-Kt’
+
+K0 = 830 mg in one hr = 2500 mg over 3 h
+
+
+i. Dose should be 2500 mg q 36 h to achieve a peak concentration of 25 mg/L
+
+ii Expected trough concentration (Ct) using this dose and dosing interval
+
+Ct = (Cp) (e-Kt“) where t”: time between Cp and Ct
+
+Ct = (25) (e(-0.0297×33))
+
+Ct = 9.4 mg/L
+
+
+
+
+Step 5: Check expected peak Cp and trough Ct:
+
+
+i The patient was then given 1500 mg q24, predicted peak as per calculations (dose was infused over 3 h and Cp obtained 1 h after finishing the infusion)
+
+Cp = (K0/3)(1 – e-Kt)/VK(1 – e-KT). e-Kt’
+
+Cp = (1500 mg/3)(1 – e(-0.0297 × 3))/(148)(0.0297)(1 – e(-0.0297 × 24).e(-0.0297 × 1))
+
+Cp = (42.6)(0.97)/(4.4 × 0.5)
+
+Cp = 19 mg/L
+
+ii. Actual peak level drawn 7 days after the new dose regimen was 22.7 mg/L; and this will correspond to a trough level of
+
+Ct = (Cp) (e-Kt“) where t” = 24 – 4 = 20 h
+
+= (22.7) (e(-0.0297×20))
+
+= (22.7) (0.55)
+
+= 12.5 mg/L
+
+
+
+
+Discussion
+Vancomycin is eliminated almost entirely by glomerular filtration.[7] Therefore, conditions, such as renal impairment, will lead to reduced vancomycin clearance and increased plasma half-life. This patient had a normal baseline serum creatinine (87 micromole/L), but due to his sepsis and complicated hospital course, developed acute kidney injury as evident from his elevated serum creatinine (187 micromole/L). The reduced vancomycin clearance was evident from the discrepancy in population estimate of his vancomycin elimination rate constant (K) of 0.058/ before acute kidney injury [K= 0.00083/h (CrCl in mL/min) + 0.0044, where baseline CrCl is 65 mL/min] and true K of 0.0297-1. This will also emphasize the importance of individualized dose adjustments based on true pharmacokinetic parameters. Until this time, most trials reported the use of total body weight (TBW), where higher total daily doses are given but at more frequent intervals to avoid high peak plasma concentrations.[8]
+
+This case study is reported to identify if utilizing equations will better predict individualized pharmacokinetic parameters in obese patients with renal insufficiency as an alternative dosing method to mg/kg basis using TBW. At our institution, the MIC of S. aureus is reported to be 1 mcg/mL.
+
+Murphy et al.[9] compared 7 different methods using TBW, ideal body weight (IBW), and adjusted body weight (ABW) for determining serum vancomycin concentration in 189 patients, 61% of whom weighed more than 1.2 times their IBW, but none of these methods used equations to optimize vancomycin monitoring. There is also paucity of data regarding the dosing of vancomycin in obese patients. In a multicenter pilot study, obese patients received inadequate empiric vancomycin.[10]
+
+In our case, initial dose given for vancomycin was given empirically 1500 mg intravenously twice daily. Then, equations were used to calculate true pharmacokinetic parameters (K = 0.0297/1, V = 148 L) for this specific patient, calculating expected Cp and Ct based on these parameters, and then comparing them with measured values. Calculated value for vancomycin plasma concentration (Cp) based on true pharmacokinetic parameters was 19 mg/L, which was close to the reported value of 22.7 mg/L, even if based on dose that was given not calculated. Small discrepancy in the value may be due to fluctuating serum creatinine.
+
+To conclude, calculating individual pharmacokinetic parameters using equations may be a valid tool for dosing vancomycin in obese patients with renal insufficiency.
+
+Source of Support: Nil
+
+Conflict of Interest: None declared.

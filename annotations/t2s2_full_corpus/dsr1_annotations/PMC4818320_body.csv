@@ -1,0 +1,58 @@
+event,time
+60 years old,0
+female,0
+admitted to the hospital,0
+right otalgia,0
+purulent otorrhea,0
+right malignant otitis externa,0
+intravenous Augmentin,0
+refractory to antibiotic treatment,120
+computed tomography scan (right temporal bone),120
+"bony destruction (external auditory canal, mastoid, right mandibular fossa)",120
+osteomyelitis (right temporal bone),120
+infectious disease consult,120
+intravenous linezolid,120
+intravenous piperacillin/tazobactam,120
+septic work up,120
+blood culture,120
+urine culture,120
+pus culture,120
+severe sepsis,192
+metabolic acidosis,192
+acute renal failure,192
+intubation,192
+surgical intensive care unit admission,192
+multi-resistant Staphylococcus aureus (right ear pus culture),192
+Pseudomonas aeruginosa (right ear pus culture),192
+Candida albicans (urine culture),192
+intravenous meropenem,192
+intravenous vancomycin,192
+intravenous caspofungin,192
+anuria,192
+sustained low efficiency dialysis,192
+continuous veno-venous hemodialysis,216
+abdominal distension,216
+abdominal X-ray,216
+mottled lucencies (gastric lumen),216
+computed tomography scan (abdomen and pelvis),216
+extensive gastric intramural gas,216
+exploratory laparotomy,216
+infarcted stomach,216
+total gastrectomy,216
+"good palpable pulsations (coeliac axis, superior mesenteric artery)",216
+persistent hypotension,264
+bradycardia,264
+maximal inotropic support,264
+death,336
+total gastric infarction (histopathology),336
+disseminated fungal organisms,336
+fungal spores,336
+fungal hyphae,336
+right angle branching (hyphae),336
+mucormycosis,336
+poorly controlled type 2 diabetes mellitus,-unknown
+acute myeloid leukemia,-unknown
+bone marrow transplant,-unknown
+dialysis,192
+no reversal of predisposing conditions,336
+no surgical debridement beyond gastrectomy,336

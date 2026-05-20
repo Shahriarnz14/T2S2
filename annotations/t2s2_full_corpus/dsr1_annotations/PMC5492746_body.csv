@@ -1,0 +1,92 @@
+event,time
+29-year-old male,0
+admitted to the hospital,0
+breathlessness,-2880
+cough,-1440
+white sputum,-1440
+loss of weight,-3600
+loss of appetite,-3600
+shooting pain in right chest,-336
+blood pressure 110/70,0
+respiratory rate 28/min,0
+oxygen saturation 90%,0
+chest X-ray cardiomegaly,0
+pleural effusion,0
+underlying collapse,0
+fibrotic bands in right perihilar region,0
+"total leucocyte count 10,730",0
+neutrophilic predominance,0
+exudative effusion,0
+intercostal drain insertion,0
+lower respiratory tract infection diagnosis,0
+intravenous antibiotics (ceftriaxone/sulbactam and levofloxacin),0
+nebulizations,0
+supportive measures,0
+pleural fluid sugar 75 mg/dl,0
+pleural fluid proteins <2 g/dl,0
+pleural fluid ADA 4.8 u/l,0
+pleural fluid WBC 950 cells,0
+lymphocytic predominance (95%),0
+reactive mesothelial cells,0
+2D Echo left atrial wall thickening,0
+pulmonary vein obstruction,0
+good left ventricle function,0
+CT chest subcarinal mass,0
+left atrium indentation,0
+right inferior pulmonary vein ostium narrowing,0
+interatrial groove extension,0
+right main pulmonary artery narrowing,0
+azygous arch narrowing,0
+cervical mediastinoscopy,0
+4R lymph node biopsy,0
+inconclusive frozen section,0
+discharged,120
+VATS,240
+incisional biopsy,240
+thoracotomy findings: mass encasing heart,240
+hilar structures infiltration,240
+left atrium infiltration,240
+histopathological examination sent,240
+extubated,240
+noninvasive ventilation,240
+oxygen support,240
+postoperative tachypnea,336
+procalcitonin 1.69 ng/ml,336
+normal D-dimer,336
+arterial blood gas partial pressure 54.5,336
+SpO2 90%,336
+respiratory distress,336
+oxygen desaturation,336
+intubation,336
+ventilator support,336
+ET culture/sensitivity,336
+Gram stain,336
+fungal stain,336
+acid-fast bacilli stain,336
+continued Gram-negative coverage,336
+X-ray left lower lobe pneumonia,336
+basal crept bilaterally,336
+negative blood culture,336
+endotracheal secretion culture: pseudo hyphae,336
+hyaline septate hyphae,336
+acute branching hyphae,336
+voriconazole 200mg BID,336
+HPE epithelioid granulomas,336
+multinucleated giant cells,336
+necrotising inflammation,336
+scattered fungal hyphae,336
+PAS positive,336
+GMS positive,336
+Aspergillus confirmed,336
+ARDS diagnosis,336
+low tidal volume strategy,336
+septic shock,384
+refractory hypoxemia,384
+serum creatinine 3.1 mg/dl,384
+acute kidney injury,384
+renal replacement therapy,384
+hyperkalemia,384
+acidosis,384
+left against medical advice,384
+cardiac arrest,408
+expired,408

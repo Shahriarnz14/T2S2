@@ -1,0 +1,63 @@
+event,time
+38 years old,0
+female,0
+fever,-48
+fatigue,-48
+arthralgia,-48
+furuncle-like skin lesion on left arm,0
+admitted to institution,0
+generalized abdominal pain,0
+abdominal distension,0
+nausea,0
+vomiting,0
+general discomfort,0
+nasogastric tube placement,0
+dyspnea grade IV,0
+desaturation,0
+"CT scan (right perirenal abscess, left renal vein thickening, bilateral pulmonary septic impacts, mild pleural effusion)",0
+intensive care unit admission,0
+bilateral hypoventilation,0
+jaundice,0
+oligoanuria,0
+low platelet count,0
+urine culture,0
+blood culture,0
+empirical treatment with vancomycin plus tazobactam,0
+anticoagulation with LMWH and warfarin,0
+severe sepsis,0
+multi-organ failure,0
+mechanical respiratory assistance,0
+dialysis,0
+clindamycin added,0
+persistent fever,0
+persistent multi-organ failure,0
+blood culture positive for MRSA,0
+gram-negative bacillus in alveolar fluid wash,0
+"antibiotic scheme (vancomycin, daptomycin, meropenem)",0
+bacteremia,288
+mechanical respiratory assistance with inotropic drugs,288
+dialysis (ongoing),288
+"CT scan (phleboectasia, thrombus extending to inferior vena cava)",288
+"surgical exploration (bilateral nephrectomy, thrombectomy)",288
+postoperative fever,288
+colistin started,288
+"antibiotic scheme (vancomycin, daptomycin, meropenem, colistin)",288
+bronchoalveolar lavage (Serratia + Kleb KPC),288
+intra-surgical culture (yeast),288
+fluconazole started,288
+"antibiotic scheme (vancomycin, daptomycin, meropenem, colistin, fluconazole)",288
+improvement after 11 days,408
+"antibiotic scheme adjusted (vancomycin, colistin, fluconazole)",408
+left thoracentesis,408
+"antibiotic scheme (vancomycin, fluconazole, colistin, meropenem, metronidazole)",408
+regular evolution,408
+altered hemodynamic status,408
+vancomycin monotherapy,408
+blood cultures x2,408
+adrenal insufficiency diagnosed,408
+hydrocortisone started,408
+transfer to intermediate care unit,1512
+continued dialysis,1512
+discharge from hospital,1512
+mental health follow-up,1512
+decolonization treatment recommended,1512

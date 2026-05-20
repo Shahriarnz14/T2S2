@@ -1,0 +1,194 @@
+event,time
+55 years old,0
+female,0
+height 151cm,0
+weight 61kg,0
+returned from the Philippines,0
+presented at regional hospital,0
+fever,-168
+cough,-168
+lethargy,-168
+myalgia,-168
+mild asthma,0
+sleep apnea,0
+type 2 diabetes mellitus,0
+oral hypoglycemics,0
+non-smoker,0
+SARS-CoV-2 PCR positive,0
+CT chest scan showed patchy bilateral air-space infiltrates,0
+ground glass density,0
+transferred to quaternary referral center,0
+respiratory deterioration,-144
+ICU transfer,-144
+semi-elective intubation,-144
+lung-protective ventilation,-144
+septic shock,-144
+multi-organ dysfunction,-144
+deterioration in oxygenation,-120
+metabolic derangements,-120
+high PEEP,-120
+deep sedation,-120
+paralysis with cisatracurium,-120
+referral for ECMO,-120
+FiO2 90%,-120
+PEEP 20 cmH2O,-120
+P/F ratio 62,-120
+normal LV systolic function,-120
+mild RV systolic dysfunction,-120
+mild RV dilatation,-120
+mild to moderate tricuspid regurgitation,-120
+RESP score 1,-120
+commence VV ECMO,-48
+femoral-femoral cannulation,-48
+21F return cannula,-48
+23F drainage cannula,-48
+ventilation reduced to rest settings,-48
+thrombus in right atrium,-48
+improved hemodynamics,-48
+loss of tidal volumes,-168
+ECMO dependence,-168
+HRCT on day 20,-264
+minimal recruitable lung,-264
+extensive consolidation,-264
+bilateral lung collapse,-264
+airway bleeding,-384
+proximal airway occlusion,-384
+intravenous heparin,-384
+APTT 1.5x normal,-384
+nebulized tranexamic acid,-384
+heparin cessation,-384
+bronchoscopic thrombus removal,-384
+fibrous tissue strands in bronchi,-384
+cryotherapy,-384
+intrabronchial tranexamic acid,-384
+intrabronchial epinephrine,-384
+bronchial cell cytology,-384
+lung isolation with bronchial blocker,-384
+double-lumen endotracheal tube,-384
+repeat bronchoscopy,-432
+ongoing bleeding,-432
+sloughing of bronchial mucosa,-432
+argon plasma coagulation,-432
+prone ventilation commenced,-432
+improved lung aeration,-432
+elevated D-dimer,-912
+oxygenator thrombus,-912
+haemolysis,-936
+oxygenator change,-936
+hypercalcemia,-768
+peak calcium 3.26 mmol/L,-768
+normal parathyroid hormone,-768
+normal serum phosphate,-768
+normal vitamin D,-768
+normal thyroid hormones,-768
+pamidronate,-744
+calcitonin,-744
+normalized calcium,-648
+ECMO weaning trials,-264
+decreased ECMO gas flow,-264
+stable gas exchange,-264
+ECMO decannulation,-48
+femoral vein repair,-48
+surgical tracheostomy,168
+weaned off ventilator,168
+awake and obeying commands,240
+participating in rehabilitation,240
+interacting with family,240
+"So in the current case, the admission is day 0. Any events happening on day 1, 2, etc., post-admission are positive hours. However, in the assistant's answer, ""respiratory deterioration","-144"" which would be 6 days before admission. That can't be right. The case report says ""respiratory status deteriorated on Day 4 of hospital admission"", which is +96 hours. But the assistant's answer has it as -144. That seems like an error. Let me re-express this."
+"But in the assistant's answer, many of these events have negative timestamps, which is incorrect. For example, ""commence VV ECMO","-48"" would be two days before admission, but according to the case report, ECMO was started on Day 10 post-admission, which is +240 hours. Therefore, the assistant's answer has incorrect timestamps, likely due to a miscalculation or misunderstanding of the reference point."
+"Additionally, some events are mentioned in the case report without explicit days but relative to ECMO days. For example, pulmonary hemorrhage occurred on Day 14 of ECMO, which was initiated on Day 10 post-admission. Therefore, Day 14 of ECMO would be Day 24 post-admission (10 +14 =24), which is +576 hours. However, the assistant's answer lists ""airway bleeding","-384"", which is 16 days before admission, which is incorrect."
+55 years old,0
+female,0
+height 151cm,0
+weight 61kg,0
+returned from the Philippines,0
+presented at regional hospital,0
+fever,-168
+cough,-168
+lethargy,-168
+myalgia,-168
+mild asthma,0
+sleep apnea,0
+type 2 diabetes mellitus,0
+oral hypoglycemics,0
+non-smoker,0
+SARS-CoV-2 PCR positive,0
+CT chest scan showed patchy bilateral air-space infiltrates,0
+ground glass density,0
+transferred to quaternary referral center,0
+respiratory deterioration,96
+ICU transfer,96
+semi-elective intubation,96
+lung-protective ventilation,96
+septic shock,96
+multi-organ dysfunction,96
+deterioration in oxygenation,120
+metabolic derangements,120
+high PEEP,120
+deep sedation,120
+paralysis with cisatracurium,120
+referral for ECMO,120
+FiO2 90%,120
+PEEP 20 cmH2O,120
+P/F ratio 62,120
+normal LV systolic function,120
+mild RV systolic dysfunction,120
+mild RV dilatation,120
+mild to moderate tricuspid regurgitation,120
+RESP score 1,120
+commence VV ECMO,240
+femoral-femoral cannulation,240
+21F return cannula,240
+23F drainage cannula,240
+ventilation reduced to rest settings,240
+thrombus in right atrium,240
+improved hemodynamics,240
+loss of tidal volumes,336
+ECMO dependence,336
+HRCT on day 20,480
+minimal recruitable lung,480
+extensive consolidation,480
+bilateral lung collapse,480
+airway bleeding,576
+proximal airway occlusion,576
+intravenous heparin,576
+APTT 1.5x normal,576
+nebulized tranexamic acid,576
+heparin cessation,576
+bronchoscopic thrombus removal,576
+fibrous tissue strands in bronchi,576
+cryotherapy,576
+intrabronchial tranexamic acid,576
+intrabronchial epinephrine,576
+bronchial cell cytology,576
+lung isolation with bronchial blocker,576
+double-lumen endotracheal tube,576
+repeat bronchoscopy,624
+ongoing bleeding,624
+sloughing of bronchial mucosa,624
+argon plasma coagulation,624
+prone ventilation commenced,648
+improved lung aeration,648
+elevated D-dimer,888
+oxygenator thrombus,888
+haemolysis,936
+oxygenator change,936
+hypercalcemia,768
+peak calcium 3.26 mmol/L,768
+normal parathyroid hormone,768
+normal serum phosphate,768
+normal vitamin D,768
+normal thyroid hormones,768
+pamidronate,792
+calcitonin,792
+normalized calcium,864
+ECMO weaning trials,960
+decreased ECMO gas flow,960
+stable gas exchange,960
+ECMO decannulation,1224
+femoral vein repair,1224
+surgical tracheostomy,1320
+weaned off ventilator,1320
+awake and obeying commands,1440
+participating in rehabilitation,1440
+interacting with family,1440

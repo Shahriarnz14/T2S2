@@ -1,0 +1,84 @@
+event,time
+42 years old,0
+male,0
+chronic alcohol abuse,0
+chronic cocaine abuse,0
+admitted to the medical floors,0
+altered mental status,0
+alcohol intoxication,0
+impending alcohol withdrawal,0
+elevated heart rate (115 bpm),0
+elevated blood pressure (168/111 mmHg),0
+hypoxia (O2 saturation 70% on room air),0
+agitation,0
+expiratory wheezes,0
+"leukocytosis (WBC 14,500/μL)",0
+elevated serum creatinine (1.27 mg/dL),0
+positive urine drug screen for cocaine,0
+elevated blood alcohol level (34),0
+normal CT scan of the head,0
+small right pleural effusion (CXR),0
+moderate hiatal hernia,0
+mild debris in left main stem bronchus,0
+patchy subsegmental bibasilar opacities,0
+mild nonspecific ground-glass opacities,0
+started on CIWA protocol,0
+started on piperacillin-tazobactam,0
+oxygen supplementation with nasal cannula,0
+negative COVID-19 test,0
+coffee ground vomitus,0
+started on IV Protonix,0
+gastroenterology consultation (not stable for endoscopy),0
+no active bleeding,0
+hemoglobin within normal range,0
+worsening mental status on day 2,48
+transferred to ICU,48
+worsening delirium tremens,48
+respiratory distress,48
+increased hypoxia,48
+decreased breath sounds on right chest,48
+large right-sided pleural effusion (repeat CXR),48
+thoracic surgery consultation,48
+right inferior chest thoracostomy tube insertion,48
+drained 2L dark fluid,48
+"pleural fluid analysis: exudative effusion (WBC 82831, Polys 92%)",48
+pleural fluid glucose <10,48
+pleural fluid LDH 1459,48
+pleural fluid protein 2.1,48
+pleural fluid PH 6,48
+pleural fluid cultures positive for Candida albicans,48
+antibiotics switched to meropenem and vancomycin,48
+micafungin added,48
+transferred back to medical floor,48
+worsening agitation,72
+readmitted to ICU,72
+treated with lorazepam infusion,72
+persistent fever (T max 101.7°F),72
+"leukocytosis (WBC up to 24,000)",72
+repeat CT chest: multiple right-sided loculated pleural effusions with air-fluid levels,72
+blood cultures negative,72
+thoracic surgery consultation (poor surgical candidate),72
+two chest tubes inserted by interventional radiology,72
+superior chest tube drained 300mL pus,72
+inferior chest tube drained 50mL purulent fluid and air,72
+pleural fluid cultures: candida and staphylococcus epidermidis (superior),72
+pleural fluid cultures: candida (inferior),72
+"antibiotic regimen changed to meropenem, vancomycin, fluconazole",72
+3rd chest tube placed inferiorly,120
+increased effusion size in basilar right lung,120
+upper chest tubes removed,168
+meropenem switched to ampicillin-sulbactam,168
+mental status improved after 15 days,360
+oral feeding started,360
+"repeat CT chest: right empyema slightly decreased, moderate left effusion",360
+food contents from chest tube,360
+chest tube output 1.5–2L/day,360
+contrast esophagogram showed esophageal leak into right pleural space,672
+gastroenterology and thoracic surgery consultation,672
+feeding tube placement,672
+esophageal stent insertion,672
+PEG placement,672
+endoscopic confirmation of esophageal defect,672
+vancomycin stopped,672
+switched to ampicillin-sulbactam,672
+completed additional month of fluconazole post-discharge,1344

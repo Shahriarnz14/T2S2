@@ -1,0 +1,72 @@
+event,time
+65 years old,0
+woman,0
+admitted to the hospital,0
+obesity,0
+type 2 diabetes mellitus,0
+hypertension,0
+hyperlipidaemia,0
+transient ischaemic attack,0
+left-sided breast cancer,0
+mastectomy,0
+adjuvant docetaxel,0
+adjuvant cyclophosphamide,0
+fever,-168
+cough,-168
+exertional dyspnoea,-168
+hypoxia,-144
+oxygen saturation 87%,-144
+bilateral lung ground-glass opacities,-144
+SARS-CoV-2 positive,-144
+remdesivir,0
+ceftriaxone,0
+azithromycin,0
+shock,0
+multiorgan system failure,0
+acute heart failure,0
+rapid sequence intubation,0
+severe biventricular failure,0
+LVEF 25%,0
+tocilizumab 400 mg,+24
+clinical improvement,+72
+LVEF 64%,+72
+diminished breath sounds,0
+bilateral infiltrates,0
+acute respiratory distress syndrome,0
+acute kidney injury,0
+eGFR 26 mL/min/1.73 m2,0
+ischaemic hepatitis,0
+elevated inflammatory markers,0
+T-wave inversions V1–V2,0
+QTc 457 ms,0
+high-sensitivity troponin I elevated,0
+BNP 401 pg/mL,0
+RV systolic dysfunction,0
+paradoxical septal motion,0
+sepsis-induced cardiomyopathy,0
+Takotsubo syndrome,0
+viral lymphocytic myocarditis,0
+acute coronary syndrome,0
+norepinephrine,0
+vasopressin,0
+dobutamine,0
+sodium bicarbonate,0
+inhaled epoprostenol,0
+hydrocortisone,0
+propofol,0
+fentanyl,0
+cisatracurium,0
+down-trending inflammatory markers,+24
+mild RV dysfunction,+72
+Grade 2 diastolic dysfunction,+72
+small circumferential pericardial effusion,+72
+tracheostomy,+168
+discharge from ICU,+168
+discharge from hospital,+168
+prolonged ventilatory wean,+168
+no significant dysrhythmia,+24
+denied chest pain,0
+denied shortness of breath,0
+no coronary artery disease evaluation,0
+no pulmonary embolism evaluation,0
+no CMR or EMB,0

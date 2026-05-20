@@ -1,0 +1,45 @@
+event,time
+19 years old,0\
+male,0\
+admitted to the hospital,0\
+persistent fever,-168\
+body ache,-168\
+throat pain,-168\
+decreased oral intake,-168\
+low systolic blood pressure (90 mmHg),0\
+low diastolic blood pressure (40 mmHg),0\
+normal saline infusion (1500 ml),0\
+shifted to medical intensive care unit,0\
+broad-spectrum antibiotics,0\
+inotropic support (noradrenaline),0\
+negative dengue test,0\
+negative typhoid test,0\
+negative malaria test,0\
+negative leptospira test,0\
+deranged kidney function tests,0\
+deranged liver function tests,0\
+pancytopenia,0\
+coagulation disturbance,0\
+hepatosplenomegaly,0\
+suspected HLH,0\
+elevated lactate dehydrogenase (2860 IU/L),0\
+low fibrinogen (50 mg/dl),0\
+elevated serum ferritin (3210 ng/ml),0\
+elevated fasting triglyceride (619 mg/dl),0\
+hemophagocytosis in bone marrow,0\
+intubation,0\
+intravenous methylprednisolone pulse,0\
+therapeutic plasma exchange (TPE) started,0\
+FFP as replacement fluid,0\
+peripheral femoral line used,0\
+extubated,72\
+discharged,384\
+blood transfusion (2 units packed red cells),variable\
+FFP transfusion (18 units),variable\
+single donor platelet concentrates (4 units),variable\
+cryoprecipitate (24 units),variable\
+normalization of hematological parameters,384\
+normalization of biochemical parameters,384\
+normalization of coagulation parameters,384\
+no NK cell activity test,0\
+no soluble CD25 estimation,0

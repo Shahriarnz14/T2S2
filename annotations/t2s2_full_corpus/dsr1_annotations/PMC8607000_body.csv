@@ -1,0 +1,93 @@
+event,time
+61-year-old,0
+male,0
+presented with dyspnea,-120
+presented with fever,-120
+diagnosed with COVID-19,0
+hospitalized,0
+thoracic CT showed multiple infiltrates in both lungs,0
+severe dyspnea,0
+treatment with hydroxychloroquine,0
+treatment with azithromycin,0
+treatment with favipiravir,0
+clinical status deteriorated,144
+admitted to ICU,144
+tachypnea,144
+high oxygen demand,144
+moderate respiratory distress,144
+oxyhemoglobin saturation 91% on 15 L/min oxygen,144
+developed CRS,144
+severe lymphopenia (100/mm3),144
+"hyperferritinemia (1,271 ng/mL)",144
+placed in prone position,144
+high-flow oxygen support,144
+first dose of 400 mg IV tocilizumab,144
+rapidly progressed to acute hypoxemic respiratory failure,168
+second dose of tocilizumab,168
+intubated,168
+worsening hypoxemia,168
+accessory muscle use,168
+paradoxical abdominal respiration,168
+central venous catheter placed in right jugular vein,168
+mechanical ventilation support,168
+successfully extubated,240
+discharged from ICU,240
+complained of sudden onset right shoulder pain,264
+complained of sudden onset chest pain,264
+pain radiating to right arm,264
+pain exacerbated by sneezing,264
+pain exacerbated by coughing,264
+pain exacerbated by deep breathing,264
+pain exacerbated by movements of right shoulder,264
+pain exacerbated by movements of torso,264
+afebrile,264
+bilateral upper extremity muscle strength normal,264
+glenohumeral joint range of motion normal,264
+active movements of right shoulder extremely painful,264
+passive movements of right shoulder extremely painful,264
+redness around right parasternal region,264
+warmth around right parasternal region,264
+swelling around right parasternal region,264
+palpation of second costochondral joint caused pain,264
+palpation of third costochondral joint caused pain,264
+chest radiograph unremarkable,264
+serum CRP elevated (15 mg/L),264
+normal leukocyte count,264
+"moderate lymphopenia (1,000/mm3)",264
+CT scan showed bilateral diffuse ground glass opacities,264
+CT scan showed crazy-paving pattern,264
+CT scan showed consolidation,264
+minimal swelling of superficial subcutaneous tissues in second and third right costal cartilage,264
+degeneration in right glenohumeral joint,264
+diagnosed with Tietze syndrome,264
+treated with paracetamol 1 g/day,264
+pain progressively increased,288
+pain spread into neck,288
+administered diclofenac 50 mg q.i.d.,288
+administered tramadol 50 mg q.i.d.,288
+oxygen-dependent,288
+administered 40 mg IV methylprednisolone,288
+sternoclavicular joint swollen,312
+sternoclavicular joint red,312
+sternoclavicular joint very tender,312
+MRI performed on chest,312
+MRI performed on right shoulder,312
+fluid collection in right sternoclavicular joint,312
+extension into chest cavity suggesting chest wall abscess,312
+post-contrast T1-weighted images confirmed inflammatory changes,312
+central avascular area within abscess,312
+CT-guided fine needle aspiration,312
+10 mL purulent liquid aspirated,312
+Gram stain showed numerous polymorphonuclear leucocytes,312
+no bacteria on Gram stain,312
+acid-fast stain negative,312
+culture revealed MSSA,312
+beta-lactam allergy,312
+received IV linezolid,312
+responded well to therapy,504
+discharged home with oral clindamycin 300 mg t.i.d.,504
+CT and MRI at one month follow-up showed decrease in abscess,720
+no fever,264
+no leukocytosis,264
+no increase in CRP,264
+normal CT imaging findings initially,264

@@ -1,0 +1,65 @@
+event,time
+58 years old,0
+female,0
+internal haemorrhoids,0
+osteoporosis,0
+dyslipidemia,0
+depression,0
+RBL,0
+pelvic pain,48
+dysuria,48
+no necrosis,48
+no signs of infection,48
+intravenous antibiotics,48
+ciprofloxacin,48
+metronidazole,48
+clinical observation,48
+WBC increased,72
+transferred to referral centre,72
+surgical site exploration,72
+band removed,72
+small superficial abscess drained,72
+CT abdomen,72
+CT pelvis,72
+rectosigmoiditis,72
+moderate to severe ascites,72
+no pneumatosis,72
+exploratory laparoscopy,72
+no rectal necrosis,72
+serous ascites,72
+SIRS,72
+intensive care,72
+clinical deterioration,96
+persistent leukocytosis,96
+transferred to tertiary care centre,96
+suspicion of ischaemic colitis,96
+hemodynamic deterioration,96
+respiratory deterioration,96
+ventilator support,96
+ARDS,96
+antibiotics broadened,96
+carbapenem,96
+colonoscopy,96
+superficially necrotic 2 cm segment in lower rectum,96
+petechial mucosa,96
+inotropic support,96
+vasopressors,96
+aggressive volemic resuscitation,96
+modest improvement,168
+WBC decreased from 30000 to 23000/μL,168
+repeat abdominopelvic CT scan,168
+circumferential thickening of rectosigmoid colon,168
+no pneumatosis,168
+shock subsided,216
+extubated,216
+transferred to floor,216
+discharged,264
+intensive care unit myopathy,264
+prolonged intubation,264
+intensive rehabilitation,264
+muscular weakness,432
+poor exercise tolerance,432
+colonoscopy normal,25920
+persistent dyspnea,25920
+severe deconditioning,25920
+no residual cardiorespiratory injury,25920

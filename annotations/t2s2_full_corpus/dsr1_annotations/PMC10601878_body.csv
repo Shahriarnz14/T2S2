@@ -1,0 +1,91 @@
+event,time
+70-year-old African-American male,0
+admitted to ED,0
+ESRD on intermittent hemodialysis (IHD) for about 5 years,0
+fever,0
+headaches,0
+chills,0
+nausea,0
+non-insulin-dependent diabetes mellitus,0
+hypertension,0
+severe peripheral arterial disease,0
+recurrent vascular access thrombosis,0
+symptomatic bradyarrhythmia requiring permanent implantable cardioverter-defibrillator (AICD),0
+upper half central veins significantly stenotic or completely occluded,0
+right femoral vein last patent for cannulation,0
+home medications: aspirin,0
+home medications: calcium acetate,0
+home medications: carvedilol,0
+home medications: cinacalcet,0
+home medications: insulin,0
+home medications: warfarin,0
+home medications: gabapentin,0
+home medications: simvastatin,0
+home medications: esomeprazole,0
+temperature 105 Fahrenheit (40.50 Celsius),0
+blood pressure 108/51 mm Hg,0
+heart rate 114 beats per minute,0
+respiratory rate 14 per minute,0
+oxygen saturation 99% on room air,0
+alert,0
+cooperative,0
+oriented,0
+no rash,0
+no finger clubbing,0
+lungs clear to auscultation,0
+no erythema over AICD site,0
+no tenderness over AICD site,0
+no fluctuation over AICD site,0
+cardiovascular exam: regular heart sounds,0
+no gallop rhythm,0
+grade 2/6 late diastolic murmur at right upper sternal border,0
+no pericardial rub,0
+no organomegaly,0
+no peripheral edema,0
+right femoral cuffed catheter minimal erythema,0
+no warmth over subcutaneous tunnel,0
+no tenderness over subcutaneous tunnel,0
+no discharge at exit site,0
+sodium 135 mmol/L,0
+potassium 4.8 mmol/L,0
+chloride 96 mmol/L,0
+bicarbonate 23 mmol/L,0
+blood urea nitrogen 68 mg/dL,0
+creatinine 11.12 mg/dL,0
+lactic acid 1.7 mmol/L,0
+INR 2.57,0
+WBC 10.8 k/mm³,0
+hemoglobin 8.6 gm/dL,0
+hematocrit 25.5%,0
+platelets 79 k/mm³,0
+empiric broad-spectrum antibiotics (cefepime and vancomycin) started,0
+blood cultures sent from peripheral and right femoral catheter ports,0
+transfer to intensive care unit,0
+CT head unremarkable,24
+chest x-ray unremarkable,24
+CSF examination negative,24
+two sets of blood cultures positive for MRSA,24
+cuffed catheter tip negative on cultures,24
+transthoracic echocardiogram: echogenic tricuspid valve mass,48
+trans-esophageal echocardiography confirmed tricuspid valve infectious endocarditis,72
+trans-esophageal echocardiography confirmed AICD pocket infection,72
+"antibiotics changed to ampicillin, vancomycin, and cefepime",72
+AICD removed,96
+tunneled catheter exchanged over guidewire with new catheter at same femoral site,96
+continued fever,120
+blood cultures persistently positive for MRSA,120
+cuffed catheter exchanged with temporary non-cuffed catheter,144
+worsening delirium,144
+deterioration of hemodynamic status,144
+intravenous fluids initiated,144
+vasopressors support initiated,144
+right femoral catheter removed,168
+transition to peritoneal dialysis (PD),168
+peritoneal catheter inserted,216
+gradual escalation of PD volume and frequency over 72 hours,216
+improvement in clinical status,288
+resolution of fever,288
+plasma biochemistry improved,288
+intravenous daptomycin continued for 6 weeks,288
+discharged to long-term nursing facility,432
+long-term chronic manual ambulatory PD,432

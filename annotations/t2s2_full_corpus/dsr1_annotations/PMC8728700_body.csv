@@ -1,0 +1,69 @@
+event,time
+29-year-old,0
+Asian,0
+woman,0
+gravida 1,0
+para 0,0
+27 weeks of gestation,0
+acute onset of exacerbation of respiratory distress,0
+fever,-216
+nasal discharge,-216
+coughing,-216
+antibiotics prescribed,-168
+orthopnoea,0
+exacerbation of respiratory distress (wet-warm phenotype),0
+admission,0
+body temperature 36.8°C,0
+blood pressure 108/69 mmHg,0
+pulse rate 138 beats/min,0
+respiratory rate 35 breaths/min,0
+O2 saturation 94%,0
+systolic murmur (3/6 grade) at apex,0
+bilateral coarse crackles,0
+bilateral leg edema,0
+hypothyreosis,0
+levothyroxine treatment,0
+no history of intravenous drug use,0
+no cardiovascular diseases,0
+no Janeway lesions,0
+no abnormal neurological findings,0
+sinus tachycardia,0
+complete right branch bundle block,0
+massive pulmonary congestion on chest X-ray,0
+elevated brain natriuretic peptide (564.5 pg/mL),0
+elevated C-reactive protein (4.86 mg/dL),0
+"elevated white blood cell count (13,890/μL)",0
+severe mitral valve regurgitation,0
+prolapse of anterior mitral leaflet,0
+mobile vegetations (1.5 cm and 2 cm) on mitral leaflets,0
+severe pulmonary hypertension (112 mmHg),0
+LVEF 71%,0
+normal fetal ultrasound,0
+non-stress test normal,0
+suspected infective endocarditis,0
+multi-disciplinary conference,0
+betamethasone injection,0
+simultaneous emergent cesarean section and MVR,0
+"male infant delivered (1,154 g)",0
+"APGAR scores 1, 5, 6",0
+uterine compression suture,0
+biological valve (MAGNA MITRAL EASE 29 mm) implanted,0
+mitral valve perforation,0
+ICU admission,0
+histopathological examination (acute neutrophil-dominant inflammation),0
+empiric antibiotic therapy (ceftriaxone and sulbactam/ampicillin),0
+extubation,24
+cardiac rehabilitation (100 m walking),24
+transfer to general ward,24
+LVEF reduced to 41%,120
+abnormal anterior wall motion,120
+coronary CT angiography (mid-LAD and RCA occlusion),336
+head MRI (multiple cerebral infarctions),360
+septic emboli,0
+silent myocardial infarction,0
+silent cerebral infarction,0
+beta-blocker initiated,360
+ACE inhibitor initiated,360
+discharged,696
+neonate discharged,2280
+"one-year follow-up (normal mitral valve function, LVEF 43%)",8760

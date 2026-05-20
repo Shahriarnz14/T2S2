@@ -1,0 +1,60 @@
+event,time
+80 years old,0
+woman,0
+non-smoker,0
+history of hypertension,0
+acute dyspnea,0
+fecal incontinence,-1200
+left hemiplegia,-1200
+dextroversion,-1200
+dysarthria,-1200
+vomiting,-1200
+last seen by family members,-2760
+transported to emergency department,-1080
+impaired consciousness,-1080
+Japan coma scale score II-10,-1080
+head CT showing right thalamus and putamen bleeding,-1080
+Glasgow coma scale score 12,-1080
+systolic blood pressure 91 mmHg,-1080
+respiratory rate 24/min,-1080
+SpO2 86%,-1080
+supplemental oxygen 4 L/min,-1080
+oral hygiene poor,-1080
+neurological findings suggestive of intracranial lesion,-1080
+diminished breath sounds left side,-1080
+coarse crackles right lung,-1080
+decreased breath sounds front of chest,-1080
+respiratory condition deteriorated,-1080
+SpO2 not maintained at 90%,-1080
+endotracheal intubation,-1080
+mechanical ventilation initiated,-1080
+chest CT showing bilateral infiltration,-1080
+admitted to ICU,-1080
+leukocyte count 1900/μL,-1080
+CRP 3.6 mg/dL,-1080
+PaO2 64 mmHg,-1080
+normal hepatorenal function,-1080
+chest radiography showing infiltration shadows,-1080
+head CT showing hematoma and cerebral edema,-1080
+chest CT consolidations and ground-glass opacities,-1080
+A-DROP score indicating ICU admission,-1080
+negative COVID-19 antigen test,-1080
+diagnosed with Mendelson's syndrome,-1080
+sputum culture showing Streptococcus agalactiae,-1080
+sputum culture showing Klebsiella oxytoca,-1080
+leukocytopenia,-1080
+low serum CRP,-1080
+management with ventilator,-1080
+Sivelestat sodium hydrate,-1080
+meropenem,-1080
+levofloxacin,-1080
+Berlin definition ARDS,-1080
+P/F ratio 128.75,-1080
+prednisolone 1 mg/kg/day,-1080
+no fever,-1080
+infiltration shadows improved,264
+P/F ratio ≥250,264
+extubated,264
+transferred to Department of Neurosurgery,528
+transferred to rehabilitation hospital,528
+discharge,528

@@ -1,0 +1,77 @@
+event,time
+20-year-old,0
+male,0
+arrived at the emergency department,0
+admitted to the hospital,0
+fever of up to 39.5°C,-336
+productive cough,-336
+night sweats,-336
+malaise,-336
+myalgia,-336
+treated with roxithromycin,-168
+no clinical response,-168
+non-smoker,0
+medical history unremarkable,0
+history of occupational smoke exposure,0
+serving as a policeman in a region of rural villages where domestic waste is traditionally burnt on open fires,0
+fire smoke exposure,0
+temperature 38.4°C,0
+blood pressure 130/70 mmHg,0
+pulse 88 bpm,0
+oxygen saturation 97% in room air,0
+dyspnoea,0
+tachypnoea,0
+bronchial breathing sounds,0
+crackles noted over the right lung,0
+white blood cells 11.54×103/μl,0
+total eosinophils 92×104/μl,0
+haemoglobin 13.7 g/dl,0
+creatinine 1.1 mg/dl,0
+C-reactive protein (CRP) 11 mg/dl,0
+liver enzymes were elevated,0
+ALP 524,0
+GGT 320,0
+ALT 406,0
+AST 137,0
+abdominal ultrasound was normal,0
+chest radiograph demonstrated infiltrates involving most of the right lung,0
+diffuse bilateral massive infiltrates,0
+mild eosinophilia during presentation,0
+treatment with intravenous (IV) cefuroxime was initiated,0
+sputum cultures negative,24
+urine Legionella antigen test negative,24
+persistent high-grade fever (up to 40°C),48
+antibiotic treatment was changed to moxifloxacin,48
+cefuroxime discontinued,48
+blood cultures were still sterile,48
+blood cultures negative,48
+respiratory distress,96
+persistent fever,96
+oxygen saturation dropped to 88%,96
+evolving respiratory failure,96
+arterial blood gas disclosed PaO2 67 mmHg,96
+CRP increased to 14 mg/dl,96
+elevated liver enzymes,96
+leucocytosis 12.8×103/μl,96
+eosinophil count 1.33×103 cells/μl,96
+a follow-up chest radiogram demonstrated progression to diffuse bilateral infiltrates,96
+acute eosinophilic pneumonia suggested,96
+progressive increases in eosinophil count,96
+respiratory distress worsened,120
+intubated,120
+mechanically ventilated,120
+transferred to the intensive care unit,120
+broncho-alveolar lavage demonstrated 30% eosinophils,120
+diagnosis of acute eosinophilic pneumonia (AEP),120
+IV glucocorticoids were administered,120
+steroid treatment was initiated,120
+rapid decrease in eosinophil count after glucocorticoid administration,120
+resolution of fever,126
+successful extubation,144
+mechanical ventilation discontinued,144
+a chest radiogram revealed considerable regression of the bilateral infiltrates,144
+eosinophil count dropped to 260 cells/μl,144
+considerable resolution on day 9,192
+discharged,192
+"oral prednisone, 60 mg/day",192
+tapering over 3 months,192

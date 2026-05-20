@@ -1,0 +1,77 @@
+event,time
+51-year-old,0
+man,0
+admitted to ICU,0
+acute circulatory failure,0
+diarrhea,-48
+rigors,-48
+chronic kidney disease,0
+diabetes mellitus,0
+sarcoidosis,0
+hepatosplenic involvement,0
+splenectomy fourteen years ago,-122640
+hydroxychloroquine treatment,0
+no immunosuppressive drug,0
+one dog,0
+vaccinated against Streptococcus pneumoniae,0
+vaccinated against Neisseria meningitidis,0
+no antibiotic prophylaxis,0
+central body temperature 34.4°C,0
+heart rate 121/min,0
+arterial blood pressure 80/40 mmHg,0
+respiratory rate 20/min,0
+SpO2 99%,0
+coma Glasgow score 15,0
+alert and oriented,0
+no neck stiffness,0
+irrelevant lung auscultation,0
+irrelevant abdominal examination,0
+no heart murmur,0
+extensive non-blanching rash,0
+marked non-blanching rash,0
+severe lactic acidosis,0
+pH 6.92,0
+lactate 13 mmol/L,0
+acute-on-chronic kidney failure,0
+serum creatinine 273 µmol/L,0
+disseminated intravascular coagulation,0
+prothrombin time 20%,0
+platelet count 18 G/L,0
+fibrinogen 1.9 g/L,0
+"D-dimer 20,000 ng/mL",0
+marked biological inflammatory syndrome,0
+"leukocytes count 45,000/mm³",0
+procalcitonin 57 ng/mL,0
+CT-scan ruled out mesenteric ischemia,0
+CT-scan ruled out obstructive urinary infection,0
+CT-scan ruled out biliary tract infection,0
+CT-scan ruled out pneumonia,0
+echocardiography no valvular regurgitation,0
+echocardiography no vegetation,0
+direct urinary sample negative,0
+pneumococcal urinary antigen test negative,0
+empirical antibiotic therapy (cefotaxime),0
+massive fluid loading,0
+renal replacement therapy,0
+anuria,0
+hyperkalemia,0
+invasive mechanical ventilation,0
+hydrocortisone,0
+vasopressor support (norepinephrine),0
+clinical deterioration,10
+refractory circulatory failure,10
+multi-organ failure,10
+death,10
+blood cultures positive Enterococcus cecorum,0
+identification confirmed by MALDI-TOF,0
+susceptible to ampicillin,0
+susceptible to vancomycin,0
+susceptible to linezolid,0
+susceptible to rifampicin,0
+susceptible to cefotaxime,0
+sterile blood cultures post-cefotaxime,6
+purpura fulminans,0
+overwhelming post-splenectomy infection,0
+no poultry exposure,0
+denied recent bite/scratch/lick,0
+possible endogenous gastrointestinal source,0

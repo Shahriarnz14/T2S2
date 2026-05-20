@@ -1,0 +1,116 @@
+event,time
+32 years old,0
+female,0
+presented to Emergency Department,0
+fever,-72
+chills,-72
+generalized weakness,-72
+malaise,-72
+body aches,-72
+tachycardia,0
+heart rate 120 bpm,0
+blood pressure 128/82 mmHg,0
+respiratory rate 18 breaths/min,0
+oxygen saturation 99% room air,0
+denied chest pain,0
+denied cough,0
+denied shortness of breath,0
+denied abdominal pain,0
+resided in rural community coastal South Texas,0
+dogs and cats at home,0
+no recent exposure to communicable diseases,0
+no recent travel outside country,0
+no tobacco use,0
+no alcohol use,0
+no illicit drug use,0
+white blood cells 4300 cells/mm3,0
+neutrophils 85%,0
+lymphocytes 11.4%,0
+monocytes 3%,0
+hemoglobin 12.4 g/dL,0
+hematocrit 37.2%,0
+"platelets 230,000/mm3",0
+AST 38 U/L,0
+ALT 28 U/L,0
+alkaline phosphatase 62 U/L,0
+normal influenza test,0
+normal urinalysis,0
+normal lactic acid,0
+normal TSH,0
+chest radiograph mild peribronchial cuffing,0
+received 1L 0.9% normal saline IV,0
+ibuprofen 800 mg oral,0
+diagnosed viral bronchitis,0
+discharged home,0
+returned to Emergency Department,96
+fever,96
+body aches,96
+temperature 101.2°F,96
+heart rate 125 bpm,96
+respiratory rate 17 breaths/min,96
+blood pressure 118/56 mmHg,96
+oxygen saturation 99% room air,96
+diminished breath sounds bilateral lungs,96
+tachycardia,96
+dry mucous membranes,96
+decreased skin turgor,96
+white blood cells 3600 cells/mm3,96
+neutrophils 82.8%,96
+lymphocytes 11%,96
+monocytes 5%,96
+hemoglobin 11.6 g/dL,96
+hematocrit 33.2%,96
+"platelets 64,000/mm3",96
+AST 226 U/L,96
+ALT 138 U/L,96
+alkaline phosphatase 182 U/L,96
+D-dimer >5000 ng/mL,96
+lactic acid 2.4 mmol/L,96
+normal fibrinogen,96
+chest radiograph bilateral alveolar infiltrates,96
+CT angiogram negative pulmonary embolism,96
+bilateral lower lobe consolidation,96
+admitted to medical-surgical floor,96
+diagnosed sepsis secondary to community-acquired pneumonia,96
+sepsis protocol initiated,96
+meropenem,96
+voriconazole,96
+blood cultures obtained,96
+urine cultures obtained,96
+3L 0.9% normal saline IV,96
+remained tachypneic,96
+remained tachycardic,96
+became hypotensive 87/53 mmHg,102
+heart rate 137 bpm,102
+respiratory rate 36 breaths/min,102
+transferred to ICU,102
+2L 0.9% normal saline IV,102
+suspected atypical pneumonia,102
+serology panel for zoonoses collected,102
+developed dry cough,120
+acute hypoxemic respiratory failure,120
+heart rate 144 bpm,120
+respiratory rate 33 breaths/min,120
+oxygen saturation 82%,120
+echocardiogram mild right heart dilatation,120
+left ventricular EF 65%,120
+ABG PaO2/FiO2 102,120
+ARDS moderately severe,120
+non-invasive positive pressure ventilation,120
+voriconazole discontinued,120
+meropenem continued,120
+doxycycline started,120
+cultures negative,168
+maculopapular rash bilateral lower extremities,168
+no lymphadenopathy,168
+serology confirmed murine typhus,168
+Typhus Fever IgM 1:128,168
+murine typhus IgG 1:258,168
+meropenem discontinued,168
+doxycycline monotherapy,168
+weaning from NIPPV,168
+high flow oxygen,168
+low flow oxygen 2 L/min,168
+discharged home,192
+minocycline 11 days,192
+generalized weakness at discharge,192

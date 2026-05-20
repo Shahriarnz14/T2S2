@@ -1,0 +1,61 @@
+event,time
+53 years old,0
+female,0
+admitted to intensive care unit,0
+liposculpture surgery,-168
+"wide liposuction of dorsal region, flanks, thighs",-168
+fat graft insertion into gluteal area,-168
+fever,-72
+disabling pain at surgical site,-72
+extensive bullae formation,-72
+septic shock,-48
+required vasopressor support,-48
+mechanical ventilation,-48
+acute renal failure,-48
+admitted to intensive care unit (local hospital),-48
+air transportation,-24
+septic shock (persistent),0
+vasopressor support (persistent),0
+mechanical ventilation (persistent),0
+multiple extensive lesions from pelvis to neck,0
+subcutaneous emphysema,0
+leakage of purulent material,0
+erythema,0
+necrosis at wound edges,0
+cutaneous dehiscence (left and right flanks),0
+"extension to iliac crests, left gluteal region, perineal region",0
+generalized soft tissue emphysema (neck to upper thighs),0
+air dissection of muscular planes,0
+"striation of subcutaneous fatty tissue (thoracic, abdominopelvic)",0
+necrotizing soft tissue infection (NSTI) diagnosis,0
+surgical wound cleansing,0
+mechanical scrubbing,0
+debridement,0
+prophylactic antibiotics,0
+pathogen identification,0
+"surgical intervention (drainage, debridement, negative pressure therapy)",24
+metabolic acidosis,0
+hyperlactatemia,0
+leukocytosis with left shift,0
+thrombocytopenia,0
+elevated CRP,0
+elevated ESR,0
+hyperglycemia,0
+intensive care unit admission,0
+source of infection controlled,168
+hemodynamic stabilization achieved,168
+hospitalization duration (42 days),0
+15 surgical interventions,24
+wound cleansing,24
+debridement,24
+negative pressure therapy system placement,24
+advancement of flaps,24
+lesions reconstruction,24
+procurement and placement of grafts,24
+E. coli in secretion cultures,24
+Finegoldia magna in secretion cultures,24
+Streptococcus mitis in secretion cultures,24
+"antibiotic management (Vancomycin, Meropenem, Clindamycin)",24
+discharged without complications,1008
+intensive rehabilitation program,1008
+no further complications,1008

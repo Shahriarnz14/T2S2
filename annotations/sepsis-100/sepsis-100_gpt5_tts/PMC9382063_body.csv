@@ -1,0 +1,126 @@
+event,time
+3-year-old,0
+female,0
+presented to the emergency department,0
+pediatric intensive care unit admission,0
+critically ill,0
+fever (temperature was 39.5°C),0
+diarrhea,0
+abdominal pain,0
+severe dehydration,0
+tachypneic with rapid shallow breathing,0
+respiratory rate 40 breaths/min,0
+hypotensive,0
+blood pressure 60/40 mm Hg,0
+dry tongue,0
+sunken eyes,0
+poor skin turgor,0
+urine output <1 mL/kg/h,0
+pale,0
+purpuric eruption all over the body,0
+no organomegaly,0
+no lymphadenopathy,0
+pancytopenia,0
+absolute neutropenia,0
+white blood cells 500/mm3,0
+absolute neutrophil count 200/mm3,0
+Hb 6.4 gm/dL,0
+platelets 2000/cm3,0
+renal impairment,0
+electrolyte imbalance,0
+BUN 104 mg/dL,0
+creatinine 2.5 mg/dL,0
+K 6.5 mmol/L,0
+ph 21.9 mg/dL,0
+Na 128 mmol/L,0
+Ca 5.3 mg/dL,0
+hyperuricemia (uric acid 37 mg/dL),0
+coagulopathy with disseminated intravascular coagulation,0
+prothrombin time 16.3 s,0
+partial thromboplastin time 40.1 s,0
+D-dimer 17 ng/mL,0
+high inflammatory markers,0
+CRP 287 mg/L,0
+stool culture positive for Escherichia coli,0
+blood culture positive for Escherichia coli,0
+pelvi-abdominal ultrasound normal,0
+bone marrow aspirate performed,0
+hypocellular bone marrow,0
+negative for any abnormal cells,0
+intravenous fluid therapy started,0
+blood components transfusion started,0
+correction of electrolyte disturbance started,0
+antibiotic therapy started,0
+provisionally diagnosed with acute infectious gastroenteritis,0
+sepsis,0
+acute renal failure,0
+disseminated intravascular coagulation,0
+gradual improvement in general condition,168
+laboratory data restored to normal values,300
+electrolytes restored to normal values,300
+renal functions restored to normal values,300
+blood indices restored to normal values,300
+coagulation parameters restored to normal values,300
+inflammatory markers restored to normal values,300
+sepsis resolved,336
+discharged,336
+clinic follow-up visit,336
+unexplained irritability,840
+abnormal behavior,840
+hallucinations,840
+failure to recognize her parents,840
+vitally stable,840
+well hydrated,840
+normal hematological indices,840
+normal coagulation parameters,840
+normal renal panel,840
+normal serum electrolytes,840
+magnetic resonance imaging performed,840
+magnetic resonance arteriography performed,840
+magnetic resonance venography performed,840
+thrombosis in left sigmoid sinus,840
+thrombosis in left transverse sinus,840
+reduced flow to left transverse sinus,840
+workup of thrombophilia revealed no thrombocytosis,840
+"normal coagulation profile (PT, PTT, and D-Dimer)",840
+normal protein C,840
+normal protein S,840
+normal antithrombin III,840
+pediatric cardiologist assessment normal,840
+electrocardiogram normal,840
+echocardiography normal,840
+low molecular weight heparin initiated at 1 IU/kg every 12 h,840
+thrombophilia mutations panel requested,840
+discharged on a therapeutic dose of low-molecular-weight heparin,864
+follow-up appointment for her clinical condition,864
+readmitted for the third time,1200
+fever (temperature: 39.5°C),1200
+pallor,1200
+abdominal enlargement,1200
+"leukocytosis (total leukocytic count: 68,000/mcL)",1200
+anemia (hemoglobin level: 8.4 g/dL),1200
+"thrombocytopenia (platelet count: 20,000/mcL)",1200
+peripheral smear revealed many blast cells,1200
+abdominal ultrasonography revealed hepatosplenomegaly,1200
+bone marrow examination repeated,1200
+hypercellular bone marrow heavily infiltrated with 96% blast cells,1200
+immunophenotyping positive CD10,1200
+immunophenotyping positive CD20,1200
+immunophenotyping positive CD79a,1200
+Common ALL diagnosed,1200
+ALL protocol (St. Jude’s total XV) started,1200
+induction therapy started,1200
+follow-up MRV showed complete recanalization of the thrombosed sinuses,1344
+no new thrombi,1344
+chemotherapeutic regimen not modified,1344
+L-asparaginase dose not reduced,1344
+thrombophilia mutations panel result received,1536
+factor XIII V34L mutation positive,1536
+MTHFR A1298C homozygous mutation positive,1536
+factor V Leiden mutation heterozygous positive,1536
+thrombophilia genetic testing result expected after 1 month,1584
+consolidation therapy started,1872
+complete remission,2000
+regular follow-up,2000
+no other thrombotic events,2000
+no leukemia relapses,2000

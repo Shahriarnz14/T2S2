@@ -1,0 +1,51 @@
+event,time
+20-year-old white female,0
+admitted to intensive care unit (ICU),0
+community acquired pneumonia,0
+fever,-24
+night sweats,-24
+cough,-72
+yellow sputum,-72
+exposed to upper respiratory infections,-168
+denied GI symptoms,0
+denied rash,0
+denied arthralgia,0
+denied history of thromboembolic disease,0
+denied chest pain,0
+denied leg pain,0
+denied leg swelling,0
+oral contraceptive use,-168
+diffuse bilateral opacities on chest X-ray,0
+severe hypoxemia,0
+antibiotics initiated,0
+non-invasive positive pressure ventilation failed,72
+intubation required,72
+normal cardiac function,72
+enterovirus/rhinovirus positive,72
+severe hypoxemia (PaO2/FiO2 = 75),72
+hypercapnia,72
+dense bilateral opacities with central air bronchograms,72
+ECMO initiated,72
+vancomycin,72
+piperacillin-tazobactam,72
+levofloxacin,72
+high-dose intravenous vitamin C initiated (200 mg/kg per 24 h),96
+improvement in bilateral lung opacities,120
+hemodynamic instability,96
+vasopressor requirements,96
+negative fluid balance,96
+furosemide use,96
+bronchoscopy negative for pathogens,144
+Histoplasma negative,144
+Blastomyces negative,144
+Aspergillus negative,144
+Legionella negative,144
+continued resolution of bilateral opacities,168
+improved lung gas exchange,120
+ECMO decannulation,168
+extubation,168
+vitamin C reduced to 100 mg/kg,168
+vitamin C reduced to 50 mg/kg,192
+4 L/min nasal oxygen,192
+discharged home,288
+recovered at 1-month follow-up,720

@@ -1,0 +1,108 @@
+event,time
+63 years old,0
+male,0
+admitted to the hospital,0
+fever,0
+diffuse maculopapular rash,0
+cough,0
+history of hypertension,0
+history of chronic back pain secondary to spinal stenosis,0
+lower extremity edema,0
+oxycodone,0
+losartan,0
+furosemide,-1680
+profuse watery diarrhea,-336
+pruritus,0
+dry nonproductive cough,-168
+fevers up to 38.6°C,-168
+furosemide discontinued,-168
+temperature of 38.6°C,0
+blood pressure 126/59 mm Hg,0
+heart rate 103 beats per minute,0
+respiratory rate 22 breaths per minute,0
+oxygen saturation 95% on 2 L oxygen via nasal cannula,0
+"diffuse erythematous maculopapular rash on face, upper torso, back, upper and lower extremities",0
+tachycardia,0
+leukocytosis 11.8×109/L,0
+elevated eosinophil count 1.29×109/L,0
+normal hemoglobin,0
+normal platelets,0
+normal creatinine,0
+normal electrolyte tests,0
+normal liver enzymes,0
+elevated CRP 229,0
+elevated ESR 31,0
+hypoxemia,0
+partial oxygen 66 mm Hg,0
+CT chest showing hilar lymphadenopathy and interstitial changes consistent with pneumonitis,0
+empiric treatment with levofloxacin,0
+intravenous fluids,0
+rash worsened,24
+cough persisted,24
+fevers persisted,24
+thrombocytopenia,24
+doxycycline added,24
+skin biopsy performed,24
+afebrile,48
+cough persisted,48
+eosinophilic leukocytosis persisted,48
+resumption of furosemide 20 mg,72
+rash worsened,84
+hypoxia worsened,84
+dyspnea progressed,84
+fevers up to 39.4°C,84
+leukocytosis worsened,84
+eosinophilia worsened,84
+acute kidney injury,84
+atrial fibrillation with rapid ventricular response,84
+DRESS syndrome suspected,84
+negative blood cultures,84
+negative sputum cultures,84
+negative respiratory panel,84
+negative streptolysin O antibodies,84
+negative tuberculosis gamma interferon release assay,84
+negative urine Legionella antigen,84
+negative urine streptococcal antigen,84
+negative mycoplasma serologies,84
+negative chlamydia serologies,84
+negative tick-borne illness panel,84
+negative HIV test,84
+negative syphilis IgG,84
+negative stool cultures,84
+negative stool for ova and parasites,84
+"negative viral serologies (EBV, CMV, parvovirus B19, toxoplasma, hepatitis A, B, C)",84
+negative HHV-6 PCR,84
+negative endemic mycoses testing,84
+negative ANA,84
+normal complement levels,84
+normal C-ANCA,84
+normal P-ANCA,84
+normal tryptase levels,84
+normal ACE levels,84
+urine analysis hematuria,84
+urine analysis proteinuria (100 mg/dL),84
+negative protein electrophoresis,84
+negative flow cytometry,84
+skin biopsy consistent with severe drug reaction,84
+normal LV ejection fraction,84
+no pericardial effusion,84
+no wall motion abnormalities,84
+negative troponin T,84
+negative CK-MB,84
+normal TSH,84
+diltiazem,84
+metoprolol,84
+amiodarone initiated,84
+prednisone 1 mg/kg daily initiated,120
+levofloxacin discontinued,120
+doxycycline discontinued,120
+improvement in symptoms,144
+discharged,144
+prednisone taper,144
+atovaquone prophylaxis,144
+spironolactone initiated,144
+symptomatic improvement at follow-up,1008
+normal laboratory testing,1008
+fatigue,1008
+mild shortness of breath,1008
+insomnia from steroids,1008

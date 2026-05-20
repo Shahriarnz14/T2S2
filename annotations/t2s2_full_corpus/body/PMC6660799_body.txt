@@ -1,0 +1,43 @@
+Case presentation
+A 60-year-old woman presented for elective percutaneous nephrolithotomy for a right-sided staghorn calculus. Her medical history was significant for pre-diabetes, chronic obstructive pulmonary disease, morbid obesity (body mass index (BMI)=42), obstructive sleep apnea and heart failure with preserved ejection fraction. On the day after her procedure, she was febrile (39.2°C), tachycardic (120–140 s beats per minute) and developed leukocytosis (17.6 x 10∧9/L). She was started empirically on vancomycin and piperacillin/tazobactam, and ultimately meropenem, for presumed urosepsis. Within 24 hours, she developed respiratory distress with hypoxemia refractory to non-invasive positive pressure ventilation (figure 1). Her respiratory status further deteriorated, requiring endotracheal intubation with lung protective ventilation (LPV). Postoperative day 2 (POD2) chest X-ray and CT angiogram revealed bilateral pulmonary ground glass opacities concerning for infectious process, acute respiratory distress syndrome (ARDS) or pulmonary edema without evidence of pulmonary embolism (figure 2). Transthoracic echocardiogram revealed normal ejection fraction and ventricular size.
+
+Figure 1 Chest X-ray from postoperative day 1 (POD1). Plain chest X-ray showing bilateral pulmonary opacities.
+
+Figure 2 Chest X-ray from postoperative day 2 (POD2). Plain chest X-ray showing worsening bilateral pulmonary opacities.
+
+Early paralysis for ventilator desynchrony and refractory hypoxemia was performed for 48 hours starting on POD2. On POD6, bronchoalveolar lavage samples from POD6 were negative for infectious pathogens. Meanwhile, nasopharyngeal swab obtained on POD6 was used to establish the diagnosis of rhinovirus pneumonia using the GenMark eSensory respiratory virus panel kit. Antibiotics were discontinued and no antivirals were administered due to time elapsed since symptom onset. Unfortunately, the patient continued to require significantly higher airway pressures to achieve adequate ventilation (PIP 45 [peak inspiratory pressure], PEEP 10 [positive end-expiratory pressure], FiO2 0.5) with a PaO2 to FiO2 ratio of 110 consistent with moderate to severe ARDS.
+
+What would you do?
+Continue LPV strategy.
+
+Add a selective pulmonary vasodilator.
+
+Switch to high-frequency oscillatory ventilation.
+
+Switch to airway pressure release ventilation (APRV).
+
+This is what we did and why
+Our patient transitioned from LPV protocol to APRV with subsequent synchrony with the ventilator. Mechanical ventilation settings were adjusted with PHigh corresponding to the plateau pressure and PLow selected at 0 cmH2O (figure 3). Titration of expiratory duration or release time was adjusted to correspond to mechanical changes of the patient’s lung as previously described.1 Briefly, we adjusted the ventilator settings to TLow during the pressure release phase corresponding to approximately 50% of peak expiratory flow rate. She was weaned to extubation on POD9 from APRV using the ‘drop and stretch method’ along with continued diuresis. She was discharged home on POD13.
+
+Figure 3 Ventilator wave form on postoperative day 6 (POD6). Representative image from airway pressure release ventilation (APRV) ventilator settings.
+
+ARDS is non-cardiac respiratory failure characterized by hypoxemia and radiographic bilateral pulmonary opacities. The etiology can be multifactorial and includes intrinsic lung injury, trauma, and infection.2 We chose to present this case to highlight an underused mode of mechanical ventilation in the management of ARDS.
+
+Our patient was initially supported with LPV.3 This ventilation mode is considered the gold standard and may reduce mortality.3 Persistent ventilator desynchrony and hypoxemia despite high-PEEP settings in our patient prompted utilization of short-term neuromuscular blocking agents (NMBA) with cisatracurium. Paralysis has been shown to improve oxygenation in two small randomized controlled trials.4 5 The ACURASYS trial showed early paralysis with 48 hours of NMBA was associated with more ventilator-free days and improved mortality at 90 days.6 Unfortunately, our patient proved refractory to NMBA and LPV. The PROSEVA trial has shown reduced mortality and survival benefit using prone positioning in the management of moderate to severe ARDS.7 However, we elected not to prone due to limitations associated with our patient’s body habitus and BMI.
+
+When paralysis failed to improve our patient’s oxygenation, we transitioned to APRV. This mode of ventilation is timed and cycled continuous positive airway pressure with small time pauses that allow for spontaneous breaths.1 Theoretically, it promotes better patient-ventilator synchrony, decreases need for sedation, and results in less lung injury.1 8 We elected against the use of high-frequency oscillatory ventilation in light of several trials showing no improvement in mortality or outcomes.9 10 In contrast, APRV was recently re-evaluated in a 2017 randomized controlled trial that showed decreased intensive care unit and ventilator days when compared with LPV.8
+
+
+Our patient’s hypoxemia improved while we minimized sedation, ultimately improving her hemodynamics. APRV was similarly used in a pregnant patient with ARDS secondary to influenza virus.11 Given the recovery time frame of our patient it is possible the clinical improvement was the result of the natural history of the viral infection (1–3 weeks). However, the immediate improvement in ventilator synchrony and respiratory parameters after APRV initiation suggests it played an important role in her recovery.
+
+We are thankful to the Stanford General Surgery and Critical Care departments for the teaching and encouragement to publish this article.
+
+Contributors: CA wrote the article. CA, IB, CO, JDF and DS in collaboration designed the treatment plan for our patient, and revised and edited the article.
+
+Funding: The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.
+
+Competing interests: None declared.
+
+Patient consent for publication: Obtained.
+
+Provenance and peer review: Not commissioned; externally peer reviewed.

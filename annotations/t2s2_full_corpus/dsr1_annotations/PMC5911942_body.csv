@@ -1,0 +1,63 @@
+event,time
+35 years old,0
+morbid obesity,0
+alcohol use disorder,0
+admitted for decreased urine output,0
+anasarca,0
+alcoholic cirrhosis,0
+acute kidney injury,0
+creatinine 2.9 mg/dL,0
+baseline creatinine 1.1 mg/dL,0
+liver dysfunction,0
+MELD score 32,0
+shock,0
+transfer to medical intensive care unit,0
+initiation of hemodialysis,0
+initiation of vasopressors,0
+initiation of broad-spectrum antibiotics,0
+purpuric plaques on bilateral lower extremities,-504
+physical examination of thighs,0
+retiform purpuric plaques,0
+central necrotic eschar,0
+indurated stellate red-brown plaques,0
+hyperpigmented plaque with peau d'orange on abdomen,0
+normal corrected calcium (10.0 mg/dL),0
+normal parathyroid hormone (61.1 pg/mL),0
+low phosphorus (2.0 mg/dL),0
+excisional biopsy showing calcification,0
+diagnosis of calciphylaxis,0
+treatment with intravenous sodium thiosulfate (25 g/d),0
+vitamin K supplementation,0
+pentoxifylline treatment,0
+zoledronic acid (1 dose),0
+medical maggot therapy initiation,0
+1500 maggot larvae applied to right lateral thigh,0
+maggot enclosure with mesh,0
+debridement of necrotic tissue,0
+serosanguinous oozing,24
+removal of maggots after 24 hours,24
+right thigh 3-cm-deep concavity,24
+palpably hollowed eschar,24
+massive hemorrhage from right lateral thigh,72
+resolved with pressure and suture ligation,72
+transfused 8 units of blood,72
+hemorrhagic shock,72
+discontinuation of subcutaneous heparin,72
+intermittent bleeding from both thighs,72
+bleeding controlled with pressure dressings,72
+no volume resuscitation required,72
+continued STS treatment,0
+continued vitamin K,0
+continued pentoxifylline,0
+skin improvement clinically,72
+no new lesions developed,72
+existing indurated plaques softened,72
+renal function recovered,168
+hemodialysis discontinued,168
+placement of percutaneous gastrostomy tube,672
+pneumoperitoneum,672
+septic shock,672
+death,672
+"- ""purpuric plaques on bilateral lower extremities","-504"": This is incorrect because the three weeks into hospitalization is after admission, so timestamp should be +504."
+"- ""physical examination of thighs","0"""
+"- ""retiform purpuric plaques","0"""

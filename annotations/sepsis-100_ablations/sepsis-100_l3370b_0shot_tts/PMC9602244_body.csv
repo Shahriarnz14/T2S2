@@ -1,0 +1,143 @@
+event,time
+fever ,-168
+chills ,-168
+dizziness ,-168
+remission after fever ,-168
+no headache ,-168
+no abdominal pain ,-168
+no diarrhea ,-168
+no sputum ,-168
+no nasal congestion ,-168
+no runny nose ,-168
+admission to Department of Infectious Diseases ,0
+highest body temperature 39.0 °C ,0
+hypertension ,0
+physical examination ,0
+temperature 39 °C ,0
+heart rate 98 bpm ,0
+respiratory rate 20 breaths per minute ,0
+blood pressure 139/75 mmHg ,0
+oxygen saturation 98% ,0
+breath sounds clear ,0
+heart rhythm uniform ,0
+neurological tests negative ,0
+laboratory examinations ,0
+white blood cell count 7.1 × 10^9/L ,0
+neutrophils 58.6% ,0
+monocytes 24.4% ,0
+hemoglobin 83 g/L ,0
+C-reactive protein 111.20 mg/L ,0
+cell factor interleukin-6 279.22 pg/mL ,0
+cell factor IL-10 3653.30 pg/mL ,0
+plasma procalcitonin 0.19 ng/mL ,0
+blood amyloid A 509.5 mg/L ,0
+erythrocyte sedimentation rate 71 mm/L ,0
+lactate dehydrogenase 694 U/L ,0
+creatine kinase 19 U/L ,0
+albumin 27 g/L ,0
+K+ 2.99 mmol/L ,0
+Na+ 135.1 mmol/L ,0
+Cl- 98.5 mmol/L ,0
+calcium 1.87 mmol/L ,0
+phosphorus 0.65 mmol/L ,0
+creatinine level normal ,0
+anti-nuclear antibody titer 1:100 ,0
+anti-SSA- ,0
+anti-SCL70 positive ,0
+TORCH test normal ,0
+Plasmodium test normal ,0
+fungal D-glucan test normal ,0
+coronavirus disease 2019 normal ,0
+hemorrhagic fever IgM antibody normal ,0
+Widder test normal ,0
+Weil Felix reaction normal ,0
+bilateral blood culture test L. monocytogenes ,0
+lumbar puncture ,0
+cerebrospinal fluid nucleated cell count 420 × 10^6/L ,0
+cerebrospinal fluid lymphocyte 75% ,0
+cerebrospinal fluid lactate dehydrogenase 472 U/L ,0
+cerebrospinal fluid total protein 261.3 mg/dL ,0
+cerebrospinal fluid glucose 1.51 mmol/L ,0
+cerebrospinal fluid chloride content 111.0 mmol/L ,0
+cerebrospinal fluid adenosine deaminase 16 U/L ,0
+cerebrospinal fluid cryptococcal smear negative ,0
+cerebrospinal fluid cryptococcal capsular antigen test negative ,0
+cerebrospinal fluid culture negative ,0
+cerebrospinal fluid metagenomic test G+ bacteria ,0
+cerebrospinal fluid metagenomic test L. monocytogenes ,0
+cerebrospinal fluid metagenomic test Staphylococcus aureus ,0
+chest computed tomography small amount of effusion in pleural cavities ,0
+chest computed tomography nodules in pleura and under pleura ,0
+cranial computed tomography no obvious abnormalities ,0
+levofloxacin 0.5 g qd intravenously for 3 d ,0
+body temperature did not drop significantly ,72
+highest body temperature still above 39.0 °C ,72
+blood culture penicillin-resistant Staphylococcus capital subspecies ,72
+Vancomycin injection 500000 U q6h intravenous infusion ,72
+body temperature reached normal levels ,120
+Vancomycin used for 6 d ,120
+discharged from hospital ,168
+high fever again ,168
+maximum body temperature 39.7 °C ,168
+chills ,168
+cough ,168
+sputum ,168
+no chest pain ,168
+no limb twitching ,168
+pupils sluggish in light reflection ,168
+confused ,168
+mentally soft ,168
+could only communicate briefly ,168
+muscle strength test could not cooperate ,168
+voluntary activities seen ,168
+diarrhea ,168
+hospitalized in emergency intensive care unit ,168
+high-frequency oxygen inhalation ,168
+piperacillin and tazobactam 4.5 g q8h intravenously ,168
+methylprednisolone injection 40 mg ,168
+repeated fever ,168
+body temperature above 38.3 °C ,168
+levofloxacin 0.5 g qd intravenous infusion ,168
+body temperature returned to normal ,192
+consciousness became clear ,192
+CRP dropped to 76.4 mmol/L ,192
+transferred to general ward of Department of Respiratory Medicine ,192
+atrial fibrillation ,216
+unresponsiveness ,216
+slurred speech ,216
+shortness of breath ,216
+slow light reflexes ,216
+stiff neck ,216
+increased muscle tone ,216
+wet rales in both lungs ,216
+critically severe condition ,216
+repeated fever ,216
+body temperature fluctuating around 38.7 °C ,216
+sudden blood pressure drops ,216
+septic shock ,216
+active rehydration ,216
+norepinephrine micropump ,216
+vancomycin injection 1 million units q12h ,216
+meropenem injection 1.0 g q8h ,216
+transferred to ICU ,216
+methylprednisolone reduced to 20 mg ,216
+methylprednisolone stopped ,216
+suddenly became unconscious ,264
+base of tongue fell back ,264
+shortness of breath ,264
+stiff neck ,264
+tremor of limbs ,264
+heart rate dropped to 40 beats per minute ,264
+trachea intubated ,264
+breathing assisted by ventilator ,264
+condition continued to deteriorate rapidly ,264
+repeated high fever ,264
+septic shock ,264
+multiple organ failure ,264
+gradual decrease in consciousness ,264
+active fluid resuscitation ,264
+norepinephrine injection ,264
+tracheal intubation ,264
+ventilator-assisted ventilation ,264
+family decided to discontinue treatment ,288
+death ,288

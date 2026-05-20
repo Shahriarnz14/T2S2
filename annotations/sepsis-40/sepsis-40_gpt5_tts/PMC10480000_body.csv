@@ -1,0 +1,116 @@
+event,time
+15-year-old girl,0
+female,0
+born in a country with a high burden of tuberculosis (TB),0
+in the care of a tertiary care infectious disease clinic for TB infection (TBI) based on a positive QuantiFERON gold test,-500
+positive QuantiFERON gold test,-500
+no evidence of TB disease,-500
+history of iron deficiency anemia,-500
+hemoglobin 97–104 g/L,-500
+moderately active systemic lupus erythematosus (SLE),-500
+symmetric nonerosive polyarthritis,-500
+nonscarring alopecia,-500
+photosensitivity,-500
+Raynaud phenomenon,-500
+antinuclear antibodies positive,-500
+anti-Smith antibodies positive,-500
+anti-ribonucleoprotein antibodies positive,-500
+"naproxen (375 mg, twice daily)",-500
+hydroxychloroquine (5.5 mg/kg/d),-500
+had not taken corticosteroids for several years,-500
+partially empty sella turcica on magnetic resonance imaging,-1000
+began treatment with 600 mg rifampin (10 mg/kg/d),-412
+tolerated the medication well,-412
+chills,-148
+myalgias,-148
+stopped treatment for 3 days,-76
+no symptom recurrence,-76
+in-person assessment,-5
+normal physical examination,-5
+arthritis in 2 joints,-5
+advised to resume rifampin,-5
+resumed rifampin,-4
+sudden onset severe neck pain,-3
+myalgias (severe),-3
+arthralgias,-3
+shortness of breath,-3
+chest pain,-3
+ambulance transport to the emergency department,-2.5
+hypotension 80/40 mm Hg,-2.5
+fluid bolus,-2.5
+febrile 38.3°C,-2
+tachypneic 28 breaths/min,-2
+oxygen saturation 99%,-2
+tachycardic 123 beats/min,-2
+blood pressure 91/52 mm Hg,-2
+weight 60 kg,-2
+no angioedema,-2
+no rash,-2
+no wheezing,-2
+no gastrointestinal symptoms,-2
+intravenous fluids,-2
+vancomycin,-2
+ceftriaxone,-2
+nuchal rigidity,-1
+hypotension 89/36 mm Hg,0
+diaphoretic,0
+fluid resuscitation,0
+norepinephrine infusion started,0
+epinephrine infusion started,0
+shock,0
+admitted to the intensive care unit (ICU),0
+suspected sepsis,0
+no rash or mucous membrane involvement,0
+decreased leukocyte count 2.84 × 109/L,0
+eosinophil count 0.00 × 109/L,0
+bilirubin normal,0
+haptoglobin normal,0
+direct antiglobulin test negative,0
+blood film did not show schistocytes,0
+C-reactive protein 13.6 mg/L,0
+aspartate aminotransferase 71 U/L,0
+complement C3 0.76 g/L,0
+complement C4 normal,0
+creatinine kinase normal,0
+leukocyte count 17.34 × 109/L,6
+computed tomography (CT) scan of the head normal,6
+echocardiogram normal,6
+chest radiograph mild pulmonary edema,6
+diuresis,8
+CT angiography of the neck: no infected thrombus,8
+CT angiography of the neck: no edematous retropharyngeal soft tissue,8
+CT angiography of the neck: localized myositis,8
+CT imaging of the lungs: bilateral increased septal thickening with ground glass opacities,10
+cortisol 605 nmol/L,12
+all infectious work-up negative,12
+blood cultures negative,12
+sputum cultures negative,12
+throat cultures negative,12
+cerebrospinal fluid cultures negative,12
+Epstein–Barr virus serology negative,12
+cytomegalovirus serology negative,12
+mycoplasma serology negative,12
+SARS-CoV-2 polymerase chain reaction negative,12
+rifampin dose administered in the ICU,12
+decreased blood pressure 93/39 mm Hg,12.5
+norepinephrine dose increased,12.5
+vasopressor dose increased for 6 hours,12.5
+rifampin stopped,13
+pulmonary edema responded to diuresis,12
+C-reactive protein 101.8 mg/L,24
+aspartate aminotransferase 99 U/L,24
+rifampin-induced adverse drug reaction,24
+rifampin-induced flu-like syndrome with shock,24
+not an SLE flare,24
+no signs of pulmonary embolus,24
+no serositis,24
+no hemophagocytic syndrome,24
+no adrenal insufficiency,24
+no thrombocytopenia,24
+no hemolysis,24
+no acute renal failure,24
+weaned off vasopressors,30
+hemoglobin 74 g/L,36
+started isoniazid for TBI,48
+avoid rifamycin-based medications in the future,48
+completed 9 months of therapy,6480

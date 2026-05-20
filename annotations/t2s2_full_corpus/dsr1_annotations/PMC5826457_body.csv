@@ -1,0 +1,71 @@
+event,time
+64 years old,0
+male,0
+obesity,0
+recurrent olfactory groove meningioma,0
+left-sided optic neuropathy,0
+no other neurologic deficits,0
+underwent bifrontal craniotomy,-24
+underwent endoscopic resection,0
+received intraoperative empiric antibiotics,-24
+received postoperative empiric antibiotics,0
+received intraoperative steroids,-24
+received postoperative steroids,0
+non-contrast computed tomography scan showed postoperative changes,0
+non-contrast computed tomography scan showed pneumocephalus,0
+postoperative day 5,120
+new palpable collection below the scalp,120
+repeat imaging showed worsening pneumocephalus,120
+repeat imaging showed new large scalp collection,120
+remained at preoperative neurologic baseline,120
+postoperative day 6,144
+disorientation,144
+unsteady gait,144
+postoperative day 7,168
+repeat NCCT demonstrated worsening intracranial air,168
+repeat NCCT demonstrated worsening extracranial air,168
+mental status decline,168
+respiratory status decline,168
+afebrile,168
+bradycardia (heart rate 40s),168
+tachypnea (respiratory rate 30s),168
+hypoxia (SpO2 70%),168
+disorientation,168
+restlessness,168
+minimal verbal output,168
+"hypoxic respiratory failure (pH 7.34, PaCO2 43, PaO2 50, HCO3 23)",168
+emergent endotracheal intubation,168
+concern for tension pneumocephalus,168
+underwent bedside needle decompression,168
+endoscopic exploration,168
+repair of anterior cranial fossa defect,168
+profound hypotension requiring multiple vasopressors,168
+chest radiograph showed diffuse pulmonary edema,168
+unremarkable transthoracic echocardiogram,168
+acute respiratory distress syndrome concern,168
+white blood cell count 44,168
+erythrocyte sedimentation rate 49 mm/h,168
+C-reactive protein 11.7 mg/dL,168
+procalcitonin 1.17 ng/mL,168
+platelet count 521,168
+lactate 2.25 mmol/L,168
+creatinine 2.3 mg/dL,168
+empirically treated with broad-spectrum antibiotics,168
+blood cultures negative,168
+urine cultures negative,168
+bronchoalveolar lavage cultures negative,168
+postoperative day 9,216
+NCCT showed improved pneumocephalus,216
+laboratory parameters normalized,240
+kidney function improved,240
+vasopressors weaned off,240
+extubated,264
+postoperative day 17,408
+CSF white blood cell count 25,408
+CSF glucose 111 mg/dL,408
+CSF protein 194 mg/dL,408
+CSF lactic acid 4.1 mmol/L,408
+CSF cultures negative,408
+improved to preoperative neurologic baseline,408
+postoperative day 54,1296
+repeat NCCT showed near-complete resolution of pneumocephalus,1296

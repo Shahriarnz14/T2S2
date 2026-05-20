@@ -1,0 +1,55 @@
+event,time
+maternal uncle had experienced sudden death,-9999
+ulcerative colitis,-8760
+malaise,-72
+fever,-72
+loss of appetite,-72
+admitted to the hospital,0
+46-year-old man,0
+male,0
+weighed 63 kg,0
+blood pressure was 124/46 mmHg,0
+heart rate was 122 beats per min,0
+SpO2 was 98% in room air,0
+respiratory rate was 16/min,0
+body temperature was 40.2°C,0
+alert,0
+chills,0
+nausea,0
+cardiac arrest,0
+chest compression,0
+tracheal intubation,0
+ventricular fibrillation,0
+defibrillation,0
+adrenaline was administered,0
+diagnosed with BS,0
+coved-type ST elevation in V1 and V2,0
+hypercalcemia (14.8 mg/dL),0
+hypotension,1
+suspected septic shock,1
+CT scan showed a high-density area in the descending colon,1
+increased lactate level,1
+increased white blood cell count,1
+increased procalcitonin level,1
+tazobactam-piperacillin,1
+vasopressors,1
+fever subsided,6
+acetaminophen,6
+extubation,48
+fever reoccurred,120
+contrast-enhanced CT scan,120
+liver abscess,120
+changed antibiotics to meropenem,120
+changed antibiotics to vancomycin,120
+puncture drainage,120
+infection controlled,720
+positive pilsicainide test result,720
+implantation of an implantable cardioverter defibrillator,720
+discharged,744
+high parathyroid hormone level,800
+abnormal uptake in the anterior mediastinum,800
+tumor resection,960
+ectopic parathyroid adenoma,960
+nonfunctional pituitary adenoma,960
+nonfunctional adrenal tumor,960
+multiple endocrine neoplasia type 1 (MEN1),960

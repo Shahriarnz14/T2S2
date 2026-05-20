@@ -1,0 +1,80 @@
+event,time
+62 years old,0
+male,0
+admitted to the hospital,0
+found unresponsive in bed,0
+"Glasgow Coma Scale score 8 (E=2, V=1, M=5)",0
+bilateral otalgia,-120
+use of olive oil ear drops,-120
+chronic rhinosinusitis with nasal polyposis,0
+previous functional endoscopic sinus surgery,0
+previous nasal polypectomy,0
+chronic obstructive pulmonary disease,0
+hypertension,0
+glaucoma,0
+right sided keratoconus,0
+previous corneal graft,0
+hypercholesterolaemia,0
+beclomethasone/formoterol inhaler,0
+salbutamol inhaler,0
+amlodipine,0
+simvastatin,0
+beclometasone dipropionate nasal spray,0
+tachypnoeic (25 breaths per minute),0
+tachycardic (120 beats per minute),0
+pyrexial (40°C),0
+"GCS 11 (E=4, V=1, M=6)",0
+bilateral green purulent rhinorrhea,0
+bilateral proptosis,0
+right sided chemosis,0
+thick green secretions streaming from the middle meatuses bilaterally,0
+raised CRP (335 mg/L),0
+raised white cell count (24.7 × 10^9/L),0
+raised neutrophil count (22.2 × 10^9/L),0
+low lymphocyte count (0.5 × 10^9/L),0
+raised lactate (2.8 mmol/L),0
+Streptococcus pneumoniae isolated from nasal pus,0
+contrast-enhanced CT of the head and sinuses,0
+opacification of the paranasal sinuses,0
+bony erosion of the lateral walls of both ethmoid sinuses,0
+soft tissue bulging into the right orbit,0
+combative behavior,24
+confusion,24
+aversion to light,24
+lumbar puncture,24
+pale cloudy cerebrospinal fluid,24
+high protein (4.07 g/L),24
+low glucose (<0.5 mmol/L),24
+Streptococcus pneumoniae isolated in CSF,24
+sepsis,0
+meningitis,0
+intravenous ceftriaxone,0
+fluticasone nasal spray,0
+xylometazoline hydrochloride nasal spray,0
+regular saline nasal irrigation,0
+admitted to critical care unit,0
+intubated and ventilated,24
+extubated after 8 days,192
+completed 10-day course of intravenous antibiotics,240
+discharged home,312
+physiotherapy input,312
+occupational therapy input,312
+outpatient follow-up with critical care team,312
+outpatient follow-up with ENT team,312
+prescribed 2-week course of betamethasone nasal drops,312
+prescribed 6-week course of fluticasone nasal spray,312
+continued regular saline nasal irrigation,312
+recovering well at 3-month follow-up,2160
+returned to work full time,2160
+vivid memories of CCU stay,2160
+no signs of post-traumatic stress disorder,2160
+ongoing management of CRS with nasal polyposis,2160
+declined further sinus surgery,2160
+"6-month follow-up contrast-enhanced MRI of brain, orbits, and postnasal space",4320
+extensive bilateral ethmoid polyposis,4320
+polyposis extending into maxillary sinuses,4320
+polyposis extending into preseptal space of right orbit,4320
+hypertrophied inferior turbinates,4320
+left sided smooth dural enhancement,4320
+Aspergillus specific IgE within normal range,4320
+Alternaria specific IgE within normal range,4320

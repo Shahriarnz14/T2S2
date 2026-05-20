@@ -1,0 +1,75 @@
+event,time
+16 years old,0
+male,0
+presented with fever,0
+fatigue,0
+scleral icterus,0
+jaundice,0
+dark urine,0
+right abdominal pain,0
+right shoulder pain,0
+diagnosed with ulcerative colitis,-17520
+corticosteroid-dependent course,-17520
+experienced acute exacerbations of UC,-17520
+escalated therapy from aminosalicylates to immunomodulators,-17520
+completed three-dose induction course of infliximab,-720
+latest UC flare,-504
+colonoscopy showing pancolitis,-504
+treated with IV corticosteroids,-504
+treated with infliximab,-504
+improved after treatment,-504
+alkaline phosphatase (ALP) 88 U/L,-504
+"leukocytosis (16,000/µL)",0
+anemia (6.9 g/dL),0
+"thrombocytopenia (53,000/µL)",0
+"transaminitis (AST 570 U/L, ALT 296 U/L)",0
+ALP 426 U/L,0
+hyperbilirubinemia (3.1 mg/dL),0
+CRP 20.4 mg/dL,0
+CT showing multiple hepatic abscesses,0
+largest abscess in segment 7 (10 cm),0
+presence of gas in abscess,0
+intrahepatic thrombosis of right portal vein,0
+splenomegaly,0
+bilateral pleural effusions,0
+diffuse colonic wall thickening,0
+no megacolon,0
+no free intraperitoneal air,0
+no signs of perforation,0
+normal appendix,0
+abscess drained,0
+cultures positive for Peptostreptococci,0
+cultures positive for skin flora,0
+cultures positive for Escherichia coli,0
+negative acid-fast bacilli stain,0
+bacteremia with Streptococcus viridans,0
+bacteremia with E. coli,0
+surgical drainage required,0
+repeat wound cultures with same organisms,0
+developed septic shock,24
+required ICU management,24
+antimicrobial therapy changed to ceftriaxone and metronidazole,24
+repeat CT showing abscess improvement,240
+therapy de-escalated to oral amoxicillin-clavulanate,480
+completed 2-week course of amoxicillin-clavulanate,672
+symptomatically improved,720
+CRP down-trending,720
+discharged,720
+liver loculations resolved by 6 months post-discharge,4320
+normalization of liver enzymes,4320
+normalization of inflammatory markers,4320
+no UC therapy other than enteral nutrition,720
+non-compliant with enteral nutrition,720
+developed severe pancolitis,7920
+underwent total colectomy,7920
+surgical pathology showing active pancolitis,7920
+mucosa diffusely tan-red and hyperemic,7920
+areas of ulceration,7920
+nodularity,7920
+pseudopolyps,7920
+ileum normal,7920
+appendix normal,7920
+no evidence of ischemia,7920
+no dysplasia,7920
+no granulomas,7920
+findings compatible with UC,7920

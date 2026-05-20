@@ -1,0 +1,104 @@
+event,time
+17 years old,0
+African American,0
+male,0
+depression,0
+transferred from outside hospital,0
+nonbilious vomiting,-72
+nonbloody vomiting,-72
+new-onset erythematous blanching macular rash,-72
+rash on trunk,-72
+rash on arms,-72
+rash on legs,-72
+tachycardic (134 beats per minute),0
+hypertensive (142/98 mm Hg),0
+febrile (38.5°C),0
+hypotensive (90/60 mm Hg),4
+concerns of septic shock,4
+blood cultures drawn,4
+started on empiric antibiotic treatment,4
+admitted to hospital,4
+hyponatremia (135 mMol/L),4
+direct hyperbilirubinemia (6.18 mg/dL),4
+low lactate dehydrogenase (111 units/L),4
+"polymorphic neutrophil dominant leukocytosis (12,800/mm3)",4
+elevated C-reactive protein (99.3 mg/L),4
+sterile pyuria,4
+direct hyperbilirubinemia continued to rise,8*24=192
+hyperbilirubinemia peak (14.12 mg/dL),192
+γ-glutamyl transferase normal,192
+lipase normal,192
+amylase normal,192
+transaminases normal,192
+alanine aminotransferase (51 Units/L),192
+laboratory investigations for hyperbilirubinemia negative,192
+ultrasound over distended gallbladder,192
+computed tomography negative for obstruction,192
+magnetic resonance cholangiopancreatography negative for obstruction,192
+infectious disease workup negative,192
+cytomegalovirus negative,192
+Epstein-Barr virus negative,192
+group A Streptococcus negative,192
+human immunodeficiency virus negative,192
+hepatitis panel negative,192
+blood cultures negative,192
+urine cultures negative,192
+hypotensive during admission,192
+tachycardic during admission,192
+S3 gallop,192
+orthopnea,192
+elevated brain natriuretic peptide (2749 pg/mL),192
+respiratory distress,192
+heart failure,192
+chest X-ray bilateral lower lobe pleural effusions,192
+echocardiogram mild decrease left ventricular function,192
+mild mitral valve regurgitation,192
+mild tricuspid valve regurgitation,192
+small posterior pericardial effusion,192
+coronary arteries no pathology,192
+transferred to pediatric intensive care unit,192
+concerns of new-onset heart failure,192
+worsening leukocytosis,192
+heart failure stabilized,192+ (likely 24-48 hours after PICU transfer)
+respiratory distress stabilized,192+ (assumed same as heart failure stabilization)
+new-onset microcytic anemia,192+24=216
+thrombocytosis,216
+elevated ferritin,216
+low albumin,216
+systemic inflammation,216
+diagnosed with incomplete Kawasaki disease,216
+diagnostic criteria satisfied,216
+fever ≥5 days,-72 (since fever started 3 days before admission and continued)
+polymorphous rash,-72 (initial rash)
+elevated CRP,4 (CRP elevated at admission)
+echocardiogram changes,192 (from initial echocardiogram)
+thrombocytosis after seventh day of fever,216 (likely after day 7)
+albumin ≤3.0 g/dL,216
+elevated ALT level,192 (ALT 51 Units/L)
+"WBC count ≥15,000/mm","4 (leukocytosis 12,800, but later worsening)"
+≥10 WBC/hpf on urinalysis,4 (sterile pyuria)
+acalculous cholecystitis,216
+treated with ursodiol,216
+received IVIG 2g/kg,216
+received aspirin 30 mg/kg/day,216
+supportive treatment for shock,216
+improved,216+96=312
+discharged,312
+scleral icterus at discharge,312
+direct bilirubin 4.24 mg/dL,312
+low-dose aspirin (5 mg/kg/day),312
+ursodiol 300 mg QID,312
+follow-up 10 days after discharge,312+240=552
+minimal residual peeling of palms and soles,552
+bilirubin normalized,552
+echocardiogram normal coronary arteries,552
+previous abnormalities resolved,552
+final diagnosis incomplete Kawasaki disease,216
+atypical features,216
+Kawasaki disease shock syndrome (KDSS),216
+hemodynamic instability,192
+delayed diagnosis,192
+coronary artery lesions risk,216
+elevated cytokines,216
+treatment delay,192
+complete clinical recovery,312

@@ -1,0 +1,56 @@
+event,time
+breast cancer ,0.0
+chemotherapy ,0.0
+radiation to the chest ,0.0
+severe aortic stenosis ,0.0
+concomitant coronary artery disease ,0.0
+90% occlusion of the left anterior descending artery ,0.0
+tissue aortic valve replacement ,0.0
+saphenous vein graft bypass to the left anterior descending artery ,0.0
+induction of anesthesia ,0.0
+intubation ,0.0
+dissection of the left internal mammary artery ,0.0
+use of the greater saphenous vein ,0.0
+discontinuation of cardiopulmonary bypass ,0.0
+decline in cerebral head saturations ,-0.5
+use of vasopressors ,-0.5
+extubation ,2.0
+persistent lactic acidosis ,2.0
+high-dose vasopressor support ,2.0
+mixed cardiogenic and vasoplegic shock ,2.0
+lethargy ,15.0
+leftward gaze ,15.0
+right upper extremity weakness ,15.0
+resolution of symptoms ,15.25
+progressive bilateral tongue ecchymoses ,15.0
+tongue numbness ,15.0
+dysgeusia ,15.0
+CT scan of the head ,15.0
+CT angiogram of the brain and neck ,15.0
+mild calcification at the bifurcation of the right common carotid artery ,15.0
+50% focal stenosis of the distal left common carotid artery ,15.0
+complete occlusion of the right lingual artery ,15.0
+mild distal collateral flow ,15.0
+multifocal irregularities of the left lingual artery ,15.0
+normal postoperative platelet count ,15.0
+normal prothrombin time ,15.0
+normal international normalized ratio ,15.0
+normal fibrinogen ,15.0
+no prior history of known vasculitic disease ,15.0
+normal ADAMTS13 inhibitor screen ,15.0
+volume resuscitation with crystalloid and colloid ,15.0
+low-dose epinephrine ,15.0
+high-dose norepinephrine ,15.0
+high-dose vasopressin ,15.0
+improvement of systemic vascular resistance ,17.0
+otolaryngology service consultation ,17.0
+serial examinations of the patient’s tongue ,17.0
+evaluation with multiple flexible bronchoscopes ,17.0
+persistent tongue numbness ,17.0
+persistent dysgeusia ,17.0
+supportive therapy ,17.0
+improvement of examination and symptoms ,48.0
+return of tongue sensation and taste to baseline ,72.0
+transient ischemic attack ,15.0
+no shortness of breath ,0.0
+denies chest pain ,0.0

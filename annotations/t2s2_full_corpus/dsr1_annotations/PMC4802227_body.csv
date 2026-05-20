@@ -1,0 +1,80 @@
+event,time
+44-year-old,0
+lady,0
+no significant past medical history,0
+hoarseness,-4320
+occasional loss of voice,-4320
+teacher,0
+voice straining,0
+progressively worsening reduction in effort tolerance,0
+short of breath on exertion,0
+unintentional weight loss,-1440
+loss of appetite,-1440
+frequent laryngeal irritation,-1440
+globus sensation,-1440
+recurrent non-productive cough,-1440
+occasional choking,-1440
+coughing on swallowing liquids,-1440
+denied dysphagia,0
+denied odynophagia,0
+breathing difficulties,-720
+noisy breathing,-720
+admitted to district hospital,-720
+treated for bronchial asthma,-720
+readmitted,-336
+intensive care unit admission,-336
+acute exacerbation of bronchial asthma,-336
+otolaryngology consult,-336
+referred to UKM Medical Centre,-336
+apyrexial,0
+haemodynamically stable,0
+biphasic stridor at rest,0
+no respiratory distress,0
+cardiopulmonary assessment unremarkable,0
+bulky right false cord,0
+limited mobility of right vocal cord,0
+severe bilateral subcordal edema,0
+nasal cavities normal,0
+oral cavities normal,0
+Voice Handicap Index-10 score 24/40,0
+Eating Assessment Tool-10 score 20/40,0
+microcytic hypochromic anemia,0
+hemoglobin 9.0 g/dl,0
+negative ANA,0
+negative ANCA,0
+negative rheumatoid factors,0
+normal complement 3 and 4,0
+unremarkable chest x-ray,0
+MRI neck thickening,0
+endolaryngeal microsurgery,24
+firm mass right ventricle,24
+right paraglottic space mass,24
+carbon dioxide laser ablation,24
+subcordal mass ablated,24
+dilated to 30 French Bougie,24
+worsening inspiratory stridor,30
+tachypnea,30
+emergency tracheostomy,30
+sheets of neoplastic cells,48
+infiltrating muscle fibers,48
+neoplastic cells round to oval nuclei,48
+finely-dispersed chromatin,48
+inconspicuous nucleoli,48
+scanty cytoplasm,48
+immunoreactive LCA,48
+immunoreactive MPO,48
+immunoreactive CD117,48
+negative CKAE1/AE3,48
+negative CD20,48
+negative CD79a,48
+negative CD3,48
+negative CD34,48
+negative TdT,48
+bone marrow biopsy,72
+primary AML,72
+chemotherapy HiDAC protocol,96
+mass not visualized post-chemotherapy,168
+neutropenic sepsis,192
+invasive pulmonary aspergillosis,192
+refractory AML,240
+passed away,2160

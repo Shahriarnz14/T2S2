@@ -1,0 +1,88 @@
+event,time
+66 years old,0\
+female,0\
+maintenance hemodialysis,0\
+hypertension,0\
+diabetes,0\
+cardiovascular disease,0\
+end-stage renal disease,0\
+asthma,0\
+chronic cough,0\
+chronic sore throat,0\
+presented with mild cough,0\
+presented with sore throat,0\
+fever of 38°C,0\
+placed on droplet and contact isolation precautions,0\
+nasopharyngeal swab positive for COVID-19,0\
+no personal travel history,0\
+attended extended family gathering,-120\
+family members traveled outside Canada,-120\
+family members with respiratory symptoms,-120\
+admitted to nephrology inpatient service,24\
+denied dyspnea,24\
+productive cough,24\
+blood pressure 113/65 mmHg,24\
+oxygen saturation 91%,24\
+low-grade fever 38°C,24\
+bibasilar crackles,24\
+chest X-ray with diffuse patchy infiltrates bilaterally,24\
+lymphopenia,24\
+progressive anemia,24\
+normal lactate,24\
+ferritin 275 μg/L,24\
+mildly elevated partial thromboplastin time 39.4 seconds,24\
+normal biventricular function,24\
+hypoxia with oxygen saturation 86%,48\
+oxygen 2 L/min by nasal cannula,48\
+dyspnea,48\
+difficulty completing full sentences,48\
+respiratory deterioration,72\
+required 50% FiO2,72\
+nonrebreather mask,72\
+consulted intensive care team,72\
+intubated,72\
+transferred to ICU,72\
+septic shock,72\
+treated with ceftriaxone,72\
+treated with ciprofloxacin,72\
+pseudomonas pneumonia,72\
+hydroxychloroquine 400 mg once then 200 mg daily for 6 days,72\
+NP swab negative for influenza,72\
+not treated with oseltamivir,72\
+hemodynamic instability,72\
+dialysis switched to continuous renal replacement therapy,72\
+regional citrate anticoagulation,72\
+multiple vasopressors,72\
+CRRT with replacement fluid prefilter,72\
+no challenges with bleeding or thrombosis,72\
+no indication for systemic anticoagulation,72\
+care bundle approach,72\
+CRRT dosing reduced to 15 mL/kg/h,72\
+CRRT required for 13 days,72\
+transitioned to intermittent hemodialysis,360\
+mechanical ventilation for 19 days,72\
+extubated,552\
+discharged home,600\
+readmitted for persistent laboratory abnormalities,888\
+clinically well,888\
+afebrile,888\
+sinus tachycardia,888\
+biliary obstruction,888\
+secondary sclerosing cholangitis,888\
+infected liver abscesses,888\
+treated with fluconazole,888\
+treated with moxifloxacin,888\
+contact tracing conducted,0\
+4 HD nurses exposed,0\
+1 technician exposed,0\
+1 environmental specialist exposed,0\
+3 chronic HD patients exposed,0\
+no symptoms among exposed,0\
+surveillance NP swabs negative,0\
+universal PPE precautions implemented,0\
+asymptomatic staff no longer required to self-isolate,0\
+detectable COVID-19 PCR for 42 days,0\
+elevated transaminase levels,0\
+elevated liver function tests,0\
+2 negative COVID-19 NP swabs,1008\
+cleared by IP & C,1008\

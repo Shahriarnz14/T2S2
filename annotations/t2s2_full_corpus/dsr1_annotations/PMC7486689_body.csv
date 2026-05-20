@@ -1,0 +1,123 @@
+event,time
+87 years old,0
+male,0
+brought in by ambulance,0
+fever,0
+general fatigue,0
+denies history of trauma,0
+denies falls,0
+endoscopic sphincterotomy for choledocholithiasis,-7200
+percutaneous coronary intervention for ischemic heart disease,-70080
+warfarin potassium 2 mg daily,-24
+aspirin 100 mg daily,-24
+antidiabetic medications,-24
+diuretics,-24
+heart rate 115 per minute,0
+blood pressure 92/61 mmHg,0
+respiratory rate 13 per minute,0
+body temperature 36.2°C,0
+Glasgow coma scale E4 V4 M4,0
+height 164 cm,0
+body weight 70 kg,0
+BMI 26.0 kg/m²,0
+moderate abdominal pain,0
+epigastric tenderness,0
+hemoglobin 9.6 g/dL,0
+WBC 23170/µL,0
+platelet count 13.6×10⁴/µL,0
+total bilirubin 1.0 mg/dL,0
+ALT 843 IU/L,0
+AST 339 IU/L,0
+LDH 1278 U/L,0
+ALP 947 U/L,0
+BUN 40.5 mg/dL,0
+creatinine 3.06 mg/dL,0
+PT 18.3 seconds,0
+PT% 44%,0
+INR 1.6,0
+aPTT 38.4 seconds,0
+procalcitonin 251 ng/mL,0
+CRP 17.4 mg/dL,0
+lactate 33 mg/dL,0
+BNP 1206 ng/mL,0
+AFP 0.7 ng/mL,0
+sepsis,0
+anemia,0
+liver dysfunction,0
+renal dysfunction,0
+heart failure,0
+coagulopathy,0
+gallbladder swelling not detected,0
+gallbladder wall thickening not detected,0
+subcapsular high density area of liver,0
+subcapsular hemorrhage,0
+free fluid around spleen,0
+initial diagnosis of sepsis due to cholangitis or liver damage,0
+admitted to ICU,0
+intravenous antibiotics,0
+meropenem hydrate,0
+endoscopic retrograde cholangiography performed,0
+no bile duct stones,0
+endoscopic nasobiliary drainage performed,0
+noradrenaline,0
+dobutamine hydrochloride,0
+blood culture positive for Klebsiella oxytoca,24
+meropenem administered,24
+Hb 7.5 g/dL,72
+WBC 19030/µL,72
+CRP 30.1 mg/dL,72
+procalcitonin 279.6 ng/mL,72
+BUN 50.1 mg/dL,72
+creatinine 2.57 mg/dL,72
+anemia progression,72
+blood transfusion 2 units,72
+renal damage improved slightly,72
+infection uncontrolled,72
+inflammatory markers high,72
+contrast-enhanced CT performed,72
+intrahepatic low density areas,72
+subcapsular low density areas,72
+gallbladder wall defect seen,72
+free fluid around liver and spleen,72
+paracentesis hemorrhagic fluid,72
+suspected transhepatic gallbladder perforation,72
+emergency interventional radiology,72
+PTGBD attempted,72
+abdominal ultrasonography before PTGBD,72
+high echogenic debris in gallbladder,72
+gallbladder swelling not detected,72
+gallbladder wall thickening not detected,72
+gallbladder wall defect not detected,72
+7 Fr. drainage tube inserted,72
+90 mL red-yellow pus aspirated,72
+cholangiography fistula orifice,72
+intrahepatic secondary abscess,72
+intraperitoneal cavity contrast drainage,72
+percutaneous abscess drainage attempted,72
+150 mL hemorrhagic fluid aspirated,72
+abdominal angiography attempted,72
+no extravasation,72
+no hepatic artery aneurysm,72
+no cystic artery aneurysm,72
+confirmed transhepatic gallbladder perforation,72
+confirmed hemoperitoneum,72
+confirmed sepsis due to acute cholecystitis,72
+PTGBD,72
+percutaneous abscess drainage,72
+general condition improved,72
+emergency laparotomy avoided,72
+gallbladder pus culture Enterococcus avium,72
+gallbladder pus culture Enterococcus gallinarum,72
+gallbladder pus culture Klebsiella oxytoca,72
+intrahepatic abscess culture Enterococcus gallinarum,72
+repeat blood culture negative,120
+antibiotics changed to sulbactam sodium/ampicillin sodium,168
+contrast-enhanced CT on day 17,408
+reduced intrahepatic abscess size,408
+subcapsular hematoma reduced,408
+cholangiography via PTGBD,408
+cystic duct recanalization,408
+fistula orifice not detected,408
+no gallbladder stones,408
+no bile duct stones,408
+discharged,792

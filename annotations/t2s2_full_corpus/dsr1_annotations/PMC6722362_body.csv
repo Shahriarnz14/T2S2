@@ -1,0 +1,79 @@
+event,time
+42-year-old woman,0
+anxiety,0
+obesity,0
+body mass index 31 kg/m²,0
+transferred to hepatobiliary transplant facility,0
+encephalopathy resistant to lactulose,0
+minimally arousable,0
+seizures,0
+intubated,0
+elective Roux-en-Y gastric bypass,-8760
+dyspepsia,-8760
+nausea,-8760
+vomiting,-8760
+poor oral intake,-8760
+personality changes,-8760
+irritability,-8760
+started buspirone,-8760
+discontinued buspirone,-2160
+no medications for 3 months,-2160
+irritability progressed to confusion,-1440
+confusion,-1440
+lethargy,-1440
+intermittent confusion and lethargy,-1440
+constant confusion and lethargy,-1440
+sleeping most of the day,-168
+difficulty remembering simple facts,-168
+presented to emergency department,0
+hyperammonemia,0
+transaminitis,0
+no known liver disease,0
+no alcohol consumption,0
+outpatient liver biopsy 2 months prior,-1440
+mild chronic periportal inflammation,-1440
+moderate macrosteatosis,-1440
+no cirrhosis,-1440
+acetaminophen level negative,0
+urine drug screen negative,0
+brain CT unremarkable,0
+abdominal/pelvic CT showing fatty liver,0
+blood cultures collected,0
+urine cultures collected,0
+started intravenous thiamine,0
+started rectal lactulose,0
+admitted to intensive care unit,0
+excluded Wilson disease,0
+excluded hemochromatosis,0
+excluded viral hepatitis,0
+excluded autoimmune hepatitis,0
+urea cycle disorder suspected,0
+Hepatology consulted,0
+polymicrobial bacteremia,72
+E. coli,72
+methicillin-sensitive Staphylococcus aureus,72
+Enterococcus faecalis,72
+Enterococcus species in urine,72
+started intravenous vancomycin,72
+started piperacillin/tazobactam,72
+started sodium benzoate/sodium phenylacetate,72
+started rifaximin,72
+started zinc,72
+started arginine,72
+supplemental parenteral lipids,72
+supplemental glucose,72
+started following commands,72
+extubated,96
+ammonia normalized,96
+liver enzymes normalized,96
+mentation returned to baseline,96
+discharged home,120
+protein-restricted diet,120
+outpatient hepatology follow-up,120
+genetic counseling advised,120
+no carnitine supplementation,96
+low carnitine levels,0
+not septic,0
+infection contributing to catabolic state,0
+fatty liver,0
+GaBHA diagnosis,0

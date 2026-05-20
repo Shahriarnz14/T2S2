@@ -1,0 +1,57 @@
+pmc1 Introduction
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes direct damage to the respiratory epithelium and immune dysregulation leading patients to an increase in their susceptibility to fungal superinfections [1]. Among them, invasive candidiasis and pulmonary aspergillosis (CAPA) have been widely documented in critically ill patients with coronavirus disease 2019 (COVID-19) [2,3]. Other invasive fungal infections are less reported [[4], [5], [6], [7]]. Since the beginning of the pandemic, only one case of pulmonary fusariosis has been described in a diabetic patient with severe COVID-19 due to Fusarium proliferatum [8]. Here we report a case of invasive fusariosis due to Fusarium verticillioides in a previously immunocompetent, critically ill patient with severe COVID-19 pneumonia.
+
+2 Case presentation
+
+A 68-year-old man with obesity (body mass index: 34 kg/m2) as the only underlying disease and with no history of SARS-CoV-2 vaccination was admitted to our intensive care unit (ICU) on May 2021 (hospital day 0) with signs of acute respiratory failure. Features on examination were fever (38 °C), respiratory rate 30/min, pulse 80/min, blood pressure 102/68 mmHg, with low oxygen saturation (SpO2 85% on room air).
+
+SARS-CoV-2, Influenza A and Influenza B viral RNAs were negative in a nasopharyngeal swab collected on admission. Pneumococcal urinary antigen and hemocultures rendered negative results.
+
+Twenty-four hours later, the patient required endotracheal intubation and mechanical ventilation due to progressive clinical worsening and hypoxemia. The Acute Physiology and Chronic Health Evaluation II Score (APACHE II), which is used to assess disease severity and estimate hospital mortality in general critical illnesses was 18, suggesting a high risk of mortality [9].Chest computed tomography (CT) scan showed bilateral infiltrates, predominantly found in the basal zones of both lungs with some areas of fibrosis and other areas with a tendency to coalescence, particularly at the level of the lower lung fields (Fig. 1).Fig. 1 Computed tomography chest on day 1 showing multiple areas of consolidation of the lung parenchyma with a predominance of the lower lobes and ground glass opacities that predominate in both upper lobes with thickening of the alveolar septa.
+
+Fig. 1
+
+Due to high clinical suspicion, and after a repeated negative result for the SARS-CoV-2 viral RNA obtained on day 3 in a tracheal aspirate sample, serological testing for this respiratory virus was performed by ELISA (Human SARS-CoV-2 Spike ELISA Kit, Invitrogen). A positive result for SARS-CoV-2 anti-Spike IgG antibodies, was then interpreted as severe pneumonia due to COVID-19.
+
+On day 9, the patient developed ventilator-associated bacterial pneumonia due to multidrug resistant, metallo-beta-lactamase producing Acinetobacter baumanii susceptible to colistin and tigecycline, which were the antibiotics used for therapy (150 mg of colistin base/12 h, which is equivalent to 4,500,000 IU of colistin methansulfonate and a loading dose of 200 mg tigecycline/12 h continuing with 100 mg/12 h). On day 17, the patient developed a catheter-related A. baumanii bacteraemia and therapy with colistin and tigecycline was initiated again. On day 37, tracheal aspirate and blood culture were positive for Pseudomonas putida and New Delhi metallo-β-lactamase 1 producing Enterobacter cloacae susceptible to fosfomycin and gentamycin. After seven days of treatment with fosfomycin (4 g/6 h) and gentamycin (240 mg/day), blood cultures turned negative. On day 53 a tracheostomy was placed as a result of prolonged ventilation, acute respiratory distress syndrome (PaO2/FiO2 ratio <200), and sepsis. He presented multiple injuries due to prone position at the facial level, lower limbs and a sacral eschar grade III without local signs of infection. He also presented bilateral nail hyperkeratosis lesions on both feet. Due to a new episode of fever (38 °C) on day 69, hemocultures and a chest CT scan were performed again. One out of two BacT/ALERT FAN aerobic blood culture bottles (bioMérieux) yielded Fusarium spp., whose hyphae were observed on Gram-stained smears. These fungal isolates were grown first in blood agar plates and then in Sabouraud dextrose agar and were finally identified as Fusarium verticillioides using Matrix Assisted Laser Desorption/Ionization Time-Of-Flight (MALDI-TOF) mass spectrometry (VITEK® MS, bioMérieux) (Fig. 2). Chest CT scan revealed significant progression of bilateral consolidative opacities and fibrosis (Fig. 3).Fig. 2 Strain culture of Fusarium verticillioides isolates from bloodstream. (A) Macroscopic: rapid growth colonies, with abundant aerial mycelium, that are initially white and become pigmented over time on potato dextrose agar incubated 7 days at 28 °C. (B) and (C) Microscopic (lactophenol cotton blue slide mounts at 10× and 40× magnification, respectively): hyaline septate hyphae, and branched conidiophore with monophialide (B). Microconidia in chain and clusters, are oval to club-shaped (B). Few falcate macroconidia (C). (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+Fig. 2
+
+Fig. 3 Computed tomography chest on day 69 showing bilateral pleural effusion and increased airspace density with consolidative air bronchogram at the level of both lower lobes. Ground glass subpleural areas persist.
+
+Fig. 3
+
+Antifungal susceptibility tests, using broth microdilution, were performed according to the Clinical and Laboratory Standard Institute (CLSI) methods [10]. The MIC values were 2 mg/L for amphotericin B, 0.25 mg/L for posaconazole and ≥8.0 mg/L for voriconazole.
+
+Antifungal therapy with sodium deoxycholate amphotericin B (1 mg/kg/day) and intravenous voriconazole (400 mg/12 h first day, then 200 mg/12 h) was then started and fungemia cleared 72 h later. On day 80 the patient died due to respiratory instability, sepsis and shock, despite clearance of fungemia burden during antifungal therapy.
+
+Galactomannan testing using the Platelia Aspergillus kit (Bio-Rad) was performed routinely in both tracheal aspirate and serum samples as a complementary tool for detecting CAPA. Results were always negative.
+
+3 Discussion
+
+CAPA and invasive candidiasis have been recognized as secondary complications of COVID-19, especially among critically ill patients at ICU. Herein we described the first fatal case of invasive fusariosis due to F. verticillioides in an immunocompetent patient with severe COVID-19. In 2020, fusariosis due to the common environmental mold F. proliferatum was reported for the first time in France [8]. These are the only two cases of invasive fusariosis associated to COVID-19 (FAC) reported worldwide. Interestingly, both cases of FAC were caused by species of the F. fujikuroi complex.
+
+Fusarium species can cause a broad spectrum of infections, ranging from localized (nail, skin, eye) to disseminated. Disseminated fusariosis frequently occurs in patients with hematological malignancies and other conditions associated with immunosuppression, even though is rare as a complication in non-hematological diseases. The clinical spectrum of fusariosis in the lungs includes allergic disease (allergic bronchopulmonary fusariosis), hypersensitivity pneumonitis, colonization of a preexisting cavity, and pneumonia. Fusarial pneumonia occurs almost exclusively in severely immunocompromised patients, and in such patients, invasive fusariosis is usually disseminated, and pneumonia occurs in almost 50% of cases. The radiologic picture is similar to invasive aspergillosis, with alveolar infiltrates, nodules with or without halo sign, ground-glass infiltrates, and pleural effusions [11]. Different from aspergillosis is the frequent occurrence of disseminated nodular and papular skin lesions and positive blood cultures [11]. The case presented herein, was a case of invasive fusariosis, where it is highly likely that the hyperkeratotic nails and skin lesions might have been the source of fungal infection. Unfortunately, fungal cultures were not taken at that time, because the hospital was overburdened with the COVID-19 pandemic. However, as it is shown in Fig. 3, the CT scan of the patient could not rule out fusarial pneumonia as the source of invasive fusariosis.
+
+Before the advent of voriconazole, lipid-based formulations of amphotericin B were the first line therapy for invasive fusariosis. Since FDA approval, voriconazole is the treatment of choice for the vast majority of Fusarium species. Several reports described the use of voriconazole and lipid-based amphotericin B formulations as combination therapy against invasive fusariosis, especially while susceptibility testing is being done [12]. In this case report, it should be mentioned that despite the negativization of fungemia during antifungal therapy, the patient died in the ICU while receiving this treatment, due to unfavourable outcome (respiratory instability and septic shock by another catheter-related infection).
+
+GM is not a useful tool for detecting Fusarium, since no cross reactions were described among this genera of fungi. According to the Platelia Aspergillus EIA package insert, Penicillium, Alternaria, Paecilomyces, Geotrichum and Histoplasma have shown reactivity with rat EBA-2 monoclonal antibodies used in the assay for the detection of GM from Aspergillus.
+
+Herein, performance of GM in tracheal aspirates and serum samples was carried out two-days weekly as an approach to identify or rule out CAPA.
+
+Data about invasive fungal infections in critically ill patients with COVID-19 began to emerge since the initiation of the pandemic. However, diagnosis of invasive fungal co-infections in COVID-19 patients is still a challenge, and many of them remain missed, misdiagnosed, underdiagnosed or lately diagnosed, with high impact on patient survival.
+
+Sharing experiences and information about fungal superinfections in critically ill patients with severe COVID-19, make clinicians and mycologists to suspect fungal invasive infections and thus to prevent from arriving late at diagnosis.
+
+Ethical considerations
+
+Publication of this case report was approved by the institutional review committee “Dr Vicente Federico Del Giúdice” at Hospital Nacional Alejandro Posadas, Buenos Aires, Argentina (Ref. 395 EMnPES0/20).
+
+Declaration of competing interest
+
+There are none.
+
+Acknowledgements
+
+This work was supported by grants from 10.13039/501100003074 Agencia Nacional de Promoción Científica y Técnica (ANPCyT , Grant PICT 2018-02186). ADN and MLC are members of the Argentinean Research Council (CONICET).

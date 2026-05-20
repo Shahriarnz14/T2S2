@@ -1,0 +1,45 @@
+Newborn female | 0
+Born at 24 weeks + 3 days via emergent cesarean delivery | 0
+Breech presentation | 0
+Cord prolapse | 0
+Birth weight of 645 g | 0
+36-year-old, HIV negative mother | 0
+Apgar score of 4 at 1 min | 0
+Apgar score of 8 at 5 min | 0
+Management protocol for the extremely preterm infant was initiated | 0
+Mechanical ventilation | 0
+Central umbilical catheters | 0
+Total parenteral nutrition | 0
+Empiric antibiotics | 0
+Skin sensors for monitoring | 0
+Developed late-onset sepsis secondary to Escherichia coli bacteremia | 216
+Escherichia coli bacteremia | 216
+Required antimicrobial therapy with cefepime for 10 days | 216
+Removal of an adhesive patch located in the proximal third of the left arm | 480
+Presented a small skin abrasion | 480
+Lesion evolved with erythema | 528
+Lesion evolved with induration | 528
+Plaque with a necrotic center | 528
+Lesion progressed to an ulcer | 528
+Extension to subcutaneous cell tissue | 528
+Progression of the necrotic area | 528
+Intensive treatment by the wound care team with healings | 528
+Hydrating dermal wound dressings with sodium alginate and carboxymethylcellulose | 528
+Hydrocolloids to cover the lesion | 528
+Clinical deterioration consisting of thermic instability | 528
+Metabolic acidosis | 528
+Hyperglycemia | 528
+Hypotension | 528
+Cutaneous mucormycosis was suspected | 528
+Patient underwent skin biopsy for microbiological and pathological studies | 528
+Empiric antifungal treatment was initiated with liposomal amphotericin B | 528
+Fungal biomarkers such as serum galactomannan and 1,3 beta-D-glucan were not performed | 528
+General condition deteriorated progressively despite therapy with L-AmB and multisystemic support | 528
+She evolved into refractory shock | 528
+Renal failure | 528
+The critical clinical condition did not allow extensive surgical debridement of the affected tissue | 528
+Patient died 36 h later | 564
+Fungal cultures obtained during skin biopsy revealed the growth of a mold that was classified by phenotypic characteristics as Rhizopus spp. | 528
+The histopathology report described the presence of broad aseptate hyphae with right angle branching, suggestive of Mucorales | 528
+Mass spectroscopy and PCR plus sequencing from culture identified Rhizopus arrhizus as the fungus responsible for the infection | 528
+Fungal blood cultures collected before starting L-AmB were negative | 528

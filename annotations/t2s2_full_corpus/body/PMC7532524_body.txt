@@ -1,0 +1,66 @@
+Background
+The novel coronavirus disease termed COVID-19 by the World Health Organization was declared a pandemic on 11th March 2020. Since then, it has affected more than 4 million people worldwide [1]. COVID-19 has been associated with various cardiovascular complications including acute myocardial injury, myocarditis, arrhythmias, and venous thromboembolism. A systemic inflammatory response due to a cytokine storm in severe COVID-19 cases can lead to acute myocardial infarction. Here, we report the case of a 56-year-old man with multiple comorbidities and pre-existing cardiovascular disease; he was COVID-19-positive and hospitalized with severe acute respiratory distress syndrome (ARDS). He subsequently developed new-onset ST-elevation myocardial infarction (STEMI) during his hospitalization.
+
+Case Report
+A 56-year-old man with a 12-year history of end-stage renal disease had hemodialysis (3 d/week), coronary artery disease, type 2 diabetes mellitus, hypertension, chronic obstructive pulmonary disease, ischemic cardiomyopathy, and hyperlipidemia. He presented with complaints of dyspnea and coughing for 6 days during the lockdown. He had been transferred to our facility from another center due to his worsening dyspnea and hypoxia during his hemodialysis session, and his oxygen saturation levels were not improving. He had a significant contact history for COVID-19 and was found to be positive at the time of admission. However, he did not have any other significant family history. He was initially hypoxic with about 85% oxygen saturation and required 3 liters of oxygen/min to keep his saturation levels above 90%. Prior to his transfer to our institute, he received a course of broad-spectrum antibiotics due to the differential diagnosis of both COVID-19 pneumonia and acute bacterial pneumonia. He had been intubated for 25 days before the tracheostomy because of increasing hypoxia. His condition did not improve despite administration of antibiotics. He was also on vasopressor support. During admission, his vitals revealed a heart rate of 107/min, blood pressure of 140/50 mmHg (on vasopressors), an oxygen saturation of 94% with a 90% fraction of inspired oxygen (FiO2), and a positive end-expiratory pressure of 14 cm H2O. His limited physical examination revealed pupils that were round and reactive to light, a Glasgow coma scale of 1T1 due to sedation and paralytics, mild scleral icterus, coarse breath sounds, and extensive anasarca. Laboratory investigations of the patient revealed elevated D-dimer; inflammatory markers including the erythrocyte sedimentation rate, ferritin, and C-reactive protein (CRP) were raised due to the hypercoagulable state secondary to COVID-19. The procalcitonin level was falsely elevated in the setting of end-stage renal disease. However, given the ongoing sepsis from suspected pneumonia, he was covered for superimposed bacterial pneumonia, although sputum and blood cultures were negative. He also had thrombocytopenia, normocytic anemia, and normal white cell counts with lymphopenia due to end-stage renal disease. His laboratory results are presented in Table 1. The patient’s chest X-ray showed multiple alveolar opacities consistent with multifocal pneumonia associated with the COVID-19 virus (Figure 1). The differential diagnoses included acute bacterial pneumonia that was ruled out after the cultures were negative. The diagnosis was COVID-19-induced pneumonia with a prothrombotic state. The diagnosis was confirmed by real-time reverse transcription-polymerase chain reaction testing from a nasopharyngeal swab as per hospital policy for admitted patients. He was started on broad-spectrum antibiotics and prone positioning for severe ARDS. On day 7 of his hospitalization, ST elevations were noted on telemetry. The patient’s electrocardiogram was consistent with inferior lead ST-segment elevations (Figure 2). His troponin I peaked at 5.5 ng/ml. Angiography findings showed a 40% proximal lesion in the right coronary artery with a 99% distal lesion extending to the posterior descending artery, where a thrombus was localized. Catheterization showed a mean aortic pressure of 80 mmHg and a left ventricular end-diastolic pressure of 18 mmHg. He underwent percutaneous intervention with a drug-eluting stent for his pathology with the thrombolysis in myocardial infarction flow 3 following the procedure and was subsequently started on dual antiplatelet therapy consisting of oral clopidogrel (75 mg) and aspirin (81 mg) daily for 12 months. He was started on tocilizumab following the acute myocardial infarction, with the cytokine profile showing elevated inter-leukin 6 (IL-6). The patient’s hospital course was complicated by failed extubation and reintubation, and he eventually underwent a tracheostomy. He developed a new unstageable decubitus ulcer, which was inoperable because his acute illness made him a nonsurgical candidate, and he was managed conservatively. After 32 days of prolonged hospitalization, he was discharged to a long-term care facility with a plan for an outpatient echocardiogram to be done after 1 month. After 2 weeks, the patient was followed up in an outpatient clinic. He had slightly improved physical strength and nutritional status, and no complications from the dual antiplatelet therapy. This case has been reported after obtaining informed consent from the patient and approval from the Institutional Review Board.
+
+Discussion
+COVID-19 is associated with multiple cardiopulmonary complications such as acute myocardial infarction, myocarditis, heart failure, arrhythmia, and venous thromboembolic disease [2].
+
+In a study by Guo et al., COVID-19 patients with diabetes mellitus (21.26%) had higher mortality (10.81%) secondary to severe COVID-19 [3]. In a study focusing on the clinical characteristics of 274 COVID-19 patients, deceased patients had hyper-tension (47.8%) and chronic kidney disease (3.54%) as comorbidities [4]. Another risk factor for severe COVID-19 infections is obstructive sleep apnea, where 25% of the severely infected patients had the condition [5]. End-stage renal disease and hemodialysis are other risk factors associated with high mortality and increased severity. In a study by Goicoechea et al., 36 COVID-19 patients were on a hemodialysis maintenance regimen. Of these, 18 (50%) patients progressed to severe symptoms and ultimately 11 (61.1%) died [6]. In another study, hypertension (98%) and diabetes (69%) were prevalent amongst 57 patients on hemodialysis, with 75% patients requiring mechanical ventilation. By the end of the follow-up, 18 patients (31%) had died within 6 days (median) after hospitalization [7]. All these risk factors are associated with severe COVID-19 infection and high mortality. In our case, the patient had an extended hospital stay due to a severe COVID-19 infection with complications due to several of these comorbidities, which are underlying risk factors; however, he survived.
+
+Li et al. reported a meta-analysis of 6 studies including 1527 COVID-19 patients with the prevalence of hypertension (17.1%), cardiac and cerebrovascular disease (16.4%), and diabetes (9.7%). The same study reported that the risk of acute cardiac injury was 13 times higher for intensive care unit (ICU) patients compared to non-ICU patients. The patients with underlying cardiovascular disease and COVID-19 infection were more likely to have detrimental and severe outcomes [8].
+
+Acute myocardial injury in COVID-19 patients has multiple mechanisms, including direct damage to the angiotensin-converting enzyme receptors on myocytes resulting in damage to angiotensin-converting enzyme 2 signaling pathways [9]. Another possible mechanism is hypoxia-induced myocardial ischemia [10]. In the setting of severe COVID-19 infection with ARDS, microthrombi, vascular injury, coronary spasm, and the systemic inflammatory response due to the cytokine storm in severe COVID-19 cases leading to atherosclerotic plaque rupture were the probable trigger factors in our patient [9,10]. He was also more susceptible to the probable trigger factors for STEMI because of his history of coronary artery disease, hypertension, hyperlipidemia, type 2 diabetes mellitus, ischemic cardiomyopathy, chronic obstructive pulmonary disease, and end-stage renal disease.
+
+Bangalore et al. reported the data of 18 patients with ST-segment elevations, where 10 patients presented with ST-segment elevation and 8 developed it during their hospitalization. There were 9 patients (50%) who underwent coronary angiography and 6 of these patients (67%) had obstructive disease. The mortality rate was high; 13 patients died during hospitalization, 4 patients had MI, and 9 patients had non-coronary myocardial injury [11].
+
+There are few case reports of COVID-19 leading to STEMI, including 1 report with an inferior wall MI on presentation due to a proximal right coronary artery lesion, and another report with an infero-posterior wall MI due to a proximal left circumflex lesion. All the patients were treated with percutaneous intervention with stent placement and no deaths were reported [2,12,13]. In our patient, IL-6 was elevated and he was started on tocilizumab. However, whether inflammatory cytokines like IL-6 could be a potential target for treatment to reduce the cascade of the cytokine storm leading to myocardial injury remains to be seen. Further studies, including randomized controlled trials, should focus on the use of tocilizumab in patients with COVID-19-induced STEMI to determine the outcomes of this high-risk patient group.
+
+Conclusions
+COVID-19-induced pneumonia has widespread complications targeting multiple systems, especially myocardial infarction. This presentation has serious implications in terms of early diagnosis and management. Considering the limited knowledge regarding COVID-19 at the time of the case presentation, there was a possibility of starting tocilizumab at the time of ICU admission, which could have changed the outcome slightly. There is an emerging need to streamline these presentations to improve the health care provided to COVID-19 patients by using a triage system to classify patients with severe symptoms and those at risk of complications.
+
+Institution where work was done
+
+University of New Mexico Health Sciences Center, Albuqurque, NM, U.S.A.
+
+Conflicts of interest
+
+None.
+
+Figure 1. Chest X-ray showing multifocal pneumonia.
+
+Figure 2. Electrocardiogram with ST-segment elevations in leads II and III and aVF with a reciprocal ST-segment depression in I, aVL, V5, and V6.
+
+Table 1. Laboratory findings of the patient.
+
+Laboratory markers	Normal values	Patient’s values	
+White blood cells (×103/µl)	4–11	7.70	
+Red blood cells (×106/µl)	4.01–5.47	3.89	
+Hemoglobin (g/dl)	12–16	11.5	
+Hematocrit (%)	42–50	38	
+MCV (fL)	80–98	97	
+MCHC (g/dl)	33–36	30.6	
+RDW (%)	9.0–14.5	15.2	
+Platelets (×103/µl)	150–400	118	
+Absolute neutrophil count (×103/µl)	1.8–7	5.8	
+Absolute lymphocyte count (×103/µl)	1–3.4	0.5	
+D-dimers (ng/ml)	0–500	>7650	
+ESR (mm/h)	0–28	85	
+C-reactive protein (mg/dl)	<0.3	28.8	
+Procalcitonin (mg/dl)	<10	28.15	
+Ferritin (ng/ml)	30–530	7706	
+Troponin I peak (ng/ml)	<0.060	5.22	
+Glycated hemoglobin (%)	4.4–5.6	7.8	
+PT (s)	9.4–15.4	13.3	
+INR	0.80–1.30	1.12	
+Sodium (mmol/l)	134–144	134	
+Potassium (mmol/l)	3.5–5.1	4.1	
+Chloride (mmol/l)	98–111	100	
+Bicarbonate (mmol/l)	23–28	25	
+BUN (mg/dl)	8–20	28	
+Creatinine (mg/dl)	0.50–1.40	5.76	
+Total protein (g/dl)	6.1–8.2	6.9	
+Albumin (g/dl)	3.4–4.7	2.4	
+AST (Unit/Liter)	6–58	117	
+AST – aspartate aminotransferase; ALT – alanine aminotransferase; BUN – blood urea nitrogen; ESR – erythrocyte sedimentation rate; INR – international normalized ratio; MCHC – mean corpuscular hemoglobin concentration; MCV – mean corpuscular volume; PT – prothrombin time; RDW – red cell distribution width.

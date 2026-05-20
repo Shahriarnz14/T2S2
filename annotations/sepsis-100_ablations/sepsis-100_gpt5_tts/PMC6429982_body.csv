@@ -1,0 +1,86 @@
+event,time
+necrotizing pancreatitis,-8760
+gallstones,-8760
+severe protein-calorie malnutrition,-8760
+total parenteral nutrition (TPN) initiated,-8760
+total parenteral nutrition (TPN) discontinued,-4320
+return to a normal diet,-4320
+numbness in lower extremities,-720
+weakness in lower extremities,-720
+presumptive diagnosis of Guillain-Barré syndrome (GBS),-720
+numbness in hands,-648
+weakness in hands,-648
+weakness in neck,-648
+ascending neuropathy,-648
+admitted to the community hospital,0
+history of weakness,0
+56 years old,0
+female,0
+type 2 diabetes mellitus,0
+hypertension,0
+lumbar puncture performed,0
+albuminocytologic dissociation in the cerebrospinal fluid,0
+brain magnetic resonance imaging showed small vessel ischemic changes,0
+empiric intravenous immunoglobulin (IVIG) treatment initiated,0
+empiric intravenous immunoglobulin (IVIG) treatment completed,120
+no clinical response to intravenous immunoglobulin (IVIG),120
+worsening pancytopenia,120
+encephalopathy,120
+transferred to a specialist center,132
+arrival at our institution,132
+hypotensive,132
+blood pressure 64/48 mmHg,132
+unresponsive to verbal stimuli,132
+minimally responsive to painful stimuli,132
+Glasgow Coma Scale (GCS) score of 6,132
+anasarcic,132
+flaccid paralysis of all four extremities,132
+malnourished,132
+septic state,132
+calcium 6.7 mg/dL,132
+hemoglobin 9.4 g/dL,132
+white cell count 2.1×10^9/L,132
+phosphorus 1.1 mg/dL,132
+creatinine <0.2 mg/dL,132
+albumin <1.5 gm/dL,132
+lactate 4 mmol/L,132
+nutritional risk screening (NRS-2002) score 5,132
+malnutrition universal screening (MUST) score 5,132
+intubated to protect her airway,132
+resuscitated with intravenous fluids,132
+intravenous infusion of norepinephrine,132
+meropenem treatment initiated,132
+vancomycin treatment initiated,132
+anidulafungin treatment initiated,132
+provisional diagnosis of acute inflammatory demyelinating polyradiculoneuropathy (AIDP),132
+septic shock,132
+high-dose intravenous thiamine 500 mg every 8 hours commenced,132
+admitted to the intensive care unit,132
+electroencephalogram (EEG) did not show seizure activity,156
+EEG showed diffuse slow waves,156
+severe metabolic encephalopathy,156
+serum thiamine level 104 nmol/L,156
+brain magnetic resonance imaging showed hyperintensity of the bilateral medial thalamus,204
+Wernicke’s encephalopathy,204
+thiamine deficiency,204
+dry beriberi,204
+mental status markedly improved,228
+able to understand simple commands,228
+norepinephrine discontinued,228
+meropenem discontinued,228
+vancomycin discontinued,228
+anidulafungin discontinued,228
+hemodynamic stability,228
+blood cultures negative,228
+urine cultures negative,228
+no viral pathogen identified,228
+no bacterial pathogen identified,228
+successfully extubated,252
+electromyography (EMG) performed,300
+severe sensorimotor polyneuropathy,300
+weakness gradually improved,228
+transferred out of the intensive care unit,468
+thiamine supplementation continued,132
+chronic inflammatory demyelinating polyneuropathy (CIDP) considered,156
+critical illness myopathy considered,156
+critical illness polyneuropathy considered,156

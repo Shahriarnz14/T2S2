@@ -1,0 +1,93 @@
+event,time
+65 years old,0
+male,0
+admitted to the emergency department,0
+persistent high-grade fever,-240
+nausea,-240
+vomiting,-240
+generalized weakness,-240
+hypertension,0
+benign prostate hyperplasia,0
+regular medication for hypertension,-4320
+regular medication for benign prostate hyperplasia,-17520
+intermittent high-grade fever,-720
+vomiting (prior episode),-720
+loss of weight,-720
+night-sweats,-720
+conscious,0
+well-built,0
+oriented,0
+lethargic,0
+febrile temperature of 101°F,0
+mild hepatosplenomegaly,0
+conjunctival pallor,0
+hepatosplenomegaly,0
+fatty liver,0
+mild urinary bladder wall thickening,0
+mild cystitis,0
+mean corpuscular volume 78 fL,24
+absolute neutrophil count 2.17 × 10³/μL,24
+microcytic hypochromic anemia,24
+hemoglobin 9.4 g/dL,24
+leukocytopenia,24
+leukocyte count 2.94 × 10³/μL,24
+platelet count 90 × 10³/μL,24
+bicytopenia,24
+raised liver transaminases (>3x ULN),24
+total bilirubin 0.85 mg/dL,24
+normal serum triglyceride,24
+normal plasma fibrinogen,24
+negative hepatitis B and C serology,24
+negative HIV serology,24
+negative malaria test,24
+negative dengue test,24
+negative scrub typhus test,24
+negative urine culture,24
+negative sputum culture,24
+negative blood culture,24
+continuous fever,192
+increasing cytopenias,192
+fatigue,192
+organomegaly,192
+bone marrow biopsy,192
+trephine biopsy,192
+erythroid hyperplasia,192
+megaloblastic erythropoiesis,192
+erythrophagocytosis,192
+lymphophagocytosis,192
+raised lactate dehydrogenase (1552.30 IU/L),192
+hyperferritinemia (>1700ng/mL),192
+hyponatremia (117 mmol/L),192
+decreased total protein (4.72 g/dL),192
+no Acid-Fast Bacilli in bone marrow biopsy,192
+TrueNat MTB/RIF Assay MTB detected,192
+indeterminate Rifampicin resistance,192
+CECT thorax and abdomen showing mild hepatomegaly,192
+prostatomegaly,192
+PET Scan hepatomegaly,192
+external iliac lymphadenopathy,192
+disseminated tuberculosis,192
+fulfillment of 5 HLH diagnostic criteria,360
+supportive measures initiated,360
+broad-spectrum intravenous antibiotics initiated,360
+transfusion of 2 units PRBC,360
+"modified Anti-Tubercular Treatment (ethambutol, levofloxacin, streptomycin)",360
+methylprednisolone initiated,360
+Intravenous Immunoglobulin (IVIG) initiated,360
+sudden onset breathlessness,384
+SpO2 90% on room air,384
+shifted to intensive care unit,384
+hemoglobin 7.7 g/dL,384
+leukocyte count 0.90 × 10³/μL,384
+platelet count 32 × 10³/μL,384
+urea 91 mg/dL,384
+LDH 8000 U/L,384
+AST 1000 U/L,384
+creatinine 1.39 mg/dL,384
+ALT 230 U/L,384
+general condition worsened,384
+intubated due to status epilepticus,384
+poor Glasgow Coma Scale,384
+failed response to therapy,384
+resuscitation measures unsuccessful,384
+declared dead,480

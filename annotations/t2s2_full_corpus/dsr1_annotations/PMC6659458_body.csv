@@ -1,0 +1,101 @@
+event,time
+42 years old,0
+male,0
+urgently admitted,0
+severe abdominal pain,0
+fever,0
+body temperature 39°C,0
+jaundice,0
+severe weakness,0
+abdominal pain onset,-504
+subfebrile temperature,-504
+right hypochondrium pain,-504
+pain radiating to lower back,-504
+chills,-504
+temperature rise to 38.5°C,-504
+visit to doctor,-240
+acute pyelonephritis diagnosed,-240
+oral ciprofloxacin,-240
+"analgesics (ketoprophen, nimesulide)",-240
+sharp increase in abdominal pain,0
+pain spread to entire right half of abdomen,0
+yellowness of skin and sclera,0
+darkening of urine,0
+severe jaundice,-168168
+viral hepatitis excluded,-168168
+cholecystostomy performed,-168168
+suspected pancreatic head tumor,-168168
+pancreatoduodenectomy (PD) with cholecystectomy,-168168
+external drainage of pancreatic remnant duct,-168168
+postoperative pancreatic drainage migration,-168168
+spontaneous internal fistula suspected,-168168
+discharged after PD,-167616
+chronic pancreatitis (CP) confirmed,-168168
+pancreatic head fibrosis,-168168
+multiple small pancreatic abscesses,-168168
+compression of common bile duct,-168168
+obstructive jaundice,-168168
+post-PD diabetes mellitus,-153336
+insulin therapy initiated,-153336
+current smoking,0
+adynamic,0
+moderate yellowness of skin and sclera,0
+hot skin,0
+body temperature 38.9°C,0
+tachycardia (100 bpm),0
+blood pressure 110/70 mmHg,0
+abdominal tenderness upper part and right half,0
+rebound tenderness,0
+anemia (Hb 113 g/l),0
+leukocytosis (13.9×10^9/l),0
+neutrophilia (90%),0
+elevated ALT (810 U/l),0
+elevated AST (>913 U/l),0
+normal amylase (5 U/l),0
+hyperbilirubinemia (277 µmol/l),0
+hyperglycemia (28.0 mmol/l),0
+low prothrombin index (65%),0
+INR 1.28,0
+free gas under right hemidiaphragm,0
+liver shadow heterogeneity,0
+gas-fluid levels in liver tissue,0
+bowel paresis,0
+ultrasonography liver hyperechoic lesions,0
+thick fluid and gas in subdiaphragmatic space,0
+portal hypertension signs (portal vein 14 mm),0
+pancreatic remnant heterogeneity,0
+ruptured liver abscess suspected,0
+peritonitis suspected,0
+emergency laparotomy,0
+brownish muddy fluid in abdomen,0
+upper abdominal organ conglomerate,0
+purulent-hemorrhagic fluid drainage,0
+liver tissue debris,0
+liver abscess cavity (VII–VIII segments),0
+no gastric or jejunal ulcer,0
+efferent jejunal loop adhesions,0
+abdominal cavity lavage,0
+postoperative mechanical ventilation,24
+inotropic support with epinephrine,24
+sepsis diagnosed,36
+Staphylococcus haemolyticus bacteremia,36
+Klebsiella pneumoniae in urine,36
+Escherichia coli in urine,36
+E. coli in pus,36
+S. haemolyticus in pus,36
+vancomycin and meropenem initiated,36
+later vancomycin and amikacin,36
+right-sided pneumonia,240
+bilateral pleural effusions,240
+pleural drainage (right and left),240
+transfer to surgical ward,336
+liver lesion reduction,336
+discharged postoperative day 40,960
+subphrenic drains removed day 114,2736
+satisfactory condition 16 months post-op,11232
+insulin therapy continued,11232
+enzyme replacement therapy,11232
+normal liver on echography,11232
+non-dilated bile ducts on MRI,11232
+atrophic pancreatic remnant,11232
+normal blood parameters except mild hyperglycemia,11232

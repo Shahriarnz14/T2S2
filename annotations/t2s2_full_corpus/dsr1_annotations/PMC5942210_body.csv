@@ -1,0 +1,108 @@
+event,time
+68 years old,0\
+male,0\
+admitted to the hospital,0\
+subjective fever,0\
+bilateral leg pain,0\
+worsening blistering,0\
+bleeding from BP lesions,0\
+chronic lymphocytic leukemia (CLL),0\
+bullous pemphigoid (BP),-40320\
+diagnosed with BP over 4 years prior,-40320\
+hospital admission 2 weeks prior,-336\
+severe BP flare,-336\
+prednisone 60 mg PO daily,-336\
+prolonged 6-week taper,-336\
+doxycycline 100 mg PO twice daily,-336\
+shave biopsy of bullous skin lesions,-336\
+refractory CLL,0\
+recurrent deep vein thrombosis,0\
+apixaban 5 mg twice daily,0\
+chronic obstructive pulmonary disease,0\
+diastolic heart failure,0\
+non-insulin dependent diabetes mellitus,0\
+hypogammaglobulinemia,0\
+intravenous immunoglobulin 400 mg/kg,0\
+11q deletion CLL,0\
+"rituximab, cyclophosphamide, vincristine and prednisone (R-CVP)",0\
+fludarabine and rituximab (FR),0\
+ibrutinib 420 mg PO daily,0\
+recurrence of CLL,0\
+normal vital signs,0\
+multiple round hyperpigmented macules,0\
+necrotic ulcers with hemorrhagic keratotic eschars,0\
+bullae from recent BP flare,0\
+normal comprehensive metabolic profile,0\
+"white blood cell count 2,600/µL",0\
+"absolute neutrophil count 1,100/µL",0\
+hemoglobin 9.3 g/dL,0\
+"platelets 103,000/µL",0\
+intravenous immunoglobulin administered,0\
+IgG 350 mg/dL,0\
+sepsis,24\
+atrial fibrillation with rapid ventricular response,24\
+hypotension,24\
+transfer to intensive care unit,24\
+central venous access,24\
+monitoring,24\
+vancomycin 15 mg/kg intravenous every 12 h,24\
+meropenem 1 g intravenous every 8 h,24\
+ibrutinib held,24\
+prophylactic acyclovir 400 mg PO twice daily,24\
+prednisone tapered to 20 mg PO daily,24\
+shave biopsy results returned,0\
+trophozoites with concern for fungal infection,0\
+intravenous fluconazole 400 mg daily,24\
+stabilized in ICU,72\
+atrial fibrillation controlled with metoprolol,72\
+vancomycin discontinued,72\
+meropenem discontinued,72\
+dermatology consult,72\
+new necrotic lesions,72\
+repeat punch biopsies,72\
+intravenous liposomal amphotericin B 5 mg/kg daily,72\
+negative blood cultures,72\
+negative cryptococcal antigen,72\
+negative urine histoplasma antigen,72\
+negative urine blastomycosis antigen,72\
+negative serum coccidioides antibody,72\
+"computed tomography of chest, abdomen, pelvis",72\
+hiatal hernia,72\
+splenomegaly,72\
+transfer out of ICU,168\
+continued amphotericin B,168\
+wound care,168\
+pain control,168\
+septate hyphae with arthroconidia,168\
+subcutaneous skin thickening,168\
+day 14 of amphotericin therapy,336\
+fungal cultures positive for mucormycosis,336\
+extensive necrotic lesions,336\
+thick black eschars,336\
+lesions loosening and sloughing,336\
+MRI negative for osteomyelitis,336\
+no extension beyond subcutaneous tissues,336\
+plastic surgery consult,336\
+decision to continue antifungal therapy,336\
+aggressive wound care,336\
+day 20 of amphotericin,480\
+foul smelling drainage,480\
+green tinge at lesions,480\
+"white blood cell count 17,600/µL",480\
+wound culture collected,480\
+daptomycin 6 mg/kg daily,480\
+meropenem 1 g every 8 h,480\
+7-day antibiotic course,480\
+Pseudomonas in culture,504\
+E. coli in culture,504\
+sensitive to ciprofloxacin,504\
+negative repeat blood cultures,504\
+transition to posaconazole 400 mg PO twice daily,672\
+wounds healing,672\
+discharged to skilled nursing facility,1344\
+mucormycosis diagnosis,336\
+localized cutaneous mucormycosis,336\
+death of other reported cases,0\
+comorbidities contributing to immunodeficiency,0\
+discontinuation of amphotericin B,0\
+healed lesions,1344

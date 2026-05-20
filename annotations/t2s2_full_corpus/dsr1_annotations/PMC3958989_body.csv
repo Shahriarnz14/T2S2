@@ -1,0 +1,75 @@
+event,time
+52 years old,0
+African American,0
+female,0
+brought to the emergency department,0
+generalized abdominal discomfort,-108
+altered mental status,-108
+diarrhea,-108
+fevers,-108
+chills,-108
+alcohol abuse,0
+alcohol-related liver cirrhosis,0
+blood pressure 74/42 mmHg,0
+heart rate 112 beats/min,0
+respiratory rate 20 breaths/min,0
+temperature 98.6 F,0
+jaundice,0
+abdominal distention,0
+tenderness to palpation in right upper quadrant,0
+no rash,0
+no ulcers,0
+no recent travels,0
+no exposure to sick people,0
+no domestic animals at home,0
+no contact with pets,0
+mechanical ventilation,0
+admitted to medical intensive care unit,0
+systemic inflammatory response syndrome,0
+sepsis,0
+septic shock,0
+multi-organic dysfunction syndrome,0
+community-acquired pneumonia,0
+possible biliary tract infection,0
+ascending cholangitis,0
+probable spontaneous bacterial peritonitis,0
+alcoholic hepatitis,0
+intravenous fluids resuscitation with crystalloids,0
+vasopressors,0
+blood cultures,0
+urine cultures,0
+respiratory cultures,0
+Legionella urine antigen,0
+empiric intravenous antimicrobial therapy,0
+piperacillin/tazobactam,0
+azithromycin,0
+"complete blood cell count 21,000/mm3",0
+90% neutrophils,0
+"platelet count 51,000/mm3",0
+sodium level 127 mEq/L,0
+potassium level 5.3 mEq/L,0
+bicarbonate level 15 mEq/L,0
+creatinine level 6.3 mg/dl,0
+aspartate aminotransferase 121 IU/L,0
+alanine aminotransferase 65 IU/L,0
+alkaline phosphatase 290 IU/L,0
+gamma-glutamyl transpeptidase 290 U/L,0
+lactate dehydrogenase 482 U/L,0
+total bilirubin 14.5 mg/dl,0
+direct bilirubin 10.1 mg/dl,0
+lactic acid level 6.4 mg/dl,0
+prothrombin time 25.2 s,0
+INR 2.29,0
+serum alcohol level normal,0
+arterial blood gases pH 7.15,0
+pCO2 23,0
+pO2 132,0
+mechanical ventilation with FIO2 60%,0
+chest X-ray left lung infiltrate,0
+pleural effusion,0
+critical condition,24
+requiring maximum doses of vasopressors,24
+blood cultures grew Pasteurella multocida,24
+sensitive to piperacillin/tazobactam,24
+sensitive to azithromycin,24
+medical condition deteriorated,72

@@ -1,0 +1,88 @@
+event,time
+65 years old,0
+male,0
+presented to emergency room,0
+muscular pain in back of neck,-144
+generalized fatigue,0
+weakness,0
+received NSAIDs,-144
+poor oral intake,0
+no weight loss,0
+loose motion,0
+no significant gastrointestinal symptoms,0
+no cardiorespiratory symptoms,0
+dehydration,0
+jaundice,0
+normal heart sounds,0
+no added murmurs,0
+temperature 39.7 C,0
+creatine kinase increased,0
+troponin T high sensitivity increased,0
+aspartate aminotransferase increased,0
+alanine aminotransferase increased,0
+total bilirubin increased,0
+direct bilirubin increased,0
+white blood count 7.13 × 10³,0
+no consolidation on chest X-ray,0
+ECG normal sinus rhythm,0
+left axis deviation,0
+no ischemic changes,0
+hypertension,0
+diabetes mellitus,0
+chronic renal impairment,0
+obesity,0
+metabolic syndrome,0
+obstructive sleep apnea,0
+cervical spondylosis,0
+lumbar spondylosis,0
+G6PD deficiency,0
+admitted,0
+fever,0
+jaundice,0
+infection-related hepatic dysfunction,0
+hemolytic episode,0
+virology screen negative,0
+autoimmune screens negative,0
+started Ceftriaxone,0
+blood culture taken,0
+no high temperatures after admission,0
+became unconscious,48
+unresponsive,48
+no seizure activity,48
+normal vital signs,48
+normal blood glucose,48
+left hemispheric syndrome,48
+severe right hemiparesis,48
+left gaze deviation,48
+global aphasia,48
+hemianopia,48
+hypoesthesia,48
+NIHSS score 18,48
+CT brain no acute changes,48
+left MCA ischemic stroke,48
+IV r-tPA administered,48
+onset to needle 30 min,48
+supervision in ICU,48
+follow-up CT brain,72
+ischemic infarct left postcentral gyrus,72
+ischemic infarct left cerebral peduncle,72
+ischemic infarct left thalamus,72
+no hemorrhagic changes,72
+blood culture positive for Streptococcus species,72
+Gentamicin added,72
+TTE performed,96
+TEE performed,96
+vegetation on mitral valve,96
+mild to moderate mitral regurgitation,96
+blood culture positive for Streptococcus agalactiae,96
+Gentamycin for 2 weeks,96
+Vancomycin for 6 weeks,96
+follow-up TEE,1344
+no fresh vegetations,1344
+no abscess,1344
+follow-up CT brain,1344
+no hemorrhage,1344
+no mycotic aneurysms,1344
+speech difficulties,1344
+right hemiparesis,1344
+requires cane to ambulate,1344

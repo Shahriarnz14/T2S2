@@ -1,0 +1,63 @@
+event,time
+43 years old,0
+Hispanic female,0
+no significant medical history,0
+right upper quadrant abdominal pain,-168
+fever,-168
+nausea,-168
+vomiting,-168
+diarrhea,-168
+hypotensive,0
+tachycardic,0
+temperature 38.0 °C,0
+pulse 138 bpm,0
+respiratory rate 18/min,0
+blood pressure 90/54 mm Hg,0
+pulse oximetry 99%,0
+dry mucosal membranes,0
+diffuse abdominal tenderness,0
+septic shock,0
+"white blood cell count 5,620/µL",0
+hemoglobin 11.7 g/dL,0
+sodium 130 mmol/L,0
+potassium 3.3 mmol/L,0
+creatinine 3.3 mg/dL,0
+glomerular filtration rate 15.26 mL/min,0
+total bilirubin 1.5 mg/dL,0
+AST 246 U/L,0
+ALT 185 U/L,0
+alkaline phosphatase 131 U/L,0
+lipase 35 U/L,0
+lactic acid 7.2 mmol/L,0
+COVID-19 positive,0
+CT scan abdomen: hypodense cystic structure right liver lobe,0
+ultrasound: 9.9 cm liver mass,0
+MRI: 13 cm hepatic abscess right hepatic lobe,0
+IV vancomycin,0
+IV piperacillin/tazobactam,0
+percutaneous drainage,0
+"purulent fluid 1,110 mL",0
+CT scan: small pneumoperitoneum,0
+culture Streptococcus viridans,0
+antibiotics switched to ampicillin/sulbactam,0
+RUQ pain improved,0
+discharged,192
+left lower quadrant abdominal pain,192
+repeat CT abdomen: decreased liver abscess,192
+pelvic abscess 13.6 × 5 cm,192
+unchanged pneumoperitoneum,192
+perforated sigmoid diverticulum,192
+CT-guided percutaneous drainage pelvic abscess,192
+culture mixed gram-positive and gram-negative flora,192
+culture Candida albicans,192
+discharged with drains,192
+amoxicillin,192
+fluconazole,192
+returned 10 days later,408
+drain removal,408
+LLQ pain improvement,408
+no history of diverticulitis,0
+no bacteremia,0
+no jaundice,0
+no portal vein thrombosis,0
+no venous thromboembolism,0

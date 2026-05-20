@@ -1,0 +1,33 @@
+event,time
+80 years old,0
+male,0
+hypertension,0
+type 2 diabetes,0
+tabagism,0
+presented to the emergency department,0
+vague and diffuse abdominal pain,0
+no signs of peritonitis,0
+vital signs normal,0
+no free fluid in the abdomen,0
+leucocytosis,0
+elevated PCR,0
+increased LDH,0
+contrast-enhanced CT scan,0
+thrombosis of SMA,0
+thrombosis of SMV,0
+marked thinning of the small bowel wall,0
+lack of contrast-enhancement in small bowel,0
+absence of luminal dilatation,0
+absence of air-fluid levels,0
+pneumatosis intestinalis,0
+gas in SMA,0
+gas in SMA branches,0
+no gas in SMV,0
+no gas in portal vein,0
+emergency surgery,24
+excision of necrotic bowel loops,24
+transferred to intensive care unit,24
+died,48
+multiple organ dysfunction syndrome,48
+ischemia-reperfusion events,48
+metabolic derangements,48

@@ -1,0 +1,53 @@
+event,time
+80 years old,0
+Caucasian,0
+female,0
+presented to the Emergency Department,0
+erythematous right lower extremity,0
+edematous right lower extremity,0
+ecchymosis,0
+superficial erosions,0
+clear drainage,0
+laceration to the right lower extremity,-96
+remained in wet pants for multiple hours,-96
+increased edema,-72
+increased erythema,-72
+increased pain,-72
+bullae developed,-72
+drained the lesions,-72
+expression of clear fluid,-72
+sloughing of the epidermis,-72
+vital signs within normal limits,0
+WBC count 7400 cells/mcL,0
+50% band neutrophils,0
+elevated lactate 3.0 mmol/L,0
+blood cultures obtained,0
+1 g ceftriaxone IVPB,0
+admitted to the hospital,0
+cellulitis of the right lower extremity,0
+bandemia,0
+lactic acidosis,0
+acute hypoxic respiratory failure,24
+altered mentation,24
+hypotension,24
+transferred to the Intensive Care Unit,24
+severe sepsis,24
+cefepime started,24
+metronidazole started,24
+return to the medical floor,48
+blood cultures grew Plesiomonas shigelloides,48
+sensitive to ceftriaxone,48
+sensitive to ciprofloxacin,48
+sensitive to ertapenem,48
+sensitive to meropenem,48
+ciprofloxacin added,48
+changes in stool,168
+ciprofloxacin discontinued,168
+concerns for Clostridium difficile infection,168
+wound debridement performed,168
+condition continued to improve,336
+discharged to inpatient rehab,336
+10-day course of 500 mg metronidazole TID,336
+one month course of 2 g ceftriaxone IVPB daily,336
+discharged from inpatient rehab,504
+follow up with family doctor,504

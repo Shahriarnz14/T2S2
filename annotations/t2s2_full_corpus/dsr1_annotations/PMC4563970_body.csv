@@ -1,0 +1,65 @@
+event,time
+5-year-old,0
+male,0
+emergency craniotomy and decompression of right parieto-occipital glioma,0
+operated 3 months earlier,-2160
+lost to follow-up,-2160
+worsening sensorium,-24
+weakness of left side of the body,-24
+Glasgow coma scale E2 V2 M3,0
+bilateral crackles,0
+surgical emergency,0
+Intensive Care Unit care,0
+postoperative ventilator support,0
+fasting state,-72
+blood grouping and cross matching,-72
+blood products arranged,-72
+deteriorating sensorium,0
+no sedative premedication,0
+ECG attached,0
+SpO2 monitoring,0
+noninvasive blood pressure monitoring,0
+fentanyl 40 mcg intravenously,0
+thiopental 100 mg intravenously,0
+loss of eyelash reflex,0
+bag-mask ventilation,0
+vecuronium 2 mg intravenously,0
+ventilated for 3 min,0
+intubated with 5.5 mm ID endotracheal tube,0
+tube placement confirmed with capnography,0
+arterial line placed in left radial artery,0
+central line deferred,0
+venous access through two peripheral veins of legs,0
+18-gauge intravenous cannulas,0
+Foley's catheter inserted,0
+"anesthesia maintained with oxygen, air, isoflurane, vecuronium",0
+propofol infusion started,0
+baseline arterial blood gas,0
+Mannitol 100 ml over 45 min,0
+furosemide 10 mg intravenously,0
+phenytoin administered,0
+dexamethasone administered,0
+antibiotics administered,0
+surgery lasted 3 h,3
+blood loss 400 ml,3
+crystalloids replaced,3
+200 ml packed red blood cells transfused,3
+postoperative GCS poor,3
+central venous access attempted via right subclavian approach,3
+unsuccessful guidewire insertion,3
+ipsilateral internal jugular vein approach attempted,3
+guidewire advanced without ECG changes,3
+free flow of blood from two ports,3
+no blood from white port,3
+line secured with sutures,3
+shifted to ICU,3
+bedside chest X-ray,3
+central venous line malpositioned,3
+no pneumothorax,3
+line immediately removed,3
+peripheral venous access,3
+next day central line inserted via left IJV,24
+postoperative cardiovascular instability,24
+postoperative sepsis,24
+ventilatory support removed on 10th day,240
+shifted to surgical ward on 14th day,336

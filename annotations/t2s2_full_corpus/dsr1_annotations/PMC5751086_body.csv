@@ -1,0 +1,113 @@
+event,time
+50-year-old,0
+unremarkable medical history,0
+admitted to the emergency department,0
+fever,-120
+acute respiratory failure,0
+febrile for 5 days,-120
+rapidly worsening shortness of breath,-24
+dry cough,-24
+chest x-ray performed in the ED,0
+bilateral multifocal involvement of the lungs,0
+marked diffuse interstitial pattern,0
+mildly elevated white blood cells,0
+increased C-reactive protein,0
+low procalcitonin,0
+denied recent travel history,0
+denied close contacts with animals,0
+denied contacts with sick people,0
+denied intravenous drugs use,0
+reported cigarette smoke,0
+reported frequent unprotected heterosexual intercourse,0
+tachypnea,0
+fever (101°F),0
+hypotension,0
+tachycardia,0
+diminished vesicular breath sounds,0
+high risk for sexually transmitted infections,0
+clinical and radiological presentation raised suspicion of Pneumocystis jirovecii pneumonia,0
+HIV-1 antibody-antigen test positive,0
+weak positivity for pneumococcal urinary antigen,0
+severe hypoxemia,0
+high oxygen supply with reservoir bag,0
+blood cultures collected,0
+empirical therapy with piperacillin-tazobactam,0
+empirical therapy with levofloxacin,0
+empirical therapy with cotrimoxazole,0
+transferred to the intensive care unit,0
+mechanical ventilation,0
+hospital day 4,96
+bronchoscopy,96
+Gram stain of BAL negative,96
+no bacterial growth on BAL cultures,96
+no fungal growth on BAL cultures,96
+BAL negative for P jirovecii (IFA),96
+cotrimoxazole ceased,96
+no acid-fast bacteria detected,96
+M. tuberculosis-complex PCR negative,96
+cytomegalovirus PCR negative,96
+Epstein-Barr virus PCR negative,96
+herpes simplex virus 1/2 PCR negative,96
+adenovirus PCR negative,96
+influenza A/B nucleic acid amplification negative,96
+Aspergillus galactomannan antigen negative,96
+BAL cytology macrophages 32%,96
+BAL cytology neutrophils 63%,96
+BAL cytology lymphocytes 5%,96
+absence of neoplastic cells,96
+pneumococcal urinary antigen test repeated negative,96
+blood cultures negative,96
+Legionella urinary antigen negative,96
+serology for intracellular bacteria negative,96
+hospital day 6,144
+repeated bronchoscopy,144
+Gram stain negative,144
+Ziehl-Neelsen stain negative,144
+no bacterial growth on BAL cultures,144
+no fungal growth on BAL cultures,144
+P jirovecii IFA negative,144
+PCR-mediated tests for viruses negative,144
+procalcitonin 0.5-0.6 ng/mL,144
+no clinical improvement,144
+no radiological improvement,144
+persistently febrile,144
+severe respiratory distress,144
+control chest x-rays persistently showed marked interstitial bilateral pattern,144
+overlapping acute respiratory distress syndrome radiological signs,144
+confirmatory HIV Western blot negative (day 1),24
+HIV Western blot repeated on day 5,120
+gp41 positivity,120
+acute HIV-1 infection (Fiebig stage IV),120
+plasma HIV-RNA >10000000 cps/mL,120
+CD4+ T-cell count 571 cells/mm3,120
+CD8+ T-cell count 234 cells/mm3,120
+CD4+/CD8+ ratio 2.44,120
+previous negative HIV test 6 months before admission,-4320
+HIV-RNA on BAL 206647 cps/mL,192
+antiretroviral treatment started (day 8),192
+worsening respiratory failure (day 8),192
+septic shock,192
+noradrenaline required,192
+neutrophilia,192
+increased CRP,192
+chest x-ray unchanged,192
+bronchoaspirate cultures positive for KPC-Kp,192
+high-dose meropenem started (day 9),216
+gentamicin started (day 9),216
+tygecycline started (day 9),216
+blood cultures negative (days 8 and 9),192
+hemodynamically stable,216
+progressive improvement of respiratory distress,216
+control chest x-rays showed radiological improvement (day 14),336
+extubated (day 14),336
+transferred to pneumology ward (day 14),336
+transferred to infectious diseases unit (day 18),432
+oxygen supply de-escalated,432
+clinical improvement,432
+follow-up bronchoscopy (day 27),648
+BAL cultures positive for KPC-Kp (100000 cfu/mL),648
+HIV-RNA on BAL 177 cps/mL,648
+antiretroviral treatment well tolerated,816
+discharged (day 34),816
+plasma HIV-RNA 97 cps/mL (8 weeks),1344
+plasma HIV-RNA <40 cps/mL (12 weeks),2016

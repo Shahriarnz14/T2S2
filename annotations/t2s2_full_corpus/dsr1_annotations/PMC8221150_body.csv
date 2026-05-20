@@ -1,0 +1,87 @@
+event,time
+39 years old,0
+Hispanic,0
+male,0
+admitted to the hospital,0
+flu-like symptoms,-192
+headache,-192
+fatigue,-192
+myalgia,-192
+cough,-168
+chills,-168
+denied dyspnea on exertion,0
+denied nausea,0
+denied vomiting,0
+denied diarrhea,0
+denied exposure to sick contacts,0
+girlfriend with no symptoms,0
+denied alcohol use,0
+denied tobacco use,0
+denied illicit drug use,0
+fever 102.6°F,0
+heart rate 133 beats/min,0
+blood pressure 118/76 mmHg,0
+respiratory rate 20 breaths/min,0
+oxygen saturation 94% on room air,0
+diminished vesicular breath sounds,0
+oxygen saturation decreased to 89%,3
+oxygen supplementation via nasal cannula,3
+white blood cell count 7.8 K/uL,0
+venous blood gas pH 7.37,0
+PaCO2 44 mmHg,0
+ferritin 635 ng/ml,0
+lactate dehydrogenase 395 U/L,0
+chest x-ray multifocal infiltrates,0
+SARS-CoV-2 RNA positive,0
+blood cultures negative,0
+sputum cultures negative,0
+left ventricular ejection fraction 65%,0
+acute hypoxic respiratory failure,0
+sepsis secondary to COVID-19 pneumonia,0
+intravenous fluids,0
+azithromycin,0
+ceftriaxone,0
+respiratory distress,48
+high flow nasal cannula oxygen,48
+intubation,48
+lung protective ventilation,48
+neuromuscular blockade,48
+sedation,48
+severe ARDS,48
+proned position ventilation,48
+PaO2/FiO2 ratio 131,48
+PaO2/FiO2 ratio 83,48
+convalescent plasma,48
+methylprednisolone 40 mg IV twice daily,48
+enoxaparin 40 mg subcutaneous twice daily,48
+worsening ARDS,144
+hypoxic despite 100% FiO2,144
+interleukin-6 10 pg/ml,144
+ferritin 1432 ng/ml,144
+d-dimer 3670 ng/ml,144
+LDH 1100 units/L,144
+C-reactive protein 35.1 mg/dl,144
+transferred to quaternary care referral center,144
+VV-ECMO started,168
+chest x-ray persistent bilateral multifocal infiltrates,168
+chest CT diffuse lung opacities,168
+delirium,168
+Enterococcus faecalis bacteremia,168
+non-occlusive deep vein thrombosis in IVC,168
+tracheostomy,864
+decannulated from VV-ECMO,1008
+mechanical ventilation via pressure support ventilation 8/8 cm H2O,1008
+tracheostomy collar tolerated,1032
+"SARS-CoV-2 negative on days 30, 39, 58","720, 936, 1392"
+passed speech-language assessment,1392
+oral diet tolerated,1392
+CT chest improvement on day 58,1392
+aggressive daily rehabilitation with PT and OT,1392
+ambulate independently,1512
+ADLs independently,1512
+tracheostomy decannulated,1488
+discharged home without oxygen supplementation,1512
+follow-up CT chest resolution of opacities,1512 + 480 = 1992
+SARS-CoV-2 negative post-discharge days 17 and 43,"1512 + 408 = 1920, 1512 + 1032 = 2544"
+returned to baseline ADLs,2544 + 2880 = 5424
+no respiratory symptoms at 4 months post-discharge,5424

@@ -1,0 +1,85 @@
+event,time
+43 years old,0
+African American,0
+male,0
+uncontrolled HIV,0
+nonadherence to antiretroviral therapy,0
+chronic hepatitis B infection,0
+confusion,-168
+fevers,-168
+upper respiratory symptoms,-168
+rhinorrhea,-168
+denied cough,0
+denied shortness of breath,0
+denied chest pain,0
+denied headache,0
+denied abdominal pain,0
+HIV diagnosed in 2007,-118032
+lost to follow-up until 2009,-105192
+HIVAN,-105192
+pneumocystis pneumonia,-105192
+M184V mutation,-105192
+ART treatment unclear,-105192
+poor adherence,-105192
+inconsistent follow-up,-105192
+"last known ART regimen: abacavir, dolutegravir, lamivudine",-39408
+last known CD4 count <10 cells/ul,-8760
+febrile up to 38.4°C,0
+tachycardic,0
+heart rate 150s bpm,0
+cachexia,0
+oral thrush,0
+non-blanching maculopapular rashes,0
+confusion,0
+somnolence,0
+pancytopenia,0
+WBC 1.6×10³/mm³,0
+neutrophils 79.8%,0
+lymphocytes 9.8%,0
+monocytes 9.8%,0
+hemoglobin 11.8 g/dL,0
+platelets 46×10³/mm³,0
+acute kidney injury,0
+serum creatinine 1.74 mg/dl,0
+lactate 2.7 mg/dl,0
+AST 68 IU/L,0
+ALT 26 IU/L,0
+HIV viral load 1.26 million copies/mL,0
+CD4 count <10,0
+reactivated chronic HBV,0
+negative HBcAb IgM,0
+positive HBcAb IgG,0
+positive HBsAg,0
+negative HBsAb,0
+HBV viral load 234 million IU/mL,0
+treatment for meningitis,0
+vancomycin,0
+ceftriaxone,0
+acyclovir,0
+ampicillin,0
+fluconazole,0
+LP unremarkable,0
+cryptococcal meningitis ruled out,0
+seizures,96
+intubation,96
+transfer to ICU,96
+persistent high grade fever,96
+worsening liver function tests,96
+pancytopenia,96
+HLH considered,96
+ferritin 7440.7 ng/mL,96
+triglycerides 243 mg/dL,96
+fibrinogen 581 mg/dL,96
+elevated sCD25 (sIL-2R) 1192.5 pg/mL,96
+HScore 218,96
+met five HLH-2004 criteria,96
+bone marrow biopsy unrevealing,96
+dexamethasone 20 mg daily,168
+dolutegravir,168
+emtricitabine-tenofovir alafenamide,168
+improvement in ferritin,168
+improvement in fever,168
+improvement in clinical status,168
+discharged,504
+HIV viral load 130 copies/mL,2880
+"HBV viral load 450,000 copies/mL",2880

@@ -1,0 +1,128 @@
+event,time
+63 years old,0
+male,0
+Boerhaave's syndrome,0
+spontaneous transmural perforation of the esophagus,0
+sudden increase of intra-esophageal pressure,0
+excruciating retrosternal chest pain,0
+intrathoracic esophageal perforation,0
+achalasia,0
+dyspepsia,0
+sudden onset of severe right chest pain,0
+epigastric pain,0
+chest retrosternal pain,0
+respiratory distress,0
+tachycardic,0
+heart rate 130 p/m,0
+arterial pressure 120/80 mmHg,0
+no fever,0
+diminished breath sounds on the right side,0
+pain of epigastric,0
+tenderness of epigastric,0
+normal laboratory findings,0
+O2 saturation 88%,0
+computed tomography scan,0
+pneumomediastinum,0
+pleural effusion,0
+collapsed right lobe of the lung,0
+Candida albicans in pleural space,0
+extravasation to right pleural space,0
+esophageal content leakage,0
+admitted to intensive care unit,0
+intubated,0
+antibiotics,0
+chest physical therapy,0
+intravenous fluids,0
+nasogastric tube feeding,0
+elevated white blood cell count,72
+elevated blood urea nitrogen,72
+elevated potassium,72
+tachyarrhythmia,72
+multiple organ failures,96
+kidney failure,96
+hemodialysis,96
+thoracotomy,96
+sepsis,96
+accumulation of pus,96
+secretion of right pleural space,96
+6-cm longitudinal rupture in upper esophagus,96
+unstable condition,96
+noradrenaline support,96
+vasopressin support,96
+T-tube implanted,96
+sutures to anchor fistula,96
+two chest tubes inserted,96
+ventilator support,96
+vasopressor support,96
+broad-spectrum IV piperacillin/tazobactam,96
+two stents placed in esophagus,96
+oral liquid feeding,168
+length of stay in ICU 39 days,0
+discharged from hospital,1128
+tracheostomy performed,1344
+two-month follow-up,14640
+"Other events: ""length of stay in ICU 39 days"" is a duration, but the event is admission to ICU. The assistant assigns this as 0, but that's a duration. However, the user wants events, not durations. So maybe ""admitted to ICU"" is at 0, and the duration is not an event. The assistant included ""length of stay in ICU 39 days","0"", but this is a duration, not an event. The user said to include events, so perhaps this should be omitted. Similarly, ""two-month follow-up"" is an event at that time."
+discharged,1128
+tracheostomy,1416
+two-month follow-up,2568
+63 years old,0
+male,0
+Boerhaave's syndrome,0
+spontaneous transmural perforation of the esophagus,0
+sudden increase of intra-esophageal pressure,0
+excruciating retrosternal chest pain,0
+intrathoracic esophageal perforation,0
+achalasia,0
+dyspepsia,0
+sudden onset of severe right chest pain,0
+epigastric pain,0
+chest retrosternal pain,0
+respiratory distress,0
+tachycardic,0
+heart rate 130 p/m,0
+arterial pressure 120/80 mmHg,0
+no fever,0
+diminished breath sounds on the right side,0
+pain of epigastric,0
+tenderness of epigastric,0
+normal laboratory findings,0
+O2 saturation 88%,0
+computed tomography scan,0
+pneumomediastinum,0
+pleural effusion,0
+collapsed right lobe of the lung,0
+Candida albicans in pleural space,0
+extravasation to right pleural space,0
+esophageal content leakage,0
+admitted to intensive care unit,0
+intubated,0
+antibiotics,0
+chest physical therapy,0
+intravenous fluids,0
+nasogastric tube feeding,0
+elevated white blood cell count,72
+elevated blood urea nitrogen,72
+elevated potassium,72
+tachyarrhythmia,72
+multiple organ failures,96
+kidney failure,96
+hemodialysis,96
+thoracotomy,96
+sepsis,96
+accumulation of pus,96
+secretion of right pleural space,96
+6-cm longitudinal rupture in upper esophagus,96
+unstable condition,96
+noradrenaline support,96
+vasopressin support,96
+T-tube implanted,96
+sutures to anchor fistula,96
+two chest tubes inserted,96
+ventilator support,96
+vasopressor support,96
+broad-spectrum IV piperacillin/tazobactam,96
+two stents placed in esophagus,96
+oral liquid feeding,168
+discharged from hospital,1128
+tracheostomy performed,1416
+two-month follow-up,2568

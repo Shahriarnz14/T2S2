@@ -1,0 +1,62 @@
+toothache | -96  
+dyspnea | -96  
+chest pain | -96  
+sweating | -96  
+tachyarrhythmia | -96  
+sore throat | -96  
+fever (38.2°C) | -96  
+treated at home with ceftriaxone-steroids-based 3 g once daily | -48  
+worsening condition | -48  
+worsening dyspnea | -48  
+worsening chest pain | -48  
+admitted to the Emergency Service | 0  
+gross swelling of the lower right cheek | 0  
+gross swelling of the submandibular region | 0  
+gross swelling of the mental region | 0  
+erythematous lower right cheek | 0  
+erythematous submandibular region | 0  
+erythematous mental region | 0  
+warmth on palpation of lower right cheek | 0  
+warmth on palpation of submandibular region | 0  
+warmth on palpation of mental region | 0  
+difficulties in opening the jaw | 0  
+inflammatory changes of mucous membrane of oral cavity | 0  
+increased white blood cells (WBC = 17 × 10⁹/L) | 0  
+neutrophils (88%) increased | 0  
+C-reactive protein level elevated (4 mg/L) | 0  
+urgent orotracheal intubation | 0  
+left pleural effusion | 0  
+mediastinitis | 0  
+right parapharyngeal abscess | 0  
+possible complication of an odontogenic infection | 0  
+drainage of the right neck via cervicotomy | 4  
+insertion of drain in submandibular space | 4  
+placement of left chest drain on left sixth intercostal space | 4  
+intravenous antibiotic therapy with piperacillin sodium plus tazobactam sodium 500 mg four times daily | 4  
+condition worsened | 48  
+transferred to an Intensive Care Unit | 48  
+air collection in right submandibular space | 48  
+air collection in left carotid space | 48  
+air collection in retroesophageal space | 48  
+air collection in pretracheal space | 48  
+air and fluid collections in upper mediastinum | 48  
+air and fluid collections in anterior mediastinum | 48  
+air and fluid collections in posterior mediastinum | 48  
+bilateral pleural effusions | 48  
+insertion of right pleural drain | 50  
+abscesses in cervical spaces | 72  
+extensive mediastinal empyema | 72  
+left pleural effusion | 72  
+right hydropneumothorax | 72  
+mediastinal debridement | 72  
+video-assisted thoracoscopic surgery (VATS) performed | 72  
+incision and drainage of neck abscesses | 72  
+insertion of two surgical drains | 72  
+oral tooth extraction (48th) | 72  
+drainage and packing of purulent fluid from cavity below tooth | 72  
+microscopy and culture revealed Streptococcus anginosus | 80  
+microscopy and culture revealed Gemella morbillorum | 80  
+microscopy and culture revealed Staphylococcus lugdunensis | 80  
+antibiotic therapy initiated with amoxicillin 1000 mg intravenously every 6 hours | 80  
+antibiotic therapy initiated with metronidazole 500 mg intravenously every 12 hours | 80  
+patient dismissed in better health conditions | 168  

@@ -1,0 +1,29 @@
+event,time
+Admitted to the obstetric department,0
+Pre-term labor,0
+Received 10 mg of nifedipine 4 times in 1 h,-1
+Pulmonary edema,-1
+Hypoxemia,-1
+Transfer to the intensive care unit (ICU),-1
+Blood pressure 101/61 mm Hg,-1
+ECG revealed a sinus tachycardia (142 bpm),-1
+Oxygen saturation 98% under 100% high flow oxygenation,-1
+"Physical examination revealed a loud first heart sound, diastolic murmur, bilateral wheezing, and jugular venous distension",-1
+Fall in systolic blood pressure,-1.5
+Worsening desaturation (78%) with metabolic acidosis and hyperlactatemia (34 mg/dL),-1.5
+Intubated and ventilated,-1.5
+Chest X-ray confirmed pulmonary edema,-1.5
+Cardiac echography revealed unknown severe mitral stenosis,-1.5
+Diagnosis of cardiogenic shock precipitated by administration of nifedipine in a pregnant woman with unknown severe mitral stenosis,-1.5
+Loop diuretics (furosemide) and full-dose heparin administered,-1.5
+Ultrasound examination showed no fetal distress,-1.5
+Transoesophageal echocardiography showed a severe rheumatic mitral stenosis,-1.5
+Spontaneous vaginal delivery occurred,-2
+Endometritis with sepsis,-2
+Ceftriaxone and ampicillin administered,-2
+Percutaneous double balloon mitral valvuloplasty performed,8
+Mitral mean gradient reduced from 10 to 3 mmHg,8
+Mitral area increased from 0.5 to 1.65 cm2,8
+Pulmonary pressure normalized,8
+Extubated,9
+Recovery was rapid,9

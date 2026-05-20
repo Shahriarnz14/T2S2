@@ -1,0 +1,92 @@
+event,time
+10-year-old,0
+male,0
+admitted to the hospital,0
+kidney transplantation,-1800
+end-stage kidney disease,-1800
+chronic interstitial nephritis,-1800
+PU valves,-115200
+vesico-ureteric reflux,-115200
+resection of PU valves,-105120
+bilateral ureteric reimplantation,-105120
+growth retardation,-1800
+underweight,-1800
+mother donated kidney,-1800
+triple immunosuppression,-1800
+serum creatinine 0.5 mg/dL,-1800
+prophylaxis for pneumocystis,-1800
+prophylaxis for cytomegalovirus,-1800
+tacrolimus trough level 8 ng/mL,-1440
+prednisolone 5 mg daily,-1440
+mycophenolate sodium 180 mg twice daily,-1440
+regular follow-up,-1440
+linear growth,-1440
+weight gain,-1440
+high fever,-48
+severe cough,-48
+vomiting,-48
+no loss of smell,-48
+no loss of taste,-48
+no diarrhea,-48
+normal urine output,-48
+weight 22.5 kg,0
+temperature 101°F,0
+respiration 26 per min,0
+pulse 120/min,0
+blood pressure 120/80 mm Hg,0
+SpO2 92%,0
+normal throat,0
+clear chest,0
+nontender graft kidney,0
+rapid antigen test positive for COVID-19,0
+SARS-CoV-2 RT-PCR positive,0
+HRCT chest CORADS-6,0
+HRCT TSS 18/25,0
+normal urinalysis,0
+Hb 11.3 g/dL,0
+absolute lymphocyte count 820 cells/mm3,0
+serum creatinine 0.5 mg/dL,0
+SGPT 48 U/L,0
+CRP 9.3 mg/L,0
+ferritin 203 ng/mL,0
+LDH 403 U/L,0
+procalcitonin 0.11 ng/mL,0
+D-dimer 201 ng/mL,0
+normal ultrasound scan,0
+normal doppler study,0
+blood cultures sent,0
+throat swab cultures sent,0
+tacrolimus trough levels analyzed,0
+qt-PCR for CMV,0
+qt-PCR for BK virus,0
+hydration,0
+antipyretics,0
+piperacillin-tazobactam,0
+tacrolimus continued,0
+prednisolone continued,0
+mycophenolate stopped,0
+remdesivir loading dose,24
+remdesivir 2.5 mg/kg,48
+afebrile,144
+mild cough,144
+normal oxygen saturation,144
+normal urine output,144
+stable creatinine 0.5 mg/dL,144
+normal liver function,144
+negative CMV PCR,144
+negative BK virus PCR,144
+sterile blood cultures,144
+sterile throat swab cultures,144
+tacrolimus level 8 ng/mL,144
+discharged,192
+home-quarantine,192
+telehealth follow-up,192
+asymptomatic,360
+normal renal functions,360
+normal lymphocyte count,360
+normal CRP,360
+HRCT TSS 3/25,360
+mycophenolate sodium restarted,360
+father tested positive,360
+mother negative,360
+sibling negative,360

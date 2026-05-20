@@ -1,0 +1,73 @@
+event,time
+80-year-old,0
+woman,0
+non-smoker,0
+history of hypertension,0
+last seen by her family members,-19.33
+fecal incontinence,-0.67
+left hemiplegia,-0.67
+dextroversion,-0.67
+dysarthria,-0.67
+vomiting,-0.67
+acute dyspnea,0
+transported to the emergency department of our hospital,0
+impaired consciousness,0
+Japan coma scale score Ⅱ-10,0
+Glasgow coma scale score 12,0
+systolic blood pressure 91 mmHg,0
+respiratory rate 24/min,0
+oxygen saturation 86% with supplemental oxygen 4 L/min by a nasal cannula,0
+poor oral hygiene,0
+diminished breath sounds on the left side,0
+coarse crackles in the right lung,0
+decrease in breath sounds in the front of the chest,0
+neurological findings were suggestive of an intracranial lesion,0
+chest radiography at admission showed extensive infiltration shadows mainly in the left whole lung fields and in the right lower lung field,0
+head CT showed right thalamus and putamen bleeding,0
+hematoma extending from the right basal ganglia and putamen to the thalamus,0
+cerebral edema surrounding the hematoma,0
+treated conservatively,0
+chest CT at admission showed consolidation with ground-glass opacities primarily in the middle lobe of the right lung and in the upper and lower lobes of the left lung,0
+decreased leukocyte count 1900/μL,0
+C-reactive protein 3.6 mg/dL,0
+respiratory failure with PaO2 64 mmHg on oxygen 4 L/min,0
+increased blood urea nitrogen 27 mg/dL,0
+albumin 3.6 g/dL (low),0
+creatine kinase 304 U/L (high),0
+BNP 278.7 pg/mL (high),0
+potassium 3.4 mmol/L (low),0
+D-dimer 8.5 μg/mL (high),0
+arterial blood gas pH 7.43,0
+arterial blood gas PaCO2 33 mmHg,0
+arterial blood gas HCO3− 22 mmol/L,0
+A-DROP severity required ICU admission,0
+coronavirus disease 2019 antigen test negative,0
+respiratory viral pneumonia considered,0
+severe pneumonia,0
+oxygen mask with reservoir bag at 10 L/min,0.5
+oxygen saturation could not be maintained at 90%,0.5
+endotracheal intubation,1
+mechanical ventilation initiated,1
+Mendelson's syndrome,1
+sputum culture obtained,1
+admitted to the intensive care unit,2
+ventilator mode synchronous intermittent mandatory ventilation with pressure control ventilation,2
+sivelestat sodium hydrate administered intravenously,2
+meropenem started,2
+levofloxacin started,2
+PaO2/FiO2 ratio 128.75,2
+pneumonia satisfied the Berlin definition of ARDS (moderate severity),2
+prednisolone started at 1 mg/kg/day,2
+low tidal volume strategy with permissive hypercapnia not used,2
+aspiration bacterial pneumonia considered,2
+no fever,0
+sputum culture showed Streptococcus agalactiae,48
+sputum culture showed Klebsiella oxytoca,48
+WBC elevated,24
+serum CRP level elevated,24
+infiltration shadows improved,264
+PaO2/FiO2 ratio ≥250,264
+extubated,264
+transferred to the Department of Neurosurgery,504
+transferred to a rehabilitation hospital for sequelae of stroke,552
+sequelae of stroke,552

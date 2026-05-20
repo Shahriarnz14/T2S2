@@ -1,0 +1,69 @@
+event,time
+54 years old,0
+woman,0
+admitted to the hospital,0
+no drug allergy,0
+heavy smoker,0
+bilateral cataract extraction,-17520
+breast augmentation,-17520
+abdominoplasty,-17520
+presented for screening gastroscopy and colonoscopy under sedation,0
+no premedication given,0
+standard parameter monitoring,0
+oxygen supplementation,0
+baseline vital signs normal,0
+sedation with meperidine,0
+sedation with midazolam,0
+sedation with propofol,0
+gastroscopy started,0
+bradycardia,600
+asystole,600
+undetectable blood pressure,600
+no skin rash,600
+treatment with xylocaine,600
+treatment with atropine,600
+treatment with epinephrine,600
+treatment with hydrocortisone,600
+face mask ventilation,600
+sinus tachycardia,600
+systemic blood pressure improvement,600
+spontaneous breathing,600
+no dyspnea,600
+regained consciousness,600
+acute chest pain,600
+pulmonary edema,600
+dyspnea,600
+hypoxia,600
+procedure aborted,600
+transferred to intensive care unit,600
+EKG not indicative,600
+chest X-ray with diffuse bilateral infiltrations,600
+transthoracic echocardiography,600
+global hypokinesia,600
+ejection fraction 20-29%,600
+respiratory acidosis,600
+acute LV dysfunction,600
+treatment with Lasix,600
+continuous dobutamine,600
+clinical improvement,720
+saturation improved,720
+BiPAP ventilation,720
+complete recovery,24
+dobutamine weaning started,24
+troponin level 0.08,0
+troponin level 0.54,720
+troponin level 0.58,1080
+serial EKGs without evolving changes,24
+coronary angiography,24
+no significant coronary stenosis,24
+full recovery,48
+BiPAP discontinued,48
+inotropic support discontinued,48
+echocardiography improved LV function,96
+no regional wall motion abnormality,96
+EF 68%,96
+chest X-ray no pulmonary edema,96
+discharged,96
+carvedilol prescribed,96
+rabeprazole sodium prescribed,96
+doing well at three months’ follow-up,2208

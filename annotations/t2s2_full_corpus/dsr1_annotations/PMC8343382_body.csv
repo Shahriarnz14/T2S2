@@ -1,0 +1,82 @@
+event,time
+66-year-old man,0
+hypertension,-26280
+well-controlled hypertension,-26280
+diabetes,-61320
+well-controlled diabetes,-61320
+metformin,-61320
+HbA1c 6.3%,-61320
+admitted to emergency room,0
+acute respiratory failure,0
+dyspneic,0
+respiratory rate 25/min,0
+oxygen saturation SpO2 83%,0
+temperature 39.7°C,0
+weight 99 kg,0
+height 1.76 cm,0
+BMI 31.96 kg/m²,0
+clinical examination unremarkable,0
+RT-PCR SARS-COV-2 positive,0
+nonenhanced chest CT scan,0
+peripheral ground-glass opacities,0
+pulmonary involvement 25-50%,0
+lymphopenia,0
+increased ferritin,0
+increased CRP,0
+increased LDH,0
+arterial blood gas analysis,0
+hypoxemia,0
+PaO2 55 mm Hg,0
+hospitalized in ICU,0
+oxygen therapy via nasal cannula,0
+SpO2 93%,0
+Vitamin C,0
+Zinc,0
+corticosteroid therapy,0
+dexamethasone,0
+low-molecular-weight heparin,0
+proton pump inhibitors,0
+day 3 hospitalization,72
+difficulty breathing,72
+SpO2 84%,72
+PaO2 47 mm Hg,72
+contrast-enhanced chest CT,72
+pulmonary involvement >75%,72
+high-concentration mask,72
+prone decubitus sessions,72
+SpO2 90%,72
+favorable evolution,72
+day 5 admission,120
+sudden onset palpitations,120
+worsening dyspnea,120
+heart rate 186 bpm,120
+blood pressure 134/80 mm Hg,120
+electrocardiogram,120
+atrial fibrillation,120
+rapid ventricular response,120
+rhythm control strategy,120
+amiodarone infusion,120
+HR 140 bpm,122
+new AF,122
+ventricular response 205 bpm,122
+hemodynamic instability,122
+BP 70/50 mm Hg,122
+Glasgow Coma Scale 8/15,122
+external electric shock,122
+sinus rhythm restored,122
+HR 98 bpm,122
+BP 125/80 mm Hg,122
+no recovery of consciousness,122
+suspected stroke,122
+cerebral MRI,123
+brainstem acute ischemic stroke,123
+NIHSS 35,123
+contraindicated thrombolysis,123
+severe neuro-vegetative disorders,128
+prolonged apnea,128
+extreme bradycardia,128
+tachycardia,128
+cardiac arrest,128
+refractory ventricular fibrillation,128
+resuscitation measures,128
+death,128

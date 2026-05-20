@@ -1,0 +1,91 @@
+event,time
+62 years old,0
+male,0
+hypertension,0
+hyperlipidaemia,0
+dizziness,-168
+fatigue,-168
+nausea,-168
+vomiting,-168
+transported to emergency department,-96
+discharged home,-96
+syncope,0
+out-of-hospital cardiac arrest,0
+ECG with anterior ST-segment elevations,0
+ventricular fibrillation,0
+cardiac defibrillation,0
+endotracheal intubation,0
+ventricular fibrillation recurrence,0
+resuscitative efforts,0
+return of spontaneous circulation,0
+heart rate 77 bpm,0
+regular rhythm,0
+hypotension 86/48 mmHg,0
+no murmurs,0
+no lower extremity edema,0
+cool extremities,0
+mechanical ventilation,0
+breath sounds present bilaterally,0
+wide complex rhythm,0
+slow ventricular tachycardia,0
+right bundle branch block morphology,0
+left axis deviation,0
+acute coronary syndrome suspicion,0
+aspirin,0
+ticagrelor,0
+heparin,0
+epinephrine infusion,0
+coronary angiography,1
+no coronary stenosis,1
+right atrial pressure 22 mmHg,1
+pulmonary artery pressure 61/28 mmHg,1
+pulmonary capillary wedge pressure 15 mmHg,1
+Fick cardiac index 2.6 L/min/m²,1
+point-of-care echocardiogram,1
+dilated right ventricle,1
+severely reduced right ventricular function,1
+pulmonary embolism suspicion,1
+pulmonary angiography,6
+bilateral pulmonary emboli,6
+EkoSonic thrombolysis catheters placement,6
+tissue plasminogen activator administration,6
+upper extremity Doppler ultrasound,6
+lower extremity Doppler ultrasound,6
+no venous thrombosis,6
+formal transthoracic echocardiogram,6
+depressed right ventricular function confirmed,6
+CT chest ground-glass opacities,96
+wedge-shaped opacities right lung,96
+pulmonary infarctions suspected,96
+refractory hypotension,96
+broad-spectrum antibiotics,96
+pneumonia treatment,96
+negative viral respiratory panel,96
+methicillin-resistant Staphylococcus aureus positive,96
+completion of thrombolysis,24
+sinus rhythm,24
+first-degree AV block,24
+incomplete right bundle branch block,24
+prolonged QTc 498 ms,24
+anaemia,96
+CT chest mediastinal hematoma,96
+persistent ground-glass opacities,96
+COVID-19 testing,96
+SARS-CoV-2 positive,96
+transferred to COVID-19 ICU,96
+extubated,192
+inpatient rehabilitation,192
+discharged home,672
+apixaban 5 mg twice daily,672
+exertional dyspnea,672
+improvement of right ventricular function,672
+lactic acid 19 mmol/L,0
+troponin I initial 77 ng/L,0
+troponin I peak 6424 ng/L,0
+brain natriuretic peptide 127 pg/mL,0
+prothrombin time 18.2 s,0
+international normalized ratio 1.51,0
+partial thromboplastin time 28 s,0
+fibrinogen 193 mg/dL,0
+D-dimer >20000 ng/mL,0
+elevated right-sided filling pressures,1

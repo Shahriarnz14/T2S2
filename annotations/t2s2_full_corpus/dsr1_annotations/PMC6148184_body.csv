@@ -1,0 +1,76 @@
+event,time
+57 years old,0
+woman,0
+fever,0
+diarrhea,0
+tetracycline ingestion,-24
+fatigue,-24
+admitted to local general hospital,-24
+elevated transaminase levels,-24
+AST 5255 IU/L,-24
+ALT 2435 IU/L,-24
+bicytopenia,-24
+leukocytes 1200 /μL,-24
+polymorphonuclear neutrophils 36.3%,-24
+atypical lymphocytes 24%,-24
+platelets 5.0×10^4/μL,-24
+reduced prothrombin time activity 36.3%,-24
+HAV-IgM negative,-24
+HBs antigen negative,-24
+HCV antibody negative,-24
+VCM-IgM negative,-24
+CMV antigenemia negative,-24
+AMA negative,-24
+ASMA negative,-24
+HTLV-1 antibody negative,-24
+HIV antibody negative,-24
+encephalopathy,-24
+confusion,-24
+slow movement,-24
+bone marrow biopsy,-24
+increased maturity histiocytes,-24
+significant hemophagocytosis,-24
+FH diagnosis,-24
+HPS diagnosis,-24
+steroid pulse therapy,-24
+CHDF,-24
+condition not improved,-24
+transferred to our hospital,0
+admitted to our hospital,0
+severe respiratory failure,72
+tracheal intubation,72
+mechanical ventilation,72
+chest CT bronchial wall thickening,72
+chest CT bilateral diffuse infiltration shadow,72
+bronchoscopy widespread pseudomembranous formation,72
+β-D-glucan 617 pg/dL,72
+Aspergillus galactomannan antigen >5.0,72
+CRP 2.52 mg/dL,72
+PCT 0.4 ng/mL,72
+blood gas pH 7.32,72
+PaO2 89.4 mmHg,72
+PaCO2 53.9 mmHg,72
+HCO3－19.3 mmol/L,72
+PaO2/FiO2 149,72
+endobronchial biopsy active inflammation,72
+necrotic tissue,72
+filamentous fungal hyphae infiltration,72
+Aspergillus fumigatus isolated,72
+Burkholderia cepacia isolated,72
+pseudomembranous ITBA diagnosis,72
+ARDS diagnosis,72
+possible bacterial pneumonia,72
+possible IPA,72
+possible pulmonary edema,72
+BAL not performed,72
+imipenem,72
+voriconazole 200 mg/day,72
+caspofungin 35 mg/day,72
+β-D-glucan decreased,96
+pseudomembrane scarring,96
+septic shock,96
+Burkholderia cepacia,96
+ARDS complication,96
+antibiotic therapy,96
+intensive care,96
+died,1368

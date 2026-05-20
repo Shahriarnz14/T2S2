@@ -1,0 +1,85 @@
+event,time
+15 years old ,0
+female ,0
+acute myelogenous leukemia ,-10080
+standard induction treatment ,-10080
+chemotherapy ,-10080
+2 cycles of chemotherapy ,-10080
+pancytopenia ,-504
+broad anti-infective treatment ,-504
+ciprofloxacin ,-504
+linezolid ,-504
+meropenem ,-504
+tobramycin ,-504
+liposomal amphotericin ,-504
+admitted to the pediatric intensive care unit ,0
+tachycardia ,0
+hypotension ,0
+lactic acidosis ,0
+transthoracic echocardiography ,0
+severely impaired left ventricular ejection fraction ,0
+electrocardiogram ,0
+sinus tachycardia ,0
+incomplete right bundle branch block ,0
+N-terminal prohormone of brain natriuretic peptide ,0
+high-sensitive troponin T ,0
+fluid therapy ,0
+noradrenaline ,0
+dobutamine ,0
+milrinone ,0
+deep sedation ,0
+mechanical ventilation ,0
+respiratory insufficiency ,0
+va-ECMO ,0
+cannulation of the left femoral artery and vein ,0
+va-ECMO blood flow ,0
+extracorporeal blood flow ,0
+mean arterial pressure ,0
+noradrenaline ,0
+vasopressin ,0
+levosimendan ,0
+hydrocortisone ,0
+continuous venovenous hemodiafiltration ,0
+anti-infective therapy ,0
+meropenem ,0
+ciprofloxacin ,0
+metronidazole ,0
+cotrimoxazole ,0
+liposomal amphotericin B ,0
+acyclovir ,0
+linezolid ,0
+vancomycin ,0
+procalcitonin ,0
+C-reactive protein ,0
+leukocytes ,0
+high-sensitive troponin T ,0
+creatine kinase MB ,0
+myocardial biopsy ,0
+viral myocarditis ,0
+second arterial cannula ,24
+Dacron conduit ,24
+second venous cannula ,48
+percutaneous atrioseptostomy ,48
+left atrial discharge ,48
+broad-complex tachycardia ,48
+esmolol ,48
+metoprolol ,48
+left ventricular function ,48
+aortic valve ,48
+pulmonary edema ,48
+intracardiac clot formation ,48
+cerebral oximetry ,48
+near infrared spectroscopy ,48
+regional oxygen saturation ,48
+unfractionated heparin ,48
+partial thrombin time ,48
+ECMO cannulas removal ,120
+ECMO removal ,168
+transseptal cannula removal ,168
+CVVHDF stop ,168
+respirator weaning ,792
+allogenic stem cell transplantation ,1008
+discharged to a rehabilitation facility ,2160
+critical illness ,2160
+polyneuropathy ,2160
+LVEF recovery ,2160

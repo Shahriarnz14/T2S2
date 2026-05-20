@@ -1,0 +1,72 @@
+event,time
+70-year-old man,0\
+T3V1N0M0 rectal tumor,0\
+laparoscopic abdominoperineal resection (APR),0\
+"adjuvant chemotherapy with oxaliplatin, fluorouracil, and calcium folinate",0\
+no recurrence at 1 year,8760\
+no distant metastases at 1 year,8760\
+perineal hernia at 13 months post-APR,9360\
+pelvic floor reconstruction with Permacol™ mesh,9360\
+transperineal approach,9360\
+postoperative course uneventful,9360\
+pelvic-abdominal CT scan at 4 months post-hernia repair,9360 + 2920 = 12280\
+no locoregional recurrence,12280\
+no reherniation,12280\
+weight loss at 9 months post-hernia repair,9360 + 6570 = 15930\
+thoracic-abdominal CT scan,15930\
+liver metastases,15930\
+lung metastases,15930\
+"chemotherapy: bevacizumab, irinotecan, calcium folinate, fluorouracil",15930\
+sepsis signs at 12 months post-hernia repair,9360 + 8760 = 18120\
+high temperature,18120\
+tachycardia,18120\
+hypotension,18120\
+right buttock pain,18120\
+physical examination: signs of infection,18120\
+acute ultrasound examination,18120\
+abscess detected,18120\
+US-guided drainage,18120\
+intensive care unit admission,18120\
+intravenous fluids,18120\
+broad-spectrum antibiotics,18120\
+CT scan with contrast,18120\
+subcutaneous abscess cavity in perineum,18120\
+communication to small bowel,18120\
+laparotomy,18120\
+perineal fistula from distal ileum,18120\
+small bowel resection,18120\
+primary anastomosis,18120\
+postoperative fluid and electrolyte disturbances,18120 + 16*24 = 18504\
+intensive care unit stay for 16 days,18504\
+pressors,18504\
+parenteral nutrition,18504\
+perineal wound vacuum-assisted closure for 20 days,18120 + 20*24 = 18600\
+no complications in closure treatment,18600\
+discharged to hospice after 28 days,18120 + 28*24 = 18792\
+terminal care,18792\
+no local recurrence,18120\
+no intraabdominal abscess,18120\
+no pelvis sepsis,18120\
+metastatic disease,15930\
+bevacizumab treatment,15930\
+chemotherapy for 6 weeks,15930 + 6*168 = 17058\
+fistula development 6 weeks into chemotherapy,17058\
+enterocutaneous fistula,18120\
+perineal hernia,9360\
+Permacol™ mesh placement,9360\
+laparoscopic APR,0\
+adjuvant chemotherapy,0\
+no recurrence at 1 year,8760\
+no distant metastases,8760\
+weight loss,15930\
+liver metastases,15930\
+lung metastases,15930\
+sepsis,18120\
+right buttock abscess,18120\
+small bowel fistula,18120\
+bowel resection,18120\
+primary anastomosis,18120\
+postoperative complications,18504\
+intensive care,18504\
+vacuum-assisted closure,18600\
+discharge to hospice,18792

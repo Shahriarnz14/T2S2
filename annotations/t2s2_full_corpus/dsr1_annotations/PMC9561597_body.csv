@@ -1,0 +1,70 @@
+event,time
+81 years old,0
+woman,0
+fatigue,-72
+lethargy,-72
+fever,-72
+chills,-72
+phlegm,-72
+wheezing,-72
+coma,0
+oxygen saturation dropped to 70%-80%,0
+admitted to intensive care unit,0
+progressive drop in blood pressure,0
+norepinephrine,0
+mean arterial pressure > 65 mmHg,0
+chronic obstructive pulmonary disease,0
+bronchial asthma,0
+long-term home oxygen therapy,0
+chronic heart insufficiency,0
+bisoprolol,0
+body temperature 36 °C,0
+pulse 85 beats/min,0
+respiratory rate 18 breaths/min,0
+blood pressure 105/45 mmHg,0
+decreased breath sounds in both lungs,0
+wet rales at the bottom of both lungs,0
+troponin level 0.05 ng/mL,0
+B-type natriuretic peptide 4164 pg/mL,0
+carbon dioxide partial pressure 58.7 mmHg,0
+oxygen partial pressure 86.5 mmHg,0
+oxygenation index 172.97 mmHg,0
+white blood cell 8.12 × 10^9/L,0
+neutrophil percentage 93.2%,0
+C-reactive protein 298.38 mg/L,0
+procalcitonin 6.26 ng/mL,0
+interleukin-6 > 5000 pg/mL,0
+sinus rhythm,0
+T wave high and sharp,0
+poor R wave progression V1-V4,0
+V1 Qr type,0
+left atrial enlargement,0
+segmental abnormal motion of left ventricular wall,0
+left ventricular apical bulge,0
+left ventricular diastolic function decreased,0
+LVEF 51%,0
+chronic bronchitis,0
+emphysema,0
+multiple infections in both lungs,0
+right pleural cavity small effusion,0
+aortic arch calcification,0
+coronary artery calcification,0
+abdominal aorta calcification,0
+acute coronary syndrome,0
+percutaneous coronary intervention,24
+no significant coronary artery abnormalities,24
+abdominal distension,48
+decreased bowel sounds,48
+glycerin enema,48
+sudden loss of consciousness,96
+blood pressure drop,96
+abdominal wall swelling,96
+increased abdominal wall tension,96
+bowel sounds disappeared,96
+extensive pneumatosis intestinalis,96
+hepatic portal system gas,96
+intestinal wall necrosis,96
+acute mesenteric ischemia,96
+septic shock,0
+refractory shock,120
+death,120

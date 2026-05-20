@@ -1,0 +1,70 @@
+event,time
+73 years old,0\
+female,0\
+fever,-168\
+asthenia,-168\
+odynophagia,-168\
+epistaxis,-168\
+denied expelling foreign body,0\
+treated in Emergency Unit,0\
+referred to otorhinolaryngology service,24\
+cacosmia,-26280\
+foul-smelling nasal crusts,-26280\
+diabetes,-26280\
+hypertension,-26280\
+afebrile,0\
+oriented,0\
+cooperative,0\
+crackles in lung bases,0\
+mucopurulent secretion in left external auditory canal,0\
+peritonsillar bulging,0\
+hyperemia,0\
+soft palate hyperemia,0\
+peritonsillar abscess suspected,0\
+oral bulge puncture,0\
+no secretion drained,0\
+hospitalized,0\
+intravenous ceftriaxone,0\
+intravenous clindamycin,0\
+second puncture,24\
+no drainage,24\
+larvae exiting mouth,24\
+larvae exiting left nostril,24\
+septicemia,28\
+decreased consciousness,28\
+blood desaturation,28\
+transferred to ICU,28\
+intubation,28\
+mechanical ventilation,28\
+iodoform applied,28\
+ivermectin administered,28\
+piperacillin/tazobactam,28\
+vancomycin,28\
+daily otorhinolaryngological exams,28\
+larvae removal,28\
+150 larvae removed,100\
+computed tomography nose,100\
+computed tomography paranasal sinuses,100\
+computed tomography temporal bones,100\
+computed tomography skull,100\
+computed tomography lung,100\
+larva penetrating oral cavity,100\
+volume reduction of inferior turbinates,100\
+soft tissue density in maxillary sinuses,100\
+soft tissue density in ethmoid sinuses,100\
+soft tissue density in sphenoid sinuses,100\
+radiopaque material from iodoform,100\
+lung opacity,100\
+complete larvae removal,100\
+death,720\
+respiratory failure,720\
+pneumonia,720\
+atrophic rhinitis suspected,0\
+nasal myiasis,0\
+epistaxis,0\
+nasal obstruction,0\
+rhinorrhea,0\
+cacosmia,0\
+facial pain,0\
+headache,0\
+aspiration pneumonia,720

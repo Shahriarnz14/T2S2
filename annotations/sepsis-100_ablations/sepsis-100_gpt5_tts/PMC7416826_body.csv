@@ -1,0 +1,81 @@
+event,time
+67-year-old,0
+male,0
+admitted to the hospital,0
+history of hypertension,0
+history of degenerative joint disease,0
+history of bilateral knee replacement in 2003,0
+history of substance abuse,0
+recent history of trauma to his face during an altercation,-48
+recent history of trauma to his chest wall during an altercation,-48
+presented for new-onset lightheadedness,0
+presented for new-onset fatigue,0
+leukocytosis of 27 × 10^3/μl,0
+hemoglobin of 10.2 g,0
+venous lactic acid of 2.4 mol/l,0
+noncontrast computerized tomography chest/abdomen/pelvis revealed intramuscular hematoma in the right chest wall,0
+noncontrast computerized tomography chest/abdomen/pelvis revealed subpectoral hematoma in the right chest wall,0
+"noncontrast computerized tomography chest/abdomen/pelvis revealed extrapleural extension into the chest, measuring up to 17 cm in length",0
+acute right second through fifth anterior rib fractures,0
+bilateral lower lobe bronchopneumonia,0
+blood cultures obtained,0
+started on empiric antibiotics with intravenous piperacillin–tazobactam,0
+afebrile,0
+hypotensive with blood pressure of 60/40 mmHg,0
+admitted to the intensive care unit,0
+suspected septic shock,0
+initiation of vasopressors,0
+no clinical improvement,24
+antibiotics broadened to intravenous vancomycin,24
+antibiotics broadened to intravenous cefepime,24
+antibiotics broadened to intravenous metronidazole,24
+piperacillin–tazobactam discontinued,24
+repeat blood cultures obtained,24
+repeat urine cultures obtained,24
+sputum cultures obtained,24
+blood cultures negative,72
+urine cultures negative,72
+sputum cultures grew methicillin-resistant Staphylococcus aureus,72
+antibiotics narrowed to intravenous vancomycin,72
+cefepime discontinued,72
+metronidazole discontinued,72
+complained of left knee pain,120
+left knee swelling on physical exam,120
+sterile left knee aspiration performed,120
+synovial fluid cloudy,120
+synovial fluid amber colored,120
+synovial fluid white blood cells of 9.28 × 10^3/mcL,120
+synovial fluid 6.0 × 10^3/mcL,120
+calcium pyrophosphate crystals,120
+concern for infection of prosthetic knee joint,120
+complete washout of the joint,144
+debridement of the joint,144
+retention of the prosthesis,144
+DAIR procedure selected,144
+operative note described an infected knee with purulence,144
+joint culture obtained,144
+tissue culture obtained,144
+fluid culture obtained,144
+antibiotic regimen transitioned to intravenous cefazolin,168
+vancomycin discontinued,168
+joint culture grew Clostridium bifermentans,240
+tissue culture grew Clostridium bifermentans,240
+cefazolin discontinued,240
+antibiotic regimen transitioned to intravenous ampicillin–sulbactam,240
+contrast computerized tomography scan of the abdomen ordered,240
+contrast computerized tomography scan of the abdomen negative,240
+assessed for possible immunodeficiency,240
+human immunodeficiency virus screening negative,240
+continued to clinically improve,336
+discharged to a rehabilitation facility,384
+referral to gastroenterology for outpatient colonoscopy,384
+physical therapy started,384
+ampicillin–sulbactam discontinued,576
+oral suppression with amoxicillin–clavulanic acid started,576
+followed up with internal medicine,2544
+recovered full range of motion of his left knee,2544
+no signs of lingering joint infection,2544
+no signs of lingering systemic infection,2544
+still taking Augmentin,2544
+medication adherence reported,2544
+had not yet opted to undergo colonoscopy,2544

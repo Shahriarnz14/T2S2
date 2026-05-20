@@ -1,0 +1,87 @@
+event,time
+39 years old,0
+male,0
+admitted to the intensive care unit,0
+diabetes mellitus type 1,0
+insulin treatment,0
+fever,-168
+diffuse myalgia,-168
+pleuritic type precordial chest pain,-72
+progressive dyspnea,-72
+apyrexial,0
+dyspneic at rest,0
+respiratory rate 24/min,0
+blood pressure 160/90 mmHg,0
+pulse rate 130 beats per minute,0
+distended jugular veins,0
+pericardial friction rub,0
+heart sounds not muffled,0
+diminished sounds in bases,0
+sinus tachycardia,0
+normal amplitude QRS complexes,0
+concaved ST elevation,0
+reciprocal ST depression,0
+PR elevation in lead aVR,0
+PR depression in lead DII,0
+massively enlarged globular cardiac shadow,0
+left pleural effusion,0
+white-blood-cell count 10 800/μl,0
+83% segmented cells,0
+9% lymphocytes,0
+hemoglobin 10.5 g/dl,0
+platelet count 182 000/μl,0
+CRP 192 U/l,0
+normal renal function tests,0
+normal liver function tests,0
+NT-proBNP 1155 pg/ml,0
+pulsus paradoxus,0
+massive pericardial effusion,24
+right ventricular systolic collapse,24
+cardiac tamponade,24
+pericardiocentesis,24
+hemodynamic stability,24
+purulent fluid,24
+500 000 nucleated cells/μl,24
+80% segmented cells,24
+8% lymphocytes,24
+2% eosinophils,24
+1000 red blood cells/μl,24
+lactate dehydrogenase 19 523 U/l,24
+triglycerides 90 mg/dl,24
+glucose 36 mg/dl,24
+protein 5.9 g/dl,24
+pH 6.0,24
+gram-positive cocci,24
+no acid-fast bacilli,24
+vancomycin started,24
+rapid HIV test positive,24
+fluid reaccumulation,48
+urgent surgical approach,48
+drain placed,48
+Methicilin-sensitive S. aureus,48
+adenosine deaminase >200 U/l,48
+episodes of fever,120
+continuous drainage of purulent fluid,120
+tuberculostatic drugs initiated,120
+HIV positive (Western Blot),120
+CD4 count 28 cells/μl,120
+HIV viral load 347 609 copies/mm3,120
+non-specific inflammation pattern,120
+thoracic drain placed,120
+large pleural effusion,120
+no empyema,120
+normal chest CT,120
+normal abdominal CT,120
+tuberculosis treatment,120
+fluid aspect reduced,168
+pericardial drain removed,168
+negative fungal cultures,168
+negative tuberculous cultures,168
+negative cytology for malignant cells,168
+corticosteroids not prescribed,168
+constrictive pericarditis,168
+rifampin,168
+isoniazid,168
+pyrazinamide,168
+ethambutol,168
+elective pericardiectomy considered,168

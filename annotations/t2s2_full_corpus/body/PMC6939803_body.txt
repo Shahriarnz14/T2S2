@@ -1,0 +1,82 @@
+Learning points
+
+The C-wave of the central venous pressure curve should occur after the R-wave on the electrocardiogram (ECG).
+
+If the C-wave of a venous curve appears before the R-wave of the ECG curve, the catheter tip is not localized in the superior vena cava.
+
+If the apparent ‘venous’ pO2 in blood gas examination is higher than the arterial pO2, there is a suspicion that the catheter is located in an oxygenated blood vessel, such as a pulmonary vein.
+
+
+
+
+
+
+
+Introduction
+Managing patients on intensive care units requires a fast access to the circulatory system and the ability of continuous physiological monitoring. For such purposes, central venal catheters are often inserted, for example through the jugular vein. The catheter tip should be located in the superior vena cava at the level of the right atrium. At this position, the central venous pressure and oxygenation are measured. The reference value of oxygenation is 70–80%. A value above 70% is associated with a reduction in mortality.1–4
+
+Timeline
+Day 1	23:00	Emergency room	Emergency room: admission of the somnolent patient of unclear aetiology. Intubation and insertion of an arterial catheter and a central venous line	
+Day 2	04:00	Intensive care unit	Entry intensive care unit	
+	13:00	Sepsis	State deterioration to a septic shock	
+14:15	VenBG	Measurement of SvO2 from blood of the central venous line (SvO2 100%; pO2 198 mmHg)	
+14:30	Control	Control: confirmation of the result from 14:15 (SvO2 100%; pO2 200 mmHg)	
+14:35	ArtBG	Repeated measurements of arterial blood gas values (SaO2 98%; pO2 90–111 mmHg)	
+14:50	X-ray	Chest X-ray: central venous catheter tip appeared on the left side of the heart (Figure 1)	
+15:15	Echo	Echocardiography: aortic positioning of the central venous line was not evident	
+16:00	Electrocardiogram (ECG)	On the monitor, a ‘venous pressure-like’ curve was seen, that did not stand in exact correlation to the ECG curve	
+16:30	Computed tomography	Computed tomography image showed placement of the catheter in the upper left pulmonary vein	
+Case presentation
+We describe a 22-year-old patient with no significant past medical history, who was hospitalized with septic shock from aspiration pneumonia. A central venous line was inserted into the left jugular vein and the blood saturation was determined. The saturation was 100%, pO2 198 mmHg (normal 30–40 mmHg) and pCO2 46 mmHg (normal 40–50 mmHg), respectively. The arterial blood gas analysis showed a saturation of 98%, a pO2 of 111 mmHg (normal 75–100 mmHg) and a pCO2 of 48 mmHg (normal 35–45 mmHg).
+
+A chest X-ray revealed the central venous catheter tip to be on the left side of the heart, next to the aortic arch (Figure 1).
+
+
+Figure 1 Anterior-posterior chest radiograph showing central venous catheter on the left side of the heart.
+
+The cervical ultrasound showed that the catheter was inserted correctly in the left jugular vein. In echocardiography, the catheter tip did not appear to be positioned in the aorta. The vena cava superior could not be seen. Monitoring demonstrated a venous-like pattern with a mean pressure of 16 mmHg (Figure 2). However, the shape of the curve seemed to be ‘atypical’ for a central venous pressure curve, as the C-wave of the central venous pressure curve represents tricuspid closure. Normally C-waves occur after the R-wave of the electrocardiogram (Figure 3). In our patient, the C-waves appeared before R-waves (arrow, Figure 2). Thus, it became clear that the catheter was placed neither in a central vein nor in the left outflow tract. The catheter had to be in an oxygenated vessel proximal to the left ventricle. Computed tomography (CT) scanning demonstrated that the central venous catheter was inserted from the left jugular vein into the upper left pulmonary vein. The diagnosis of a partial anomalous pulmonary venous return (PAPVR) was made (Figures 4 and 5). The patient was able to leave the hospital after a few weeks. He was examined in detail cardiologically. The treatment was conservative. He will have a 1-year follow-up.
+
+
+Figure 2 Electrocardiogram and venous pressure curve with partial anomalous pulmonary venous return [C-wave appears before R-wave (arrow)].
+
+Figure 3 Normal electrocardiogram and venous pressure curve [C-wave appears after R-wave (arrow)].
+
+Figure 4 Computed tomography image partial anomalous pulmonary venous return with central venous catheter in upper left pulmonary vein.
+
+Figure 5 Three-dimensional computed tomography image partial anomalous pulmonary venous return of left upper pulmonary vein.
+
+Discussion
+Anomalous pulmonary venous return is a rare congenital malformation in which pulmonary veins fail to join the left atrium. Instead, they are connected to a systemic vein or to the right atrium directly.5–7 This condition may be a total anomalous pulmonary venous return concerning both lungs or a partial malformation (PAPVR), concerning only one lung or parts of one lung.5–8 Partial anomalous pulmonary venous return is a condition that is rarely seen in patients. It has a prevalence of 0.4–0.7%9 and is more common on the right side with 10%.10 On the left side, PAPVR has a prevalence of 0.05%.11 Total anomalous pulmonary venous return is found in approximately 0.08/1000 live births,12 which corresponds to a relative proportion of 0.4–0.9% of all congenital heart defects.5
+
+Partial anomalous pulmonary venous return is often associated with other cardiac anomalies, like persistent left superior vena cava, the most common congenital malformation of thoracicus return and present in 0.3–0.5% of individuals in the general population.13 Partial anomalous pulmonary venous return can also come along with a persistent foramen ovale or an atrial septal defect5,10 or can be an isolated finding, like in our case.
+
+Most patients with PAPVR are asymptomatic and tend to go unnoticed until adulthood.14 If identified and asymptomatic, isolated PAPVR are followed-up conservatively as there is substantial risk of stenosis after rerouting an anomalous pulmonary vein. If PAPVR shows symptoms rerouting must be considered. The morbidity is relatively low. Rerouting can be already done in childhood.8
+
+Mostly, the natural history dictates that, if significant left to right shunt exists, patients may develop irreversible pulmonary hypertension, pulmonary vascular obstructive disease, or right heart failure.10
+
+Our case is interesting, because the diagnosis PAPVR was made by central venous catheterization data and not primarily from imaging. After conspicuous blood gas analysis was performed, further examination revealed that the venous curve was not in usual correlation to the Electrocardiogram (ECG) curve (Figure 2). The diagnosis was made through CT scanning (Figures 4 and 5).
+
+
+Take home message: If venous blood gas analysis from a central venous catheter indicates abnormal high oxygen levels, but the shape of the venous pressure curve is similar to a venous curve, a comparison with an ECG curve should be made.
+
+Lead author biography
+KD Dr Ulrike Elisabeth Ehlers, eMBA, performed her undergraduate studies at the Georg-August-University Göttingen, Germany with internships in St. Lucia (West Indies), Hobart (Australia), and Davos (Switzerland). Doctor thesis and Clinical lecturer at the University of Zurich. Specialist in Internal Medicine FMH and Intensive Care Medicine FMH, European Diploma of Intensive Care Medicine, ‘Emergency doctor SGNOR’, Ultrasound specialist ‘POCUS SGUM’. Executive Master in Business Administration with focus on Medical Management. Education in ‘Advanced Studies in Applied Ethics’ at the University of Zurich.
+
+Supplementary material
+
+Supplementary material is available at European Heart Journal - Case Reports online.
+
+Supplementary Material
+ytz211_Supplementary_Slide_Set Click here for additional data file.
+
+ Acknowledgements
+We are indebted to the employees of the Intensive Care Unit Glarus for their active contribution to the management of the patient. We thank Dr Moritz Schürch for his professional support and Dr Bert Rost for assistance in completing the 3D reconstruction.
+
+
+Slide sets: A fully edited slide set detailing this case and suitable for local presentation is available online as Supplementary data.
+
+
+Consent: The author/s confirm that written consent for submission and publication of this case report including image(s) and associated text has been obtained from the patient in line with COPE guidance.
+
+
+Conflict of interest: none declared.

@@ -1,0 +1,72 @@
+event,time
+diagnosed with lepromatous leprosy ,-1344
+skin biopsy ,-1344
+treatment (rifampicin/clofazimine/dapsone) ,-1344
+admitted to the hospital ,0
+vitally stable ,0
+abdominal distension ,0
+constipation ,0
+vomiting ,0
+10-kg weight loss ,0
+peripheral lymphadenopathy ,0
+distended abdomen ,0
+positive shifting dullness ,0
+computed tomography scan ,0
+"mural thickening of the terminal ileum with significantly enlarged mesenteric lymph nodes, mesenteric fat stranding, and intra-abdominal free fluid, suggesting abdominal granulomatous infection or neoplastic process ",0
+abdominal paracentesis ,0
+atypically large lymphocytes ,0
+flow cytometry ,0
+abnormal CD4/CD8 double-negative T-cell population (38%) with multiple phenotypic aberrancies ,0
+cervical lymph node biopsy ,0
+"high-grade peripheral T-cell lymphoma (PTCL), not other specified ",0
+bone marrow examination ,0
+no involvement of T-cell NHL ,0
+stage IV lymphoma ,0
+started on dexamethasone ,24
+tumor-lysis syndrome precautions ,24
+deteriorated clinically ,48
+severe sepsis ,48
+required antibiotics ,48
+required antifungals ,48
+transferred to the medical intensive care unit (ICU) ,48
+stayed in ICU care for around 1 week ,48
+recovered ,216
+transferred to the national cancer center ,216
+"commenced on the EPOCH chemotherapy protocol (etoposide, prednisone, vincristine sulfate [oncovin], cyclophosphamide, and doxorubicin hydrochloride [hydroxydaunorubicin]) ",216
+CNS prophylaxis (intrathecal methotrexate) ,216
+multiple febrile neutropenia episodes ,336
+recurrent bacteremia ,336
+responded well to chemotherapy ,2016
+attained complete metabolic remission by positron emission tomography/computed tomography ,2016
+neurology team involvement ,2200
+developed generalized weakness ,2200
+no sensory changes ,2200
+no clear fatigability ,2200
+power was decreased in all proximal and distal muscles (3/5) ,2200
+critical illness myopathy-neuropathy ,2200
+toxic neuropathy ,2200
+paraneoplastic syndrome ,2200
+complete neurophysiological electromyogram/nerve conduction study ,2210
+normal distal latencies ,2210
+normal compound muscle action potential ,2210
+normal conduction velocities ,2210
+normal F waves ,2210
+normal onset latencies ,2210
+normal sensory nerve action potential amplitude ,2210
+needle electromyogram of proximal and distal muscles in the lower and upper limbs ,2210
+normal insertional activity ,2210
+no spontaneous activity ,2210
+normal motor unit action potential ,2210
+poor recruitment effects ,2210
+repetitive nerve stimulation (at 30–40 Hz) showed a significant incremental response ,2210
+likely Lambert-Eaton myasthenia syndrome (LEMS) ,2210
+VGCC antibodies were requested ,2210
+VGCC antibodies not done ,2210
+started empirically on intravenous immunoglobulins for 5 days ,2212
+significant improvement of his motor function ,2212
+patient could ambulate afterward ,2212
+planned for consolidation by autologous bone marrow transplant ,2500
+re-admitted to the medical ICU ,3000
+severe sepsis ,3000
+multiorgan failure ,3000
+passed away ,4320

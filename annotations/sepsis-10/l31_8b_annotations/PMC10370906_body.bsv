@@ -1,0 +1,126 @@
+18 years old | 0
+female | 0
+admitted to the hospital | 0
+impaired consciousness | 0
+atrial fibrillation | -672
+dilated cardiomyopathy | -672
+oral warfarin | -672
+biventricular pacing implantable cardioverter defibrillator | -672
+history of present illness | -672
+found lying at home | -672
+transported to hospital | -672
+Japan Coma Scale (JCS) score II-10 | -672
+Glasgow Coma Scale (GCS) score 14 | -672
+no clear neurological deficits | -672
+non-contrast head CT | -672
+hematoma in the third and fourth ventricles | -672
+bilateral lateral ventricles with left dominance | -672
+hematoma in the third and fourth ventricles | -672
+ventricular drainage not performed | -672
+blood pressure control initiated | -672
+brain 3D-CTA | -672
+arterial phase | -672
+source of bleeding unclear | -672
+venous phase | -672
+spot enhancement on the lateral wall of the anterior horn of the left lateral ventricle | -672
+admission | 0
+no progression of impaired consciousness | 0
+ventricular drainage not performed | 0
+blood pressure control initiated | 0
+cerebral angiograph | 72
+aneurysm at the distal site of the mLSA | 72
+ruptured aneurysm | 72
+embolization | 72
+N-butyl-2-cyanoacrylate (NBCA) | 72
+endovascular treatment | 72
+right femoral introducer | 72
+4Fr 80-cm ASAHI FUBUKI Dilator Kit | 72
+systemic heparinization | 72
+guiding sheath | 72
+petrous portion of the left internal carotid artery | 72
+4.2Fr ASAHI FUBUKI | 72
+Mirage guide wire | 72
+Marathon catheter | 72
+left A1 | 72
+contralateral approach | 72
+guiding sheath | 72
+petrous portion of the right internal carotid artery | 72
+Marathon catheter | 72
+AComA | 72
+DeFrictor nano catheter | 72
+TENROU S10 guide wire | 72
+mLSA cannulation | 72
+selective angiography | 72
+DeFrictor | 72
+NBCA-Lipiodol mixture | 72
+aneurysm embolization | 72
+postoperative head CT | 120
+no signs of hemorrhagic complications | 120
+no cerebral infarction | 120
+lipiodol remained | 120
+sepsis triggered by pneumonia | 120
+decrease in muscle strength | 120
+6-month rehabilitation | 120
+modified Rankin Scale (mRS) of 1 | 120
+intraventricular hemorrhage | -672
+intracerebral hemorrhage | -672
+subarachnoid hemorrhage | -672
+hypertension | -672
+arteriovenous malformation (AVM) | -672
+Moyamoya disease | -672
+cavernous malformation | -672
+coagulation abnormalities | -672
+intraventricular aneurysms | -672
+distal site of the perforating arteries | -672
+natural history | -672
+treatment principles | -672
+spot enhancement | -672
+intracerebral hematoma | -672
+extravasation of the contrast medium | -672
+risk factor for an enlargement of the hematoma | -672
+primary or secondary vascular injury | -672
+brain parenchyma or vascular structures | -672
+secondary injuries of the blood vessels | -672
+primary vascular injury | -672
+distal perforating artery aneurysm | -672
+true aneurysm | -672
+pseudoaneurysm | -672
+conservation | -672
+direct surgery | -672
+endovascular treatment | -672
+spontaneous regression | -672
+cerebral aneurysms | -672
+spontaneous thrombosis | -672
+aneurysm regression | -672
+re-rupture | -672
+pathological evaluation | -672
+distal mLSA aneurysms | -672
+idiopathic intraventricular aneurysms | -672
+prognosis of intraventricular aneurysms | -672
+re-rupture | -672
+early radical surgery | -672
+cerebral parenchyma | -672
+trans-cortical or trans-callosal approach | -672
+cortical injury | -672
+postoperative development of epilepsy | -672
+parent artery | -672
+sacrificing a part of the parenchyma | -672
+complete aneurysm occlusion | -672
+endovascular treatment for distal perforating artery aneurysms | -672
+embolization using coils | -672
+liquid embolic material | -672
+NBCA | -672
+flow directed catheter | -672
+cerebral infarction | -672
+perfusion area of a well-developed mLSA | -672
+apathy | -672
+changes in personality | -672
+MRI evaluation | -672
+clear cerebral infarction | -672
+postoperative CT | -672
+proximal perforating artery embolization | -672
+cerebral infarction in the perforating artery perfusion area | -672
+careful selection | -672
+embolization | -672
+direct surgery | -672
+safe and effective treatment option | -672

@@ -1,0 +1,97 @@
+event,time
+ 85 years old ,0
+     male ,0
+     farmer ,0
+     active lifestyle ,0
+     admitted to the hospital ,0
+     atrial fibrillation ,-720
+     benign prostatic hypertrophy ,-720
+     trismus ,-144
+     hypertonia ,-144
+     C. tetani infection ,-144
+     immunoglobulins ,-144
+     tetanus vaccination ,-144
+     metronidazole ,-144
+     transferred to ICU ,-120
+     tracheostomy ,-120
+     mechanical ventilation ,-120
+     vasoactive support ,-120
+     respiratory failure ,-120
+     seizures ,-120
+     baclofen ,-120
+     midazolam ,-120
+     diazepam ,-120
+     electroencephalography ,-120
+     slow cerebral activity ,-120
+     opacity on chest radiography ,-96
+     peripheral leukocytosis ,-96
+     ventilator-associated pneumonia ,-96
+     blood cultures ,-96
+     tracheal secretion samples ,-96
+     Klebsiella pneumoniae ,-96
+     methicillin-sensitive Staphylococcus aureus ,-96
+     piperacillin-tazobactam ,-96
+     transferred to geriatric unit ,-72
+     coma ,-72
+     spontaneous breathing ,-72
+     supplemental oxygen ,-72
+     linezolid ,-60
+     meropenem ,-60
+     septic shock ,-60
+     urinary tract infection ,-48
+     multidrug-resistant organisms ,-48
+     colistin ,-48
+     amoxicillin-clavulanate ,-48
+     clinical condition improved ,-24
+     transferred to rehabilitation unit ,0
+     MDRO isolation ,0
+     tracheal supplemental oxygen ,0
+     bladder catheter ,0
+     pressure ulcers ,0
+     sarcopenic ,0
+     low handgrip strength ,0
+     appendicular skeletal mass ,0
+     rehabilitation ,0
+     Clostridioides difficile infection ,24
+     oral vancomycin ,24
+     atrial fibrillation ,72
+     third-degree atrioventricular block ,72
+     single-chamber pacemaker implantation ,72
+     hyperkinetic delirium ,96
+     Pseudomonas aeruginosa bloodstream infection ,120
+     ceftazidime-avibactam ,120
+     amikacin ,120
+     SARS-CoV-2 ,120
+     remdesivir ,120
+     droplet isolation ,120
+     second recurrence of C. difficile ,168
+     fidaxomicin ,168
+     bloodstream infection ,192
+     Candida parapsilosis ,192
+     fluconazole-resistant ,192
+     MSSA ,192
+     Candida tropicalis ,192
+     caspofungin ,192
+     cefazolin ,192
+     piperacillin-tazobactam ,216
+     aztreonam ,216
+     ceftazidime-avibactam ,216
+     cefepime ,240
+     tracheostomy closure ,360
+     nutritional supplementation ,360
+     motor reconditioning ,360
+     respiratory reconditioning ,360
+     postural transition training ,360
+     aided transfers ,360
+     axial stability ,360
+     balance improvement exercises ,360
+     breath-movement coordination exercises ,360
+     thoracic expansion ,360
+     girdle opening exercises ,360
+     inhalation-exhalation exercises ,360
+     wheelchairs ,360
+     walkers ,360
+     rehabilitation follow-up ,360
+     ENT follow-up ,360
+     geriatric follow-up ,360
+     discharged ,720

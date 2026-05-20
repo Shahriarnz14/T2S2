@@ -1,0 +1,79 @@
+event,time
+22 years old,0
+male,0
+hospitalized,0
+fatigue,-336
+chest tightness,-336
+shortness of breath,-336
+cold,"approximately -360 (3 days before admission, which is 72 hours prior, but admission is 0, so -72; however, the initial symptoms started half a month earlier, so need to adjust based on context)"
+inability to walk,approximately -360
+gradual aggravation of shortness of breath,approximately -360
+muscle weakness (2016 and 2018),"-17520 (2016 hospitalization, assuming 5 years prior: 5*365*24=43800, but text mentions 2016 and 2018; 2021-2018=3 years: 3*365*24=26280 hours as approximate timestamp)"
+chest tightness (past),-26280
+shortness of breath (past),-26280
+electromyography (past),-26280
+decreased amplitude of evoked potentials,-26280
+myogenic changes in right deltoid muscle,-26280
+methylprednisolone administration (past),-26280
+mother's muscle weakness,"0 (family history, no specific time)"
+uncle's muscle weakness,0
+mother's tachycardia,0
+distant male relative pseudohypertrophic muscular dystrophy,0
+male relative hereditary muscular dystrophy,0
+progressive shortness of breath,0
+respiratory rate 32/min,0
+SpO2 96%,0
+sinus tachycardia (115/min),0
+pCO2 65 mmHg,0
+blood pressure 16.7/9.04 kPa,0
+body temperature 36.8 °C,0
+reduced muscle strength grade 4,0
+no aphasia,0
+abnormal breath sounds,0
+lactate 25 mmol/L,0
+creatinine phosphokinase-MB 385 U/L,0
+NT-proBNP 1622 pg/mL,0
+WBC 1.88×10^10/L,0
+neutrophils 84.4%,0
+procalcitonin 5.6 ng/mL,0
+IL-6 32 pg/mL,0
+cardiac ultrasound abnormalities,0
+chest X-ray abnormalities,0
+mitochondrial myopathy diagnosis,0
+mitochondrial crisis diagnosis,0
+IV methylprednisone,0
+IV immunoglobulin,0
+high-dose B vitamins,0
+coenzyme Q10,0
+L-carnitine,0
+adenosine triphosphate,0
+fat emulsion,0
+amino acids,0
+hormones,0
+traditional Chinese medicine,0
+mechanical ventilation,0
+veno-arterial ECMO,0
+CRRT,0
+antibiotics,0
+nutrition support,0
+diaphragmatic pacing,"approximately 720 (assuming during rehabilitation phase, days 30-60: 30 days = 720 hours)"
+rehabilitation training,720
+muscle strength training,720
+able to walk with assistance,approximately 2880 (4 months = 4*30*24=2880 hours)
+walk independently,4320 (6 months = 6*30*24=4320 hours)
+sepsis,0
+hyperlactic acidemia,0
+respiratory failure,0
+multiple organ failure,0
+limb muscle weakness,0
+lactate levels decreasing (days 1-7),"24 to 168 (each day's timestamp as 24, 48, ..., 168)"
+norepinephrine dose decreasing,24 to 168
+epinephrine dose decreasing,24 to 168
+ECMO withdrawal,168 (day 7)
+cervical muscle paralysis,0 to 168 (resolved by day 7)
+respiratory muscle paralysis,0 to 720 (resolved by day 30)
+proximal muscle strength improvement,0 to 4320
+distal muscle strength improvement,0 to 4320
+myalgia,0 to 1440 (resolved by day 60)
+amyotrophy,0 to 4320
+discharged after more than 2 months,1440 (2 months = 60 days = 1440 hours)

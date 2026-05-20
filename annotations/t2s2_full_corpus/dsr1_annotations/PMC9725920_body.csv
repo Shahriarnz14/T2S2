@@ -1,0 +1,82 @@
+event,time
+46 years old,0
+female,0
+admitted to emergency ward,0
+severe trauma,0
+collapse of brick kiln,0
+no history of chronic or infectious diseases,0
+vital signs stable,0
+conscious,0
+limited activity,0
+whole body burns with blisters,0
+right eyelid turned and exploited,0
+left forehead skin exuded with blood,0
+labium exuded with blood,0
+back side of left hand injured with bone and tendon exposure,0
+iliac region swollen with skin bruises,0
+pelvic extrusion positive,0
+pelvic separation tests positive,0
+chest CT mild dilation in right middle lobe,0
+chest CT mild dilation in right lower lobe,0
+chest CT mild dilation in left lower lobe,0
+WBC count 8.13×109/L,0
+HGB 130g/L,0
+PLT count 174×109/L,0
+"multiple fractures (right sacral promontory, bilateral superior pubic ramus, right inferior pubic ramus, right 1–5th rib)",0
+"multiple lacerations (scalp, right canthus, right eyelid)",0
+acute traumatic craniocerebral injury,0
+"superficial skin contusion (right zygomatic, left frontal)",0
+"multiple burns (II°, 18% TBSA)",0
+debridement,0
+analgesics,0
+"anti-infection (levofloxacin 0.4 QD + cefazolin 1.0 Q12H, I.V.)",0
+hemostasis,0
+tetanus prevention,0
+wound exposure,0
+rehydration,0
+blood pressure dropped to 85/50mmHg,24
+HGB 104g/L,24
+hemorrhagic shock suspected,24
+transferred to ICU,24
+enhanced dilatation,24
+rehydration treatment,24
+"anti-infection (ceftazidime 1.0 Q8H + levofloxacin 0.4 QD, I.V.)",24
+nutritional support,24
+single room isolation,24
+appropriate braking,24
+wound disinfection,24
+external application of burn cream,24
+exposure treatments,24
+intermittent moderate fever (38.2°C),24
+no respiratory infection symptoms,24
+no urinary tract infection symptoms,24
+exudation from back and upper right leg wounds,24
+blood cultures collected (aerobic and anaerobic),168
+WBC count 3.75×109/L,168
+CRP 145 mg/L,168
+PCT 0.81 ng/mL,168
+blood culture positive for Pandoraea species,264
+"in vitro susceptibility testing (sensitive to sulfamethoxazole, imipenem, ampicillin/sulbactam)",264
+body temperature rose to 38.9°C,288
+second blood culture collected,288
+WBC count 4.21×109/L,288
+CRP 93.7 mg/L,288
+PCT 0.74 ng/mL,288
+repeat CT scan no new pulmonary shadows,288
+soft tissue edema in right abdominal wall,288
+subcutaneous swelling in right iliac region,288
+anti-infection changed to imipenem 1.0 Q8H + tigecycline 50 mg Q12H,312
+second blood culture positive for Pandoraea species,408
+sensitive to minocycline,408
+wound secretion culture collected,432
+"high-throughput gene detection (Staphylococcus epidermidis, Candida parapsilosis DNA)",432
+wound secretion culture positive for Pandoraea species,576
+16S rRNA gene sequencing confirmed Pandoraea sputorum,576
+MALDI-TOF MS confirmed Pandoraea sputorum,576
+blood cultures negative (days 17 and 23),408
+body temperature normal,336
+CRP 6.0 mg/L,336
+PCT 0.11 ng/mL,336
+scanty wound exudation,336
+transferred to Burn and Plastic Surgery,336
+discharged,1440

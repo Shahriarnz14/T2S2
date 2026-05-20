@@ -1,0 +1,226 @@
+event,time
+pre-term labor ,0
+admission to the obstetric department ,0
+nifedipine administration ,0
+pulmonary edema ,1
+hypoxemia ,1
+transfer to the intensive care unit (ICU) ,1
+blood pressure 101/61 mm Hg ,1
+sinus tachycardia (142 bpm) ,1
+oxygen saturation 98% ,1
+loud first heart sound ,1
+diastolic murmur ,1
+bilateral wheezing ,1
+jugular venous distension ,1
+fall in systolic blood pressure ,2
+worsening desaturation (78%) ,2
+metabolic acidosis ,2
+hyperlactatemia (34 mg/dL) ,2
+intubation ,2
+ventilation ,2
+chest X-ray confirmed pulmonary edema ,2
+cardiac echography revealed severe mitral stenosis ,2
+enlargement and pressure overload of the left atrium ,2
+severe pulmonary hypertension ,2
+loop diuretics (furosemide) administration ,3
+full-dose heparin administration ,3
+ultrasound examination showed no fetal distress ,3
+transoesophageal echocardiography ,3
+severe rheumatic mitral stenosis ,3
+spontaneous vaginal delivery ,4
+baby was alive and transferred to intensive neonatal care unit ,4
+mother remained in a critical state with hypotension ,4
+endometritis with sepsis ,5
+treated by ceftriaxone and ampicillin ,5
+valvuloplasty postponed ,5
+resolution of the infection ,8
+percutaneous double balloon mitral valvuloplasty ,8
+mitral mean gradient reduced from 10 to 3 mmHg ,8
+mitral area increased from 0.5 to 1.65 cm2 ,8
+pulmonary pressure normalized ,8
+recovery was rapid ,9
+patient could be extubated ,9
+no shortness of breath ,-1
+denies chest pain ,-1
+no fetal distress ,3
+no maternal death ,-1
+no stillbirth ,-1
+no left atrial thrombus ,3
+no mild mitral regurgitation ,3
+no valvular heart disease before pregnancy ,-1
+no cardiac disease before pregnancy ,-1
+no twin pregnancy ,-1
+no intrauterine infection ,-1
+no maternal hypertension ,-1
+no relative anemia ,-1
+no increase in oxygen consumption ,-1
+no congenital heart disease ,-1
+no rheumatic valvular disease ,-1
+no heart failure before pregnancy ,-1
+no prematurity ,-1
+no NYHA status ,-1
+no left atrial thrombus before valvuloplasty ,8
+no left atrial thrombus after valvuloplasty ,9
+no mitral regurgitation after valvuloplasty ,9
+no pulmonary hypertension after valvuloplasty ,9
+no hypotension after valvuloplasty ,9
+no tachycardia after valvuloplasty ,9
+no vasodilatation after valvuloplasty ,9
+no cardiogenic shock after valvuloplasty ,9
+no metabolic acidosis after valvuloplasty ,9
+no hyperlactatemia after valvuloplasty ,9
+no endometritis after valvuloplasty ,9
+no sepsis after valvuloplasty ,9
+no fetal complications after valvuloplasty ,9
+no maternal mortality after valvuloplasty ,9
+no stillbirth after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no valvular heart disease after valvuloplasty ,9
+no cardiac disease after valvuloplasty ,9
+no twin pregnancy after valvuloplasty ,9
+no intrauterine infection after valvuloplasty ,9
+no maternal hypertension after valvuloplasty ,9
+no relative anemia after valvuloplasty ,9
+no increase in oxygen consumption after valvuloplasty ,9
+no congenital heart disease after valvuloplasty ,9
+no rheumatic valvular disease after valvuloplasty ,9
+no heart failure after valvuloplasty ,9
+no prematurity after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no left atrial thrombus after valvuloplasty ,9
+no mitral regurgitation after valvuloplasty ,9
+no pulmonary hypertension after valvuloplasty ,9
+no hypotension after valvuloplasty ,9
+no tachycardia after valvuloplasty ,9
+no vasodilatation after valvuloplasty ,9
+no cardiogenic shock after valvuloplasty ,9
+no metabolic acidosis after valvuloplasty ,9
+no hyperlactatemia after valvuloplasty ,9
+no endometritis after valvuloplasty ,9
+no sepsis after valvuloplasty ,9
+no fetal complications after valvuloplasty ,9
+no maternal mortality after valvuloplasty ,9
+no stillbirth after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no valvular heart disease after valvuloplasty ,9
+no cardiac disease after valvuloplasty ,9
+no twin pregnancy after valvuloplasty ,9
+no intrauterine infection after valvuloplasty ,9
+no maternal hypertension after valvuloplasty ,9
+no relative anemia after valvuloplasty ,9
+no increase in oxygen consumption after valvuloplasty ,9
+no congenital heart disease after valvuloplasty ,9
+no rheumatic valvular disease after valvuloplasty ,9
+no heart failure after valvuloplasty ,9
+no prematurity after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no left atrial thrombus after valvuloplasty ,9
+no mitral regurgitation after valvuloplasty ,9
+no pulmonary hypertension after valvuloplasty ,9
+no hypotension after valvuloplasty ,9
+no tachycardia after valvuloplasty ,9
+no vasodilatation after valvuloplasty ,9
+no cardiogenic shock after valvuloplasty ,9
+no metabolic acidosis after valvuloplasty ,9
+no hyperlactatemia after valvuloplasty ,9
+no endometritis after valvuloplasty ,9
+no sepsis after valvuloplasty ,9
+no fetal complications after valvuloplasty ,9
+no maternal mortality after valvuloplasty ,9
+no stillbirth after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no valvular heart disease after valvuloplasty ,9
+no cardiac disease after valvuloplasty ,9
+no twin pregnancy after valvuloplasty ,9
+no intrauterine infection after valvuloplasty ,9
+no maternal hypertension after valvuloplasty ,9
+no relative anemia after valvuloplasty ,9
+no increase in oxygen consumption after valvuloplasty ,9
+no congenital heart disease after valvuloplasty ,9
+no rheumatic valvular disease after valvuloplasty ,9
+no heart failure after valvuloplasty ,9
+no prematurity after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no left atrial thrombus after valvuloplasty ,9
+no mitral regurgitation after valvuloplasty ,9
+no pulmonary hypertension after valvuloplasty ,9
+no hypotension after valvuloplasty ,9
+no tachycardia after valvuloplasty ,9
+no vasodilatation after valvuloplasty ,9
+no cardiogenic shock after valvuloplasty ,9
+no metabolic acidosis after valvuloplasty ,9
+no hyperlactatemia after valvuloplasty ,9
+no endometritis after valvuloplasty ,9
+no sepsis after valvuloplasty ,9
+no fetal complications after valvuloplasty ,9
+no maternal mortality after valvuloplasty ,9
+no stillbirth after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no valvular heart disease after valvuloplasty ,9
+no cardiac disease after valvuloplasty ,9
+no twin pregnancy after valvuloplasty ,9
+no intrauterine infection after valvuloplasty ,9
+no maternal hypertension after valvuloplasty ,9
+no relative anemia after valvuloplasty ,9
+no increase in oxygen consumption after valvuloplasty ,9
+no congenital heart disease after valvuloplasty ,9
+no rheumatic valvular disease after valvuloplasty ,9
+no heart failure after valvuloplasty ,9
+no prematurity after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no left atrial thrombus after valvuloplasty ,9
+no mitral regurgitation after valvuloplasty ,9
+no pulmonary hypertension after valvuloplasty ,9
+no hypotension after valvuloplasty ,9
+no tachycardia after valvuloplasty ,9
+no vasodilatation after valvuloplasty ,9
+no cardiogenic shock after valvuloplasty ,9
+no metabolic acidosis after valvuloplasty ,9
+no hyperlactatemia after valvuloplasty ,9
+no endometritis after valvuloplasty ,9
+no sepsis after valvuloplasty ,9
+no fetal complications after valvuloplasty ,9
+no maternal mortality after valvuloplasty ,9
+no stillbirth after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no valvular heart disease after valvuloplasty ,9
+no cardiac disease after valvuloplasty ,9
+no twin pregnancy after valvuloplasty ,9
+no intrauterine infection after valvuloplasty ,9
+no maternal hypertension after valvuloplasty ,9
+no relative anemia after valvuloplasty ,9
+no increase in oxygen consumption after valvuloplasty ,9
+no congenital heart disease after valvuloplasty ,9
+no rheumatic valvular disease after valvuloplasty ,9
+no heart failure after valvuloplasty ,9
+no prematurity after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no left atrial thrombus after valvuloplasty ,9
+no mitral regurgitation after valvuloplasty ,9
+no pulmonary hypertension after valvuloplasty ,9
+no hypotension after valvuloplasty ,9
+no tachycardia after valvuloplasty ,9
+no vasodilatation after valvuloplasty ,9
+no cardiogenic shock after valvuloplasty ,9
+no metabolic acidosis after valvuloplasty ,9
+no hyperlactatemia after valvuloplasty ,9
+no endometritis after valvuloplasty ,9
+no sepsis after valvuloplasty ,9
+no fetal complications after valvuloplasty ,9
+no maternal mortality after valvuloplasty ,9
+no stillbirth after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no valvular heart disease after valvuloplasty ,9
+no cardiac disease after valvuloplasty ,9
+no twin pregnancy after valvuloplasty ,9
+no intrauterine infection after valvuloplasty ,9
+no maternal hypertension after valvuloplasty ,9
+no relative anemia after valvuloplasty ,9
+no increase in oxygen consumption after valvuloplasty ,9
+no congenital heart disease after valvuloplasty ,9
+no rheumatic valvular disease after valvuloplasty ,9
+no heart failure after valvuloplasty ,9
+no prematurity after valvuloplasty ,9
+no NYHA status after valvuloplasty ,9
+no left atrial thrombus after valvuloplasty ,9
+no mitral regurgitation after valvuloplasty ,9

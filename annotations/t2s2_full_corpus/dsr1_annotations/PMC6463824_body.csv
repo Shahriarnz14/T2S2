@@ -1,0 +1,76 @@
+event,time
+70 years old,0
+male,0
+obstructive sleep apnea,0
+type 2 diabetes,0
+hypertension,0
+bladder surface tumor,0
+BCG instillation,0
+traumatic catheter placement,-4
+hemorrhagic catheter placement,-4
+deteriorated,-4
+admitted to emergency department,-4
+flu-like syndrome,-4
+fever,-4
+chills,-4
+oliguric acute kidney injury,-4
+liver failure,-4
+thrombocytopenia,-4
+biologic signs of sepsis,-4
+transferred to ICU,-4
+amoxicillin-clavulanic acid initiated,-4
+inflammatory syndrome,0
+C-reactive protein 70-90 mg/L,0
+hepatic cytolysis,0
+cholestasis,0
+negative sediment cultures,0
+negative urinary cultures,0
+blood cultures for mycobacteria,0
+nightly fever peaks,0
+empirical anti-tuberculous treatment initiated,0
+isoniazid,0
+rifampicin,0
+vitamin B6,0
+chest X-ray interstitial syndrome,0
+night fever peaks 38-39°C,0
+persistent night fever peaks,0
+searched for sepsis source,0
+prostatic encapsulated abscess suspected,0
+antibiotic switched to ceftazidime,0
+negative aerobic blood cultures,0
+negative anaerobic blood cultures,0
+PET-scan no infection site,0
+pelvic MRI excluded prostatic abscess,0
+no improvement after two weeks,336
+CRP 70 mg/L,336
+increasing liver enzymes,336
+stopped antimicrobial treatment,336
+repeat cultures,336
+cough,336
+grade II dyspnea,336
+bilateral pneumonia,336
+pleural effusion,336
+lung tomodensitometry,336
+bronchoscopy,336
+bronchoalveolar lavage,336
+Ziel coloration,336
+auramine coloration,336
+trans-bronchial biopsies,336
+negative mycobacterial research,340
+inflammatory trails,340
+granulocytes present,340
+systemic BCGitis suspected,340
+anti-tuberculous treatment restarted,340
+isoniazid,340
+moxifloxacin,340
+corticosteroids initiated,340
+clinical improvement,388
+biological improvement,388
+no fever,388
+no chills,388
+normalized inflammatory markers,388
+normalized hepatic markers,388
+regression of lung infiltrates,388
+positive blood cultures,1008
+moved to rehabilitation ward,1008
+returned home,1008

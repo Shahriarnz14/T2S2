@@ -1,0 +1,67 @@
+pmc1 Introduction and relevance
+
+We present a case of vasodilatory shock secondary to metformin overdose requiring venoarterial extracorporeal membrane oxygenation (VA ECMO) support with complete symptom resolution. This case is one of only a few reported cases of metformin overdose requiring ECMO support, and we report the highest serum metformin levels in the literature to date.
+
+2 Case
+
+Written consent for the publication of this case report was obtained.
+
+A 36-year-old male presented to the emergency department (ED) with hypotension and altered mental status. Emergency medical services (EMS) reported an ingestion of an unknown quantity of medication, possibly metformin. The patient’s initial systolic blood pressure was 70 mmHg and his heart rate was 90 beats per minute. He was hypothermic to 32 °C. He was lethargic, with an initial Glasgow coma scale of 10. His skin was dry, and his pupils were mid-size, equal and reactive. There were no focal neurologic findings, hypertonicity, or clonus. At the time of his initial presentation, the exact timing of ingestion, substances ingested, and amounts of substances ingested were unclear. An empty pill bottle was found with the patient, which had a partially legible label stating the previous contents were expired metformin. The patient was unable to provide any history regarding the ingestion. We were unable to reach family or friends to gather more information regarding the ingestion. Volume resuscitation was initiated to support the patient’s blood pressure while labs and more data were obtained.
+
+Initial labs were pertinent for a lactic acidosis of 6.5 mmol/L and hyperkalemia of 6.0 mmol/L. Transaminase, troponin, and creatine kinase serum levels were normal. Serum acetaminophen and salicylate levels were undetectable. The patient’s initial pre-hospital blood glucose was normal at 167 mg/dl. While in the ED, he developed delayed hypoglycemia with a blood glucose of 27 mg/dl. The hypoglycemia was treated with dextrose and octreotide. An acute dialysis catheter was placed. and hemodialysis was initiated emergently. Due to concern for severe metformin toxicity, dialysis was started 3.5 h after ED arrival. Despite this, the patient developed progressively worsening hypotension requiring a norepinephrine drip, as well as worsening mental status and lactic acidosis to 18 mmol/L.
+
+The patient was admitted to the medical intensive care unit, where he was intubated for worsening altered mental status and shock. He rapidly developed profound vasoplegia refractory to high doses of norepinephrine, vasopressin, epinephrine and phenylephrine. Echocardiography revealed normal left ventricular and right ventricular function. The patient received multiple bicarbonate pushes, as well as a bicarbonate drip. He was also treated with hydroxocobalamin 5 gm intravenously, due to a concern for possible cyanide toxicity, though cyanide levels were later normal and this medication did not have any clinical effect. He received methylene blue 2 mg/kg which transiently improved his blood pressure. Continuous renal replacement therapy (CRRT) was attempted, but the patient was unable to tolerate CRRT hemodynamically, despite significant vasopressor support and methylene blue. At that point, the intensive care team and medical toxicologist decided that VA ECMO support would provide the best opportunity for the patient to recover. Prior to cannulation, the patient’s pH on an arterial blood gas was 7.05 with a PaCO2 of 19 mmHg and a lactate of 33.8 mmol/L.
+
+The patient was taken to the hybrid operating room, where he was peripherally cannulated for VA ECMO with a 25 F drainage cannula in the right femoral vein, and a 17 F return cannula in the left femoral artery. A 5 F distal perfusion cannula was placed with retrograde flow to the superficial femoral artery. Cannulation was performed using fluoroscopy without significant complications. The patient was initiated on VA ECMO support 19 h after ED arrival. The hemodynamic support from VA ECMO allowed initiation of CRRT. The patient’s shock resolved over the following 48 h, after which he was decannulated and was no longer requiring vasopressors (see Fig. 1). His lactic acid steadily improved to normal range over 96 h. The patient’s mental status improved, and he was extubated. He endorsed attempting to take his own life by ingesting metformin and trazodone. The patient was evaluated by psychiatry as an inpatient and was no longer suicidal. He was successfully discharged home 20 days after admission.Fig. 1 Vasopressor requirements and lactate concentration over time.
+
+Fig. 1
+
+3 Laboratory analysis and results
+
+Four serum samples at different time points and one urine sample on the admission day were analyzed using high resolution liquid chromatography mass spectrometry to identify over 5000 xenobiotics including all known diabetic hypoglycemic drugs. Metformin and trazodone were the only drugs identified. In addition, we specifically quantitated metformin, trazodone and its metabolite mCPP. Metformin concentration quantitation was performed on a QTRAP 4500 LC–MS/MS system (SCIEX, Redwood City, CA). Chromatography separation was done on a Phenomenex Kinetex C18- column (50 × 3.00 mm ID, 2.6 μm) with a Shimadzu Prominence LC-20ADXR system followed by electrospray ionization in positive mode. Metformin was detected using two multiple reaction monitoring transitions (130.0 -> 60.0 and 71.1) and calculated ion ratio. Metformin-d6 was used as an internal standard. Serum samples were prepared by protein precipitation with acetonitrile in conjunction with Hybrid SPE phospholipid removal plates, and urine samples were diluted at a 1:5 dilution. All the samples were diluted 1:20 or 1:400 before injection. The method is linear from 2 to 2000 u g/mL (r2 > 0.9999) in serum and 2–10000 u g/mL (r2 > 0.9998) in urine. The concentrations of trazodone and mCPP were quantitated using a LC-HRMS method on a TripleTOF 5600 (SCIEX, Redwood City, CA) [1]. In addition, we also checked for sulfonylureas since they are a common cause of hypoglycemia. We didn’t detect sulfonylureas in the serum and urine samples with an LC–MS/MS method on QTRAP 4500 previously reported to detect the eight most common sulfonylureas, including the first generation (tolbutamide, chlorpropamide, tolazamide, acetohexamide) and the second generation (glipizide, glyburide, glimepiride, and gliclazide) drugs [2].
+
+The patient’s initial serum metformin level was 678 μg/mL (Table 1, Fig. 2). His initial serum trazodone level was 2.1 μg/mL (Table 1). The trazodone metabolite mCCP was found in the patient’s urine, but not in his serum.Table 1 Serum and urine laboratory analysis.
+
+Table 1Specimen
+(Hours after presentation)	Metformin (μg/mL)	Trazodone (μg/mL)	
+Serum (00:07)	678	2.1	
+Serum (05:40)	309	2.4	
+Serum (10:21)	255	1.1	
+Serum (11:41)	219	0.8	
+Urine	2224	3.6	
+
+Fig. 2 Metformin concentration over time.
+
+Fig. 2
+
+4 Discussion
+
+Metformin is a biguanide antidiabetic medication well known to cause hyperlactatemia and metabolic acidosis in the setting of poor renal function or overdose [3]. Lactate levels associated with metformin toxicity previously described in the literature range from 10 to 40 mmol/L [[4], [5], [6], [7], [8], [9]]. Our patient’s peak lactate was 33.8 mmol/L. Severe lactic acidosis occurs primarily due to inhibition of complex I in the electron transport chain, impairing oxidative phosphorylation and thus the ability to recycle H + from ATP hydrolysis [10].
+
+Metformin can cause both severe hyperglycemia [9] and hypoglycemia in massive overdose [11]. In this case, profound hypoglycemia was observed. Severe metformin toxicity may require aggressive treatment with glucose, alkalinization, and extracorporeal methods for elimination; intermittent hemodialysis or continuous renal replacement therapy. Emergent hemodialysis has been recommended for patients with lactic acid > 20 mmol/L, pH less than or equal to 7.0, shock not responding to other therapies, and altered mental status [12].
+
+The patient’s presenting serum metformin level of 678 μg/mL is the highest recorded serum metformin level reported in the literature to date. The previous highest level in both survivors and decedents was reported as 350 μg/mL [13]. Previous metformin concentrations in fatal overdoses are reported at a range of 42−188 μg/mL [14,15]. Metformin concentrations in survivors are reported between 0.3−350 μg/mL [13,15]. One case series examining the correlation between metformin concentration and clinical outcome, found that markedly elevated concentrations do not reliably prognosticate death. There is no specific lethal dose of metformin and the variability seen in reported cases suggests that other patient factors may play a more significant role in mortality [16]. This patient was young and in good health prior to this event which may have played a role in his good outcome. In addition, aggressive extracoporeal elimination techniques were performed which contributed to his positive outcome.
+
+Metformin is known to act on the vascular endothelium. A proposed mechanism for the refractory vasodilatation seen with metformin toxicity is an increase in nitric oxide synthase activity and increased nitric oxide bioreactivity [17]. In this case, methylene blue was given to help reverse the patient’s vasodilatory shock with transient improvement. Methylene blue as a rescue therapy in the setting of metformin toxicity has been previously described in the literature, though infrequently, and has been noted to improve hemodynamics [[18], [19], [20]]. As an inhibitor of nitric oxide synthase and a competitive inhibitor of nitric oxide, methylene blue reduces the responsiveness of the vasculature to cGMP-mediated vasodilators. Methylene blue has been used to help restore vascular tone in vasodilatory shock of various etiologies, including post-cardiac bypass vasoplegia [20,21].
+
+VA ECMO support for metformin toxicity has been rarely described in the literature [12,[22], [23], [24]]. Metformin levels are available for two of these prior cases, reported as 39 and 222 μg/mL. These patients required 9 and 7 days of VA ECMO support, respectively [23]. VA ECMO support for vasodilatory shock, as opposed to purely cardiogenic shock, has been described in other toxicities. One such example is dihydropyridine overdose [[25], [26], [27]]. A review of 104 cases of cardiovascular shock secondary to poisoning supported with VA ECMO, found that the majority had significant improvement in metabolic, hemodynamic and ventilatory parameters within 24 h [28]. VA ECMO can be considered at experienced centers for acutely poisoned patients with persistent shock after adequate volume resuscitation and appropriate doses of vasopressor and inotropic agents. Other methods of mechanical circulatory support such as intraaortic balloon pump or percutaneous left ventricular assist device (Impella) can be considered depending on availability and expertise of the treating center [29,30]. In this case, VA ECMO was used successfully and was associated with a good patient outcome. Overall, evidence for the use of VA ECMO for hemodynamic support in acutely poisoned patients is growing and is associated with relatively short ECMO runs and good outcomes. The most frequently encountered complications are bleeding and limb ischemia [31].
+
+Based on this case report and our review of the literature, we recommend first recognizing metformin toxicity early: in the unknown critically ill patient often the only clue is a lactic acidosis without obvious causes such as septic or hypovolemic shock. Then, we recommend treating metformin overdose patients aggressively with rapid hemodialysis, vasopressor support, and initiating VA ECMO if refractory to the aforementioned treatments.
+
+5 Conclusion
+
+In conclusion, we present a case of profound vasodilatory shock and lactic acidosis from metformin overdose which was refractory to medical therapy and successfully supported with VA ECMO.
+
+Funding
+
+This study was done without any financial support.
+
+Address for re-prints (will not order)
+
+UCSF Fresno Department of Emergency Medicine, 155 N Fresno St, Fresno, CA 93701, United States.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+☆ The work was performed at the University of San Francisco, Fresno.

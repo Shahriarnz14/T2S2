@@ -1,0 +1,27 @@
+diagnosed with lepromatous leprosy | -48
+started treatment with rifampicin/clofazimine/dapsone | -48
+admitted to hospital with abdominal distension, constipation, vomiting, and weight loss | 0
+evidence of peripheral lymphadenopathy | 0
+distended abdomen | 0
+positive shifting dullness | 0
+abdominal paracentesis showed atypically large lymphocytes | 0
+flow cytometry showed abnormal CD4/CD8 double-negative T-cell population | 0
+cervical lymph node biopsy confirmed high-grade peripheral T-cell lymphoma | 0
+bone marrow examination showed no involvement of T-cell NHL | 0
+started on dexamethasone | 0
+transferred to ICU for severe sepsis | 24
+required antibiotics and antifungals | 24
+recovered and transferred to national cancer center | 168
+started on EPOCH chemotherapy protocol | 168
+attained complete metabolic remission | 672
+developed generalized weakness | 672
+decreased power in proximal and distal muscles | 672
+normal distal latencies, normal compound muscle action potential, and normal conduction velocities | 672
+normal sensory nerve studies | 672
+needle electromyogram showed poor recruitment effects | 672
+repetitive nerve stimulation showed significant incremental response | 672
+started on intravenous immunoglobulins | 672
+significant improvement of motor function | 720
+planned for consolidation by autologous bone marrow transplant | 720
+re-admitted to ICU for severe sepsis and multiorgan failure | 1440
+passed away | 1440

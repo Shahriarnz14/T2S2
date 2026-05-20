@@ -1,0 +1,108 @@
+event,time
+16 years old,0
+female,0
+admitted to the hospital,0
+fever,-336
+generalized weakness,-336
+joint pain (elbows and back),-336
+no skin rash,-336
+no abdominal pain,-336
+no headaches,-336
+no visual disturbances,-336
+no changes in urinary or bowel habits,-336
+no weight change,-336
+no ill contacts,-336
+auricular perichondritis,0
+swollen and red ears (excluding earlobes),0
+"joint line tenderness (elbows, back, costochondral joints)",0
+no joint swelling,0
+no joint redness,0
+splenomegaly,0
+temperature 39°C,0
+pulse rate 102 BPM,0
+blood pressure 102/80 mmHg,0
+respiratory rate 18/min,0
+oxygen saturation 98%,0
+HGB 11.9 g/dL,0
+MCV 79.2 mm³,0
+"platelets 308,000/mm³",0
+"WBC 14,600/mm³",0
+CRP 369 mg/L,0
+ESR 110 mm/hr,0
+LDH 561 U/L,0
+broad spectrum antibiotics,0
+IV fluids,0
+paracetamol,0
+negative Brucella antibodies,0
+negative CMV,0
+negative EBV,0
+negative RF,0
+negative ANA,0
+negative hepatitis A antibodies,0
+bone marrow aspirate: increased monocytes,0
+no increased blasts,0
+normal lymphocytes and plasma cells,0
+negative Leishmania,0
+abdominal ultrasound: splenomegaly (15 cm),0
+normal liver,0
+CT: mesenteric lymph node enlargement,0
+echocardiography: apical hypokinesia,0
+moderate pulmonary hypertension (50 mmHg),0
+moderate tricuspid regurgitation,0
+pulmonic valve vegetation,0
+blood film: microcytic hypochromic RBCs,0
+Rouleaux formation,0
+leukocytosis with segmented neutrophils,0
+monoblasts present,0
+transfer to hematology/oncology facility,0
+fever persists,24
+tachycardia 110 bpm,24
+hypotension 90/58 mmHg,24
+"WBC 51,000/mm³",24
+HGB 7.5 g/dL,24
+CRP 240 mg/L,24
+ESR 145 mm/hr,24
+broad spectrum antibiotics repeated,24
+negative blood and urine cultures,24
+transfer to ICU,48
+ferritin 3200 ng/mL,48
+fibrinogen 1.43 mg/dL,48
+total bilirubin 2.7 mg/dL,48
+direct bilirubin 1.2 mg/dL,48
+LDH 583 U/L,48
+negative C-ANCA,48
+negative P-ANCA,48
+negative anti-dsDNA,48
+negative anti-Smith,48
+negative anti-scl-70,48
+palpable purpuric and bullous skin lesions,48
+skin biopsy: epidermal edema,48
+neutrophilic infiltration (dermis),48
+no vasculitis,48
+diagnosis of RP with HLH,48
+paracetamol continued,48
+IV fluids continued,48
+packed RBCs transfusion (2 units),48
+prednisolone 60 mg,48
+IVIG,48
+hydroxyurea started,48
+warfarin 5 mg/day,48
+furosemide 40 mg/day,48
+cyclosporine 100 mg twice daily,72
+prednisone 60 mg,72
+remission achieved,168
+relapse (4 weeks later),672
+bone marrow examination: AML diagnosis,672
+monoblasts and promonocytes (60%),672
+dysplastic granulocytes,672
+Pelger-Huet cells,672
+decreased erythrocytes,672
+decreased megakaryocytes,672
+M:E ratio 5:1,672
+AML M5b,672
+cytarabine 160 mg (12 doses),672
+allopurinol,672
+doxorubicin contraindicated,672
+Enterococcus faecium sepsis,1008
+multiorgan failure,1008
+death,1008

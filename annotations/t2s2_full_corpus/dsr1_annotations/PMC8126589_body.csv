@@ -1,0 +1,92 @@
+event,time
+72-year-old man,0\
+referred to emergency department,0\
+fever,-168\
+non-productive cough,-168\
+shortness of breath,-168\
+SARS-CoV-2 positive,-168\
+respiratory rate 55 breaths per minute,0\
+SpO2 74%,0\
+blood pressure 144/91 mmHg,0\
+heart rate 145 beats per minute,0\
+body temperature 36.8°C,0\
+increased white cell count (15 840 cells/μL),0\
+lymphocytes 8%,0\
+normal platelet count (192 000 platelets/μL),0\
+pH 7.42,0\
+pCO2 23 mmHg,0\
+pO2 43 mmHg,0\
+HCO3 15 mmol/L,0\
+base deficit -9 mmol/L,0\
+lactic acid 7.46 mmol/L,0\
+BUN 36 mg/dL,0\
+creatinine 1.4 mg/dL,0\
+ALT 169 U/L,0\
+AST 238 U/L,0\
+procalcitonin 51.36 ng/mL,0\
+hs-CRP 391 mg/L,0\
+D-dimer >50 000 ng/mL FEU,0\
+fibrinogen 439 mg/dL,0\
+CKMB 31.8 ng/mL,0\
+troponin I 0.61 ng/mL,0\
+sinus tachycardia,0\
+chest X-ray heterogenous consolidation,0\
+blood culture negative,0\
+HFNO therapy initiated,0\
+SpO2 improved to 92%,0\
+respiratory rate improved to 26 breaths per minute,0\
+blood pressure improved to 130/80 mmHg,0\
+heart rate improved to 120 beats per minute,0\
+central venous catheter placement,0\
+arterial catheter placement,0\
+aspirin,0\
+clopidogrel,0\
+therapeutic UFH infusion,0\
+aPTT monitored every 6 hours,0\
+transferred to ICU,0\
+meropenem,0\
+levofloxacin,0\
+dexamethasone,0\
+famotidine,0\
+vitamin D,0\
+ascorbic acid,0\
+zinc,0\
+atorvastatin,0\
+NAC,0\
+nebulized lidocaine,0\
+UFH average dose 25 191 units/day,0\
+aPTT mean 64.35 seconds,0\
+oxygen down-titrated to simple face mask,264\
+pH 7.41,264\
+pCO2 37 mmHg,264\
+pO2 74 mmHg,264\
+HCO3 24 mmol/L,264\
+base deficit -1 mmol/L,264\
+lactic acid 1.36 mmol/L,264\
+procalcitonin decreased to 7.4 ng/mL,264\
+hs-CRP decreased to 0.13 mg/dL,264\
+D-dimer decreased to 5308 ng/mL FEU,264\
+fibrinogen increased to 523 mg/dL,264\
+ALT decreased to 153 U/L,264\
+AST decreased to 62 U/L,264\
+sudden clinical deterioration,264\
+labored breathing,264\
+desaturation,264\
+hypotension,264\
+altered mental status,264\
+endotracheal intubation,264\
+inotropic agents,264\
+vasopressor agents,264\
+CTPA revealed pulmonary thrombosis,288\
+brain CT showed infarcts,288\
+rescue thrombolytic therapy with streptokinase,288\
+streptokinase 250 000 IU loading dose,288\
+streptokinase 100 000 IU/hour infusion,288\
+critical condition,312\
+no improvement after thrombolytic therapy,312\
+hs-CRP 221.1 mg/dL,312\
+"ferritin >15,000 μg/L",312\
+D-dimer 2597 ng/mL FEU,312\
+fibrinogen 634 mg/dL,312\
+tocilizumab 600 mg infused,312\
+death due to multiple end-organ failure,432

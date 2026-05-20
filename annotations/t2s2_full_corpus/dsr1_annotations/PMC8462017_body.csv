@@ -1,0 +1,89 @@
+event,time
+15-year-old,0\
+girl,0\
+admitted to the hospital,0\
+progressive shortness of breath,-3\
+chest pain,-3\
+cough,-24\
+difficulty breathing,-24\
+new sudden haemoptysis,0\
+coryzal symptoms,-168\
+no history of cutaneous injury,0\
+no history of cutaneous pathology,0\
+previously healthy,0\
+no past medical history,0\
+no history of immunodeficiency,0\
+no known drug allergies,0\
+no known food allergies,0\
+crackles on auscultation,0\
+reduced air entry in lower right hemithorax,0\
+dark blood cough,0\
+tachypnoeic (50 breaths/min),0\
+oxygen saturation 92% on room air,0\
+heart rate 120 beats/min,0\
+blood pressure 105/74 mmHg,0\
+afebrile,0\
+cold extremities,0\
+pH 7.42,0\
+PaCO2 4.0 kPa,0\
+PaO2 7.2 kPa,0\
+blood lactate 1.7 mmol/L,0\
+sodium bicarbonate 19.5 mmol/L,0\
+base excess -5 mmol/L,0\
+leukopenia,0\
+neutrophil count 0.8 × 10^9/L,0\
+C-reactive protein 3.7 mg/L,0\
+chest radiograph showing consolidation,0\
+ARDS,0\
+bronchoscopy with copious yellow secretions,0\
+suctioned 300 mL fluid,0\
+white speckled bronchial mucosa,0\
+H3N2 influenza confirmed,0\
+PVL-SA pneumonia confirmed,0\
+no MERS-CoV,0\
+Surviving Sepsis Protocol implemented,0\
+IV ceftriaxone,0\
+enteral azithromycin,0\
+enteral oseltamivir,0\
+IV linezolid,6\
+IV clindamycin,6\
+IV clarithromycin,6\
+non-invasive ventilation,0\
+emergency intubation,0\
+mechanical ventilation,0\
+refractory shock,0\
+fluid resuscitation,0\
+adrenaline 0.2 μg/kg/min,0\
+noradrenaline 1.2 μg/kg/min,0\
+hyperdynamic underfilled ventricles,0\
+peripheral capillary refill >5 seconds,0\
+20% human albumin solution,0\
+crystalloids,0\
+transferred to AICU,6\
+hypoxemia,6\
+metabolic acidosis,6\
+respiratory acidosis,6\
+hydrocortisone 100 mg,6\
+IVIg 2 g/kg,6\
+worsening hypoxemia,6\
+alveolar flooding,6\
+VV-ECMO attempted,24\
+retained ECMO cannula,24\
+cardiac arrest,24\
+CPR initiated,24\
+VA-ECMO established,24\
+fluid resuscitation (2000 mL crystalloid),24\
+packed red cells (6 units),24\
+cryoprecipitate (2 pools),24\
+fresh frozen plasma (1 bag),24\
+platelets (2 pools),24\
+disseminated intravascular coagulation,48\
+multiple organ failure,48\
+VV-ECMO conversion,48\
+left leg ischemia,48\
+renal replacement therapy,672\
+extubation,672\
+good neurological function,672\
+left lower leg skin wound,1680\
+retained ECMO cannula fragment,1680\
+discharged home,12960

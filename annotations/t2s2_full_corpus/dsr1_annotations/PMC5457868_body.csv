@@ -1,0 +1,83 @@
+event,time
+5 years old,0
+Chinese,0
+female,0
+admitted to the pediatric intensive care unit,0
+cough,-336
+fever,-120
+headache,-24
+vomiting,-24
+altered interactions with parents,-24
+uncomplicated birth,-26280
+normal growth during first 3 years,-17520
+retarded height growth,-17520
+decreased activity,-17520
+no history of medication,0
+height 109 cm,0
+weight 22 kg,0
+temperature 38.7°C,0
+heart rate 105 bpm,0
+respiratory rate 35 breaths/min,0
+blood pressure 90/55 mmHg,0
+oxyhemoglobin saturation 90%,0
+generalized puffiness,0
+non-pitting edema of face,0
+non-pitting edema of extremities,0
+capillary refill time >3 seconds,0
+rales in both lungs,0
+normal cardiac auscultation,0
+soft abdomen,0
+mild abdominal distension,0
+normal bowel sounds,0
+slightly confused,0
+hemoglobin 97 g/L,0
+white blood cell count 2.5×10⁹/L,0
+neutrophils 70%,0
+blood platelet 75×10⁹/L,0
+normal electrolytes,0
+normal glucose,0
+normal albumin,0
+normal creatine kinase,0
+normal blood gas,0
+left lobe pneumonia,0
+mild pleural effusion,0
+mild pericardial effusion,0
+normal cardiac ejection fraction,0
+normal brain MRI,0
+normal cerebrospinal fluid,0
+diagnosed as pneumonia,0
+diagnosed as sepsis,0
+empiric antibiotic therapy,0
+IVIG 2g/kg,0
+restricted fluid administration,0
+mental status deteriorated,24
+comatose,48
+temperature 35°C,48
+hypotension,48
+arrhythmia,48
+hypoxia SaO2 75%,48
+prolonged Q-T interval,48
+T4 undetectable,24
+TSH >150 uIU/mL,24
+elevated TPO-Ab,48
+elevated TgAb,48
+thyroid ultrasound mild bilateral enlargement,48
+small tubercles in left thyroid,48
+diagnosed with myxedema coma,48
+diagnosed with untreated hypothyroidism,48
+Hashimoto's thyroiditis,48
+intravenous dexamethasone 0.3mg/kg/d,48
+oral levothyroxine 100μg/m²/d,48
+vasopressor,48
+mechanical ventilation,48
+continuous renal replacement therapy,48
+anuria,48
+consciousness restored,96
+temperature normal,96
+extubated,168
+levothyroxine reduced to 3μg/kg/d,336
+discharged,336
+height increased 9 cm after 8 months,5760
+family history of Hashimoto's thyroiditis,5760
+denied chest pain,0
+no shortness of breath,0

@@ -1,0 +1,104 @@
+event,time
+7 years old,0
+Hispanic male,0
+admitted to the hospital,0
+non-productive cough,-720
+asthma,-720
+albuterol inhaler,-720
+"non-bloody, non-bilious emesis",-672
+fever (104°F),-672
+decreased appetite,-672
+4 pound weight loss,-672
+no pets,0
+no recent travel,0
+no sick contacts,0
+no foreign or new foods,0
+no animal or insect bites,0
+no fevers,-720
+no diarrhea,-720
+no constipation,-720
+no chills,-720
+asthma well controlled,-2160
+albuterol as needed,-2160
+fully immunized,0
+no medication allergies,0
+unremarkable family history,0
+previous normal growth and development,0
+no surgical history,0
+palpable right submental lymphadenopathy (1 cm),0
+anterior cervical lymphadenopathy (0.7 cm),0
+bilateral supraclavicular lymphadenopathy (0.5 cm),0
+lungs clear to auscultation,0
+chest radiograph with para-tracheal mass,0
+CT scan showing paratracheal mass (3.1×2.7×3.7 cm),0
+supraclavicular lymphadenopathy,0
+ceftriaxone 1g/m/24hr started,0
+white blood cell count 6.8×10³/mL,0
+hemoglobin 11.5 g/dL,0
+platelets 307×10³/mL,0
+neutrophil 23%,0
+lymphocytes 46%,0
+monocytes 12%,0
+eosinophils 18%,0
+ESR 30 mm/hr,0
+CRP <0.012 mg/dL,0
+LDH 197 U/L,0
+uric acid 2.7 mg/dL,0
+normal comprehensive metabolic panel,0
+normal glucose,0
+normal bilirubin,0
+normal urinalysis,0
+normal TSH/T4,0
+negative HIV,0
+negative PPD,0
+normal homovanillic acid,0
+normal vanillylmandelic acid,0
+normal angiotensin converting enzyme,0
+negative ANCA,0
+normal brain MRI,0
+negative blood cultures,0
+negative stool cultures,0
+serum cryptococcal antigen positive (1:20),0
+repeat cryptococcal antigen undetectable,72
+histoplasmosis H band negative,0
+histoplasmosis M band present,0
+thoracotomy performed,24
+purulent fluid from mass,24
+mediastinal lymph node biopsies,24
+right upper lung lobe biopsy,24
+mediastinal nodule biopsy,24
+mediastinal mass biopsy,24
+post-op pneumothorax,24
+right-sided chest tube placed,24
+spinal tap performed,48
+cerebral spinal fluid analysis,48
+colorless clear CSF,48
+one red blood cell,48
+one white blood cell,48
+85 lymphocytes,48
+15 monocytes,48
+negative Indian ink stain,48
+negative bacterial culture,48
+negative fungal culture,48
+necrotizing granulomatous inflammation,72
+calcification on biopsy,72
+histoplasmosis mediastinal granuloma diagnosis,72
+itraconazole started (12 weeks),72
+pain controlled with Hydrocodone/Acetaminophen,72
+pain controlled with Ketorolac,72
+incentive spirometry encouraged,72
+serial chest x-rays,72
+chest tube water seal,96
+chest tube removed,168
+intermittent fevers,72
+afebrile >24h prior to discharge,264
+plays outside in dirt,0
+possible histoplasma inoculation,0
+no demolition/construction site exposure,0
+discharged after 12 days,288
+repeat serum cryptococcal antigen undetectable (1 week post-discharge),360
+compliant to itraconazole,360
+itraconazole levels adjusted at 2 weeks,480
+asymptomatic at follow-ups,720
+finished itraconazole course,2016
+no return of symptoms,2016

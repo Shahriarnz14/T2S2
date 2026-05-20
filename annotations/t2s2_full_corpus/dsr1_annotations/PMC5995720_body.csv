@@ -1,0 +1,93 @@
+event,time
+35-year-old,0
+man,0
+height 169 cm,0
+weight 240 kg,0
+BMI 84,0
+visited Department of Dermatology,-24
+left leg pain,-24
+left leg redness,-24
+left leg swelling,-24
+focused enhanced CT left leg,-24
+ruled out deep venous thrombosis,-24
+diagnosed with cellulitis,-24
+sent home,-24
+prescription for Cefdinir,-24
+symptoms deteriorated,-24
+re-visited Department of Dermatology,-24
+biochemistry analysis blood revealed multiple organ dysfunction,-24
+consulted department,0
+history recurrent cellulitis,0
+obese since childhood,0
+employed in home demolition,0
+physical examination,0
+could not stand by himself,0
+stretcher could not accommodate him,0
+bed retrieved from ward,0
+nine people lifted him onto bed,0
+side bars removed,0
+Glasgow Coma Scale score 15,0
+blood pressure 174/65 mmHg,0
+heart rate 108 beats per minute,0
+respiratory rate 30 breaths per minute,0
+SpO2 98% with 3 L/minute oxygen nasal cannula,0
+body temperature 36.7℃,0
+left leg redness,0
+left leg swelling,0
+left leg tenderness,0
+venous gas analysis pH 7.352,0
+venous gas analysis PCO2 28.8 mmHg,0
+venous gas analysis PO2 61.7 mmHg,0
+venous gas analysis HCO3- 15.5 mmol/L,0
+venous gas analysis lactate 6.2 mmol/L,0
+electrocardiogram sinus tachycardia,0
+chest roentgenogram cardiac enlargement,0
+CT not performed,0
+"biochemical analysis blood WBC 6,800/μL",0
+neutrophil 96%,0
+lymphocyte 2%,0
+monocyte 2%,0
+hemoglobin 14.0 g/dL,0
+platelet count 9.0×104/μL,0
+C-reactive protein 12.8 mg/dL,0
+AST 315 IU/L,0
+ALT 93 IU/L,0
+glucose 78 mg/dL,0
+BUN 26.0 mg/dL,0
+creatinine 1.34 mg/dL,0
+"CPK 9,670 IU/L",0
+aPTT 38.7 s,0
+INR 1.83,0
+fibrinogen 261 mg/dL,0
+FDP 21.4 mg/dL,0
+tentative diagnosis sepsis,0
+multiple organ failure,0
+left leg infection,0
+treated with massive infusion Ringer's lactate,0
+linezolid,0
+meropenem,0
+tracheal intubation,0
+surgical exploration left leg,0
+operating table could not support weight,0
+diagnosis necrotic soft tissue infection,0
+left leg amputation not performed,0
+nurses unable to reposition,0
+laboratory findings transiently improved,48
+oligouria continued,0
+cannula for renal replacement therapy not secured,0
+died of multiple organ failure,96
+culture surgical material Streptococcus dysgalactiae,96
+blood culturing not performed,0
+super-super obesity,0
+BMI >80,0
+management difficulties,0
+CT could not be performed,0
+securing venous route difficult,0
+infusions volume determination difficult,0
+drug dosages determination difficult,0
+special equipment required,0
+trained staff required,0
+multi-system organ dysfunction,0
+standard imaging techniques difficult,0
+surgical options used for super-obesity,0
+early surgical intervention recommended,0

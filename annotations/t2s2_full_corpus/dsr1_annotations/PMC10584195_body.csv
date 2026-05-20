@@ -1,0 +1,89 @@
+event,time
+58 years old,0
+female,0
+alcoholism,0
+chronic obstructive pulmonary disease,0
+COPD,0
+ongoing tobacco abuse,0
+presented with shortness of breath,0
+presented with cough,0
+admitted,0
+respiratory rate 32 breaths/min,0
+temperature 38.0°C,0
+heart rate 115 bpm,0
+blood pressure 73/40 mmHg,0
+oxygen saturation 72% on room air,0
+lethargic but arousable to voice,0
+tachycardic,0
+regular rhythm,0
+no murmurs,0
+mild respiratory distress,0
+coarse rhonchi,0
+extremities warm,0
+strong pulses,0
+WBC 12.4×103 cells/uL,0
+arterial blood gas pH 7.07,0
+pCO2 106 mmHg,0
+pO2 80 mmHg,0
+bicarbonate 30 mmol/L,0
+chest X-ray no acute pathology,0
+CT chest multifocal pneumonia,0
+septic shock,0
+community-acquired pneumonia,0
+CAP,0
+started on ceftriaxone,0
+started on azithromycin,0
+fluid resuscitated with 3 liters lactated ringers,0
+blood pressure continued low,0
+started on norepinephrine,0
+SpO2 83% on 15 L O2 via non-rebreather mask,0
+intubated,0
+initially improved after 5-day course ceftriaxone,120
+initially improved after 5-day course azithromycin,120
+blood cultures negative,0
+respiratory cultures negative,0
+liberated from norepinephrine,48
+FiO2 40%,120
+PEEP 5 cm H2O,120
+FiO2 30%,144
+PEEP 5 cm H2O,144
+extubated,144
+respiratory distress,156
+respiratory rate 28 breaths/min,156
+temperature 38.2°C,156
+heart rate 112 bpm,156
+blood pressure 80/55 mmHg,156
+oxygen saturation 85% on 60 L heated high-flow oxygen therapy,156
+arterial blood gas pH 7.32,156
+pCO2 56 mmHg,156
+pO2 78 mmHg,156
+bicarbonate 24 mmol/L,156
+re-intubated,156
+restarted on norepinephrine,156
+FiO2 100%,156
+PEEP 5 cm H2O,156
+repeat CXR new left lower lobe infiltrate,156
+diagnosed with VAP,156
+started on vancomycin,156
+started on cefepime,156
+MRSA nasal swab negative,156
+vancomycin discontinued,168
+continued on cefepime monotherapy,168
+fevers up to 38.2°C,168
+up-trending leukocytosis,168
+ongoing vasopressor need,168
+endotracheal tube aspirate culture positive for 3+ MRSA,228
+MRSA resistant to oxacillin,228
+MRSA resistant to clindamycin,228
+MRSA resistant to erythromycin,228
+MRSA sensitive to linezolid,228
+MRSA sensitive to tetracycline,228
+MRSA sensitive to gentamycin,228
+MRSA sensitive to trimethoprim/sulfamethoxazole,228
+MRSA sensitive to vancomycin,228
+blood cultures negative,228
+restarted on vancomycin,228
+liberated from norepinephrine,252
+liberated from ventilator,252
+transferred out of ICU,252
+completed 7 days intravenous vancomycin,276

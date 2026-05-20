@@ -1,0 +1,98 @@
+event,time
+46 years old,0
+male,0
+obesity,0
+body mass index 42 kg/m2,0
+admitted to the hospital,0
+emergency department presentation,-24
+right lower extremity weakness,-24
+nausea,-24
+generalized weakness,-24
+SARS-CoV-2 infection,-1440
+mild flu-like symptoms,-1440
+primary care physician visit,-1440
+positive total antibodies,-1440
+negative nasopharyngeal PCR (4/24/2020),-1440
+negative nasopharyngeal PCR (5/10/2020),-1440
+alert and oriented,0
+hypotensive,0
+blood pressure 88/37 mmHg,0
+hypoxic,0
+oxygen saturation 89%,0
+nasal cannula 3 L/min,0
+bilateral rhonchi,0
+right lower extremity strength 3/5,0
+no skin rashes,0
+negative nasopharyngeal PCR,0
+positive total antibody test,0
+SARS-CoV-2 total antibodies 238 s/co,0
+IgG 11 s/co,0
+elevated ferritin 962 ng/mL,0
+elevated IL-6 121.09 pg/mL,0
+elevated CRP 2.9 mg/dL,0
+elevated LDH 802 units/L,0
+elevated procalcitonin 0.678 ng/mL,0
+acute kidney injury,0
+creatinine 4.10 mg/dL,0
+high anion gap metabolic acidosis,0
+lactic acidosis,0
+chest x-ray left retrocardiac opacity,0
+EKG NSTEMI,0
+elevated troponin 0.282 ng/mL,0
+elevated BNP 3590 pg/mL,0
+TTE normal ejection fraction,0
+borderline elevated RVSP,0
+CT chest ground glass opacities,0
+CT abdomen hepatic steatosis,0
+right ataxia,0
+mild right hemiparesis,0
+left hemianesthesia,0
+CT head unremarkable,0
+hypoxia requiring 6 L nasal cannula,0
+hospitalization day 1 chest x-ray bilateral opacities,24
+tachypneic,24
+hypoxemia requiring 40 L/min high-flow nasal cannula,24
+ICU transfer,24
+mechanical ventilation,24
+norepinephrine initiation,24
+ceftriaxone 2 gm daily,24
+azithromycin 500 mg daily,24
+dexamethasone 6 mg daily,24
+unfractionated heparin infusion,24
+repeat negative SARS-CoV-2 PCR,24
+hospitalization day 3 BAL negative SARS-CoV-2 PCR,72
+MIS-A suspicion,72
+tocilizumab 8 mg/kg,72
+steroids,72
+elevated troponin 2.1 ng/mL,72
+elevated BNP 5940 pg/mL,72
+repeat TTE RVSP 39.4 mmHg,72
+CVVH initiation,72
+hospitalization day 4-5 no clinical improvement,96
+ferritin 1993 ng/mL,96
+IL-6 1412.44 pg/mL,96
+LDH 4773 units/L,96
+d-dimer 0.62 mcg/mL,96
+CRP 8.3 mg/dL,96
+liver function worsening,96
+kidney function worsening,96
+persistent elevated troponins,96
+hospitalization day 6 clinical improvement,144
+reduced ventilator support,144
+no pressors needed,144
+hospitalization day 8 hypotension,192
+fever,192
+thick foul-smelling respiratory secretions,192
+vancomycin initiation,192
+cefepime initiation,192
+norepinephrine restart,192
+"ferritin >100,000 ng/mL",192
+"LDH >12,000 units/L",192
+SARS-CoV-2 RT-PCR plasma negative,192
+failed BAL S gene sequencing,192
+hospitalization day 9 hydrocortisone 50 mg q6h,216
+severe refractory acidosis,216
+hyperkalemia,216
+CVVH continued,216
+hospitalization day 10 arrhythmia,240
+death,240

@@ -1,0 +1,77 @@
+event,time
+64 years old,0
+male,0
+chronic pancreatitis,0
+pseudocysts,0
+ascites,0
+abdominal pain,0
+hypoxic respiratory failure,0
+hypotension,0
+intubated,0
+transferred to medical intensive care unit,0
+septic shock,0
+infected pancreatic pseudocyst,0
+severe necrotizing pancreatitis,0
+CT imaging,0
+pancreatic pseudocyst,0
+portal vein thrombosis,0
+splenic vein thrombosis,0
+superior mesenteric vein thrombosis,0
+anticoagulation,0
+pseudocyst drainage,0
+hematemesis,0
+CT angiography,0
+contrast media extravasation,0
+active hemorrhage,0
+gastroduodenal artery pseudoaneurysm,0
+transcatheter embolization,0
+celiac artery angiogram,0
+GDA occlusion,0
+micro-coils deployed,0
+GDA occlusion post-embolization,0
+clinical improvement,0
+discharged,1008
+anticoagulation for 6 months,1008
+fall,2208
+hemothorax,2208
+pneumothorax,2208
+worsening ascites,2208
+anasarca,2208
+supratherapeutic INR,2208
+fresh frozen plasma transfusion,2208
+cardiac arrest,2208
+CPR,2208
+epinephrine administration,2208
+intubated,2208
+transferred to institution,2208
+paracenteses,2208
+transudative fluid,2208
+portal venous hypertension,2208
+CT angiography,2208
+chronic portal vein thrombosis,2208
+SMV thrombosis,2208
+hepatic venography,2208
+portal vein venography,2208
+liver biopsy,2208
+porto-systemic pressure measurement,2208
+stent dilatation,2208
+chronic SMV occlusion,2208
+stent placement,2208
+SMV venogram,2208
+Nitinol stent deployment,2208
+angioplasty balloon dilatation,2208
+SMV pressure gradient reduction,2208
+symptom improvement,2208
+discharged,2304
+readmitted for lethargy,2424
+hypotension,2424
+recurrent ascites,2424
+SMV stent partial occlusion,2424
+anticoagulation resumed,2424
+discharged,2448
+asymptomatic,2520
+free of ascites at 3 months,2520
+duplex ultrasound patent SMV at 3 months,2520
+asymptomatic at 7 years,61320
+free of ascites at 7 years,61320
+duplex ultrasound patent SMV at 7 years,61320

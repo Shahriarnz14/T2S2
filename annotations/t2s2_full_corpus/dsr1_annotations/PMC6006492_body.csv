@@ -1,0 +1,73 @@
+event,time
+45 years old,0
+woman,0
+presented to walk-in clinic,0
+malaise,-72
+upper respiratory tract infection,-72
+over-the-counter remedy containing ibuprofen,-72
+over-the-counter remedy containing pseudoephedrine,-72
+temperature 38.5°C,0
+hypotension,0
+heart rate 250 bpm,0
+vagal maneuvers,0
+intravenous adenosine,0
+admitted to community hospital,0
+ECG narrow QRS complex tachycardia up to 280 bpm,0
+required several liters of crystalloid,0
+IV diltiazem,0
+sedation,0
+6 unsuccessful electrical cardioversion attempts,0
+IV esmolol,0
+IV digoxin,0
+IV magnesium sulfate,0
+IV amiodarone 150 mg loading dose,0
+increasing oxygen requirements,0
+pulmonary edema,0
+IV furosemide,0
+transfer to tertiary hospital cardiac ICU,0
+second IV amiodarone loading dose,0
+3 additional unsuccessful electrical cardioversion attempts,0
+IV lidocaine,0
+IV procainamide,0
+transient heart rate reduction,0
+worsening respiratory status,0
+general anesthesia,0
+intubation,0
+cooling to 35.5°C,0
+esmolol infusion,0
+lidocaine infusion,0
+procainamide infusion,0
+heart rate slowed to 130 bpm,0
+AV dissociation,0
+heart rate increased over next 12 hours,12
+vasopressin infusion,12
+mean arterial pressure 50 mmHg,12
+taken to electrophysiology laboratory,24
+discontinuation of antiarrhythmic infusions,24
+multipolar catheters placed in coronary sinus,24
+multipolar catheters placed in His bundle region,24
+multipolar catheters placed in RV apex,24
+tachycardia cycle length 504 ms,24
+HV interval 59 ms,24
+incessant tachycardia,24
+ventricular overdrive pacing demonstrated VHHV response,24
+JET diagnosis,24
+electroanatomic mapping,24
+cryoablation considered,24
+RF ablation performed,24
+tachycardia termination during ablation,24
+slower junctional beats during ablation,24
+transient AH prolongation,24
+temporary atrial pacing wire placed,24
+Streptococcus pneumoniae sputum culture positive,0
+IV antibiotics,0
+discharged,216
+no tachycardia recurrence,216
+previous unstable tachycardia episodes,Unknown
+previous ICU admission,Unknown
+supraventricular tachycardia history,Unknown
+resolved with beta blockade,Unknown
+fever presumed secondary to pneumonia,0
+hypoperfusion,0
+multiple vasoactive agents,0
+sepsis-related vasodilation,0

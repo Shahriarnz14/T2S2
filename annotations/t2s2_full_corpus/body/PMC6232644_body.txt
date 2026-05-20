@@ -1,0 +1,77 @@
+Introduction
+Flavonifractor plautii (formerly Eubacterium plautii) is a gram positive (often appearing gram variant or gram negative) rod shaped bacterium belonging to the family of Clostridiales [1].
+
+The bacterium is part of the human gut microbiome and are strictly anaerobic [2,3]. Data about the clinical significance are scarce due to the fact that it has been rarely isolated in human clinical specimens [1]. Infections were so far only reported in two patients worldwide. Both patients were immunosuppressed either having underwent solid organ transplantation or being asplenic [4,5]. Furthermore almost no data about resistance patterns are available.
+
+We report of a case of bloodstream infection in a 69 year old male with acute gangrenous cholecystitis and F. plautii bloodstream infection and the organism's antimicrobial resistance pattern.
+
+Case report
+A 69-year-old male patient was admitted to the hospital for chemotherapy (docetaxel) due to a local recurrence of a prostate carcinoma metastatic to bone which was first treated five years prior via endoscopic prostatectomy and adjuvant radiotherapy. The patient showed a deterioration of his general condition and tumor induced anemia (Hgb 7.2 g/dL). Detected serum prostate specific antigen (PSA) levels were > 200 ng/mL.
+
+One week after hospital admission being under immunosuppression with docetaxel, the patient complained about upper stomach pain and diarrhea. The symptoms were suspicious for cholecystitis which was confirmed by ultrasonography. Since the infection parameters were increased (CRP: 280 mg/L; procalcitonin: 6.52 ng/mL), the patient underwent directly open cholecystectomy. A calculated anti-infective therapy with metronidazole and ceftriaxone was started before surgery and blood cultures were obtained. Intraoperatively, a purulent gangrenous gallbladder was found and removed. In addition, an ileostomy was performed due to multiple adhesions. Histologically this finding was confirmed being classified as a necrotizing/gangrenous, ulcero-phlegmonous, cholecystitis with fibrinous pericholecystitis and cholecystolithiasis. An intraoperative culture was taken for microbial examination.
+
+After surgery the patient was transferred to the intensive care unit. There, he was extubated and the vasopressor therapy ended. Since the following postoperative course was uneventful, the patient was transferred to the ward on postoperative day four being discharged at day 14.
+
+One pair of blood cultures was taken on the day of surgery. F. plautii was detected in one anaerobic blood culture being positive on culture day four. Gram staining revealed a gram positive rod. It was identified using matrix-assisted laser desorption/ionization time of flight (MALDI-TOF, Bruker Billerica, USA) directly from the blood culture on the same day when being reported to be positive (Score 1.79). The pathogen was also cultured on Columbia agar (Oxoid, Basingstoke, United Kingdom) under anaerobic conditions. The isolate initially exhibited slow growth and on culture day six Maldi-TOF could be repeated with a sufficient score > 2.0 (Score 2.29). Additionally 16S rRNA sequencing was carried out confirming the results (database: NCBI; >350 base pairs, coverage forward and reverse primer: 100%, identity >99% for F. plautii). On Columbia agar the bacterium formed grey glassy colonies (Fig. 1).Fig. 1 Culture morphology of Flavonifractor plautii on Columbia agar.
+
+Fig. 1
+
+Results of resistance testing are shown in Table 1 using a gradient test (E-Test, Liofilchem, Roseto degli Abruzzi, Italy) on Columbia agar under anaerobic conditions after 48 h of incubation (McFarland 0,5). The interpretation of minimal inhibitory concentrations (MICs) was carried out in accordance to EUCAST (EUropean Committee for Antimicrobial Susceptibility Testing) criteria (version 8.0, 2018). Additional blood culture sets were not taken before initiation of antimicrobial therapy and following two pairs of blood cultures remained sterile. Intraabdominal cultures taken during surgery showed no growth.Table 1 Antimicrobial resistance patterns of Flavonifractor plautii, MIC, minimal inhibitory concentration. Breakpoints according to EUCAST for gram-positive anaerobes and non-species related breakpoints, for sensitive values the interpretation is ≤ for resistant ones > (version 8.0 2018).
+
+Table 1Substance	MIC (mg/L)	EUCAST (breakpoint range in mg/L)	
+Penicillin	0.5	intermediate (0.25-0.5)a	
+Ampicillin	0.5	sensitive (4-8)a	
+Cefuroxime	4.0	sensitive (4-8)b	
+Ceftriaxone	0.75	sensitive (1-2)b	
+Piperacillin/tazobactam	0.19	sensitive (8-16)a	
+Meropenem	0.023	sensitive (2-8)a	
+Imipenem	0.064	sensitive (2-8)a	
+Ertapenem	0.023	sensitive (1)a	
+Gentamicin	4.0	-c	
+Cotrimoxazole
+(trimethoprim-sulfamethoxazole)	≥32	-c	
+Ciprofloxacin	≥32	resistant (0.25-0.5)b	
+Levofloxacin	2.0	resistant (0.5-1)b	
+Moxifloxacin	0.5	sensitive (0.25)b	
+Vancomycin	2.0	sensitive (2)a	
+Teicoplanin	0.25	-c	
+Daptomycin	8.0	-c	
+Linezolid	3.0	intermediate (2-4)b	
+Metronidazole	0.25	sensitive (4)a	
+Clindamycin	0.38	sensitive (4)a	
+Tetracyclin	0.094	-c	
+Tigecyclin	0.0160	sensitive (0.25-0.5)b	
+Chloramphenicol	0.125	sensitive (8)a	
+Rifampicin	3.0	-c	
+a EUCAST breakpoints for gram positive anaerobes utilized.
+
+b EUCAST non-species related breakpoints utilized.
+
+c No breakpoints available.
+
+
+
+Discussion
+The clinical significance of F. plautii is not yet fully understood since there are only two published cases of infection. One of these patients was an asplenic male who developed fulminant sepsis after a dog bite [4]. The other patient received a kidney transplant and had an infected pleural effusion probably through translocation of F. plautii following ileum perforation [5]. In both case reports immunosuppression seems to favor an infection. This is in line with the patient presented here, who was immunosuppressed due to prostate cancer and docetaxel treatment.
+
+As mode of infection it can be assumed that F. plautii ascended from the intestinal tract to the bile tract and caused cholecystitis. The patient’s immunosuppression might have facilitated disease development. F. plautii was the only infective agent isolated. This might indicate a causative role for the cholecystitis with secondary bloodstream infection despite not being isolated in the intraoperative material. Since the bacterium is anaerobic, these negative results could be contributed either to difficulties in cultivation or the antimicrobial therapy before the sample was taken.
+
+In the gram staining of the blood culture sample the pathogen appeared gram positive. It is known that F. plautii may stain gram negative which might be caused by changes in the cell wall after oxygen exposure [6]. In the two published clinical cases F. plautii was classified as gram negative/gram variant. Since gram staining was carried out immediately after the blood culture was reported to be positive one may assume that this favored the pathogen to appear (correctly) gram positive.
+
+Moreover, data about antimicrobial resistance patterns are currently scarce. According to EUCAST (European Committee on Antimicrobial Susceptibility Testing) for non-species related and anaerobic bacteria breakpoints, metronidazole and ceftriaxone were both classified as sensitive. The patient improved under this treatment suggesting that these substances are active in vivo as well.
+
+Fortunately the agent was sensitive to a large variety of substances and only resistant to cotrimoxazole, and most fluoroquinolones with intermediate resistance to penicillin and linezolid. Thus the most frequently used treatment schemes for calculated antimicrobial therapy seem to cover this pathogen. This is congruent with previous findings exhibiting sensitive MICs against most β-lactams and clindamycin which was also apparent in our isolate [4]. In one study the MICs against glycopeptides (vancomycin and teicoplanin) were tested showing elevated MICs for vancomycin (4–8 mg/L) and low MICs for teicoplanin (0.25–0.5 mg/L) [1]. Our isolate however, showed a sensitive MIC but being situated directly at the EUCAST breakpoint of 2 mg/L which might also indicate a trend towards elevated MICs for vancomycin as well. Our isolate also exhibited a low MIC for teicoplanin (025 mg/L).
+
+Since this is one of the first reports in literature including a broader susceptibility testing of F. plautii this might not necessarily reflect the real epidemiologic makeup of resistance patterns of this species and further data is required to give evidence based antimicrobial treatment proposals. Due to the acquired data it might be assumed that F. plautii can be a causative agent of cholecystitis.
+
+Author Statement
+Patient treatment MG, HVG, NS; microbiological diagnostics: BG, FKB; pathological diagnostics: RMB; wrote the manuscript BG, FKB, HVG.
+
+Declaration of interest
+None declared.
+
+Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Acknowledgments
+We would like to thank our technical employees for assistance in microbiological laboratory testing.

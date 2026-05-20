@@ -1,0 +1,139 @@
+event,time
+17-year-old boy,0\
+presented to emergency room,-2\
+shortness of breath,-2\
+pleuritic chest pain,-2\
+developed 2 hours earlier,-2\
+high school student,-720\
+well until 1 month before visit,-720\
+dry cough,-720\
+fatigue,-720\
+weight loss of 2 kg,-720\
+no febrile sensation,-720\
+no myalgia,-720\
+fever,-24\
+chills,-24\
+pleuritic chest pain rated 3 points,-24\
+anterior chest wall pain,-24\
+aggravated with deep inspiration,-24\
+shortness of breath,-2\
+pleuritic chest pain aggravated,-2\
+pain radiating to shoulder,-2\
+pain radiating to jaw,-2\
+does not smoke,0\
+does not drink alcohol,0\
+no trauma,0\
+alert,0\
+acutely ill appearance,0\
+body temperature 39.0℃,0\
+blood pressure 107/70 mmHg,0\
+heart rate 110 beats/min,0\
+respiratory rate 30/min,0\
+oxygen saturation 98%,0\
+"head, eye, ear, nose, and throat unremarkable",0\
+jugular vein not distended,0\
+lung auscultation normal,0\
+rapid and distant heart sound,0\
+abdomen no tenderness,0\
+no organomegaly,0\
+no pitting edema,0\
+"white blood cell count 20,100/mm³",0\
+88.4% neutrophils,0\
+hemoglobin 12.6 g/dL,0\
+hematocrit 37.3%,0\
+"platelet count 394,000/mm³",0\
+blood urea nitrogen 7.2 mg/dL,0\
+serum creatinine 0.78 mg/dL,0\
+C-reactive protein 21.7 mg/dL,0\
+AST 84 U/L,0\
+ALT 177 U/L,0\
+D-dimer 2.97 mg/L,0\
+BNP 97 pg/mL,0\
+troponin I 0.04 ng/mL,0\
+HIV antibody negative,0\
+sinus tachycardia,0\
+PR segment elevation in aVR,0\
+PR depression in other leads,0\
+cardiac silhouette enlargement,0\
+left lower lobar consolidation,0\
+pericardial effusion,0\
+pericardial enhancement,0\
+multiple necrotic lymph nodes with air,0\
+broncho-lymph nodal fistula suspected,0\
+echocardiography large pericardial effusion,0\
+normal cardiac wall motion,0\
+TB pericarditis suspected,0\
+TB lymphadenitis suspected,0\
+admitted to ICU,0\
+intravenous ceftriaxone,0\
+respiratory rate 40/min,6\
+blood pressure 90/50 mmHg,6\
+jugular venous distention,6\
+cardiac tamponade suspected,6\
+emergency pericardiocentesis,6\
+200 mL pus-like fluid drained,6\
+pericardial catheter left,6\
+fluid sent for culture,6\
+fluid chemical analysis,6\
+"pericardial fluid WBC 197,840/mm³",6\
+98% neutrophils,6\
+"RBC 70,000/mm³",6\
+"LDH 1,894 U/L",6\
+triglycerides 31 mg/dL,6\
+glucose 3 mg/dL,6\
+adenosine deaminase 91.8 U/L,6\
+TB PCR positive,24\
+AFB staining negative,24\
+Gram staining negative,24\
+isoniazid,24\
+rifampin,24\
+ethambutol,24\
+pyrazinamide,24\
+pyridoxine,24\
+yeast growth in culture,72\
+intravenous fluconazole,72\
+Candida parapsilosis identified,96\
+pericardial drainage decreased to 70 mL/day,96\
+fever persisted,96\
+gram-positive bacterium in culture,96\
+vancomycin,96\
+ciprofloxacin,96\
+fever daily,168\
+body temperature 38.1℃,168\
+blood pressure 110/75 mmHg,168\
+heart rate 98 beats/min,168\
+respiratory rate 18/min,168\
+cardiac silhouette decreased,168\
+pneumopericardium developed,168\
+pericardial wall thickened,168\
+septated pericardium,168\
+vancomycin and ertapenem,168\
+Peptostreptococcus asaccharolyticus identified,216\
+Streptococcus anginosus identified,216\
+Methicillin-sensitive S. aureus,216\
+Prevotella oralis,216\
+broncho-lymph nodal fistula suspected,216\
+lymph nodal-pericardial fistula suspected,216\
+pericardiectomy performed,240\
+pus and inflammatory material observed,240\
+irrigation and suction,240\
+septations removed,240\
+no gross fistula,240\
+air leakage test negative,240\
+thickened pericardium removed,240\
+pericardial tissue biopsy acute inflammation,240\
+chronic inflammation,240\
+liquefactive necrosis,240\
+patient improved postoperatively,240\
+TB cultures negative,720\
+discharged,720\
+oral antifungal,720\
+oral antibiotic,720\
+oral anti-TB medication,720\
+amoxicillin/clavulanic acid stopped,2160\
+fluconazole stopped,4320\
+anti-TB medication continued,4320\
+returned to normal activity,4320\
+heart rate 70 beats/min,4320\
+echocardiography no relaxation abnormality,4320\
+ejection fraction minimally decreased,4320

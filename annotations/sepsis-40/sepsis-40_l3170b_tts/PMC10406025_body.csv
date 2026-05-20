@@ -1,0 +1,55 @@
+event,time
+fever ,0
+melena ,0
+hematemesis ,0
+generalized weakness ,0
+constant fatigue ,0
+shortness of breath ,0
+no dysphagia ,0
+no dyspepsia ,0
+no abdominal pain ,0
+no abnormal change of bowel habits ,0
+no history of continuous use of NSAIDs ,0
+history of juxtarenal abdominal aortic aneurysm with synthetic grafting aortobifemoral bypass ,-8760
+history of hypertension ,-8760
+history of type 2 diabetes mellitus ,-8760
+history of glaucoma ,-8760
+history of lens transplantation ,-8760
+history of ischaemic heart disease with 6 times of catheterization with 4 stents ,-8760
+"committed to taking blood pressure, diabetes, lipid and anticoagulant medications ",-8760
+anaemia ,-24
+upper GI endoscopy ,2
+CT angiogram ,2
+sepsis ,2
+transferred to the Surgical ICU ,2
+"vital signs were a blood pressure of 90/50 mmHg, tachycardia of 135 bpm, and a temperature of 38°C ",2
+"lab report was white blood cell 5.56 with neutrophil 96.8, haemoglobin% 11.41, ESr35 mm/h, and C-reactive protein 185.4 mg/dl ",2
+managed with IV antibiotics ,2
+referred to the surgical ward after patient stabilization ,4
+underwent the first stage of the operation ,24
+exclusion aortic limb graft with endarterectomy ,24
+axillofemoral bypass ,24
+femoro-femoral bypass ,24
+transferred to the ICU for close monitoring ,24
+intestinal adhesion ,48
+aorto-duodenal fistula at the second-third part ,48
+aortocecal fistula with severe inflammation and unhealthy tissue ,48
+infected aortobifemoral graft with pus discharge ,48
+large infrarenal AAA ,48
+infrarenal aortic neck control ,48
+removal of the old infected aortobifemoral graft ,48
+closure of the infrarenal abdominal aorta with double layers of prolein ,48
+fistula management ,48
+primary repair of the second-third part of the duodenum ,48
+right hemicolectomy with primary anastomosis ,48
+kept in the SICU post-operation for further intensive care management ,48
+started on total parental nutrition ,48
+stabilized ,72
+transferred to the surgical ward ,72
+started on an oral diet gradually ,72
+tolerated it ,96
+follow-up CT scan ,120
+discharged ,168
+in good general condition ,168
+afebrile ,168
+stable vital signs ,168

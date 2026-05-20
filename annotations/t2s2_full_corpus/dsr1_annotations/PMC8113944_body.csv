@@ -1,0 +1,84 @@
+event,time
+68 years old,0\
+male,0\
+admitted to the hospital,0\
+superficial right forearm bite,-24\
+swollen right forearm,-24\
+cyanotic right forearm,-24\
+general discomfort,-4\
+bite wound not washed,-24\
+bite wound not disinfected,-24\
+swelling in distal right upper extremity,-16\
+pain in distal right upper extremity,-16\
+diagnosed with gout arthritis,-16\
+nonsteroidal anti-inflammatory treatment,-16\
+worsening swelling,-16 to 0\
+worsening pain,-16 to 0\
+purpura around wound,-16 to 0\
+purpura on right hand,-16 to 0\
+weakness,-16 to 0\
+palpitations,-16 to 0\
+cold sweats,-16 to 0\
+acute pain,0\
+shock,0\
+hypotension,0\
+rapid pulse,0\
+upper limb flaky plaques,0\
+upper limb swelling,0\
+weak iliac artery pulsation,0\
+dopamine administered,0\
+laboratory examination,0\
+imaging examination,0\
+swelling continued expansion,0 to +24\
+ecchymosis continued expansion,0 to +24\
+crepitus of subcutaneous soft tissue,0\
+gas bubbles in subcutaneous tissue,0\
+edema,0\
+anti-infection treatment,0\
+deterioration of consciousness,0\
+white blood cell count 4.85 ×109/L,0\
+hemoglobin 70 g/L,0\
+platelet 36 ×109/L,0\
+C-reactive protein 68.35 mg/L,0\
+procalcitonin 48.960 ng/mL,0\
+gas in soft tissue on imaging,0\
+Gram-negative bacilli on smear,0\
+gas gangrene-like infection diagnosis,0\
+open amputation performed,+24\
+ICU admission,+24\
+endotracheal intubation,+24\
+malodorous gas from amputated limb,+24\
+necrotic tissue,+24\
+tissue dissolution,+24\
+isolation treatment,+24\
+penicillin,+24\
+meropenem,+24\
+clindamycin,+24\
+vasoactive drugs,+24\
+intermittent fever,+24 to +72\
+procalcitonin elevated,+24 to +72\
+C-reactive protein elevated,+24 to +72\
+low hemoglobin,+24 to +72\
+low platelets,+24 to +72\
+Aeromonas hydrophila cultured,+72\
+necrotic tissue on pathology,+72\
+inflammatory cell infiltration,+72\
+acute myeloid leukemia diagnosis,+72\
+myelodysplastic syndrome history,+72\
+wound dressing changes,+24 to +168\
+foul odor from stump,+72\
+exudate from stump,+72\
+muscle necrosis,+72\
+ecchymoses around wound,+72\
+stump revision surgery,+168\
+humerus removed 6 cm,+168\
+vacuum sponge applied,+168\
+vacuum sponge removed,+240\
+vital signs stabilized,+264\
+laboratory indicators normalized,+264\
+extubated,+264\
+consciousness clear,+264\
+wound healed,+336\
+discharged,+336\
+AML chemotherapy declined,+336\
+death due to blood disease,+17520 (2 years later)\

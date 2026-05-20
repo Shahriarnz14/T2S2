@@ -1,0 +1,70 @@
+event,time
+46-year-old,0
+human immunodeficiency virus (HIV)-positive,0
+male,0
+admitted to the intensive care unit (ICU),0
+acute hypoxemic respiratory failure,0
+severe sepsis,0
+shortness of breath,-1440
+cough,-1440
+pleuritic chest pain,-1440
+malaise,-1440
+diffuse joint pain,-1440
+intermittent fevers,-1440
+denies hemoptysis,0
+denies recent travel,0
+denies incarceration history,0
+denies homelessness,0
+worked as a farmer in Bakersfield for the past 3 years,-26280
+fatigue,-336
+fevers,-336
+forearm lesions,-336
+tested positive for Coccidioides antibody IgG,-336
+tachycardic,0
+tachypneic,0
+afebrile,0
+normotensive,0
+hypoxic,0
+oxygen saturation of 85% on room air,0
+coarse bilateral breath sounds,0
+labored breathing,0
+1- to 2-cm palpable subcutaneous nodules in the forearms bilaterally,0
+no notable rashes,0
+no joint effusions,0
+no neurologic deficits,0
+cooperative,0
+alert,0
+oriented,0
+non-invasive mechanical ventilation,0
+started on IV trimethoprim sulfamethoxazole 15 mg/kg daily,24
+started on IV cefepime 2 g every 8 h,24
+started on oral fluconazole 400 mg daily,24
+started on IV liposomal amphotericin B 5 mg/kg daily,24
+started on oral prednisone 40 mg daily,24
+decompensated overnight,24
+mechanical ventilation,24
+septic shock,24
+norepinephrine,24
+blood cultures negative,24
+tuberculosis ruled out,24
+fungal studies negative for pneumocystis,24
+fungal studies negative for cryptococcus,24
+fungal studies negative for toxoplasmosis,24
+coccidioidomycosis with titer levels of 1:64 in the blood,24
+coccidioidomycosis with titer level of 1:1 in the cerebrospinal fluid,24
+antiretroviral therapy held,24
+declining mentation,24
+worsening respiratory status,24
+minimal response to proning,24
+intermittent severe metabolic acidosis,24
+renal failure,24
+improved with dialysis,24
+improved with bicarbonate drips,24
+CT scan of the head with IV contrast showing corpus callosum mass,24
+MRI of the brain showing hemorrhagic mass,24
+echocardiogram showing right ventricular mobile mass,24
+started on IV flucytosine 25 mg/kg daily for 3 days,24
+"switched to IV fluconazole 1,200 mg daily for 6 days",72
+comfort care decision,576
+compassionately extubated,576
+expired,576

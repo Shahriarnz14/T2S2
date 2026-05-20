@@ -1,0 +1,73 @@
+event,time
+55-year-old,0
+male,0
+morbidly obese,0
+known case of diabetes mellitus,0
+end-stage renal disease on hemodialysis,0
+peripheral vascular disease,0
+left below knee amputation,0
+right above knee amputation,0
+right extra anatomical axillobifemoral bypass graft,0
+no adult polycystic kidney disease,0
+right-sided abdominal pain,-48
+vomiting,-48
+fever,-48
+presented to emergency department,-2
+conscious,-2
+alert,-2
+oriented,-2
+looked pale,-2
+looked sick,-2
+temperature 37.8°C,-2
+blood pressure 150/90 mmHq,-2
+oxygen saturation 95% on room air,-2
+abdomen was distended,-2
+tympanic abdomen,-2
+right upper quadrant tenderness,-2
+right flank tenderness,-2
+total leukocyte count 20 × 103,-2
+hemoglobin 10.7 gm%,-2
+acidotic with pH 7.33,-2
+laboratory evidence of end-stage renal disease,-2
+chest X-ray demonstrated air under the right hemi-diaphragm,-2
+started on parenteral antibiotics in ER,-2
+evaluated by the general surgeon,-1
+impression of perforated viscous,-1
+computed tomography with contrast,-1
+right perinephric collection,-1
+extension into the right sub-phrenic region,-1
+gas in the right collecting system,-1
+gas in the urinary bladder,-1
+no gas in the renal parenchyma,-1
+computed tomography showed the right atrial thrombus,-1
+right perinephric abscess,-1
+admitted to intensive care unit,0
+trial of percutaneous drainage,4
+percutaneous drainage failed,4
+very high risk for surgical intervention,4
+dry collection,4
+very thick collection,4
+evaluated by the anesthetist,6
+not fit for general anesthesia,6
+requested to do the minimal life-saving procedure,6
+Nephrectomy was not suitable option,6
+epidural anesthesia,8
+sedation,8
+open drainage of perinephric collection,8
+open drainage of sub-phrenic collection,8
+foul smelly collection,8
+loculated collection,8
+cystoscopy,8
+very abnormal bladder mucosa,8
+multiple cystic lesions with air “bubbles” all over the bladder,8
+ureteric Double J stent inserted in the right ureter,8
+urethral catheter inserted,8
+patient reasonably well during the procedure,8
+emphysematous renal cyst infection,8
+ruptured emphysematous renal cyst,8
+condition started to deteriorate,24
+culture of the collection showed Klebsiella pneumonia extended-spectrum β-lactamase,36
+continued to deteriorate,36
+severe sepsis,48
+multiple organ failure,48
+died,48

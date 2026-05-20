@@ -1,0 +1,95 @@
+event,time
+31-year-old,0
+woman,0
+admitted to the hospital,0
+history of systemic lupus erythematosus,-43800
+history of stage IV lupus nephritis,-35040
+history of prior stroke,-8760
+history of intravenous drug use,-8760
+history of three prior mitral valve replacements over 1 year,-8760
+history of recurrent NBTE,-8760
+history of aggressive immunosuppression,-8760
+history of anticoagulation,-8760
+initial diagnosis of pneumonia,-48
+intravenous antibiotics initiated for pneumonia,-48
+outside blood cultures collected,-48
+outside blood cultures negative,-48
+antiphospholipid serology normal,-24
+presented with cardiogenic shock,0
+mental status changes,0
+drowsy,0
+elevated jugular venous pressure,0
+prominent v wave,0
+body temperature 36.3°C,0
+blood pressure 95/66 mm Hg,0
+heart rate 94 beats/min,0
+hemoglobin 10.3 g/dL,0
+white blood cell count 18.9 × 10^9/L,0
+platelet count 64 × 10^9/L,0
+international normalized ratio 3.6,0
+creatinine 1.7 mg/dL,0
+drug studies positive for narcotics,0
+drug studies positive for cannabis,0
+infectious endocarditis seriously considered,0
+infectious disease team consulted,0
+infectious disease team advised ongoing broad-spectrum intravenous antibiotics,0
+broad-spectrum intravenous antibiotics continued,0
+blood cultures with extended cultures,0
+serologic studies ordered for Coxiella,2
+serologic studies ordered for Legionella,2
+serologic studies ordered for Chlamydia,2
+serologic studies ordered for Bartonella,2
+serologic studies ordered for Brucella,2
+Tropheryma whipplei testing ordered,2
+human immunodeficiency virus testing ordered,2
+hepatitis testing ordered,2
+transthoracic echocardiography performed,4
+mitral valve prosthesis dehiscence,4
+prosthetic valve displaced to the mid atrium,4
+severe mitral regurgitation,4
+intervalvular fibrosa completely dehisced,4
+associated cavity,4
+two dominant jets of periprosthetic regurgitation,4
+three-dimensional imaging used,6
+preoperative transesophageal echocardiography performed,8
+posterior annulus dehiscence,8
+loculated cavity,8
+perivalvular regurgitation,8
+annular pseudoaneurysm,8
+NBTE,0
+patient and family counseled regarding high-risk procedure,20
+fourth sternotomy,24
+intraoperative finding: mitral valve prosthesis dehisced along majority of posterior annulus,24
+intraoperative finding: prosthesis sitting high in the left atrium close to the pulmonary veins,24
+true mitral annulus displaced apically,24
+large cavity at the intervalvular fibrosa with multiloculations debrided,24
+multiple vegetations on bioprosthetic valve leaflets,24
+leaflet destruction,24
+extensive reconstruction of the fibrous skeleton of the heart and atria,24
+mitral valve annulus reconstructed with 33-mm bioprosthesis,24
+bovine pericardium patch used to reconstruct left atrial dome,24
+bovine pericardium patch used to reconstruct interatrial septal incision,24
+operative cultures sent: Gram stain,24
+operative cultures sent: anaerobic culture,24
+operative cultures sent: aerobic culture,24
+operative cultures sent: fungal smear and culture,24
+operative cultures sent: acid-fast smear,24
+operative cultures sent: mycobacterial culture,24
+operative pathology examination sent,24
+operative molecular testing if indicated: 16S rRNA,24
+postbypass transesophageal echocardiography: well-seated mitral valve bioprosthesis,26
+postbypass transesophageal echocardiography: mean gradient 3 mm Hg,26
+postbypass transesophageal echocardiography: no regurgitation,26
+left ventricular ejection fraction 25%,26
+sluggish blood flow within the left atrium,26
+extracorporeal membrane oxygenation required,26
+multiple blood product transfusions,27
+surgical pathology: bland fibrin thrombus and fibrous tissue with mild chronic inflammation,48
+operative pathology negative for microorganisms,48
+no culprit organisms identified,72
+TEE: layered thrombus in the left atrium adjacent to the mitral valve,144
+surgical clot removal,145
+intraoperative thrombus reaccumulated,146
+extracorporeal membrane oxygenation support withdrawn,150
+died,151
+autopsy declined,152

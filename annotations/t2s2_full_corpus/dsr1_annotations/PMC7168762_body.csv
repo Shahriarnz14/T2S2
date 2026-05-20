@@ -1,0 +1,46 @@
+event,time
+6-year-old,0
+female,0
+admitted to pediatric intensive care unit,0
+acute hypoxic respiratory failure,0
+septic shock,0
+suspected pneumonia,0
+diffuse bilateral interstitial opacities,0
+acute respiratory distress syndrome,0
+non-invasive positive pressure ventilation,0
+tracheal intubation,6
+broad spectrum antibiotics,0
+sedation,0
+Pressure Regulated Volume Control,6
+tidal volume 200ml,6
+respiratory rate 30,6
+PEEP 6 cmH2O,6
+FiO2 1.0,6
+mean airway pressure 21 cmH2O,6
+peak inspiratory pressure 32 cmH2O,6
+oxygenation index 19.3,6
+PaO2:FiO2 ratio 102.3,6
+severe PARDS,6
+arterial blood gas pH 7.27,6
+arterial blood gas PaCO2 49,6
+arterial blood gas PaO2 87,6
+base deficit 4.8,6
+prone positioning,6
+paralysis,6
+worsening chest x-ray,6
+transthoracic echocardiogram normal function,6
+LV shortening fraction 54.9%,6
+no pulmonary hypertension,6
+esophageal balloon catheter placement,6
+transpulmonary pressure measurement,6
+PEEP titration,6
+esophageal balloon confirmed placement,6
+PL ≤10 cmH2O goal,6
+PLexp 0 ±2 cmH2O goal,6
+neuromuscular blockade discontinued,72
+PEEP weaning,72
+esophageal balloon removed,103
+extubated,155
+weaned off respiratory support,155
+febrile illness,-216
+shortness of breath,-48

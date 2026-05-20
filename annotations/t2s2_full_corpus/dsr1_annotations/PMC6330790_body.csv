@@ -1,0 +1,68 @@
+event,time
+33 years old,0
+female,0
+chronic hypersensitivity pneumonitis,0
+progressively increasing dyspnea,0
+treated with high-dose glucocorticoids,-previous
+treated with azathioprine,-previous
+enlisted for lung transplantation,-previous
+chest radiograph,-previous
+high-resolution computed tomography scan,-previous
+donor: 22-year-old brain dead male,0
+donor: traumatic brain injury,0
+donor: mechanically ventilated,0
+donor: FiO2 0.21,0
+donor: chest radiograph unremarkable,0
+donor: flexible bronchoscopy unremarkable,0
+explantation: secretions in both main bronchi,0
+explantation: swabs sent for bacterial culture,0
+clamshell incision,0
+both lungs transplanted sequentially,0
+induction immunosuppression: basiliximab 20 mg,0
+induction immunosuppression: methylprednisolone 500 mg,0
+surgery completed in 10 h,0
+shifted to Intensive Care Unit,0
+immunosuppression: methylprednisolone 125 mg every 6 h,0
+immunosuppression: oral tacrolimus 0.1 mg/kg/day,0
+histopathological examination: airway-centric fibrosis,0
+FiO2 0.4 required,24
+chest radiograph: bilateral diffuse alveolar opacities,24
+echocardiography: normal ejection fraction,24
+primary graft dysfunction considered,24
+antibody-mediated rejection considered,24
+hospital-acquired infection considered,24
+direct crossmatch negative,24
+started on intravenous colistin,24
+started on nebulized colistin,24
+started on intravenous vancomycin,24
+extubated,48
+preemptive noninvasive ventilation administered,48
+donor bronchial swab culture: MDR Klebsiella pneumoniae,48
+recipient blood culture: MDR Klebsiella pneumoniae,48
+recipient BAL fluid culture: MDR Klebsiella pneumoniae,48
+persistent fever,48
+respiratory failure not improving,48
+intravenous tigecycline added,48
+vancomycin stopped,48
+tacrolimus withheld,48
+basiliximab (second dose) withheld,48
+immunosuppression: oral prednisolone 40 mg/day,48
+blood culture: MDR Klebsiella pneumoniae (7 days),168
+bilateral empyema: MDR Klebsiella pneumoniae,168
+intravenous fosfomycin added,168
+intrapleural colistin irrigation,168
+partial clearing of lung opacities,288
+weaned off NIV,288
+high-flow nasal cannula oxygen,288
+nasal prongs 2 L/min,288
+acute onset hypotension,288
+fresh blood in chest drains,288
+surgical re-exploration,288
+right ventricle punctured by sternal wire,288
+repair of cardiac injury,288
+continued deterioration,288
+increasing alveolar opacities,288
+subcutaneous air collection,288
+succumbed to refractory septic shock,336
+hospital-acquired pneumonia,336
+lung biopsy: no graft rejection,288

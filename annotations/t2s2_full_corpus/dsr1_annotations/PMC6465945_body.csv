@@ -1,0 +1,62 @@
+event,time
+33 years old,0
+male,0
+admitted to the hospital,0
+abdominal pain,0
+distension,0
+bowel obstruction,-672
+enterolysis,-672
+omentum majus biopsy,-672
+relapse of abdominal pain,-336
+exploratory laparotomy,-336
+bypass operation,-336
+intermittent fever,-336
+cachexia,-336
+severe intra-abdominal infection,-336
+hypoalbuminemia,-336
+hydrothorax,-168
+poor incisions healing,-168
+suspected fistula,-168
+intestinal juice flowing from the incision,-168
+high fever (39 °C),0
+anti-infection therapy,0
+acid suppression therapy,0
+digestive juices secretion suppression therapy,0
+total parenteral nutrition,0
+double-pipe drainage,0
+open abdomen,0
+enteroatmospheric fistula,0
+fistula stent implantation,216
+contrast-mediated fistula angiography,0
+reduced enteric fistula effluent,240
+restored enteral nutrition,288
+nasal feeding,288
+skin grafting,480
+granulation around EAF,648
+orifice of fistulous tract decreased,648
+definitive intestinal anastomosis,future
+abdominal closure,future
+bowel obstruction,-1344
+enterolysis,-1344
+omentum majus biopsy,-1344
+abdominal pain (relapse),-672
+exploratory laparotomy,-672
+bypass operation,-672
+intermittent fever,-672
+cachexia,-672
+severe intra-abdominal infection,-672
+hypoalbuminemia,-672
+hydrothorax,-168
+poor incisions healing,-168
+suspected fistula,-168
+intestinal juice flowing from the incision,-168
+admitted to the hospital,0
+intermittent high fever (39 °C),0
+anti-infection therapy,0
+acid suppression therapy,0
+digestive juices secretion suppression therapy,0
+total parenteral nutrition,0
+double-pipe drainage,0
+open abdomen,0
+enteroatmospheric fistula found,0
+contrast-mediated fistula angiography,0

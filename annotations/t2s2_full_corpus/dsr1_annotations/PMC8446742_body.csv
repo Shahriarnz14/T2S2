@@ -1,0 +1,93 @@
+event,time
+32 years old,0
+male,0
+admitted to the hospital,0
+end-stage liver disease,0
+transudative pleural effusion,0
+disseminated Cryptococcus,0
+abdominal pain,-4320
+recurrent ascites,-4320
+multiple paracentesis,-4320
+albumin therapy,-4320
+difficulty ambulating,-4320
+nausea,-4320
+dizziness,-4320
+sodium level 120 mEq/L,-4320
+paracentesis,-4320
+started on ceftriaxone,-4320
+developed dyspnea,-4320
+increased oxygen requirements,-4320
+pleural fluid positive Cryptococcal antigen,-4320
+no neurological symptoms,-4320
+no meningeal symptoms,-4320
+started on IV fluconazole,-4320
+transferred to our hospital,-4320
+cryptogenic cirrhosis,0
+right hypothalamic juvenile pilocytic astrocytoma,0
+status-post resection,0
+radiation (20 years prior),0
+bilateral occipital ventriculoperitoneal shunt placement,0
+panhypopituitarism,0
+taking oral hydrocortisone,0
+desmopressin (DDVAP),0
+frequently hypernatremic,0
+afebrile,0
+normal white blood cell count,0
+blood cultures negative,0
+HIV test negative,0
+ALT 28 units/L,0
+AST 35 units/L,0
+viral hepatitis panel negative,0
+started on stress-dose steroids,0
+symptomatic relief of dyspnea,24
+thoracentesis removed 1.5 L transudative fluid,24
+paracentesis,48
+206 nucleated cells/μL,48
+ceftriaxone discontinued,48
+CT thorax revealed massive left-sided pleural effusion,48
+atypical pneumonia on the right,48
+reactive lymphadenopathy,48
+serum Cryptococcal Ag positive,72
+switched to amphotericin B and flucytosine,72
+pleural fluid Cryptococcal Ag positive,96
+blood cultures grew C. neoformans,120
+pleural fluid culture positive,120
+abdominal fluid culture positive,120
+transthoracic echo showed no vegetation,120
+CT head no ventriculitis,120
+CSF positive Cryptococcal Ag,96
+CSF culture positive,144
+VP shunt removed,144
+external ventricular drain placed,144
+therapeutic thoracentesis revealed exudative fluid,264
+serosanguinous fluid,264
+lethargic,264
+altered mental status,264
+EEG consistent with non-convulsive status epilepticus,264
+started on levetiracetam,264
+started on lacosamide,264
+intubated,264
+midazolam drip,264
+ketamine infusion,264
+pressor support,264
+anuric AKI,264
+started on CVVH,264
+flucytosine adjusted,264
+worsening septic shock,312
+negative repeat blood cultures,312
+started on piperacillin/tazobactam,312
+started on vancomycin,312
+changed to meropenem,312
+changed to daptomycin,312
+required five pressors,312
+sodium bicarbonate infusion,312
+increased stress steroids,312
+shock liver,336
+DIC,336
+bleeding from nasogastric tube,336
+blood transfusions,336
+platelet transfusions,336
+fresh frozen plasma,336
+cryoprecipitate,336
+comfort care measures,360
+died,360

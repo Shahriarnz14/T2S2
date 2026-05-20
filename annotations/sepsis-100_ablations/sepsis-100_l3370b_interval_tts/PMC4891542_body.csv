@@ -1,0 +1,78 @@
+event,time
+39 years old,0
+female,0
+height 155 cm,0
+weight 44.5 kg,0
+mild dyspnea,0
+adenoid cystic carcinoma in the carina,0
+carinal resection,0
+reconstruction,0
+chest computed tomography,-24
+bronchoscopy,-24
+left mainstem bronchus obstruction,-24
+carina obstruction,-24
+right mainstem bronchus obstruction,-24
+internal diameter of RMB 11 mm,-24
+length of RMB 12 mm,-24
+length of distal LMB 20 mm,-24
+moderate obstructive pattern of pulmonary function test,-24
+forced expiratory volume in one second 1.88 liter,-24
+forced vital capacity 2.81 liter,-24
+ratio of forced expiratory volume in one second to forced vital capacity 67%,-24
+general anesthesia,0
+target-controlled infusion of propofol,0
+target-controlled infusion of remifentanil,0
+rocuronium,0
+tracheal intubation,0
+right-sided double-lumen tube,0
+right lateral position,0
+left bronchi and vasculature dissection,0
+thoracoscopic surgery,0
+right OLV,0
+arterial oxygen tension 462 mmHg,20
+inspired oxygen fraction 1.0,0
+left thoracoscopic surgery,20
+single-lumen endotracheal tube,20
+bronchial blocker,20
+left lateral position,40
+right thoracotomy,40
+peak airway pressure 28 cmH2O,40
+tidal volume 300 ml,40
+arterial oxygen tension 110 mmHg,60
+left OLV,40
+carinal resection,60
+resection of LMB,60
+insertion of sterile endotracheal tube into LMB,60
+airway pressure 35 cmH2O,60
+oxygen saturation by pulse oximetry 70%,60
+resection of RMB,60
+insertion of additional sterile endotracheal tube into RMB,60
+differential bilateral lung ventilation,60
+oxygen saturation by pulse oximetry 100%,62
+removal of carina,62
+anastomosis of RMB and trachea,62
+no air leak in anastomotic site,62
+removal of left endobronchial tube,120
+non-dependent right OLV,120
+low tidal volume 200-250 ml,120
+airway pressure lower than 20 cmH2O,120
+oxygen saturation by pulse oximetry below 80%,120
+reinsertion of left endobronchial tube,120
+two-lung ventilation,120
+inspired oxygen fraction 1.0,120
+oxygen saturation by pulse oximetry 100%,125
+right OLV,125
+oxygen saturation by pulse oximetry below 90%,128
+clamping of left pulmonary artery,128
+ligation of left pulmonary artery,128
+oxygen saturation by pulse oximetry 100%,133
+removal of left endobronchial tube,133
+closure of right thoracotomy,133
+left thoracotomy,180
+resection of left pulmonary artery and veins,180
+left pneumonectomy,180
+supine position,360
+tracheal extubation,360
+transfer to intensive care unit,360
+discharge on 13th postoperative day,780
+no complications,780

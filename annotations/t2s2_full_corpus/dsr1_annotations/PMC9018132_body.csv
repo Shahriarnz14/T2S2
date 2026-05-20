@@ -1,0 +1,56 @@
+event,time
+43-year-old man,0
+presented to hospital,0
+uncontrolled sepsis,0
+infected surgical wound on right foot,0
+history of uncontrolled diabetes mellitus,-336
+history of chronic kidney disease,-336
+no history of medication consumption,0
+infected wound on right forefoot,-336
+intangible trauma,-336
+Ray's amputation of first two phalanges,-72
+pus from wound,-72
+purulent discharge,0
+cellulitis,0
+no necrosis around wound,0
+decreased urination,0
+Foley catheter insertion,0
+no fracture,0
+no foreign bodies,0
+leukocytosis (17.1×10³/μL),0
+neutrophilia (15.5×10³/μL),0
+lymphopenia (1.1×10³/μL),0
+anemia (Hb 7.9 g/dL),0
+thrombocytopenia (100×10³/μL),0
+elevated creatinine (3.5 mg/dL),0
+elevated BUN (189 mg/dL),0
+elevated CRP (96.1 mg/L),0
+metabolic acidosis (pH 7.34),0
+admitted to ICU,0
+vancomycin,0
+piperacillin/tazobactam,0
+imipenem,0
+wound irrigation,0
+persistent sepsis,168
+fever (38.5°C),168
+systolic hypotension,168
+confusion,168
+leukocytosis (12.7×10³/μL),168
+anemia (Hb 6.9 g/dL),168
+"thrombocytopenia (39,000/μL)",168
+high creatinine,168
+Guillotine ankle amputation,168
+sepsis controlled,240
+no purulent discharge,240
+necrotic ulcer at IV site,240
+extensive debridement,240
+CM diagnosis,240
+liposomal amphotericin B,240
+pulseless radial artery,288
+pulseless ulnar artery,288
+arterial occlusion,288
+DVT in axillary vein,288
+surgical embolectomy,288
+severe sepsis,336
+multi-organ failure,336
+death,336

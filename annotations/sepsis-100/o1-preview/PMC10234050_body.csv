@@ -1,0 +1,50 @@
+event,time
+Severe preeclampsia in mother ,0
+Baby boy ,0
+Born by emergency cesarean section ,0
+At 25⁶⁄₇ gestational week ,0
+Birthweight of 665 g ,0
+Intubated in the delivery room ,0
+Transferred to the neonatal intensive care unit ,0
+On mechanical ventilation ,0
+Total parenteral nutrition started ,0
+Minimal enteral nutrition with breast milk started ,0
+Delayed meconium passage ,24
+Abdominal distension ,24
+Increased gastric residuals ,24
+Laboratory findings compatible with NEC ,48
+Radiological findings compatible with NEC ,48
+Minimal enteral feeding discontinued ,48
+Gastric free drainage initiated ,48
+Broad-spectrum antibiotic therapy initiated ,48
+Operated due to perforated NEC ,144
+Multiple areas of perforation in intestinal wall ,144
+Circulatory disturbances in intestinal wall ,144
+Resection of jejunum and ileum ,144
+Stoma was formed ,144
+Developed short bowel syndrome ,144
+On TPN until postoperative seventh day ,144
+Minimal enteral feeding restarted ,312
+Enteral nutrition insufficient due to short bowel syndrome ,312
+Serum fT4 level 0.87 ng/dL ,336
+Serum TSH level 0.061 mIU/L ,336
+Cortisol level 5.75 µg/dL ,336
+Serum total bilirubin 12.12 mg/dL ,336
+Direct bilirubin 11.48 mg/dL ,336
+fT4 level decreasing ,504
+Increasing TSH levels ,504
+Enteral levothyroxine 5 µg/kg/day started ,504
+No response to enteral levothyroxine ,672
+Enteral levothyroxine dose increased to 10 µg/kg/day ,672
+Still no increase in fT4 levels ,1008
+"Poor absorption of the drug due to resected duodenum, jejunum, and ileum ",1008
+Enteral levothyroxine discontinued ,1632
+Rectal levothyroxine started ,1632
+Rectal levothyroxine dose 10 µg/kg/day administered ,1632
+After nine days of rectal levothyroxine treatment fT4 levels increased ,1848
+Bilirubin levels decreased ,1848
+Baby died ,1848
+Cause of death was severe bronchopulmonary dysplasia ,1848
+Cause of death was surgical NEC ,1848
+Cause of death was short bowel syndrome ,1848
+Cause of death was sepsis ,1848

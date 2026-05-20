@@ -1,0 +1,82 @@
+event,time
+61-year-old,0
+female,0
+squamous cell carcinoma (stage 1) oesophagus,0
+elective laparoscopic oesophagectomy,0
+gastric pull through operation,0
+preoperative assessment,-24
+left ventricular function normal,-24
+transthoracic echocardiography (TTE) normal,-24
+no anxiety,-24
+benzodiazepines preoperatively,-24
+benzodiazepines intraoperatively,-24
+benzodiazepines postoperatively,-24
+induced with fentanyl,-24
+induced with propofol,-24
+intubated with rocuronium,-24
+maintained with isoflurane,-24
+maintained with O2 nitrous,-24
+maintained with rocuronium,-24
+shifted to ICU,0
+elective ventilation,0
+tachycardia (130/min),10
+hypotension (80/60 mmHg),10
+patient ventilator asynchrony,10
+tachypnea,10
+increased thoracic drain output,10
+bloody thoracic drain output,10
+low CVP (3 mmHg),10
+sinus tachycardia (ECG),10
+arterial blood gas analysis normal,10
+cardiac enzymes normal,10
+lower pCO2 levels,10
+crystalloid infusion (1 litre),10
+colloid infusion (0.5 litre),10
+no improvement after fluid,10
+vasopressor (noradrenaline) infusion,10
+mean blood pressure improved,10
+midazolam increased (2 mg/h),10
+fentanyl increased (100 mcg/h),10
+re-exploration,10
+no surgical bleeding,10
+drains repositioned,10
+surgical site oozing,10
+hemodynamically unstable,10
+persistent vasopressor need,10
+no fever,10
+no leukocytosis,10
+normal procalcitonin,10
+sterile blood cultures,10
+poor R wave progression V1-V3 (ECG),48
+hypokinesia distal septum,48
+hypokinesia apex,48
+hyperkinetic basal left ventricle,48
+apical ballooning,48
+left ventricular peak mid cavity gradient 65 mmHg,48
+ejection fraction 40%,48
+no mitral regurgitation,48
+no aortic regurgitation,48
+troponin I normal,48
+CK normal,48
+myoglobin >500 U,48
+BNP 3500 U,48
+TTS suspected,48
+angiography deferred,48
+low molecular weight heparin started,48
+aspirin started,48
+statins started,48
+no beta blockers,48
+dobutamine infusion,48
+T wave inversion V3-V6,60
+T wave inversion Lead II,60
+troponin I normal,60
+CK normal,60
+myoglobin normal,60
+BNP 1000 U,60
+left ventricular peak mid cavity gradient 70 mmHg,60
+ejection fraction 30%,60
+surgical site sepsis,168
+multi drug resistant abdominal sepsis,168
+combined cardiogenic shock,168
+combined septic shock,168
+death,168

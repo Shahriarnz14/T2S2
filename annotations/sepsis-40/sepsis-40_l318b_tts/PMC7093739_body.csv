@@ -1,0 +1,23 @@
+event,time
+Admission,0
+Laceration to the right lower extremity,-4
+Remaining in wet pants for multiple hours,-4
+"Increased edema, erythema, and pain to the affected leg",-3
+Bullae developed,-3
+Drained the lesions,-3
+Initial presentation in the Emergency Department,0
+WBC count of 7400 cells/mcL with 50% band neutrophils and elevated lactate of 3.0 mmol/L,0
+"Blood cultures were obtained, 1 g ceftriaxone IVPB was given",0
+"Admitted to the hospital for cellulitis of the right lower extremity, bandemia, and lactic acidosis",0
+Acute hypoxic respiratory failure with altered mentation and hypotension,1
+Transferred to the Intensive Care Unit secondary to severe sepsis,1
+Cefepime and metronidazole were started in the ICU,1
+Returned to the medical floor upon improving clinically,2
+Blood cultures grew Plesiomonas shigelloides,2
+"Antimicrobial susceptibilities displayed the organism was sensitive to ceftriaxone, ciprofloxacin, ertapenem, and meropenem",2
+Ciprofloxacin was added to her treatment regimen,2
+Experienced changes in her stool and ciprofloxacin was discontinued after 7 days due to concerns for Clostridium difficile infection,7
+General surgery was consulted and performed a wound debridement,7
+Discharged to inpatient rehab on a 10-day course of 500 mg metronidazole TID and a one month course of 2 g ceftriaxone IVPB administered daily,14
+Discharged from inpatient rehab after an additional 14 days,28
+Follow up with her family doctor,28

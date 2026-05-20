@@ -1,0 +1,61 @@
+event,time
+87 years old,0
+woman,0
+admitted to emergency unit,0
+abdominal pain,0
+diarrhea,0
+hypertension,0
+third-degree atrioventricular block,0
+pacemaker,0
+fall,-24
+dizziness,-24
+lower abdominal pain,-24
+watery stool,-24
+right-sided pelvic pain,-24
+blood pressure 122/50 mmHg,0
+pulse 63/min,0
+respiratory rate 20/min,0
+saturation 90% on room air,0
+temperature 35.5°C,0
+tenderness over pubic bone,0
+tenderness over lower abdomen,0
+no peritoneal reaction,0
+right hip region swollen,0
+right hip region tender,0
+normal rectal examination,0
+hemoglobin 6.5 mmol/l,0
+white blood cell count 10.6 × 109/l,0
+platelets 102 × 109/l,0
+creatinine 196 µmol/l,0
+C-reactive protein 29 mg/l,0
+pH 7.16,0
+lactate 13.6 mmol/l,0
+X-ray right-sided nondisplaced pubic ramus fracture,0
+arterial blood gas pH 7.42,9
+arterial blood gas lactate 2.7,9
+IV fluid administration,9
+pelvic fracture caused by fall due to severe dehydration,9
+pelvic fracture caused by fall due to diarrhea,9
+condition worsened,21
+severe abdominal pain,21
+C-reactive protein 123 mmol/l,21
+suspicion of intestinal ischemia,21
+exploratory laparotomy,21
+necrosis of sigmoid colon,21
+necrosis of proximal rectum,21
+flexible sigmoidoscopy non-vital mucosa 10–25 cm from anus,21
+non-vital ileum 20 cm from ileocecal region,21
+adherent to rectosigmoid junction,21
+retroperitoneal hematomas in pelvic region,21
+no hematoma near inferior mesenteric artery,21
+resection of non-vital intestinal segments,21
+ileostomy performed,21
+sigmoideostomy performed,21
+minor bleeding during procedure,21
+severe sepsis,21
+intensive care unit admission,21
+recovered,240
+discharged,240
+histopathology necrosis due to ischemia,240
+no vasculitis,240
+no thrombosis,240

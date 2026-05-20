@@ -1,0 +1,65 @@
+event,time
+33-year-old ,0
+female ,0
+nausea ,-24
+vomiting ,-24
+abdominal pain ,-24
+intentional overdose of colchicine (60 tablets of 0.6 mg) ,-34
+discharged ,-36
+treated with colchicine 0.6 mg twice daily ,-96
+febrile (temperature 38.6°C) ,0
+hypotensive (blood pressure 66/39 mm Hg) ,0
+physical examination otherwise benign ,0
+leukocytosis (51.2 × 10^9/l) ,0
+elevated serum lactate (12 mmol/l) ,0
+acute kidney injury (serum creatinine 2.0 mg/dl) ,0
+"acute transaminitis (ALT 2,148 IU/l, AST 4,577 IU/l) ",0
+severe coagulopathy (INR >15) ,0
+serum troponin within normal limits ,0
+comprehensive toxicology screen negative ,0
+electrocardiography showed normal sinus rhythm without ST-T changes ,0
+transthoracic echocardiogram revealed normal biventricular function without valvular disease or pericardial effusion ,0
+sepsis from an intrabdominal source suspected ,0
+fluid resuscitated ,0
+started on broad-spectrum antibiotics ,0
+administered vasopressor therapy ,0
+hypertension ,0
+pulmonary emboli during long-term anticoagulation ,0
+recurrent pericarditis ,0
+polysubstance abuse ,0
+"elevated whole blood colchicine level (17 ng/ml, 14 h after presentation) ",14
+"elevated serum colchicine level (5.7 ng/ml, 30 h after presentation) ",30
+severe multisystem organ failure developed ,24
+intubated ,24
+paralyzed ,24
+treated with intravascular volume repletion ,24
+"escalating doses of intravenous vasopressors (epinephrine, norepinephrine, vasopressin) ",24
+stress-dose steroids ,24
+high-dose vitamin B12 for refractory shock ,24
+Swan-Ganz catheter placed ,24
+initial readings consistent with distributive shock ,24
+hemodynamics rapidly changed to acute onset cardiogenic shock with high filling pressures ,48
+troponin increased to 73.14 ng/ml ,48
+electrocardiogram unchanged ,48
+transesophageal echocardiogram revealed new severe biventricular failure (LVEF 15%) ,48
+intravenous milrinone added for inotropic support ,48
+started on continuous renal replacement therapy (CRRT) for anuric renal failure ,48
+remained hypotensive ,48
+negative blood culture results ,48
+improving leukocytosis ,48
+colchicine toxicity considered ,48
+packed red blood cell transfusion with 10 U of PRBCs initiated ,48
+cardiac output normalized ,72
+troponin decreased ,72
+multisystem organ failure improved ,72
+white blood cell count continued to fall ,96
+became neutropenic ,96
+echocardiogram showed recovery of LVEF to 50% to 55% ,168
+weaned from vasopressors ,240
+taken off CRRT ,240
+lab reports of elevated colchicine levels reported on day 10 ,240
+extubated ,312
+patient admitted to taking 60 tablets of colchicine as an intentional overdose ,312
+discharged after nearly 3-week hospital stay ,504
+entered outpatient rehabilitation ,504
+hair loss ,576

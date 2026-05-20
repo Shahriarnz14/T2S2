@@ -1,0 +1,66 @@
+event,time
+48 years old,0\
+male,0\
+mason,0\
+admitted to the hospital,0\
+fever,-72\
+cough,-72\
+breathlessness,-72\
+type 2 diabetes mellitus,0\
+poor glycemic control,0\
+body temperature 39.7°C,0\
+respiratory rate 28 breaths/min,0\
+heart rate 128 bpm,0\
+blood pressure 100/60 mm Hg,0\
+mucopurulent sputum,0\
+decreased breath sounds on left lung base,0\
+no bilateral crackles,0\
+total leukocyte count 15.9 G/L,0\
+neutrophil predominance,0\
+platelet 78 G/L,0\
+CRP 324.6 mg/l,0\
+HbA1c 9.09%,0\
+small pleural effusion,0\
+consolidated lung base,0\
+Ziehl-Neelsen stain negative for acid-fast bacilli,0\
+sputum culture collected,0\
+blood culture collected,0\
+pleural fluid culture collected,0\
+pleural fluid no visible organisms,0\
+pleural fluid negative culture,0\
+Gram-negative bacilli in sputum Gram stain,0\
+abundant white blood cells in sputum Gram stain,0\
+blood culture turbidity after 4 days,96\
+subcultured on blood agar,96\
+subcultured on Drigalski agar,96\
+smooth white non-hemolytic colonies,96\
+entire margin on blood agar,96\
+non-fermenting colonies on Drigalski agar,96\
+Gram-negative bacilli on Gram stain,96\
+catalase-positive,96\
+oxidase-positive,96\
+API 20NE identified as Aeromonas salmonicida,96\
+treated with cefoperazone-sulbactam,0\
+treated with azithromycin,0\
+treated with gentamicin,0\
+antibiotics changed to piperacillin-tazobactam,24\
+antibiotics changed to fosfomycin,24\
+antibiotics changed to meropenem,24\
+antibiotics changed to ciprofloxacin,24\
+ICU support,0\
+clinical response improved but unstable,24\
+occasional high fever 40°C,24\
+occasional tachypnea,24\
+coughing with thick mucopurulent sputum,24\
+16S rRNA gene sequencing matched B. pseudomallei,96\
+second sputum culture same colony characteristics,96\
+Active Melioidosis Detect positive,96\
+sensitive to amoxicillin/clavulanic acid,96\
+sensitive to ceftazidime,96\
+sensitive to meropenem,96\
+sensitive to sulfamethoxazole/trimethoprim,96\
+sensitive to piperacillin/tazobactam,96\
+transferred to Hue Central hospital,120\
+misdiagnosed for a long time,0\
+ineffective treatment,0\
+long-term physical consequences,0

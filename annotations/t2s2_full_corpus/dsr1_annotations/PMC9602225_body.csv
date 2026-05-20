@@ -1,0 +1,107 @@
+event,time
+23 years old,0
+male,0
+admitted to the intensive care unit,0
+history of modified Fontan operation for Tausing-Bing syndrome,0
+severe acute respiratory distress syndrome,0
+influenza A infection,0
+atrial septal defect,-113880
+ventricular septal defect,-113880
+pulmonary artery stenosis,-113880
+right ventricular double outlet (Tausing-Bing syndrome),-113880
+modified Fontan operation 13 years ago,-113880
+pulmonary orifice sutured,-113880
+tricuspid valve sewn closed,-113880
+left auricle connected with pulmonary artery,-113880
+recovered well after Fontan operation,-113880
+double outlet in right ventricle on echocardiography 3 years ago,-26280
+right atrial enlargement,-26280
+aortic valve regurgitation,-26280
+ejection fraction 50%,-26280
+fever for 5 d,-120
+highest temperature 39.1 °C,-120
+treated with cephalosporin antibiotics,-96
+chest CT showed consolidation in right lower lobe and left superior lobe,-72
+"arterial blood gas: pH 7.476, PCO2 22 mmHg, PO2 54.1 mmHg, HCO3- 20.4 mmol/L",-72
+FiO2 21%,-72
+influenza A antigen positive,-72
+transferred to ICU,-24
+temperature 38.4 °C,0
+blood pressure 86/54 mmHg,0
+respiration rate 40/min,0
+pulse rate 110/min,0
+SPO2 80%,0
+breath sounds thick with moist rales,0
+arrhythmia,0
+dropped-beat pulse,0
+respiratory failure,0
+septic shock,0
+"skin wet, cold, bluish",0
+white blood cell count 11.89 × 109/L,0
+neutrophil percentage 84.94%,0
+hemoglobin 173.10 g/L,0
+hematocrit 48.70%,0
+sodium 128.5 mmol/L,0
+creatinine 279.6 µmol/L,0
+procalcitonin 4.51 ng/mL,0
+C-reactive protein 212.9 mg/L,0
+alanine aminotransferase 48.6 U/L,0
+aspartate aminotransferase 100.4 U/L,0
+total bilirubin 26.2 µmol/L,0
+direct bilirubin 21.4 µmol/L,0
+chest X-ray on admission,0
+APACHE II score 22,0
+Sequential Organ Failure Assessment score 10,0
+Venturi mask with 15 L/min oxygen,0
+saturation 80%,0
+difficulty breathing,0
+"arterial blood gas before mechanical ventilation: pH 7.45, PCO2 30 mmHg, PO2 48.2 mmHg",0
+intubated,0
+ventilator mode: intermittent positive pressure ventilation,0
+FiO2 100%,0
+tidal volume 560 mL,0
+respiratory frequency 20/min,0
+positive end-expiratory pressure 10 cmH2O,0
+peak airway pressure 23 cm H2O,0
+moxifloxacin hydrochloride,0
+paramivir,0
+central venous pressure 40 mmHg,0
+noradrenaline for septic shock,0
+acute kidney injury,0
+hyperkalemia,0
+metabolic acidosis,0
+continuous renal replacement therapy initiated,0
+protective lung ventilation strategy,0
+prone position ventilation,0
+persistent respiratory failure,0
+"arterial blood gas: pH 7.193, PCO2 48 mmHg, PO2 52 mmHg, base excess -10 mmol/L, lactate 1.34 mmol/L",24
+VV ECMO initiated,24
+left femoral and right internal jugular veins catheterized,24
+"ECMO parameters: rotation speed 3100 rpm, blood flow 4.3 L/min, oxygen flow 4.5 L/min, FiO2 100%",24
+VV ECMO switched to VVA ECMO 5 d later,144
+right femoral artery punctured,144
+"VVA ECMO parameters: rotation speed 3800 rpm, blood flow 4 L/min, oxygen flow 4 L/min, FiO2 100%",144
+negative fluid balance 272 mL on day 1,144
+negative fluid balance 345 mL on day 2,168
+CVP decreased to 28 mmHg,168
+circulation deterioration,168
+noradrenaline increased to 1.4 ug/kg/min,168
+cumulative positive fluid balance 10000 mL over 7 d,216
+CVP increased to 35 mmHg,288
+noradrenaline tapered and stopped,360
+ECMO equipment replaced,432
+tracheotomy,528
+VVA ECMO removed,648
+ventilator weaning,1368
+discharged from hospital,1440
+"follow-up on October 25, 2021",30264
+self-care ability,30264
+light manual labor,30264
+pulmonary infection,0
+acute hepatic injury,0
+electrolyte disturbance,0
+atrial fibrillation,0
+bilateral pleural effusion,0
+fungal infection treated with voriconazole,96
+cefoperazone-sulbactam sodium,96
+vancomycin hydrochloride,96

@@ -1,0 +1,64 @@
+event,time
+60-year-old ,0
+female ,0
+history of atrial fibrillation ,0
+dilated cardiomyopathy ,0
+oral warfarin ,0
+implantation of a biventricular pacing implantable cardioverter defibrillator ,0
+found lying at home ,-1
+transported to our hospital by ambulance ,-1
+admitted to the hospital ,0
+chief complaint: impaired consciousness ,0
+Japan Coma Scale (JCS) score was II-10 ,0
+Glasgow Coma Scale (GCS) score was 14 (E3V5M6) ,0
+no clear neurological deficits were observed ,0
+non-contrast head CT ,0
+hemorrhage in the left lateral ventricle ,0
+hemorrhage in the right lateral ventricle ,0
+left dominance of intraventricular hemorrhage ,0
+hemorrhage in the third ventricle ,0
+hemorrhage in the fourth ventricle ,0
+mild ventricular dilatation ,0
+hemorrhage was confined within the ventricles ,0
+no intracerebral hemorrhage ,0
+no subarachnoid hemorrhage ,0
+brain 3D-CTA was performed ,0
+source of bleeding was unclear in the arterial phase ,0
+spot enhancement on the lateral wall of the anterior horn of the left lateral ventricle ,0
+pure primary intraventricular hemorrhage ,0
+admitted to intensive care unit ,1
+blood pressure control was initiated ,1
+no progression of impaired consciousness ,4
+ventricular drainage was not performed ,4
+cerebral angiograph revealed an aneurysm at a distal site of the mLSA arising from the A1 segment of the left ACA ,72
+aneurysm size 3.8 mm ,72
+ruptured aneurysm ,72
+cerebral angiography performed ,72
+endovascular treatment under general anesthesia ,72
+systemic heparinization ,72
+guiding sheath was navigated into the petrous portion of the left internal carotid artery ,72
+distal access catheter was used ,72
+catheter was advanced to the left A1 ,72
+catheterization was difficult due to the mLSA arising in a direction reverse to the path of the left A1 ,72
+compression study of the right common carotid artery confirmed the anterior communicating artery ,72
+contralateral approach was attempted ,72
+guiding sheath was introduced into the petrous portion of the right internal carotid artery ,72
+catheter was advanced through the AComA into the mLSA origin but was unable to be advanced to a site near the aneurysm ,72
+mLSA cannulation was possible after changing the catheter and guide wire ,72
+selective angiography confirmed the location of the catheter tip proximal to the aneurysm ,72
+33% NBCA-Lipiodol mixture was slowly injected ,72
+perforating artery distal and proximal to the aneurysm were confirmed to be filled with NBCA ,72
+aneurysm embolization was performed ,72
+angiography after NBCA injection demonstrated disappearance of the aneurysm ,72
+slight reflux of NBCA was observed in the proximal artery ,72
+postoperative head CT showed no hemorrhagic complications ,74
+no development of clear cerebral infarction on postoperative CT ,74
+neither impaired consciousness nor paralysis developed ,74
+Lipiodol remained as a high-density spot on the lateral ventricular wall of the anterior horn of the left lateral ventricle ,74
+MRI evaluation was not possible ,74
+sepsis triggered by pneumonia developed ,168
+pneumonia ,168
+decrease in muscle strength associated with disuse remained ,168
+rehabilitation for 6-month ,240
+discharged to home ,4560
+modified Rankin Scale (mRS) of 1 ,4560

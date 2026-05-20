@@ -1,0 +1,126 @@
+event,time
+18-year-old,0
+white,0
+female,0
+evaluated by OB/GYN service,0
+increasing abdominal pain,0
+increasing frequency of uterine contractions,0
+increasing intensity of uterine contractions,0
+suprapubic pain,0
+urinary discomfort,0
+vaginal discharge,0
+seen at another facility 3 days prior,-72
+abnormal vaginal discharge,-72
+low abdominal pain,-72
+positive fetal fibronectin test,-72
+no rupture of membranes,-72
+discharged with expectant management,-72
+past medical history of seizures,0
+past medical history of depression,0
+not currently on medication,0
+remote history of smoking,0
+respiratory symptoms over past 1 to 2 weeks,-168
+shortness of breath,-168
+coughing,-168
+rhinorrhea,-168
+instructed to use over-the-counter medications 3 days prior,-72
+presumed viral illness,-72
+living in place with water damage,-168
+utilizing humidifier,-168
+moved out 1 week prior to admission,-168
+G1P0 at 34 weeks 6 days,0
+routine prenatal care,0
+non-completion of GTT,0
+normotensive,0
+appropriate fetal growth,0
+total weight gain of 14 pounds,0
+normal 20-week anatomy scan,0
+persistent productive cough,0
+shortness of breath at presentation,0
+intermittent nausea,0
+denies chest pain,0
+denies lower extremity swelling,0
+denies lower extremity pain,0
+tachycardia 111 bpm,0
+rupture of membranes,0
+closed cervix,0
+lungs clear to auscultation,0
+lower extremity edema 1+,0
+urinary tract infection,0
+GBS status unknown,0
+started steroid prophylaxis,0
+started GBS prophylaxis,0
+ampicillin IV,0
+cefazolin,0
+cesarean section on hospital day 3,72
+fever 40.2°C (104.3°F),96
+tachycardia early postpartum day 1 (hospital day 4),96
+suspicion of sepsis,96
+gentamicin,96
+clindamycin,96
+portable CXR no acute cardiopulmonary disease,96
+blood cultures drawn,96
+blood cultures negative,96
+initial laboratory tests,96
+"influenza A/B, RSV tests",96
+urine Legionella antigen positive,96
+urine mycoplasma negative,96
+urine streptococcus antigen negative,96
+thyroid function tests normal,96
+lower extremity US negative for DVT,96
+transaminitis,96
+"RUQ US normal liver, CBD 0.5 cm",108
+questionable mild gallbladder wall thickening,108
+ceftriaxone 1 gm IV,108
+azithromycin 500 mg IV,108
+azithromycin changed to levofloxacin,108
+recurrent fever,108
+tachycardia up to 130 bpm,108
+transferred to ICU,108
+CT chest bilateral basilar infiltrates,120
+CT chest left upper lobe ground glass opacity,120
+CT abdomen hepatic steatosis,120
+CT abdomen hepatomegaly,120
+ID consultation,120
+switched to oral azithromycin postoperative day 3,120
+treated for endometritis with Zosyn 3 days,120
+condition improved,120
+transferred out of ICU hospital day 6,144
+discharged hospital day 9,216
+complete 10-day azithromycin course,216
+blood pressure normal throughout,0
+transaminitis peaked hospital day 6,144
+AST 813 U/L,144
+ALT 440 U/L,144
+INR normal,144
+bilirubin normal,144
+gastroenterology consult,144
+serologic evaluation negative,144
+HSV-1 IgM positive,144
+HSV-2 IgM positive,144
+parvovirus B19 IgM positive,144
+ammonia normal,144
+repeat US postpartum day 4,168
+hepatic steatosis,168
+hepatomegaly,168
+edema adjacent to gallbladder,168
+gallbladder normal,168
+CBD 2 mm,168
+hepatic arterial flow normal,168
+hepatic venous flow normal,168
+treated with oral NAC,168
+received loading dose NAC,168
+15/17 NAC doses,168
+refused last 2 NAC doses,168
+received 2300 mg Tylenol hospital day 4,96
+refused transfer to university hospital,168
+repeat LFTs normalized 1 week post-discharge,384
+LDH 212 U/L,384
+mild thrombocytopenia,96
+anemia,96
+haptoglobin normal,96
+LDH 615 U/L postpartum day 4,96
+sodium 133 mEq/L postpartum day 3,96
+Legionella pneumonia diagnosis,120
+endometritis diagnosis,96
+sepsis diagnosis,96

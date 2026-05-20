@@ -1,0 +1,58 @@
+event,time
+42-year-old,0
+male,0
+presented to the infectious diseases clinic at the Korea University Anam (KU) Hospital,0
+generalized weakness developed,-2160
+fever developed,-2160
+cough developed,-2160
+experienced a 12-kg weight loss,-2160
+was told that the serum HIV-antibody test done by enzyme-linked immunosorbent assay (ELISA) was positive,-1440
+sputum AFB smear was positive,-1440
+"immediately after the diagnosis of AIDS, he came home to Seoul, South Korea",-1440
+HIV-1 Western blot test was done to confirm the diagnosis and the result was positive,-1300
+CD4 cell count was 10/µL,-1300
+"HIV RNA titer was 18,000 copies/mL",-1300
+"anti-tuberculosis medications (isoniazid, rifampin, ethambutol, pyrazinamide) were started",-960
+fluconazole was given as prophylaxis,-960
+trimethoprim/sulfamethoxazole was given as prophylaxis,-960
+generalized weakness continued,-960
+fever continued,-960
+transferred to KU hospital,0
+body temperature was 37.6℃,0
+oral thrush,0
+hepatosplenomegaly with ascites,0
+hemoglobin 10.6g/dL,0
+"white blood cell 2,700/µL",0
+"platelet 58,000/µL",0
+total bilirubin 2.4mg/dL,0
+AST 131IU/L,0
+ALT 48IU/L,0
+ALP 114IU/L,0
+GGT 133 IU/L,0
+chest X-ray showed costophrenic angle blunting,0
+fluid shifting in the right hemithorax,0
+mild pneumonic infiltration in left lung,0
+disseminated tuberculosis was suspected,0
+sputum AFB smear done at the time of admission was negative,0
+anti-tuberculosis medication was continued,0
+"anti-retroviral agents (zidovudine, lamivudine, efavirenz) were started on admission day 1",24
+pancytopenia progressed rapidly,48
+hemoglobin 7.4g/dL,48
+"white blood cell count 1,070/µL",48
+"platelet count 13,000/µL",48
+rifampin was discontinued,48
+zidovudine was discontinued,48
+trimethoprim/sulfamethoxazole was discontinued,48
+pancytopenia persisted,72
+developed new pulmonary infiltrates,120
+developed septic shock,120
+empirical antibiotic therapy with piperacillin/tazobactam was started,120
+transferred to the intensive care unit for mechanical ventilator support,144
+Gram stain and ordinary culture from sputum and blood revealed no pathologic organisms,144
+pancytopenia did not improve,150
+pneumonia did not improve,150
+hepatosplenomegaly did not improve,150
+bone marrow aspiration and biopsy were performed,216
+patient died as a result of refractory septic shock and hypoxia,240
+bone marrow aspiration smears and biopsy revealed Histoplasma capsulatum,240
+confirmed to have disseminated histoplasmosis,240

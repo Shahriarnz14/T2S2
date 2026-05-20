@@ -1,0 +1,81 @@
+event,time
+60-year-old woman,0
+presented to emergency department,0
+left flank pain,-48
+radiating to groin,-48
+vomiting,-48
+dizziness,-48
+lightheadedness,-48
+absence of urinary symptoms,-48
+absence of fever,-48
+coronary artery disease,0
+prior angioplasty,0
+type 2 diabetes mellitus,0
+difficult-to-control diabetes,0
+insulin glargine 30 units twice daily,0
+insulin lispro 30 units thrice daily,0
+dulaglutide 1.5 mg weekly injection,0
+empagliflozin 25 mg once daily,0
+empagliflozin introduced,-2928 (4 months prior)
+hypertension,0
+losartan 50 mg daily,0
+hypertriglyceridemia,0
+icosapent ethyl 2 g twice daily,0
+former smoker,0
+quit smoking,-61320 (7 years prior)
+family history of heart disease,0
+family history of hypertension,0
+family history of diabetes,0
+family history of dyslipidemia,0
+body mass index 26 kg/m2,0
+costovertebral tenderness,0
+tachycardia,0
+hypotension,0
+hypotension unresponsive to crystalloids,0
+required vasopressors,0
+lactic acidosis 8.4 mmol/L,0
+leukocytosis 10900,0
+"left shift (segments 77%, bands 9%)",0
+platelet count 76000,0
+glycosylated hemoglobin A1C 14%,0
+creatinine 3.5 mg/dL,0
+blood urea nitrogen 57 mg/dL,0
+shock,0
+severe sepsis,0
+hypovolemia,0
+aspartate aminotransferase 81 U/L,0
+alanine transaminase 79 U/L,0
+alkaline phosphatase 160 U/L,0
+total bilirubin 1.6 mg/dL,0
+serum glucose >500 mg/dL,0
+urine analysis large glucose,0
+urine rare bacteria,0
+urine white blood cells <1/HPC,0
+emphysematous pyelonephritis left kidney,0
+ischemic colitis,0
+portal venous gas,0
+air within superior mesenteric vein branches,0
+initial antibiotics cefepime,0
+initial antibiotics vancomycin,0
+initial antibiotics metronidazole,0
+emergent nephrectomy,0
+bowel viable,0
+postoperative ICU management,0
+pan-susceptible Escherichia coli isolated,0
+antibiotics de-escalated,0
+discharged home,0 (after ICU stay)
+cefpodoxime 200 mg twice daily for 7 days,14 days post-nephrectomy (336 hours)
+empagliflozin discontinued,0
+readmitted after near-syncope,1344 (2 months post-discharge)
+abdominal pain,1344
+small bowel obstruction,1344
+decompensated quickly,1344
+cardiopulmonary arrest,1344
+massive emesis,1344
+aspiration of gastric contents,1344
+full resuscitation,1344
+ICU stay,1344
+anoxic brain injury,1344
+surgery not performed,1344
+withdrawal of life support,1344
+died,1344

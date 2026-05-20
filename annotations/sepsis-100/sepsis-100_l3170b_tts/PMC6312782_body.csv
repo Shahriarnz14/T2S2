@@ -1,0 +1,97 @@
+event,time
+10 years old,0
+male,0
+pre-term,-2190
+developmental delays,-2190
+growth delays,-2190
+motor function delays,-2190
+short stature,-1095
+Russell–Silver syndrome,-1095
+proteinuria,-1095
+hypoalbuminemia,-1095
+nephrotic syndrome,-1095
+steroid treatment,-1095
+calcineurin inhibitor treatment,-1095
+renal function deterioration,-1095
+right renal vein thrombosis,-730
+pulmonary embolism,-730
+anticoagulants,-730
+persistent pulmonary hypertension,-730
+sildenafil,-730
+renal transplantation,0
+living donor kidney transplantation,0
+immunosuppression,0
+prednisolone,0
+mycophenolate mofetil (MMF),0
+tacrolimus,0
+MMF discontinuation,70
+steroid tapering,70
+tacrolimus continuation,70
+pneumocystis pneumonia,90
+mechanical ventilation,90
+intravenous sulfamethoxazole/trimethoprim,90
+steroid increase,90
+dysuria,135
+gross hematuria,135
+BUN 24 mg/dL,135
+creatinine 0.56 mg/dL,135
+CRP 0.42 mg/dL,135
+RBC count > 100/HPF,135
+WBC count > 100/HPF,135
+urine culture negative,135
+BK virus negative,135
+JC virus PCR positive,135
+adenovirus culture positive,135
+hemorrhagic cystitis,135
+hydration,135
+pain control,135
+persistent dysuria,142
+persistent hematuria,142
+RBC count > 100/HPF,142
+WBC count 1 to 4/HPF,142
+fever,159
+general weakness,159
+chest tightness,159
+mild cough,159
+persistent dysuria,159
+persistent hematuria,159
+BUN 175 mg/dL,159
+creatinine 8.29 mg/dL,159
+CRP 30.23 mg/dL,159
+hemodialysis,159
+piperacillin/tazobactam,159
+sputum culture negative,159
+blood culture negative,159
+urine culture negative,159
+adenovirus real-time PCR positive,159
+CMV antigen positive,159
+disseminated adenovirus infection,159
+immunosuppression reduction,159
+ganciclovir,159
+renal allograft biopsy,159
+diffuse necrotizing granulomatous tubulointerstitial nephritis,159
+JC virus PCR positive,159
+serum CMV PCR positive,159
+coinfection,159
+antibiotic therapy,159
+granulocyte colony-stimulating factor,159
+immunoglobulin,159
+transfusion,159
+cidofovir,167
+renal impairment dose,167
+probenecid,167
+hemodialysis,167
+serum adenovirus PCR positive,167
+cerebrospinal fluid adenovirus PCR positive,167
+renal function not recovered,167
+generalized tonic-clonic seizure,167
+vancomycin,167
+meropenem,167
+acyclovir,167
+anemia,167
+leukopenia,167
+thrombocytopenia,167
+bone marrow suppression,167
+mechanical ventilation,167
+continuous renal replacement therapy,167
+death,215

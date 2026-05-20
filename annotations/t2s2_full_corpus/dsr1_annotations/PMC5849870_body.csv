@@ -1,0 +1,61 @@
+event,time
+54 years old,0
+male,0
+septic shock,0
+transferred to tertiary hospital,0
+malaise,-168
+rigors,-168
+right upper quadrant pain,-168
+flank pain,-168
+acute cholecystitis,-168
+ascending cholangitis,-168
+treated with ceftriaxone,-168
+treated with metronidazole,-168
+multi-organ failure,0
+oxygen saturations 80%,0
+6L oxygen via Hudson Mask,0
+systolic blood pressure 80,0
+sinus tachycardia 120 beats per minute,0
+bilateral renal angle tenderness,0
+intubated,0
+transferred to intensive care unit,0
+severe metabolic acidosis,0
+anuric renal failure,0
+thrombocytopenia,0
+dialysis initiated,0
+antibiotics broadened to meropenem,0
+antibiotics broadened to metronidazole,0
+antibiotics broadened to fluconazole,0
+CT scan,0
+bilateral emphysematous pyelonephritis,0
+type two diabetes,0
+referred to urology service,0
+discussion with next of kin,0
+decision not to perform nephrectomy,0
+clinical deterioration,24
+coagulopathy (INR 16),24
+metabolic acidosis progression,24
+liver failure,24
+worsening synthetic failure,24
+maximal inotropic support,24
+case conference held,24
+decision to treat medically,24
+supportive care in ICU,24
+antibiotics rationalized to ceftriaxone,24
+Klebsiella infection (sensitive),24
+CT scan day 3,72
+no drainable collections,72
+extubated,144
+ongoing dialysis,144
+acute kidney injury,144
+IV ceftriaxone for 4 weeks,168
+repeat CT after 4 weeks,672
+no significant change in kidneys,672
+afebrile,672
+hemodynamically stable,672
+remained on intermittent hemodialysis,672
+creatinine 250,672
+transfer back to referring hospital,672
+oral augmentin duo forte for 8 weeks,672
+requires regular hemodialysis,672
+life-long dialysis,672

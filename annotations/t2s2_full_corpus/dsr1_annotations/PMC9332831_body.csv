@@ -1,0 +1,73 @@
+event,time
+42 years old,0
+female,0
+admitted to the hospital,0
+sudden onset altered mental status,0
+low grade fevers,-120
+history of intravenous drug use,-8760
+no IV drug use in past 12 months,0
+extraction of all maxillary teeth,-3600
+mandibular dental infection,-2160
+oral amoxicillin,-2160
+temperature 36.7 °C,0
+heart rate 98 beats/min,0
+respiratory rate 17 breaths/min,0
+blood pressure 131/66 mmHg,0
+oxygen saturation 99% on room air,0
+denied fevers,0
+denied chills,0
+denied chest pain,0
+denied dyspnea,0
+denied nausea,0
+denied vomiting,0
+denied diarrhea,0
+denied skin lesions,0
+denied numbness,0
+denied tingling,0
+denied weakness of lower extremities,0
+prominent holosystolic murmur at apex,0
+petechial rash on abdomen,0
+petechial rash on palms,0
+petechial rash on soles of feet,0
+encephalopathy,0
+facial droop,0
+slurred speech,0
+admitted to intensive care unit,0
+started on vancomycin,0
+started on meropenem,0
+unresponsive to voice,24
+minimally responsive to pain,24
+left hemi-neglect,24
+right gaze deviation,24
+Glasgow Coma Scale 6,24
+intubated,24
+leukocytosis 24.7 × 10^9/L,0
+87.6% neutrophils,0
+platelet count 17 × 10^9/L,0
+normal liver function,0
+normal kidney function,0
+declined HIV test,0
+innumerable acute to subacute embolic infarcts in cerebral hemispheres,0
+innumerable acute to subacute embolic infarcts in cerebellar hemispheres,0
+largest infarct right lentiform nucleus,0
+largest infarct corona radiata,0
+proximal right internal carotid artery T-shaped acute thrombus,0
+occlusion right middle cerebral artery,0
+subarachnoid hemorrhage right parietal region,0
+subarachnoid hemorrhage posterior aspect of midbrain,0
+transthoracic echocardogram,0
+echo densities on tricuspid valve,0
+echo densities on aortic valve,0
+echo densities on mitral valve,0
+valvular vegetations,0
+blood culture grew S. marcescens,0
+S. marcescens pansusceptible,0
+antibiotic changed to cefepime,72
+cardiothoracic surgery consulted,72
+poor candidate for surgery,72
+neurological status deteriorated,24
+no cough reflex,144
+no gag reflex,144
+fixed mid-dilated pupils,144
+family withdrew care,144
+discharged to hospice care,144

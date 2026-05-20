@@ -1,0 +1,108 @@
+event,time
+44-year-old,0
+male,0
+chronic hepatitis B virus carrier,0
+dry cough,-168
+shortness of breath,-168
+hypodynamia,-168
+frequent coughing,-72
+yellow-white sputum,-72
+high fever,-72
+20-year history of smoking,-0
+temperature 38.7°C,0
+heart rate 134/min,0
+respiratory rate 24/min,0
+blood pressure 124/70 mmHg,0
+fine crackles in left lung,0
+chest CT patchy high-density shadows,0
+pan-lobar pneumonia,0
+elevated leucocyte count,0
+elevated D-dimer,0
+elevated glucose,0
+elevated blood urea nitrogen,0
+elevated creatinine,0
+elevated C reactive protein,0
+elevated procalcitonin,0
+elevated alanine aminotransferase,0
+elevated aspartate aminotransferase,0
+elevated lactic dehydrogenase,0
+elevated creatine kinase,0
+elevated serum total bilirubin,0
+decreased serum albumin,0
+decreased serum sodium,0
+arterial blood gas pH 7.45,0
+arterial blood gas PaO2 71.3 mmHg,0
+arterial blood gas PaCO2 25.5 mmHg,0
+PO2/FiO2 216.1 mmHg,0
+blood lactate 1.5 mmol/L,0
+sputum culture negative,0
+urine culture negative,0
+blood culture negative,0
+acid-fast staining negative,0
+pneumonia diagnosis,0
+meropenem treatment,0
+moxifloxacin treatment,0
+respiratory deterioration,6
+delirium,6
+intubation,6
+mechanical ventilation,6
+transfer to ICU,6
+arterial blood gas pH 7.23,6
+arterial blood gas PaCO2 34 mmHg,6
+arterial blood gas PaO2 193.5 mmHg,6
+PO2/FiO2 193.5 mmHg,6
+blood lactate 1.3 mmol/L,6
+transfer request,6
+hypoxemia during transport,6
+hemorrhagic fluid from tracheal tube,6
+wet and dry rales,6
+arterial blood gas pH 7.29,6
+arterial blood gas PaCO2 30.4 mmHg,6
+arterial blood gas PaO2 73.7 mmHg,6
+PO2/FiO2 73.7 mmHg,6
+blood lactate 2.3 mmol/L,6
+ARDS,6
+lung-protective ventilation,6
+deep sedation,6
+analgesia,6
+paralysis,6
+continuous renal replacement therapy,6
+prone-position ventilation,6
+increased bilateral pulmonary infiltrates,24
+leucocyte count 19.54 × 109/L,24
+procalcitonin 83.26 ug/L,24
+VV-ECMO initiation,24
+left femoral–right internal jugular cannulation,24
+tidal volume 6 mL/kg,24
+PEEP 10 cmH2O,24
+transfer to tertiary ICU,24
+APACHE II score 17,24
+BALF mNGS,24
+IL-6 447.9 pg/mL,24
+IL-8 178.6 pg/mL,24
+IL-10 17.8 pg/mL,24
+moxifloxacin continued,24
+imipenem/cilastatin sodium,24
+C. abortus detected by mNGS,48
+PCR confirmation,48
+sanger sequencing confirmation,48
+doxycycline added,48
+azithromycin added,48
+imipenem/cilastatin sodium continued,48
+PCT improvement,72
+IL-6 improvement,72
+IL-8 improvement,72
+IL-10 improvement,72
+neuromuscular blocker discontinued,72
+norepinephrine reduced,72
+pulmonary infiltrates improvement,72
+liver function deterioration,96
+total bilirubin 506.36 μmol/L,96
+ECMO weaned,96
+discharge,96
+arterial blood gas pH 7.44,96
+arterial blood gas PO2 112.8 mmHg,96
+arterial blood gas PCO2 34 mmHg,96
+PO2/FiO2 282 mmHg,96
+blood lactate 2.1 mmol/L,96
+patient death,104

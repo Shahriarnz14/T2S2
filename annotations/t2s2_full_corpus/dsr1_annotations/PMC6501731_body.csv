@@ -1,0 +1,201 @@
+event,time
+80 years old,0
+female,0
+admitted to the intensive care unit,0
+dyspnea,-96
+lethargy,-96
+chest tightness,-96
+denied cough,0
+denied hemoptysis,0
+denied fever,0
+denied gastrointestinal symptoms,0
+denied recent sick contacts,0
+denied traveling,0
+end-stage renal disease,0
+long-standing hypertension,0
+hemodialysis,0
+severe pulmonary hypertension,0
+chronic obstructive pulmonary disease,0
+former smoker,0
+15-pack year history of cigarette use,0
+not on anticoagulants,0
+not on amiodarone,0
+not on chemotherapeutic agents,0
+no recent nitrofurantoin use,0
+acute respiratory distress,0
+tachypnea,0
+hypoxemia,0
+oxygen saturation 89% on room air,0
+oxygen saturation 95% on 2 liters oxygen,0
+afebrile,0
+temperature 36.7°C,0
+blood pressure 89/55 mmHg,0
+heart rate 89 beats per minute,0
+normal lungs examination,0
+awake and alert,0
+normal cardiac examination,0
+normal abdomen examination,0
+no petechiae,0
+no bruising,0
+no gingival bleeding,0
+no oozing from intravenous sites,0
+anemia,0
+hemoglobin 9.9 g/dL,0
+hemoglobin 13.3 g/dL at 1 month prior,-720
+leukocytosis,0
+white blood cell count 13.0×10³ cells/μL,0
+left shift,0
+neutrophil count 10.8×10³ cells/μL,0
+serum lactate 3.7 mmol/L,0
+arterial blood gas pH 7.317,0
+arterial blood gas pCO2 57.7 mmHg,0
+arterial blood gas pO2 40.2 mmHg,0
+INR 1.1,0
+prothrombin time 13.5 seconds,0
+partial thromboplastin time 30.6 seconds,0
+negative urine toxicology,0
+negative serum toxicology,0
+chest x-ray retrocardiac infiltrates,0
+nasopharyngeal swabs positive for influenza A,0
+clinical deterioration,0
+shock,0
+intubated,0
+mechanical ventilation,0
+pressors,0
+vancomycin started,0
+piperacillin-tazobactam started,0
+azithromycin started,0
+oseltamivir started,0
+chest CT left lower lobe infiltrates,0
+chest CT right upper lobe infiltrates,0
+chest CT right lower lobe nodule,0
+no pulmonary embolus,0
+fiberoptic bronchoscopy day 2,48
+airway erythema left bronchial tree,48
+airway erythema right bronchial tree,48
+BAL left lower lobe progressively bloody returns,48
+BAL right lower lobe progressively bloody returns,48
+BAL cytology 1513 cells/mm³ WBC,48
+segmented neutrophils 54%,48
+lymphocytes 44%,48
+red blood cells 111250 million cells/mm³,48
+negative bronchoscopy cultures,48
+negative blood cultures,48
+negative urine cultures,48
+autoimmune workup negative,48
+antinuclear antibody negative,48
+cytoplasmic ANCA negative,48
+perinuclear ANCA negative,48
+rheumatoid factor negative,48
+echocardiogram severe pulmonary hypertension,48
+pulmonary artery systolic pressure 78 mmHg,48
+PaO2/FiO2 ratio 102 mmHg,48
+intravenous methylprednisolone 250 mg/day started day 2,48
+improvement in oxygenation day 3,72
+PaO2/FiO2 ratio 317 mmHg,72
+repeated fiberoptic bronchoscopy day 5,120
+normal mucosa,120
+BAL left lower lobe progressively clear returns,120
+decreased oxygen requirement,120
+septic shock,336
+died,336
+80 years old,0
+female,0
+admitted to the intensive care unit,0
+dyspnea,-96
+lethargy,-96
+chest tightness,-96
+denied cough,0
+denied hemoptysis,0
+denied fever,0
+denied gastrointestinal symptoms,0
+denied recent sick contacts,0
+denied traveling,0
+end-stage renal disease,0
+long-standing hypertension,0
+hemodialysis,0
+severe pulmonary hypertension,0
+chronic obstructive pulmonary disease,0
+former smoker,0
+15-pack year history of cigarette use,0
+not on anticoagulants,0
+not on amiodarone,0
+not on chemotherapeutic agents,0
+no recent nitrofurantoin use,0
+acute respiratory distress,0
+tachypnea,0
+hypoxemia,0
+oxygen saturation 89% on room air,0
+oxygen saturation 95% on 2 liters oxygen,0
+afebrile,0
+temperature 36.7°C,0
+blood pressure 89/55 mmHg,0
+heart rate 89 beats per minute,0
+normal lungs examination,0
+awake and alert,0
+normal cardiac examination,0
+normal abdomen examination,0
+no petechiae,0
+no bruising,0
+no gingival bleeding,0
+no oozing from intravenous sites,0
+anemia,0
+hemoglobin 9.9 g/dL,0
+hemoglobin 13.3 g/dL at 1 month prior,-720
+leukocytosis,0
+white blood cell count 13.0×10³ cells/μL,0
+left shift,0
+neutrophil count 10.8×10³ cells/μL,0
+serum lactate 3.7 mmol/L,0
+arterial blood gas pH 7.317,0
+arterial blood gas pCO2 57.7 mmHg,0
+arterial blood gas pO2 40.2 mmHg,0
+INR 1.1,0
+prothrombin time 13.5 seconds,0
+partial thromboplastin time 30.6 seconds,0
+negative urine toxicology,0
+negative serum toxicology,0
+chest x-ray retrocardiac infiltrates,0
+nasopharyngeal swabs positive for influenza A,0
+clinical deterioration,0
+shock,0
+intubated,0
+mechanical ventilation,0
+pressors,0
+vancomycin started,0
+piperacillin-tazobactam started,0
+azithromycin started,0
+oseltamivir started,0
+chest CT left lower lobe infiltrates,0
+chest CT right upper lobe infiltrates,0
+chest CT right lower lobe nodule,0
+no pulmonary embolus,0
+fiberoptic bronchoscopy day 2,48
+airway erythema left bronchial tree,48
+airway erythema right bronchial tree,48
+BAL left lower lobe progressively bloody returns,48
+BAL right lower lobe progressively bloody returns,48
+BAL cytology 1513 cells/mm³ WBC,48
+segmented neutrophils 54%,48
+lymphocytes 44%,48
+red blood cells 111250 million cells/mm³,48
+negative bronchoscopy cultures,48
+negative blood cultures,48
+negative urine cultures,48
+autoimmune workup negative,48
+antinuclear antibody negative,48
+cytoplasmic ANCA negative,48
+perinuclear ANCA negative,48
+rheumatoid factor negative,48
+echocardiogram severe pulmonary hypertension,48
+pulmonary artery systolic pressure 78 mmHg,48
+PaO2/FiO2 ratio 102 mmHg,48
+intravenous methylprednisolone 250 mg/day started day 2,48
+improvement in oxygenation day 3,72
+PaO2/FiO2 ratio 317 mmHg,72
+repeated fiberoptic bronchoscopy day 5,120
+normal mucosa,120
+BAL left lower lobe progressively clear returns,120
+decreased oxygen requirement,120
+septic shock,336
+died,336

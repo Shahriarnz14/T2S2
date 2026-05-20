@@ -1,0 +1,177 @@
+event,time
+30 years old,0\
+gentleman,0\
+Saethre-Chotzen syndrome,0\
+history of open surgical pulmonic valvotomy,0\
+history of pulmonary outflow homograft patch,0\
+presented to community hospital,0\
+shortness of breath,0\
+abdominal pain,0\
+nausea,0\
+vomiting,0\
+gastric bypass for morbid obesity,0\
+admission BMI 42,0\
+recent treatment for bilateral lower extremity swelling,-72\
+antibiotics,-72\
+steroids,-72\
+some resolution,-72\
+HR 90,0\
+BP 140/80 mmHg,0\
+RR 27 breaths per minute,0\
+pulse oximetry 92%,0\
+initiated on antibiotics,0\
+nasal cannula oxygen,0\
+intravenous fluids,0\
+maintenance therapy,0\
+chest x-ray showed low lung volumes,0\
+venous duplex study demonstrated acute left lower extremity superficial thrombophlebitis,0\
+CT angiography of chest demonstrated no acute pulmonary embolism,0\
+significant cardiomegaly,0\
+central pulmonary artery enlargement,0\
+abdominal scan demonstrated cholelithiasis,0\
+nephrolithiasis,0\
+left intrarenal calculus,0\
+low attenuation in lower pole of right kidney,0\
+wedge-shaped infarct,0\
+small cerebellar infarct,0\
+worsening hypoxemia,0\
+transferred to ICU,0\
+BiPAP initiated,0\
+continued decline,72\
+intubated,168\
+mechanical ventilation,168\
+day seven post-admission,168\
+lung protective ventilation,168\
+acute respiratory distress syndrome (ARDS),168\
+high PEEP strategy,168\
+low MAP <60,168\
+norepinephrine,168\
+vasopressin,168\
+FiO2 1.0,168\
+PEEP 16,168\
+ABG pH 7.4,168\
+pCO2 41,168\
+paO2 42,168\
+failure of mechanical ventilation,168\
+mobile ECMO team activation,168\
+veno-venous ECMO initiation,168\
+CT scan not suggestive of bilateral opacities,168\
+no echocardiography done,168\
+initiated inhaled nitric oxide therapy,168\
+40 ppm iNO,168\
+oxygen saturation improved to 94%,168\
+paO2 65.9,168\
+transferred to institution on iNO,168\
+transesophageal echocardiogram performed,168\
+large intra-atrial bidirectional shunt,168\
+right-to-left flow during systole,168\
+left-to-right flow during diastole,168\
+large patent foramen ovale,168\
+right-sided chamber enlargement,168\
+severe pulmonary regurgitation,168\
+dilatation of pulmonary arteries,168\
+bi-direction flow,168\
+thick septum primum,168\
+thin septum secundum,168\
+enlarged pulmonary artery 4.9 cm,168\
+severe pulmonary valve regurgitation,168\
+absent left main coronary artery,168\
+separate ostial connections,168\
+bronchoscopy performed,168\
+significant secretions in right bronchial lower lobe,168\
+influenza B positive,168\
+pulmonary artery catheter placed,168\
+concern for sepsis,168\
+need for vasopressors,168\
+no bacteremia,168\
+deferred procedures,168\
+continued iNO,168\
+judicious diuresis,168\
+vasopressor wean,168\
+MAP <60 led to increased hypoxemia,168\
+day four after admission,96\
+cardiac catheterization laboratory,96\
+30 mm CardioSeal PFO closure device placed,96\
+IAS crossed with multi-purpose catheter,96\
+balloon to measure flow stop diameter,96\
+18 mm by echo,96\
+16 mm by fluoroscopy,96\
+balloon occlusion of IAS improved oxygen saturation,96\
+30 mm cribriform ASD occluder placed,96\
+adequate rims captured,96\
+oxygen saturations decreased,96\
+arterial oxygen pressure decreased,96\
+oxygen saturations improved,96\
+weaned off iNO on day 10,240\
+interval echocardiography on day 10,240\
+residual R-L shunt,240\
+continued severe pulmonary regurgitation,240\
+day twelve,288\
+tracheostomy performed,288\
+ventilator wean attempted,288\
+weaning of PEEP,288\
+weaning of FiO2,288\
+ICU day fifteen,360\
+follow-up CT scans,360\
+persistence of left cerebellar vermis infarct,360\
+improved interstitial edema,360\
+migration of CardioSeal device to abdominal aorta,360\
+not overtly hypoxic,360\
+device migration required angiographic removal,360\
+hospital day nineteen,456\
+mechanical ventilation discontinued,456\
+supplemental oxygen via tracheostomy collar,456\
+discharged to acute rehabilitation unit,456\
+2-4L home oxygen,456\
+returned in 6 months,4320\
+primary closure of left atrial septal defect,4320\
+2-layer Prolene suture closure,4320\
+pulmonic valve replacement,4320\
+pulmonic outflow patch graft reconstruction,4320\
+bovine pericardial patch,4320\
+porcine heart valve Medtronic Hancock II size 29 mm,4320\
+intraoperative pressure measurements pre-closure,4320\
+PA 46/22 mmHg,4320\
+PCWP 28 mmHg,4320\
+RA mean 22 mmHg,4320\
+LA mean 24 mmHg,4320\
+left upper pulmonary vein 96.8%,4320\
+pulmonary artery pre-closure 54%,4320\
+post-closure PA 42/18 mmHg,4320\
+PA mean 28 mmHg,4320\
+PA saturation 52%,4320\
+TEE demonstrated normal prosthetic pulmonary valve function,4320\
+ASD closed,4320\
+negative bubble study,4320\
+followed in outpatient cardiology clinic,4320\
+doing well,4320\
+device migration complication,360\
+hypermobile septum primum,360\
+thick septum secundum,360\
+thrombus formation on retrieved device,360\
+IAS >1cm diameter,360\
+acute hypoxic respiratory failure,168\
+intra-alveolar shunt,168\
+influenza B pneumonia,168\
+interstitial pulmonary edema,168\
+fluid resuscitation,168\
+atelectasis,168\
+morbid obesity,168\
+intra-atrial shunt,168\
+hypoxemia worsened by systemic vasodilation,168\
+sepsis,168\
+sedative agents,168\
+increased cardiac output,168\
+high output vasodilatory state,168\
+CI 3.2,168\
+RV dysfunction,168\
+nitric oxide improved pulmonary arterial blood flow,168\
+reduced R-L shunt,168\
+V/Q mismatch improved,168\
+CT images reviewed,168\
+echocardiography difficult due to body habitus,168\
+formal TEE unavailable,168\
+iNO mitigated need for ECMO,168\
+avoid cannulation,168\
+financial disclosures none,0\
+conflicts of interest none,0

@@ -1,0 +1,87 @@
+event,time
+70-year-old ,0
+male ,0
+farmer by profession ,0
+presented to the emergency department ,0
+admitted to the hospital ,0
+high-grade fever ,-120
+generalized body ache ,-120
+headache ,-120
+altered sensorium ,-24
+joint pains ,0
+epigastric pain ,0
+hemodynamically stable ,0
+disoriented ,0
+inguinal lymphadenopathy ,0
+mild generalized rash ,0
+no eschar was seen ,0
+no focal neurological deficit ,0
+no neck rigidity ,0
+no other comorbidities ,0
+no history of drug addiction ,0
+no history of intoxication ,0
+acute febrile illness with undifferentiated fever (provisional diagnosis) ,0
+malaria negative ,0
+dengue negative ,0
+typhoid negative ,0
+leptospira negative ,0
+scrub typhus antigen card positive ,12
+scrub immunoglobulin M positive ,12
+scrub typhus ,12
+blood cultures sterile ,48
+other body fluid cultures sterile ,48
+"complete blood count showed leukocytosis (15,800/cc) ",0
+liver function test showed mild hyperbilirubinemia with transaminitis ,0
+total bilirubin: 3.6 mg/dL ,0
+direct bilirubin: 2.6 mg/dL ,0
+serum glutamic oxaloacetic transaminase: 116 U/L ,0
+serum glutamic pyruvic transaminase: 178 U/L ,0
+international normalized ratio: 1.56 ,0
+hepatitis B antigen negative ,24
+hepatitis C antibody negative ,24
+ultrasound of the abdomen showed mild fatty infiltration of the liver ,24
+other investigations were normal ,24
+treated with tablet doxycycline 100 mg twice daily ,0
+managed conservatively ,0
+defervescence ,48
+orientation improved ,48
+deteriorated neurologically on treatment with doxycycline ,144
+weakness of both lower limbs (Grade 2/5) ,144
+weakness of both upper limbs (Grade 2/5) ,144
+deep tendon reflexes absent ,144
+plantar responses were flexor ,144
+bladder incontinence ,144
+no bowel incontinence ,144
+breathing difficulty ,150
+signs of respiratory distress ,150
+single breath count was 10 ,150
+respiratory acidosis ,150
+shifted to the Intensive Care Unit ,150
+intubated ,150
+mechanical ventilation ,150
+MRI of the brain without any abnormality ,156
+MRI of the cervical spine revealed no abnormality ,156
+nerve conduction velocity showed motor sensory demyelinating polyneuropathy ,168
+GBS ,168
+cerebrospinal fluid analysis did not reveal albuminocytologic dissociation ,168
+CSF protein: 146 mg/dL ,168
+CSF cell count: 70 with lymphocytic predominance ,168
+CSF sugar: 71 mg/dL ,168
+corresponding blood sugar: 145 mg/dL ,168
+intravenous immunoglobulin therapy 0.4 mg/kg/day for 5 days started ,168
+tablet rifampicin 600 mg twice daily added ,168
+treated for meningoencephalitis ,168
+serial liver function tests monitored within normal range ,168
+improvement in weakness of all four limbs ,360
+improvement in respiratory parameters ,360
+weaned off from the ventilator ,390
+extubated from the ventilator ,390
+mechanical ventilation duration 10 days ,150
+oral feeding started ,396
+aggressive limb physiotherapy continued ,168
+chest physiotherapy continued ,168
+shifted out from ICU ,408
+discharged from the hospital ,672
+full neurological recovery ,672
+followed up regularly in the outpatient department ,840
+no functional disability ,840

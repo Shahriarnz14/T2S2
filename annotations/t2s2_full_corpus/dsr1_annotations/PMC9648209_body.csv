@@ -1,0 +1,93 @@
+event,time
+49 years old,0
+male,0
+hospitalized,0
+fever,-96
+cough,-96
+shortness of breath,-96
+nasopharyngeal swab positive for Covid-19,-96
+diabetes for 10 years,0
+sliding-scale insulin,0
+HbA1c 12.3%,0
+FBS 250 mg/dL,0
+PPBS 350 mg/dL,0
+IL 637.93 pg/mL,0
+CRP 17.84 mg/L,0
+D-Dimer 460 ng/mL,0
+creatinine 0.8 mg/dl,0
+lymphocyte 9.5%,0
+neutrophil 84%,0
+intensive care unit stay,0
+Remdesivir IV,0
+methylprednisolone IV,0
+recovered from Covid,0
+bilateral pneumonia,0
+swelling in left eye,0
+discomfort in left eye,0
+malaise,0
+proptosis,0
+chemosis,0
+periorbital cellulitis,0
+partial ophthalmoplegia,0
+visual acuity 6/6,0
+MRI findings,0
+mucormycosis rhino-orbital-cerebral extension,0
+bone erosion,0
+FESS scheduled,0
+debridement of necrotic tissue scheduled,0
+hypokalemia,0
+hypomagnesemia,0
+fever (AmB side effect),0
+chills,0
+dyspnea,0
+hypotension,0
+allergic responses,0
+epilepsy,0
+anemia,0
+thrombocytopenia,0
+renal function affected,0
+hemodialysis,0
+glomerular filter rate drop,0
+acute tubular necrosis,0
+renal failure,0
+difficult airway,0
+restricted mouth opening,0
+facial nerve palsy,0
+longstanding uncontrollable diabetes mellitus,0
+post-Covid pneumonia,0
+sepsis,0
+ASA III,0
+general anesthesia,0
+16-gauge IV line,0
+ECG monitoring,0
+pulse oximetry,0
+NIBP monitoring,0
+video laryngoscope,0
+bougies,0
+glycopyrrolate 0.2 mg,0
+fentanyl 150 mg,0
+preoxygenation,0
+propofol 100 mg,0
+RSI,0
+suxamethonium 2 mg/kg,0
+intubation,0
+endotracheal tube,0
+xylocard 1.5 mg/kg,0
+throat pack,0
+EtCO2 monitoring,0
+temperature monitoring,0
+urine output monitoring,0
+oxygen,0
+nitrous oxide,0
+sevoflurane 1%,0
+vecuronium 0.1 mg/kg,0
+elective ventilation,0
+delta variant exposure,0
+steroid administration,0
+immunocompromised,0
+active mucormycosis,0
+AmB drug interactions,0
+airway management,0
+FESS performed,24
+debridement of necrotic tissue performed,24
+discharge,240

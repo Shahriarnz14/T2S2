@@ -1,0 +1,53 @@
+event,time
+71-year-old,0
+male,0
+hypertension,0
+type 2 diabetes mellitus,0
+admitted to hospital,0
+COVID-19 pneumonia,0
+fever,-48
+cough,-48
+dyspnea,-48
+tocilizumab administered,-48
+corticosteroids administered,-48
+intubated,0
+mechanical ventilation,0
+PaO2/FIO2 ratio 120,0
+"leukocytosis (29,000 k/uL)",0
+lymphopenia (0.40 K/uL),0
+C-reactive protein 44 mg/L,0
+interleukin-6 4365 pg/mL,0
+ferritin >2000 ng/mL,0
+D-dimer 6520 ng/mL,0
+LDH 785 U/L,0
+creatinine 2.1 mg/dL,0
+imipenem started,0
+levofloxacin started,0
+renal function deteriorated,24
+hemofiltration sessions,24
+cavitary image in right upper lobe (CXR),144
+hemoculture negative,168
+urine culture negative,168
+meropenem started,168
+vancomycin started,168
+fluconazole started,168
+bronchoscopy performed,168
+erythematous lesions in bronchial tree,168
+abundant purulent secretions,168
+cavitary lesion in right bronchial tree,168
+Klebsiella pneumoniae isolated (BAL),312
+Pseudomonas aeruginosa carbapenemase class A isolated (BAL),312
+Trichosporon asahii isolated (BAL),312
+ceftazidime/avibactam started,312
+colistin started,312
+voriconazole started,312
+septic shock,360
+multi-organ failure,360
+death,384
+disseminated opacities in all lung quadrants (CXR),0
+no COVID-19 vaccine,0
+no growth in hemoculture,168
+no growth in urine culture,168
+negative ZN stain,312
+negative GeneXpert MTB/RIF,312
+negative Löwenstein-Jensen culture,312

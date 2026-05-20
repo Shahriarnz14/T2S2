@@ -1,0 +1,101 @@
+event,time
+63-year-old,0
+female,0
+splenectomy,-376680
+idiopathic thrombocytopenic purpura,-376680
+menometrorhagia,-376680
+vaccinated with PPV23,-3600
+antipneumococcal antibody response to PPV23 adequate,-2880
+general body malaise,-48
+diarrhea,-48
+vomiting,-48
+influenza-like symptoms,-48
+became increasingly more confused,0
+admitted to the hospital,0
+fever 41.1 °C,0
+hypotension 62/52 mmHg,0
+bradycardia 35 beats per minute,0
+tachypnea 34 breaths per minute,0
+decreased oxygen saturation 92% on room air,0
+cyanosis of the lips,0
+cyanosis of the distal extremities,0
+no sign of neck stiffness,0
+no meningeal reactions,0
+cardiac auscultation normal,0
+pulmonic auscultation normal,0
+abdomen soft,0
+abdomen not tender on palpation,0
+diagnosed with severe sepsis,0
+volume therapy started,0
+blood cultures obtained,0
+cefuroxime started,0
+gentamicin started,0
+metronidazole started,0
+hydrocortisone started,0
+white blood cell count 27.5 × 10^9/l,0
+neutrophils 20.63 × 10^9/l,0
+hemoglobin 8.6 mmol/l,0
+thrombocytes 92 × 10^9/l,0
+C-reactive protein 224.2 mg/l,0
+P-lactate 4.8 mmol/l,0
+aB-P-O2 21.2 kPa,0
+aB-P-CO2 2.5 kPa,0
+aB-pH 7.5,0
+Streptococcus pneumococcal urinary antigen test positive,0
+chest x-ray showed discrete pulmonic stasis,0
+tracheal secretion for culture obtained,0
+transferred to the intensive care unit,2
+disseminated intravascular coagulation,12
+microthrombi in the hands,12
+microthrombi in the feet,12
+blood cultures showed growth of Streptococcus pneumoniae,48
+antimicrobial treatment changed to penicillin G,48
+MIC for penicillin for the pneumococcal isolate <0.1 μg/ml,48
+cefuroxime discontinued,48
+gentamicin discontinued,48
+metronidazole discontinued,48
+suspicion of endocarditis,72
+modest hypokinesia of the apical part of the left ventricle,72
+ejection fraction 45%,72
+endocarditis dismissed,72
+emerging necrosis of the fingertips,72
+emerging necrosis of the toes,72
+renal insufficiency,72
+hemodialysis started,72
+antibiotic therapy altered to ceftriaxone,72
+penicillin G discontinued,72
+leucocytes decreased,96
+CRP decreased,96
+fever dissolved,96
+tracheal secretion culture negative,96
+transferred from the ICU to the medical department,216
+antibiotics stopped,216
+ceftriaxone discontinued,216
+serotype 12F identified,216
+remained afebrile,216
+fluctuating CRP,216
+condition improved clinically,216
+discharged,528
+dicloxacillin started,528
+raised leucocytes,528
+raised CRP,528
+suspected infection site: necrotic tissue on fingers and toes,528
+wound cultures showed Staphylococcus aureus,528
+wound cultures showed haemolytic streptococci group C/G,528
+trans-thoracic echocardiography unchanged,528
+amputation of necrotic fingers,2688
+amputation of necrotic toes,2688
+readmitted to the hospital,3600
+severe sepsis,3600
+sepsis regimen started,3600
+ceftriaxone started,3600
+transesophageal echocardiography revealed endocarditis with several moving elements on the aortic valve,3600
+blood cultures showed growth of Streptococcus pneumoniae,3648
+antimicrobial treatment altered to penicillin G,3648
+MIC for penicillin for the pneumococcal isolate <0.1 μg/ml,3648
+serotype 12F identified,3648
+penicillin G for 4 weeks started,3648
+recovered,4320
+antipneumococcal-12F-antibodies 611.40 FI,-12960
+antipneumococcal-12F-antibodies 406.05 FI,2064
+antipneumococcal-12F-antibodies 974.50 FI,12360

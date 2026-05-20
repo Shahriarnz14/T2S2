@@ -1,0 +1,89 @@
+event,time
+63-year-old white male,0
+peripheral vascular disease (PVD) with claudication,0
+hypertension,0
+diabetes mellitus type-2,0
+chronic low back pain,0
+presented to emergency room with dyspepsia,0
+melanic stools (3-day history),-72
+ibuprofen 800 mg three times daily for two years,-17520
+physical exam: sinus tachycardia (115 bpm),0
+physical exam: hypotension (90/60 mmHg),0
+physical exam: left lower extremity weakness,0
+physical exam: pallor,0
+physical exam: pulselessness,0
+"laboratory: severe anemia (Hb 8.1 g/dL, Hct 22.5%)",0
+"laboratory: leukocytosis (WBC 21,000 Hk/cmm, 38% bands)",0
+"laboratory: lactic acidosis (lactate 6.2 mmol/L, bicarbonate 17 mmol/L, anion gap 19 mmol/L)",0
+"laboratory: acute renal failure (BUN 53 mg/dL, creatinine 1.6 mg/dL)",0
+laboratory: hyponatremia (Na 124 mmol/L),0
+laboratory: hypokalemia (K 3.1 mmol/L),0
+laboratory: positive occult blood (FIT),0
+laboratory: positive blood cultures (MSSA),0
+laboratory: no coagulopathy,0
+laboratory: no thrombocytopenia,0
+chest radiograph unremarkable,0
+ECG: sinus tachycardia without ischemic changes,0
+CT abdomen/pelvis with IV contrast: no retroperitoneal hematoma or bowel perforation,0
+admitted to MICU,0
+management: pantoprazole continuous infusion,0
+management: packed red blood cells transfusion,0
+management: crystalloid resuscitation,0
+management: gastroenterology consultation,0
+presumed bacteremia,0
+empirical antibiotics: vancomycin and piperacillin/tazobactam,0
+vascular surgery consultation for left lower extremity,0
+CT angiogram: good distal runoff and opacification to ankle,0
+downward trending hemoglobin/hematocrit,0
+worsening lactic acidosis,0
+emergent EGD performed at bedside,0
+EGD findings: multiple bleeding duodenal ulcers (largest 30 mm x 30 mm),0
+ulcers cauterized,0
+ulcers injected with epinephrine,0
+patient tolerated procedure well,0
+no new complaints post-procedure,0
+abdominal pain (8 hours post-EGD),8
+abdominal distension (8 hours post-EGD),8
+diaphoresis (8 hours post-EGD),8
+tachypnea (8 hours post-EGD),8
+physical exam: temperature 95.0°F (8 hours post-EGD),8
+physical exam: BP 143/83 mmHg (8 hours post-EGD),8
+physical exam: HR 142 bpm (8 hours post-EGD),8
+physical exam: RR 48 breaths/min (8 hours post-EGD),8
+physical exam: O2 saturation 92% on NRB (100% O2) (8 hours post-EGD),8
+physical exam: diffuse abdominal guarding (8 hours post-EGD),8
+physical exam: rebound tenderness (8 hours post-EGD),8
+physical exam: abdominal distension (8 hours post-EGD),8
+ABG: mixed respiratory and metabolic acidosis (7.05/60.4/72.6/16.5),8
+abdominal/chest radiograph: pneumoperitoneum,8
+emergently intubated,8
+general surgery consultation,8
+CT abdomen/pelvis with oral contrast: pneumoperitoneum,8
+CT abdomen/pelvis with oral contrast: duodenal perforation,8
+hemodynamic instability requiring norepinephrine and vasopressin,9
+non-operative management recommended,9
+strict bowel rest,9
+intravenous antibiotics,9
+intravenous fluconazole,9
+intubated for six days,9
+renal function worsening,9
+urine output decreasing,9
+acute tubular necrosis from septic shock,9
+compartment syndrome (bladder pressure >15 mmHg),9
+extubated on hospital day 7,168
+metabolic derangements,168
+worsening renal function,168
+severe tachypnea,168
+re-intubated 12 hours post-extubation,180
+acute renal failure necessitating hemodialysis (hospital day 8),192
+intubated with intermittent hemodialysis,192
+broad-spectrum antibiotics (including micafungin),192
+stable condition off vasopressors,192
+left lower extremity cold and pulseless,192
+vascular surgery recommended against intervention,192
+self-extubation on hospital day 15,360
+requested no future intubation,360
+requested no aggressive measures,360
+compartment syndrome (bladder pressure 15-19 mmHg),360
+palliative care approach,360
+expired on hospital day 19,456

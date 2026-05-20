@@ -1,0 +1,94 @@
+event,time
+43 years old,0
+male,0
+hepatocellular carcinoma (grade II),0
+admitted to Zhongnan Hospital’s organ transplant center,0
+allogeneic liver transplantation,"0 (July 16, 2018)"
+post-transplant intensive care unit admission,0
+"immunosuppressive therapy (Tacrolimus FK506, Mycophenolate mofetil, prednisone)",0
+peripheral T cell count 181.68/μL,48 (July 18; July 16 + 2 days = 48 hours)
+peripheral B cell count 59.57/μL,48
+peripheral NK cell count 70.66/μL,48
+blood culture collection (July 17),-24 (July 16 to July 17: -24 hours from admission)
+blood culture collection (July 20),96 (July 16 to July 20: 96 hours)
+P. sputorum bacteremia detected,24 (July 17 sample result available ~24h post-admission) and 96
+serum procalcitonin 0.56 ng/mL,96
+C-reactive protein 61.00 mg/L,96
+peripheral neutrophil granulocyte percentage 96.8%,96
+imipenem 500 mg every 8 hours,96
+ceftriaxone/tazobactam 2000 mg every 12 hours,96
+infection controlled (July 31),360 (July 16 to July 31: 15 days = 360 hours)
+serum procalcitonin <0.05 ng/mL,360
+peripheral neutrophil granulocyte percentage 73.67%,360
+gram-negative bacilli,0 (identified during lab processing)
+oxidase positive,0
+nitrate reduction positive,0
+urease negative,0
+Vitek 2 Compact system inconclusive,0
+MALDI-TOF identification as P. sputorum,0
+16S rRNA sequencing confirmation,0
+PFGE identical DNA patterns,0
+"multi-drug resistant (aztreonam, cefepime, ceftazidime, gentamicin, meropenem, tobramycin)",0
+"susceptible to imipenem, ceftriaxone, ciprofloxacin, levofloxacin, minocycline, piperacillin, piperacillin-tazobactam, tetracycline, ticarcillin/clavulanic acid, tigecycline, trimethoprim",0
+intermediate to amikacin,0
+chronic hepatitis B virus infection,"prior to admission (timestamp -∞, but not applicable as event predates admission)"
+compromised immune function,0
+"low T, B, NK lymphocytes",48
+no lung dysfunction reported,0
+improved clinical condition after antibiotic treatment,360
+43 years old,0
+male,0
+hepatocellular carcinoma (grade II),0
+admitted to Zhongnan Hospital’s organ transplant center,0
+allogeneic liver transplantation,0
+post-transplant intensive care unit admission,0
+"immunosuppressive therapy (Tacrolimus FK506, Mycophenolate mofetil, prednisone)",0
+peripheral T cell count 181.68/μL,48
+peripheral B cell count 59.57/μL,48
+peripheral NK cell count 70.66/μL,48
+blood culture collection,-24
+blood culture collection,96
+P. sputorum bacteremia detected,24
+P. sputorum bacteremia detected,96
+serum procalcitonin 0.56 ng/mL,96
+C-reactive protein 61.00 mg/L,96
+peripheral neutrophil granulocyte percentage 96.8%,96
+imipenem 500 mg every 8 hours,96
+ceftriaxone/tazobactam 2000 mg every 12 hours,96
+infection controlled,360
+serum procalcitonin <0.05 ng/mL,360
+peripheral neutrophil granulocyte percentage 73.67%,360
+gram-negative bacilli,0
+oxidase positive,0
+nitrate reduction positive,0
+urease negative,0
+Vitek 2 Compact system inconclusive,0
+MALDI-TOF identification as P. sputorum,0
+16S rRNA sequencing confirmation,0
+PFGE identical DNA patterns,0
+multi-drug resistant,0
+aztreonam resistance,0
+cefepime resistance,0
+ceftazidime resistance,0
+gentamicin resistance,0
+meropenem resistance,0
+tobramycin resistance,0
+imipenem susceptible,0
+ceftriaxone susceptible,0
+ciprofloxacin susceptible,0
+levofloxacin susceptible,0
+minocycline susceptible,0
+piperacillin susceptible,0
+piperacillin-tazobactam susceptible,0
+tetracycline susceptible,0
+ticarcillin/clavulanic acid susceptible,0
+tigecycline susceptible,0
+trimethoprim susceptible,0
+amikacin intermediate,0
+chronic hepatitis B virus infection,0
+compromised immune function,0
+low T lymphocytes,48
+low B lymphocytes,48
+low NK lymphocytes,48
+no lung dysfunction,0
+improved clinical condition,360

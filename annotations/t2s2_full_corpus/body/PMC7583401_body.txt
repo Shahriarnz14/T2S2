@@ -1,0 +1,63 @@
+INTRODUCTION
+Haemophagocytic lymphohistiocytosis (HLH) is an inflammatory condition, characterized by excessive cytokine production, and macrophage and T-cell activation [1]. Patients with concurrent end stage renal disease (ESRD) have alterations in cell-mediated immunity that increase their risk of opportunistic infections such as tuberculosis (TB) and Epstein–Barr virus (EBV) [2]. Literature review spanning January 1975 to March 2014 reported only 63 cases of TB complicated by HLH, which were associated with a high mortality rate of 49% [3]. To the best of our knowledge, this is the only reported case of TB-associated-HLH in the setting of ESRD on haemodialysis (HD).
+
+CASE REPORT
+A 63-year-old male, from a TB-endemic region of the Middle East, was admitted for 1 week of generalized weakness. His medical history included ESRD on HD with two recently missed sessions, systolic heart failure, coronary artery disease, hypertension and type II diabetes. On admission, the patient had white blood cells (WBC) 3.1 cells*109L (reference 3.6–11.6), tachycardia 96 bpm and fever 39.5°C. Blood pressure was 160/90 mmHg, respiratory rate 18, and oxygen saturation 96% on room air. This patient had haemoglobin (Hgb) 86 g/L (reference 129–173) and platelets 112 cells*109L (reference 121–365). Other labs included haematocrit 0.26 fraction (reference 0.36–0.52), International Normalized Ratio (INR) 1.5 (reference 0.82–1.17), and activated partial thromboplastin time (APTT) 36.3 s (reference 22–36). Aspartate aminotransferase (AST) was 59 (normal < 37 Units/L), normal alanine aminotransferase (ALT) 33 (normal < 78 Units/L) and total bilirubin 10.26 μmol/L/L (reference 0.0–17.1). Computed tomography (CT) abdomen showed splenomegaly (16 cm craniocaudal). During hospitalization, the patient’s labs worsened with WBC decreasing from 3.1 to 2.0 cells*109L, Hgb from 86 to 78 g/L and platelets from 112 to 22 cells*109L (Fig. 1).
+
+Figure 1 Complete blood count and haemoglobin. 7th*: Corticosteroids initiation, 24th**: RIP therapy, 39th***: Patient expired.
+
+Initial treatment for suspected sepsis included vancomycin, cefepime and metronidazole. Serology for hepatitis, human immunodeficiency virus, cytomegalovirus, heparin-induced-thrombocytopenia antibody, herpes simplex virus, heterophile antibody test, parvovirus B19, legionella and mycoplasma were negative. His condition deteriorated, as coagulopathy developed with peak INR level of 2.7 and APTT of 48 s. Transaminitis developed with AST increasing to 1034 Units/L, ALT to 217 Units/L and total bilirubin to 22.23 μmol/L/L (Fig. 2).
+
+TB-QuantiFERON was indeterminate. Autoimmune workup was negative. The patient had positive EBV DNA polymerase chain reaction. Ferritin was > 33.7 nmol/L (reference 0.06–0.87), soluble CD25 14 158 units/ml (reference 223–710) and triglycerides > 2.89 mmol/L (reference 0.339–1.69). Six criteria of 8 HScore criteria were met, with fever (>38.5°C), splenomegaly, elevated CD25 (>14 000), high ferritin (>1.12 nmol/ml) (Fig. 2), elevated TG (>2.89) and cytopenia. As concern for HLH secondary to TB increased, high-dose dexamethasone and oral etoposide were initiated.
+
+Soon after, the patient’s labs improved (Figs. 1 and 2). Bone marrow biopsy showed epithelial granulomas with focal central fibroid necrosis (Fig. 4a), histiocytes containing phagocytized nucleated cells (Fig. 4b) and histiocytes with phagocytized erythrocytes (Fig. 4c), but was negative for acid-fast bacilli, consistent with the characteristic HLH bone marrow biopsy pattern. Two weeks after partial recovery he began to deteriorate again. WBC counts began to decline rapidly. Chest CT evidenced innumerable 2–4 mm pulmonary nodules consistent with miliary pattern TB (Fig. 3). Patient underwent treatment for miliary tuberculosis with dissemination to bone, which was causing pancytopenia. After initial improvement, cell counts increased sharply, and patient expired on Day 14 of anti-tuberculosis treatment. Final microbiology results confirmed growth of mycobacterium TB complex.
+
+Figure 2 Transaminases, ferritin. 7th*: Corticosteroids initiation, 24th**: RIP therapy, 39th***: Patient expired.
+
+Figure 3 Chest CT-scan without contrast.
+
+Figure 4 Bone marrow biopsy. A.H&E Stain. Granuloma with focal necrosis at ×40 magnification. B.H&E Stain. Granuloma with histiocytes containing phagocytized cells at ×40 magnification. C.Wright Giemsa Stain. Histiocytes with phagocytized erythrocytes at ×100 magnification.
+
+DISCUSSION
+TB accounts for 3% of secondary HLH [4]. Our patient emigrated from a TB-endemic region in the Middle East. QuantiFERON TB testing initially was indeterminate. The patient presented with non-specific findings including pancytopenia, coagulopathy and transaminitis, with infectious source not initially identified. The pattern of leukopenia, transaminitis, hyperferritinemia and elevated fibrinogen heightened the clinical suspicion for HLH. He was initiated on dexamethasone and oral etoposide, as intravenous was not available at our facility. TB was confirmed with microbiology from bronchoalveolar lavage and miliary pattern TB on CT imaging, prompting first-line anti-tuberculous therapy ‘RIPE’, consisting of rifamycin, isoniazid, pyrazinamide and ethambutol (Table 1). However, the patient’s cell counts began to dramatically rise. He was transferred to the intensive care unit and soon expired. We postulate this initial improvement after adequate anti-TB treatment followed by a paradoxical deterioration was due to TB-immune reconstitution inflammatory syndrome, an excessive immune response against Mycobacterium tuberculosis [5]. In the following, we briefly review methods of diagnosis, treatment options and HLH prognosis.
+
+Table 1 Laboratory Results from Previous Visit, Admission, and Duration of RIPE Therapy until Death.
+
+	Reference range	Previous visit	Admission	Hospital Day 7	Hospital Day 12	Initiation of RIPE Therapy	RIPE Day 14	RIPE Day 15	Patient deceased	
+White cell count (109/L)	3.6–11.6	8.3	3.1^	1.3^	1.8^	0.0^	8.9	13.0 +	37.5 +	
+Red blood cell count (1012/L)	4.02–5.74	3.6^	2.37^	2.33^	2.84^	2.33^	2.57^	2.29^	2.35^	
+Platelets (109/L)	121–365	214	112^	6^	15^	8^	13^	36^^	51^	
+Haemoglobin (g/L)	129–173	90^	88^	68^	84^	76^	80^	70^	71^^	
+Alanine aminotransferase (U/L)	<78	37	33	217^	94^	130^	34.0	63.0	/	
+Aspartate aminotransferase (U/L)	<37	28	59^	1034^	134	155^	83^	175^	/	
+Fibrinogen (g/L)	177–450	/	356	494^	/	/				
+C Reactive protein (nmol/L)	<28.57	24.09	1095.23^	/	/	/				
+Procalcitonin (μg/L)	<0.5 sepsis unlikely	0.18	3.95^	6.16^	/	/				
+Ferritin (nmol/L)	0.06–0.87	0.05	/	34.08^	17.91^	36.33^				
+CD (25 U/ml)	223–710	/	/	14 158^	/	/				
+Triglycerides (mmol/L)	
+0.339–1.69
+	/	/	6.01	5.35	/				
+Diagnosis
+Two systems aid in clinical diagnosis: Hscore and HLH-2004. HScore, the preferred diagnostic tool, is a newer scoring system focused on more commonly used, weighted clinical variables, which include fever, organomegaly, cytopenia, elevated lab measures of triglycerides, ferritin, ALT, fibrinogen and the presence of haemophagocytosis in bone marrow aspirate. Although non-specific, ferritinemia >22.47 nmol/L has a sensitivity of 90% and a specificity of 96% for HLH diagnosis [6]. The morphologic components of HLH are haemophagocytosis and/or lymphocytosis of bone marrow, liver or spleen [7].
+
+Treatment
+Controlling the hyper-activated immune system is the primary goal of treatment for HLH. According to the HLH-1994 and HLH-2004 protocols, high dose dexamethasone and etoposide comprise the primary treatment regimen in North America and Europe [8]. Methotrexate and cyclosporine are the other possible treatments [9]. In addition to immunotherapy, it is important to address underlying causative conditions such as TB.
+
+Prognosis
+Detection of the disease, identifying underlying causes and starting treatment in a timely manner are crucial steps that determine the outcome of HLH patients. Malignancy-associated HLH has the worst prognosis. Male gender, presence of splenomegaly, active EBV infection, prolonged fever, DIC, lacking etoposide in treatment regimen, hypoalbuminemia and ferritin level > 112.36 nmol/L are factors that contribute to a more severe prognosis of HLH [10].
+
+CONCLUSION
+This case study uniquely adds to the literature on TB-associated-HLH by offering an understanding of the disease process in a patient further immunocompromised by ESRD on haemodialysis. HLH should be considered with prolonged fevers, cytopenias, organomegaly and coagulopathy. TB-associated-HLH is specifically associated with a high mortality rate and should be considered where transaminitis, hyperferritinemia and elevated fibrinogen is also observed. Outcomes depend on early identification, which can be challenged by non-specific initial presentation. This highlights the importance of early empirical RIPE therapy at any level of clinical suspicion.
+
+CONFLICT OF INTEREST
+The authors declare no conflict of interest.
+
+FUNDING
+This study was granted by Orange Park Medical Center, FL, USA.
+
+ETHICAL APPROVAL
+The current study was approved by ethical committee of Orange Park Medical Center.
+
+CONSENT
+Patient is deceased.

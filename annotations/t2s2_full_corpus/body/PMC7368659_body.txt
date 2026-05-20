@@ -1,0 +1,37 @@
+Introduction
+
+The novel coronavirus, named SARS-CoV-2, is known to have emerged in Wuhan, China in late 2019. Its high infectivity has allowed it to spread across the globe, leading to a worldwide pandemic [1,2]. While research continues to elucidate its mechanism of infection, clinical manifestations and key targets for drug therapy, a wide variety of organs have been found to be involved with SARS-CoV-2 infection. Recent reports indicate that the CNS is not spared.
+
+Headache, dysguesia and hyposmia have been reported as the common nonspecific neurologic symptoms of COVID-19 infection [[3], [4], [5]], however, more serious neurologic manifestations including encephalopathy [6,7], Guillain Barre syndrome [8] and stroke [9,10] are now being reported as the number of patients with COVID-19 multiplies across the globe. We report a case of meningoencephalitis associated with SARS-CoV-2 who presented with altered mental status.
+
+Case report
+
+A 35-year-old woman with newly diagnosed diabetes presented to the emergency department (ED) with altered mental status. She had been complaining of a persistent generalized headache for one week that was partially relieved with acetaminophen and ibuprofen. Four days prior, she had developed a non-productive cough and sore throat without any documented fever. On the day of presentation, her husband noted that she was lethargic and confused. He later found her unresponsive and having random rhythmic movements of bilateral upper and lower extremities, then called emergency medical services. She did not have any tongue biting, fecal or urinary incontinence. It was reported that over the past two weeks the patient had been taking food to a COVID-19 positive family member but ensuring no close contact. Otherwise, she had no history of substance use, smoking or recent travel.
+
+Upon arrival to the ED, the patient had a Glasgow Coma Scale (GCS) of 9 (E4 V1 M4). She was afebrile with temperature 36.6ᐤC, heart rate 93, and blood pressure 133/70. She had no nuchal rigidity on physical exam, and Brudzinski and Kernig’s signs were negative. Due to agitation and vomiting, endotracheal intubation was performed for airway protection. Laboratory tests showed white blood cell count of 6900/μL and lactate of 1.1 mmol/L. A head CT without contrast showed no abnormalities and a urinalysis was negative. A chest x-ray showed bilateral patchy infiltrates and a nasopharyngeal SARS-CoV-2 PCR resulted positive. Pharyngeal swab for rapid Streptococcus test was also positive for Streptococcus pyogenes. Blood cultures were drawn. Patient was empirically started on vancomycin, ceftriaxone and acyclovir. An initial lumbar puncture attempt was unsuccessful, and she was admitted to the intensive care unit.
+
+On day 2, fluoroscopy-guided lumbar puncture was performed and obtained 12 mL of initially clear then bloody fluid. Cerebrospinal fluid (CSF) analysis showed glucose of 109 mg/dL (normal 40−70 mg/dL), protein of 250 mg/dL (normal 12−60 mg/dL), RBC of 231/mm3 and WBC of 42/mm3 with 62% lymphocytes and 4% monocytes consistent with aseptic meningitis. Opening pressure could not be measured due to slow flow of CSF. Infectious workup of the CSF resulted negative for varicella zoster virus PCR, herpes simplex virus 1 and 2 PCR, enterovirus/echovirus PCR, syphilis testing with VDRL and cryptococcal antigen. SARS-CoV-2 testing could not be performed on the CSF sample because our facility did not have the requisite validation to perform such a test. MRI brain could not be performed due to hospital policy to minimize unnecessary exposures to COVID-19 disease.
+
+Serum inflammatory markers on admission showed elevated C-reactive protein (23.0 mg/L), erythrocyte sedimentation rate (34 mm/hr), and D-dimer (0.51 μg/mL) but normal ferritin (125.3 ng/mL), lactate dehydrogenase (267 U/L) and interleukin-6 levels (<5 pg/mL). Blood and CSF cultures finalized negative on day 5. Vancomycin was discontinued after two days. Ceftriaxone was continued for streptococcal pharyngitis and acyclovir for possible herpes simplex encephalitis. By day four, her mental status markedly improved and she was extubated. She was discharged home on day nine to complete ten days of anti-infective therapy (PO penicillin V and PO valacyclovir).
+
+Discussion
+
+The neuroinvasive nature of human coronavirus has been previously reported during the 2002–2003 SARS-CoV pandemic when viral nucleic acids were found in the human brain upon autopsies [11]. It was postulated by scientists in China that SARS-CoV-2, a novel coronavirus from the SARS-CoV family, could also infect the brain when they observed neurologic signs among patients with COVID-19 related respiratory illness [12]. A recent report from Japan described the first case presenting with SARS-CoV-2 meningoencephalitis which was associated with increased signal intensity in the hippocampus, similar to SARS-CoV encephalitis [6]. The similitude is believed to be due to similarity in the angiotensin converting enzyme 2 receptor binding domain for both viruses [12]. However, to date, there is insufficient clinical and pathophysiologic data to postulate the exact mechanism by which SARS-CoV-2 infects the nervous system.
+
+Brain imaging in our patient was performed using computed tomography. Although a subsequent MRI may have been helpful with diagnosis, it was not performed to prevent spread of SARS-CoV2 to others. Likewise, a definitive diagnosis of viral encephalitis depends on the ability to detect or culture the virus from CSF or brain tissue. This can be difficult as SARS-CoV-2 is transiently disseminated and its titer in CSF can be low [13]. Our patient had CSF findings of meningoencephalitis but all viral PCR studies resulted negative.
+
+HSV encephalitis detected with PCR has a very high specificity, but it has been found that the sensitivity is lower early in the disease process [14]. Given our patient’s rapid improvement, the risks of repeating lumbar puncture to check HSV PCR outweighed the benefits. Therefore, she was empirically given a complete course of acyclovir. However, her rapid defervescence is not typical of HSV CNS infection even with the timely initiation of antiviral treatment. Therefore, we speculate that our patient had a CNS infection associated with SARS-CoV-2.
+
+Unfortunately, SARS-CoV-2 testing could not be performed due to lack of validation for the test at our facility. Testing through viral culture from CSF or brain tissue would require a biosafety level 3 lab and would be very resource intensive. Detecting SARS-CoV-2 RNA would be a much more feasible approach for the majority of hospitals. This case clearly demonstrates the need to make COVID-19 testing in CSF widely available in acute care settings.
+
+Conclusion
+
+Although rare, meningoencephalitis should be considered as a possible manifestation of COVID-19 disease. A suspicion for SARS-CoV-2 meningitis or encephalitis should be high among patients presenting with neurological symptoms during this era of pandemic. SARS-CoV-2 testing should be included as part of the workup in addition to other infectious causes.
+
+Funding
+
+This research did not receive any grants from funding agencies in the public, commercial, or non-profit sectors.
+
+Declaration of Competing Interest
+
+Authors declare no conflicts of interest.

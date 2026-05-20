@@ -1,0 +1,75 @@
+event,time
+65-year-old,0
+female patient,0
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+cellulitis,0
+intravenous clindamycin 600 mg thrice daily,0
+intravenous benzylpenicillin 2 million units 4 times daily,0
+continuation of anti-parkinsonism drugs,0
+continuation of diabetic medications,0
+parkinsonism,-17520
+diabetes mellitus,-17520
+levodopa/carbidopa,-17520
+rasagiline,-17520
+ropinirole,-17520
+trihexyphenidyl,-17520
+amantadine,-17520
+metformin,-17520
+glipizide,-17520
+multiple hospital admissions for worsening parkinsonism,-1000
+ICU admissions for worsening parkinsonism,-1000
+persistently high temperature spikes (above 102°F),72
+tachycardia,72
+tachypnea,72
+hypotension,72
+encephalopathy,72
+shifted to ICU,72
+sepsis,72
+multi-organ dysfunction syndrome,72
+intravenous linezolid 600 mg twice daily started,72
+intravenous piperacillin with tazobactam 4.5 gm thrice daily started,72
+vancomycin not considered,72
+oral hypoglycemic agents stopped,72
+switched to insulin,72
+confusion,84
+drowsiness,84
+disorientation,84
+altered sensorium,84
+myoclonus,84
+tremors,84
+jerky movements,84
+no neck stiffness,84
+"improving white blood cell counts from 14,200 cells/mm3 to 11,000 cells/mm3",84
+better glycemic control,84
+no other abnormalities,84
+blood and pus cultures were sterile,84
+high temperature of 103°F,96
+altered mental status,96
+myoclonus,96
+jerky movements,96
+tremors,96
+no other drugs were added,96
+serotonin syndrome was suspected,96
+linezolid had a probable adverse drug reaction,96
+causal association of serotonin syndrome,96
+the drug interaction probability scale assessment revealed probable causality,96
+both the drugs were stopped,96
+excluded infection,96
+excluded drug abuse,96
+excluded cerebrovascular etiologies,96
+excluded metabolic etiologies,96
+excluded psychiatric etiologies,96
+no neuroleptic malignant syndrome,96
+no malignant hyperthermia,96
+shifted out of the ICU,96
+temperature settled,104
+heart rate normal,128
+sensorium improved,128
+tremors subsided,128
+started walking with support,336
+discharged from the hospital,336
+rasagiline added again,360
+stable and remained asymptomatic for serotonin syndrome,400

@@ -1,0 +1,90 @@
+event,time
+54-year-old Caucasian male,0
+admitted to the emergency department,0
+progressive pain,-168
+swelling of the right lower extremity,-168
+permanent redness,-168
+petechial hemorrhage,-168
+hit his leg,-168
+septic shock,0
+tachycardia,0
+dyspnea,0
+arterial hypotension,0
+blood pressure 81/42 mmHg,0
+heart rate 128 bpm,0
+temperature 39.2°C,0
+respiratory rate 38 breaths per minute,0
+SpO2 96%,0
+paO2 114 mmHg,0
+transthoracic echocardiography,0
+impaired left ventricular ejection fraction 40%,0
+white blood cell count 20.23 × 109/L,0
+CRP 3362 nmol/L,0
+procalcitonin 43.5 µg/L,0
+lactate 8.8 mmol/L,0
+platelet count 160 × 109/L,0
+total bilirubin 42.75 µmol/L,0
+aspartate aminotransferase 950 nmol/s*L,0
+alanine aminotransferase 850 nmol/s*L,0
+blood glucose 20.8 mmol/L,0
+undiagnosed diabetes mellitus,0
+necrotising fasciitis,0
+severe sepsis,0
+multiple organ failure,0
+liver failure,0
+renal failure,0
+creatinine 382 µmol/L,0
+urea 18.8 mmol/L,0
+acute renal failure,0
+myoglobin 125 nmol/L,0
+continuous veno-venous haemodialysis,0
+somnolent,0
+Richmond Agitation and Sedation Scale -2,0
+intubated,2
+acidosis,2
+paO2 179 mmHg,2
+Horowitz Index 256 mmHg,2
+mild ARDS,2
+wound debridement,6
+excision of the fascia,6
+microbiological biopsy sampling,6
+haemodynamic deterioration,24
+whole-body CT scan,24
+subcutaneous fluid retention,24
+air bubbles along the fascia,24
+transfemoral amputation,24
+catecholamine requirement 1.6 mg/h norepinephrine,24
+temperature 39.1°C,24
+leukocytes 25.8 × 109/L,24
+CRP 4067 nmol/l,24
+PCT 60.40 µg/L,24
+IL-6 2532 U/L,24
+LBP 91 U/L,24
+HLA-DR 27.3%,24
+stump revision,96
+wound closure,216
+extubation,168
+temperature 36.8°C,168
+leukocytes 15.8 × 109/L,168
+CRP 694 nmol/l,168
+PCT 9.51 µg/L,168
+IL-6 32.5 U/L,168
+LBP 25.3 U/L,168
+HLA-DR 61.2%,168
+discontinued catecholamines,168
+transferred to normal ward,384
+prosthesis fitting,384
+discharged to rehabilitation,624
+discharged home,1248
+piperacillin/tazobactam,0
+clindamycin,0
+penicillin G,24
+immunoglobulin therapy,24
+HLA-DR increase post-treatment,168
+acute renal insufficiency,0
+ARDS,2
+COVID-19 consideration,N/A
+interdisciplinary treatment,0
+lung-protective ventilation,2
+early haemodialysis,0
+immunocompetence improved,168

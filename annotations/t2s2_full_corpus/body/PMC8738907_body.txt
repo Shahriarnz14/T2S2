@@ -1,0 +1,91 @@
+pmcIntroduction
+
+Severe acute respiratory syndrome corona virus-2 (SARS-CoV-2) infection affected >30 million people and resulted in around 390,000 deaths by June 21, across India, during the current COVID-19 pandemic. Cumulative incidence of COVID-19 was reported to be lower in children than in adults, and a greater number of pediatric kidney transplant recipients (KTRs) were infected during the second wave (5.9%) than during the first wave (0%) of COVID-19 in India [1, 2]. In a large series of 72,314 cases in China, fewer cases of COVID-19 in children were reported than adults and only 1% of these patients were below the age of 9 years [3]. A vaccine for children is not approved in India until recently. A new DNA vaccine has now received emergency approval in India for use in children above the age of 12 years, which may reduce the incidence of pediatric COVID-19 in the future, especially benefitting the immunocompromised subgroup. SARS-CoV-2 causes mild or moderate upper respiratory tract infection in immunocompetent children and majority of them are asymptomatic [4]. Clinical manifestations of children with COVID-19 are reported to be less severe with better outcomes than in adults [5]. A small proportion of children develop severe or critical disease requiring ventilatory support in pediatric intensive care unit and their outcomes are unfavorable [6]. Age-specific case fatality rates were 0.16 at ages 0–4 and 0.054 at ages 5–17 in South Indian children [1]. But the clinical presentation of COVID-19 in pediatric immunosuppressed patients is still unknown [6]. Marlais et al. [6] in their multinational survey of pediatric KTRs with COVID-19 described a mild course without greater severity or complications in their group of patients. There is a possibility that immunosuppression may protect them from severe form of disease [7]. But the question remains whether immunosuppressive therapy could be considered a risk factor for COVID-19 in children as a small group of them were reported to have adverse outcomes including death. This is important while making decisions regarding antiviral therapy in pediatric KTRs with SARS-CoV-2 infection.
+
+Evidence has emerged showing the efficacy of remdesivir in shortening time to clinical recovery in adults with COVID-19 [8, 9]. Remdesivir is a nucleoside analog that inhibits viral RNA-dependent RNA polymerase, thus interfering with RNA replication. US FDA authorized the use of remdesivir as a treatment option for hospitalized COVID-19 patients and recommended dosing of remdesivir in children too [10]. However, there are no comparative clinical data evaluating efficacy or safety of remdesivir in pediatric COVID-19 patients. Children receiving remdesivir were included in several pediatric case series but the clinical outcomes were not adequately reported [11, 12]. Based on studies in adult COVID-19, severe immunocompromise and recent solid organ transplantation could be considered as a risk factor when making antiviral treatment decision. Here, we report a favorable outcome in a pediatric KTR with COVID-19, following treatment with remdesivir and modification of immunosuppression regimen.
+
+Case Report
+
+A 10-year-old male underwent kidney transplantation at our hospital 2 and half months ago for end-stage kidney disease due to chronic interstitial nephritis. He was detected to have PU valves and vesico-ureteric reflux at 6 months of age. He underwent resection of the PU valves and bilateral ureteric reimplantation, when he was 4 years old. He developed end-stage kidney disease by the age of 10 years. He had growth retardation and was grossly underweight. His mother, who is of the same blood group, donated her kidney to him, and he had transplantation on March 8, 2021. He did not receive any induction therapy and was on triple immunosuppression. He had uneventful course after transplantation with a serum creatinine of 0.5 mg/dL. He was started on prophylaxis for pneumocystis and cytomegalovirus (CMV). By 2 months, his tacrolimus trough level was 8 ng/mL with a dose of 1.5 mg twice daily. He was on prednisolone 5 mg per day and mycophenolate sodium 180 mg twice daily. He was on regular follow-up and had 2 cm linear growth and 4 kg weight gain after transplantation.
+
+He presented to us with a history of high fever, severe cough, and vomiting for 2 days. He did not have loss of smell or taste, or diarrhea. His urine output was normal. None of his family members had symptoms of COVID-19. His weight was 22.5 kg. His temperature was 101°F, respiration 26 per min, pulse 120/min and blood pressure 120/80 mm Hg. His SpO2 was 92% (Table 1). His throat was normal. Chest was clear for auscultation. Graft kidney was nontender. Rest of the examination was unremarkable. His rapid antigen test for COVID-19 was positive. His nasopharyngeal swab was sent for SARS-CoV-2 RT-PCR analysis. High resolution computed tomography (HRCT) chest revealed CORADS-6 (COVID-19 Reporting and Data System Category 6) with a total severity score (TSS) of 18/25 (Table 1; Fig. 1).
+
+He was admitted into the hospital and was further evaluated. Investigations revealed normal urinalysis, Hb 11.3 g/dL, absolute lymphocyte count 820 cells/mm3, serum creatinine 0.5 mg/dL, serum glutamic-pyruvic transaminase 48 U/L, C-reactive protein (CRP) 9.3 mg/L, ferritin 203 ng/mL, lactate dehydrogenase 403 U/L, procalcitonin 0.11 ng/mL, and D-dimer 201 ng/mL (Table 1). Ultrasound scan and doppler study of the graft kidney were normal. Blood and throat swabs were sent for bacterial cultures. Tacrolimus trough levels and qt-PCR for CMV and BK virus were analyzed.
+
+He was given adequate hydration and antipyretics. He was started on piperacillin-tazobactam and continued till blood cultures were reported. His RT-PCR for SARS-CoV-2 was reported positive by the next day. He was continued on tacrolimus 1.5 mg twice daily and prednisolone 5 mg daily. Mycophenolate was stopped.
+
+He was administered with remdesivir (lyophilized) 5 mg/kg intravenously loading dose on day 1 followed by 2.5 mg/kg intravenously every 24 h for the next 4 days. He became afebrile by sixth day but continued to have mild cough. His oxygen saturations were normal and urine output was normal. His creatinine was stable at 0.5 mg/dL and his liver functions were normal. PCR for CMV and BK virus was negative. Blood and throat swab cultures were sterile. Tacrolimus level was 8 ng/mL.
+
+He was discharged on the eighth day and was advised home-quarantine. Telehealth follow-up was continued. He came for review on the fifteenth day and was asymptomatic. His renal functions, lymphocyte count, and CRP were normal. HRCT chest revealed a TSS of 3/25. He was restarted on mycophenolate sodium 180 mg daily and was continued on telehealth follow-up. His father tested positive while his mother and elder sibling were negative for COVID-19.
+
+Discussion
+
+Optimal management for COVID-19 in children is still uncertain and available therapeutic approaches lack firm evidence. Indication for antiviral treatment in immunocompetent and immunosuppressive children is not well established.
+
+We described here the presentation in clinical course and management of a 10-year-old KTR who acquired COVID-19 from community exposure, 2.5 months after the transplantation. He was on triple immunosuppression with normal kidney functions and his blood pressure was under good control with 1 medication. He presented with high fever, incessant cough, and vomiting, unlike majority of the children with COVID-19 who are asymptomatic. Though clinical presentation of COVID-19 in immunosuppressed children is largely unknown, a survey that included pediatric KTRs with COVID-19 in 11 countries and surveillance of immunosuppressive children in UK showed that the clinical course in these children is mild and without complications [6, 13].
+
+His HRCT chest revealed a TSS of 18/25 which is considered to be severe [14]. Requirement of respiratory support was favored as a better objective and relevant measure than radiographical criteria for deciding the severity of illness [15]. However, considering the possible rapid deterioration of clinical status and high mortality in adult KTRs with COVID-19 who are on triple immunosuppression at the time of infection, we hospitalized the patient [16].
+
+He had lymphopenia with reduction of absolute lymphocyte count. Several studies reported association between lymphopenia, adult respiratory distress syndrome, and fatal outcome in COVID-19 patients [17]. Lymphocytes are primary targets of SARS-CoV-2 and further get affected by immunosuppressive therapy. A strong association was shown between high CRP levels and unfavorable outcomes including death in COVID-19 adult patients. This patient had high CRP levels, indicating severe disease. D-dimer levels were elevated in our patient and several reports showed an association between severe symptoms, disseminated intravascular coagulation, and increased D-dimer levels [18]. We did not find any evidence of deep vein thrombosis on doppler study. Procalcitonin level was 0.01 ng/mL indicating absence of bacterial sepsis. He had no other common viral infections of KTRs, as evidenced by negative qt-PCR tests for CMV and BK virus.
+
+His HRCT chest was suggestive of COVID-19 infection with a severity score of 18/25. Though chest X-ray is employed as a first-line investigation, we found HRCT chest to be a useful tool for assessing severity and progression of COVID-19 associated pneumonia [19].
+
+We stopped mycophenolate and continued prednisolone and tacrolimus, keeping tacrolimus trough level at 8 ng/mL. Managing immunosuppression in KTRs with COVID-19 is a challenge. An association exists between immunosuppression load and susceptibility to severe infection, ICU admission, or death [16]. Maintaining immunosuppression may impair viral clearance and facilitate progression of disease. So, 50% dose reduction or complete cessation of antimetabolite drugs is appropriate to limit the viral replication. On the other hand, Cleto-Yamane et al., [7] hypothesized that immunosuppression may act as a protection for severe forms of COVID-19. Complete withdrawal of immunosuppression may result in episodes of allograft rejection and renal failure. This may be one of the reasons for high incidence of renal failure in these patients in some earlier studies [18, 20].
+
+Acute kidney injury and renal replacement therapy lead to worse outcomes and increased mortality in adult COVID-19 general population. However, the data on AKI in pediatric KTRs with COVID-19 are very sparse. Our patient had normal kidney function throughout his illness.
+
+We administered our patient with 1 loading dose and 4 doses of remdesivir, as per the schedule already detailed. We considered him as severe immunocompromised as he had solid organ transplantation 2.5 months ago. The child had high fever, severe pneumonia, and emergent oxygen requirement. Sudden deterioration with requirement of supplemental oxygen therapy in pediatric intensive care unit may result in renal failure and dismal outcome in such patients. In India, even if the patient survives, second kidney transplantation is a rarity. We decided to administer remdesivir as his severe immunosuppressive state was a risk factor.
+
+Optimal treatment for COVID-19 in children <10 years old is uncertain and no specific treatment or best practice guidelines exist in this regard [21]. In view of rapidly advancing evidence regarding the efficacy of remdesivir, FDA approved it for “Emergency Use Authorisation” [10]. It was suggested for use in severe and critically ill COVID-19 children [22]. But there is paucity of pediatric-specific data and indication for antiviral therapy is uncertain in these specific groups like KTRs. Decisions are to be made on case-by-case basis especially as in our pediatric KTR with COVID-19. Limitations of this study are short duration of follow-up and this being a single case report, generalizing the indications for remdesivir therapy in COVID-19 considering kidney transplantation and immunosuppression as risk factors may be difficult.
+
+Conclusion
+
+We reported the clinical course and management of a male child aged 10 years who was infected with SARS-CoV-2, two and half months after his kidney transplantation. We believe that therapy with remdesivir helped in early resolution of COVID-19 pneumonia and achieving uneventful recovery in this immunocompromised child. Stopping mycophenolate and monitoring trough levels of tacrolimus are important in preserving graft kidney function. Large case series of pediatric KTRs with COVID-19 are required to establish guidelines for antiviral therapy in these patients.
+
+Statement of Ethics
+
+This study was approved by the Ethics Committee of Apollo hospitals, Visakhapatnam on July 1, 2021. Written informed consent was obtained from the patient's parents.
+
+Conflict of Interest Statement
+
+The authors of this manuscript declare no conflicts of interest to be disclosed as described by the Case Reports in Nephrology and Dialysis.
+
+Funding Sources
+
+This study was not funded by any organization.
+
+Author Contributions
+
+Ravi Raju Tatapudi contributed to study design, data collection and Analysis, methodology, writing original draft and editing, verified the underlying data. Venkateswara Rao Kopparti contributed to study design, data collection, and formal analysis. Anusha Poosapati contributed to writing original draft, data collection and analysis, literature search, and verified the underlying data. Srinivas Metta contributed to data collection and analysis. Vedita Palli contributed to data analysis and collection, and investigation. Balakrishna Vedulla contributed to data collection and analysis.
+
+Data Availability Statement
+
+The data that support the findings of this study are described in the results section. No new data are generated or analyzed in this study.
+
+Fig. 1 Figures showing HRCT chest scan images of the 10-year-old pediatric KTR taken at the time of admission. Scans show multiple confluent ground-glass opacities in bilateral lung fields (a, b), consistent with viral pneumonitis. HRCT, high resolution computed tomography; KTR, kidney transplant recipient.
+
+Table 1 Baseline profile and laboratory findings of the pediatric KTR
+
+Baseline profile		
+Age	9 years	
+Gender	Male	
+Clinical symptoms		
+ Body temperature	101°F	
+ Respiration	26/min	
+ Pulse	120/min	
+ Blood pressure	120/80 mm Hg	
+ SpO2	92%	
+ HRCT chest TSS	18/25	
+Laboratory tests		
+ Hb	11.3 g/dL	
+ Lymphocytes	820 cells/mm3	
+ Serum creatinine	0.5 mg/dL	
+ SGPT	48 U/L	
+ CRP	9.3 mg/L	
+ Ferritin	203 ng/mL	
+ LDH	403 U/L	
+ Procalcitonin	0.11 ng/mL	
+ D-dimer	201 ng/mL	
+This table depicts the baseline profile, and the results of various laboratory tests performed on the pediatric KTR reported in the study.
+
+HRCT, high resolution computed tomography; TSS, Total Severity Score; Hb, hemoglobin; SGPT, serum glutamic-pyruvic transaminase; CRP, C-reactive protein; LDH, lactate dehydrogenase; KTR, kidney transplant recipients.

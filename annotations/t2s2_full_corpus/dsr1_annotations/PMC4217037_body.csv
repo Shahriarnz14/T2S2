@@ -1,0 +1,39 @@
+event,time
+66 years old,0
+female,0
+endometrial cancer,0
+chemotherapy with doxorubicin and cisplatin,-192
+presented to the hospital,0
+neutropenic fever,0
+pancytopenia,0
+admitted to the hospital,0
+treated with broad-spectrum antibiotics,0
+hypoxic respiratory failure,72
+intubation,72
+endotracheal tube diameter 8.0 mm,72
+acute pulmonary edema,72
+septic shock,72
+mechanical ventilation,72
+minute ventilation suddenly dropped,84
+mildly blood-tinged material obtained during suctioning,84
+chest radiography no change,84
+chest radiography completely opacified left hemithorax,96
+no breath sounds over left chest,96
+"platelets 38,000/µL",96
+flexible bronchoscopy,96
+large blood clot obstructing proximal left main bronchus,96
+friable structure of clot,96
+bronchoscopic lavage unsuccessful,96
+forceps extraction unsuccessful,96
+repeated attempts to remove clot over one hour,96
+flexible cryoprobe applied,96
+blood clot frozen for 10 seconds,96
+blood clot removed in four large pieces,96
+follow-up chest X-ray significant improvement in aeration,96
+cryotherapy required 15 minutes,96
+no further obstructive events,96
+repeat bronchoscopy 2 weeks later,336
+no evidence of clot,336
+airways patent,336
+recovered from septic shock,576
+discharged from hospital,576

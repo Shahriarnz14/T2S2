@@ -1,0 +1,77 @@
+event,time
+75 years old,0
+male,0
+body mass index 24.49 kg/m²,0
+presents to emergency department,0
+fever,-96
+myalgia,-96
+dyspnoea,-96
+quit smoking,-131400
+hypertension,0
+valsartan,0
+amlodipine,0
+recent travel,-96
+stayed in motel,-96
+temperature 38.7°C,0
+blood pressure 132/67 mmHg,0
+heart rate 102 beats per minute,0
+respiratory rate 24 breaths per minute,0
+severe hypoxaemia,0
+PaO2 47.1 mmHg,0
+PaCO2 40.9 mmHg,0
+pH 7.464,0
+HCO3− 28.4 mmol/L,0
+SaO2 84.2%,0
+anaemia,0
+haemoglobin 10.7 g/dL,0
+"elevated white blood cells (11,420/μL)",0
+92.0% neutrophils,0
+4.6% lymphocytes,0
+elevated C-reactive protein (19.97 mg/dL),0
+hyponatraemia,0
+serum Na+ 127 mmol/L,0
+chest radiograph infiltrates,0
+intravenous ampicillin/sulbactam,0
+oral oseltamivir,0
+Legionella urinary antigen test positive,0
+antibiotic therapy changed to moxifloxacin,0
+haemoptysis,24
+haemodynamic instability,24
+type I respiratory failure,24
+noninvasive ventilation,24
+PaO2 41.7 mmHg,24
+PaCO2 40.6 mmHg,24
+pH 7.427,24
+HCO3− 25.9 mmol/L,24
+SaO2 77.1%,24
+intubated,24
+transferred to intensive care unit,24
+chest computed tomography,24
+extensive bilateral infiltrates,24
+blood in bronchial secretions,24
+oxygenation index 51.3,24
+increased haemodynamic support,24
+renal function deteriorated,24
+creatinine 4.75 mg/dL,24
+haemoglobin 6.7 g/dL,24
+urine sample red blood cells 160–170 per optical field,24
+glomerular origin,24
+bronchoscopy performed,24
+bloody secretions from both lungs,24
+bronchoalveolar lavage iron-laden macrophages,24
+negative microbiology,24
+negative cytology,24
+fresh frozen plasma transfusion,24
+red blood cell transfusion,24
+positive C-ANCA (PR3),24
+negative anti-GBM,24
+methylprednisolone initiated,24
+cyclophosphamide initiated,24
+severe diffuse alveolar haemorrhage,24
+respiratory instability,24
+haemodynamic instability,24
+unresponsive to therapy,24
+acute renal failure,24
+vasculitis suspected,24
+Legionella infection,0
+DAH,24

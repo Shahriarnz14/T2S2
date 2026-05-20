@@ -1,0 +1,70 @@
+event,time
+70-year-old,0
+male,0
+farmer by profession,0
+presented to the emergency department,0
+high-grade fever,-120
+generalized body ache,-120
+headache,-120
+altered sensorium,-24
+joint pains,-120
+epigastric pain,-120
+no other comorbidities,0
+no history of drug addiction,0
+no history of intoxication,0
+inguinal lymphadenopathy,0
+mild generalized rash,0
+no eschar,0
+hemodynamically stable,0
+was disoriented,0
+no focal neurological deficit,0
+no neck rigidity,0
+initial provisional diagnosis of acute febrile illness,0
+initial provisional diagnosis of undifferentiated fever,0
+negative for malaria,0
+negative for dengue,0
+negative for typhoid,0
+negative for leptospira,0
+scrub typhus antigen card was positive,0
+scrub immunoglobulin M (IgM) was positive,0
+confirmed the diagnosis of scrub typhus,0
+blood cultures were sterile,0
+other body fluid cultures were sterile,0
+"complete blood count showed leukocytosis (15,800/cc)",0
+mild hyperbilirubinemia with transaminitis,0
+slightly raised international normalized ratio (1.56),0
+negative for hepatitis B antigen,0
+negative for hepatitis C antibody,0
+mild fatty infiltration of the liver,0
+treated with tablet doxycycline 100 mg twice daily,0
+defervescence occurred,48
+orientation improved,48
+weakness of both lower limbs (Grade 2/5),96
+weakness of upper limbs (Grade 2/5),96
+deep tendon reflexes were absent,96
+plantar responses were flexor,96
+bladder incontinence,96
+no bowel incontinence,96
+breathing difficulty,96
+respiratory distress,96
+single breath count was 10,96
+respiratory acidosis,96
+the patient was intubated,96
+put on mechanical ventilation,96
+MRI of the brain was done which was without any abnormality,96
+MRI of the cervical spine revealed no abnormality,96
+nerve conduction velocity (NCV) showed motor sensory demyelinating polyneuropathy,96
+diagnosis of GBS,96
+cerebrospinal fluid (CSF) analysis did not reveal albuminocytologic dissociation,96
+the patient was started on intravenous immunoglobulin therapy 0.4 mg/kg/day for 5 days,96
+tablet rifampicin 600 mg twice daily for meningoencephalitis was added,96
+improvement in weakness of all four limbs,336
+improvement in respiratory parameters,336
+weaned off mechanical ventilation,336
+extubated,336
+oral feeding was started,336
+aggressive limb and chest physiotherapy was continued,336
+shifted out from ICU,336
+discharged from the hospital with full neurological recovery,672
+followed up regularly in the outpatient department,720
+presently has no functional disability,720

@@ -1,0 +1,66 @@
+event,time
+68 years old,0
+male,0
+admitted to Emergency County Hospital with superior digestive tract hemorrhage,0
+history of type 2 diabetes,-inf
+history of high blood pressure,-inf
+history of cholecystectomy,-inf
+history of dental extraction without prolonged postoperative bleeding,-inf
+first episode of bleeding at home,-1
+rushed to Emergency Room,0
+diagnostic endoscopy,0
+esophageal hemorrhagic ulcer,0
+endoscopic hemostasis treatment using clips,0
+temporary stopped bleeding,0
+lost consciousness,0
+orotracheal intubation,0
+admitted to Intensive Care Unit,0
+altered mental status (Glasgow Coma Scale 12),0
+ventilator support,0
+stable hemodynamic state,0
+blood pressure 100/60 mmHg,0
+hemoglobin 6.3 g/dL,0
+hematocrit 22%,0
+blood urea 94 mg/dL,0
+blood creatinine 0.7 mg/dL,0
+lactic acid 4.5 mmol/l,0
+glycemia 350 mg/dL,0
+activated partial thromboplastin time 38 seconds,0
+international normalized ratio 0.8,0
+transaminases 9.9 U/L,0
+direct bilirubin 0.13 mg/dL,0
+total bilirubin 0.3 mg/dL,0
+serum total protein 5 g/dL,0
+serum albumin 28 g/L,0
+transfused with whole blood,0
+transfused with fresh frozen plasma,0
+continuous saline infusion,0
+continuous colloid infusion,0
+hemostatic agents administered,0
+prokinetic agents administered,0
+proton pump inhibitor (Pantoprazole) continuous infusion,0
+osmotic diuretic therapy,0
+pulmonary congestion,0
+possible cerebral edema,0
+clinical condition improved,48
+weaned from ventilator,48
+four more episodes of bleeding,24
+endoscopic hemostasis attempted,24
+chest CT angiography performed,72
+prolonged prothrombin time,72
+transfusion with fresh frozen plasma,72
+transfusion with cryoprecipitate,72
+clinical investigations to rule out hemophilia,72
+low plasma value of FVIII (12%),168
+diagnosis of mild hemophilia A,168
+infusion of FVIII (3000 IU every 12 hours for three days),168
+plasma value of FVIII increased to 50%,216
+5th hemostasis endoscopic attempt,168
+clinical status significantly improved,168
+cicatricial ulcer with clips,168
+peripheral blood smear analysis,168
+microcytic hypochromic red blood cells,168
+hospital acquired infection,120
+broad-spectrum antibiotic therapy,120
+transferred to Department of Gastroenterology,216
+discharged after seven days of hospitalization,168

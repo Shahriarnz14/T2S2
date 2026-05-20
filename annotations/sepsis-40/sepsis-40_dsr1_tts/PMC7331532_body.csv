@@ -1,0 +1,67 @@
+event,time
+56 years old,0
+male,0
+admitted to intensive care unit,0
+history of diabetes mellitus,0
+history of hypertension,0
+history of hyperlipidemia,0
+history of obesity,0
+body mass index 31 kg/m2,0
+angiotensin II receptor blockers,0
+calcium channel blockers,0
+metformin,0
+glimepiride,0
+atorvastatin,0
+inhaled fluticasone propionate/salmeterol,0
+suspicion of early stage chronic obstructive pulmonary disease,0
+intermittent fever >38.3°C,-336
+muscle ache,-336
+nonproductive cough,-168
+progressively increasing dyspnea,-168
+received amoxicillin,-168
+received pristinamycin,-168
+hypoxemic respiratory failure,0
+PaO2/FiO2 <100,0
+mechanical ventilation,0
+norepinephrine,0
+diabetic ketoacidosis,0
+pH 7.3,0
+glucose level 20.5 mmol/L,0
+ketonemia,0
+bicarbonate ions level 17.2 mmol/L,0
+continuous insulin infusion,0
+acute kidney failure,0
+creatinine level 2.76 mg/dL,0
+multiple bilateral ground-glass opacities,0
+crazy paving pattern,0
+3 pulmonary nodules in right upper lobe,0
+positive SARS-CoV-2 PCR,0
+dexamethasone,0
+eculizumab,48
+piperacillin-tazobactam,0
+cefotaxime,0
+spiramycin,0
+tracheal aspirate BioFire FilmArray pneumonia plus panel negative,96
+serum galactomannan index 0.07,0
+serum β-D-Glucan 10.4 pg/mL,0
+condition worsened,144
+increasing vasopressor need,144
+increasing oxygen need,144
+tracheal aspirate branching hyphae,144
+Aspergillus fumigatus culture positive,144
+Af qPCR positive Cq 26.3,144
+serum galactomannan index 0.05,144
+serum β-D-Glucan <7.8 pg/mL,144
+serum qPCR-Af negative,144
+transthoracic echocardiogram right ventricle hypertrophy,144
+transthoracic echocardiogram right ventricle dilation,144
+D-dimer >20000 ng/mL,144
+fibrinogen 3.85 g/L,144
+death,144
+cardiac arrest suspected massive pulmonary embolism,144
+autopsy prohibited,144
+posaconazole resistant,144
+itraconazole resistant,144
+voriconazole resistant,144
+isavuconazole resistant,144
+TR34/L98H mutation,144

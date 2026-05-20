@@ -1,0 +1,82 @@
+event,time
+29-year-old,0
+Chinese,0
+man,0
+admitted to the hospital,0
+fever,-48
+forehead headache,-48
+nausea,-48
+consumed unpasteurized cooked beef,-72
+type 2 diabetes mellitus,0
+poorly controlled diabetes,0
+fatty liver,0
+smoking,0
+drinking,0
+nuchal rigidity,0
+high glucose,0
+high C-reactive protein,0
+high erythrocyte sedimentation rate,0
+normal white blood cells,0
+normal red blood cells,0
+normal hemoglobin,0
+normal urea,0
+normal creatinine,0
+normal serum minerals,0
+normal autoimmune antibodies,0
+turbid cerebrospinal fluid,0
+leukocytes 2090/mm3,0
+neutrophils 30%,0
+monocytes 70%,0
+protein 233.85 mg/dL,0
+glucose 1.4 mmol/L,0
+CSF pressure >33 cmH2O,0
+Gram-positive rods in CSF,0
+negative CSF fungi,0
+negative CSF acid-fast bacilli,0
+blood cultures yielded L. monocytogenes,168
+ampicillin susceptibility,168
+erythrocin susceptibility,168
+meropenem susceptibility,168
+penicillin susceptibility,168
+sulfamethoxazole resistance,168
+negative CSF cultures,168
+negative urine cultures,168
+unremarkable brain CT,0
+bilateral bronchopneumonia,0
+abnormal T2-FLAIR signal in right pons,96
+prominent temporal horns,96
+ventricular enlargement,96
+right pons hemorrhage,336
+hydrocephalus,336
+bilateral lateral ventricular hydrocephalus,336
+third ventricle hydrocephalus,336
+extraventricular drainage,528
+fourth ventricle dilatation,528
+no lateral ventricle remission,528
+lateral ventricle rehaemorrhagia,696
+larger ventricular system,696
+Listeria rhombencephalitis,0
+hydrocephalus diagnosis,0
+intracranial hemorrhage diagnosis,0
+empiric antibiotic therapy,0
+Ceftriaxone 2g every 12h,0
+Meropenem 1g every 8h,48
+fever persisted,0
+sinus tachycardia,0
+tachypnea,0
+confusion (GCS 12/15),0
+bilateral horizontal nystagmus,0
+bilateral abducens nerve palsy,0
+dysarthria,0
+weakness of all four limbs,0
+transferred to ICU,120
+coma (GCS 5/15),192
+intubation and ventilation,192
+ampicillin therapy,192
+etimicin therapy,192
+meropenem therapy,192
+etimicin discontinued,288
+afebrile,288
+"anisocoria (left 4mm, right 2mm)",696
+condition deteriorated (GCS 3/15),696
+death,744

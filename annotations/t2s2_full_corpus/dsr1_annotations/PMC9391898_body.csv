@@ -1,0 +1,72 @@
+event,time
+63 years old,0
+male,0
+benign prostatic hyperplasia,0
+urinary retention,0
+elective flexible cystoscopy,0
+transrectal ultrasound-guided prostate biopsy,0
+chronic obstructive pulmonary disease,0
+hypertension,0
+hyperlipidemia,0
+osteoarthritis,0
+foot surgery (past),0
+antihypertensives,0
+nebulization,0
+no history of malignant hyperthermia,0
+no family history of malignant hyperthermia,0
+normal preoperative vital signs,0
+elevated baseline creatinine (1.5 mg/dL),0
+general anesthesia,0
+induced with lidocaine (100 mg),0
+induced with propofol (200 mg),0
+induced with fentanyl (50 mcg),0
+supraglottic laryngeal mask airway placement,0
+maintained with sevoflurane,0
+spontaneous breathing,0
+end tidal CO2 45-50,0
+normothermic,0
+hemodynamically stable,0
+fentanyl (50 mcg) administered intraoperatively,0
+ondansetron (4 mg) administered intraoperatively,0
+uneventful surgery,0
+extubated,0
+transported to recovery unit,0
+alert,0
+awake,0
+non-anxious,0
+comfortable,0
+"stable vitals (normothermia, normotension, normal heart rate, normal respiratory rate)",0
+muscle rigidity,40
+elevated temperature (38.6°C),40
+elevated blood pressure (220/110 mmHg),40
+tachypnea (40 breaths/min),40
+tachycardia (110 bpm),40
+suspected malignant hyperthermia,40
+malignant hyperthermia protocol initiated,40
+malignant hyperthermia hotline contacted,40
+reintubated with propofol (200 mg),40
+radial artery cannulation,40
+emergent lab studies performed,40
+dantrolene administered (2.5 mg/kg),40
+elevated CO2 (62 mmHg),40
+elevated WBC (11.2×10⁹/L),40
+elevated creatine kinase (204 U/L),40
+no muscle rigidity (repeat exam),40
+normalized blood pressure,40
+persistent elevated temperature,40
+normalized CO2,40
+elevated WBC (stable),40
+elevated creatine kinase (stable),40
+malignant hyperthermia deemed unlikely,40
+sepsis considered,40
+blood cultures drawn,40
+hemodynamically stable,40
+extubated,40
+transferred to ICU,40
+improved temperature,48
+improved WBC,48
+improved creatine kinase,48
+urosepsis diagnosis,48
+E. coli in blood cultures,48
+antibiotics administered,48
+discharged home,96

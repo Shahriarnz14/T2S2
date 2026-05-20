@@ -1,0 +1,68 @@
+event,time
+67 years old,0
+male,0
+untreated hypertension,0
+untreated diabetes,0
+admitted to the hospital,0
+acutely increasing chest pain,-12
+back pain,-12
+electrocardiogram ST elevation V1-6,0
+transthoracic echocardiography anterior wall motion abnormality,0
+anterior acute STEMI diagnosis,0
+maximum CK level 5021 U/L,0
+maximum CK-MB level 535 U/L,0
+coronary angiography total occlusion LAD,0
+percutaneous coronary intervention performed,0
+chest pain occurred on previous day,-24
+CK level high at admission,0
+acute strong right subcostal pain,5
+epigastric pain,5
+abdominal CT performed,5
+gallstones detected,5
+liver enzymes normal,5
+conservative treatment for biliary colic,5
+no dyspnea during exertion,5
+no orthopnea,5
+"right heart failure symptoms (fatigue, loss of appetite)",5
+myocardial enzyme levels decreased,5
+no heart murmur,5
+no new ECG abnormalities,5
+daily TTE no new findings,5
+stronger right subcostal pain,120
+stronger epigastric pain,120
+positive Murphy sign,120
+CRP 10.82 mg/dL,120
+CT edematous gallbladder,120
+WBC 12600/µL,120
+AST 57 U/L,120
+ALT 45 U/L,120
+GGT 77 U/L,120
+gallstones vanished,120
+laparoscopic cholecystectomy performed,120
+chronic cholecystitis diagnosis,120
+postoperative exacerbated pain,120
+ICU admission,120
+restlessness,120
+tachypnea,120
+shock,120
+no new TTE abnormalities,120
+no new ECG abnormalities,120
+septic shock management,120
+broad-spectrum antibiotics,120
+tracheal intubation,120
+invasive ventilation,120
+continuous renal replacement therapy,120
+norepinephrine 0.35 mcg/kg/min,120
+dobutamine 7.6 mcg/kg/min,120
+epinephrine 0.2 mcg/kg/min,120
+hemodynamic deterioration,120
+4 TTEs no abnormalities,120
+TTE left-to-right shunt (VSR),130
+intra-aortic balloon pumping,130
+VA-ECMO initiated,130
+emergency VSR patch closure,130
+apical septal perforation confirmed,130
+right subcostal pain diminished,130
+hemodynamic improvement,130
+left ICU,504
+transferred,1776

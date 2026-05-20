@@ -1,0 +1,52 @@
+event,time
+74-year-old,0
+man,0
+no co-morbidities,0
+presented to the emergency department,0
+diarrhoea,-72
+vomiting,-72
+agitated,0
+Glasgow Coma Scale score of 12/15,0
+pansystolic murmur,0
+murmur loudest at the apex,0
+murmur radiated to the left axilla,0
+physical signs suggestive of infective endocarditis,0
+impaired oral hygiene,0
+elevated inflammatory markers,0
+peripheral blood cultures taken,0
+started on intravenous ceftriaxone,0
+blood culture grew Staphylococcus aureus,0
+negative SARS-CoV-2 nasopharyngeal swab,0
+transthoracic echocardiogram showed severe mitral regurgitation,0
+vegetations on mitral and aortic valves,0
+Osler nodes,0
+Janeway lesion,0
+nail bed haemorrhage,0
+definite infective endocarditis confirmed,0
+amalgam restoration in upper first molar,0
+absent upper first premolar and molar,0
+white cell count trend,0
+eGFR trend,0
+GCS ranged between 11/15 and 15/15,0
+abdominal ultrasound on Day 5,120
+no evidence of renal obstruction,120
+renal failure attributed to worsening sepsis,120
+anuric by Day 8,192
+haemodialysis on Days 8 and 9,192
+transferred to tertiary hospital on Day 10,240
+admitted to intensive care unit,240
+continuous venovenous haemofiltration,240
+positive SARS-CoV-2 nasopharyngeal swab on Day 11,264
+serial SARS-CoV-2 swabs twice weekly,264
+plan for surgery delayed,264
+nausea on Day 24,576
+vomiting on Day 24,576
+CT chest showing COVID-19 pneumonia,576
+started on supplementary oxygen,576
+started on oral dexamethasone,576
+started on intravenous remdesivir,576
+oxygen saturation >92%,576
+no need for invasive ventilation,576
+died on Day 31,744
+acute respiratory distress syndrome,744
+ARDS secondary to COVID-19 pneumonia,744

@@ -1,0 +1,71 @@
+event,time
+81 years old,0
+male,0
+admitted to the hospital,0
+ischemic stroke,-175200
+hypertension,-175200
+stage 3 nephropathy,-175200
+multiple myeloma type IgA lambda,-17520
+symptomatic anemia,-17520
+monoclonal gammaglobulinemia (29 g/L),-17520
+melphalan 10 mg,-17520
+prednisone 100 mg,-17520
+bortezomib 1.3 mg/m²,-17520
+paraproteinemia decrease,-17520
+anemia recovery,-17520
+disease progression,-17520
+lenalidomide 15 mg,-17520
+dexamethasone 40 mg,-17520
+poorly tolerated treatment,-17520
+clinically stable condition,-17520
+low paraproteinemia (1–5 g/L),-17520
+mild anemia (hemoglobin 6.8 mmol/L),-17520
+dyspnea,0
+general discomfort,0
+muscle weakness,0
+poor performance status (WHO 3–4),0
+tachypnea (24/min),0
+normal body temperature,0
+normal blood pressure,0
+no clinical signs of pneumonia,0
+no cardiac decompensation,0
+respiratory compensated metabolic acidosis,0
+increased anion gap (16.8),0
+elevated arterial lactate level (9.5 mmol/L),0
+normal ECG,0
+normal contrast enhancement of major abdominal and thoracic vessels,0
+no pulmonary embolism,0
+normal liver function,0
+stable kidney function (eGFR 41 mL/min),0
+elevated PSA level (240 µg/L),0
+enlarged prostate,0
+hydronephrosis of the right kidney,0
+small nodules in the liver (segment 1 and 7),0
+enlarged mediastinal and paratracheal lymph nodes,0
+sclerotic bone metastases,0
+type B lactic acidosis,0
+metastatic prostate cancer,0
+cyproterone acetate 100 mg twice daily,0
+prednisone 65 mg once daily,0
+thiamine 100 mg,0
+clinically deteriorated,24
+increasing lactate levels (13.6 mmol/L),24
+lowering pH levels to 7.23,24
+unconscious,24
+admitted to intensive care unit (ICU),24
+NaHCO3 8.4% 300 mmol,24
+adrenaline-resistant cardiac arrest,72
+DNR will,72
+locally advanced prostate cancer (Gleason score 5 + 5 = 10),72
+encasement of the right ureter,72
+metastases in thoracic and lumbar spine,72
+metastases in liver,72
+metastases in lungs,72
+metastases in peritoneum,72
+bilateral tumor thrombi in microcirculation of both lungs,72
+no signs of multiple myeloma activity,72
+no cardiac ischemia,72
+"TP53 frameshift mutation (c.887delA, p.H296Pfs*49)",72
+"PIK3CA activating mutation (c.1634A>G, p.E545G)",72
+no PTEN mutations,72
+no IDH1 mutations,72

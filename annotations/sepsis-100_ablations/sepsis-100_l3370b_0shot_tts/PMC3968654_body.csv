@@ -1,0 +1,77 @@
+event,time
+high grade fever ,-24
+decreased urine output ,-24
+yellowish discolouration of urine ,-24
+altered sensorium ,-24
+disoriented ,-24
+febrile ,-24
+icteric ,-24
+sub-conjunctival haemorrhages ,-24
+fine basal crepitations ,-24
+anaemia ,-24
+jaundice ,-24
+deranged liver function ,-24
+coagulopathy ,-24
+thrombocytopenia ,-24
+increased total leucocyte count ,-24
+elevated blood urea nitrogen ,-24
+elevated serum creatinine ,-24
+mild hepato-splenomegaly ,-24
+singleton pregnancy ,-24
+adequate liquor ,-24
+umbilical artery systolic-diastolic ratio of 2:1 ,-24
+non-reassuring fetal heart rate ,-1
+aspiration prophylaxis ,0
+high-risk consent ,0
+rapid sequence intubation ,0
+cricoid pressure ,0
+thiopental administration ,0
+succinylcholine administration ,0
+right internal jugular vein cannulation ,0
+left radial artery cannulation ,0
+anaesthesia maintenance with isoflurane ,0
+N2O-O2 mixture administration ,0
+atracurium administration ,0
+fentanyl administration ,0
+oxytocin infusion ,0
+hypotension ,1
+blood loss ,1
+packed red blood cells transfusion ,1
+fresh frozen plasma transfusion ,1
+platelets transfusion ,1
+noradrenaline infusion ,1
+mild acidosis ,2
+normal electrolytes ,2
+normal serum glucose ,2
+post-operative analgesia with ultrasound guided bilateral transverse abdominis plane block ,2
+pulmonary haemorrhage ,48
+blood products transfusion ,48
+bedside fibre-optic bronchoscopy ,48
+erythematous mucosa ,48
+blood clots ,48
+active oozing ,48
+diffuse bleeding from distal airway ,48
+broncho alveolar lavage ,48
+Factor VIIa administration ,48
+bleeding cessation ,60
+reduction of inspired oxygen fraction ,60
+clear chest radiograph ,60
+acute kidney injury ,72
+severe hyperbilirubinemia ,72
+haemolytic uremic syndrome ,72
+plasmapheresis ,72
+dialysis ,72
+diffuse cerebral oedema ,72
+cerebroprotective measures ,72
+stress ulcer prevention ,72
+deep vein thrombosis prophylaxis ,72
+glycemic control ,72
+reducing fever ,96
+improving consciousness ,96
+inotropic support taper ,96
+improving urine output ,96
+improving liver function test ,96
+improving coagulation parameters ,96
+improving Pao2/Fio2 ratio ,96
+extubation ,144
+discharge from hospital ,168

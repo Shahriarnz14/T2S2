@@ -1,0 +1,113 @@
+event,time
+54 years old,0
+male,0
+obese,0
+body mass index 31.8,0
+no significant past medical history,0
+admitted to hospital,0
+positive coronavirus nasopharyngeal swab test,-120
+fever,-120
+rigors,-120
+persistent cough,-120
+myalgia,-120
+shortness of breath,-120
+no chest pain,-120
+no palpitation,-120
+no hemoptysis,-120
+non-smoker,0
+does not drink alcohol,0
+no history of liver disease,0
+no other co-morbidities,0
+temperature 39.5 °C,0
+low O2 saturation 88%,0
+blood pressure 140/82 mmHg,0
+heart rate 95/min,0
+respiratory rate 22/min,0
+bibasilar crackles,0
+no pleural rub,0
+no pericardial rub,0
+no deep vein thrombosis,0
+lymphopenia 0.59 ×10^9/L,0
+high CRP 244 mg/L,0
+"ferritin 1,620 µg/L",0
+elevated LDH 334 U/L,0
+normal clotting,0
+normal liver function,0
+normal renal function,0
+negative atypical pneumonia screen,0
+negative blood cultures,0
+type 1 respiratory failure,0
+bilateral patchy consolidation on CXR,0
+COVID-19 pneumonia,0
+treated with O2 therapy,0
+intravenous antibiotics,0
+dexamethasone,0
+remdesivir,0
+high-flow O2 15 L/min,0
+tocilizumab,0
+discharged home,0
+O2 saturation >94%,0
+improvement in inflammatory markers,0
+readmitted,336
+generally unwell,336
+extreme fatigue,336
+poor appetite,336
+reduced oral intake,336
+high temperature,336
+heart rate 132/min,336
+temperature 38.2 °C,336
+blood pressure 92/52 mmHg,336
+respiratory rate 32/min,336
+GCS 14/15,336
+icterus,336
+peripheral cyanosis,336
+flapping tremors,336
+encephalopathy,336
+distended tender abdomen,336
+severe type 1 respiratory failure,336
+pO2 5.7 kPa,336
+pCO2 4.7 kPa,336
+severe metabolic acidosis pH 6.97,336
+lactate 13.8 mmol/L,336
+base excess -22.5,336
+bicarbonate 7.9 mmol/L,336
+severe acute kidney injury,336
+hyperkalemia 6.4 mmol/L,336
+creatinine 200 µmol/L,336
+GFR 32 mL/min,336
+"ALT 13,685 U/L",336
+"AST 23,118 U/L",336
+bilirubin 83 µmol/L,336
+amylase 413 U/L,336
+ALP 322 U/L,336
+GGT 930 U/L,336
+albumin 28 g/L,336
+undetectable paracetamol level,336
+INR 2.1,336
+aPTT 50 s,336
+high D-dimer,336
+platelets 65 ×10^9/L,336
+CRP 55 mg/L,336
+"ferritin >99,999 µg/L",336
+admitted to ICU,336
+central venous catheter inserted,336
+high-flow oxygen,336
+intravenous piperacillin/tazobactam,336
+intravenous fluids,336
+human albumin serum,336
+fresh frozen plasma,336
+dexamethasone,336
+proton pump inhibitors,336
+bicarbonate,336
+CXR with extensive abnormal densities,336
+CT abdomen and pelvis with multiple pulmonary emboli,336
+CT chest with confluent consolidation,336
+CT abdomen with acute hepatitis,336
+multiorgan failure,336
+best supportive care advised,336
+GCS drop,336
+hypotension,336
+intubated,336
+ventilated,336
+cardiac arrest,336
+died,360

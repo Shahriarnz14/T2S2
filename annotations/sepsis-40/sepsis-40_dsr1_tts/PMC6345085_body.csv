@@ -1,0 +1,101 @@
+event,time
+72 years old,0\
+woman,0\
+bilateral breast cancers,0\
+occipital neck mass,0\
+presented to emergency department,0\
+shortness of breath,0\
+haemoglobin 4.2 g/dl,0\
+cyst developed after minor trauma in 1967,-438000 (approx. 50 years ago)\
+mass started growing over past few years,-26280 (approx. 3 years ago)\
+mass periodically drain,-26280\
+mass scab over,-26280\
+mass drain again,-26280\
+mass began to bleed,-26280\
+portion of mass fell out 5 days before presentation,-120\
+mass bled more profusely,-120\
+"severe diffuse swelling in arms, legs, trunk over prior ten days",-240\
+afebrile,0\
+hemodynamically stable,0\
+hypertensive 170/70 mmHg,0\
+oxygen saturation 100% on 4L nasal cannula,0\
+clear lung sounds,0\
+severe upper extremity pitting edema,0\
+severe lower extremity pitting edema,0\
+baseball-sized malodorous occipital mass,0\
+soft to touch,0\
+thick oozing purulent drainage,0\
+white blood cell count 8.3*10³/μl,0\
+haemoglobin 4.7 g/dl,0\
+albumin 2.9 g/dl,0\
+INR 1.6,0\
+BNP 666 pg/ml,0\
+chest X-ray mild interstitial edema,0\
+severe anemia,0\
+recurrent bleeding from neck mass,0\
+primary differential for anasarca,0\
+nephrotic syndrome,0\
+cirrhosis,0\
+liver metastases,0\
+suspicious for malignancy,0\
+CT pan-scan ordered,0\
+could not tolerate CT scan,0\
+painful to lie on back,0\
+remained in emergency department >24 hours,24\
+transfused 3 units packed red blood cells,0 (assumed during ED stay)\
+febrile 101.2°F,24 (during transfusion)\
+tachycardic 110 bpm,24\
+fever ascribed to transfusion reaction,24\
+acetaminophen ordered,24\
+temperature increased to 102°F,~30 (overnight after ED admission)\
+heart rate increased to 120 bpm,~30\
+tachypneic 30 breaths/minute,~30\
+hypertensive 200/60 mmHg,~30\
+lactate 2.7 mEq/l,~30\
+repeat white blood cell count 24.3*10³/μl,~30\
+6% band forms,~30\
+blood cultures grew E. coli,~30 (after culture time)\
+started vancomycin,~30\
+started piperacillin-tazobactam,~30\
+creatinine doubled 0.72 to 1.46 mg/dL,~30 (next morning)\
+INR 2.4,~30\
+platelet count fell 127*10³/μl to 86*10³/μl,~30\
+fibrinogen 224 mg/dl,~30\
+d-dimer 4668 ng/ml,~30\
+disseminated intravascular coagulation,~30\
+severe sepsis,~30\
+labored breathing,~30\
+bilevel non-invasive positive pressure ventilation,~30\
+transferred to MICU,~30\
+hypotensive 80/40 mmHg,~30 (on MICU arrival)\
+vasopressors initiated,~30\
+urinalysis pyuria >180 WBC/hpf,~30\
+intubated,~30\
+sedated,~30\
+pan-CT scan performed,~30\
+obstructing left distal ureteric stone 1.6 cm,~30\
+proximal dilation,~30\
+hydronephrosis,~30\
+extraction and stenting,~30 (after CT scan)\
+weaned from vasopressors,~54 (post-op)\
+could not be extubated,~54\
+chest X-ray increasing pulmonary edema,~54\
+oliguric,~54\
+creatinine 6.4 mg/dl,~54\
+urgently dialyzed,~54\
+stabilized,~240 (after 10 days MICU)\
+transferred to general medicine,~240\
+discharged day 28,672\
+required hemodialysis several months,672 (post-discharge)\
+kidney function recovered,~4320 (approx. 6 months later)\
+neck mass excised,672 (post-discharge)\
+benign hemangioma,672\
+infected hematoma,672\
+abscess formation,672\
+urinary tract infection,~30 (from E. coli)\
+obstructing ureteric stone,~30\
+severe sepsis,~30\
+missed orders due to ED boarding,24\
+delayed ICU admission,24\
+transport in evening,~30\
+indirect ICU admission,~30

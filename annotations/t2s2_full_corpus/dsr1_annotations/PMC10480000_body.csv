@@ -1,0 +1,108 @@
+event,time
+15-year-old girl,0
+born in country with high burden of tuberculosis,0
+care of tertiary care infectious disease clinic,0
+tuberculosis infection,0
+positive QuantiFERON gold test,0
+no evidence of tuberculosis disease,0
+iron deficiency anemia,0
+hemoglobin 97-104 g/L,0
+moderately active systemic lupus erythematosus,0
+symmetric nonerosive polyarthritis,0
+nonscarring alopecia,0
+photosensitivity,0
+Raynaud phenomenon,0
+antinuclear antibody positive,0
+anti-Smith antibody positive,0
+anti-ribonucleoprotein antibody positive,0
+naproxen 375 mg twice daily,0
+hydroxychloroquine 5.5 mg/kg/day,0
+no corticosteroids for several years,0
+rifampin 600 mg daily started,0
+tolerated rifampin for 11 days,264
+chills,288
+myalgias,288
+chills and myalgias began hours after rifampin,288
+symptoms resolved hours later,288
+stopped rifampin for 3 days,288
+no symptom recurrence,288
+in-person assessment,312
+normal physical examination,312
+arthritis in 2 joints,312
+resumed rifampin,312
+severe neck pain,312.083
+myalgias,312.083
+arthralgias,312.083
+shortness of breath,312.083
+chest pain,312.083
+hypotension 80/40 mmHg,312.083
+ambulance transport,312.083
+fluid bolus received,312.083
+febrile 38.3°C,312.083
+tachypnea 28 breaths/min,312.083
+oxygen saturation 99%,312.083
+tachycardia 123 beats/min,312.083
+blood pressure 91/52 mmHg,312.083
+weight 60 kg,312.083
+no angioedema,312.083
+no rash,312.083
+no wheezing,312.083
+no gastrointestinal symptoms,312.083
+intravenous fluids,312.083
+empiric vancomycin,312.083
+empiric ceftriaxone,312.083
+hypotension 89/36 mmHg,315.083
+diaphoresis,315.083
+fluid resuscitation,315.083
+norepinephrine infusion,315.083
+epinephrine infusion,315.083
+admitted to ICU,315.083
+no rash,315.083
+no mucous membrane involvement,315.083
+leukocyte count 2.84 x10^9/L,315.083
+leukocyte increased to 17.34 x10^9/L,321.083
+eosinophil count 0.00 x10^9/L,315.083
+hemoglobin 74 g/L,339.083
+normal bilirubin,315.083
+normal haptoglobin,315.083
+negative direct antiglobulin test,315.083
+no schistocytes,315.083
+CRP 13.6 mg/L,315.083
+CRP increased to 101.8 mg/L,339.083
+aspartate aminotransferase 71 U/L,315.083
+aspartate aminotransferase 99 U/L,339.083
+complement C3 0.76 g/L,315.083
+normal C4,315.083
+normal creatinine kinase,315.083
+partially empty sella turcica,0
+cortisol 605 nmol/L,315.083
+severe neck pain,315.083
+nuchal rigidity,315.083
+shock,315.083
+suspected sepsis,315.083
+normal head CT,315.083
+normal echocardiogram,315.083
+CT angiography neck no infected thrombus,315.083
+no edematous retropharyngeal soft tissue,315.083
+localized myositis,315.083
+chest radiograph mild pulmonary edema,315.083
+responded to diuresis,315.083
+CT lungs bilateral septal thickening,315.083
+ground glass opacities,315.083
+negative blood cultures,315.083
+negative sputum cultures,315.083
+negative throat cultures,315.083
+negative cerebrospinal fluid cultures,315.083
+negative Epstein-Barr virus serology,315.083
+negative cytomegalovirus serology,315.083
+negative mycoplasma serology,315.083
+SARS-CoV-2 negative,315.083
+received rifampin in ICU,315.083
+blood pressure decreased 93/39 mmHg,315.083
+increased vasopressor dose,315.083
+rifampin stopped,315.083
+weaned off vasopressors,347.083
+rifampin-induced adverse drug reaction,347.083
+isoniazid started,347.083
+completed 9 months of therapy,347.083
+avoid rifamycin-based medications,347.083

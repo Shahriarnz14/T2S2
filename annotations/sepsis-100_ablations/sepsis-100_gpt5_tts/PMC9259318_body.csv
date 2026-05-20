@@ -1,0 +1,154 @@
+event,time
+67-year-old,0
+man,0
+history of mucosal resection for early gastric cancer,-8760
+history of partial resection for left lung cancer,-8760
+no heart disease,0
+used conventional drugs,0
+collected knee-high wild grass from a riverbed for 10 days,-600
+systemic pain,-360
+fatigue,-360
+fever,-240
+chills,-240
+watery diarrhea,-240
+loss of appetite,-240
+mildly disturbed consciousness,-240
+visited the department of internal medicine at a nearby hospital,0
+referred to our department,0
+admitted to the hospital,0
+height 169.0 cm,0
+body weight 52.3 kg,0
+Glasgow Coma Scale 14 (E3 V5 M6),0
+blood pressure 130/79 mmHg,0
+heart rate 96/min,0
+regular pulse,0
+respiratory rate 20/min,0
+SPO2 94% in room air,0
+temperature 38.9°C,0
+no remarkable head-and-neck abnormalities,0
+no remarkable chest abnormalities,0
+crusted skin lesions on the medial surface of the left thigh,0
+freely movable adenopathy approximately 2 cm without tenderness,0
+aggregated papules in the right inguinal region,0
+no remarkable neurological abnormalities,0
+chest radiography normal,0
+electrocardiography normal,0
+simple head-and-neck CT no remarkable abnormalities,0
+"White blood cell count 1,300 /μL",0
+Platelet count 3.0×10^4 /μL,0
+Neutrophil count 899 /μL,0
+Lymphocyte count 342 /μL,0
+APTT 48.2 s prolonged,0
+C-reactive protein 1.30 mg/dL,0
+AST 230 U/L,0
+LDH 760 U/L,0
+CK 746 U/L,0
+Total Protein 7.3 g/dL,0
+Albumin 3.9 g/dL,0
+BUN 17 mg/dL,0
+Creatinine 0.84 mg/dL,0
+Total bilirubin 0.6 mg/dL,0
+ALT 90 U/L,0
+ALP 159 U/L,0
+γ-GTP 83 U/L,0
+Glucose 153 mg/dL,0
+Sodium 132 mmol/L,0
+Potassium 3.6 mmol/L,0
+Chlorine 99 mmol/L,0
+PT 12.1 s,0
+PT% 89%,0
+PT-INR 1.05,0
+Fibrinogen 315 mg/dL,0
+AT III activity 99%,0
+D-dimer 4.7 μg/mL,0
+Differential count of leukocytes: Neutrophils 69.2%,0
+Differential count of leukocytes: Lymphocytes 26.3%,0
+Differential count of leukocytes: Eosinophils 0%,0
+Differential count of leukocytes: Monocytes 4.5%,0
+Red blood cell count 473×10^4 /μL,0
+Hemoglobin 16.3 g/dL,0
+suspected sepsis,24
+suspected febrile neutropenia associated with hemophagocytosis,24
+antibiotics administered,24
+"Ferritin 15,165 ng/mL",48
+screened for antibodies specific for cytomegalovirus,48
+screened for antibodies specific for Epstein-Barr virus,48
+blood culture negative,48
+bone marrow biopsy performed,48
+hemophagocytosis,48
+fewer mature myeloid series cells,48
+more monocytoid cells,48
+more lymphoid cells,48
+CD3-positive T cells increased,48
+CD4-positive T cells increased,48
+MUM-1-positive lymphoid cells increased,48
+CD68-positive histiomonocytes increased,48
+CD163-positive histiomonocytes increased,48
+No EBERs-positive cells detected,48
+diagnosed with hemophagocytic lymphohistiocytosis (HLH),48
+prednisolone 60 mg/day started,48
+pancytopenia,48
+prednisolone tapered,72
+chest pain,72
+shivering,72
+fever 39.2°C,72
+blood pressure 88/52 mmHg,72
+HR 89/min,72
+RR 24/min,72
+SPO2 94% (6-L mask for oxygen administration),72
+CK 953 U/L,72
+"LDH 1,405 U/L",72
+high-sensitivity troponin I 271 pg/mL,72
+severe left ventricular dysfunction,72
+left ventricular ejection fraction 15%,72
+slight ST elevation in the V1-2 leads,72
+contrast-enhanced CT of the chest and abdomen no remarkable abnormalities,72
+clinically suspected myocarditis,72
+acute myocarditis suspected,72
+did not perform coronary angiography,72
+did not perform endomyocardial biopsy,72
+ICU admission,72
+respiratory management,72
+ventilator management,72
+circulatory management,72
+inotropic agents used,72
+water balance management,72
+infection control,72
+cardiogenic shock,72
+suspected SFTS,72
+submitted serum samples to a public health center,72
+submitted urine samples to a public health center,72
+submitted throat swabs to a public health center,72
+moved to negative-pressure room,72
+high-sensitivity troponin I peaked at 82.6 pg/mL,96
+SFTSV RNA detected by RT-PCR 1.77×10^6 copies/mL,96
+submitted pathological sections of bone marrow to the Division of Virology at the National Institute of Infectious Disease,96
+considered steroid pulse therapy for HLH with SFTS,96
+did not proceed with steroid pulse therapy,96
+SFTS-infected cells positive by anti-SFTSV-nucleoprotein antibody in bone marrow,120
+liver dysfunction,0
+renal dysfunction,72
+disseminated intravascular coagulation,96
+withdrew from circulatory agonist,336
+withdrew from ventilator management,336
+ECG improvement of ST elevation in the V1-2 leads,336
+ECG recovered to the normal level,336
+re-submitted serum,408
+viremia negative,408
+released from quarantine,408
+coronary angiography performed,576
+no coronary artery stenosis,576
+endomyocardial biopsy performed,576
+myocardium mildly hypertrophic,576
+mild myofibrillar loss and disarrangement,576
+no active mononuclear cell infiltration adjacent to the damaged myocardium,576
+CD3-positive T cells increased (10/mm2),576
+CD68-positive macrophages increased (18/mm2),576
+tenascin-C expression in the stroma,576
+anti-SFTSV antibody immunostaining negative in myocardium,576
+myocardial inflammation on EMB,576
+resolving phase of myocarditis suggested,576
+insufficient improvement in left ventricular ejection fraction,576
+discharged,696
+transthoracic echocardiography ejection fraction 52.5%,1416
+no heart failure thereafter,1416

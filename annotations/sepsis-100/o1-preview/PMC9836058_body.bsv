@@ -1,0 +1,80 @@
+Worsening low back pain| -336
+Diffuse abdominal pain| -336
+Lower extremity weakness| -72
+Anorexia| -72
+Fever| -72
+Chills| -72
+Shortness of breath| -72
+Dizziness| -72
+Constipation| -72
+Acetaminophen use| -72
+Gabapentin use| -72
+Hydrocodone use| -72
+Methamphetamines use| -72
+Marijuana use| -72
+41-year-old| 0
+Female| 0
+Admitted to the hospital| 0
+History of untreated hypertension| 0
+History of morbid obesity| 0
+History of chronic back pain| 0
+History of intravenous drug use| 0
+Blood pressure of 79/53 mmHg| 0
+Heart rate of 149 bpm| 0
+Lactic acid of 4.2 mg/dl| 0
+White blood cell count of 37,500 u l−1| 0
+Erythrocyte sedimentation rate of 75 mm/h| 0
+Urine toxicology positive for cannabis| 0
+Urine toxicology positive for amphetamines| 0
+Midline tenderness of lumbar spine| 0
+3/5 strength in bilateral lower extremities| 0
+Bilateral shoulder warmth| 0
+Bilateral shoulder erythema| 0
+Bilateral shoulder tenderness| 0
+Limited range of motion of bilateral shoulders| 0
+Multiple needle puncture sites on antecubital fossae bilaterally| 0
+Smaller puncture wounds between toes of right foot| 0
+Blood cultures collected| 0
+Started on vancomycin| 0
+Started on metronidazole| 0
+Started on aztreonam| 0
+Started on intravenous fluids| 0
+Initial blood cultures grew MRSA| 48
+Bilateral shoulder plain radiographs showed no abnormalities| 48
+Arthrocentesis of AC joints showed elevated WBC counts| 48
+Aspirates cultured MRSA| 48
+Emergent surgical debridement of shoulders| 48
+Intubated| 48
+MRI of lumbar spine showed L3–L5 osteomyelitis| 48
+MRI showed facet septic arthritis| 48
+MRI showed dorsal paraspinous myositis| 48
+MRI showed L2–L5 epidural abscess| 48
+MRI showed bilateral psoas myositis| 48
+MRI showed bilateral psoas abscesses| 48
+MRI of bilateral shoulders showed septic arthritis of AC joints| 48
+MRI showed right distal trapezius abscess| 48
+MRI showed left supraclavicular abscess| 48
+MRI of brain showed no acute intracranial processes| 48
+Transthoracic echocardiogram negative for valvular vegetations| 48
+Cardiology deferred transoesophageal echocardiogram| 48
+Repeat surgical debridement of shoulders performed| 72
+Neurosurgery evaluated patient recommending medical management| 72
+Leukocytosis peaked at 52,100 u l−1| 96
+Vancomycin levels being monitored| 96
+Repeat blood cultures continued to be positive for MRSA| 96
+Antibiotics escalated to daptomycin and ceftaroline| 240
+Blood cultures became negative| 336
+Rifampin was added| 336
+Patient required critical care until stable for extubation| 336
+Repeat MRI of lumbar spine showed worsening epidural abscess| 432
+Neurosurgery performed surgical drainage with drain placement| 432
+Intraoperative wound cultures positive for MRSA| 432
+Intraoperative wound cultures positive for Proteus mirabilis| 432
+Intravenous antimicrobials given for 14 days after negative cultures| 672
+She improved clinically| 672
+All drains were removed| 672
+She was discharged on day 28| 672
+Prescribed oral levofloxacin| 672
+Prescribed oral rifampin| 672
+Discharged with oral antibiotics for additional 52 days| 672
+Lost to follow-up after discharge| 700

@@ -1,0 +1,93 @@
+event,time
+85 years old,0
+male,0
+admitted to the hospital,0
+skin ulceration in the left upper limb,-24
+lethargy,-24
+fever,-24
+stabbed in the left upper limb,-48
+drowsiness,-48
+fever,-48
+skin ulceration,-48
+redness,-48
+swelling,-48
+petechiae,-48
+ecchymosis,-48
+white blood cell count 11.77 × 10^9/L,0
+procalcitonin >100 ng/mL,0
+lactate 4.28 mmol/L,0
+blood culture,0
+secretion culture,0
+fluid seeping from broken blisters,0
+antibiotic sensitivity test,0
+metagenomic analysis of blood,0
+treatment with azithromycin,0
+treatment with tienam,0
+rehydration,0
+pressure promotion,0
+anticoagulation,0
+blood culture positive for Gram-negative bacilli,24
+admitted to emergency intensive care unit (EICU),24
+septic shock,24
+history of diabetes for 20 years,0
+long-term history of alcoholism,0
+lethargic,24
+low spirit,24
+left hand and forearm fluid exudation,24
+local tension blisters,24
+dark purple ecchymoses,24
+cool fingers,24
+extensive swelling,24
+scattered petechiae,24
+ecchymosis,24
+treatment with meropenem,24
+treatment with levofloxacin,24
+norepinephrine,24
+vasopressin,24
+argatroban,24
+ulinastatin,24
+multiple incisions,24
+decompression,24
+drainage of blisters,24
+disinfection with iodophor,24
+aspiration of blister fluid,24
+washing with 3% hydrogen peroxide,24
+external application of gentamicin,24
+external application of magnesium sulfate,24
+tracheal intubation,24
+ventilator support,24
+fever,48
+slight improvement of ulceration,48
+slight improvement of edema,48
+right hand swelling,48
+new petechiae,48
+tension blisters,48
+dark purple skin on neck,48
+high procalcitonin,48
+high C-reactive protein,48
+consideration of Vibrio vulnificus infection,48
+addition of doxycycline,48
+blood culture positive for Vibrio vulnificus,72
+metagenomic analysis confirmed Vibrio vulnificus,72
+alanine aminotransferase 2295 U/L,96
+aspartate aminotransferase 1273 U/L,96
+drug-induced liver damage,96
+discontinuation of doxycycline,96
+normal body temperature,192
+alleviated skin ulceration,192
+alleviated redness,192
+white blood cell count 9.09 × 10^9/L,192
+procalcitonin 2.68 ng/mL,192
+lactate 1.74 mmol/L,192
+alanine aminotransferase 281 U/L,192
+aspartate aminotransferase 44 U/L,192
+cessation of sedation,192
+conscious,192
+extubation,192
+noninvasive ventilator,192
+no fever,408
+stable vital signs,408
+improved swelling,408
+improved ulceration,408
+granulation tissue,408
+transfer to general ward,408

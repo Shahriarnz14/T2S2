@@ -1,0 +1,94 @@
+event,time
+40 years old,0
+male,0
+admitted to the hospital,0
+paroxysmal atrial fibrillation,0
+rheumatoid arthritis,-70080
+immunosuppressive medication,-70080
+prednisolone,-70080
+hydroxychloroquine,-70080
+anti-arrhythmic therapy failure,0
+radiofrequency catheter ablation,0
+general anesthesia,0
+mechanical ventilation,0
+3D navigation system,0
+irrigation tip ablation catheter,0
+pulmonary vein isolation,0
+bi-antral ablation,0
+bi-carinal ablation,0
+esophageal temperature monitoring unavailable,0
+intracardiac echocardiography unavailable,0
+ablation power 30W (anterior wall),0
+ablation power 25W (posterior wall),0
+temperature cutoff 40°C,0
+impedance cutoff 50-250 ohms,0
+radiofrequency energy delivery 20-40 seconds,0
+total procedure time 7h10m,0
+total left atrial ablation time 2h6m,0
+left-side PV isolation 42 minutes,0
+right-side PV isolation 36 minutes,0
+left posterior wall ablation 13 minutes,0
+linear ablation near esophagus,0
+no temperature interruption,0
+no impedance interruption,0
+isoproterenol infusion,0
+additional ablation 48 minutes,0
+complete PV isolation,0
+cavotricuspid isthmus ablation,0
+persistent retrosternal pain,24
+fentanyl-patch application,24
+morphine injections,24
+pantoprazole 40mg/day,24
+AF recurrence 3 days post-ablation,72
+bisoprolol 2.5mg/day,72
+flecainide 150mg/day,72
+discharged 5 days post-ablation,120
+emergency visit 9 days post-ablation,216
+chest pain,216
+paroxysmal palpitation,216
+aggravated chest pain 17 days post-ablation,408
+fever 38°C,408
+severe chills,408
+"leukocytosis 15,180/µL",408
+normal sinus rhythm,408
+normal troponin-I,408
+normal CRP,408
+no cardiomegaly,408
+no pleural effusion,408
+chest X-ray normal,408
+bedside echocardiography negative,408
+chest CT small air bubbles (pericardial),408
+no radiologic confirmation,408
+small sips of water permitted,408
+broad-spectrum antibiotics,408
+sepsis,432
+multi-organ failure,432
+increased pericardial effusion,432
+pleural effusion,432
+air bubbles on chest X-ray,432
+esophagography contrast leakage (pericardial),456
+no left atrial-esophageal fistula,456
+pericardiostomy,456
+chest tubing,456
+local anesthesia,456
+no active bleeding,456
+no embolic stroke,456
+drainage of effusions,456
+fever resolved,456
+sepsis recovery,504
+multi-organ failure recovery,504
+strict fasting,456
+total parenteral nutrition,456
+follow-up esophagography no leakage,696
+dietary intake restarted,696
+chest CT improving mediastinitis,1128
+discharged 28 days post-pericardiostomy,2016
+AF recurrence suppressed,2016
+antiarrhythmic agents discontinued,2160
+no odynophagia,408
+no hematemesis,408
+no neurologic abnormalities,456
+no air bubbles in left atrium,408
+no contrast leakage into left atrium,456
+esophageal ulcer absent,408
+esophageal stricture absent,408

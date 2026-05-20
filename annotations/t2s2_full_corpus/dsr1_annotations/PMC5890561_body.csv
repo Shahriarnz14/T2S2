@@ -1,0 +1,82 @@
+event,time
+33-week gestation,0
+preterm,0
+male,0
+precipitous vaginal delivery,0
+emergency department,0
+rupture of membranes at home,0
+birth weight 1870 g,0
+Apgar 7 at 1 min,0
+Apgar 8 at 5 min,0
+respiratory distress,0
+intubated,0
+mechanically ventilated,0
+surfactant,0
+transferred to NICU,0
+caffeine,0
+apnea of prematurity,0
+ampicillin,0
+amikacin,0
+concern for neonatal sepsis,0
+preterm labor,0
+delivery,0
+hypotension,0
+normal saline boluses,0
+dobutamine drip,0
+increased concern for sepsis,0
+cefepime,0
+blood cultures negative,72
+clinical condition improved,72
+antibiotics discontinued,72
+day of life 3,72
+routine cranial ultrasound normal,72
+echocardiogram normal,72
+no structural abnormalities,72
+initial cranial circumference 31 cm,72
+neurological exam normal,72
+no focal findings,72
+day of life 6,144
+abdominal distention,144
+pain on exam,144
+suspected necrotizing enterocolitis,144
+vancomycin,144
+meropenem,144
+no pneumatosis intestinalis,144
+no portal venous gas,144
+blood cultures negative,144
+2 weeks antimicrobial treatment,144
+clinical improvement,144
+enteral feedings via nasogastric tube,144
+day of life 18,432
+cranial circumference increased to 34 cm,432
+bulging anterior fontanelle,432
+alert,432
+active,432
+normal neurological exam,432
+cefepime initiated,432
+hypernatremia,432
+enteral sterile water drip,432
+ventricular puncture,432
+CSF collected,432
+CSF no leukocytes,432
+CSF glucose 20 mg/dl,432
+CSF protein 128 mg/dl,432
+cranial ultrasound hydrocephalus,432
+no intraventricular hemorrhage,432
+no mass,432
+MRI hydrocephalus,432
+right frontoparietal cerebral arteriovenous malformation,432
+MR angiography,432
+right middle cerebral artery saccular aneurysm,432
+CSF Candida lusitaniae,456
+blood culture MRSE,456
+vancomycin,456
+amphotericin B,456
+neurosurgery consulted,456
+severe apnea,456
+hypotonia,456
+lethargy,456
+resuscitation failed,456
+suspected aneurysm rupture,456
+death,456
+autopsy refused,456

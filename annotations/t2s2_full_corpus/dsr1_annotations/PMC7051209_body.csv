@@ -1,0 +1,65 @@
+event,time
+8-year-old girl,0\
+born in Guyana,0\
+living in France since 4 years,0\
+unremarkable familial history,0\
+unremarkable medical history,0\
+admitted for severe bilateral optic neuritis,0\
+longitudinally extensive transverse myelitis (LETM),0\
+March 2008,-103584 (approximated based on November 2019 reference)\
+3 infusions of methylprednisolone,-103584\
+oral tapering steroids,-103584\
+fully recovered,-103584\
+five months later,"-103584 + 5*30*24 = -103584 + 3600 = -100, 584 (approximated)\"
+another LETM occurred,-100584\
+presence of AQP4-Ab in serum,-100584\
+diagnosis of NMOSD,-100584\
+during following 9 years,-100584 to -100584 + 9*365*24 = -100584 + 78840 = -21744 (approximated end)\
+intensive immunosuppression,-100584 to -21744\
+immunoadsorptions,-100584 to -21744\
+plasma exchanges,-100584 to -21744\
+mycophenolate mofetil,-100584 to -21744\
+rituximab (RTX),-100584 to -21744\
+9 severe relapses,"distributed over 9 years, specific timestamps approximated\"
+permanent visual disability,-21744\
+right amblyopia,-21744\
+visual acuity OD=0.1,-21744\
+visual acuity OS=0.8,-21744\
+Expanded Disability Status Scale = 3,-21744\
+RTX pediatric protocol,-100584 to -21744\
+2 infusions with interval of 2 weeks,each RTX course\
+375 mg/m² per infusion,each RTX course\
+initially at each relapse,-100584 to -21744\
+every 6 months since 2013,-100584 to -21744 (approximated)\
+September 2014,-100584 + (2014-2008)*365*24 = -100584 + 6*8760 = -100584 + 52560 = -48024 (approximated)\
+began to suffer from RTX infusion-related reaction,-48024\
+July 2015,-48024 + 10*30*24 = -48024 + 7200 = -40824 (approximated)\
+hospitalization in intensive care unit for anaphylactic-like reaction,-40824\
+following infusions performed in intensive care unit,-40824 onwards\
+persistence of clinical activity,-40824 onwards\
+B-cells still detected despite RTX,-40824 onwards\
+severe sepsis related to central catheter infection,-40824 onwards\
+central catheter used for immunoadsorptions/plasma exchanges,-40824 onwards\
+central catheter used for RTX,-40824 onwards\
+adverse events,-40824 onwards\
+persistence of relapses,-40824 onwards\
+subcutaneous OFA introduced in August 2017,-40824 + (2017-2015)*365*24 = -40824 + 2*8760 = -40824 + 17520 = -23304 (approximated)\
+one injection of 20 mg OFA weekly for 4 weeks,-23304 to -23304 + 4*168 = -23304 + 672 = -22632\
+one injection of 20 mg OFA every 4 weeks,-22632 onwards\
+detection of anti-RTX antibodies in 2018,-23304 + (2018-2017)*8760 = -23304 + 8760 = -14544\
+therapeutic change validated,-14544\
+after 2 years of follow-up,-14544 + 2*8760 = -14544 + 17520 = 2976 (November 2019)\
+30 injections of OFA,-23304 to 2976\
+no further relapse,-23304 to 2976\
+November 2019 clinical examination normal except visual disability,2976\
+Expanded Disability Status Scale = 3,2976\
+January 2019 MRI,2976 - (11-1)*30*24 = 2976 - 7200 = -4224 (approximated)\
+no radiologic activity,-4224\
+atrophy of optic nerves,-4224\
+persistent spinal cord lesion from C2 to T5,-4224\
+perfect tolerance,-23304 to 2976\
+no anaphylactic-like event,-23304 to 2976\
+no infectious event,-23304 to 2976\
+complete B-cell depletion,-23304 to 2976\
+no lymphopenia,-23304 to 2976\
+no hypogammaglobulinemia,-23304 to 2976\

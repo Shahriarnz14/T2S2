@@ -1,0 +1,93 @@
+event,time
+66-year-old woman,0
+female,0
+admitted to the intensive care unit,0
+haematuria,0
+nausea,0
+hypercalcaemia,0
+calcium 22.6 mg/dL,0
+alkaline phosphatase 152 U/L,0
+amylase 1046 U/L,0
+lipase 499 U/L,0
+creatinine (Cr) 2.42 mg/dL,0
+troponin T 1415.8 U/L,0
+C-reactive protein (CRP) 17.79 mg/dL,0
+white blood cell count 30 000/μL,0
+ECG negative for ischemic heart disease,0
+ultrasound negative for ischemic heart disease,0
+CT scan demonstrated severe pancreatitis,0
+CT scan demonstrated thyroid or parathyroid tumour,0
+blood pressure gradually dropped,0
+diagnosed with septic shock,0
+septic shock due to pancreatitis,0
+noradrenaline,0
+adrenaline,0
+calcitonin 80 U/day,0
+isotonic fluids,0
+calcium levels did not decrease,0
+intact parathyroid hormone level 2204 pg/mL,24
+ultrasound imaging showed 40-mm hypoechoic heterogeneous tumour,24
+ill-defined borders in left upper parathyroid gland,24
+suspected parathyroid carcinoma,24
+hypercalcaemia,24
+severe pancreatitis,24
+enhanced CT scan not performed due to renal dysfunction,24
+plain CT scan showed pancreatitis (CT grade 2),24
+shock,24
+Cr > 2 mg/dL,24
+CRP 15 mg/dL,24
+diagnosed with severe pancreatitis,24
+hypercalcaemia persisted,48
+calcium 15 mg/dL,48
+continuous hemodiafiltration (CHDF),48
+zoledronic acid,48
+evocalcet,48
+altered mentation,48
+circulatory function decline,48
+respiratory function decline,48
+ventilator support,48
+ECMO-assisted surgery scheduled,48
+V-A ECMO initiated,72
+parathyroidectomy,72
+left thyroidectomy,72
+left recurrent laryngeal nerve resection,72
+tumour adhered tightly to recurrent laryngeal nerve,72
+intact PTH dropped remarkably,96
+circulatory function improved,96
+ECMO terminated,120
+calcium levels decreased gradually,96
+i.v. fluids,96
+antibiotics,96
+dialysis,96
+noradrenaline,96
+noradrenaline de-escalated,720
+noradrenaline stopped,720
+ventilatory support weakened respiratory muscles,720
+transferred to another hospital for rehabilitation,720
+palpable mass,0
+hoarseness,0
+recurrent laryngeal nerve palsy,0
+ultrasound findings: large (>3 cm) lobulated hypoechoic/heterogeneous parathyroid gland,0
+ill-defined borders,0
+thick capsule,0
+vascularity,0
+calcification,0
+high depth–width ratio,0
+high hardness on elastography,0
+severe bone damage,0
+osteitis fibrosa cystica,0
+infiltration of surrounding tissues,0
+lymph node involvement,0
+metastasis to other organs,0
+calcium levels >14 mg/dL,0
+PTH levels 3–10 times upper limit,0
+preoperative medical treatment,-72
+saline,-72
+furosemide,-72
+calcitonin,-72
+zoledronic acid,-72
+evocalcet,-72
+hypercalcaemic crisis,-48
+ventricular arrhythmia,0
+acute pancreatitis,0
+written consent for publication,720

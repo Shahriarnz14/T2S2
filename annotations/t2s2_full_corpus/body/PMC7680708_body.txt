@@ -1,0 +1,94 @@
+Background
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread to more than 200 countries, with more than 12.3 million cases having been confirmed worldwide [1]. The United States is the epicenter of this pandemic, with more than 3.2 million confirmed cases and more than 136,000 deaths as of July 10, 2020 [1]. Studies have shown that patients with COVID-19 are prone to thrombotic disease, which is associated with poor prognosis and increased mortality [2,3]. Klok et al. [4] and Cui et al. [5] have reported up to 27% and 25% incidence of venous thromboembolism (VTE), respectively, despite standard prophylactic anticoagulation.
+
+It is challenging to diagnose hemostatic disturbances in these patients because massive VTE and critical COVID-19 can present similarly with dyspnea, tachypnea, hypoxia, tachycardia, hypotension, and respiratory failure. Based on guidelines, the class 1A recommendation is to suspect pulmonary embolism (PE) in settings of high clinical probability [5]. Moreover, bedside echocardiography or emergency computed tomography pulmonary angiography (CTPA) should be performed in patients with suspected high-risk PE and hemodynamic instability [6]. Xie et al. [7] reported 2 cases of COVID-19 pneumonia with respiratory deterioration in which the patients underwent CTPA, which confirmed PE as the cause of clinical decline.
+
+Several studies have found that elevated D-dimer, which also occurs in PE, is one of the most consistent laboratory findings in patients with COVID-19 [2,5,7]. Given the significant overlap of presentation and laboratory data, the PE diagnosis can easily be missed, resulting in delayed initiation of anticoagulation therapy and thus increased mortality. Anticoagulation therapy initiation without delay is a class 1 recommendation in patients with high or intermediate clinical probability of PE to avoid adverse outcomes [6].
+
+We present an unusual case of COVID-19 pneumonia in a 54-year-old warehouse worker with significant hemostatic disturbances resulting in a very large right-heart thrombusin-transit through the tricuspid valve (TV) into the right ventricle (RV). We also describe the associated diagnostic and therapeutic challenges.
+
+Case Report
+A 54-year-old white male presented to the hospital with a 1-week history of fever, cough, progressive dyspnea, and one episode of syncope. The patient worked at a warehouse and reported that he had been in a healthy state before the onset of symptoms; however, some co-workers had recently tested positive for SARS-CoV-2. A review of systems was pertinent for nausea, intermittent vomiting, and mild diarrhea. The patient denied any previous medical history and was not taking any medications. Social history was relevant for 8 pack-years of cigarette smoking 20 years ago.
+
+On physical examination, the patient was in moderate distress with a temperature of 38.3°C, blood pressure of 117/75 mmHg, pulse of 83 beats per minute, respiratory rate of 22 breaths per minute, and oxygen saturation of 80% on room air. Lung auscultation revealed bilateral rales, while the remainder of the examination was unremarkable.
+
+Rapid nucleic acid amplification tests for influenza A and B were negative. The pretest probability of the COVID-19 was extremely high, given its community spread, typical symptoms, and possible exposure to co-workers with COVID-19. A nasopharyngeal swab was sent for testing and came back positive for SARS-CoV-2 by real-time reverse transcriptase-polymerase chain reaction on the Roche cobas 6800 system.
+
+The laboratory data on presentation also showed mild lymphopenia, while the lactate dehydrogenase, ferritin, D-dimer, inter-leukin-6, and troponin-I were elevated at 315 U/L, 3626 ng/mL, 1.34 mg/L, 13 pg/mL, and 0.37 ng/mL, respectively. The laboratory data were followed during the hospital stay and are presented in Table 1. Chest X-ray showed bilateral alveolar infiltrates consistent with atypical pneumonia. The electrocardiogram had an S1Q3T3 pattern for possible PE (Figure 1).
+
+The patient initially required a non-rebreather mask for oxygen supplementation; however, the clinical course acutely deteriorated with acute respiratory distress syndrome (ARDS) and septic shock within 1 h of presentation in the Emergency Department. The patient was intubated on an emergent basis and started on pressure-regulated volume control mechanical ventilation. Norepinephrine (0.01 μg/kg/min) was initiated for pressor support and was titrated for a mean arterial pressure of 65 mmHg.
+
+Given the syncope history, typical electrocardiogram pattern, and clinical deterioration, a bedside transthoracic echocardio-gram was performed to rule out PE, which showed a large right-heart thrombus-in-transit through the TV into the RV (Figure 2) and preserved RV systolic function with tricuspid annular plane systolic excursion value of >1.6 cm, RV basal diameter of 4.1 cm, peak tricuspid regurgitation velocity of 2.2 m/s, and inferior vena cava diameter of 2.1 cm. The patient was started on low-molecular-weight heparin (LMWH) enoxaparin at a dosage of 1 mg/kg subcutaneously twice a day to avoid frequent blood draws and health care workers’ exposure. After stabilization, the patient was admitted to the Isolation Unit for contact, droplet, and airborne precautions. Based on our institute’s policy at that time, the patient was also started on hydroxychloroquine 400 mg once and then 200 mg twice a day, along with azithromycin 500 mg once a day intravenously.
+
+The patient presented a complete picture of a cytokine release storm due to elevated inflammatory markers, cardiac injury, hemostatic disturbances, ARDS, and septic shock, for which 400 mg of tocilizumab was also given. A limited transthoracic echocardiogram was performed after 1 week, which showed preserved RV systolic function and no evidence of thrombus (Figure 3). The LMWH was continued throughout the hospital stay for possible distal embolization of the thrombus-in-transit in the pulmonary circulation.
+
+The patient slowly improved over the following weeks and required minimal ventilator support, but he was unable to come off it even after 2 weeks owing to poor respiratory effort. The patient underwent tracheostomy and percutaneous endoscopic gastrostomy tube placement, after which the oxygen requirements were decreased to 3–4 L during the daytime with continuous positive airway pressure support at night. The patient was then discharged to a long-term acute care facility on oral anticoagulation with apixaban 5 mg twice a day.
+
+Discussion
+It is unknown whether COVID-19-associated hemostatic disturbances are due to a specific viral mechanism, or whether they are the result of excessive inflammation and cytokine release storm, resulting in endothelial dysfunction, stasis, and platelet activation. The presentation varies from asymptomatic to overt signs such as acral ischemia and stroke [8,9]. The COVID-19-associated hemostatic disturbances pose a real diagnostic and therapeutic dilemma due to laboratory data overlap, patient restrictions, and limited use of imaging modalities.
+
+An analysis of different studies that reported COVID-19-related hemostatic disturbances showed elevated D-dimer and thrombocytopenia to be the most consistent laboratory findings [2]. Tang et al. [3] reported worse prognosis with elevated D-dimer levels, as non-survivors from COVID-19 had significantly higher D-dimer levels compared with survivors (2.12 vs. 0.61 µg/mL, P≤0.001). The use of prophylactic anticoagulation with unfractionated heparin or LMWH has been found to decrease mortality (32.8% vs. 52.4%, P=0.017) in patients with severe COVID-19 pneumonia and elevated D-dimer levels >6 times the normal upper limit [10].
+
+D-dimer is routinely elevated in patients with COVID-19; hence, it is very challenging to diagnose VTE, especially because critical ARDS requires prone position, which limits patient’s mobility, and the use of imaging modalities. In addition, there is the risk of disease transmission to health care workers. Therefore, the diagnosis should be made by keeping a high index of suspicion in the patients without overt signs and ordering appropriate testing based on the clinical condition. Most patients with PE present with chest pain, dyspnea, tachycardia, and tachypnea, but bradycardia and syncope, likely due to prolonged hypotension and vasovagal mechanism, have also been reported [11].
+
+Other case reports of COVID-19 pneumonia with thrombusin-transit have also found elevated D-dimer and persistent clinical deterioration despite maximal therapy as a common pattern that prompts further investigation leading to the diagnosis of VTE [12–14]. Our case was similar to these cases in terms of elevated D-dimer but also had history of syncope and electrocardiogram pattern suggestive of PE. Although CTPA is the criterion standard for the diagnosis of PE, one essential learning point common among all these cases and our case is the use of bedside echocardiogram to make the diagnosis of PE, especially in the setting of patient restrictions due to prone position and critical condition with hemodynamic instability [12–14]. Due to the patient’s acute rapid clinical decline and hypotension, a bedside echocardiogram was conducted to rule out high-risk PE with hemodynamic instability in accordance with the current guidelines [5]; however, preserved RV size and systolic function indicated that hemodynamic instability was due to septic shock rather than PE.
+
+Our patient was also a therapeutic challenge in terms of the optimal therapy for thrombus-in-transit. Prior studies have reported surgical embolectomy, thrombolysis, or anticoagulation as the treatment of choice in patients with right-heart thrombus, although mortality benefits have been contradictory [15]. A recent pooled analysis found lower mortality associated with surgical embolectomy or thrombolysis compared with anticoagulation (13.7% vs. 18.3% vs. 37.1%, respectively) [15].
+
+Given the presence of hypotension and hypoxia, our patient fit into the high-risk PE category; however, we believe these symptoms were likely due to the ARDS and septic shock due to COVID-19 rather than PE. Moreover, he had preserved RV systolic function; minor myocardial damage with a peak troponin-I of only 0.37 ng/mL, which trended downward to 0.1 ng/mL; and no clinical deterioration concerning PE. These results indicated that the patient’s condition fit into the intermediate low-risk category. Systemic thrombolysis and surgical embolectomy are recommended in high-risk PE patients; however, we selected LMWH for our patient because he was in the intermediate low-risk category. Parenteral anticoagulation with LMWH or fondaparinux is a class 1A recommendation for intermediate or low-risk PE [6,16].
+
+In addition, LMWH was selected over unfractionated heparin to avoid frequent blood draws and health care workers’ exposure, based on current guidelines and data on COVID-19-related VTE [2,6,10,16].
+
+Conclusions
+Hemostatic disturbances associated with COVID-19 pose a real threat to the patients because they can cause both arterial and venous thromboembolism, leading to significantly increased mortality. The spectrum can vary from microthrombi in the circulation to overt presentation such as massive PE, acral ischemia, and stroke. A high index of suspicion should be kept in mind to diagnose hemostatic disturbances in these patients because early diagnosis with appropriate use of imaging modality and prompt treatment according to the guidelines can significantly improve patient outcomes. A bedside echocardiogram can provide valuable information in patients when there is a high index of suspicion for high-risk PE and hemodynamic instability. This information can help diagnose PE as well as provide important hemodynamic data to guide management. Our case highlights a severe form of COVID-19-related hemostatic disturbances and a systematic approach for early diagnosis and timely treatment.
+
+We appreciate the untiring efforts of our physicians, critical care nurses, and all the frontline workers during this unprecedented time of the pandemic.
+
+Figure 1. Arrows showing a S1Q3T3 pattern on 12-lead electrocardiogram.
+
+Figure 2. Transthoracic echocardiogram showing right atrial thrombus-in-transit in parasternal right ventricular inflow (A) and apical 4-chamber (B) views. LA – left atrium; LV – left ventricle; RA – right atrium; RV – right ventricle.
+
+Figure 3. Transthoracic echocardiogram showing complete dissolution of thrombus in parasternal right ventricular inflow (A) and apical 4-chamber (B) views. TV – tricuspid valve; LA – left atrium; LV – left ventricle; RA – right atrium; RV – right ventricle.
+
+Table 1. Laboratory data trends on different days during hospitalization.
+
+Measure	Reference range	Hospital day 1	Hospital day 6	Hospital day 16	Hospital day 26**	
+White cell count	4.5–11×103/µL	5.41	5.75	10.76	11.89*	
+Absolute neutrophils	1.40–6.5×103/µL	4.56	5.03	8.0*	8.79*	
+Absolute lymphocytes	1.20–3.4×103/µL	0.59#	0.42#	1.3	1.72	
+Red cell count	4.25–5.49×106/µL	4.97	4.7	3.37#	3.03#	
+Hemoglobin	12–15.7 g/dL	14.9	13.8	10.0#	8.8#	
+Hematocrit	34.9–46.9%	43	42.1	32.1#	27.9#	
+Platelet count	140–440×103/µL	148	244	277	314	
+Glucose	70–105 mg/dL	132*	162*	139*	132*	
+Blood urea nitrogen	7–22 mg/dL	22	28.8*	17	13	
+Serum creatinine	0.5–1.5 mg/dL	1.08	1.18	0.66	0.55	
+Sodium	134–145 mmol/L	128#	142	140	136	
+Potassium	3.5–5.1 mmol/L	3.7	3.6	2.7#	4.0	
+Chloride	98–112 mmol/L	88	103	105	101	
+Carbon dioxide	24–30 mmol/L	26	26	27	25	
+pH arterial	7.35–7.45	7.41@	7.49	7.53	–	
+pCO2 arterial	35–45 mmHg	38.3@	36.4	33.3	–	
+pO2 arterial	80–100 mmHg	104.3@	106.2	74.0	–	
+Bicarbonate arterial	22–26 mmol/L	23.8@	27.4	27.3	–	
+Total protein	6–8 g/dL	6.6	5.8#	5.5#	5.8#	
+Albumin	3.5–5.0 g/dL	3.4#	3.0#	2.5#	2.6#	
+Total bilirubin	0.2–1.3 mg/dL	0.5	1.0	0.7	0.7	
+Alanine aminotransferase	7–56 U/L	37	130*	41	53	
+Aspartate aminotransferase	8–40 U/L	43*	128*	32	27	
+Alkaline phosphatase	39–117 U/L	46	62	75	67	
+Total creatine kinase	57–374 U/L	147	345	450*	39#	
+Ferritin	22–322 ng/mL	3626*	3942*	1694*	1185*	
+Venous lactic acid	0.5–2.0 mmol/L	1.5	–	–	–	
+Lactate dehydrogenase	100–225 U/L	315*	438*	229*	191	
+Procalcitonin	0.02–0.09 ng/mL	0.36*	–	–	–	
+D-dimer	0.19–0.52 mg/L	1.34*	–	3.03*	2.02*	
+Interleukin-6	<5 pg/mL	13*	732*			
+Troponin-I	0.00–0.04 ng/mL	0.37*				
+* Values above the normal reference range;
+
+# values below the normal reference range;
+
+@ values after initiation of mechanical ventilation;
+
+** day of discharge.

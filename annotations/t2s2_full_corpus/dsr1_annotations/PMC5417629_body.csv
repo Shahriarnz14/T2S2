@@ -1,0 +1,34 @@
+event,time
+64-year-old,0
+gentleman,0
+referred to hospital,0
+diagnosis of acute pancreatitis,0
+Imrie/Glassgow Score = 6,0
+underlying biliary pathology,0
+CT abdomen (cross-sectional),0
+extensive edematous changes involving entire pancreas,0
+significant volume of HPVG,0
+concern regarding one segment of small bowel,0
+CT mesenteric angiogram,2
+poorly enhancing segment of small bowel,2
+venous thrombosis,2
+significant reduction in HPVG,2
+clinical condition disimproved,2
+emergency laparotomy,2
+resection of nonviable ischemic segment of small bowel (60 cm),2
+omental saponification,2
+prolonged intensive care admission (45 days),0
+management of multiorgan dysfunction,0
+acute kidney injury,0
+adult respiratory distress syndrome,0
+discharged to ward,1080
+readmitted to intensive care unit,1152
+overwhelming sepsis,1152
+repeat imaging,1152
+large peripancreatic necrotic collections,1152
+interventional radiology drainages,1152
+escalation in antimicrobials,1152
+antifungal support,1152
+inotropic support,1152
+clinical condition deteriorated,1152
+died,1488

@@ -1,0 +1,55 @@
+event,time
+22 years old,0
+male,0
+admitted to ICU,0
+fever,-240
+cough,-192
+sputum production,-192
+respiratory distress,-24
+altered sensorium,-24
+no history of hospitalization within past 1 year,0
+tachycardic,0
+tachypnea,0
+hypotensive,0
+heart rate 130/min,0
+blood pressure 90/60 mmHg,0
+hypoxemia,0
+right lower lobe consolidation,0
+hemoglobin 9.3 g%,0
+"WBC count 3,500/cu.mm",0
+"platelets 80,000/cu.mm",0
+serum creatinine 1.8 mg/dl,0
+normal liver function test,0
+normal general blood picture,0
+intubated,0
+mechanical ventilation initiated,0
+BAL culture sent,0
+blood culture sent,0
+provisional diagnosis of acute febrile illness,0
+provisional diagnosis of pneumonia,0
+provisional diagnosis of septic shock,0
+started on piperacillin-tazobactum,0
+started on vancomycin,0
+started on antimalarials,0
+tests for malaria,0
+tests for leptospirosis,0
+tests for dengue,0
+tests for typhoid,0
+negative tropical infective profile,0
+mechanical ventilation per ARDS net protocol,0
+prone ventilation,0
+blood culture positive for MRSA,0
+BAL culture positive for MRSA,0
+IV vancomycin added,0
+PaO2/FiO2 ratio improved,+168
+extubated,+168
+post-extubation hypoxia,+168
+respiratory rate 28-30/min,+168
+CT pulmonary angiogram performed,+96
+high resolution CT chest performed,+96
+patchy consolidation,+96
+cavity in right lower lobe,+96
+normal pulmonary angiogram,+96
+vancomycin continued for 3 weeks,0
+respiratory rate settled,+672
+discharged after 28 days ICU stay,+672

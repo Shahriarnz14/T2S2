@@ -1,0 +1,105 @@
+event,time
+previous uncomplicated malarial infections,-8760
+treated with oral anti-malarials,-8760
+history of intermittent subjective fever of no specific periodicity,-96
+history of rigors,-96
+history of generalized headache,-96
+history of altered mentation,-96
+history of body malaise,-96
+history of nausea,-96
+history of vomiting,-96
+no history of loss of consciousness,-96
+no history of abdominal pain,-96
+no change in stool habits,-96
+no change in urine color,-96
+presented to the emergency department,-2
+denied history of recent trauma,-2
+denied history of falls,-2
+febrile (38.7 °C),-2
+tachypneic,-2
+disoriented,-2
+good nutritional status,-2
+not jaundiced,-2
+not cyanosed,-2
+pulse rate 103 beats/min in sinus rhythm,-2
+respiratory rate 23 breaths/min,-2
+blood pressure 96/60 mmHg,-2
+saturating at 98% on room air,-2
+normal vesicular breath sounds,-2
+normal abdominal examination,-2
+intravenous resuscitation,-1
+analgesia,-1
+white blood cell count 8.2 × 10^3/μL,-1
+hemoglobin 11.5 g/dL,-1
+"thrombocytopenia 46,000/mm3",-1
+elevated creatinine 117 μmol/L,-1
+BUN 10.5 mmol/L,-1
+sodium 131 mmol/L,-1
+rest of serum electrolytes normal,-1
+liver profile normal,-1
+coagulation profile normal,-1
+chest X-ray normal,-1
+peripheral blood smear positive for malaria,-1
+Plasmodium falciparum demonstrated,-1
+high parasitemia,-1
+"more than 1000 trophozoites/200 WBC, HPF",-1
+admitted to the intensive care unit,0
+74 years old,0
+male,0
+hypertension,0
+diabetes mellitus,0
+resided in a malaria-endemic region,0
+severe malaria,0
+ICU stay 3 days,0
+intravenous artesunate-based regimen commenced,1
+supportive measures,1
+marked improvement in clinical status,72
+marked improvement in lab parameters,72
+shifted to the general ward,72
+hemoglobin 8.9 mg/dl (day prior),96
+day 5 post admission acute abdomen,120
+progressive generalized abdominal pain,120
+left upper quadrant abdominal pain,120
+nausea,120
+non-bilious vomiting,120
+anxious,120
+afebrile,120
+diaphoretic,120
+tachycardic,120
+tachypneic,120
+hypotensive,120
+saturating well on room air,120
+slightly distended abdomen,120
+tender on superficial palpation,120
+inaudible bowel sounds,120
+urgent complete blood count performed,121
+grouping and crossmatch performed,121
+formal abdominal ultrasound performed,121
+contrast-enhanced CT scan of the abdomen performed,121
+hemoglobin 7.1 g/dL,121
+hypoechoic nodular cystic area on ultrasound,121
+splenomegaly,121
+spleen measured 12.58 cm,121
+hyperdense intrasplenic hematoma on CT,121
+subcapsular hematoma on CT,121
+splenic laceration on the superolateral aspect,121
+intraperitoneal free fluid,121
+grade 3 splenic injury,121
+spontaneous splenic rupture,121
+attributed to severe malaria due to P. falciparum,121
+no evidence of trauma,121
+no other infectious causes,121
+met the four criteria for spontaneous splenic rupture by Orloff and Peskin,121
+blood products mobilized,122
+adequate resuscitation,122
+taken to the operating theatre,124
+explorative laparotomy,124
+2.5 L of frank blood evacuated,124
+spleen enlarged and very firm (intra-operative finding),124
+long laceration on the upper pole involving the capsule,124
+splenectomy,124
+uneventful postoperative period,124
+histopathology revealed slight enlargement but otherwise grossly and microscopically normal,216
+no other disease affecting the spleen,216
+discharged home fully recovered,292
+scheduled clinic visits for post-splenectomy care,292

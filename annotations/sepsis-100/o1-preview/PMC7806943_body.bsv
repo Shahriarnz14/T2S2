@@ -1,0 +1,67 @@
+History of endocarditis|-720
+First relapse had been treated with allogeneic HSCT from an unrelated HLA-compatible donor|-720
+Seven-year-old boy|0
+Male|0
+Referred to the University Children's Hospital Tuebingen for treatment with blinatumomab after a second relapse of pre-B-ALL|0
+Treatment with blinatumomab started|0
+Hemoglobin 8.5 g/dl|0
+Thrombocytes 13,000/μl|0
+WBC 940/μl|0
+Neutrophils 50/μl|0
+CRP 6.83 mg/dl|0
+Ferritin 182 μg/dl|0
+Chronically reduced general condition|0
+Cachexia|0
+Dry skin|0
+Pallor|0
+Multiple hematomas|0
+Hepatosplenomegaly|0
+Antibiotic chemoprophylaxis with ceftriaxone and teicoplanin|0
+Antiviral chemoprophylaxis with acyclovir|0
+Antifungal chemoprophylaxis with caspofungin|0
+Patient complained about pain in the left flank|0
+Continuous infusion of morphine (max. 15 μg/kg BW per hour)|0
+The pain aggravated on day +5 of blinatumomab treatment|120
+Ultrasound scan did not show any pathology apart from the known hepatosplenomegaly|120
+Suddenly on day +6 the boy seemed somnolent|144
+Suddenly on day +6 the boy seemed sleepy|144
+An overdose of morphine was assumed|144
+Morphine dose reduced|144
+After dose reduction the boy reacted with delay|144
+After dose reduction the boy only opened his eyes when addressed|144
+Neurological condition of the patient worsened again|144
+Cerebral CT scan was performed|144
+MRI scan was performed|144
+Imaging showed multiple cerebral hemorrhages|144
+Cardio-respiratory decompensation|144
+The boy was transferred to the intensive care unit|144
+Received mechanical ventilation|144
+Received catecholamine therapy|144
+Blinatumomab treatment was stopped|144
+Hemoglobin 6.7 g/dl|144
+Thrombocytes 49,000/μl|144
+WBC 120/μl|144
+Neutrophils 20/μl|144
+CRP 23.13 mg/dl|144
+Ferritin 1439 μg/dl|144
+Echocardiography showed multiple thrombi in the left and right ventricle|144
+Thromboembolic events were presumed as the cause of the cerebral lesions|144
+An endocarditis with multiple septic embolisms was suspected|144
+Antibiotic regimen was intensified with meropenem, teicoplanin, and gentamicin|144
+Antimycotic treatment with caspofungin continued|144
+CT scans of the thorax, abdomen and pelvis were performed|156
+Multiple thromboembolic lesions with ischemia, bleeding and infarction in both lungs revealed on CT|156
+Multiple thromboembolic lesions with ischemia, bleeding and infarction in the heart revealed on CT|156
+Multiple thromboembolic lesions with ischemia, bleeding and infarction in both kidneys revealed on CT|156
+Multiple thromboembolic lesions with ischemia, bleeding and infarction in the liver revealed on CT|156
+Multiple thromboembolic lesions with ischemia, bleeding and infarction in the intestines revealed on CT|156
+Multiple thromboembolic lesions with ischemia, bleeding and infarction in multiple muscles revealed on CT|156
+A bone marrow aspiration showed bone marrow aplasia with lymphatic blasts|156
+Bone marrow aplasia|156
+Lymphatic blasts in bone marrow|156
+Cerebral pressure was rising|156
+A few hours later, the patient succumbed to cerebral herniation|160
+The patient died in the intensive care unit seven days after starting blinatumomab treatment (day +7)|168
+Autopsy showed an invasive mycosis of Rhizomucor pusillus as the cause of death|168
+Universal fungal PCR of the tracheal secretion could not detect any fungal infection, even on the day the patient died|168
+Bacterial and fungal cultures during the patient's stay did not identify any organisms|168

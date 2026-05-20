@@ -1,0 +1,76 @@
+event,time
+23 years old,0
+male,0
+deceased-donor renal transplant,-43800
+end-stage renal disease,-43800
+membranoproliferative glomerulonephritis,-43800
+tacrolimus,-43800
+prednisone,-43800
+intermittent fever,-336
+fatigue,-336
+constitutional symptoms,-336
+no recent antecedent viral infection,-336
+no pet history,-336
+no travel history,0
+attended clinical rotations,-336
+physically active,-336
+"noncontact, recreational sports",-336
+no COVID-19 infection,-336
+blood pressure 112/67 mmHg,0
+heart rate 103 bpm,0
+pulse oximetry 98%,0
+temperature 37.1°C,0
+BMI 22.6 kg/m²,0
+alert and oriented,0
+no neurological deficits,0
+S3 gallop,0
+new-onset 3/6 holosystolic murmur,0
+scattered crackles,0
+mild peripheral edema,0
+COVID-19 PCR negative,0
+borderline sinus tachycardia,0
+no acute dynamic changes,0
+pulmonary edema,0
+no cardiomegaly,0
+leukocytosis,0
+thrombocytosis,0
+normal hemoglobin,0
+mild acute kidney injury,0
+normal hepatic function,0
+normal coagulation studies,0
+elevated cardiac troponin,0
+elevated NT-proBNP,0
+elevated D-dimer,0
+hospitalized,0
+suspected IE,0
+acute heart failure,0
+ICU admission,0
+meropenem,0
+linezolid,0
+levofloxacin,0
+fluconazole,0
+low-dose nitroglycerin,0
+furosemide infusion,0
+mitral valve vegetation,0
+mitral valve perforation,0
+ruptured chordae tendinae,0
+torrential mitral regurgitation,0
+Coandă effect,0
+aortic valve vegetation,0
+torrential aortic regurgitation,0
+enlarged vegetations,72
+deteriorating valve function,72
+positive Bartonella henselae IgM,72
+positive Coxiella burnetii IgM,72
+intravenous doxycycline,72
+gentamicin,72
+bicuspid aortic valve,72
+dual valve replacement,168
+aspirin,168
+warfarin,168
+INR 2.5,168
+hydroxychloroquine,168
+discharge,240
+no prosthetic valve endocarditis,480
+no valve dysfunction,480
+compliant with hydroxychloroquine,12960

@@ -1,0 +1,100 @@
+event,time
+58 years old,0
+female,0
+admitted to the hospital,0
+lethargy,-48
+fever,-48
+"watery, non-bloody diarrhea",-48
+confused,-48
+progressively became lethargic,-24
+maximum temperature of 39.4 °C,-48
+no history of loss of consciousness,0
+no shortness of breath,0
+no cough,0
+no recent travel,0
+no exposure to sick contacts,0
+hypertension,0
+losartan,0
+rheumatoid arthritis,0
+tofacitinib 11 mg once daily,0
+chronic kidney disease stage 3A,0
+chronic obstructive pulmonary disease,0
+current smoker,0
+20 pack-year smoking history,0
+no alcohol use,0
+no illicit drug use,0
+temperature of 39.4 °C,0
+heart rate 112 beats per minute,0
+respiratory rate 20 per minute,0
+blood pressure 127/75 mm Hg,0
+oxygen saturation 85% on room air,0
+oxygen saturation improved to 100% on 3 L nasal cannula,0
+drowsy,0
+intermittently follow commands,0
+clear breath sounds bilaterally,0
+normal heart sounds,0
+abdomen non-distended,0
+abdomen non-tender,0
+normal bowel sounds,0
+oriented to place and person,0
+not oriented to time,0
+no focal neurological deficits,0
+no neck rigidity,0
+meningeal signs negative,0
+no rashes,0
+"WBC 17,400 cells per μL",0
+87% neutrophils,0
+hemoglobin 10.7 g/dL,0
+"platelet count 235,000 per μL",0
+sodium 126 mEq/L,0
+potassium 3.0 mEq/L,0
+bicarbonate 19.3 mEq/L,0
+blood urea nitrogen 32 mg/dL,0
+creatinine 2 mg/dL,0
+baseline creatinine 1.3 mg/dL,0
+aspartate aminotransferase 260 Units/L,0
+alanine aminotransferase 40 Units/L,0
+"creatine kinase 347,700 units/liter",0
+Hepatitis A IgM antibody negative,0
+hepatitis B surface antigen negative,0
+hepatitis B core IgM antibody negative,0
+hepatitis C antibodies negative,0
+no WBC in stools,0
+normal stool osmolality,0
+normal stool calprotectin,0
+urine culture negative,0
+blood culture negative,0
+stool culture negative,0
+urine legionella pneumophila serogroup 1 antigen positive,0
+urinalysis 51–100/hpf WBC,0
+urinalysis 6–10/hpf RBC,0
+urinalysis 3+ occult blood,0
+chest X-ray bibasilar densities,0
+right basilar opacities,0
+CT head no acute intracranial abnormality,0
+CT chest patchy right basilar opacities,0
+small right pleural effusion,0
+colonic diverticulosis,0
+no diverticulitis,0
+started on broad spectrum antibiotics,0
+sepsis of unknown source,0
+antibiotics changed to azithromycin,0
+improvement in mental status,24
+improvement in diarrhea,24
+renal function worsened,24
+creatine kinase worsened,24
+anuria,24
+volume overload,24
+started on hemodialysis,24
+transferred to ICU,24
+vasopressor requirements,24
+remained in ICU for 7 days,168
+received 14-day course of azithromycin,0
+immunomodulatory medication (tofacitinib) prior to admission,0
+weaned off pressors,168
+supplementary oxygen requirement stopped,168
+started on midodrine,168
+rhabdomyolysis started to resolve,168
+discharged after 17 days hospital stay,408
+follow-up hemodialysis,408
+complete renal recovery in 2 months,2928

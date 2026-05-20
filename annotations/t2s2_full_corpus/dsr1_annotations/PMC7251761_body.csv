@@ -1,0 +1,59 @@
+event,time
+63 years old,0
+male,0
+presented to emergency department,0
+right sided hemiparesis,0
+altered mental status,0
+NIH stroke scale 18,0
+stroke alert called,0
+confusion,-78
+aphasia,-78
+right upper extremity hemiparesis,-75
+right lower extremity hemiparesis,-75
+non-contrast CT brain negative for acute cerebrovascular disease,0
+chronic opacification of left mastoid air cells,0
+fluid in mastoid air spaces bilaterally,0
+CT angiography head and neck negative,+1
+contrast-enhanced perfusion CT brain negative,+1
+tPA not given,+1
+worsening encephalopathy,+1
+intubated for airway protection,+1
+fever 103°F,+2
+heart rate 120 bpm,+2
+dilated non-reactive right pupil,+2
+repeat NCCT brain,+2
+white matter edema including pons,+2
+lumbar puncture attempted,+3
+vancomycin administered,+3
+ceftriaxone administered,+3
+ampicillin administered,+3
+acyclovir administered,+3
+"WBC 15,200/μL",+3
+lactic acid 3.2 mmol/L,+3
+severe sepsis,+3
+admitted to ICU,+3
+intubated,+3
+sedated,+3
+"CSF WBC 3,278/μL",+6
+CSF neutrophils 98%,+6
+CSF glucose <1 mg/dL,+6
+CSF protein 670 mg/dL,+6
+CSF gram-positive cocci in chains,+6
+Streptococcus pneumoniae identified,+6
+acute on chronic mastoiditis,+6
+left myringotomy with tympanostomy tube placement,+6
+cranial nerve palsy resolved,+6
+ceftriaxone 2g twice daily,+72
+dexamethasone administered,+72
+improvement of white matter edema,+72
+weaned off sedation,+96
+neurologically stable for extubation,+96
+encephalopathy resolved,+96
+right sided motor weakness resolved,+96
+transferred to general medical floor,+96
+diabetes mellitus 2,0
+bilateral mastoidectomies,-8760
+left ear pain,-72
+acute left-sided mastoiditis,0
+full neurologic recovery,+120
+discharged,+120

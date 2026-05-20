@@ -1,0 +1,99 @@
+event,time
+32 years old,0
+female,0
+Raynaud's phenomenon,0
+recurrent urinary tract infection,0
+admitted to outside hospital,-120
+UTI symptoms,-120
+developed shortness of breath,-48
+found hypotensive,-48
+found altered,-48
+pressors initiated,-48
+"broad spectrum antibiotics (vancomycin, cefepime, metronidazole)",-48
+blood cultures obtained,-48
+urine cultures obtained,-48
+E. coli bacteremia,0
+enterobacter bacteremia,0
+antibiotic coverage narrowed to cefepime,0
+anemia,0
+thrombocytopenia,0
+coagulopathy,0
+transfused 3 units platelets,0
+transfused 2 units red blood cells,0
+transfused fresh frozen plasma,0
+hyponatremia (sodium 117 mmol/L),0
+brain MRI obtained,0
+lumbar puncture obtained,0
+MRI unremarkable,0
+lumbar puncture unremarkable,0
+developed acute respiratory distress,0
+intubation,0
+elevated creatinine (6.4 mg/dL),0
+urinalysis: 3+ blood,0
+urinalysis: 3+ leukocytes,0
+urinalysis: 3+ protein,0
+urinalysis: 4+ bacteria,0
+continuous renal replacement therapy initiated,0
+improved renal function,0
+CT abdomen/pelvis: enlarged kidneys,0
+CT abdomen/pelvis: hepatosplenomegaly,0
+persistent agitation,0
+transferred to tertiary medical ICU,0
+hemoglobin 7.6 g/dL,0
+"platelet count 15,000 k/cu mm",0
+leukocytosis (WBC 30.78k/cu mm),0
+"anion gap metabolic acidosis (HCO3 20, AG 18)",0
+elevated lactate (5.6 mmol/L),0
+hyponatremia (sodium 128 mmol/L),0
+creatinine 1.8 mg/dL,0
+differential diagnosis: Castleman disease,0
+differential diagnosis: malignancy,0
+differential diagnosis: IgG4-related disease,0
+differential diagnosis: granulomatous disease,0
+repeat CT abdomen/pelvis with IV contrast,0
+bilateral nephromegaly,0
+heterogeneous renal enhancement,0
+loss of corticomedullary differentiation,0
+left subcortical wedge hypodensities,0
+suspected necrosis,0
+cinematic rendering CT: inflammatory changes,0
+bilateral renal abscesses,0
+differential diagnosis: infiltrative renal disease,0
+differential diagnosis: glomerulonephritis,0
+differential diagnosis: lymphoma,0
+renal cell carcinoma considered unlikely,0
+renal biopsy performed,0
+7 slides examined,0
+histiocytic infiltration,0
+focal abscesses,0
+gram stain negative,0
+Gram Weigert stains negative,0
+Von Kossa stain positive (Michaelis-Gutman bodies),0
+CD163 positive (histiocytes/macrophages),0
+diagnosis: pyelonephritis,0
+diagnosis: micro-abscesses,0
+diagnosis: malakoplakia,0
+ultrasound: left nephromegaly,0
+ultrasound: right nephromegaly,0
+ultrasound: renal abscesses,0
+MRI: bilateral nephromegaly,0
+MRI: intrarenal fluid collections,0
+MRI: perinephric fluid collections,0
+MRI: left hydronephrosis,0
+MRI: left renal pelvis thickening,0
+MRI: left perinephric fascia thickening,0
+MRI: retroperitoneal soft tissue involvement,0
+treatment with tigecycline,0
+treatment with ceftriaxone,0
+started bethanechol,0
+started vitamin C,0
+switched to minocycline,0
+nephrectomy considered,0
+nephrectomy deferred,0
+liver biopsy obtained,0
+no hepatic malakoplakia,0
+creatinine normalized,0
+persistent leukocytosis,0
+persistent low-grade fevers,0
+MRI disease progression,0
+scheduled left nephrectomy,0

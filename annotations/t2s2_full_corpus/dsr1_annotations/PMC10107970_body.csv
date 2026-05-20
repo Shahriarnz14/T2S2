@@ -1,0 +1,67 @@
+event,time
+68-year-old Chinese man,0
+admitted to the hospital,0
+abdominal pain,-168
+clear breath sounds in both lungs,0
+no dry rales,0
+no wet rales,0
+abdomen soft,0
+abdomen flat,0
+no tenderness,0
+no rebound tenderness,0
+old surgical scar on left groin,0
+no liver swelling,0
+no spleen swelling,0
+chest CT: chronic lung inflammation,0
+chest CT: thickened lower esophageal wall,0
+chest CT: enlarged mediastinal lymph nodes,0
+no organ metastases,0
+gastroscopic biopsy: esophageal malignant tumor,0
+esophageal squamous cell carcinoma with ulceration,0
+preoperative diagnosis: esophageal malignancy,0
+radical esophageal carcinoma surgery,264
+postoperative histopathology: pathological mitosis,264
+tumor infiltration to deep muscular layer,264
+periesophageal lymph node metastasis (4/6),264
+no nerve invasion,264
+immunohistochemistry: p40 positive,264
+CK5/6 positive,264
+EGFR positive,264
+p53 positive,264
+CK7 negative,264
+p16 negative,264
+CD34 negative,264
+S-100 negative,264
+final diagnosis: stage IIIa esophageal squamous cell carcinoma (T2N1M0),264
+high fever (38.3°C),288
+dyspnea,288
+admission to ICU,288
+blood pressure 80/50 mmHg,288
+neck wound clean,288
+neck wound dry,288
+no redness,288
+no swelling,288
+no heat pain,288
+WBC 34.38×10^9/L,288
+neutrophils 95.7%,288
+CRP 207.26 mg/L,288
+procalcitonin >100 ng/mL,288
+urinary leukocytes 62.20/µL,288
+leukocytes per high-power field 11.20,288
+repeat CT: increased pulmonary exudative lesions,288
+postoperative esophageal changes,288
+clinical diagnosis: sepsis,288
+unclear infection site,288
+septic shock,288
+meropenem initiated,288
+blood cultures collected,288
+E. fergusonii identified,312
+sensitive to multiple antibiotics,312
+meropenem continued,312
+fever subsided,312
+clinical indicators improved,312
+repeat blood culture negative,504
+recovered,504
+discharged,336
+postoperative adjuvant radiation therapy,504
+no specific discomfort at follow-up,1680

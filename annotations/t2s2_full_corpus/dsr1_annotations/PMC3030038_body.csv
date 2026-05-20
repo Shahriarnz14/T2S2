@@ -1,0 +1,92 @@
+event,time
+74 years old,0
+female,0
+admitted for bilateral total knee replacement arthroplasty,0
+degenerative osteoarthritis,0
+angina,-17520
+hypertension,-17520
+isosorbide-5-mininitrate,-17520
+atenolol,-17520
+blood tests within normal ranges,0
+biochemistry tests within normal ranges,0
+simple chest radiograph: cardiomegaly (cardiothoracic ratio = 0.57),0
+sinus bradycardia,0
+first degree atrioventricular block,0
+T wave inversion in leads V2-3,0
+ejection fraction 60%,0
+combined spinal epidural anesthesia,-4.25
+subarachnoid injection of 9 mg 0.5% high density bupivacaine,-4.25
+epidural catheter insertion,-4.25
+test dose of 3 ml 0.375% levobupivacaine with epinephrine,-4.25
+sensation blocked to 10th thoracic segment,-4.25
+surgery began,-4.25
+5 L/min 100% oxygen via face mask,-4.25
+stable vital signs during surgery,-4.25
+pulse oxygen saturation 100%,-4.25
+arterial blood gas analysis every 50 minutes within normal ranges,-4.25
+operation time 3 hours 5 minutes,-4.25
+total anesthesia period 4 hours 25 minutes,-4.25
+"estimated blood loss 1,100 ml",-4.25
+urine volume 850 ml,-4.25
+administered 500 ml 6% hydroxyethyl starch,-4.25
+"administered 3,000 ml Hartmann solution",-4.25
+administered 2 units packed RBC,-4.25
+transported to recovery room,0
+6 L/min 100% oxygen via face mask,0
+sensation recovered to 11th thoracic nerve segment,0
+epidural pain control with levobupivacaine and fentanyl,0
+stable vital signs in recovery room,0
+arterial blood gas analysis within normal ranges,0
+transported to ward with 2 L/min oxygen via nasal cannula,0
+pulse oxygen saturation 90%,0
+5 L/min 100% oxygen via face mask,0
+drowsy mental state,9
+unable to respond to calling,9
+opens eyes to pain,9
+blood pressure within normal range,9
+heart rate within normal range,9
+respiratory rate 20/min,9
+pulse oxygen saturation 90%,9
+7 L/min 100% oxygen via face mask,9
+simple chest radiography: bilateral pulmonary effusion,9
+brain CT: no abnormal findings,9
+persistent symptoms,24
+brain MRI: bilateral small high signal intensity lesions,24
+reduced ADC suggesting fat embolism,24
+3D pulmonary arteriography: no special findings,24
+transferred to stroke unit,24
+shallow irregular breathing,24
+pulse oxygen saturation 84%,24
+left eyeball deviation,24
+nystagmus,24
+unresponsive to strong stimulation,24
+stuporous conscious state,24
+intubation,24
+pulse oxygen saturation 58%,24
+blood pressure 70/40 mmHg,24
+transferred to intensive care unit,24
+mechanical ventilation,24
+blood pressure 95/60,24
+fever 38℃,24
+considered low molecular weight heparin,24
+hemoglobin 8.3 g/dl,24
+"platelets 34,000/µl",24
+increased coagulation time,24
+packed RBC transfusion,24
+platelets transfusion,24
+inotropics administered,24
+diuretics administered,24
+ischemic colitis,72
+petechial rash over entire body,72
+blood coagulation test normal,96
+low molecular weight heparin initiated,96
+stuporous conscious state,96
+neurological symptoms unimproved,96
+electroencephalogram: moderate to severe diffuse cerebral dysfunction,120
+weaned off mechanical ventilator,168
+endotracheal tube removed,312
+respiratory symptoms improved,312
+neurological symptoms improved,312
+transferred to general ward,408
+brain MRI: multiple brain infarctions resolved,624
+discharged,1056

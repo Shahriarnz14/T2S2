@@ -1,0 +1,70 @@
+event,time
+36 years old,0
+male,0
+diabetes mellitus,0
+rural India,0
+high-grade fever,-2160
+multiple swellings around joints,-2160
+weight loss (10 kg),-2160
+no cough,0
+no dyspnoea,0
+no abdominal pain,0
+episode of septic shock,-2160
+fever persisted,-2160
+swellings persisted,-2160
+"antibiotics (cefaperazone/sulbactum, amikacin, levofloxacin)",-2160
+sterile blood cultures,-2160
+significant proteinuria,-2160
+chest CT (patchy infiltrates),-2160
+no chest cavity,-2160
+no chest nodules,-2160
+no lymphadenopathy,-2160
+granulomatosis with polyangiitis considered,-2160
+anti-neutrophil cytoplasmic antibody negative,-2160
+anti-proteinase 3 negative,-2160
+anti-myeloperoxidase negative,-2160
+rheumatoid factor negative,-2160
+anti-nuclear antibody negative,-2160
+HIV negative,-2160
+empirical steroids,-2160
+worsening of symptoms,-2160
+enlargement of swellings,-2160
+no past tuberculosis,0
+no recurrent infections,0
+no alcoholism,0
+no intravenous drug abuse,0
+no dust exposure,0
+no bird droppings exposure,0
+no animal handling,0
+no agriculture work,0
+cachexia,0
+bilateral knee joint contractures,0
+"diffuse multiple tender firm nodules (left elbow, right wrist, right forearm, right knee, ankles)",0
+CT thorax (multiple bilateral lung nodules),0
+mild hepatosplenomegaly,0
+musculoskeletal ultrasound (multiple intramuscular densities),0
+fine needle aspiration inconclusive,0
+no organisms on gram stain,0
+no organisms on acid fast stain,0
+polymyositis considered unlikely,0
+undifferentiated arthritis considered unlikely,0
+aseptic systemic abscess considered unlikely,0
+connective tissue disease considered unlikely,0
+high insulin dose (86 IU/day),0
+continued fever,0
+nodules developed into abscesses,0
+vancomycin (2 weeks),0
+pus drained (800 ml),0
+untreated water intake (waterfall),-720
+blood culture (Burkholderia pseudomallei),0
+melioidosis diagnosis confirmed,0
+intravenous ceftazidime (4 weeks),0
+fever subsided,24
+pyomyositis resolved,24
+lung nodules subsided,24
+oral cotrimoxazole (6 months),24
+CT thorax (clearance of nodules),168
+metformin for diabetes,168
+physical therapy,168
+complete resolution of symptoms,168
+returned to baseline function,168

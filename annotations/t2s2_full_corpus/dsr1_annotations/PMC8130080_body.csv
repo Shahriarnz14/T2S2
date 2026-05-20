@@ -1,0 +1,64 @@
+event,time
+68-year-old Japanese man,0
+chest pain,-72
+acute dyspnea,-72
+admitted to the hospital,0
+type 2 diabetes mellitus,-72
+hypertension,-72
+oral metformin hydrochloride (750 mg daily),-72
+valsartan (80 mg daily),-72
+hemoglobin A1c of 7.7%,0
+white blood cell count high,0
+C-reactive protein levels high,0
+myocardial enzymes lactate dehydrogenase elevated,0
+aspartate aminotransferase elevated,0
+troponin-T positive,0
+anti-HIV antibody test negative,0
+consolidation in the right upper lobe,0
+bilateral congestion,0
+percutaneous coronary intervention,0
+admitted to the intensive care unit,0
+oxygen saturation 92%,0
+respiratory rate 30 breaths/min,0
+intubated,0
+invasive mechanical ventilation,0
+intravenous antibiotics (levofloxacin 500 mg daily),0
+intravenous antibiotics (ampicillin/sulbactam 9 g daily),0
+vasodilators,0
+diuretics,0
+progressive respiratory failure,0
+ARDS diagnosed,120
+extracorporeal membrane oxygenation,120
+intravenous methylprednisolone 1 g daily,120
+prednisolone 60 mg daily,192
+blood in stool,192
+dual antiplatelet therapy,0
+discontinue extracorporeal membrane oxygenation,240
+extubated,288
+prednisolone dose tapered to 40 mg daily,408
+respiratory condition worsened,408
+re-intubated,432
+intravenous methylprednisolone 1 g daily (second course),432
+prednisolone reduced to 100 mg daily,504
+bloody diarrhea worsened,528
+colonoscopy performed,528
+multiple large ulcers in sigmoid colon,528
+multiple large ulcers in rectum,528
+neutrophilic and lymphocytic infiltration,528
+CMV-positive cells in mucosa,528
+CMV pp65 antigenemia positive (20/50000 cells),528
+CMV enterocolitis diagnosed,528
+ganciclovir 700 mg daily,600
+improved peripheral blood C7-HRP test results,672
+continued bloody diarrhea,672
+abdominal pain,1080
+abdominal computed tomography revealed free air,1080
+gastrointestinal perforation diagnosed,1080
+surgical treatment not considered,1080
+patient died,1104
+autopsy performed,1104
+full-thickness necrotic intestinal wall tissue,1104
+ameba infiltration in necrotic tissue,1104
+few CMV-positive cells in colon,1104
+Entamoeba histolytica trophozoites detected,1104
+fulminant amebic colitis diagnosed posthumously,1104

@@ -1,0 +1,83 @@
+event,time
+49 years old,0
+male,0
+presented to the emergency department,0
+dry cough,-168
+shortness of breath,-168
+nausea,-168
+vomiting,-168
+tachypnea,0
+tachycardia,0
+normotension,0
+hypoxia (O2 saturation 64% on room air),0
+tested positive for COVID-19,0
+admitted,0
+decreasing O2 requirements,0
+persistent tachycardia,264
+chest pain (right lateral chest),264
+pulmonary embolism (PE),264
+right ventricular (RV) thrombus,264
+transferred to ICU,264
+transferred back to medicine floor,336
+dry cough (recurrent),360
+increased work of breathing,360
+spiking fevers,360
+re-admitted to ICU,480
+respiratory condition progressively worsened,576
+transferred to tertiary referral center,576
+eight-pack-year smoking history,0
+COVID-19 pneumonia,0
+secondary bacterial infection,0
+reactivation of COVID-19 pneumonia,0
+relapse of COVID-19 pneumonia,0
+reinfection of COVID-19 pneumonia,0
+second PE,0
+RT-PCR positive for COVID-19,0
+diffuse patchy bilateral pulmonary opacities on CXR,0
+extensive bilateral airspace disease on CXR,240
+stable extensive bilateral mixed airspace disease on CXR,0
+right lower lobe PE on CTPA,264
+dilated right ventricle on echocardiogram,264
+mobile echo density (11x12 mm),264
+thrombolytic therapy,264
+resolution of RV thrombus on echocardiogram,336
+no new thrombus on CTPA and venous duplex,336
+second RV thrombus (larger size),480
+left gastrocnemius vein DVT,480
+nasal cannula,0
+non-rebreather mask with 15 L O2,0
+prone positioning,0
+O2 saturation improved to 97%,0
+therapeutic subcutaneous enoxaparin,0
+sarilumab (anti-interleukin-6 monoclonal antibody),0
+methylprednisolone IV for 8 days,0
+subcutaneous enoxaparin stopped,264
+IV heparin drip,264
+tissue plasminogen activator (tPA),264
+continuous tPA infusion for 24 h,264
+repeat tPA therapy (50 mg IV bolus),264
+transitioned to apixaban,336
+worsening cough,480
+severe work of breathing,480
+tachycardia (recurrent),480
+fever (recurrent),480
+leukocytosis,480
+levofloxacin IV,480
+intubation,480
+argatroban IV,480
+empiric broad-spectrum antibiotics (piperacillin-tazobactam + vancomycin IV),504
+negative blood cultures,504
+negative fungal cultures,504
+negative urine cultures,504
+negative sputum cultures,504
+cytokine storm suspected,504
+tocilizumab IV (anti-interleukin-6 therapy),504
+venovenous ECMO,576
+percutaneous thrombectomy,600
+unable to wean off ventilator,600
+tracheostomy,912
+decannulated from ECMO,1368
+septic shock,1368
+percutaneous endoscopic gastrostomy tube placement,2232
+discharged to long-term acute care hospital,2880
+passed away 3 days after discharge,2928

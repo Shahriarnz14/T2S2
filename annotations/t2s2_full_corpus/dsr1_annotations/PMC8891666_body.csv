@@ -1,0 +1,87 @@
+event,time
+70-year-old woman,0
+presented to the emergency department,0
+acute epigastric pain,-1
+well-controlled diabetes mellitus,0
+cholecystectomy,0
+heterozygote alpha-1 antitrypsin deficiency,0
+no distress,0
+fully alert,0
+oriented,0
+epigastric tenderness,0
+no signs of peritonitis,0
+no fever,0
+pulse rate 82 beats/min,0
+blood pressure 128/68 mmHg,0
+normal respiratory rate,0
+normal oxygen saturation,0
+total bilirubin 0.28 mg/dL,0
+glutamic oxaloacetic transaminase 45 U/L,0
+glutamic pyruvic transaminase 30 U/L,0
+γ-glutamyltransferase 91 U/L,0
+alkaline phosphatase 99 U/L,0
+lipase 3518 U/L,0
+complete blood count normal,0
+C-reactive protein normal,0
+coagulation normal,0
+renal function normal,0
+electrocardiogram normal,0
+cardiac enzymes normal,0
+suspected acute pancreatitis,0
+managed conservatively,0
+intravenous fluid resuscitation,0
+pain relief,0
+deteriorated rapidly,0
+severe septic shock,0
+transferred to intensive care unit,0
+mechanical ventilation,0
+aggressive hemodynamic support,0
+computed tomography scan,0
+large air-filled cavity in right liver lobe,0
+mildly dilated bile duct,0
+nonradiopaque choledocholithiasis not ruled out,0
+no apparent pancreatic inflammation,0
+multidisciplinary consultations,0
+diagnosis of emphysematous hepatitis,0
+treated with meropenem,0
+treated with vancomycin,0
+treated with amikacin,0
+CT-guided percutaneous pigtail catheter drainage,0
+no significant fluid or pus,0
+continuous irrigation 1 L saline solution per 24 h,0
+elevated serum lipase,0
+mildly dilated bile duct,0
+no biochemical cholestasis,0
+endoscopic retrograde cholangiopancreatography,0
+normal biliary anatomy,0
+clear bile,0
+endoscopic sphincterotomy,0
+antibiotics rationalized to ceftriaxone,0
+antibiotics rationalized to metronidazole,0
+blood cultures Escherichia coli,0
+blood cultures Streptococcus anginosus,0
+blood cultures Klebsiella oxytoca,0
+stopped continuous pigtail irrigation,72
+drain removed,120
+weaned from ventilator,168
+transferred to ward,336
+discharged,720
+intravenous antibiotics at home,720
+colonoscopy performed,0
+transthoracic echocardiogram performed,0
+CT scan showed 90 mm × 47 mm liquefied collection,720
+follow-up MRI,1008
+10-cm cystic formation in liver segments VII and VIII,1008
+fluid and necrotic debris,1008
+PET scan,1512
+no metabolic activity in large collection,1512
+2-cm PET-positive nodule in segment VIII,1512
+laparoscopic deroofing and debridement,2160
+partial hepatectomy of segment VIII,2160
+no malignancy,2160
+microbiological cultures sterile,2160
+antibiotics discontinued,24192
+uneventful recovery,2160
+hospitalized again for COVID-19,3024
+asymptomatic,0
+no recurrence on imaging,0

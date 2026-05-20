@@ -1,0 +1,44 @@
+event,time
+70 years old,0
+male,0
+admitted to Intensive Care Unit (ICU),0
+acute respiratory distress,0
+fever,0
+hospital-acquired pneumonia,0
+severe sepsis,0
+hemodynamic collapse,0
+hypotension,0
+cold sweating,0
+hypoxia,0
+absence of lung infiltration at chest X-ray,0
+transthoracic echocardiography performed,0
+massive tricuspid insufficiency,0
+papillary muscle rupture,0
+suspected endocardial vegetation,0
+transesophageal echocardiography performed,0
+leaflet rupture,0
+reflective metallic structures trapping valvular leaflets,0
+pericardial effusion,0
+absence of tamponade,0
+chest-abdominal X-ray performed,24
+metallic elements in right heart,24
+absence of cava filter in cava district,24
+open heart surgery performed,48
+tricuspid valve insufficiency confirmed,48
+metallic fragments between leaflets,48
+800 ml blood in pericardium,48
+migration of cava filter fragments through interventricular septum,48
+migration of cava filter fragments through right ventricular apex,48
+tricuspid valve removed,48
+vena cava filter fragments removed,48
+prosthetic tricuspid valve implanted,48
+cerebrovascular accident (hemorrhagic stroke),-2160
+anticoagulation therapy for acute pulmonary embolism,-2160
+implantation of vena cava filter,-2160
+recovered successfully,96
+hemorrhagic stroke,-2160
+acute pulmonary embolism,-2160
+no tamponade,0
+denies oral anticoagulant therapy,-2160
+IVC filter migration,0
+cardiogenic shock,0

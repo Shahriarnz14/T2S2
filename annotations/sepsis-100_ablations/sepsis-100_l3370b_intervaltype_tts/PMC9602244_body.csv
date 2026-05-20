@@ -1,0 +1,81 @@
+event,time
+75 years old,0
+male,0
+admitted to the hospital,0
+fever,-168
+chills,-168
+dizziness,-168
+remission after fever,-168
+no headache,0
+no abdominal pain,0
+no diarrhea,0
+no sputum,0
+no nasal congestion,0
+no runny nose,0
+hypertension,-672
+body temperature 39.0 °C,-168
+levofloxacin,0
+body temperature above 39.0 °C,0
+blood culture indicated penicillin-resistant Staphylococcus,72
+Vancomycin,72
+body temperature returned to normal,168
+discharged,168
+high fever again,168
+chills,168
+cough,168
+sputum,168
+no chest pain,168
+no limb twitching,168
+pupils sluggish in light reflection,168
+confused,168
+mentally soft,168
+diarrhea,168
+hospitalized in ICU,168
+high-frequency oxygen inhalation,168
+piperacillin and tazobactam,168
+methylprednisolone,168
+body temperature above 38.3 °C,168
+levofloxacin,240
+body temperature returned to normal,240
+CRP dropped to 76.4 mmol/L,240
+transferred to general ward,240
+atrial fibrillation,240
+unresponsiveness,240
+slurred speech,240
+shortness of breath,240
+slow light reflexes,240
+stiff neck,240
+increased muscle tone,240
+wet rales in both lungs,240
+septic shock,240
+norepinephrine micropump,240
+vancomycin and meropenem,240
+methylprednisolone stopped,240
+unconscious,288
+base of tongue fell back,288
+shortness of breath,288
+stiff neck,288
+tremor of limbs,288
+heart rate dropped to 40 beats per minute,288
+trachea intubated,288
+breathing assisted by ventilator,288
+condition deteriorated rapidly,288
+multiple organ failure,288
+discontinuation of treatment,288
+death,288
+L. monocytogenes,-168
+meningoencephalitis,0
+sepsis,0
+lung infection,0
+respiratory failure,0
+electrolyte imbalance,0
+hyponatremia,0
+hypokalemia,0
+autoimmune disease,0
+cerebrospinal fluid metagenomic test,0
+bilateral blood culture test,0
+cerebrospinal fluid examination,0
+metagenomic detection technology,0
+sensitive antibiotics,0
+early identification,0
+timely application of antibiotics,0

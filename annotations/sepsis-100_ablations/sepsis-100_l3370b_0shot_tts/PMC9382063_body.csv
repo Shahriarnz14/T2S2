@@ -1,0 +1,60 @@
+event,time
+fever ,-72
+diarrhea ,-72
+abdominal pain ,-72
+severe dehydration ,-72
+admission to pediatric intensive care unit ,-72
+feverish ,-72
+tachypneic ,-72
+hypotensive ,-72
+severe dehydration ,-72
+purpuric eruption ,-72
+pancytopenia ,-72
+renal impairment ,-72
+hyperuricemia ,-72
+coagulopathy ,-72
+high inflammatory markers ,-72
+positive stool and blood cultures for gram-negative Bacilli Escherichia coli ,-72
+intravenous fluid therapy ,-72
+blood components transfusion ,-72
+correction of electrolyte disturbance ,-72
+antibiotic therapy ,-72
+provisional diagnosis of acute infectious gastroenteritis with sepsis ,-72
+severe dehydration ,-72
+acute renal failure ,-72
+disseminated intravascular coagulation ,-72
+bone marrow aspirate ,-48
+hypocellular bone marrow ,-48
+no abnormal cells in bone marrow ,-48
+discharge from hospital ,0
+unexplained irritability ,21
+abnormal behavior ,21
+hallucinations ,21
+failure to recognize parents ,21
+brain imaging studies ,21
+thrombosis in both the left sigmoid and the transverse sinuses ,21
+low molecular weight heparin ,21
+discharge from hospital ,33
+fever ,42
+pallor ,42
+abdominal enlargement ,42
+leukocytosis ,42
+anemia ,42
+thrombocytopenia ,42
+blast cells in peripheral smear ,42
+hepatosplenomegaly ,42
+bone marrow examination ,42
+hypercellular bone marrow ,42
+blast cells in bone marrow ,42
+immunophenotyping ,42
+diagnosis of Common ALL ,42
+induction therapy ,42
+consolidation therapy ,42
+thrombophilia mutations panel result ,56
+positive factor XIII V34L and MTHFR A1298C homozygous mutations ,56
+heterozygous positive factor V Leiden mutation ,56
+follow-up MRV ,70
+complete recanalization of the thrombosed sinuses ,70
+no new thrombi ,70
+complete remission ,168
+no thrombotic events or leukemia relapses ,168

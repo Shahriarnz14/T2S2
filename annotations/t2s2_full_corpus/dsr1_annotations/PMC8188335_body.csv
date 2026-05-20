@@ -1,0 +1,45 @@
+event,time
+59 years old,0
+male,0
+heavy smoker,0
+admitted to emergency department,0
+painless gross hematuria,-24
+lower urinary tract symptoms,-26280
+α1 blocker medication,-26280
+mild pallor,0
+blood pressure 120/60 mmHg,0
+pulse 70,0
+mild lower abdominal tenderness,0
+hemoglobin 9 g/dl,0
+WBC count 13 ×10⁹/l,0
+platelet count 390 ×10⁹/l,0
+normal creatinine,0
+normal urea,0
+normal electrolytes,0
+urinalysis excess RBC/HPF,0
+urinalysis 30-50 WBC/HPF,0
+urinalysis 4-5 epithelial cells/HPF,0
+abdominal ultrasound grade 3 right renal hydronephrosis,0
+abdominal ultrasound right renal simple cyst,0
+abdominal ultrasound left renal simple cyst,0
+abdominal ultrasound bladder diverticulum right bladder wall,0
+abdominal ultrasound intradiverticular mass,0
+CT confirmed right bladder diverticulum,0
+CT intradiverticular mass 21.3×51.9 mm,0
+cystoscopy performed,24
+spinal anesthesia,24
+cystoscopy enlarged prostate,24
+cystoscopy severe bladder trabeculation,24
+TUR-BT not feasible,24
+TUR-P performed,24
+TUR-P specimen sent to pathology,24
+decision for open surgery,48
+partial cystectomy performed,72
+para-aortic lymph node dissection,72
+foley catheter insertion,72
+transitional cell carcinoma (high grade) PT3,168
+lymph node metastasis absent,168
+cardiac arrhythmia,168
+right pleural effusion,168
+sepsis,192
+death,216

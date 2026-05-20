@@ -1,0 +1,104 @@
+event,time
+60 years old,0
+male,0
+presented to outside hospital,0
+fever,0
+hypotension,0
+altered mental status,0
+developed low back pain,-24
+developed epigastric pain,-24
+developed chills,-24
+developed vomiting,-24
+disoriented,-24
+dusky discoloration of face,-24
+dusky discoloration of extremities,-24
+splenectomy,"-394176 (1974, approximately 46 years prior)"
+complicated cholecystectomy,"-26280 (2014, approximately 3 years prior)"
+multiple laparotomies,-26280
+no medications,0
+denied recent travel,0
+denied sick contacts,0
+sustained dog bites,-168 (within last week)
+sustained dog scratches,-168
+given intravenous fluids,-24
+received 2 units packed red blood cells,-24
+received levofloxacin,-24
+CT chest without contrast,-24
+CT abdomen without contrast,-24
+CT pelvis without contrast,-24
+patchy bilateral lung parenchymal opacities,-24
+acute respiratory distress syndrome,-24
+intubated,-24
+transferred to our hospital,0
+heavily sedated,0
+mechanically ventilated,0
+blood pressure 80/58 mmHg,0
+heart rate 111 bpm,0
+temperature 38.5°C,0
+coarse breath sounds,0
+absent peripheral pulses,0
+cold extremities,0
+dusky extremities,0
+mottling of skin,0
+violaceous purpura on thighs,0
+superficial linear scratches,0
+erythema on upper extremities,0
+administered intravenous fluids,0
+administered vasopressors,0
+collected blood cultures,0
+WBC 18.0 × 10^9/L,0
+50% bands,0
+platelets 14 × 10^9/L,0
+INR 1.7,0
+fibrinogen 178 mg/dL,0
+creatinine 3.8 mg/dL,0
+lactate 5.6 mmol/L,0
+PaO2 60 mmHg,0
+urinalysis: 3 erythrocytes/hpf,0
+urinalysis: 3 leukocytes/hpf,0
+negative leukocyte esterase,0
+positive nitrite,0
+2+ protein,0
+1+ bilirubin,0
+>50 bacteria,0
+concern for severe infection,0
+administered vancomycin,0
+administered cefepime,0
+administered ampicillin,0
+administered doxycycline,0
+administered acyclovir,0
+CT head without contrast,0
+negative for acute abnormalities,0
+lumbar puncture,0
+CSF: 11 nucleated cells/µL,0
+CSF: 51% neutrophils,0
+CSF: 30% lymphocytes,0
+CSF: 14% monocytes/macrophages,0
+CSF: 531 erythrocytes/µL,0
+CSF glucose 81 mg/dL,0
+CSF protein 100 mg/dL,0
+CSF Gram stain negative,0
+CSF HSV PCR negative,0
+discontinued ampicillin,24 (hospital day 1)
+discontinued acyclovir,24
+initiated continuous renal replacement therapy,0
+peripheral blood Wright's stain: bacterial rods,0
+buffy coat Gram stain: Gram-negative rods,0
+dog bites history,0
+changed to piperacillin-tazobactam,24
+changed to ciprofloxacin,24
+admission blood cultures negative,24
+plasma sent for NGS,96 (hospital day 4)
+NGS detected C. canimorsus DNA,120 (24 hours after NGS sample)
+narrowed to piperacillin-tazobactam monotherapy,120
+blood culture Gram-negative rods,144 (end of hospital day 5)
+attempted MALDI-TOF,144
+sent for 16S rRNA sequencing,144
+unsuccessful 16S sequencing,144
+Clostridium difficile colitis,624 (hospital day 26)
+Candida tropicalis fungemia,624
+recurrent sepsis,624
+progressive gangrene of extremities,624
+transition to comfort care,624
+died,960 (hospital day 40)
+postmortem 16S sequencing successful,1320 (55 days after culture collection)

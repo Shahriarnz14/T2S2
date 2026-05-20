@@ -1,0 +1,57 @@
+event,time
+66-year-old,0
+woman,0
+presented to the emergency department,0
+positive blood cultures Staphylococcus epidermidis,0
+blood cultures obtained,0
+chills,0
+"leukocytosis 20,000/mm3",0
+intermittent chills,-2160
+burning chest pain,-2160
+rigors,-48
+denies objective fever,0
+denies shortness of breath,0
+denies cough,0
+denies dysuria,0
+febrile 102.2℉,0
+well-healed median sternotomy incision,0
+grade 3 early systolic murmur,0
+early diastolic sound,0
+essential hypertension,0
+dyslipidemia,0
+severe aortic stenosis,0
+atherosclerotic coronary artery disease,0
+coronary artery bypass grafting,-26280
+surgical aortic valve replacement,-26280
+bioprosthetic valve,-26280
+sepsis,0
+intravenous antibiotics administered,0
+chest x-ray unremarkable,0
+electrocardiogram unremarkable,0
+urinalysis unremarkable,0
+sputum cultures unremarkable,0
+transthoracic echocardiogram large mobile hyperechoic mass tricuspid valve,0
+transesophageal echocardiography large multilobed mobile hyperechoic mass tricuspid valve,0
+mild to moderate tricuspid regurgitation,0
+moderately elevated right ventricular systolic pressure,0
+sessile hyperechoic mass right atrium,0
+vegetations,0
+admitted to cardiac unit,0
+mechanical thrombectomy AngioVac System,24
+remnant leads nidus infection,24
+transferred to intensive care unit,24
+cardiac computed tomography 3D reconstruction,48
+remnant epicardial leads migrated perforated right atrium,48
+percutaneous lead removal attempted,72
+femoral vein accessed,72
+EN Snare three-loop system unsuccessful,72
+CloverSnare unsuccessful,72
+Amplatz Goose Neck Snare successful,72
+remnant lead removed,72
+echocardiogram confirmed absence pericardial effusion,72
+peripherally inserted central catheter,72
+intravenous antibiotics 6 weeks,72
+repeat transthoracic echocardiogram no vegetations,1008
+mild tricuspid regurgitation,1008
+remained afebrile,1008
+no recurrent bacteremia,1008

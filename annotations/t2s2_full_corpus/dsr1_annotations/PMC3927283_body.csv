@@ -1,0 +1,89 @@
+event,time
+59 years old,0
+hypertensive,0
+non-diabetic,0
+male,0
+admitted for stapled hemorrhoidopexy,0
+long history of rectal bleeding,-17520 (approximated 2 years prior)
+prolapsing piles,-17520 (approximated 2 years prior)
+tablet metoprolol 50 mg,-17520 (2 years prior)
+tablet amlodipine 5 mg,-17520 (2 years prior)
+4th degree piles,0
+large external component,0
+pre-operative investigations normal,0
+"prophylactic antibiotics (ceftriaxone, gentamycin)",-0.5 (30 min prior to surgery)
+spinal anesthesia,0
+stapled hemorrhoidopexy performed,0
+difficulty in closure,0
+hemorrhoids excised,0
+intraoperative uneasiness,0
+discomfort,0
+sedation with midazolam 1mg,0
+MAP fell below 65 mmHg,0
+hypotension (10-12 min),0
+Ringer lactate 500 ml administered,0
+tetrastarch 500 ml administered,0
+MAP stabilized above 70 mmHg,0
+total intraoperative fluid 1300 ml,0
+shifted to post-operative ward,0
+pain at operative site,120 (2 hours post-surgery)
+intranasal butorphanol 1 mg administered,120
+uneventful rest of post-operative day,0
+did not pass urine until next morning,360 (approx. 12 hours post-surgery)
+generalized weakness,360
+breathlessness,360
+BP falling (MAP <60 mmHg),"540 (3 pm next day, ~27 hours post-surgery)"
+1L normal saline administered,540
+shifted to ICU,540.5 (30 minutes after hypotension)
+did not pass urine until 4 pm,"600 (4 pm next day, ~28 hours post-surgery)"
+BP 70 mmHg systolic,600
+central line inserted,600
+CVP-guided fluid therapy,600
+ABG analysis,600
+oxygen via venturi mask 6 L/min,600
+"monitoring (BP, pulse, HR, SpO2, temp, CVP, urine, abdominal girth)",600
+temperature 102°F,600
+BP 74 mmHg systolic,600
+pulse rate 134 bpm,600
+respiratory rate 32/min,600
+SpO2 78%,600
+decreased lung air entry,600
+fine crepitations,600
+abdominal distension,600
+no tenderness,600
+absent bowel sounds,600
+urinary catheterization,600
+sinus tachycardia,600
+normal cardiac markers,600
+noradrenaline infusion,600
+dopamine infusion,600
+coagulation profile sent,600
+serum procalcitonin sent,600
+"metabolic acidosis (ABG: pO2 51.9, pH 7.27, HCO3- 17.5)",600
+BiPAP ventilation,600
+blood cultures sent,600
+fungal staining sent,600
+meropenem 2g IV,600
+teicoplanin 400 mg IV,600
+metronidazole 500 mg IV,600
+urine output 50 ml/h,601 (after few hours of vasopressors)
+SOFA score 14,601
+deranged coagulation profile,648 (approx. after ABG results)
+6 units FFP transfused,648
+chest physiotherapy,648
+nebulization,648
+aggressive nursing care,648
+hemodynamic improvement,672 (approx. 28 hours post-intervention)
+tapered noradrenaline,672
+tapered dopamine,672
+Hudson mask oxygen,672
+improved after 4 days,1152 (96 hours post-ICU)
+shifted to room care,1152
+discharged after 9 days,216 (9 days post-admission)
+no permanent sequelae,216
+rectal perforation (discussed),-0
+peritonitis (discussed),-0
+sepsis (discussed),-0
+fatalities (discussed),-0
+incomplete doughnuts (discussed),-0
+bacterial entry (discussed),-0

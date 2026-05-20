@@ -1,0 +1,47 @@
+event,time
+73 years old,0
+male,0
+jaundice,-504
+pancreatic mass,-504
+common bile duct obstruction,-504
+pancreatic duct obstruction,-504
+endoscopic endoprosthesis placement,-504
+adenocarcinoma (brush cytology),-504
+diabetes mellitus type 2,-504
+spontaneous subdural hematoma (surgically drained),-504
+family history of breast carcinoma,0
+family history of colon carcinoma,0
+severe progressive muscle weakness (legs),-336
+muscle weakness (arms),-336
+wheelchair confinement,-336
+"elevated creatinine kinase (12,570 U/l)",0
+elevated aspartate aminotransferase (594 U/l),0
+elevated alanine aminotransferase (523 U/l),0
+elevated lactate dehydrogenase (648 U/l),0
+elevated C-reactive protein (11 mg/l),0
+diffuse muscle edema (MRI),0
+muscle biopsy necrotic fibers,0
+macrophages infiltrate,0
+regenerating fibers,0
+membrane attack complex (C5b9) positive fibers,0
+MHC-I positive non-necrotic fiber,0
+no skin abnormalities,0
+high-dose dexamethasone therapy,0
+prednisone 20 mg daily,0
+intravenous immunoglobulin (2 g/kg),0
+laparoscopic pancreatoduodenectomy (Whipple),24
+R0 resected pT3N0M0 cholangiocarcinoma,24
+discharge to rehabilitation center,240
+pancreatic fistula,240
+percutaneous drain placement,240
+drain removal,528
+muscle strength improvement,528
+walking a few steps,672
+pneumonia (6 weeks post-op),1008
+antibiotics treatment,1008
+pneumosepsis,1344
+ICU admission (1 week),1344
+enteral tube feeding,1344
+no recovery,1680
+discontinuation of medical treatment,1680
+death,2688

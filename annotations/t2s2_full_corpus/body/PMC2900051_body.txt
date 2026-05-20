@@ -1,0 +1,73 @@
+INTRODUCTION
+Hemofiltration is a routine procedure in the management of critically ill patients. It is well known for its safety and hemodynamic stability as compared to hemodialysis.[12]Yet, commencement of central venovenous hemofiltration (CVVH) in septic shock patients is frequently associated with hypotension and cardiovascular collapse. This can at times proceed to cardiac arrest. Management of cardiac arrest in such a severely sick patient needs a systematic yet standard approach. Human and technical errors are well-known contributors to patient morbidity and mortality. Anaphylaxis, which can present anywhere, is another differential diagnosis that can easily tip an already compromised patient into a peri arrest situation or cardiac arrest. We suggest adding an extra 'H' and 'T' along with anaphylaxis to the standard '4Hs and 4T' approach to the differential diagnosis of a cardiac arrest. To illustrate the point we describe a case where a hemofiltration catheter is interfered with the delivery of essential vasopressor, leading to cardiac arrest and delayed initiation of hemofiltration.
+
+CASE REPORT
+A 69-year-old patient was referred to our intensive care unit from the emergency department with symptoms and signs of severe sepsis having suffered a Pulseless electrical activity (PEA) cardiac arrest as treatment was being initiated. Cardiopulmonary resuscitation (CPR) was immediately instituted according to advanced life support guidelines. There was return of spontaneous circulation following two cycles of CPR and a bolus of one milligram of epinephrine. At this stage he was still very hypotensive (~70/30 mmHg) and tachycardic (~140/min) and required fluid and metaraminol boluses to support his blood pressure. Tracheal intubation was performed to aid mechanical ventilation. Arterial blood gas analysis revealed a severe metabolic acidosis (pH 6.86, PaO29.1 kPa, PaCO2 6.9 kPa, BE −23, lactate 13.5 mmol/L).
+
+Treatment was initiated as recommended by the surviving sepsis guidelines. In the Intensive Care Unit, a central venous catheter (CVC) was inserted via right internal jugular vein. A MAP of >70 mmHg was achieved with the help of fluid resuscitation and norepinephrine infusion. On grounds of sustained oliguria and systemic acidosis, it was decided to initiate CVVH. A double lumen hemofiltration catheter was therefore inserted via the left internal jugular vein. A chest radiograph showed CVC and hemofiltration catheter tips adjacent to each other approximately at the level of the carina [Figure 1].
+
+Figure 1 After withdrawal
+
+The initiation of CVVH caused precipitous hypotension proceeding to PEA arrest in a matter of seconds. Spontaneous circulation got restored promptly following 1 mg epinephrine bolus and 15 s of CPR. When CVVH was recommenced half an hour later, it required further fluid and epinephrine boluses and massive increase in the norepinephrine infusion rate (>10 times the pre-CVVH rate) to achieve a systolic blood pressure of >90 mmHg. Over the next 15 min, there were massive fluctuations in blood pressure (60-250 mmHg systolic). At this point CVVH was stopped again. Subsequently norepinephrine requirement reduced to pre-CVVH levels and hemodynamic stability was restored.
+
+It was decided at this juncture to separate the tips of the CVC and the hemofiltration catheter. The hypothesis was that juxtaposition of the two catheters was interfering with vasopressor delivery most likely by withdrawing blood (containing norepinephrine) for filtration. Leaving the CVC undisturbed, the hemofiltration catheter was withdrawn by 5-6 cm. A repeat chest radiograph a few minutes later showed the hemofiltration catheter tip in the brachiocephalic vein [Figure 2]. CVVH was resumed at this point with little hemodynamic instability and did not require a significant increase in vasopressor infusion rate.
+
+Figure 2 Before withdrawal
+
+DISCUSSION
+CVVH in contrast to hemodialysis usually results in less hypotension and is therefore better tolerated in critically ill patients.[12] Yet, hypotension commonly occurs with initiation of CVVH and is generally attributed to volume depletion, solute disequilibrium and/or vasodilatation.[3] Fluid bolus and commencement of inotrope infusion prior to starting CVVH is standard of care. Norepinephrine (molecular weight 169.18) though freely filtered by both CVVH (filters molecules up to about 30 000 Daltons) and dialysis filters (allows clearance of molecules up to about 500 Daltons) has a half-life of < 3 s in the circulation and therefore requires no dose modification for that reason during RRT.[4] Generally in the event of a cardiac arrest, it is recommended to clamp off the vascular access catheter lumens and stop CVVH, unless it is caused by hypovolemia (filter blood be washed back to the patient) or hyperkalemia (filter be kept running).[5] If a patient on CVVH develops a shockable rhythm, defibrillation/cardioversion has been shown to cause no interference in the CVVH machine settings.[6]
+
+A systemic approach to causes of cardiovascular collapse/cardiac arrest worth considering in such a patient would conform, with a couple of additions, with the ′4Hs and 4Ts′ formula suggested in the ALS guidelines of the Resuscitation Council, UK:
+
+Hypoxia – secondary to ARDS, pneumonia, pulmonary edema, pneumothorax or hemothorax are common causes, which should be sought.
+
+Hypovolemia – could be from bleeding in the extracorporeal circuit or in the patient as a result of excessive anticoagulation or deranged coagulation due to sepsis. Intravascular volume depletion as a result of sepsis easily gets compounded with the initiation of CVVH. This could be due to vasodilatation from bradykinin release following exposure of blood to the extracorporeal circuit.
+
+Hyper/hypokalemia/metabolic disturbance – Initially hyperkalemia could be due to ARF whereas later electrolyte depletion due to RRT (hypokalemia, hypophosphatemia, hypomagnesemia) may manifest as cardiac arrest.
+
+Hypothermia – could be from deranged temperature regulation secondary to sepsis or excessive heat loss from CVVH.
+
+Tension pneumothorax – secondary to potential pleural punctures during CVC or vascath insertion in a patient receiving positive pressure ventilation.
+
+Thromboembolism – Acute MI and pulmonary embolism are differentials, which intensivists should have a high index of suspicion for because of the difficulty in diagnosing them in an intubated and sedated patient. Tachycardia and hypotension increase the risk of myocardial ischemia/MI. Air embolism from the extracorporeal circuit or from central venous access catheters is another risk. Tight Luer lock connections and air filter in the CVVH machine reduce this risk significantly.
+
+Toxins – could be in the form of contamination of the circuit with microbes or endotoxins from previous use or chemicals used for sterilization.
+
+Cardiac tamponade – a rare but potentially fatal complication of central venous annulations, sepsis and ARF.
+
+Despite systematically going through the 4 Hs and 4Ts the cause of arrest in our patient could not have been identified.
+
+Anaphylaxis – could be to extracorporeal circuit, preservatives, sterilant, anticoagulant, blood products or any other allergen the patient might have been exposed to.
+
+Human and technical errors – involving drug (including CRRT solutions) prescription, preparation, dosage, compatibility, administration and delivery are known contributors to morbidity and mortality in any patient group.[7‐9] Small errors of omission or commission in anesthetized and/or critically ill patients can tip the balance.
+
+
+
+The pattern of hemodynamic instability in our patient in response to hemofiltration led us to narrow down to the following possibilities:
+
+The CVC port infusing norepinephrine might be directly in line of the blood flow into the hemofiltration catheter thereby removing norepinephrine from the circulation before it reached its effecter site. The changing dynamics of blood flow in the SVC during different phases of respiration or the pulsatile nature of blood withdrawal due to the roller pump on the filtration machine could possibly account for constantly changing rate of removal of the CVC infuscate by the hemofiltration catheter. This would then result in norepinephrine delivery to systemic circulation at different rates accounting for the severe hemodynamic instability.
+
+The patient might have been too systemically unwell to tolerate any change in the preload as would happen with the initiation of CVVH.
+
+The hemofiltration catheter could be physically occluding the norepinephrine infusion port of the CVC and therefore interfering with delivery of the vasopressor.
+
+
+
+Our decision to withdraw and thus separate the tips of the two intravascular devices was based on the logical assumption that if reasons a) or c) were causing the hemodynamic instability then this would resolve the problem. Also, this would not compromise the patient in any way if reduction in preload (b) was the root cause of the hypotension.
+
+The above case report illustrates how a human and technical error (closely positioned vascular access catheter tips) led to an iatrogenic cardiovascular collapse and PEA cardiac arrest. This complication could have been easily avoided by positioning the two catheters tips on either side of the diaphragm or at least in separate veins. It is difficult to know how much the two catheter tips should be separated in the same vein in order to avoid interference with systemic drug delivery. This would depend on a lot of factors including the CVVH pump speed, intravascular volume status of the patient and the drug infusion rate. The clinicians should be aware of this possibility.
+
+Although extensive literature search using Medline, Embase and Google revealed no earlier published report of a similar incident whereby one intravascular device had interfered with the delivery or systemic availability of drugs administered through another, but there are umpteen number of reports regarding mortalities and near misses due to human and technical errors.[79]Critical incident reporting, morbidity and mortality meetings, two person checking of drugs and blood products, labeling of syringes, use of prefilled syringes and bar codes, introduction and implementation of guidelines and protocols and proper use of alarm settings are vital tools in avoiding human and technical errors.
+
+In conclusion, our experience suggests that:
+
+
+Addition of anaphylaxis and human and technical errors involving medications (the 5thH and T) to a standard and systematic ′4Hs and 4Ts′ approach aids identification of some common causes of periarrest/cardiac arrest in critically ill patients, which can potentially get missed.
+
+Close proximity of the tips of the CV catheter and CVVH catheter has a potential of interfering with the rate of delivery and systemic availability of drugs infused via a CVC.
+
+
+
+Source of Support: Nil
+
+Conflict of Interest: None declared

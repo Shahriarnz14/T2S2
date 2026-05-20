@@ -1,0 +1,72 @@
+event,time
+65 years old,0
+female,0
+rheumatic valve disease,0
+surgical mitral valve repair,"-176256 (1996, approximated as 24 years before admission)"
+percutaneous exchange of mitral valve,"-105696 (2007, approximated as 12 years before admission)"
+dyspnea on slightest effort,-720 (1 month before admission)
+paroxysmal nocturnal dyspnea,-720
+orthopnea,-720
+dry cough,-720
+daily episodes of fever (38-38.5°C),-720
+treated for dengue fever,-960 (40 days before admission)
+episode of paroxysmal atrial flutter,-240 (10 days before ICU admission)
+decreased level of consciousness (GCS 13),-240
+anisocoric pupils,-240
+admitted to ICU,0
+drowsy,0
+pale,0
+hydrated,0
+acyanotic,0
+anicteric,0
+afebrile (37.3°C),0
+arterial blood pressure 122/73 mmHg,0
+heart rate 96 bpm,0
+respiratory rate 14 breaths/min,0
+normal heart auscultation,0
+absent murmurs,0
+normal respiratory auscultation,0
+normal abdomen examination,0
+mild edema in lower limbs,0
+hemoglobin 8.5 g/dL,0
+hematocrit 25%,0
+"white blood cells 16,200/mm³",0
+"platelets 192,000/mm³",0
+no left shift,0
+mild anisocytosis,0
+microcytosis,0
+urea 67 mg/dL,0
+creatinine 2.39 mg/dL,0
+sodium 132 mmol/L,0
+potassium 3.6 mmol/L,0
+C reactive protein 11.2 mg/dL,0
+APACHE II score 22,0
+SAPS III score 64,0
+precarious dentition,0
+blood cultures collected,0
+empirical treatment with ceftriaxone,0
+empirical treatment with gentamicin,0
+transesophageal echocardiogram showing vegetation (8mm),0
+decreased level of consciousness,240 (10 days after admission)
+sensitive conduction aphasia,240
+mild right central paralysis,240
+suspected ischemic stroke (septic etiology),240
+brain tomography showing left insular hypodensity,240
+mechanical thrombectomy indicated,240
+arteriogram without proximal vessel occlusion,240
+failed partial filling of parietal branch (left middle cerebral artery),240
+worsened consciousness,240
+hemodynamic instability,240
+need for hemodialysis,240
+orotracheal intubation,240
+vasoactive drugs initiated,240
+repeat brain tomography showing edema and thalamic hypodensity,240
+septic shock refractory to therapy,240
+death,240
+vegetation on mitral valve,0
+left atrial dilation,0
+moderate double mitral lesion,0
+mild to moderate tricuspid insufficiency,0
+moderate pulmonary hypertension,0
+Haemophilus parainfluenzae in blood cultures,240 (after 10 days incubation)
+sensitive to B-lactams,240

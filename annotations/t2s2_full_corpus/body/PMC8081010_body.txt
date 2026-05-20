@@ -1,0 +1,53 @@
+INTRODUCTION
+
+Pulmonary embolism (PE) is a life-threatening condition characterized by partial or complete occlusion of the pulmonary vasculature potentially leading to cardiovascular collapse [1]. Despite a variety of validated clinical scoring systems, there are still cases that go unrecognized thus conferring increased morbidity and mortality risk. Bedside point-of-care ultrasound (POCUS) of right ventricular (RV) strain patterns have high specificity and low sensitivity for diagnosing PE [2]. Despite these diagnostic advantages, POCUS is not routinely used by internists in non-critical care settings [3]. Here, we describe a patient with a saddle PE and low clinical pre-test probability who was diagnosed primarily by POCUS using a handheld ultrasound device (HUD).
+
+Figure 1 Bedside POCUS demonstrating McConnell’s sign (a) and a dilated IVC with minimal inspiratory variation (b).
+
+Figure 2 ECG showing new S1Q3T3 pattern of right heart strain.
+
+Figure 3 Axial CT angiography showing saddle pulmonary emboli with evidence of filling defects in the right (a) and left (b) main pulmonary arteries.
+
+CASE REPORT
+
+An 80-year old female with a history of Alzheimer’s dementia, diabetes mellitus, hypertension, and chronic kidney disease was admitted to the intensive care unit (ICU) with hypotension and lactic acidosis following a 2-week history of progressive altered mental status and physical decline. Initial blood pressure was 89/56 with a normal heart rate and oxygen saturation. No fever or tachypnea was present. Lactic acid was 3.6 mmol/L. There was a leukocytosis of 14.7 x 103 cells/μL with neutrophilic predominance. Troponin peaked at 1104 pg/mL. No other laboratory or clinical abnormalities were present. Wells score was 0 points; age was the only of the PE rule-out criteria met [4]. D-dimer was not obtained on admission. She was admitted for presumptive septic shock and treated with fluids and broad-spectrum antibiotics. Following these interventions, her blood pressure improved and her lactic acidosis resolved. The troponin elevation was felt to be secondary to demand ischemia from sepsis. Blood cultures were negative. Per family, she had reached her pre-hospital baseline. After two nights of hemodynamic stability and improvement in the ICU, she was transferred to the gerontology unit for further care and discharge planning.
+
+As part of initial assessment on arrival to the gerontology unit, the patient was afebrile, heart rate 80, blood pressure 117/62, SpO2 99% on room air. Jugular venous distension was present with a normal cardiopulmonary auscultatory exam. No peripheral edema or asymmetric lower extremity swelling was present. Cardiac POCUS using a HUD revealed a dilated RV with akinesis of the mid-RV free wall with apical sparing, consistent with McConnell’s sign (Fig. 1a). Diastolic septal flattening was also present in the parasternal short-axis view, consistent with D-sign. The inferior vena cava (IVC) was dilated to 3.0 cm with minimal inspiratory variation (Fig. 1b). These findings were confirmed with formal transthoracic echocardiography. An electrocardiogram (ECG) showed evidence of an S1Q3T3 pattern not present in prior exams (Fig. 2). D-dimer was 51 190 ng/mL. Computed tomography (CT) angiography of the chest showed a saddle PE involving both main pulmonary arteries with evidence of RV strain (Fig. 3). The patient was immediately initiated on a heparin infusion and subsequently transitioned to oral apixaban without any hemodynamic compromise or further complications for the remainder of her hospitalization. On review of her home medications, the patient was taking megestrol as an outpatient. This was thought to be the etiology of her thromboembolism, so no further hypercoagulability workup was pursued.
+
+Table 1 Sensitivity and specificity of various diagnostic modalities for the diagnosis of PE
+
+Diagnostic modality	Sensitivity	Specificity	
+CT angiography	83–100%	89–96%	
+POCUS	45–61%	74–90%	
+ECG (S1Q3T3 pattern)	54%	62%	
+D-dimer	99.5%	41%	
+
+DISCUSSION
+
+This case illustrates the diagnostic potential of POCUS using an HUD in patients with low pretest probabilities of disease, especially in the context of undifferentiated shock or critical illness. More specifically, since echocardiographic assessment of RV strain patterns have high specificity and low sensitivity for PE [2], POCUS using HUDs can be successfully used as a ‘rule-in’ test for patients with more ambiguous presentations. Table 1 details the sensitivity and specificity of various diagnostic modalities for the diagnosis of PE.
+
+POCUS is already standard of care in most emergency departments and critical care settings. However, it is only sparingly used among non-critically ill patients in hospital wards traditionally managed by internists [3]. With the advent of HUDs, this technology is becoming increasingly more affordable and accessible for providers [5]. Further, providers can achieve examination and interpretation proficiency in a relatively short period of time (~25–50 exams), especially if training is received in a structured fashion [5, 6]. Standardization of POCUS competency is still in its infancy, but current data shows that simulation-based training is the most efficacious [7, 8]. HUDs have less spatial and temporal resolution and lack many of the more advanced features of standard echocardiography; however, multiple studies have shown that HUDs have more diagnostic accuracy than physical exam alone and competent practitioners produce results that correlate well with standard echocardiography [5, 9, 10].
+
+Overall, POCUS is inexpensive, carries a low risk of harm and continues to serve as an invaluable extension of the physical exam when interpreted in the appropriate context by a competent practitioner. With the advent of HUDs offering rapid assessment, this technology adds to the diagnostic repertoire of the general internist and may be routinely used to improve the pathway of PE diagnosis.
+
+ACKNOWLEDGEMENTS
+
+There were no further contributions to this manuscript beyond those of the listed authors.
+
+Conflicts of Interest Statement. The authors whose names are listed certify that they have no affiliations with or involvement in any organization or entity with any financial interest or non-financial interest in the subject matter or materials discussed in this manuscript.
+
+FUNDING
+
+None.
+
+ETHICAL APPROVAL
+
+This case report was conducted in accordance with the Declaration of Helsinki. The collection and evaluation of all protected patient health information was performed in a HIPAA-compliant manner. This case report does not generate generalizable knowledge about a disease or condition and therefore does not meet the national policy for the protection of human subjects’ definition of research, so approval from the institutional review board was not sought.
+
+CONSENT
+
+The authors have obtained informed consent from the patient’s healthcare power of attorney. Measures have been taken to protect the patient’s anonymity including omission of the patient’s name, initials, medical record numbers and other identifiable characteristics from the manuscript and figures. An informed consent document is on file with the authors which conforms with HIPPA compliance standards.
+
+GUARANTOR
+
+Travis M. Skipina.

@@ -1,0 +1,154 @@
+event,time
+15 years old,0
+boy,0
+visited the emergency department,0
+vomiting,0
+lethargy,0
+admitted to the general ward,0
+left thigh swelling,-336
+falling from a bed,-336
+radiologic examination,-336
+left femur shaft fracture,-336
+orthopedic surgery,-312
+discharged from the hospital,-168
+poor oral intake,-48
+elevated body temperature,-48
+bilious vomiting,-24
+lethargic,-24
+decreased urine output,-24
+dark urine,-24
+dehydration,-24
+admitted to the general ward,0
+alert,0
+cachectic,0
+wearing a hip spica cast,0
+height 134 cm,0
+weight 29.1 kg,0
+blood pressure 130/88 mmHg,0
+pulse rate 97 beats/minute,0
+respiratory rate 21 times/minute,0
+body temperature 37.3°C,0
+dehydrated lips and mucous membranes,0
+hyperactive bowel sounds,0
+mutilated fingertips,0
+dry skin,0
+sodium 138 mmol/L,0
+potassium 3.2 mmol/L,0
+AST 23 IU/L,0
+ALT 12 IU/L,0
+total bilirubin 1.0 mg/dL,0
+BUN 29 mg/dL,0
+creatinine 0.41 mg/dL,0
+CRP <0.03 mg/dL,0
+serum magnesium 1.6 mg/dL,0
+supportive treatment started,0
+high fever 41.8°C,72
+hypotension 50/17 mmHg,72
+seizure-like movements,72
+upward eyeball deviation,72
+loss of consciousness,72
+generalized clonic movement,72
+fixed pupils,72
+WBC 19.4×10³/µL,72
+hemoglobin 9.6 g/dL,72
+platelets 90×10³/µL,72
+sodium 137 mmol/L,72
+potassium 2.6 mmol/L,72
+AST 454 IU/L,72
+ALT 258 IU/L,72
+total bilirubin 4.3 mg/dL,72
+direct bilirubin 2.6 mg/dL,72
+amylase 228 IU/L,72
+lipase 888 IU/L,72
+"CPK 1,258 IU/L",72
+LDH 985 IU/L,72
+BUN 49 mg/dL,72
+creatinine 1.62 mg/dL,72
+CRP 0.6 mg/dL,72
+acute liver failure,72
+acute pancreatitis,72
+disseminated intravascular coagulation,72
+rhabdomyolysis,72
+acute kidney injury,72
+plasma hemoglobin 27.5 mg/dL,72
+serum ferritin 250 ng/mL,72
+weakly positive ANA,72
+AST 492 IU/L,72
+ALT 545 IU/L,72
+total bilirubin 10.8 mg/dL,72
+direct bilirubin 5.1 mg/dL,72
+amylase 520 IU/L,72
+"lipase 5,071 IU/L",72
+PT INR 3.1,72
+aPTT 52.7 seconds,72
+fibrinogen 160 mg/dL,72
+D-dimer 17.62 µg/mL,72
+ALP 126 IU/L,72
+GGT 98 IU/L,72
+fluid resuscitation,72
+intravenous inotropes,72
+antibiotics,72
+gabexatemesilate,72
+transferred to PICU,72
+ventilator care,72
+seizure-like movements,72
+lorazepam injected,72
+mannitol started,72
+abdominal CT no pancreatitis,72
+multiple kidney filling defects,72
+brain MRI hypoxic ischemic encephalopathy,72
+low ceruloplasmin 5.5 mg/dL,72
+"increased urine copper 1,028 µg/dL",72
+liver biopsy,72
+centrilobular confluent necrosis,72
+copper deposition in hepatocytes,72
+liver copper 74 µg/g,72
+no Kayser-Fleischer rings,72
+HSAN-IV confirmed,72
+NTRK1 mutations,72
+Gitelman syndrome confirmed,72
+SLC12A3 mutation,72
+ATP7B negative,72
+trientine started,72
+low copper diet,72
+improvement in lab values,360
+WBC 8.66×10³/µL,360
+hemoglobin 12.9 g/dL,360
+platelets 364×10³/µL,360
+sodium 137 mmol/L,360
+potassium 4.0 mmol/L,360
+AST 128 IU/L,360
+ALT 127 IU/L,360
+total bilirubin 1.3 mg/dL,360
+BUN 25 mg/dL,360
+creatinine 0.1 mg/dL,360
+PT INR 1.15,360
+aPTT 52.3 seconds,360
+tracheostomy,360
+percutaneous endoscopic gastrostomy,360
+home ventilator care,360
+discharged,360
+Wilson disease,72
+HSAN-IV,"- years (prior history, assigned 0 for admission context)"
+Gitelman syndrome,"- years (prior history, assigned 0 for admission context)"
+cerebral palsy,"- years (prior history, assigned 0)"
+recurrent orthopedic diseases,- years (assigned 0)
+recurrent cellulitis,- years (assigned 0)
+recurrent septic arthritis,- years (assigned 0)
+recurrent osteomyelitis,- years (assigned 0)
+mutilated fingertips,0 (documented on admission)
+autonomic dysregulation,0 (ongoing)
+severe dry skin,0 (ongoing)
+hyperkeratosis,0 (ongoing)
+fissuring,0 (ongoing)
+xerotic eczema,0 (ongoing)
+wheelchair-bound,0
+mental retardation,0
+taking anti-psychotics,0
+taking psychostimulants,0
+taking spironolactone,0
+impulse control disorder,0 (ongoing)
+poor hygienic condition,0 (ongoing)
+unstable body temperature,0 (ongoing)
+hypokalemia,0 (ongoing)
+hypomagnesemia,0 (ongoing)

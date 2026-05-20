@@ -1,0 +1,71 @@
+event,time
+64-year-old man,0
+Escherichia coli Gram-negative septic shock,0
+purulent peritonitis,0
+rectosigmoid junction adenocarcinoma,0
+admitted to the Intensive Care Unit (ICU),0
+slightly disoriented,0
+hypotensive,0
+blood pressure of 110/55 mmHg,0
+lactic acidosis,0
+elevated white blood cell count (WBC) of 22680/μL,0
+PCT 10 ng/mL,0
+renal insufficiency,0
+elevated creatinine 1.88 mg/dL,0
+hyperglycemia 263 mg/dL,0
+base excess -8.1 mmol/L,0
+lactate 2 mmol/L,0
+fluids resuscitation (crystalloids and albumin),0
+broad-spectrum antibiotics,0
+meropenem 3g/24h,0
+metronidazole 1.5g/24h,0
+insulin,0
+invasive monitoring using Vigileo monitor,0
+emergency surgical intervention,0
+persistence of intestinal subocclusions,0
+sepsis,0
+generalised purulent peritonitis,0
+perforation of rectosigmoid junction adenocarcinoma,0
+rectosigmoid palliative resection,0
+abundant peritoneal lavage,0
+drainage,0
+bacteriological samples from peritoneal fluid,0
+readmitted to the ICU,0
+intubated,0
+mechanically ventilated,0
+first postoperative day,24
+febrile,24
+persistent leukocytosis (WBC of 20090 /μL),24
+elevated PCT levels (10 ng/mL),24
+septic encephalopathy (GCS 10 points),24
+vasoactive support with noradrenaline (0.11 μg/kg/min),24
+adequate fluid transfusion,24
+hyperdynamic state,24
+cardiac output (CO) 7.3 L/min,24
+cardiac index ( CI ) 3.1 L/min/m2,24
+systemic vascular resistance index (SVRI ) 1897 dyn*s/cm5*m2,24
+SOFA score 10 points,24
+APACHE II score 23 points,24
+blood cultures,24
+urine cultures,24
+vancomycin (2g/24h),24
+fluconazole (200mg/24h),24
+adjunctive extracorporeal endotoxin adsorption treatment with Alteco® LPS Adsorber,24
+double lumen 12Fr catheter in right femoral vein,24
+HF 440 blood pump,24
+unfractionated heparin,24
+APTT between 50 and 70 s,24
+blood flow rate 150 ml/min,24
+treatment duration 120 minutes,24
+reduction in noradrenaline infusion rate to 0.07 μg/kg/min,48
+increase in MAP to 99 mmHg,48
+CI 3.7 L/min/m2,48
+PaO2 reduced to 109 mmHg,48
+PaO2/FiO2 311.4,48
+PCT reduced to 4 ng/mL,48
+lactate levels 1.37 mmol/L,48
+SOFA score 7 points,48
+postoperative complication with localised peritonitis,168
+ischemic bowel perforation,168
+died,192
+multiple organ failures,192

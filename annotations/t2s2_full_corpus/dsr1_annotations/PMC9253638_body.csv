@@ -1,0 +1,75 @@
+event,time
+62 years old,0
+male,0
+admitted to the Pneumology Unit,0
+dyspnea,-72
+cough,-72
+body condition loss,-72
+Performance Status score 1,-72
+non-small cell lung cancer,0
+no oncogenic mutations,0
+high PD-L1 expression at 80%,0
+tumor mass para-hilar,0
+extended to right upper lobe,0
+extended to middle lobe,0
+partially necrotic (82 × 61 mm),0
+bilateral necrotic adrenal metastases,0
+right adrenal metastasis (139 × 98 mm),0
+left adrenal metastasis (66 × 42 mm),0
+no other metastatic lesion,0
+hypertension,0
+chronic obstructive pulmonary disease,0
+peripheral arterial disease,0
+general health status preserved,0
+no organ failure,0
+survival estimated beyond 3 months,0
+therapeutic project: chemotherapy and immunotherapy,0
+exertional dyspnea (mMRC scale 3),0
+productive cough,0
+difficulty in expectoration,0
+no oxygen support needed,0
+decrease in right apical vesicular lung sound,0
+painless palpable mass in right hypochondrium,0
+no sign of peripheral hypoperfusion,0
+bronchial fibroscopy,0
+complete upper right lobe atelectasis,0
+wild-type Streptococcus pneumoniae identified,0
+bronchoaspiration > 5 UFC (log10)/mL,0
+started amoxicillin-clavulanic acid,24
+fever (39.3 °C),84
+chills,84
+new fibroscopy,84
+blood culture samples collected,84
+leukocyte count increased from 13.5 G/L to 24 G/L,168
+seven blood culture samples collected,84
+anaerobic blood bottle culture positive after 65h,84
+Gram-positive coccobacilli,84
+continued amoxicillin-clavulanic acid,84
+central venous catheter placed,24
+first chemo-immunotherapy cycle,132
+Carboplatin-Pemetrexed-Pembrolizumab,132
+granulocyte colony-stimulating factor for 5 days,132
+no identification via MALDI-TOF MS,132
+Catabacter hongkongensis identified,132
+respiratory status declined,168
+oxygen flow rate 1 L/min,168
+hypotensive (89/59 mmHg),168
+oliguria,168
+poor peripheral perfusion,168
+hyperlactatemia (4.1 mmol/L),168
+vascular filling (500 mL saline),168
+piperacillin-tazobactam initiated,168
+amikacin initiated,168
+transferred to Intensive Care Unit,168
+vasopressive support,168
+piperacillin-tazobactam continued,168
+clinical condition stable,168
+septic shock,552
+no other bacteria isolated,552
+6 blood culture samples pairs negative,552
+urine cultures negative,168
+BAL negative,504
+Staphylococcus haemolyticus considered contaminant,552
+switched to imipenem/cilastatin,504
+imipenem/cilastatin maintained,504
+died,648

@@ -1,0 +1,47 @@
+event,time
+72 years old,0
+man,0
+high-grade fever,-96
+referred to nearby clinic,-96
+influenza B virus infection,-96
+oseltamivir,-96
+persistent fever,0
+dyspnea at rest,0
+admitted to hospital,0
+temperature 38.7°C,0
+blood pressure 117/80 mmHg,0
+heart rate 76 beats/min,0
+oxygen saturation 88%,0
+fine crackles in lungs,0
+white blood cell count 7400/mm3,0
+C-reactive protein 18.1 mg/dL,0
+aspartate transaminase 91 IU/L,0
+L-lactate dehydrogenase 362 IU/L,0
+creatine kinase 793 IU/L,0
+Krebs von den Lungen-6 1772 U/mL,0
+hypoxemia,0
+ground-glass opacity on chest radiography,0
+ground-glass opacity on chest CT,0
+no bacterial infection,0
+no fungal infection,0
+high-flow nasal oxygen,0
+intravenous peramivir 600 mg/day,0
+antibiotics piperacillin/tazobactam 13.5 g/day,0
+levofloxacin 500 mg/day,0
+worsening chest CT reticular shadow,72
+PaO2/FiO2 ratio 83,72
+severe ARDS,72
+refused intubation,72
+continued high-flow nasal oxygen,72
+polymyxin B-immobilized fiber column hemoperfusion,72
+intravenous methylprednisolone 60 mg/day,144
+respiratory status no improvement,144
+worsening chest CT reticular infiltrates,144
+noninvasive positive pressure ventilation,144
+intravenous cyclophosphamide 500 mg biweekly,144
+condition worsened,144
+died,3096
+autopsy,3096
+diffuse alveolar damage,3096
+hyaline membranes,3096
+no specific abnormality in other organs,3096

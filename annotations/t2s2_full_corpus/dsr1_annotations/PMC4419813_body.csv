@@ -1,0 +1,83 @@
+event,time
+60 years old,0
+man,0
+medical history significant for anxiety disorder,0
+presented to community hospital,0
+increasing fatigue,-96
+weakness,-96
+cough,-96
+shortness of breath,-96
+sharp right-sided pleuritic chest pain,-96
+right upper quadrant abdominal pain,-96
+associated with deep breathing,-96
+denied nausea,0
+denied vomiting,0
+review of systems negative,0
+heavy smoker,0
+occasional alcohol consumption,0
+denied use of intravenous recreational drugs,0
+febrile,0
+oral temperature 39.2°C,0
+hemodynamically stable,0
+edentulous,0
+decreased air entry in right lower lobe,0
+decreased air entry in right middle lobe,0
+bronchial breath sounds at right lung base,0
+crepitations on auscultation over rest of right lung,0
+abdomen tender to palpation in right upper quadrant,0
+elevated total leukocyte count (17.8×10^9 cells/L),0
+neutrophil predominance (16.12×10^9 cells/L),0
+blood cultures negative,0
+right-sided pneumothorax,0
+right lower lobe consolidation,0
+pleural fluid,0
+noncontrast CT abdomen,0
+no intra-abdominal abnormality,0
+right-sided hydropneumothorax,0
+areas of pulmonary consolidation,0
+loculated pleural fluid,0
+admitted to hospital,0
+chest tube placed,0
+empirical antimicrobial therapy with levofloxacin,0
+empirical antimicrobial therapy with metronidazole,0
+pleural fluid sample submitted,0
+no polymorphonuclear cells on Gram stain,0
+no bacteria on Gram stain,0
+aerobic culture no bacterial growth after 72 h,0
+Gram-positive spore-forming bacillus recovered on anaerobic culture after 48 h,0
+identified as Clostridium bifermentans,0
+susceptible to amoxicillin-clavulanate,0
+susceptible to cefoxitin,0
+susceptible to clindamycin,0
+susceptible to meropenem,0
+susceptible to metronidazole,0
+susceptible to penicillin,0
+significant dyspnea on day 3,72
+chest pain on day 3,72
+CT chest with contrast,72
+right main pulmonary artery embolus,72
+clinical deterioration,72
+admission to intensive care unit,72
+antimicrobial therapy changed to piperacillin-tazobactam,72
+antimicrobial therapy changed to levofloxacin,72
+heparin initiated,72
+thoracotomy and decortication of right lung on day 15,360
+empyema fluid obtained,360
+C bifermentans recovered again,360
+postoperative piperacillin-tazobactam,360
+intermittent low-grade fevers postoperatively,360
+ongoing hypoxia requiring 2 L oxygen,360
+repeat chest radiography loculated right-sided pneumothorax,360
+small amount of fluid in empyema cavity,360
+second thoracotomy on day 44,1056
+right rib resection,1056
+empyema drainage,1056
+lung tissue sterile,1056
+antimicrobial therapy changed to ceftriaxone,1056
+antimicrobial therapy changed to metronidazole,1056
+echocardiogram no endocarditis,1056
+echocardiogram no valvular pathology,1056
+gradual improvement,1056
+discharged home day 76,1824
+oral metronidazole for 10 days outpatient,1824
+treatment duration six weeks post-surgery,1824

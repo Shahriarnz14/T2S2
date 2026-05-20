@@ -1,0 +1,41 @@
+event,time
+23 years old,0
+male,0
+past medical history of asthma,0
+remote substance abuse,0
+new onset of seizures,0
+lying in bed vaping,-1
+talking on the phone,-1
+spontaneous seizures,-1
+convulsing,-1
+midazolam administration,-0.5
+tachycardic (134 BPM),0
+tachypneic (RR 25),0
+hypoxic,0
+non-rebreather mask use,0
+afebrile,0
+altered mental status,0
+inability to follow commands,0
+subcostal retractions,0
+diffuse rhonchi,0
+respiratory acidosis,0
+intubation,0
+leukocytosis (19.4 cells/μL),0
+creatinine (1.69 mg/dL),0
+sinus tachycardia,0
+bilateral upper lobe collapse (x-ray),0
+CT brain unremarkable,0
+CT chest confirmed collapse,0
+sepsis criteria met,0
+no infectious etiology identified,0
+blood cultures negative,0
+CSF cultures negative,0
+viral tests negative,0
+systemic inflammatory response syndrome (SIRS),0
+extubated,24
+electroencephalogram unremarkable,24
+levetiracetam treatment,24
+free of seizure activity,24
+renal function improved,96
+discharged,120
+bilateral upper lobe collapse/atelectasis secondary to vaping,0

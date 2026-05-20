@@ -1,0 +1,85 @@
+event,time
+42 years old,0
+male,0
+admitted,0
+acute kidney injury,0
+dyspnea,0
+face swelling,0
+upper arms swelling,0
+familial history not remembered,0
+facial swelling worsened,0
+HAE suspected,0
+C4 low,0
+C1-INH low,0
+danazol 600 mg daily,-168
+chronic kidney disease,0
+kidney transplant decision,0
+hemodialysis,0
+deceased donor kidney transplant,0
+emergency surgery,0
+C1-INH 15.7 mg/dl,0
+FFP 3 units,-1
+thiopental sodium induction,0
+cisatracurium induction,0
+intubation,0
+desflurane maintenance,0
+remifentanil maintenance,0
+mechanical ventilation,0
+surgery duration 4 hours,4
+fluid administered 1000 ml,4
+estimated blood loss 400 ml,4
+neuromuscular blockade reversal,4
+extubation,4
+ICU transfer,4
+tacrolimus,4
+thymoglobulin,4
+ganciclovir,4
+prostaglandin E1,4
+stable vital signs,4
+urine output 190 ml,4
+hemoglobin 9.4 g/dl,28
+platelet count 202000,28
+PT 11.5 s,28
+aPTT 20.7 s,28
+INR 1.04,28
+dyspnea,40
+abdominal discomfort,40
+hypotension 60/30 mmHg,40
+tachycardia 130 bpm,40
+unconsciousness,40
+intubation,40
+mechanical ventilation,40
+norepinephrine,40
+dobutamine,40
+abdominal distension,40
+serosanguineous drainage >1000 ml,40
+generalized edema,40
+oliguria 10 ml/8h,40
+hemoglobin 7.3 g/dl,40
+PT 22.8 s,40
+aPTT 44.1 s,40
+INR 2.04,40
+DIC diagnosed,40
+fibrinogen <100 mg/dl,40
+FDP 221 μg/ml,40
+D-dimer 27699 ng/ml,40
+transfusion RBC 6 units,40
+transfusion FFP 3 units,40
+transfusion cryoprecipitate 10 units,40
+transfusion apheresis platelets 1 unit,40
+CRRT,40
+emergency second-look surgery,40
+no anastomosis leakage,40
+normal kidney blood flow,40
+severe generalized edema,64
+hypoalbuminemia 2.5 g/dl,64
+C1-INH 22.9 mg/dl,64
+albumin 20%,64
+danazol 400 mg,64
+FFP transfusions,64
+blood culture negative,64
+pulmonary edema,112
+pneumonia,112
+transplanted kidney rejection,112
+sustained severe hypotension,112
+death,136

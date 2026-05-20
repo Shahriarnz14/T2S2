@@ -1,0 +1,87 @@
+event,time
+66 years old,0
+male,0
+admitted to the hospital,0
+history of dual-chamber pacemaker implanted,-31536
+history of sick sinus syndrome,-31536
+history of paroxysmal atrial fibrillation,-31536
+history of right atrial lead (Medtronic 5076),-31536
+history of right ventricular lead (Medtronic 5076),-31536
+presented with complaints of severe lumbar back pain,0
+blood cultures obtained on admission,0
+mental status changes,2
+hypotension,2
+acute renal failure,2
+hypoxemic respiratory failure,2
+emergent intubation in the emergency room,2
+diagnosed with severe sepsis,2
+aggressive critical care management,2
+hemodynamic support with vasopressin,2
+hemodynamic support with norepinephrine,2
+empirically started on vancomycin,2
+transthoracic echocardiogram left ventricular ejection fraction of 55%,12
+positive bubble study,12
+patent foramen ovale,12
+patent foramen ovale measuring approximately 2.99 cm,12
+"computed tomography scan of the chest, abdomen, and pelvis revealed osteomyelitis of the lower spine in the region of L2–L3",18
+"magnetic resonance imaging of the brain demonstrated multiple small, 2- to 3-mm, acute infarctions in multiple vascular distributions",24
+septic emboli to the distal extremities,6
+repeat blood cultures revealed the same organism,24
+repeat blood cultures revealed the same organism,48
+repeat blood cultures revealed the same organism,72
+blood cultures on admission yielded methicillin-sensitive Staphylococcus aureus,36
+organisms were pan-sensitive,36
+narrowed to nafcillin,36
+vancomycin discontinued,36
+"transesophageal echocardiogram showed a long (0.26 × 3.6 cm), independently mobile structure within the right atrium, consistent with a vegetation",72
+three-dimensional transesophageal echocardiogram demonstrated vegetation,72
+second mobile structure attached to the pacemaker lead within the right ventricle,72
+no evidence of aortic valve endocarditis,72
+no evidence of mitral valve endocarditis,72
+no evidence of aortic arch infected atheromata,72
+primary vegetation measuring greater than 3.8 cm by transesophageal echocardiogram,72
+persistent bacteremia despite appropriate medical therapy,72
+cardiothoracic surgery consulted,74
+poor surgical candidate owing to hemodynamic instability,74
+decision made to perform a laser lead extraction procedure,76
+planned vegetation debulking/removal without anticoagulation and without venovenous bypass,76
+arrived in the hybrid operating room intubated and sedated,96
+bilateral femoral veins were accessed,96
+16F GORE DrySeal Flex introducer sheath placed in the right common femoral vein,96
+8F sheath inserted into the left common femoral vein,96
+9F sheath placed in the right femoral vein,96
+intracardiac echocardiography catheter advanced into the right atrium,96
+Indigo CAT8 XTORQ catheter advanced into the right atrium,96
+vegetation attached to the right ventricular lead with the stalk at the level of the tricuspid valve,96
+aspiration performed with vacuum of -20 inHg,96
+first aspiration pass performed (100 mL),96
+smaller vegetation recovered,96
+second aspiration pass performed (100 mL),96
+larger vegetation recovered,96
+intracardiac echocardiography revealed no lingering vegetation on the right ventricular lead,96
+Indigo Penumbra system withdrawn into the inferior vena cava,97
+laser lead extraction performed,97
+right atrial lead extracted,97
+right ventricular lead extracted,97
+pocket free of pus,97
+Pocket closed with suture,97
+hemostasis achieved with figure-of-8 closures,97
+patient tolerated the procedure well,97
+total procedure time 72 minutes,97
+blood loss 200 mL,97
+no anticoagulation,96
+no venovenous bypass,96
+intracardiac echocardiography in the right atrium used during vegetation removal,96
+primary vegetation measuring greater than 3.8 cm by intracardiac echocardiography,96
+shorter vegetation measuring 1.7 cm with broader base,97
+pathology of the vegetation specimens showed gram-positive cocci in chains,120
+aerobic cultures of vegetation culture-positive for methicillin-sensitive Staphylococcus aureus,120
+condition improved after the procedure,96
+improved for the first 48 hours after the procedure,96
+"after 72 hours of stability, condition worsened",168
+tissue necrosis of the distal upper and lower extremities,168
+lactic acidosis,168
+worsening renal failure,168
+family decided to withdraw care,170
+extubated to comfort care,171
+died,172

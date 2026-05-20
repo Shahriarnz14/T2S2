@@ -1,0 +1,70 @@
+event,time
+22-year-old,0
+Hispanic man,0
+no significant past medical history,0
+intermittent fevers,-336
+headache,-336
+fatigue,-336
+malaise,-336
+nausea,-336
+vomiting,-336
+occasional episodes of diarrhea,-336
+nosebleeds,-336
+non-productive cough,-336
+sore throat,-336
+light sensitivity,-336
+rash developed,-120
+petechial rash,0
+no history of shortness of breath,0
+no history of chest pain,0
+no history of bloody stools,0
+no history of neck stiffness,0
+worked as taxidermist,-72
+cat exposure,0
+dogs exposure,0
+possible flea exposure,0
+rats in home,0
+afebrile,0
+blood pressure 97/47,0
+pulse rate 136,0
+respiratory rate 22,0
+hyponatremia (126 mmol/L),0
+elevated BUN (111 mg/dL),0
+elevated creatinine (3.14 mg/dL),0
+elevated AST (421 U/L),0
+elevated ALT (135 U/L),0
+elevated ALP (158 U/L),0
+elevated D-dimer (17.55 µg/mL),0
+low fibrinogen (94 mg/dL),0
+elevated lactic acid (2.34 mmol/L),0
+"thrombocytopenia (35,000/mm³)",0
+"elevated WBC (13,830/mm³)",0
+severe sepsis,0
+disseminated intravascular coagulation (DIC),0
+admitted to MICU,0
+vancomycin started,0
+ceftriaxone started,0
+lumbar puncture not performed,0
+seen by infectious diseases specialist,24
+"differential diagnosis (viral infection, ehrlichiosis, murine typhus)",24
+serological tests ordered,24
+EBV VCA IgM negative,24
+EBV VCA IgG negative,24
+parvovirus IgM negative,24
+parvovirus IgG negative,24
+Ehrlichial DNA negative,24
+Rickettsia typhi titers ordered,24
+Rickettsia typhi IgM positive,48
+Rickettsia typhi IgG positive,48
+vancomycin changed to doxycycline,48
+hematology consult,24
+cryoprecipitate administered,24
+no schistocytes on blood smear,24
+DIC excluded,24
+fever resolved,72
+hemodynamically stable,72
+transferred out of MICU,72
+"repeat Rickettsia typhi titers (IgM 1:2048, IgG 1:512)",120
+doxycycline continued,120
+symptoms improved,120
+discharged,120

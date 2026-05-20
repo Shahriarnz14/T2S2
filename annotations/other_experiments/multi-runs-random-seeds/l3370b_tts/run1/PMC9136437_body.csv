@@ -1,0 +1,69 @@
+event,time
+ 59 years old , 0\
+     female , 0\
+     blood type O , 0\
+     Rh positive , 0\
+     liver cancer , -168\
+     transarterial embolization , -168\
+     sorafenib , -168\
+     dizziness , -56\
+     skin ulcers , -56\
+     radiation therapy , -14\
+     liver transplantation , 0\
+     hepatitis B , 0\
+     entecavir , 0\
+     acute renal failure , 0\
+     hematoma , 0\
+     intravenous administration of hepatitis B immunoglobulin , 24\
+     immunosuppressive drugs , 24\
+     steroids , 24\
+     tacrolimus , 24\
+     continuous hemodialysis , 24\
+     intermittent infusion of fresh frozen plasma , 24\
+     leukocyte-depleted red blood cells , 24\
+     active bleeding ceased , 48\
+     renal function recovered , 48\
+     pathological analyses , 240\
+     massive tumor necrosis , 240\
+     liver function improved , 240\
+     AST returned to normal , 240\
+     ALT returned to normal , 240\
+     GGT returned to normal , 240\
+     ALP returned to normal , 240\
+     fevers , 240\
+     procalcitonin levels rose , 240\
+     blood cultures were negative , 312\
+     cytomegalovirus was negative , 312\
+     EBV was negative , 312\
+     obscure red spots , 312\
+     tacrolimus changed to sirolimus , 408\
+     mycophenolate mofetil added , 408\
+     sputum culture suggested Acinetobacter baumannii and MRSA infections , 432\
+     rash advanced , 456\
+     erythematous macules and papules , 456\
+     oral examination revealed white ulcers , 456\
+     bone marrow suppression , 456\
+     WBC count dropped , 456\
+     PLT count dropped , 456\
+     HGB level dropped , 456\
+     patient transferred to intensive care unit , 456\
+     gamma globulin administration , 480\
+     skin biopsy , 480\
+     FISH analysis , 480\
+     bone marrow aspiration , 768\
+     bone marrow pathology report , 768\
+     FISH analysis of peripheral blood , 792\
+     multidisciplinary team discussion , 816\
+     steroids continued , 816\
+     tacrolimus continued , 816\
+     G-CSF added , 816\
+     meropenem and voriconazole added , 816\
+     patient’s rash reduced , 816\
+     patient’s general condition deteriorated , 816\
+     serum ferritin levels increased , 816\
+     esophageal and oral ulcers worsened , 816\
+     patient’s temperature rose , 1128\
+     hallucinations , 1128\
+     septic shock , 1320\
+     multiple organ dysfunction syndrome , 1320\
+     patient succumbed , 1320

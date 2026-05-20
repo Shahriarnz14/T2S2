@@ -1,0 +1,86 @@
+event,time
+abdominal discomfort,-144
+nausea,-144
+vomiting,-144
+presented to the emergency room (ER),-120
+13th week of pregnancy,-120
+no fever,-120
+no vaginal discharge,-120
+evaluated in the Obstetric Emergency Department,-120
+normal obstetric ultrasound,-120
+discharged home,-120
+returns to the ER,-4
+persistent abdominal pain,-4
+nausea persisted,-4
+vomiting persisted,-4
+tachycardic,-4
+diffuse abdominal pain,-4
+guarding on the right quadrants,-4
+surgical consultation was obtained,-3
+worsening general condition,-3
+hypotension,-3
+general abdominal guarding,-3
+neutrophilia,-3
+low prothrombinemia,-3
+acute renal failure,-3
+high procalcitonin (180 ng/ml),-3
+c-reactive protein (17 mg/dl),-3
+abdominal ultrasound showed moderate fluid in all quadrants,-3
+good foetal vitality,-3
+hyperlacticaemia (5.87 mmol/l),-3
+hypokalaemia of 2 mmol/l,-3
+hyperglycaemia of 320 mg/dl,-3
+septic shock with an abdominal source,-2
+taken for emergency exploratory laparotomy,-1
+emergency exploratory laparotomy,-1
+generalised purulent peritonitis,-1
+perforated acute appendicitis,-1
+acute appendicitis,-1
+1300 ml of pus aspirated,-1
+interloop abscess drained,-1
+retrosplenic abscess drained,-1
+subfrenic abscess drained,-1
+pelvic abscess drained,-1
+retrouterine abscess drained,-1
+appendicectomy performed,-1
+thorough abdominal washing performed,-1
+laparostomy performed,-1
+Barker’s negative pressure technique,-1
+fascial prothesis,-1
+admitted to the Intensive Care Unit (ICU),0
+38 years old,0
+woman,0
+need for vasopressor therapy,0
+dialysis,0
+intravenous piperacillin-tazobactam antibiotherapy was initially prescribed,0
+daily evaluated by obstetrics physicians,0
+good foetal viability was observed,0
+laparostomy revision was undertaken,48
+marked bowel oedema,48
+bowel distention,48
+mild intraabdominal soiling,48
+further peritoneal lavage was undertaken,48
+new laparostomy with progressive closure technique was performed,48
+surgical revision,96
+abdominal cavity was primary closed,96
+no prosthesis needed,96
+antibiotherapy was adjusted,144
+microbiological culture isolated an Escherichia coli,144
+microbiological culture isolated Streptococcus orallis,144
+piperacillin-tazobactam was suspended,144
+started amoxicillin with clavulanic acid,144
+ICU stay was uneventful,200
+transferred to the obstetrics ward,288
+discharged home,336
+obstetric follow-up,336
+remaining uncomplicated pregnancy,336
+admitted for an elective caesarean section,4536
+elective caesarean section,4536
+healthy child,4536
+3 months post-partum follow-up consultation,6696
+clinically well,6696
+ventral hernia,6696
+needing correction,6696
+child remains thriving,6696
+child without neurological impairments,6696
+child without other impairments,6696

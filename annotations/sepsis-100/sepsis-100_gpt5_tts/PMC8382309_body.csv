@@ -1,0 +1,135 @@
+event,time
+52 years old,0
+male,0
+Chinese,0
+admitted to our hospital,0
+right upper quadrant pain,-168
+discomfort,-168
+paroxysmal pain,-168
+abdominal fullness,-168
+abdominal distention,-168
+worsened after meals,-168
+denied nausea,-168
+denied vomiting,-168
+denied stiffness,-168
+denied fever,-168
+no past medical history,-168
+no history of close contact with infected individuals,-168
+no recent travel,-168
+no abdominal trauma,-168
+sought care in a local hospital,-24
+diagnosed with hepatic abscess,-24
+hepatic puncture and drainage,-24
+drainage catheter placed,-24
+afebrile,0
+pulse rate 80 beats/minute,0
+blood pressure 118/73 mmHg,0
+respiratory rate 26 breaths/minute,0
+leukocyte count 16.4×10^9/L (neutrophil 94.5%),0
+haemoglobin 85 g/L,0
+platelet count 240×10^9/L,0
+procalcitonin 2.3 ng/mL,0
+plasma fibrinogen 7.48 g/L,0
+serum glutamic oxalacetic transaminase 67 U/L,0
+glutamic-pyruvic transaminase 83 U/L,0
+cholinesterase 1360 U/L,0
+total protein 50.8 g/L,0
+albumin 21.5 g/L,0
+blood urea nitrogen 10.8 mmol/L,0
+creatinine 51.3 umol/L,0
+HIV negative,0
+syphilis negative,0
+obvious abdominal distension,48
+mild bellyache,48
+extreme thirst,48
+right abdominal tenderness without rebound or guarding,48
+temperature 36.8 °C,48
+drainage catheter yield of 150 mL of fulvous fluid submitted to microbiology,48
+abdominal and pelvic computed tomography scan performed,48
+irregular slightly low-density lesion in the right posterior hepatic lobe 41 mm × 56 mm with gas density shadow,48
+liquid density shadow around the lower margin of liver,48
+high-density drainage tube shadow,48
+round-like low-density lesion about 0.8 cm in the right lobe of the liver,48
+appendix thickened to about 20 mm in diameter,48
+structure of the ascending colon near the ileocecal region disorganised,48
+multiple gas accumulation and dilation in the bowel,48
+air-fluid levels inside the abdomen,48
+hepatic abscesses (likely),48
+ileus (likely),48
+mild ascites (likely),48
+appendicitis (likely),48
+liver cyst (likely),48
+abdominal infection (likely),48
+peritonitis (likely),48
+retroperitoneal infection (imaging),48
+insufficient blood pressure 93/59 mmHg,48
+urgent exploratory laparotomy,48
+fulvous purulent exudate and necrotic tissue in extraperitoneal space and abdominal cavity,48
+partial postnecrotic defect in the peritoneum,48
+massive epiploon adhesion in the right upper abdomen,48
+perforation under the right side of the liver 15 mm,48
+perforation in the right ascending colon about 100 mm from the ileocecal region,48
+ileocecal resection,48
+partial resection of the ascending colon,48
+ileostomy,48
+drainage of hepatic abscesses,48
+drainage of abdominal abscesses,48
+drainage of extraperitoneal abscesses,48
+orotracheal intubation,50
+hypotension,50
+anemia,50
+fever,50
+transferred to the intensive care unit,50
+noradrenaline infusion started,50
+ventilator used to assist breathing,50
+intravenous hydration,50
+nutritional support therapy,50
+blood transfusion,50
+blood cultures sent,50
+drainage fluids cultures sent,50
+intravenous tigecycline started,50
+piperacillin/tazobactam started,50
+body temperature monitored,50
+routine blood count monitored,50
+procalcitonin level monitored,50
+C-reactive protein level monitored,50
+temperature 39.3 °C,96
+pulse rate 130 beats/minute,96
+leukocyte count 35.9×10^9/L (neutrophils 92.4%),96
+procalcitonin 8.15 ng/mL,96
+C-reactive protein 174 mg/L,96
+blood samples taken for aerobic and anaerobic cultures,96
+tigecycline continued,96
+piperacillin/tazobactam continued,96
+anaerobic blood cultures positive,168
+Gram stain revealed short Gram-positive bacillus without spores,168
+Eggerthella lenta identified by MALDI-TOF MS,240
+antimicrobial susceptibility testing not performed,240
+plasma fibrinogen fell to 1.0 g/L,240
+presumed adverse reaction to tigecycline,240
+tigecycline discontinued,240
+teicoplanin started,240
+piperacillin/tazobactam discontinued,240
+ertapenem started,240
+drainage fluid cultures obtained,240
+Escherichia coli isolated from drainage fluid,240
+Escherichia coli susceptible to ertapenem,240
+fever improved,264
+leukocytosis improved,264
+procalcitonin level improved,264
+C-reactive protein level improved,264
+transferred to the general ward,312
+ertapenem and teicoplanin continued (another 14 days),312
+debridement,312
+dressing change,312
+symptomatic supportive treatment,312
+repeated blood cultures negative,288
+repeat CT revealed decreased size of hepatic abscess,576
+amount of ascites decreased,576
+further 7-day course of intravenous ertapenem and teicoplanin,576
+discharged from the hospital,744
+prescription for oral antibiotics (clindamycin),744
+remained well as an outpatient,1752
+no recurrence of fever,1752
+complete resolution of the abscess,1752
+six-week course of intravenous ertapenem completed,1752

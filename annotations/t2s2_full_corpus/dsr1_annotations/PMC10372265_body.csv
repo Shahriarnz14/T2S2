@@ -1,0 +1,97 @@
+event,time
+60 years old,0\
+male,0\
+admitted to the hospital,0\
+syncope,0\
+second dose of BNT162b2 COVID-19 vaccine,-48\
+first dose of BNT162b2 COVID-19 vaccine,-504\
+fever,-24\
+malaise,-24\
+decreased urine output,0\
+right leg edema,0\
+nausea,0\
+dizziness,0\
+dyspnea on exertion,0\
+loss of consciousness,0\
+awake,0\
+alert,0\
+blood pressure 97/50 mmHg,0\
+pulse rate 114/min,0\
+body temperature 36.0°C,0\
+respiratory rate 12 breaths/min,0\
+percutaneous oxygen saturation 97%,0\
+generalized pitting edema in legs,0\
+elevated white blood cell count,0\
+hemoglobin 22.2/dL,0\
+serum creatinine 1.51 mg/dL,0\
+no proteinuria,0\
+no hematuria,0\
+no urinary casts,0\
+normal chest radiography,0\
+normal electrocardiography,0\
+admitted to intensive care unit,0\
+aggressive fluid therapy,0\
+urine output increased,24\
+blood pressure stabilized,24\
+hemoconcentration improved,24\
+hospitalized for 5 days,0\
+discharged,120\
+previous SCLS episodes,0\
+first SCLS episode (12 years prior),-105120\
+common cold-like symptoms,-105216\
+nausea,-105120\
+vomiting,-105120\
+pain in lower extremities,-105120\
+swelling in lower extremities,-105120\
+oliguria,-105120\
+hypotension,-105120\
+hemoconcentration,-105120\
+hospitalized 36 days,-105120\
+fluid therapy,-105120\
+antimicrobial therapy,-105120\
+diagnosed with sepsis of unknown origin,-105120\
+second SCLS episode (8 years prior),-70080\
+common cold-like symptoms,-70176\
+nausea,-70080\
+oliguria,-70080\
+swelling in lower extremities,-70080\
+discharged within 4 days,-70080\
+diagnosed with acute renal failure of unknown origin,-70080\
+third SCLS episode (3 years prior),-26280\
+left leg swelling,-26352\
+decreased urine output,-26280\
+generalized body edema,-26280\
+nausea,-26280\
+dizziness,-26280\
+dyspnea on exertion,-26280\
+hypotension,-26280\
+hemoconcentration,-26280\
+kidney dysfunction,-26280\
+admitted to intensive care unit,-26280\
+aggressive fluid therapy,-26280\
+urine output increased,-26256\
+blood pressure stabilized,-26256\
+hemoconcentration improved,-26256\
+hospitalized for 9 days,-26280\
+discharged,-26184\
+IgG-κ-type M-proteinemia,-26280\
+small JAK2 mutations,-26280\
+diagnosed with SCLS,-26280\
+fourth SCLS episode (current admission),0\
+second dose of BNT162b2 vaccine,-48\
+normal Troponin I,0\
+normal brain natriuretic peptide,0\
+normal soluble interleukin-2 receptor,0\
+normal C4,0\
+normal C1 elastase inhibitors,0\
+negative blood culture,0\
+negative anti-streptolysin O antibody,0\
+negative antinuclear antibody,0\
+negative anti-glomerular basement membrane antibody,0\
+negative antineutrophil cytoplasmic antibody,0\
+negative rheumatoid factor,0\
+diagnosed with fourth SCLS attack,0\
+started oral terbutaline,120\
+started theophylline prophylaxis,120\
+no further SCLS episodes,120\
+follow-up 1 year,8784

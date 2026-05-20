@@ -1,0 +1,61 @@
+60 years old | 0
+male | 0
+admitted to the hospital | 0
+fever | -48
+abdominal pain | -48
+edema of the scrotum | -48
+edema of the penis | -48
+edema of the perineum | -48
+edema of the right gluteal region | -48
+hypertension | -672
+osteoporosis | -672
+hemorrhoids | -672
+blood pressure 103/62 mmHg | 0
+heart rate 135/min | 0
+oxygen saturation 88% | 0
+white blood cell count 13.11/μL | 0
+C-reactive protein level 61.4 mg/dL | 0
+serum creatinine 4.3 mg/dL | 0
+blood urea 157 mg/dL | 0
+blood sugar 142 mg/dL | 0
+procalcitonin 8.53 ng/mL | 0
+CT of the abdomen and pelvis | 0
+inflammatory infiltration of the subcutaneous tissues | 0
+liquefaction and gas in the subcutaneous tissues | 0
+necrosis of scrotum and penis | 0
+edema of the subcutaneous tissues | 0
+diagnosed with Fournier's gangrene | 0
+antibiotic therapy started | 0
+meropenem 1g thrice daily | 0
+metronidazole 500 mg thrice daily | 0
+linezolid 600 mg twice daily | 0
+resection of the necrotic tissues | 24
+bilateral orchiectomy | 24
+excision of the penile and scrotal skin | 24
+transferred to ICU | 24
+mechanical ventilation | 24
+broad-spectrum antibiotics | 24
+supportive and nutritional therapies | 24
+colostomy | 48
+wound debridement | 48
+negative pressure wound therapy | 48
+sedation discontinued | 72
+recovered consciousness | 72
+extubated | 72
+breathing on his own with oxygen | 72
+hemodynamically stable | 72
+diuresis stimulated | 72
+inflammatory markers decreased | 72
+culture of the pus material | 72
+Escherichia coli | 72
+Pseudomonas aeruginosa | 72
+antibiotic therapy modified | 72
+cephazolin 1g twice daily | 72
+NPWT discontinued | 96
+transferred to Department of Plastic Surgery | 96
+free-skin grafts applied | 120
+discharged | 1104
+testosterone supplementation | 1104
+physiotherapy | 1104
+follow-up | 1104
+colostomy reversal | 1104

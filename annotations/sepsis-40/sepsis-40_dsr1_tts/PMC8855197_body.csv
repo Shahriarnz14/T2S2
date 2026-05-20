@@ -1,0 +1,89 @@
+event,time
+77 years old,0
+male,0
+admitted to the hospital,0
+drowsy mental state,24
+unstable angina,-70080
+coronary stent insertion,-70080
+Sigmart (nicorandil 5 mg),-70080
+"aspirin (enteric coated tab, 100 mg)",-70080
+Almarl (arotinolol 5 mg),-70080
+Herben (diltiazem 30 mg),-70080
+normal chest X-ray,0
+left ventricular ejection fraction 61%,0
+grade 2 diastolic dysfunction,0
+mild aortic regurgitation,0
+trivial mitral regurgitation,0
+trivial tricuspid regurgitation,0
+normal blood urea nitrogen/creatinine (11.0/0.8 mg/dL),0
+low hemoglobin (11.9 g/dL),0
+aspirin stopped,-168
+"spinal block with bupivacaine (0.5%, 10 mg)",0
+intravenous dexmedetomidine infusion,0
+"pneumatic thigh tourniquet application (300 mmHg, 100 min)",0
+total anesthesia time (2 h 10 min),0
+crystalloid administered (600 mL),0
+urine collected (150 mL),0
+estimated blood loss (90 mL),0
+BP 100-130/50-70 mmHg,0
+HR 45-55 beats/min,0
+SpO2 97%-99%,0
+BP 97/55 mmHg,0
+HR 41 beats/min,0
+SpO2 100%,0
+crystalloid administered (400 mL),0
+urine drained (90 mL),0
+blood drained (70 mL),0
+patient-controlled analgesia (fentanyl),0
+"antibiotics (Refosporen, cefazedone sodium)",0
+severe right thigh pain,24
+shivering,24
+Tridol Injection (tramadol hydrochloride),24
+Glasgow coma scale score 8/15 (M5/V2/E1),24
+BP 110/70 mmHg,24
+HR 122 beats/min,24
+body temperature 37.9 °C,24
+SpO2 86%-90%,24
+normal electrocardiogram,24
+right thigh stiff and dark brown,24
+dark colored urine,24
+oliguria (570 mL/d),24
+increased CK (2763 IU/L),19
+elevated CK-MB (13.26 ng/mL),19
+elevated AST (93 U/L),19
+elevated BUN (15.2 mg/dL),19
+elevated Cr (1 mg/dL),19
+normal troponin-I (0.100 ng/mL),19
+prolonged coagulation battery,19
+thrombocytopenia,19
+high fibrinogen degradation product (148 mg/mL),19
+high D-dimer (80 mg/mL),19
+DIC,19
+serum myoglobin 1027 ng/mL,24
+urine myoglobin 25.3 ng/mL,24
+red blood cell count 100/HPF,24
+rhabdomyolysis,24
+AKI (AKIN stage 1),24
+norepinephrine infusion (0.5-1 μg/kg/min),25
+ICU admission,25
+arterial line placement (left radial artery),25
+central line placement (right internal jugular vein),25
+fluid treatment (5 L/d),25
+normal saline infusion (400 mL/h for 2 h),25
+Lasix (furosemide 20 mg),25
+sodium bicarbonate (40 mL 8.4%),25
+urine output 110 mL (3 h),25
+urine output 600 mL (4 h),25
+Denogan (propacetamol hydrochloride 1 g),25
+mental state restored to alert,27
+BP 90-110/60-70 mmHg,27
+HR 104 beats/min,27
+body temperature 36.2 °C,27
+SpO2 98%,27
+body temperature 38.0 °C,29
+BP 50/20 mmHg,33
+HR 37 beats/min,33
+SpO2 52%,33
+cardiac arrest,33
+cardiopulmonary resuscitation,33
+expiration,34

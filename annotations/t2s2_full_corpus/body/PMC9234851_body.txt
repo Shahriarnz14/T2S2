@@ -1,0 +1,124 @@
+pmcIntroduction
+
+The amino-amide local anaesthetic bupivacaine is frequently used in locoregional analgesia in both veterinary and human medicine. 1 The mechanism of action of local anaesthetics is primarily via blockade of voltage-gated sodium channels and, to a lesser degree, potassium and calcium channels, preventing cell depolarisation and conduction of nerve impulses, resulting in a local neuralgia. 2 Owing to the mechanism of action, local anaesthetic drugs can cause central nervous system (CNS) and cardiovascular system derangements; these effects are most often associated with rapid intravenous (IV) administration and higher dosages. 3 Local anaesthetics are lipophilic, a property that facilitates diffusion across nerve sheaths and enhances potency. 4 The most commonly used measure of lipophilicity is logP. This is the partition coefficient of a molecule between the aqueous and lipophilic phases, typically assessed using octanol and water. A positive value for logP denotes a higher concentration of the drug in the lipid phase. Bupivacaine has a logP of 3.64 and is the most lipophilic, and therefore most potent, local anaesthetic used in clinical practice. 5
+
+The efficacy of IV lipid emulsion (ILE) as a therapy for lipophilic toxicants has been previously demonstrated.5,6 To our knowledge, this is the first report of bupivacaine toxicity following intracavitary administration in a cat with recrudescence of clinical signs after an initial response to treatment with ILE, and subsequent successful treatment following repeat ILE administration.
+
+Case description
+
+An 8.75-year-old male neutered Burmese cat weighing 5.6 kg was referred for treatment of pyothorax. History and clinical exam ination findings included lethargy, anorexia, tachypnoea, a restrictive breathing pattern and pyrexia. Upon arrival to the Queen Mother Hospital for Animals at The Royal Veterinary College, the cat was bright, alert and responsive. Its respiratory rate was 40 breaths/min and there was a mild increase in respiratory effort. Its heart rate (HR) was 170 beats/min (bpm) and a grade II/VI systolic murmur was auscultated. Rectal temperature was 38.1ºC. Blood was sampled for complete blood count and serum biochemistry (Table 1).
+
+Table 1 Clinical parameters on presentation at the referral clinic
+
+Diagnostic test	RI	Result	
+Haematology	
+ Haematocrit (%)	24–45	36.3	
+ WBCs (×109/l)	5.5–19.5	20.42	
+ Neutrophils (×109/l)	2.5–12.5	17.97	
+ Platelet count (×109/l)	200–800	185	
+ Blood film analysis		Mild neutrophilia with marked toxicity consistent with inflammation	
+Electrolytes and blood gas analysis	
+ Sodium (mmol/l)	140–153	147	
+ Potassium (mmol/l)	3.6–4.6	4.1	
+ Chloride (mmol/l)	106–120	115	
+ Calcium (mmol/l)	1.13–1.33	1.31	
+Biochemistry	
+ Albumin (g/l)	25–45	26	
+ Globulin (g/l)	25–45	34.6	
+ Alanine aminotransferase (U/l)	5–60	36.3	
+ Total bilirubin (µmol/l)	0.1–5.1	2.5	
+ Creatinine (µmol/l)	20–177	251	
+ Urea (mmol/l)	2.5–9.9	19	
+ Creatinine kinase (U/l)	57–574	1555	
+ Lipaemia index		None	
+ pH	7.35–7.47	7.292	
+ PvCO2	37–47	44.2	
+ Glucose (mmol/l)	4.7–7.3	8.9	
+ Lactate (mmol/l)	0.6–2.5	1.5	
+ HCO3– (mmol/l)	–	19	
+ Base excess (mmol/l)	–	–4.7	
+Urinalysis			
+ USG		1.035	
+ pH		6	
+ Protein		2+	
+ Culture		Negative	
+Pleural effusion analysis	
+ Cytology		Neutrophilic septic exudate with intracellular cocci	
+ Culture		Beta-haemolytic Streptococcus agalactiae	
+RI = reference interval; WBCs = white blood cells; PvCO2 = partial pressure of carbon dioxide in venous blood; HCO3– = bicarbonate; USG = urine specific gravity
+
+Point-of-care thoracic ultrasound (POCUS) demonstrated a pleural effusion. Thoracocentesis was performed and fluid cytology confirmed pyothorax (Table 1). The cat was sedated with 0.2 mg/kg midazolam (Hypnovel; Neone Healthcare), 0.2 mg/kg butorphanol (Torbugesic; Zoetis UK) and 2 mg/kg alfaxalone (Alfaxan Multidose; Jurox), delivered as 0.5 mg/kg boluses to facilitate placement of bilateral chest drains (MILA International) using the Seldinger technique. 7 Three-view thoracic radiographs were taken to assess thoracic drain placement. The left thoracic drain was reported to enter at the seventh intercostal space and terminated at the cranial margin of the left side of the cupula; the right thoracic drain entered at the tenth intercostal space and terminated at the midline of the fourth rib.
+
+Thoracic drainage and lavage were performed aseptically every 4 h using a total volume of 10 ml/kg NaCl 0.9% split into 30 ml aliquots and the volume of pleural fluid removed was recorded. 8 Intrapleural bupivacaine 0.25% (Marcaine; Aspen) at a total dose of 1 mg/kg was administered via the thoracic drains, divided 50:50 between the right and left hemi-thoraxes every 6 h. Additional medical management was initiated, involving IV amoxicillin-clavulanate (20 mg/kg q8h IV [Co-amoxiclav; Bowmed Ibisqus]), buprenorphine 0.01 mg/kg (Buprecare; Animalcare) and IV fluid therapy in the form of compound sodium lactate (Aqupharm No 11; Animalcare) at 4 ml/kg/h with supplemented potassium chloride (Potassium Chloride 20% w/v concentrate; Hameln Pharma) as required.
+
+Despite pleural drainage and lavage, the respiratory effort remained elevated 12 h post-admission. Oxygen therapy was delivered in a humidity and temperature-controlled environment for 19 h (Intensive Care Unit ICS-DT/TS; Plas-Labs) with the fractional inspired oxygen set at 0.4–0.5. An initial improvement in the cat’s respiratory rate and effort was documented 2 h after initiating oxygen therapy, the fraction of inspired oxygen (FIO2) was then reduced to 0.4. Oxygen therapy was finally discontinued when respiratory rate and effort normalised.
+
+Thirty-six hours after admission and 25 mins after the sixth episode of thoracic lavage and fifth instillation of intrapleural bupivacaine, the cat developed mydriasis, hypersalivation, tonic–clonic seizure activity and a loss of consciousness. The cat was transferred onto the intensive care unit resuscitation table, whereby seizure activity spontaneously ceased and flow-by oxygen was delivered. Following resolution of seizure activity, the cat was stuporous and had a sinus bradycardia of 120 bpm, as assessed by electrocardiographic analysis. Non-invasive blood pressure (BP) monitoring revealed a decrease in Doppler BP from a baseline of 140–180 mmHg systolic to 110 mmHg systolic (Table 2).
+
+Table 2 Physical examination parameters, heart rate, respiratory rate and blood pressure prior to bupivacaine overdose, at the time of clinical signs of bupivacaine overdose and after receipt of intravenous lipid emulsion
+
+Time (h) relative to signs of toxicity	Heart rate (bpm)	Respiratory rate (breaths/min)	Blood pressure (mmHg)	
+–04:00		24	160	
+–00:30	152	24		
+00:00*	120	20	110	
+00:15	124		110	
+00:25	128			
+00:40	122			
+00:50	140		130	
+01:10	160	32	120	
+01:20			120	
+02:10	167	24	160	
+03:10	166	36	150	
+04:10	153	32	140	
+05:10	140	16	140	
+Treatment using intravenous lipid emulsion was initiated at 00:15 mins post-clinical signs
+
+* Time of clinical signs of toxicity
+
+Venous blood gas (ABL800 FLEX; Radiometer) demonstrated an acidaemia (pH 7.125; reference interval [RI] 7.350–7.470), the partial pressure of carbon dioxide (venous; PvCO2) was 62.8 mmHg (RI 37–47) and partial pressure of oxygen (venous) was 48.9 mmHg (RI 45–65). There was mild hypokalaemia (3.5 mmol/l; RI 3.6–4.6) and hyperglycaemia (11.6 mmol/l; RI 4.7–7.3). A moderate hyperlactataemia developed (4.8 mmol/l; RI 0.6–2.5); creatinine was 180 µmol/l (RI 50–140). POCUS demonstrated subjectively normal cardiac chamber size and contractility, and no pericardial or peritoneal effusion.
+
+Based on the acute deterioration and the history of recent drug administration it was suspected that the cat had received an accidental overdose of intrapleural bupivacaine and was demonstrating signs of local anaesthetic systemic toxicity (LAST). Calculations confirmed the cat had received 10 mg/kg bupivacaine. The recommended total therapeutic dose of bupivacaine is 1–1.5 mg/kg delivered perineurally or intrapleurally.2,9 Treatment with ILE 20% (Intralipid 20% w/v emulsion; Fresenius Kabi), delivered as a bolus of 1.5 ml/kg over 5 mins, was initiated 20 mins after signs of toxicity were first noted. Mentation markedly improved following the ILE 20% bolus; the cat became responsive and ambulatory but remained mildly obtunded and bradycardic (128 bpm), and continued hypersalivation was also noted. The ILE 20% bolus was followed by a 0.25 ml/kg/min continuous rate infusion (CRI) delivered over 30 mins.5,10 Thoracic lavage, using warmed NaCl 0.9% to a total volume of 200 ml, was performed to aid retrieval of any residual volume of intrapleural bupivacaine within the thoracic effusion. After 25 mins of the ILE 20% CRI the HR was 140 bpm and Doppler BP was 130 mmHg systolic. Close monitoring continued and at 70 mins post-initiation of ILE therapy the HR had increased further to 160 bpm and there was complete resolution of hypersalivation and mydriasis. Repeat blood gas analysis following administration of ILE was not possible owing to increased blood turbidity secondary to hyperlipidaemia, which caused erroneous results. 11
+
+Intrapleural administration of bupivacaine was discontinued; however, thoracic lavage with saline 0.9% continued to be performed every 4 h as treatment for the pyothorax. Close monitoring was continued with hourly assessment of mentation, respiratory and cardiovascular parameters (Table 2). Repeat venous blood gas analysis, 3 h post-overdose, demonstrated resolving acidaemia (pH 7.330; RI 7.350–7.470) and the PvCO2 had normalised at 44.5 mmHg (RI 37–47). There was ongoing hypokalaemia (3.4 mmol/l; RI 3.6–4.6) and resolving azotaemia (162 µmol/l; RI 50–140). The mild hyperglycaemia had improved (8.3 mmol/l; RI 4.7–7.3) and the hyperlactataemia had resolved (0.7 mmol/l; RI 0.6–2.5).
+
+Ten hours post-ILE therapy a decline in mental status and relapse bradycardia of 120–130 bpm was noted. A further ILE 20% bolus (1.5 ml/kg over 5 mins) and CRI (0.25 ml/kg/min) were administered IV. Improved mental status was observed, but bradycardia did not resolve. The cat remained normotensive (140 mmHg systolic), despite bradycardia (128 bpm). Cardiovascular monitoring continued and further therapeutic interventions were deemed unnecessary. There was gradual improvement in mentation and HR, and approximately 20 h post-bupivacaine overdose the cat was assessed to be fully recovered with resolution of neurological and cardiovascular signs of toxicity. Oxygen therapy was weaned over the 44 h of treatment, as respiratory effort improved and the respiratory rate was less than 32 breaths/min.
+
+Thirty-six hours post-overdose, general anaesthesia and CT were performed, a right middle lung lobe abscess was identified and the cat underwent a median sternotomy. During general anaesthesia and surgery multiple episodes of hypotension were recorded (mean arterial pressure 30 mmHg); this was treated with a noradrenaline CRI (norepinephrine; dosage 0.05–0.1 µg/kg/min [Hospira]) and thought to be secondary to anaesthetic drugs. Following extubation, the cat developed respiratory distress secondary to laryngeal oedema creating upper respiratory tract obstruction. The cat was re-intubated and a dexmedetomidine CRI started at 0.3 µg/kg/h to allow a slower recovery and extubation. The dexmedetomidine CRI was discontinued 3 h post-initiation and analgesia was tapered from fentanyl (1 µg/kg/h) to methadone (0.1–0.2 mg/kg q4–6h) to buprenorphine (0.01–0.02 mg/kg q6–8h) over the following 3 days.
+
+Further recovery was uneventful, and the cat was discharged on day 6 of hospitalisation to continue treatment at home with amoxicillin–clavulanate tablets 20 mg/kg q12h (Kesium; Ceva Animal Health). Gabapentin tablets were also dispensed (10 mg/kg q8–12h) as pain relief.
+
+Discussion
+
+This case report describes a systemic toxicity response, with CNS and cardiovascular depression, to an intrapleural bupivacaine overdose. It also describes suspected recrudescence of toxicity 10 h after initial treatment.
+
+LAST primarily results in CNS signs, including muscle fasciculation and tonic–clonic seizures, which can progress to loss of consciousness and, in some cases, culminates in respiratory arrest. CNS signs are further exacerbated by acidosis seen secondarily to seizure-induced hypoventilation following toxicity, which was evident in this case. 12 Myocardial contractility reduction causes cardiovascular depression, secondary to bradycardia, hypotension and arrhythmias; in cases of severe contractility reduction, this leads to cardiac arrest. 4 The reduction in contractility is thought to occur as a result of multiple mechanisms, including the inhibition of ion channels, particularly sodium. 2 Alongside this, bupivacaine inhibits carnitine-acylcarnitine translocase, which transports fatty acid into the myocardial mitochondria resulting in a blockade of lipid-based respiration through deprivation of energy substrate. 13 Cardiac mitochondria are dependent on fatty acids for 70% of energy production and so this blockade can result in severe ventricular dysrhythmias. 14
+
+Bupivacaine is the most potent and longest-acting amide-linked local anaesthetic (duration of action 4–12 h), with a high lipophilicity, high affinity for sodium channels and high protein-binding properties. 2 This also means it has the greatest cardiotoxic potential of all local anaesthetics, including its S-enantiomer levobupivacaine and, as a result, CNS and cardiovascular signs can be seen simultaneously, as reported in this case.15–17 The cat in this case report received a bupivacaine dose of 10 mg/kg intrapleurally at the time of LAST; however, the cat received a cumulative 14 mg/kg dose within 28 h since first administration to evidence of LAST. The mean accumulation ratio for intrapleural bupivacaine is reported to be 1.6 in humans, equating to negligible accumulation within 24 h when administered q6h; to the best of our knowledge, this has not been established specifically in cats. 18
+
+Cats are reportedly more susceptible to LAST, which is speculated to be due to reduced hepatic metabolism and the reduced accuracy of drug for weight calculations.1,19 The reduced hepatic metabolism could lead to an increased accumulation ratio compared with that of humans, increasing the risk of toxicity from cumulative administration. A case of cumulative bupivacaine leading to signs of LAST has been recently reported following repeat administration of bupivacaine via an epidural catheter in a cat, although the cumulative dose is not clearly reported. 20 Toxic effects from single-dose administration have been reported at doses over 2 mg/kg perineurally and from 1 to 5 mg/kg IV; however, there are case reports of cats developing signs of bupivacaine toxicity at doses as low as 1.16 mg/kg following perineural administration within highly absorptive areas.1,21 The toxic dose is not specifically established for intrapleural administration.
+
+The use of ILE, particularly intralipid 20% emulsion, is highly efficacious in cases of local anaesthetic overdose.6,22 The lipid antidotes act as a lipid sink within the intravascular space, sequestering lipophilic local anaesthetic drugs away from their site of action within body tissues. Additional cardioprotective effects are theorised secondary to lipid acting at a cellular level. By increasing intracellular fatty acid content – the energy substrate for mitochondrial respiration – this counteracts the blockade on adenosine triphosphate synthesis, which occurs secondarily to carnitine acylcarnitine translocate inhibition. Thus, increasing cardiac myocyte calcium levels improves contractility. 5
+
+This cat responded to the initial ILE 20% bolus and CRI, with the return of appropriate mentation and normal cardiovascular parameters on completion of the CRI. However, there was a deterioration of mentation and reoccurrence of the bradycardia 10 h after initial ILE treatment. The plasma half-life of bupivacaine has been reported to be 4.79 ± 2.7 h in cats undergoing ovariohysterectomy when given by intraperitoneal administration. 23 ILE persists for some hours within the bloodstream after administration and works well with the half-life of bupivacaine. Bupivacaine is highly lipophilic (logP 3.64), has a pKa of 8.1 and is highly protein bound (95%) – factors that contribute to its high potency, slow onset and prolonged duration of effect, respectively.2,15 We speculate that the delayed release of the drug from intrathoracic and other adipose stores and the protein-rich exudative pleural effusion, combined with clearance of the ILE from the bloodstream contributed to the recrudescence of signs in this case. This sequestration of bupivacaine within adipose stores and the protein rich effusion, alongside the persistence of the intralipid within the bloodstream, may have had an initial protective effect at the onset of toxicity by reducing the maximum concentration achieved Cmax achieved. Evidence cannot be provided as measurements of serum bupivacaine levels pre- and post-ILE treatment were not performed.
+
+Additional therapies that could have been considered include oral carnitine supplementation. Both human patients and rats have demonstrated increased sensitivity to the cardiotoxic effects of bupivacaine with L-carnitine deficiency, which has been documented secondarily to increased use, loss and reduced intake of carnitine in anorexic patients; it has also been documented in infants receiving ILE parenteral nutrition or human patients receiving overdoses of ILE therapy.5,14,24–26 This cat received a total ILE 20% dose of 3.5 ml/kg over 12h. It is recommended to not exceed 8 ml/kg/day, so whilst carnitine deficiency secondary to ILE use alone is unlikely, it is possible that use of ILE combined with anorexia resulted in carnitine depletion and supplementation would have been beneficial. Further research is needed to understand the impact of intralipid treatment on carnitine levels in cats and dogs and whether supplementation in ill patients that may be predisposed to deficiencies is advised, prior to intralipid use.
+
+The use of lipid emulsion is relatively low risk. Reported complications that are secondary to intralipid use include pulmonary toxicity resulting in reduced blood oxygen levels in human patients with acute respiratory distress syndrome (ARDS), thrombophlebitis, fat embolism, hyperlipidaemia and corneal lipidosis.27–29 Infectious respiratory disease is not reported to increase the risk of pulmonary toxicity in human patients, and ARDS has not been reported, to the best of our knowledge, in cats.30,31 As such, the risk of using ILE would have been outweighed by the benefits in this case.
+
+Thoracic lavage was also used with the aim of reducing further systemic absorption of bupivacaine from the thoracic cavity (ie, decontamination). In most cases of LAST, retrieval of the local anaesthetic is not possible owing to IV or perineural administration.1,6 In this cat, the thoracic lavage was carried out 35 mins after administration of the bupivacaine into the second thoracic drain and 25–30 mins post-seizure activity. This means that the time to maximum concentration Tmax post-intrapleural administration (25 mins in human patients) is likely to have been achieved. 32 Bupivacaine is lipophilic meaning that large volume retrieval is unlikely to occur using NaCl 0.9%; however, there are unique factors to this case that justify the use of thoracic lavage. The cat had a protein-rich pleural effusion and bupivacaine is highly protein bound; as such, it will be sequestered within the effusion. 2 Retrieval of this effusion is possible via thoracic lavage and the authors postulate that this will remove bupivacaine that has the potential to enter systemic absorption at a delayed time point. Inflamed tissues create an acidic environment and the pH of NaCl 0.9% is acidic (pH 5.5), leading to preferential partitioning of bupivacaine to the ionised water soluble configuration (pKa 8.1),33,34 and thereby increasing the likelihood of retrieval via lavage. Any degree of volume retrieval is an important consideration in this case where a large overdose was administered, and signs of recrudescence were documented.
+
+Conclusions
+
+This is the first case report to describe the treatment of LAST following an intrathoracic bupivacaine overdose in a cat. This case demonstrates the possibility of a prolonged duration of action from highly lipophilic local anaesthetics when administered into a body cavity. It also demonstrates the success of ILE in treating local anaesthetic overdose cases without the need for other means of cardiac resuscitation.
+
+Accepted: 15 May 2022
+
+Conflict of interest: The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The authors received no financial support for the research, authorship, and/or publication of this article.
+
+Ethical approval: The work described in this manuscript involved the use of non-experimental (owned or unowned) animals. Established internationally recognised high standards (‘best practice’) of veterinary clinical care for the individual patient were always followed and/or this work involved the use of cadavers. Ethical approval from a committee was therefore not specifically required for publication in JFMS Open Reports. Although not required, where ethical approval was still obtained, it is stated in the manuscript.
+
+Informed consent: Informed consent (verbal or written) was obtained from the owner or legal custodian of all animal(s) described in this work (experimental or non-experimental animals, including cadavers) for all procedure(s) undertaken (prospective or retrospective studies). No animals or people are identifiable within this publication, and therefore additional informed consent for publication was not required.
+
+ORCID iD: Erica Tinson https://orcid.org/0000-0002-2600-2050

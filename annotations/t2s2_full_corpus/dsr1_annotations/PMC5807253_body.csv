@@ -1,0 +1,80 @@
+event,time
+54-year-old Hispanic woman,0
+type 2 diabetes,0
+hypertension,0
+peripheral vascular disease,0
+right-foot transmetatarsal amputation,-26280
+severe watery diarrhea,-72
+nausea,-72
+vomiting,-72
+mental status change,-72
+lisinopril 40 mg daily,0
+metoprolol succinate 50 mg daily,0
+pravastatin 40 mg daily,0
+aspirin 81 mg daily,0
+hydrochlorothiazide 12.5 mg daily,0
+metformin 1000 mg twice a day,0
+insulin detemir 50 units nightly,0
+insulin lispro 30 units before meals,-24
+poor oral intake,-24
+hypoglycemia,0
+glucose 47 mg/dL,0
+glucagon administered,0
+confusion,0
+hypotension,0
+blood pressure 70/39 mmHg,0
+disorientation,0
+dry oral mucosa,0
+decreased bowel sounds,0
+unresponsive,0
+cardiopulmonary arrest,0
+pulseless electrical activity,0
+cardiopulmonary resuscitation,0
+endotracheal intubation,0
+mechanical ventilation,0
+spontaneous circulation restored,0
+transferred to ICU,0
+norepinephrine 0.3 mcg/kg/min,0
+blood pressure 98/37 mmHg,0
+arterial pH 6.57,0
+HCO3- 2 mEq/L,0
+anion gap 30 mmol/L,0
+osmolar gap 21,0
+lactate 16.3 mmol/L,0
+HbA1c 7.3%,0
+creatinine 8.07 mg/dL,0
+baseline creatinine 0.86 mg/dL,-1440
+CT abdomen/pelvis,0
+gallbladder wall thickening,0
+vasopressin added,0
+septic shock considered,0
+acute coronary event considered,0
+metformin toxicity suspected,0
+mechanical ventilation continued,0
+type IV respiratory failure,0
+renal replacement therapy initiated,0
+hemodialysis,0
+acidemia resolved,0
+hemodynamic improvement,0
+norepinephrine dose reduced,0
+vasopressin dose reduced,0
+negative blood cultures,0
+negative stool cultures,0
+troponin 4.42 ng/mL,0
+demand ischemia,0
+stable coronary artery disease,0
+normal serial ECGs,0
+echocardiogram EF 50%,48
+norepinephrine discontinued,96
+vasopressin discontinued,96
+extubated,144
+serum metformin 42 mcg/mL,168
+discharged from ICU,216
+discharged from hospital,360
+dialysis discontinued,720
+grandson with gastroenteritis,-96
+abnormal nuclear stress test,720
+coronary angiography,720
+three-vessel disease,720
+coronary artery bypass graft,720
+no neurological complications,360

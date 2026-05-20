@@ -1,0 +1,101 @@
+event,time
+37 years old,0
+female,0
+posterior occipital lesion,0
+low-grade glioma with pilocytic features,0
+occipital craniotomy,0
+supratentorial approach,0
+tumor debulking,0
+ASA II,0
+physical exam unremarkable,0
+no allergies,0
+left parietal craniotomy,-163920
+partial tumor excision,-163920
+chemotherapy,-163920
+radiotherapy,-163920
+increased intracranial pressure,-163920
+external ventricular drainage device insertion,-163920
+tumor recurrence,-9600
+right occipital craniotomy,-9600
+sitting position,-9600
+blurred vision,-4320
+metastatic sub-thalamic brain tumor,-4320
+navigation-assisted tumor debulking,0
+surgical procedure,0
+10 hours duration,0
+minimal head flexion,0
+throat pack insertion,0
+left radial arterial line insertion,0
+right subclavian central line insertion,0
+propofol induction,0
+fentanyl induction,0
+cisatracurium,0
+cuffed ETT 7.5 mm,0
+Cormack-Lehane grade 1 view,0
+mechanical ventilation,0
+isoflurane maintenance,0
+cisatracurium infusion,0
+remifentanil infusion,0
+Ringer lactate 3.5 liters,0
+packed red blood cells,0
+adequate urine output,0
+stable vital signs,0
+systolic blood pressure 100 mmHg,0
+PaCO2 33 mmHg,0
+oxygen saturation 99%,0
+neostigmine reversal,0
+atropine reversal,0
+throat pack removal,0
+spontaneous breathing,0
+tidal volume 800–850 mL,0
+respiratory rate 10–12 breaths/min,0
+extubation,0
+left-sided weakness,0
+head dressing re-doing,0
+decreased tidal volume,24
+tongue enlargement,24
+O2 saturation 90–94%,24
+manual mask ventilation,24
+foreign body suspicion,24
+oropharynx check,24
+edematous soft palate,24
+Cormack-Lehane grade 4,24
+difficult intubation,24
+inspiratory stridor,24
+O2 saturation 80–93%,24
+fiber-optic trial not done,24
+urgent tracheostomy,24
+ICU transfer,24
+mechanical ventilation,24
+propofol sedation,24
+remifentanil sedation,24
+cefuroxime,24
+vancomycin,24
+levofloxacin,24
+dexamethasone,24
+antihistamine,24
+nasogastric tube feeding,24
+chest physiotherapy,24
+increased tongue swelling,72
+increased neck swelling,72
+mouth gag application,72
+MRA ordered,72
+WBC count increase,168
+gram negative bacilli infection,168
+tongue ulcerations,216
+sepsis,384
+multi-organ failure,384
+asystole,384
+death,384
+no cervical spine strain,0
+no pressure necrosis,0
+no brachial plexus injury,0
+no venous air embolism,0
+no pneumocephalus,0
+no subdural hematoma,0
+no bradycardia,0
+no cardiac arrest,0
+no allergic reaction,0
+no infection intraoperatively,0
+no hemorrhage,0
+no neurogenic edema,0

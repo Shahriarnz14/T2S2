@@ -1,0 +1,87 @@
+event,time
+35-year-old,0
+woman,0
+newly diagnosed diabetes,0
+presented to the emergency department,0
+altered mental status,0
+generalized headache,-168
+headache partially relieved with acetaminophen,-168
+headache partially relieved with ibuprofen,-168
+non-productive cough,-96
+sore throat,-96
+no documented fever,-96
+lethargic,-24
+confused,-24
+unresponsive,-24
+random rhythmic movements of bilateral upper extremities,-24
+random rhythmic movements of bilateral lower extremities,-24
+no tongue biting,-24
+no fecal incontinence,-24
+no urinary incontinence,-24
+taking food to COVID-19 positive family member,-336
+no close contact,-336
+no history of substance use,0
+no history of smoking,0
+no recent travel,0
+Glasgow Coma Scale (GCS) of 9,0
+afebrile,0
+temperature 36.6°C,0
+heart rate 93,0
+blood pressure 133/70,0
+no nuchal rigidity,0
+Brudzinski sign negative,0
+Kernig sign negative,0
+agitation,0
+vomiting,0
+endotracheal intubation,0
+white blood cell count 6900/μL,0
+lactate 1.1 mmol/L,0
+head CT without contrast showed no abnormalities,0
+urinalysis negative,0
+chest x-ray showed bilateral patchy infiltrates,0
+nasopharyngeal SARS-CoV-2 PCR positive,0
+pharyngeal swab positive for Streptococcus pyogenes,0
+blood cultures drawn,0
+started on vancomycin,0
+started on ceftriaxone,0
+started on acyclovir,0
+initial lumbar puncture unsuccessful,0
+admitted to the intensive care unit,0
+fluoroscopy-guided lumbar puncture,24
+CSF glucose 109 mg/dL,24
+CSF protein 250 mg/dL,24
+CSF RBC 231/mm³,24
+CSF WBC 42/mm³,24
+62% lymphocytes,24
+4% monocytes,24
+aseptic meningitis,24
+opening pressure not measured,24
+CSF varicella zoster virus PCR negative,24
+CSF herpes simplex virus 1 PCR negative,24
+CSF herpes simplex virus 2 PCR negative,24
+CSF enterovirus/echovirus PCR negative,24
+CSF VDRL negative,24
+CSF cryptococcal antigen negative,24
+SARS-CoV-2 testing not performed on CSF,24
+MRI brain not performed,0
+serum C-reactive protein elevated (23.0 mg/L),0
+erythrocyte sedimentation rate elevated (34 mm/hr),0
+D-dimer elevated (0.51 μg/mL),0
+ferritin normal (125.3 ng/mL),0
+lactate dehydrogenase normal (267 U/L),0
+interleukin-6 levels normal (<5 pg/mL),0
+blood cultures negative,120
+CSF cultures negative,120
+vancomycin discontinued,48
+ceftriaxone continued,96
+acyclovir continued,96
+mental status markedly improved,96
+extubated,96
+discharged home,216
+anti-infective therapy completed,216
+PO penicillin V,216
+PO valacyclovir,216
+meningoencephalitis,24
+negative viral PCR studies,24
+rapid defervescence,96
+SARS-CoV-2 meningoencephalitis suspected,24

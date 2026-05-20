@@ -1,0 +1,51 @@
+event,time
+37 years old,0
+immunocompetent,0
+male,0
+cerebral palsy,0
+multiple enterocutaneous fistulas,0
+perforated appendix,-175200
+right atrial thrombus,-175200
+anticoagulation therapy,-175200
+mechanical fall,-168
+increased enteric drainage from enterocutaneous fistula,0
+occasional rigors,0
+waxing and waning subjective fevers,0
+long-term indwelling peripherally inserted central catheter (PICC) line,0
+total parenteral nutrition (TPN),0
+enterocutaneous fistula healing well,-168
+ostomy appliance changes 2 times per day,-168
+no signs of infection at enterocutaneous fistula,0
+afebrile,0
+blood pressure 98/60 mmHg,0
+heart rate within normal limits,0
+respiratory rate within normal limits,0
+serum creatinine 1.88 mg/dL,0
+no criteria for systemic inflammatory response syndrome,0
+admitted to general medicine unit,0
+elevated whole blood lactate level 3.4 mmol/L,24
+blood culture samples drawn from PICC line and peripheral site,24
+broad-spectrum intravenous antibiotics (cefepime and metronidazole),24
+lactate level increased to 5.5 mmol/L,24
+hypotensive (91/50 mmHg),24
+temperature 39°C,24
+heart rate 120 beats per minute,24
+severe sepsis,24
+intravenous normal saline,24
+transferred to medical intensive care unit (MICU),24
+linezolid 600 mg intravenous,24
+vasopressor support with norepinephrine,24
+blood cultures grew lactose fermenting gram-negative rods,48
+linezolid discontinued,48
+PICC line removed,48
+TPN via radiologically inserted jejunostomy tube,48
+blood culture speciation identified Rahnella aquatilis (>100 CFU/mL),60
+resistance to amoxicillin and cefazolin,60
+susceptibility to multiple antibiotics,60
+antibiotic therapy de-escalated to ceftriaxone,60
+condition stabilized,60
+transferred back to general medicine unit,60
+PICC line replaced,168
+discharged,168
+outpatient antibiotic therapy with ceftriaxone,168
+full recovery,240

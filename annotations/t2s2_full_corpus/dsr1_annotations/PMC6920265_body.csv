@@ -1,0 +1,94 @@
+event,time
+66 years old,0
+male,0
+admitted to emergency department,0
+asthenia,-24
+adynamia,-24
+mild dyspnoea,-24
+dry cough,-24
+chills,-24
+fever,-24
+diaphoresis,-24
+altered consciousness state,-24
+disorientation,-24
+episodes of agitation,-24
+great respiratory difficulty,-24
+desaturation,-24
+hypertensive nephropathy,-24
+polycystic kidney disease,-24
+renal transplantation,-8760
+immunosuppressive treatment,-8760
+tacrolimus,-8760
+prednisolone,-8760
+azathioprine,-8760
+chest x-ray,0
+consolidation in middle third of left pulmonary field,0
+shifted to intensive care unit,24
+respiratory failure,24
+invasive mechanical ventilation,24
+septic shock,24
+multiple organ failure syndrome,24
+neurological compromise,24
+progression to stupor,24
+systemic inflammatory response,24
+empirical antibiotic treatment,24
+piperacillin/tazobactam,24
+vancomycin,24
+clarithromycin,24
+fluconazole,24
+oseltamivir,24
+assessed by Department of Infectious Diseases,48
+urinary antigen testing for Histoplasma,48
+urinary antigen testing for Cryptococcus,48
+bronchoalveolar lavage galactomannan test,48
+negative tests,48
+liposomal amphotericin B,72
+positive viral load for cytomegalovirus,48
+ganciclovir,48
+decreasing viral loads,48
+negative blood cultures,48
+negative oral tracheal secretion cultures,48
+altered state of consciousness,72
+brain tomography,72
+intra-axial lesion,72
+expansive behaviour,72
+ring enhancement,72
+vasogenic oedema,72
+right parietal lobe,72
+right anterior subinsular vasogenic oedema,72
+foci of cerebritis,72
+open biopsy,72
+subcortical mass,72
+lumpy consistency,72
+yellowish mass,72
+partially vascularised,72
+no purulent material,72
+no signs of cerebritis,72
+samples for microbiological studies,72
+histopathological studies,72
+fresh examination,72
+large irregular septate dematiaceous hyphae,72
+amphotericin B,72
+voriconazole,72
+neurosurgical intervention,72
+ventilation support discontinued,96
+alertness restored,96
+Sabouraud agar growth,96
+grey-white colonies,96
+greenish black colonies,96
+dark brown colony back,96
+microbiological typing,96
+phaeohyphomycosis,96
+disseminated Alternaria spp.,96
+MRI scan,120
+collection on surgical bed,120
+persistence of oedema,120
+optimise dematiaceous treatment,120
+terbinafine,120
+satisfactory progress,120
+no new neurological deficits,120
+CT scans,168
+no significant changes,168
+no progression of mycosis,168
+no other organs compromised,168
+death,2880

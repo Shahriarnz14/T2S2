@@ -1,0 +1,112 @@
+event,time
+55 year old,0
+male,0
+presented to the ED,0
+weakness for 5 days,-120
+light-headedness for 5 days,-120
+muscle aches for 5 days,-120
+non-productive cough for 5 days,-120
+wheeze for 5 days,-120
+frequent shivering,-60
+no shortness of breath,0
+no chest pain,0
+previous evaluation at the ED 2 days before,-48
+discharged,-48
+intravenous hydration,-48
+Penicillin V prescription,-48
+positive rapid test for Group A Streptococcus,-48
+history of asthma,0
+history of hypertension,0
+history of diet-controlled type 2 diabetes,0
+taking lisinopril,0
+taking hydrochlorothiazide,0
+25 pack-year smoking history,-140160
+quit smoking,-140160
+syncopal episode,0.5
+blood pressure 109/87 mmHg when supine,0
+without pulsus paradoxus while supine,0
+heart rate 109 beats per minute,0
+respiratory rate 24 breaths per minute,0
+temperature 36.5°C,0
+oxygen saturation 100% on room air,0
+"mottling of skin on cheeks, chest, and neck",0
+"cyanosis of cheeks, chest, and neck",0
+no jugular venous distension,0
+no lymphadenopathy,0
+clear lungs,0
+no distant cardiac sounds,0
+regular heart rate and rhythm,0
+normal S1/S2,0
+no heart murmur,0
+unremarkable abdomen and extremities,0
+right upper lobe infiltrate on CXR,1
+borderline enlarged cardiac silhouette on CXR or possible AP artifact,1
+sinus tachycardia on ECG,1
+no tall QRS complex,1
+electrical alternans absent,1
+white blood cell count 16.6 103/µL,1
+hemoglobin 13.4 g/dL,1
+sodium 129 mmol/L,1
+potassium 4.2 mmol/L,1
+carbon dioxide 21 mEq/L,1
+creatinine 1.0 mg/dL,1
+glucose 152 mg/dL,1
+cardiac enzymes normal,1
+B-natriuretic peptide 915 pg/mL,1
+lactic acid level 3.8 mmol/L,1
+antibiotics started,2
+fluid resuscitation initiated,0
+concern for severe sepsis,1
+three liters of normal saline administered,2
+no identifiable jugular venous distention after fluid resuscitation,2
+intensivist consulted,2
+bedside ultrasound performed,2
+pericardial effusion,2
+diastolic collapse of the right atrium,2
+diastolic collapse of the right ventricle,2
+ejection fraction normal,2
+no other significant abnormalities found,2
+another syncopal episode,6
+bedside pericardiocentesis,6
+200 mL bloody pericardial fluid drained,6
+symptoms improved,6
+cyanosis improved,6
+symptom free,10
+hemodynamically stable,10
+open pericardiotomy performed,18
+pericardial window placement performed,18
+smaller cardiac silhouette,24
+slightly increased voltage of QRS complexes,24
+pericardial drainage tube well positioned,36
+trace pericardial effusion,36
+right upper pneumonic infiltrate,36
+small bilateral pleural effusion,36
+pericardial biopsy revealed adenocarcinoma,72
+pericardial effusion fluid revealed adenocarcinoma,72
+pulmonary primary source,72
+bronchial brushing suggested adenocarcinoma,72
+bronchial washing suggested adenocarcinoma,72
+blood cultures negative,72
+urine cultures negative,72
+bronchial-alveolar washing cultures negative,72
+discharged,96
+fluid depleted,0
+poor fluid intake,-60
+spreading malignancy (occult),-720
+use of diuretics,0
+tachycardic,0
+tachypneic,0
+did not have an infection,72
+inflammatory response caused by cardiac tamponade and lung malignancy,72
+low-pressure cardiac tamponade,2
+did not have any known risk factors for pericarditis,0
+pericardial tamponade was the initial presentation of lung adenocarcinoma,72
+no other significant abnormalities,-48
+family history was non-contributory,0
+"no improvement after three liters of normal saline - symptoms, blood pressure, heart rate, and dusky mottling unchanged",2
+suboptimal subcostal view on ultrasound - precise evaluation of inferior vena cava not possible,2
+CT scan performed,36
+repeat chest radiograph performed,24
+repeat electrocardiogram performed,24
+did not measure temperature at home,-60
+discharged to follow up at oncology clinic,96

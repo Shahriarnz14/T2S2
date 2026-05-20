@@ -1,0 +1,78 @@
+event,time
+61 years old,0
+male,0
+hypertension,0
+squamous cell carcinoma of the skin,0
+admitted to the hospital,0
+altered mental status,0
+fever,0
+rash,0
+cyst removal,-1680
+unsuccessful cyst removal,-1680
+referred to general surgeon,-1344
+excision under general anesthesia,-1344
+wound infected,-1344
+removal of squamous cell skin lesions,-1344
+prescribed TMP-SMX,-336
+completed TMP-SMX course,-336
+fever (Tmax 102 F),-72
+confusion,-72
+ill-appearing,0
+sinus tachycardia,0
+mild right upper quadrant tenderness,0
+healing excisions,0
+sutured wound,0
+diffuse petechiae,0
+maculopapular rash,0
+no mucosal/oral involvement,0
+no rash on soles/palms,0
+no bullae,0
+no pustules,0
+white blood cell count 5.1 × 10³/uL,0
+no eosinophils,0
+no monocytes,0
+platelet count 13 × 10³/uL,0
+sodium 122 mmol/L,0
+creatinine 2.77 mg/dL,0
+BUN 50 mg/dL,0
+AST 238 units/L,0
+ALT 79 units/L,0
+PT 12.4 s,0
+INR 1.1,0
+APTT 65 s,0
+non-contrast CT head negative,0
+chest x-ray negative,0
+gallbladder wall thickening,0
+sepsis criteria met,0
+lactic acid 1.8 mmol/L,0
+fluid resuscitation,0
+blood cultures drawn,0
+empiric antibiotics started,0
+vancomycin,0
+piperacillin/tazobactam,0
+platelet transfusion,0
+transferred to ICU,0
+possible plasmapheresis,0
+consulted Infectious Disease,0
+consulted Nephrology,0
+consulted Hematology/Oncology,0
+no schistocytes,0
+elevated fibrinogen,0
+elevated D-dimer,0
+ADAMTS13 activity 34.9%,0
+normal G6PD,0
+2+ hemoglobin in urine,0
+trace RBCs in urine,0
+FeNA 2.79 mEq/L,0
+delayed hypersensitivity reaction to TMP-SMX,0
+creatinine worsening,24
+transaminitis worsening,24
+hyponatremia worsening,24
+blood culture no growth,96
+antibiotics stopped,96
+mentation returned to baseline,72
+maculopapular rash resolved,72
+lab values correcting,96
+transferred to medical floor,96
+discharged,120
+advised against TMP-SMX rechallenge,120

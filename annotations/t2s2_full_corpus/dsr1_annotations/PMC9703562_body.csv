@@ -1,0 +1,66 @@
+event,time
+63 years old,0
+female,0
+came to the emergency department,0
+acute onset fever,0
+tympanic temperature 39.9°C,0
+chills,0
+malaise,0
+beclouded,0
+tachypnoeic,0
+cigarette smoking,0
+previous breast cancer resection,0
+dog hand bite,-48
+creatinine 1.22 mg/dl,0
+lactate dehydrogenase (LDH) 298,0
+AST 115,0
+ALT 54 U/l,0
+hyponatremia 130 mmol/l,0
+hyposmolality 265 mOsm/kg,0
+PaO2/FiO2 ratio (P/F) 246 mmHg,0
+bilateral basal hyperdensities of the lungs,0
+peripheral blood collection for microbiological diagnosis,0
+admitted to the medicine department,0
+pneumonia,0
+empirical antibiotic therapy with levofloxacin,0
+Sequential Organ Failure Assessment Score (SOFA) 5,0
+thrombocytopenia,24
+acute kidney injury (AKI),24
+livedo reticularis,24
+arterial hypotension,24
+acute hypoxemic respiratory failure,24
+high serum procalcitonin (79.7 ng/ml),24
+Gram-negative rods in blood culture,24
+empirical meropenem,24
+admitted to the ICU,24
+intubated,24
+septic shock (SOFA 21),24
+"severe lactic acidosis (pH 6.7, lactate 17 mmol/l)",24
+high-dose inotropic support (norepinephrine 0.5–1 μg/kg/min),24
+continuous mandatory mechanical ventilation (P/F 90),24
+hydrocortisone 200 mg/die,24
+AKI stage 3 (KDIGO),24
+anuria,24
+serum creatinine 3.91 mg/dl,24
+continuous venovenous hemodialysis (CVVHD),24
+rhabdomyolysis,96
+liver injury,96
+severe thrombocytopenia,96
+coagulopathy,96
+fresh frozen plasma transfusion,96
+platelet transfusion,96
+thromboelastographic guidance,96
+livedo reticularis worsened to purpura,96
+ischemia of the limbs,96
+blood culture positive (BacT/ALERT system),168
+MALDI Biotyper identification of C. canimorsus,168
+ampicillin-sulbactam,168
+ceftriaxone,168
+antibiogram results received,168
+strain sensitive to multiple antibiotics,168
+strain resistant to multiple antibiotics,168
+transferred to facility near hometown,336
+surgical amputation of finger,336
+surgical amputation of both inferior limbs below knees,336
+intermittent hemodialysis for end-stage renal disease,5760
+Capnocytophaga canimorsus infection,24

@@ -1,0 +1,80 @@
+event,time
+37 years old,0
+healthcare worker,0
+presented to the emergency department,0
+dizziness,0
+pre-syncope,0
+fever,-672
+lethargy,-672
+diarrhoea,-672
+symptoms subsided,-552
+self-isolation,-672
+occupational exposure risk,-672
+recurrence of symptoms,-120
+fever,-120
+diarrhoea,-120
+new-onset dizziness,-120
+clinically shocked,0
+blood pressure 75/50,0
+heart rate 120 bpm,0
+febrile (39°C),0
+tachypnoeic (>30 breaths per minute),0
+oxygen saturation 97% on 3L O2,0
+raised jugular venous pressure,0
+coarse crepitations on auscultation,0
+echocardiogram showed global moderate-to-severe LV systolic dysfunction (EF 35-40%),0
+transferred to critical care,0
+commenced on milrinone,0
+commenced on noradrenaline,0
+worsening myocardial function (EF 25%),24
+intravenous immunoglobulin (2 g/kg),24
+hydrocortisone (50 mg QDS),24
+anticoagulated with heparin infusion,24
+high-dose Vitamin B & C (Pabrinex®),24
+leucocytosis (36 × 10⁹/L),0
+lymphopenia (0.6 × 10⁹/L),0
+elevated troponin (490 ng/L),0
+"elevated BNP (>35,000 ng/L)",0
+ferritin (8681 µg/L),0
+D-dimer (2782 ng/mL),0
+acute kidney injury (creatinine 130 µmol/L),0
+coagulopathy (INR 1.5),0
+transaminitis (ALT 538 U/L),0
+procalcitonin 14.78 µg/L,0
+"negative blood, urine, stool cultures",0
+"negative nasopharyngeal swabs (Days 1, 3, 5)",0
+"no other viral pathology (influenza, HIV)",0
+normal serum autoimmune panel,0
+sinus tachycardia,0
+chest CT: bilateral lower lobe consolidation,0
+small pleural effusions,0
+commenced on linezolid,24
+commenced on clarithromycin,24
+commenced on piperacillin-tazobactam,24
+serial echocardiograms showed worsening biventricular function (EF 21%),72
+LV wall thickening,72
+bi-atrial dilatation,72
+increased pulmonary artery systolic pressures,72
+improvement in myocardial function (EF 29%),120
+prednisolone (0.75 mg/kg/day) substituted for hydrocortisone,168
+biochemical improvement (troponin 108 ng/L),264
+radiological improvement in cardiac function,264
+"CMR showed myocarditis (LV wall thickening, T1/T2 inhomogeneity, patchy LGE)",264
+LVEF 70%,264
+normalization of RV volumes and function,264
+SARS-CoV-2 IgG positive,312
+started on ACE inhibitor,288
+started on beta-blocker,288
+started on MRA,288
+discharge from hospital,336
+prednisolone 40 mg at discharge,336
+troponin normalized,456
+BNP normalized,456
+absence of dizziness,456
+improved exercise tolerance,456
+repeat CMR: significant improvement in LGE,696
+normal biventricular size and systolic function,696
+"weaning prednisolone (4 mg, reduced by 1 mg every 3 weeks)",4992
+remains on beta-blocker,4992
+remains on ACE inhibitor,4992
+remains on MRA,4992

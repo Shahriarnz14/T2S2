@@ -1,0 +1,129 @@
+event,time
+72-year-old,0
+man,0
+colonic adenocarcinoma,-24 days (assuming diagnosis before admission)
+aortic aneurysm surgery,0 (assuming surgery led to admission)
+fever (37.8°C),"-24 days (24 days after surgery, prior to admission)"
+blood culture collected,-24 days (same time as fever)
+urine culture collected,-24 days (same time as fever)
+meropenem plus colistin administered,-24 days (empiric therapy after cultures)
+transferred to intensive care unit,-24 days (following day after fever)
+septic shock,-24 days (reason for ICU transfer)
+Gram-negative rods isolated,-21 days (72-hour incubation after blood culture)
+obligate anaerobes,-21 days (culture result)
+catalase-producing,-21 days (culture result)
+inhibited on Bacteroides bile aesculin agar,-21 days (culture result)
+resistant to vancomycin,-21 days (culture result)
+resistant to kanamycin,-21 days (culture result)
+resistant to colistin sulphate,-21 days (culture result)
+positive β-galactosidase,-21 days (test result)
+positive N-acetyl-β-glucosaminidase,-21 days (test result)
+positive glutamic acid decarboxylase,-21 days (test result)
+positive indole,-21 days (test result)
+positive alkaline phosphatase,-21 days (test result)
+positive leucyl glycine arylamidase,-21 days (test result)
+positive alanine arylamidase,-21 days (test result)
+positive glutamyl glutamic acid arylamidase,-21 days (test result)
+positive pyroglutamic acid arylamidase,-21 days (test result)
+identification as Prevotella species,-21 days (initial assumption)
+β-lactamase negative,-21 days (test result after culture)
+sensitive to ampicillin,-21 days (susceptibility results)
+sensitive to sulbactam-ampicillin,-21 days
+sensitive to amoxicillin-clavulanic acid,-21 days
+sensitive to piperacillin-tazobactam,-21 days
+sensitive to imipenem,-21 days
+sensitive to meropenem,-21 days
+sensitive to clindamycin,-21 days
+sensitive to metronidazole,-21 days
+fever resolved,-21 days (3 days after antibiotics)
+clinical condition improved,-21 days (after treatment)
+followed up in ICU,-21 days (continuing after improvement)
+Acinetobacter septicaemia,4 weeks (28 days) later
+multi-organ failure,4 weeks later
+death,4 weeks later (after septicemia and MOF)
+72-year-old,0
+man,0
+colonic adenocarcinoma,"-576 (assuming diagnosed at time of surgery, which is 24 days before admission)"
+aortic aneurysm surgery,-576
+fever (37.8°C),0
+blood culture collected,0
+urine culture collected,0
+meropenem administered,0
+colistin administered,0
+transferred to intensive care unit,24
+septic shock,24
+Gram-negative rods isolated,72
+obligate anaerobes,72
+catalase-producing,72
+inhibited on Bacteroides bile aesculin agar,72
+resistant to vancomycin,72
+resistant to kanamycin,72
+resistant to colistin sulphate,72
+β-galactosidase positive,72
+N-acetyl-β-glucosaminidase positive,72
+glutamic acid decarboxylase positive,72
+indole positive,72
+alkaline phosphatase positive,72
+leucyl glycine arylamidase positive,72
+alanine arylamidase positive,72
+glutamyl glutamic acid arylamidase positive,72
+pyroglutamic acid arylamidase positive,72
+identification as Prevotella species,72
+β-lactamase negative,72 (tested after culture)
+sensitive to ampicillin,72
+sensitive to sulbactam-ampicillin,72
+sensitive to amoxicillin-clavulanic acid,72
+sensitive to piperacillin-tazobactam,72
+sensitive to imipenem,72
+sensitive to meropenem,72
+sensitive to clindamycin,72
+sensitive to metronidazole,72
+fever resolved,72
+clinical condition improved,72
+followed up in ICU,72
+Acinetobacter septicaemia,672
+multi-organ failure,672
+death,672
+72-year-old,0
+man,0
+colonic adenocarcinoma,-576
+aortic aneurysm surgery,-576
+fever (37.8°C),0
+blood culture collected,0
+urine culture collected,0
+meropenem administered,0
+colistin administered,0
+transferred to intensive care unit,24
+septic shock,24
+Gram-negative rods isolated,72
+obligate anaerobes,72
+catalase-producing,72
+inhibited on Bacteroides bile aesculin agar,72
+resistant to vancomycin,72
+resistant to kanamycin,72
+resistant to colistin sulphate,72
+β-galactosidase positive,72
+N-acetyl-β-glucosaminidase positive,72
+glutamic acid decarboxylase positive,72
+indole positive,72
+alkaline phosphatase positive,72
+leucyl glycine arylamidase positive,72
+alanine arylamidase positive,72
+glutamyl glutamic acid arylamidase positive,72
+pyroglutamic acid arylamidase positive,72
+identification as Prevotella species,72
+β-lactamase negative,72
+sensitive to ampicillin,72
+sensitive to sulbactam-ampicillin,72
+sensitive to amoxicillin-clavulanic acid,72
+sensitive to piperacillin-tazobactam,72
+sensitive to imipenem,72
+sensitive to meropenem,72
+sensitive to clindamycin,72
+sensitive to metronidazole,72
+fever resolved,72
+clinical condition improved,72
+followed up in ICU,72
+Acinetobacter septicaemia,672
+multi-organ failure,672
+death,672

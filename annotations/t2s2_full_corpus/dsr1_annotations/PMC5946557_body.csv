@@ -1,0 +1,60 @@
+event,time
+78-year-old Caucasian male,0
+former smoker,0
+40 pack-year history of tobacco use,0
+chronic obstructive pulmonary disease (COPD),0
+prostate cancer,0
+status post radical prostatectomy,0
+subsequent radiation therapy,0
+radiation colitis,0
+presented to the emergency department,0
+recent onset shortness of breath,0
+altered mental status,0
+family members report confusion,0
+unable to get into bed,0
+rushed to the emergency department,0
+recent hospitalization 2 months prior,0
+COPD exacerbation,-1464
+suspected bowel obstruction,-1464
+hypotension (92/61 mmHg),0
+tachycardia (130 bpm),0
+tachypnea (25/min),0
+hypoxia (71% oxygen saturation),0
+afebrile (99.9°F),0
+alert and oriented,0
+diminished breath sounds bilaterally,0
+scattered crackles,0
+noninvasive positive pressure ventilation (BiPAP),0
+leukocytosis (WBC 30.6),0
+bands 12%,0
+lactic acidosis (3.6 mmol/l),0
+acute kidney injury (creatinine 1.5 mg/dl),0
+chest X-ray left upper and lower lobe opacity,0
+pneumonia severity index 131 (Class V),0
+admitted to intensive care unit,0
+acute on chronic hypoxic hypercapnic respiratory failure,0
+left-sided pneumonia,0
+intubation with mechanical ventilation,0
+"broad-spectrum antibiotics (vancomycin, piperacillin-tazobactam, azithromycin)",0
+healthcare-associated pneumonia (HCAP),0
+blood cultures positive for Pasteurella multocida,48
+ownership of five cats,48
+deep involvement in cat care and grooming,48
+no scratch or bite marks,48
+no signs of skin infection or abscess,48
+antibiotic regimen switched to ampicillin-sulbactam,48
+clinical status improved,120
+successful extubation,120
+discharged,432
+sent to extended care facility,432
+amoxicillin-clavulanic acid prescribed,432
+14 days of antibiotic therapy,432
+no history of animal bites,0
+no evidence of portal of entry,0
+immunocompetent status,0
+mortality risk (7%-31%),0
+penicillins as first-line treatment,0
+susceptibility testing,0
+high susceptibility to penicillins (97.3%),0
+cautious use of macrolides,0
+macrolide susceptibility 89.4%,0

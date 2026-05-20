@@ -1,0 +1,84 @@
+event,time
+37 years old,0\
+male,0\
+admitted to the hospital,0\
+fever,-72\
+headache,-72\
+unilateral painful neck swelling,-72\
+no significant medical history,0\
+no recent international travel,0\
+no known contact with COVID-19,0\
+transported in EpiShuttle,-24\
+redness in posterior palate,0\
+tender non-fluctuant swelling left mandibular angle to sternocleidomastoid,0\
+denies cough,0\
+denies neck stiffness,0\
+denies pain on swallowing,0\
+denies respiratory distress,0\
+denies chest pain,0\
+febrile 41°C,0\
+tachycardia 115 bpm,0\
+normotensive 119/76 mmHg,0\
+mentally alert,0\
+respiratory rate 12-22 breaths/min,0\
+peripheral oxygen saturation 100% on room air,0\
+unremarkable systemic examination,0\
+ECG sinus tachycardia with flattened T-waves,0\
+chest X-ray unremarkable,0\
+arterial blood gas respiratory alkalosis,0\
+elevated CRP 230 mg/L,0\
+procalcitonin 2.1 μg/L,0\
+normal leucocytes 7.1×10⁹/L,0\
+elevated troponin T 90 ng/L,0\
+elevated NT-proBNP 160 ng/L,0\
+echocardiography good ventricular function,0\
+CT neck subcutaneous edema and enlarged lymph nodes,0\
+repeat echocardiography day 2: LVEF 40%,48\
+CRP 344 mg/L,48\
+procalcitonin 12.9 μg/L,48\
+transferred to ICU day 3,72\
+respiratory distress,72\
+cellulitis suspected,0\
+started cefotaxime and clindamycin,0\
+no sepsis,0\
+suspected cardiac involvement,0\
+acetylsalicylic acid 300 mg,0\
+telemetry monitoring,0\
+planned CT angiogram and cardiac MRI,0\
+positive SARS-CoV-2 PCR,0\
+deterioration day 3: respiratory distress,72\
+oxygen saturation 94% on room air,72\
+placed on 3 L/min oxygen,72\
+arterial blood gas lactate 3.2 mmol/L,72\
+PaO2 6.3,72\
+oliguria,72\
+hypotension 83/41 mmHg,72\
+invasive hemodynamic monitoring,72\
+"PiCCO: high-preload, hyperdynamic, vasodilated state",72\
+intravenous furosemide,72\
+norepinephrine infusion,72\
+CPAP and nasal cannula oxygen,72\
+repeat X-ray bibasal consolidations,72\
+troponin T peak 1959 ng/mL,72\
+NT-proBNP peak 11169 ng/L,72\
+cardiac MRI day 5: myocardial edema,120\
+CT angiogram no coronary stenosis,120\
+discharged day 11,264\
+readmitted one week after discharge,456\
+right-sided facial nerve palsy,456\
+normal neurological exam,456\
+cerebral CT normal,456\
+CSF protein 1.0 g/L,456\
+CSF IgG 0.14 g/L,456\
+CSF mononuclear pleocytosis 7×10⁶/L,456\
+empirical doxycycline,456\
+negative Borrelia antibodies,456\
+CSF CXCL13 20.3 pg/mL,456\
+negative CSF PCR for neurotropic agents,456\
+high serum anti-SARS-CoV-2 IgG 19.1 μg/mL,456\
+low CSF anti-SARS-CoV-2 IgG 0.3 μg/mL,456\
+antibody index 1.47,456\
+antiganglioside antibodies detected,456\
+normal cerebral MRI,456\
+recovered from facial palsy,2640\
+decreased exercise tolerance months later,2640

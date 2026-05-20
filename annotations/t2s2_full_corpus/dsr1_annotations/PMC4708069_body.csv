@@ -1,0 +1,36 @@
+event,time
+55 years old,0
+male,0
+motorcycle accident,0
+sternal lesions,0
+humeral lesions,0
+D4 vertebral fracture,0
+D9 vertebral fracture,0
+hypertensive pneumothorax,0
+Glasgow Coma Score 14/15,0
+intracapsular spleen hematoma,0
+multiple pelvic fractures,0
+ceftazidime started,120
+gentamicin started,120
+abrupt fever (>38.5°C),432
+septic shock,432
+severe leucocytosis,432
+low platelet count,432
+vasoactive amines started,432
+mechanical ventilation started,432
+no hemodialytic treatment,432
+monolateral purulent pleural effusion (right),432
+thoracic drainage,432
+copious purulent leakage,432
+two sets of blood cultures collected,432
+central arterial catheter used for blood culture,432
+pleomorphic Gram-positive microorganisms isolated,514
+MALDI-TOF identification failure,514
+16S rRNA PCR identification,514
+Catabacter hongkongensis identified,514
+API20A metabolic profile,514
+vancomycin started,648
+meropenem started,648
+vancomycin discontinued,648
+meropenem discontinued,648
+recovery from sepsis,648

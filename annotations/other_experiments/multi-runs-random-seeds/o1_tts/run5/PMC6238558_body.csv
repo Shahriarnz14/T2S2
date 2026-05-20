@@ -1,0 +1,67 @@
+event,time
+70-year-old male farmer by profession ,0
+high-grade fever ,-120
+generalized body ache ,-120
+headache ,-120
+joint pains ,-120
+epigastric pain ,-120
+altered sensorium ,-24
+admitted to the emergency department ,0
+no other comorbidities ,0
+no history of drug addiction ,0
+no history of intoxication ,0
+inguinal lymphadenopathy ,0
+mild generalized rash ,0
+no eschar ,0
+hemodynamically stable ,0
+disoriented ,0
+no focal neurological deficit ,0
+no neck rigidity ,0
+acute febrile illness with undifferentiated fever ,0
+negative for malaria ,0
+negative for dengue ,0
+negative for typhoid ,0
+negative for leptospira ,0
+scrub typhus antigen card positive ,0
+scrub immunoglobulin M (IgM) positive ,0
+diagnosis of scrub typhus ,0
+blood and other body fluid cultures were sterile ,0
+"leukocytosis (15,800/cc) ",0
+mild hyperbilirubinemia ,0
+transaminitis ,0
+slightly raised international normalized ratio (1.56) ,0
+negative for hepatitis B antigen ,0
+negative for hepatitis C antibody ,0
+mild fatty infiltration of the liver ,0
+treated with tablet doxycycline 100 mg twice daily ,0
+defervescence ,48
+orientation improved ,48
+weakness of both lower limbs (Grade 2/5) ,144
+weakness progressed to the upper limbs (Grade 2/5) ,144
+absent deep tendon reflexes ,144
+flexor plantar responses ,144
+bladder incontinence ,144
+no bowel incontinence ,144
+breathing difficulty ,144
+signs of respiratory distress ,144
+single breath count was 10 ,144
+respiratory acidosis ,144
+intubated and put on mechanical ventilation ,144
+MRI of the brain without abnormality ,144
+MRI of the cervical spine with no abnormality ,144
+nerve conduction velocity showed motor sensory demyelinating polyneuropathy ,144
+Guillain–Barre syndrome (GBS) ,144
+cerebrospinal fluid analysis did not reveal albuminocytologic dissociation ,144
+started on intravenous immunoglobulin therapy ,144
+tablet rifampicin 600 mg twice daily ,144
+improvement in weakness of all four limbs ,384
+improvement in respiratory parameters ,384
+weaned off from ventilator ,384
+extubated ,384
+oral feeding was started ,384
+aggressive limb and chest physiotherapy ,384
+shifted out from ICU ,384
+discharged from the hospital ,672
+full neurological recovery ,672
+followed up regularly in the outpatient department ,1008
+presently has no functional disability ,1008

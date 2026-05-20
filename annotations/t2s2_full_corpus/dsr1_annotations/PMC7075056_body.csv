@@ -1,0 +1,88 @@
+event,time
+47 years old,0
+man,0
+admitted to the hospital,0
+severe headache,-1008
+persistent headache,-1008
+no known comorbid illness,0
+chronic smoker,0
+nonalcoholic,0
+CT head: diffuse subarachnoid hemorrhage,0
+Fisher grade IV,0
+no neurological deficits,0
+WFNS grade I,0
+DSA: anterior communicating artery aneurysm,0
+routine blood investigations unremarkable,0
+electrocardiogram unremarkable,0
+echocardiogram unremarkable,0
+neurological deterioration,0
+flexor response to painful stimuli,0
+CT head: fresh bleed,0
+hydrocephalus,0
+external ventricular drain (EVD) placed,0
+sensorium improved,0
+emergency surgery: aneurysm clipping,0
+EVD converted to VP shunt,0
+electively ventilated,0
+extubated after 24 hours,24
+GCS E3M6V5,24
+shifted to ward,24
+fever,72
+hypotension,72
+deterioration in sensorium,72
+GCS E2M5V2,72
+sepsis suspected,72
+fluid resuscitation,72
+antibiotics started,72
+elective ventilation,72
+noradrenaline infusion,72
+repeat DSA: complete aneurysm clipping,72
+no vasospasm,72
+sepsis source unidentified,72
+abdominal distension,96
+persisting fever,96
+ultrasound abdomen: moderate ascites,96
+bilateral pleural effusion,96
+no tapping required,96
+neurologically stable,96
+localizing pain,96
+opens eyes to call,96
+severe hypoalbuminemia,96
+IV albumin administered,96
+abdominal distension interfering with respiration,96
+failed ventilator weaning,96
+elevated lipase,96
+normal serum amylase,96
+normal calcium,96
+normal triglycerides,96
+CT abdomen: edematous pancreas,96
+peripancreatic fat stranding,96
+acute pancreatitis diagnosed,96
+conservative management,96
+antibiotics continued,96
+antipyretics,96
+total parenteral nutrition,96
+fluctuations in sensorium,168
+VP shunt externalization,168
+neurologic improvement,168
+ascitic fluid testing: no infection,168
+abdominal distension subsiding,336
+tracheostomy,336
+weaned from ventilator,336
+GCS E4M6Vt,336
+enteral feedings initiated,336
+lipase normalized,336
+shifted to ward,336
+fever,504
+altered sensorium,504
+shunt site redness,504
+induration,504
+purulent discharge,504
+subcutaneous swelling,504
+Klebsiella in purulent discharge,504
+Klebsiella in tracheal secretions,504
+Klebsiella in CSF,504
+appropriate antibiotics started,504
+septic shock,504
+refractory to treatment,504
+died,672

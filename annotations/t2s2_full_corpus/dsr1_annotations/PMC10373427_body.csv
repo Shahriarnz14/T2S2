@@ -1,0 +1,65 @@
+event,time
+56 years old,0\
+male,0\
+pre-diabetes,-∞\
+hyperlipidemia,-∞\
+ST-elevation myocardial infarction,0\
+transported to catheterization lab,0\
+primary percutaneous intervention (PCI),0\
+left anterior descending artery occlusion,0\
+thrombus aspiration,0\
+stent implantation,0\
+no-reflow phenomenon,0\
+hemodynamically unstable,0\
+ventricular fibrillation,0\
+pulseless electrical activity,0\
+CPR,0\
+LUCAS3™ device application,0\
+ECMO decision,0\
+2 rounds of CPR without ROSC,0\
+"cannulation (23F right femoral vein, 17F femoral artery)",0\
+hemodynamic improvement,0\
+CPR discontinued,0\
+LAD flow restored,0\
+three-vessel disease,0\
+transported to general ICU,0\
+ECMO support,0\
+weaned off mechanical ventilation,0\
+no significant neurological consequences,0\
+lactate levels reached 15.3 mmol/l,24\
+vasopressors administered,24\
+inotropes administered,24\
+hemoglobin drop (14.5 to 8.3 g/dl),24\
+suspected bleeding (right leg/pelvis),24\
+massive blood transfusion protocol,24\
+lactate dropped to 6 mmol/l,48\
+hemoglobin raised to 11.2 g/dl,48\
+abdominal compartment syndrome,48\
+intraabdominal hypertension (16 cmH2O),48\
+declining urine output,48\
+creatinine increase to 2.6 mg/dl,48\
+increased vasopressor doses,48\
+lactate up to 14 mmol/l,72\
+hemoglobin not improving,72\
+abdominal CT scan,72\
+hemoperitoneum,72\
+grade IV liver lacerations,72\
+left lobectomy of the liver,72\
+extubated,96\
+vasopressors reduced,96\
+lactate levels normalized,96\
+additional PRBC transfusions,96\
+echocardiogram EF 30-35%,144\
+ECMO weaning considered,144\
+non-sustained VT,168\
+ventricular fibrillation,168\
+defibrillations,168\
+repeat echocardiography EF 16%,192\
+transfer for LVAD implantation,192\
+ECMO support continued,192\
+hemodynamically stable without vasopressors,192\
+awake and alert,192\
+no gross neurological sequelae,192\
+transferred to another hospital,192\
+multiorgan failure due to sepsis,240\
+death,240

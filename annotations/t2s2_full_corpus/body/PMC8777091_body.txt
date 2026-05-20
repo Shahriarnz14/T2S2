@@ -1,0 +1,43 @@
+pmcIntroduction
+
+In 1993, Jannes et al. [1] described a unique species of Moraxella named M. canis due to its isolation primarily from the saliva of dogs and cats. While their study focused on classifying the species obtained from dogs, it was also isolated twice from the blood of individuals who were bitten by a dog and once from the site of a bite wound. The report did not discuss the clinical features of these three patients [1]. M. canis infections are very rare in humans, and M. canis causing a severe bloodstream infection has not, until now, been reported. We present an immunocompromised patient presenting with M. canis-related septicemia.
+
+Case report
+
+Our patient was a 72-year-old male with an established history of cirrhosis and hepatocellular carcinoma. He had been receiving systemic immunotherapy for his cancer with tocilizumab, atezolizumab, and bevacizumab. He was also taking oral prednisone for systemic inflammatory response due to immunotherapy. The patient had presented to the emergency department (ED) complaining of confusion, lethargy, bilateral lower extremity edema, and recurrent falls. Between this ED visit and a hospital admission 13 days prior, the patient admitted to sustaining lacerations that he allowed his cocker spaniel dog to lick. At hospital admission, the patient presented feeling unwell and described himself as being “in bad shape” due to the cancer treatment. He had a temperature of 100.0°F, blood pressure of 85/50, heart rate in the 80s, increasing confusion, and a red, hot, and painful leg ulceration.
+
+Laboratory evaluations showed an elevated white blood cell count of 24,600/μL with a left shift (normal range 4500–11,000/μL). The institution’s sepsis protocol was initiated, and the patient was admitted to the intensive care unit. Broad-spectrum antimicrobials, including vancomycin and piperacillin/tazobactam, were initiated but changed the following day to vancomycin, cefepime, and metronidazole due to acute kidney injury. Specimens for bacterial culture were obtained from the right lower extremity and blood cultures were drawn from the left forearm and left antecubital fossa. All three cultures were positive for M. canis. Gram-stained photomicrographs and subculture images of the blood cultures are shown in Fig. 1. Antimicrobial susceptibility testing indicated that the isolate produced beta-lactamase and was resistant to penicillin, ampicillin, and amoxicillin. The right lower extremity wound site also grew Staphylococcus aureus. After 48 h of intravenous antimicrobials, clinical improvement was observed, and repeat blood cultures were all negative. The patient’s fever resolved, leg wounds improved, and the total white blood cell and neutrophil counts trended downwards. However, IV cefepime was continued for five days followed by oral cefdinir as outpatient therapy for 10 additional days.Fig. 1 Gram stain and subculture of the blood culture broth revealed pairs of reniform gram-negative cocci (left) and smooth, glistening, and off-white colonies of M. canis on sheep blood agar (center) and chocolate agar (right). Subcultures were incubated overnight at 35 °C in an atmosphere enriched with 5% CO2. Scale bar, 10 µm.
+
+Fig. 1
+
+Discussion
+
+Our case is unique in that M. canis is an uncommon pathogen of humans, and to our knowledge, this is the first report of the organism causing a severe septicemic infection. The organism has been cultured innocuously from blood in the past but has never been attributed to severe disease [1], [2]. This case indicates that M. canis may be a relevant opportunistic pathogen to consider in infectious cases secondary to companion animal bites, scratches, and licks. Further studies are warranted regarding the prevalence of this species in the saliva of dogs and cats and the relative risk this poses to exposed individuals. Isolation of M. canis is essential for targeted pharmacological therapy, but currently no laboratory testing guidelines from the Clinical & Laboratory Standards Institute (CLSI) exist [3]. Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) was used to identify the isolate in our laboratory.
+
+A few reports of M. canis infections are noted in the literature. In 1983, a Swiss patient was described to have a bacteremia caused by an atypical organism retrospectively suspected to be M. canis. The patient suffered from alcoholism, bleeding esophageal varices, and a pneumonia-like illness [2]. Since then, three reports of M. canis infection have been made. All infections were localized as either a wound [4], septic arthritis [5], or an ulcerated metastatic lymph node [6]. The latter two were in immunocompromised cancer patients and the former in a diabetic patient. Like our patient, two of these three reports indicated that the isolates were beta-lactamase producers. The treatment protocols and susceptibilities reported are listed in Table 1 below.Table 1 Previous reports of M. canis infections and treatments.
+
+Table 1Report	Location	Beta-Lactamase Production	Susceptibility and Treatment Regimen	
+Jens, 2001[4]	Left dorsal foot wound	Yes	Successful treatment with cefuroxime, gentamicin, and erythromycin	
+Vaneechoutte, 2000[6]	Ulcerated metastatic lymph node	Yes	cotrimoxazole, doxycycline, fusidic acid, vancomycin, rifampin, gentamicin, and quinolones	
+Ottaviani, 2009[5]	Septic arthritis	No	ampicillin, cephalosporins, gentamicin, cotrimoxazole, and quinolones
+Successful treatment with cefotaxime and ofloxacin	
+Our Patient	Sepsis, right lower extremity	Yes	Successful treatment with cefepime, cefdinira	
+a Prior to identification, patient was treated with vancomycin, piperacillin/tazobactam and metronidazole.
+
+In summary, clinicians need to be aware of M. canis as a rare cause of companion animal-associated zoonotic infections, particularly in immunocompromised patients with close contact to dogs or cats.
+
+Ethics approval and consent to participate
+
+This study was exempt from IRB approval.
+
+Funding
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+CRediT authorship contribution statement
+
+Mathew S. Padanilam: Conceptualization, Investigation, Resources, Data curation, Writing – original draft, Visualization, Supervision, Project administration. Muhammad Qasim: Conceptualization, Resources. Christopher L. Emery: Validation, Resources, Writing – review & editing, Visualization,
+
+Acknowledgments
+
+The authors would like to thank Ryan F. Relich (IU Health and IU School of Medicine) for providing the images featured herein and for his revisions during preparation of this manuscript.

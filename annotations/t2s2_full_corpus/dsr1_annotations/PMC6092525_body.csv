@@ -1,0 +1,83 @@
+event,time
+55 years old,0
+female,0
+fever,-168
+dysuria,-168
+malaise,-168
+urinary incontinence,-168
+difficulty ambulating,-168
+back pain,-168
+diabetes mellitus type 2,0
+hypertension,0
+hyperlipidemia,0
+chronic low back pain,0
+denies recent illness,0
+denies recent hospitalization,0
+denies back trauma,0
+denies paraspinal injections,0
+denies skin infection,0
+denies weight loss,0
+denies night sweats,0
+denies tobacco use,0
+denies alcohol use,0
+denies illicit drug abuse,0
+acutely ill,0
+diaphoretic,0
+temperature 38.3°C,0
+blood pressure 186/82 mmHg,0
+pulse 114 beats per minute,0
+respiratory rate 20 breaths per minute,0
+oxygen saturation 98%,0
+chest examination normal,0
+abdomen examination normal,0
+confusion,0
+lethargy,0
+neurological exam normal,0
+electrocardiography poor R-wave progression,0
+left ventricular hypertrophy,0
+chest X-ray normal,0
+"white blood cell count 15,600/mm³",0
+87% neutrophils,0
+comprehensive metabolic panel normal,0
+coagulation studies normal,0
+urine analysis 3+ bacteria,0
+blood cultures obtained,0
+urine cultures obtained,0
+admitted for sepsis,0
+urinary tract infection,0
+initial antibiotic ceftriaxone,0
+switched to piperacillin-tazobactam,24
+persistent fever,24
+worsening mentation,24
+transferred to medical intensive care unit,24
+encephalopathy,24
+generalized weakness,24
+diminished strength,24
+diminished tone,24
+diminished sensation,24
+absent patella tendon reflexes,24
+normal rectal tone,24
+nuchal rigidity,24
+spinal tenderness,24
+gram negative bacilli in blood culture,24
+gram negative bacilli in urine culture,24
+vancomycin,24
+meropenem,24
+MRI spine with contrast,24
+extensive posterior epidural fluid collection,24
+internal air locules C1-L4,24
+mass effect on cord,24
+severe thecal sac stenosis,24
+surgical decompression,24
+evacuation of epidural abscess,24
+irrigation of epidural abscess,24
+ESBL-producing Klebsiella pneumoniae,24
+sensitive to fluoroquinolones,24
+sensitive to gentamicin,24
+sensitive to meropenem,24
+fungal cultures negative,24
+acid-fast cultures negative,24
+slow recovery,0
+discharged to skilled nursing facility,0
+meropenem for 12 weeks,0
+repeat MRI spine resolution,2016

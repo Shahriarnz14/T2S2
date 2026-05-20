@@ -1,0 +1,99 @@
+event,time
+38 years old,0
+admitted to the surgery ward,0
+long-term problems with food intake,-120
+previous surgery for congenital pylorostenosis,-87600
+examined at the surgeon’s office,-120
+native X-ray,-120
+ultrasound examination,-120
+no pathology,-120
+computed tomography (CT) scan,-120
+suspicion of gastrostasis,-120
+consulted radiologist,-120
+contrast-enhanced examination of upper gastrointestinal tract,-96
+barium sulphate used as contrast agent,-96
+stenosis of the pylorus,-96
+gastrostasis,-96
+repeated X-ray after 30 min,-95.5
+stasis of all contrast agent in stomach,-95.5
+suspected benign stenosis of pylorus,-96
+scheduled planned surgical intervention,-96
+unplanned return to surgeon’s office,-24
+substantial and increasing pain in left epigastrium,-24
+tender left epigastric region,-24
+pain on palpation,-24
+X-ray examination,-24
+stasis of large amount of contrast agent in stomach,-24
+inflammation parameters not elevated,-24
+CRP 0.3 mg/L,-24
+procalcitonin 0.086 µg/L,-24
+nasogastric tube insertion,0
+unsuccessful evacuation of contrast agent,0
+condition deteriorated,24
+immediate laparotomy indicated,24
+tumorous lesion on pylorus (5 cm),24
+dilated stomach,24
+adhesions,24
+mobilized stomach,24
+mobilized duodenum,24
+precipitated and sedimented barium sulphate scooped out,24
+BII partial stomach resection,24
+tissue sent to pathology,24
+Roux-en-Y gastrojejunal anastomosis,24
+repeated lavage of peritoneal cavity,24
+Tygon tube 27 drainage inserted near duodenum stump,24
+drainage inserted into rectovesical excavation,24
+moved to central intensive care unit,24
+intense antibiotic therapy,24
+received infusions,24
+nutritional support,24
+condition worsened on second day,48
+elevated inflammation markers,48
+CRP 78.9 mg/L,48
+procalcitonin 4.45 µg/L,48
+suspected anastomosis leak,48
+suspected contrast agent spillage with peritonitis,48
+CT scan indicated,48
+no contrast agent spillage intraperitoneally,48
+no anastomosis failure,48
+methylene blue administered via nasogastric tube,48
+drained exudate observed for methylene blue,48
+no methylene blue found,48
+drainage bags contained 200 mL sanguinolent fluid,48
+third day CT exam,72
+small amount of contrast agent in paragastric intraperitoneal region,72
+same amount of contrast agent next to stomach on previous CT,72
+active leak not suspected,72
+worsening laboratory results,72
+CRP 267.60 mg/L,72
+procalcitonin 25.90 µg/L,72
+suspected sepsis,72
+afebrile,72
+anastomosis dehiscence unconfirmed,72
+revised antibiotic therapy,72
+vasopressor support introduced,72
+condition improved on fourth day,96
+continued antibiotic therapy,96
+continued vasopressors,96
+decreased exudate drained,96
+dehiscent surgical wound,96
+phlegmonous surgical wound,96
+local therapy applied,96
+condition improving after one week,168
+stools passed,168
+vasopressors discontinued,168
+improved inflammation parameters,168
+CRP 78.60 mg/L,168
+procalcitonin 2.85 µg/L,168
+two weeks after surgery,336
+CRP 13.80 mg/L,336
+discharged,336
+histological exam confirmed malignant pylorus stenosis,24
+moderately differentiated adenocarcinoma,24
+positive resection margin for carcinoma,24
+indicated repeated resection,336
+surgical wound healed per secundam,336
+referred to clinical oncology,336
+chemotherapy initiated,336
+"PET/CT exam on July 9, 2018",336
+no metastatic lesions,336

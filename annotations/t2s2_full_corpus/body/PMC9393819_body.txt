@@ -1,0 +1,80 @@
+pmcIntroduction
+
+Cytokemia in septic patients is associated with alterations of the microcirculation associated with rising lactate serum levels, despite correction of the state of shock as reflected by improved systemic hemodynamic parameters. Such a condition if persistent for extended periods of time can ultimately lead to parenchymal damage, organ failure, and adverse patient outcome.
+
+The latest third-generation handheld vital microscope based on incident dark field imaging (CytoCam; Braedius, Huizen, The Netherlands) allows noninvasive real-time high-quality imaging of the sublingual microcirculation, offering a sensitive bedside diagnostic tool for assessment of the microcirculatory status of severely ill patients. CytoSorb® (CytoSorbents Corporation, Monmouth Junction, NJ, USA) can be placed as an additional hemoadsorber into a continuous renal replacement therapy (CRRT) circuit. The CytoSorb hemoadsorber is able to remove pro- and anti-inflammatory cytokines including other hydrophobic molecules sized between 10 and 50 kDa from the circulation. Several studies have shown the beneficial effect of CytoSorb adsorbers in short- and long-term patient outcome [1, 2, 3]. In this study, we hypothesized that the progress of CytoSorb therapy can be monitored at the level of the microcirculation [4]. Herein, we present a case report of abdominal sepsis, demonstrating the effects of treatment with a CytoSorb® hemoadsorber on the sublingual microcirculation in parallel to the clinical development.
+
+Case Report
+
+An 83-year-old man, with type 2 diabetes, hypertension, atrial fibrillation, and myocardial infarction in his past medical history, was admitted to our intensive care department after a secondary laparotomic surgery following complications from a primary low anterior resection due to a rectum carcinoma, leading to gas and fecal leakage at the resection site 2 days postoperatively. Perforations in the colon transversus were successfully closed, and a sacral abscess was evacuated/drained. The patient had aspirated during intubation and needed intensive monitoring, arriving at the intensive care unit (ICU) under sedation and hemodynamically and respiratory stable.
+
+Following admission to the ICU, a baseline sublingual microcirculatory measurement was made as part of an ongoing study in critically ill patients, for which the patient had been included. This opportunity provided us with an assessment of the sublingual microcirculation of this patient at baseline (t = 0 h). A sublingual microcirculatory measurement made at a time point consisted of the mean value of 3 measurements made at different sublingual locations. During the night following t = 0 h, however, the condition of the patient deteriorated, and he went into shock requiring cardiopulmonary resuscitation for a duration of 30 min because of cardiac arrest due to hypoxia following a complete atelectasis of the right lung. Systemic hemodynamic variables were stabilized by administration of nor-adrenaline and adrenaline associated with a vasoactive-inotropic score (VIS) of 99 [5]). Despite systemic hemodynamic variables being in acceptable ranges (MAP >65 mm Hg), laboratory results showed rising serum lactate up to 9.2 mmol/L and declining renal function with a urine output of 17 mL/24 h consistent with the development of sepsis. Based on this diagnosis, it was decided to place the patient on CRRT with a CytoSorb® hemoadsorber incorporated into the circuit.
+
+After the baseline microcirculatory measurement at t = 0 h, we proceeded with microcirculatory measurement 24 h later and then at 36, 48, and finally at 120 h following the initial baseline measurements. In total, 2 hemoadsorbers were used, one every 24 h. The timeline of events and microcirculatory measurements are shown in Figure 1. Microcirculatory images were made in accordance with the guidelines formulated by a Task Force of the European Society for Intensive Care Medicine on sublingual microcirculatory measurements [6] and analyzed offline using dedicated software (Automated Vascular Analysis) [7]. Once the movies were downloaded from the measurement computer, the software semiautomatically recognized the vessel segments in the field of view and calculated the total vessel density (TVD) (millimeters per square millimeter) and the functional capillary density (millimeters per square millimeter). The microvascular mean flow index (MFI) is a semiquantitative index reflecting microcirculatory red blood cell flow in the field of view and was calculated as described elsewhere [6]. Twenty-four hours after being treated with CRRT plus CytoSorb®, lactate levels decreased from 9.2 mmol/L to 2.2 mmol/L, with a decreased VIS by 43%. On day 2 following the introduction of CytoSorb therapy, a 76% decrease was observed for lactate levels, and the VIS had decreased by 87%.
+
+The sublingual microcirculation initially showed a reduced TVD and perfused vessel density with a reduced microcirculatory flow index (MFI). These variables together with the presence of heterogeneous plugged capillaries present in the microcirculation and high levels of lactate are consistent with the microcirculatory response associated with sepsis (see online suppl. Slide 2; for all online suppl. material, see www.karger.com/doi/10.1159/000518903; plugged vessels are highlighted) [6].
+
+All these microcirculatory parameters improved within the first 12 h of treatment with CytoSorb® and further normalized thereafter (Fig. 1). TVD increased, and the microcirculatory flow index normalized (a value of 3 is considered normal in healthy volunteers; Fig. 1 [6]) in parallel with a reduction in lactate levels (Table 1). The microcirculatory images taken at 36 h showed a brisk flow with no plugged vessels (see online suppl. Slide 3) in parallel with an improved clinical condition (Table 1).
+
+After 48 h of treatment with CytoSorb®, fluid ultrafiltration was initiated for restoration of fluid balance over the course of 4 days. Interestingly prior to this phase, aggressive fluid resuscitation had taken place which could be monitored as a progressive decline in TVD consistent with the dilution effects of the microcirculation [6]. During the de-escalation phase following cessation of the CytoSorb therapy, ultrafiltration was initiated and a blood transfusion administered. Monitoring the microcirculation showed that these interventions were successful in improving the diffusive capacity of the microcirculation as shown by an increase in the TVD in the final phase of the measurements (Fig. 1). The patient remained in an overall stable condition and regained consciousness and subsequently returned to the surgery ward on day 19 after admission to the ICU. After a total hospital stay of 59 days, he was discharged to a nursing facility with a normalized renal function.
+
+Discussion
+
+CRRT in the ICU setting together with a CytoSorb® has been shown in a retrospective study to be associated with a decreased all-cause mortality at 28 days, compared to CRRT alone [1]. Our case study shows that assessment of the sublingual microcirculation is a feasible noninvasive technique which can be used to evaluate real-time microcirculatory alterations associated with sepsis and its resolution using hemoadsorber therapy. In conclusion, our case report shows that initiation of hemoadsorption alongside standard of care improved the microcirculation and renal function alongside a decrease in lactate levels. Nevertheless, this proof of concept case study will require further larger randomized controlled clinical studies to demonstrate the use of sublingual microcirculation monitoring for evaluating the indication and success of CytoSorb® therapy.
+
+Statement of Ethics
+
+Ethical approval was waived for this case report by the Board of Directors of the Wilhelmina Gasthuis Assen Hospital in accordance with local guidelines on condition that informed consent was obtained. Written informed consent was obtained from the patient for publication of this case report and any accompanying images. The study was conducted according to the principles of the Declaration of Helsinki (version 2013, October; www.wma.net) in accordance with laws and medical research involving humans (WMO) and the requirements of Dutch law regarding human-based research.
+
+Conflict of Interest Statement
+
+S.D. and C.I. have received educational grants and speakers fees from CytoSorbents Europe GmbH. C.I. is Chief Scientific Officer and holds shares in Active Medical BV (Leiden, The Netherlands), a company which provides software, hardware, and educational courses related to clinical microcirculation. D.M. and B.E. have no competing interests to declare.
+
+Funding Sources
+
+CytoSorb hemoadsorbers were provided by CytoSorbents Europe GmbH, The Netherlands. None of the authors received any financial support for carrying out this study.
+
+Author Contributions
+
+S.D. provided the facilities, treated the patient with CytoSorb, and was involved in revising the manuscript. D.M. participated in the data collection and analysis of the sublingual microcirculatory measurements as well as in drafting and revising the final manuscript. B.E. was involved in the data collection and (statistical) analysis of the complete dataset and aided in the interpretation of the results. C.I. proposed the study design and gave expert insight into the interpretation of the results. He contributed to writing and approval of the final manuscript.
+
+Data Availability Statement
+
+All data generated or analyzed during this study are included in this article and its online suppl. material files. Further enquiries can be directed to the corresponding author.
+
+Supplementary Material
+
+Supplementary data
+
+Click here for additional data file.
+
+Acknowledgments
+
+We thank the staff of the ICU of the Wilhelmina Gasthuis Assen Hospital for the care they gave to this patient.
+
+Servet Duran and Dietske Miedema contributed equally to this study.
+
+Fig. 1 Changes observed in microcirculatory parameters during CRRT with an add-on CytoSorb hemoadsorbent. The average of 3 sublingual measurements was made at each time point, starting at time of entry to the ICU at t = 0 preceding the attachment of the CytoSorb hemoadsorber. The key indicates the timeline of the different phases including the time at which the CytoSorb was attached and ultrafiltration and BT administered. The microcirculation parameters measured at each time point were TVD (millimeters per square millimeter; a), PVD (millimeters per square millimeter; b), PPV (% of TVD; c), and MFI (arbitrary units; d). CRRT, continuous renal replacement therapy; ICU, intensive care unit; BT, blood transfusion; TVD, total vessel density; PVD, perfused vessel density; MFI, mean flow index.
+
+Table 1 Patient monitoring values
+
+Parameters	T0 baseline	T1 (24 h) 12 h on CySo	T2 (48 h) 36 h on CySo	T3 (72 h) 12 h after CySo	T4 (144 h) 84 h after CySo	
+Days in ICU	1	2	3	4	7	
+Hb, mmol/L	5.6	5.4	5.1	4.8	6.6	
+Lactate	9.2	8.6	2,2	1.6	1.0	
+pH	7.19	7.28	7.38	7.39	7.37	
+HCO3, mmol/L	23	18	27	26	26	
+Base excess	−4.9	−8.6	1.2	1.2	0.5	
+PCO2, kPa	8.3	5.0	5.9	5.8	6	
+O2, kPa	5.8	12.8	10.8	11.3	14.5	
+Heart rate, bpm	90	107	82	111	97	
+MAP, mm Hg	66	77	80	71	105	
+Temperature, oC	38.5	38.5	36.4	38.0	36.9	
+CRP	433	345	374	195	214	
+VAS score	99	56	12	4	0	
+Creatinine	122	176	141	118	102	
+Urea	15.7	16.3	13.7	11.2	9.3	
+Urine output, mL/h	85	4.4	0.8	0	0	
+Fluid balance, mL	1,781	9,564	8,853	−2,323	−9,608	
+SOFA score	10	10	10	10	6	
+ICU, intensive care unit; bpm, beats per minute; HCO3, bicarbonate; MAP, mean arterial pressure; PCO2, partial pressure of carbon dioxide; O2, partial pressure of oxygen; VAS score, vasopressor score indicating the need for vasopressors; SOFA score, sequential organ failure assessment score (previously sepsis-related organ failure assessment score).

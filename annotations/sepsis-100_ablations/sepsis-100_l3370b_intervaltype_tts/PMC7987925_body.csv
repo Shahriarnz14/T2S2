@@ -1,0 +1,59 @@
+event,time
+66 years old,0
+male,0
+dual-chamber pacemaker,-10512
+sick sinus syndrome,-10512
+paroxysmal atrial fibrillation,-10512
+severe lumbar back pain,-24
+mental status changes,-24
+hypotension,-24
+acute renal failure,-24
+hypoxemic respiratory failure,-24
+emergent intubation,-24
+severe sepsis,-24
+hemodynamic support,-24
+vasopressin,-24
+norepinephrine,-24
+blood cultures,-24
+methicillin-sensitive Staphylococcus aureus,-24
+vancomycin,-24
+nafcillin,-12
+transthoracic echocardiogram,-12
+left ventricular ejection fraction,-12
+patent foramen ovale,-12
+computed tomography scan,-12
+osteomyelitis,-12
+magnetic resonance imaging,-12
+septic emboli,-12
+transesophageal echocardiogram,-6
+vegetation,-6
+pacemaker lead,-6
+tricuspid valve,-6
+cardiothoracic surgery,-6
+surgical intervention,-6
+laser lead extraction,-2
+Indigo Thrombectomy System,-1
+intracardiac echocardiography,-1
+vacuum-assisted vegetation removal,-1
+femoral veins,0
+GORE DrySeal Flex introducer sheath,0
+CARTO SoundStar,0
+Indigo CAT8 XTORQ,0
+aspiration,0
+vegetation extraction,0
+lead extraction,1
+pocket inspection,2
+hemostasis,2
+procedure time,0
+blood loss,0
+pathology,2
+gram-positive cocci,2
+culture-positive,2
+methicillin-sensitive Staphylococcus aureus,2
+condition improved,2
+tissue necrosis,50
+lactic acidosis,50
+renal failure,50
+withdraw care,50
+extubated,50
+died,50

@@ -1,0 +1,56 @@
+event,time
+64 years old,0
+male,0
+human immunodeficiency virus (HIV)/AIDS,0
+CD4 count <10 cells/mm³,0
+antiretroviral therapy,0
+Kaposi Sarcoma (KS),0
+right inner thigh involvement,0
+right forearm involvement,0
+palate involvement,0
+pancytopenia,0
+thrice weekly filgrastim,0
+left orbital apex syndrome,0
+Aspergillus fumigatus sinusitis,0
+isavuconazonium sulfate,-24
+admitted to facility,0
+suspected invasive mold infection,0
+liposomal amphotericin-b,0
+voriconazole,0
+isavuconazonium sulfate discontinued,0
+liposomal amphotericin-b discontinued,13
+voriconazole trough level 0.3 mg/L,13
+posaconazole 300 mg daily,312
+hospital day 20,480
+fever 39.9°C,480
+lactate 2.6 mmol/L,480
+absolute neutrophil count >1000 cells/mm³,480
+blood cultures obtained,480
+urinalysis,480
+chest x-ray,480
+increasing drainage from KS lesions,480
+intravenous vancomycin 1250 mg every 12 hours,480
+cefepime 2000 mg every 8 hours,480
+encephalopathy,504
+rigors,504
+persistent fever,504
+hypotension,504
+tachypnea,504
+cefepime changed to piperacillin/tazobactam 4.5 g every 8 hours,504
+IV fluid bolus,504
+Wound Care Team consultation,504
+right thigh KS lesion increased sloughing and drainage,504
+musty odor,504
+hospital day 22,528
+blood cultures positive for P. mendocina,528
+PICC line removed,504
+catheter tip culture negative,504
+repeat blood cultures negative,528
+antibiotic susceptibilities requested,528
+ceftazidime,528
+antibiotic therapy adjusted to ceftazidime,528
+open wound source suspected,528
+blood cultures cleared,528
+infection successfully treated,528
+44-day total hospital stay,1056
+discharged,1056

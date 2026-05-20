@@ -1,0 +1,118 @@
+event,time
+42 years old,0
+female,0
+weight: 48.8 kg,0
+height: 159 cm,0
+"Klatskin tumor, Bismuth type IV",0
+extensive tumor resection for Klatskin tumor,0
+acute hepatic failure,0
+listed for emergency liver transplantation,0
+preoperative laboratory evaluation,-11
+preoperative radiology evaluation,-11
+elevated liver function profile,-11
+aspartate aminotransferase 170 U/L,-11
+alanine aminotransferase 100 U/L,-11
+hemoglobin decreased from 10.4 g/dl to 4.8 g/dl,-11
+platelet count decreased from 103 × 10³/µl to 60 × 10³/µl,-11
+prothrombin time (INR) 2.03,-11
+activated partial thrombin time (aPTT) 104.5 seconds,-11
+fibrinogen 97 mg/dl,-11
+fibrin degradation product >5 µg/ml,-11
+D-dimer 3.23 µg/ml,-11
+antithrombin III activity 41%,-11
+plasminogen activity 30%,-11
+protein C activity 43%,-11
+metabolic acidosis pH <7.15,-11
+base deficit >15 mmol/L,-11
+hypocalcemia <0.8 mmol/L,-11
+hyperglycemia >200 mg/dl,-11
+continuous calcium gluconate infusion 1 mg/kg/hr,-11
+5% albumin infusion,-11
+bicarbonate administered intermittently,-11
+insulin administered intermittently,-11
+exsanguinating bleeding >1000 ml/hr,-11
+ICU stay before total hepatectomy: 11 hours,-11
+packed red blood cells administered: 25 units,-11
+fresh frozen plasma administered: 16 units,-11
+cryoprecipitate administered: 16 units,-11
+platelet concentrates administered: 16 units,-11
+dopamine infusion 10 µg/kg/min,-11
+norepinephrine infusion 0.35 µg/kg/min,-11
+systolic blood pressure maintained between 50-80 mmHg,-11
+diastolic blood pressure maintained between 30-65 mmHg,-11
+urine output maintained between 20-100 ml/hr,-11
+total hepatectomy with temporary portocaval shunt,0
+surgical procedure duration: 2 hours 40 minutes,0
+crystalloid administered: 8100 ml,0
+packed red blood cells administered: 8 units,0
+fresh frozen plasma administered: 4 units,0
+platelet concentrates administered: 8 units,0
+cryoprecipitate administered: 6 units,0
+estimated blood loss: 4500 ml,0
+total urine output: 330 ml,0
+ICU care during anhepatic period,0
+metabolic acidosis alleviated to pH 7.15-7.25,0
+base deficit 10-15 mmol/L,0
+hyperchloremia 110-115 mmol/L,0
+potassium 3.5-3.8 mmol/L,0
+magnesium 1.6-1.7 mg/dl,0
+sodium 144-146 mmol/L,0
+ionic hypocalcemia <0.8 mmol/L,0
+continuous calcium gluconate infusion 1 mg/kg/hr,0
+sodium bicarbonate supplementation,0
+magnesium supplementation,0
+5% albumin supplementation,0
+20% mannitol supplementation,0
+dextrose solution supplementation,0
+no rapid correction of hyponatremia,0
+no neurological deficits,0
+no hepatic encephalopathy,0
+serum glucose 100-200 mg/dl,0
+body temperature maintained with warm blanket,0
+dopamine infusion 5 µg/kg/min,0
+systolic blood pressure 80-100 mmHg,0
+diastolic blood pressure 60-80 mmHg,0
+packed red blood cells administered: 12 units,0
+fresh frozen plasma administered: 10 units,0
+platelet concentrates administered: 16 units,0
+cryoprecipitate administered: 14 units,0
+creatinine 1.58 mg/dl,0
+urine output <10 ml/hr,0
+continuous renal replacement therapy (CRRT) not applied,0
+PT (INR) around 2,0
+aPTT around 100 seconds,0
+fibrinogen <100 mg/dl,0
+no cytokine or toxin-related laboratory analyses,0
+no artificial liver support (MARS),0
+anhepatic period duration: 15 hours,0
+reperfusion of liver transplant,15
+anesthesia induced with desflurane,15
+oxygen fraction 0.5,15
+"routine monitoring (ECG, SpO2, arterial pressure, pulmonary arterial pressure, cardiac output)",15
+dopamine 5 µg/kg/min,15
+norepinephrine 0.1-0.2 µg/kg/min,15
+stable hemodynamic profile,15
+LT operation duration: 7 hours 40 minutes,15
+crystalloid administered: 7500 ml,15
+colloid administered: 500 ml,15
+albumin administered: 650 ml,15
+packed red blood cells administered: 8 units,15
+fresh frozen plasma administered: 4 units,15
+cryoprecipitate administered: 9 units,15
+platelet apheresis administered: 1 unit,15
+postoperative ICU care,15
+cardiovascular support,15
+respiratory support,15
+continuous renal replacement therapy (CRRT),15
+alert on postoperative day 9,216
+extubated on postoperative day 16,384
+reintubated due to pulmonary effusion-related respiratory failure,456
+acute renal insufficiency,15
+urine output <5 ml/hr,15
+creatinine 1.5-2.0 mg/dl,15
+peritonitis from bowel anastomosis leakage,15
+two additional operations for anastomosis site repair,15
+sustained septic conditions,15
+multiorgan failure,15
+died on postoperative day 65,1560
+no signs of graft rejection,216

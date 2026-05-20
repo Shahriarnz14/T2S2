@@ -1,0 +1,58 @@
+event,time
+21 years old,0
+male,0
+allergic to cefuroxime,0
+allergic to metronidazole,0
+sore throat,-96
+shortness of breath,0
+left tonsillitis,0
+septic shock,0
+transferred to Intensive Care Unit,0
+acute tonsillitis,0
+septic shock (complicated),0
+fever,-96
+poor oral intake,-96
+febrile,0
+low-grade temperature (37.6°C),0
+bilateral lower zone infiltrates (chest X-ray),0
+bilateral pleural effusion (4 cm),0
+respiratory failure,0
+intubated,0
+treated with doxycycline,0
+treated with clindamycin,0
+treated with vancomycin,0
+antibiotics upgraded to meropenem,0
+antibiotics upgraded to doxycycline,0
+throat swab negative,0
+urine culture negative,0
+sputum culture negative,0
+endotracheal aspirates negative for influenza,0
+endotracheal aspirates negative for viruses,0
+endotracheal aspirates bacterial culture negative,0
+blood culture (day 2) Fusobacterium necrophorum,48
+sensitive to metronidazole,48
+clindamycin MIC 0.12 μg/mL,48
+microbiologist consultation,48
+meropenem alone continued,48
+persistent leukocytosis,144
+neck pain,144
+"CT neck (October 13, 2016)",144
+"CT thorax (October 13, 2016)",144
+left internal jugular thrombophlebitis,144
+multiple cavitating lung nodules,144
+distal thromboembolism,144
+Lemierre's syndrome diagnosis,144
+right internal jugular vein patent,144
+left brachiocephalic vein patent,144
+superior vena cava patent,144
+otorhinolaryngologist advised continue antibiotics,144
+no internal jugular vein ligation,144
+discharged to general ward,144
+intravenous amoxicillin-clavulanate,144
+antibiotic desensitization protocol,144
+satisfactory progress,144
+discharged home,144
+oral amoxicillin-clavulanate,144
+no anticoagulation,144
+chest X-ray resolution of infiltrates,1008
+antibiotic stopped after 6 weeks,1008

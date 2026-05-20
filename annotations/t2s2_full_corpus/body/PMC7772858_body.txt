@@ -1,0 +1,57 @@
+Introduction
+The treatment of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in allograft kidney recipients is resource- and time-demanding. While COVID-19 is predominantly a respiratory disease, in severe cases, it can cause kidney damage, which in turn worsens the respiratory function, creating a vicious circle through organ crosstalk. Here, we report a successfully treated critical form of COVID-19 in a kidney transplant recipient.
+
+Case Report
+A 46-year-old man underwent deceased donor kidney transplantation in September 2017. Basiliximab was used for induction, while maintenance immunosuppression consisted of extended-release tacrolimus (Tac, 2.5 mg/day), mycophenolic acid (MPA, 720 mg bid), and prednisone (5 mg/day). The last visit in January 2020 revealed a creatinine level of 1.13 mg/dL. The events' timeline is presented in Figure 1.
+
+Home and City Hospital
+On April 5th, the patient presented to the general practitioner 3 days after the onset of productive cough and diarrhea (day 1 of medical care). MPA was reduced from 1,440 mg/day to 1,080 mg/day and amoxicillin/clavulanic acid therapy was initiated (875/125 mg bid). Due to the non-resolution of symptoms, on day 3 of medical care, the MPA dose was further reduced to 720 mg/day, and a dose reduction of Tac was decided (from 2.5 mg to 2 mg/day). The antibacterial therapy was switched to Azithromycin (500 mg/day). On day 6 of medical care, the reverse transcription polymerase chain reaction (PCR) assay of nasopharyngeal swab came positive for SARS-CoV-2 RNA, and the patient was admitted to the hospital in his hometown. On admission, he appeared generally ill with a body temperature of 38.8°C, had persistent cough and diarrhea. The chest X-ray showed ill-defined left basal opacity and right infra-hilar reticulonodular interstitial pattern. Laboratory findings revealed leukocytopenia, thrombocytopenia, hypokalemia, and elevated C-reactive protein and lactate dehydrogenase (online suppl. Table 1; see www.karger.com/doi/10.1159/000512606 for all online suppl. material). MPA was withdrawn, and the Tac dose was further reduced to 1.5 mg/day and then eventually withdrawn on day 8 of medical care because of unfavorable clinical course. Treatment with hydroxychloroquine (200 mg/day) was initiated. In the time interval between day 6 and day 10 of medical care, the patient's respiratory status and renal function deteriorated gradually, and the patient was transferred to the intensive care unit (ICU).
+
+Intensive Care Unit
+On admission, the patient had marked dyspnea, peripheral blood oxygenation of 93% under 15 L/min of O2, marked signs of dehydration (tachycardia, hypotension), and diarrheic stool passage. The blood workup revealed elevated acute phase reactants, hyperleukocytosis, thrombocytopenia, raised D-dimers, hypokalemia, and hyponatremia (online suppl. Table 1). The sepsis biomarkers (procalcitonin, lactate) were negative. Echography showed no signs of hydronephrosis. Doppler graft parameters were normal. The urine dipstick was positive for hematuria (3+), proteinuria (2+), and leukocyturia, and urine microscopy revealed 8–10 erythrocytes/field and 3–5 leucocytes/field. The chest CT aspect was suggestive of COVID-19 pneumonia with additional features of bacterial pneumonia.
+
+Respiratory Function. The patient was intubated 2 h after takeover because, despite high-flow nasal cannula oxygen therapy (fraction inspired oxygen [FiO2] 60%, 40–60 L/min O2), the respiratory rate was as high as 40/min, O2 saturation was 89%, and the PaO2/FiO2 was 117 (online suppl. Table 2). After 4 days of intubation, respiratory support was achieved by noninvasive mechanical ventilation and oxygen therapy, with complete remission of the respiratory insufficiency throughout the hospitalization.
+
+Renal Function. During the ICU stay, the patient developed stage 3 acute kidney injury (AKI). The creatinine levels peaked on day 13 of medical care (2.65 mg/dL) and returned to baseline on day 19 of medical care. After 2 days of oliguria in the ICU stay, the patient developed polyuria and then returned to normal urine output (Fig. 1). Severe hyponatremia was present, with an initial inadequate response to the administration of hypertonic saline (Fig. 1).
+
+Immunosuppression, Investigational Therapy, and Antibacterial Therapy
+The prednisone dose was replaced upon ICU admission with 16 mg/day of orally administered methylprednisolone. Two days later, methylprednisolone i.v. pulse therapy was administered (50 mg/day for 2 days and then 100 mg/day for another 2 days). Tac was reintroduced on day 22 of medical care (1.5 mg/day). On day 24 of medical care, Tac could be safely increased to 2.5 mg/day, and the patient was discharged home (day 28 of medical care).
+
+Investigational therapy with hydroxychloroquine 200 mg and lopinavir/ritonavir (LPVr) 400/100 mg twice a day was started in line with the national guidelines at that time. In May 2020, it was reported that remdesivir is superior to placebo in shortening the time to recovery in adults hospitalized with COVID-19 [1], but since the patient was treated in April 2020, remdesivir was not used in the treatment of this patient. Bacterial cultures of tracheobronchial aspirate fluid, blood, and urine were negative. Because of neutrophilia and chest CT scan suggestive of bacterial pneumonia, superimposed bacterial or fungal infection could not be ruled out. Hence, the patient was given broad-spectrum prophylactic antibacterial and antifungal therapy with meropenem (3 g/day), linezolid (1,2 g/day), trimethoprim/sulfamethoxazole (400/80 mg/day), and caspofungin (70 mg/day on the first day of treatment, followed by 50 mg/day).
+
+Pneumology Unit
+On day 22 of medical care, the patient was transferred to the pneumology unit and discharged home on day 28 of medical care.
+
+Discussion
+Recently, it has been pointed out that immunosuppressed patients might have atypical COVID-19 clinical presentation [2]. In our patient, the clinical, biological, and radiological presentation mirrored those of the general population with a critical form of the disease [3]. Despite having clinical risk factors (hypertension, impaired glucose tolerance) and laboratory risk factors (thrombocytopenia, lymphopenia) for a worse outcome, the patient's ICU evolution was favorable, with good overall control of the renal function.
+
+A particular challenge of the case was the management of the anti-rejection drugs due to their multiple drug interactions with the investigational [4], antifungal, and antibacterial therapy. The low baseline prednisone dose was kept, thus avoiding graft rejection. The use of glucocorticoids to treat COVID-19 is debatable, with experts supporting a weak recommendation of low-dose, short-duration systemic use of corticosteroids in the sickest patients with acute respiratory distress syndrome and COVID-19 and that the use of corticoids may be of use for cytokine storm treatment [5]. As the creatinine level had a continuously rising trend during mechanical ventilation with laboratory evidence of COVID-19 cytokine storm (elevated D-dimers, ferritin, C-reactive protein, and lactate dehydrogenase), it was decided that adding a low-dose pulse therapy with methylprednisolone could be of benefit for the patient. As soon as the PCR test came back negative for the first time, an oral dose of 1.5 mg/day of Tac was introduced. Because of the low plasma levels (2.1 ng/mL) and the patient's relatively stable clinical course, the patient's baseline Tac dose of 2.5 mg/day was reintroduced on day 24 of medical care, with the repeated Tac plasma level within target level (4.1 ng/mL).
+
+Despite negative cultures and normal procalcitonin levels explained by the immunosuppressive drug regimen and/or a concomitant fungal infection [6], empirical large-spectrum antibiotherapy with antifungal prophylaxis was administered because of high clinical and radiological suspicion, with the resolution of neutrophilia and improvement of the radiological aspect.
+
+During the ICU stay, the patient developed stage 3 AKI, with several distinct factors contributing to the renal disturbance, in line with the newly emerging perspective of COVID-19-associated nephropathy [7]. Dehydration, both because of fluid loss caused by diarrhea and the subsequent hesitance in fluid administration to control the acute respiratory distress syndrome, was undoubtedly a contributor to the kidney injury development in the beginning.
+
+Elevated D-dimers, lactate dehydrogenase, and ferritin, and low platelet counts were suggestive of hypercoagulative status induced by COVID-19, but renal large vessel thrombosis did not develop. Of note, prophylactic anticoagulation with enoxaparin 8,000 UI/day was administered during the hospitalization. Absent dysmorphic erythrocytes and red blood cell casts, absent nephrotic range proteinuria, and rapid resolution of the kidney function excluded the possibility of glomerular damage.
+
+The clinically dominant manifestation of kidney injury was the moderate tubular dysfunction expressed as polyuria and hyponatremia. The initially decreased urine output at ICU admission was probably of pre-renal cause and was treated conservatively, without the need for renal replacement therapy. Tubular dysfunction seemed to be caused by drug toxicity and direct viral infiltration. This is supported by the fact that tubular kidney function recovery was in close relationship with clinical status improvement and was completely restored as the SARS-CoV-2 PCR test came back negative. Moreover, introduction of LPVr was concomitant with degradation of kidney function and hyponatremia. Even though LPVr was introduced 2 days after Tac withdrawal, drug interaction causing overdose of Tac due to Tac plasma residual could have contributed to kidney toxicity. The need for kidney biopsy and for Tac plasma levels during the ICU stay was discussed, but given the patient's critical status, it was considered that it would not significantly influence the treatment decision-making.
+
+In summary, from our experience, SARS-CoV-2 infection creates a clinical and biological status that yields a high risk of AKI development, with intricated prerenal and renal etiologies, that should be systematically investigated to treat it adequately, as long-term kidney function consequences remain unknown.
+
+Statement of Ethics
+The patient provided written informed consent for publication including figures, and the case report complies with the ethics policy of the authors' institutions. The study was conducted ethically in accordance with the World Medical Association Declaration of Helsinki (https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/).
+
+Conflict of Interest Statement
+The authors of this article have no conflicts of interest to disclose.
+
+Funding Sources
+The authors have no source of conflict to acknowledge.
+
+Author Contributions
+Flaviu Tosa and Roxana Manaila drafted the manuscript, Alina Elec and Tudor Moisoiu critically revised the article, Liviu Ghervan and Florin Elec supervised the activity and drafted the Figure and Tables. All authors approved the final version of the manuscript.
+
+Supplementary Material
+Supplementary data
+
+Click here for additional data file.
+
+ Fig. 1 The patient's events timeline, the dynamics of renal and pulmonary functions in relationship to administered therapy.

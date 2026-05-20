@@ -1,0 +1,90 @@
+event,time
+22 years old,0
+East Asian female,0
+presented to outside hospital,-168
+general malaise,-168
+myalgia,-168
+dyspnea,-168
+subjective fevers,-168
+anorexia,-168
+nasal discharge,-168
+congestion,-168
+abdominal pain,-168
+vaginal pain,-72
+dysuria,-72
+denied cough,-168
+denied sore throat,-168
+denied throat pain,-168
+denied hoarseness,-168
+traveled to Australia (spring 2020),-4320
+admitted to OSH intensive care unit,-168
+afebrile (OSH admission),-168
+tachycardic,-168
+hypotensive,-168
+oxygen requirement increased,-168
+white blood cell count 6200/µL,-168
+white blood cell count 19500/µL,-168
+platelet count 23000/µL,-168
+creatinine 1.33 mg/dL,-168
+creatinine 0.5 mg/dL (after IV fluids),-168
+alanine transaminase 36 U/L,-168
+aspartate transaminase 59 U/L,-168
+alkaline phosphatase 466 U/L,-168
+total bilirubin 2.9 mg/dL,-168
+lactic acid 4.9 mmol/L,-168
+chest radiography (pleural effusions),-168
+"CT abdomen/pelvis (hepatic cysts, bile duct dilatation, splenomegaly, Bartholin cyst)",-168
+"ultrasound abdomen (hepatic abscesses, gallbladder thickening)",-168
+blood cultures positive Fusobacterium necrophorum,-168
+started on meropenem,-168
+transferred to our hospital,-144
+arrival to ICU (day 3),0
+febrile 102.4°F,0
+tachycardic,0
+tachypneic,0
+blood pressure 157/97,0
+oxygen saturation 100% (on high flow),0
+scattered crackles on lung exam,0
+mild right upper quadrant tenderness,0
+labial erythema,0
+labial edema,0
+WBC 14700/µL,0
+hemoglobin 11 g/dL,0
+platelet count 16000/µL,0
+ESR 31 mm/h,0
+LDH 323 U/L,0
+alkaline phosphatase 129 U/L,0
+CRP 17.05 mg/dL,0
+fibrinogen 349 mg/dL,0
+haptoglobin 59 mg/dL,0
+COVID-19 negative,0
+HIV negative,0
+gonorrhea/chlamydia negative,0
+CT neck (no abscess),0
+"CT chest (septic emboli, pneumonia, pleural effusion)",0
+hepatic abscesses worsened,0
+antibiotics switched to piperacillin-tazobactam,0
+transferred to general ward (day 6),72
+thoracentesis (day 9),144
+pleural fluid exudative,144
+pleural fluid fungal smear negative,144
+pleural fluid acid-fast stain negative,144
+pleural fluid gram stain no organisms,144
+repeat CT chest/abdomen/pelvis (day 10),168
+multifocal pneumonia,168
+necrotizing pneumonia,168
+pulmonary abscess,168
+hepatic abscesses,168
+perineal fluid collection (Bartholin cyst),168
+VATS decortication (day 11),192
+pelvic exam (right labial abscess),192
+incision and drainage (Bartholin cyst),192
+gram stain (no organisms),192
+Candida albicans culture,192
+CT abdomen/pelvis (day 15),264
+right iliac vein thrombus,264
+echocardiography (no vegetations),264
+diagnosis of Lemierre syndrome,264
+transitioned to ceftriaxone/metronidazole,384
+discharged (day 17),408
+symptoms improved at follow-up (3 weeks),720

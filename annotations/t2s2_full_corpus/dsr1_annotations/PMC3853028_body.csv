@@ -1,0 +1,100 @@
+event,time
+47 years old,0
+male,0
+admitted to the medical intensive care unit (MICU),0
+hepatitis C,0
+hemophilia A,0
+home Factor VIII management,0
+diagnosed ulcerative colitis,0
+prednisone 40 mg for 10 days,-240
+transferred for concern of toxic megacolon,0
+temperature 34.4°C,0
+heart rate 96 bpm,0
+blood pressure 107/51,0
+respiratory rate 14 breaths per minute,0
+oxygen saturation 97% on 3 l/min nasal cannula,0
+cachectic,0
+abdomen distended,0
+abdomen diffusely tender,0
+no rebound tenderness,0
+no guarding,0
+rectal exam positive for gross blood,0
+non-contrast abdomen and pelvis CT scan significant for pancolitis,0
+started on antibiotics,0
+emergency general surgery consulted,0
+transferred to surgical intensive care unit (SICU),0
+developed hypotension,0
+requiring vasopressors,0
+developed respiratory failure,0
+requiring mechanical ventilation,0
+leukocytosis,0
+lactic acidosis,0
+normalized leukocytosis and lactic acidosis over next 2 days,48
+weaned off vasopressors,48
+extubated,48
+Clostridium difficile antigen negative,48
+antibiotics narrowed,48
+hospital day 6,144
+sudden onset sharp abdominal pain,144
+developed peritoneal signs,144
+non-contrast abdominal CT scan demonstrated pneumoperitoneum,144
+colitis,144
+ascites,144
+deemed high surgical risk for exploratory laparotomy,144
+taken to operating room for loop ileostomy rescue procedure,144
+intraoperative small bowel appeared normal,144
+clear ascites,144
+extubated postoperatively,144
+initially improved,144
+postoperative day 3,168
+developed supraventricular tachycardia,168
+respiratory failure requiring mechanical ventilation,168
+hypotension requiring vasopressors,168
+large-volume serosanguinous ascites drainage,168
+intraoperative ascites cultures grew Candida,168
+Methicillin-resistant Staphylococcus aureus,168
+E. coli,168
+appropriate antibiotic therapy initiated,168
+sputum cultures grew 1+ Aspergillus fumigatus,168
+repeat endotracheal aspirate culture negative for fungus,168
+non-contrast chest CT scan no evidence of fungal pneumonia,168
+intubated for next week,168
+weaned off vasopressors,168
+abdominal examination improved,168
+postoperative day 14,336
+peritoneal signs recurred,336
+acute hypotension requiring vasopressors,336
+black ileostomy output,336
+bleeding from intra-abdominal drain,336
+bright red blood per rectum,336
+emergent exploratory laparotomy,336
+intraoperative small bowel necrosis from distal jejunum to distal ileum,336
+73 cm small bowel resected,336
+primary anastomosis performed,336
+postoperative profuse uncontrollable intra-abdominal bleeding,336
+hemodynamic instability,336
+massive transfusion,336
+aggressive attempts to correct coagulopathy,336
+continued deterioration,336
+goals of care changed to comfort measures,336
+died next morning,360
+third endotracheal aspirate culture positive for 2+ A. fumigatus,360
+family refused autopsy,360
+pathologic evaluation revealed hemorrhagic gangrenous bowel,360
+granular friable ulcerated mucosa,360
+transmural bowel necrosis,360
+"fungi within bowel wall, artery wall, and lumen",360
+Gomori Methenamine Silver stain characteristic of Aspergillus species,360
+invasive pulmonary aspergillosis (mentioned as context),N/A
+invasive gastrointestinal aspergillosis (diagnosis confirmed post-mortem),360
+intestinal infarction,336
+critical illness (as risk factor),0
+short course corticosteroid use (10 days prednisone),-240
+malnutrition (cachectic),0
+liver dysfunction (hepatitis C),0
+primary subclinical lung infection (suspected),-168
+secondary angioinvasion of small bowel,336
+no neutropenia,0
+no stem cell transplant,0
+no organ transplant,0
+no advanced AIDS,0

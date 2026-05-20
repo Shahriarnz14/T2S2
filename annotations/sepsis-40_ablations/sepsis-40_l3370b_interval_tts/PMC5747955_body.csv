@@ -1,0 +1,65 @@
+event,time
+29 years old,0
+female,0
+admitted to the hospital,0
+self-inflicted gunshot injury,-1008
+abdominal injury,-1008
+epigastrium wound,-1008
+left hypochondrium wound,-1008
+left lumbar area wound,-1008
+laparotomy,-1008
+perforation in the antrum of the stomach,-1008
+multiple small bowel perforations,-1008
+primary surgical repair,-1008
+bilateral lateral retroperitoneal hematomas,-1008
+transferred to the intensive care unit (ICU),-1008
+pulmonary embolism (PE),-504
+disseminated intravascular coagulation (DIC),-504
+managed with blood products,-504
+recovered,-504
+discharged home,0
+left iliac fossa (LIF) pain,336
+watery stool,336
+reduced hemoglobin level,336
+raised serum C-reactive protein (CRP),336
+abdominal computed tomography (CT) scan,336
+left-sided retroperitoneal collection,336
+contrast extravasation into the retroperitoneal space,336
+left ureteral injury,336
+urinoma formation,336
+colonic fistula,336
+referred to the trauma center,336
+cystoscopy with a retrograde pyelogram,336
+complete transection of the left upper ureter,336
+left percutaneous nephrostomy,336
+left-sided pigtail drain insertion,336
+treated with antibiotics,336
+sepsis workup investigations,336
+multi-drug-resistant coliform,336
+clear urine draining from the urinoma,336
+repeat CT scan,504
+reduction in the size of the left-sided urinoma collection,504
+peripherally enhancing collection in the right side of the pelvis,504
+compressing the urinary bladder,504
+another pigtail drain insertion,504
+minimal dark reddish fluid,504
+pigtail drain removal,504
+discharged in a stable condition,504
+elective surgery,840
+cystoscopy prior to the surgery,840
+extra-luminal compression of the bladder from the pelvic hematoma,840
+intraoperative findings,840
+dense fibrosis in the upper ureter,840
+left end-to-end ureteric anastomosis,840
+excision of the intervening injured ureter,840
+ureteroureterostomy,840
+spatulation of the ends,840
+tension-free waterproof anastomosis,840
+double J stent (DJS) placement,840
+colonoscopy with methylene blue instillation,840
+methylene blue testing negative,840
+discharged from hospital,864
+follow-up in the outpatient department (OPD),1008
+flexible cystoscopy,1008
+removal of the left DJS,1008
+failed to show up for further follow-up,1008

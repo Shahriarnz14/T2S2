@@ -1,0 +1,107 @@
+event,time
+68 years old,0\
+male,0\
+admission for fever,0\
+admission for dyspnoea,0\
+admission for dysarthria,0\
+subsequent diagnosis of MSSA endocarditis,0\
+diagnosis of aortic bioprosthesis,0\
+diagnosis of secondary haemorrhagic stroke,0\
+secondary haemorrhagic stroke due to septic embolus,0\
+treatment by intravenous antibiotics,0\
+discharged for neurological rehabilitation,24\
+admission to emergency department for recurrent wide QRS complex tachycardia,-144\
+wide QRS complex tachycardia,-144\
+multiple synchronized electrical cardioversions,-144\
+no response to intravenous adenosine,-144\
+emergent electrophysiology study,-138\
+atrioventricular nodal catheter ablation,-138\
+incessant junctional ectopic tachycardia,-138\
+temporary pacemaker insertion,-138\
+recurrent JET,120\
+redo catheter ablation,120\
+permanent pacemaker insertion,216\
+pacemaker interrogation at 3 months,1680\
+biological aortic valve replacement in 2013,-61368\
+severe aortic stenosis,-61368\
+right coronary artery disease,-61368\
+persistent atrial fibrillation,-61368\
+hospitalized for MSSA endocarditis,-1680\
+complication of secondary haemorrhagic stroke,-1680\
+Wernicke’s aphasia due to septic embolization,-1680\
+intravenous cefazolin,-1680\
+intravenous rifampicin,-1680\
+contra-indication for cardiac surgery,-1680\
+transfer to neighbouring hospital for neurological rehabilitation,-1680\
+admission to emergency department for palpitations,0\
+palpitations,0\
+no chest pain,0\
+afebrile,0\
+heart rate 240 bpm,0\
+blood pressure 105/70 mmHg,0\
+respiratory rate 22 breaths/min,0\
+saturation 93%,0\
+normal lactate levels,0\
+no electrolyte abnormality,0\
+slightly elevated white blood cells (11 G/L),0\
+C-reactive protein 45 mg/L,0\
+electrocardiogram with regular wide QRS complex tachycardia,0\
+right bundle branch block pattern,0\
+vagal manoeuvers ineffective,0\
+adenosine injection ineffective,0\
+haemodynamic instability,0\
+synchronized electrical cardioversion (120 J),0\
+asystole,0\
+cardiopulmonary resuscitation,0\
+adrenaline injections (1 mg),0\
+spontaneous circulation resumed,0\
+intubation,0\
+ECG with long PR intervals,0\
+possible 2:1 AVB,0\
+transthoracic echocardiogram normal left ventricular ejection fraction,0\
+aortic bioprosthesis without dysfunction,0\
+dilation of right sinus of Valsalva,0\
+possible pseudoaneurysm,0\
+admission to intensive care unit,0\
+multiple recurrences of tachycardia,0\
+repeated synchronized electrical cardioversion,0\
+increasing need for vasopressor drugs,0\
+urgent transfer to electrophysiology lab,0\
+temporary wire insertion in right ventricle,0\
+tachycardia recurrence,0\
+wire pulled back to right atrium,0\
+ventriculoatrial dissociation,0\
+overdrive pacing ineffective,0\
+synchronized shocks ineffective,0\
+amiodarone 300 mg iv administered,0\
+no effect of amiodarone,0\
+17 synchronized shocks,0\
+haemodynamic collapse,0\
+emergency catheter ablation performed,0\
+no electro-anatomic mapping system used,0\
+AVN targeted,0\
+His potential not visible,0\
+ablation catheter positioned below aortic prosthesis,0\
+radiofrequency application (30 W/60°C),0\
+tachycardia stopped,0\
+application terminated after 20 s,0\
+concern for perforation of aortic root pseudoaneurysm,0\
+fluoroscopy of ablation site,0\
+arrhythmia did not recur over 40 min,0\
+temporary pacing via right jugular venous access,0\
+implanted externalized pacemaker lead,0\
+connected to explanted pacemaker,0\
+arrhythmia recurrence after 2 days,48\
+slower rate of 180 bpm,48\
+better tolerated,48\
+redo ablation performed,120\
+no induction by programmed ventricular pacing,120\
+no induction by isoprenalin infusion,120\
+His potential not visible,120\
+ablation at previous effective site (25 W/50°),120\
+blood cultures remained negative,0\
+patient remained afebrile,0\
+implantation of permanent pacemaker after 2 weeks,336\
+ejection fraction 65-70%,1680\
+patient capable of walking,1680\
+patient capable of climbing stairs with assistance,1680

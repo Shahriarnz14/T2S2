@@ -1,0 +1,90 @@
+event,time
+28 years old,0
+female,0
+admitted to emergency department,0
+fever (38.8°C),-216
+persistent cough,-216
+fatigue,-216
+progressive dyspnea,-216
+end-stage kidney disease (ESKD),-26280
+lupus nephritis Grade VI,-26280
+maintenance hemodialysis,-26280
+hydroxychloroquine,-26280
+mycophenolic acid,-26280
+protected contact (wearing surgical mask),-168
+contact with sister (recovered from flu-like illness),-168
+symptoms onset,-216
+decreased breath sounds,0
+crepitations at lung bases,0
+SpO2 88% on room air,0
+minor respiratory distress,0
+received 5 L oxygen via nasal cannula,0
+desaturated to SpO2 75%,0
+septic shock,0
+intubated,0
+resuscitated with 500 ml normal saline,0
+low dose noradrenaline,0
+mean arterial pressure 70 mmHg,0
+normal electrocardiogram,0
+normal cardiac enzymes,0
+normal echocardiography,0
+lymphocytopenia (0.59×10⁹/l),0
+increased C-reactive protein (354 mg/L),0
+increased d-dimer (1.9 mcg/ml),0
+increased lactate dehydrogenase (737 units/L),0
+increased ferritin (1.126 ng/ml),0
+blood urea nitrogen 7.9 mmol/L,0
+creatinine 239 μmol/L,0
+chest CT scan,0
+bilateral ground-glass opacities,0
+upper and lower lung lobes involvement,0
+nasopharyngeal swab RT-PCR positive COVID-19,0
+isolation chamber admission,0
+diagnostic work-up for infections,0
+evaluation for SLE flare,0
+no cutaneous manifestations of SLE,0
+no oral ulcers,0
+elevated anti-dsDNA (22 IU/ml),0
+decreased C3 (64 mg/dl),0
+decreased C4 (6 mg/dl),0
+no anti-cardiolipin antibodies,0
+no anti-β2GP1 antibodies,0
+no lupus anticoagulant,0
+no thrombocytopenia,0
+diagnostic dilemma (lupus pneumonitis vs COVID-19),0
+cultures derived from all sites,0
+febrile,0
+bedside sonographic examination (no deep vein thrombosis),0
+"empiric therapy (lopinavir/ritonavir, ribavirin)",0
+piperacillin/tazobactam,0
+prophylactic anticoagulation,0
+hemodialysis every 48 hours,0
+supportive ICU care,0
+double lumen central line insertion (malfunctioning fistula),0
+SpO2/FiO2 ratio 150,72
+ARDS-net ventilation,72
+prone positioning ventilation,72
+PEEP 10 cm H2O,72
+pulse methylprednisolone (1 g/day IV) for 3 days,72
+SpO2/FiO2 ratio 300,96
+vasopressors discontinued,96
+extubated,144
+"high flow nasal cannula (60 L/min, FiO2 40%)",144
+SpO2 >96%,144
+lymphocytes increased to 0.88×10⁹/l,144
+C-reactive protein decreased to 37 mg/L,144
+d-dimer decreased to 1 mcg/ml,144
+lactate dehydrogenase decreased to 301 units/L,144
+ferritin decreased to 381 ng/ml,144
+2 L oxygen via nasal cannula,192
+no respiratory distress,192
+all cultures negative,192
+maintenance hemodialysis continued,192
+steroid therapy continued,192
+oxygen discontinued,240
+methylprednisolone tapered to 60 mg/day,240
+RT-PCR negative COVID-19,408
+repeated microbiology tests negative,408
+discharged to home isolation,456
+maintenance oral steroid therapy,456
+follow-up by family physician,456

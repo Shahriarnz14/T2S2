@@ -1,0 +1,91 @@
+event,time
+41 years old,0
+male,0
+admitted to ICU,0
+progressive respiratory failure,0
+hypotension,0
+liver dysfunction,0
+thrombocytopenia,0
+loss of olfactory sense,-1008
+loss of gustatory sense,-1008
+RT-PCR positive for SARS-CoV-2,-1008
+no cough,-1008
+no fever,-1008
+no dyspnea,-1008
+isolated at home,-1008
+returned to work,-672
+annual medical checkup,-168
+normal chest X-ray,-168
+normal biochemical panel,-168
+painful swelling of left cervical lymph nodes,-144
+high fever (>38.5°C),-144
+symptoms persisted for two days,-144
+admitted to local hospital,-144
+CT revealed enlarged left cervical lymph nodes,-144
+no lung abnormalities,-144
+intravenous ceftriaxone,-144
+oral prednisolone 60 mg,-144
+continued fever,-120
+continued painful cervical lymphadenopathy,-120
+fatigue,-120
+poor appetite,-120
+diarrhea,-120
+dyspnea,-48
+drowsiness,-48
+SpO2 <90%,-48
+hypotension requiring noradrenaline,-48
+oxygen supplementation,-48
+contrast-enhanced CT showed consolidation in right middle lobe and bilateral lower lobes,-48
+enlarged right cervical and supraclavicular lymph nodes,-48
+no splenomegaly,-48
+RT-PCR negative for SARS-CoV-2,-48
+high fever (>39.4°C),0
+systolic blood pressure 69 mmHg,0
+enlarged right cervical lymph nodes,0
+bilateral conjunctivitis,0
+severe anasarca,0
+white blood cell count 13.6×10³/mm³,0
+hemoglobin 11.9 g/dL,0
+platelet count 28×10³/mm³,0
+CRP 34.62 mg/dL,0
+albumin 1.9 g/dL,0
+total bilirubin 4.8 mg/dL,0
+direct bilirubin 4.0 mg/dL,0
+AST 29 U/L,0
+ALT 66 U/L,0
+fasting triglycerides 297 mg/dL,0
+LDH 161 U/L,0
+"NT-pro BNP 10,389 pg/mL",0
+D-dimer 3.86 μg/mL,0
+fibrinogen 703 mg/dL,0
+"ferritin 2,350 ng/mL",0
+negative sputum culture,0
+negative urinary legionella antigen,0
+lymph node biopsy,24
+bone marrow aspiration,24
+negative HIV antibodies,24
+negative hepatitis B surface antigen,24
+negative HCV antibody,24
+negative interferon-gamma release assay,24
+negative rheumatoid factor,24
+negative antinuclear antibody,24
+previous EBV infection,24
+previous CMV infection,24
+left ventricular EF 62%,24
+diastolic dysfunction,24
+initiated levofloxacin,24
+initiated hydrocortisone 200 mg,24
+fluid retention,24
+initiated diuretics,24
+symptoms improved,48
+norepinephrine stopped,48
+laboratory abnormalities improved,48
+IL-6 4.18 pg/mL,48
+"sIL-2R 7,040 U/m",48
+hydrocortisone and levofloxacin discontinued after 4 days,96
+bone marrow aspiration normal,96
+cervical lymph node biopsy showing necrotizing lymphadenitis,96
+discharged,264
+MIS-A diagnosis,24
+KFD diagnosis,96
+no severe respiratory illness,0

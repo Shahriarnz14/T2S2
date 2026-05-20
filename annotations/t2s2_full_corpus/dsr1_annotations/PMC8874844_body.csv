@@ -1,0 +1,63 @@
+event,time
+37 years old,0
+female,0
+Caucasian,0
+admitted to the hospital,0
+3rd pregnancy,0
+34th week of pregnancy,0
+gradually worsening dyspnea on exertion,-19656
+symptom onset during 1st trimester of pregnancy,-19656
+shortness of breath,0
+WHO functional Class IV,0
+clinical deterioration,0
+pulmonary embolism ruled out,0
+echocardiographic diagnosis of severe pulmonary hypertension,0
+estimated systolic PA pressure 100 mmHg,0
+transfer to intensive care unit,0
+initiation of Sildenafil 20 mg oral bid trice daily,0
+sinus tachycardia 110/min,0
+tachypnea 28/min,0
+BNP above 300 pg/mL,0
+chest pain,0
+oxygen supply 2 L/min,0
+right heart strain signs,0
+enlargement of right ventricle,0
+right atrial area 21.3 cm²,0
+inferior caval vein 28 mm,0
+TR-PPG 83 mmHg,0
+symptomatic improvement,24
+estimated systolic PA pressure 55 mmHg,144
+emergent caesarean section,168
+healthy child delivered,168
+transfer to standard cardiology ward,192
+right and left heart catheterization,384
+coronary artery disease ruled out,384
+arteriovenous shunts ruled out,384
+elevated mean PA pressure 66 mmHg,384
+elevated PVR 608 dyn s/cm5,384
+LVEDP 16 mmHg,384
+secondary aetiologies ruled out,456
+idiopathic pulmonary hypertension diagnosis,456
+initiation of Macicentan 10 mg daily,456
+discharge from hospital,624
+combination therapy Sildenafil and Macicentan,624
+WHO functional Class III,1488
+elevated systolic PA pressure 60 mmHg,1488
+right heart catheterization,4416
+vasodilator testing with Epoprostenol 15 ng/kg/min,4416
+significant positive response,4416
+initiation of high-dose CCB therapy,4440
+discontinuation of Sildenafil,4440
+improved symptoms,9120
+WHO functional Class II,9120
+right heart catheterization showed normal PVR,9120
+mean PA pressure 25 mmHg,9120
+stable condition,51840
+WHO functional Class I,51840
+BNP <100 pg/mL,51840
+systolic PA pressure <40 mmHg,51840
+improved 6 min walk test,51840
+improved cardiopulmonary exercise testing,51840
+low risk classification,51840
+no adverse events,51840
+high-dose CCB therapy well tolerated,51840

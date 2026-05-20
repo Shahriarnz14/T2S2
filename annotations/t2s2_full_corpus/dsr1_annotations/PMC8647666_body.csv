@@ -1,0 +1,114 @@
+event,time
+63 years old,0
+male,0
+170cm tall,0
+69kg,0
+admitted to Singapore General Hospital,0
+epigastric bloating,0
+epigastric discomfort,0
+history of extensive smoking,0
+hypertension,0
+chronic kidney disease,0
+Child C liver disease,0
+portal hypertension,0
+ascites,0
+oesophageal varices,0
+gastropathy,0
+treated with antibiotics,-624
+ascitic drainage,-624
+culture-negative neutrocystic ascites,-624
+acute severe abdominal pain,-576
+computed-tomography abdominal and pelvis investigation,-576
+perforated duodenal ulcer,-576
+exploratory laparotomy,-576
+roux loop mucosal patch,-576
+first operation,-576
+transferred to surgical intensive care unit (ICU),-576
+ventilatory support,-576
+haemodynamic support,-576
+high intra-abdominal pressure of 26mmHg,-552
+oliguric acute kidney impairment,-552
+abdominal compartment syndrome,-552
+managed with paralysis,-552
+renal replacement therapy,-552
+duodeno-jejunal anastomotic leak,-408
+second exploratory laparotomy,-408
+tube diversion,-408
+primary repair of wound dehiscence,-408
+pedicled omentoplasty,-408
+significant improvement,-240
+definitive surgery,-240
+primary exclusion,-240
+roux loop gastrojejunostomy,-240
+third operation,-240
+significant blood loss of 5.5L,-240
+received seven units packed red cells,-240
+two units pooled platelets,-240
+six units fresh frozen plasma,-240
+volume-controlled ventilation,-240
+tidal volume 400mL,-240
+peak airway pressure 22cm-H2O,-240
+noradrenaline infusion 0.4mcg/kg/min,-240
+returned to ICU,-240
+noradrenaline infusion 0.03 mcg/kg/min,-240
+ventilation difficult,-238
+Ppeak rose to 50cmH2O,-238
+tidal volume less than 200mL,-238
+end-tidal carbon dioxide 87mmHg,-238
+paralysed with atracurium infusion,-238
+sedated with propofol 2-4mg/kg/hr,-238
+ventilator pressure-time curve increased peak and plateau pressures,-238
+peak pressure above 35cmH2O,-238
+plateau pressures above 35cmH2O,-238
+chest clear bilaterally,-238
+generalised poor air entry,-238
+endotracheal tube suctioning minimal secretions,-238
+arterial blood gas pH 6.99,-238
+pCO2 106mmHg,-238
+pO2 125mmHg,-238
+base excess -6,-238
+chest X-ray no apparent cause,-238
+intra-abdominal pressure 31mmHg,-238
+noradrenaline increased to 0.3mcg/kg/min,-238
+vasopressin started at 1.8 units/hr,-238
+haemoglobin dropped to 7.7g/dL,-238
+suspicion of intra-abdominal haemorrhage,-238
+fourth exploratory laparotomy,-216
+small amount intra-abdominal bleeding,-216
+blood clots,-216
+moderate generalised bowel oedema,-216
+opening peritoneum improved ventilation,-216
+Ppeak 45cmH2O,-216
+tidal volume 290mL,-216
+Ppeak improved to 38cmH2O,-216
+tidal volume 350mL,-216
+vasopressin stopped,-216
+noradrenaline weaned to 0.1mcg/kg/min,-216
+MAP above 65mmHg,-216
+post-operative Ppeak high at 35cmH2O,-216
+respiratory acidosis persisted,-216
+intra-abdominal pressure 22mmHg,-216
+arterial blood gas pH 7.164,-216
+pCO2 72.8mmHg,-216
+pO2 152mmHg,-216
+BE -4,-216
+bedside bronchoscopy performed,-216
+large mucus plug at endotracheal tube tip,-216
+no airway abnormalities,-216
+retrospective review pre-operative ventilator flow-time curve,-216
+expiratory flow limitation,-216
+ball-valve effect from mucus plug,-216
+endotracheal tube exchanged,-216
+Ppeak improved to 18cmH2O,-216
+tidal volume 450mL,-216
+ventilator flow-time curve normalized,-216
+noradrenaline stopped,-216
+arterial blood gas pH 7.42,-215
+pCO2 39.1mmHg,-215
+pO2 76.1mmHg,-215
+BE 0.5,-215
+gastrointestinal bleeding,-96
+breakdown surgical anastomosis,-96
+overwhelming sepsis,-96
+multiorgan failure,-96
+died,1200

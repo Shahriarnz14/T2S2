@@ -1,0 +1,111 @@
+event,time
+24-year-old,0
+primigravida,0
+37 weeks of gestation,0
+history of high grade fever,-48
+history of decreased urine output,-48
+history of yellowish discolouration,-48
+history of altered sensorium,-48
+receiving intravenous artesunate,-6
+receiving ceftriaxone,-6
+receiving doxycycline capsules,-6
+Rapid test diagnosis of Plasmodium falciparum (Pf) malaria,-3
+acute icteric leptospirosis,-3
+MAT titers for Leptospira ictero-haemorrhagiae of 1:400,-3
+supplemental oxygen (Venturi mask),-2
+anaemia,-2
+jaundice with deranged liver function,-2
+coagulopathy,-2
+thrombocytopenia,-2
+increased total leucocyte count,-2
+elevated blood urea nitrogen,-2
+elevated serum creatinine,-2
+abdominal ultrasonography showed a singleton pregnancy,-2
+adequate liquor,-2
+umbilical artery systolic-diastolic ratio of 2:1,-2
+mild hepato-splenomegaly,-2
+referred to our institute for further management,-1
+arrival to our institute,0
+disoriented,0
+febrile,0
+icteric,0
+sub-conjunctival haemorrhages,0
+fine basal crepitations,0
+acute kidney injury,0
+severe hyperbilirubinemia,0
+non-reassuring fetal heart rate,0.5
+posted for emergency caesarean delivery,1
+aspiration prophylaxis administered,1
+high-risk consent taken,1
+shifted to operation theatre,1
+basic monitors attached,1
+rapid sequence intubation with cricoid pressure,1
+thiopental used for induction,1
+succinylcholine used for intubation,1
+right internal jugular vein cannulated,1
+left radial artery cannulated,1
+ultrasonographic guidance for cannulation,1
+baseline serum glucose level normal,1
+anaesthesia maintained with isoflurane in N2O-O2 mixture,1
+atracurium administered,1
+delivery of a 2.25 kg baby,1.5
+cord separation,1.6
+fentanyl administered,1.6
+oxytocin infusion started (25 IU),1.6
+hypotension started,1.7
+packed red blood cells transfused,1.7
+fresh frozen plasma transfused,1.7
+platelets transfused,1.7
+noradrenaline infusion started,1.8
+mild acidosis on blood gases,2.5
+normal electrolytes,2.5
+normal serum glucose,2.5
+shifted to intensive care unit,2.6
+intubated state,2.6
+on noradrenaline infusion,2.6
+ultrasound guided bilateral transverse abdominis plane block,2.6
+stress ulcer prevention provided,3
+deep vein thrombosis prophylaxis (pneumatic compression) provided,3
+glycemic control provided,3
+blood cultures negative,6
+urine cultures negative,6
+Weil-Felix test negative,6
+typhi dot negative,6
+dengue serology negative,6
+hepatitis viruses serology negative,6
+computed tomography of the brain carried out,12
+diffuse cerebral oedema,12
+cerebroprotective measures undertaken,12
+head elevation,12
+not rotating neck,12
+maintain serum sodium 145-155 Meq/L,12
+keeping blood partial pressure of carbondioxide 32-40 mmHg,12
+chest radiograph showed bilateral non-homogeneous opacities (lower and middle zones),25
+pulmonary haemorrhage,49
+blood products transfused,49
+no benefit from blood products,49
+bed side fibre-optic bronchoscopy carried out,49.1
+erythematous mucosa,49.1
+blood clots,49.1
+active oozing,49.1
+diffuse bleeding from distal airway,49.1
+broncho alveolar lavage performed,49.1
+Factor VIIa administered intrapulmonary,49.2
+immediate bleeding cessation,49.2
+nephrology opinion obtained,60
+plasmapheresis done (seven cycles),60
+dialysis done (seven cycles),60
+blood picture indicating haemolytic uremic syndrome,60
+high serum lactate dehydrogenase,60
+schistocytes in peripheral blood,60
+significant reduction of inspired oxygen fraction (FiO2),61.2
+chest radiograph almost clear,73
+intensity of fever started reducing,97
+consciousness improved,97
+inotropic support tapered,97
+urine output improved,97
+liver function test with coagulation parameters showed improving trends,97
+Pao2/Fio2 ratio gradually improved,97
+extubated,145
+shifted to wards,150
+discharged from the hospital,192

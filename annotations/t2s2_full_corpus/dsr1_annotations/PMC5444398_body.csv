@@ -1,0 +1,87 @@
+event,time
+47 years old,0
+female,0
+admitted to the oncology ward,0
+low abdominal pain,-1440
+nausea,-1440
+vomiting,-1440
+hyporexia,-1440
+dehydration,-1440
+weight loss,-1440
+hypogastric mass,0
+signs of ascites,0
+deep venous thrombosis suspected,0
+asymmetric edema in right calf,0
+venous Doppler ultrasonography,0
+ECOG-PS 3,0
+anemia,0
+hemoglobin 10.6 g/dL,0
+normal electrolytes,0
+normal ionic calcium,0
+preserved renal function,0
+preserved hepatic function,0
+"CT chest, abdomen, pelvis",0
+pelvic mass (21 × 11 × 16 cm),0
+infiltrating left hepatic lobe,0
+peritoneum infiltration,0
+ascites,0
+multiple para-aortic lymph nodes,0
+multiple iliac lymph nodes,0
+bilateral pleural effusion,0
+pleural fluid positive for neoplastic cells,0
+ascitic fluid positive for neoplastic cells,0
+image-guided biopsy of peritoneal nodule,0
+microscopy: poorly differentiated small-cell neoplasia,0
+solid pattern,0
+immunohistochemistry positive for CD56,0
+immunohistochemistry positive for vimentin,0
+immunohistochemistry focally positive for cytokeratins 35BH11,0
+immunohistochemistry negative for WT1,0
+immunohistochemistry negative for estrogen receptor,0
+immunohistochemistry negative for TTF-1,0
+immunohistochemistry negative for inhibin,0
+carcinoma with neuroendocrine differentiation,0
+ovarian biopsy,0
+emergency laparotomy,0
+acute peritonitis,0
+microscopy: poorly differentiated small-cell neoplasia,0
+extensive necrosis,0
+immunohistochemistry positive for CD56,0
+immunohistochemistry focally positive for CD99,0
+immunohistochemistry negative for estrogen receptors,0
+immunohistochemistry negative for cytokeratins S-100,0
+immunohistochemistry negative for desmin,0
+immunohistochemistry negative for TTF-1,0
+immunohistochemistry negative for WT-1,0
+immunohistochemistry negative for inhibin,0
+primitive neuroectodermal tumor suspected,0
+FLI-1 protein assay,0
+peritoneal nodule FLI-1 positive,0
+ovarian specimens FLI-1 positive,0
+diagnosis: undifferentiated carcinoma with neuroendocrine differentiation,0
+diagnosis: small-cell ovarian carcinoma hypercalcemic type,0
+venous hydration,0
+anticoagulation with low-molecular weight heparin,0
+systemic chemotherapy cisplatin/etoposide,0
+clinical response,24
+reduction of abdominal mass,24
+improvement of ECOG-PS to 2,24
+serum uric acid 13.1 mg/dL,48
+serum potassium 6.6 mEq/L,48
+serum phosphate 9.7 mg/dL,48
+tumor lysis syndrome,48
+intravenous hydration with saline,48
+favorable outcome after 3 days,72
+second chemotherapy cycle,672
+septic shock,744
+febrile neutropenia,744
+acute peritonitis,744
+admitted to ICU,744
+broad-spectrum antibiotics,744
+emergency laparotomy,744
+no bowel perforation,744
+necrotic adnexal mass,744
+abscess,744
+resection of necrotic mass,744
+died,816
+sepsis,816

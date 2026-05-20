@@ -1,0 +1,101 @@
+event,time
+21 years old,0
+male,0
+Prader-Willi syndrome,0
+admitted to the hospital,0
+dyspnea,0
+loss of consciousness,0
+periorbicular cyanosis,0
+respiratory distress,0
+skin ulcers,0
+left thigh,0
+right lower arm,0
+macular rash,0
+cardiomegaly,0
+haziness in the right lung,0
+pH 6.9,0
+PCO2 147,0
+PO2 72.1,0
+HCO3 29.3,0
+admitted to ICU,0
+intubation,0
+synchronized intermittent mandatory ventilation,0
+hemoglobin 15 g/dL,0
+"white blood cell 19,620/μL",0
+erythrocyte sedimentation rate 49 mm/hr,0
+C-reactive protein 2.37 mg/dL,0
+lactic acid 10.37 mmol/L,0
+albumin 3.8 g/dL,0
+aspartate aminotransferase 51 U/L,0
+alanine aminotransferase 59 U/L,0
+blood urea nitrogen 34.9 mg/dL,0
+creatinine 0.93 mg/dL,0
+fasting glucose 141 mg/dL,0
+HbA1c 8.2%,0
+thyroid stimulating hormone 2.576 uIU/mL,0
+free T4 1.01 ng/dL,0
+Troponin I 0.844 ng/mL,0
+creatine kinase-MB 3.73 ng/mL,0
+"proBNP 1,904 pg/mL",0
+bilateral pleural effusion,0
+peribronchial opacity,0
+normal saline,0
+noradrenalin,0
+cefotaxime,0
+midazolam,0
+fentanyl,0
+physiotherapy,0
+dilated right ventricle,0
+decreased RV systolic function,0
+pulmonary hypertension,0
+right heart failure,0
+cor pulmonale,0
+furosemide infusion,0
+"caloric restriction 1,500 kcal/day",0
+pressure-relieving mattress,0
+weighing machine,0
+positioning every 2 hours,0
+clindamycin,0
+wound dressing,0
+total parenteral nutrition,168
+ventilator mode changed to PC SIMV,168
+weight loss 5.8 kg,168
+adjusted I/O balance,240
+weight loss 1.8 kg/day,240
+enteral nutrition,336
+extubation,672
+high flow oxygen,672
+BiPAP during sleep,840
+rehabilitation training,840
+skin ulcers healed,840
+transferred to general ward,864
+oral feeding,1008
+discharged,1176
+birth weight 3.3 kg,-167040
+poor feeding,-167040
+bilateral undescended testicles,-167040
+obesity at age 4,-157680
+hyperphagia at age 5,-149040
+diagnosed with PWS at age 8,-113952
+height 151 cm,-113952
+weight 75 kg,-113952
+recombinant growth hormone,-113952
+methylphenidate,-113952
+polysomnography revealed OSA,-113952
+tonsillectomy at age 9,-105192
+gonadotropin-releasing hormone deficiency,-57600
+growth hormone deficiency,-57600
+diagnosed with DM at age 15,-57600
+stopped rGH therapy,-57600
+metformin,-57600
+BMI 50.87 kg/m²,-57600
+glipizide,-52560
+long-acting insulin,-52560
+advised positive pressure ventilation,-52560
+poor compliance,-52560
+normal echocardiography,-52560
+rapid weight gain,-168
+dyspnea,-168
+oliguria,-168
+abdominal distension,-168
+gained 40 kg in one week,-168

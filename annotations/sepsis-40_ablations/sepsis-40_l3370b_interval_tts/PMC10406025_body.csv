@@ -1,0 +1,68 @@
+event,time
+63 years old,0
+male,0
+married,0
+smoker,0
+non-drinker,0
+admitted to the hospital,0
+fever,-72
+melena,-72
+hematemesis,-72
+generalized weakness,-72
+constant fatigue,-72
+shortness of breath,-72
+no dysphagia,-72
+no dyspepsia,-72
+no abdominal pain,-72
+no abnormal change of bowel habits,-72
+no history of continuous use of NSAIDs,-72
+anaemia,-168
+juxtarenal abdominal aortic aneurysm,-8760
+synthetic grafting aortobifemoral bypass,-8760
+hypertension,-8760
+type 2 diabetes mellitus,-8760
+glaucoma,-8760
+lens transplantation,-8760
+ischaemic heart disease,-8760
+catheterization,-8760
+stents,-8760
+taking blood pressure medications,-8760
+taking diabetes medications,-8760
+taking lipid medications,-8760
+taking anticoagulant medications,-8760
+upper GI endoscopy,0
+CT angiogram,0
+fistula in the second-third portion of the duodenum,0
+pus discharge,0
+blood discharge,0
+caecal air bubbles,0
+sepsis,0
+transferred to the Surgical ICU,0
+IV antibiotics,0
+exclusion aortic limb graft with endarterectomy,24
+axillofemoral bypass,24
+femoro-femoral bypass,24
+polytetrafluoroethylene,24
+intestinal adhesion,48
+aorto-duodenal fistula,48
+aortocecal fistula,48
+severe inflammation,48
+unhealthy tissue,48
+infected aortobifemoral graft,48
+large infrarenal AAA,48
+infrarenal aortic neck control,48
+removal of the remainder of the juxtarenal abdominal aortic aneurysm,48
+removal of old infected aortobifemoral graft,48
+closure of infrarenal abdominal aorta,48
+fistula management,48
+primary repair of the second-third part of the duodenum,48
+right hemicolectomy,48
+primary anastomosis,48
+total parental nutrition,72
+stable,168
+oral diet,168
+follow-up CT scan,240
+discharged,240
+good general condition,240
+afebrile,240
+stable vital signs,240

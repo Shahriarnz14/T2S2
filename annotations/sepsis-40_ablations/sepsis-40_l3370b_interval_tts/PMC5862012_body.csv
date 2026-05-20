@@ -1,0 +1,97 @@
+event,time
+19 years old,0
+male,0
+mild asthma,0
+admitted to the hospital,0
+scratched by a cat,-168
+fever,-168
+deep venous thrombosis,-168
+fondaparinux treatment,-168
+apixaban treatment,-161
+macroscopic hematuria,-7
+leg edema,-7
+asthenia,-7
+persistent fever,-7
+lethargy,0
+Glasgow Coma Scale 15/15,0
+blood pressure 100/66 mm Hg,0
+sinus tachycardia 120 beats per minute,0
+mitral murmur,0
+hemocultures taken,0
+piperacillin treatment,0
+ceftriaxone/gentamicin treatment,0
+Haemophilus parainfluenzae,0
+Hb 6.3 g/dL,0
+red blood cells transfused,0
+anterograde amnesia,0
+cerebral computed tomography,0
+nuclear magnetic resonance scan,0
+large hematoma in left occipitoparietal region,0
+multiple bilateral microhemorrhage,0
+hematoma next to right cerebellum,0
+hematoma in right occipital region,0
+multiple ischemic microlesions,0
+left cerebellar ischemic stroke,0
+intracerebral mycotic aneurysm,0
+embolization of mycotic aneurysm,0
+transthoracic echocardiography,0
+large vegetation on mitral valve,0
+mitral valve prolapse,0
+septic shock,0
+intubation,0
+sedation,0
+norepinephrine treatment,0
+dobutamine treatment,0
+wake-up test,24
+obeying commands,24
+no neurological deficits,24
+emergency surgery,48
+minimal cardiopulmonary bypass,48
+in situ right radial arterial line,48
+left internal jugular central venous line,48
+intubated,48
+ventilated,48
+sedated with propofol and sufentanil,48
+hemodynamically supported with norepinephrine,48
+tranexamic acid treatment,48
+MCPB primed with lactated Ringer’s solution,48
+retrograde priming technique,48
+Hb dropped to 7.8 g/dL,48
+red blood cells transfused,48
+Hb 8.5-8.8 g/dL,48
+mean arterial blood pressure maintained above 70 mm Hg,48
+norepinephrine infusion,48
+antegrade and retrograde cold cardioplegia,48
+central body temperature cooled down to 33°C,48
+temperature increased to 36.8°C,48
+transesophageal echocardiography,48
+large vegetations and damage of mitral annulus,48
+surgical time kept to a minimum,48
+biological mitral valve replacement,48
+cerebral perfusion monitoring,48
+tissue oxygen saturation above 60,48
+activated clotting time before heparin administration,48
+heparin administration,48
+activated clotting time after heparin administration,48
+protamine treatment,48
+activated clotting time normalized,48
+MCBP time 74 minutes,48
+aortic clamping time 56 minutes,48
+MCBP weaning 18 minutes,48
+atrioventricular pacemaker stimulation,48
+fresh frozen plasma transfused,48
+platelets transfused,48
+postoperative intensive care unit stay,48
+norepinephrine treatment,48
+reoperation to remove thromboemboli,72
+ventilation-acquired pneumonia,72
+tracheostomy,72
+percutaneous gastric feeding,72
+rehabilitation medicine,168
+good neurological recovery,336
+no loss in memory capacity,336
+no signs of neurological deficits,336
+discharged home,336
+bilateral claudication,336
+follow-up nuclear magnetic resonance,336
+resorption of occipital and left cerebellar hematoma,336

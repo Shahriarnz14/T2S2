@@ -1,0 +1,70 @@
+event,time
+59 years old,0
+female,0
+admitted to the hospital,0
+liver transplantation (Piggyback LT),0
+acute renal failure,0
+hematoma around the liver,0
+hepatitis B immunoglobulin administration,0
+"immunosuppressive drugs (steroids, tacrolimus)",0
+continuous hemodialysis,0
+intermittent infusion of fresh frozen plasma,0
+leukocyte-depleted red blood cells,0
+active bleeding in the abdominal cavity ceased,0
+renal function gradually recovered,0
+hepatocellular carcinoma (HCC) diagnosis,0
+massive tumor necrosis observed,0
+liver function began to improve,240
+"AST, ALT, GGT, ALP levels returned to normal",240
+fever (37–39°C),240
+procalcitonin (PCT) levels rose to 10.3 ng/mL,240
+PCT levels dropped to 3 ng/mL,312
+blood cultures negative,312
+cytomegalovirus negative,312
+Epstein-Barr virus (EBV) negative,312
+obscure red spots on chest,312
+tacrolimus changed to sirolimus,408
+mycophenolate mofetil added,408
+sputum culture positive for Acinetobacter baumannii,432
+methicillin-resistant Staphylococcus aureus (MRSA) infection,432
+rash advanced into erythematous macules and papules,456
+"rash spread to limbs, palms, neck, face",456
+white ulcers on buccal mucosa and lips,456
+severe bone marrow suppression,456
+WBC count 0.86 ×10^9/L,456
+platelet count 35 ×10^9/L,456
+hemoglobin 70 g/L,456
+transferred to intensive care unit,456
+rash suspected as drug-related adverse reaction,456
+gamma globulin administration,456
+skin biopsy performed,456
+fluorescence in situ hybridization (FISH) of peripheral blood,456
+abdominal incision split,696
+bone marrow aspiration performed,768
+bone marrow pathology revealed no special lesions,768
+megakaryocyte production reduced,768
+platelet levels decreased,768
+FISH detected 3% donor lymphocytes,768
+skin biopsy consistent with grade-1 acute lt-GVHD,768
+CD4:CD8 ratio reversed (1:13.3),792
+serum immunoglobin M reduced to 0.3 g/L,792
+platelet count dropped to 3.2 ×10^9/L,792
+"steroids, tacrolimus continued",792
+granulocyte colony-stimulating factor (G-CSF) administration,792
+meropenem combined with voriconazole,792
+rash significantly reduced,792
+"serum ferritin increased to 11,276.55 ng/mL",792
+esophageal and oral ulcers worsened,792
+temperature rose to 39.4°C,1128
+hallucinations,1128
+"multiple infections (MRSA, Acinetobacter baumannii, Enterococcus faecalis)",1128
+serum immunoglobin M reduced to 0 g/L,1128
+septic shock,1320
+multiple organ dysfunction syndrome (MODS),1320
+death,1320
+no itching,312
+Nikolsky sign negative,312
+no history of allergies to drugs,768
+no macrophages phagocytosing neutrophils or platelets,768
+no symptoms of diarrhea,768
+no dyspnea,1128

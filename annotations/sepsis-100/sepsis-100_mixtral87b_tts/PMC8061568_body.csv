@@ -1,0 +1,84 @@
+event,time
+22 years old, 0
+male , 0
+presented to the emergency department , 0
+diagnosed with mild COVID-19 illness , -772
+sore throat , -772
+loss of sense of smell , -772
+positive COVID-19 PCR , -772
+received the first dose of inactivated SARS-CoV-2 vaccine , -672
+remained asymptomatic , -672 to -6
+received the second dose of vaccine , -72
+started to experience headache and fatigue , -72 to -6
+started to develop fever , -48 to -24
+sore throat , -48 to -24
+abdominal pain , -48 to -24
+noticed faint erythematous non-itchy rash , -24
+reported dry irritant cough , -24
+no shortness of breath , -24
+no chest discomfort , -24
+no history of recent travel , -24
+no sick contacts , -24
+no animal exposure , -24
+no consumption of raw dairy products , -24
+was not on any chronic medications , -24
+had no known allergies , -24
+reported taking ibuprofen and one dose of an antibiotic , -24
+temperature of 39°C , 0
+systolic blood pressure of 110 mm Hg , 0
+"tachycardia, 140 beats per minute ", 0
+dry mucous membranes with congested throat , 0
+bilateral conjunctival injection and left conjunctival haemorrhage , 0
+generalised erythematous maculopapular rash , 0
+peripheral lymph nodes were not enlarged , 0
+no audible cardiac murmurs , 0
+chest was clear to auscultation , 0
+abdomen examination was unremarkable , 0
+SARS-CoV-2 PCR from nasopharyngeal swab was negative , 0
+SARS-CoV-2 IgG from serum was strongly positive at 345 AU/mL , 0
+throat swab was negative for group A streptococcus , 0
+sputum culture showed mixed flora , 0
+bacterial blood cultures were negative , 0
+urinalysis showed significant proteinuria of more than 300 µg , 0
+"ANA, dsDNA, c-ANCA and p-ANCA titres were all negative ", 0
+C3 and C4 were however reduced , 0
+WBC (10 9/L) was 15 , 0
+Platelet (109/L) was 122 , 0
+Creatinine (mmol/L) was 115 , 0
+AST (U/L) was 53 , 0
+ALT (U/L) was 81 , 0
+Direct bilirubin (µmol/L) was 35 , 0
+Albumin (g/L) was 16 , 0
+C reactive protein (mg/L) was 249 , 0
+Ferritin (ng/mL) was 4357 , 0
+D-dimer (mg/mL) was 14 , 0
+Procalcitonin (ng/mL) was 9 , 0
+Interleukin-6 (pg/mL) was 90 , 0
+admitted to the intensive care unit , 24
+treated empirically with ceftriaxone and levofloxacin , 24
+given intravenous fluids for resuscitation , 24
+given intravenous hydrocortisone 100 mg two times per day , 24
+hydrocortisone was given for 2 days , 48 to 72
+hydrocortisone was discontinued , 168
+shifted to the medical ward , 168
+high-level fever began to recur , 192
+culture came back negative , 192
+workup was unrevealing , 192
+met the criteria for multisystem inflammatory syndrome in adults , 192
+"underwent therapy with intravenous steroids, dexamethasone 6 mg daily ", 192
+condition improved markedly , 240
+generalised oedema subsided , 240 to 264
+skin rash and conjunctivitis resolved , 240 to 264
+white blood cell count normalised , 240 to 264
+renal function including albuminuria improved , 240 to 264
+inflammatory markers came down to normal levels , 240 to 264
+repeat transthoracic echocardiography showed trace tricuspid regurgitation , 264
+marked improvement in right ventricular systolic function , 264
+normal size of the right atrium and ventricle , 264
+pulmonary artery systolic pressure normalised , 264
+dexamethasone was continued for 8 days , 264 to 312
+switched to oral prednisolone , 336
+discharged home with a tapering dose of prednisolone over a period of 2 weeks , 352
+seen in the outpatient clinic 2 weeks following discharge from the hospital , 504
+symptoms resolved , 504
+repeat echocardiogram was completely normal , 504

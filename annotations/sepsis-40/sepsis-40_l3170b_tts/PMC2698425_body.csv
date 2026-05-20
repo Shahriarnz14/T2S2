@@ -1,0 +1,24 @@
+event,time
+shortness of breath ,0
+chest pain ,0
+admission ,0
+Heparin drip ,0
+high fevers ,24
+tachycardia ,24
+blood cultures positive ,24
+Gram positive cocci in pairs and clusters ,24
+vancomycin ,24
+fever resolved ,48
+Kefzol 2 gm IV every 8 hours ,48
+urinalysis indicated the presence of E. coli ,48
+Ciprofloxacin ,48
+no shortness of breath ,-24
+no indication of recent infections ,-24
+no abnormalities or concerns ,-24
+no indication of endocarditis ,72
+no indication that the patient recently visited a farm or had contact with goats ,72
+"no indication of transplants, internal fixation for orthopedic prosthesis, or foreign subject implants ",72
+VQ scan indicated high probability for pulmonary emboli ,-24
+chest x ray showed possible development of small bilateral pleural effusions ,-24
+CT scan of the abdomen showed moderate alveolar consolidation ,-24
+EKG and 2D echocardiograms were normal ,-24

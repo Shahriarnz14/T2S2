@@ -1,0 +1,81 @@
+pmcIntroduction
+
+One standard of care option for intermediate/poor risk metastatic renal cell carcinoma (mRCC) of clear cell subtype is first-line doublet immunotherapy. On disease progression, tyrosine kinase inhibitors (TKI) can be used as second-line treatment. Hypoadrenalism, either by mechanism of pituitary or adrenal insufficiency, is a known immune-related adverse event (iRAE). Sunitinib is a non-selective TKI, commonly used in the management of mRCC. Within the product information for this medication, adrenal toxicity is listed as a recognized toxicity, but its clinical significance has yet to be determined [1]. Two previous case reports have been published describing TKI-induced adrenal insufficiency with sunitinib and another TKI, pazopanib [2, 3]. We report a case of presumed sunitinib-induced adrenal crisis in a patient with established hypopituitarism and hypoadrenalism in the setting of previous immunotherapy use.
+
+Case History
+
+A 71-year-old female with mRCC (mixed papillary and clear cell type) with retroperitoneal lymph node, right ovarian, and liver metastases was managed with first-line doublet immunotherapy with ipilimumab and nivolumab, followed by maintenance single-agent nivolumab. Her treatment was complicated by immune-related primary hypoadrenalism and hypopituitarism (Table 1), manifesting as secondary hypoadrenalism and hypothyroidism, which was managed with exogenous hydrocortisone, fludrocortisone, and thyroxine replacement. A short synacthen test and MRI pituitary helped support the diagnosis. On disease progression, she was sequenced onto second-line sunitinib.
+
+Two weeks after treatment commencement, she was admitted to the hospital with presumed sepsis, manifesting as fever, hypotension, and tachycardia. She was managed with broad-spectrum antibiotics, intravenous stress dose steroids, and inotropes in the intensive care unit (ICU). A septic screen did not reveal a source of sepsis, and she recovered fully and was discharged from the hospital. Her steroid replacement was adjusted in consultation with endocrinology to ensure adequate replacement. Sunitinib was restarted following completion of antibiotics. Within 5 days, she re-presented with the same symptoms and was again managed for sepsis with broad-spectrum antibiotics, intravenous stress dose steroids, and inotropes in ICU. Her septic screen, broadened with a transthoracic echocardiogram, was negative once more. Her baseline steroid dose was reviewed again, and following recovery from this episode, she was recommenced on a reduced dose of sunitinib. Despite this, she re-presented with the same symptoms after just 1 day of treatment, requiring another ICU admission for stress dose steroids, inotropes, and broad-spectrum antibiotics. Her septic screen was once again negative, and a tunnelled venous access catheter was removed as a potential source of occult infection. Her baseline steroid dose was revised once more.
+
+Given three similar presentations considered temporally related to sunitinib therapy (Table 2), a possible drug reaction was considered. To test this, the patient was electively admitted for a trial of sunitinib. Within 24 h of sunitinib administration, she became profoundly hypotensive and tachycardic. On this occasion, she was managed with aggressive intravenous fluid replacement, intravenous steroids, and inotropes. She did not receive antibiotics. Following 24 h of this treatment, her haemodynamic parameters normalized, and she was transitioned back to oral steroids. This was considered a positive trial, and sunitinib therapy was permanently discontinued.
+
+Discussion
+
+TKIs are small molecule inhibitors that are widely used in cancer therapy due to their ability to interfere with phosphorylation and cell signalling of proteins involved in the development and potentiation of malignancy. Many TKIs are non-selective and exert their effect on more than one target protein. Due to this multi-target mechanism of action, TKIs are prone to numerous off-target effects. Common side effects of TKIs include fever, hypertension, gastrointestinal toxicity, and rash. More recently, endocrine side effects have been reported with the use of TKIs. These include thyroid dysregulation, alterations in bone metabolism, gonadal dysfunction, effects on glucose metabolism, and adrenal toxicity [4].
+
+Sunitinib is an oral TKI with anti-tumour and anti-angiogenic properties. It has multikinase activity affecting platelet-derived growth factors, vascular endothelial growth factors, FMS-like tyrosine kinase, colony-stimulating factor type 1, and glial cell-line-derived neurotrophic factor. Recognized side effects of sunitinib include fatigue, fever, hypertension, nausea, vomiting, diarrhoea, oral mucositis, rash, thyroid dysfunction, myelosuppression, heart failure, and venous thromboembolism, amongst others [1].
+
+Animal studies of sunitinib have reported adrenal toxicity. Histological changes noted in the adrenal gland include haemorrhage, necrosis, congestion, hypertrophy, and inflammation. Despite this, the clinical relevance of this finding has yet to be demonstrated. One study obtained CT/MRI of 336 patients following one or more cycles of sunitinib, all of which failed to demonstrated adrenal haemorrhage or necrosis, somewhat refuting the significance of this finding in clinical practice [5]. Furthermore, ACTH stimulation has been performed on large cohorts of patients receiving sunitinib across various trials, with only one patient returning a consistently abnormal result. A small cohort of patients were also found to have abnormal results on final stimulation tests performed in this analysis. Importantly, none of these patients with abnormal results have clinical features of hypoadrenalism [5].
+
+While initial safety studies of sunitinib failed to demonstrate clinical relevance of adrenal toxicity, Yoshino et al. [2] have reported a case of possible sunitinib-associated adrenal insufficiency in the setting of mRCC treatment. This patient received sunitinib therapy for mRCC with bilateral adrenal metastases and pre-treatment ACTH and cortisol levels indicating subclinical hypoadrenalism. Diagnosis of overt, clinically significant adrenal insufficiency was made in the setting of concurrent thyrotoxicosis, possibly related to destructive thyroiditis, an established side effect of sunitinib. Interestingly, CT imaging at this time demonstrated that the adrenal metastases had responded to treatment. The authors postulated that hypermetabolism secondary to thyroid hormone excess was responsible for unmasking adrenal toxicity. Given the response of adrenal metastases to treatment, the clinical relevance of aforementioned adrenal toxicity was theorised [2].
+
+Further to this, Elshimy et al. [3] have reported a case of primary adrenal insufficiency in the setting of pazopanib therapy for mRCC. This patient had previously undergone unilateral nephrectomy and adrenalectomy, but had no documented history of hypoadrenalism. Subsequent investigations demonstrated hypoadrenalism, and secondary causes were all ruled out. Thus, this was reported as a case of primary adrenal insufficiency associated with pazopanib therapy [3].
+
+Interestingly, in a small study of imatinib, another TKI, the hypothalamic-pituitary-adrenal axis was evaluated in patients on imatinib treatment. In this study, 48% of patients were found to have deficiencies in this axis on a biochemical basis. This suggests a possibly increased prevalence of subclinical adrenal insufficiency in patients treated with imatinib [6]. Based on this information, the FDA cautions that while clinically significant adrenal suppression has not been demonstrated with sunitinib therapy, toxicity may be unmasked by concurrent stressors, including major surgery, trauma, or infection [1].
+
+Our case is unique such that while previous cases of TKI-induced adrenal crisis have been demonstrated, none have previously been reported in patients with established immune-related hypopituitarism. Following review of the literature, theories for decompensation in our patient include fever-induced hypermetabolism, as with the above case with concurrent thyrotoxicosis, as well as direct adrenal toxicity, in which possible residual adrenal function is compromised, yielding exogenous replacement insufficient. In regard to the first theory, interestingly, while our patient frequently reported subjective chills, no fevers were ever recorded. When admitted for inpatient challenge of sunitinib, a greater than 1° temperature rise was noted immediately prior to clinical deterioration; however, this never crossed the predefined threshold of fever (38°C). Given this observation however, it is certainly possible that this rise in temperature resulted in relative hypermetabolism, contributing to subsequent adrenal crisis. The theory of direct adrenal toxicity is interesting to examine in the context of the temporal profile of subsequent adrenal crises in our patient. As demonstrated, our patient has experienced adrenal crisis with each rechallenge of sunitinib. These episodes seem to occur at lower doses of the drug within a shorter time frame with each subsequent rechallenge. In a patient with pre-existing hypothalamic-pituitary-adrenal axis compromise from a known iRAE, one theory could be that there may be some residual adrenal function, although this may be insufficient for routine physiological processes. With each subsequent dose of sunitinib, minor damage to an already compromised hypothalamic-pituitary-adrenal system may now have the opportunity to become clinically relevant, given such poor reserve. Adrenal toxicity may become more easily and quickly apparent in this subgroup of patients, in which pre-existing vulnerability to adrenal toxicity may exacerbate clinical consequences.
+
+Conclusions
+
+TKIs are an integral component of an established treatment algorithm for mRCC. As multikinase agents, they tend to have a multitude of off-target effects. While animal studies of adrenal toxicity with these medications have previously been considered to be clinically insignificant, our case, which demonstrates possible sunitinib-induced adrenal crisis in the setting of immunotherapy-related hypopituitarism, adds to the growing body of knowledge suggesting the clinical relevance of this potential toxicity. Clinicians should be aware of this potential endocrine side effect and consider investigation in the appropriate clinical setting. However, there remain significant limitations in the calibre of evidence in this field, and further studies are required to confirm the link between TKIs and adrenal toxicity.
+
+Statement of Ethics
+
+Written informed consent was obtained from the patient for publication of this case report. Ethical approval was not required for this study in accordance with local guidelines.
+
+Conflict of Interest Statement
+
+The authors have no conflicts of interest to declare.
+
+Funding Sources
+
+No funding was received in the preparation of this manuscript.
+
+Author Contributions
+
+A.J. identified the case to be reported, analysed the data, completed the literature review, and prepared and revised the manuscript for submission. J.M., D.S., and S.B. assisted in data analysis, preparation of the manuscript, and its revisions. All authors read and approved the final manuscript.
+
+Data Availability Statement
+
+The majority of data analysed for this publication are included within the article. Some details are not made publicly available due to potential to compromise confidentiality. Further inquiries can be made to the corresponding author (A.J.).
+
+Table 1 Endocrine profile and antibody tests
+
+Investigation	Result	Reference range	
+Morning Cortisol, nmol/L	47	149–619	
+ACTH, pmol/L	<0.2	1.6–13.9	
+TSH, mIU/L	3.89	0.5–4.0	
+T4, pmol/L	4.7	10–23	
+FSH, IU/L	12	>20	
+LH, IU/L	2	>20	
+Prolactin, mIU/L	255	59–619	
+Growth hormone, mIU/L	16	0–21	
+Renin, mIU/L	<2	10–50	
+Aldosterone, pmol/L	79	100–950	
+Dehydroepiandrosterone sulphate, μmol/L	0.2	0.5–3.1	
+Adrenal tissue antibody	Negative		
+
+Table 2 Sunitinib doses, regimens, time to reaction, and corresponding steroid replacement
+
+Sunitinib dose, mg	Sunitinib regimen	Time to reaction, days	Steroid dose on admission	Steroid dose on discharge	
+37.5	Two weeks on	17	Hydrocortisone 12 mg/4 mg/4 mg	Hydrocortisone 20 mg TDS	
+	One week off			Weaning plan with aim to wean to 12 mg/4 mg/4 mg	
+37.5	Two weeks on	5	Hydrocortisone 12 mg/4 mg/4 mg	Hydrocortisone 24 mg/8 mg/8 mg	
+	One week off			Weaning plan with aim to wean to	
+				Hydrocortisone 12 mg/4 mg/4 mg	
+25	Alternate days	1	Hydrocortisone 12 mg/4 mg	Cortisone 20 mg/15 mg	
+			Midday dose ceased as outpatient by endocrinology*		
+25*	Alternate days	1	Cortisone 20 mg/15 mg	Cortisone 40 mg/30 mg	
+				Weaning plan with aim to wean to cortisone 20 mg/15 mg	
+* Inpatient challenge.

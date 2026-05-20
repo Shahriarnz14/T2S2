@@ -1,0 +1,52 @@
+event,time
+84-year-old man,0
+admitted to the intensive care unit (ICU),0
+febrile,0
+encephalopathic,0
+melanotic stool,0
+stroke with residual left hemiparesis,0
+gastrointestinal bleed,-8760 (1 year prior)
+acute anemia,0
+acute renal failure,0
+elevated procalcitonin (14 ng/mL),0
+elevated lactic acid (3.1 mmol/L),0
+hypotension (95/51 mmHg),0
+dry mucous membranes,0
+non-tender abdomen,0
+non-distended abdomen,0
+no evidence of skin changes,0
+no evidence of infection,0
+volume resuscitation,0
+broad spectrum antibiotics initiated,0
+right hip erythema,24
+right hip induration,24
+right hip pain,24
+no crepitus,24
+CT right hip showing gas in retroperitoneum and upper thigh,24
+necrotizing soft tissue infection suspected,24
+operative intervention declined,24
+clinical improvement with non-operative treatment,56 (24 + 32 hours)
+CT abdomen/pelvis showing 7.1 cm right colon mass,56
+retroperitoneal invasion,56
+gas tracking into soft tissues,56
+perforated malignancy suspected,56
+palliative care elected,56
+transitioned to hospice care,56
+expired,264 (56 + 10 days *24)
+no history of weight loss,0
+no decreased appetite,0
+no recurrent melanotic stool,0
+no alterations in bowel habits,-8760 (past year)
+no anticoagulation,0
+no prior colonoscopy,0
+no alcohol use,0
+no smoking,0
+no illicit drug use,0
+positive stool heme-occult,0
+elevated INR (1.6),0
+elevated PT (19.3 sec),0
+hyperkalemia (6.5 mmol/L),0
+elevated ALT (94 U/L),0
+elevated AST (42 U/L),0
+low hemoglobin (6.5 g/dL),0
+elevated creatinine (1.3 mg/dL),0

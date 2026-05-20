@@ -1,0 +1,75 @@
+event,time
+43-year-old woman,0
+fever,-240
+dry cough,-240
+mild respiratory distress,0
+SpO2 88%-89%,-72
+diagnosed with COVID-19,-72
+polycystic ovarian disease,0
+blood pressure 140/90 mmHg,0
+pulse rate 88 beats/min,0
+respiratory rate 20 breaths/min,0
+SpO2 92%,0
+bilateral decrease in air entry,0
+total leucocyte count 11650 cells/µL,0
+neutrophils 88%,0
+lymphocytes 8%,0
+C-reactive protein 16.44 mg/L,0
+procalcitonin 9.52 ng/mL,0
+lactate dehydrogenase 282 IU/L,0
+ferritin 158 ng/mL,0
+D-dimer 775.84 ng/mL,0
+interleukin-6 18.55 pg/mL,0
+elevated liver enzymes,0
+severe hypoxia,0
+arterial oxygen partial pressure 39.0 mmHg,0
+high-resolution CT chest,0
+50% lung involvement,0
+CT severity index 18/25,0
+COVID-19 Reporting and Data System 5/5,0
+non-rebreather mask 15 L/min,0
+oxygen saturation 100%,0
+echocardiography ejection fraction 60%,0
+chest physiotherapy,0
+incentive spirometry,0
+IV remdesivir,0
+IV dexamethasone,0
+oral doxycycline,0
+low molecular weight heparin,0
+multivitamins,0
+antibiotics,0
+nebulization,0
+improved oxygen requirement,168
+repeat chest CT,192
+CTSI score 12/25,192
+weaned off oxygen,288
+normalized reports except procalcitonin,288
+discharged,288
+persistently elevated procalcitonin,0
+neck examination unremarkable,312
+ultrasonography neck,312
+thyroid nodule 15.7 mm × 15 mm,312
+FNAC malignant epithelial neoplasm,312
+FNAC left supraclavicular node,312
+metastatic carcinoma,312
+calcitonin 406 pg/mL,312
+CEA normal,312
+PET-CT,312
+thyroid nodule 18 mm × 13 mm,312
+no distant spread,312
+medullary thyroid carcinoma,312
+total thyroidectomy,840
+central lymph node dissection,840
+MTC with lymphovascular invasion,840
+11/14 lymph nodes positive,840
+AJCC stage III pT2N1M0,840
+postoperative calcitonin 189 pg/mL,840
+repeat PET-CT,840
+second radical neck dissection,840
+6/16 lymph nodes positive,840
+procalcitonin 3.54 ng/mL,840
+calcitonin 14 pg/mL,840
+MEN-2 ruled out,840
+levothyroxine 150 mcg/d,840
+EBRT,840
+no recurrence,840

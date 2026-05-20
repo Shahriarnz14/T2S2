@@ -1,0 +1,42 @@
+event,time
+72 years old,0
+male,0
+presented to the hospital,0
+fever,-24
+chills,-24
+cough,-24
+chest pain,-24
+elevated leucocyte count,0
+chest radiograph consolidation,0
+right lung consolidation,0
+low blood pressure,0
+transferred to ICU,0
+pneumonia,0
+septic shock,0
+noradrenaline infusion started,0
+peripheral IV cannula placement,0
+dorsum of left hand IV cannula,0
+broad-spectrum antibiotics,0
+fluid resuscitation,0
+vasopressor support,0
+blood pressure stabilized,0
+vasopressor tapering initiated,2
+CVC placement not attempted,2
+swelling over dorsum of left hand,12
+purplish discoloration,12
+infusion stopped,12
+IV cannula removed,12
+new IV cannula placed,12
+volar aspect of right forearm IV cannula,12
+noradrenaline infusion tapered off,12
+noradrenaline infusion stopped,16
+topical nitroglycerin 2% applied,12
+topical nitroglycerin repeated every 4 hours,12
+hand elevation,12
+heat application,12
+care of left hand,12
+swelling improved,24
+discoloration improved,24
+swelling subsided,60
+skin texture near normal,60
+no tissue necrosis,60

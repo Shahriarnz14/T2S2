@@ -1,0 +1,132 @@
+event,time
+62 years old,0
+Caucasian female,0
+weight 84 kg,0
+BMI 34,0
+reno-vascular hypertension,0
+type 2 diabetes,0
+dyslipidemia,0
+non-STEMI,0
+end stage renal disease,0
+kidney transplant,-35040
+mycophenolate 500 mg twice daily,0
+tacrolimus 3 mg twice daily,0
+prednisolone 5 mg daily,0
+first admission,-105*24
+acute pancreatitis,-105*24
+pseudocyst formation,-105*24
+tigecycline use,-105*24 - (6 days)
+recurrent urinary tract infection,-105*24 - (6 days)
+carbapenem-resistant KP,-105*24 - (6 days)
+fosfomycin 3 g PO,-105*24
+day 6,(-105*24) + 6*24 = -105*24 + 144
+fever,(-105*24) + 6*24 = -2376 + 144 = -2232
+leukocytosis,-2232
+urine culture positive for KP,-2232
+sensitive to fosfomycin,-2232
+resistant to colistin,-2232
+resistant to aminoglycosides,-2232
+resistant to carbapenems,-2232
+meropenem 1 g q8h,-2232
+fosfomycin PO 3 g × 2 doses,-2232
+initial improvement,-2232
+repeated urine culture negative,(-2232) + (2 days)*24 = -2232 + 48 = -2184
+abdominal pain,-2232
+hemorrhagic pancreatic pseudocyst considered,(-2232) + (day 29 - day 6)*24 = (-2232) + 23*24 = -2232 + 552 = -1680
+day 29,(-105*24) + 29*24 = -2520 + 696 = -1824
+ERCP,-1824
+EUS,-1824
+FNA of pseudocyst,-1824
+post-procedure sepsis,-1824
+transferred to ICU,-1824
+vancomycin,-1824
+ciprofloxacin,-1824
+amikacin,-1824
+caspofungin,-1824
+tacrolimus halted,-1824
+mycophenolate halted,-1824
+coagulase-negative Staphylococci from blood,-1824
+coagulase-negative Staphylococci from catheter tip,-1824
+day 33,-1824 + (33-29)*24 = -1824 + 96 = -1728
+ciprofloxacin replaced by meropenem,-1728
+amikacin discontinued,-1728 + 24 = -1704
+meropenem 4 weeks,-1728
+caspofungin 4 weeks,-1728
+rectal swab CRE KP colonization,-1728
+day 42,-1824 + (42-29)*24 = -1824 + 13*24 = -1824 + 312 = -1512
+gastrointestinal bleeding,-1512
+day 47,-1512 + (47-42)*24 = -1512 + 120 = -1392
+hypoxia,-1392
+lung consolidation,-1392
+day 49,-1392 + (49-47)*24 = -1392 + 48 = -1344
+BAL KP resistant,-1344
+resistant to fosfomycin,-1344
+resistant to ceftazidime/avibactam,-1344
+day 51,-1344 + (51-49)*24 = -1344 + 48 = -1296
+blood culture KP,-1296
+Enterococcus faecium,-1296
+vancomycin added,-1296
+abdominal CT soft tissue changes,-1296
+pancreatic-pseudocyst-related necrotic abscess,-1296
+day 62,-1296 + (62-51)*24 = -1296 + 264 = -1032
+cardiac arrest,-1032
+resuscitation,-1032
+ertapenem 1 g q24h,-1032
+meropenem 1 g q8h,-1032
+day 71,-1032 + (71-62)*24 = -1032 + 216 = -816
+cyst drainage KP,-816
+day 77,-816 + (77-71)*24 = -816 + 144 = -672
+necrosectomy,-672
+Candida parapsilosis fungemia,-672
+fluconazole,-672
+abdominal fluid cultures KP,-672
+combination therapy 4 weeks,-672
+good clinical response,-672
+day 9 post cessation,(-672) + (4*7*24) + 9*24 = (assuming 4 weeks = 28 days) -672 + 672 + 216 = 216
+fever,216
+resistant KP urine,216
+ertapenem and meropenem re-administered,216
+resolution of symptoms,216 + 7*24 = 216 + 168 = 384
+microbiological clearance,384
+discharged,105*24 = 2520 (from first admission start)
+"rectal swab KP carbapenemases (NDM, OXA)",2520
+second admission,2520 + 19*24 = 2520 + 456 = 2976
+dysuria,2976
+left costovertebral angle tenderness,2976
+urine culture KP resistant,2976
+ertapenem and meropenem,2976
+repeat urine culture negative,2976 + 6*24 = 2976 + 144 = 3120
+10-day treatment,3120
+resolution of symptoms,3120 + 10*24 = 3360
+third admission,3360 + 63*24 = 3360 + 1512 = 4872
+fever,4872
+chills,4872
+right buttock abscess,4872
+drained,4872
+Streptococcus sp,4872
+E. coli,4872
+susceptible K. oxytoca,4872
+blood culture KP resistant,4872
+ertapenem and meropenem 2 weeks,4872
+discharged,4872 + 14*24 = 4872 + 336 = 5208
+fourth admission,5208 + 56*24 = 5208 + 1344 = 6552
+fever,6552
+respiratory symptoms,6552
+chest X-ray right lower lobe necrotizing pneumonia,6552
+ertapenem and meropenem,6552
+sputum culture MSSA,6552
+sputum culture KP,6552
+carbapenem combination 4 weeks,6552
+favorable response,6552 + 4*7*24 = 6552 + 672 = 7224
+discharged,7224
+fifth admission,7224 + 58*24 = 7224 + 1392 = 8616
+fever,8616
+thigh abscess,8616
+urinary symptoms,8616
+abscess drained,8616
+fluid culture KP,8616
+urine culture KP,8616
+ertapenem and meropenem 2 weeks,8616
+good response,8616 + 14*24 = 8616 + 336 = 8952
+discharged,8952
+March 2017 urine culture negative,8952 + (approx 3 months)*24*30 = 8952 + 2160 = 11112

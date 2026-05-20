@@ -1,0 +1,88 @@
+event,time
+2-year-old,0
+Caucasian,0
+male,0
+admitted to Emergency Room,-24
+high fever,-24
+petechial lesions on torso and limbs,-24
+heart rate 170/min,-24
+blood pressure 98/51 mmHg,-24
+administered IV fluids,-24
+administered ceftriaxone,-24
+hypotension,-24
+neurological deterioration,-24
+required inotropic support,-24
+intubation,-24
+mechanical ventilation,-24
+transferred to PICU,0
+Neisseria meningitidis serogroup B isolated from blood culture,0
+antibiotic therapy continued with ceftriaxone,0
+improvement of general conditions,24
+CRP decreased from 345 mg/L to 48.4 mg/L,24
+inotropic agents stopped,120
+extubated,168
+persistent fever spikes (38.5°C),168
+"broader antibiotic therapy started (ceftriaxone, gentamicin, teicoplanin)",168
+blood cultures negative,168
+urine cultures negative,168
+lumbar puncture negative,168
+chest X-ray normal,168
+brain MRI normal,168
+transferred to General Pediatrics Unit,312
+febrile (38.5°C),312
+cutaneous ulcers in scarring stages,312
+HB 8.1 g/L,312
+"WBC count 25,830/mm3",312
+"PLT count 1,090,000/mm3",312
+CRP 44.80 mg/L,312
+persistent fever <39°C,312
+worsening general conditions,504
+extreme irritability,504
+fever spikes every 6-8 hours (>39°C),504
+CRP 89.70 mg/L,504
+ESR 36 mm/h,504
+Ferritin 173 ug/L,504
+Neopterin 31.0 nmol/L,504
+TNF 29.8 ng/L,504
+"antibiotic therapy broadened (meropenem, teicoplanin)",504
+cultures negative,504
+developed erythematous papular rash,528
+hepatomegaly,528
+bilateral cervical lymphadenopathy,528
+"serological tests for Adenovirus, EBV, CMV, Parvovirus B19 negative",600
+neck ultrasound reactive lymph nodes,600
+electrocardiogram normal,600
+echocardiography normal coronaries,600
+IVIG 2 g/kg administered,624
+IVIG ineffective,624
+IVIG repeated,672
+poor clinical improvement,672
+HB 7.4 g/dL,696
+"WBC count 23,470/mm3",696
+"PLT count 98,000/mm3",696
+LDH 1091 U/L,696
+AST 86 IU/L,696
+ALT 117 IU/L,696
+GGT 300 U/L,696
+triglycerides 361 mg/dL,696
+prolonged prothrombin time,696
+prolonged APTT,696
+fibrinogen 1 g/L,696
+vitamin K administered,696
+fresh frozen plasma administered,696
+coagulation normalization,696
+bone marrow aspirate no hemophagocytosis,720
+conjunctival injection,720
+fissured dry lips,720
+facial edema,720
+feet edema,720
+diagnosed with Kawasaki disease,720
+suspected MAS,720
+IVMP 30 mg/kg administered for 2 days,768
+inflammatory markers decreased,840
+CRP 3.36 mg/L,840
+fever reduced,840
+afebrile,888
+discharged,888
+follow-up at 3 months normal,2208
+coronary artery aneurysms absent,2208

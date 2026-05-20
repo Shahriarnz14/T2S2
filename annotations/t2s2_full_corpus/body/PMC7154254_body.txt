@@ -1,0 +1,81 @@
+Introduction
+Clear-cell renal cell carcinoma (ccRCC) is associated with mutations in the VHL gene, and therefore, vascular endothelial growth factor receptor-tyrosine kinase inhibitors (VEGFR-TKI) have been developed as anticancer therapies in ccRCC [1]. From 2006 to 2017, the standard first-line therapies of metastatic ccRCC (mccRCC) were VEGF-targeted therapies [2]. In contrast, nivolumab, a programmed death-1 (PD-1) checkpoint inhibitor, was the first immune checkpoint inhibitor (ICI) to be approved for advanced RCC in Japan, showing an overall survival superior to everolimus [3]. In addition, the combination of nivolumab and ipilimumab is the standard first-line treatment for patients with international metastatic data-base consortium (IMDC) intermediate- or poor-risk disease, based on the clinical trial of checkmate 214 [4]. Since 2017, VEGFR-TKIs, mammalian target of rapamycin (mTOR) inhibitors, and nivolumab have been frequently used as second- and subsequent-line therapies in Japan [5]. Previous reports revealed the durable response to ICIs [6], which may suggest that the influence of ICIs remains after interrupting their use. Therefore, VEGF-targeted therapies after ICIs may achieve a mutual effect or may result in completely unexpected adverse events (AEs). In this case study, we report a case of tumor lysis syndrome (TLS), which was induced by the administration of pazopanib after nivolumab.
+
+Case Report
+A 66-year-old woman with suspected crown tumor went to the local hospital. A biopsy of the cranial bone tumor revealed clear-cell carcinoma. Computed tomography (CT) showed a right renal tumor with multiple lung and bone metastases. The patient was diagnosed with metastatic right renal cell carcinoma (cT1bN0M1) and came to our hospital for treatment. First, she underwent laparoscopic right renal resection. Then, she was categorized as IMDC intermediate risk and received sunitinib for an initial 7 months, axitinib for the next 6 months as second-line therapy, and nivolumab for the following 6 months as third-line therapy. In spite of these treatments, CT revealed that the cranial bone tumors had increased in size, infiltrating the surrounding tissue as an extra bone mass (Fig. 1), and a new liver lesion had appeared. After that, she was admitted to our hospital to start pazopanib as fourth-line therapy in February 2019. At this point, she was categorized as IMDC intermediate risk, and her serum uric acid level was normal with 5.4 mg/dL.
+
+During hospitalization, she received 800 mg pazopanib daily without any AEs and was discharged on Day 10 after administration of pazopanib. Two days after discharge from the hospital, she presented to the emergency room with complaints of CTCAE v4.0 grade 2 fatigue associated with CTCAE v4.0 grade 2 nausea and grade 1 diarrhea. Physical examination showed a temperature of 40.5°C, a blood pressure of 132/48 mm Hg, and a heart rate of 120 beats per minute. She denied any abdominal pain during palpation. Her chest and abdomen CT showed that the lung metastasis had decreased (Fig. 2). The laboratory results are shown in Table 1
+
+In the emergency room, a CTCAE grade 2 acute kidney injury was discovered, and disseminated intravascular coagulation was diagnosed according to the Japanese Association of Acute Medicine (JAAM) criteria [7]. At that point, she discontinued pazopanib and was treated with hydration at 200 mL/h, thrombomodulin alpha, and broad-spectrum antibiotics meropenem, which was started empirically due to the possibility of sepsis in the setting of immunocompromised state. Within 24 h, her laboratory values showed hyperphosphatemia (5.9 mmol/L), hyperuricemia (10.1 mg/dL), and hypocalcemia (7.0 mg/dL), and acute renal failure got worse (creatinine: 2.3–2.95 mg/dL), which were all consistent findings with laboratory TLS (according to the Cairo and Bishop classification) [8]. The laboratory results are also shown in Table 1. Then, she was admitted to the intensive care unit for the management of TLS. Despite intensive medical care, including renal replacement therapy, her renal function did not recover. Due to her poor prognosis, the attending physicians consulted her family, and they decided not to do further life-prolonging therapy. Eventually, our patient died under palliative care the next day following intensive care unit admission.
+
+Discussion
+TLS is an oncologic emergency, characterized by the extensive destruction of tumor cells, which results in the release of intracellular content, including uric acid, potassium, phosphorus, and calcium. Hyperuricemia, hyperphosphatemia, hyperkalemia, and hypocalcemia occur in the process and can lead to acute kidney injury, cardiac arrhythmias, seizures, or death [8]. In our case, a serum lactate dehydrogenase concentration of 1,380 U/L and decrease of the lung lesion may reveal cell lysis, which is consistent with TLS. TLS is most commonly seen during the treatment of hematological malignancies, such as Burkitt lymphoma or acute leukemia [8]; however, there has been an increase of TLS reports in RCC recently [9, 10, 11].
+
+Pazopanib is a VEGFR-TKI which has been approved for first-line treatment of patients with IMDC low-risk disease in Japan [5], and pazopanib-related TLS in mRCC has previously been reported [11]. Pazopanib is almost completely (>99.9%) bound to serum albumin, and a low serum albumin level may lead to a higher free fraction of pazopanib, and this may result in a higher toxicity of pazopanib. In our case, serum albumin level was decreasing gradually, and it may be one factor for TLS progression. TLS induced by other TKI, such as sunitinib, has previously been described in patients with RCC [9, 10]. However, in these reported cases, TKI was used as first-line treatment, and it has never been described in a patient with RCC and a history of TKI use, treated with other TKIs.
+
+Recently, the JAVELIN Renal 101 Phase 3 trial has been published, a TKI/ICI registration trial, and has demonstrated superior progression-free survival (PFS) for the combination of axitinib and avelumab over sunitinib (13.8 vs. 8.4 months, HR 0.69) [12]. Furthermore, the KEYNOTE-426 trial has demonstrated both PFS and overall survival advantage of axitinib plus pembrolizumab over sunitinib (median PFS 15.1 vs. 11.1 month, HR 0.69) [13]. These trials indicate that the combination of TKI and ICI may have more impact on cancer than TKI monotherapy.
+
+In contrast, a durable response to ICI has previously been reported [6], and in our case, the combination of pazopanib and the prolonged effect of nivolumab may have cause TLS, similar to TKI/ICI combination therapy. Previous reports on second-line TKI after ICI are summarized in Table 2 [14, 15]. Each treatment has a certain level of therapeutic effect and AEs. Shah et al. [15] reported that 8 of 19 (42%) patients treated with pazopanib after ICI discontinued treatment due to its toxicity, and the most frequent reason (5 of 8, 63%) was transaminitis. The discontinuation rate of pazopanib was higher than that of other TKIs (13% for axitinib, 17% for sunitinib, 0% for cabozantinib). Although the numbers are not large, they may reveal that a type of TKI is not suitable for sequential treatment after ICI. In any case, we considered close follow-up is necessary when administrating TKI after ICI.
+
+Conclusion
+To the best of our knowledge, this is the first report of TLS induced by pazopanib after nivolumab; it suggests the need of careful observation when administrating TKI after ICI.
+
+Statement of Ethics
+Our patient provided written informed consent for the publication of her clinical course.
+
+Disclosure Statement
+The authors have no conflicts of interest to declare.
+
+Funding Sources
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Author Contributions
+Tsukasa Narukawa designed the study and wrote the initial draft of the manuscript. Fumiya Hongo and Osamu Ukimura contributed to revise it critically for important intellectual content. All other authors have contributed to data collection and interpretation and reviewed the manuscript. All authors approved the final version of the manuscript and agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+
+Fig. 1. CT scan showing a cranial bone tumor which has infiltrated the surrounding tissue as an extra bone mass (arrows).
+
+Fig. 2. 
+a CT scan showing a lung metastatic lesion (arrow) before the introduction of pazopanib. b CT scan showing a decreased lung metastatic lesion (arrow) on Day 12 after the initiation of pazopanib.
+
+Table 1 Laboratory values on Days 8, 12 (day of ER admission), and 13 (day of ICU admission) after the initiation of pazopanib therapy
+
+Parameter	Reference range	Day 8	Day 12	Day 13	
+WBC,/µL	3,300–8,600	4,400	6,200	3,300	
+RBC, × 104/µL	386–492	459	441	474	
+Hb, g/dL	11.6–14.8	13.3	12.9	13.5	
+Platelets, × 104/µL	15.8–34.8	26.9	3.6	3.0	
+PT, %	73–140	−	65	52	
+PT-INR	0.87–1.12	−	1.20	1.35	
+FDP,/µg/mL	0–5	−	41.6	54.9	
+AST, U/L	13–30	17	277	339	
+ALT, U/L	7–23	10	66	83	
+LDH, U/L	124–222	247	1,380	1,762	
+ALB, g/dL	4.1–5.1	3.8	3.4	2.4	
+BUN, mg/dL	8.0–20.0	19.5	57.5	64.7	
+Cr, mg/dL	0.46–0.79	0.80	2.30	2.95	
+UA, mg/dL	2.6–5.5	−	−	10.1	
+CRP, mg/dL	0–0.14	0.60	19.56	22.21	
+Na, mEq/L	138–145	139	131	131	
+K, mEq/L	3.6–4.8	4.5	4.0	4.4	
+Ca, mg/dL	8.8–10.1	9.2	8.5	7.0	
+P, mg/dL	2.7–4.6	3.3	−	5.9	
+ALB, albumin; ALT, alanine phosphatase; AST, aspartate aminotransferase; BUN, blood urea nitrogen; Ca, calcium; Cr, creatinine; CRP, C-reactive protein; ER, emergency room; FDP, fibrinogen/fibrin degradation product; Hb, hemoglobin; ICU, intensive care unit; INR, international normalized ratio; K, potassium; LDH, lactate dehydrogenase; Na, sodium; P, phosphorus; PT, prothrombin time; RBC, red blood cell count; UA, uric acid; WBC, white blood cell count.
+
+Table 2 Summary of reported cases treated with TKIs as second-line therapy after ICIs
+
+1L ICI	N (%)	2L TKI	N (%) mPFS, months	mOS, months	Toxicity, n (%)	
+Auvry et al. [14] (n = 33)					
+PD-1+CTLA-4 blockade	33 (100)	All	8	−	G3 and G4 AEs	
+(followed by maintenance anti-PD-1)	Sunitinib	17 (52) 8	11	14 (42)	
+	Pazopanib	6 (18)			
+	Axitinib	8 (24) 7	NR		
+	Cabozantinib	2 (6)			
+	Other	5	13		
+	
+Shah et al. [15] (n = 70)				Discontinuation of 2L TKI due to its toxicity	
+Anti-PD-(L)1 single agent	12 (17)	All	13.2	NR	12 (17)	
+PD-1+CTLA-4 blockade (followed by maintenance anti-PD-1)	33 (47)	Sunitinib	6 (9)		1 (17)	
+PD-(L)1+ anti-VEGF therapy	25 (36)	Pazopanib	19 (27)		8 (42)	
+	Axitinib	25 (36)		3 (12)	
+		Cabozantinib	20 (28)		0 (0)	
+1L, first line; 2L, second line; CTLA-4, cytotoxic T lymphocyte-associated protein 4; ICI, immune checkpoint inhibitors; mOS, median overall survival; mPFS, median progression-free survival; PD-1, programmed death-1; PD-L1, programmed death ligand-1; VEGF, vascular endothelial growth factor TKI, tyrosine kinase inhibitor.

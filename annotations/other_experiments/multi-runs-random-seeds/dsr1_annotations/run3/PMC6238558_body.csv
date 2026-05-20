@@ -1,0 +1,83 @@
+event,time
+70-year-old,0
+male,0
+farmer,0
+presented to the emergency department,0
+high-grade fever,-120
+generalized body ache,-120
+headache,-120
+altered sensorium,-24
+joint pains,0
+epigastric pain,0
+no comorbidities,0
+no history of drug addiction,0
+no history of intoxication,0
+inguinal lymphadenopathy,0
+mild generalized rash,0
+no eschar,0
+hemodynamically stable,0
+disoriented,0
+no focal neurological deficit,0
+no neck rigidity,0
+acute febrile illness,0
+undifferentiated fever,0
+workup for tropical infections,0
+negative for malaria,0
+negative for dengue,0
+negative for typhoid,0
+negative for leptospira,0
+scrub typhus antigen card positive,0
+scrub IgM positive,0
+blood cultures sterile,0
+body fluid cultures sterile,0
+"leukocytosis (15,800/cc)",0
+hyperbilirubinemia,0
+transaminitis,0
+total bilirubin: 3.6 mg/dL,0
+direct bilirubin: 2.6 mg/dL,0
+serum glutamic oxaloacetic transaminase: 116 U/L,0
+serum glutamic pyruvic transaminase: 178 U/L,0
+international normalized ratio: 1.56,0
+viral markers negative for hepatitis B antigen,0
+viral markers negative for hepatitis C antibody,0
+ultrasound abdomen: mild fatty infiltration of the liver,0
+managed conservatively,0
+doxycycline 100 mg twice daily,0
+defervescence,48
+orientation improved,48
+weakness of both lower limbs (Grade 2/5),96
+weakness progressed to upper limbs (Grade 2/5),96
+deep tendon reflexes absent,96
+plantar responses flexor,96
+bladder incontinence,96
+no bowel incontinence,96
+shifted to Intensive Care Unit,96
+breathing difficulty,96
+respiratory distress,96
+single breath count 10,96
+respiratory acidosis,96
+intubated,96
+mechanical ventilation,96
+MRI brain: no abnormality,96
+MRI cervical spine: no abnormality,96
+NCV: motor sensory demyelinating polyneuropathy,96
+CSF analysis: protein 146,96
+CSF cell count: 70 with lymphocytic predominance,96
+CSF sugar: 71 mg/dL,96
+blood sugar: 145 mg/dL,96
+intravenous immunoglobulin therapy 0.4 mg/kg/day,96
+rifampicin 600 mg twice daily,96
+improvement in limb weakness,240
+improvement in respiratory parameters,240
+weaned off ventilator,240
+extubated,240
+mechanical ventilation duration: 10 days,240
+oral feeding started,240
+aggressive limb physiotherapy,240
+chest physiotherapy,240
+shifted out from ICU,240
+discharged from hospital,672
+full neurological recovery,672
+total hospital stay: 4 weeks,672
+followed up regularly,672
+no functional disability,672

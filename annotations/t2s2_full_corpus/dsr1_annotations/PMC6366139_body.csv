@@ -1,0 +1,104 @@
+event,time
+53-year-old man,0
+hypertension,0
+type 2 diabetes mellitus,0
+alcohol abuse,0
+massive bout of alcohol intake,-96
+liquid diarrhoea,-96
+self-medication by NSAIDs (ibuprofen),-96
+presented with febrile respiratory distress,-96
+diffuse cutaneous marbling,-96
+emergency admission in critical care unit,0
+blood pressure preserved (mean blood pressure 70-80 mmHg),0
+oxygen saturation 83% without oxygen therapy,0
+confusion,0
+marbling involved all four members,0
+purpuric lesions on extremities,0
+oligo-anuric,0
+initiation of massive fluid infusion,0
+acute renal failure,0
+serum creatinine 4.7 mg/dL,0
+blood urea nitrogen 8.4 mmol/L,0
+severe inflammation,0
+C reactive protein 300 mg/L,0
+procalcitonin 195 mg/L,0
+"metabolic acidosis (pH 7.24, bicarbonataemia 14 mmol/L)",0
+hyperlactataemia (6 mmol/L),0
+liver enzymes TGO/TGP 1.5-2 N,0
+anaemia (9.6 g/dL),0
+subnormal platelet count (130 G/L),0
+hyperleucocytosis (24 G/L),0
+increased lactate dehydrogenase (800 UI/L),0
+free bilirubin (25 mmol/L),0
+haptoglobinaemia normal (1.3 g/L),0
+schizocytosis 2%,0
+prothrombin time 15 s,0
+fibrinogen 6.1 g/L,0
+troponin 618 ng/mL,0
+chest X-ray showed pneumonia of lower right lobe,0
+echocardiography demonstrated global left ventricle hypokinesia,0
+ejection fraction 20%,0
+probabilistic antibiotherapy (ceftriaxone/levofloxacin) initiated,0
+haemodialysis initiated,0
+severe pneumonia,0
+acute renal failure,0
+myocarditis,0
+pneumococcal infection confirmed,0
+positive urinary pneumococcal antigenuria,0
+blood cultures negative,0
+after 2 days of supportive treatment,48
+oligo-anuric persisted,48
+confusion persisted,48
+"cutaneous necrotic lesions appeared on extremities, legs, hands, thorax, nose",48
+skin biopsy showed fibrin thrombi and epidermolysis,48
+haemoglobinaemia dropped to 8.2 g/dL,48
+platelets dropped to 60 G/L,48
+schizocytes rose to 4%,48
+haptoglobin decreased to <0.1 g/L,48
+plasmatic exchanges (PE) initiated,72
+plasma substitution,72
+after 4 days of PE (96 hours from admission),96
+renal function unchanged,96
+haemolysis parameters unchanged,96
+persistence of anuria,96
+haptoglobin <0.1 g/L,96
+severe thrombopenia (32 G/L),96
+schizocytosis 11%,96
+necrosis extension to roots of members and nose wings,96
+confusion persisted,96
+obnubilation persisted,96
+troponin decreased to 106 ng/mL,96
+cardiac ejection fraction improved to 30-35%,96
+ECZ treatment initiated (first dose 1200 mg),120
+three days after first ECZ injection,144
+mental confusion regressed,144
+platelet count 48 G/L,144
+haptoglobin 0.4 g/L,144
+platelets >150 G/L (Day 6),144
+diuresis resumed (Day 10),240
+renal function improved,240
+dialysis withdrawal (Day 14),336
+plasma creatinine 0.8 mg/dL (Day 25),600
+ECZ therapy maintained (1200 mg twice monthly),600
+skin lesions healed on nose and hands,4320
+legs and feet infected,2160
+trans-tibial bilateral amputation (3 months after onset),2160
+ADAMTS13 activity normal,0
+no monoclonal gammapathy,0
+HIV negative,0
+hepatitis C negative,0
+Parvovirus B19 negative,0
+cytomegalovirus serology negative,0
+stool culture negative for STEC,0
+PCR on stools negative for shigatoxin genes,0
+direct Coombs' test positive,0
+indirect Coombs' test positive,0
+C3 normal,0
+C4 normal,0
+CH50 normal,0
+complement alternative pathway regulators normal,0
+plasmatic C5b9 normal,0
+anti-CFH antibodies negative,0
+genetic screening negative,0
+ECZ discontinued after 6 months,4320
+serum creatinine 0.89 mg/dL (1 year later),8760

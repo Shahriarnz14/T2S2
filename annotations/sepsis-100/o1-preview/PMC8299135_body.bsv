@@ -1,0 +1,44 @@
+Generalized fatigue | -4320
+Weight loss | -4320
+History of hepatitis B | -4320
+History of asthma | -4320
+Intravenous drug use | -4320
+Excessive use of alcohol | -4320
+Pre-syncope | -1440
+Syncope lasting less than 5 min | -1440
+Left-sided chest tightness | -1440
+Presented to the hospital | -1440
+Weight 41 kg | -1440
+Blood pressure of 96/60 mm Hg | -1440
+Cardiac examination unremarkable | -1440
+Respiratory examination unremarkable | -1440
+Diffuse erythematous rash in the left lower limb | -1440
+Electrocardiography demonstrated normal sinus rhythm | -1440
+Raised troponin concentration of 1,268 ng/l | -1440
+Eosinophil count of 7.6 × 10^9/l | -1440
+Referred to cardiology | -1436
+Working diagnosis of myocarditis | -1436
+Cardiac magnetic resonance imaging showed eosinophilic myocarditis | -1436
+Coronary angiography revealed no evidence of coronary artery disease | -1436
+Decision to perform skin biopsy | -1436
+Patient improved clinically | -1300
+Discharged | -1300
+Edoxaban, 30 mg once daily prescribed | -1300
+Prednisolone, 40 mg once daily prescribed | -1300
+Scheduled for follow-up in rheumatology clinic in 2 weeks | -1300
+Missed rheumatology clinic appointment | -964
+Neck swelling | 0
+Admitted to hospital | 0
+Eosinophil count increased to 19.7 × 10^9 cells/l | 0
+Prednisolone increased to 100 mg once daily | 0
+Computed tomography of neck demonstrated lymphadenopathy | 0
+Biopsy confirmed T-cell lymphoma | 0
+Started chemotherapy with cyclophosphamide | 0
+Deteriorated from sepsis secondary to cholecystitis | 24
+New onset of seizures | 72
+Reduction in consciousness using a Glasgow Coma Scale of 9/15 | 72
+Head computed tomography demonstrated multiple bilateral acute infarctions | 72
+Glasgow Coma Scale score continued to deteriorate | 96
+Transferred to the intensive care unit | 96
+Critical care echocardiography demonstrated an apical tear | 96
+Palliative care was appropriate | 100

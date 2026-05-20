@@ -1,0 +1,112 @@
+Left lower leg cactus plant injury| -168
+Minor penetrating injury to his left lower leg from a cactus plant| -168
+Progressive left leg swelling| -48
+Worsening of erythema| -48
+Pain| -48
+Felt generally unwell| -48
+Paramedic assistance required| 0
+Presentation to Emergency Department via ambulance| 0
+Blood Pressure 71/41 mmHg| 0
+Mean Arterial Pressure 48 mmHg| 0
+Respiratory Rate 36 breaths per minute| 0
+Heart Rate 125 beats per minute, sinus tachycardia| 0
+Temperature 39°C| 0
+Oxygen Saturation 86% with 0.21 FiO2| 0
+Admitted to the Intensive Care Unit| 0
+pH 7.15 (acidosis)| 0
+Lactate 7.6| 0
+Sodium 134| 0
+Urea 7.6| 0
+Creatinine 173| 0
+eGFR 27| 0
+White Cell Count 13.8| 0
+C-reactive protein 22| 0
+Hemoglobin 114| 0
+Platelet count 81| 0
+Total Bilirubin 99| 0
+Alanine transaminase 61| 0
+Aspartate aminotransferase 83| 0
+Alkaline Phosphatase 96| 0
+Triple vasopressor support initiated| 0
+Noradrenaline 20 mcg/min| 0
+Adrenaline 20 mcg/min| 0
+Vasopressin 0.04 units/min| 0
+Piperacillin-Tazobactam IV 4.5g stat and then ceased| 0
+Meropenem IV 2 g| 0
+Lincomycin IV 600 mg| 0
+Vancomycin IV 2 g| 0
+Emergency left lower limb fasciotomy, debridement and below knee amputation| 0
+High suspicion of necrotizing fasciitis with an LRINEC Score of 5| 0
+Extensive left foot and below knee tissue necrosis| 0
+“Dishwasher fluid” appearance along with liquefied fat| 0
+Large areas of unviable skin and muscle| 0
+Histopathology undertaken to confirm diagnosis| 0
+Background history of Primary Sclerosing Cholangitis| 0
+Background history of mild Ulcerative Colitis| 0
+Not on any immunosuppressants| 0
+Postoperatively, patient was transferred to ICU intubated| 24
+Developed oliguria 10-14 ml/hour| 24
+Blood gas showed severe acidosis| 24
+Left internal jugular vascath insertion in preparation for continuous renal replacement therapy| 24
+Continuous renal replacement therapy commenced| 24
+pH 7.28| 24
+Lactate 4.7| 24
+Sodium 130| 24
+Creatinine 206| 24
+Hemoglobin 89| 24
+Platelet count 105| 24
+White Cell Count 17| 24
+C-reactive protein 78| 24
+International normalized ratio (INR) 2.2| 24
+Activated Partial Thromboplastin Time 150| 24
+Initial blood cultures isolated Group B Streptococcus pneumoniae| 24
+Ventilation sedation: Propofol 170 mg/hr, Fentanyl 40 mcg/hr| 24
+Intravenous Immunoglobulin G therapy 100 g initiated| 24
+Taken back to theatre to confirm source control and viability of the left stump| 24
+Remained intubated| 48
+Developed new onset of rapid atrial fibrillation with HR 110 bpm| 48
+Oliguria 7-25 ml/hour| 48
+pH 7.40| 48
+Lactate 3.9| 48
+White Cell Count 26| 48
+C-reactive protein 105| 48
+Procalcitonin 21.18 μg/L| 48
+Hemoglobin 83| 48
+Platelet count 63| 48
+International normalized ratio (INR) 3.1| 48
+Echocardiography: Moderate segmental left ventricular dysfunction, Ejection Fraction 40-45%| 48
+Dilated atria bilaterally| 48
+Raised Right Atrial Pressure| 48
+Amiodarone loading dose administered| 48
+Continuous renal replacement therapy with Oxiris filter applied| 48
+Developed features consistent with Sepsis Induced Coagulopathy (ISTH-SIC criteria)| 72
+Bedside surgical debridement performed| 72
+Histopathology consistent with necrotizing fasciitis| 72
+Wound culture showed Group B Streptococcus pneumoniae| 72
+Vasopressor support weaned| 72
+Remained oliguric (6-20 ml/hour)| 96
+Patient developed new onset purpura over the right forearm| 96
+Multiple weeping skin tears on right upper thigh| 96
+Ongoing rapid atrial fibrillation HR 130 bpm| 96
+Patient remained oliguric despite being challenged with Furosemide IV 250 mg| 96
+Developed fulminant hepatic failure and encephalopathy| 120
+Refractory oliguria 0-5 ml/hour| 120
+Severely deconditioned and developed ICU acquired weakness| 144
+Unarousable and had no response to noxious stimuli| 144
+Remained intubated and ventilated on Pressure Support Ventilation| 144
+Refractory oliguria| 144
+Sedation weaned off| 144
+Developed jaundice| 168
+Hypoactive delirium| 168
+Remained deeply sedated despite being off sedation| 168
+New onset lateralizing signs to the left upon painful stimuli compared to right side| 168
+Refractory oliguria| 168
+CT Brain: No acute intracranial pathology| 168
+Ultrasound abdomen: Acute calculous cholecystitis| 168
+Anuria established| 192
+Hypotensive BP 71/33 mmHg, MAP 51 mmHg| 192
+Febrile 39°C| 192
+Rapid atrial fibrillation HR 160 bpm| 192
+Significant deterioration despite ongoing medical therapy| 192
+Patient commenced on palliative care pathway| 192
+Deceased shortly post treatment withdrawal| 192

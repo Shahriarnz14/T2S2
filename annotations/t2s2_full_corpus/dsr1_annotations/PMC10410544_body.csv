@@ -1,0 +1,106 @@
+event,time
+88 years old,0
+female,0
+hip fracture,-432
+transferred to our hospital,0
+right hip pain,-432
+fall while walking using a walker,-432
+history of hypertension,0
+history of dementia,0
+conservative observation at home,-432
+no improvement in hip pain,-432
+visited another hospital,-384
+intertrochanteric fracture,-384
+planned surgical treatment,-384
+preoperative evaluation,-384
+diagnosed with COVID-19,-384
+transferred to isolation ward,-384
+blood pressure drop,-360
+urinary tract infection,-360
+sepsis,-360
+ischemic colitis,-360
+transferred to ICU,-360
+could not undergo planned surgery,-360
+treatment for ischemic colitis,-360
+treatment for septic shock,-360
+transferred to our hospital,0
+surgical treatment,0
+hemoglobin 9.0 g/dl,0
+"platelet 169,000 µl",0
+serum albumin 3.28 g/dl,0
+C-reactive protein 2.7 mg/dl,0
+sodium 139 mEq/L,0
+arterial blood gas analysis pH 7.55,0
+pCO2 37 mmHg,0
+PO2 63 mmHg,0
+HCO3- 32.1 mmol/L,0
+SaO2 94.1%,0
+prothrombin time 14.8 s,0
+international normalized ratio 1.21,0
+activated partial thromboplastin time 35.3 s,0
+D-dimer 18.94 µg/ml,0
+chest computed tomography,0
+diffuse pulmonary thromboembolism,0
+consolidation in right lower lobe,0
+ground glass opacity in both lower lobes,0
+small amount of right pleural effusion,0
+left 4–9th rib fractures,0
+left 11–12th rib fractures,0
+abdominopelvic CT scan,0
+deep vein thrombus in left common iliac vein,0
+deep vein thrombus in left external iliac vein,0
+transthoracic echocardiography,0
+ejection fraction 65%,0
+mild aortic stenosis,0
+thickened and calcified mitral valve,0
+trivial mitral regurgitation,0
+visible echogenic material in left atrium,0
+no atrial fibrillation,0
+cardiology consultation,0
+delayed surgery 2–3 days after heparinization,0
+insertion of IVC filter,0
+admitted to operating room,0
+right hip hemiarthroplasty,0
+preoperative vital signs BP 165/78 mmHg,0
+heart rate 72 beats/min,0
+body temperature 36.5℃,0
+respiratory rate 20/min,0
+oxygen saturation 91%,0
+continuous radial arterial pressure monitoring,0
+train-of-four monitoring,0
+bispectral index monitoring,0
+anesthesia induced with remimazolam,0
+anesthesia induced with rocuronium,0
+BIS 40,0
+TOF 0%,0
+tracheal intubation,0
+anesthesia maintained with remimazolam,0
+anesthesia maintained with remifentanil,0
+introducer sheath inserted into right femoral artery,0
+introducer sheath inserted into right femoral vein,0
+transesophageal echocardiography probe inserted,0
+no thrombus observed,0
+mean arterial pressure maintained over 70 mmHg,0
+ephedrine bolus 5 mg four times,0
+"fluid administered 1,400 ml plasmalyte",0
+bleeding 300 ml,0
+urine output 90 ml,0
+total anesthetic time 190 min,0
+total operating time 170 min,0
+flumazenil 0.2 mg,0
+TOF 100%,0
+pyridostigmine 10 mg,0
+glycopyrrolate 0.2 mg,0
+tracheal extubation,0
+transferred to ICU,0
+ECMO sheaths removed,48
+transferred to general ward,48
+IVC filter removed,192
+discharged,192
+diagnosed with COVID-19,-384
+pulmonary thromboembolism,0
+hypercoagulable state,0
+sepsis,-360
+delayed surgery,0
+heparinization,0
+no specific events postoperatively,48

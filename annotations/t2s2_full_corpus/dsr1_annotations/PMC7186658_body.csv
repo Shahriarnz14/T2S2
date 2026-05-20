@@ -1,0 +1,158 @@
+event,time
+50-year-old man,0
+admitted to emergency department,0
+cough with phlegm,-168
+sore throat,-168
+cold,-168
+fever,-96
+maximum body temperature 39 °C,-96
+coughing yellow phlegm,-96
+chest tightness,-96
+shortness of breath,-96
+dizziness,-96
+no chills,-96
+no chest pain,-96
+no hemoptysis,-96
+no abdominal pain,-96
+no diarrhea,-96
+emergency treatment,-96
+white blood cell count 8.98×10⁹/L,-96
+neutrophil ratio 90.7%,-96
+hs-CRP 185.61 mg/L,-96
+PCT 7.93 ng/mL,-96
+IL-6 239.3 pg/mL,-96
+"CPK 2,554 U/L",-96
+CPK-MB 10.62 µg/L,-96
+"LDH 1,673 U/L",-96
+GOP 513.4 U/L,-96
+GPT 183.1 U/L,-96
+chest CT right lower lung infection,-96
+enlarged right thyroid lobe,-96
+black loose stools,-96
+no bloody stools,-96
+increased urination frequency,-96
+urgency,-96
+no weight changes,-96
+history of thyroid enlargement,0
+unknown Chinese medicine intake >1 year,0
+history of black stools >1 year,0
+denied recent poultry exposure,0
+body temperature 36.6 °C,0
+pulse 107 beats/min,0
+breathing 32 times/min,0
+blood pressure 132/97 mmHg,0
+arterial oxygen saturation 85%,0
+FiO2 50%,0
+alert,0
+enlarged thyroid class II,0
+pharyngeal swelling,0
+no tonsillar swelling,0
+coarse breath sounds bilateral lungs,0
+scattered wet rales right lower lung,0
+heart rate 107 beats/min,0
+no pathological murmurs,0
+no abdominal tenderness,0
+no rebound tenderness,0
+no lower limb edema,0
+sepsis,0
+severe pneumonia,0
+respiratory failure,0
+myocardial damage,0
+impaired liver function,0
+gastrointestinal bleeding,0
+hypokalemia,0
+hyponatremia,0
+hypochloremia,0
+blood gas pH 7.479,0
+pCO₂ 29.3 mmHg,0
+pO₂ 51 mmHg,0
+base excess -2 mmol/L,0
+platelet count 94×10⁹/L,0
+neutrophil ratio 92%,0
+BUN 84 µmol/L,0
+Cr 84 µmol/L,0
+hs-CRP 219.85 mg/L,0
+PCT 12.96 ng/mL,0
+"CPK 18,821 U/L",0
+"LDH 1,622 U/L",0
+GOP 395.5 U/L,0
+GPT 181.4 U/L,0
+urinary protein 3.0 g/L,0
+red blood cells 200/µL urine,0
+negative influenza antigen,0
+negative bird flu nucleic acid,0
+negative bacterial smears,0
+negative fungal smears,0
+negative acid-fast bacteria,0
+negative sputum smear,0
+negative blood cultures,0
+urine culture <100 CFU/mL,0
+negative Mycoplasma pneumoniae antibody,0
+negative Streptococcus pneumoniae antigen,0
+negative GM test,0
+negative G test,0
+negative cryptococcal antigen,0
+negative tuberculosis immunoassay,0
+rubella IgG 34.9 IU/mL,0
+CMV IgG 189.3 AU/mL,0
+negative Toxoplasma IgM,0
+negative rubella IgM,0
+negative CMV IgM,0
+negative herpes simplex IgM,0
+negative CMV nucleic acid,0
+negative fecal occult blood,0
+chest radiograph right lung infection,0
+right pleural effusion,0
+endotracheal intubation,17
+mechanical ventilation,17
+imipenem/cilastatin,0
+linezolid,0
+oseltamivir,0
+methylprednisolone 80 mg daily,0
+worsening condition,24
+repeat chest radiograph,24
+decreased right lung radiolucency,24
+left lung patchy shadows,24
+aggravated lung lesion,24
+acute renal failure,48
+BUN 13.43 mmol/L,48
+Cr 210 µmol/L,48
+PCT 35.57 ng/mL,48
+lactic acid 2.13 mmol/L,48
+"IL-6 2,048 pg/mL",48
+"CPK 13,371 U/L",48
+CK-MB 160 U/L,48
+bronchoscopy,72
+BALF NGS,72
+blood NGS,72
+C. psittaci detected,120
+chest CT increased consolidation,120
+meropenem,120
+doxycycline,120
+antibiotics adjusted,240
+ceftazidime,240
+doxycycline combined,240
+weaned off ventilation,264
+extubation,264
+oral doxycycline,264
+repeated chest CT,336
+improved lung shadows,336
+right pleural effusion small,336
+BUN 4.3 mmol/L,336
+Cr 47 µmol/L,336
+PCT 0.15 ng/mL,336
+lactic acid 1.7 mmol/L,336
+IL-6 9.1 pg/mL,336
+CPK 99 U/L,336
+CK-MB 22.4 U/L,336
+GOP 28 U/L,336
+GPT 48 U/L,336
+discharged,504
+severe pneumonia C. psittaci,504
+ARDS,504
+sepsis,504
+respiratory failure,504
+myocardial damage,504
+impaired liver function,504
+acute kidney injury,504
+euthyroid sick syndrome,504

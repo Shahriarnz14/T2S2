@@ -1,0 +1,58 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+parkinsonism,-8760
+diabetes mellitus,-8760
+levodopa / carbidopa,-8760
+rasagiline,-8760
+ropinirole,-8760
+trihexyphenidyl,-8760
+amantadine,-8760
+metformin,-8760
+glipizide,-8760
+cellulitis,0
+intravenous clindamycin,0
+intravenous benzylpenicillin,0
+high-temperature spikes,48
+tachycardia,48
+tachypnea,48
+hypotensive,48
+encephalopathic,48
+shifted to ICU,48
+intravenous linezolid,48
+intravenous piperacillin with tazobactam,48
+vancomycin not considered,48
+hemodynamics improved,48
+inotropic supports,48
+oral hypoglycemic agents stopped,48
+insulin started,48
+confused,48
+drowsy,48
+disoriented,48
+altered sensorium,48
+myoclonus,48
+tremors,48
+jerky movements,48
+no neck stiffness,48
+computed tomography of the brain,48
+cerebrospinal fluid analysis,48
+improving white blood cell counts,48
+better glycemic control,48
+sterile blood and pus cultures,48
+serotonin syndrome suspected,96
+linezolid and rasagiline stopped,96
+temperature settled,104
+heart rate normal,104
+sensorium improved,104
+tremors subsided,104
+shifted out of ICU,192
+started walking with support,240
+discharged from hospital,240
+anti-parkinsonism drugs continued,240
+rasagiline added,240
+regular follow-up with neurologist,240
+stable and asymptomatic for serotonin syndrome,240

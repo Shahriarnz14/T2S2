@@ -1,0 +1,115 @@
+event,time
+23 years old,0
+female,0
+admitted for induction of labour,0
+previous caesarean section,0
+gravida 2,0
+para 1,0
+cervical ripening balloon catheter inserted,-12
+cervical ripening balloon catheter removed,0
+artificial rupture of membranes,0
+clear liquor observed,0
+intravenous oxytocin infusion commenced,0
+epidural anesthesia requested,0
+indwelling catheter inserted,0
+full dilatation reported,6
+passive descent of fetal head allowed,6
+active pushing commenced,7
+pathological cardiotocograph,7
+late decelerations,7
+prolonged decelerations,7
+instrumental delivery decision made,7
+indwelling catheter balloon deflated,7
+rosé-coloured haematuria noted,7
+low cavity vacuum delivery,7
+right mediolateral episiotomy,7
+McRoberts manoeuvre required,7
+healthy male neonate delivered,7
+Apgar scores 9,7
+Apgar scores 10,7
+postpartum haemorrhage,7
+atony,7
+local haemorrhage at episiotomy site,7
+syntocinon infusion administered,7
+ergometrine administered,7
+episiotomy laceration suture repair,7
+estimated blood loss 600 mL,7
+indwelling catheter reinserted,7
+clear urine noted,7
+epidural catheter removed,7
+remained well overnight,12
+no pain concerns,12
+no haemodynamic instability concerns,12
+indwelling catheter removed,24
+normal micturition,26
+acute right-flank pain developed,39
+pain radiating to right iliac fossa,39
+constant pain,39
+severe pain,39
+opioid analgesia required,39
+rebound tenderness at right iliac fossa,39
+rebound tenderness at right renal angle,39
+indwelling catheter reinserted,39
+1000 mL clear urine drained,39
+no improvement in pain after decompression,39
+febrile 38.4°C,39
+tachycardic,39
+hypotensive,39
+haemoglobin 86,39
+white cell count 6,39
+venous lactate 1.9,39
+creatinine 58,39
+CRP 87,39
+uterine rupture considered,39
+puerperal sepsis considered,39
+renal calculi considered,39
+appendicitis considered,39
+IV crystalloid administered,39
+ceftriaxone administered,39
+metronidazole administered,39
+gentamicin administered,39
+urine output >100 mL/h,39
+persistent hypotension,39
+persistent tachycardia,39
+CT abdomen and pelvis with contrast performed,39
+free fluid in right retroperitoneal space,39
+no uterine rupture,39
+simple fluid reported,39
+urine suspected,39
+stable haemoglobin 86,39
+haematocrit 0.265,39
+CRP 76,39
+creatinine 50,39
+urine microscopy positive for organisms,39
+sepsis from urinary tract suspected,39
+transudative fluid considered,39
+lower urinary tract injury considered unlikely,39
+transferred to intensive care,42
+IV metaraminol commenced,42
+packed red blood cells administered,42
+urology consult,42
+CT IV pyelogram recommended,42
+CT IV pyelogram performed,42
+contrast extravasation at right mid ureter,42
+no hydronephrosis,42
+no drainable collection,42
+emergency cystoscopy performed,63
+posterior bladder wall ecchymosis noted,63
+normal mucosa,63
+normal ureteral orifice,63
+guide wire insertion failed,63
+right rigid ureteroscopy performed,63
+grade III incomplete proximal ureteric rupture,63
+ureteric stent placed,63
+postoperative monitoring in ICU,63
+persistent fevers,63
+IV piperacillin/tazobactam administered,63
+E. coli in urine,63
+stepped down to ward care,108
+discharged home,240
+cystoscopy planned,240
+retrograde pyelogram planned,240
+stent removal planned,240
+pyelogram no contrast leak,1008
+stent removed,1008
+no complications,1008

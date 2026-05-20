@@ -1,0 +1,66 @@
+event,time
+80 years old,0\
+male,0\
+admitted to the hospital,0\
+peripheral artery disease,0\
+hypertension,0\
+end stage renal disease,0\
+peritoneal dialysis,0\
+hypotension,0\
+denied chest pain,0\
+denied shortness of breath,0\
+denied fever,0\
+denied cough,0\
+denied palpitation,0\
+denied nausea,0\
+denied vomiting,0\
+denied abdominal pain,0\
+denied changes in urinary or bowel habits,0\
+blood pressure 63/29,0\
+pulse 72/min,0\
+temperature 97.2 F,0\
+WBC count 16.5 K/UL,0\
+Hgb 14.3 GM/DL,0\
+PLT 115 K,0\
+Creatinine 12.59 MG/DL,0\
+BUN 56 MG/DL,0\
+Sodium 133 MMOL/L,0\
+Potassium 5.4 MMOL/L,0\
+BNP 143 PG/ML,0\
+Troponin 0.05 NG/ML,0\
+"EKG showed ST segment elevation in V3, V4, V5",0\
+"Q wave in II, III, AVF",0\
+diagnosis of STEMI,0\
+aspirin 325 mg,0\
+clopidogrel 300 mg,0\
+atorvastatin 80 mg,0\
+heparin 3500 units/kg,0\
+emergent cardiac catheterization,0\
+coronary angiography showed chronic total right coronary artery occlusion,0\
+left coronary arteries patent,0\
+left ventriculography revealed mid to apical akinesis,0\
+left ventriculography revealed basal hyperkinesis,0\
+transferred to ICU,0\
+started on levophed,0\
+CK-MB 11.6 ng/ml,4\
+Troponin 2.10,4\
+EKG showed resolution of ST elevation in anterior leads,6\
+leukocytosis,0\
+hypotension,0\
+broad spectrum antibiotics,6\
+vancomycin,6\
+Zosyn,6\
+septic shock,6\
+cardiogenic shock,6\
+transthoracic echocardiography revealed LVEF 25–30%,12\
+elevated LV end diastolic pressure,12\
+akinesis of left and right ventricle,12\
+chest pain free,12\
+levophed continued,12\
+neosynephrine started,12\
+workup for sepsis unremarkable,24\
+repeat echocardiogram showed LV thrombus,24\
+akinesis of both ventricles,24\
+anticoagulation with heparin,24\
+hemodynamically unstable,24\
+died,72

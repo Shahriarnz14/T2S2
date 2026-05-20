@@ -1,0 +1,71 @@
+event,time
+16 years old ,0
+male ,0
+admitted to the hospital ,0
+fever ,0
+fatigue ,0
+scleral icterus ,0
+jaundice ,0
+dark urine ,0
+right abdominal pain ,0
+right shoulder pain ,0
+ulcerative colitis ,-720
+corticosteroid-dependent course ,-720
+acute exacerbations ,-720
+aminosalicylates ,-720
+immunomodulators ,-720
+infliximab ,-672
+colonoscopy ,-504
+pancolitis ,-504
+IV corticosteroids ,-504
+infliximab ,-504
+leukocytosis ,0
+anemia ,0
+thrombocytopenia ,0
+transaminitis ,0
+elevated ALP ,0
+hyperbilirubinemia ,0
+elevated CRP ,0
+CT ,0
+multiple multi-loculated abscesses ,0
+intrahepatic thrombosis ,0
+splenomegaly ,0
+bilateral pleural effusions ,0
+diffuse colonic wall thickening ,0
+abscess drainage ,24
+Peptostreptococci ,24
+skin flora ,24
+Escherichia coli ,24
+acid-fast bacilli stain ,24
+bacteremic ,24
+Streptococcus viridans ,24
+septic shock ,48
+ICU management ,48
+vancomycin ,48
+meropenem ,48
+ceftriaxone ,72
+metronidazole ,72
+surgical drainage ,120
+repeat wound cultures ,120
+repeat CT ,240
+improved ,240
+amoxicillin-clavulanate ,336
+discharged ,720
+nasogastric tube ,720
+exclusive enteral nutrition ,720
+CRP down-trending ,720
+liver loculations improved ,1296
+liver enzymes normalized ,1296
+inflammatory markers normalized ,1296
+severe pancolitis ,2640
+total colectomy ,2640
+surgical gross pathology ,2640
+moderately to severely active chronic pancolitis ,2640
+mural abscesses ,2640
+diffuse tan-red and hyperemic mucosa ,2640
+ulceration ,2640
+nodularity ,2640
+pseudopolyps ,2640
+no ischemia ,2640
+no dysplasia ,2640
+no granulomas ,2640

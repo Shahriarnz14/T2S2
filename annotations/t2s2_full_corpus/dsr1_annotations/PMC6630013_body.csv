@@ -1,0 +1,133 @@
+event,time
+48 years old,0
+male,0
+admitted to the hospital,0
+fever,-96
+cough,-96
+sputum,-96
+administered amoxicillin,-96
+condition deteriorated,-72
+dyspnea,-72
+hospitalized in a local general hospital,-72
+diagnosed with bacterial pneumonia,-72
+started non-invasive mechanical ventilation,-72
+treated with Ceftriaxone,-72
+respiratory condition deteriorated,0
+computed tomography (CT) showed bilateral diffuse consolidation,0
+diabetes mellitus,0
+chronic gout,0
+long-term use of corticosteroids,0
+body temperature 38.5°C,0
+blood pressure 100/60 mmHg,0
+PaO2/FiO2 50 mmHg,0
+lung compliance 12 mL/cmH2O,0
+noninvasive ventilation applied,0
+no improvement after 6 hours,6
+intubated for mechanical ventilation,6
+prone position,6
+volume-controlled ventilation (VCV) support,6
+transferred to the intensive care unit (ICU),24
+blood pressure 110/60 mmHg,24
+heart rate 102 beats/min,24
+SpO2 80%,24
+central venous pressure 10 mmHg,24
+Murray score 4,24
+chest X-ray showed bilateral infiltration,24
+lung ultrasound showed no pleural fluid,24
+Mycobacterium tuberculosis detected in sputum smear,24
+HIV not detected,24
+diagnosed with TB-induced ARDS,24
+VV-ECMO initiated,24
+mechanical ventilator settings: Vt 4 mL/kg,24
+Pplat <25 cmH2O,24
+RR 8 breaths/min,24
+PEEP 14 cmH2O,24
+FiO2 1.0,24
+anti-TB regimens initiated,24
+ethambutol,24
+pyrazinamide,24
+rifampicin/isoniazid,24
+Levofloxacin administered,24
+meropenem,24
+amikacin,24
+corticosteroids administered,24
+heparin anticoagulation started,24
+hypoxemia improved,48
+PaO2/FiO2 216 mmHg,48
+lung compliance 26 mL/cmH2O,48
+chest radiography improved,96
+weaned from ECMO,120
+PaO2/FiO2 >390 mmHg,120
+lung compliance 38 mL/cmH2O,120
+extubated,192
+mechanical ventilation support resumed due to respiratory muscle weakness,240
+tracheostomy performed,360
+weaned from mechanical ventilation,840
+discharged,1128
+anti-TB regimens continued after discharge,1128
+48 years old,0
+male,0
+admitted to the hospital,0
+fever,-96
+cough,-96
+sputum,-96
+administered amoxicillin,-96
+condition deteriorated,-72
+dyspnea,-72
+hospitalized in a local general hospital,-72
+diagnosed with bacterial pneumonia,-72
+started non-invasive mechanical ventilation,-72
+treated with Ceftriaxone,-72
+respiratory condition deteriorated,0
+computed tomography (CT) showed bilateral diffuse consolidation,0
+diabetes mellitus,0
+chronic gout,0
+long-term use of corticosteroids,0
+body temperature 38.5°C,0
+blood pressure 100/60 mmHg,0
+PaO2/FiO2 50 mmHg,0
+lung compliance 12 mL/cmH2O,0
+noninvasive ventilation applied,0
+no improvement after 6 hours,6
+intubated for mechanical ventilation,6
+prone position,6
+volume-controlled ventilation (VCV) support,6
+transferred to the intensive care unit (ICU),24
+blood pressure 110/60 mmHg,24
+heart rate 102 beats/min,24
+SpO2 80%,24
+central venous pressure 10 mmHg,24
+Murray score 4,24
+chest X-ray showed bilateral infiltration,24
+lung ultrasound showed no pleural fluid,24
+Mycobacterium tuberculosis detected in sputum smear,24
+HIV not detected,24
+diagnosed with TB-induced ARDS,24
+VV-ECMO initiated,24
+mechanical ventilator settings: Vt 4 mL/kg,24
+Pplat <25 cmH2O,24
+RR 8 breaths/min,24
+PEEP 14 cmH2O,24
+FiO2 1.0,24
+anti-TB regimens initiated,24
+ethambutol,24
+pyrazinamide,24
+rifampicin/isoniazid,24
+Levofloxacin administered,24
+meropenem,24
+amikacin,24
+corticosteroids administered,24
+heparin anticoagulation started,24
+hypoxemia improved,48
+PaO2/FiO2 216 mmHg,48
+lung compliance 26 mL/cmH2O,48
+chest radiography improved,96
+weaned from ECMO,120
+PaO2/FiO2 >390 mmHg,120
+lung compliance 38 mL/cmH2O,120
+extubated,192
+mechanical ventilation support resumed due to respiratory muscle weakness,240
+tracheostomy performed,360
+weaned from mechanical ventilation,840
+discharged,1128
+anti-TB regimens continued after discharge,1128

@@ -1,0 +1,110 @@
+event,time
+60 years old,0
+male,0
+homeless,0
+HIV,0
+CD4 count 604,-720
+"HIV RNA PCR 120,000",-720
+bilateral wrist pain,-24
+left ankle swelling,-24
+left ankle pain,-24
+pain 10/10,-24
+constant pain,-24
+pain increased with movement,-24
+no relief from ibuprofen,-24
+history of gout attack,-24
+denies intravenous drug abuse,-24
+denies fever,-24
+denies recent illness,-24
+low grade fever 37.5°C,0
+tachycardia 120 bpm,0
+non-toxic appearance,0
+no rashes,0
+limited active movement of bilateral wrists,0
+limited active movement of left ankle,0
+warmth in joints,0
+tenderness to palpation in joints,0
+trace edema left ankle,0
+treated with colchicine 1.2 mg,0
+treated with colchicine 0.6 mg x4,0
+treated with ibuprofen 800 mg,0
+treated with hydrocodone/acetaminophen 5/325 mg,0
+significant pain decrease,0
+able to move joints,0
+able to bear weight,0
+discharged home,0
+prescription for ibuprofen,0
+prescription for hydrocodone/acetaminophen,0
+diagnosis HIV,0
+diagnosis acute gout attack,0
+returned to ED,72
+worsening left ankle pain,72
+worsening left ankle erythema,72
+worsening left ankle swelling,72
+new right ankle pain,72
+new right ankle erythema,72
+new right ankle edema,72
+new left knee pain,72
+new left knee erythema,72
+new left knee edema,72
+tachycardia 122 bpm,72
+non-toxic appearance,72
+no rash,72
+peripheral WBC 9.4,72
+uric acid 6.9 mg/dL,72
+left knee arthrocentesis,72
+joint aspirate WBC 8.7 x10^3 cells/μL,72
+no crystals in aspirate,72
+treated with ketorolac,72
+pain improvement,72
+discharged,72
+diagnosis inflammatory arthritis,72
+found unresponsive,120
+unresponsive all night,120
+given naloxone,120
+hypertension 151/84,120
+temperature 36.3°C,120
+tachycardia 138 bpm,120
+left lower extremity edema,120
+purpura left leg,120
+purpura right ankle,120
+CT left leg edema,120
+negative head CT,120
+acute renal failure Cr 2.2,120
+peripheral WBC 6.6,120
+17% bands,120
+knee cultures growing gram negative coccobacilli,120
+orthopedic consult,120
+OR washout,120
+admitted to ICU,120
+intubated,120
+blood cultures N. meningitidis,120
+CSF cultures N. meningitidis,120
+septic shock,120
+xigris,120
+levophed,120
+multiple surgical debridement/washouts,120
+I&D of bilateral lower extremities,120
+infected wounds from purpura fulminans,120
+wound vac management,120
+skin grafts left lower extremity,120
+acute renal failure due to urinary retention,168
+hydronephrosis,168
+urology consult,168
+taught in-and-out catheterizations,168
+SIADH,168
+fluid restriction,168
+left-sided hearing loss,168
+right upper extremity DVT,168
+bridged to warfarin,168
+hospital-acquired UTI,168
+multiple blood transfusions,168
+nutritional supplementation for malnourishment,168
+prolonged altered mental status,168
+negative brain MRI,168
+negative EEG,168
+infectious disease consult,168
+14-day ceftriaxone,168
+vancomycin,168
+meropenem,168
+discharge after 62 days,1488

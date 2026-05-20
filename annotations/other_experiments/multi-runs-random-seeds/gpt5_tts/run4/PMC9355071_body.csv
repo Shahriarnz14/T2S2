@@ -1,0 +1,69 @@
+event,time
+46-year-old man ,0
+weighing 63 kg ,0
+male ,0
+ulcerative colitis ,0
+family history of sudden death in maternal uncle ,0
+malaise ,-72
+fever ,-72
+loss of appetite ,-72
+arrival at the emergency department ,0
+blood pressure 124/46 mmHg ,0
+heart rate 122 beats per min ,0
+SpO2 98% in room air ,0
+respiratory rate 16/min ,0
+body temperature 40.2°C ,0
+alert ,0
+chills ,0
+nausea ,0
+cardiac arrest ,1
+chest compression initiated ,1
+tracheal intubation ,1
+ventricular fibrillation ,1
+defibrillation was performed twice ,1
+adrenaline was administered once ,1
+return of spontaneous circulation ,1
+diagnosed with Brugada syndrome ,1
+coved-type ST elevation in V1 and V2 ,1
+type 1 Brugada electrocardiogram pattern ,1
+inferolateral early repolarization ,1
+hypercalcemia 14.8 mg/dL ,1
+acetaminophen administered ,2
+fever subsided ,2
+reduction of coved pattern ,2
+body temperature 38.9°C ,2
+admitted to the intensive care unit ,2
+hypotension ,4
+suspected septic shock from ulcerative colitis exacerbation ,6
+CT scan showed a high-density area in the descending colon ,6
+increase in the lactate level ,6
+white blood cell count increased ,6
+procalcitonin level increased ,6
+tazobactam-piperacillin initiated ,6
+vasopressors initiated ,6
+extubation was performed ,48
+fever reoccurred ,120
+contrast-enhanced CT revealed a round low-density area of his liver ,120
+liver abscess ,120
+changed antibiotics to meropenem ,120
+changed antibiotics to vancomycin ,120
+antibiotics maintained for 3 weeks ,120
+puncture drainage performed ,120
+high parathyroid hormone levels ,240
+Tc scintigraphy abnormal uptake in the anterior mediastinum ,240
+infection was controlled ,720
+positive pilsicainide test result ,720
+implantation of an implantable cardioverter defibrillator (ICD) was performed ,720
+discharged ,744
+ECG and serum calcium level were followed up and treated ,744
+tumor resection was performed ,840
+pathological diagnosis was determined for an ectopic parathyroid adenoma ,864
+CT and magnetic resonance imaging revealed tumors in the pituitary ,900
+CT and magnetic resonance imaging revealed tumors in the adrenal glands ,900
+nonfunctional pituitary adenomas ,900
+nonfunctional adrenal tumors ,900
+multiple endocrine neoplasia type 1 (MEN1) presumed ,900
+serum calcium 13.8 mg/dL ,2304
+serum calcium 9.7 mg/dL ,4656
+J point elevation decreased ,4656
+early repolarization pattern ,-30624

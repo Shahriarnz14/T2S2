@@ -1,0 +1,116 @@
+event,time
+12 years old,0
+male,0
+Maori,0
+admitted to the hospital,0
+acute otitis media,-24
+perforation,-24
+neck swelling,-24
+neck pain,-24
+septic shock,0
+ICU admission,0
+endotracheal intubation,0
+CT scan,0
+retropharyngeal phlegmon,0
+obstructive thrombi in left internal jugular vein,0
+obstructive thrombi in right internal jugular vein,0
+pulmonary septic emboli,0
+multiple pulmonary lesions,0
+evolving lung abscesses,0
+Lemierre’s syndrome,0
+antibiotics started,0
+cefotaxime,0
+metronidazole,0
+flucloxacillin,0
+lincomycin,0
+MSSA in external ear canal culture,0
+MSSA in blood culture,0
+initial echocardiogram normal,0
+infective endocarditis excluded,0
+blood cultures positive for first 3 days,72
+high-frequency ventilation started,24
+hypoxia,24
+mean airway pressure increased to 28 cm H2O,24
+inspired oxygen fraction 0.5,24
+worst oxygenation index 40,24
+repeat CT scan on day 3,72
+progression of jugular clots,72
+pulmonary emboli progression,72
+pulmonary cavitating lesions,72
+cardiovascular support increased,72
+noradrenaline 0.3 µg/kg/min,72
+adrenaline 0.05 µg/kg/min,72
+vasopressin 1 U/h,72
+veno-arterial ECLS commenced,72
+femoral veno-arterial cannulation,72
+rest ventilation instituted,72
+pressure control ventilation,72
+peak inspiratory pressure 15 cm H2O,72
+positive end-expiratory pressure 5 cm H2O,72
+right-sided pneumothorax,72
+drained,72
+left-sided pneumothorax,144
+drained,144
+hemoserous drain losses 400 mL over 7 days,72
+inflammatory markers high,72
+inotropic support intermittently required,72
+CT imaging on day 8,192
+abscess posterior to C1,192
+osteomyelitis of C1 and C2,192
+opacified left mastoid,192
+abscess drainage,192
+cortical mastoidectomy,192
+heparin stopped,192
+tranexamic acid given,192
+periosteal bleeding,192
+blood loss 600–700 mL,192
+red blood cells transfused 1500 mL,192
+pooled platelets transfused 1100 mL,192
+fibrinogen high,192
+tranexamic acid 1800 mg,192
+hyperfibrinolysis on thrombelastogram,192
+MSSA in paravertebral abscess culture,192
+malleus destruction,192
+incus destruction,192
+granulation tissue in attic,192
+subtotal perforation,192
+negative pressure vacuum dressing applied,192
+CT on day 13,312
+right middle lobe abscess,312
+deferred drainage,312
+improving pulmonary gas exchange,312
+weaning from ECLS,312
+ECLS decannulation,384
+MRI post decannulation,384
+no further abscesses,384
+invasive mechanical ventilation until day 23,552
+non-invasive ventilation,552
+high-flow nasal cannula oxygen,552
+secondary pseudomonal sepsis,552
+critical illness myopathy,552
+CT after extubation,552
+pathological fractures of C1 lateral masses,552
+ICU discharge on day 43,1032
+follow-up imaging,1032
+improved lung fields,1032
+cavitations improved,1032
+resolved fluid collections around C1 and C2,1032
+persistent jugular vein thrombi,1032
+venous sinus thrombi,1032
+intravenous flucloxacillin,1032
+intravenous Bactrim,1032
+oral Bactrim,1032
+oral flucloxacillin,1032
+CNS imaging,480
+intracranial extradural collections,480
+cerebellar hemisphere hemorrhagic foci,480
+MRI six months post discharge,4320
+resolution of CNS findings,4320
+cerebellar gliosis,4320
+halo-thoracic jacket applied,552
+neurocognitive assessment normal,4320
+Pediatric Overall Performance Category 1,4320
+mild conductive hearing loss left,1032
+bilateral sensorineural hearing loss,1032
+hospital discharge,2880
+halo-thoracic jacket retained,2880

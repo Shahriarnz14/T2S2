@@ -1,0 +1,96 @@
+event,time
+51 years old,0
+female,0
+visited for total hip arthroplasty,0
+osteoarthritis due to acetabular dysplasia,0
+no special findings in personal medical history,0
+physical examination,-24
+chest X-ray,-24
+electrocardiogram,-24
+blood test,-24
+preoperative famotidine 20 mg administered,-2
+preoperative glycopyrrolate 0.2 mg administered,-2
+spinal block with 0.5% bupivacaine 10 mg,-1
+midazolam 1.0 mg injected,-1
+oxygen 5 L/min via face mask,-1
+anesthesia duration approximately 2 hours,-2
+blood loss 400 ml,0
+fluid administered 2100 ml,0
+urine output 950 ml,0
+arterial blood gas analysis: pH 7.386,0
+PaCO2 42.5 mmHg,0
+PaO2 164.7 mmHg,0
+HCO3 24.6 mM/L,0
+SaO2 99.8%,0
+Hb 10.1 g/dl,0
+arrival in recovery room,0
+blood pressure 110/60 mmHg,0
+heart rate 65 bpm,0
+pulse oximetry 99%,0
+cold and shivering,0
+warm blanket applied,0
+three hours post-recovery,3
+dizziness,3
+slight cyanosis of lips,3
+blood pressure 90/50 mmHg,3
+heart rate 70-95 bpm,3
+pulse oximetry 98%,3
+hemoglobin 7.9 g/dl,3
+hematocrit 24.3%,3
+suspected hypovolemia,3
+central venous catheter insertion decision,3
+left subclavian catheter insertion,4
+Trendelenburg position,4
+left arm internal rotation,4
+neck turned to right,4
+lidocaine local anesthesia,4
+skin puncture with 18G needle,4
+J-inducing wire insertion,4
+catheter expander used,4
+central venous catheter inserted,4
+blood aspiration confirmed,4
+catheter fixed at 15 cm,4
+blood pressure 110/60 mmHg post-catheter,4
+heart rate 78-100 bpm post-catheter,4
+pulse oximetry 99% post-catheter,4
+packed red blood cells 500 ml administered,4
+Hemovac drainage 50 ml,4
+decision for CT next morning,4
+Iopromide contrast medium injected 120 ml,24
+rate 2 ml/s,24
+CT of abdomen and pelvis,24
+chest heaviness post-CT,24
+oxygen 5 L/min via face mask post-CT,24
+blood pressure 110/66 mmHg post-CT,24
+heart rate 70 bpm post-CT,24
+arterial blood gas: pH 7.406,24
+PaCO2 36.8 mmHg,24
+PaO2 109.6 mmHg,24
+HCO3-11.5 mM/L,24
+SaO2 99.3%,24
+electrocardiogram performed,24
+echocardiogram performed,24
+cardiac enzyme test performed,24
+no allergic reaction signs,24
+chest X-ray post-CT,24
+catheter tip in brachiocephalic vein,24
+left hydrothorax observed,24
+sono-guided thoracentesis,24
+Chiba needle inserted 8th-9th rib,24
+100 ml pleural effusion drained,24
+8.5F pigtail catheter inserted,24
+contrast medium confirmed in fluid,24
+contrast medium slowly injected,24
+catheter position rechecked,24
+central venous catheter replaced,24
+new catheter fixed at 20 cm,24
+blood aspiration confirmed post-replacement,24
+chest X-ray post-replacement,24
+no dyspnea,24
+20 ml extracorporeal drainage,24
+chest X-ray monitoring,24
+vital signs monitoring,24
+hydrothorax resolved,168
+catheter removed after 7 days,168
+moved to general ward,168
+discharged after 14 days,336

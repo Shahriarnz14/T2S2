@@ -1,0 +1,64 @@
+Introduction
+
+The novel coronavirus (SARS CoV2) disease was first reported in the Wuhan province of Hubei, China in December 2019 [1,2]. This viral infection has affected a total of 6,931,000 population, including 400,857 deaths, across 5 continents and 187 countries (as of June 8, 2020) [3]
+
+It has a diverse clinical spectrum ranging from asymptomatic infection or mild symptoms to acute respiratory distress syndrome (ARDS) [4,5]. The most important prognostic factors are age (greater than 65 years), comorbidities such as diabetes, hypertension, myocardial infarction [1,6,7] and altered tests such asdimer > 1 mcg / ml, LDH > 350 U / L, lymphocyte count less than 800, positive troponin and ferritin greater than 1000 [5,6].
+
+Bacterial, fungal and viral coinfections with mycoplasma, legionella, influenza A/B, respiratory syncytial virus, parainfluenza, associated with a worse patient prognosis [[8], [9], [10]], have also been reported. We report the unusual case of a patient with COVID-19 and adenovirus infection.
+
+Case report
+
+A 40-year-old man (a merchant by profession from Bogotá, Colombia) was admitted to the emergency department because of the history of odynophagia, dry cough, exertional dyspnea, fever of 39 degrees Celsius, arthralgias and fatigue for a week, without any gastrointestinal symptoms. These clinical symptoms did not improve with paracetamol, and hence he decided to seek further medical help. He had a history of poorly controlled diabetes (glycosylated hemoglobin 10.8 %), notwithstanding daily insulin treatment with 44 IU of glargine and 16 UI of lispro before each meal. No history of smoking or alcohol consumption was reported. On physical examination, he had a body mass index of 28.3 kg / m2 and vital signs were the following: heart rate 110 beats per minute, 24 breaths per minute, oxygen saturation of 82 % at ambiance. Right lung rales were also found without cyanosis or lower limb edema. The patient did not have a direct contact with a coronavirus case, but he had worked with public as part of his business.
+
+Arterial gases showed moderate oxygen impairment (PAFI 190), and supplemental oxygen was required. Further examination revealed a normal blood count but increased CRP. Right basal ground glass opacity was found during chest x-ray. Later, a positive RT-PCR COVID- 19 was reported, and adenovirus was isolated in the respiratory viral panel (Fig. 1). Owing to poor prognostic factors, the patient had increased lactate dehydrogenase, markedly elevated ferritin, positive D-dimer adjusted by age (Table 1) and ground-glass opacities with multilobar involvement on chest tomography, a classic COVID-19 pattern according to the American Society of Radiologists (Fig. 2).Fig. 1 Detection of respiratory virus antigens.
+
+Fig. 1
+
+Table 1 Evolution of paraclinics.
+
+Table 1	Day 1	Day 3	Day 6	Day 12	Day 15	Day 18	Day 23	
+WBC × 10⁹ per L	4.6	6.1	8.9	11.7	15.3	10.6	6.64	
+Lymphocyte absolute count × 10⁹ per L	1.39	1.31	0.58	0.91	2.61	2.42	2.09	
+Platelet count, × 10⁹ per L	136	152	312	420	415	515	400	
+C reactive proteine (mg/dl)	14.18		25.68	20.93	14.79	3.25	9	
+Lactate dehydrogenase (UI/liter)	229	419	455		437			
+D-dimer, ng/mL	0.65	0.97	3.66					
+Ferritin, ng/mL	2296	4472	2913		2501			
+ALT, U/L	54	53	72	52	48	74		
+AST, U/L	36	63	86	57	62	54		
+
+Fig. 2 Chest tomography: multilobar, subpleural ground glass with areas of basal peripheral consolidation (classic COVID pattern).
+
+Fig. 2
+
+On the sixth day after admission, he had increased dyspnea, tachypnea and desaturation despite supplemental oxygen, so he was transferred to the intensive care unit. Management with ampicillin-sulbactam and clarithromycin was empirically started, and hydroxychloroquine (200 mg twice daily) was suggested according to national guidelines. Corrected Qt interval was monitored all the time. Hypotension and hypoxemia developed and did not improve despite using intravenous crystalloids and high flux oxygen, so mechanical ventilation and norepinephrine were started. Septic shock and acute respiratory distress syndrome (ARDS) were diagnosed. Pronation and neuromuscular relaxation cycles were also required, and Klebsiella oxytoca was isolated on blood cultures. Antibiotic escalation to cefepime was indicated, and a 10-day treatment was completed.
+
+On day 18, successful extubation was achieved, and he was transferred to the general floor. The symptoms resolved, and the second RT-PCR SARS Cov2 report was negative. He was discharged on the twentieth day after admission, and the follow-up appointments revealed supplemental oxygen requirement at home.
+
+Discussion
+
+We report a case of SARS-Cov2 and adenovirus coinfection, which further developed into acute respiratory distress syndrome. ICU stay was required, and clinical improvement was achieved by using hydroxychloroquine as per the local guidelines, [11]. The exact time of coinfection could not be established, and additional poor prognostic factor to the development of severe disease added to patient´s comorbidities and reported tests [1,6].
+
+SARS-Cov2 and other respiratory viruses´ coinfection are unusual. It is seen in 3.2 %–22.4 % cases [8,10]. The most common coinfections reported are enterovirus / rhinovirus 6.9 % and syncytial respiratory virus 5.2 %. [10,12]. A few case reports of influenza A, influenza B, metapneumovirus and seasonal coronaviruses such as Cov-HKU [9,10] can also be found in the literature, but coinfection with adenovirus has only been documented in 2 patients [13].
+
+The pathophysiological dynamics of SARS-Cov2 coinfection is not clear. There are some hypotheses about the relatively low presentation of SARS-Cov2 virus, without a predisposing higher risk factor [8,14]. It was documented in descriptive studies that with coinfection, a greater proportion of the patients had ARDS and septic shock and required an ICU admission [10,14].
+
+Chest tomography can show additional radiological findings, which are difficult to interpret [10]. Further laboratory findings revealed some differences such as greater lymphopenia and thrombocytopenia in coinfected patients. It is not known whether it is the cause or consequence of this coinfection [10,12,14].
+
+Although coinfection is not common, in cases with severe disease or CT findings that are not explained by COVID-19 infection [11,14,15], additional studies such as nested PCR for respiratory germs are required to detect potentially treatable pathogens, such as mycoplasma or influenza virus [14].
+
+Larger and better designed prospective analytical studies are required to determine further risk factors, clinical impact, prognosis, and the prevalence of SARS-Cov2 and another respiratory pathogen coinfection.
+
+Conclusion
+
+Although SARS-Cov2 coinfection with other respiratory viruses is rare, it is associated with a worse clinical outcome. The possibility of treatable pathogens must always be ruled out even if it is a very rare coinfection such as Covid-19 and adenovirus.
+
+Ethical considerations
+
+Written informed consent was obtained from the patient for the publication of this case report and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal on request.
+
+All authors have made substantial contributions to the following: (1) the conception and design of the study, or acquisition of data, or analysis and interpretation of data, (2) drafting the article or revising it critically for important intellectual content, (3) final approval of the version to be submitted.
+
+Declaration of Competing Interest
+
+The authors report no declarations of interest.

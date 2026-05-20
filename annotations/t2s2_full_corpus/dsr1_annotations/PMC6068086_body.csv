@@ -1,0 +1,70 @@
+event,time
+35 years old,0
+male,0
+former smoker,0
+former morbid obese,0
+BMI of 26 kg/m²,0
+acute myopericarditis,-61320
+fever,-61320
+odynophagia,-61320
+acute pulmonary edema,-61320
+admission to intensive coronary care unit,-61320
+left ventricle hypertrophy,-61320
+ejection fraction of 30%,-61320
+akinesia of interventricular septum,-61320
+inferolateral hypokinesia,-61320
+recovered systolic function,-61320
+no subsequent cardiac monitoring,-61320
+NYHA Class IV dyspnea,0
+acute pulmonary edema,0
+sinus tachycardia,0
+short QRS,0
+repolarization alterations,0
+ST segment elevation 0.5 mm in DI and aVL,0
+"ST depression <1 mm in DII, DIII, aVF",0
+ST depression >1 mm in V3–V6,0
+mild anemia,0
+leukocytosis with left deviation,0
+slight elevation of troponins,0
+acute respiratory acidosis,0
+acute pulmonary edema (radiological findings),0
+moderate left ventricle dysfunction,0
+apical hypokinesia,0
+lateral hypokinesia,0
+severe hypotension (60 mmHg systolic),2
+bradycardia,2
+oliguria,2
+vasoactive amines initiated,2
+admitted to Coronary Intensive Care Unit,2
+systolic dysfunction reversed,2
+ECG alterations reversed,2
+partial recovery of segmental contractility,48
+mild septal hypokinesia,48
+systolic function 54%,48
+mild left ventricular hypertrophy,48
+moderate dilatation of left atrium,48
+coronary angiography performed,72
+no significant coronary abnormalities,72
+cardiac MRI performed,72
+suprarenal MRI performed,72
+preserved systolic function (EF 58%),72
+slight inferobasal hypocinesia,72
+left adrenal gland lesion (33 mm × 25 mm),72
+pheochromocytoma confirmed,72
+subepicardial contrast uptake,72
+inferobasal contrast uptake,72
+myocardial edema,72
+adrenergic myocarditis,72
+elevated catecholamine excretion (24h urine),72
+no pathologic noradrenergic activity (MIBG-123I),72
+alpha and beta blockade for 20 days,720
+laparoscopic left adrenalectomy,720
+30 mm tumor without invasion,720
+hemodynamically stable postoperatively,720
+normalized catecholamine excretion,720
+MRI six weeks post-surgery,1008
+decreased subepicardial enhancement,1008
+preserved ejection fraction (63%),1008
+pathology confirmed pheochromocytoma,1008
+no signs of malignancy,1008
+discharged,72

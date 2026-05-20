@@ -1,0 +1,62 @@
+event,time
+dizziness ,-2
+lost consciousness ,-2
+fall ,-2
+Glasgow Coma Score of 15 ,0
+no focal neurological deficits ,0
+right frontal subdural hematoma ,0
+right medial orbital wall fracture ,0
+severe headache ,48
+expansion of the subdural hematoma ,48
+mass effect ,48
+midline shift ,48
+discharged to acute inpatient rehabilitation ,144
+terrible headache ,216
+repeat neurosurgical evaluation ,216
+expansion of the hematoma ,216
+increased mass effect ,216
+midline shift ,216
+burr holes for evacuation of the subdural hematoma ,216
+placement of subdural drain ,216
+headache improved ,222
+subdural hematoma decreased in size ,222
+discharged home ,222
+strange sensation in the right arm ,308
+inability to control the arm ,308
+focal left arm seizure ,308
+admitted ,308
+unresponsive ,308
+status epilepticus ,308
+intubated ,308
+ventilator-dependent respiratory failure ,308
+septic shock ,308
+Pseudomonas bacteremia ,308
+tracheostomy ,308
+gastrostomy ,308
+discharged to long-term acute care hospital ,406
+less responsive ,410
+transferred back for neurosurgical evaluation ,410
+right frontal intraparenchymal hemorrhage ,410
+cerebral catheter angiography ,410
+prominence of the anterior temporal branch of the right middle cerebral artery ,410
+early rapid shunting of blood ,410
+opacification of a capillary-like serpiginous tangle of vessels ,410
+embolization of the AVM ,414
+successful embolization ,414
+no opacification of the early draining vein or AVM nidus ,414
+resection of the AVM ,422
+right pterional craniotomy ,422
+microdissection techniques ,422
+coagulated using bipolar electrocautery ,422
+resected ,422
+intraoperative Doppler ultrasound ,422
+no arterial flow in the draining vein ,422
+evacuation of the associated intraparenchymal hematoma ,422
+postoperative angiography ,422
+no residual AVM ,422
+mental status improved ,425
+followed commands ,425
+tracked with eyes ,425
+spontaneous antigravity movement of the right upper extremity ,425
+pseudomonas sepsis ,425
+discharged to long-term acute care ,437

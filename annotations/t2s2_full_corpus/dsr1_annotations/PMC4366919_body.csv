@@ -1,0 +1,75 @@
+event,time
+76 years old,0
+female,0
+renal transplant,0
+admitted to Intensive Care Unit (ICU),0
+coma,0
+respiratory distress,0
+methylprednisolone,0
+tacrolimus,0
+mycophenolate mofetil,0
+candesartan,0
+arterial hypertension,0
+serum creatinine 1.70 mg/dl,0
+estimated GFR 28 ml/min/1.73 m²,0
+Hepatitis B virus (HBV) reactivation,-13140 (18 months prior)
+no specific treatment for HBV,-13140
+liver tests within normal range,-13140
+referred to nephrology ward,-288 (12 days prior)
+progressive dyspnea,-288
+chest X-ray,-288
+lung computed tomography (CT),-288
+bilateral lung infiltrates,-288
+CMV PCR 3130 copies/ml,-288
+bronchoalveolar lavage culture positive,-288
+CMV pneumonia,-288
+intravenous sodium ganciclovir 200 mg/day,-288
+ganciclovir increased to 400 mg/day,-264 (11 days prior)
+CMV PCR negative,-264
+white blood cell count 5080/mm³,-288 (prior to ganciclovir)
+white blood cell count nadir 3430/mm³,-168 (10 days after ganciclovir start)
+renal function deteriorated,-288 to 0
+creatinine 2.67 mg/dl,0
+estimated GFR declined to 17 ml/min/1.73 m²,0
+hip fracture,-12 (day 12 of hospitalization)
+orthopedic surgery,-12
+epidural anesthesia,-12
+altered consciousness,0 (ICU admission)
+arterial blood gas pH 6.79,0
+pCO₂ 54 mm Hg,0
+bicarbonate 8 mmol/l,0
+lactate 20 mmol/l,0
+intubated,0
+mechanical ventilation,0
+intravenous sodium bicarbonate,0
+thiamine supplementation,0
+continuous venovenous hemofiltration,0
+pH rose to 7.31 after 6 hours,6
+ScvO₂ 61.5%,6
+preserved left ventricular function,6
+no septic shock,6
+no hemorrhagic shock,6
+arterial lactate 27 mmol/l,6
+pyruvate 0.6 mmol/l,6
+L/P ratio 45,6
+hypoglycemia,6
+dextrose 30% administered,6
+impaired glucose utilization,6
+ketogenesis,6
+high urinary 3-hydroxybutyrate,6
+dicarboxylic acids in urine,6
+ganciclovir discontinued,0 (ICU admission)
+rhabdomyolysis,6
+vasoplegia,6
+sterile blood cultures,6
+no bowel ischemia on CT,6
+hyperlactatemia persisted,6
+disturbed liver tests,6
+ammonia 109 μg/dl,6
+severe encephalopathy,6
+normal brain CT,6
+fatality,336 (day 14)
+persisting hyperlactatemia >25 mmol/l,336
+circulatory failure,336
+increased vasopressors,336
+no autopsy,336

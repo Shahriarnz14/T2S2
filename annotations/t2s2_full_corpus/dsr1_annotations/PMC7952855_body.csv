@@ -1,0 +1,50 @@
+event,time
+79 years old,0
+Chinese woman,0
+admitted to the emergency department,0
+fever,-120
+malaise,-120
+anorexia,-120
+confusion,-72
+unconsciousness,-72
+diabetes (type 2 diabetes),"-175,200"
+hypertension,"-175,200"
+atrial fibrillation,"-175,200"
+cholecystectomy,"-175,200"
+appendectomy,"-175,200"
+pyrexia (Tmax 39°C),0
+noninvasive mechanical ventilation,0
+blood pressure 120/90 mmHg,0
+tachycardia (155 bpm),0
+indifferent attitude,0
+decreased breath sounds,0
+soft abdomen,0
+no peripheral edema,0
+increased procalcitonin (31 ng/mL),0
+high white blood cell count (12.21×10^9/L),0
+anemia (hemoglobin 93 g/L),0
+low platelet count (22×10^9/L),0
+elevated NT-pro-BNP (14100 pg/mL),0
+abdominal US: non-homogeneous echo zone in left liver lobe,0
+gas bubbles in hepatic vein,0
+gas bubbles in inferior vena cava,0
+gas bubbles in right atrium,0
+no abnormal hepatic artery perfusion,0
+no echocardiography abnormalities,0
+poor CT image quality,0
+abdominal CT: irregular mixed density lesions in left liver lobe,0
+gas density in liver parenchyma,0
+ruptured liver abscess,0
+intrahepatic bile duct pneumatosis,0
+K. pneumoniae blood culture (imipenem sensitive),0
+diagnosis: ruptured K. pneumoniae liver abscess with HVG,0
+imipenem/cilastatin (1g q8h),0
+cefoperazone sulbactam (3g q8h),336
+supportive measures,0
+no specific treatment for HVG,0
+bedside US: no gas in hepatic vein (48 hours post-admission),48
+small liquefaction zone in abscess,48
+four follow-up US exams,variable
+liver abscess shrunk and disappeared,variable
+discharged after 41 days,984
+no other abscess formation,984

@@ -1,0 +1,61 @@
+event,time
+pregnancy was uncomplicated,-1000
+spontaneous onset of labor,-8
+hospital attendance,-7.5
+she was well before delivery,-3
+elevated leucocyte count 21.1×10^9/L,-2.633
+neutrophil count 18.1×10^9/L,-2.633
+fetal distress was noted on the cardiotocography,-0.5
+decision was made to proceed to a ventouse-assisted delivery,-0.25
+ventouse-assisted delivery,-0.133
+born at 40 + 2 weeks’ gestation,-0.133
+birth weight of 3940 grams,-0.133
+placental surface eSwab performed,-0.133
+required immediate resuscitation with mask ventilation,-0.133
+ongoing poor respiratory effort,-0.017
+intubated at 8 minutes of age,0
+transferred to the neonatal intensive care unit (NICU),0
+supported with synchronized intermittent positive pressure ventilation (SIPPV) with minimal pressures,0
+no additional oxygen requirement,0
+male infant,0
+25-year-old primigravida mother,0
+no antibiotics were given to the mother,0
+blood cultures taken from the newborn pre–antibiotic treatment,0.35
+empirical antibiotics were commenced for presumed early-onset sepsis,0.5
+presumed early-onset sepsis,0.5
+gentamicin 4 mg/kg 24-hourly,0.5
+benzyl penicillin 60 mg/kg 12-hourly,0.5
+initial full blood counts showed neutropenia with significant left shift,1
+mother remained completely well after birth,1
+heel-prick blood in EDTA taken,5.367
+N. meningitidis genogroup W DNA detected by real-time PCR,5.367
+invasive meningococcal disease suggested,5.367
+early-onset neonatal sepsis,5.367
+respiratory support was subsequently weaned,12
+extubated at 13.5 hours of age,13.367
+C-reactive protein (CRP; 60 mg/L),17.867
+procalcitonin (68.55 µg/L),17.867
+lumbar puncture performed,22.867
+normal cell count,22.867
+negative for a range of pathogens including meningococcus,22.867
+light pure growth of an organism,23.867
+staining demonstrated Gram-negative diplococci,23.867
+MALDI-TOF mass spectrometry identifying Neisseria meningitidis,23.867
+"clinically, the baby continued to improve",24
+benzylpenicillin dosage was decreased back to 60 mg/kg 12-hourly,24
+real-time PCR assay targeting N. meningitidis ctrA and porA genes performed,30
+"real-time PCR assay targeting genogroups B, C, W, and Y performed",30
+confirmed the detection of a meningococcus genogroup W clonal complex 11 (CC11) organism,36
+suspected to be caused by maternally acquired Neisseria meningitidis serogroup W clonal complex 11,36
+changed to cefotaxime 50 mg/kg 12-hourly,36
+blood cultures negative,48
+"contact tracing identified 14 staff members, the 2 parents, and 3 grandparents to be at risk",48
+chemoprophylaxis with ciprofloxacin provided,48
+vaccination with quadrivalent conjugate meningococcal vaccine provided,48
+counseling provided,48
+placenta histopathology revealed acute funisitis,96
+placenta histopathology revealed chorioamnionitis,96
+probable ascending infection,96
+materno-fetal transmission event of meningococcus,96
+complete a 5-day course of β-lactam therapy,120
+discharged home from the NICU on day 8 of life,191.867

@@ -1,0 +1,80 @@
+event,time
+69 years old,0
+man,0
+history of ischaemic heart disease,0
+history of chronic liver disease,0
+history of adrenal incidentaloma,0
+history of arterial hypertension,0
+history of diabetes mellitus type 2,0
+history of hyperuricaemia,0
+history of dyslipidaemia,0
+four hospital admissions in previous 5 months,-3600
+bacteraemia caused by ESBL-producing Escherichia coli,-3600
+bacteraemia caused by Klebsiella pneumoniae,-3600
+unknown focus of infection,-3600
+presented to emergency room with fever,0
+presented to emergency room with dyspnoea,0
+presented to emergency room with dizziness,0
+physical examination revealed diffuse abdominal pain,0
+absence of Murphy’s sign,0
+elevated plasma C-reactive protein,0
+elevated plasma procalcitonin,0
+blood culture negative,0
+abdominal ultrasound showed heterogeneous liver,0
+abdominal ultrasound showed cholelithiasis,0
+hypothesis of focus of infection in gallbladder,0
+hypothesis of focus of infection in biliary tract,0
+underwent laparoscopic cholecystectomy,0
+identified hepatic lesions,0
+biopsied hepatic lesions,0
+histology revealed calcified biliary hamartomas,24
+bacteriology confirmed presence of K. pneumoniae,24
+discharged with clinical improvement,24
+readmitted to intensive care unit after one month,720
+bacteraemia due to ESBL-producing K. pneumoniae,720
+abdominal CT scan showed liver with increased dimensions,720
+abdominal CT scan showed heterogeneous texture,720
+multiple calcified lesions related to granulomas,720
+hypodense area in left lobe segment III,720
+MRI revealed several nodular lesions,720
+MRI revealed probable calcifications,720
+largest lesion measuring 2.8 cm,720
+MRI showed morphological alteration of liver,720
+MRI showed hypertrophy,720
+MRI showed chronic hepatopathy,720
+hepatobiliary scintigraphy showed normal bile ducts,720
+no obstruction on hepatobiliary scintigraphy,720
+recurrent sepsis,720
+discussed at multidisciplinary meeting,720
+hypothesis of liver transplant ruled out,720
+MRI showing benign lesions,720
+absence of signs of hepatic cirrhosis,720
+underwent multiple sequential cycles of antibiotics,720
+treated with meropenem 1g three times daily for 14 days,720
+treated with amikacin 500mg twice daily for 17 days,720
+treated with piperacillin/tazobactam 4.5g four times daily for 17 days,720
+treated with ceftriaxone 1g once daily for 10 days,720
+favourable clinical evolution,720
+improvement after each antibiotic cycle,720
+discharged after treatment completion,720
+readmitted after four months,2880
+sepsis,2880
+bacteraemia due to ESBL-producing K. pneumoniae,2880
+hypothesized focus of infection in biliary hamartomas,2880
+biliary hamartomas acting as reservoir,2880
+extended cycle of meropenem 1g three times daily for 21 days,2880
+discharged after 3 weeks,2880
+prophylactic antibiotics,2880
+under surveillance by consultant,2880
+no relapse after 3 years,26280
+no other symptoms related to previous admissions,26280
+prophylactic antibiotic with ciprofloxacin 500mg twice daily,26280
+annual MRI to evaluate hepatic lesions,26280
+history of recurrent life-threatening hepatobiliary sepsis,0
+absence of jaundice,0
+absence of portal hypertension,0
+malignant transformation ruled out,0
+periodic clinical monitoring,26280
+imaging monitoring,26280
+determination of cancer antigen 19-9,26280
+refractory organisms not present,26280

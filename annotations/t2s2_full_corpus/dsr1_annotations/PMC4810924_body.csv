@@ -1,0 +1,96 @@
+event,time
+5 years old,0
+male,0
+Crohn's disease,-17520
+diagnosed with Crohn's disease,-17520
+bronchiolitis episodes,-17520
+anti-tumor necrosis factor drug (infliximab),-2880
+infliximab given thrice in past 4 months,-2880
+protein-losing enteropathy,-2880
+recurrent intestinal pseudo-obstruction,-2880
+admitted to hospital,0
+abdominal pain,0
+bloody stool,0
+gangrenous bowel of ascending colon removed,0
+colectomy operation,0
+pneumonia,24
+acute respiratory distress syndrome (ARDS),24
+PaO2/FiO2 <100,24
+lung protective ventilation strategy,24
+fever,24
+hypotension,24
+tachycardia,24
+tachypnea,24
+bilateral crackles in auscultation,24
+arterial blood pH: 7.10,24
+pCO2: 55,24
+pO2: 95,24
+HCO3: 17,24
+BE: −7,24
+O2 saturation: 98%,24
+lactate: 6.8,24
+hemoglobin: 9.9 g/dL,24
+"white blood cell count: 19,300/mm3",24
+"platelets: 61,000/mm3",24
+increased neutrophil band count,24
+CRP: 10 mg/dL,24
+procalcitonin: 100 ng/mL,24
+chest radiography diffuse infiltration,24
+chest radiography consolidation,24
+antibiotics initiated,24
+vasopressors initiated,24
+Pseudomonas aeruginosa detected in tracheal culture,24
+Pseudomonas aeruginosa detected in blood culture,24
+oliguric renal failure,48
+continuous venovenous hemodialysis for 10 days,48
+fever subsided,240
+laboratory findings back to normal except CRP,240
+sterile cultures,240
+weaning attempt failed,336
+re-intubated,336
+restrictive pattern with low compliance,336
+high-resolution computerized tomography (HRCT),336
+interlobular septal thickening,336
+air bronchograms,336
+consolidated areas with bronchiectasia,336
+ground glass opacities,336
+cytological evaluation of deep tracheal aspirates,336
+neutrophilic infiltration,336
+negative mycobacterium tuberculosis,336
+negative viral respiratory organisms,336
+normal immunological profile,336
+tracheostomy performed,552
+prednisolone 1 mg/kg/day initiated,552
+clinical condition improved,648
+pulmonary functions improved,648
+CRP returned to normal,648
+discharged from PICU,768
+tracheostomy present,768
+no shortness of breath,0
+denies chest pain,0
+no histopathological study due to parental disapproval,336
+no bronchoscopy due to parental disapproval,336
+no BAL examination due to parental disapproval,336
+CD-related pulmonary involvement suspected,336
+subclinical pulmonary involvement suspected,336
+restrictive respiratory pattern,336
+CD-associated pulmonary disease suspected,648
+bronchial inflammation,336
+bronchiectasis,336
+cysts,336
+emphysema,336
+reticulonodular opacities,336
+CD-related lung disease previously unknown,0
+severe pneumonia,24
+mechanical ventilator support discontinued,768
+inflammatory lung disease,336
+opportunistic infections ruled out,336
+ARDS ruled out as drug-induced,336
+diffuse alveolar hemorrhage ruled out,336
+interstitial lung disease ruled out,336
+delayed immunological lung damage ruled out,336
+sudden decline in CRP,552
+dramatic clinical improvement,648
+refractory respiratory problems,336
+no conflicts of interest,0
+financial support nil,0

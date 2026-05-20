@@ -1,0 +1,80 @@
+event,time
+51 years old,0
+male,0
+asthma,0
+found unconscious,-8
+taken to local clinic,-8
+taken to regional hospital,-8
+swallowed agricultural pesticide (organophosphate suspected),-8
+Atropine Challenge test (negative),-8
+intubated,-8
+loss of consciousness (GCS: 8),-8
+sent to poison centers,-8
+blood pressure 65/40 mmHg,-8
+metabolic acidosis,-8
+treated with normal saline,-8
+norepinephrine infusion,-8
+bicarbonate,-8
+hydrocortisone,-8
+loading dose N-acetylcysteine (NAC),-8
+clarified ingestion of 1 liter hexaflumuron 10%,-8
+transferred to third level hospital,0
+GCS 5,0
+BP 78/36 mmHg,0
+pulse rate 80 beats/min,0
+axillary temperature 37.2°C,0
+respiratory rate 22 cycles/min,0
+intubated and mechanically ventilated (SIMV),0
+normal pupils,0
+cherry-colored skin on lower limbs and abdomen,0
+blood glucose 204 mg/dL,0
+fluid therapy,0
+cardiac monitoring,0
+treatment for aluminum phosphide poisoning,0
+norepinephrine (5-10 μg/min),0
+hydrocortisone 200 mg IV,0
+NAC 140 mg/kg IV,0
+carboxyhemoglobin level tested,0
+qualitative urine paraquat test (negative),0
+serum cholinesterase 8540 U/L,0
+erythrocyte acetylcholinesterase 5.1 IU/mL,0
+urine immunochromatography positive for tricyclic antidepressants,0
+QTc 0.56,0
+magnesium sulfate 2 g IV,0
+echocardiogram normal wall motion (EF 55%),0
+transferred to ICU,3
+BP 80/50 mmHg,3.25
+re-administered 1 L normal saline,3.25
+VBG pH 7.039,3.25
+VBG PCO2 43.8 mmHg,3.25
+VBG HCO3 11.8 mEq/L,3.25
+base excess -19.0 mmol/L,3.25
+administered 100 mEq bicarbonate,3.25
+bicarbonate infusion continued,3.25
+norepinephrine discontinued,30
+magnesium sulfate discontinued,30
+serum creatinine 2.6 mg/dL,30
+low urinary volume,30
+furosemide administered,30
+urine output improved,30
+metabolic acidosis improved,72
+bicarbonate infusion discontinued,72
+ventilator support continued,72
+pulmonary edema,72
+morphine administered,72
+furosemide administered,72
+echocardiogram normal,72
+pneumonia on pulmonary x-ray,72
+antibiotic treatment started,72
+increased broncho-vascular markings,72
+para-cardiac opacity,72
+patchy opacity in both lungs,72
+uniform opacity in right lung,72
+blood culture (no growth),72
+urine culture positive for E. coli,72
+fever,72
+bradycardia,96
+hypotension,96
+cardiac arrest,96
+cardiopulmonary resuscitation (45 minutes),96
+death,96

@@ -1,0 +1,79 @@
+event,time
+2-year-old,0
+boy,0
+father had fever,-720
+father had exanthema,-720
+father's disease remained undiagnosed,-720
+contact with two dogs,0
+sudden fever (38°C),-984
+nimesulide,-984
+amoxicillin,-984
+pallor,-960
+"leucopenia (2,100 cel/μL)",-936
+anemia (Hb 8.9 g/dL),-936
+thrombocytopenia (75 x10³/mL),-936
+admitted to the hospital,-936
+hypoalbuminemia (2.9 g/dL),-912
+high AST (1333 U/L),-912
+high ALT (972 U/L),-912
+high alkaline phosphatase (753 U/L),-912
+"high LDH (1,714 U/L)",-912
+prolonged PT (16.6 s),-912
+prolonged PTT (54.5 s),-912
+hyponatremia (126 mEq/L),-912
+elevated CRP (2.4 mg/dL),-912
+enlarged neck lymph nodes,-912
+hepatomegaly,-912
+splenomegaly,-912
+erythematous macular non-itching rash,-912
+left inguinal adenopathy,-912
+daily nocturnal fever,-936 to -648
+cough,-936 to -648
+anemia (Hb 6.3 g/dL),-648
+neutropenia (0.3 x10³/μL),-648
+thrombocytopenia (98 x10³/mL),-648
+hemorrhagic syndrome,-648
+hyponatremia (126-128 mEq/L),-936 to -648
+liver failure,-648
+incoagulable PT,-648
+persistent hypoalbuminemia,-648
+"elevated LDH (6,700 U/L)",-648
+serological tests negative,-648
+bone marrow biopsy (70% cellularity),-504
+myeloid hypoplasia,-504
+erythroid hyperplasia,-504
+histiocytes with hemophagocytosis,-504
+lymph node biopsy (architecture loss),-504
+jaundice,-360
+doxycycline started,-360
+fever remission,-312
+improvement of general condition,-312
+fever recurrence,-288 to -240
+jaundice recurrence,-288 to -240
+asthenia,-288 to -240
+increased triglycerides,-288 to -240
+low fibrinogen,-288 to -240
+HLH diagnosis,-240
+methylprednisolone started,-240
+nested PCR for Rickettsia spp. negative,-240
+"seroconversion for R. typhi (IgM 1:128, IgG 1:512)",-168
+hemorrhagic syndrome,-168
+petechiae,-168
+gingivorrhagia,-168
+admitted to PICU,-168
+meropenem,-168
+vancomycin,-168
+amphotericin B,-168
+doxycycline discontinued,-168
+dexamethasone added,-168
+hepatic and kidney damage,-168
+ascites,-168
+decreased urine output,-24
+neurological deterioration,-24
+respiratory deterioration,-24
+mechanical ventilation,-24
+vasopressors,-24
+alveolar diffuse hemorrhage,-24
+anuria,-24
+death,0
+post-mortem IHC positive for Rickettsia,0

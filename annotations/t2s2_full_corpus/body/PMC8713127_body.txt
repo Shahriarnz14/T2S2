@@ -1,0 +1,69 @@
+pmc1 Introduction
+
+Babesiosis is a tick-borne illness caused by the protozoa of the genus Babesia. It is transmitted primarily by the Ixodes tick and rarely by blood transfusion or organ donation. In the United States, most of the disease is caused by Babesia microti, which is endemic in the northeastern and upper midwestern states. Babesia infections range from asymptomatic to severe and sometimes are fatal. The severity of infection depends on the protozoa species and the immune status of the host. Asplenic patients and immunocompromised patients are at risk of fulminant illness. Treatment primarily consists of antiparasitic medications. This report presents the first case of ANCA/ANA positive severe babesiosis in an asplenic patient treated with repeated red blood cell exchange transfusion.
+
+2 Case report
+
+A 55-year-old male presented to the emergency department (ED) for a 2-week history of malaise, fever, weakness, weight loss, sore throat, and dry cough. He had a distant history of stab wounds with subsequent splenectomy. He denied any tick bites during the past few months. On presentation, the patient was febrile (38.2 C), tachypneic and tachycardic. Physical examination was significant for jaundice. Laboratory analysis showed acute renal injury with a creatinine of 5.2 mg/dl (baseline 1.1 mg/dl), which later increased to 10 mg/dl, mild liver injury, an elevated INR (1.47), mixed hyperbilirubinemia of 10.7 mg/dl (Direct bilirubin 7.4 mg/dl), elevated lactate dehydrogenase (975 U/L), undetectable haptoglobin. His peripheral blood smear showed features of intracellular parasites with a parasitemia of 11.8%. and B. microti. was detected by PCR (Fig. 1). A diagnosis of fulminant babesiosis infection with multi-organ systemic failure was made. Atovaquone and azithromycin treatment was initiated, and he was transferred to the medical intensive care unit for further management and evaluation. Further testing due to deteriorating kidney function revealed positive titers of c-ANCA and ANA, in addition to low complement levels. After two exchange transfusions, the parasitemia level dropped to 2% and 0.1%, and the patient clinical status and laboratory parameters significantly improved. Two months follow up showed the resolution of parasitemia, a creatinine level of 0.9 mg/dl, and a negative c-ANCA level.Fig. 1 Peripheral smear showing intracellular parasites ( parasitemia level 11.8%).
+
+Fig. 1
+
+Written informed consent was obtained from the patient for publication of this case report and accompanying images. A copy of the written consent is available for review by the Editor-in- Chief of this journal on request.
+
+3 Phylogenetic classification
+
+Babesia species belong to the phylum Apicomplexa [1]. More than 100 species have been identified, but only a few are reported to infect humans. The species capable of infecting humans are classified into four clades. The first clade consists of the small parasites B.microti (<3 micrometers), the leading cause of infections in the United States. This type is primarily transmitted by Ixodes scapularis. The second clade contains Babesia duncani and B. duncani-type organisms, the primary etiologic agents of human babesiosis along the West coast of the United States. This Babesia clade is related to parasites found in dogs and wildlife. The third clade protozoa are small parasites phylogenetically related to large Babesia (>3 micrometers). It includes B. divergens that infects cattle and B. venatorum that infects roe deers. B. venatorum is responsible for most human cases of babesiosis reported in Europe and is primarily transmitted by tick Ixodes ricinus. The fourth clade consists of large Babesia (>3 micrometers) that infect ungulates and includes the KO1 strain [2].
+
+4 Life cycle of pathogen
+
+The B. microti life cycle includes two hosts: a rodent, primarily the white-footed mouse, Peromyscus leucopus, and a tick in the genus Ixodes. The rodents may also be coinfected with Borrelia burgdorferi and Anaplasma phagocytophilum.
+
+The parasite life cycle begins when a tick feeds on an infected host. Within the tick, gametocytes fuse to form ookinetes that penetrate the gut epithelium, migrate to salivary glands, and develop into sporozoites [3]. Humans enter the cycle accidentally when bitten by a nymphal tick, and sporozoites are transmitted. Once in the human body, the sporozoites attach to glycosaminoglycans and sialoglycoproteins on the erythrocyte's cell surface and infect the cell. The parasite matures into trophozoites within the erythrocyte and then buds into merozoites, leading to loss of red blood cell membrane integrity and consequently hemolysis and tissue hypoxia [4].
+
+5 Babesia and the immune system
+
+Babesia can evade the human immune system by antigenic variations. The variant erythrocyte antigen 1 (VESA1) of B. bovis appears to be encoded by a highly polymorphic gene facilitating parasitic survival [5], [6]. Moreover, VESA1 seems to facilitate cytoadherence of infected red blood cells to vascular endothelium [7], leading to decreased efficacy of removing the infected cells by the spleen, causing microvascular obstruction and more tissue hypoxia [8], [9].
+
+On the other hand, the host immune system plays a role in babesiosis pathophysiology. Chen et al. described interleukin-2 (IL-2) and interferon-gamma (INF) as predominants in the early immune response against B. microti, whereas anti-inflammatory cytokines IL-4 and IL-10 expression increases in the late/recovery phase in mice infected with Babesia [10]. Merozoites themselves also can induce the immune response and cause the release of inflammatory cytokines and nitric oxide [11]. Thus, a robust immune reaction to contain severe infection might generate a systemic inflammatory reaction leading to a sepsis-like syndrome and multi-organ failure. However, the interaction between the immune system and this organism is not fully understood. A study of 86 patients diagnosed with babesiosis concluded that warm autoimmune hemolytic anemia (WAHA) developed in 6 asplenic patients. Many mechanisms have been proposed in order to explain the post-babesiosis WAHA syndrome. One of them involves type II hypersensitivity reaction, in which cross-reacting antibodies against B. microti antigens are subsequently elicited against similar human antigens leading to autoimmune anemia.[12] Such observations might highlight the role of autoimmunity in the pathogenesis of babesiosis.
+
+The report we present describes a patient with positive c-ANCA antibodies and a low complement level during acute babesiosis illness. In literature, most ANCA-positive infections are described in patients with infective endocarditis [13], [14], and there is none, to our knowledge, reported in association with babesiosis.
+
+Autoantigen complementarity has been suggested as one of the mechanisms leading to ANCA autoimmunity. It appears that the increased availability of an antigen complementary to an autoantigen is behind the anti-neutrophil cytoplasmic autoantibody disease rather than an autoantigen itself [15]. Patients with PR-3 -(ANCA) vasculitis have antibodies to both the autoantigen (PR-3) and a peptide translated from the antisense DNA strand of PR-3 (complementary PR-3, cPR-3). Immunization of mice with cPR-3 resulted in antibody production against both cPR-3 and its sense peptide counterpart, PR-3. Both human and mouse antibodies to PR-3 and cPR-3 can bind to each other. These findings indicate that autoimmunity can be initiated through an immune response against a peptide complementary to the autoantigen, which then induces autoantibodies cross-reacting with the self-antigen.[16] The patient presented in this report had no signs of autoimmune vasculitis; however, he had a multi-organ failure with severe kidney injury clinically similar to that observed in rapidly progressive glomerulonephritis associated with vasculitis. Although he improved after treating the infection and his c-ANCA was seroconverted, studies should be conducted to illustrate the role of autoimmunity in the pathogenesis of babesiosis and investigate the implications of ANCA antibodies on the severity and prognosis of the disease.
+
+6 The role of repeated exchange transfusion
+
+Red blood cell exchange transfusion for severe babesiosis in an asplenic patient was first utilized in 1981[17]. Since then, it has been used as an adjunct therapy for fulminant babesiosis. However, there are no published trials systematically comparing antimicrobial therapy alone with the combination of antimicrobial therapy and exchange transfusion. This approach is based on a limited number of case reports and case series [18], [19]. The Infectious Disease Society of America guidelines recommends RBC exchange transfusions for patients with severe parasitemia (more than or equal to 10%), severe hemolysis, or significant end-organ damage [20].
+
+In patients with severe Babesia infection, apheresis reduces the parasitemia blood load by directly removing infected RBCs from the blood in exchange with parasite-free allogenic blood cells. The threshold to perform exchange transfusion (ET) is not well established yet; however, a parasitemia load of 10% or more is generally recommended to initiate therapy. In patients with Acute Respiratory Distress Syndrome (ARDS), severe acute kidney injury, disseminated intravascular coagulation, or multi-organ failure ET is recommended regardless of the parasitemia level [2]. Guidelines suggest treatment with ET until the parasite burden drops to less than 5% [21], but some authors have suggested a minimum target of 90% reduction [18]. In addition, ET has been suggested to reduce the level of parasitemia, remove cytokines, and improve the blood's rheologic properties. This helps improve the circulation and oxygen delivery by noninfected erythrocytes and decreases the inflammatory response associated with the infection.
+
+7 Conclusion
+
+The autoimmune phenomenon might play a role in the pathogenesis of severe babesiosis. Further studies are needed to fully understand the mechanism of this infection and its interaction with the human immune system. In addition, although dramatic improvement has been reported using exchange therapy, more studies are needed to further confirm the benefit of this modality compared to medical treatment alone.
+
+Funding
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Ethical approval
+
+Consent has been obtained from the patient. His privacy will be respected, and his information will be handled with privacy.
+
+Consent of publication
+
+Consent for reporting and publishing was obtained from the patient Consent.
+
+Consent
+
+Consent was obtained from the patient for publishing this case report. A copy of the written consent is available for review by the Editor-in-chief of this journal on request.
+
+CRediT authorship contribution statement
+
+Hussein Rabah: Draft writing, Review of literature. Divya Chukkalore: Review of literature. Elie El-Charabaty: draft review. Neville Mobarakai: Supervision, Draft review.
+
+Acknowledgements
+
+None.
+
+Conflict of interest
+
+No potential conflict of interest relevant to this article was reported.

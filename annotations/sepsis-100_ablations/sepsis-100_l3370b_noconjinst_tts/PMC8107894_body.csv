@@ -1,0 +1,47 @@
+event,time
+52 years old ,0.0
+female ,0.0
+abdominal pain ,-48.0
+nausea ,-48.0
+vomiting ,-48.0
+diarrhea ,-24.0
+increased liver enzyme alanine aminotransferase ,-840.0
+positive autoimmune antibody ,-840.0
+elevated immunoglobulin G ,-840.0
+coarse liver surface ,-840.0
+liver biopsy ,-840.0
+overlap syndrome ,-840.0
+autoimmune hepatitis ,-840.0
+ursodeoxycholic acid ,-840.0
+prednisolone ,-840.0
+mild heartburn ,-48.0
+abdominal tenderness ,0.0
+mild fever ,0.0
+tachycardia ,0.0
+tachypnea ,0.0
+abdominal hardness ,0.0
+reduced white blood cells ,0.0
+reduced platelets ,0.0
+decreased neutrophil level ,0.0
+elevated C-reactive protein level ,0.0
+elevated aspartate aminotransferase ,0.0
+elevated ALT ,0.0
+elevated gamma glutamyl transferase ,0.0
+prothrombin time international normalized ratio ,0.0
+necrotizing gastritis ,0.0
+septic shock ,0.0
+intravenous hydration ,0.5
+antibiotic treatment ,0.5
+inotropics ,2.0
+fluid treatment ,2.0
+increased blood pressure ,2.0
+severe stress-induced cardiomyopathy ,3.0
+extracorporeal membrane oxygenation ,3.0
+cardiac arrest ,3.0
+death ,3.0
+azathioprine ,-336.0
+reduced prednisolone ,-144.0
+discharge ,-144.0
+admitted to the emergency room ,0.0
+admitted to the intensive care unit ,0.5
+discharged ,-840.0

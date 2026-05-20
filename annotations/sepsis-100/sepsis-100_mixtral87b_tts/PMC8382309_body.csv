@@ -1,0 +1,105 @@
+event,time
+18 years old,0
+male ,0
+admitted to the hospital ,0
+right upper quadrant pain ,-168
+discomfort ,-168
+no obvious nausea ,-168
+no vomiting ,-168
+no stiffness ,-168
+fever denied ,-168
+other symptoms denied ,-168
+no past medical history ,-168
+no close contact with infected individuals ,-168
+no recent travel ,-168
+no abdominal trauma ,-168
+hepatic abscess ,-168
+treated with hepatic puncture and drainage ,-1
+afebrile ,0
+pulse rate of 80 beats/minute ,0
+blood pressure of 118/73 mmHg ,0
+respiratory rate of 26 breaths/minute ,0
+leukocyte count of 16.4×109/L ,0
+neutrophil 94.5% ,0
+haemoglobin level of 85 g/L ,0
+platelet count of 240×109/L ,0
+procalcitonin (PCT) level of 2.3 ng/mL ,0
+plasma fibrinogen level of 7.48 g/L ,0
+liver and renal function tests slightly abnormal ,0
+serum glutamic oxalacetic transaminase level of 67 U/L ,0
+glutamic-pyruvic transaminase level of 83 U/L ,0
+cholinesterase level of 1360 U/L ,0
+total protein and albumin levels of 50.8 and 21.5 g/L ,0
+blood urea nitrogen level of 10.8 mmol/L ,0
+creatinine level of 51.3 umol/L ,0
+negative for HIV ,0
+negative for syphilis ,0
+abdominal distension with mild bellyache ,24
+right abdominal tenderness without rebound or guarding ,24
+temperature of 36.8 °C ,24
+drainage catheter yield of 150 mL of fulvous fluid ,24
+abdominal and pelvic computed tomography (CT) scan ,24
+"irregular, slightly low-density lesion in the right posterior hepatic lobe ",24
+size of 41 mm × 56 mm ,24
+obscured boundary ,24
+gas density shadow inside ,24
+liquid density shadow and high-density drainage tube shadow ,24
+round-like low-density lesion of about 0.8 cm in diameter ,24
+appendix thickened to about 20 mm in diameter ,24
+structure of the ascending colon near the ileocecal region became disorganised ,24
+multiple gas accumulation and dilation in the bowel ,24
+air-fluid levels inside the abdomen ,24
+pre-shock ,24
+insufficient blood pressure of 93/59 mmHg ,24
+exploratory laparotomy ,24
+fulvous purulent exudate and necrotic tissue filled the extraperitoneal space and abdominal cavity ,24
+partial postnecrotic defect in the peritoneum ,24
+massive epiploon adhesion in the right upper abdomen ,24
+two perforations ,24
+one perforation under the right side of the liver ,24
+other perforation in the right ascending colon ,24
+ileocecal resection ,24
+partial resection of the ascending colon ,24
+ileostomy ,24
+"drainage of hepatic, abdominal and extraperitoneal abscesses ",24
+postoperative course was eventful ,24
+orotracheal intubation ,48
+hypotension ,48
+anemia ,48
+fever ,48
+transferred to the intensive care unit (ICU) ,48
+noradrenaline was pumped ,48
+ventilator was used ,48
+intravenous hydration was used ,48
+nutritional support therapy and blood transfusion were also used ,48
+blood cultures and drainage fluids were sent ,48
+empirically started on intravenous tigecycline and piperacillin/tazobactam ,48
+"body temperature, routine blood count, procalcitonin level and C-reactive protein (CRP) level were closely monitored dynamically ",48
+temperature went up to 39.3°C ,72
+electrocardiogram monitor showed a pulse rate of 130 beats/minute ,72
+leukocyte count of 35.9×109 cells/L ,72
+neutrophils: 92.4% ,72
+PCT level of 8.15 ng/mL ,72
+CRP level of 174 mg/L ,72
+blood samples were taken for aerobic and anaerobic cultures ,72
+positive anaerobic blood culture vials drawn postoperatively ,96
+Gram stain revealed short Gram-positive bacillus without spores ,96
+positive culture broth was inoculated onto blood agar base medium and anaerobically incubated for three more days ,96
+colony from the agar plate was identified as E. lenta by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) ,120
+antimicrobial susceptibility testing of E. lenta was not performed ,120
+plasma fibrinogen fell to 1.0 g/L ,120
+tigecycline was replaced by teicoplanin ,120
+piperacillin/tazobactam was discontinued ,120
+ertapenem was added to teicoplanin ,120
+cultures of the drainage fluid were obtained ,120
+isolation of organism as Escherichia coli ,120
+patient was treated with ertapenem and teicoplanin ,120
+"fever, leukocytosis, PCT level and CRP level promptly improved ",120
+patient was transferred to the general ward after 3 days ,123
+patient was administered ertapenem and teicoplanin for another 14 days ,137
+repeated blood cultures after the introduction of antibiotics were negative ,137
+repeat CT revealed that the size of the hepatic abscess and the amount of ascites decreased ,144
+symptoms achieved further alleviation ,168
+discharged from the hospital with a prescription for oral antibiotics (clindamycin) ,168
+remained well as an outpatient without a recurrence of fever ,336
+complete resolution of the abscess was found at follow-up with a six-week course of intravenous ertapenem ,504

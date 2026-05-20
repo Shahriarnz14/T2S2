@@ -1,0 +1,51 @@
+event,time
+85-year-old,0
+man,0
+lived in a rural area,0
+no previous history of comorbidities,0
+dog bite,-360
+right arm,0
+fever,-48
+aggressive behavior,-120
+mental confusion,-120
+psychomotor agitation,-120
+impaired consciousness,-120
+healing wound,0
+3×2 cm wound,0
+posterior region of right arm,0
+no signs of cutaneous infection,0
+no signs of soft tissue infection,0
+nuchal rigidity,0
+Brudzinski’s sign,0
+leukocytosis,0
+"15,000/mm3 WBC count",0
+low platelet count,0
+"9,000/mm3 platelets",0
+elevated C-reactive protein,0
+187.7 mg/L CRP,0
+normal liver function tests,0
+normal renal function tests,0
+normal glycosylated hemoglobin,0
+negative anti-HIV 1/2 Western blot,0
+negative blood cultures,0
+positive SARS-CoV-2 RT-PCR,0
+COVID-19 diagnosis,0
+normal cranial computed tomography,0
+cerebrospinal fluid analysis,0
+CSF glucose 9 mg/dL,0
+CSF protein 171.3 mg/dL,0
+CSF WBC 727 cells/mm3,0
+89% polymorphonucleocytes in CSF,0
+CSF Gram stain with gram-negative bacilli,0
+CSF culture with C. canimorsus,0
+no clinical improvement with ceftriaxone,120
+meropenem treatment,120
+prompt clinical response to meropenem,120
+admitted to ICU,0
+loss of consciousness,0
+no orotracheal intubation,0
+discharged from ICU,120
+discharged from hospital,336
+14-day meropenem regimen,336
+full clinical resolution,336
+no sequelae at six-month follow-up,4032

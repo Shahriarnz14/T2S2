@@ -1,0 +1,112 @@
+event,time
+79 years old,0
+male,0
+admitted to the hospital,0
+sudden-onset abdominal pain,0
+collapsed,0
+pale,0
+hypotensive,0
+blood pressure 65/40 mmHg,0
+bradycardic,0
+heart rate 40-50 beats/minute,0
+slow atrial fibrillation,0
+open exploratory laparotomy,0
+ruptured infrarenal abdominal aortic aneurysm,0
+open repair of aneurysm,0
+significant blood loss,0
+cell saver returning 5.5 L of blood,0
+received 6 units packed cells,0
+received 4 units fresh-frozen plasma,0
+received 6 units cryoprecipitate,0
+received 1 pooled bag platelets,0
+received 4 L crystalloids,0
+postoperative ICU admission,0
+intubated,0
+requiring high dose vasopressors,0
+repeated transthoracic echocardiography,0
+normally functioning heart,0
+no significant ventricular or valvular abnormality,0
+medical history hypertension,0
+medical history benign prostatic hypertrophy,0
+preadmission medications atorvastatin,0
+preadmission medications amlodipine,0
+preadmission medications dutasteride-tamsulosin,0
+allergy to penicillin (rash),0
+unstable postoperatively,0
+developed acute kidney injury,0
+mild abdominal hypertension,0
+requiring sedation and paralysis,0
+no tolerance enteral feeding,0
+received total parenteral nutrition,0
+extubated on postoperative day 10,240
+re-intubated,240
+worsening respiratory failure,240
+signs of sepsis,240
+fever,240
+leukocytosis,240
+unstable requiring vasopressors,240
+source of infection unclear,240
+meropenem commenced,240
+vancomycin commenced,240
+Serratia marcescens isolated in blood cultures,240
+"Serratia marcescens sensitive to meropenem, ciprofloxacin, co-trimoxazole",240
+"Serratia marcescens resistant to penicillins, cephalosporins",240
+Serratia marcescens isolated in urine cultures,240
+Serratia marcescens isolated in sputum cultures,240
+Serratia marcescens isolated in wound swab culture (2 days later),312
+hemodynamic improvement,408
+renal function improvement,408
+ventilator-dependent,408
+encephalopathic,408
+tracheostomy on postoperative day 14,336
+hyperbilirubinemia,408
+deranged liver transaminase levels,408
+biochemical markers of cholestasis,408
+attributed to bile duct obstruction,408
+no cholelithiasis,408
+no dilation of biliary ducts,408
+abdominal computed tomography,408
+ultrasound imaging,408
+bilirubin increased to 200 µmol/L,408
+ERCP performed,408
+transcutaneous hepatic cholangiography performed,408
+patent hepatic ducts,408
+patent common biliary ducts,408
+smooth tapering toward ampulla,408
+patent cystic duct,408
+stent inserted in common bile duct,408
+external biliary drain inserted,408
+no improvement post-cholangiography,408
+bilirubin continued to rise,408
+external biliary drain producing 600 mL bile,408
+direct bilirubin 300 µmol/L,432
+conjugated bilirubin 169 µmol/L,432
+repeated abdominal CT,432
+no intra-abdominal collection,432
+no bleeding,432
+no new pathology,432
+subsequent cholangiogram,432
+stent and bile ducts patent,432
+meropenem changed to ciprofloxacin (postoperative day 18),432
+suspicion of VBDS,432
+bilirubin decreased,432
+meropenem restarted (postoperative day 21),504
+worsening fever,504
+worsening sepsis,504
+serum bilirubin increased,504
+meropenem-induced VBDS suspected,504
+antibiotic therapy changed to ciprofloxacin and metronidazole,552
+bilirubin normalized,552
+clindamycin (POD1-3),24
+metronidazole (POD23-38),552
+ciprofloxacin (POD23 to discharge),552
+vancomycin (POD10-15),240
+paracetamol (POD1-5),24
+"sedation, analgesia, TPN",0
+biliary drain plugged and removed,2160
+prolonged ICU stay,0
+ventilator-dependent,0
+decannulated,2160
+discharged from ICU after 3 months,2160
+no significant organ dysfunction,2160
+discharged from hospital,2160

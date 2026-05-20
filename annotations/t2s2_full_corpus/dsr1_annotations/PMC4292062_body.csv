@@ -1,0 +1,83 @@
+event,time
+36-week gestation,0
+female,0
+caucasian,0
+delivered via spontaneous vaginal delivery,0
+mother: 26-year-old primigravida,0
+parents not related,0
+no family history of gastrointestinal disease,0
+amniotic fluid stained with thick meconium,0
+resuscitation with tracheal suctioning,0
+resuscitation with positive pressure ventilation,0
+birth weight 2800 g,0
+Apgar score 4 at 1 min,0
+Apgar score 6 at 5 min,0
+Apgar score 7 at 10 min,0
+transferred to NICU on nasal CPAP,0
+marked pallor,0
+"normocytic normochromic anemia (Hb 10.6 g/dL, Hct 31.9%)",0
+normal CRP,0
+normal kidney function tests,0
+normal serum electrolytes,0
+no signs of hemolysis,0
+no fetomaternal hemorrhage,0
+placental chorioamnionitis,0
+received intravenous antibiotics,0
+received blood transfusion,0
+stable after first few hours,0
+no respiratory distress,0
+spontaneous breathing,0
+oral feeding started on day 2 (breast and formula),48
+irritability,72
+lethargy,72
+severe dehydration,72
+25% body weight loss,72
+"hyperchloremic metabolic acidosis (pH 7.18, HCO3 12.3 mmol/L, BE -14.9, Cl- 129 mmol/L)",72
+hypernatremic dehydration (Na+ 155 mmol/L),72
+normal glucose,72
+normal lactate,72
+negative sepsis workup,72
+loose watery bloodless stools with mucus,72
+nil per os,72
+volume expansion with normal saline,72
+sodium bicarbonate replacement therapy,72
+TPN initiated via central line,72
+oral feeding attempts caused weight loss,72
+oral feeding attempts caused hyponatremia,72
+oral feeding attempts caused metabolic acidosis,72
+urinary catheterization,72
+profuse diarrhea mistaken for urine,72
+persistent diarrhea despite fasting (120 ml/kg/day stool output),72
+high sodium requirements (10 mmol/kg/day),72
+stool reducing substance negative,72
+fecal pH 8,72
+high stool Na+ (83 mmol/L),72
+fecal ion gap <50,72
+secretory diarrhea pattern confirmed,72
+octreotide initiated on day 19,456
+no improvement with octreotide,456
+developed cholestasis,456
+catheter-related sepsis,456
+"normal repeated cultures (blood, stool, urine, CMV)",456
+normal metabolic screen,456
+normal immunoreactive trypsinogen,456
+normal renal tests,456
+normal hepatic tests,456
+normal endocrinological tests,456
+normal cow milk IgE,456
+no immunodeficiency,456
+no autoimmune enteropathy,456
+"normal imaging (cerebral, abdominal, cardiac, renal ultrasound)",456
+duodenal biopsy on day 12,288
+unspecific inflammatory enteropathy,288
+second biopsy at 3 months,2160
+microvillus atrophy,2160
+no PAS abnormalities,2160
+no EM changes,2160
+compound heterozygous MYO5B mutations,2160
+MVID diagnosis confirmed,2160
+parents heterozygous carriers,2160
+genetic counseling provided,2160
+discharged home at 3 months with TPN,2160
+liver function deterioration by 5 months,3288
+death at 9 months (septic shock from catheter infection),6480

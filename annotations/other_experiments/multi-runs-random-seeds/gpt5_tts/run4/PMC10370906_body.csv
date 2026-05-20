@@ -1,0 +1,59 @@
+event,time
+60 years old ,0
+female ,0
+found lying at home ,-2
+transported to hospital by ambulance ,-1
+admitted to the hospital ,0
+chief complaint: impaired consciousness ,0
+Japan Coma Scale (JCS) II-10 ,0
+Glasgow Coma Scale (GCS) 14 (E3V5M6) ,0
+no clear neurological deficits ,0
+non-contrast head CT performed ,0
+hemorrhage in the third ventricle ,0
+hemorrhage in the fourth ventricle ,0
+hemorrhage in the bilateral lateral ventricles with left dominance ,0
+hemorrhage confined within the ventricles ,0
+mild ventricular dilatation ,0
+no cerebral parenchymal hemorrhage ,0
+brain 3D-CTA performed ,0
+arterial phase source of bleeding unclear ,0
+venous phase spot enhancement on the lateral wall of the anterior horn of the left lateral ventricle ,0
+admitted to intensive care unit ,0
+blood pressure control initiated ,0
+no progression of impaired consciousness ,4
+ventricular drainage not performed ,4
+cerebral angiography performed ,72
+aneurysm (3.8 mm) at a distal site of the medial lenticulostriate artery (mLSA) arising from the proximal A1 segment of the left anterior cerebral artery ,72
+ruptured aneurysm (considered) ,72
+endovascular treatment performed ,72
+general anesthesia ,72
+systemic heparinization ,72
+guiding sheath navigated into the petrous portion of the left internal carotid artery ,72
+ipsilateral approach difficult ,72
+compression study of the right common carotid artery confirmed anterior communicating artery ,72
+contralateral approach attempted ,72
+Marathon catheter advanced through the anterior communicating artery into the mLSA origin but unable to be advanced near the aneurysm ,72
+changed to DeFrictor nano catheter and TENROU S10 guide wire ,72
+mLSA cannulation achieved ,72
+selective angiography confirmed catheter tip proximal to the aneurysm ,72
+33% NBCA-Lipiodol mixture injected ,72
+perforating artery distal and proximal to the aneurysm filled with NBCA ,72
+slight reflux of NBCA in the proximal artery ,72
+angiography after NBCA injection demonstrated disappearance of the aneurysm ,72
+postoperative head CT performed ,78
+no hemorrhagic complications on postoperative head CT ,78
+no cerebral infarction on postoperative head CT ,78
+no impaired consciousness developed ,78
+no paralysis developed ,78
+Lipiodol remained as a high-density spot on the lateral ventricular wall of the anterior horn of the left lateral ventricle ,78
+MRI evaluation not possible due to biventricular pacing implantable cardioverter defibrillator ,78
+pneumonia developed ,168
+sepsis triggered by pneumonia developed ,168
+decrease in muscle strength associated with disuse remained ,240
+rehabilitation started ,336
+discharged to home ,4320
+modified Rankin Scale (mRS) 1 ,4320
+history of atrial fibrillation ,-8760
+history of dilated cardiomyopathy ,-8760
+implantation of a biventricular pacing implantable cardioverter defibrillator ,-8760
+receiving oral warfarin ,-8760

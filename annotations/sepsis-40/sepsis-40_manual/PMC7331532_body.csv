@@ -1,0 +1,93 @@
+event,time
+56 year old,0
+man,0
+janitor with occupational exposure to organic matter through gardening,0
+history of diabetes mellitus,0
+history of hypertension,0
+history of hyperlipidemia,0
+obesity,0
+admitted to the intensive care unit for ARDS,0
+metformin,0
+glimepiride,0
+atorvastatin,0
+inhaled fluticasone propionate/salmeterol for the suspicion of early stage COPD,0
+intermittent fever for 2 weeks before admission,-336
+muscle ache for 2 weeks,-336
+Nonproductive cough started 7 days before admission,-168
+progressively increasing dyspnea started 7 days before admission,-168
+received 8 days of amoxicillin for the suspicion of bacterial pneumonia,-96
+received 5 days of pristinamycin for the suspicion of bacterial pneumonia,-60
+heart rate 99 beats/min,0
+respiratory rate 34 breaths/min,0
+blood pressure 132/92 mmHg,0
+temperature 38 °C,0
+oxygen saturation 95% on high flow nasal oxygenation,0
+pH 7.41,0
+pCO2 27.9 mmHg,0
+pO2 87.9 mmHg,0
+White blood-cell count 10720 cells per mm3,0
+82.6% neutrophils,0
+12.7% lymphocytes,0
+lactate dehydrogenase blood level 882 U per liter,0
+CRP 206 mg per deciliter,0
+ferritin 556 ng per milliliter,0
+D-Dimer 2390 ng per milliliter,0
+interleukin-6 level 93.6 pg per milliliter,0
+Sepsis-related Organ Failure Assessment (SOFA) score 8,0
+diagnosed with hypoxemic respiratory failure,0
+required mechanical ventilation,0
+required norepinephrine,0
+diabetic ketoacidosis,0
+requiring continuous insulin infusion,0
+acute kidney failure without criteria for renal replacement therapy,0
+Chest CT showed multiple bilateral ground-glass opacities with a crazy paving pattern,0
+Nasopharyngeal swab positive for SARS-CoV-2,0
+received a 7-day course of dexamethasone 20 mg daily for COVID-19,0
+1 infusion of eculizumab 1200 mg on day 2 for COVID-19 clinical trial,48
+treated with piperacillin-tazobactam,0
+treated with cefotaxime,0
+treated with spiramycin,0
+antibiotics stopped upon negative tracheal aspirate on day 4,96
+condition worsened,144
+increasing vasopressor need,144
+increasing oxygen need,144
+Tracheal aspirate showed branching hyphae,144
+Culture isolated A. fumigatus with fungal load 20 CFU per 50 μL,168
+Bacterial culture remained negative after 5 days of incubation,264
+serum qPCR-Af negative,144
+D-dimer level increased >20000 ng per milliliter,144
+fibrinogen 3.85 g per liter,144
+died of a cardiac arrest,156
+suspect of massive pulmonary embolism,156
+Autopsy was prohibited,156
+posaconazole resistant with MIC 0.5 μg per milliliter,192
+itraconazole resistant with MIC >8 μg per milliliter,192
+voriconazole resistant with MIC 2 μg per milliliter,192
+isavuconazole resistant with MIC 4 μg per milliliter,192
+TR34/L98H mutation identified,192
+glucose level 20.5 mmol per liter,0
+ketonemia present,0
+bicarbonate ions level 17.2 mmol per liter,0
+creatinine level 2.76 mg per deciliter (221 μmol per liter),0
+body mass index 31 kg/m2,0
+Specific A. fumigatus quantitative PCR positive with Cq value 26.3,144
+PaO2/FiO2 ratio 87.9,0
+DKA pH 7.3,0
+serum galactomannan index negative at 0.07,0
+serum β-D-Glucan negative at 10.4 pg per milliliter,0
+serum galactomannan index negative at 0.05,144
+serum β-D-Glucan negative at <7.8 pg per milliliter,144
+BioFire FilmArray pneumonia plus panel negative,96
+patient was azole-naive,0
+"3 pulmonary nodules (7mm, 1mm, 1mm) in the right upper lobe",0
+"death attributed to presumed pulmonary embolism, not aspergillosis",156
+classified as putative invasive aspergillosis according to Blot et al. criteria,144
+angiotensin II receptor blockers,0
+calcium channel blockers,0
+Cq value 23.3 for E gene,0
+Cq value 22.8 for S gene,0
+transthoracic echocardiogram showed hypertrophy of the right ventricle,144
+transthoracic echocardiogram showed dilation of the right ventricle,144
+no classical immunosuppression factors present,0
+did not meet EORTC/MSGERC host criteria for invasive aspergillosis,0
+no antifungal treatment administered due to rapid clinical evolution,156

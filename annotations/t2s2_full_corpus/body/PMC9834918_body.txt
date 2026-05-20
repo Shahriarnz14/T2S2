@@ -1,0 +1,58 @@
+pmcCase Report
+
+Patient is a 49-year-old morbidly obese African American man with end-stage renal disease on peritoneal dialysis (PD) and hypertension who presented to the hospital with nausea, nonbilious nonbloody emesis, and severe diffuse abdominal pain, which initiated 4 days prior to arrival. He reported the symptoms to his outpatient PD nurse 2 days prior to arrival who reported a cloudy white fluid, sent peritoneal fluid and culture for evaluation, and the patient was initially started on 1 g of intraperitoneal cefazolin and 1 g of intraperitoneal ceftazidime as last fill. The night prior to presentation in the hospital, the patient had a fever measured on a home thermometer of 101.5 °F. Patient was on PD for 2 years, never had a prior similar episode, and was oliguric at baseline. Patient revealed that during the last week he was not using the sterile aseptic technique as per usual, rather using dish towels to wipe his hand before and after accessing the transfer set.
+
+On admission, the patient was afebrile, with blood pressure of 95/72 mmHg, heart rate of 88 bpm, respiratory rate of 20 breaths/min, and was in acute distress secondary to abdominal pain. Physical examination was pertinent to a distended abdomen, tender to light palpation, positive fluid wave, and dull to percussion. Patient had pertinent laboratory findings of leukocytosis of 13 700, potassium of 3.3 mmol/L, and an anion gap of 25. Records from the PD effluent 2 days prior to arrival demonstrated a peritoneal fluid total white blood cell count of 93 557 with a neutrophil predominance of 80% (Table 1). On hospital day 1, the records from the initial sample identified the organism as Acinetobacter pittii in both the aerobic and anaerobic bottle. Susceptibilities were pending; therefore, patient was started on intraperitoneal ceftazidime and intraperitoneal gentamicin as last fill initially. Susceptibilities returned on hospital day 2 with sensitivity to ceftazidime (4 μg/mL) (Table 2). On day 5, blood culture results showed no growth. Patient was continued on intraperitoneal ceftazidime 1.5 g as the last fill for 21 days; however, due to persistence of cloudy effluent as an outpatient, treatment was extended for a total duration of 28 days instead of 21 as originally planned.
+
+Table 1. Peritoneal Fluid Color, Appearance, TNC, and Neutrophil Percentage by Day.
+
+	Day 1	Day 4	Day 8	Day 34	
+Fluid color	Yellow	Colorless	Colorless	Colorless	
+Appearance	Cloudy	Clear	Clear	Clear	
+Fluid TNC	93 557	998	213	43 245	
+Neutrophil %	80	54	57	80	
+Abbreviation: TNC, total neutrophil count.
+
+Table 2. Sensitivities by Drug and MIC.
+
+Sensitivities	Drug	MIC (μg/mL)	
+S	Ampicillin/sulbactam	≤2	
+R	Piperacillin/tazobactam	≥128	
+R	Cefazolin	≥64	
+S	Ceftazidime	4	
+I	Ceftriaxone	32	
+S	Trimethoprim/sulfamethoxazole	≤20	
+S	Levofloxacin	≤0.12	
+S	Imipenem	≤0.25	
+S	Gentamicin	≤1	
+S	Tobramycin	≤1	
+S	Ciprofloxacin	≤0.25	
+Abbreviation: MIC, minimum inhibitory concentration.
+
+Patient was readmitted to the hospital for fever and abdominal pain on day 34, 6 days after completion of antibiotics. The peritoneal fluid cell count was again elevated to 43 245/μL with 80% neutrophils and cultures growing the same organism (Table 1). The patient was initially treated with dual therapy of vancomycin and gentamicin but subsequently was placed on intravenous ceftazidime. The blood cultures in the second hospital stay showed no growth as well. Patient responded to the initial antibiotics with improvement in abdominal pain and decreasing intraperitoneal white blood cell count. The PD catheter was removed, and hemodialysis (HD) was initiated via a tunneled HD catheter. The patient was discharged with a 2-week course of ciprofloxacin with a plan for HD until a kidney transplant becomes available.
+
+Discussion
+
+Peritonitis is a common and serious complication of PD. Peritonitis refers to the inflammation of the peritoneum, which is a serous membrane lining the cavity of the abdomen and covering the abdominal organs. Many risk factors are known to increase the risk for PD peritonitis, including, but not limited to, low serum albumin, low serum phosphorus, intestinal disorders, and colonic diverticulosis.1,2 The most common pathogens for PD-related peritonitis are coagulase-negative staphylococcal species that commonly colonize human skin and hands and Staphylococcus aureus that together are responsible for 50% or more of infections in most series.3,4 A pittii, a member of the Acinetobacter calcoaceticus-baumannii complex, is a strictly aerobic, gram-negative, nonmotile, nonlactose fermenting, oxidase-negative, catalase-positive coccobacilli.5,6 After a thorough literature review, Acinetobacter baumannii has been reported as an uncommon cause of PD peritonitis; however, we report the first case of PD peritonitis caused by A pittii.7
+
+Acinetobacter is commonly found in the environment such as in soil or in water.8 The most common clinically encountered species is A baumannii. These groups of bacteria can colonize patients without causing infection, but when they do cause infection, they typically cause bacteremia, urinary tract infections, pneumonia, or wound infections. Multidrug-resistant infections are a particular concern. In 2017, carbapenem-resistant Acinetobacter caused an estimated 8500 infections in hospitalized patients and 700 deaths in the United States.8 Hospitalized patients are at risk of infection, particularly those on ventilators, with catheters, with open wounds, and in the intensive care unit or with prolonged hospital stay. Infection outside of the hospital setting is rare. Contact with infected equipment is implicated in spread of this infection; hand hygiene and infection control practices are crucial to reduce incidence. Common presentations of Acinetobacter peritonitis include abdominal pain, cloudy dialysate fluid, and, in a minority, fever.9 Our patient presented with the same signs and symptoms. The organism is typically a hospital-acquired organism and seldom a community-acquired organism, which is another unique aspect to this case.
+
+Therapeutic options for antibiotic-susceptible Acinetobacter include a broad-spectrum cephalosporin, a combination β-lactam/β-lactamase inhibitor, or a carbapenem for 3 weeks. Polymyxin and tetracyclines can also be used for 3 weeks for drug-resistant Acinetobacter. A pittii has different virulence patterns and antimicrobial resistance patterns when compared with A baumannii, reflecting the importance of obtaining peritoneal cultures whenever there is a high clinical suspicion for PD peritonitis. Due to this information, our patient was initially prescribed a 3-week duration of antibiotics; however, due to persistence in cloudy effluent, the treatment time for our patient was extended to a total of 4 weeks. Unfortunately, the patient returned 6 days after completion of the intraperitoneal antibiotics with abdominal pain.
+
+When the intraperitoneal antibiotics were completed, the patient was asymptomatic as an outpatient on day 28 (week 4); however, on day 34 the patient returned to the hospital with recurrence of peritonitis symptoms and peritoneal white blood cell count >43 000. Patient was initially treated with dual therapy of vancomycin and gentamicin but subsequently recommended resuming ceftazidime and removal of PD catheter. The cause of treatment failure remains unclear.
+
+The pathogenesis of Acinetobacter species has been attributed to several mechanisms, including virulence factors, antibiotic resistance mechanisms, and the ability to adhere biotic and abiotic surfaces and form biofilms.10,11 A pittii in particular has demonstrated the ability to resist desiccation and form biofilms in in vitro studies.12 In our patient, initial clinical response with recurrence suggests either antibiotic resistance or insufficient source control. He again demonstrated clinical response to ceftazidime, suggesting it was an appropriate treatment as the abdominal pain and peritoneal white blood cell count improved while inpatient in the second hospital admission. Ultimately, due to severe recurrence with the same organism, his PD catheter was removed and PD was no longer considered safe option in the future. An HD catheter was placed and he was initiated on HD. Patient was discharged with a 2-week course of ciprofloxacin and was asymptomatic upon completion of therapy. Although it is possible to perform a peritoneal equilibration test to evaluate peritoneal membrane permeability and resume PD once the peritonitis has resolved, our patient elected to pursue HD due to the extreme abdominal pain he experienced from the peritoneal infection with A pittii.
+
+This case demonstrates the importance of appropriate sterile technique. Due to its propensity to form biofilms and resist desiccation after prolonged periods, our patient could have been reexposed to A pitti from his home if he was not observing sterile technique or it may have remained colonized to his peritoneal catheter and evaded complete eradication. Prevention of PD-related peritonitis includes prophylactic antibiotics use immediately prior to catheter placement along with educating the patient on proper techniques to prevent contamination with instructions to contact their provider immediately if any break in technique so that appropriate management can be initiated, and to take extra precaution if residing with a domestic animal. Retraining the patient regularly can be effective for prevention as one study found that 6 months after initiation of PD, around half of the patients took shortcuts, modified the standard exchange method, or failed to follow appropriate hand hygiene protocols properly or follow the aseptic technique.13 A pittii PD peritonitis is a rare, painful, and difficult-to-treat infection. Our patient had recurrent PD peritonitis with this organism, presumably from biofilm formation, and this case highlights the importance of hand hygiene and sterile technique when treating PD patients.
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Ethical Approval: Our institution does not require ethical approval for reporting individual cases or case series.
+
+Informed Consent: Written informed consent was obtained from the patient(s) for their anonymized information to be published in this article.
+
+ORCID iD: Tushar Bajaj https://orcid.org/0000-0002-8863-9399
+
+Prior Presentation of Abstract Statement: Abstract presented at American Society of Nephrology, Orlando, Florida, November 3, 2022.

@@ -1,0 +1,76 @@
+event,time
+47 years old,0
+obese,0
+BMI of 42,0
+incisional hernia,0
+midline laparotomy,0
+hypertension,0
+transabdominal gynecologic surgery,0
+peripheral vascular disease,0
+multiple angioplasties of the iliac arteries,0
+laparoscopic correction,0
+pneumoperitoneum,0
+intraabdominal pressure 12mm Hg,0
+adhesiolysis,0
+operation duration 240 minutes,0
+15-minute break,0
+decompression of the abdomen,0
+total pneumoperitoneum duration 215 minutes,0
+blood pressure stable,0
+hernia defect 20 cm × 16 cm,0
+expanded polytetrafluoroethylene meshes,0
+meshes fixed with tackers,0
+meshes fixed with transabdominal sutures,0
+recovery uneventful,0
+postoperative day 3,72
+paralytic ileus,72
+no localized tenderness,72
+abdominal x-ray,72
+abdominal ultrasound,72
+distended bowel,72
+C-reactive protein raised,72
+relaparoscopy,72
+intraabdominal pressure 12 mm Hg,72
+procedure duration 12 minutes,72
+bowel distension,72
+no contamination,72
+no perforation,72
+no ischemia,72
+no action undertaken,72
+systemic inflammatory response syndrome,72
+respiratory insufficiency,72
+intensive care unit transfer,72
+stabilized,72
+less support needed,72
+no apparent infection,72
+postoperative day 9,216
+bloody diarrhea,216
+colonoscopy,216
+severe ischemic colitis,216
+transverse colon ischemia,216
+mesenteric angiography,216
+occluded superior mesenteric artery,216
+compensatory distended inferior mesenteric artery,216
+pinpoint stenosis at origin,216
+balloon angioplasty,216
+stenosis dilated,216
+anticoagulants administered,216
+steady improvement,216
+5 days post-angioplasty,216+120=336
+sudden deterioration,336
+colonoscopy,336
+multiple perforations,336
+transverse colon ischemia,336
+laparotomy,336
+fecal peritonitis,336
+ischemic ascending colon,336
+ischemic transverse colon,336
+resection of ischemic colon,336
+meshes removed,336
+postoperative deterioration,336
+death,336+24=360
+histological examination,360
+extensive ischemia,360
+multiple transmural ulcerations,360
+multiple perforations,360
+no autopsy,360

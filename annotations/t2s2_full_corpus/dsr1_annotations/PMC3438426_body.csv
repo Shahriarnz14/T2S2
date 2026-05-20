@@ -1,0 +1,86 @@
+event,time
+66 years old,0
+male,0
+admitted to the Department of Internal Medicine,0
+fever,-240
+cough,-240
+sputum production,-240
+progressive jaundice,-240
+chronic alcoholism,0
+drinking two or more bottles of liquor daily,0
+diabetes mellitus,0
+liver cirrhosis,0
+cerebral infarction,-35040
+no neurological sequelae,-35040
+no dysphagia,-35040
+plain chest X-ray,-240
+abdominal CT scan,-240
+bilateral lower lung field haziness,-240
+27-mm liver mass,-240
+suspicion of aspiration pneumonia,-240
+suspicion of hepatocellular carcinoma,-240
+transferred to a secondary hospital,-240
+intravenous antibiotics (ceftriaxone and azithromycin),-72
+fever persisted (>37.5℃),-72
+difficulty swallowing food,0
+reflexive cough while drinking water,0
+intact gag reflexes,0
+decreased pharyngeal elevation,0
+swollen bilateral anterior neck area for two weeks before admission,-336
+lower left quadrant anterior neck swelling,-336
+mild tenderness,-336
+follow-up chest radiograph normal,0
+"leukocytosis (WBC 18,690/µl)",0
+neutrophilia (89% of WBC),0
+CRP 14.8 mg/dl,0
+VFSS performed,0
+puree-like diet,0
+boiled rice,0
+semi-blended diet,0
+curd-type yogurt,0
+small and large amounts of fluid,0
+retropharyngeal mass,0
+mechanical obstruction,0
+restricted laryngeal elevation,0
+restricted epiglottic rotation,0
+aspiration in all food types,0
+high risk of suffocation on puree-like diet,0
+moderate-to-severe grade residues in valleculae,0
+moderate-to-severe grade residues in pyriform sinuses,0
+tube feeding recommended,0
+nasogastric tube insertion unsuccessful,0
+contrast-enhanced neck CT,0
+loculated fluid collection in retropharyngeal space,0
+loculated fluid collection in anterior cervical space,0
+loculated fluid collection in pericarotid space,0
+loculated fluid collection in prevertebral space,0
+fluid collection in upper mediastinum,0
+subglottic airway narrowing,0
+reactive intraparotid lymph nodes,0
+reactive superficial cervical lymph nodes,0
+diagnosis of retropharyngeal abscess,0
+diagnosis of mediastinitis,0
+emergency tracheostomy,0
+abscess drainage,0
+afebrile postoperatively,0
+intravenous ampicillin-sulbactam,0
+culture: methicillin-resistant Staphylococcus aureus,0
+culture: Klebsiella pneumoniae,0
+ceftriaxone-vancomycin administered,0
+CRP decreased to 10.2 mg/dl,120
+transferred to general ward,240
+general condition improved,432
+follow-up VFSS,432
+supraglottic penetration with curd-type yogurt,432
+supraglottic penetration with large fluid,432
+reduced pharyngeal residue,432
+oral feeding training recommended,432
+nasogastric tube feeding maintained,432
+tracheostomy tube removed,648
+third VFSS,816
+very little silent aspiration with teaspoon fluid,816
+full oral feeding with puree-like consistency,816
+follow-up chest CT improvement,816
+"WBC normalized (7,510/µl)",816
+CRP normalized (0.19 mg/dl),816
+discharged,1104

@@ -1,0 +1,44 @@
+72 years old | 0
+male | 0
+COPD | 0
+40-pack-year smoking history | 0
+progressive shortness of breath | -336
+productive cough | -336
+denied recent travel | 0
+denied sick contacts | 0
+tachypnea | 0
+respiratory rate 28 breaths per minute | 0
+oxygen saturation 89% on room air | 0
+diffuse wheezing | 0
+tiotropium medication | 0
+salmeterol medication | 0
+chest X-ray | 0
+hyperinflation | 0
+right lower lobe infiltrate | 0
+sputum cultures | 0
+empiric antibiotics | 0
+elevated white blood cell count | 0
+elevated C-reactive protein | 0
+CT scan of chest | 0
+right lower lobe consolidation | 0
+small pleural effusion | 0
+hospital admission | 0
+confusion | 24
+hyponatremia | 24
+antibiotic regimen adjustment | 24
+Streptococcus pneumoniae growth | 24
+intravenous fluids | 24
+electrolyte repletion | 24
+respiratory status improvement | 120
+weaned off supplemental oxygen | 120
+discharge | 168
+oral antibiotics prescription | 168
+follow-up instructions | 168
+oral penicillin prescription | 168
+continuation of tiotropium | 168
+continuation of salmeterol | 168
+oral corticosteroids prescription | 168
+smoking cessation advice | 168
+smoking cessation program referral | 168
+1-week follow-up appointment | 168
+4-week follow-up appointment | 672

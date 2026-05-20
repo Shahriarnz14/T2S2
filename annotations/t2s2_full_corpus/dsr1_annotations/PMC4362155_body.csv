@@ -1,0 +1,117 @@
+event,time
+22 years old,0
+female,0
+admitted to the outpatient clinic,0
+fever,0
+sore throat,0
+acute bacterial pharyngitis,0
+oral antibiotics,0
+no improvement,0
+persistent fever,-240
+confusion,-240
+dyspnea,-240
+cyanosis,-240
+basal crackles,-240
+anterior infrahyoid soft neck swelling,-240
+intubated,-240
+admitted to ICU,-240
+leukocytosis,-240
+absolute neutrophilia,-240
+mild increase in creatinine,-240
+high blood sugar,-240
+positive acetone in urine,-240
+wide mediastinum,-240
+moderate bilateral pleural effusion,-240
+adjacent subpleural atelectasis,-240
+bilateral basal lung infiltrates,-240
+mild pericardial effusion,-240
+no pulmonary embolism,-240
+intercostal tubes inserted,-240
+exudate pleural fluid,-240
+pH 7.1,-240
+high white blood cell count,-240
+predominantly neutrophils,-240
+"negative cultures (blood, sputum, pleural fluid)",-240
+community acquired pneumonia,-240
+secondary bilateral empyema,-240
+diabetic ketoacidosis,-240
+newly diagnosed diabetes mellitus,-240
+septic shock,-240
+acute kidney injury,-240
+progressive edema in all limbs,-336
+increase in anterior soft neck swelling,-336
+mechanical ventilation,-336
+intravenous fluids,-336
+insulin,-336
+vasopressors,-336
+broad spectrum antibiotics,-336
+antifungals,-336
+no improvement,-336
+referred to KKUH,-336
+high fever,-336
+hypotension,-336
+tachycardia,-336
+hypoxemia,-336
+generalized edema,-336
+repeated CT chest and neck,-336
+high density fluid collection in prethyroid region,-336
+extending to sternoclavicular joint,-336
+"multiple small mediastinal, pretracheal, paratracheal, and prevascular lymph nodes",-336
+ultrasound guided aspiration of prethyroid fluid collection,-336
+frank pus,-336
+thoracic surgery consultation,-336
+conservative management,-336
+sputum culture Pseudomonas aeruginosa,-336
+sputum culture Acinetobacter baumannii,-336
+antibiotics adjusted,-336
+no improvement,-336
+fever persisted,-336
+hypotension persisted,-336
+deterioration in renal function,-336
+renal replacement therapy,-336
+repeat neck and chest CT scan,-336
+multiloculated collection in middle neck extending to sternum,-336
+larger and more defined collection,-336
+large loculated cystic lesion in anterior mediastinum,-336
+increased pericardial effusion,-336
+increased bilateral pleural effusion,-336
+basal atelectasis,-336
+bilateral consolidation,-336
+surgical intervention,-336
+cervical dissection,-336
+debridement and drainage of pus,-336
+left thoracotomy,-336
+debridement and drainage of mediastinal and left pleural collection,-336
+pleuropericardial window,-336
+right thoracotomy,-336
+debridement and drainage of right pleural collection,-312
+no bacterial growth,-312
+histopathology acute inflammatory process,-312
+gradual improvement in hemodynamics,-312
+improved conscious level,-312
+improved renal functions,-312
+improved inflammatory markers,-312
+difficult weaning from mechanical ventilation,-312
+generalized weakness,-312
+tracheostomy postponed,-312
+high fever,-168
+tachycardia,-168
+hypotension requiring vasopressors,-168
+repeat CT neck and chest,-168
+interval reduction in collections,-168
+loculated pleural effusion,-168
+bilateral lateral loculated fluid collections beneath thoracotomy sites,-168
+CT guided aspiration,-168
+critical illness polyneuropathy,0
+critical illness myopathy,0
+tracheo-esophageal fistula,0
+tracheostomy,0
+feeding gastrostomy,0
+successful weaning from mechanical ventilation,1968
+transferred to general ward,1968
+stayed for 6 weeks,1968
+healing of tracheo-esophageal fistula,4032
+oral feeding resumed,4032
+tracheostomy tube removed,4032
+gastrostomy tube removed,4032
+discharged from hospital,4032

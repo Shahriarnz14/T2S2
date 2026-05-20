@@ -1,0 +1,84 @@
+event,time
+38 years old,0
+female,0
+admitted to the Department of Obstetrics,0
+difficulty walking,-96
+pain in right inguinal region,-96
+lower back pain,-96
+35 weeks and 5 days of gestational age,-96
+low-lying placenta,-72
+elective Caesarean section scheduled,-72
+body temperature 36.3°C,0
+pulse rate 83 beats/min,0
+blood pressure 116/50 mmHg,0
+respiratory rate 15 breaths/min,0
+SpO2 98% on room air,0
+lower abdominal pain,0
+massive vaginal bleeding,24
+emergency Caesarean section,24
+transferred to ICU,24
+dyspnea,24
+chest X-ray cardiac dilatation,24
+bilateral lower lung field opacity,24
+anemia hemoglobin 10.1 g/dL to 6.1 g/dL,24
+contrast-enhanced whole-body CT,48
+bilateral pleural effusions,48
+multiple lung nodules,48
+multiple liver masses,48
+multiple osteolytic changes,48
+thrombi in splenic vein,48
+thrombi in abdominal inferior vena cava,48
+thrombi in left common iliac vein,48
+SpO2 deteriorated to 94% with 5 LPM oxygen,48
+non-invasive positive-pressure ventilation,48
+diuretic administered,48
+resolution of respiratory distress,48
+transferred to Division of General Medicine,72
+conscious,72
+well-oriented,72
+left hip pain,72
+body temperature 37.1°C,72
+pulse rate 93 beats/min,72
+blood pressure 126/82 mmHg,72
+respiratory rate 25 breaths/min,72
+SpO2 96% on 5 L/nasal cannula,72
+conjunctival anemia,72
+icterus,72
+left cervical lymphadenopathy,72
+supraclavicular lymphadenopathy,72
+attenuated breath sounds bilateral lower lungs,72
+bilateral breast engorgement,72
+midline Caesarean scar,72
+"white blood cell count 11,470/μL",72
+hemoglobin 7.7 g/dL,72
+hypoalbuminemia 2.1 g/dL,72
+"elevated lactate dehydrogenase 4,467 units/L",72
+"elevated alkaline phosphatase 1,651 units/L",72
+elevated CEA 44.0 ng/dL,72
+elevated CA19-9 154.7 U/mL,72
+elevated CA125 243.6 U/mL,72
+elevated CA15-3 55 U/mL,72
+pleural fluid cytology adenocarcinoma,72
+sputum cytology adenocarcinoma,72
+upper gastrointestinal endoscopy unremarkable,72
+colonoscopy unremarkable,72
+breast ultrasonography unremarkable,72
+placenta pathology normal,72
+stopped breastfeeding,72
+respiratory condition worsened,168
+oxygen therapy changed to nasal high-flow,168
+cell block cytology pleural effusion adenocarcinoma,168
+CK7 positive,168
+TTF-1 positive,168
+napsin A positive,168
+CK20 negative,168
+ER 1-5% positive,168
+EGFR mutation exon 19 deletion,288
+gefitinib 250 mg/day initiated,288
+transferred to Division of Respiratory Medicine,336
+pleural effusion reduced,336
+SpO2 improved,336
+discharged,1080
+continued outpatient treatment,1080
+ambulatory,1080
+no analgesics,1080

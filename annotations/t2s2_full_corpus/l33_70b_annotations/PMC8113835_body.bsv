@@ -1,0 +1,57 @@
+68 years old | 0
+male | 0
+type 1 diabetic | 0
+hypertensive | 0
+on amlodipine | 0
+operated for right inguinal hernia | -7200
+admitted to the emergency room | 0
+abdominal pain | 0
+ketoacidosis decompensation | 0
+uremic syndrome | 0
+conscious patient | 0
+hemodynamically stable | 0
+dyspneic | 0
+febrile at 39,6 °C | 0
+right lumbar tenderness | 0
+oliguric | 0
+diuresis at 300 ml/24h | 0
+altered renal function | 0
+creatinine at 92 mg/l | 0
+urea at 3,1 g/l | 0
+K+ at 6.9 mmol/l | 0
+Na+ at 123 mmol/l | 0
+blood sugar at 6.5 g/l | 0
+alkaline reserves at 8 mEq/l | 0
+infectious syndrome | 0
+CRP at 418 mg/l | 0
+white blood cells at 26000/ml | 0
+hemoglobin at 12,3 g/dl | 0
+leucocyturia 320,000 | 0
+hematuria at 120,000 | 0
+abdominopelvic CT | 0
+single anatomical right kidney | 0
+emphysematous pyelonephritis | 0
+renal abscess | 0
+ruptured in the intraperitoneal cavity | 0
+pneumoperitoneum | 0
+admitted to intensive care | 0
+dialysis sessions | 0
+insulin therapy | 0
+antibiotic therapy | 0
+ceftriaxone | 0
+metronidazole | 0
+ECBU culture | 0
+urinary tract infection | 0
+Pseudomonas Aeruginosa | 0
+surgical drainage of abscesses | 48
+right double J stent | 48
+favorable evolution | 72
+decrease of the infectious syndrome | 72
+apyrexia | 72
+chronic renal failure | 120
+creatinine plateau of 20 mg/l | 120
+discharged | 240
+oral antibiotics | 240
+abdominopelvic CT follow-up | 672
+clear regression of the bubbles of air | 672
+double J catheter removed | 1008

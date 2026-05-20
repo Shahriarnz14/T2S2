@@ -1,0 +1,78 @@
+event,time
+89-year-old male,0
+admitted to ICU,0
+chronic obstructive pulmonary disease,0
+nocturnal oxygen therapy,0
+no known cardiac disease,0
+hospitalized since March 30,-384
+COPD exacerbation,-384
+condition improved,-168
+new-onset fever,-144
+hypoxemia,-144
+bilateral lung infiltrates,-144
+RT-PCR positive for SARS-CoV-2,-144
+treated with hydroxychloroquine,-144
+treated with azithromycin,-144
+intubated,-144
+sedated,0
+mechanically ventilated,0
+tidal volume 6.5 ml/kg,0
+PEEP 8 cmH2O,0
+physical examination unremarkable,0
+hemodynamically stable,0
+PaO2/FiO2 110,0
+respiratory system compliance 35 ml/cmH2O,0
+airway resistance 18 cmH2O/L/sec,0
+intrinsic PEEP 2 cmH2O,0
+CVP 12 mmHg,0
+ScvO2 76%,0
+ECG incomplete RBBB,0
+chest X-ray emphysema,0
+chest X-ray bilateral infiltrates,0
+mild leukocytosis,0
+low lymphocyte count (800/μL),0
+elevated C-reactive protein (24.77 mg/dL),0
+elevated ferritin (2279 ng/mL),0
+elevated interleukin-6 (52 pg/mL),0
+elevated d-dimer (1.65 μg/mL),0
+negative lower respiratory specimen panel,0
+negative urinary antigen testing,0
+acute circulatory collapse,24
+non-responding to fluid resuscitation,24
+high dose vasopressors,24
+CVP 18 mmHg,24
+ScvO2 58%,24
+cardiogenic or obstructive shock,24
+myocardial infarction,24
+acute myocarditis due to COVID-19,24
+acute pulmonary embolism,24
+aortic dissection,24
+tension pneumothorax,24
+cardiac tamponade,24
+infero-lateral ST elevation,24
+high sensitive cardiac troponin I (35 pg/mL),24
+anterior pericardial effusion,24
+right ventricular diastolic collapse,24
+mitral valve inflow variation 30%,24
+normal left ventricular systolic function,24
+LVEF 60%,24
+echo-guided pericardiocentesis,24
+200 mL serous fluid aspirated,24
+hemodynamic improvement,24
+pericardial drainage maintained,24
+240 mL total fluid drained,48
+pericardial fluid negative Gram stain,24
+pericardial fluid negative acid-fast bacilli,24
+no bacterial or fungal growth,24
+negative Mycobacterium tuberculosis PCR,24
+negative SARS-CoV-2 RT-PCR,24
+no malignant cells,24
+normal thyroid function,24
+negative serologic tests,24
+treatment with colchicine,24
+weaned off vasopressors,48
+no recurrence of pericardial effusion,72
+septic shock,144
+multi-organ failure,144
+multi-drug resistant Acinetobacter baumanii,144
+died,144

@@ -1,0 +1,117 @@
+event,time
+19-year-old,0
+male,0
+admitted to the hospital,0
+absolutely well,-168
+persistent fever,-168
+body ache,-168
+throat pain,-168
+decreased oral intake,-168
+vitals persistently low,0
+hypotension 90/40 mmHg,0
+1500 ml normal saline infused,0
+hypotension persisted after fluids,1
+shifted to the medical intensive care unit,0
+broad-spectrum antibiotic started,0
+inotropic support (noradrenaline) started,0
+dengue test negative,0
+typhoid test negative,0
+malaria test negative,0
+leptospira test negative,0
+KFT deranged,0
+LFT deranged,0
+pancytopenia,0
+coagulation disturbance,0
+hepatospenomegaly,0
+clinical hematology consultation,0
+HLH suspected,0
+KFT repeated,0
+LFT repeated,0
+laboratory tests sent,0
+bone marrow biopsy sample taken,0
+Hb (g/dl) 9.8,0
+Platelet count (×109/L) 22,0
+Absolute neutrophil count (×109/L) 0.9,0
+Fibrinogen (mg/dl) 50,0
+PT/INR (s) 24.1/1.7,0
+APTT (s) 40.3,0
+Serum creatinine (mg/dl) 1.9,0
+Serum ferritin (ng/ml) 3210,0
+Fasting triglyceride (mg/dl) 619,0
+SGOT (µ/L) 723,0
+SGPT (µ/L) 343,0
+Total bilirubin (mg/dl) 9.78,0
+Direct bilirubin (mg/dl) 8.77,0
+Indirect bilirubin (mg/dl) 1.01,0
+Alkaline phosphatise (u/L) 323,0
+LDH (U/L) 2836,0
+coagulation profile grossly deranged,0
+LDH 2860 IU/L,24
+NK cell activity not done,72
+soluble CD25 estimation not done,72
+hemophagocytosis in the bone marrow,144
+HLH diagnosed,144
+diagnosis made based on the HLH 2004 criteria,144
+progressive deterioration of clinical conditions,144
+intubated,168
+intravenous methylprednisolone pulse started,168
+therapeutic plasma exchange started,168
+therapeutic plasma exchange session 1,168
+TPE done using COM.TEC,168
+written consent from father for TPE obtained,168
+fresh frozen plasma used as replacement fluid,168
+therapeutic plasma exchange 1.5 plasma volume exchange,168
+peripheral femoral line used for TPE,168
+aseptic precautions taken during plasma exchange procedures,168
+packed red cells transfusion 2 units,168
+fresh frozen plasma transfusion 18 units,168
+single donor platelet concentrates transfusion 4 units,168
+cryoprecipitate transfusion 24 units,168
+therapeutic plasma exchange session 2,192
+therapeutic plasma exchange session 3,216
+organ function improved,216
+clinical condition improved,216
+extubated,216
+intravenous dexamethasone started,216
+intravenous methylprednisolone pulse discontinued,216
+Hb (g/dl) 11.6,288
+Absolute neutrophil count (×109/L) 3.62,288
+Platelet count (×109/L) 98,288
+PT (s) 14.5,288
+INR 1.1,288
+Fibrinogen (mg/dl) 152,288
+Fasting triglyceride (mg/dl) 245,288
+Serum ferritin (ng/ml) 250,288
+Serum creatinine (mg/dl) 1.2,288
+SGOT (µ/L) 38,288
+SGPT (µ/L) 85,288
+Total bilirubin (mg/dl) 1.92,288
+Direct bilirubin (mg/dl) 1.81,288
+Indirect bilirubin (mg/dl) 0.11,288
+Alkaline phosphatise (u/L) 211,288
+LDH (U/L) 542,288
+discharged,384
+hematological parameters within normal range at discharge,384
+biochemical parameters within normal range at discharge,384
+coagulation parameters within normal range at discharge,384
+complete blood count done using XN 1000,384
+biochemical parameters measured using Vitros 5600,384
+coagulation parameters measured on Destiny Plus,384
+patient consent for publication obtained,384
+Hb (g/dl) 13.8,936
+Platelet count (×109/L) 211,936
+Absolute neutrophil count (×109/L) 4.5,936
+Fibrinogen (mg/dl) 207,936
+PT (s) 14.1,936
+INR 1.0,936
+APTT (s) 25.9,936
+Serum creatinine (mg/dl) 1.1,936
+Serum ferritin (ng/ml) 118,936
+Fasting triglyceride (mg/dl) 185,936
+SGOT (µ/L) 22,936
+SGPT (µ/L) 61,936
+Total bilirubin (mg/dl) 1.1,936
+Direct bilirubin (mg/dl) 1.0,936
+Indirect bilirubin (mg/dl) 0.1,936
+Alkaline phosphatise (u/L) 99,936
+LDH (U/L) 234,936

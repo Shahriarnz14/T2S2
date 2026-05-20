@@ -1,0 +1,89 @@
+event,time
+27 years old,0
+male,0
+ulcerative colitis,-10320
+primary sclerosing cholangitis,-10320
+total abdominal colectomy with end-ileostomy,-10320
+abdominal pain,0
+high ileostomy output,0
+9-kg weight loss over last 7 days,-168
+weight 58.2 kg,0
+third hospital admission over past 4 weeks,-672
+small bowel obstruction,-672
+medically managed,-672
+resolved within few days,-672
+home medications: pantoprazole 40 mg,0
+ursodiol 300 mg twice daily,0
+lorazepam 0.5 mg as needed,0
+occasional alcohol consumption,0
+no smoking history,0
+no illicit drug use,0
+tachycardia (heart rate 170 beats/min),0
+afebrile,0
+blood pressure 103/74 mmHg,0
+CT abdomen with contrast,0
+dilated loops of bowel,0
+white blood cell count 5.4 K/uL,0
+alanine aminotransferase 446 unit/L,0
+aspartate aminotransferase 268 unit/L,0
+alkaline phosphatase 1034 unit/L,0
+lactate 3.32 mmol/L,0
+admitted to colorectal surgery ward,0
+nil per os status,0
+1900 mL lactated Ringer's solution,0
+nasogastric tube placement,0
+parenteral nutrition not used,0
+upper endoscopy: chronic active ileitis,0
+metoprolol tartrate 25 mg twice daily,0
+hydromorphone 0.2 mg every 4h,0
+ondansetron 4 mg every 6h,0
+acetaminophen 1000 mg every 8h,0
+tachycardia persisted (150-180 beats/min),24
+ostomy output >5 L/day,24
+aggressive IVF resuscitation (7272 mL LR),24
+fever (temperature 39.7°C),72
+tachypnea (respiratory rate 32 breaths/min),72
+tachycardia (128 beats/min),72
+leukopenia (3.89 k/uL),72
+mild agitation,72
+worsening abdominal pain,72
+high ileostomy output persisted,72
+suspicion for sepsis,72
+systemic inflammatory response syndrome,72
+upgraded to ICU,72
+IVF resuscitation 6982 mL LR,72
+broad spectrum antibiotics (piperacillin-tazobactam),72
+peripherally inserted central catheter removed,72
+metoprolol tartrate 12.5 mg,72
+CT chest/abdomen/pelvis: small bowel obstruction,72
+normal blood workup,72
+negative urine culture,72
+negative blood culture,72
+negative Clostridium difficile toxin assay,72
+unremarkable echocardiogram,72
+sinus tachycardia on ECG,72
+thyroid function testing,72
+TSH <0.02 ulU/mL,72
+elevated triiodothyronine (13.0 pg/mL),72
+elevated tetraiodothyronine (22.4 ug/dL),72
+normal parathyroid hormone (9.6 pg/mL),72
+diagnosis of hyperthyroidism,72
+diagnosis of thyroid storm,72
+antibiotics stopped,72
+Endocrinology consult,72
+esmolol infusion,72
+propylthiouracil 150 mg every 6h,72
+cholestyramine 4 mg twice daily,72
+hydrocortisone 50 mg every 8h,72
+continuous IVF hydration (150 mL/h LR),72
+acetaminophen 1000 mg as needed,72
+elevated thyroid-stimulating immunoglobulins (229%),72
+Graves' disease diagnosis,72
+ileostomy output decreased to 2150 mL/24h,168
+fevers resolved,168
+discharged home,408
+ICU stay (3 days),72
+propranolol 30 mg twice daily,408
+propylthiouracil 200 mg twice daily,408
+prednisone 10 mg,408
+recommendation for total thyroidectomy,408

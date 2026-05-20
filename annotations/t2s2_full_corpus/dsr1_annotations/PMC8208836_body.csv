@@ -1,0 +1,81 @@
+event,time
+30-year-old Caucasian woman,0\
+gravida 2 para 1,0\
+34 2/7 weeks of gestation,0\
+presented to emergency room,0\
+preterm labor,0\
+no significant past medical history,0\
+postpartum depression,"- (previous delivery time not specified, assume -0)\"
+denied recent international travel,0\
+last travel 2 months prior,"-1344 (approx 8 weeks prior, 56 days)\"
+denied illnesses 3 months prior,"-2160 (approx 12 weeks prior, 84 days)\"
+no sick contacts last month,"-672 (approx 4 weeks prior, 28 days)\"
+no known COVID-19 contacts,0\
+denied fever,0\
+denied respiratory symptoms,0\
+denied fatigue,0\
+denied myalgia,0\
+denied anosmia,0\
+denied cough,0\
+adequate prenatal care,0\
+no maternal/fetal concerns,0\
+prenatal tests unremarkable,0\
+GBS status unknown,0\
+no maternal COVID-19 testing,0\
+precipitous vaginal delivery,0\
+spontaneous rupture of membranes,0\
+no respiratory symptoms,0\
+no chorioamnionitis,0\
+no placental pathology,0\
+newborn vigorous at birth,0\
+Apgar 8 at 1 minute,0\
+Apgar 9 at 5 minutes,0\
+skin-to-skin care 10 minutes,0\
+mild respiratory distress (grunting),0\
+transferred to newborn nursery,0\
+noninvasive respiratory support (Vapotherm),0\
+capillary blood gas unremarkable,0\
+chest X-ray hazy lung fields,0\
+CBC normal,0\
+transferred to NICU at 5 hours,5\
+worsening hypercarbia,5\
+CPAP initiated,5\
+noninvasive positive pressure ventilation,5\
+improvement with respiratory support,5\
+SARS-CoV-2 test at 24 hours,24\
+positive result at DOL 4 (48 hours later),72\
+repeat test DOL 4,72\
+positive result DOL 6,120\
+parents asymptomatic,0\
+allowed bedside visitation,0\
+no breastfeeding,0\
+expressed breast milk feeding,0\
+parental visitation restricted,72\
+parents tested negative antigen DOL 4,72\
+parents tested negative PCR DOL 5,96\
+no parental symptoms,0\
+respiratory support weaned,24\
+"empiric antibiotics (ampicillin, gentamicin)",5\
+antibiotics discontinued,53 (48 hours after 5 hours)\
+unremarkable sepsis evaluation,5\
+gavage feedings,5\
+discharged at DOL 9,216\
+indirect hyperbilirubinemia,0\
+phototherapy,0\
+positive newborn screen for CAH,0\
+CAH ruled out,0\
+transport team notified,72\
+no COVID-19 in healthcare teams,0\
+transport team antibody negative,336 (approx 2 weeks post-exposure)\
+SARS-CoV-2 infection confirmed,24\
+respiratory distress at birth,0\
+mother asymptomatic,0\
+mother negative tests postpartum,72\
+no breastmilk transmission,0\
+possible congenital infection,0\
+possible vertical transmission,0\
+possible postnatal infection,0\
+mother negative antigen and PCR,72\
+no placental pathology,0\
+no maternal antibody testing,0\
+universal testing implications,0

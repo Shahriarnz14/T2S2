@@ -1,0 +1,67 @@
+event,time
+65 years old,0
+male,0
+diabetes mellitus for over 20 years,0
+admitted to the hospital,0
+fever,-120
+headache,-120
+dizziness,-120
+cough,-120
+multiple abnormal signals in bilateral temporal lobes,0
+multiple abnormal signals in hippocampus,0
+multiple abnormal signals in sylvian cistern,0
+multiple abnormal signals in bilateral cerebellum,0
+multiple abnormal signals in fourth ventricle,0
+encephalitis,0
+multiple lung inflammations,0
+pleural adhesions,0
+pleural effusion,0
+C-reactive protein 340.0 mg/L,0
+neck stiffness,0
+deep coma,0
+Glasgow Coma Scale score 5,0
+weakness,0
+nausea,0
+repeated vomiting,0
+persistent coma,0
+admitted to ICU,24
+lumbar puncture,24
+cerebrospinal fluid cloudiness,24
+CSF WBC 3437/μL,24
+CSF glucose 0.6 mmol/L,24
+blood glucose 10.4 mmol/L,24
+CSF microprotein 164.4 mg/dL,24
+Pan's test (+++),24
+CSF forcefully expelled,24
+CSF identified as HvKP via mNGS,48
+virulence factors rmpA,48
+virulence factors iutA,48
+virulence factors iucA,48
+virulence factors iucB,48
+virulence factors iucC,48
+virulence factors iucD,48
+virulence factors iroB,48
+virulence factors iroC,48
+virulence factors iroD,48
+virulence factors fimH,48
+CSF routine positive for HvKP,72
+BALF positive for HvKP,72
+blood cultures positive for HvKP,72
+resistance to piperacillin,72
+resistance to levofloxacin,72
+sensitivity to amikacin,72
+diagnosis of severe intracranial HvKP infection,72
+meropenem 2.0 g q8h,72
+amikacin 0.8 g qd,72
+fever subsided,72
+vital signs stabilized,72
+blood sugar levels 6.0–10.0 mmol/L,72
+repeat CSF analysis,216
+CSF clarity and colorlessness,216
+no microorganisms on Gram stain,216
+no CSF culture growth,216
+regained consciousness,264
+endotracheal tube extubated,264
+meropenem duration 21 days,264
+amikacin duration 14 days,264
+discharged,384

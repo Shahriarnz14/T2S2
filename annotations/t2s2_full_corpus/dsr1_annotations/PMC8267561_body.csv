@@ -1,0 +1,132 @@
+event,time
+23 years old,0
+male,0
+presented to hospital,0
+right thigh swelling,-26280
+draining sinus,-26280
+skin changes,-26280
+no fever,0
+no systemic symptoms,0
+past medical history unremarkable,0
+no regular medications,0
+non-smoker,0
+denied alcohol,0
+denied illicit substance use,0
+closed midshaft fracture of right femur,-43800
+intramedullary fixation,-43800
+surgical site infection,-35040
+hardware removal,-35040
+two-week course of antibiotics,-35040
+migrated to Australia,-26280
+right thigh symptoms,-26280
+hemodynamically stable,0
+afebrile,0
+BMI 19 kg/m²,0
+prolonged difficulty gaining weight,0
+right thigh swollen,0
+overlying scaly skin discoloration,0
+2 mm draining sinus,0
+neurovascular status intact,0
+preserved tone,0
+preserved power,0
+preserved range of motion,0
+white cell count 11.5 × 10⁹/L,0
+CRP 46 mg/L,0
+ESR 17 mm/h,0
+electrolytes normal,0
+liver function tests normal,0
+CT scan,0
+united right femur fracture,0
+intramuscular collection,0
+non-specific bony changes,0
+MRI,0
+chronic osteomyelitis,0
+intramedullary involvement,0
+cortical involvement,0
+soft tissue involvement,0
+bone scintigraphy,0
+gallium-67 study,0
+osteomyelitis confined to right thigh,0
+punch biopsy,0
+chronic spongiotic tissue reaction,0
+lichen simplex chronicus,0
+ultrasound-guided aspiration,0
+A. xylosoxidans culture,0
+sinus tract excision,0
+intramuscular collection drainage,0
+A. xylosoxidans co-infection,0
+S. aureus co-infection,0
+medullary canal debridement,168
+RIA technique,168
+systemic sepsis,168
+ICU admission,168
+intravenous fluid resuscitation,168
+packed red blood cells transfusion,168
+vasopressor support,168
+noradrenaline infusion,168
+intravenous flucloxacillin,168
+intravenous meropenem,168
+blood cultures positive for MSSA,168
+negative blood cultures,216
+transthoracic echocardiogram,216
+ICU discharge,216
+ward admission,216
+intravenous antibiotics one month,168
+oral flucloxacillin,720
+oral co-trimoxazole,720
+asymptomatic,1440
+weight bearing,1440
+no pain,1440
+full ROM,1440
+surgical wound healed,1440
+hyperpigmentation,1440
+intermittent mild gastrointestinal discomfort,720
+six-month review,4320
+normal CRP,4320
+normal leukocyte counts,4320
+resolved skin changes,4320
+full function,4320
+one-year follow-up,8640
+normal CRP,8640
+normal leukocyte counts,8640
+no clinical evidence of infection,8640
+plain radiograph,8640
+no residual disease,8640
+discharged from services,8640
+chronic osteomyelitis,-26280
+Achromobacter xylosoxidans,0
+S. aureus,0
+right femur fracture,-43800
+intramedullary fixation,-43800
+surgical site infection,-35040
+hardware removal,-35040
+antibiotics course,-35040
+sinus tract,-26280
+skin discoloration,-26280
+intramuscular collection,0
+bone involvement,0
+co-infection,0
+meropenem sensitive,0
+co-trimoxazole sensitive,0
+dicloxacillin sensitive,0
+flucloxacillin sensitive,0
+cefalexin sensitive,0
+cefalothin sensitive,0
+cefazolin sensitive,0
+clindamycin sensitive,0
+ceftazidime resistant,0
+penicillin G resistant,0
+piperacillin resistant,0
+ampicillin resistant,0
+gentamicin resistant,0
+amoxicillin resistant,0
+ciprofloxacin resistant,0
+post-operative sepsis,168
+negative blood cultures,216
+negative echocardiogram,216
+antibiotic therapy,168
+surgical debridement,168
+no recurrence,4320
+no pain at 6 months,4320
+full recovery,4320
+no residual disease at 1 year,8640

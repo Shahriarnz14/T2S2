@@ -1,0 +1,123 @@
+event,time
+85 years old,0
+male,0
+farmer,0
+active lifestyle,0
+atrial fibrillation,0
+benign prostatic hypertrophy,0
+transferred to rehabilitation unit,0
+intensive treatment for sequelae of C. tetani infection,0
+leg injury,-1464
+trismus,-1464
+hypertonia,-1464
+admitted to local hospital,-1464
+C. tetani infection suspected,-1464
+immunoglobulins,-1464
+tetanus vaccination,-1464
+metronidazole for ten days,-1464
+transferred to ICU,-1464
+tracheostomy,-1464
+mechanical ventilation,-1464
+vasoactive support,-1464
+respiratory failure,-1464
+seizures,-1464
+baclofen,-1464
+midazolam,-1464
+diazepam,-1464
+severely slow cerebral activity,-1464
+worsening respiratory function,-1464
+opacity on chest radiography,-1464
+peripheral leukocytosis,-1464
+ventilator-associated pneumonia suspected,-1464
+blood cultures sent,-1464
+tracheal secretion samples sent,-1464
+K. pneumoniae in tracheal secretions,-1464
+MSSA in tracheal secretions,-1464
+piperacillin-tazobactam prescribed,-1464
+moved to geriatric unit,-1464
+coma,-1464
+spontaneous breathing on 4 L/min oxygen,-1464
+antibiotic therapy switched to linezolid,-1416
+VAP exacerbation,-1416
+septic shock,-1416
+meropenem for 17 days,-1416
+gradually awoke,-1416
+feeding tube removed,-1416
+cholestasis,-1416
+acute edematous pancreatitis,-1416
+postponed endoscopic treatment,-1416
+urinary tract infection,-1416
+K. pneumoniae MDRO,-1416
+Acinetobacter baumannii MDRO,-1416
+Enterococcus faecalis MDRO,-1416
+colistin,-1416
+amoxicillin-clavulanate for 1 week,-1416
+clinical condition improved,-1416
+eligible for rehabilitation,-1416
+MDRO isolation,0
+tracheal supplemental oxygen 1 L/min,0
+bladder catheter,0
+pressure ulcers on right heel (unstageable),0
+pressure ulcers on left heel (stage II),0
+pressure ulcers on sacrum (stage II),0
+pressure ulcers on right elbow (stage III),0
+sarcopenia,0
+low handgrip strength (9.9 kg),0
+low appendicular skeletal mass (16.9 kg),0
+underwent rehabilitation,0
+good compliance,0
+Clostridioides difficile infection,24
+oral vancomycin for 10 days,24
+AF with third-degree atrioventricular block (30 beats/min),72
+no secondary bradyarrhythmia,72
+transferred to cardiac ICU,72
+single-chamber pacemaker implantation,72
+hyperkinetic delirium,72
+transferred back to hospital,96
+Pseudomonas aeruginosa bloodstream infection,96
+ceftazidime-avibactam,96
+amikacin for 1 week,96
+positive SARS-CoV-2,96
+remdesivir for 3 days,96
+droplet isolation,96
+second recurrence of C. difficile,120
+transferred to geriatric medicine unit,120
+fidaxomicin for ten days,120
+completed treatment for C. difficile,312
+bloodstream infection due to C. parapsilosis (fluconazole-resistant),312
+MSSA bloodstream infection,312
+C. tropicalis bloodstream infection,312
+replaced intravenous catheter,312
+caspofungin,312
+cefazolin for 17 days,312
+bloodstream infection due to P. aeruginosa,528
+piperacillin-tazobactam,528
+shifted to aztreonam,528
+ceftazidime-avibactam,528
+antibiotic resistance,528
+shifted to cefepime for 10 days,576
+improvement in clinical condition,576
+tracheostomy closure,720
+nutritional supplementation,720
+malnutrition,720
+intensive rehabilitation compromised,720
+short physiotherapy sessions,720
+discharge,2160
+postural transition with assistance,2160
+motor reconditioning,2160
+respiratory reconditioning,2160
+posture transition training,2160
+aided transfers,2160
+axial stability exercises,2160
+balance improvement exercises,2160
+standing position goal,2160
+breath-movement coordination exercises,2160
+thoracic expansion exercises,2160
+girdle opening exercises,2160
+inhalation-exhalation exercises,2160
+wheelchair recommended,2160
+walker recommended,2160
+mobility deficit,2160
+rehabilitation follow-up,2160
+ENT follow-up,2160
+geriatric follow-up,2160

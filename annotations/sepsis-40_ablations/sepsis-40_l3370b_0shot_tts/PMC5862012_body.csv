@@ -1,0 +1,82 @@
+event,time
+cat scratch ,-168
+fever ,-168
+deep venous thrombosis ,-168
+fondaparinux treatment ,-168
+apixaban treatment ,-161
+macroscopic hematuria ,-72
+leg edema ,-72
+asthenia ,-72
+persistent fever ,-72
+admission ,0
+lethargy ,0
+Glasgow Coma Scale 15/15 ,0
+blood pressure 100/66 mm Hg ,0
+sinus tachycardia 120 beats per minute ,0
+mitral murmur ,0
+piperacillin treatment ,0
+hemocultures ,0
+ceftriaxone/gentamicin treatment ,0
+Hb 6.3 g/dL ,0
+red blood cells transfusion ,0
+anterograde amnesia ,0
+cerebral computed tomography ,0
+nuclear magnetic resonance scan ,0
+large hematoma in left occipitoparietal region ,0
+multiple bilateral microhemorrhage ,0
+hematoma next to right cerebellum ,0
+hematoma in right occipital region ,0
+multiple ischemic microlesions ,0
+left cerebellar ischemic stroke ,0
+intracerebral mycotic aneurysm ,0
+embolization of mycotic aneurysm ,0
+transthoracic echocardiography ,0
+large vegetation on mitral valve ,0
+mitral valve prolapse ,0
+septic shock ,12
+intubation ,12
+sedation ,12
+norepinephrine treatment ,12
+dobutamine treatment ,12
+wake-up test ,24
+obeying commands ,24
+no neurological deficits ,24
+emergency surgery ,48
+minimal cardiopulmonary bypass ,48
+in situ right radial arterial line ,48
+left internal jugular central venous line ,48
+propofol infusion ,48
+sufentanil infusion ,48
+tranexamic acid treatment ,48
+MCPB priming ,48
+retrograde priming technique ,48
+Hb drop to 7.8 g/dL ,48
+red blood cells transfusion ,48
+Hb 8.5-8.8 g/dL ,48
+mean arterial blood pressure maintenance ,48
+anterograde and retrograde cold cardioplegia ,48
+central body temperature cooling ,48
+transesophageal echocardiography ,48
+mitral valve replacement ,48
+nonin cerebral oximeter monitoring ,48
+heparin administration ,48
+activated clotting time monitoring ,48
+protamine treatment ,48
+MCBP weaning ,66
+atrioventricular pacemaker stimulation ,66
+fresh frozen plasma transfusion ,66
+platelets transfusion ,66
+intensive care unit admission ,66
+norepinephrine treatment ,66
+reoperation for thromboemboli removal ,90
+ventilation-acquired pneumonia ,90
+tracheostomy ,90
+percutaneous gastric feeding ,90
+rehabilitation medicine admission ,360
+good neurological recovery ,720
+no loss in memory capacity ,720
+no neurological deficits ,720
+discharge home ,720
+bilateral claudication ,720
+follow-up nuclear magnetic resonance ,720
+resorption of occipital and left cerebellar hematoma ,720

@@ -1,0 +1,38 @@
+event,time
+Road traffic collision,-24
+Admission to emergency department,0
+Physical examination,0
+CT scan,0
+Empiric trans-arterial embolization,0
+Admission to ICU,0
+Sinus tachycardia with VPC,0
+Elevated troponin-I,0
+Echocardiogram,0
+No cardiac wall abnormality or pericardial effusion,-4
+Placement of 10 French pigtail chest catheter,4
+Echocardiogram with progression of left pleural effusion,4
+Drainage of moderate to dark red fluid,4
+Improvement in hemithorax white-out and fluid amount,4
+Transfer to regular hospital ward,10
+Removal of chest pigtail catheter,10
+Complaint of shortness of breath,72
+CXR with recurrent massive left pleural effusion,72
+Echo-guided pigtail insertion,72
+Drainage of minimal turbid fluid,72
+Culture of drainage fluid positive for S. aureus,72
+Symptoms temporarily improved,74
+Severe chest pain with worsening shortness of breath,76
+Electrocardiography with frequent VPC,76
+Cardiomegaly on CXR,76
+CT with severe purulent pericardial effusion,76
+Consultation with cardiovascular surgeon,76
+Pericardiectomy and debridement,76
+Removal of 500 mL of purulent exudate,76
+Repair of RA/SVC junction tear,76
+Administration of oxacillin and gentamycin,76
+Dyspnea with desaturation,99
+Follow-up CT with bilateral lung pleural effusion and empyema,99
+Decortication surgery,99
+Removal of multiple bilateral loculated effusions and exudates,99
+Administration of intravenous antibiotics,99
+Discharge from hospital,130

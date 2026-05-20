@@ -1,0 +1,75 @@
+event,time
+Cough ,-72
+Fevers ,-72
+Shortness of breath ,-72
+Pleuritic chest pain ,-72
+Light-headedness ,-24
+Near syncope ,-24
+Acutely worsened dyspnoea ,-24
+21-year-old male ,0
+Obesity: body mass index (BMI) 37 ,0
+Presented to the emergency department ,0
+Denied contact with sick persons ,0
+Denied exertional chest pain ,0
+Denied weight loss ,0
+Denied night sweats ,0
+Denied abdominal pain ,0
+Denied changes in bladder habits ,0
+Denied changes in bowel habits ,0
+Denied recent travel ,0
+Denied surgery ,0
+Denied prolonged immobilization ,0
+Febrile (38.9°C) ,0
+Tachycardic (121 beats per minute) ,0
+Normotensive (104/66 mmHg) ,0
+Hypoxic saturating 82% on room air ,0
+Oxygen saturation improved to 100% with non-rebreather mask at 15 L/min ,0
+Positive SARS-CoV-2 PCR ,0
+ECG demonstrated right heart strain ,0
+ECG showed S1Q3T3 pattern ,0
+Point of care ultrasound demonstrated McConnell's sign ,0
+Elevated D-dimer at 3.71 mcg/mL ,0
+Elevated troponin-T at 0.04 ng/mL ,0
+Elevated pro-BNP NT at 4573 pg/mL ,0
+CTPA demonstrated pulmonary emboli involving bilateral pulmonary arteries ,0
+CTPA demonstrated enlargement of pulmonary trunk ,0
+CTPA demonstrated flattening of interventricular septum ,0
+Right ventricle to left ventricle ratio of 1.4 to 1 ,0
+Admitted to ICU ,0
+Started on high-flow nasal cannula ,0
+Started intravenous unfractionated heparin infusion (goal PTT 60–80 s) ,0
+Increasing hypoxia ,12
+Persistently hypotensive with systolic blood pressure <90 mmHg ,12
+Presumptive diagnosis of massive PE ,12
+Underwent catheter-directed thrombolysis of bilateral pulmonary arteries ,12
+Intravenous heparin infusion continued ,12
+Patient improved clinically ,48
+Plans made for discharge ,48
+Acute respiratory failure ,72
+Oxygen saturation of 65% requiring non-rebreather mask ,72
+Hypotension with blood pressure 70/30 mmHg ,72
+Intubated ,72
+Developed cardiac arrest ,72
+Return of spontaneous circulation after CPR and electrical shock ,72
+"Vasopressor support initiated (norepinephrine, epinephrine, vasopressin, phenylephrine) ",72
+Veno-arterial extracorporeal membrane oxygenation (ECMO) initiated ,72
+Suspected recurrence of massive PE ,72
+Pulmonary angiogram demonstrated worsening bilateral pulmonary emboli ,72
+Repeat catheter-directed thrombolysis of bilateral pulmonary arteries performed ,72
+Continuous systemic IV heparin infusion continued ,72
+Ventilation parameters improved ,120
+Vasopressors were discontinued ,120
+Repeat pulmonary angiography demonstrated improvement in right central pulmonary embolism ,120
+Venous duplex ultrasound demonstrated non-occlusive thrombus in right femoral vein ,120
+Venous duplex ultrasound demonstrated non-occlusive thrombus in right popliteal vein ,120
+Inferior vena cava filter placed ,120
+"Anticoagulation regimen transitioned from UFH to LMWH (Enoxaparin, 1 mg/kg every 12 h) ",120
+Hypercoagulable workup unremarkable ,120
+Patient weaned from ECMO ,216
+Developed septic shock ,456
+Treated with broad spectrum antibiotics ,456
+Patient extubated ,720
+Developed right thigh haematoma ,936
+Compartment syndrome requiring surgical debridement ,936
+Transitioned to rivaroxaban 15 mg twice daily ,936
+Discharged to an acute rehabilitation facility ,1224

@@ -1,0 +1,1 @@
+There is no time information in the free-form response.

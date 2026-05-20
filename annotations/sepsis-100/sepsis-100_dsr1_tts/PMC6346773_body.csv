@@ -1,0 +1,62 @@
+event,time
+20-year-old,0
+male,0
+arrived at emergency department,0
+fever,-336
+productive cough,-336
+night sweats,-336
+malaise,-336
+myalgia,-336
+non-smoker,0
+occupational smoke exposure,0
+served as policeman in rural villages with open waste burning,0
+treated with roxithromycin for 7 days prior to admission,-168
+temperature 38.4°C,0
+blood pressure 130/70 mmHg,0
+pulse 88 bpm,0
+oxygen saturation 97%,0
+dyspnoea,0
+tachypnoea,0
+bronchial breathing sounds,0
+crackles over right lung,0
+white blood cells 11.54×10³/μl,0
+total eosinophils 92×10⁴/μl,0
+haemoglobin 13.7 g/dl,0
+creatinine 1.1 mg/dl,0
+CRP 11 mg/dl,0
+elevated ALP 524,0
+elevated GGT 320,0
+elevated ALT 406,0
+elevated AST 137,0
+normal abdominal ultrasound,0
+chest radiograph infiltrates in right lung,0
+IV cefuroxime initiated,0
+negative blood cultures,0
+negative sputum cultures,0
+negative urine Legionella antigen test,0
+persistent high-grade fever up to 40°C,48
+antibiotic changed to moxifloxacin,48
+sterile blood cultures,48
+respiratory distress,96
+oxygen saturation dropped to 88%,96
+PaO₂ 67 mmHg,96
+CRP increased to 14 mg/dl,96
+elevated liver enzymes,96
+leucocytosis 12.8×10³/μl,96
+eosinophil count 1.33×10³ cells/μl,96
+chest radiogram progression to diffuse bilateral infiltrates,96
+respiratory distress worsened,120
+intubated,120
+mechanically ventilated,120
+transferred to ICU,120
+broncho-alveolar lavage with 30% eosinophils,144
+diagnosis of AEP,144
+IV glucocorticoids administered,144
+resolution of fever,168
+successful extubation,168
+chest radiogram regression of infiltrates,168
+eosinophil count dropped to 260 cells/μl,168
+discharged,192
+oral prednisone 60 mg/day,192
+tapering over 3 months,192
+no long-term pulmonary complications,192

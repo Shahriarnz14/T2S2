@@ -1,0 +1,105 @@
+event,time
+40 years old,0
+female,0
+presented to emergency department,0
+lower abdominal pain,-168
+multiple episodes of nonbilious vomiting,-168
+loose stools,-168
+occasional breathlessness,-168
+decreased urine output,-168
+history of fever,-72
+afebrile at presentation,0
+thin patient,0
+dry tongue,0
+no pedal edema,0
+no generalized lymphadenopathy,0
+pulse rate 130/min,0
+blood pressure 96/80 mmHg,0
+oxygen saturation 90%,0
+respiratory rate 34/min,0
+body temperature 98.4°F,0
+tenderness in right iliac fossa,0
+no palpable mass,0
+audible bowel sounds,0
+hemoglobin 98 g/L,0
+high total leukocyte count 32.98 × 10^9/L,0
+platelet count 263.4 × 10^9/L,0
+urea 42.83 mmol/L,0
+creatinine 159.12 mmol/L,0
+normal electrolyte tests,0
+total bilirubin 12.65 mmol/L,0
+direct bilirubin 6.15 mmol/L,0
+alanine aminotransferase 8.2 mkat/L,0
+aspartate aminotransferase 50.9 mkat/L,0
+alkaline phosphatase 247.6 U/L,0
+gamma-glutamyl transferase 25.2 U/L,0
+total protein 57 g/L,0
+albumin 30.8 g/L,0
+hepatitis C virus positive,0
+bilateral moderate pleural effusion,0
+normal echocardiography,0
+admitted to surgical department,0
+intravenous normal saline,0
+pain management,0
+supplemental oxygen,0
+empirical intravenous antibiotics (ceftriaxone and metronidazole),0
+ultrasound-guided thoracic paracentesis,0
+purulent pleural aspirate,0
+"pleural fluid analysis: gram staining, AFB staining, culture, sensitivity, biochemical",0
+"pleural lactate dehydrogenase 68,900 U/L",0
+elevated serum procalcitonin,0
+abdominal ultrasound: intrabdominal collection,0
+contrast-enhanced CT scan of torso,2
+bilateral pleural effusion with lung nodules,2
+acute appendicitis with rupture,2
+retroperitoneal collection,2
+communication between peritoneal and pleural cavities,2
+right-sided abdominal pain,0
+breathlessness at presentation,0
+"differential diagnoses: COVID-19 pneumonia, hollow viscus perforation with ARDS, disseminated tuberculosis, non-Hodgkin lymphoma with chylothorax",0
+RT-PCR negative,0
+"erect chest X-ray: bilateral pleural effusion, no free air",0
+pleural fluid ADA 223.5 U/L,0
+normal pleural triglyceride,0
+bilateral intercostal tube drainage,0
+exploratory laparotomy with appendectomy,0
+ICU bed availability confirmed,0
+retroperitoneal collection 100 ml,0
+gangrenous appendix,0
+healthy adnexa,0
+intraoperative hypotension,0
+noradrenaline 8 mg at 2 ml/h,0
+postoperative ICU admission,0
+ventilatory support,0
+noradrenaline increased to 8 ml/h,72
+vasopressin 2 units/h,72
+satisfactory postoperative evolution,72
+normal urine output,72
+urea 6.7 mmol/L,72
+creatinine 97 mmol/L,72
+tracheostomy on postoperative day 7,168
+total parenteral nutrition,168
+ionotropic support tapered,240
+ionotropic cessation on day 10,240
+bilateral ICD removed after lung expansion,264
+Klebsiella pneumoniae in intraoperative collection,0
+Klebsiella pneumoniae in pleural fluid,0
+antibiotics adjusted per sensitivity,0
+negative blood culture,0
+negative AFB staining,0
+negative TB nucleic acid test,0
+appendiceal transmural necrosis,0
+acute inflammatory infiltrates,0
+bacterial colonies,0
+right ICD removed postoperative day 9,216
+left ICD removed postoperative day 11,264
+Ryle’s tube feeding,408
+oral feeds started postoperative day 17,408
+ventilator weaned,432
+ICU discharge postoperative day 18,432
+suture removal after 2 weeks,336
+high-dependency unit for 48 hours,432
+discharged home postoperative day 21,504
+follow-up 1 month post-discharge,1344
+no fresh complaints,1344
+daily activities resumed,1344

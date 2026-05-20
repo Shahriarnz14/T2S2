@@ -1,0 +1,96 @@
+event,time
+41 years old,0
+female,0
+history of untreated hypertension,0
+history of morbid obesity,0
+history of chronic back pain,0
+history of intravenous drug use,0
+worsening low back pain,-336
+diffuse abdominal pain,-336
+lower extremity weakness,0
+anorexia,0
+fever,0
+chills,0
+shortness of breath,0
+dizziness,0
+constipation,0
+admitted to the hospital,0
+blood pressure 79/53 mmHg,0
+heart rate 149 bpm,0
+lactic acid 4.2 mg dl−1,0
+"white blood cell count 37,500 u l−1",0
+erythrocyte sedimentation rate 75 mm h−1,0
+urine toxicology positive for cannabis,0
+urine toxicology positive for amphetamines,0
+midline tenderness of the lumbar spine,0
+3/5 strength in bilateral lower extremities,0
+bilateral shoulder warmth,0
+bilateral shoulder erythema,0
+bilateral shoulder tenderness,0
+limited range of motion of bilateral shoulders,0
+multiple needle puncture sites on the antecubital fossas bilaterally,0
+puncture wounds between the toes of the right foot,0
+blood cultures collected,0
+vancomycin started,0
+metronidazole started,0
+aztreonam started,0
+intravenous fluids started,0
+recent use of acetaminophen,-24
+recent use of gabapentin,-24
+recent use of hydrocodone,-24
+recent use of methamphetamines,-24
+recent use of marijuana,-24
+initial blood cultures grew MRSA,24
+MRSA bacteraemia,24
+MRSA sensitive to vancomycin MIC 1 mg l−1,48
+MRSA sensitive to rifampin MIC ≤1 mg l−1,48
+MRSA sensitive to levofloxacin MIC ≤1 mg l−1,48
+MRSA sensitive to clindamycin MIC ≤0.5 mg l−1,48
+MRSA sensitive to daptomycin MIC ≤0.5 mg l−1,48
+MRSA sensitive to linezolid MIC 2 mg l−1,48
+ceftaroline MIC not provided,48
+bilateral shoulder radiographs no abnormalities,6
+arthrocentesis of the AC joints performed,8
+"synovial fluid WBC 93,137 u l−1",8
+"synovial fluid WBC 32,043 u l−1",8
+synovial fluid cultures grew MRSA,32
+emergent surgical debridement of the shoulders,36
+intubated,36
+MRI lumbar spine: L3–L5 osteomyelitis,40
+MRI lumbar spine: facet septic arthritis,40
+MRI lumbar spine: dorsal paraspinous myositis,40
+MRI lumbar spine: L2–L5 epidural abscess,40
+MRI lumbar spine: bilateral psoas myositis and abscesses,40
+MRI shoulders: septic arthritis of the AC joints,48
+MRI shoulders: right distal trapezius abscess,48
+MRI shoulders: left supraclavicular abscess,48
+MRI brain: no acute intracranial processes,48
+transthoracic echocardiogram negative for valvular vegetations,48
+transoesophageal echocardiogram deferred,48
+no endocarditis,48
+repeat surgical debridement of the shoulders,72
+neurosurgery evaluation for epidural abscess,72
+medical management recommended for epidural abscess,72
+"leukocytosis peaked at 52,100 u l−1",96
+vancomycin trough levels monitored,48
+vancomycin trough levels adequate,48
+repeat blood cultures positive for MRSA,72
+daptomycin started,240
+ceftaroline started,240
+blood cultures negative,336
+rifampin added,336
+critical care required,36
+extubated,96
+repeat MRI lumbar spine: worsening epidural abscess,432
+neurosurgical drainage of epidural abscess,432
+drain placed,432
+intravenous antimicrobials given after negative cultures,336
+intraoperative wound cultures positive for MRSA,432
+intraoperative wound cultures positive for Proteus mirabilis,432
+improved clinically,648
+all drains removed,672
+discharged,672
+prescribed oral levofloxacin,672
+prescribed oral rifampin,672
+planned duration of oral antibiotics 52 days,672
+lost to follow-up,720

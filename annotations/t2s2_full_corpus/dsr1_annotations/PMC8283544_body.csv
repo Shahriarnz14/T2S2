@@ -1,0 +1,58 @@
+event,time
+93-year-old,0
+male,0
+admitted to the hospital,0
+syncopal episode during breakfast,0
+coronary heart disease,0
+percutaneous coronary intervention with stent implantation in the left anterior descending artery,-1440
+dual antiplatelet therapy with aspirin and clopidogrel,-1440
+atrioventricular pacemaker implantation,-122640
+replacement of atrioventricular pacemaker,-35040
+blood pressure 112/68 mm Hg,0
+heart rate 60 beats/min,0
+physical examination revealed no other noteworthy findings,0
+electrocardiogram showed normal pacemaker function,0
+chest radiography revealed no abnormalities,0
+blood tests revealed normal cardiac marker levels,0
+echocardiography showed normal cardiac function,0
+ejection fraction of 63%,0
+255 episodes of ventricular noise reversion,0
+syncopal episode due to pacemaker inhibition,0
+Holter monitoring confirmed pacemaker inhibition,0
+asystole periods of 2 to 3.5 seconds,0
+ventricular lead change indicated,0
+surgery to extract former right ventricular lead,0
+replacement with new left bundle branch pacing lead,0
+arterial hypertension during placement of LBB lead,0
+severe fall in blood pressure,0
+pallor,0
+signs of hypoperfusion,0
+shock,0
+atrial sensing and ventricular-paced rhythm,0
+selective LBB capture,0
+inverted T waves,0
+echocardiography showed reduced left ventricular function,0
+ejection fraction of 15%,0
+apical dyskinesis,0
+hyperkinesia of basal segments,0
+LV outflow tract obstruction,0
+intraventricular pressure gradient of 83 mm Hg,0
+moderate-to-severe mitral regurgitation,0
+cardiac catheterization revealed no obstruction,0
+left ventriculography revealed apical ballooning,0
+basal hyperkinesia,0
+intra-aortic balloon pump used,0
+transferred to intensive care unit,0
+cardiogenic shock,0
+inotropes avoided,0
+gradual reduction in LVOT obstruction,48
+inotropes started,48
+improved hemodynamics after 5 days,120
+intra-aortic balloon pump removed,120
+complete resolution of LVOT obstruction,504
+apical ballooning resolved,504
+LV function recovered to EF 50%,504
+regression of inverted T waves,504
+prolonged mechanical ventilation,0
+septic shock due to ventilation-associated pneumonia,840
+died of septic shock,840

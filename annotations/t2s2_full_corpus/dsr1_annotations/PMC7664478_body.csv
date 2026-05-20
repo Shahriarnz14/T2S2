@@ -1,0 +1,69 @@
+event,time
+40 years old,0
+young,0
+healthy,0
+woman,0
+presented to the emergency department,0
+high-grade fever,-48
+generalized body aches,-48
+nausea,-48
+moderate right hypochondrium pain,-48
+no chronic disease,0
+no medications,0
+no allergy,0
+no psychological illness,0
+family history of hypertension,0
+diagnosed with COVID 19,-336
+high-grade fever (39.5C),0
+blood pressure 97/70 mmHg,0
+heart rate 118/min,0
+normal respiratory rate,0
+mild tenderness on right hypochondrium,0
+positive Murphy's sign,0
+no jaundice,0
+no scratch marks,0
+differential diagnosis of acute cholecystitis,0
+differential diagnosis of acute hepatitis,0
+differential diagnosis of liver abscess,0
+high white cell count,0
+increased neutrophils,0
+elevated CRP,0
+elevated D-dimers,0
+elevated ferritin,0
+elevated interleukins,0
+chest XR performed,0
+bilateral lower lung patchy consolidations,0
+left-sided pleural effusion,0
+abdomen ultrasound performed,0
+thickened gallbladder wall,0
+pericholecystic fluid,0
+minimal free fluid in abdomen and pelvis,0
+sepsis workup,0
+blood cultures unremarkable,0
+urine cultures unremarkable,0
+surgical consultation,0
+IV Piperacillin Tazobactum 4.5 gm TID,0
+azithromycin 500mg daily,0
+watchful waiting,0
+hypotensive,24
+resuscitated with IV fluids,24
+ICU care,24
+no mechanical intubation,24
+repeat Rrt-PCR inconclusive,24
+normotensive,24
+continued high-grade fever,24
+CT abdomen performed,24
+bilateral pleural effusion,24
+consolidation,24
+ground-glass opacities,24
+right middle lobe atelectasis,24
+no intra-abdominal collection,24
+antibiotics changed to IV meropenem 500mg BID,24
+fever settled,48
+inflammatory markers trending down,216
+repeat COVID-19 Rrt-PCR negative,216
+discharged,216
+followed up via telemedicine,504
+no abdominal pain,504
+no fever spikes,504
+stable follow-up period,504

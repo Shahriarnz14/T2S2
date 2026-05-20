@@ -1,0 +1,61 @@
+pmcIntroduction
+
+Sézary syndrome (SS) is an aggressive subtype of cutaneous T-cell lymphoma (CTCL). Patients with SS present with pruritus, erythroderma, lymphadenopathy, and a high level of circulating tumor cells.1 Despite recent advances in our understanding of SS,2 the disease remains incurable. Median survival remains <5 years.1 The causes of death are intractable tumor burden and/or fatal infection. Deaths due to infection are thought to be a result of immunosuppression; ie, disease-related losses in important lymphoid and myeloid populations, including but not limited to CD8+ T and natural killer cells.3
+
+SARS-CoV-2 infections have heterogeneous clinical manifestations, ranging from asymptomatic to severe acute respiratory syndrome. Patients with SS have multiple risk factors for severe disease, including advanced age and iatrogenic or disease-induced immunosuppression4; nonetheless, to date, few cases of COVID-19 in patients with SS have been reported.5 Thus, the impact of COVID-19 on patients with SS is unclear.
+
+Here we report the case of a woman with untreated SS who experienced a partial remission of her disease after 2 COVID-19 courses before eventually succumbing to a third SARS-CoV-2 infection.
+
+Case report
+
+In the fall of 2019, a 66-year-old woman presented with a sudden onset of diffuse pruritus and erythroderma. A biopsy revealed atypical cells with irregular nuclei in the dermis and epidermis (Fig 1). Flow cytometry showed an abnormal CD3+ CD4+ CD7− CD26− T-cell clone. Hematopathology showed a Sézary cell count of 2312. A positron emission tomography scan showed bilateral lymphadenopathy in the neck, axilla, and inguinal region (Fig 2). The patient received a diagnosis of stage IVA1 (T4NxM0B2) SS. Her medical history was significant for uncontrolled hypertension, type 2 diabetes, and end-stage renal disease.Fig 1 Biopsy of lesion (hematoxylin-eosin stain).
+
+Fig 2 A positron emission tomography scan from December 2019 showing inguinal, cervical, and axillary lymphadenopathy. White arrows indicate hypermetabolic lymph nodes.
+
+She was prescribed extracorporeal photopheresis and bexarotene but was lost to follow-up. Untreated, her pruritus worsened to a level precluding sleep, and her Sézary count climbed to 11,132 (Fig 3, Table I).Fig 3 Hematology laboratory results for (A) absolute lymphocyte count, (B) absolute eosinophil count, and (C) Sézary count during days after Sézary syndrome diagnosis. Positive COVID-19 tests are shown in red/orange, vertical, dotted lines. Romidepsin initiation is shown as a cyan, vertical, dotted line. Yellow rectangles indicate the patient’s extended COVID-19 hospital stay. Her July admission included a readmission for shortness of breath that was COVID-19− but commenced on the same day the patient was discharged from after her COVID-19 inpatient stay.
+
+Table I Sezary counts, clinical symptoms, and other indicators of tumor burden. Periods of time when the patient was diagnosed with COVID-19 or when romidepsin was initiated are indicated in the table. Time points lacking clinical pictures indicate blood work drawn outside of a clinic visit
+
+Days from diagnosis	Sézary count	Lymphocyte count	CD4:CD8 ratio	Clinical picture	
+0	2312	5508	6	Diffuse pruritus, erythroderma, lymphadenopathy	
+180	11,132	14,274	22.5	Worsening pruritus, papulonodular rash	
+Day 232: COVID-19+, mild symptoms	
+292	6494	7595	23		
+Days 314-339: COVID-19+, hospitalized	
+369	936	3261			
+Day 369: start romidepsin therapy	
+397	389	1776	6.3	Improved pruritus, continued papulonodular rash, resolved lymphadenopathy, and erythroderma	
+404	452	1435			
+Day 431: COVID-19+, hospitalized, day 443: cardiac arrest	
+
+In April 2020, the patient was infected with SARS-CoV-2. She was short of breath but afebrile. Because of her mild clinical course, she recovered fully without medication. Two months later, her Sézary count dropped to 6494, a 42% drop from March (Fig 3).
+
+In July 2020, the patient was admitted to the hospital with severe COVID-19. She experienced shortness of breath, chills, fever (38.5 °C), and hypoxemia (70% O2 saturation on room air). She had a protracted 25-day stay with multiple admissions to the intensive care unit. During this hospital course, she received 6 mg dexamethasone for the first 8 days and empiric antibiotics for 25 days for what was later determined to be a false-positive blood culture. She did not receive SS treatment, but her lymphocyte count began to decrease on hospital day 14. At discharge, her absolute lymphocyte count (which includes Sézary cells) was the lowest ever recorded (1900, an 87% decrease from peak; Fig 3).
+
+The patient returned to the clinic in September 2020 whereupon her Sézary count had dropped to 936 (92% decrease from peak). She began a course of romidepsin, a histone deacetylase inhibitor and Food and Drug Administration-approved therapy for cutaneous T-cell lymphoma. In October 2020, her pruritus was improved and her erythroderma and lymphadenopathy resolved. Her Sézary counts dropped to 389 (a 97% decrease from peak).
+
+In November, the patient was admitted to the intensive care unit again for severe COVID-19. During this hospital stay, she developed encephalopathy, hypotension, and unfortunately died after cardiac arrest.
+
+Discussion
+
+Our patient had multiple risk factors for severe COVID-19. These included her age, hypertension, diabetes, kidney disease, and SS-related immunosuppression.4 Consistent with her elevated risk, she had multiple severe infections, including one that led to her death. Multiple SARS-CoV-2 infections are reported but appear to be uncommon.6,7 Her immunocompromised status may have prevented her from developing protective immunity.
+
+Interestingly, our patient had remarkable improvements in her tumor burden after each SARS-CoV-2 infection (Fig 3). The drops in her blood counts occurred after and in proportion to the severity of her COVID-19 courses. Her improvement began before and persisted after moderate-dose steroid administration. Although some research has suggested that antibiotics could play a role in CTCL improvement,8 this improvement was seen in individuals undergoing CTCL treatment. Our patient was untreated for her CTCL until her final month.
+
+This is now at least the third reported case of cancer regression after COVID-19 in patients with untreated cancer.9,10 One untreated patient with metastatic lung cancer experienced a complete response in both his lung and liver after COVID-19. Another patient with untreated Stage III Hodgkin’s lymphoma experienced complete radiographic resolution of his lymphadenopathy after hospitalization for COVID-19.
+
+The underlying mechanisms remain unclear. We hypothesize a vital role for the cytokine storm (upregulated interferon [IFN] γ, IFN-α, IFN-λ, interleukin [IL] 2, IL-7, and tumor necrosis factor α) that occurs during severe COVID-19.11 IFN-α/IFN-γ and IL-2 are National Comprehensive Cancer Network-approved therapeutics for CTCL and melanoma, respectively.12,13 Tumor necrosis factor α appears necessary for immunosurveillance for CTCL, as tumor necrosis factor α inhibitors worsen the disease.14 IFN and IL-7 have been examined as potential cancer therapies.15,16 Interestingly, previous cases of “spontaneous” remission in mycosis fungoides patients are frequently associated with sepsis, another disease associated with cytokine storm (43%, n = 4).17
+
+Alternatively, her drop in tumor burden may be due to heterologous immunity. Heterologous immunity is the induction of T-cell response to one pathogen after priming by another. The anticancer role of the heterologous immune response has been demonstrated in squamous cell carcinoma after exposure to papillomavirus.18 Cross-reactive T-cells have been identified in patients with COVID-19,19 but the role of T-cells cross-reactive to SARS-CoV-2 in reducing tumor burden is unknown.
+
+Finally, Wang et al20 demonstrated that COVID-19 spurs the production of diverse autoantibodies. These antibodies can inhibit cell signaling pathways as well as cause antibody-dependent cellular cytotoxicity.20,21 COVID-19-induced antibodies may target surface antigens present on Sézary cells and induce antibody-dependent cellular cytotoxicity.
+
+The importance of immune surveillance in SS progression is known2; however, a broadly successful immunotherapy remains elusive. This case report illustrates a remarkable remission of SS after viral infection. Identifying how COVID-19 induces SS remission in similar cases may provide important clues regarding how the immune system controls Sézary cells and how to develop more effective immunotherapies.
+
+Conflicts of interest
+
+None disclosed.
+
+Funding sources: None.
+
+IRB approval status: Not applicable.

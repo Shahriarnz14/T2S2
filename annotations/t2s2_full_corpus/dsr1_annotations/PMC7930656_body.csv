@@ -1,0 +1,91 @@
+event,time
+74 years old,0
+male,0
+worsening pruritus,-720
+confusion,-720
+multiple falls,-720
+fever,-720
+lethargy,-2160
+night sweats,-2160
+no history of liver disease,0
+previous coronary stenting,-2160
+ischaemic heart disease,-2160
+taking aspirin,0
+non-smoker,0
+occasionally consumed alcohol,0
+pyrexial,0
+tachycardic,0
+unremarkable abdominal examination,0
+deranged liver function,0
+bilirubin 28,0
+alanine transaminase 106,0
+alkaline phosphatase 600,0
+INR 2.0,0
+albumin 29,0
+pancytopenia,0
+haemoglobin 85,0
+white cell count 2.7,0
+platelets 71,0
+CRP 55,0
+initiated on co-amoxiclav,0
+thickened gallbladder,0
+no biliary stones,0
+no biliary duct dilatation,0
+normal liver,0
+normal portal venous flow,0
+splenomegaly 16 cm,0
+hypoechoic area 30x43 mm in spleen,0
+CT abdomen confirmed splenomegaly,0
+MRCP normal,0
+negative viral serology,0
+negative autoimmune screen,0
+normal immunoglobulins,0
+negative blood cultures,0
+spiking temperature,0
+differential diagnosis of splenic abscess,0
+differential diagnosis of hematological malignancy,0
+continued fevers,24
+hemodynamic instability,24
+two medical emergency calls,24
+antibiotics escalated to piperacillin/tazobactam,96
+raised lactate,96
+worsening pancytopenia,96
+acute kidney injury,96
+jaundice,96
+INR up to 2.0,96
+lactate dehydrogenase >2000 IU/L,96
+ferritin >3000 ug/L,96
+staging CT,96
+new bilateral pleural effusions,96
+minimal ascites,96
+peri-pancreatic stranding,96
+marginally raised amylase 125 iu/L,96
+bone marrow aspirate,96
+bone marrow trephine biopsy,96
+deterioration with hepatic encephalopathy,264
+hypoxia,264
+hypotension,264
+persistent tachycardia,264
+fluid resuscitation,264
+antibiotics escalated to meropenem,264
+hepatology review,264
+negative hepatitis serology,264
+negative leptospirosis,264
+negative Brucella,264
+negative HSV serology,264
+reactive bone marrow,264
+no evidence of lymphoma,264
+no haemophagocytosis,264
+multi-organ failure,264
+clinical diagnosis of HLH,264
+met HLH-2004 criteria,264
+methylprednisolone 1g administered,264
+rapid deterioration,264
+ICU input,264
+pH 6.89,264
+lactate 17.8,264
+death,264
+bone marrow trephine biopsy confirmed DLBCL,264
+diffuse large B-cell lymphoma,264
+80% blast,264
+confirmed HLH with underlying malignancy,264

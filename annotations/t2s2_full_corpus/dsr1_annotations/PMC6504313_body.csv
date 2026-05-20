@@ -1,0 +1,71 @@
+event,time
+56 years old,0
+female,0
+left hydronephrosis,0
+ureteroscopy for left ureter,0
+laparoscopy for lysis of adhesions around left ureter,0
+abdominal discomfort,24
+abdominal distension,24
+oliguria,24
+irritable,24
+body temperature 39.4°C,24
+pulse rate 114 beats per minute,24
+blood pressure 86/59 mm Hg,24
+respiratory rate 28 breaths per minute,24
+oxygen saturation 89%,24
+no positive signs on abdominal examination,24
+white blood cell count 15.4×10^9/L,24
+neutrophils 95%,24
+lymphocytes 5%,24
+platelet count 33×10^9/L,24
+blood lactate level 3.6 mmol/L,24
+base excess -11.4,24
+serum creatinine 365.7 μmol/L,24
+ALT 224 U/L,24
+AST 858 U/L,24
+prothrombin time 24.2 seconds,24
+C-reactive protein 180.3 mg/L,24
+procalcitonin 49.17 ng/mL,24
+qSOFA score 3,24
+transferred to ICU,24
+APACHE II score 32,0
+SOFA score 17,0
+sepsis,0
+septic shock,0
+Primaxin (imipenem/cilastatin),0
+norepinephrine,0
+hydrocortisone,0
+supplemental fluids,0
+continuous renal replacement therapy,0
+acute kidney injury (stage 3),0
+respiratory distress,24
+oxygenation index 184 mm Hg,24
+endotracheal intubation,24
+mechanical ventilation,24
+white blood cell count peaked at 45.3×10^9/L,48
+neutrophils 91.5%,48
+lymphocytes 1.8%,48
+blood culture negative,48
+urine culture negative,48
+abdominal drainage fluid culture negative,48
+vital signs improved,72
+clinical condition improved,72
+liver injury aggravated,120
+total bilirubin 245.5 μmol/L,120
+direct bilirubin 196.6 μmol/L,120
+liver failure,120
+gallbladder wall edema,120
+hepatitis serology negative,120
+autoantibodies negative,120
+hepatoprotective drugs,0
+supportive therapies,0
+plasma exchange,120
+mechanical ventilation stopped,216
+endotracheal tube withdrawn,216
+hemodialysis continued,216
+transferred back to urology department,288
+ALT 23 U/L,288
+AST 39 U/L,288
+total bilirubin 99.4 μmol/L,288
+direct bilirubin 69.8 μmol/L,288
+liver function returned to normal,336

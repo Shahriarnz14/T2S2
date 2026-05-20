@@ -1,0 +1,59 @@
+event,time
+79 years old,0
+female,0
+admitted to intensive care unit,0
+surgical interposition graft for thoracoabdominal aortic aneurysm,0
+hypertension,0
+chronic obstructive pulmonary disease,0
+chronic kidney disease,0
+creatinine 105 μmol/l,0
+MDRD 44 ml/min,0
+transcatheter aortic valve implantation,0
+percutaneous coronary intervention of right coronary artery,0
+vascular graft of abdominal aorta,0
+acute-on-chronic kidney failure,0
+continuous veno-venous haemofiltration,0
+persistent chylous leakage,0
+re-thoracotomy,0
+third-degree atrioventricular block,0
+pacemaker implanted,0
+surgical tracheostomy,0
+mechanical ventilator weaning,0
+Staphylococcus aureus bacteraemia,-840
+infected thoracotomy wound,-840
+pleural fluid cultures positive for Staphylococcus aureus,-840
+continuous intravenous flucloxacillin 12 g/24 hours,-840
+"high flucloxacillin blood concentration 119,000 mg/l",-768
+flucloxacillin dosage decreased to 3 g/24 hours,-768
+"flucloxacillin blood concentration 48,000 mg/l",-672
+flucloxacillin dose changed to 6 g/24 hours,-672
+acetaminophen 3 g per day,-840
+appendicitis,-480
+surgery postponed,-480
+antibiotics piperacillin-tazobactam,-480
+supportive care,-480
+reduced consciousness,-168
+controlled mechanical ventilation,-168
+severe respiratory acidosis,-168
+high anion gap metabolic acidosis,-168
+pH 7.16,-168
+pCO2 7.1 kPa,-168
+pO2 14.9 kPa,-168
+bicarbonate 18.5 mmol/l,-168
+base excess −9.6 mmol/l,-168
+lactate 1.1 mmol/l,-168
+sodium 143 mmol/l,-168
+potassium 3.7 mmol/l,-168
+chloride 107 mmol/l,-168
+albumin 13 g/l,-168
+creatinine 158 μmol/l,-168
+MDRD-GFR 27 ml/min,-168
+exclusion of other causes of high anion gap metabolic acidosis,-168
+5-oxoprolinaemia,-168
+acetaminophen stopped,-168
+progression of abdominal pain,-144
+CT scan showing intra-abdominal abscesses,-144
+ICU treatment stopped,-144
+patient died,-144
+"urinary 5-oxoproline 1,721 μmol/mmol/creatinine",-144
+creatinine 1.69 mmol/l,-144

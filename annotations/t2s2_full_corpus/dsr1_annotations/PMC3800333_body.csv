@@ -1,0 +1,41 @@
+event,time
+45 years old,0
+female,0
+accidental flame burns of the chest and upper limbs (30%),-240 (approximately 30% burns occurred prior to initial hospital admission)
+referred from another hospital,0
+high fever,"-168 (5 days after CVC insertion, assuming CVC inserted at initial hospital admission)"
+breathlessness requiring ventilatory support,0 (upon current admission)
+right internal jugular vein catheter insertion,"-408 (initial hospital admission 5 days prior to fever onset, calculated as 5 days + 7 days fever duration + 3 weeks antibiotics = ~17 days before current admission)"
+administered drugs via CVC,-408
+administered volume via CVC,-408
+developed high fever,-168 (5 days after CVC insertion)
+developed breathing difficulty,"-144 (over next 7 days after fever onset, placed 7 days after fever start)"
+sepsis,-144
+methicillin-resistant Staphylococcus aureus (MRSA) in blood sample,-144
+administered appropriate antibiotics,-144 (started at time of sepsis diagnosis)
+no clinical improvement,"0 (after 3 weeks of antibiotics, spanning from -144 to 0 hours)"
+persistently high temperatures,0
+breathless at rest,0
+referred to current hospital,0
+put on respirator,0 (due to poor blood gas values)
+transthoracic echocardiogram showing large vegetation on anterior tricuspid leaflet,0 (upon current admission evaluation)
+trans-oesophageal echocardiogram confirming vegetation,0 (likely same day as TTE)
+respiratory decompensation secondary to pulmonary embolism,0 (immediate pre-surgery status)
+taken for surgery immediately,24 (assumed next day after admission)
+vegetation on anterior tricuspid leaflet,0
+vegetectomy performed,24
+anterior tricuspid leaflet repaired with pericardium,24
+afebrile post-surgery,48 (next day after surgery)
+discharged from hospital,720 (assuming discharge 30 days post-surgery at 24h*30)
+MRSA growth in vegetation,24 (culture results available post-surgery)
+no tricuspid regurgitation,0
+normal other cardiac valves,0
+persistent bacteraemia,0 (implied by ongoing sepsis)
+CVC-related blood stream infection,-144 (diagnosed with MRSA bacteraemia)
+guide wire injury suspected,-408 (during initial CVC placement)
+depressed immunity,0 (due to burns and sepsis)
+sub-clinical sepsis,-408 (prior to overt sepsis diagnosis)
+central venous catheterization complications,-408
+right ventricular dilatation risk,0 (avoided by surgery)
+recurrent pulmonary embolus risk,0 (avoided by surgery)
+intractable right ventricular failure risk,0 (avoided by surgery)

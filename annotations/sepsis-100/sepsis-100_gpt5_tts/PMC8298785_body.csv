@@ -1,0 +1,97 @@
+event,time
+hypertension,-8760
+pulmonary emboli,-8760
+long-term anticoagulation,-8760
+recurrent pericarditis,-8760
+polysubstance abuse,-8760
+discharged 36 h earlier,-36
+recurrent pericarditis,-36
+colchicine 0.6 mg twice daily,-36
+taking 60 tablets of 0.6 mg of colchicine as an intentional overdose,-24
+nausea,-24
+vomiting,-24
+abdominal pain,-24
+admitted to the hospital,0
+33-year-old,0
+woman,0
+febrile,0
+temperature 38.6°C,0
+hypotensive,0
+blood pressure 66/39 mm Hg,0
+physical examination otherwise benign,0
+leukocytosis (51.2 × 10^9/l),0
+elevated serum lactate (12 mmol/l),0
+acute kidney injury (serum creatinine 2.0 mg/dl),0
+"acute transaminitis (alanine aminotransferase 2,148 IU/l)",0
+"acute transaminitis (aspartate aminotransferase 4,577 IU/l)",0
+severe coagulopathy (international normalized ratio >15),0
+serum troponin within normal limits,0
+results of a comprehensive toxicology screen were negative,0
+electrocardiography showed normal sinus rhythm,0
+no ST-T changes,0
+transthoracic echocardiogram revealed normal biventricular function,0
+no valvular disease,0
+no pericardial effusion,0
+sepsis from an intrabdominal source was suspected,0
+fluid resuscitated,0
+broad-spectrum antibiotics started,0
+vasopressor therapy started,0
+Swan-Ganz catheter was placed,0
+initial readings were consistent with distributive shock,0
+cardiac output 7.4 l/min,0
+pulmonary artery diastolic pressure 8 mm Hg,0
+"systemic vascular resistance indexed 1,572 dynes/s/cm5/m2",0
+distributive shock,0
+whole blood colchicine level 17 ng/ml,14
+severe multisystem organ failure developed,24
+intubated,24
+paralyzed,24
+intravascular volume repletion,24
+epinephrine infusion started,24
+norepinephrine infusion started,24
+vasopressin infusion started,24
+broad-spectrum antibiotics continued,24
+stress-dose steroids started,24
+high-dose vitamin B12 started,24
+refractory shock,24
+hemodynamics changed to cardiogenic shock,24
+pulmonary artery diastolic pressure 24 mm Hg,24
+cardiac output 4.3 l/min,24
+"systemic vascular resistance 2,298 dynes/s/cm5/m2",24
+troponin increased to 73.14 ng/ml,24
+electrocardiogram unchanged,24
+transesophageal echocardiogram revealed new severe biventricular failure,24
+left ventricular ejection fraction 15%,24
+acute myocardial necrosis,24
+intravenous milrinone was added,24
+continuous renal replacement therapy (CRRT) started,24
+anuric renal failure,24
+sepsis with stress induced cardiomyopathy considered,24
+myocarditis with severe biventricular failure considered,24
+serum colchicine level 5.7 ng/ml,30
+remained hypotensive,48
+blood cultures negative,48
+leukocytosis improving,48
+colchicine toxicity suspected,48
+packed red blood cell transfusion with 10 U of PRBCs initiated,48
+serum colchicine level 5.3 ng/ml,59
+whole blood colchicine level 7.6 ng/ml,59
+cardiac output normalized,72
+troponin decreased,72
+multisystem organ failure improved,72
+white blood cell count continued to fall,72
+neutropenic,120
+repeat echocardiogram showed recovery of LVEF to 50% to 55%,168
+weaned from vasopressors,240
+CRRT discontinued,240
+laboratory reported colchicine levels,240
+extubated,312
+admitted to taking 60 tablets of 0.6 mg of colchicine as an intentional overdose,312
+spent a total of 15 days in the intensive care unit,0
+discharged,504
+complete renal recovery,504
+complete hepatic recovery,504
+complete cardiac recovery,504
+entered outpatient rehabilitation,504
+no further sequelae,504
+hair loss,576

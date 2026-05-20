@@ -1,0 +1,109 @@
+event,time
+15 years old,0
+female,0
+acute myelogenous leukemia,0
+received induction chemotherapy,0
+pancytopenia,0
+infection with unknown focus,0
+ciprofloxacin,0
+linezolid,0
+meropenem,0
+tobramycin,0
+liposomal amphotericin,0
+tachycardia,0
+hypotension,0
+lactic acidosis,0
+admitted to pediatric ICU,0
+left ventricular ejection fraction 12%,0
+incomplete right bundle branch block,0
+NT-proBNP 19384 pg/ml,0
+high-sensitive troponin T 53.7 pg/ml,0
+fluid therapy,0
+noradrenaline,0
+dobutamine,0
+milrinone,0
+deep sedation,0
+mechanical ventilation,0
+respiratory insufficiency,0
+lactate acidosis worsened,0
+hypotonic,0
+heart rate 160/min,0
+va-ECMO initiated,0
+left femoral artery cannulation,0
+left femoral vein cannulation,0
+9 Fr sheath placed for leg perfusion,0
+ECMO blood flow 3.3 l/min,0
+pre-oxygenator membrane pressure above 350 torr,0
+MAP 45 torr,0
+vasopressin,0
+levosimendan,0
+hydrocortisone,0
+residual LVEF 10-15%,0
+CVVHDF started,0
+anuric acute kidney injury,0
+meropenem adjusted,0
+ciprofloxacin continued,0
+metronidazole,0
+cotrimoxazole,0
+liposomal amphotericin B continued,0
+acyclovir,0
+vancomycin replaced linezolid,0
+PCT 2.37 ng/ml,0
+CRP 2.98 mg/dl,0
+MAP declined to 40 torr,24
+vasopressors increased,24
+noradrenaline 144 µg/min,24
+vasopressin 4 IE/h,24
+LVEF below 10%,24
+levosimendan stopped,24
+acute ischemic injury of non-cannulated leg,24
+right femoral artery dissection,24
+insufficient blood inflow,24
+low cardiac output,24
+lactate levels 25 mmol/l,24
+Dacron conduit on right femoral artery,24
+second arterial cannula introduced,24
+ECBF 4-5 l/min,24
+MAP 40-50 torr,24
+venous drainage pressures below -100 mmHg,24
+inspiratory oxygen fraction increased to 0.55,24
+arterial oxygen partial pressure normal,24
+PCT 42.5 ng/ml,24
+Hickman catheter explanted,24
+broad-complex tachycardia,24
+treated with esmolol,24
+treated with metoprolol,24
+left ventricular function further decreased,24
+aortic valve ceased to open,24
+second venous cannula placed via atrioseptostomy,24
+ECBF 5-6 l/min,24
+lactate levels peaked at 29 mmol/l,24
+MAP rose from 30 torr,24
+acidosis leveled out,24
+cerebral oximetry 60-80%,24
+left ventricle unloaded,24
+therapeutic anticoagulation,24
+heparin target PTT 60-80 s,24
+PCT peaked 80.4 ng/ml,72
+CRP peaked 7.23 mg/dl,72
+leukocytes 300/µl,72
+high-sensitive troponin T 343 pg/ml,72
+CK-MB 178 U/l,72
+CK 577 U/l,72
+all microbial specimens negative,72
+viral myocarditis excluded,72
+cardiac systolic function recovered,120
+ECMO cannulas removed from left femoral vessels,120
+ECMO completely removed,168
+LVEF 30%,168
+MAP 60-70 torr,168
+no relevant atrial communication,168
+CVVHDF stopped,168
+leukocyte count recovered to 1000/µl,312
+normal leukocyte count,720
+respirator weaning,792
+allogenic stem cell transplantation,1008
+discharged to rehabilitation,3600
+severe critical illness polyneuropathy,3600
+LVEF 40%,3600
+no ventricular dilatation,3600

@@ -1,0 +1,74 @@
+event,time
+18 years old,0
+male,0
+orthotopic heart transplant,0
+familial hypertrophic cardiomyopathy,0
+"immunosuppressant regimen (prednisone, mycophenolate mofetil, tacrolimus)",0
+extubated,48
+sudden onset of shortness of breath,72
+hypoxic respiratory failure,72
+endotracheal intubation,72
+mechanical ventilation,72
+hemodynamically unstable,72
+vasopressor support,72
+"white blood cell count 48,000 cells/mm³",72
+80% neutrophils,72
+14% bands,72
+3% lymphocytes,72
+3% monocytes,72
+renal function tests normal,72
+liver function tests normal,72
+blood cultures obtained,72
+"broad-spectrum antibiotics (vancomycin, cefepime, azithromycin)",72
+CT chest bilateral pulmonary consolidations,72
+air bronchograms,72
+bilateral pneumothoraces,72
+bronchoscopy,96
+bronchial washings,96
+BAL cultures normal respiratory flora,96
+Candida albicans,96
+blood cultures no growth,120
+marked leukocytosis persisted,120
+repeat CT chest worsening consolidations,120
+bronchoscopy,216
+"BAL cultures (mycobacteria, Mycoplasma pneumoniae, Legionella) no growth",216
+BAL viral cultures negative,216
+adenovirus negative,216
+CMV negative,216
+influenza negative,216
+parainfluenza negative,216
+respiratory syncytial virus negative,216
+blood CMV PCR undetectable,216
+HIV serology nonreactive,216
+serum cryptococcal antigen sent,216
+serum Aspergillus galactomannan assay sent,216
+serum (1→3)-β-D-glucan assay sent,216
+urine Histoplasma antigen sent,216
+BAL cytology acute inflammatory cells,216
+no viral cytopathic changes,216
+no malignant cells,216
+Gomori's methenamine silver stain negative for Pneumocystis jirovecii,216
+acute angle septated hyphae (Aspergillus),216
+BAL cultures Aspergillus flavus,216
+voriconazole MIC 0.5 μg/mL,216
+"empiric therapy (voriconazole, micafungin)",216
+serum Aspergillus galactomannan 4.8 OD,216
+serum (1→3)-β-D-glucan 263 pg/mL,216
+serum cryptococcal antigen negative,216
+urine Histoplasma antigen negative,216
+diagnosis of invasive pulmonary aspergillosis,216
+clinical improvement after 48h antifungal therapy,264
+vasopressor support discontinued,264
+micafungin discontinued,264
+voriconazole transitioned to oral,264
+no gardening or mulch exposure,216
+donor-derived infection excluded,216
+no hospital construction/renovation,216
+environmental Aspergillus contamination excluded,216
+immunosuppression decreased,216
+bilateral chest tubes placed,216
+discharged,1032
+voriconazole maintenance monotherapy,1032
+repeat serum Aspergillus galactomannan 0.61 OD,1008
+voriconazole therapy for 6 months,1008
+complete pulmonary recovery,1032

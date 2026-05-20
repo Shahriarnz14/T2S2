@@ -1,0 +1,58 @@
+event,time
+40-year-old man,0
+priority 1 trauma,0
+gunshots to chest,0
+gunshots to abdomen,0
+gunshots to pelvis,0
+resuscitative thoracotomy,0
+emergent exploratory laparotomy,0
+splenectomy,0
+direct repair of enterotomies,0
+gastrotomy,0
+traumatic IVC injury (suprarenal segment),0
+abdominal packing (retrohepatic space),0
+temporary abdominal closure,0
+mass transfusion protocol,0
+transfer to surgical trauma ICU,0
+high sanguineous output from abdominal wound,0
+hemodynamic instability,0
+hemoperitoneum,0
+increasing drain output,0
+vascular surgery consultation,0
+"multidisciplinary team meeting (trauma/critical care surgery, vascular surgery, radiology, cardiology/endovascular lead)",0
+IVC venogram with possible repair,0
+activation of semihybrid circulatory dynamics laboratory,0
+continued massive transfusion protocol,0
+vasopressors,0
+ultrasound-guided access of right femoral vein,1.3
+8F sheath placement,1.3
+IVC venogram (power injector via 5F Omni flush catheter),1.3
+no apparent blush in retrohepatic IVC (initial venogram),1.3
+undiluted contrast imaging,1.3
+substantial blush in suprarenal IVC,1.3
+angiographic sizing of IVC,1.3
+IVUS probe placement,1.3
+IVC measurements (proximal/distal injury sites),1.3
+Gore TAG 28.5-mm × 3.3-cm endograft cuff deployment,1.3
+20F Gore DrySeal sheath exchange,1.3
+"tilting of first cuff (incomplete seal, continued blush)",1.3
+visualization of renal veins,1.3
+deployment of second Gore TAG endograft cuff (28 × 4.5 cm),1.3
+complete seal,1.3
+resolution of blush (completion venogram),1.3
+access site closure (monofilament figure-of-eight cutaneous stitch),1.3
+direct pressure (10 minutes),1.3
+hemostasis,1.3
+coagulation panel ordered,1.3
+return to trauma ICU,1.3
+hemodynamic stability overnight,24
+abdominal washout,24
+53-minute operative case time,24
+follow-up CT scan at 2 weeks,336
+no stent graft migration,336
+no extravasation,336
+discharged home,504
+1-month prescription for clopidogrel 75 mg daily,504
+81 mg aspirin daily,504
+planned clopidogrel 75 mg daily for 6 months,504
+no clinical signs of infection at follow-up,504

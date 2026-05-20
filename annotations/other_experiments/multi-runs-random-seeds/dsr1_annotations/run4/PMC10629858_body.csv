@@ -1,0 +1,67 @@
+event,time
+57 years old,0
+male,0
+admitted to the hospital,0
+lepromatous leprosy,-1440
+skin biopsy,-1440
+treatment with rifampicin/clofazimine/dapsone,-1440
+abdominal distension,0
+constipation,0
+vomiting,0
+weight loss (10 kg),0
+peripheral lymphadenopathy,0
+distended abdomen,0
+positive shifting dullness,0
+computed tomography scan of abdomen,0
+mural thickening of terminal ileum,0
+enlarged mesenteric lymph nodes,0
+mesenteric fat stranding,0
+intra-abdominal free fluid,0
+abdominal paracentesis,0
+atypically large lymphocytes,0
+flow cytometry,0
+abnormal CD4/CD8 double-negative T-cell population,0
+cervical lymph node biopsy,0
+high-grade peripheral T-cell lymphoma (PTCL),0
+bone marrow examination,0
+no bone marrow involvement,0
+stage IV lymphoma,0
+dexamethasone,0
+tumor-lysis syndrome precautions,0
+clinical deterioration,24
+transfer to medical ICU,24
+severe sepsis,24
+antibiotics,24
+antifungals,24
+ICU stay (1 week),24
+transfer to national cancer center,168
+EPOCH chemotherapy protocol,168
+intrathecal methotrexate,168
+complete metabolic remission,168
+febrile neutropenia episodes,168
+recurrent bacteremia,168
+generalized weakness,168
+no sensory changes,168
+no clear fatigability,168
+decreased proximal and distal muscle power (3/5),168
+normal distal latencies,168
+normal compound muscle action potential,168
+normal conduction velocities,168
+normal F waves,168
+normal sensory nerve studies,168
+normal needle electromyogram,168
+poor recruitment effects,168
+repetitive nerve stimulation (30–40 Hz),168
+significant incremental response,168
+presynaptic neuromuscular junction disorder (LEMS),168
+intravenous immunoglobulins (5 days),168
+improvement of motor function,216
+ambulation,216
+autologous bone marrow transplant planned,216
+recurrent bacteremia,216
+sepsis,216
+re-admission to medical ICU,4320
+severe sepsis,4320
+multiorgan failure,4320
+death,4320
+complete remission status maintained,4320

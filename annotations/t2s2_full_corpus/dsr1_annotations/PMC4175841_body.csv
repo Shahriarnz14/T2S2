@@ -1,0 +1,50 @@
+event,time
+15-year-old,0
+Saudi Arabian,0
+male,0
+presented to the emergency department,0
+vomiting,-72
+headache,-72
+hemoptysis,-72
+shortness of breath,0
+no past medical illness,0
+referred from secondary care hospital,0
+intubated,0
+decreased oxygen saturation (SpO2),0
+initial diagnosis of meningitis,0
+acute respiratory distress syndrome,0
+temperature 37.2°C,0
+heart rate 132 bpm,0
+blood pressure 135/95 mmHg,0
+crepitus at both upper regions of the chest,0
+left side more affected,0
+no clinical abnormality in abdominal system,0
+no clinical abnormality in cardiovascular system,0
+blood count not significant,0
+neck and chest contrast-enhanced CT,0
+large pre-vertebral collection of abscess in retropharyngeal space,0
+abscess extending to superior mediastinum,0
+direct extension into posterior mediastinum,0
+abscess volume estimated 130 cc,0
+mass effect on adjacent structures,0
+anterior displacement of pharynx,0
+anterior displacement of oesophagus,0
+anterior displacement of trachea,0
+conservative management,0
+no improvement,0
+surgical intervention,0
+cervical approach incision,0
+pus drained (200 cc),0
+improvement post-operation,24
+culture and sensitivity (C/S) of swab,24
+Ochrobactrum anthropi,24
+sensitive to imipenem,24
+sensitive to cefepime,24
+sensitive to amikacin,24
+sensitive to gentamicin,24
+sensitive to ciprofloxacin,24
+extubated,48
+discharged,192
+no complications,192
+remained well at 2-month follow-up,1440
+retropharyngeal abscess with mediastinal extension,0

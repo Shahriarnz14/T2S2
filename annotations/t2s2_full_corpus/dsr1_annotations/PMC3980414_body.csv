@@ -1,0 +1,66 @@
+event,time
+21-year-old man,0
+driver of a motor vehicle,0
+sustained blunt abdominal trauma,0
+high-speed collision,0
+major liver laceration,0
+initial management at secondary care hospital,"-72 (approx. 3 days prior, assuming immediate transfer after injury)"
+liver packing,-72
+received 20 units packed red blood cells (PRBC),-72
+received fresh frozen plasma (FFP),-72
+transferred to Armed Forces Hospital (AFH),-48 (approx. 2 days after injury)
+required more blood,-48
+required more FFP,-48
+continued bleeding from liver laceration,-48
+emergency right hepatectomy,-48
+remained intubated,-48
+mechanical ventilation,-48
+intensive care unit (ICU) admission,-48
+prolonged ICU course (3 months),"0 (started after surgery, timestamp 0 here as initial event)"
+pneumothorax,0
+sepsis,0
+bed sores,0
+renal failure,0
+coagulopathy,0
+cardiac arrest on day 15,+360 (15 days post-admission)
+deranged liver enzymes,0
+abnormal liver function,0
+abdominal distension,0
+bile drainage from abdominal drainage,0
+ERCP performed,"+720 (approx. 30 days post-surgery, assuming 3-week improvement)"
+confirmed major bile leak from left main bile duct branch,+720
+10 Fr 5 cm plastic stent inserted,+720
+good biliary drainage,+720
+sphincterotomy not performed (due to coagulopathy),+720
+improvement in abdominal distension,+720
+improvement in bile drainage,+720
+improvement in liver function,+720
+abdominal distension recurrence,"+1008 (approx. 3 weeks post-ERCP, 42 days post-surgery)"
+deranged liver chemistry,+1008
+high bilirubin,+1008
+high alkaline phosphate,+1008
+anticipated blocked/migrated stent,+1008
+second ERCP performed,+1008
+stent in place with good drainage,+1008
+contrast injection revealed leak from right hepatic duct stump,+1008
+high risk for further surgery,+1008
+plastic stent removed,+1008
+leaking bile branch selectively cannulated,+1008
+0.035 mm guide wire used,+1008
+metallic endovascular coil (3/30 mm) deployed,+1008
+injection of 1.5 ml NBCA/lipidol (2:1),+1008
+marked improvement in liver enzymes,+1032 (24 hours post-procedure)
+marked improvement in bile drainage,+1032
+general condition improved,+1032
+discharged home,+1032
+endovascular coil in place on CT (3 months post-procedure),+2160
+six months post-discharge,+4320
+presented with abdominal pain,+4320
+low grade fever,+4320
+mild elevation in liver enzymes,+4320
+preserved liver function,+4320
+CT abdomen showed dilated CBD with migrated coil,+4320
+treated with antibiotics,+4320
+ERCP performed three days later,+4392
+patent CBD,+4392
+likely passed endovascular coil,+4392

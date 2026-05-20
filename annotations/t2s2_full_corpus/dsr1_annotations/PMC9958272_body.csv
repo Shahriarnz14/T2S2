@@ -1,0 +1,87 @@
+event,time
+69 years old,0
+male,0
+resident of southern Saudi Arabia,0
+farmer,0
+uncontrolled type II diabetes,0
+laparoscopic cholecystectomy,-8760
+presents to emergency department,0
+left lower abdomen pain,-336
+intermittent fever,-8760
+weight loss,-8760
+paraumbilical tenderness,0
+left lower quadrant tenderness,0
+abdominal distension,0
+no organomegaly,0
+leucocytosis 22.95 * 10^9/L,0
+neutrophilia,0
+eosinophilia 21.7%,0
+Haemoglobin 126 g/L,0
+Platelets 518 * 10^9/L,0
+C-reactive protein 262.48 mg/L,0
+abdominal x-ray: faecal impaction,0
+abdominal x-ray: nonspecific distribution of bowel gases,0
+abdominal x-ray: no air under diaphragm,0
+abdominal x-ray: no signs of bowel obstruction,0
+CT abdomen and pelvis: multifocal segmental wall thickening in colon,0
+CT abdomen and pelvis: fluid collections suggesting concealed perforations,0
+admitted to general surgery unit,0
+diagnosis of severe diverticulitis,0
+started on Piperacillin/Tazobactam,0
+nothing by mouth,0
+symptoms worsened,96
+blood-stained stool,96
+CT abdomen and pelvis repeated,96
+recurrence of multifocal segmental wall thickening,96
+evidence of concealed perforation,96
+interval increase in size of surrounding collections,96
+severe diverticulitis,96
+"aggressive infections considered (basidiobolomycosis, actinomycetes)",96
+infectious diseases team involved,96
+surgical intervention recommended,96
+biopsy obtained,96
+empiric start of liposomal amphotericin B,96
+empiric start of Amoxicillin/Clavulanic acid,96
+empiric start of tigecycline,96
+persistent fever,96
+white blood cells increased to 31.7 * 10^9/L,96
+absolute eosinophils count increased to 3.58 * 10^9/L,96
+Haemoglobin dropped to 10 g/dL,96
+third abdominal CT with contrast,192
+circumferential wall thickening of colon,192
+interval increase in fluid collection size,192
+interval increase in abdominopelvic ascites,192
+taken to operation room,216
+faecal peritonitis,216
+multiple colon perforation,216
+small bowel adhesion,216
+adhesions between small bowel and transverse colon,216
+adhesolysis,216
+total colectomy,216
+end ileostomy created,216
+two drains placed,216
+transferred to ICU,216
+absolute eosinophils count dropped to 0.08 * 10^9/L,216
+Haemoglobin dropped to 69.0 g/L,216
+started on inotropic support,216
+transfused packed red blood cells,216
+minimal ventilator settings,216
+minimal respiratory secretions,216
+abdominal and pelvic CT repeated,240
+no collection found,240
+bacterial tissue culture: Pseudomonas aeruginosa,216
+bacterial tissue culture: carbapenem resistant Klebsiella variicola,216
+blood culture: Bacteroides fragilis,216
+fungal tissue culture: Candida glabrata,216
+histopathology: extensive inflammation,216
+histopathology: mixed inflammatory cells,216
+histopathology: sheets of eosinophils,216
+histopathology: foci of fungal microorganisms,216
+histopathology: irregularly branched hyphae,216
+"histopathology: thin walled, occasionally septated hyphae",216
+histopathology: splendore-Hoeppli phenomenon,216
+continued liposomal amphotericin B,216
+itraconazole 200 mg orally twice daily,216
+modified antibacterial agents,216
+condition deteriorated,240
+passed away due to refractory septic shock,240

@@ -1,0 +1,79 @@
+event,time
+58-year-old woman,0\
+paraganglioma,0\
+admitted to the hospital,0\
+dyspnea,0\
+bilateral flank pain,0\
+pallor,0\
+clamminess,0\
+blood pressure 170/120 mmHg,0\
+heart rate 120 beats/min,0\
+body temperature 38.2°C,0\
+respiration rate 30 breaths/min,0\
+oxygen saturation 89%,0\
+body mass index 25.1 kg/m²,0\
+no medical history,0\
+no significant family history,0\
+taking phendimetrazine tartrate,-43800\
+crackles in right lung field,0\
+soft abdomen,0\
+no tenderness,0\
+elevated CRP 29.5 mg/dL,0\
+elevated ESR 120 mm/hr,0\
+leukocytosis 14.82×10³/μL,0\
+normocytic anemia,0\
+hemoglobin 9.9 g/dL,0\
+mean corpuscular volume 90.7 fL,0\
+normal platelet count,0\
+acute kidney injury,0\
+blood urea nitrogen 25 mg/dL,0\
+creatinine 1.66 mg/dL,0\
+liver injury,0\
+aspartate aminotransferase 179 IU/L,0\
+alanine aminotransferase 106 IU/L,0\
+metabolic-respiratory acidosis,0\
+lactate 20 mmol/L,0\
+bilateral diffuse infiltrations on chest radiography,0\
+left paravertebral mass 3.8 cm,0\
+sepsis of unknown origin,0\
+acute respiratory distress syndrome,0\
+sedated,0\
+intubated,0\
+admitted to ICU,0\
+broad-spectrum antibiotics,0\
+mechanical ventilation,0\
+lung infiltrations resolved,24\
+high fever persisted,24\
+uncontrolled hypertension persisted,24\
+elevated troponin-I 0.841 ng/mL,24\
+elevated creatine kinase 5.3 ng/mL,24\
+"elevated NT-proBNP 35,000 pg/mL",24\
+hypokinetic mid inferior and apical segments,24\
+left ventricular ejection fraction 38%,24\
+referred to endocrinologist,~24\
+elevated urinary metanephrine 2.12 mg/day,~24\
+"elevated plasma norepinephrine 1,588 pg/mL",~24\
+elevated plasma normetanephrine 2.27 nmol/L,~24\
+normal plasma epinephrine 18 pg/mL,~24\
+normal plasma metanephrine 0.04 nmol/L,~24\
+elevated plasma IL-6 16.5 pg/mL,~24\
+18F-FDG PET/CT showed increased uptake,~24\
+diagnosis of functional paraganglioma,~24\
+SDHB mutation c.541-3C>R,~24\
+started doxazosin,~24\
+body temperature normalized 36.5°C,~408\
+blood pressure controlled,~408\
+tumor excision,408\
+tumor size 4.3×3.5×3.7 cm³,408\
+zellballen pattern,408\
+chromogranin A positive,408\
+doxazosin discontinued,408\
+inflammatory biomarkers improved,432\
+cardiac biomarkers improved,432\
+renal biomarkers improved,432\
+hepatic biomarkers improved,432\
+urinary metanephrine normalized 0.25 mg/day,432\
+diagnosed with diabetes,432\
+phendimetrazine replaced with GLP-1 agonist,432\
+no recurrence on follow-up CT,9480\
+asymptomatic during follow-up,9480

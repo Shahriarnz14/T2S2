@@ -1,0 +1,72 @@
+event,time
+47 years old,0
+female,0
+hypertensive,0
+chronic kidney disease-5,0
+hemodialysis thrice weekly,0
+cough with expectoration,-504
+breathlessness,-504
+fever,-240
+amlodipine,-168
+erythropoietin,-168
+imipenem,-168
+HD,-168
+supportive care for CKD,-168
+conscious,0
+well-oriented,0
+heart rate 116 beats/min,0
+blood pressure 108/66 mmHg,0
+temperature 100.2°F,0
+respiratory rate 34/min,0
+accessory muscle use,0
+bilateral vesicular breath sounds,0
+decreased air entry,0
+occasional coarse crepts in right lower zone,0
+right lower lobe consolidation/collapse,0
+pleural effusion,0
+sterile blood cultures,0
+sterile urine cultures,0
+imipenem 500 mg BID,-72
+clinical deterioration,72
+"total leukocyte count 28,600/mm³",72
+repeat blood cultures,72
+teicoplanin,72
+caspofungin,72
+gram-negative coccobacilli in blood,96
+Acinetobacter baumannii,96
+colistin loading dose 2 MU,96
+colistin 1 MU OD,96
+fever decreasing,168
+total leukocyte count decreasing,168
+caspofungin de-escalated,168
+imipenem stopped,240
+low-grade fever,240
+alternate day HD,240
+facial twitching,384
+circumoral twitching,384
+neck twitching,384
+seizure,384
+midazolam 1 mg,384
+phenytoin 1 g,384
+phenytoin 100 mg BID,384
+generalized tonic-clonic seizure,384
+midazolam 2 mg,384
+levetiracetam 1 g,384
+levetiracetam 500 mg BID,384
+no metabolic derangements,384
+normal liver profile,384
+normal brain MRI,384
+normal EEG,384
+normal nerve conduction velocity,384
+clear CSF,384
+normal CSF pressure,384
+CSF glucose 56 mg/dl,384
+CSF proteins 37 mg/dl,384
+CSF TLC 0,384
+imipenem stopped 8 days prior,384
+colistin considered causative,384
+colistin stopped,384
+sterile blood cultures after 48h,480
+no seizure recurrence,480
+antiepileptics tapered,480
+discharged,792

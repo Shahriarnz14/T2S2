@@ -1,0 +1,54 @@
+event,time
+stabs herself in the abdomen with a kitchen knife ,-1.0
+admitted to emergency department ,0.0
+blood pressure could not be measured ,0.0
+pulseless electrical activity ,0.0
+body temperature was 35.0 °C ,0.0
+oxygen saturation was 99 % ,0.0
+Glasgow Coma Scale score of 3 ,0.0
+agonal respiration ,0.0
+wound measuring 5 cm on upper abdomen ,0.0
+intra-abdominal fluid collection ,0.0
+emergency thoracotomy ,0.5
+aortic cross-clamping ,0.5
+open cardiac massage ,0.5
+administration of epinephrine ,0.5
+temporary return of spontaneous circulation ,1.0
+hemodynamically unstable ,1.0
+laparotomy ,1.0
+injuries to common hepatic and splenic arteries ,1.0
+"injuries to pancreas, spleen, and liver ",1.0
+ligation of injured arteries ,1.0
+distal pancreatectomy ,1.5
+splenectomy ,1.5
+liver sutured ,1.5
+administration of norepinephrine ,1.5
+second-look surgery ,24.0
+no active bleeding or ischemic change ,24.0
+no vasopressor requirement ,72.0
+abdominal wall closure ,72.0
+enhanced computed tomography scan ,96.0
+disruption of celiac artery ,96.0
+gastroduodenal artery arising from superior mesenteric artery ,96.0
+gastroscopy ,216.0
+patchy mucosal necrosis on gastric upper body ,216.0
+conservative treatment ,216.0
+fever of 39 °C ,552.0
+pain in stomach ,552.0
+"white blood cell count of 34,000/mm3 ",552.0
+C reactive protein of 13.4 mg/dL ,552.0
+CT scan ,552.0
+air in gastric wall ,552.0
+intra-abdominal free air ,552.0
+gastric necrosis ,552.0
+emergency surgery ,552.0
+total gastrectomy with Roux-en-Y reconstruction ,552.0
+histological findings of stomach ,552.0
+diffuse necrotic changes ,552.0
+inflammatory cell infiltrations ,552.0
+no evidence of invasive fungal infection ,552.0
+leakage on duodenal stump ,696.0
+continuous tube drainage ,696.0
+sepsis due to multidrug-resistant Pseudomonas aeruginosa infection ,1680.0
+disseminated intravascular coagulation ,1680.0
+death ,1680.0

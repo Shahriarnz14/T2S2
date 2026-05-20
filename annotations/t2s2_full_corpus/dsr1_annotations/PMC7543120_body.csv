@@ -1,0 +1,81 @@
+event,time
+66 years old,0
+male,0
+diabetes mellitus type 2,0
+hypertension,0
+dyslipidemia,0
+dry cough,-168
+mild shortness of breath,-168
+fever,-168
+chest X-ray unremarkable,-168
+discharged home,-168
+RT-PCR positive for SARS-CoV-2,-168
+worsening shortness of breath,-24
+transferred to institution,-24
+blood pressure 128/77 mm Hg,0
+heart rate 84 beats/minute,0
+respiratory rate 32 beats/minute,0
+temperature 36.2 °C,0
+oxygen saturation 98% on 6 liters of oxygen,0
+admitted to ICU,0
+hydroxychloroquine,0
+azithromycin,0
+IV ceftriaxone,0
+respiratory distress,96
+severe hypoxia,96
+oxygen saturation 40%,96
+hemodynamically unstable,96
+blood pressure 50/31 mm Hg,96
+intubated,96
+resuscitated with 2 liters IV fluid boluses,96
+norepinephrine,96
+vasopressin,96
+epinephrine infusion,96
+point-of-care cardiac ultrasonography,96
+severely reduced LVEF,96
+dobutamine,96
+arterial blood gas pH 7.17,96
+PaCO2 48,96
+PaO2 69,96
+bicarbonate 19 mmol/L,96
+PaO2/FiO2 ratio 69,96
+severe ARDS,96
+chest X-ray worsening patchy and confluent opacities,96
+ECG sinus tachycardia,96
+ECG low voltage complexes,96
+ECG nonspecific T-wave abnormalities,96
+troponin T 0.39 ng/mL,96
+NT-proBNP 798 pg/mL,96
+transthoracic echocardiography LVEF 32%,120
+global LV hypokinesia,120
+ferritin 100586 ng/mL,120
+LD >25000 U/L,120
+D-dimer 6.99 µg/mL,120
+CRP 278.4 mg/L,120
+weaned off norepinephrine,96
+weaned off vasopressin,96
+weaned off epinephrine infusion,96
+mechanical ventilation,96
+IV vancomycin,96
+IV cefepime,120
+IV diuretics,120
+convalescent plasma day 5,120
+convalescent plasma day 6,144
+convalescent plasma day 12,288
+dobutamine discontinued day 8,192
+troponin T 0.05 ng/mL,192
+NT-proBNP 26 pg/mL,192
+ferritin 4320 ng/mL,192
+CRP 69.7 mg/L,192
+D-dimer 2.38 µg/mL,192
+LD 427 U/L,192
+repeat echocardiography LVEF 60-65%,240
+normal LV systolic function,240
+no wall motion abnormalities,240
+extubated day 15,360
+COVID-19 RT-PCR negative day 19,456
+discharged home,504
+no myocarditis evaluation,192
+no interleukin-6 testing,192
+no steroid treatment,192
+no myocardial injury,240

@@ -1,0 +1,40 @@
+{
+  "man_loc": "/mnt/c/Research/t2s2/annotations/sepsis-100/sepsis-100_gpt5_tts/",
+  "ref_locs": [
+    "/mnt/c/Research/t2s2/annotations/sepsis-100/sepsis-100_dsr1_tts/",
+    "/mnt/c/Research/t2s2/annotations/sepsis-100/sepsis-100_l3370b_tts/",
+    "/mnt/c/Research/t2s2/annotations/sepsis-100/sepsis-100_l3170b_tts/",
+    "/mnt/c/Research/t2s2/annotations/sepsis-100/sepsis-100_mixtral87b_tts/",
+    "/mnt/c/Research/t2s2/annotations/sepsis-100/sepsis-100_l318b_tts/"
+  ],
+  "pilot_names": [
+    "DeepSeek-R1",
+    "L3.3 70B",
+    "L3.1 70B",
+    "Mixtral 8x7B",
+    "L3.1  8B"
+  ],
+  "man_suffix": ".csv",
+  "ref_suffix": ".csv",
+  "approach": "strcmp",
+  "use_lap": false,
+  "event_match": false,
+
+  "distance": {
+    "method": "embedding_cosine",
+    "threshold": 0.1
+  },
+
+  "out": {
+    "relfolder": "matches",
+    "folder": "/mnt/c/Research/t2s2/results/compare_outputs_sepsis100_greedy/",
+    "event_out_locs": "/mnt/c/Research/t2s2/results/compare_outputs_sepsis100_greedy/event_outputs/"
+  },
+
+  "bootstrap": {
+    "n_boot": 200,
+    "ci_alpha": 0.05,
+    "seed": 1,
+    "out_csv": "bootstrap_summary.csv"
+  }
+}

@@ -1,0 +1,61 @@
+event,time
+66 years old,0
+female,0
+smoker,0
+referred to emergency department,0
+colonoscopy,-504
+removal of two serrated polyps,-504
+generalized weakness,-168
+fatigue,-168
+hypotension,0
+blood pressure 60/30 mmHg,-24
+fever,-120
+confusion,0
+lethargy,0
+temperature 98.1 °F,0
+blood pressure 74/45 mmHg,0
+heart rate 99 beats/min,0
+respiratory rate 18 breaths/min,0
+diffuse abdominal tenderness,0
+bilateral costovertebral angle tenderness,0
+bowel sounds present,0
+"WBC count 28,700/mm³",0
+left shift,0
+normocytic anemia,0
+hemoglobin 8.3 g/dL,0
+IV normal saline 2L,0
+blood pressure improved to 105/60 mmHg,0
+blood cultures obtained,0
+urine cultures obtained,0
+ceftriaxone started,0
+transferred to medical ICU,0
+contrast-enhanced CT abdomen/pelvis,0
+multiple hepatic abscesses,0
+perihepatic abscesses,0
+right lower quadrant abscess,0
+interventional radiology consulted,0
+surgery consulted,0
+four intraabdominal drains placed,0
+750 cc pus drained,0
+ceftriaxone discontinued,0
+IV meropenem started,0
+IV vancomycin started,0
+IV metronidazole started,0
+pus culture heavy growth Streptococcus constellatus,72
+meropenem discontinued,72
+vancomycin discontinued,72
+ceftriaxone restarted,72
+metronidazole continued,72
+improved alertness,72
+improved appetite,72
+decreased abdominal tenderness,72
+WBC count decreased,168
+decreased fluid drainage (<10 cc/24h),168
+repeat CT abdomen/pelvis,168
+residual liver abscess 2 cm,168
+three drains removed,168
+hepatic dome drain left,168
+last drain removed,336
+PICC placed,336
+discharged,360
+CT abdomen/pelvis resolution of abscesses,672

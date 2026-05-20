@@ -1,0 +1,61 @@
+event,time
+61-year-old,0
+African American,0
+female,0
+end-stage renal disease,0
+adult polycystic kidney disease,0
+living-related kidney transplant in 2004,0
+presented to emergency room,0
+fever,-120
+diarrhea,-120
+nausea,-120
+diarrhea resolved,0
+nausea resolved,0
+attended funeral,-240
+denied cough,0
+denied shortness of breath,0
+denied chest pain,0
+denied abdominal pain,0
+denied vomiting,0
+denied fatigue,0
+denied myalgia,0
+denied headache,0
+hypertension,0
+gout,0
+histoplasmosis,0
+tacrolimus 0.5 mg twice a day,0
+mycophenolate mofetil (MMF) 250 mg twice a day,0
+prednisone 5 mg daily,0
+itraconazole 100 mg twice a day,0
+allopurinol 100 mg daily,0
+labetalol 100 mg twice a day,0
+hydralazine 100 mg 3 times a day,0
+febrile 103 °F,0
+pulse rate 87 beats per minute,0
+blood pressure 151/85 mmHg,0
+respiratory rate 24 breaths per minute,0
+oxygen saturation 92-97% on room air,0
+respiratory distress,0
+decreased breath sounds left chest,0
+baseline creatinine 1.4 g/dL,0
+urinalysis 2+ protein,0
+urinalysis negative for blood,0
+urinalysis negative for red blood cells,0
+chest X-ray mild mid to lower lung infiltrate bilaterally,0
+CT chest scattered rounded ground glass opacities lingula left lung,0
+CT chest consolidative opacities middle lobe right lung,0
+CT chest segmental lung consolidation dependent portion lower lobes,0
+started ceftriaxone,0
+started azithromycin,0
+started intravenous fluids,0
+started antipyretics,0
+MMF held,0
+tacrolimus continued,0
+prednisone continued,0
+COVID-19 PCR positive,0
+required oxygen 2-3 L,0
+no oxygen requirement after 2 days,48
+fever resolved,48
+discharged,120
+MMF restarted,120
+doing well after discharge,264

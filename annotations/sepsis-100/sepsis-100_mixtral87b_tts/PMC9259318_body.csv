@@ -1,0 +1,99 @@
+event,time
+67-year-old ,0
+man ,0
+mucosal resection for early gastric cancer ,-730
+partial resection for left lung cancer ,-730
+no heart disease ,0
+conventional drugs ,0
+collected knee-high wild grass from a riverbed ,-672
+developed systemic pain and fatigue ,-42
+developed fever ,-42
+chills ,-42
+watery diarrhea ,-42
+loss of appetite ,-42
+mildly disturbed consciousness ,-42
+visited the department of internal medicine ,-21
+decreased white blood cells ,-21
+platelet counts ,-21
+elevated hepatic enzyme levels ,-21
+referred to our department ,-21
+hospitalized ,0
+height of 169.0 cm ,0
+body weight of 52.3 kg ,0
+"Glasgow Coma Scale of 14: E3, V5, M6 ",0
+blood pressure of 130/79 mmHg ,0
+heart rate (HR) of 96/min ,0
+respiratory rate (RR) of 20/min ,0
+O2 saturation (SPO2) of 94% in room air ,0
+temperature of 38.9°C ,0
+no remarkable head-and-neck or chest abnormalities ,0
+crusted skin lesions on the medial surface of the left thigh ,0
+freely movable adenopathy of approximately 2 cm in size without tenderness ,0
+aggregated papules in the right inguinal region ,0
+no remarkable neurological abnormalities ,0
+"blood count was 1,300 /μL WBC ",0
+"platelets was 30,000 /μL ",0
+neutrophil count was considerably low at 899 /μL ,0
+lymphocyte count was 342 /μL ,0
+activated partial thromboplastin time (APTT) of 48.2 seconds ,0
+C-reactive protein (CRP) levels at 1.3 mg/dL ,0
+elevations in concentrations of aspartate aminotransferase (AST) at 230 U/L ,0
+lactate dehydrogenase (LDH) at 760 U/L ,0
+creatine kinase (CK) at 746 U/L ,0
+chest radiography and electrocardiography were normal ,0
+simple head-and-neck computed tomography (CT) scan revealed no remarkable abnormalities ,0
+"given the physical and laboratory findings, on day 1 of hospitalization, we suspected sepsis and febrile neutropenia (FN) ",0
+administered antibiotics until the neutropenia resolved ,0
+"on day 2 of hospitalization, his blood test results revealed elevated ferritin levels of 15,165 ng/mL ",48
+screened closely for potential antibodies specific for cytomegalovirus and Epstein-Barr virus (EBV) ,48
+blood culture was also negative ,48
+performed a bone marrow biopsy ,48
+sample revealed hemophagocytosis ,96
+immunohistological examination revealed a high number of CD3- and CD4-positive T cells ,96
+multiple myeloma oncogene 1 (MUM-1)-positive lymphoid cells ,96
+"CD68, CD163-positive histiomonocytes ",96
+no EBV-encoded small RNAs (EBERs)-positive cells were detected ,96
+diagnosed with HLH ,168
+administered prednisolone (PSL) at 60 mg/day (1 mg/kg/day) ,168
+gradually tapered along the clinical course ,168
+stopped on day 12 of administration ,264
+"developed chest pain, shivering, and fever of 39.2°C ",72
+blood pressure at 88/52 mmHg ,72
+HR at 89/min ,72
+RR at 24/min ,72
+SPO2 at 94% (6-L mask for oxygen administration) ,72
+elevated CK levels at 953 U/L ,72
+"LDH at 1,405 U/L ",72
+high-sensitivity troponin I (TnI) at 271 pg/mL ,72
+transthoracic echocardiography showed severe left ventricular dysfunction ,72
+LVEF of 15% ,72
+electrocardiogram (ECG) showed a slight ST elevation in the V1-2 leads ,72
+contrast-enhanced CT of the chest and abdomen showed no remarkable abnormalities ,72
+fulfilled the diagnostic criteria of clinically suspected myocarditis ,72
+acute myocarditis was suspected ,72
+did not perform coronary angiography (CAG) or EMB at this moment ,72
+continued respiratory and circulatory management and infection control in the ICU ,72
+TnI peaked at 82.6 pg/mL ,96
+submitted his serum and urine samples and throat swabs to a responsible public health center ,96
+moved him to negative-pressure room ,96
+RT-PCR analysis of the submitted serum detected 1.77×106 SFTSV RNA copies/mL ,120
+submitted pathological sections of his bone marrow to the Division of Virology at the National Institute of Infectious Disease ,120
+found infected cells that were stained positively by an anti-SFTSV-nucleoprotein (N) antibody ,120
+considered steroid pulse therapy for HLH with SFTS ,168
+did not proceed with it due to concerns regarding the risks of further immune deficiency and secondary infections ,168
+withdrew from circulatory agonist and ventilator management ,336
+ECG showed improvement of ST elevation in the V1-2 leads ,336
+re-submitted his serum and confirmed negativity for viremia ,360
+performed CAG and EMB due to an insufficient improvement in his LVEF ,504
+no coronary artery stenosis was observed on CAG ,504
+pathological evaluation of the EMB specimen revealed that the myocardium was mildly hypertrophic ,504
+mild myofibrillar loss and disarrangement ,504
+active mononuclear cell infiltration adjacent to the damaged myocardium was not observed ,504
+immunohistochemistry revealed increases in the number of CD3-positive T cells (10/mm2) ,504
+CD68-positive macrophages (18/mm2) ,504
+tenascin-C expression in the stroma ,504
+immunostaining revealed increases in CD3-positive (T-cells) ,504
+CD68-positive cells (macrophages) ,504
+discharged on day 29 of hospitalization ,624
+"on a follow-up visit 1 month after discharge, transthoracic echocardiography showed a slight improvement with an EF of 52.5% ",696
+no heart failure thereafter ,696

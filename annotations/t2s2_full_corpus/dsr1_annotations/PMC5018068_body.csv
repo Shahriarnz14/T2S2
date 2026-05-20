@@ -1,0 +1,85 @@
+event,time
+55 years old,0
+female,0
+hepatitis C,0
+intra-venous drug use,0
+alcohol abuse,0
+Child-Pugh B liver cirrhosis,0
+abdominal pain,0
+diarrhea,0
+fevers,0
+confusion,0
+no history of colonic disease,0
+CT abdomen demonstrated mildly dilated proximal large bowel,0
+stool PCR positive for campylobacter species,0
+azithromycin,0
+ceftriaxone,0
+metronidazole,0
+intravenous fluids,0
+electrolyte replacement,0
+deteriorated,24
+admission to intensive care unit,24
+aspiration pneumonitis,24
+type 2 myocardial infarction,24
+renal failure,24
+metabolic acidosis,24
+intubation,24
+vasopressors,24
+dialysis,24
+transthoracic echocardiography,24
+lumbar puncture,24
+blood cultures,24
+"CT scans of head, chest, abdomen, pelvis",24
+no alternative source of sepsis,24
+antibiotics escalated to piperacillin/tazobactam,24
+day 16 of admission,384
+bloody diarrhea,384
+ongoing refractory multi-organ dysfunction,384
+CT abdomen demonstrated colonic wall thickening,384
+upper endoscopy excluded varices and ulcers,384
+transferred to tertiary hospital,384
+emergent laparotomy,384
+viable mildly dilated colon,384
+clear ascites,384
+"no evidence of ischemia, necrosis, perforation",384
+nodular liver,384
+normal bowel,384
+flexible sigmoidoscopy,384
+discontinuous areas of non-bleeding ulcerated mucosa,384
+biopsies taken,384
+discussed with intensive care and infectious diseases teams,384
+findings consistent with infective colitis,384
+septic shock,384
+MODS,384
+returned to ICU,384
+"antibiotics changed to daptomycin, ciprofloxacin, fluconazole, metronidazole",384
+deteriorated over next 12 hours,408
+worsening hemodynamic instability,408
+increasing noradrenaline,408
+increasing vasopressin,408
+re-look laparotomy,408
+grossly dilated colon,408
+no perforation,408
+no full thickness ischemia,408
+subtotal colectomy,408
+end ileostomy,408
+distal sigmoid mucous fistula,408
+immediate postoperative improvement,408
+vasopressin ceased,408
+noradrenaline infusion halved,408
+post-operative day 3,456
+escalating vasopressor requirements,456
+acidosis,456
+liver failure,456
+respiratory failure,456
+died,480
+histology showed infectious colitis,480
+histology showed ischemia,480
+macroscopic mucosal ulceration,480
+microscopic congestion,480
+neutrophilic infiltration,480
+fibrin thrombi,480
+no architectural distortion,480
+no cryptitis,480
+no crypt abscesses,480
+no features of inflammatory bowel disease,480

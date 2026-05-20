@@ -1,0 +1,69 @@
+Introduction
+The spleen functions as a filter for microbial agents in the bloodstream, especially non-opsonized encapsulated bacteria. The polysaccharide capsule enables the bacteria to avoid phagocytosis by polymorphonuclear leucocytes and macrophages, unless the host has type-specific antibodies due to previous infection or vaccination [1, 2]. Therefore, when the spleen is removed, the patient becomes more susceptible to blood-borne microbes. Streptococcus pneumoniae is a gram-positive encapsulated coccus and is known to pose an increased threat to splenectomized persons. More than 90 different capsule types have been identified, and several vaccines have been developed. The 23-valent pneumococcal polysaccharide vaccine (PPV23) covers the 23 most common capsule types (1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33F) to cause invasive pneumococcal disease (IPD), and is generally recommended to persons that undergo splenectomy [3, 4].
+
+In Denmark, PPV23 has been advised for this group of patients by the Danish Health and Medicines Authority (Sundhedsstyrelsen) since 1983. From October 2012, the recommendations have also included vaccination with a 13-valent pneumococcal protein conjugate vaccine (PCV13) [5, 6]. Additionally, it is recommended that splenectomized persons have their anti-pneumococcal IgG levels against the vaccine serotypes measured at least every 5 years, upon initial vaccination [7]. This is done in order to determine whether antibody levels are insufficient and revaccination is required, as a study has shown that 37% of splenectomized patients lose approximately 1/3 of their initial vaccine-induced anti-pneumococcal IgG within 2 years [5, 8].
+
+Case report
+A 63-year-old woman presented with a two-day history of general body malaise, diarrhea, vomiting, and influenza-like symptoms. On the day of hospital admission, she had become increasingly more confused.
+
+Past medical history included splenectomy 43 years earlier due to idiopathic thrombocytopenic purpura and menometrorhagia. She had been vaccinated with PPV23, and her antibody response to the vaccine had been tested according to the recommendations of the Danish Health and Medicines Authority (Sundhedsstyrelsen), 4 months prior to this incident, and was found to be adequate [6, 7].
+
+Examination showed fever (41.1 °C), hypotension (62/52 mmHg), bradycardia (35 beats per minute), tachypnea (34 breaths per minute), decreased oxygen saturation (92% on room air), and cyanosis of the lips and distal extremities. There was no sign of neck stiffness or any other meningeal reactions. Cardiac and pulmonic auscultations were normal. The abdomen was soft and not tender on palpation.
+
+She was diagnosed with severe sepsis. Volume therapy was started, and upon blood cultures, broad-spectrum antimicrobial therapy (cefuroxim, gentamicin, metronidazole) and hydrocortisone were commenced.
+
+Laboratory studies showed the following: white blood cell count, 27.5 × 109/l; neutrophils, 20.63 × 109/l; hemoglobin, 8.6 mmol/l; thrombocytes, 92 × 109/l; C-reactive protein (CRP), 224.2 mg/l; P-lactate, 4.8 mmol/l; aB-P-O2, 21.2 kPa; aB-P-CO2, 2.5 kPa; aB-pH, 7.5, and Streptococcus pneumococcal urinary antigen test was positive. Chest x-ray showed discrete pulmonic stasis.
+
+After initial treatment, the patient was transferred to the intensive care unit (ICU) for further treatment. She developed disseminated intravascular coagulation and microthrombi in the hands and feet.
+
+Within 48 h, blood cultures showed growth of S. pneumoniae and the antimicrobial treatment was changed to penicillin G, as minimal inhibitory concentration (MIC) for penicillin for the pneumococcal isolate was <0.1 μg/ml.
+
+Day 3 of admission, suspicion of endocarditis was raised, on grounds of the culture of S. pneumoniae. Trans-thoracic echocardiography (TTE) showed modest hypokinesia of the apical part of the left ventricle and ejection fraction of 45%, but was otherwise normal, and endocarditis was dismissed. The clinical condition was complicated by emerging necrosis of the fingertips and toes, and renal insufficiency treated with hemodialysis. Antibiotic therapy was altered to ceftriaxone, instead of penicillin, due to the renal insufficiency.
+
+On day 4, leucocytes and CRP decreased, and fever dissolved. Tracheal secret for culture had been obtained after instigation of antibiotics, and the culture was negative.
+
+On day 9, the patient was transferred from the ICU to the medical department, and antibiotics were stopped. Serological analysis of the pneumococcal isolate showed serotype 12F (which is included in PPV23).
+
+The following 11 days she remained afebrile with fluctuating CRP and her condition improved clinically.
+
+On day 22, she was discharged with oral dicloxacillin for 10 days due to raised leucocytes and CRP. The site of current infection was suspected to be the necrotic tissue on fingers and toes, where wound cultures had shown Staphylococcus aureus and haemolytic streptococci group C/G. A new TTE was unchanged.
+
+Three months later, several necrotic fingers and toes were amputated.
+
+Five months after initial admission, she was readmitted with severe sepsis. Sepsis regimen and ceftriaxone therapy were started. This time, a transesophageal echocardiography (TEE) revealed endocarditis with several moving elements on the aortic valve. Again, blood cultures showed growth of S. pneumoniae, and the antimicrobial treatment was altered to penicillin G, as MIC for penicillin for the pneumococcal isolate was <0.1 μg/ml.
+
+Ultimately, she was treated conservatively with penicillin G for 4 weeks according to the Danish National Cardiology Guidelines [9] and recovered.
+
+On each event of pneumococcal sepsis, serological tests of the pneumococcal capsule polysaccharides (PCPs) were performed. The tests revealed serotype 12F on both occasions, despite the fact that she had been vaccinated specifically for serotype 12F through PPV23. Moreover, a confirmative test had concluded that she had reacted with sufficient antibodies to the vaccine [10].
+
+Therefore, we performed three subsequent serological analyses to investigate whether the patient was able to respond to serotype 12F with antibodies, at all. The three blood samples had been obtained, respectively: 18 months before the first IPD episode, in between the two episodes, and 1 year after the second IPD episode. All showed that she had antibodies to 12F (Table 1). On this basis, we can conclude that she was capable of responding to serotype 12F, but clearly, the antibody response was not great enough to avoid IPD.
+
+Method
+In Denmark, the pneumococcal antibody analysis is carried out by the National Reference Laboratory, Statens Serum Institut (SSI). The analysis is based on microsphere flow cytometric (Luminex) technology, previously described by Lal et al. [11]. Briefly, PCP is conjugated to poly-L-lysine (PLL), and these complexes are conjugated to carboxylated microspheres. Subsequently, human serum is added, and bound antibodies are detected by adding an R-phycoerythrin conjugated anti-human IgG. Values are measured in median fluorescence intensity and converted into μg/ml by five parameters logistic regression of a seven-point fourfold diluted standard curve, based on standard serum calibrated to FDA 89SF reference serum [12]. The assay detects anti-pneumococcal IgG antibody levels for 12 of the serotypes (1, 3, 4, 5, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F) included in PPV23. The analysis outcome is the fluorescence intensity and is converted into an arbitrary unit of antibody per milliliter. Then, the geometric mean for the IgG serotypes is calculated. Finally, the assay result is compared to the SSI’s in-house reference serum for the 12 serotypes (titer cut-offs), and the relation between the two determines whether vaccination/revaccination is recommended [13].
+
+The reason that only 12 of the serotypes are measured is that there are no titer cut-offs available at present for the remaining 11 serotypes, neither nationally nor internationally.
+
+The test result is reported by the SSI as either “the patient is protected” or “revaccination is recommended”.
+
+Consequently, the test result reflects the antibody levels of only half of the serotypes included in PPV23. However, this is not specified in the answer to the clinician and therefore may be overlooked and lead to the misinterpretation that the patient is fully covered for all the PPV23 serotypes.
+
+Discussion
+The immunogenicity of PPV23 has been investigated by several studies. One of the most conspicuous findings is that revaccination with PPV23 elicits lower serotype-specific pneumococcal antibody titers than the initial PPV23 vaccination. It has also been shown that vaccination with PPV23 prior to PCV7 impairs the IgG response to PCV7, compared to the IgG response when PCV7 is administered first. However, if PCV7 is administered before PPV23, the ability to respond to the latter vaccination is maintained [14–16].
+
+These findings are in accordance with the hypothesis of hyporesponsiveness described as the inability of the individual to produce an immune response to revaccination of the same or a greater level compared to the immune response elicited by primary vaccination [17].
+
+The precise mechanism behind hyporesponsiveness is not known, but it has been suggested that the T-cell-independent immune responses that are induced by polysaccharides drives activation and differentiation of memory B cells, leading to depletion of the memory B cell pool. When the individual is re-exposed to the polysaccharide, the immune response is attenuated compared to the primary response, because the memory B cell pool is reduced, as T-cell-independent immune responses do not produce memory B cells [18].
+
+Musher et al. [19] have shown that the capacity to make IgG to PCPs is inherited as an autosomal mixed codominant trait. They also found that persons who failed to respond to individual PCPs also had reduced IgG levels to the PCPs they did respond to. Moreover, repeated vaccination with PPV23 or a five-valent PCV did not elicit any antibody response to the relevant PCPs in persons who initially did not respond to PPV23.
+
+We present a case of recurrent IPD due to S. pneumoniae serotype 12F in a splenectomized patient. The case is remarkable as the patient was vaccinated with PPV23, and a serological test concluded that she had responded sufficiently to vaccination. Still, she had a fulminate infection with PPV23 serotype 12F, and on top of this, the infection was recurrent. We investigated whether the patient was able to respond to serotype 12F with antibodies and confirmed a 12F-antibody response, thereby ruling out the possibility of an inadequacy due to genetics. However, the antibody response was not great enough to avoid IPD.
+
+Conclusion
+In conclusion, this case emphasizes that vaccination is no guarantee against infection, not even for vaccine relevant serotypes. At the same time, it illustrates the need for titer cut-offs for the remaining pneumococcal serotypes in vaccines, in order to get a more accurate estimation of the vaccination coverage for the individual patient. Therefore, more research on this area is warranted. In addition, a discussion of whether the laboratory answers to the clinicians should be more detailed is highly relevant. This may be especially important for patients at increased risk of IPD, such as the case discussed here, and others with compromised immune function [4, 20].
+
+Table 1. Display of the patient’s antipneumococcal-12F-antibodies measured in fluorescence intensity (FI) minus the background FI
+
+Time related to IPD episodes	Serotype 12F (FI)	
+Before 1st IPD episode	611.40	
+In-between IPD episodes	406.05	
+After 2nd IPD episode	974.50

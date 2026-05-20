@@ -1,0 +1,38 @@
+event,time
+71 years old,0
+female,0
+hypertension,0
+ischaemic heart disease,0
+peripheral vascular disease,0
+brought to emergency room,0
+unconscious state,0
+head computed tomographic scan,0
+stroke,0
+condition deteriorated rapidly,48
+requiring inotropic support,48
+septic shock,48
+elevated erythrocyte sedimentation rate,48
+elevated C-reactive protein,48
+blood culture yeast growth,48
+caspofungin administered,48
+died,72
+yeast isolate identified as C. parapsilosis,0
+turquoise blue colonies on CHROMagar Candida,0
+ascospores on acetate ascospore agar,168
+PCR sequencing of ITS region,168
+identified as L. elongisporus,168
+antifungal susceptibility testing,168
+amphotericin B MIC 0.012,168
+fluconazole MIC 0.125,168
+voriconazole MIC 0.004,168
+posaconazole MIC 0.003,168
+itraconazole MIC 0.008,168
+flucytosine MIC 0.064,168
+caspofungin MIC 0.064,168
+micafungin MIC 0.003,168
+no antibiotics,0
+no central lines,0
+hospitalized earlier for lower limb ischaemia,0
+discharged 2 weeks prior,0
+no apparent risk factors,0
+possible skin inoculation or gastrointestinal translocation,0

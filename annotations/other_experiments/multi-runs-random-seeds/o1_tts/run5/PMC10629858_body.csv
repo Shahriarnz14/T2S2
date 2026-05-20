@@ -1,0 +1,55 @@
+event,time
+diagnosed with lepromatous leprosy,-1440
+skin biopsy,-1440
+treatment with rifampicin/clofazimine/dapsone,-1440
+57-year-old,0
+male,0
+admitted to the hospital,0
+abdominal distension,0
+constipation,0
+vomiting,0
+10-kg weight loss,0
+vitals stable,0
+peripheral lymphadenopathy,0
+positive shifting dullness,0
+computed tomography scan of abdomen,0
+mural thickening of the terminal ileum,0
+significantly enlarged mesenteric lymph nodes,0
+mesenteric fat stranding,0
+intra-abdominal free fluid,0
+abdominal paracentesis,0
+atypically large lymphocytes,0
+flow cytometry showed an abnormal CD4/CD8 double-negative T-cell population,0
+cervical lymph node biopsy,0
+"high-grade peripheral T-cell lymphoma (PTCL), not otherwise specified",0
+bone marrow examination showed no involvement of T-cell NHL,0
+stage IV lymphoma,0
+started on dexamethasone with tumor-lysis syndrome precautions,24
+deteriorated clinically,48
+severe sepsis,48
+transfer to medical ICU,48
+antibiotics,48
+antifungals,48
+ICU stay,48
+discharged from ICU,216
+transferred to the national cancer center,216
+commenced on EPOCH chemotherapy protocol,216
+CNS prophylaxis (intrathecal methotrexate),216
+febrile neutropenia episodes,240
+recurrent bacteremia,240
+neurology team involved,300
+generalized weakness,300
+no sensory changes,300
+no clear fatigability,300
+power decreased in all proximal and distal muscles (3/5),300
+electromyogram/nerve conduction study,300
+significant incremental response on repetitive nerve stimulation,300
+likely LEMS,300
+VGCC antibodies not done,300
+started on intravenous immunoglobulins,300
+significant improvement of motor function,310
+the patient could ambulate,310
+complete metabolic remission,2232
+planned for consolidation by autologous bone marrow transplant,2500
+readmitted to the medical ICU for severe sepsis and multiorgan failure,4000
+passed away,4320

@@ -1,0 +1,50 @@
+Background
+Complete loss of insulin efficacy when treating a diabetic patient is a rare occurrence. This phenomenon has been described with animal-derived insulin via an antibody neutralization mechanism (1). By contrast, low levels of insulin antibodies have been demonstrated to occur in some patients on synthetic insulins and can have a moderate effect on insulin requirements (2). However, dramatic insulin resistance (3) via antibody neutralization has never been reported with the synthetic insulins commonly used in clinical practice (4). In clinical scenarios involving drug failure, the decision of what medication to try next can be challenging. As similar medications usually have similar results, it is tempting (and often useful) to avoid using medications in the same drug class as the failed agent. Although frequently correct, there can be key exceptions to this generalization. We encountered a unique patient who became profoundly unresponsive to glargine, aspart and regular insulin, but demonstrated an excellent response to detemir. The following case illustrates the profound impact that subtle differences in molecular structure can have on biological activity and thus patient outcomes.
+
+Case presentation
+A 71-year-old woman with chronic obstructive pulmonary disease, atrial fibrillation, bladder cancer and type 2 insulin-dependent diabetes mellitus developed a urinary tract infection (UTI) after undergoing surgery to resect her bladder tumor. The UTI progressed to sepsis, and she required transfer to the intensive care unit for stabilization. The patient was on a home dose of 30 units per day of glargine insulin and an insulin sliding scale.
+
+After admission, her blood glucose became unresponsive to her home dose of insulin, and she developed a hyperosmolar hyperglycemic state as evidenced by a normal anion gap and normal pH. Her sodium level was normal. Despite increasing her glargine dose substantially, her blood glucose remained uncontrolled. Aspart and neutral protamine Hagedorn (NPH) boluses were minimally effective as well. She was transitioned to a regular insulin drip, which although initially helpful also quickly lost efficacy. The insulin drip was titrated up to a maximum dose of 1620 units of total daily insulin, and despite this, her blood glucose remained above 400mg/dL.
+
+Investigation
+A test for insulin autoantibodies was sent and was negative (<0.4U/mL – Quest Capistrano, San Juan Capistrano, CA, USA). However, this only tests for antibodies to human insulin, and possibly by extension regular insulin because their chemical structures are identical. There are no commercially available tests for antibody response to synthetic insulin at this time.
+
+Treatment
+There were two theories to explain the lack of insulin efficacy in our patient: (i) the insulin she was receiving was being intercepted and somehow neutralized before it could get to its binding site, thus preventing it from taking effect, or (ii) the receptor site for the insulin in the patient was somehow being blocked, thus preventing the insulin from binding and triggering its effect.
+
+Along the lines of the first possibility, if the patient was producing neutralizing antibodies to the insulin, this could explain the inability of the insulin to take effect. If this was the case, if an insulin to which the patient was naïve could be identified, it might also have key structural differences that prevent antibody detection. These structural differences might allow the new insulin to ‘fly under the radar’ and circumvent her immune response, thus allowing the insulin to bind, take effect and reestablish control of her blood glucose. Three insulins to which she was naïve were identified: detemir, NPH and glulisine. The decision was made to try her on detemir.
+
+After administration of just one dose of 40 units of detemir, the patient’s blood glucose dropped 292mg/dL in a 24-h period (Fig. 1). Detemir was titrated to an optimal dose, whereas the insulin drip was down-titrated and discontinued.
+Figure 1 Blood glucose level in relationship to various insulins given to our patient and dietary regimens. Blood glucose levels were obtained via a combination of once-daily blood draws and fingerstick point-of-care measurements. Large arrow indicates the initial detemir dose; small arrows indicate subsequent detemir doses.
+
+
+
+
+Outcome and follow-up
+For the 7days before discharge from the intensive care unit, the patient’s average daily blood glucose was ideally maintained at 181mg/dL (5), and she was transferred to the ward on only 55 units of detemir in the morning and 45 units at night. She was ultimately discharged to a rehabilitation facility on 55 units of detemir twice daily, with blood sugars maintained between 100 and 200mg/dL while on the general medical ward.
+
+Discussion
+The mechanism for the increased sensitivity to detemir is unclear. As mentioned previously, one possible explanation may involve the production of antibodies by the patient to the insulin molecules (1, 2); detemir differs from glargine, aspart and regular insulin by an additional carbon side chain, which may have shielded it from neutralization due to these antibodies. Recent studies have in fact shown that detemir is less immunogenic than glargine and aspart (2). The carbon chain may have allowed detemir to avoid immune detection by functioning similar to a protecting group as used in organic chemistry (6, 7), although this theory is yet to be confirmed by laboratory testing (Fig. 2).
+Figure 2 Theoretical mechanism for the efficacy of detemir. Top Panel: Possible antibody binding sites on glargine and regular insulin (gray stars/gray lettered amino acids indicate the amino acids that are added to the regular insulin backbone to make glargine). Adapted from (8) Bottom Panel: The black arrow indicates an added carbon chain contained on detemir that is not present on the regular/glargine insulin parent structure. The electron cloud on the added carbon chain on detemir may use magnetic repulsion (steric hindrance) to repel antibodies from binding to the antigenic site, thus acting as a protecting group.
+
+
+
+
+Although the structure dictates function, and similar structures tend to have similar functions, they do not always have identical functions. There are many examples in medicine, such as citalopram and escitalopram for treatment of depression, l-dopa for treatment of Parkinson’s disease, and sotalol for arrhythmia management, where two very similar molecules have very different biological activity (4, 9). These small differences can have significant ramifications for our patients, as they can determine whether a patient is improved by our interventions or not.
+
+Subtle changes in molecular structure can have a profound impact on biological activity. Although it is very useful to place similarly structured medications into groups, and in general, they will have similar biological activity, there can be key exceptions. Poor outcomes with one medication should not be used to rule out the efficacy of all related medications.
+
+Declaration of interest
+The authors have no conflicts of interest.
+
+Funding
+The authors have no financial disclosures.
+
+Patient consent
+Not available, as patient is unfortunately deceased. Her death occurred during a subsequent hospitalization for acute respiratory failure.
+
+Author contributions
+S M K and J A C both helped care for this patient. S M K wrote the article and J A C gave editorial feedback. S M K is the guarantor of this work and, as such, had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Acknowledgements
+We thank Drs Steven Aronin and Ruth Weissberger for additional manuscript review and feedback. We also thank the Waterbury Hospital and Yale–New Haven Hospital communities.

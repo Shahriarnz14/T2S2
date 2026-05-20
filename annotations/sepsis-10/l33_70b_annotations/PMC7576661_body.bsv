@@ -1,0 +1,54 @@
+46 years old | 0
+female | 0
+obesity | -7200
+psoriatic arthritis | -7200
+hypoparathyroidism | -7200
+hypothyroidism | -7200
+total thyroidectomy | -7200
+multinodular goitre | -7200
+elective sleeve gastrectomy | 0
+gastric perforations | 0
+friable mucosa | 0
+abdominal sepsis | 4
+transfer to intensive care | 4
+critically low calcium level | 4
+ionised calcium 0.78 mmol/L | 4
+continuous intravenous calcium gluconate infusion | 4
+normocalcaemia | 4
+prolonged ICU admission | 4
+abdominal operations | 4
+intravenous medication | 4
+intravenous nutrition | 4
+weight loss 14 kg | 120
+endocrinology advice | 14
+hypoparathyroidism management | 14
+hypothyroidism management | 14
+TSH 5.83 mU/L | 14
+intravenous triiodothyronine | 14
+euthyroidism | 28
+high dose intravenous calcium | 28
+ionised calcium measurement | 28
+serum phosphate level 1.07 mmol/L | 28
+intravenous calcitriol | 42
+limited stock | 47
+high cost | 47
+intramuscular cholecalciferol | 56
+low 1,25(OH)vitamin D3 level | 56
+normal renal function | 56
+eGFR > 90 mL/min/1.73 m2 | 56
+intravenous calcium gluconate | 84
+intravenous calcitriol | 84
+reduced calcium gluconate requirements | 84
+intramuscular thyroxine | 90
+intravenous thyroxine | 94
+maintenance schedule | 120
+normocalcaemia | 120
+hypothyroidism control | 120
+discharge | 672
+oral intake | 672
+calcitriol dose | 672
+increased calcium dose | 672
+normocalcaemia | 744
+weight 71.8 kg | 744
+BMI 29 kg/m2 | 744
+follow-up | 744

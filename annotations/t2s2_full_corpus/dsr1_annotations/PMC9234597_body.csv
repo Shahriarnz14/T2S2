@@ -1,0 +1,149 @@
+event,time
+44-year-old man,0
+alcoholic liver cirrhosis,-6
+decompensated alcoholic liver cirrhosis,-6
+one day history of worsening jaundice,-24
+one day history of diffuse abdominal pain,-24
+one day history of subjective fevers,-24
+one day history of progressive erythema in left leg,-24
+one day history of dull right shoulder pain,-24
+denied recent trauma,0
+denied prolonged immobilization,0
+regular 2–4 soft consistency bowel movements per day,0
+denied insomnia,0
+denied confusion,0
+resided in Wisconsin,0
+lived with one dog,0
+lived with three cats,0
+no animal bites,0
+no animal scratches,0
+chronic left leg wound,-1008
+chronic venous stasis,-1008
+chronic thrombocytopenia,-1008
+anemia of chronic disease,-1008
+portal hypertensive gastropathy,-1008
+esophageal varices grade 1,-1008
+recurrent ascites,-1008
+weekly paracentesis,-1008
+last paracentesis 6 days before admission,-144
+no history of prior SBP,0
+low total protein ascites,0
+not on SBP prophylaxis,0
+non-compliance,0
+temperature 38.4°C,0
+blood pressure 160/65 mmHg,0
+heart rate 114 beats per minute,0
+respiratory rate 22 breaths per minute,0
+oxygen saturation normal,0
+alert,0
+pale,0
+icteric,0
+distressed due to abdominal pain,0
+dry mucous membranes,0
+supple neck,0
+normal heart exam,0
+normal lung exam,0
+distended abdomen,0
+positive ascitic wave,0
+diffuse abdominal tenderness,0
+no guarding,0
+no rebound,0
+bilateral pitting edema,0
+left leg predominant edema,0
+open wound with irregular borders,0
+yellowish secretion,0
+black discoloration,0
+surrounding erythema extending to posterior left thigh,0
+palpable distal pulses,0
+non-tender right shoulder,0
+no joint tenderness,0
+hemoglobin 9.3 g/dL,0
+platelet count 86 ×10^9/L,0
+leukocytosis 17.0 ×10^9/L,0
+neutrophilia,0
+lactic acid 6.5 mmol/L,0
+ammonia 43 mcmol/L,0
+INR 2.2,0
+C-reactive protein 45.5 mg/L,0
+magnesium 2.2 mg/dL,0
+potassium 5.2 mmol/L,0
+sodium 136 mmol/L,0
+bicarbonate 14 mmol/L,0
+anion gap 20,0
+creatinine 1.19 mg/dL,0
+glucose 93 mg/dL,0
+AST 66 U/L,0
+ALT 26 U/L,0
+alkaline phosphatase 48 U/L,0
+total serum protein 6.5 g/dL,0
+serum albumin 3.0 g/dL,0
+LDH 273 U/L,0
+total bilirubin 5.1 mg/dL,0
+lipase 18 U/L,0
+SARS-CoV-2 PCR negative,0
+urinalysis negative for infection,0
+ascitic fluid: yellow cloudy,0
+"ascitic fluid total nucleated cells 20,375/mcL",0
+ascitic fluid 86% neutrophils,0
+ascitic fluid 14% lymphocytes,0
+ascitic fluid LDH 86 U/L,0
+ascitic fluid total protein 1.0 g/dL,0
+ascitic fluid albumin 0.5 g/dL,0
+ascitic fluid glucose 61 mg/dL,0
+ascitic fluid amylase 20 U/L,0
+ascitic fluid Gram stain negative,0
+CT abdomen/pelvis negative for infection,0
+chest x-ray negative for infiltrates,0
+left tibia/fibula x-ray no acute bone abnormality,0
+left lower extremity ultrasound negative for DVT,0
+treated with 2 liters IV fluids,0
+started on IV Ceftriaxone,0
+started on IV Vancomycin,0
+admitted to ICU,0
+diagnosis of sepsis secondary to SBP,0
+received IV albumin 1.5 g/kg on day 1,24
+received IV albumin 1 g/kg on day 3,72
+blood cultures positive for Pasteurella multocida,24
+ascitic fluid culture positive for Pasteurella multocida,24
+abdominal pain improved,24
+afebrile,24
+developed right shoulder pain on day 3,72
+right shoulder flexion/extension limitation,72
+MRI right shoulder: osteolytic change,72
+MRI right shoulder: edema at AC joint,72
+debridement and irrigation of right shoulder,96
+acute osteomyelitis of distal clavicle,96
+purulence surrounding AC joint,96
+necrotic tissue surrounding AC joint,96
+right shoulder surgical cultures negative,96
+abdominal pain improved,96
+right shoulder pain improved,96
+blood cultures obtained on day 2,48
+IV Ceftriaxone continued for 6 weeks,0
+discharged to rehabilitation facility,168
+SBP prophylaxis with Norfloxacin or Bactrim,168
+PM bacteremia,0
+cellulitis,-24
+septic arthritis,72
+disseminated PM infection,0
+spontaneous bacterial peritonitis,0
+sepsis,0
+chronic venous stasis wound,-1008
+chronic left lower extremity wound,-1008
+no deep venous thrombosis,0
+no prior SBP,0
+portal hypertension,-1008
+serum-ascites albumin gradient 2.5,0
+low ascitic fluid total protein,0
+negative Gram stain,0
+no intraabdominal infection source,0
+no pneumonia,0
+no urinary tract infection,0
+no bone abnormality on x-ray,0
+no DVT,0
+no infiltrates on chest x-ray,0
+no secondary bacterial peritonitis,0
+no Rifaximin prophylaxis,0
+no penicillin resistance,0
+no other microorganisms in culture,0
+no complications after discharge,168

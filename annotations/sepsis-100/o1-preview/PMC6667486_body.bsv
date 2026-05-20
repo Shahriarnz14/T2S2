@@ -1,0 +1,92 @@
+fever | -168  
+chills | -168  
+generalized weakness | -168  
+shortness of breath | -72  
+32 years old | 0  
+female | 0  
+admitted to hospital | 0  
+intravenous drug use | 0  
+attention deficit/hyperactivity disorder | 0  
+fentanyl intravenous abuse | 0  
+dextroamphetamine/amphetamine use | 0  
+non-smoker | 0  
+does not consume alcohol | 0  
+denies exposure to other medications | 0  
+denies exposure to chemicals | 0  
+fever | 0  
+tachycardia | 0  
+tachypnea | 0  
+oxygen saturation 94% on room air | 0  
+moderate respiratory distress | 0  
+bilateral rhonchi | 0  
+regular heart rhythm | 0  
+no murmur | 0  
+no rub | 0  
+no gallop | 0  
+leukocytosis | 0  
+anemia | 0  
+thrombocytopenia | 0  
+elevated ESR | 0  
+hyponatremia | 0  
+elevated creatinine | 0  
+elevated BUN | 0  
+elevated NT-proBNP | 0  
+sinus tachycardia | 0  
+bilateral lower lobe infiltrates | 0  
+small pleural effusions | 0  
+IV fluids administered | 0  
+levofloxacin administered | 0  
+clinical deterioration | 24  
+transferred to ICU | 24  
+septic shock | 24  
+acute respiratory failure | 24  
+pressors initiated | 24  
+mechanical ventilation initiated | 24  
+blood cultures positive for gram-positive cocci | 36  
+vancomycin started | 36  
+large tricuspid valve vegetation | 48  
+moderate-to-severe tricuspid regurgitation | 48  
+cardiothoracic surgery consulted | 48  
+patent foramen ovale with shunt | 72  
+multiple cavitary peripheral lung nodules | 72  
+septic emboli | 72  
+non-oliguric acute kidney injury | 72  
+renal replacement therapy initiated | 72  
+blood cultures grew MSSA | 96  
+oxacillin started | 96  
+patient gradually improved | 96  
+weaned off pressors | 336  
+successfully extubated | 336  
+renal function started to recover | 336  
+bilateral nontender purpuric papules on hands and feet | 384  
+no mucosal involvement | 384  
+no palmar involvement | 384  
+no abdominal pain | 384  
+no arthralgias | 384  
+no paresthesia | 384  
+no fever | 384  
+no chills | 384  
+eosinophil count normal | 384  
+negative HIV antibody | 384  
+negative hepatitis B serology | 384  
+negative p-ANCA | 384  
+negative c-ANCA | 384  
+negative cryoglobulin | 384  
+negative rheumatoid factor | 384  
+weakly positive ANA at 1:40 | 384  
+negative anti-ds DNA antibody | 384  
+low complement C3 | 384  
+normal complement C4 | 384  
+positive anti-HCV antibody | 384  
+HCV viral load 4.16×10⁵ IU/mL | 384  
+no significant changes in blood counts and kidney function | 384  
+negative bacterial culture from bullous lesion | 384  
+no organisms on gram stain of lesion | 384  
+leukocytoclastic vasculitis on skin biopsy | 384  
+oxacillin discontinued | 384  
+vancomycin started | 384  
+progressive resolution of skin lesions | 384  
+bullous lesions developed on hands and feet | 408  
+lesions on anterior knee and lateral thighs | 408  
+tricuspid valve replacement surgery performed | 672  
+no perioperative complications | 672  

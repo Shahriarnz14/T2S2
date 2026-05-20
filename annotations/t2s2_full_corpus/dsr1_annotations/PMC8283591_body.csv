@@ -1,0 +1,83 @@
+event,time
+29-year-old man,0
+unresponsive,-120
+out-of-hospital cardiac arrest,-120
+occurred during sleep,-120
+found unresponsive by wife,-120
+CPR initiated,-120
+emergently admitted to local emergency department,-120
+ventricular fibrillation,-120
+received two defibrillator-delivered electrical shocks,-120
+intubated,-120
+sinus tachycardia (120 bpm),-120
+no chest pain prior to admission,0
+no palpitations prior to admission,0
+no syncope prior to admission,0
+no SCD prior to admission,0
+blood pressure 122/70 mmHg,0
+temperature 38.5 °C,0
+pulse 102 bpm,0
+respiratory rate 22 bpm,0
+moist rales in lungs,0
+normal general physical examination,0
+no history of previous disease,0
+family history of Brugada syndrome,0
+no family history of SCD,0
+type 1 Brugada ECG pattern,0
+coved-type ST-segment elevations >2 mm in V1-V2,0
+negative T-wave in right precordial leads,0
+brother has type 2 Brugada ECG pattern,0
+brother's ST-segment elevation >0.5 mm in V1-V2,0
+brother's positive T-wave,0
+white blood cell count 21.9 ×10^9/L,0
+neutrophil count 92.7%,0
+hemoglobin 71 g/L,0
+elevated creatine kinase (4600 IU/L),0
+elevated CK-MB (75 IU/L),0
+elevated urea (36 mmol/mL),0
+elevated creatinine (1079 µmol/mL),0
+elevated alanine transaminase (296 IU/L),0
+elevated aspartate aminotransferase (426 IU/L),0
+elevated total bilirubin (40.9 µmol/L),0
+elevated direct bilirubin (12.8 µmol/L),0
+elevated procalcitonin (22 ng/mL),0
+elevated D-dimer (7141 ng/mL),0
+elevated fibrinogen degradation products (93 µg/mL),0
+prolonged activated partial thromboplastin time (91.4 s),0
+elevated brain natriuretic peptide (5623 ng/L),0
+normal electrolytes,0
+echocardiography no structural disease,0
+chest radiography pulmonary infection,0
+head CT no infarction or hemorrhage,0
+Brugada syndrome diagnosis,0
+NYHF IV,0
+multiple organ dysfunction syndrome,0
+sepsis,0
+hypoxic ischemic encephalopathy,0
+induced-hypothermia protocol,0
+sedation,0
+analgesia,0
+continuous renal replacement therapy,0
+linezolid 600 mg twice daily,0
+sulperazon 3 g twice daily,0
+mycamine 50 mg twice daily,0
+correcting water-electrolyte balance,0
+correcting acid-base balance,0
+nutritional support,0
+hepatorenal function protection,0
+tracheotomy performed,480
+no VT/VF episodes post-treatment,480
+various ECG changes during treatment,480
+refused ICD,480
+brother received Reveal LINQ ICM,480
+genetic testing recommended,480
+follow-up period 36 months,12960
+no arrhythmia episodes post-discharge,12960
+good physical condition at 3 years,12960
+normal sinus rhythm on follow-up ECGs,12960
+brother's remote monitoring no ventricular arrhythmia,12960
+brother's sinus rhythm on follow-up ECG,12960
+fever induced by pulmonary infection,0
+fever induced by sepsis,0
+BrS type 2 pattern during treatment,480
+amaurosis in brother,-8760

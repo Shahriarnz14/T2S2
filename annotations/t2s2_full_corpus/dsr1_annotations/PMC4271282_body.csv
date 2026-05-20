@@ -1,0 +1,90 @@
+event,time
+30 years old,0
+housewife,0
+suicidal attempt,0
+ingestion of 15 g potassium permanganate powder,-0.25
+no other drugs ingested,-0.25
+reached hospital within 15 min,-0.25
+drowsy,0
+hypoxia,0
+stridor,0
+oxygen saturation 85%,0
+arterial blood gas pH 7.32,0
+pO2 52.1,0
+pCO2 46,0
+HCO3 22,0
+SpO2 86.1%,0
+tachycardia,0
+heart rate 116/min,0
+blood pressure 110/70 mmHg,0
+temperature 98.2°F,0
+multiple patches of blackish-brown stain on face and hands,0
+shifted to medical intensive care unit,0
+oral cavity brownish black staining,0
+copious secretions,0
+poor differentiation between oral cavity structures,0
+vocal cords swollen,0
+almost complete airway obstruction,0
+percutaneous tracheostomy planned,0
+intubation attempted,0
+impending respiratory failure,0
+difficult intubation,0
+stained and edematous pharyngeal structures,0
+stained and edematous laryngeal structures,0
+sloughed debris in posterior pharynx,0
+endotracheal tube placed,0
+intermittent positive pressure ventilation initiated,0
+invasive ventilatory support,0
+broad spectrum antibiotics,0
+steroids,0
+proton-pump inhibitor,0
+intravenous fluids,0
+mechanical ventilation,0
+ABG improved,0
+ABG pH 7.37,24
+pO2 113,24
+pCO2 33.9,24
+HCO3 19.2,24
+SpO2 98.1%,24
+sensorium improved,24
+upper gastrointestinal endoscopy day 1,24
+diffuse ulceration esophagus,24
+necrotic areas esophagus,24
+necrotic areas stomach fundus,24
+bronchoscopy performed,24
+edematous and inflamed tracheo-bronchial mucosa,24
+hemorrhagic patches tracheo-bronchial tree,24
+normal renal parameters,0
+normal hepatic parameters,0
+normal electrolytes,0
+normal complete hemogram,0
+normal methemoglobin level,0
+deranged liver function test day 2,48
+serum bilirubin increased,48
+serum glutamic pyruvic transaminase 354 IU,48
+deranged coagulation profile,48
+INR 2.06,48
+"platelet count 80,000/cumm",48
+acute hepatic necrosis,48
+coagulation profile improving day 4,96
+elevated serum transaminase levels,96
+oral cavity staining reduced day 4,96
+upper airway edema reduced,96
+vocal cords swelling reduced,96
+extubated,96
+cuff leak check,96
+copious oral secretions postextubation,96
+difficulty swallowing,96
+difficulty breathing,96
+reintubated,96
+percutaneous tracheostomy day 4,96
+weaned off ventilator day 5,120
+shifted to ward,120
+tracheostomy tube in situ,120
+total parenteral nutrition day 5,120
+started clear liquids day 8,192
+liver function improved,192
+coagulation profile improved,192
+decannulated day 9,216
+discharged,216
+follow-up after 3 months normal,2208

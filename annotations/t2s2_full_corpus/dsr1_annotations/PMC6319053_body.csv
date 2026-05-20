@@ -1,0 +1,109 @@
+event,time
+23 years old,0
+female,0
+admitted to ICU,0
+ventilated,0
+hospital-acquired infection (HAI),0
+sepsis,0
+multiresistant strains,0
+Klebsiella spp.,0
+Pseudomonas spp.,0
+Acinetobacter spp.,0
+Gram-negative bacteria,0
+Staphylococci spp.,0
+methicillin-resistant Staphylococcus aureus,0
+Streptococci spp.,0
+multidrug resistant (MDR) Acinetobacter spp.,0
+multiparous,0
+postoperative period after LUSCS,0
+intrauterine death (IUD),-408
+emergency LUSCS,-408
+oliguria,-312
+drowsiness,-312
+jaundice,-312
+high-grade fever,-312
+intubated,-312
+ventilated,-312
+packed blood cell transfusion,-288
+fresh frozen plasma transfusion,-288
+ventilator support,-288
+febrile (38.9°C),0
+tachycardia (140/min),0
+blood pressure 130/80 mmHg,0
+SpO2 99%,0
+icterus,0
+pallor,0
+generalized anasarca,0
+abdominal distention,0
+scattered rhonchi,0
+crepitations,0
+clean abdominal wound,0
+urinary catheter in place,0
+scanty urine (200 ml),0
+nasogastric tube in situ,0
+dark green aspirate (50 ml),0
+bleeding per vaginum,0
+"total leukocyte count 22,000 cu/mm",0
+polymorphonuclear leukocytosis (84%),0
+hemoglobin 9.3 g/dl,0
+Prothrombin Time 17.4 seconds,0
+PTI Index 74.7,0
+urea 50 mg/dl,0
+serum glutamic-oxaloacetic transaminase 220 IU/L,0
+serum glutamic pyruvic transaminase 132 IU/L,0
+total bilirubin 3.4 mg/dl,0
+conjugated bilirubin 2.1 mg/dl,0
+alkaline phosphatase 120 IU/L,0
+total proteins 4.5 g/L,0
+albumin 2.0 g/L,0
+viral markers nonreactive,0
+24-hour urine albumin 2+,24
+endotracheal tube secretions sent for culture,24
+critical condition,24
+noradrenaline support,24
+dopamine support,24
+exploratory laparotomy,48
+free fluid in abdominal cavity,48
+intraoperative serosanguineous fluid collection,48
+hepatic derangement,72
+hypoproteinemia,72
+persistent pyrexia (38.9°C–39.4°C),72
+"polymorphonuclear leukocytosis (25,000–33,000)",72
+coagulopathy,72
+P. dispersa isolated,72
+resistant to amoxicillin-clavulanic acid,72
+resistant to piperacillin/tazobactam,72
+resistant to cephalosporins,72
+resistant to penems,72
+resistant to aminoglycosides,72
+resistant to fluoroquinolones,72
+resistant to nitrofurantoin,72
+resistant to trimethoprim + sulphamethoxazole,72
+sensitive to tigecycline,72
+sensitive to colistin,72
+colistimethate started,72
+persistent fever (38.9°C–39.4°C),72
+fibrin degradation products positive,120
+D-Dimer >200 ng/mL,120
+blood-stained tracheal secretions,120
+frank blood in secretions,120
+blood culture negative,360
+urinary catheter tip culture negative,360
+pericardial tap negative,360
+ascitic fluid culture negative,360
+Candida spp. in urine,360
+vasopressor support,0
+inotrope support,0
+acute respiratory distress syndrome (ARDS),0
+renal failure,0
+dialysis,0
+red blood cell transfusion,0
+fresh frozen plasma transfusion,0
+total parenteral nutrition,0
+enteral nutrition,0
+albumin administration,0
+cardiac arrest,432
+cardiopulmonary cerebral resuscitation,432
+continued ICU management,432
+second cardiac arrest,480
+death,480

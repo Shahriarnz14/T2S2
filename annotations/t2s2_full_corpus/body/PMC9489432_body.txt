@@ -1,0 +1,119 @@
+pmcIntroduction
+
+In December 2019, a group of pneumonia cases infected with a novel beta coronavirus was reported in Wuhan, China.1 Later renamed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), this pathogen resulted in a global pandemic called COVID-19.2 As of October 2021, nearly 234 million people have been contaminated with COVID-19, and 4.7 million have died.3 COVID-19 is notorious as a respiratory disease presenting with fever, cough, fatigue, and dyspnea2; however, respiratory manifestations might overshadow other systemic involvements such as gastrointestinal (GI) symptoms. It has been discovered that as high as 17% of patients with COVID-19 have GI symptoms.4,5 Anorexia, diarrhea, vomiting, and abdominal pain are the most reported GI manifestations and are frequently presented in patients with a prolonged course of illness or admission to the intensive care unit (ICU).6,7 Additionally, GI symptoms might be apparent in the initial presentation of patients with COVID-19 infection.8
+
+Spike (S) protein of SARS-Cov-2 attaches to the angiotensin-converting enzyme 2 (ACE II) receptor and enters the cells via this connection.1 ACE II receptor is produced on pulmonary epithelial cells, gastrointestinal, vascular endothelium, and other tissues.9 Recent studies have shown that abdominal imaging findings can help diagnose different manifestations of an atypical COVID-19 with GI involvement.10
+
+Cross-sectional abdominal imaging modalities are not used routinely in COVID-19.11 The definite diagnosis of COVID-19 is primarily based on laboratory viral RNA testing of samples from the upper respiratory tract, and it is widely available.10 In the early approach in COVID-19 patients with respiratory symptoms, a chest computed tomography (CT) is a valuable modality to control the pandemic.12 Still, in patients with a severe and atypical GI manifestation of COVID-19, cross-sectional abdominal imaging can be utilized to detect severe disease complications more quickly and start treatment as soon as possible.10 According to prior findings, on abdominal CT, 65% of patients with COVID-19 had ground-glass opacities at the base of the lungs. Patients with negative PCR are more likely to exhibit GI abnormalities on CT images.13 Abdominal pain and sepsis were the most reported indications for abdominal CT in SARS-CoV-2 infection.14,15 Moreover, other symptoms like diarrhea, nausea, vomiting, abdominal distention, and GI bleeding also warranted an abdominal CT in previous studies.10,14-16 Contrast-enhanced abdominopelvic CT is a fast fundamental imaging modality to identify ischemic bowel disease, which happens secondary to the hypercoagulable state in severe conditions.17 In COVID-19 patients with major GI complaints, contrast-enhanced abdominopelvic CT should be considered, especially in ICU admitted cases. Radiologists should be familiar with the potential imaging features of COVID-19 on abdominal CT.10,18
+
+Ultrasonography is an available, accurate, safe, and quick imaging technique that can be performed at frequent intervals to address relevant clinical questions without using ionizing radiation.19 Another advantage of ultrasonography is the point of care ultrasound (POCUS). Whenever performing a CT, it is necessary to ambulate the patient to the radiology department. At the same time, POCUS has been applied in emergency departments and ICUs at the bedside.20 Abdominal pain and abnormal liver function tests are the main indications of ultrasonography in COVID-19.21 Contrast-enhanced ultrasonography (CEUS) is progressively used globally and has a pivotal diagnostic role in COVID-19 infections. If CEUS is to be performed straight at the bedside of ICU patients, expert technicians/physicians are required. CEUS can be an essential modality to assess capillary perfusion of abdominal organs and imminent kidney failure in severe cases of COVID-19.22
+
+This review aims to determine the latest available data related to abdominal CT and ultrasonography applications and their corresponding findings in COVID-19 infection based on the involvement of hollow abdominal viscera. Our goal is to help clinicians achieve greater awareness to identify the variety of GI presentations associated with COVID-19.
+
+Bowel
+
+Gastric and duodenal glandular cells, epithelial and endothelial cells of the rectum, and small intestinal enterocytes are the usual sites in the bowel where the ACE-2 receptor is expressed and become commonly infected by SARS-CoV-2.23
+
+On CT images, bowel findings include a contrast-enhanced fluid-filled colon, luminal distention, bowel wall thickening, mucosal hyperenhancement, peri enteric fat stranding, mesenteric inflammation, vascular engorgement, pneumatosis, and portal venous gas15,16,24,25 The most frequently described imaging features are bowel wall thickening and fluid-filled colon without wall thickening.24 These findings are most often seen in patients admitted to the ICU and are not associated with age, sex, or GI symptoms upon admission.14 Thickening of the small bowel wall and hyperenhancement of the mucosa are attributed to the direct inflammatory effect of the SARS-Cov-2.16 Moreover, hyperemia and edema of the colonic wall are well-matched to the diagnosis of acute colitis, which can also be related to the direct or indirect effect of the infection (Figure 1).10
+
+Figure 1 Acute pan colitis in a 74-year-old man with COVID-19 pneumonia. Axial CT images (a, b) demonstrate a subpleural patchy air space opacity (black and white arrows) at the right lower lobe suggestive of pneumonia. Axial CT images (a, b, c, d) also reveal diffuse concentric mural thickening and submucosal edema of the colon associated with adjacent pericolic fat stranding (white and black arrowheads) consistent with pan colitis. Mild free fluid is also evident in the peritoneal cavity (white and black asterisks).
+
+Other infrequent manifestations such as pneumoperitoneum, acute diverticulitis, ileus, GI perforation, notable ascites, and intramural bowel gas, also known as pneumatosis intestinalis, can be visualized in patients with COVID-19 (Figure 2).26-28 Pneumatosis and portal venous gas are considered a hallmark of mesenteric ischemia, a condition that occurs commonly in severely ill patients. Although, various other etiologies, such as viral intestinal infection and positive-pressure ventilation, can lead to this phenomenon.14,16,18
+
+Figure 2 Perforated jejunal diverticulitis in a 72-year-old man with COVID-19 infection. Axial and sagittal CT images (a, c) show bilateral subpleural airspace opacities (black arrows) at the lower thoracic level. Subdiaphragmatic gas bubbles are noted (black oval) consistent with pneumoperitoneum. Sagittal CT image (b) reveals a small outpouching of the jejunum (white arrowheads) associated with mural edema and notable adjacent fat inflammation in keeping with perforated acute jejunal diverticulitis. Intraoperative photograph (d) demonstrates a perforated jejunal diverticulum (white arrow).
+
+Vadvala and colleagues have reported periportal edema and hematomas at the retroperitoneum, abdominal wall, and rectosigmoid in CT angiography of critically ill patients with COVID-19.27 A case report showed an adult patient with COVID-19 who presented with small bowel obstruction, cecal wall thickening, and ileocolonic intussusception, without masses, on an abdominal CT.29 A summary of bowel imaging findings is presented in Table 1.
+
+Table 1 Abnormal abdominal imaging features of bowel reported in CT of patients with COVID-19 in previous studies
+
+Studies	Abdominal imaging features of bowel	
+Bhayana et al14	BWT	perforated small bowel	
+Kanne et al35	BWT	Fluid ﬁlled bowel	
+Horvat et al 16	BWT	Intestinal distention	Mucosal hyperenhancement suggestive of adynamic ileus	
+Hellinger et al36	BWT	Fluid ﬁlled bowel	Small-bowel mucosal hyperemia	
+Carvalho et al37	BWT	Mural hyperenhancement	Pericolic fat stranding	
+Sattar et al 38	BWT	Colonic ileus with air-fluid levels	
+Guo et al39	Segmental bowel wall swelling	
+Jaijakul 40	BWT	
+Behzad et al 25	Fluid ﬁlled bowel	Postcontrast mural hyper enhancement	Mild to moderate nonspecific pericolic fat stranding	
+Tirumani et al15	Fluid ﬁlled bowel	Diarrhea	GI bleeding	
+Goldberg-Stein et al41	BWT	
+Vadvala et al27	Hematomas at retroperitoneum, abdominal wall, and rectosigmoid	
+Morparia et al34	BWT	
+Boraschi et al24	Hyperemic BWT	Distension of the bowel	Free fluid between the intestinal loops with associated diffuse subcutaneous edema	Perivisceral fat edema	
+Lui et al26	BWT	Fluid-filled colon	Pneumatosis	pneumoperitoneum	intussusception	ascites	
+Funt et al13	BWT	Mild peri-enteric fat stranding	
+Palacios et al42	BWT	Pneumatosis on a non-enhancing segment of the jejunum	A defect in the lateral wall of the jejunum and adjacent localized collection of intraperitoneal gas	
+Farina et al43	Dilated small intestinal loops	Air-fluid levels in small intestinal loops	Thinning of the small bowel walls and absence of contrast enhancement indicating ischemia	
+Vaidya et al44	BWT	Distal ileal loops with non-enhancing, barely visible walls suggestive of bowel ischemia	
+Miyara et al45	Bowel dilatation	Small bowel and cecal pneumatosis	Portal, splenic, and mesenteric vein gas	
+Thuluva et al46	BWT with contrast enhancement	
+BWT, Bowel wall thickening; GI, Gastrointestinal.
+
+Ultrasonography is a modality that can be done to examine the abdomen in COVID-19. Ileocolic intussusception is an uncommon ultrasound manifestation reported in COVID-19 pediatric cases (Table 2).30
+
+Table 2 Ultrasound findings of COVID-19 patients with intussusception in previous studies
+
+Studies	Publication type	Gender	Age	Symptoms	Abdominal Ultrasonography features	
+Athamnah et al30	Case report	Male	6 mon	Vomiting, constipation, Rectal bleeding, distension of abdomen	Ileocolic intussusception (Target sign)	
+Rajalakshmi et al47	Case report	Male	8 mon	Fever, vomiting, Rectal bleeding	Ileocolic intussusception in the subxiphoid region	
+Bazuaye-Ekwuyasi et al48	Case report	Male	9 mon	Agitation, fever, congestion, cough, and sneezing	Concentric alternating echogenic and hypoechoic bands, consistent with the target sign of intussusception	
+
+Despite an increased number of complicated acute appendicitis during the pandemic, there is no definite association between acute appendicitis and COVID-19.8 It has been claimed that a viral infection might cause appendicitis by multiple mechanisms, including lymphatic hyperplasia and mucosal ulceration, which can lead to appendix blockage and secondary bacterial infection, respectively.8
+
+A well-known pediatric complication of COVID-19, which could present signs and symptoms similar to appendicitis, is a multisystem inflammatory syndrome in children (MIS-C).31 Fenlon Iii et al found that owing to non-specific imaging appearances, the diagnosis of MIS-C related to COVID-19 was based on clinical manifestations rather than pure imaging findings.32 MIS-C can be differentiated from appendicitis when Kawasaki-like presentations such as mucocutaneous symptoms are present.33 In the reported cases of MIS-C with a chief complaint of right lower quadrant pain who underwent the ultrasonography, findings included a non-compressible and dilated appendix with mural hyperemia, periappendiceal mesenteric fat stranding and edema, ascites, and thickened terminal ileum.32-34 On CT images, findings of MIS-C-related appendicitis consist of luminal dilatation, wall thickening of the appendix and colon, calcified deposit within the appendix, pelvic free fluid, enlarged lymph nodes, and perforation with adjacent small rim-enhancing fluid collections (Figures 3 and 4)33,34 Imaging findings of appendiceal involvement in COVID-19 are summarized in Table 3.
+
+Figure 3 Multisystem inflammatory syndrome in children (MIS-C) in a 9-year-old boy presented with abdominal pain, nausea, vomiting, and fever 3 weeks after being infected with SARS-CoV-2 virus. Coronal(a) and axial (b) contrast-enhanced CT images show hepatosplenomegaly, mesenteric lymphadenopathies (white stars in a), and wall thickening of terminal ileum (black arrow), cecum, ascending and transverse colon (black arrows). 4 days after admission, the patient experienced abdominal pain again. Axial CT image (c) demonstrates partial thrombosis (white arrow in c) within the superior mesenteric vein (SMV).
+
+Figure 4 Multisystem inflammatory syndrome in children (MIS-C) in a 2-year-old girl presented with fever, abdominal pain, and shortness of breath 3 weeks after infection with SARS-CoV-2 virus. Axial CT image (a) reveals mild free fluid in the right lower quadrant (RLQ) and appendix wall hyperenhancement with normal luminal diameter containing air bubbles (black and white arrows, respectively). In lower thoracic levels (b), pericardial effusion (black arrow), bilateral pleural effusion (white arrows), and consolidation in the lower lobe of the left lung (black star) are depicted.
+
+Table 3 CT findings of patients with COVID-19 with appendiceal involvement in previous studies
+
+Studies	Abdominal imaging features of appendix	
+Morparia et al34	Appendiceal dilation	Mural thickening of the appendix	
+Anderson et al33	Appendiceal dilation	Mural thickening of the appendix	Calcified deposit within the appendix	Appendiceal perforation	Several small rim-enhancing fluid collections around the appendix	
+Samies et al49	Enlarged appendix suggestive of uncomplicated appendicitis	
+
+Vasculopathy
+
+Thromboembolic complications are being increasingly encountered in patients with COVID-19 pneumonia.50 Coagulation dysfunction is related to multiple factors such as inflammation, endothelial and platelet dysfunction, as well as blood stasis.51 COVID-19 may influence endothelial cells by infecting them directly via ACE2 receptors.51 Goshua and colleagues have shown that the severity and mortality of COVID-19 are associated with endothelial damage.52 The virus activates complement proteins uncontrollably, responsible for acute and chronic inﬂammation, endothelial cell dysfunction, arterial and venous thrombus development, and intravascular coagulation. The activation of the complement cascade results in acute stroke, acute myocardial infarction, extracorporeal membrane oxygenation circuit thrombosis, multiple organ failure, and death.53-55
+
+Thromboembolic complications are a leading cause of morbidity and mortality in admitted patients with COVID-19, even in patients receiving anticoagulation therapy.56 Microvascular involvement mainly appears as end-organ ischemia on abdominal imaging, including bowel loops, spleen, kidneys, and liver infarctions.35 Superior mesenteric artery (SMA) thrombotic occlusion, rarely reported, gives rise to intestinal gangrene, presented as dilated ileal loops with non-enhancing, barely discernible walls on contrast-enhanced CT.35,44 Direct viral infection, small vessel thrombosis, and non-occlusive mesenteric ischemia have been proposed as the underlying causes of a wide range of intestinal manifestations in COVID-19.14,35 In severe cases, deep venous thrombosis, acute pulmonary thromboembolism, and AMI have been described.14,50
+
+CT angiography (CTA) should be performed immediately in patients with COVID-19 with sudden abdominal pain for early diagnosis of AMI.18 Emboli tend to involve SMA because of the slight branching angle at the origin, compared with celiac and inferior mesenteric arteries.57 On abdominal CT, specific imaging findings, including intramural bowel gas, absence of bowel wall enhancement, hepatic portal venous gas, and ischemia of other organs, favor a diagnosis of SMA or superior mesenteric vein (SMV) thrombosis.58
+
+In addition, other findings such as non-occlusive AMI, thrombosis of distal SMA branches, and thromboembolic occlusion of SMA have been reported.18 AMI could present with decreased peristalsis, interloop fluid, and increased intraluminal contents indicating stasis in the US exam.44 on abdominal CT, SMV thrombosis was reported with a filling defect in the SMV, diffuse small bowel wall thickening, and mesenteric fat stranding attributed to mesenteric venous congestion.46
+
+Besides hypercoagulation frequently seen in patients with COVID-19, bleeding may also occur and is associated with high mortality and morbidity in severe cases.56 In plenty of case reports, intra-abdominal hemorrhage, especially extraperitoneal and intramuscular hematomas in the iliopsoas and rectus sheet, was perceived in abdominal CTA/CTV, with or without active bleeding.56,59,60 In some cases, the extraperitoneal hemorrhage demonstrated internal blood fluid levels in non-contrast CT images, indicative of a hyperdense fresh hematoma (Figure 5).56 Vascular abnormalities reported in patients with COVID-19 are presented in Table 4.
+
+Figure 5 Rectus sheath hematoma in a 69-year-old woman with COVID-19 pneumonia. Axial chest CT (a) demonstrates confluent geographic areas of ground-glass opacity with the dominant peripheral distribution. Axial CT (b) shows bilateral rectus sheath hematoma (white asterisks) with fluid-fluid level formation (arrowhead) on the right side.
+
+Table 4 CT findings of COVID-19 patients with vascular involvement in previous studies
+
+Studies	Abdominal imaging features of vasculopathy	
+Boraschi et al24	Fat stranding surrounding the mesenteric vessels	
+Vaidya et al44	Hypoperfused distal SMA1 branches (i.e., the ileocolic and right colic branches) consistent with SMA thrombosis	
+Bhayana et al14	Mesenteric congestion	Gas in the transverse mesocolon vasculature	
+Thuluva et al46	A significant filling defect in the superior mesenteric vein in keeping with thrombosis	
+Abdelmohsen et al56	Psoas muscle hemorrhage with contrast extravasation suggestive of active bleeding in CT angiography	Pelvic extraperitoneal hemorrhage presenting centers of active bleeding in CT angiography	
+Nakamura et al59	Massive right iliopsoas muscle hematoma with extravasation extending to the retroperitoneal area in CECT2	A small low-density area in the left iliopsoas muscle suggestive of a hematoma	
+Angileri et al60	Spontaneous iliopsoas muscle hematoma	
+SMA, superior mesenteric artery; CECT, Contrast-enhanced computed tomography
+
+Conclusion
+
+GI manifestations are common among patients with COVID-19, particularly in severely ill patients. Bowel pathologies are commonly visualized on abdominal CT in patients with COVID-19 and are associated with worse outcomes. Owing to the poor prognosis of some bowel abnormalities such as AMI, clinicians should consider it whenever intestinal signs/symptoms are present. Abdominal CT and ultrasonography must be applied to help clinicians identify any organ involvement quickly. At the same time, radiologists should be vigilant about imaging characteristics of abdominal pathologic conditions in COVID-19 to reach a diagnosis promptly. Considering that in many patients with COVID-19, the only clinical sign/symptom is related to the GI system, it is suggested to expand the scan field to include the base of the lungs when performing abdominal CT.
+
+None.
+
+Funding
+
+This research received no external funding.
+
+Ethical Approval
+
+There is nothing to be declared.
+
+Conflict of Interest
+
+The authors declare no conflict of interest related to this work.

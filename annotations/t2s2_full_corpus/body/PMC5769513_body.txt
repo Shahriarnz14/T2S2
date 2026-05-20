@@ -1,0 +1,74 @@
+Background
+Hemophagocytic lymphohistiocytosis (HLH) is a rare life-threatening condition of the immune system due to over-activation and loss of downregulatory function [1,2]. It is caused by a defect in the cytotoxic granule pathway, which allows cytotoxic T cells and natural killer cells to release cytokines in an uncontrolled manner after being exposed to a triggering factor. The resulting cytokine storm causes tissue damage and progressive multi-organ failure [1,2]. It was first recognized in the pediatric age group, but it is increasingly being reported among adults [3]. Most cases are due to viral infections, lymphomas, or autoimmune disease, with very few reports due to bacterial infections [2,4]. Although, any infection can trigger the excessive cytokine storm in HLH, there are no reports associated with Streptococcus pneumoniae. Based on the current guidelines, HLH is treated with a combination of steroid- and etoposide-based chemotherapy [4]. However, future guidelines should also consider the inclusion of immunoglobulin therapy as a treatment for HLH.
+
+Case Report
+A 41-year-old African-American female with a history of type 2 diabetes mellitus presented with fever, nausea, vomiting, and diarrhea 2 hours after eating take-out Chinese food. After 2 days, she was brought to the hospital due to persistent symptoms accompanied by decreased level of sensorium. Review of systems revealed a mild upper-respiratory tract infection 1 week prior to admission. She reported marijuana use and was exposed to her son who had flu-like symptoms, but she denied recent travel outside the United States. The vital signs on initial evaluation were noted for a blood pressure of 115/64 mmHg, heart rate of 127 beats/min, respiratory rate of 28 breaths/min, fever of 38.8°C, oxygen saturation of 97% on room air, weight 79 kg, and a BMI of 32. The remainder of the exam was unremarkable except for drowsiness and mild epigastric tenderness. Chest X-ray imaging demonstrated bilateral lung infiltrates. Blood cultures were sent for analysis and she was empirically started on metronidazole 500 mg/IV q8h and ciprofloxacin 400 mg/IV q12h. She was admitted to the intensive care unit with a diagnosis of sepsis complicated by disseminated intravascular coagulopathy and multi-organ failure. Selected laboratory findings on admission and during her hospital course are shown in Table 1.
+
+The patient developed progressive respiratory failure and was intubated within 12 hours of presentation. She developed acute respiratory distress syndrome 1 week into her course. She became anuric after 72 hours (which required hemodialysis), and developed acute liver failure and acute pancreatitis without necrosis. She received multiple transfusions to correct her anemia and thrombocytopenia. She also developed dry-foot gangrene despite intact distal pulses, which was eventually amputated above the toes. Although she had borderline hypotension (BP 90/60 mmHg), she never required vasopressor support.
+
+The sepsis workup was remarkable for pan-sensitive Streptococcus pneumoniae in all 4 of her initial blood cultures. She was treated empirically with broad-spectrum antibiotics (metronidazole 500 mg/IV q8h, cefepime 2 g/IV q8h, and daptomycin 6 mg/kg/IV q48h) but with only limited clinical improvement. An extensive workup for autoimmune, viral, fungal, or other bacterial etiology was unremarkable.
+
+After 1 week of treating with broad-spectrum antibiotics with limited response, other diagnoses were considered. Clinical suspicion for HLH was high due to a constellation of findings: bicytopenia, hypertriglyceridemia, low fibrinogen, and hyperferritinemia. Based on these findings, intravenous immunoglobulin (100 g/IV q24h for 2 days) and high-dose dexamethasone therapy (20 mg/IV q24h for 8 days) was initiated while awaiting results from a soluble interleukin-2 receptor (sIL2) assay. The diagnosis of HLH was confirmed with an elevated sIL2 assay (1817 pg/mL, normal <1033 pg/mL).
+
+An etoposide-based regimen was initially planned but was deferred when clinical improvement was noted 72 hours after starting IVIG and dexamethasone (Table 1). She was successfully extubated 1 week later. She was transferred to a sub-acute rehab facility to continue physical therapy for critical illness-induced myopathy.
+
+Discussion
+Currently, the HLH-2004 Revised Guidelines allow for diagnosis using a combination of molecular data and clinical criteria (Table 2). The most typical findings of HLH are fever, hepatosplenomegaly, and cytopenia. Other findings include hypertriglyceridemia, hypofibrinogenemia, liver dysfunction, and elevated levels of ferritin [2,4]. The constellation of her lab findings, most notably the hyperferritinemia, raised suspicion for a possible diagnosis of HLH. Based on the latest guidelines, ferritin levels ≥500 ng/mL may support the diagnosis of HLH. However, hyperferritinemia is a nonspecific marker and does not necessarily predict HLH among adults. In a study done among Swiss patients presenting with unexplained fever and cytopenia, higher levels of ferritin >5000 ng/mL should raise the suspicion for HLH [5]. As in this case, the ferritin was 11 362 ng/mL, which may suggest that a higher ferritin level should be used as a cut-off point to predict for HLH.
+
+Once HLH is suspected, relevant lab studies should be sent promptly, as delay in treatment is frequently fatal. A bone marrow biopsy with cytogenetic studies can help exclude an underlying malignancy and to search for hemophagocytosis. It was ultimately deferred in this case due to our patient’s body habitus and risk for bleeding in the setting of DIC. While hemophagocytosis is a key marker for HLH, it is neither necessary nor sufficient to diagnosis HLH. A cytokine panel can be ordered instead to measure soluble CD25 (sCD25) or sIL2 if there is suspicion for HLH. Subsequent studies have shown that sCD25 and sIL2 are useful markers, as they are more consistently correlated with disease severity compared to ferritin [6,7]. The latest HLH-2004 guidelines use a cut-off value of ≥2400 U/ml to help diagnose HLH. In this case, the measured sCD25 was 1817 pg/mL, which was above the reference value of 1033 pg/mL. However, it was a challenge to convert weight (pg/mL) to units (U/mL); therefore, clinical judgment was used instead to help rule in the diagnosis of HLH.
+
+The greatest challenge posed by HLH is the difficulty in making a timely diagnosis. Most cases are initially treated with antibiotic therapy with limited clinical response. Treatment of HLH utilizes a combination of steroids and etoposide to reduce immune system over-activation, as outlined in the HLH-94 protocol [4]. So far, all treatment studies done in adults have been uncontrolled and retrospective, with different combinations of treatment regimens.
+
+Glucocorticoids are the mainstay in the treatment, irrespective of the underlying cause. Dexamethasone is preferred, especially if there is neurologic involvement, because it crosses the blood brain barrier better than prednisone or prednisolone [4]. Other studies have used IVIG with promising results. Two series using IVIG alone showed an estimated survival rate of 59–75%, and a separate study used the combination of IVG and steroids, with a 100% survival rate [8–10]. Our patient also showed good response to a combination of IVIG and steroids.
+
+Conclusions
+The clinical features of HLH are often nonspecific and a high index of clinical suspicion is needed for diagnosis, especially in critically ill patients not responding to antibiotics with high levels of ferritin. Despite the variable and poor prognosis of HLH, early treatment with steroids can be crucial in the survival of these patients while awaiting definitive studies to make the diagnosis. The role of IVIG in the treatment of this life-threatening condition should be also considered, even if it is not yet included in the latest guideline. Since most of the evidence is still based on retrospective studies and case series, further studies are needed to help guide future therapy.
+
+Conflict of interest
+
+None.
+
+Table 1. Laboratory data.
+
+Variable	Reference range, adults	Day of admission	2nd hospital day	3rd hospital day	8th hospital day before IVIG and steroids	11th hospital day 72 hours after IVIG and steroids	
+Hematocrit (%)	38–47	30.8	22.2	19.3	24.2	21.0	
+Hemoglobin (g/dL)	12–16	10.2	7.9	6.6	8.7	7.3	
+White cells (103/µL)	4.3–11.0	10.6	15.15	24.07	45.6	27.05	
+Neutrophils (%)	50–70	87.2	78.9	72		77.2	
+Platelets (103/µL)	150–450	37.0	52	51	116	74	
+Prothrombin time (sec)	9.5–11.4	36.8	16.3	15.2	16.1	13.4	
+Partial thromboplastin time (sec)	28–37	>100	>100	32.0	31	23.7	
+INR	0.8–1.14	3.29	1.48	1.39	1.47	1.22	
+Fibrinogen (mg/dL)	200–400	51.2		250.5	271.9	464	
+BUN (mg/dL)	7–18	12	30	52	137	83	
+Creatinine (mg/dL)	0.6–1.3	1.9	4.8	6.8	13.0	6.9	
+AST (U/L)	15–37	285	3056	7793	378	53	
+ALT (U/L)	30–65	93	985	2078	553	109	
+LDH (U/L)	100–190	952	6370	8391	2259	650	
+Total Bilirubin (mg/dL)	0–1.0	1.42	3.31	3.95	5.20	2.11	
+Lipase (U/L)	114–286	48		7404	1777	1486	
+Ferritin (ng/mL)	15–150			11362		734.5	
+Triglycerides (mg/dL)	10–149	1050		851			
+Table 2. The diagnosis of HLH can be established if one of either 1 or 2 below is fulfilled.
+
+Criterion	Present in this patient	
+1. A molecular diagnosis consistent with HLH	Not measured	
+  a. Mutations of PRF1, UNC13D, STXBP1, RAB27A, STX11, SH2D1A, or XIAP		
+
+	
+2. Diagnostic criteria for HLH fulfilled (5 out of the 8 criteria below)		
+
+	
+  Fever of 38.5°C or more	Yes	
+  Splenomegaly	No	
+  Cytopenias (affecting 2 of 3 lineages)	Yes	
+    Hemoglobin <90 g/L		
+    Platelets <100×109/L		
+    Neutrophils <1.0×109/L		
+  Hypertriglyceridemia and/or hypofibrinogenemia	Yes	
+    Triglycerides ≥3.0 mmol/L (≥265 mg/dL)		
+    Fibrinogen ≤1.5 g/L		
+Hemophagocytosis in bone marrow, spleen or lymph nodes	Not measured	
+Low or absent NK-cell activity	Not measured	
+Ferritin ≥500 ng/mL (≥1123.5 pmol/L)	Yes	
+Elevated Soluble CD 25 or soluble IL-2 receptor (≥2,400 U/mL)	Yes

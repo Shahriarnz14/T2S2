@@ -1,0 +1,146 @@
+event,time
+16 years old,0
+female,0
+left maxillary fracture,0
+no history of pulmonary disease,0
+no asthma,0
+normal electrocardiography,0
+normal biochemical blood examination,0
+normal chest X-ray,0
+preoperative preparation,-60
+midazolam injection,-60
+vital signs before anesthesia,-60
+blood pressure 110/66 mmHg,-60
+heart rate 80 beats/min,-60
+oxygen saturation 99%,-60
+arrival in operating room,0
+non-invasive blood pressure monitoring,0
+pulse oximeter monitoring,0
+electrocardiograph monitoring,0
+induction of anesthesia with propofol,0
+rocuronium injection,0
+positive pressure ventilation,0
+Mallinckrodt tube insertion,0
+no tube cuff leakage,0
+tracheal intubation,0
+6 ml air insertion into cuff,0
+no air leakage in mouth,0
+cuff pressure 20 mmHg,0
+normal breathing sounds,0
+tube fixation at 19 cm mark,0
+tidal volume 10 ml/kg,0
+respiration rate 10 per minute,0
+peak inspiratory pressure 15 cmH2O,0
+no air leakage in end-inspiration,0
+"anesthesia maintenance with O2, N2O, sevoflurane",0
+povidone iodine oral irrigation,0
+bubbles formed during irrigation,0
+additional 2 ml air inserted into cuff,0
+tube removal,0
+suction of povidone iodine,0
+reintubation with new tube,0
+6 ml air inserted into new cuff,0
+cuff pressure 20 mmHg,0
+new tube at 19 cm mark,0
+normal breathing sounds,0
+oxygen saturation 100%,0
+normal lung compliance,0
+normal chest movement,0
+resumption of oral irrigation,0
+no air leakage,0
+maximum inspiratory pressure 17 cmH2O,0
+minute hole in first tube identified,0
+tube damage from wire fastening,0
+oxygen saturation decline to 96%,30
+rale in right lung,30
+operation stopped,30
+tracheal suction,30
+frothy discharge,30
+chest X-ray,30
+suspicion of aspiration pneumonia,30
+arterial catheter insertion,30
+Modified Allen's test,30
+arterial blood gas analysis,30
+FiO2 0.5,30
+pH 7.34,30
+PaCO2 42.9 mmHg,30
+PaO2 69.4 mmHg,30
+SaO2 93%,30
+salbutamol nebulization,30
+mechanical ventilation with PEEP 10 cmH2O,30
+methylprednisolone injection,30
+furosemide injection,30
+chest X-ray confirmation of aspiration pneumonia,30
+arterial blood gas analysis improvement,60
+pH 7.35,60
+PaCO2 39.6 mmHg,60
+PaO2 253.3 mmHg,60
+SaO2 99%,60
+operation resumed,60
+operation finished,90
+pyridostigmine administration,90
+glycopyrrolate administration,90
+spontaneous respiration recovery,90
+brownish-tinged liquid discharge,90
+decreased lung compliance,90
+suction through tube,90
+aspiration of povidone iodine,90
+bronchoscopy with saline cleaning,90
+improved compliance,90
+arterial blood gas analysis,90
+FiO2 1.0,90
+pH 7.36,90
+PaCO2 36.9 mmHg,90
+PaO2 131.8 mmHg,90
+SaO2 98.6%,90
+transfer to ICU,90
+bronchoscopy in ICU,90
+no povidone iodine found,90
+insufficient tidal volume 200-250 ml,90
+mechanical ventilation in pressure support mode,90
+FiO2 0.4,90
+pressure support 15 cmH2O,90
+PEEP 10 cmH2O,90
+exhaled tidal volume 350-400 ml,90
+respiration rate 15-17 per minute,90
+arterial blood gas analysis at 5 hours,95
+pH 7.54,95
+PaCO2 20.5 mmHg,95
+PaO2 173.9 mmHg,95
+SaO2 99.4%,95
+"leukocytosis 13,840/µl",95
+neutrophil increase 88.2%,95
+fever 37.4℃,95
+augmentin prescription,95
+cefepime prescription,95
+methylprednisolone 20 mg TID,95
+furosemide 20 mg BID,95
+pressure support adjustment to 8 cmH2O,95
+PEEP adjustment to 5 cmH2O,95
+arterial blood gas analysis at 18 hours,108
+pH 7.49,108
+PaCO2 21.9 mmHg,108
+PaO2 111.8 mmHg,108
+SaO2 98.5%,108
+weaning initiated at 25 hours,150
+T-piece oxygen 3 L/min,150
+normal blood pressure,150
+normal heart rate,150
+oxygen saturation ≥98%,150
+clear consciousness,150
+tube removal,152
+arterial blood gas analysis post-extubation,152
+pH 7.36,152
+PaCO2 40.5 mmHg,152
+PaO2 176.5 mmHg,152
+SaO2 99.2%,152
+nasal cannula oxygen 2 L/min,152
+arterial blood gas analysis 5 hours post-extubation,157
+pH 7.39,157
+PaCO2 35.7 mmHg,157
+PaO2 182.1 mmHg,157
+SaO2 99.3%,157
+oxygen saturation ≥98%,157
+decreased oral discharge,157
+chest X-ray improvement,157
+transfer to general ward,50

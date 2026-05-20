@@ -1,0 +1,50 @@
+event,time
+71 years old,0
+male,0
+admitted to the hospital,0
+mild abdominal pain,-72
+nausea,-72
+profuse diarrhea,-72
+abdominal pain worsened,-48
+diarrhea worsened,-48
+unresponsive,-24
+hypotensive,0
+tachycardic,0
+severe pain in lower abdomen,0
+tenderness,0
+no fever,0
+no masses,0
+no lymph nodes,0
+metabolic acidosis,0
+serum lactate level over 6 mmol/L,0
+intravenous fluid reanimation,0
+abdominal computed tomography (CT),0
+bowel dilated,0
+no free liquid,0
+no air,0
+abdominal pain worsened,0
+abdominal distention worsened,0
+surgical consultation,0
+intestinal ischemia,0
+laparotomy,24
+small bowel purplish color,24
+small bowel edematous,24
+no perforation,24
+no necrosis,24
+mesentery engorged,24
+ecchymosis,24
+bowel peristalsis,24
+second-look surgical laparotomy,24
+Bogota bag,24
+low-molecular-weight heparin,24
+angio-3D reconstruction,24
+vascular malformation of the superior mesenteric artery,24
+celiacomesenteric trunk,24
+bowel loops better condition,48
+bowel regained normal color,48
+bowel regained mobility,48
+ventilator-associated pneumonia,48
+sepsis,48
+refractory shock,48
+organ failure,72
+death,72

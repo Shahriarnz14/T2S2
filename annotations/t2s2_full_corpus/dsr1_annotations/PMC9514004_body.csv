@@ -1,0 +1,83 @@
+event,time
+57 years old,0
+female,0
+presented to the emergency department,0
+acute abdominal pain,-72
+pain acute in onset,-72
+pain crampy,-72
+pain non-radiating,-72
+pain increasing in severity,-72
+pain aggravated after ingestion of food,-72
+palpitation,-72
+vomiting,-72
+three episodes of vomiting,-48
+no stool,-48
+no flatus,-48
+no past medical history of diabetes,0
+no hypertension,0
+no hyperlipidemia,0
+no prior thrombotic events,0
+chronic smoker,0
+medication for Chronic Obstructive Pulmonary Disease,0
+pulse rate 130 beats per minute,0
+oxygen saturation 85% on room air,0
+blood pressure 95/70 mmHg,0
+body temperature 38.7°C,0
+respiratory rate 22 breaths/min,0
+sinus tachycardia,0
+COVID-19 rapid antigen test positive,0
+RT-PCR positive,0
+abdomen distended,0
+diffuse tenderness,0
+diffuse guarding,0
+rigidity,0
+absent bowel sounds,0
+collapsed rectum,0
+absent fecal stain,0
+crystalloids administered,0
+supplemental oxygen 4 L/min,0
+nasogastric tube decompression,0
+Foley catheterization,0
+leukocytosis,0
+raised amylase,0
+total bilirubin 2.20 mg/dL,0
+conjugated bilirubin 0.9 mg/dL,0
+alkaline phosphatase 674 U/L,0
+metabolic acidosis,0
+raised lactate level,0
+dilated small bowel loops,0
+absence of visible colon,0
+multiple air fluid levels,0
+small bowel obstruction,0
+unremarkable ultrasonography,0
+minimal free fluid in pelvis,0
+CECT scan,0
+fluid in right iliac fossa,0
+pelvic fluid,0
+fluid along anterior liver surface,0
+no findings of mesenteric ischemia,0
+emergency laparotomy,0
+greenish fluid,0
+gangrenous small bowel,0
+tissue decay,0
+blackish discoloration,0
+AMI,0
+bowel resection,0
+double barrel loop ileostomy,0
+shifted to COVID surgical ICU,0
+intubated,0
+Meropenem IV 1g,24
+Vancomycin IV 500mg twice daily,24
+low molecular weight Heparin 60mg twice daily,24
+total parenteral nutrition,48
+small bowel necrosis,0
+microthrombi in lamina propria,0
+microthrombi in submucosa,0
+glandular necrosis,0
+COVID pneumonia,144
+reintubated,144
+sepsis,144
+acute kidney injury,144
+expired,336
+severe sepsis,336
+multi-organ dysfunction syndrome,336

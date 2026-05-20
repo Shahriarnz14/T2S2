@@ -1,0 +1,54 @@
+event,time
+21 years old,0
+male,0
+previously healthy,0
+no significant past medical history,0
+evaluated in Emergency Department,0
+rapidly progressive shortness of breath,-120
+fever,-120
+sore throat,-120
+endotracheal intubation,0
+worsening hypoxemic respiratory failure,0
+acute respiratory distress syndrome (ARDS),0
+CT imaging,0
+bilateral pulmonary infiltrates,0
+thrombophlebitis of left internal jugular vein,0
+blood cultures drawn on admission,0
+Fusobacterium necrophorum,0
+Granulicatella,0
+septic thrombophlebitis (Lemierre syndrome),0
+antibiotics narrowed to piperacillin-tazobactam,72
+febrile,0
+worsening hypoxemia,0
+high positive end-expiratory pressure titration,0
+neuromuscular blockade,0
+vancomycin restarted,168
+repeated sampling of respiratory system,0
+sputum culture on hospital day 1,24
+normal respiratory flora,24
+BAL specimens on hospital days 3 and 7,"72, 168"
+no growth,"72, 168"
+persistent leukocytosis,0
+empyemas,168
+bilateral pneumothoraces,168
+surgical chest tube insertions,168
+pleural fluid culture,168
+Mycoplasma hominis,168
+azithromycin restarted,168
+fevers subsided,216
+liberated from mechanical ventilation,408
+discharged,504
+endotracheal aspirates for research,0
+16S rRNA gene sequencing,0
+Fusobacterium dominance (63%),0
+Mycoplasma abundance (23%),0
+Mycoplasma increased to 88%,168
+Fusobacterium decreased to 10%,168
+whole meta-genome sequencing (WMGS),0
+Mycoplasma hominis species detected,0
+Fusobacterium necrophorum species detected,0
+elevated plasma RAGE,0
+elevated IL-6,0
+elevated procalcitonin,0
+biomarker levels decreased,336
+negative procalcitonin,240

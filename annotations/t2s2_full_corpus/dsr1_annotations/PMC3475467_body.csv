@@ -1,0 +1,60 @@
+event,time
+72 years old,0
+female,0
+admitted to the hospital,0
+general weakness,-336
+poor oral intake,-336
+bilateral knee joint pain,-2880
+osteoarthritis,-1440
+intra-articular steroid injections,-1440
+triamcinolone acetonide (Kenalog-40),-1440
+weight gain,-1440
+mild systemic edema,-1440
+blood pressure 120/80 mm Hg,0
+pulse 98 beats per minute,0
+respiratory rate 20 breaths per minute,0
+body temperature 37.9℃,0
+acute ill appearance,0
+sleepy,0
+multiple oral ulcers with whitish patches,0
+mild crackle sound in entire lung field,0
+hemoglobin 15.3 g/dL,0
+white blood cell count 13×10³/mL,0
+neutrophils 96.3%,0
+lymphocytes 3.1%,0
+monocytes 0.6%,0
+platelet count 349×10³/µL,0
+hyperglycemia (random blood glucose 174 mg/dL),0
+Hb A1C 7.7%,0
+fasting plasma C-peptide 6.1 ng/mL,0
+serum albumin 2.4 g/dL,0
+C-reactive protein 13.37 mg/dL,0
+human immunodeficiency virus negative,0
+T3 10 ng/dL,0
+free T4 1.2 ng/dL,0
+thyroid stimulating hormone 30 mIU/mL,0
+sick euthyroid state,0
+rapid adrenocorticotropic hormone stimulation test,0
+basal cortisol 0.55 µg/dL,0
+30 minute cortisol 6.3 µg/dL,0
+90 minute cortisol 5.5 µg/dL,0
+adrenal insufficiency,0
+chest X-ray multiple cavitary nodules,0
+chest CT mass and cavitary nodules,0
+percutaneous needle biopsy,72
+fungal hyphae with acute angle branching,72
+fruiting body,72
+invasive aspergillosis (lungs),72
+diabetes,0
+amphotericin B,120
+unconscious,144
+brain MRI numerous peripheral enhancing cystic nodules,144
+cerebrospinal fluid tapping,144
+invasive aspergillosis (brain),144
+transferred to ICU,192
+ventilator care,192
+voriconazole,192
+deteriorated daily,0
+respiratory failure,336
+septic shock,336
+died,336

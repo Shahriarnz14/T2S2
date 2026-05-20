@@ -1,0 +1,97 @@
+event,time
+58 years old,0
+male,0
+no previous history of immunodeficiency,0
+no medical comorbidities,0
+fever,-168
+fatigue,-168
+cough,-168
+severe shortness of breath,-168
+physical examination unremarkable,0
+oxygen saturation 70% on room air,0
+intubated,0
+chest X-ray bilateral diffuse pulmonary infiltrates,0
+interstitial thickening,0
+bilateral basal consolidation,0
+PCR nasopharyngeal swab positive for SARS-CoV-2,0
+pancytopenia,0
+WBC 2.6 × 103/μL,0
+ANC 1.8 × 103/μL,0
+Hgb 12.1 g/dL,0
+platelet count 85 × 103/μL,0
+AKI,0
+serum creatinine 120 μmol/L,0
+transaminitis,0
+ALT 170.2 U/L,0
+AST 330 U/L,0
+LDH 857 U/L,0
+hydroxychloroquine,0
+azithromycin,0
+"IL-6 1,843 pg/mL",0
+D-dimer 73.37 mg/L,0
+"ferritin 2,166.0 μg/L",0
+cytokine storm,0
+tocilizumab,0
+methylprednisone,0
+IVIG,0
+severe sepsis,0
+vasopressors,0
+broad-spectrum antibiotics,0
+antifungals,0
+SLED,0
+ultrasound abdomen normal spleen,0
+G-CSF,0
+persistent pancytopenia,384
+WBC 0.5 × 103/μL,384
+ANC 0.3 × 103/μL,384
+Hgb 8.4 g/dL,384
+platelet count 74 × 103/μL,384
+peripheral blood smear pancytopenia,384
+red cell agglutination,384
+rare atypical lymphoid cells,384
+monocytopenia,384
+bone marrow examination,384
+BM aspirate hypocellular,384
+decreased trilineage hematopoiesis,384
+54% atypical lymphoid cells,384
+BM core biopsy mildly hypercellular,384
+interstitial infiltration,384
+fried egg appearance,384
+decreased erythropoiesis,384
+decreased granulopoiesis,384
+mildly increased megakaryocytes,384
+increased marrow histiocytes,384
+hemosiderin-laden macrophages,384
+reticulin fibrosis MF1-2,384
+CD20 positive,384
+DBA.44 positive,384
+PAX5 positive,384
+annexin A1 positive,384
+cyclin D1 positive,384
+CD25 positive,384
+V600E-mutant BRAF positive,384
+flow cytometry monotypic B cells,384
+CD45 positive,384
+CD19 positive,384
+CD20 positive,384
+CD79b positive,384
+FMC7 positive,384
+CD11c positive,384
+CD103 positive,384
+CD25 positive,384
+CD10 positive,384
+CD200 positive,384
+cBCL2 positive,384
+IgM positive,384
+lambda light chain restriction,384
+CD23 negative,384
+CD5 negative,384
+CD123 negative,384
+CD38 negative,384
+CD43 negative,384
+IgD negative,384
+HCL diagnosis,384
+normal FISH analysis,384
+normal karyotype 46;XY,384
+BRAF V600 mutation confirmed,384
+multidisciplinary team decision to wait,384

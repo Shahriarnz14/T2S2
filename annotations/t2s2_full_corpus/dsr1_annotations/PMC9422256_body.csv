@@ -1,0 +1,87 @@
+event,time
+55-year-old,0
+Caucasian,0
+male,0
+admitted to the hospital,0
+8-month history of severe watery diarrhoea,-5760
+bowel movements 8–9 times in 24 hours,-5760
+normal colonoscopy 3 days prior to admission,-72
+no past medical history,0
+no surgical history,0
+no regular medications,0
+no significant family history,0
+non-smoker,0
+lethargic,0
+clinically dehydrated,0
+eGFR 14 mL/min/1.73 m²,0
+creatinine 381 μmol/L,0
+hypokalaemia (2.5 mmol/L),0
+hypercalcaemia (2.88 mmol/L),0
+normal anion gap metabolic acidosis,0
+pH 7.16,0
+base excess -14.2 mmol/L,0
+normal lactate (0.8 mmol/L),0
+inflammatory markers within normal range,0
+negative coeliac serology,0
+negative vasculitis screen,0
+negative stool cultures,0
+admitted to intensive care unit,0
+central potassium replacement,0
+aggressive rehydration with IV fluids,0
+parenteral nutrition commenced,0
+nasogastric feeding,0
+contrast-enhanced CT abdomen,0
+32-mm heterogenous mass in pancreatic body,0
+multiple hypo-attenuating liver lesions,0
+suspicious for metastases,0
+radiological stage T2 N0 M1,0
+fasting serum gut hormone profile,0
+somatostatin 116 pmol/L,0
+elevated gastrin (47 pmol/L),0
+elevated glucagon (66 pmol/L),0
+elevated chromogranin A (223 pmol/L),0
+elevated C terminal end chromogranin B (>4500 pmol/L),0
+elevated VIP (211 pmol/L),0
+elevated PP (6928 pmol/L),0
+repeat serum gut hormone profile,0
+ultrasound-guided core liver biopsy,0
+necrotic tissue with 'ghosted' tumour outlines,0
+viable tumour cells,0
+CK8/18 expression,0
+synaptophysin expression,0
+CD56 expression,0
+chromogranin A negative,0
+well-differentiated grade I neuroendocrine tumour,0
+Ki-67 proliferation index 2.9%,0
+p53 WT expression,0
+IV somatostatin analogue (octreotide) infusion 12.5 µg/h,0
+diarrhoea settled completely,24
+renal failure not improving,24
+high temperatures,72
+increased inflammatory markers,72
+repeat CT abdomen,72
+intra-intestinal fluid,72
+positive blood cultures for Klebsiella and Enterococcus,72
+autonecrosis of pancreatic primary,72
+autonecrosis of liver lesions,72
+treated for bowel bacterial overgrowth sepsis,72
+ultrafiltration commenced,96
+renal function improved,120
+inflammatory markers settled,120
+stepped down to ward,120
+discharged 12 days after admission,288
+converted to long-acting lanreotide injections,288
+eGFR 54 mL/min/1.73 m² at discharge,288
+hospital stay 1 month,672
+post-discharge MEN-1 investigation,672
+elevated serum calcium,672
+initial elevated parathyroid hormone,672
+initial elevated prolactin,672
+Gallium-68 DOTA-TATE PET CT,672
+MRI of liver,672
+stable disease on imaging,672
+continued good response to SSA,672
+no disease beyond pancreas and liver,672
+lanreotide injections continued,672
+repeat imaging planned in 6 months,4032
+surgical resection planned if stable,4032

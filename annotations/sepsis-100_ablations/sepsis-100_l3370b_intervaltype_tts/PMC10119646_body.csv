@@ -1,0 +1,77 @@
+event,time
+11 years old,0
+female,0
+admitted to the hospital,0
+fever,-72
+vomiting,-72
+generalized abdominal pain,-72
+no unusual history of drug allergies,0
+no medical history,0
+no surgical procedures,0
+family lives in Rahovec,0
+grandfather diagnosed with COVID-19,-720
+rash on palms and trunk,0
+no conjunctivitis,0
+no lymphadenopathy,0
+severe drowsiness,0
+meningeal signs negative,0
+respiratory rate 25/min,0
+oxygen saturation 93%,0
+harsh breathing with crackles,0
+tachycardic,0
+hypotension,0
+abdomen tender to palpation,0
+white blood cell count 13.5 × 10^3/μL,0
+red blood cell count 3.5–5.8 × 10^6/mm^3,0
+erythrocyte sedimentation rate increased,0
+C-reactive protein increased,0
+procalcitonin increased,0
+SARS-CoV-2 test negative,0
+abdominal ultrasound showed enlarged appendix,0
+emergency laparotomy appendectomy,0
+postoperative course toxic,24
+tachycardia,24
+hypotension,24
+fractional shortening,24
+oxygen therapy,24
+bronchopneumonia,24
+treatment with ceftriaxone and amikacin,24
+switched to imipenem,48
+positive history of contact with COVID-19,0
+serologic test positive for SARS-CoV-2,48
+ferritin elevated,48
+IL6 elevated,48
+high-sensitivity troponin elevated,48
+D-dimer elevated,48
+enoxaparin initiated,48
+IV immunoglobulin administered,48
+aspirin administered,48
+general condition worsened,72
+febrile,72
+anemic,72
+toxic,72
+red blood cell transfusion,72
+pulse dosage of systemic corticosteroids,96
+re-evaluation of emerging shock,96
+aggravation of heart dysfunction,96
+echocardiogram showed decreased LV function,96
+septal hypokinesia,96
+ejection fraction 30%,96
+dobutamine added,96
+vasoactive drugs discontinued,120
+afebrile,120
+clinical symptoms improved,120
+arterial pressure stable,120
+no pathogenic agents detected,120
+histopathological examination showed catarrhal appendicitis,120
+D-dimer showed downward trend,120
+troponemia resolved,120
+inflammatory parameters normal,120
+LV function improved,120
+no aneurysms observed,120
+discharged,288
+follow-up outpatient visit,336
+blood tests normalized,336
+COV-2 IgG elevated,336
+abdominal and cardiac ultrasounds normal,336
+follow-up outpatient visits planned,336

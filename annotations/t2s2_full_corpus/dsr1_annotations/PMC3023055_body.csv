@@ -1,0 +1,94 @@
+event,time
+33-year-old,0
+male,0
+hospitalized,0
+general weakness,-720
+acute myeloid leukemia (AML),0
+induction chemotherapy,0
+cytarabine (continuous infusion),0
+idarubicin (bolus injection),0
+complete remission,0
+consolidation chemotherapy,0
+severe headache,0
+leukemia relapse in central nervous system (CNS),0
+intrathecal injection of methotrexate,0
+leukemic blasts in CSF unidentifiable,0
+methotrexate discontinued,0
+allogeneic peripheral blood stem cell transplant (HSCT),0
+HLA-2-mismatched unrelated donor,0
+abdominal ultrasonography before transplant,-648
+renal stones,-648
+right hydronephrosis,-648
+no specific symptoms related to renal stones,-648
+HSCT continued,-648
+conditioning regimen: busulphan,-648
+conditioning regimen: cyclophosphamide,-648
+tacrolimus,-648
+short-course methotrexate,-648
+GVHD prophylaxis,-648
+micafungin (anti-fungal prophylaxis),-648
+engraftment,-432
+itraconazole oral solution,-432
+complete engraftment,0
+"absolute neutrophil count 1,015/µL",0
+discharged,648
+nonoliguric acute renal failure,0
+eGFR 40-70 mL/min/m2,0
+side effect of calcineurin inhibitor,0
+no symptoms of acute GVHD,0
+serum negative for Aspergillus galactomannan antigen,0
+itraconazole substituted with fluconazole,648
+right flank pain,1776
+abdominal ultrasonography,1776
+non-contrast-enhanced abdominal CT,1776
+multiple renal and ureteral stones,1776
+right hydronephrosis,1776
+no radiologic evidence of fungal infection,1776
+urologic consultation,1776
+scheduled for ESWL,1776
+febrile episode,1776
+no pathogen identified in cultures,1776
+PCR positive for CMV,1776
+consecutive CMV test negative,1776
+serum positive for Aspergillus galactomannan antigen,1800
+consecutive positive test after 2 days,1848
+titer 3.03,1848
+non-contrast-enhanced chest CT,1848
+ostiomeatal unit CT,1848
+no evidence of aspergillosis,1848
+cefepime (empirical antibacterial therapy),1800
+amphotericin B deoxycholate (empirical antifungal therapy),1800
+fever subsided,1800
+2 courses of ESWL,1800
+cumulative dose amphotericin B 800 mg,1800
+discharged,1800
+itraconazole oral solution (400 mg),1800
+serum positive for Aspergillus galactomannan antigen,1800
+admitted,2304
+headache,2304
+right flank pain,2304
+brain MRI: leptomeningeal leukemic infiltration,2304
+CSF cytology confirmed CNS leukemia,2304
+abdominal CT: residual renal and ureteral stones,2304
+serum Aspergillus galactomannan titer 3.32,2304
+intrathecal methotrexate injection (twice),2304
+ureteroscopic lithotripsy,2304
+ureteral stent placement,2304
+right flank pain subsided,2304
+pain aggravated,2616
+fever developed,2616
+abdominal CT: right kidney subcapsular hematoma,2616
+prostate abscess-like lesion,2616
+WBC 150/µL,2616
+"platelet count 33,000/µL",2616
+emergency radical nephrectomy,2616
+ruptured area in right kidney,2616
+multiple fungal hyphae with septae and branching,2616
+renal aspergillosis,2616
+abscess-like lesion in prostate not manipulated,2616
+meropenem,2616
+vancomycin,2616
+amphotericin B deoxycholate,2616
+voriconazole administered,2616
+died,2712
+sepsis progression,2712

@@ -1,0 +1,74 @@
+16 years old | 0
+primigravida | 0
+admitted to the emergency room | 0
+pregnancy diagnosis of 37.6 weeks of gestation | 0
+viable intrauterine pregnancy | 0
+fetal heart rate of 143 beats per minute | 0
+fetus situated longitudinally with cephalic presentation | 0
+back to the left | 0
+cervix 6 cm dilated | 0
+70% effaced | 0
+station +1 | 0
+intact membranes | 0
+mild edema of the extremities | 0
+normal osteotendinous reflexes | 0
+obstetrical ultrasound | 0
+pregnancy of 37+0 weeks of gestation | 0
+posterior body placenta maturation grade III | 0
+amniotic fluid index of 8.7 cm | 0
+biophysical profile of 8/8 | 0
+Hadlock of 34.2% | 0
+weight of 3033 grams | 0
+labor monitoring | 0
+spontaneous rupture of the membranes | 5
+7 cm dilation | 5
+effective labor | 5
+4 contractions every 10 minutes | 5
+contractions lasted 40 to 45 seconds | 5
+no need for uterotonic agents | 5
+moved to the labor room | 5
+fully dilated | 10
+100% clearance | 10
+station of +3 | 10
+fetus in left occiput anterior position | 10
+live newborn delivered | 10
+Apgar scores of 7 and 9 | 10
+gestational age of 40 weeks | 10
+height 48 cm | 10
+weight of 2650 grams | 10
+Schultze mechanism | 10
+placenta came out with normal characteristics | 10
+grade III uterine inversion | 10
+manual reinversion maneuvers | 10
+total blood loss of 1200 mL | 10
+UA | 10
+oxytocin | 10
+carbetocin | 10
+misoprostol | 10
+persistent uterine inversion | 10
+exploratory laparotomy | 11
+general anesthesia | 11
+surgery room | 11
+reinversion successful | 11
+UA persisted | 11
+PPH | 11
+Hayman hemostatic suture | 11
+no response | 11
+bilateral ligation of the anterior trunk of the hypogastric artery | 11
+immediate recovery of uterine tone | 11
+cessation of PPH | 11
+uterus regained tone in approximately 5 minutes | 11
+postligation bleeding of 50 mL | 11
+transoperative period | 11
+2 bags of packed red blood cells transfused | 11
+gasometry showed a hemoglobin level of 7 g | 11
+transferred to the recovery room | 12
+transferred to the medical intensive care unit | 12
+transferred to a hospital room | 24
+normal diet | 24
+ambulation | 24
+spontaneous uresis | 24
+normal peristalsis | 24
+breastfeeding | 24
+discharged on the second day | 48
+no postoperative complications | 48

@@ -1,0 +1,58 @@
+event,time
+62 year-old female,0
+aortobifemoral bypass,-240 (approx. 10 days before ED visit)
+abdominal aortic aneurysm,-240
+coronary artery stenting,-240
+unstable angina,-240
+new onset fatigue,0
+myalgia,0
+left flank pain,-72 (approx. 3 days before presentation)
+left flank pain irradiating to left thigh,-72
+acute severe pain,-72
+partial temporary pain relief,-24 (approx. 1 day before presentation)
+no fever,0
+no urinary symptoms,0
+soft abdomen,0
+"severe leukocytosis (27,000 cells/mm³)",0
+elevated CRP (300 mg/L),0
+altered liver function test,0
+leukocyturia,0
+microscopic hematuria,0
+bacteriuria,0
+CT-urography,0
+left retroperitoneal hemato-urinoma (11×9×12 cm),0
+6 mm left proximal ureteral stone,0
+ureteral rupture,0
+urinary extravasation,0
+renal pelvis blood clots,0
+calyceal blood clots,0
+medical treatment initiation,0
+supportive treatment initiation,0
+intravenous hydration,0
+antibiotics,0
+analgesics,0
+urgent endoscopic drainage,0
+JJ stent insertion,0
+Foley urinary catheter placement,0
+urine culture (multi-sensitive E. coli),0
+discharged home,24 (approx. 1 day after admission)
+Foley catheter kept for 10 days,24
+ciprofloxacin,24
+follow-up scheduled in 3 weeks,24
+returned to ED,240 (10 days after discharge: 7 days after Foley removal + 10 days)
+septic shock,240
+intensive care unit admission,240
+imaging showing same findings,240
+JJ stent in place,240
+CT-guided left 8F nephrostomy,240
+10F left percutaneous drain insertion,240
+fungal infection (Candida Kefyr),240
+adequate fungal treatment,240
+recovery from infection,264 (approx. 1 day after ICU admission)
+percutaneous catheter draining large urine,264
+persistent ureteral fistula,264
+"quadruple drainage (Foley, JJ stent, nephrostomy, percutaneous)",264
+laparoscopic nephrectomy,1440 (2 months after initial episode)
+subtotal ureterectomy,1440
+necrotic inflamed ureter removal,1440
+stone extraction,1440

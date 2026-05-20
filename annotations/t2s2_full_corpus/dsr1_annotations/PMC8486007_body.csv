@@ -1,0 +1,77 @@
+event,time
+23 years old,0
+female,0
+admitted to the hospital,0
+labour pains,0
+denied fever,0
+denied shortness of breath,0
+denied cough,0
+denied sore throat,0
+temperature 37°C,0
+BP 138/89 mmHg,0
+heart rate 103 beats/min,0
+external OS 2 cm,0
+premature rupture of membrane,0
+meconium-stained liquor,0
+fetal distress,0
+hemoglobin 10.2gm%,0
+COVID Rapid Antigen Test positive,0
+mild cough,-168
+unvaccinated,0
+emergency caesarean section,0
+live born male neonate,0
+neonatal weight 2.86 kg,0
+blood matching,0
+1 unit B+ blood transfused,0
+postpartum hemorrhage,0
+heavy vaginal bleeding,0
+uterine atonicity,0
+Inj carboprost,0
+tranexamic acid,0
+Inj methergine,0
+IV syntocinon,0
+per rectal misoprostol,0
+BP 106/64 mmHg,0
+respiratory rate 17/min,0
+heart rate 120 beats/min,0
+abdomen reopened,24
+flabby uterus,24
+devascularization,24
+bilateral uterine and ovarian arteries ligated,24
+B-lynch suture,24
+partial uterine contraction,24
+2 litres blood loss,24
+3 units B+ blood transfused,24
+COVID High Dependency Unit admission,24
+oral feeding started,40
+respiratory distress,48
+O2 saturation 92%,48
+IV piperacillin/tazobactam,48
+IV metronidazole,48
+Inj pantoprazole,48
+Tab ivermectin,48
+Tab montelukast,48
+Tab cetirizine,48
+Inj ondansetron,48
+Tab zinc,48
+Tab vitamin C,48
+Capsules vitamin D,48
+Infusion paracetamol,48
+Tab paracetamol,48
+1 unit blood transfused,72
+O2 saturation 96–98%,72
+abdominal stitches removed,192
+D-Dimer 9.78 mg/L,48
+C-Reactive Protein 129 mg/L,48
+WBC count 16200 /μL,48
+Haemoglobin 8.2 g/dL,48
+Interleukin 49.7 pg/mL,48
+Ferritin 224.1 ng/mL,48
+D-Dimer 3.31 mg/L,240
+C-Reactive Protein 11.6 mg/L,240
+WBC count 9300 /μL,240
+Haemoglobin 9.3 g/dL,240
+Interleukin 16.7 pg/mL,240
+Ferritin 171.6 ng/mL,240
+RT PCR negative,336
+discharged,360

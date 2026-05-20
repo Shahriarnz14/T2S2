@@ -1,0 +1,103 @@
+event,time
+16 year-old,0
+male,0
+admitted to the hospital,0
+ulcerative colitis,-17520
+corticosteroid-dependent course,-17520
+aminosalicylates,-17520
+daily corticosteroids,-17520
+immunomodulators,-8760
+azathioprine (intermittent),-8760
+completed a three-dose induction course of infliximab,-720
+ulcerative colitis flare,-504
+colonoscopy,-504
+pancolitis,-504
+treated with IV corticosteroids,-504
+another dose of infliximab,-504
+alkaline phosphatase 88 U/L within normal limits,-504
+improved,-480
+fever,0
+fatigue,0
+scleral icterus,0
+jaundice,0
+dark urine,0
+right abdominal pain,0
+right shoulder pain,0
+leukocytosis 16000/µL,0
+anemia 6.9 g/dL,0
+thrombocytopenia 53000/µL,0
+transaminitis,0
+aspartate aminotransferase 570 U/L,0
+alanine aminotransferase 296 U/L,0
+alkaline phosphatase 426 U/L,0
+hyperbilirubinemia 3.1 mg/dL,0
+C reactive protein 20.4 mg/dL,0
+computed tomography of the abdomen with contrast,0
+multiple multi-loculated abscesses in the right hepatic lobe,0
+largest loculation in segment 7 approximately 10 cm,0
+presence of gas in hepatic abscess,0
+extensive intrahepatic thrombosis of the right portal vein,0
+splenomegaly,0
+bilateral pleural effusions,0
+diffuse colonic wall thickening,0
+no megacolon,0
+no free intraperitoneal air,0
+no other signs of perforation,0
+appendix normal,0
+pylephlebitis,0
+veno-occlusive disease,0
+vancomycin started,0
+meropenem started,0
+abscess drained by interventional radiology,12
+culture positive for Peptostreptococci,12
+culture positive for skin flora,12
+Gram-positive cocci in clusters,12
+Gram-positive cocci in pairs,12
+culture positive for Escherichia coli,12
+acid-fast bacilli stain negative,12
+bacteremic with Streptococcus viridans,24
+bacteremic with Escherichia coli,36
+surgical drainage of hepatic abscesses,48
+septic shock,50
+sepsis,50
+ICU management required,50
+total parenteral nutrition,50
+bowel rest,50
+antimicrobial therapy changed to ceftriaxone and metronidazole,72
+vancomycin discontinued,72
+meropenem discontinued,72
+ceftriaxone started,72
+metronidazole started,72
+repeat CT showed continued improvement in size of abscesses,240
+repeat CT showed continued improvement in size of abscesses,480
+discharged,720
+ceftriaxone discontinued,720
+metronidazole discontinued,720
+therapy de-escalated to oral amoxicillin-clavulanate,720
+amoxicillin-clavulanate started,720
+total parenteral nutrition discontinued,720
+bowel rest discontinued,720
+amino acid-based formula via nasogastric tube,720
+advancing oral diet,720
+symptomatically improved,720
+CRP down-trending,720
+exclusive enteral nutrition,720
+not consistently compliant with exclusive enteral nutrition,720
+no UC therapy,720
+off any immunosuppressive therapies,720
+amoxicillin-clavulanate completed,1056
+ultrasonography showed resolution of liver loculations,5040
+normalization of liver enzymes,5040
+normalization of inflammatory markers,5040
+severe pancolitis,7920
+total colectomy,7920
+moderately to severely active chronic pancolitis with mural abscesses (surgical pathology),7920
+mucosa diffusely tan-red and hyperemic,7920
+scattered diffuse areas of ulceration,7920
+nodularity,7920
+pseudopolyps,7920
+ileum without significant abnormalities,7920
+appendix without significant abnormalities,7920
+no evidence of ischemia,7920
+no evidence of dysplasia,7920
+no evidence of granulomas,7920

@@ -1,0 +1,50 @@
+event,time
+36 years old,0
+female,0
+admitted to the hospital,0
+general body ache,-72
+malaise,-48
+breathing difficulty,-48
+diabetes mellitus type II,0
+obstructive sleep apnea,0
+hypertension,0
+hypothyroidism,0
+morbid obesity,0
+tachycardia (120 bpm),0
+tachypnea (36/min),0
+"leukocytosis (white blood cell count >52,000)",0
+suspected urinary tract infection,0
+pus cell count - 12-15 cells,0
+"started on antibiotics (meropenem, 500 mg thrice a day)",0
+prescribed vasopressors,0
+adequate fluid resuscitation,0
+required mechanical ventilation,0
+continued to deteriorate,0
+decreasing urine output,0
+intubated,4
+anuric,6
+SOFA score 15,24
+MODS score 10,24
+APACHE II score 30,24
+diagnosed septic shock (urosepsis),16
+low perfusion state,16
+"MODS (acute respiratory distress syndrome, acute kidney injury, arterial hypotension)",16
+added hemoadsorption column (CytoSorb),16
+continuous renal replacement therapy,16
+flow rate maintained at 250 ml/min,16
+anticoagulated with heparin (activated partial thromboplastin time 30-40 s),16
+improved hemodynamically,28
+on inotropic support,28
+intravenous hydrocortisone,28
+noradrenalin stopped,28
+other vasopressors gradually weaned out,28
+corticosteroids (intravenous hydrocortisone 100 mg thrice daily),28
+stabilized,72
+CytoSorb applied daily,72
+urine output increased,72
+improvement in ventilator parameters,72
+SOFA score 4,72
+MODS score 5,72
+APACHE II score 7,72
+laboratory parameters within normal range,72
+discharged,N/A

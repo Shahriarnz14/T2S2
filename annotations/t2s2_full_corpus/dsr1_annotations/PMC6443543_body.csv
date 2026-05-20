@@ -1,0 +1,68 @@
+event,time
+66 years old,0
+male,0
+admitted to our hospital,0
+fever,-264
+cough,-264
+arthralgia,-264
+diagnosed with type-A influenza,-240
+treated with oseltamivir,-240
+dyspnea,-216
+admitted to a nearby hospital,-216
+computed tomography (CT) scans of the chest,-216
+bilateral multiple granular shadows,-216
+patchy opacities,-216
+MRSA detected in sputum culture,-216
+treated with sulbactam/ampicillin (SBT/ABPC),-216
+treated with levofloxacin,-216
+CRP reduced from 40.0 to 23.0 mg/dL,-216
+bilateral consolidation worsened on chest X-ray,-216
+transferred to our hospital,0
+temperature 38.2 °C,0
+blood pressure 149/79 mmHg,0
+heart rate 118 beats/minute,0
+respiratory rate 20 breaths/minute,0
+oxygen saturation 98% under 3 L/min oxygen,0
+faint coarse crackles in bilateral lungs,0
+no wounds observed,0
+leukocytosis with predominant neutrophils,0
+hypoalbuminemia,0
+CRP elevated at 19.14 mg/dL,0
+procalcitonin 2.43 ng/mL,0
+"sIL-2R elevated (2,475.0 U/mL)",0
+rheumatoid factor normal,0
+antinuclear antibodies normal,0
+anticytoplasmic antibodies normal,0
+chest X-ray showed bilateral infiltration progression,0
+chest CT showed multiple cavities,0
+ground-grass opacities with bilateral pleural effusion,0
+treated with SBT/ABPC again,0
+blood cultures negative,0
+echocardiography showed no vegetation,24
+endovascular echography showed no deep vein thrombosis,24
+bronchoscopy performed,48
+purulent sputum suctioned,48
+biopsy performed,48
+brushing cytology performed,48
+gram-positive cocci clusters detected,48
+neutrophils with phagocytosis of bacterium,48
+histopathology showed necrosis with inflammatory exudate,48
+"treated with vancomycin (VCM) 1,000 mg/day",96
+"VCM increased to 1,500 mg/day",96
+MRSA susceptible to trimethoprim/sulfamethoxazole,96
+MRSA susceptible to erythromycin,96
+MRSA susceptible to minocycline,96
+MRSA susceptible to clindamycin,96
+MRSA susceptible to VCM (MIC ≤1 μg/mL),96
+SCCmec type IV identified,96
+PVL gene identified,96
+diagnosis of CA-MRSA necrotizing pneumonia,96
+temperature reduced,120
+WBC count reduced,120
+CRP level reduced,120
+oxygenation resolved,120
+pulmonary opacities improved,120
+changed VCM to linezolid,648
+sputum negative for MRSA,720
+discharged from hospital,984
+chest CT at six months showed cavity disappearance,4320

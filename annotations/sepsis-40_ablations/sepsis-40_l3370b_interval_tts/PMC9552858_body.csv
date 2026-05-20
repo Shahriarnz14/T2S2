@@ -1,0 +1,90 @@
+event,time
+male,0
+premature birth,-672
+emergency cesarean delivery,-672
+abruptio placenta,-672
+birth weight 1090g,-672
+Apgar 4 and 8,-672
+respiratory distress,-672
+respiratory rate 65 breaths per min,-672
+chest retraction,-672
+CPAP machine,-672
+positive end expiratory pressures,-672
+inspired oxygen 30%,-672
+cloudy eyes,0
+ectropion,0
+dry ichthyotic skin,0
+undescended testicles,0
+height 75th percentile,0
+weight 25th percentile,0
+head circumference 25th percentile,0
+temperature 36.2°C,0
+heart rate 167 beats per min,0
+normal neurological examination,0
+normal breath sounds,0
+no organomegaly,0
+normal blood count,0
+normal electrolytes,0
+normal liver function,0
+respiratory distress syndrome,0
+ground-glass opacity,0
+minor respiratory acidosis,0
+surfactant dosage,0
+trophic feeding,72
+bowel movement,12
+abdominal distension,144
+tachycardia,144
+tachypnea,144
+thrombocytopenia,144
+neutropenia,144
+elevated C-reactive protein,144
+meropenem and vancomycin,144
+stopped trophic feeding,144
+restarted feeding,216
+high-flow oxygen treatment,168
+relapses of unexplained apnea,504
+septic examination negative,504
+normal brain MRI,504
+nasogastric tube,504
+conjugated hyperbilirubinemia,504
+neonatal cholestasis workup,504
+normal echocardiogram,504
+normal eye test,504
+craniosynostosis,504
+hepatosplenomegaly not seen,504
+no biliary atresia,504
+normal-appearing gallbladder,504
+no intrahepatic or extrahepatic biliary tree dilatation,504
+declining albumin level,504
+elevated bilirubin,504
+elevated AST and ALT,504
+multiple albumin infusions,504
+ursodeoxycholic acid treatment,504
+infectious etiology investigation,504
+negative results,504
+"normal TSH, T3, T4, and cortisol levels",504
+negative metabolic disorders,504
+caffeine treatment,504
+hemoglobin optimization,504
+phenobarbitone treatment,504
+severe cyanosis,912
+apnea,912
+bradycardia,912
+cardio-respiratory resuscitation,912
+intubation,912
+mechanical breathing,912
+epinephrine,912
+septic shock,912
+multiorgan failure,912
+disseminated intravascular coagulation,912
+acute renal damage,912
+capillary leak syndrome,912
+inotropic support,912
+high-frequency oscillating ventilation,912
+continuous inhaled nitric oxide treatment,912
+death,1008
+whole-exome sequencing,1008
+NOTCH2 gene mutation,1008
+pathogenic heterozygous variant c.1076c>T (Ser359Phe),1008
+ALGS2 diagnosis,1008
+genetic counseling,1008

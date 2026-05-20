@@ -1,0 +1,111 @@
+event,time
+34 years old,0
+female,0
+presented to Obstetric Department for labor induction,0
+suspected macrosomic fetus,0
+39th gestational week,0
+medical history unremarkable,0
+periodic depression,0
+whiplash,0
+overweight,0
+BMI 34,0
+current pregnancy uneventful,0
+previous pregnancies uneventful,0
+entered active phase of labor,-6
+amniotomy exhibiting clear amnion fluid,-6
+oxytocin used to augment labor,-10
+gave spontaneous birth to male infant,0
+infant weight 4230 g,0
+Apgar score 7 at 1 min,0
+Apgar score 10 at 5 min,0
+labor uneventful,0
+immediate postpartum period uneventful,0
+discharged,4
+readmitted to hospital,24
+pain,24
+chills,24
+hypotension (96/72 mmHg),24
+tachycardia (112),24
+fever,24
+oliguria,24
+generalized abdominal tenderness,24
+guarding,24
+peritoneal signs,24
+enlarged uterus reaching umbilicus,24
+abdominal ultrasound examination empty uterus,24
+transvaginal ultrasound examination empty uterus,24
+no intraabdominal fluid,24
+culture samples collected,24
+intravenous antibiotic therapy metronidazole,24
+intravenous antibiotic therapy cefuroxime,24
+elevated CRP,24
+elevated creatinine,24
+normal white blood cell counts,24
+normal hemoglobin,24
+normal platelets,24
+abdominal CT-scan with intravenous contrast,36
+enlarged uterus,36
+ascites,36
+circulatory instability during CT scan,36
+transferred to ICU,36
+tentative diagnosis severe puerperal endometritis,36
+circulatory stabilization,38
+operation theater for manual exploration of uterus,38
+progressive elevation of CRP,38
+leucocytosis,38
+no retained placental tissue,38
+no signs of uncontrolled hemorrhage,38
+antibiotic therapy changed to meropenem,38
+antibiotic therapy changed to metronidazole,38
+developed fulminate circulatory shock,38
+fluid resuscitation,38
+heavy vasopressor therapy,38
+cardiac arrest,38
+cardiopulmonary resuscitation,38
+intravenous adrenaline 1 mg,38
+sinus rhythm restored,38
+transthoracic echocardiography (TTE),38
+right ventricular heart failure,38
+left ventricular heart failure,38
+ejection fraction less than 20%,38
+transferred to TICU,38
+connected to invasive CPS,38
+cardiac failure reversed,86
+kidney function improved,86
+urine culture positive for GAS,24
+vaginal culture positive for GAS,24
+blood cultures negative,24
+allergy to penicillin,0
+continued meropenem,0
+continued metronidazole,0
+returned to regional ICU,168
+stable condition,168
+intubated,168
+sedated,168
+circulatory unstable again,168
+temperature increased above 42°C,168
+active cooling,168
+CVVHDF initiated,168
+CT scan suspected uterine necrosis,168
+suspected thrombosis in right uterine artery,168
+explorative laparotomy,168
+total abdominal hysterectomy,168
+necrotic enlarged uterus (21×16×13 cm),168
+thromboembolus in right uterine artery,168
+microscopic examination acute necrotizing inflammation,168
+septic thromboemboli in uterine artery,168
+intensive care management,168
+respiratory assistance needed,168
+dialysis needed,168
+altered consciousness,168
+paralysis of all four extremities,168
+absent tendon reflexes,168
+preserved eye movements,168
+preserved oculus reflex,168
+MRI-scan performed,168
+EEG performed,168
+lumbar puncture performed,168
+no obvious explanation from procedures,168
+severe Critical Illness Polyneuropathy (CIP),168
+transferred to neurorehabilitation department,2880
+condition slowly improving,2880

@@ -1,0 +1,62 @@
+long-term venous access port placed | -26280
+recurrent transfusion-dependent anemia | -26280
+admission for pneumonia | -2880
+blood cultures positive for diphtheroids | -2880
+treated with levofloxacin | -2880
+high-grade fever | -72
+pleuritic right lower chest pain | -72
+cough | -72
+69-year-old woman | 0
+presented to the emergency department | 0
+fever persisted | 0
+chest pain persisted | 0
+cough persisted | 0
+elevated temperature of 38.8°C | 0
+bibasilar crackles | 0
+lower extremity edema | 0
+grade 3 holosystolic apical murmur secondary to known mitral valve regurgitation | 0
+elevated WBC count | 0
+elevated absolute neutrophil count | 0
+elevated b-type natriuretic peptide | 0
+chest radiography revealed changes consistent with congestive heart failure | 0
+electrocardiogram showed left bundle branch block | 0
+blood cultures positive for Corynebacterium CDC group G | 0
+gram stain positive for gram positive rods | 0
+Corynebacterium CDC group G identified using biochemical tests recommended by CLSI | 0
+transthoracic echocardiography demonstrated moderate mitral valve regurgitation | 0
+thickened anterior mitral leaflet suggesting vegetations | 0
+severely elevated pulmonary artery systolic pressure of 84 mmHg | 0
+diagnosed with bacterial endocarditis secondary to Corynebacterium CDC group G involving the mitral valve | 0
+started intravenous vancomycin | 0
+started clindamycin | 0
+venous access port removed | 120
+discharged to extended care facility for intravenous antibiotic therapy | 120
+readmitted due to sudden onset shortness of breath | 192
+hypoxic | 192
+elevated white blood cell count | 192
+repeat transthoracic echocardiography showed severe mitral valve regurgitation | 192
+large and mobile vegetation on the mitral valve | 192
+mitral valve replacement with a 27-mm Edwards-Carpentier pericardial valve | 216
+coronary artery bypass grafting surgery with reverse saphenous vein graft to the distal right coronary artery | 216
+pathology of native mitral valve leaflet revealed endocarditis with fibrinopurulent exudate and granulation tissue | 216
+native mitral valve cultures positive for diphtheroids | 216
+post-operative oliguric acute renal failure | 240
+respiratory failure requiring mechanical ventilation | 240
+developed urinary tract infection with vancomycin-resistant enterococcus (VRE) | 360
+vancomycin discontinued | 360
+daptomycin therapy started | 360
+worsening congestive heart failure | 384
+patient extubated | 456
+fever spikes | 600
+hypotension | 600
+transesophageal echocardiogram showed severe mitral valve regurgitation | 600
+echo densities observed on the mitral valve leaflets suspicious for recurrent endocarditis of prosthetic valve | 600
+antibiotic therapy broadened with addition of doxycycline | 600
+antibiotic therapy broadened with addition of aztreonam | 600
+antibiotic therapy broadened with addition of anidulafungin | 600
+bioprosthetic mitral valve replaced with mechanical St. Jude’s prosthesis | 624
+pathology of bioprosthetic mitral valve showed fibrous and fibro-inflammatory tissue consistent with endocarditis (cultures remained negative) | 624
+developed limb ischemia | 696
+bleeding through orifices and lines | 696
+elevation of partial thromboplastin time and prothrombin time consistent with disseminated intravascular coagulation | 696
+expired in multi-organ failure | 696

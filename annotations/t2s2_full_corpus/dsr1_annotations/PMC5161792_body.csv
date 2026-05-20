@@ -1,0 +1,106 @@
+event,time
+68-year-old woman,0
+presented with dyspnea,-72
+presented with wheezing,-72
+presented with productive cough,-72
+used albuterol several times at home,-72
+completed 1-month course of tapered corticosteroid regimen,-168
+gained 30 pounds,-168
+10-year history of multiple COPD exacerbations,-87600
+treated with multiple antibiotics,-87600
+treated with inhaled bronchodilators,-87600
+Beta 2 agonists use,-87600
+long-acting muscarinic antagonist use,-87600
+systemic corticosteroids use,-87600
+last hospitalization 8 months prior to admission,-5760
+no previous history of intubation,0
+no previous history of stridor,0
+no previous history of reflux symptoms,0
+mMRC symptom score 3,0
+150 pack-year smoking history,-87600
+quit smoking 1-month before,-720
+sleeps in a seated position,0
+dyspnea occurs when lying flat,0
+chairbound due to dyspnea,0
+hypertension,0
+depression,0
+obstructive sleep apnea,0
+end-stage renal disease on hemodialysis,0
+medications: fluticasone/salmeterol,0
+medications: tiotropium,0
+medications: albuterol as needed,0
+medications: prednisone,0
+medications: 3 L oxygen by nasal cannula,0
+medications: CPAP at night,0
+medications: simvastatin,0
+medications: diltiazem SR,0
+medications: sertraline,0
+completed pulmonary rehabilitation program 2 years before,-17520
+physical examination: alert,0
+physical examination: moderate respiratory distress,0
+temperature 98.6 F,0
+blood pressure 150/72,0
+pulse rate 90/min,0
+respiratory rate 26/min,0
+BMI 36 kg/m2,0
+oxygen saturation 96% on 6 L/min oxygen,0
+Cushingoid facies,0
+centripetal obesity,0
+cardiac examination: rapid regular rhythm,0
+no murmur,0
+pulmonary examination: bilateral expiratory wheezing,0
+no pedal edema,0
+chest radiograph: no infiltrates or congestion,0
+ECG: sinus tachycardia,0
+ECG: non-specific ST changes,0
+hemoglobin 11 g/dL,0
+glucose 147 mg/dL,0
+potassium 4.7 mEq/L,0
+creatinine 9.1 mg/dL,0
+admitted with COPD exacerbation,0
+received intravenous glucocorticoids,0
+received albuterol nebulizer treatments,0
+received bi-level positive airway pressure,0
+received broad-spectrum antibiotics,0
+continued hemodialysis,0
+oxygenation improved,0
+symptoms improved,0
+PFT: FEV1/FVC ratio 62%,0
+PFT: FEV1 41% predicted,0
+GOLD 3 classification,0
+alternative diagnosis pursued,0
+transthoracic echocardiogram: LVEF 70%,0
+normal right ventricular function,0
+Grade 1 diastolic dysfunction,0
+normal valves,0
+thrombophilia workup negative,0
+CT soft tissue neck unremarkable,0
+dynamic expiratory chest CT: diffuse pulmonary emphysema,0
+dynamic expiratory chest CT: 11 mm right upper lobe pulmonary nodule,0
+dynamic expiratory chest CT: >50% collapse in distal trachea/multiple central bronchi,0
+dynamic expiratory chest CT: complete collapse of bronchus intermedius,0
+tracheobronchomalacia diagnosed,0
+declined lung biopsy,0
+agreed on silicone stent placement,0
+dynamic Y Boston scientific tracheobronchial stent placed,0
+discharged home next day,24
+arterial blood gases: pH 7.35,24
+arterial blood gases: pCO2 47,24
+arterial blood gases: PO2 85 on 3 L/min oxygen,24
+good inhaler technique,24
+found hypotensive and unresponsive next day,48
+acute hypoxic respiratory failure,48
+admitted to ICU,48
+endotracheal intubation,48
+intravenous vasopressors,48
+systemic corticosteroids,48
+broad-spectrum antibiotics,48
+nebulized bronchodilator treatment,48
+mucolytic agents,48
+"chest radiograph: no infiltrates, edema, or pneumothorax",48
+tracheobronchial stent in normal position,48
+sepsis ruled out,48
+myocardial ischemia ruled out,48
+COPD exacerbation improved,48
+placed on home hospice,48
+discharged,48

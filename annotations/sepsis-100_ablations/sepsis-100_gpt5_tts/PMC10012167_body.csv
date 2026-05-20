@@ -1,0 +1,127 @@
+event,time
+cardiological examination,-504
+electrocardiogram normal,-504
+transthoracic echocardiography normal,-504
+COVID-19 infection,-336
+rhinitis,-336
+mild cough,-336
+history of arterial hypertension,0
+obesity,0
+46-year-old,0
+male,0
+admitted to ICU,0
+fever,0
+hypotension,0
+marked asthenia,0
+alert,0
+oriented,0
+cooperative,0
+asthenic,0
+arterial oxygen saturation 85% in spontaneous respiration,0
+blood pressure 85/55 mmHg,0
+heart rate approximately 120 bpm,0
+body temperature 38.3 C°,0
+femoral central venous catheter positioned,0
+ECG sinus tachycardia 122 bpm,0
+ECG diffuse low voltages,0
+absence of significant repolarization abnormalities,0
+neutrophilic leukocytosis,0
+white blood cell count of 26800 x 1000/mm3,0
+C-reactive protein elevation,0
+Procalcitonin elevation,0
+elevated high sensitivity Troponin,0
+elevated brain natriuretic peptide,0
+elevated creatinine,0
+elevated transaminases,0
+elevated total bilirubin,0
+RT-PCR nasopharyngeal swab for COVID-19 negative,0
+COVID-19 IgM antibody test high IgM levels,0
+TTE normal left ventricular cavitary dimensions,0
+diffuse LV parietal thickening with thicknesses of 15-16 mm,0
+several areas of increased myocardial echogenicity,0
+severely reduced LV global systolic function,0
+ejection fraction 26%,0
+dP/dT 672 mmHg/sec,0
+indexed stroke volume 11 ml/m2,0
+cardiac index 1.3 l/min/m2,0
+picture of low output,0
+Grade II LV diastolic dysfunction,0
+normal right ventricular cavitary dimensions,0
+reduced global right ventricular systolic function,0
+RV basal end-diastolic diameter 37 mm,0
+RV mean diameter 28 mm,0
+TAPSE 14 mm,0
+tricuspid S-wave velocity at tissue doppler imaging 7.3 cm/sec,0
+inferior vena cava dilated with maximum diameter 26 mm with inspiratory collapse <50%,0
+right ventricular systolic pressure 41 mmHg (26+15),0
+absence of hemodynamically significant valvulopathy,0
+slight amount of pericardial effusion,0
+no signs of hemodynamic involvement,0
+blood cultures obtained,0
+broad-spectrum antibiotic therapy started,0
+daptomycin started,0
+piperacillin/tazobactam started,0
+crystalloid hydration started,0
+nasal cannula ventilatory therapy with 4 l/min oxygen flow started,0
+norepinephrine continuous intravenous infusion 0.6 mcg/kg/min initiated,0
+thoracic computed tomography perivascular aortic and pulmonary adipose tissue imbibition,1
+abdominal ultrasonography no significant findings,1
+norepinephrine increased to 0.9 mcg/kg/min,1
+poor hemodynamic response to norepinephrine,1
+persistence of oliguria,1
+levosimendan continuous intravenous infusion 0.1 mcg/kg/min initiated,2
+levosimendan bolus avoided,2
+blood pressure 100/60 mmHg,14
+heart rate 110 bpm,14
+LV ejection fraction 42%,14
+dP/dT 808 mmHg/sec,14
+SV index 17 ml/m2,14
+cardiac index 1.87 l/min/m2,14
+TAPSE 17 mm,14
+tricuspid S-wave velocity at TDI 9 cm/sec,14
+IVC diameter 20 mm,14
+IVC inspiratory collapse <50%,14
+RVSP 38 mmHg,14
+LV diastolic function Grade II,14
+blood pressure 125/70 mmHg,26
+heart rate 95 bpm,26
+diuresis since start of infusion 1800 ml,26
+LV ejection fraction 66%,26
+dP/dT 1275 mmHg/sec,26
+TAPSE 23 mm,26
+tricuspid S-wave velocity at TDI 11.2 cm/sec,26
+SV index 27 ml/m2,26
+cardiac index 2.5 l/min/m2,26
+LV diastolic function normal,26
+IVC maximum diameter 18 mm,26
+IVC complete inspiratory collapse,26
+RVSP 28 mmHg,26
+diffuse parietal thickening persisted,26
+increased myocardial reflectivity persisted,26
+no significant changes in LV and RV volumes,26
+inflammation indices showed no substantial differences compared with access,26
+blood cultures negative,48
+central venous catheter removed,72
+CVC tip culture negative,96
+cardiac magnetic resonance imaging performed,96
+normal LV and RV volumes and systolic function on CMR,96
+mild hypokinesia of mid and basal segments of lateral and inferolateral walls on CMR,96
+T2-weighted increased signal intensity suggesting edema in almost all LV segments,96
+"subendocardial localization of edema and enhancement in basal and mid interventricular septum, inferior basal wall, and basal and mid lateral and inferolateral walls",96
+spared area stria isointense within lateral wall,96
+edema and EGE/LGE involving basal segments of RV free wall,96
+pericardial involvement on CMR,96
+picture compatible with immune-mediated myocarditis on CMR,96
+viral sepsis suspected,96
+endomyocardial biopsy performed,144
+lymphocytic myocarditis confirmed,144
+coronary arteriography performed,168
+normal coronary circulation,168
+ECG gradual normalization over about 20 days,480
+discharged,504
+excellent hemodynamic compensation,504
+normal laboratory findings,504
+normal electrocardiographic findings,504
+normal echocardiographic findings,504
+TTE 1 month after discharge normal findings,1224
+TTE 3 months after discharge normal findings,2664

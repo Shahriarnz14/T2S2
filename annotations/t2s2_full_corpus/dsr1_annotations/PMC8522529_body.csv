@@ -1,0 +1,66 @@
+event,time
+75 years old,0
+female,0
+admitted to Emergency Department,0
+mildly itching skin rash,-48
+fever,-48
+shivering,-48
+weakness,-48
+rash initially noticed on torso,-48
+rash spread to extremities,-48
+self-medication with cetirizine,-48
+no improvement,-48
+no respiratory disorders,0
+no gastrointestinal disorders,0
+SARS-CoV-2 PCR test negative,0
+chest X-ray no pulmonary infiltrates,0
+prescribed allopurinol for hyperuricemia,-504
+"long-term antihypertensive drugs (amlodipine, valsartan)",-504
+maculopapulous exanthema covering whole body,0
+"maculopapulous exanthema prominent on back, abdomen, between breasts",0
+no oral lesions,0
+viral infection considered,0
+adverse drug reaction (allopurinol) considered,0
+allopurinol discontinued,0
+oral prednisolone (0.9 mg/kg/d for 2 days) prescribed,0
+cetirizine (10 mg/d) prescribed,0
+outpatient treatment,0
+declined hospitalization,0
+worsening exanthema,48
+hospital admission,48
+maculopapulous exanthema progressed to widespread blistering,48
+skin peeling >85% body surface,48
+oral involvement,48
+mucosal ulceration,48
+erythema of conjunctiva,48
+diagnosis of TEN (toxic epidermal necrolysis),48
+prednisolone intravenous (3.7 mg/kg/d for 3 days),48
+cyclosporine (5 mg/kg/d for 10 days),48
+skin biopsy showed TEN,48
+transferred to ICU,48
+multidisciplinary team review,48
+SCORTEN initial mortality prediction 90%,48
+SCORTEN decreased after 3 days in ICU,96
+fluid replacement therapy,48
+"warm sterile lotions (polyhexanide, octenidine)",48
+nonadhesive gauze,48
+antiseptic gel,48
+sterile compresses,48
+metalline foil,48
+oral rinsing with saline,48
+antiseptic lotions,48
+intense pain,48
+patient-controlled analgesia,48
+enteral nutrition via nasogastric tube,48
+prophylactic anticoagulation,48
+bacteriuria treated with antibiotics,48
+ophthalmic recovery with eye drops,48
+"gynecological involvement (labia minora, introitus)",48
+no hepatitis,48
+no thyroiditis,48
+skin lesions improved,168
+transferred to Dermatology Department,168
+renal failure regression,48
+inflammatory markers regression,48
+recovered completely,1008
+discharged,1008

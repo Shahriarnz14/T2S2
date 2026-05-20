@@ -1,0 +1,106 @@
+event,time
+64 years old,0
+male,0
+polysubstance abuse,0
+hypertension,0
+ischaemic heart disease,0
+transferred to Hospital Tuanku Fauziah,0
+COVID-19 positive,0
+RdRP gene: 24.33,0
+E gene: 26.32,0
+asymptomatic,0
+clear chest X-ray,0
+asymptomatic sinus bradycardia (30-45 BPM),0
+right heart axis,0
+incomplete right bundle branch block,0
+ST-segment depression (1 mm),0
+T inversion,0
+normotensive (135/54 mmHg),0
+good pulse volume,0
+SpO2 98-99%,0
+jugular venous pressure not raised,0
+no radio-radial delay,0
+no radio-femoral delay,0
+pansystolic murmur grade III,0
+moderate aortic regurgitation,0
+thickened aortic valve,0
+dilated left ventricular chamber,0
+ejection fraction 70%,0
+no pericardial effusion,0
+pulmonary artery systolic pressure 10.0+5.0 mmHg,0
+no foot oedema,0
+normal haematological parameters,0
+normal biochemical parameters,0
+intravenous atropine 0.5 mg failure,24
+intravenous dopamine 5-15 mg failure,24
+transcutaneous cardiac pacing,24
+dopamine weaned off,24
+noradrenaline infusion started,24
+heart rate 45-60 BPM,24
+systolic blood pressure 110-150 mmHg,24
+diastolic blood pressure 60-90 mmHg,24
+blood pressure decreased to 88/54 mmHg,72
+subclavian transvenous pacing implanted,72
+shortness of breath,72
+chest pain,72
+sweating,72
+pacer removed,72
+jugular transvenous pacing re-implanted,72
+lower abdominal pain,96
+no bowel movements,96
+vomiting,96
+blood streaks on diapers,96
+metabolic acidosis (pH 7.013),96
+pO2 71.9,96
+pCO2 43.5,96
+HCO3- 11.0,96
+anion gap 33.1 mEq/l,96
+665 ml yellowish faecal material from gastric decompression,96
+proximal ascending colon wall thickening,96
+right inguinal hernia,96
+small bowel and mesenteric content in hernia,96
+proximal bowel dilatation,96
+soft reducible non-tender hernia,96
+no surgical intervention,96
+persistent hyperglycaemia (14.0 mmol/l),144
+cardiorenal syndrome,144
+anuria,144
+worsening metabolic acidosis,144
+urea 16.5 mmol/l,144
+creatinine 343 µmol/l,144
+fulminant hepatic failure,144
+"ALT 4,944 U/l",144
+"AST 16,722 U/l",144
+hyperbilirubinemia (63 µmol/l),144
+thrombocytopaenia (73x103/µl),144
+coagulopathy,144
+N-acetylcysteine regimen,144
+third space loss,144
+global pericardial effusion 2.0-2.5 cm,144
+right ventricular wall thickness,144
+triple inotropic support,144
+SLEDD,144
+CVVH,144
+fresh-frozen plasma,144
+packed cells,144
+platelet concentrate,144
+meropenem,144
+death,144
+"elevated creatine kinase (5,211 U/l)",0
+elevated creatine kinase-MB (291 U/l),0
+CRP 42 mg/l,0
+D-dimer positive,0
+ST-changes on ECG,0
+arrhythmias,0
+diarrhoea,0
+abdominal distension,0
+hypomotility,0
+bowel ischaemia,0
+cardiac perforation,72
+pericarditis,72
+pneumothorax,72
+sudden onset chest pain,72
+shortness of breath,72
+cold peripheries,72
+acute hepatic failure,144
+multiorgan failure,144

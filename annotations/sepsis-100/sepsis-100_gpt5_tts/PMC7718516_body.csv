@@ -1,0 +1,122 @@
+event,time
+67-year-old,0
+female,0
+body weight 50 kg,0
+height 158 cm,0
+no history of hypertension,0
+no history of diabetes,0
+complaining of backache,-54
+calculi in both kidneys associated with ureteral calculi was diagnosed,-53
+ultrasonography,-53
+computed tomography,-53
+admitted to local hospital,-51
+Holmium laser lithotripsy (HLL),-51
+double J catheterization,-51
+purulent urine observed intraoperatively,-51
+urine culture sent (intraoperative sample),-51
+severe fever,-50.5
+body temperature 39.5 °C,-50.5
+chill,-50.5
+low blood pressure 60/42 mmHg,-50.5
+blood culture sent,-50.5
+urine culture sent,-50.5
+empiric anti-infection drugs started,-50.5
+Imipenem and Cilastatin sodium 1.0 g per 6 h started,-50.5
+fluid resuscitation 30 mL/kg started,-50.5
+Norepinephrine started,-50.5
+Hydrocortisone sodium succinate started,-50.5
+urosepsis,-50.5
+symptoms progressively deteriorated,-50.5
+anuric,-2
+acute respiratory distress syndrome,-2
+invasive ventilatory support,-2
+endotracheal intubation,-2
+continuous renal replacement therapy (CRRT) initiated,-2
+symptoms were not alleviated,-1
+admitted to the intensive care unit of our hospital,0
+sedated state (Richmond agitation-sedation scale −4),0
+blood pressure 80/62 mmHg,0
+Norepinephrine 1.5 μg/kg/min,0
+Epinephrine 1.0 μg/kg/min,0
+heart rate 139 beats/min,0
+transcutaneous oxygen saturation 80%,0
+"cold, clammy extremities",0
+loud bubbling sound in the lung,0
+oxygen partial pressure 50 mmHg (oxygen concentration 1.0),0
+oxygen concentration 1.0,0
+lactic acid 10.6 mmol/L,0
+bicarbonate 10.8 mmol/L,0
+central venous pressure 20 cmH2O,0
+large area of B lines in the lung (bedside ultrasonography),0
+diffuse left ventricular dysfunction,0
+left ventricular ejection fraction 20.3%,0
+right ventricle normal function,0
+sinus tachycardia,0
+broad ST depression,0
+troponin I 10.2 ng/mL (elevated),0
+"amino-terminal brain natriuretic peptide precursor >35,000 pg/L",0
+creatinine 356 μmol/L,0
+anuria,0
+multiple organ function failure,0
+oxygenation index <100,0
+creatinine three-fold higher than the upper limit,0
+urine volume <0.3 mL/kg for 12 h,0
+sequential organ failure assessment score 8,0
+creatine kinase MB increased,0
+platelet dysfunction,0
+coagulation dysfunction,0
+respiratory function supported by tracheal intubation,0
+refractory septic shock,0
+sepsis-induced cardiomyopathy,0
+acute renal failure due to sepsis,0
+VA-ECMO treatment urgently initiated,0.5
+20F catheter placed in left femoral vein,0.5
+17F catheter placed in right femoral artery,0.5
+No. 6 arterial catheter placed in right femoral artery for distal perfusion,0.5
+ECMO pump 3000 rpm,0.5
+ECMO blood flow 3.5 L/min,0.5
+ECMO arterial pressure 135 mmHg,0.5
+ECMO venous pressure −29 mmHg,0.5
+circulation dynamics rapidly improved,1
+Norepinephrine stopped,1
+Epinephrine stopped,1
+bedside CRRT performed,1
+Imipenem and Cilastatin sodium continued,1
+Vancomycin started,1
+lactic acid level declined,2.5
+vasoactive drugs completely stopped,10.5
+arterial blood lactate level normal,12.5
+extended-spectrum β-lactamase-positive Escherichia coli in blood culture,48
+extended-spectrum β-lactamase-positive Escherichia coli in urine culture,48
+leukocytes diminished,48
+calcitonin diminished,48
+C-reactive protein diminished,48
+anti-infection regimen continued,48
+minimum serum trough concentration of Vancomycin 15–20 μg/mL,60
+left ventricular ejection fraction 35%,120
+black and necrotic skin at the extremities of both lower limbs,120
+black and necrotic skin at the end of a finger on the right upper limb,120
+ischemic necrosis of both upper and lower extremities,120
+spontaneous breathing successful,120
+weaning failed,120
+weaned from ECMO therapy,144
+acute kidney injury grade 3,150
+bedside CRRT discontinued,156
+began urinating,156
+vascular ultrasonography of bilateral lower limbs,192
+computed tomography angiography of bilateral lower limbs,192
+vascular surgery consultation,192
+bedside physical rehabilitation started,216
+tracheotomy,240
+Cefoperazone sodium started,240
+Sulbactam sodium started,240
+Imipenem and Cilastatin sodium discontinued,240
+Vancomycin discontinued,240
+urine volume increased to a maximum of 1000 mL/day,240
+necrotic tissues of the lower extremity amputated,336
+weaned from the ventilator,480
+tracheotomy tube sealed,600
+discharged,768
+intermittent hemodialysis continued,768
+able to take care of herself,4320
+still required intermittent hemodialysis,4320

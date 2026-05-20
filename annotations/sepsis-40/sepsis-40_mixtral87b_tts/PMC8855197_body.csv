@@ -1,0 +1,82 @@
+event,time
+77 years old, -72
+male , 0
+exhibited a drowsy mental state , 24
+diagnosed with unstable angina , -8*730
+treated with a coronary stent insertion , -8*730
+treated with Sigmart (nicorandil 5 mg) , -8*730
+"treated with aspirin (enteric coated tab, 100 mg) ", -8*730
+treated with Almarl (arotinolol 5 mg) , -8*730
+treated with Herben (diltiazem 30 mg) , -8*730
+"prior to surgery, chest X-ray was normal ", -24
+echocardiogram showed a left ventricular ejection fraction of 61% , -24
+echocardiogram showed grade 2 diastolic dysfunction , -24
+echocardiogram showed mild aortic regurgitation , -24
+echocardiogram showed trivial mitral regurgitation and tricuspid regurgitation , -24
+all hematological parameters were unremarkable , -24
+aspirin was stopped 7 days before surgery , -7*24
+no medication was administered on the morning of surgery , -24
+initial vital signs were blood pressure (BP) of 144/79 mmHg , -1
+initial vital signs were heart rate (HR) of 68 beats/min , -1
+initial vital signs were SpO2 of 97% , -1
+"bupivacaine (0.5%, 10 mg) was injected into the subarachnoid space at T10 for the spinal block ", -1
+intravenous dexmedetomidine was infused , -1
+a pneumatic thigh tourniquet was applied intraoperatively at an inflation pressure of 300 mmHg for 100 min , -1
+total anesthesia time was 2 h and 10 min , -1
+"during surgery, 600 mL of crystalloid was administered ", -1
+"during surgery, 150 mL of urine were collected ", -1
+estimated blood loss was 90 mL , -1
+intraoperative vital signs showed BP of 100-130/50-70 mmHg , -1
+intraoperative vital signs showed HR of 45-55 beats/min , -1
+intraoperative vital signs showed SpO2 of 97%-99% , -1
+"on arrival in the recovery room, initial vital signs were BP of 97/55 mmHg ", 0
+"on arrival in the recovery room, initial vital signs were HR of 41 beats/min ", 0
+"on arrival in the recovery room, initial vital signs were SpO2 of 100% ", 0
+"during the first hour of recovery, vital signs were maintained as follows: BP of 95-100/55-60 mmHg ", 1-2
+"during the first hour of recovery, vital signs were maintained as follows: HR of 40-45 beats/min ", 1-2
+"during the first hour of recovery, vital signs were maintained as follows: SpO2 of 98%-100% ", 1-2
+about 90 mL of urine and 70 mL of blood were drained , 1-2
+400 mL of crystalloid was administered , 1-2
+postoperative pain was managed with an intravenous patient-controlled analgesia , 24
+complained of severe pain on the right thigh and overnight shivering , 24
+tridol injection (tramadol hydrochloride 50 mg/mL) was injected for pain control , 24
+physical examination showed the patient’s right thigh was stiff , 24
+physical examination showed the patient’s right thigh had turned a dark brown , 24
+physical examination showed the surgical site and distal extremity were unaffected , 24
+urine collected in a Foley bag was dark colored , 24
+"the urine output every 8 h after operation was 100 mL, 220 mL, and 250 mL ", 24-48
+"immediately after surgery in the recovery room, laboratory results were within the normal range ", 0
+"about 19 h after surgery, CK was markedly increased to 2763 IU/L ", 19
+"about 19 h after surgery, creatine kinase-myocardial band (CK-MB) was elevated to 13.26 ng/mL ", 19
+"about 19 h after surgery, AST and BUN/Cr were also elevated ", 19
+troponin-I was normal at 0.100 ng/mL , 19
+"prolonged coagulation battery, thrombocytopenia, and high levels of fibrinogen degradation product and D-dimer were detected ", 19
+serial tests demonstrated progressive deterioration of DIC , 19
+brain magnetic resonance imaging (MRI) was performed for differential diagnosis , 24
+mild small vessel disease was identified , 24
+serum myoglobin was 1027 ng/mL , 24
+random urine analysis revealed that urine myoglobin was 25.3 ng/mL , 24
+random urine analysis revealed that red blood cell count was 100/high powered field (HPF) , 24
+tourniquet-induced rhabdomyolysis was diagnosed , 24
+AKI (AKIN criteria stage 1) and DIC accompanied the rhabdomyolysis , 24
+BP dropped to 88/62 mmHg , 25
+norepinephrine (0.5-1 μg/kg/min) was infused , 25
+an arterial line was placed in the left radial artery for continuous monitoring of blood pressure , 25
+a central line was secured in the right internal jugular vein for adequate fluid supply and cardiovascular monitoring , 25
+a nephrologist was consulted , 25
+fluid treatment of 5 L/d was prescribed , 25
+dialysis was scheduled due to progressive renal impairment , 25
+fluid loading was initiated with normal saline at 400 mL/h for 2 h , 25
+"for renoprotection, Lasix (furosemide, 20 mg injection) and sodium bicarbonate (40 mL injection of 8.4%) were administered ", 25
+the urine output was 110 mL for the first 3 h and 600 mL for next 4 h , 25-29
+denogan (propacetamol hydrochloride 1 g injection) was administered to control fever , 25
+"about 2 h after fluid administration, the patient’s mental status was restored to alert ", 27
+the patient’s vital signs were as follows: BP of 90-110/60-70 mmHg , 27
+the patient’s vital signs were as follows: HR of 104 beats/min , 27
+the patient’s vital signs were as follows: body temperature of 36.2 °C , 27
+the patient’s vital signs were as follows: SpO2 of 98% on room air , 27
+"after 2 h, the patient’s body temperature elevated again to 38.0 °C ", 29
+"approximately 5 h after the patient’s mental state was restored, his BP and HR dropped suddenly ", 33
+cardiac arrest was performed for about 1 h , 38
+expired , 38
+* The number following 'diagnosed with unstable angina' is the number of hours before surgery.,

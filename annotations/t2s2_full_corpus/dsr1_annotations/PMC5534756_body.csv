@@ -1,0 +1,94 @@
+event,time
+75 years old,0
+male,0
+admitted to the pulmonary department,0
+progressive dyspnoea,-96
+chronic heart insufficiency,0
+dual chamber (DDD type) pacemaker implanted,-70080
+arterial hypertension,0
+type 2 diabetes mellitus,0
+chronic renal insufficiency,0
+polyneuropathy,0
+clinical suspicion of pneumonia,0
+"elevated inflammatory markers (C reactive protein, leucocytes)",0
+furosemide,0
+high admission brain natriuretic peptide,0
+transferred to the intensive care department (ICU),0
+conscious,0
+co-operative,0
+tachypnoeic,0
+peripheral saturation of 85% on 10 L/min O2 via Hudson mask,0
+normotensive (130/70 mm Hg),0
+atrial fibrillation (AF),0
+fully dependent on VVI pacing to 70 bpm,0
+"negative cardiac biochemistry (troponin I, CK-MB mass, myoglobin)",0
+transthoracic echocardiography (TTE),0
+congestive heart failure,0
+hypokinetic anteroseptal left ventricular (LV) wall,0
+hypokinetic apex,0
+ejection fraction (EF) of 38%,0
+moderate mitral regurgitation (MR),0
+dilated left atrium (LA),0
+mild aortic regurgitation (AR),0
+moderately dilated right ventricle (RV),0
+tricuspid annular plane systolic excursion (TAPSE) of 23 mm,0
+moderate tricuspid regurgitation,0
+estimated right-sided pleural effusion of 300–400 mL,0
+cardiac output (CO) of 3.5 L/min,0
+"non-invasive ventilation (PSV 10 mbar, PEEP 6 mbar, FiO2 0.60)",0
+diuretics (furosemide continuous infusion 3–5 mg/hour),0
+VVI pacing reset to 90 bpm,0
+signs of limited aeration of the right lower lobe,36
+bronchial breathing,36
+intubated for exhaustion,36
+bronchoscopy,36
+tracheobronchitis,36
+bronchoalveolar lavage,36
+norepinephrine infusion (NAD) started at 0.15 µg/kg/min,36
+PSV of 14 cmH2O,36
+PEEP of 8 cmH2O,36
+FiO2 0.50,36
+vasopressor infusion,36
+mechanical ventilation,36
+persisting loss of aeration of the right lower lobe,36
+another TTE,36
+moderate-to-severe MR into a dilated LA,36
+biplanar LA volume indexed to body surface area 80 mL/m2,36
+severely dilated RV,36
+moderately decreased RV contractility,36
+dilated right atrium,36
+estimated PAPs 50 mm Hg,36
+SV 72 mL,36
+CO 6.4 L/min,36
+right pleural fluid estimate 800–1000 mL,36
+right pleural tap performed,36
+850 mL transudate evacuated,36
+tachypnoeic with increasing oxygen requirements (FiO2 0.80),36
+decreased blood pressure,36
+decreased urine output,36
+elevated LVEDP (lateral mitral E/e′ 12–13),36
+moderate-to-severe MR into a dilated LA,36
+CW Doppler-based LAP estimate 27 mm Hg,36
+PAPs increased to 57 mm Hg,36
+non-collapsing inferior vena cava,36
+decreased SV of 56 mL,36
+CO 5.04 L/min,36
+worsening lung congestion,36
+systolic heart dysfunction after drainage,36
+Re-expansion pulmonary oedema (Re-PE) diagnosed,36
+congestive heart failure confirmed,36
+elevated heart filling pressures,36
+acute myocardial infarction excluded,36
+pulmonary embolism excluded,36
+respiratory insufficiency due to tracheobronchitis or pneumonia,36
+pneumothorax excluded,36
+dobutamine 5.0 µg/kg/min administered,36
+positive effect on CO,36
+weaned off mechanical ventilation within 24 hours,60
+extubated,60
+Hudson mask and FiO2 0.6,60
+discharged to high dependency unit,84
+without dobutamine,84
+NAD 0.08 µg/kg/min,84
+VVI 90 bpm,84
+discharged on day 19,456

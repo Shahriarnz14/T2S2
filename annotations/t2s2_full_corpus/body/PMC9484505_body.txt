@@ -1,0 +1,45 @@
+pmcIntroduction
+
+The central nervous system is often a site of spread for patients with acute lymphoblastic leukemia (ALL). Once in the maintenance phase of treatment, the risk for ALL reactivation is high enough to warrant ongoing chemotherapy. Most treatment regimens combine multiple doses of intrathecal chemotherapy with high-dose systemic methotrexate and/or cytarabine.[1] Although uncommon, there have been reported cases of neurotoxicity associated with intrathecal administration of methotrexate.[2] The presenting clinical syndrome is most similar to acute stroke, with focal neurological deficit, and facial nerve paresis.[34] To the author’s knowledge, we detail the first case of a patient receiving intrathecal methotrexate for ALL, who presented with symptoms consistent with fever and meningitis rather than acute stroke.
+
+Case Report
+
+A 62-year-old female with a history of Ph + ALL was initially diagnosed 3 months before presentation by bone marrow biopsy (flow cytometry showing a predominant immature B-cell population expressing CD34, CD19, CD10, cytoplasmic CD79a, and TdT). She underwent induction chemotherapy with hyper- cyclophosphamide, vincristine, doxorubicin, and dexamethasone (CVAD) and intrathecal methotrexate for two cycles. After developing nonoliguric acute kidney injury, hyper-CVAD therapy was discontinued, and she was switched to oral dasatinib while continuing intrathecal methotrexate.
+
+She presented to the emergency department with complaints of a sudden 10 out of 10 headaches that had started 2 days prior and had not ceased. She has previously had headaches following intrathecal methotrexate therapy; however, this was much worse than before. Her family members explained that she had neck pain that continued down her back as well, but this was no longer present on evaluation in the emergency department. She also reported having a low-grade fever, worsening generalized weakness, increased difficulty with ambulation, and most recently, confusion. Her last dose of intrathecal methotrexate was 4 days before admission [Figure 1].
+
+Figure 1 Outpatient intrathecal methotrexate administration 8 days before hospital presentation with spinal stimulator in place
+
+Upon evaluation in the emergency department, she was febrile with a temperature of up to 101.5 degrees Fahrenheit, tachycardic, but normotensive. Initially, during her interview, she was able to describe her history, but she continued to get progressively diaphoretic and lethargic. Neck stiffness was noted on examination.
+
+Her presenting hemoglobin was 6.9 g/dL, less than her last known level of 8.8 g/dL, and she was transfused with one unit of packed red blood cells. Her white blood cell count was 6.8 K/uL. Computed tomography imaging of her head was performed and did not show any acute process. Unfortunately, she was unable to undergo magnetic resonance imaging due to the contraindication of having an implanted spinal stimulator for chronic back pain. Neurology was consulted and recommended to begin empiric antimicrobial therapy before attempting a lumbar puncture due to her clinical instability. Thus, the patient was started on cefepime, vancomycin, and ampicillin for empiric bacterial meningitis coverage. She had also been on prophylactic fluconazole and acyclovir dosing on admission and was later escalated to treatment-related dosing for acyclovir by infectious disease.
+
+A diagnostic lumbar puncture was attempted the next day but was unable to be performed as the patient was confused and could not cooperate with the procedure. She continued to clinically deteriorate by becoming less responsive, and she was transferred to the intensive care unit (ICU) for closer monitoring. She remained agitated, no longer followed commands, and required rapid sequence intubation with subsequent mechanical ventilation for airway protection. A lumbar puncture was then performed, but the results were inconsistent with bacterial infectious etiology (24% granulocytes, 60% lymphocytes, and 3% macrophages) [Figure 2]. The cerebrospinal fluid cultures showed no growth and tested negative through polymerase chain reaction (PCR) for herpes simplex virus, varicella-zoster virus, Lyme disease, and West Nile virus antibodies immunoglobulin G and immunoglobulin M. Infectious disease workup also included a negative upper respiratory panel, influenza testing, and SARS-CoV-2 PCR.
+
+Figure 2 Fluoroscopic-guided lumbar puncture under sterile conditions
+
+Over the course of several hospital days, the patient gradually improved and remained hemodynamically stable. After extubation, antimicrobial therapy was discontinued, except for her previous prophylactic acyclovir. Initially, she was not responding to commands, did not open her eyes spontaneously, and did not have purposeful movement. She was transitioned from the ICU to the general ward 9 days after admission and remained encephalopathic. However, her mentation rapidly improved in the afternoon, being able to have limited conversations. She remained profoundly physically weak. By hospital day 10, her strength began to improve. Her nasogastric tube for nutrition was removed, and she began to tolerate an oral diet. She continued to work with physical and occupational therapy. By hospital day 11, she was able to stand up with assistance. By hospital day 12, she no longer had any confusion or agitation and was back to her baseline mentation per the patient’s husband. Her fever and leukocytosis had resolved. The medical team recommended for her to receive further rehabilitation therapy at an extended care facility for rehabilitation; however, she declined and stated she wanted to go home, and she was provided with home health care. In the subsequent months, the patient had no further episodes of encephalopathy with the cessation of intrathecal methotrexate. She has been maintained on dasatinib and was later started on blinatumomab.
+
+Discussion
+
+High-dose methotrexate is used to treat ALL, leptomeningeal metastases, and central nervous system lymphomas.[56] In the pediatric population, between 0.8% and −4.5% of patients experienced acute encephalopathy within 2 weeks after receiving a high dose of intravenous or intrathecal methotrexate.[7] Other recorded symptoms include ataxia, dysphagia, seizures, headaches, and weakness.[8]
+
+While the exact pathogenesis of intrathecal methotrexate-associated neurotoxicity is not yet known, it has been hypothesized to be multifactorial. One proposed mechanism is that methotrexate therapy is known to cause elevations in CSF homocysteine, which is an excitatory agonist of the N-methyl-D-aspartate (NMDA) receptor.[910] Other proposed hypotheses include altered folate homeostasis and direct neuronal damage by methotrexate.[11]
+
+At this time, there are no guidelines in the management of intrathecal methotrexate-associated neurotoxicity. The use of dextromethorphan, a noncompetitive NMDA receptor antagonist, has been used in the treatment of sudden onset of neurological dysfunction; however, its use remains controversial.[12] In our case, the patient was treated with supportive therapy through transfusing blood products as needed and with mechanical ventilation, while ruling out infectious etiologies.
+
+It is important to distinguish meningitis from neurotoxicity as a consequence of intrathecal methotrexate. The former can be fatal if not immediately addressed, whereas the latter is the result of a rare side effect of treatment without known long-term effects. As in our experience with the clinical presentation of meningitis, previous case reports of stroke-like symptoms spontaneously resolved and did not recur.[2] Other devastating etiologies that could present similarly to our case include subarachnoid hemorrhage, HIV infection, fungal infections, and aseptic meningitis due to a number of viral infections such as HSV, VZV, EBV, coxsackievirus, mumps virus, and echoviruses. These were felt to be less likely given the negative serologies, lack of imaging findings, and gradual improvement in clinical status without the use of antiviral or antifungal medications.
+
+In summary, intrathecal methotrexate toxicity should be in the differential for patients who present with fever, neck stiffness, and altered mental status who are receiving treatment for ALL. Early recognition of this reversible condition may reduce the risks of invasive procedures, costly testing, and exposure to the possible detrimental effects of antimicrobial therapy.
+
+Consent to participate
+
+Written informed consent was obtained from the patient for publication of this case report and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal on request.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.

@@ -1,0 +1,78 @@
+event,time
+19 years old,0
+Saudi male,0
+Philadelphia positive ALL,0
+fever,0
+unremarkable general examination,0
+unremarkable systemic examination,0
+no palpable lymphadenopathy,0
+no abdominal organomegaly,0
+anemia,0
+thrombocytopenia,0
+hypercalcemia,0
+normal white cell count,0
+hypercalcemia corrected,0
+intravenous fluids,0
+clodronate,0
+UK XII ALL induction chemotherapy started,0
+prednisolone,0
+vincristine,0
+idarubicin,0
+L-asparaginase,0
+intrathecal methotrexate,0
+fever,240
+diarrhea,240
+blood cultures grew E. coli,240
+blood cultures grew Klebsiella pneumoniae,240
+intravenous ceftazidime,240
+amikacin,240
+clinically stable,504
+small painful nodule over left thigh,504
+cultures from left groin grew highly resistant Pseudomonas aeruginosa,504
+Pseudomonas aeruginosa sensitive to ciprofloxacin,504
+Pseudomonas aeruginosa sensitive to imipenem,504
+nasal swab grew MRSA,504
+urine culture grew E. coli,504
+ceftazidime changed,504
+amikacin changed,504
+imipenem started,504
+ciprofloxacin started,504
+vancomycin started,504
+central venous catheter removed,504
+induction chemotherapy on hold,504
+granulocyte-colony stimulating factor (G-CSF) initiated,504
+remained pyrexial,504
+thigh nodule developed into cellulitis,504
+fluid collection,504
+surgical incision and drainage,504
+cellulitis extending toward perineum,504
+febrile,504
+hypotensive,504
+transferred to ICU,504
+hemodynamically unstable,576
+required ventilatory support,576
+required inotropic support,576
+central blood cultures grew A. xylosoxidans,576
+peripheral blood cultures grew A. xylosoxidans,576
+A. xylosoxidans identified,576
+gram-negative bacillus,576
+oxidase positive,576
+nitrate positive,576
+urea negative,576
+mannitol negative,576
+sucrose negative,576
+maltose negative,576
+antimicrobial susceptibility testing,576
+sensitive to colistin,576
+sensitive to imipenem,576
+sensitive to ceftazidime,576
+sensitive to piperacillin/tazobactam,576
+intravenous colistin added,576
+central venous catheter removed,576
+deteriorated further,576
+cardiac arrest,576
+died,576
+septic shock,576
+multiorgan failure,576
+no temporal information for initial presentation with fever (assigned 0),0
+"no temporal information for development of septic shock (assigned during ICU stay, timestamp 576)",576

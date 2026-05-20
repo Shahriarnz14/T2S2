@@ -1,0 +1,97 @@
+Background
+
+Acute respiratory distress syndrome (ARDS) is a very rare but life-threatening complication of diabetic ketoacidosis (DKA) (1). It is characterised by sudden onset progressive hypoxemia with bilateral pulmonary infiltrates on chest x-ray (CXR) (1). The pathogenesis of ARDS in DKA remains unclear. It is thought that diabetic patients have a higher risk of capillary permeability, and in the presence of a severe metabolic acidosis, this permeability is further increased, leading to an increased volume of fluid in the alveolar space (2). However, it can be argued that many diabetic patients who present with severe metabolic acidosis do not develop ARDS (3). This suggests that the mechanism of ARDS in DKA is multifactorial in aetiology (4). Here we report a case of severe ARDS that required ECMO support in a previously healthy young female admitted to the intensive care unit (ICU) due to a new-onset severe DKA as the first presentation of her type 1 diabetes mellitus (DM).
+
+Case presentation
+
+A 29-year-old female was referred by her general practitioner to the emergency department (ED) during the SARS-CoV2 crisis with a 4-day history of vomiting, general malaise, atypical chest pain and epigastric pain. There was a recent history of polyuria and polydipsia over the preceding month. Her past medical history was unremarkable apart from mild eczema and a 3 pack-year smoking history. She was not on regular medications. On arrival to the ED, she was normotensive with a blood pressure of 141/100 mmHg and a sinus tachycardia of 127 b.p.m., her temperature was low at 34.6°C with an oxygen saturation of 98% on room air and a respiratory rate of 22 breaths/min. The lungs, heart and lower limb examinations were all normal.
+
+Investigation
+
+On presentation, her arterial blood gas (ABG) revealed a severe high anion gap metabolic acidosis with an arterial pH of 6.87 and hyperglycaemia with a plasma glucose of 31.6 mmol/L. Capillary ketones were 4.6 mmol/L, bicarbonate was 2.9 mmol/L, PO2 11.7 kPa and PCO2 1.5 kPa. The CXR on admission was normal (Fig. 1). ECG revealed a sinus tachycardia but no evidence of acute coronary syndrome. Other initial laboratory tests showed a hypokalaemia of 3.2 mmol/L, white cell count of 33.09 × 109/L, neutrophils 28.43 × 109/L, CRP of 13.9 mg/L, normal plasma sodium and serum creatinine (Table 1). Figure 1 CXR on admission – heart, hilar and mediastinal contours are within normal limits. The lungs are clear.
+
+Table 1 Laboratory parameters during stay of admission.
+
+	Admission (day 0)	ICU (day 1)	Post-extubation (day 11)	
+Hb (g/dL)	16.8	15.8	7.7	
+Platelets (×109/L)	456	304	260	
+WBC (×109/L)	33.09	18.70	10.19	
+Neutrophils (×109/L)	28.43	16.98	6.69	
+Lymphocytes (×109/L)	1.69	0.97	2.32	
+Monocytes (×109/L)	2.70	0.51	0.75	
+Eosinophils (×109/L)	0.02	0.20	0.36	
+C-reactive protein (mg/L)	13.9	116.5	18.9	
+Urea (mmol/L)	6.9	4.9	6.0	
+Sodium (mmol/L)	134	142	132	
+Potassium (mmol/L)	3.2	2.8	4.7	
+Chloride (mmol/L)	92	113	99	
+Creatinine (µmol/L)	77	79	74	
+Bilirubin (µmol/L)	4	9	4	
+ALT (IU/L)	14	8	72	
+AST (U/L)	22	26	57	
+ALK PHOS (IU/L)	162	86	89	
+Protein total (g/L)	92	56	60	
+Albumin (g/L)	49	29	31	
+GGT (IU/L)	16	13	70	
+PT (s)	11.8	14.3	10.8	
+INR	0.99	1.20	0.91	
+APTT (s)	22.2	23.22	21.8	
+APTT-R	0.69	0.72	0.68	
+Calcium (mmol/L)	2.55	2.06	2.16	
+Phosphate (mmol/L)	1.73	0.12	1.07	
+Magnesium (mmol/L)	1.05	0.60	0.70	
+Troponin T (ng/L)	<14	29	17	
+CoVid-19	Not detected	Not detected	Not detected	
+Strep pneumoniae and legionella urinary antigens	–	Not detected	–	
+Alpha 1 antitrypsin (g/L)	–	1.38	–	
+Fibrinogen (g/L)	–	3.50	–	
+Ferritin (ng/mL)	–	321	1226	
+D-dimer (µg/mL)	–	3.32	–	
+Serum glucose (mmol/L)	37.1	21.2	14	
+HbA1c (mmol/mol)	97	–	65	
+Free T4 (pmol/L)	–	–	15.6	
+TSH (mU/L)	–	–	2.20	
+Blood drugs screen	Negative	–	–	
+Ejection fraction	–	45-50%	50–55% (day 9)	
+pH	6.87	7.22	7.37	
+GAD antibodies (IU/mL)	–	–	391	
+
+Treatment
+
+The patient was diagnosed with new-onset type 1 DM with severe diabetic ketoacidosis. She commenced treatment for diabetic ketoacidosis (DKA) as per hospital protocol with immediate potassium replacement, fixed rate insulin infusion and volume expansion with crystalloids. Empiric treatment with intravenous amoxicillin/clavulanic acid was initiated. After initial resuscitation, the acidaemia and ketonaemia began to correct slowly (pH 7.07, capillary ketones 4.1 mmol/L) and the hypothermia resolved (34.6–36.6°C). In the early hours of day 1 of presentation, the patient desaturated to 88% on room air and was commenced on supplemental oxygen. ABG on 3 L of oxygen (FiO2 32%) showed a PaO2 of 6.4 kPa, PCO2 2.3 kPa and pH 7.24 and bicarbonate of 7.5 mmol. She was initially treated as a suspected case of SARS-CoV2 and a nasopharyngeal swab was taken. She desaturated further with type 1 respiratory failure and a repeat CXR showed bilateral infiltrates consistent with ARDS-like (Fig. 2) picture. Her condition deteriorated with a further fall in her pO2 to 5.3 kPa despite high flow oxygen via AIRVO™ 2 Humidification System, diuretic treatment, and continuation of antibiotics. She was transferred to the ICU where she was intubated and ventilated. In ICU she required an FiO2 of 100% with a peak end expiratory pressure of 15 cm H2O to maintain a PaO2 of 10.3 kPa and significant haemodynamic support with noradrenaline (40 µg/min) and vasopressin (2.4 units/h) required to maintain circulation. At that stage, the decision was made to proceed with lung protective ventilation in the form of venous-venous extracorporeal membrane oxygenation (ECMO) and Continuous Veno-Venous Hemofiltration (CVVH). Two swabs taken 48 h apart and samples from a bronchoscopy while the patient was intubated were negative for SARS-CoV2. Figure 2 CXR while in ICU-support tubes and lines in a satisfactory position. There is extensive airspace consolidation throughout both lungs. No gross evidence of pleural effusion or pneumothorax.
+
+Overnight on day 2 of ECMO her troponin level rose from 38 to 2869 ng/L (range reference of less than 14 ng/L) in the presence of normal creatine kinase level of 84 U/L (range reference of 33–211 U/L). A bedside transthoracic echocardiogram (TTE) was suspicious for peri-myocarditis with a reduced ejection fraction of 45%. Nonetheless, the patient’s condition improved greatly on ECMO and the decision was made to discontinue ECMO after 4 days (Fig. 3). On day 7, the patient was extubated and maintained a PaO2 of 16.7 kPa on FiO2 30% on AIRVO. Troponin remained elevated at 401 ng/L and a further echo on day 10 showed good left ventricle function with an ejection fraction of 50–55% and a minimally thickened trileaflet aortic valve suggesting she may have had a stress myocarditis while on ECMO, which subsequently resolved. The insulin infusion used to control her blood glucose levels throughout her admission was discontinued on day 8, and she was commenced on a basal/bolus regimen of subcutaneous insulin. Cultures of tracheal tube, urine and blood specimens remained all negative. CXR did not reveal neither cardiomegaly nor mediastinal lymphadenopathy. Also, the clinical course and rapid recovery did not seem to fit a viral, fungal or eosinophilic pneumonia. Hence, the definitive diagnosis was ARDS in association with severe DKA as the first manifestation of type 1 DM in a 29-year-old lady. Figure 3 CXR post-ECMO – the lungs have substantially cleared in comparison to prior. There is some minimal plate atelectasis in the right lung base. Tubes and lines are in a good position.
+
+Outcome and follow-up
+
+On day 11, she was discharged to the endocrine ward for further recovery and care. On day 16, she was discharged home on a basal bolus regime of insulin novorapid and lantus. On follow-up in the outpatients 2 months later, she had a HbA1c of 58 mmol/mol with strongly positive GAD antibodies consistent with her diagnosis of type 1 diabetes and normal cardiac function with a troponin of <14 ng/L. From the respiratory point of view, the patient remained well, with no shortness of breath, clear chest examination with 99% oxygen saturations on room air.
+
+Discussion
+
+Here we report an unusual case of a young female patient who presented with new-onset DKA complicated by ARDS who required ICU admission and ECMO support. Other possible causes of ARDS, including sepsis, aspiration, inhalation injury, trauma, burns and SARS-CoV2, which are common causes of ARDS, were excluded (5).
+
+The incidence of ARDS in DKA remains unknown, and it is usually occurring in adolescents and young adults (6). However, ARDS secondary to DKA is also described in the paediatric population (7). The mortality rate from DKA in children is around 0.30%, and the major cause of all DKA deaths is cerebral oedema. ARDS also presents a predictor of high mortality but remains very rare in paediatric population (8).
+
+This rare pulmonary complication does not yet have a well-defined time frame or clinical sequence. However, it usually occurs several hours after the initiation of DKA treatment similar to our patient presentation (9). The mechanism of ARDS in DKA remains poorly understood and likely multifactorial. The low pH, as in our patient, could have precipitated pulmonary oedema by increasing pulmonary capillary permeability and altering the metabolism of alveolar surfactant (10, 11, 12). This was also noticed in previous similar case reports (13). Nonetheless, many DKA patients present with very low pH, yet do not develop ARDS. It is also suggested that aggressive fluid management could increase risk of ARDS by altering hydrostatic–oncotic pressures leading to pulmonary oedema, particularly in patients who already have the abnormal cardiac function on presentation (14, 15). Nevertheless, most DKA patients receive large volumes of intravenous fluid, but they do not end up with fluid overload. Furthermore, it is thought that severe metabolic changes in DKA can increase release of pro-inflammatory cytokines such as interleukin IL-1, IL-8 and TNF which lead to progression of the pulmonary infiltrates (16). Another proposed theory is genetic predisposition. Polymorphisms in surfactant associated protein B gene and angiotensin converting enzyme gene were found to be associated with susceptibility of ARDS (4, 17). This may play a role in identifying those at risk of ARDS or cerebral oedema in DKA, so a better individualised management plan approach can be initiated.
+
+ECMO is a modified cardiopulmonary bypass circuit. It works as an artificial membrane lung and blood pump to provide gas exchange and systemic perfusion for patients with refractory cardiopulmonary instability. In a patient with isolated acute lung injury that does not need concurrent significant hemodynamic support, veno-venous (VV) ECMO is the most common method used, as in our patient case, where blood was drained from a central vein, passed through a blood pump and oxygenator, and then returned to a central vein (18). The duration that a patient remains connected on ECMO is extremely variable as ECMO does not provide or accelerate lungs recovery. Nonetheless, it prevents further lung injury. The shortest successful ECMO usage for ARDS has been recorded was 48 h and in our patient case was 4 days (19).
+
+ECMO is a costly, complex, and resource-intensive intervention that requires a well-trained and highly skilled multidisciplinary ICU team. Patients on ECMO can sustain a complex inflammatory reaction, similar to systemic inflammatory response syndrome (SIRS). ECMO may activate the complement, leukocyte, and pro-inflammatory coagulation pathways, which can lead to thrombosis or bleeding, the main complications associated with ECMO use (20). Fortunately, our patient had no complications from ECMO. To our knowledge, the use of ECMO has been reported in very few adult cases presenting with DKA. Our patient represents a unique successful example for the need to use this kind of novel therapy.
+
+In conclusion, we report an unusual case of severe ARDS due to severe DKA in a young patient who required intensive care unit admission and ECMO ventilator support and survived without any significant sequels. This case report highlights the importance of early recognition and consideration of rare pulmonary complication of DKA and its appropriate management.
+
+Declaration of interest
+
+The authors declare that there is no conflict of interest that could be perceived as prejudicing the impartiality of the research reported.
+
+Funding
+
+This research did not receive any specific grant from any funding agency in the public, commercial or not-for-profit sector.
+
+Patient consent
+
+Written informed consent has been obtained from the patient for publication of the case report and accompanying images.
+
+Author contribution statement
+
+M D and B G wrote the draft of the manuscript. C K and D S reviewed the manuscript critically and approved its final version.

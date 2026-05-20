@@ -1,0 +1,105 @@
+event,time
+50-year-old,0
+female,0
+admitted to the hospital,0
+febrile,0
+peripheral venous port blood culture,0
+central venous port blood culture,0
+Klebsiella pneumoniae,0
+venous port infection suspected,0
+venous port removed,0
+treated with tigecycline,0
+treated with meropenem,0
+treatment discontinued after 14 days,336
+prepared for allo-SCT,336
+new onset fever,384
+blood cultures revealed Klebsiella pneumoniae,384
+same resistance pattern,384
+treated with tigecycline,384
+treated with imipenem,384
+fever resolved,408
+acute-phase parameters returned to normal,408
+treatment discontinued after 2 weeks,624
+fever,624
+repeated blood cultures,624
+pan-resistant Klebsiella pneumoniae,624
+rectal swabs negative for CRKP carrier state,624
+transthoracic echocardiogram performed,624
+enlarged right cardiac chambers,624
+moderate tricuspid valve insufficiency,624
+tricuspid valve mass,624
+septic vegetation,624
+tricuspid valve endocarditis diagnosis,624
+surgical excision of vegetation,624
+tricuspid valve repair,624
+treated with imipenem-cilastatin,624
+treated with gentamicin,624
+treated with sulbactam,624
+treatment duration 4 weeks,624
+CML treated with nilotinib,624
+PCR for Bcr/Abl positive,624
+infection resolved,2184
+unmanipulated peripheral blood allo-SCT performed,2184
+reduced intensity conditioning regimen,2184
+fludarabine administered,2184
+busulfan administered,2184
+cyclosporin A,2184
+short-course methotrexate,2184
+antithymocyte globulin,2184
+neutrophil engraftment,2199
+thrombocyte engraftment,2198
+complete remission,2928
+complete chimerism,2928
+no GVHD,2928
+PCR Bcr/Abl negative,2928
+diagnosis of CML,-4320
+chronic phase CML,-4320
+treatment with imatinib started,-4320
+imatinib discontinued after 3 months,-3240
+progressive disease,-3240
+myeloid blastic transformation,-3240
+7+3 induction chemotherapy initiated,-3240
+intubated,-3240
+severe pneumonia,-3240
+sepsis,-3240
+ICU stay 2 months,-3240
+bone marrow biopsy,-1440
+complete remission of leukemia,-1440
+referred for allo-SCT,-1440
+first bacteraemia,0
+second bacteraemia,384
+third bacteraemia,624
+recurrent bacteraemia,624
+CRKP colonization negative,624
+aortic valve not affected,624
+mitral valve not affected,624
+urinary tract infection not present,624
+pacemaker infection not present,624
+infected port catheter,0
+no valve perforation,624
+no root abscesses,624
+poor functional status,0
+serious hematological malignancy,0
+history of active chemotherapy,0
+prolonged hospitalization,0
+ICU stay history,-3240
+broad-spectrum antibiotic use,0
+combination therapy with high-dose imipenem-cilastatin,624
+combination therapy with gentamicin,624
+combination therapy with sulbactam,624
+persistent right-sided heart failure not present,624
+recurrent pulmonary septic emboli not present,624
+septic shock not present,624
+abscess formation not present,624
+antimicrobial therapy failure,624
+tricuspid valve reconstruction,624
+anticoagulation not required,624
+bleeding risk not increased,2184
+infectious complications not present,2184
+reoperation not needed,2184
+blast-phase CML,0
+allo-SCT indication,2184
+CRKP eradication prior to allo-SCT,2184
+reduced intensity conditioning,2184
+no cardiac complications post-SCT,2928
+multidisciplinary approach,0

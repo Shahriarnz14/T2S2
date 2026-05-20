@@ -1,0 +1,56 @@
+event,time
+64 years old,0
+woman,0
+bipolar depression,0
+diabetes,0
+migraine headaches,0
+seizure disorder,0
+found unresponsive,-24 (approximated based on ICU admission timing)
+non-air-conditioned room,-24
+ambient temperature outside in excess of 90°F (33°C),-24
+amitriptyline 175 mg daily,-24 (ongoing prior to admission)
+cyclobenzaprine 10 mg daily,-24 (ongoing prior to admission)
+lurasidone 80 mg daily,-24 (ongoing prior to admission)
+benztropine 1 mg three times a day,-24 (ongoing prior to admission)
+topiramate extended release 100 mg daily,-24 (ongoing prior to admission)
+clonazepam 0.5 mg daily,-24 (ongoing prior to admission)
+trazodone 100 mg daily,-24 (ongoing prior to admission)
+sitagliptin 25 mg daily,-24 (ongoing prior to admission)
+erenumab 70 mg injected monthly,-24 (ongoing prior to admission)
+febrile on initial evaluation,-24
+cool compresses applied,-24
+transported to the hospital,-24
+hypotensive (84/42),0
+febrile with rectal temperature 42°C,0
+warm and dry skin,0
+dry mucous membranes,0
+neurological examination: responsive only to painful stimuli,0
+no focal neurological deficits,0
+no hyperreflexia,0
+no rigidity,0
+"leucocytosis (11,400)",0
+normal creatine phosphokinase,0
+normal EKG,0
+admitted to ICU,0
+vancomycin started,0
+cefepime started,0
+blood cultures grew Staphylococcus hominis,48 (approximated after ICU admission)
+core body temperature decreased to <38°C,72 (approximated during ICU stay)
+mentation returned to baseline,72
+transferred to medical floor,96 (after ICU stay)
+treated for Staph hominis bacteraemia with 7-day vancomycin,96
+toxicology recommended discontinue cyclobenzaprine,168 (on discharge)
+discontinued cyclobenzaprine,168
+diagnosed with severe NEHT with bacteraemia,0
+feeling overheated and fatigued for past 2 weeks,-336 (2 weeks prior to admission)
+no medication changes in past 2 weeks,-336
+advised to stop cyclobenzaprine on discharge,168
+educated about polypharmacy risks,168
+primary care physician advised to continue current regimen,168
+encouraged to discuss medication weaning,168
+follow-up call at 2 months postdischarge,1488 (approx. 2 months after discharge)
+"no neurological findings (rigidity, tremors)",0
+anticholinergic risk scale score 9,0
+possible adverse drug reaction (Naranjo score 4),0
+counselled on NEHT risks,168
+advised hydration and avoid high temperatures,168

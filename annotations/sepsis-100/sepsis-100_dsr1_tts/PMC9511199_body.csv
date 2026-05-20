@@ -1,0 +1,124 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+recurrent fever,-720
+nausea,-168
+vomiting,-168
+no obvious induction of fever,0
+highest body temperature 38 ℃,0
+no obvious clinical signs,0
+neutrophil count 6.96×10⁹/L ↑,0
+monocyte count 0.86×10⁹/L ↑,0
+lymphocyte percentage 14.9% ↓,0
+red blood cell count 3.17×10¹²/L ↓,0
+hemoglobin content 87 g/L ↓,0
+hematocrit 0.28 L/L ↓,0
+average red blood cell hemoglobin concentration 312 g/L ↓,0
+platelet count 363×10⁹/L ↑,0
+platelet distribution width 8.3 fl ↓,0
+C-reactive protein 52.01 mg/L ↑,0
+gradually decreased platelet count,0
+abnormal infection indicators,0
+bone puncture showed megakaryocyte maturation disorder,0
+blood culture indicated Klebsiella pneumoniae sepsis,0
+secondary infectious thrombocytopenia,0
+gram-negative bacilli septicemia (Klebsiella pneumoniae),0
+liver abscess,0
+bilateral lung inflammation,0
+type 2 diabetes,0
+hypertension grade 3 (extremely high risk),0
+vancomycin,0
+caspofungin,0
+dexamethasone,0
+posaconazole oral suspension,0
+liver abscess puncture,0
+drainage treatment,0
+inflammatory indexes decreased,0
+light perception disappeared in the left eye,0
+eyelid redness,0
+eyelid pain,0
+purulent secretion,0
+repeated fever,0
+left-sided headache,0
+endogenous endophthalmitis (left),0
+orbital cellulitis (left),0
+rubeosis iridis (left),0
+exudative retinal detachment (left),0
+diabetic retinopathy (right),0
+intravitreal injection with vancomycin,0
+intravitreal injection with ceftazidime,0
+left eyeball enucleation,0
+fever after operation,24
+moxifloxacin,24
+sulperazon,24
+temperature elevated again,48
+CT examination showed inflammation of both lungs,48
+pericardial effusion,48
+bilateral pleural thickening,48
+bilateral pleural effusion,48
+atelectasis in right inferior lobe,48
+liver cyst,48
+right renal cyst,48
+myoma of the uterus,48
+hypertension for more than 10 years,0
+highest blood pressure 180/100 mmHg,0
+oral valsartan,0
+blood pressure controlled at 140/80 mmHg,0
+no history of other systematic diseases,0
+no history of tuberculosis,0
+no history of infectious hepatitis,0
+no history of syphilis,0
+no history of surgery,0
+no history of blood transfusion,0
+no drug allergy,0
+sepsis,0
+secondary thrombocytopenia,0
+infection of lumbar vertebrae,0
+mesenteric panniculitis,0
+pelvic effusion,0
+suppurative endophthalmitis (left),0
+retinal detachment (left),0
+choroidal detachment (left),0
+type 2 diabetes retinopathy (right),0
+"cortical senile cataract (right, immature stage)",0
+type 2 diabetes nephropathy stage I,0
+type 2 diabetic peripheral neuropathy,0
+hypoproteinemia,0
+coronary atherosclerotic heart disease,0
+lacunar cerebral infarction,0
+moderate anemia,0
+risk of malnutrition,0
+convulsion with unconsciousness,360
+emergency CT examination revealed lacunar infarction,360
+encephalomalacia,360
+insufficiently inflated right lung,360
+coma,360
+unresponsive,360
+slight neck resistance,360
+weak light response of the eye,360
+low muscle tension,360
+left Babinski sign (+),360
+right Babinski sign (−),360
+intracranial infection,360
+lumbar puncture,360
+cerebrospinal fluid (CSF) analysis,360
+CSF glucose <1.1 mmol/L ↓,360
+CSF chlorine 108 mmol/L ↓,360
+"CSF protein >3,000 mg/L ↑",360
+microbial mNGS showed Klebsiella pneumoniae,360
+SHV-type beta-lactamases (blaSHV),360
+meropenem 2 g every 8 hours,360
+body temperature improved,360
+blood routine improved,360
+CRP improved,360
+CT examination showed pulmonary edema dissipated,744
+pleural effusion absorbed,744
+CSF chlorine 119 mmol/L ↓,816
+"CSF micro protein 1,107 mg/L ↑",816
+CSF microalbumin 816.3 mg/L ↑,816
+CSF immunoglobulin G 308.5 mg/L ↑,816
+CSF α2-macroglobulin 18.5 mg/L ↑,816
+CSF β2-microglobulin 2.67 mg/L ↑,816
+discharged,816
+close follow-up,816

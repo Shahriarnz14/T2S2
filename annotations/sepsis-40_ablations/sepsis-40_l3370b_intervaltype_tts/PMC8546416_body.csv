@@ -1,0 +1,132 @@
+event,time
+22 years old,0
+female,0
+East Asian,0
+admitted to the hospital,0
+general malaise,-168
+myalgia,-168
+dyspnea,-168
+fevers,-168
+anorexia,-168
+nasal discharge,-168
+nasal congestion,-168
+abdominal pain,-168
+vaginal pain,-168
+dysuria,-168
+cough,0
+sore throat,0
+throat pain,0
+hoarseness,0
+recent outdoor activities,0
+exposures to farm animals,0
+smoked cigarettes,0
+alcohol use,0
+drug use,0
+sick contact,0
+unprotected sex,-720
+afebrile,-72
+tachycardic,-72
+hypotensive,-72
+increased oxygen requirement,-72
+white blood cell count 6200/µL,-72
+"white blood cell count 19,500/µL",0
+"platelet count 23,000/µL",-72
+"platelet count 16,000/µL",0
+creatinine 1.33 mg/dL,-72
+creatinine 0.5 mg/dL,0
+alanine transaminase 36 U/L,-72
+aspartate transaminase 59 U/L,-72
+alkaline phosphatase 466 U/L,-72
+total bilirubin 2.9 mg/dL,-72
+serum lactic acid 4.9 mmol/L,-72
+bilateral pleural effusions,-72
+liver cystic lesions,-72
+intrahepatic and extrahepatic bile duct dilatation,-72
+mild splenomegaly,-72
+right sided Bartholin gland cyst,-72
+hepatic abscesses,-72
+reactive gall bladder thickening,-72
+Fusobacterium necrophorum in blood cultures,-72
+meropenem,-72
+transfer to our hospital,0
+febrile,72
+tachycardic,72
+tachypneic,72
+high flow nasal cannula,72
+scattered crackles,72
+normal respiratory effort,72
+tachycardia,72
+mild right upper quadrant abdominal tenderness,72
+erythema and edema of the labia,72
+no evidence of poor dentition or gingivitis,72
+"white blood cell count 14,700/µL",72
+"absolute neutrophil count 11,560/µL",72
+hemoglobin 11 g/dL,72
+"platelet count 16,000/µL",72
+erythrocyte sedimentation rate 31 mm/h,72
+serum lactate dehydrogenase 323 U/L,72
+alkaline phosphatase 129 U/L,72
+c-reactive protein 17.05 mg/dL,72
+fibrinogen 349 mg/dL,72
+haptoglobin 59 mg/dL,72
+COVID-19 PCR negative,72
+HIV antibody screening negative,72
+urine gonorrhea and chlamydia PCR tests negative,72
+CT of neck,72
+no evidence of abscess formation,72
+CT of chest,72
+multiple nodular foci in right lung fields,72
+septic emboli,72
+multifocal pneumonia,72
+bilateral pleural effusion,72
+collapse of adjacent lung tissue,72
+interval worsening of hepatic abscess burden,72
+piperacillin-tazobactam,72
+respiratory status improved,144
+diuresis,144
+transfer to general medicine ward,144
+nasal cannula,144
+ultrasound guided thoracentesis,216
+pleural fluid analysis,216
+exudative fluid,216
+fungal smear with no growth,216
+negative acid-fast stain,216
+gram stain with no organisms,216
+4+ granulocytes,216
+no aerobic or anaerobic bacterial growth,216
+"repeat CT of chest, abdomen and pelvis",240
+bilateral multifocal pneumonia,240
+pleural effusions,240
+necrotizing pneumonia,240
+pulmonary abscess,240
+hepatic abscesses,240
+subcutaneous right perineal region fluid collection,240
+cardiothoracic surgery consultation,240
+gynecology consultation,240
+video-assisted thoracoscopic surgery,264
+pleural rind acid fast staining negative,264
+biopsy revealed fibrinous and organizing pleuritis,264
+fibrinopurulent exudate,264
+cultures revealed 1+ granulocytes with no organisms,264
+pelvic examination,264
+right labial abscess,264
+incision and drainage,264
+clear serous fluid,264
+thick white caseous material,264
+gram stain revealed no organisms,264
+3+ granulocytes,264
+bacterial culture grew two colonies of Candida albicans,264
+contrasted CT of abdomen and pelvis,360
+nonocclusive thrombus within the right common iliac vein,360
+possible right distal external iliac vein nonocclusive thrombus,360
+transthoracic and transesophageal echocardiography,360
+no evidence of valvular vegetations,360
+no anticoagulation,360
+diagnosis of atypical Lemierre syndrome,360
+intravenous ceftriaxone,408
+oral metronidazole,408
+discharge,408
+follow-up appointment,504
+improvement of symptoms,504
+transition to amoxicillin-clavulanate,504
+future infectious disease follow-up appointment,504

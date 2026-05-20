@@ -1,0 +1,76 @@
+event,time
+3-year-old,0
+female,0
+admitted to the hospital,0
+intermittent fever,-144
+drowsiness,-24
+second child,0
+full-term,0
+cesarean section,0
+non-consanguineous parents,0
+no birth complications,0
+nodding spasm,-17520
+no intellectual developmental disorder,0
+no developmental language delay,0
+no history of liver disease,0
+no substance abuse,0
+admitted to another hospital,-336
+intermittent seizures,-336
+electroencephalogram abnormalities,-336
+video-EEG myoclonic seizures,-336
+normal routine blood tests,-336
+normal liver function,-336
+normal kidney function,-336
+normal electrolyte tests,-336
+normal head CT scan,-336
+diagnosed with epilepsy,-336
+diagnosed with myoclonia,-336
+sodium valproate treatment,-336
+well-controlled epilepsy,-336
+discharged from previous hospital,-336
+routine blood tests,0
+liver function tests,0
+kidney function tests,0
+electrolyte tests,0
+MOF,0
+hemophagocytic syndrome,0
+transferred to PICU,0
+jaundice,0
+drowsiness,0
+anuria,0
+pharyngeal congestion,0
+low cardiac sounds,0
+dull cardiac sounds,0
+hepatomegaly,0
+anemia,0
+hyperbilirubinemia,0
+hypoalbuminemia,0
+elevated liver enzymes,0
+hypofibrinogenemia,0
+prolonged APTT,0
+prolonged PT,0
+elevated serum cytokines,0
+elevated ferritin,0
+anti-infection treatment,0
+anti-inflammation treatment,0
+plasma exchange,0
+hemodialysis,0
+immunosupportive therapy,0
+component transfusion,0
+organ protection,0
+sodium valproate discontinuation,0
+pulmonary hemorrhage,36
+respiratory failure,36
+mechanical ventilation,36
+considered genetic metabolic disease,36
+genomic DNA analysis,0
+whole exome sequencing,720
+NEXMIF variant detected,720
+mitochondrial DNA normal,720
+parents Sanger sequencing negative,720
+plasma exchange,0
+hemodialysis,0
+unconscious,0
+MOF uncorrected,0
+treatment discontinued,0
+death,168

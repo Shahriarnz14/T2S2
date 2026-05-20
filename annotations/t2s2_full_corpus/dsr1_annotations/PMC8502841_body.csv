@@ -1,0 +1,81 @@
+event,time
+45 years old,0
+male,0
+admitted to the intensive care unit,0
+shortness of breath,0
+confusion,0
+severe asthenia,0
+diffuse bilateral reduction in vesicular breath sounds,0
+tachypnea,0
+axillary temperature 37.8°C,0
+sinus tachycardia,0
+diffuse repolarization abnormalities,0
+low peripheral voltages,0
+mild leukocytosis,0
+thrombocytopenia,0
+high sensitive troponin T increased,0
+"peak NT-proBNP 17,000 pg/mL",0
+C-reactive protein 285 mg/L,0
+vascular congestion,0
+mild bilateral interstitial alterations,0
+severely impaired biventricular function,0
+left ventricle ejection fraction 25%,0
+TAPSE 12 mm,0
+diffuse wall hypokinesia,0
+mild biventricular dilatation,0
+no significant valvular disease,0
+minute bilateral ground-glass opacities,0
+no coronary artery stenosis,0
+no aortic disease,0
+first nasopharyngeal swab negative for SARS-CoV-2,-96
+epidemiological history of contact with COVID-19,0
+bronchoalveolar lavage positive for SARS-CoV-2,24
+non-invasive mechanical ventilation,0
+hydroxychloroquine 200 mg bid,0
+large-spectrum empirical antibiotic therapy,0
+intra-aortic balloon pump,0
+inotropic support with noradrenaline,0
+inotropic support with adrenaline,0
+metabolic acidosis,0
+hyper-lactacidemia,0
+mechanical circulatory support,0
+clinical stabilization,120
+IABP removed,120
+weaning from inotropic support,120
+transferred to Cardiology department,144
+cardiac MRI: severe biventricular dysfunction,144
+augmented T1 mapping,144
+signs of acute myocarditis,144
+myocardial biopsy performed,192
+mild lymphohistiocytic infiltrate,192
+diffuse platelet clots,192
+Parvovirus B-19 DNA detected,192
+SARS-CoV-2 RNA not detected,192
+levosimendan 0.5 μg/kg/min administered,216
+subcutaneous Anakinra 100 mg bid,240
+clinical conditions ameliorated,312
+blood tests ameliorated,312
+echocardiography improvement of biventricular function,312
+discharged,528
+optimal medical therapy for heart failure,528
+6-month subcutaneous IL-1 inhibitor,528
+follow-up at 3 months,2856
+good clinical conditions,2856
+mild effort dyspnea,2856
+improvement of biventricular function,2856
+follow-up at 8 months,5808
+no dyspnea,5808
+normalization of biventricular function,5808
+fever,-120
+mild dyspnea,-120
+fatigue,-120
+worsening symptoms,-96
+first computed tomography showed mild ground-glass opacities,-96
+pyretic,-72
+hypoxic (SpO2 85%),-72
+severe biventricular impairment,-72
+"metabolic acidosis (pH 7.26, lactate 9 mmol/L)",-72
+empiric antibiotic therapy started,-72
+worsening hypotension,-64
+persistent metabolic acidosis,-64
+IABP placed,-64

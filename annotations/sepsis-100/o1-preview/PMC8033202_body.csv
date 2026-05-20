@@ -1,0 +1,58 @@
+event,time
+muscle pain ,-144
+joint pain ,-144
+general weakness ,-144
+fever up to 39°C ,-144
+in good health before admission ,-144
+29-year-old ,0
+male ,0
+transferred from a small hospital to the University Clinical Centre of Republika Srpska in Banja Luka ,0
+admitted to the hospital ,0
+diagnosis of influenza A (H1N1) ,0
+acute respiratory failure ,0
+altered state of consciousness ,0
+pronounced liver dysfunction ,0
+total bilirubin 5.7 mg/dl ,0
+serum glutamic oxaloacetic transaminase 633 U/L ,0
+serum glutamic pyruvic transaminase 412 U/L ,0
+gamma-glutamyl transferase 161 U/L ,0
+lactate dehydrogenase 1668 U/L ,0
+signs of systemic inflammation ,0
+C-reactive protein (CRP) of 519 mg/l ,0
+procalcitonin of 1.28 ng/ml ,0
+increased leukocyte levels (14.8 × 10³/μl) ,0
+administered continuous sedation ,0
+administered muscle relaxation ,0
+intubation ,0
+mechanical ventilation with FiO₂ of 100% ,0
+SpO₂ of 88.7% ,0
+administered norepinephrine ,0
+placed in prone position ,0
+chest CT performed ,0
+massive bilateral pneumonia with minimal pleural effusions on chest CT ,0
+administered meropenem ,0
+administered azithromycin ,0
+administered oseltamivir ,0
+administered methylprednisolone ,0
+administered stress ulcer prophylaxis ,0
+administered thromboprophylaxis (UFH) ,0
+drug doses adjusted for renal function ,0
+hemodynamic instability progressed ,120
+norepinephrine dosage increased to 0.6 μg/kg/min ,120
+signs of multiorgan failure developed ,120
+development of acute renal failure ,144
+continuous renal replacement therapy (CRRT) started ,144
+first application of CytoSorb® ,168
+norepinephrine requirements lowered from 0.6 to 0.15 μg/kg/min ,168
+norepinephrine discontinued ,216
+deterioration of the patient's clinical condition ,240
+increase in norepinephrine demand ,240
+second therapy session of CytoSorb® commenced ,240
+norepinephrine discontinued ,264
+patient developed ICU delirium ,288
+treated with antipsychotics ,288
+percutaneous tracheostomy performed ,288
+ventilation parameters and lung function gradually improved ,168
+patient weaned off from the ventilator ,960
+transferred to general ward ,1152
+patient sent to rehabilitation clinic ,1200

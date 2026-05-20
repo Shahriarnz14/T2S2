@@ -1,0 +1,66 @@
+Background
+Rapid correction of chronic hyponatraemia can lead to osmotic demyelination syndrome (ODS). Achieving a gradual rise in sodium concentration can be challenging, especially when treating patients on renal replacement therapy (RRT). We report a case of successful correction of hyponatraemia in a patient on continuous veno-venous haemodialysis (CVVHD) and discuss potential therapeutic options.
+
+Case report
+A 43-year-old female presented with a 10-day history of productive cough, diarrhoea and vomiting. Her past medical history included end-stage renal failure secondary to crescentic IgA nephropathy and a live related renal transplant in 1992. Transplant function was poor due to biopsy-proven chronic transplant glomerulopathy. Her most recent estimated glomerular filtration rate prior to admission was 15 mL/min. Her medication included tacrolimus, mycophenolate mofetil, sodium bicarbonate, atenolol, ramipril and methoxy polyethylene glycol-epoetin beta (Mircera©).
+
+At presentation, she had severe hyponatraemia (serum sodium 102 mmol/L) and acute-on-chronic kidney injury (Table 1). A chest radiograph showed bilateral consolidation but no evidence of fluid overload. A septic screen, including atypical respiratory serology, was negative. She was started empirically on antibiotics for a community-acquired pneumonia and transferred to the intensive care unit (ICU) for CVVHD. Using a protocol aimed at careful adjustment of the sodium concentration in the dialysate fluid (Table 2), her hyponatraemia was corrected slowly by not >8 mmol/24 h (Table 3, Figure 1).
+
+Table 1. Blood results during stay in hospitala
+
+
+	On admission to hospital	On admission to ICU	Day 3 (episode of confusion)	On discharge from ICU	
+Sodium (mmol/L)	102	100	116	133	
+Potassium (mmol/L)	5.3	5.4	3.7	4.5	
+Creatinine (μmol/L)	416	407	189	380	
+Urea (mmol/L)	39.4	38.9	13.8	17.0	
+Magnesium (mmol/L)	N/A	0.62	1.02	1.0	
+Bicarbonate (mmol/L)	N/A	11	20	25	
+Chloride (mmol/L)	N/A	65	80	96	
+Phosphate (mmol/L)	1.94	2.1	1.0	1.3	
+eGFR (mL/min/1.73m2)	N/A	10	N/A	N/A	
+CRP (mg/L)	83.7	70	56	56	
+Serum osmolality (mOsm/kg)	248	N/A	N/A	N/A	
+Urine osmolality (mOsm/kg)	246	N/A	N/A	N/A	
+TSH (mIU/L)	N/A	N/A	0.37	N/A	
+a CRP, c-reactive protein; eGFR, estimated glomerular filtration rate; TSH, thyroid stimulating hormone; N/A, not available.
+
+Table 2. Effect of adding different volumes of water to replacement fluid/dialysate [1]
+
+Volume of water added (mL)	Final volume of diluted replacement fluid/dialysate (L)	[Na] in diluted replacement fluid/dialysate (mmol/L)	[HCO3] in diluted replacement fluid/dialysate (mmol/L)	[K] in diluted replacement fluid/dialysate (mmol/L)	
+Nil	5	140	35	4.0	
+150	5.15	136	34	3.9	
+250	5.25	133	33	3.8	
+350	5.35	131	33	3.7	
+500	5.5	127	32	3.6	
+750	5.75	122	30	3.5	
+1000	6.0	117	29	3.3	
+1250	6.25	112	28	3.2	
+Table 3. Daily changes of replacement fluid to correct hyponatraemia
+
+	Day 1	Day 2	Day 3	Day 4	Day 5	Day 6	
+Serum Na (mmol/L)	100	108	116	122	129	135	
+[Na] in diluted replacement fluid (mmol/L)	108	112, later changed to 117	122	127, later changed to 133	136	140	
+Fig. 1. Correction of hyponatraemia during continuous RRT. CRRT, continuous renal replacement therapy.
+
+On Day 3 of her admission, she became increasingly confused and agitated without any signs of meningism. She was intubated to facilitate a lumbar puncture and computed tomography (CT) of the brain. Cerebrospinal fluid analysis was unremarkable, and the CT did not show any evidence of encephalitis. Her serum sodium level at this point was 116 mmol/L. Her condition stabilized rapidly. The reason for her confusion was likely multifactorial and due to a combination of sepsis and an inadvertently high tacrolimus level (32 μg/L) on the background of renal failure. She was successfully extubated 24 h later and regained normal cognitive and neurological function.
+
+On Day 6, she was transferred to the renal unit. Her serum sodium level was 135 mmol/L at that time. Unfortunately, she remained dialysis dependent. She was discharged from hospital 10 days after admission.
+
+Discussion
+Rapid correction of chronic hyponatraemia can lead to ODS, which can potentially result in permanent neurological injury [2, 3].
+
+The critical goal in management of severe hyponatraemia is to ensure a gradual rise in serum sodium concentrations by not >8–10 mmol/L over 24 h [3]. This is particularly challenging in patients on RRT since there are no commercially available dialysate or replacement fluids with sodium <140 mmol/L. In this case, we decided to manually adjust the sodium concentration in the dialysate by adding decreasing volumes of sterile water (Tables 2 and 3). This ensures that the serum sodium concentration does not rise above that of the dialysate. In case the rate of correction is too rapid, one can decrease the dialysate flow or adjust the sodium concentration in the dialysis or replacement fluid accordingly. The serum concentration of bicarbonate and potassium may also be affected, requiring supplementation [1, 4]. As shown in Table 3, during a 6-day period, we changed the sodium concentration of the dialysate fluid on seven occasions in order to raise the serum sodium concentration gradually to 135 mmol/L.
+
+The method described is applicable for CVVHD, continuous veno-venous haemofiltration and continuous veno-venous haemodiafiltration. A similar principle can be used to correct hypernatraemia whereby varying amounts of concentrated saline (30% sodium chloride) solution are added to the dialysate or replacement fluid [1].
+
+Other means of correcting hyponatraemia during RRT exist but they may be less effective and/or less predictable. One method entails reducing the efficiency of RRT, by decreasing dialysate flow in dialysis or total effluent rate in haemofiltration. However, this might be limited by the need for solute clearance and treatment of metabolic acidosis. Another approach involves the use of standard dialysis/replacement fluid and concomitant administration of an intravenous infusion of hypotonic saline at a controlled rate [5]. However, the final serum sodium concentration might be less easily predicted.
+
+The exact aetiology of hyponatraemia in our patient is unclear. At presentation, our patient was neurologically asymptomatic, which was consistent with hyponatraemia of a chronic rather than acute onset. The cause for the transient encephalopathy which occurred on the third day of the patient’s ICU admission was likely multifactorial due to a combination of sepsis, a high tacrolimus level and renal failure. There was no evidence of seizure activity and the CT brain did not show any evidence of cerebral oedema. The rapid resolution of her symptoms and return of full neurological function makes ODS an improbable diagnosis.
+
+Our case highlights the fact that the cornerstone of management of severe hyponatraemia remains close monitoring of serum sodium concentration. We have described a simple effective method to correct severe hyponatraemia safely and to successfully avoid the devastating neurological complications of ODS.
+
+The authors would like to thank the renal specialist nurses at Guy’s Hospital.
+
+
+Conflict of interest statement. None declared.

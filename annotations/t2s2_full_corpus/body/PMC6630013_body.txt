@@ -1,0 +1,103 @@
+1 Introduction
+Acute respiratory distress syndrome (ARDS) is an acute diffuse lung injury associated with a predisposing risk factor [1]. Despite adequate supplemental oxygenation, hypoxemia usually occurs in patients with ARDS [2,3]. Currently, several methods for treating ARDS have been proposed, including a lung protective ventilation strategy, prone positioning, and cytokine removal with hemodialysis. Veno-venous extracorporeal membrane oxygenation (VV-ECMO) is also an option for treating ARDS and refractory hypoxemic respiratory failure. VV-ECMO helps maintain oxygenation, allows the lungs to rest with a low tidal volume, and decreases the risk of ventilator-associated lung injury.
+
+Pulmonary tuberculosis (TB) is an uncommon cause of ARDS [4] and the mortality of ARDS due to TB ranges between 60% and 90% [5]. As well as pulmonary TB, TB-induced ARDS slowly improves and may require long-term treatment. Several cases of TB-induced ARDS with prolonged VV-ECMO have been reported [[6], [7], [8]]. However, the effectiveness of VV-ECMO on TB-induced ARDS has not yet been determined. We report a patient with TB-induced ARDS who was successfully rescued by short-term use of VV-ECMO.
+
+2 Case presentation
+A 48-year-old man was admitted to a national tertiary hospital in Hanoi, Vietnam, with fever, cough, and shortness of breath. The patient was a member of medical staff in a TB hospital in the northeastern part of Vietnam. Four days before admission to our hospital, he had a fever, cough, and sputum. He was administered amoxicillin 2 g/day in his hospital. In the next day, his condition deteriorated and he developed dyspnea. In the next day, he visited and was hospitalized in a local general hospital, and was diagnosed with bacterial pneumonia. He was started to support with non-invasive mechanical ventilation (3 days prior to the admission to our hospital) and treated with Ceftriaxone (2 g/day). However, his respiratory condition deteriorated. At that time, computed tomography (CT) scans showed bilateral diffuse consolidation (Fig. 1a). He had diabetes mellitus, chronic gout, and long-term use of corticosteroids.Fig. 1 Computed tomography images. (a) 3 days from symptom onset at local hospital; (b) 25 days from the hospital admission.
+
+Fig. 1
+
+At the time of admission to the emergency department in our hospital, a physical examination showed that the patient's body temperature was 38.5 °C and blood pressure was 100/60 mmHg. Arterial blood gas analysis showed that the ratio of partial pressure of arterial oxygen to the fraction of inspired oxygen (PaO2/FiO2) was 50 mmHg and lung compliance was 12 mL/cmH2O (Table 1). Laboratory findings at the time of admission were shown in Table 2. After the admission of Emergency department, noninvasive ventilation was applied; however, after 6 h, no improvement has been seen in the patient's condition. The patient was intubated for the mechanical ventilation based on the methods by the ARDS Net [9], then given prone position. Despite the volume-controlled ventilation (VCV) support in the Emergency Department, his respiratory condition deteriorated. In the 2nd day of admission, he was transferred to the intensive care unit (ICU).Table 1 Changes in arterial blood gases and ventilatory parameters.
+
+Table 1	pre-ECMO	ECMO Day 1	ECMO Day 2	ECMO Day 3	ECMO Day 4	ECMO weaning Day 5	Post-ECMO Day 6	Post-ECMO Day 7	Extubation Day 8	
+pH	7.28	7.49	7.33	7.47	7.50	7.46	7.39	7.41	7.41	
+PaCO2 (mmHg)	42	35	51	45	35	37	32	33	33	
+PaO2 (mmHg)	50	137	87	156	153	157	213	164	103	
+Ventilation mode	VCV	VCV	VCV	VCV	VCV	VCV	VCV	PCV	PCV – BiPAP	
+Respiration rate, breaths/min	20	10	10	10	16	20	14	14	14	
+FiO2 (mmHg)	100	100	40	50	40	40	50	40	40	
+PaO2/FiO2 (mmHg)	50	171	200	260	392	420	426	410	260	
+Tidal volume (mL)	380.0	300,0	250.0	250.0	250.0	360.0	400.0	NA	NA	
+Plateau pressure (cmH2O)	NA	23.0	20.0	20.0	20.0	20.0	NA	NA	NA	
+PEEP (cmH2O)	10.0	10.0	14.0	14.0	10.0	14.0	8.0	5.0	5.0	
+lungcompliance (mL/cmH2O)	12.5	22.5	26.0	35.3	35.0	38.0	42.0	NA	NA	
+ECMO, extracorporeal membrane oxygenation; PaCO2, partial pressure of carbon dioxide; PaO2, partial pressure of arterial oxygen; FiO2, arterial oxygen to fraction of inspired oxygen; PEEP, positive end-expiratory pressure; VCV, volume control ventilation; PCV, pressure control ventilation; BiPAP, Biphasic Positive Airway pressure.
+
+NA denotes not available.
+
+Table 2 Changes in laboratory findings.
+
+Table 2	pre-ECMO	ECMO Day 1	ECMO Day 2	ECMO Day 3	ECMO Day 4	ECMO weaning Day 5	Post-ECMO Day 6	Post-ECMO Day 7	Extubation Day 8	
+WBC (× 1000/μl)	11.4	3.54	5.76	6.4	7.1	7.3	7.27	12.25	9.7	
+RBC (T/l)	3.53	2.49	3.86	3.3	3.28	3.20	2.8	3.84	3.44	
+Hemoglobin (g/l)	106	72	106	97	95	93	89	108	96	
+Plt (× 1000/μl)	189	136	113	100	123	116	116	140	143	
+AST (U/L)	254	188	NA	58	32	NA	34	46	27	
+ALT (U/L)	127	92	NA	38	35	NA	23	24	22	
+Creatinine (mg/dL)	1.19	139	119	140	165	NA	161	132	112	
+INR	1.07	1.16	0.98	1.09	1.11	1.11	1.22	1.13	1.22	
+APTT (sec.)	37	54	46	41.5	36.2	34	36	35.2	34.4	
+Fibrinogen (g/L)	4.5	6.4	1.29	7.58	6.8	6.8	7.16	7.33	7.38	
+DIC score	1	2	1	1	1	0	0	0	0	
+ECMO, extracorporeal membrane oxygenation; WBC, white blood cell count; RBC, red blood cell count; Plt, platelet count; AST, aspartate aminotransferase; ALT. alanine aminotransferase; INR, international normalized ratio; APTT, activated partial thromboplastin time; DIC, Disseminated Intravascular Coagulation.
+
+NA denotes not available.
+
+
+
+Upon arrival at the ICU, he had a blood pressure of 110/60 mmHg, heart rate of 102 beats/min, Oxygen saturation (SpO2) of 80%, central venous pressure of 10 mmHg, and Murray score for lung injury [10] of 4. A chest X-ray showed bilateral infiltration (Fig. 2a). A lung ultrasound examination showed no pleural fluid. At the same day, Mycobacterium tuberculosis was detected in a sputum smear for acid-fast bacilli (AFB +++). Human immunodeficiency virus was not detected in the blood using the real-time polymerase chain reaction. Based on these physical examination, laboratory findings, chest images, and respiratory conditions, he was diagnosed with TB-induced ARDS. The discussion among the healthcare team was made to proceed to VV-ECMO. VV-ECMO was then initiated with internal jugular vein and femoral access vein cannulation by the Seldinger technique [11], with blood flow at 4.5 L/min and gas flow at 4.2 L/min. The mechanical ventilator setting and parameters were as follows: tidal volume (Vt), 4 mL/kg; end inspiratory plateau pressure (Pplat), <25 cmH2O; respiratory rate (RR), 8 breaths/min, positive end-expiratory pressure (PEEP), 14 cmH2O, and FiO2, 1.0. Anti-TB regimens were also initiated with ethambutol (1600 mg), pyrazinamide (1500 mg), and rifampicin/isoniazid (600 mg/400 mg). Regarding the administrations of antibiotics, Levofloxacin (750 mg) were administered for the first three days, then meropenem (1000 mg) and amikacin (1000 mg) were administered for 14 days [12]. Corticosteroids (100 mg of hydrocortisone/8 h) was also administered. In terms of anticoagulation regimen, heparin was applied for preventing the development of thrombosis at oxygenation membrane. The 100 IU/kg of dose of intravenous bolus dose was given when cannulas insertions were finished, then 10 IU/kg/hour as the maintaining dose. Activated Partial Thromboplastin Time was tested every 4–6 hours for monitoring heparin anticoagulation effect and was kept from 45 to 55 seconds. The patient had no any bleeding and oxygenation membrane was maintained well in the process.Fig. 2 Chest X-ray images taken by the portable generators with antero-posterior direction. (a) at hospital admission (pre-ECMO); (b) 2 days from the initiation of ECMO; (c) 4 days from the initiation of ECMO; (d) 6 days from ECMO (post-ECMO); (e) at the time of extubation; (f) 25 days from hospital admission.
+
+Fig. 2
+
+After initiation of ECMO support, the patient's hypoxemia rapidly improved to 216 mmHg of PaO2/FiO2 and lung compliance was improved to 26 mL/cmH2O on the 2nd day of ECMO support (Fig. 3). Chest radiography gradually improved on the 4th day of ECMO support (Fig. 2b and c). On the 5th day of ECMO support, the patient was weaned from ECMO, and PaO2/FiO2 and lung compliance were improved to >390 mmHg and 38 mL/cmH2O, respectively (Fig. 3). The patient was extubated at the 8th day after admission for ECMO.Fig. 3 Changes in PaO2/FiO2 and lung compliance.
+
+Fig. 3
+
+On the 10th day after admission for ECMO, mechanical ventilation support was backed because of respiratory muscle weakness caused by corticosteroid-induced myopathy. A cerebrospinal fluid examination was normal. On the 15th day, tracheostomy was performed. On the 35th day, the patient was weaned from mechanical ventilation and discharged on the 47th day. Anti-TB regimens were continued after discharge from hospital.
+
+3 Discussion
+This report shows successful treatment for the short-term use of VV-ECMO in ARDS caused by TB infection. While the use of ECMO is extensive and expensive, the present case demonstrated the possible role of VV-ECMO in the short term for treating TB-induced ARDS, especially if it is in the early stage.
+
+TB-induced ARDS is rare, but its mortality is high because of a lack of established effective treatment methods [4, 5]. The present case had severe ARDS at the time of admission and his chest CT already showed diffuse consolidative shadows all over the lungs in a local hospital before admission to our hospital. However, there were only 4 days from development of symptoms, including fever, cough, and dyspnea. On the 2nd day after admission to hospital, Mycobacterium tuberculosis was detected in his sputum spacemen with no other pathogens. Until that time, the patient did not realize that he had TB infection, even though he was in a high-risk population as a member of medical staff in a TB hospital and he used to abuse corticosteroids for the pain relief caused by gout attack. He also had diabetes mellitus. Drug regimens for TB infection were started together with conventional mechanical ventilation for treating ARDS. However, his PaO2/FiO2 decreased to 50 mmHg. We expect that improvement from a severe pulmonary condition caused by TB infection requires long-term pharmacotherapy. We initiated VV-ECMO together with conventional mechanical ventilation that may provide effective support, particularly in patients with severe lung injury at 2 days after admission to hospital, which was on the 5th day from disease onset. VV-ECMO has become an important method for treating ARDS [13]. After initiation of VV-ECMO, our patient's hypoxemia and decreased lung compliance rapidly improved. He was weaned from ECMO after 5 days of support with ECMO. Previous reports on successful treatment of VV-ECMO in TB-induced ARDS focused on prolonged use [[6], [7], [8],14]. The duration of use of VV-ECMO in previous studies was 36 [6], 52 [7], and 89 [8,15] days. In the recent report, a patient with miliary TB-induced ARDS on ECMO therapy without ventilator weaned from ECMO after 50 days [13]. In the present case, the pathophysiology of TB may be disseminated, since the onset of clinical symptoms, including dyspnea, was acute, and CT images of disease onset showed diffuse consolidation shadows in both lungs without focal signs at the initial stage. In addition, a report of patient with ARDS and septic-induced cardiomyopathy secondary to pulmonary TB with the veno-veno-arterial (VVA) ECMO indicated that blood gas exchange was recovered slowly, while cardiac function was recovered within 10 days from the initiation of VVA-ECMO and the patient weaned ECMO at 28 days [16]. This result inferred the difficulty of recovering the respiratory function for patient with TB if the lung destruction has been occurred [16]. However, the present case had the less lung destruction. A previous report showed that the association of disseminated TB with ARDS which presents the pathology of diffuse alveolar damage (DAD) was uncommon [2]. DAD was found in 7/196 cases of disseminated TB [2]. Generally, ARDS with the pathology of DAD has a poor prognosis [17]. Even use of ECMO in the early stage of ARDS does not result in a better prognosis than that with no use of ECMO [13]. In the present case, ARDS rapidly improved after using VV-ECMO. Only 5 days of ECMO treatment resulted in successful weaning. Therefore, pathophysiological condition on this patient may not yet organized DAD. Although TB requires long-term therapy, the difference of pathophysiology in ARDS in this case from inherent pathology of TB might be another reason for the short-term improvement in ECMO therapy.
+
+The present case was treated with multiple medications, including anti-TB drugs, antibiotics, and corticosteroids. A previous case report indicated that high-dose steroid therapy for pulmonary TB contributed to a decreased requirement for long-term steroid use [7]. However, evidence for the effect of corticosteroids on ARDS due to disseminated TB is still lacking [15]. Any pharmacotherapy used in the present case did not appear to contribute to the rapid improvement. VV-ECMO should be considered as a treatment option for TB-induced ARDS, and it is effective, even in short-term administration, especially if TB shows rapid progression.
+
+4 Conclusions
+We report successful treatment of TB-induced ARDS with the short time use of VV-ECMO together with conventional ventilation and medications, including anti-TB drugs. VV-ECMO is effective for TB-induced ARDS even in short-term administration if progression of ARDS is rapid and if DAD has not organized. The difference of pathophysiology in ARDS from inherent pathology of TB might be the another reason for the short-term improvement in ECMO therapy. VV-ECMO should be considered as a supporting method to accelerate improvement of respiratory function in TB-induced ARDS. This case report warrants to the further study.
+
+Appendix
+ARDSAcute respiratory distress syndrome
+
+TBtuberculosis
+
+VV-ECMOVeno-venous extracorporeal membrane oxygenation
+
+PaO2/FiO2the ratio
+
+CTcomputed tomography
+
+DADdiffuse alveolar damage
+
+
+
+Ethics approval and consent to participate
+This study was approved by the Institutional Review Board of Bach Mai hospital. Written informed consent was obtained by the patient.
+
+Availability of data and material
+All data supporting the findings is contained within the manuscript.
+
+Consent for publication
+The patient provided written informed consent for the publication of this report.
+
+Conflicts of interest
+The authors declare that they have no competing interests.
+
+Funding
+The study was supported by the Emerging/re-emerging infectious disease project on the Japan Agency for Medical Research and Development (AMED): 18FY2018. The funders had no role in the design, methods, participant recruitment, data collection, analysis, and preparation of the paper.
+
+Authors’ contributions
+Conceived and designed the experiments: NGB, TM and KK. Performed experiments NGB, DXC, LDT, PTT, DQT and BVCKY. Analysed data: TM. Interpreted study results: NGB, TM, NGB, DXC, LDT, PTT, DQT, BVCKY, KK and NQA. Wrote the first draft of manuscript: TM. All authors read and approved the final manuscript.
+
+Acknowledgements
+We thank Ellen Knapp, PhD, from Edanz Group for editing a draft of this manuscript.

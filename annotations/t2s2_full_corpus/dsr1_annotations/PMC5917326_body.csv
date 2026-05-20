@@ -1,0 +1,67 @@
+event,time
+60 years old,0
+female,0
+abdominal incisional hernia,"-43800 (5 years before admission, 5*365*24=43800)"
+laparotomic appendectomy,-43800
+acute appendicitis,-43800
+peritoneal abscess,-43800
+bulging in right abdominal quadrants,0
+xipho-pubic scar,0
+umbilicus scar,0
+14 mm tumefaction increasing with Valsalva,0
+ultrasound confirmed incisional hernia,0
+abdominoplasty,0
+open keel technique hernia repair,0
+scar excision,0
+supra-umbilical hernia sac dissection,0
+preperitoneal plane assessment,0
+limited viscerolysis,0
+rectus abdominis muscle plasty,0
+Vicryl 1.0 stitches,0
+Santanelli umbilicus reconstruction,0
+surgical drains placement,0
+weak peristalsis on post-op day 2,48
+afebrile post-op,0-96 (days 0-4)
+good general condition post-op,0-96
+deambulation started post-op day 2,48
+bowel open for gas/faeces post-op day 3,72
+drains removed on post-op day 4,96
+discharged on post-op day 4,96
+first follow-up 4 days after discharge (post-op day 8),192
+clean healing wound,192
+subsequent follow-up visits,192-552 (days 8-23)
+stitches removed post-op day 23,552
+return on post-op day 29,696
+epigastric bulge,696
+fever 38°C,696
+normal feeding/transit,696
+xipho-umbilical ballottement,696
+skin erythema,696
+abdominal pain,696
+60 cc pus drained,696
+abscess cavity cleaning,696
+Streptococcus anginosus positive culture,696
+Levoxacin 500 mg started,696
+seventh follow-up post-op day 31,744
+persistent pain,744
+increased purulent drainage (80 cc),744
+dyspnea after rinsing,744
+chest X-ray showing subdiaphragmatic free gas,744
+abdominal CT confirming perforation,744
+exploratory laparotomy,744
+plastic peritonitis,744
+right and transverse colectomy,744
+ileal loop damage,744
+right salpingo-ovariectomy,744
+temporary ileostomy,744
+histology showing hemorrhagic serositis,744
+ischemic necrosis,744
+ulceration in right colon,744
+ICU transfer,744
+Metronidazole,744
+Levofloxacin,744
+Imipenem,744
+Tigecicline,744
+Fluconazole,744
+ileostomy reversal 2 weeks later,744+336=1080
+discharged 8 days after reversal,1080+192=1272

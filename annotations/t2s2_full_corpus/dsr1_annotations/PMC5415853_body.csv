@@ -1,0 +1,139 @@
+event,time
+67-year-old,0
+female,0
+admitted to intensive care unit (ICU),72
+hypertension,0
+type 2 diabetes mellitus,0
+dyslipidemia,0
+abdominal pain,-72
+bleeding diarrhoea,-72
+nausea,-72
+blood pressure 95/71 mmHg,0
+temperature 36.3 °C,0
+oxygen saturation 92%,0
+diffuse abdominal pain without signs of peritonism,0
+leucocytes count 7.3 × 10³ μL,0
+haemoglobin 12.6 g/dL,0
+platelet count 96 × 10³ μL,0
+serum creatinine 1.45 mg/dL,0
+serum sodium 132 mmol/L,0
+serum potassium 4.5 mmol/L,0
+diagnosed with acute gastroenteritis,0
+acute prerenal failure,0
+treated with fluids,0
+proton pump inhibitor,0
+antiemetics,0
+intravenous ciprofloxacin,0
+intravenous metronidazole,0
+stool culture sent,0
+anuria,24
+unfavourable evolution on blood test,24
+blood smear showed non-significant schistocytes count (< 1%),24
+abdominal CT scan done,48
+suggestive of proctitis,48
+cortical hypoperfusion of both kidneys,48
+admitted to ICU,72
+neurological failure with bradipsiquia,72
+worsen of blood test analysis,72
+haemoglobin 11.2 g/dL,72
+haptoglobin < 6.63 mg/dL,72
+lactate dehydrogenase 1125 U/L,72
+elevated schistocytes count,72
+negative direct antiglobulin test,72
+diagnosed with microangiopathic haemolytic anemia,72
+anuric renal failure,72
+thrombocytopenia (post transfusion platelet count 59 × 10³ μL),72
+diagnosis of TMA,72
+treatment with plasma exchange,72
+methylprednisolone 1 mg/kg per day,72
+first session of haemodialysis,72
+ADAMTS13 test result normal (55.9%),96
+daily plasma exchange sessions maintained,96
+possible severe atypical HUS,96
+deterioration of neurological situation,96
+persistence of anuric renal failure,96
+low limit of normal complement C3 (75 mg/dL),96
+verotoxin 2-secreting Escherichia coli isolated in stool culture,144
+plasma exchange discontinued,144
+favourable clinical evolution,144
+progressive improvement of neurological symptoms,144
+transferred to ward,168
+recovery of diuresis,336
+haemodialysis needed until 23rd day,0
+renal biopsy confirmed thrombotic microangiopathic involvement,0
+anemia increased at slow rate,0
+no red-cell transfusion needed until day 6,0
+platelet count decrease requiring transfusion,72
+diagnosis of typical HUS,144
+treatment with Eculizumab considered,96
+treatment with Eculizumab rejected,144
+complete recovery of renal function in four weeks,672
+67-year-old,0
+female,0
+hypertension,0
+type 2 diabetes mellitus,0
+dyslipidemia,0
+abdominal pain,-72
+bleeding diarrhoea,-72
+nausea,-72
+admitted to the hospital,0
+blood pressure 95/71 mmHg,0
+temperature 36.3 °C,0
+oxygen saturation 92%,0
+diffuse abdominal pain without signs of peritonism,0
+leucocytes count 7.3 × 10³ μL,0
+haemoglobin 12.6 g/dL,0
+platelet count 96 × 10³ μL,0
+serum creatinine 1.45 mg/dL,0
+serum sodium 132 mmol/L,0
+serum potassium 4.5 mmol/L,0
+diagnosed with acute gastroenteritis,0
+acute prerenal failure,0
+treated with fluids,0
+proton pump inhibitor,0
+antiemetics,0
+intravenous ciprofloxacin,0
+intravenous metronidazole,0
+stool culture sent,0
+anuria,24
+unfavourable evolution on blood test,24
+blood smear with non-significant schistocytes (<1%),24
+abdominal CT scan done,48
+proctitis (inflammatory/infectious),48
+cortical hypoperfusion of both kidneys,48
+admitted to ICU,72
+neurological failure with bradipsiquia,72
+worsening blood test,72
+haemoglobin 11.2 g/dL,72
+haptoglobin <6.63 mg/dL,72
+lactate dehydrogenase 1125 U/L,72
+elevated schistocytes count,72
+negative direct antiglobulin test,72
+microangiopathic haemolytic anemia,72
+anuric renal failure,72
+thrombocytopenia (post-transfusion platelets 59×10³ μL),72
+diagnosis of TMA,72
+plasma exchange initiated,72
+methylprednisolone 1 mg/kg/day,72
+first haemodialysis session,72
+ADAMTS13 result normal (55.9%),96
+daily plasma exchange continued,96
+possible atypical HUS,96
+deteriorating neurology,96
+persistent anuric renal failure,96
+low-normal C3 (75 mg/dL),96
+verotoxin 2-secreting E. coli isolated,144
+plasma exchange discontinued,144
+clinical improvement,144
+neurological improvement,168
+transferred to ward,168
+diuresis recovery,336
+haemodialysis until day 23,0
+renal biopsy confirmed TMA,0
+slowly increasing anemia,0
+no red-cell transfusion until day 6,0
+platelet transfusion needed,72
+diagnosis of typical HUS,144
+eculizumab considered,96
+eculizumab rejected,144
+renal recovery in four weeks,672

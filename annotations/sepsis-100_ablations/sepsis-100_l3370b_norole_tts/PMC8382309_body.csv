@@ -1,0 +1,104 @@
+event,time
+52 years old ,0
+male ,0
+admitted to the hospital ,0
+right upper quadrant pain ,-168
+abdominal fullness ,-168
+abdominal distention ,-168
+liver abscess ,-24
+hepatic puncture and drainage ,-24
+transfer to hospital ,0
+afebrile ,0
+pulse rate 80 beats/minute ,0
+blood pressure 118/73 mmHg ,0
+respiratory rate 26 breaths/minute ,0
+leukocyte count 16.4×10^9/L ,0
+haemoglobin level 85 g/L ,0
+platelet count 240×10^9/L ,0
+procalcitonin level 2.3 ng/mL ,0
+plasma fibrinogen level 7.48 g/L ,0
+abdominal distension ,48
+mild bellyache ,48
+extreme thirst ,48
+right abdominal tenderness ,48
+temperature 36.8 °C ,48
+fulvous fluid ,48
+abdominal and pelvic CT scan ,48
+irregular low-density lesion ,48
+gas density shadow ,48
+liquid density shadow ,48
+high-density drainage tube shadow ,48
+round-like low-density lesion ,48
+appendix thickened ,48
+disorganised ascending colon ,48
+multiple gas accumulation ,48
+dilation in the bowel ,48
+air-fluid levels ,48
+hepatic abscesses ,48
+ileus ,48
+mild ascites ,48
+appendicitis ,48
+liver cyst ,48
+abdominal infection ,48
+peritonitis ,48
+pre-shock ,72
+insufficient blood pressure 93/59 mmHg ,72
+exploratory laparotomy ,72
+fulvous purulent exudate ,72
+necrotic tissue ,72
+partial postnecrotic defect ,72
+massive epiploon adhesion ,72
+perforations ,72
+ileocecal resection ,72
+partial resection of the ascending colon ,72
+ileostomy ,72
+"drainage of hepatic, abdominal and extraperitoneal abscesses ",72
+orotracheal intubation ,96
+hypotension ,96
+anemia ,96
+fever ,96
+transferred to ICU ,96
+noradrenaline ,96
+ventilator ,96
+intravenous hydration ,96
+nutritional support therapy ,96
+blood transfusion ,96
+blood cultures ,96
+drainage fluids ,96
+empirically started on intravenous tigecycline and piperacillin/tazobactam ,96
+temperature 39.3°C ,120
+pulse rate 130 beats/minute ,120
+leukocyte count 35.9×10^9 cells/L ,120
+PCT level 8.15 ng/mL ,120
+CRP level 174 mg/L ,120
+anaerobic blood culture ,120
+Gram stain ,120
+short Gram-positive bacillus ,120
+MALDI-TOF MS ,144
+E. lenta ,144
+antimicrobial susceptibility testing ,144
+tigecycline replaced by teicoplanin ,168
+piperacillin/tazobactam discontinued ,168
+ertapenem added ,168
+cultures of the drainage fluid ,168
+Escherichia coli ,168
+ertapenem and teicoplanin ,168
+fever improved ,192
+leukocytosis improved ,192
+PCT level improved ,192
+CRP level improved ,192
+transferred to general ward ,216
+ertapenem and teicoplanin ,216
+debridement ,216
+dressing change ,216
+symptomatic supportive treatment ,216
+repeated blood cultures ,240
+negative ,240
+repeat CT ,240
+size of the hepatic abscess decreased ,240
+amount of ascites decreased ,240
+discharged ,336
+oral antibiotics ,336
+clindamycin ,336
+follow-up ,504
+complete resolution of the abscess ,504

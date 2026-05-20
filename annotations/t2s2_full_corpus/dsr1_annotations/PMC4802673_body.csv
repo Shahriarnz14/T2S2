@@ -1,0 +1,60 @@
+event,time
+58 years old,0
+male,0
+hypertension,0
+diabetes mellitus,0
+admitted to Intensive Care Unit,0
+septic shock,0
+coronary artery bypass grafting,-312
+mitral valve replacement,-312
+invasive mechanical ventilation,0
+norepinephrine infusion,0
+renal function deteriorated,0
+creatinine clearance >40 ml/min,0
+preserved urine output,0
+fever (39.5°C),0
+central venous catheter placement,-144
+CVC removal,0
+blood cultures drawn,0
+urine culture obtained,0
+bronchoalveolar lavage obtained,0
+no sternal instability,0
+CT scan performed,0
+no mediastinitis,0
+transthoracic echocardiography performed,0
+transesophageal echocardiography performed,0
+no valvular abnormalities,0
+vancomycin initiated,0
+imipenem initiated,0
+colistin initiated,0
+clinical condition worsened,0
+Klebsiella pneumoniae isolated,0
+catheter culture positive,0
+blood cultures positive,0
+amikacin intermediate (MIC=16 µg/ml),0
+imipenem resistant (MIC=4 µg/ml),0
+colistin resistant (MIC=16 µg/ml),0
+tigecycline resistant (MIC=4 µg/ml),0
+blaOXA-48 gene detected,0
+blaVIM-2 gene detected,0
+blaCMY-2 gene detected,0
+blaSHV-1 gene detected,0
+vancomycin stopped,0
+colistin stopped,0
+amikacin initiated (30 mg/kg),0
+imipenem increased to 1g every 6h,0
+CVVHDF initiated,0
+amikacin dose adjusted,0
+amikacin peak level monitoring,0
+amikacin increased to 60 mg/kg,24
+hemodynamic improvement,120
+norepinephrine stopped,120
+CRP decreased,120
+procalcitonin decreased,120
+leukocytes decreased,120
+treatment continued for 14 days,0
+discharged from ICU,432
+serum creatinine stable,432
+no adverse effects,432
+audiometric test performed,432
+no ototoxicity,432

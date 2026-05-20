@@ -1,0 +1,80 @@
+event,time
+61 years old,0
+female,0
+non-smoking,0
+veteran,0
+hypertension,0
+admitted to the hospital,0
+chronic cough,0
+dyspnea,0
+50-pound weight loss,0
+nausea,-504
+vomiting,-504
+cachexic,0
+scleral icterus,0
+jaundice,0
+dry mucous membranes,0
+normal bowel sounds,0
+no pain,0
+no distension,0
+no organomegaly,0
+decreased breath sounds in the left lower lung fields,0
+tachycardic,0
+hypotensive,0
+hyponatremia,0
+sodium 131 mEq/L,0
+bicarbonate 32 mEq/L,0
+alkaline phosphatase 215 u/L,0
+total bilirubin 5.8 mg/dL,0
+aspartate aminotransferase 58 u/L,0
+alanine aminotransferase 36 u/L,0
+computed tomography of her chest performed,0
+innumerable pulmonary parenchymal nodules,0
+large peripherally located 5.0 × 4.0 cm lung mass,0
+central area of necrosis,0
+extensive involvement of the paratracheal lymph nodes,0
+extensive involvement of the left hilar lymph nodes,0
+mass extended into the lingula,0
+mass extended into the superior segment of the left lower lobe,0
+pleural effusion,0
+surrounding consolidation,0
+post-obstructive pneumonia suspected,0
+obstructive jaundice,0
+biliary obstruction,0
+abdominal ultrasonography performed,6
+severely dilated common bile duct,6
+moderately distended gall bladder,6
+computed tomography of abdomen performed,12
+large heterogeneous mass in the pancreatic head 4.5 cm,12
+grossly dilated common bile duct,12
+enlarged retroperitoneal lymph nodes contiguous with the mass,12
+4.0 × 4.5 cm pancreatic head mass,12
+extension inferiorly into the retroperitoneum,12
+biliary ductal dilation 2.7 cm,12
+severe obstruction,12
+emergent biliary stenting via endoscopic retrograde cholangiopancreatography,24
+biliary obstruction relieved,24
+biopsy of lung mass performed,24
+biopsy of pancreatic head performed,24
+biopsy of lung mass revealed cell clusters with high nuclear pleomorphism and prominent nuclei,72
+lung mass TTF-1 positive,72
+lung mass CK-7 positive,72
+lung mass p63 negative,72
+biopsy of pancreatic head revealed cell clusters with high nuclear pleomorphism and prominent nuclei,72
+pancreatic head TTF-1 positive,72
+pancreatic head CK-7 positive,72
+pancreatic head p63 negative,72
+lung adenocarcinoma diagnosed,72
+metastasis to pancreas,72
+metastases to the brain,72
+no liver involvement,72
+radiation therapy initiated,96
+whole brain radiation initiated,96
+adjunctive chemotherapy initiated,96
+carboplatin started,96
+pemetrexed started,96
+pembrolizumab started,96
+multiple whole brain radiation sessions,96
+severe pneumonia after initiating chemotherapy,240
+sepsis,264
+passed away,264

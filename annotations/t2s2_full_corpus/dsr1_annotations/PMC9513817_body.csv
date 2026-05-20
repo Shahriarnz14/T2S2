@@ -1,0 +1,59 @@
+event,time
+54 years old,0
+non-smoking,0
+woman,0
+underlying stage IV lung adenocarcinoma,0
+brain metastasis,0
+liver metastasis,0
+multiple bone metastasis,0
+ECOG score of 0,0
+chronic cough,-525600
+computed tomography-guided biopsy,-525600
+right lung tumor,-525600
+L858R-positive lung adenocarcinoma,-525600
+clinical staging cT4N3M1b,-525600
+disease progression,-525600
+erlotinib use,-189216
+osimertinib use,-105120
+chemotherapy started,-94608
+disease progression,-105120
+re-biopsy,-105120
+right middle lobe,-105120
+genomic profiling,-105120
+ACTDrug next-generation sequencing assay,-105120
+L858R/cis-T790M/cis-C797S mutations,-105120
+no other molecular alterations,-105120
+brigatinib use,0
+afatinib use,0
+combination therapy,0
+exertional dyspnea,48
+dry cough,48
+hypercapnic respiratory failure,72
+intubation,72
+leukocytosis,72
+neutrophil predominant,72
+carbon dioxide retention,72
+chest X-ray bilateral interstitial infiltrates,72
+pneumonia,72
+broad-spectrum antibiotics,72
+fever subsided,96
+septic shock improved,96
+poor oxygenation,96
+chest CT bilateral ground-glass opacities,96
+left lower lung consolidation,96
+negative microbiology studies,96
+EOPEs,96
+intravenous methylprednisolone 40 mg every 8 hours,96
+oxygenation improved,144
+chest X-ray improvement,144
+chest CT resolution,336
+transferred to respiratory care center,504
+weaning,504
+transferred to ICU,672
+seizure,672
+progressive brain metastasis,672
+brain radiotherapy,672
+progressive septic shock,672
+broad-spectrum antibiotics,672
+vasopressors,672
+died,816

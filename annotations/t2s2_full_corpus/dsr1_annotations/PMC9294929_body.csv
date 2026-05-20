@@ -1,0 +1,53 @@
+event,time
+58-year-old,0
+female,0
+AJCC stage IV metastatic melanoma,0
+lung metastasis,0
+combination therapy nivolumab 1 mg/kg,-144
+combination therapy ipilimumab 3 mg/kg,-144
+every 3 weeks for four doses,-144
+first dose received,-144
+second dose received,-144
+emergency room arrival,0
+altered mental status,0
+hypotension 66/41 mm Hg,0
+tachycardia,0
+fever 40.1 C,0
+hypoxia 84% on room air,0
+BiPAP placement,0
+intensive care unit admission,0
+peripheral edema +3 lower extremities to hips,0
+elevated serum creatinine 2.8 mg/dL,0
+elevated ALT 180 Units/L,0
+elevated AST 165 Units/L,0
+lactate 10.9 mmol/L,0
+CRP 20.2 mg/L,0
+leukocytosis 13.7 k/cumm,0
+chest X-ray pulmonary edema,0
+septic shock suspicion,0
+systemic inflammatory response syndrome criteria met,0
+piperacillin-tazobactam,0
+vancomycin,0
+norepinephrine,0
+epinephrine,0
+vasopressin,0
+fluids,0
+no improvement within 24 hours,24
+methylprednisolone 1 mg/kg,24
+intubation,24
+no improvement after 2 days of methylprednisolone,72
+tocilizumab,72
+IL-6 21.4 pg/dL,72
+"TNF-α 1,876 pg/dL",72
+4 doses tocilizumab 8 mg/kg,72
+methylprednisolone 1 mg/kg concurrent,72
+no improvement after tocilizumab,72
+etanercept trial,72
+symptoms improved,96
+extubated,120
+laboratory results improved,120
+mental status improved,120
+fever resolved,120
+discharged,120
+close follow-up with primary care provider,120
+close follow-up with oncologist,120

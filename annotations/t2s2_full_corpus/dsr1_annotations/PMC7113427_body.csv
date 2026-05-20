@@ -1,0 +1,100 @@
+event,time
+41 years old,0\
+premenopausal,0\
+female,0\
+admitted to the hospital,0\
+worsening abdominal pain,0\
+vomiting,0\
+non-bloody diarrhea,0\
+fever,0\
+intermittent abdominal pain,-504\
+bilateral Escherichia coli pyelonephritis,-240\
+Stage 4 endometriosis,0\
+bilateral endometriomas,0\
+rectal nodule,0\
+obliterated pouch of Douglas,0\
+fixed anterior uterus,0\
+no previous laparoscopies,0\
+previous caesarean section,0\
+well controlled asthma,0\
+denied recent sexual intercourse,0\
+no uterine instrumentation,0\
+no history of PID,0\
+no history of sexually transmitted infections,0\
+not taking regular medication,0\
+not on contraceptives,0\
+regular menstrual cycles,0\
+tachycardic,0\
+hypotensive,0\
+febrile,0\
+right renal angle tenderness,0\
+generalized lower abdominal tenderness,0\
+rebound,0\
+guarding,0\
+right adnexal tenderness,0\
+no palpable masses,0\
+no cervical motion tenderness,0\
+normal cervix,0\
+no abnormal vaginal discharge,0\
+elevated lactate,0\
+shock,0\
+leucocytosis,0\
+neutrophilia,0\
+elevated CRP,0\
+acute kidney injury,0\
+elevated creatinine,0\
+reduced eGFR,0\
+negative beta hCG,0\
+negative urinalysis,0\
+negative microscopy,0\
+negative urine culture,0\
+negative endocervical swabs,0\
+negative blood cultures,0\
+positive stool culture for Campylobacter jejuni,0\
+CT abdomen showing bilateral enlarged ovaries,0\
+septated cysts,0\
+low-density mass in presacral space,0\
+fat stranding,0\
+transvaginal ultrasound multiple endometriomas,0\
+right ovarian cyst,0\
+left ovarian cysts,0\
+fixed ovaries,0\
+kissing ovaries sign,0\
+negative sliding sign,0\
+bowel adherent to posterior uterus,0\
+two bowel nodules,0\
+differential diagnoses: colitis,0\
+differential diagnoses: urosepsis,0\
+differential diagnoses: appendicitis,0\
+differential diagnoses: tubo-ovarian abscesses,0\
+managed empirically for sepsis,0\
+fluid resuscitation,0\
+intravenous ceftriaxone,0\
+intravenous metronidazole,0\
+condition deteriorated,24\
+ongoing fever,24\
+tachycardia,24\
+hypotension,24\
+transfer to ICU,24\
+inotropic support,24\
+intravenous amoxicillin with clavulanic acid,24\
+azithromycin for Campylobacteriosis,24\
+ongoing pain,120\
+infective signs,120\
+repeat CT abdomen pelvis,120\
+interval increase in left adnexal mass,120\
+increased fat stranding,120\
+free fluid in pelvis,120\
+bowel wall thickening,120\
+exploratory laparoscopy,120\
+laparoscopic washout,120\
+drainage of tubo-ovarian abscesses,120\
+abscess culture fluid positive for Escherichia coli,120\
+right adnexal tissue histopathology showing abscess,120\
+no evidence of endometriosis,120\
+intravenous antibiotics,120\
+intravenous fluids,120\
+condition improved,120\
+discharged,168\
+outpatient follow-up,168\
+repeat pelvic scan planned,168

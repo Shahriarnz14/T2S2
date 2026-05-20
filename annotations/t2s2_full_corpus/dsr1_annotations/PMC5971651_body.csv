@@ -1,0 +1,44 @@
+event,time
+22 years old,0
+female,0
+referred to trauma center,-96 (assuming a few days as ~4 days before admission to trauma center)
+railway accident,-96
+below-knee amputation,-96 (performed in private hospital prior to referral)
+interlocking nail in bilateral femur,-96 (performed in private hospital prior to referral)
+open book pelvic bone fracture,-96 (managed conservatively in private hospital)
+extensive Morel-Lavallée lesions over left flank,-96 (present on arrival)
+conscious,0
+oriented,0
+stable hemodynamic parameters,0
+heart rate 90/min,0
+blood pressure 110/70 mmHg,0
+respiratory rate 20/min,0
+regular dressing,0 (ongoing during hospitalization)
+IV antibiotics (meropenem and vancomycin),0 (ongoing during hospitalization)
+sepsis,120 (developed on day 5 of admission)
+surgical debridement of Morel-Lavallée lesion,120 (day 5 of admission)
+general anesthesia,120
+extensive necrotic area from left 12th rib to left thigh,120
+pelvic bone exposed,120
+intraoperative hypotension,120
+inotropic support,120
+shifted to ICU,120
+persistent hypotension,120 (ongoing post-op)
+high-grade fever (41°C),120 (post-op day 3)
+"rising total leukocyte count (30,000/ml)",120 (post-op day 3)
+black foul-smelling necrotic areas on wound,144 (post-op day 3)
+cottony bread mold lesions on wound edges,144
+immediate surgical debridement,144
+extensive muscle necrosis,144
+peritoneum breached,144
+bowel exposed,144
+tissue sent for fungal culture,144
+histopathological examination,144
+nonseptate irregular hyphae,144
+zygomycetes,144
+provisional diagnosis of mucormycosis,144
+liposomal amphotericin B (5mg/kg) started,144
+fungal sepsis,144
+fungal culture grew Rhizopus oryzae,168 (assuming culture results took 24-48 hours)
+invasive mucormycosis confirmed,168
+died,216 (day 6 of ICU admission)

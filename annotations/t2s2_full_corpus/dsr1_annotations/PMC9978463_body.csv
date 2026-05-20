@@ -1,0 +1,87 @@
+event,time
+36-year-old male,0
+admitted to the emergency room,0
+severe lower abdominal pain,0
+discomfort,0
+fever,0
+4-year history of ulcerative colitis,-35040
+mesalazine treatment,-35040
+upward shift of the hepatic turbinate,0
+abdominal tenderness,0
+left lower abdomen tenderness,0
+mild abdominal muscle tension,0
+no percussion pain in the hepatic region,0
+no percussion pain in the renal region,0
+leukocytes:13.62×109/L,0
+neutrophils:90.10%,0
+c-reactive protein:176.50 mg/L,0
+glucose:10.6 mmol/L,0
+lactate:3.0 mmol/L,0
+prothrombin time 16.1S,0
+international normalized ratio 1.43,0
+activated partial thromboplastin time 32.0S,0
+plasma fibrinogen 2.5 g/L,0
+calcitoninogen 8.967 ng/mL,0
+abdominal CT: enlarged and abnormally thick spleen,0
+gastrointestinal perforation,0
+rehydration,0
+anti-infective treatment with imipenem cistatin (1.0 g q8h),0
+emergency surgery,0
+pelvic abscess cavity,0
+"dense adhesions in lower abdomen, pelvic ileum, sigmoid colon, peritoneum",0
+omental necrosis,0
+adhesions around ileum and sigmoid colon,0
+pelvic abscess,0
+intestinal wall edema,0
+intestinal wall thickening,0
+gray-white attachments,0
+distal appendix occlusion,0
+appendix swelling with pus moss,0
+transferred to intensive care unit,0
+partial sigmoid resection,0
+pelvic-abdominal adhesion release,0
+incidental appendectomy,0
+pelvic abscess incision and drainage,0
+partial resection of the greater omentum,0
+temporary colostomy,0
+pathology: sigmoid colon rupture with hemorrhage,0
+necrosis,0
+acute and chronic inflammatory cell infiltration,0
+inflammatory exudate,0
+granulation tissue,0
+glandular hyperplasia,0
+thrombosis,0
+negative cut margins,0
+postoperative CT: enlarged spleen (8 rib units),0
+heterogeneous density,0
+large air shadow,0
+splenic infection,0
+splenic abscess,0
+blood cultures performed,0
+imipenemcitabine (1.0 g q8h),0
+negative blood cultures,0
+ultrasound-guided puncture and drainage of splenic abscess,24
+infection index did not decrease,48
+platelet count decreased,48
+prothrombin time decreased,48
+prothrombin time 15.4S,48
+international normalized ratio 1.36,48
+activated partial thromboplastin time 48.9S,48
+prothrombin time 21.6S,48
+intermittent fever,72
+abdominal pain,72
+hypoproteinemia,96
+coagulation corrected,96
+splenectomy,120
+abdominal drainage,120
+splenic gangrene,120
+red-brown purulent effusion,120
+yellow-brown effusion,120
+yellow-brown pelvic effusion,120
+pathology: splenic necrotic hemorrhage,120
+symptomatic treatment,144
+fever improved,168
+abdominal discomfort improved,168
+imaging normalized,192
+test indexes normalized,192
+discharged,216

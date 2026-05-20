@@ -1,0 +1,91 @@
+event,time
+31 years old,0
+black,0
+male,0
+presented to ED,0
+open sores covering body,0
+cigarette burn to left forearm,-336
+sores began,-336
+lesions slightly tender,0
+negative viral prodrome,0
+denies fevers,0
+denies chills,0
+denies sweats,0
+denies chest pain,0
+denies shortness of breath,0
+no abdominal pain,0
+no nausea,0
+no vomiting,0
+no ill contacts,0
+no animal exposure,0
+no insect bites,0
+no recent travel,0
+denies intravenous drug use,0
+chronic tobacco use,0
+chronic alcohol use,0
+chronic marijuana use,0
+no medications,0
+no known allergies,0
+no significant family history,0
+sought no medical care until ED,0
+anxious,0
+avoids unnecessary movement,0
+temperature 100.1°F,0
+heart rate 145 bpm,0
+blood pressure 124/77 mmHg,0
+respiratory rate 20,0
+oxygen saturation 99%,0
+regular tachycardia,0
+no murmurs,0
+no rubs,0
+clear lung auscultation,0
+no crackles,0
+no wheezes,0
+no edema,0
+no lymphadenopathy,0
+no hepatosplenomegaly,0
+skin sloughing,0
+necrosis,0
+mildly erythematous base,0
+occasional small bullae,0
+occasional vesicles,0
+>50% BSA involvement,0
+back involved,0
+abdomen involved,0
+scrotum involved,0
+perirectal area involved,0
+forehead spared,0
+scalp spared,0
+no purulent discharge,0
+no pustules,0
+no purpura,0
+no ulcerations,0
+foul-smelling odor,0
+positive Nikolsky's sign,0
+oral mucosa injected,0
+oral mucosa sloughing,0
+conjunctivae spared,0
+temperature increased to 101.7°F,1
+vancomycin administered,1
+meropenem administered,1
+blood cultures sent,1
+IV normal saline 4L,1
+morphine administered,1
+"WBC 12,000/mm",0
+lactic acid 2.8 mmol/L,0
+serum bicarbonate 21 mmol/L,0
+serum glucose 140 mg/dL,0
+BUN 9 mg/dL,0
+creatinine 0.9 mg/dL,0
+anion gap 10 mmol/L,0
+persistently tachycardic,0
+admitted to ICU,2
+severe sepsis,24
+blood cultures positive for Staphylococcus aureus,48
+started on steroids,24
+IVIG administered,24
+cared for in Burn Care Unit,24
+multiple surgical debridements,72
+skin biopsy revealed TEN,24
+discharged home,720
+over-the-counter NSAID use,-336

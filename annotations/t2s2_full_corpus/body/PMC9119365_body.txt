@@ -1,0 +1,120 @@
+pmcIntroduction
+
+Clostridium tertium (C. tertium) is a ubiquitous, gram-positive, and endospore-forming bacillus. The normal habitat of C. tertium is the soil but it has colonized the gastrointestinal tract of humans and other animals as a commensal organism [1-3]. In contrast to other Clostridia species, C. tertium does not produce exotoxins, and hence it is considered a low virulent organism that rarely causes infections in healthy humans [1-3]. Most C. tertium infections in the literature were chiefly described among neutropenic hosts with hematological malignancies [1-3], followed by only a handful of non-neutropenic patients with liver cirrhosis [4, 5] and intestinal mucosal damage due to various etiologies [2, 6, 7]. Herein, we reported an unusual case of C. tertium bacteremia as a diagnostic culprit of underlying perforated diverticulitis in a non-neutropenic patient with moderately severe coronavirus disease 2019 (COVID-19).
+
+Case Report
+
+Investigations
+
+A 66-year-old female with a past medical history of type II diabetes mellitus, chronic obstructive pulmonary disease, severe pulmonary hypertension, and schizophrenia was brought to the emergency department with fatigue and shortness of breath. She denied fevers or rigors, changes in quality or color of sputum, chest pain, or palpitations, but she reported dizziness. The patient endorsed one episode of black stool overnight, but she denied any history of acute epigastric pain, lower abdominal pain, rectal bleeding, or recent bowel habits changes. The review of systems was not pertinent for any other positive symptoms. On initial evaluation, she appeared confused and ill-looking, with an oxygen saturation of 81% on room air that improved to 95% on 4 L/min oxygen. She was afebrile with a blood pressure of 110/60 mm Hg and pulse rate of 100 beats/min. There were reduced breathing sounds over both lung fields with crackles and scattered wheezes. The systemic examination was unremarkable. The initial laboratory results are summarized in Table 1. Nasopharyngeal swab for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was positive using polymerase chain reaction (PCR). The patient was commenced on dexamethasone 6 mg injection daily and remdesivir as per institution-based guidelines for COVID-19. The patient passed a large amount of melena and became hypotensive to 90/65 mm Hg; she responded to 1 L of intravenous fluids bolus and was transferred to the intensive care unit for close hemodynamic monitoring and non-invasive ventilation. Gastroenterology services recommended pantoprazole injections of 40 mg twice daily and an esophagogastroscopy (EGD) which revealed a bleeding duodenal ulcer that was controlled by epinephrine injection and bipolar cauterization.
+
+Table 1 Pertinent Laboratory Results on Admission
+
+Blood test	Result	Reference range	
+White cells count (WCC)	15,000/mm3	4,000 - 11,000/mm3	
+Hemoglobin	12.5 g/dL	11.0 - 13.0 g/dL	
+Platelets	390,000/mm3	150,000 - 500,000/mm3	
+C-reactive protein (CRP)	72 mg/dL	1 - 7 mg/dL	
+Serum creatinine	1.7 mg/dL	0.6 - 1.1 mg/dL	
+Serum sodium	132 mmol/L	133 - 144 mmol/L	
+Serum potassium	3.2 mmol/L	3.6 - 5.0 mmol/L	
+Serum magnesium	1.4 mmol/L	2.2 - 2.8 mmol/L	
+Serum lactate	3.1 mmol/L	0.5 - 2.2 mmol/L	
+Serum glucose (point-of-care, POCG)	350 mg/dL	70 - 110 mg/dL	
+Hemoglobin A1c	9.5%	< 5.7%	
+Serum albumin	3.1 g/dL	3.6 - 5.0 g/dL	
+
+On the third day of admission, the patient spiked a high-grade fever (38.5 °C) and became hypotensive to 80/55 mm Hg and tachycardic to 140 beats/min requiring vasopressors support. Blood cultures were obtained. Physical examination was positive for inspiratory crackles over the left lower lung zone and a vague generalized abdominal tenderness. Further evaluation was limited by the patient’s altered mental status. Chest X-rays revealed consolidation of the left lower lung lobe concerning for superimposed bacterial infection. She was commenced on empiric broad-spectrum antibiotics (cefepime) per hospital-based local susceptibility patterns pending blood cultures results.
+
+Diagnosis
+
+Two bottles of blood cultures obtained from day 3 of admission grew out anaerobic gram-positive bacillus on day 1 of incubation. Further identification on day 2 using matrix-assisted laser desorption/ionization-time of flight (MALDI-TOF) mass spectrometry isolated C. tertium. Following Clostridia isolation on day 4 of admission, intravenous vancomycin and clindamycin were added by the infectious disease (ID) team awaiting susceptibility results. A computed tomography (CT) of the abdomen was performed to rule out a gastrointestinal infectious source in the setting of C. tertium bacteremia. The imaging depicted extensive free intraperitoneal gas (Fig. 1a) and thickened distal sigmoid colon wall with adjacent free fluids concerning for colonic perforation (Fig. 1b). There was no evidence of mesenteric ischemia.
+
+Figure 1 Axial images of a contrast-enhanced abdomen and pelvis CT scan revealed (a) extensive free intraperitoneal gas (vertical red arrows) and (b) a thickened sigmoid colon wall (horizontal red arrow) and focal pelvic fluids collection (red star). CT: computed tomography.
+
+Treatment
+
+Surgical consultation recommended an emergent laparotomy for primary sepsis source control. Operative intervention was performed on day 4 of admission that revealed perforated sigmoid diverticulitis with localized peritonitis, and Hartmann’s procedure was subsequently performed. The patient remained on vasopressors support for 5 days postoperatively, and repeat blood cultures on day 3 and day 5 postoperatively continued to grow C. tertium. Most isolates were susceptible to meropenem, metronidazole, and amoxicillin-clavulanate, and piperacillin-tazobactam. The patient was switched to intravenous meropenem and metronidazole per susceptibility results. Histology of the resected colon biopsy confirmed perforated diverticulitis without evidence of neoplasia. The patient was continued on parenteral meropenem and metronidazole per the infectious disease team’s advice, and serial blood cultures on day 10 and day 14 postoperatively confirmed clearance of C. tertium bacteremia.
+
+Follow-up and outcomes
+
+The patient had a challenging postoperative course over 2 weeks. The course was complicated by difficult weaning from the mechanical ventilator due to intensive care unit-acquired weakness (ICU-AW) that necessitated a transition into tracheostomy. The patient was eventually transferred into a long-term acute care facility for ongoing tracheostomy care. She was discharged on oral metronidazole and amoxicillin-clavulanate for a further 2-week course, considering the delayed clearance of C. tertium bacteremia as recommended by the infectious disease team.
+
+Discussion
+
+C. tertium has been increasingly reported as a human pathogen over the last three decades [1-8], raising significant concerns of this commensal as an emerging infectious organism among certain high-risk populations [1-3]. While the vast majority of C. tertium infections manifested as febrile neutropenia in immunosuppressed hosts with hematological malignancies who received chemotherapy [1-3, 7, 8], there are a handful of cases that documented C. tertium as the culprit pathogen even in non-neutropenic patients with various associated risks including end-stage liver disease (presenting as spontaneous bacterial peritonitis) [4, 5], and a variety of conditions leading to intestinal mucosal damage (such as inflammatory bowel diseases [2, 7], infectious colitis [6], paralytic ileus [9], and perforated appendicitis with peritonitis that was complicated by a pyogenic hepatic abscess [10]). Additionally, there were individual isolated cases of acute bronchopneumonia in a patient who ingested glyphosate [11] and necrotizing fasciitis in a patient with a history of non-Hodgkin lymphoma [12]. Table 2 [1-14] summarizes the clinical presentation, possible risk factors, and susceptibility results of most of the reported C. tertium cases.
+
+Table 2 Summary of the Reported Cases of C. tertium Bacteremia as per Literature Review 1990 - 2022 (Including the Presented Case)
+
+Authors/publication year	Age (years)/gender	Clinical presentation	Possible risk factors	Subspeciality testing results (if available)/antibiotics instituted to treat C. tertium	
+Shah et al, 2016 [1]	82/female	Neutropenic fevers/abdominal pain and diarrhea. CT chest with ground glass opacities	Acute myeloid leukemia (AML) on chemotherapy	No susceptibility testing available. Infection was treated with vancomycin, piperacillin-tazobactam, and ciprofloxacin.	
+	36/female	Neutropenic fevers/vomiting and diarrhea	AML on chemotherapy	Susceptible to meropenem, piperacillin-tazobactam, penicillin, and metronidazole.	
+	42/female	Neutropenic fevers/shortness of breath and cough with a nodular infiltrate on chest CT	AML on chemotherapy	Susceptibility results were only provided to metronidazole, the patient was treated empirically with piperacillin-tazobactam and then a 2-week course of clindamycin.	
+	55/male	Neutropenic fevers/lower abdominal pain and diarrhea	Myelodysplastic syndrome (MDS) on chemotherapy	No subspeciality testing available. Initially treated with cefepime, followed by vancomycin and piperacillin-tazobactam.	
+	60/male	Neutropenic fevers/shortness of breath and cough and a new perihilar infiltrate on chest X-rays	AML on chemotherapy	No susceptibility testing available. Initially treated with cefepime, followed by a 2-week course of vancomycin and metronidazole.	
+	69/male	Neutropenic fevers with ground-glass opacities on chest CT imaging	MDS on chemotherapy	No susceptibility testing available. Initially treated with vancomycin and cefepime followed by piperacillin-tazobactam for 2 weeks.	
+	60/male	Neutropenic fevers/fatigue	AML on chemotherapy	No susceptibility testing available. Initially treated with ciprofloxacin, then switched to vancomycin and cefepime with cultures results.	
+Miller et al, 2001 [2]	28/male	Abdominal pain, vomiting, and watery diarrhea. CT abdomen with Crohn’s features. Colonoscopy and biopsy confirmed CD. Blood cultures grew C. tertium	CD	No susceptibility testing available. Empirically treated with ciprofloxacin and clindamycin.	
+Miller et al, 2001 [2]	A case series of 32 patients including the above one [2]; 22 patients were males; age ranged widely from 16 to 75 years; 29 patients were neutropenic secondary to chemotherapy. Three non-neutropenic patients were as follows: one had spontaneous bacterial peritonitis (SBP) associated with alcoholic liver cirrhosis, one with CD, and the last one with systemic lupus erythematosus (SLE) treated with high-dose steroids.	
+Steyaert et al, 1999 [3]	65/male	Neutropenic fevers/abdominal pain and diarrhea	AML on chemotherapy	Resistant to ceftazidime, cefepime, and clindamycin; intermediately resistant to penicillin; and susceptible to metronidazole, and vancomycin. Initially treated with ceftazidime and amikacin that were switched to vancomycin following sensitivity results.	
+	55/male	Neutropenic fevers/abdominal pain and diarrhea	AML on chemotherapy	Resistant to ceftazidime, cefepime, and clindamycin; intermediately resistant to penicillin; and susceptible to metronidazole, quinolones, and vancomycin. He was treated with vancomycin.	
+Wazir et al, 2019 [4]	62/male	Fatigue and high-grade fevers in a patient with end-stage liver disease. Ascitic fluid analysis revealed SBP. Blood cultures grew C. tertium	Alcoholic liver cirrhosis	Susceptible to meropenem, metronidazole, and penicillin. Initial empiric treatment with meropenem and vancomycin then targeted meropenem therapy for 9 days with clearance of C. tertium bacteremia.	
+Sutton et al, 2017 [5]	60/male	Worsening abdominal pain and fevers in the setting of chronic liver disease. Ascitic fluids culture isolated C. tertium	Alcoholic liver cirrhosis	Susceptible to meropenem, ciprofloxacin, clindamycin, and vancomycin. Initial empiric treatment with vancomycin and meropenem, then the latter was switched to ciprofloxacin and metronidazole. Repeat cultures were negative.	
+Chalhoub et al, 2016 [6]	54/female	Pancolitis progressed to septic shock with acute respiratory distress syndrome (ARDS). Serial blood cultures grew C. tertium	Colitis without evidence of IBD. Probable intestinal mucosal injury triggering C. tertium translocation	Susceptible to penicillin and vancomycin, resistant to clindamycin. Initially treated imipenem, vancomycin, and ciprofloxacin, the latter switched to ampicillin. The three-antibiotics regime was continued for 3 weeks with clearance of infection.	
+Gosbell et al, 1996 [7]	19/female	Recurrent neutropenic fevers	Acute lymphoblastic leukemia (ALL) on chemotherapy	Susceptible to penicillin, metronidazole, and vancomycin.	
+	57/female	Vomiting and diarrhea in a patient with a known history of UC	UC	No susceptibility testing available. C. tertium was isolated in the setting of polymicrobial isolates.	
+Coleman et al, 1993 [8]	15/female	Neutropenic fevers/abdominal pain and diarrhea. CT abdomen showing enterocolitis of the cecum and right colon	ALL on chemotherapy	No susceptibility testing available. Initially treated with ceftazidime, metronidazole, and gentamicin regime switched to ciprofloxacin and vancomycin when cultures grew C. tertium. Operative intervention with right hemicolectomy was indicated to control sepsis.	
+Tappe et al, 2004 [9]	51/female	Postoperative fever progressed to septic shock in the setting of ileus post-laparotomy and adhesiolysis	Paralytic ileus with probable mucosal injury secondary to ileus inducing C. tertium translocation	Susceptible to meropenem, imipenem, vancomycin, linezolid, and piperacillin-tazobactam, and resistant to penicillin, cefotaxime, clindamycin, and co-trimoxazole.	
+Milano et al, 2019 [10]	43/male	High-grade fevers due to a giant hepatic abscess 4 weeks post-appendectomy for a perforated appendix requiring radiology-guided drainage of the abscess	Perforated appendix with polymicrobial peritonitis and bacterial translocation and the recent use of broad-spectrum antibiotics	No susceptibility testing available. C. tertium was isolated in gram-negative polymicrobial blood cultures and the drained hepatic abscess substance. He was treated with radiologically guided hepatic abscess drainage conjugated with piperacillin-tazobactam.	
+You et al, 2015 [11]	44/female	Acute bronchopneumonia and C. tertium bacteremia identification of using 16S rRNA sequencing	Suicidal ingestion of glyphosate	Susceptible to penicillin, piperacillin/tazobactam, amoxicillin/clavulanic acid, cephalothin, cefoxitin, imipenem, and vancomycin, but resistance to cefotaxime, ceftazidime, cefepime, gentamicin, clindamycin, and metronidazole.	
+Ray et al, 2003 [12]	58/male	Necrotizing fasciitis of distal lower extremity requiring fasciotomy	History of non-Hodgkin lymphoma status post-chemotherapy 6 months prior to presentation. Alcoholic liver disease	No susceptibility testing available. The patient was treated with imipenem, vancomycin, and metronidazole.	
+	40/male	Necrotizing fasciitis of proximal lower extremity requiring extensive fasciotomy	Motor vehicle accident with multiple lower extremities and abdominal injuries	Susceptible to penicillin, ampicillin, vancomycin, and metronidazole.	
+Salvador et al, 2013 [13]	47/male	Breakthrough bacteremia with neutropenic fevers presenting with abdominal pain	ALL on chemotherapy	Susceptible to metronidazole and moxifloxacin but resistant to ceftriaxone.	
+Vanderhofstadt et al, 2010 [14]	51/male	The patient was completely asymptomatic. Routine blood cultures prior to the start of induction chemotherapy revealed C. tertium bacteremia.	Relapsing AML status post bone marrow transplant who was due to start a new course of induction chemotherapy	Susceptible to penicillin, amoxicillin-clavulanic, and metronidazole. Resistant to clindamycin.	
+	23/male	Neutropenic fevers without a focus of infection	Non-Hodgkin lymphoma on chemotherapy	Sensitive to amikacin, and ceftazidime but resistant to amoxicillin-clavulanic.	
+Saad et al, 2022 (present case)	66/female	Septic shock secondary to C. tertium bacteremia in a critically ill non-neutropenic patient with COVID-19	Perforated colonic diverticular disease with bacterial translocation	Susceptible to meropenem, metronidazole, and amoxicillin-clavulanic, and piperacillin-tazobactam.	
+CT: computed tomography; C. tertium: Clostridium tertium; COVID-19: coronavirus disease 2019; IBD: inflammatory bowel disease; CD: Crohn’s disease; UC: ulcerative colitis.
+
+To the best of our knowledge, this reported case would be the first one to demonstrate an association between C. tertium and perforated colonic diverticular disease. Interestingly, the isolation of C. tertium from the blood cultures was the initial clue to an underlying, perhaps serious, gastrointestinal tract perforation in our critically ill patient who exhibited minimal peritonitic signs on the physical examination, presumably due to altered sensorium related to hypoxic respiratory failure resulting from COVID-19. The injury to the colonic mucosa likely led to translocation of C. tertium into the systemic circulation causing bacteremia, as being explained in other similar cases of C. tertium that were associated with a disturbed intestinal mucosal integrity [2, 6, 7, 9, 10].
+
+It is worth mentioning that gastrointestinal perforation has been reported in several patients with COVID-19 per a recent pandemic literature [15]. However, it remains unclear whether the COVID-19 worsens the risk of perforation of the pre-existing diverticular disease (as in our patient) or not. Additionally, this patient had received corticosteroids that may have masked the peritonitic signs and delayed the early diagnosis of acute diverticulitis. Our patient also suffered from poorly controlled diabetes which may have both compounded the risk of diverticular perforation and decreased the clearance of C. tertium bacteremia [16]. All of the above discussed risks have probably accumulatively resulted in the occurrence of the septic shock due to C. tertium bacteremia that complicated perforated diverticulitis necessitating Hartmann’s operation to control the sepsis source.
+
+It is interesting to note that C. tertium species were reportedly difficult to isolate from routine cultures [1, 2], as these isolates are aerotolerant and only slowly growing when utilizing traditional culturing methods [1]. The latter microbiological observation might have led to underdiagnoses in the past [1, 5].
+
+Furthermore, the identification of C. tertium species has been largely confused with Bacillus species and Lactobacillus species because of the similar culture’s growth patterns and micromorphology [5, 11], which could have resulted in inaccurate identification and subsequently inappropriate antibiotics selection [1, 17]. Nevertheless, modern bacterial identification diagnostics, such as direct MALDI-TOF mass spectrometry, which was employed in our case and other two cases [5, 13], have facilitated rapid as well as accurate isolation of C. tertium species, and therefore allowed selection of targeted antibiotic therapy based on susceptibility results, which is particularly vital in C. tertium cases, relative to the other Clostridia species, because of the reported resistance of some strains to many antibiotics, including the third and fourth generation cephalosporins [2, 3, 11]. Moreover, molecular biology techniques (such as 16S rRNA sequencing) have also been used for the fast identification of C. tertium species [11].
+
+The pathogenesis of C. tertium remains largely unclear as this organism is non-exotoxin-producing [1-3]. It was theorized that the major four predisposing factors implicated in the pathogenesis of C. tertium were neutropenia, gastrointestinal mucosal injury with bacterial translocation, end-stage liver disease, and the recent use of broad-spectrum antibiotics that may predispose to intestinal colonization with C. tertium [1-5]. Many of the reported patients have had more than one risk factor [2], for instance, chemotherapy results in neutropenia that significantly diminishes the innate immune response to clear C. tertium bacteremia, and it also causes intestinal mucosal injury that potentiates translocation of C. tertium into the systemic circulation [1, 2]. Additionally, most neutropenic patients at the time of isolation of C. tertium had received broad-spectrum antibiotics, as empiric therapy for neutropenic fevers, which may have selectively favored intestinal colonization with C. tertium [2].
+
+It has been recommended to treat C. tertium infections aggressively with targeted antibiotic therapy, despite being potentially a non-highly virulent organism with a relatively low direct mortality rate [1, 5]. One-month mortality rate following a blood culture isolation of C. tertium was reported to be 34% in the largest series of 32 cases with C. tertium bacteremia that was reported by Miller et al from Duke University Medical Center [2]. Such high reported mortality was largely attributed to the advanced stage of malignancies and the burden of the associated medical comorbidities rather than C. tertium infection itself [2], suggesting that the latter infection could be a marker of underlying poor baseline status.
+
+There are limited data on the standard duration of directed antibiotic therapy in the available literature [1-3]. We employed a prolonged course of targeted antibiotics for C. tertium bacteremia clearance (i.e., 4 weeks) due to the persistence of Clostridial growth on one blood culture postoperatively, presumably attributable to the immunosuppressive status of our patient that resulted from poorly controlled diabetes and concurrent corticosteroids use.
+
+Conclusions
+
+The authors described a rare case of C. tertium bacteremia as a marker of underlying perforated colonic diverticulitis in a non-neutropenic patient with COVID-19 that necessitated operative intervention for primary source control and an extended course of targeted antibiotic therapy to treat the Clostridial infection. Our case reaffirmed the available literature which suggested the presence of C. tertium bacteremia in non-neutropenic patients raises suspicion of an associated gastrointestinal tract pathology that should warrant a diagnostic workup to identify the infectious culprit.
+
+Learning points
+
+C. tertium bacteremia in non-neutropenic patients raises suspicion of an associated gastrointestinal tract pathology that should warrant a diagnostic workup to identify the infectious culprit. Modern bacterial identification diagnostics, such as direct MALDI-TOF mass spectrometry have facilitated rapid as well as accurate isolation of C. tertium species and therefore allowed selection of targeted antibiotic therapy based on susceptibility results.
+
+The authors would like to acknowledge the Department of Intensive Care Unit at Saint Francis Presence Hospital for providing valuable input to this case presentation.
+
+Financial Disclosure
+
+The authors confirm that there is no funding to declare regarding the publication of this case report.
+
+Conflict of Interest
+
+The authors declare that they have no conflict of interest regarding the publication of this case report.
+
+Informed Consent
+
+Informed written consent was obtained from the patient to write and publish her case as a case report with all accompanying clinical and radiological images.
+
+Author Contributions
+
+ES and GE contributed to the conceptualizing and writing the first manuscript. VP, AT, AR, QZ, and KM contributed to editing the final draft. HF performed the critical review. All authors were involved in the clinical management of the reported patient. All authors agreed to the final draft submission.
+
+Data Availability
+
+The authors declare that data supporting the findings of this study are available within the article.

@@ -1,0 +1,89 @@
+event,time
+75 years old,0
+female,0
+hypertension,0
+diabetes mellitus type II,0
+chronic kidney disease (CKD stage II),0
+obesity (BMI 38.4 kg/m²),0
+hyperlipidemia,0
+transferred from outside facility,0
+gallstone pancreatitis,0
+right upper quadrant abdominal pain,-336
+nausea,-336
+vomiting,-336
+afebrile,0
+stable vital signs,0
+epigastric tenderness,0
+"white blood cell count 22,200/μL",0
+serum lipase 804 U/L,0
+amylase 484 U/L,0
+CT abdomen: small gallstone,0
+no cholecystitis,0
+no biliary ductal dilatation,0
+>75% pancreatic necrosis,0
+surrounding inflammatory changes,0
+non-occlusive splenic vein thrombosis,0
+lipid profile normal,0
+calcium normal,0
+occasional alcohol use,0
+no medications causing pancreatitis,0
+no anatomic anomaly on CT,0
+denied recent GI procedure,0
+treated with IV fluids,0
+IV antibiotics,0
+analgesics,0
+bowel rest,0
+improving lipase and amylase,0
+persistent leukocytosis,0
+intolerance to oral intake,0
+hypoxemic respiratory failure,24
+intubation,24
+mechanical ventilation,24
+repeat CT abdomen/pelvis,24
+large collection (13×19×23 cm),24
+no active bleeding,24
+no signs of infection,24
+pancreatic necrosectomy,48
+abdominal washout,48
+wide drainage,48
+postoperative SICU transfer,48
+vasopressor requirements,48
+ventilator support,48
+repeat CT abdomen/pelvis POD 10,240
+posterior wall gastric perforation,240
+OR for gastric perforation repair,240
+decreased vasopressor requirements,240
+surgical ICU monitoring,240
+febrile episode 1 week post-repair,312
+elevated WBC,312
+second gastric perforation,312
+OR for second repair,312
+abdominal washout,312
+pancreatic necrosectomy,312
+third posterior gastric perforation day 28,672
+family declined surgery,672
+pancreatic histopathology: necrosis,672
+CMV inclusion bodies,672
+CMV antibody stains positive,672
+HIV negative,672
+IV ganciclovir initiated,672
+CMV IgM negative,672
+CMV IgG positive,672
+"CMV PCR 3,860,104 IU/mL",672
+clinical improvement,672
+leukocytosis trending down,672
+weaned off vasopressors,672
+CMV PCR 259 IU/mL after 14 days,1008
+ganciclovir discontinued day 16,1152
+abdominal wound dehiscence,1152
+debridement,1152
+negative pressure wound therapy,1152
+skin grafting,1152
+Candida albicans in urine and BAL,1152
+Pseudomonas aeruginosa in BAL,1152
+discharged to rehabilitation,1152
+tracheostomy decannulated,1152
+jejunostomy feeding tube,1152
+EGD negative for malignancy,3360
+Helicobacter pylori negative,3360
+CMV negative,3360

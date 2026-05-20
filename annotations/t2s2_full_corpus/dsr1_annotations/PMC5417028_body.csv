@@ -1,0 +1,89 @@
+event,time
+7 years old,0
+male,0
+admitted to the hospital,0
+high fever,-120
+coughing,-120
+pain in the legs,-120
+dysesthesia,-120
+waddling gait,-120
+sister had flu-like syndrome,-168
+deterioration of general state,-96
+abdominal pain,-96
+food intolerance,-96
+acute respiratory failure,-96
+tachycardia,0
+respiratory retraction,0
+abdominal breathing,0
+diffuse rhonchi,0
+severe hypoxemia,0
+oxygen saturation of 70%,0
+normal blood pressure,0
+normal neurological examination,0
+bilateral interstitial pneumonia,0
+transferred to pediatric intensive care unit,0
+noninvasive ventilation,0
+high-flow oxygen therapy,0
+right basal consolidation,24
+dribble with probable aspiration,24
+agitation,48
+bilateral mydriasis,48
+intubation,48
+sedation,48
+mechanical ventilation,48
+unclassical bulbar deficit,96
+peripheral motor deficit,96
+upper limb predominant weakness,96
+brief central involvement,96
+normal consciousness,96
+inability to speak,96
+facial diplegia,96
+bilateral ptosis,96
+mydriasis,96
+severe swallowing disorders,96
+absence of cough,96
+tetraparesia,96
+hyperreflexia,96
+areflexia,120
+dysautonomia suspected,120
+vascular fillings,72
+Mycoplasma pneumonia infection,0
+Haemophilus influenza infection,0
+increased C-reactive protein,0
+increased procalcitonin,0
+normal cerebrospinal fluid,48
+normal cerebral tomography,48
+normal cerebromedullar MRI,120
+normal sensitive evoked potentials,456
+phrenic paresia,504
+electromyogram on day 8,192
+decreased motor response amplitude,192
+electromyogram on day 18,432
+axonal motor polyneuropathy,432
+intravenous immunoglobulin first course,120
+intravenous immunoglobulin second course,672
+acyclovir,0
+clarithromycin,0
+ceftriaxone,0
+cotrimoxazole,0
+oseltamivir,0
+amoxicillin–clavulanate,0
+ventilator-assisted pneumonia,0
+mechanical ventilation,0
+tracheostomy,696
+enteral feeding,0
+gastrostomy,1320
+salt supplementation,0
+rehabilitation,1848
+discharged,1848
+proximal weakness,3360
+decreased upper limb reflexes,3360
+normal walking,3360
+tracheostomy removal,3600
+gastrostomy removal,3600
+discrete hypotonia,8736
+fine motor skill difficulties,8736
+fatigability,8736
+intermittent hand tremors,8736
+normal deep tendon reflexes,8736
+electromyogram improvement,8736

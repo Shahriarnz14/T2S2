@@ -1,0 +1,57 @@
+event,time
+101 years old,0
+male,0
+admitted to the hospital,0
+cough,-24
+productive sputum,-24
+wheezing,-24
+no febrile,-24
+hypertension,0
+coronary artery disease,0
+old cerebral infarction,0
+diabetes mellitus,0
+WBC 9.28×109/L,0
+neutrophils 80.4%,0
+lymphocytes 11.3%,0
+CRP 2.67 mg/dl,0
+PCT <0.05 ng/mL,0
+CT scan new patchy ground glass opacities,0
+community acquired pneumonia,0
+flomoxef,0
+levofloxacin,0
+fever 38.3°C,48
+adenovirus IgM positive twice,48
+meropenem,48
+tigecycline,48
+no significant improvement,504
+persistent fever,504
+lethargy,504
+thrombocytopenia,504
+elevated creatinine,504
+elevated transaminase levels,504
+PCT peak 1.78 ng/mL,504
+vancomycin,504
+piperacillin/tazobactam,504
+respiratory failure,864
+CT scan new bilateral patchy infiltrates,864
+lung cavity (7 mm × 8 mm),864
+bronchoscopy,864
+yellowish-white secretion,864
+edematous and congested mucosa,864
+BALF,864
+mNGS,864
+"E. faecium 10,376 sequences",864
+VREfm,864
+linezolid 600 mg IV q12d,864
+platelets 425 ×109/L,864
+platelets dropped to 44 × 109/L,936
+linezolid discontinued,936
+contezolid 400 mg PO q12d,936
+thrombopoietin,936
+platelets normalized,1104
+cavitary lesion resolved,1104
+decreased patchy infiltrations,1104
+nearly 4-month course of contezolid,936
+follow-up CT scan,2976
+lung cavity lesion disappeared,2976
+patchy infiltrations disappeared,2976

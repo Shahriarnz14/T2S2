@@ -1,0 +1,107 @@
+Introduction
+
+Lemierre’s syndrome (LS) is a clinical syndrome defined by septic thrombophlebitis of the internal jugular vein from a preceding oropharyngeal infection, with potential embolization to peripheral tissues. Although the incidence of LS has been rising over the past two decades, it remains a rare clinical phenomenon, with the most recently reported estimated incidence between 0.6 and 2.3 cases per million people per year (1), and a mortality rate ranging from 0% to 18% (2).The data explaining the increasing incidence is controversial, and a link to current public health measures to limit antibiotic usage for symptomatic pharyngitis has been proposed. The most common site of septic metastasis is lungs, followed by joints (3). Over 90% of LS cases are due to Fusobacterium species, particularly Fusobacterium necrophorum (81%) and Fusobacterium nucleatum (11%) (4).
+
+Traditionally, classical Klebsiella pneumoniae (cKp) has been considered a cause of nosocomial infections, especially affecting patients in critical care units. Hypervirulent K. pneumoniae (hvKp) has been described to cause tissue-invasive disease in otherwise healthy patients from the community. First described in the mid-1980s and 1990s in patients from Taiwan, hvKp has been reported to cause a spectrum of diseases, such as liver abscesses in the absence of biliary tract disease, pneumonia, meningitis, endophthalmitis, and necrotizing fasciitis. (5) These hypervirulent strains can produce an increased amount of capsular substance and efficiently acquire iron compared to cKp. (6) Classically, a positive string test has been described as a marker of the hypervirulent strain, but more recently, certain genetic biomarkers have been shown to perform better in identification of the strain. (5,7) Using genetic biomarkers as the standard, the sensitivity of string test was reported to be only 66.7%; although specificity was higher, at 95.2%. Recent evidence points out that hypervirulence and hyperviscosity are two complementary, but distinct, characteristics of K. pneumoniae.
+
+Herein, we report a case of LS caused by a hypervirulent strain of K. pneumoniae. We further describe the genetic context of the isolate, and the associated virulence markers identified. To our knowledge, there have been 13 reported cases of Klebsiella-associated Lemierre’s syndrome (KLS) in the literature.
+
+Case Report
+
+A 63-year-old female with hypertension, hyperlipidemia, and well-controlled type II diabetes mellitus (HbA1c 6.5%), presented with 1 week of progressively worsening right neck pain and subjective fevers. Three days prior, the patient had presented to the emergency department with the same complaint, for which the diagnostic work-up of a rapid strep test, CT head, CT neck, and CT temporal bones were negative for acute pathology. She was discharged with a 7-day course of amoxicillin-clavulanic acid, but while on antibiotics, the patient developed recurrent fevers (Tmax 101 °F), a pulsatile right sided temporal headache, and new onset odynophagia. She denied difficulty breathing, stridor, changes in her voice, neck stiffness, photophobia, phonophobia, focal neurologic deficits, night sweats, or weight loss. There were no preceding catheters, trauma, and lesions to the neck. She had no previous upper respiratory tract infection, recent dental infection or procedure, or mouth sores. Two months prior to presentation, the patient traveled to the Philippines for one month. However, she denied sick contacts, animal exposures or outdoor activities. She worked as a registered nurse and denied alcohol, cigarette smoking, and illicit drug use.
+
+On presentation, the patient was febrile to 39 °C and hypotensive without signs of respiratory distress. She had tenderness and induration of the right sternocleidomastoid border at rest and with lateral motion and a firm nodule anterior to the right sternocleidomastoid. Fiberoptic laryngoscopic exam revealed bulging of the right lateral pharyngeal wall, obstructing the view of the right piriform sinus. Laboratory testing was significant for a neutrophil-predominant leukocytosis 14.1 × 103/μL (87% neutrophils), and blood cultures grew Gram-negative bacilli. CT neck with and without IV contrast revealed a completely occluded right internal jugular vein secondary to thrombosis (Fig. 1). The thrombus extended into the retromandibular vein (Fig. 2a) and was surrounded by extensive fluid in the retropharyngeal space with associated inflammatory stranding and suppurative lymphadenopathy (Fig. 2b). Ultrasound of the right neck also confirmed complete occlusion of the right internal jugular vein without any color doppler flow. Additionally, two cystic structures (largest measuring 2 cm) were found. In correlation with the CT findings, the decision was made not to decompress these structures, as they were presumed to be reactive lymphadenopathy rather than formed abscesses. CT head obtained at presentation was negative for intracranial metastases. The patient’s initial hypotension responded to fluid resuscitation. Given her presentation with Gram-negative bacteremia and thrombosis of the right internal jugular vein with surrounding inflammation, the patient was diagnosed with LS. Treatment was initiated with intravenous piperacillin-tazobactam to empirically cover for Fusobacterium species, which accounts for over 90% of LS, and additional anaerobic organisms. Once the Gram-negative bacillus was identified as Klebsiella pneumoniae, the empiric antibiotic regimen was changed to intravenous meropenem to cover for extended-spectrum β-lactamases. Although anti-coagulation for LS remains highly controversial, the patient was also treated with rivaroxaban due to her overall toxic appearance and lack of clinical improvement within 48 hours.Fig. 1 Axial view of CT neck with and without IV contrast. White arrow showing completely occluded right internal jugular vein, secondary to thrombosis.
+
+Fig. 1
+
+Fig. 2 a and b. Axial views of CT neck with and without IV contrast. a) White arrow showing extension of right internal jugular vein thrombus into the retromandibular vein. b) White arrow showing a right sided supparative lymph node, measuring 2 cm, surrounded by extensive fluid in the retropharyngeal and parapharyngeal space and inflammatory stranding.
+
+Fig. 2
+
+Her hospital course was complicated by persistent fevers, increased swelling to the midline, and increased work of breathing. Repeat CT imaging of the neck showed unchanged features of LS, and CT chest revealed multiple small subpleural nodules, consistent with septic emboli (Fig. 3). After three days of treatment with meropenem, the patient improved clinically. Treatment was transitioned to intravenous ampicillin-sulbactam after confirmation of a susceptible isolate. She was discharged to complete a 6-week treatment course of oral amoxicillin-clavulanic acid and a 3-month course of rivaroxaban. At 2 week and 10 week follow-up after discharge, the patient had returned to a productive life without any sequelae of KLS.Fig. 3 Axial view of CT chest without contrast. White arrow demonstrating one of multiple subpleural nodules, consistent with septic emboli of the patient’s Lemierre’s syndrome.
+
+Fig. 3
+
+Concurrently, the K. pneumoniae isolate was found to have a positive string test in our microbiology laboratory. We pursued whole genome sequencing and a comparative genomic analysis of the isolate to delve further into its genetic makeup by running virulence factors and antimicrobial resistance genes profiling. Using a previously described long-read genome sequencing and assembly approach we obtained a complete 5.6 Mb chromosome and 235 Kb plasmid (8). The nucleotide sequences determined for this isolate have been deposited in GenBank under the following accession numbers: CP059295 for the genome and CP059296 for the plasmid.
+
+Genomic characterization of the isolate
+
+K. pneumoniae isolate was grown separately and were then subject to DNA extraction using the Qiagen DNeasy Blood & Tissue kit (Qiagen) according to the manufacturer’s instructions for Gram-negative bacteria. PacBio sequencing was performed at the Genomics Core Facility of the Icahn School of Medicine at Mount Sinai. Using a previously described long-read genome sequencing and assembly approach we obtained a complete 5.6 Mb chromosome and 235 Kb plasmid (8). The nucleotide sequences determined for this isolate have been deposited in GenBank under the following accession numbers: CP059295 for the genome and CP059296 for the plasmid. We pursued a comparative genomic analysis including our strain ‘K. pneumoniae ER17974_3A_016564’ and a set of 11 high-quality genomes of the genus Klebsiella as a reference (Supplementary text 1), widely used for comparative pathogenomics studies (http://www.mgc.ac.cn/cgi-bin/VFs/v5/main.cgi?func=VFanalyzer).
+
+We performed a species verification analysis from genomic data using pyani (https://github.com/widdowquinn/pyani) (9). The results are graphically represented in Fig. 4. This level of analysis allows confirming the taxonomic location at the species level, by overcoming of accepted cut-off point to assign a genome to the same species is 95% (in white) or >95% (red), which in this case corresponds to Klebsiella pneumoniae.Fig. 4 Taxonomic allocation of the analyzed genome (ER17974_3A_016564) using average nucleotide identity (ANI) analysis (13). The comparison included a set of 11 high quality genomes of the genus Klebsiella, widely used for comparative pathogenomic studies (http://www.mgc.ac.cn/cgi-bin/VFs/v5/main.cgi?func=VFanalyzer). ANI analysis was performed and visualized using pyANI (https://github.com/widdowquinn/pyani). An ANI result ≥ 95% indicates that two genomes belong to the same species (13). White cells correspond to comparisons just in the threshold (95%), while red cells correspond to comparison with results higher that 95%. Blue cells correspond to genomes do not belong to the same species. Colour intensity fades as the comparisons approach 95% ANI sequence identity. Clustering of the ANI results is graphically represented in a two-dimensional dendrograms inferred from linkage of ANI percentage identities.
+
+Fig. 4
+
+Further phylogenetic relationships were explored at the intra-species level using MLSTcheck tool (10) in order to compare our isolate against the global data repository of the accepted MLST scheme for K. pneumoniae (11) (https://bigsdb.pasteur.fr/klebsiella/klebsiella.html), locating the genome within the Sequence Type (ST)-65. A total of 20 isolates reported in this database fall on the same ST-65, which based on epidemiological information is part of the ‘phylogroup from ST’ Kp1 and the ‘associated KL type’ KL2. Supplementary Table 1 includes complete information on these 20 isolates. Interestingly, reports available in the literature highlight ST-65 as one of the predominant STs of capsular serotype K2, which stands for its increased virulence when compared to other STs of the same serotype (12).
+
+K2 is also one of the most prevalent K. pneumoniae serotypes with important clinical relevance given its high virulence and capacity for metastatic infection (12). In addition, it is worth mentioning that K2 differs from K1 (the other hypervirulent serotype of importance), in that K2 is highly diverse at the genetic level (including multiple STs), while K1 has been found to be closely associated only with ST-23 (13).
+
+Subsequently we downloaded all available sequences from the MLST repository (n = 4,841 sequences) since the most recent update (2020-01-29). A tree was built in FastTree double precision version 2.1.10 (14) and viewed using the interactive Tree Of Life V4 tool (http://itol.embl.de) (15) (Fig. 5). The observed topology confirms the existence of 3 phylogroups, with ST-65 associated with the predominant Phylogroup, which is consistent with the information presented above (phylogroup from ST: Kp1). Unfortunately, no information is available in the database precluding further inferences about phylogenetic relationships at the phylogroup level. This can be focus of future research in the area.Fig. 5 Phylogenetic reconstruction based on the concatenated sequences alignment for the seven housekeeping genes used for K. pneumoniae MLST scheme (8) of the total number of reported sequence types ‘STs’ (n = 4,841). The tree was constructed using FastTree double precision version 2.1.10 (11) and visualized in the interactive tool Tree Of Life V4 (http://itol.embl.de) (12). Green dots represent well-supported nodes (Bootstraps ≥ 95.0). The location of the ST-65, to which the genome of interest belongs, is indicated by a red arrow.
+
+Fig. 5
+
+Finally, we further expanded characterization of this strain by searching for virulence factors and antibiotic resistance genes in different databases. A summary of these findings can be seen in the Supplementary Table 2, where the coverage of each identified marker is described. Of note, we identified iroB and iucA which were demonstrated to have >0.95 diagnostic accuracy for identifying hvKp strains. (5)
+
+Discussion
+
+We present a case of Klebsiella-associated Lemierre’s syndrome (KLS) and reviewed all existing cases alike to demonstrate Klebsiella-specific characteristics and current tenets of management.
+
+We searched for all relevant manuscripts using PubMed, MEDLINE, and Embase combining the MeSH terms “Klebsiella” and “Lemierre” published from 1995 to November 2019 and found thirteen reported cases of KLS worldwide. From our review, we noted three distinct characteristics of K. pneumoniae compared to the classic pathogens causing LS – predilection for older patients, for diabetic patients, and a higher occurrence of intracranial metastases. Including our case, the median age of patients affected by KLS was 53 years with 86% (n = 12) of patients ranging between 44 and 63 years of age. This is unlike the typical patient with LS, a healthy person between 10-35 years old (reported median age of 19) (4). It is already established that K. pneumoniae has a tendency to affect diabetic patients, but this was mostly studied with deep neck infections and liver abscesses ([16], [17], [18]). A similar association was found in KLS; 86% (n = 12) of those affected were diabetic, one of whom had type I diabetes (19) and the remaining with type II diabetes. The pattern of septic embolization in KLS was similar to that in classic LS, as pulmonary metastasis was still most common. However, we did observe a higher occurrence of intracranial metastasis in KLS with 36% (n = 5) of patients having either thrombus extension into cranial sinuses, cerebral infarct, or intracranial abscesses. In classic Lemierre’s, metastasis to the brain was at most reported in 3% of cases from multiple series (3,[20], [21], [22], [23], [24]). With regards to these three Klebsiella-specific characteristics, our patient was also older and diabetic but did not have intracranial septic metastasis. Prior case series demonstrated a male predominance (64-68%) (21,24,25) in those affected by LS, but more recent series have shown less of a difference in sex affected (55-57% male) (4). KLS affected both sexes equally (50% female, 50% male) in our literature review of 14 cases.
+
+The current standard of managing LS consists of prompt initiation of empiric antibiotics, prolonged antibiotic therapy, and surgical drainage if indicated. All reported cases of KLS, including ours, were treated with at least four weeks of antibiotic therapy. The role of anti-coagulation still remains unclear with a lack of randomized-controlled trials to establish a significant benefit or lack thereof. The general consensus is to provide anti-coagulation to patients with extensive thrombosis on presentation or rapid thrombus progression and in patients with absence of clinical improvement despite 48 hours of optimal antibiotic therapy. Our patient received anti-coagulation for the latter indication. Two KLS cases did not report whether the patient received anti-coagulation or not. Among those that did report (n = 12), 83% (n = 10) of the patients were anti-coagulated. One of the fourteen existing KLS cases deceased with multi-organ failure from septic shock. The remaining thirteen cases have no documented clinical sequelae from KLS.
+
+Prevalence of hvKp in clinical isolates was reported to be 3.7% in a recent study, an increase from a previously reported prevalence of 0.9%. (7) Thus, identifying genetic markers of hypervirulence and hyperviscosity may have important clinical implications. A large virulence plasmid encoding two siderophores (aerobactin and salmochelin), which are iron acquisition systems, and rmpA, which regulates the mucoid phenotype, has been strongly associated with hvKp. (13) Our isolate has iucA encoding for aerobactin and iroB encoding for salmochelin. Interestingly, rmpA was not present in our isolate, suggesting that other genetic markers may contribute to the hypermucoviscous strain of K. pneumoniae.
+
+There are currently no commercial genetic tests available to rapidly identify hvKp. In theory, identifying such strains when Klebsiella is identified in the blood can provide prognostic information and alert clinicians to the possibility of septic metastases, drainable abscesses, and a potentially longer course of antibiotic therapy. While this syndrome has been mainly recognized in Southeast Asia, it is emerging as a global disease. (7)
+
+Conclusion
+
+Lemierre’s syndrome is a rare, life-threatening disease that was known to most commonly affect young, healthy patients. Our case and literature review suggests that Klebsiella-associated Lemierre’s syndrome affects an older population with a predilection for diabetics. KLS may also have higher occurrences of septic intracranial metastases. Characterization and validation of biomarkers are needed in order to guide individualized clinical decision-making in context of the different virulent phenotypes and potential novel genotypes that may arise in the future.
+
+Contributors
+
+Conceptualization: MG, ML
+
+Data curation: AM, SEL, MC, AO, HVB
+
+Formal Analysis: APM, JDRG, MM, SEL
+
+Investigation: SEL, APM, JDRG, MM, AM
+
+Methodology: SEL, APM, JDRG, MM
+
+Software: APM, JDRG, MM
+
+Supervision: MG, ML
+
+Visualization: APM, JDRG, MM
+
+Writing – original draft: SEL, AM
+
+Writing – review & editing: MG, APM, HVB, ML
+
+Disclosure Statement
+
+The authors have no conflicts of interest to disclose.
+
+Funding
+
+R01AI119145 from 10.13039/100000060 National Institute of Allergy and Infectious Diseases awarded to Harm van
+
+Bakel.
+
+No role of the funding agency in generating or analyzing data or writing of the manuscript.
+
+Consent
+
+The patient consented to the publication of this case report.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Appendix A Supplementary data
+
+The following are Supplementary data to this article:
+
+Appendix A Supplementary material related to this article can be found, in the online version, at doi:https://doi.org/10.1016/j.idcr.2021.e01173.

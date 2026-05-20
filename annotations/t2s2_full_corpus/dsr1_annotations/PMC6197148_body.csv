@@ -1,0 +1,52 @@
+event,time
+31-year-old man,0
+admitted to ICU,0
+postexploratory laparotomy,0
+right thoracotomy,0
+gunshot wound to abdomen,0
+gunshot wound to chest,0
+left arm injury,0
+left elbow fracture,0
+open reduction internal fixation (ORIF),0
+septic shock,0
+acute kidney injury,0
+chest infection,0
+infected laparotomy wound,0
+empiric piperacillin/tazobactam therapy,0
+prolonged ICU stay (56 days),0
+continuous fever,0
+leukocytosis,0
+persistent source of infection (abdominal wound),0
+left-hand ORIF site wound,0
+frequent dressing,0
+debridement,0
+first carbapenem-resistant P. stuartii detected in sputum,528
+resistant to ciprofloxacin,528
+resistant to trimethoprim/sulfamethoxazole,528
+resistant to gentamicin,528
+resistant to imipenem,528
+resistant to meropenem,528
+sensitive to amikacin,528
+chest X-ray unremarkable,528
+highly febrile,720
+piperacillin/tazobactam 4.5 g iv every 6 hours,720
+persistent fever,768
+increasing leukocytes,768
+"septic screening (tracheal aspirate, urine, laparotomy site wound, blood)",768
+piperacillin/tazobactam changed to meropenem 1 g iv every 8 hours,768
+"growth of P. stuartii in urine, wound, blood",840
+"growth of carbapenem-resistant K. pneumoniae in urine, wound, blood",840
+tracheal aspirate culture report reveals carbapenem-resistant P. stuartii and K. pneumoniae,888
+carbapenem-resistant P. stuartii intermediate to meropenem,888
+meropenem dose increased to 2 g iv every 8 hours with extended infusion,888
+colistin added,888
+colistin loading dose 9 million units iv,888
+colistin 3 million units iv every 8 hours,888
+follow-up septic screen repeated,1056
+MDR Acinetobacter baumannii in left-hand ORIF site wound,1128
+MDR Acinetobacter baumannii in tracheal aspirate,1128
+chest X-ray normal,1128
+meropenem discontinued,1344
+colistin discontinued,1344
+transferred to ward,1344
+stable with no signs of infection,1344

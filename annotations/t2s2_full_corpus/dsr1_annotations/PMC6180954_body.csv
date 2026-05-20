@@ -1,0 +1,54 @@
+event,time
+60 years old,0
+male,0
+diabetes mellitus,0
+hypertension,0
+admitted to the hospital,0
+transurethral resection of the prostate,0
+refractory urine retention,0
+no loin pain,0
+no fever,0
+no rigors,0
+no previous surgery,0
+no renal angle tenderness,0
+benign digital rectal examination,0
+persistent pus cells,-variable (pre-operative)
+positive pansensitive Escherichia coli,-variable (pre-operative)
+two courses of antibiotics,-variable (pre-operative)
+levofloxacin,-variable (pre-operative)
+urethral catheter exchange,-variable (pre-operative)
+urinary tract ultrasound,-variable (pre-operative)
+enlarged prostate,-variable (pre-operative)
+piperacillin/tazobactam,0
+postoperative,0
+recurrent high-grade fever,0
+left loin pain,0
+elevated septic parameters,0
+positive urine culture for Candida albicans,0
+positive blood culture for Candida albicans,0
+intravenous fluconazole,0
+no response to fluconazole,0
+CT urography,0
+left hydronephrosis,0
+filling defect in left renal pelvis,0
+no enhancement,0
+contrast outlining lesion,0
+suspected renal fungal ball,0
+left percutaneous nephrostomy,0
+nephrostogram,0
+filling defects in renal pelvis,0
+whitish debris in nephrostomy urine,0
+whitish debris in urethral catheter urine,0
+cultures positive for Candida albicans,0
+changed to anidulafungin,0
+patient improved,0
+negative blood culture,0
+urine positive for candida,0
+instillation of fluconazole through nephrostomy,0
+nephrostomy urine culture no growth,0
+midstream urine mixed growth,0
+follow-up renal ultrasound,0
+normal left kidney,0
+no lesion in pelvicalyceal system,0
+nephrostomy tube removed,168 (7 days after instillation)
+urine culture no candida growth,240 (10 days after removal)

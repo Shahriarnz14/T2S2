@@ -1,0 +1,111 @@
+event,time
+13-year-old,0
+boy,0
+referred to Department of Neurosurgery for stereotactic biopsy,0
+brain abscess,0
+no response to over 4 weeks of treatment with antifungal agents,-672
+accidental near-drowning event in a river,-1800
+revived from cardiac arrest,-1800
+severe aspiration pneumonia,-1776
+acute respiratory failure,-1776
+acute renal failure,-1776
+treated with ventilator support,-1776
+extracorporeal membrane oxygenation,-1776
+continuous renal replacement therapy,-1776
+intensive care unit admission,-1776
+multiple bacteria cultured from sputum,-1776
+Acinetobacter baumannii,-1776
+Elizabethkingia meningoseptica,-1776
+methicillin-resistant Staphylococcus aureus,-1776
+several antibiotics prescribed,-1776
+weaned from ventilator,-1776
+improvement of pneumonia,-1776
+transferred to general ward,-1536
+poor oral intake,-1536
+nausea,-1536
+general weakness,-1536
+transient episode of mental confusion,-1176
+disorientation,-1176
+magnetic resonance imaging scan of brain performed,-1176
+contrast-enhancing lesion in left frontal white matter,-1176
+examination of cerebrospinal fluid,-1176
+red blood cell 0 cells/μl,-1176
+white blood cell 1600 cells/μl,-1176
+neutrophils 58%,-1176
+lymphocytes 12%,-1176
+eosinophils 1%,-1176
+monocytes 28%,-1176
+basophils 1%,-1176
+protein 141.3 mg/dl,-1176
+glucose 36 mg/dl,-1176
+CSF culture negative for bacteria,-1176
+CSF culture negative for fungi,-1176
+diagnosis of brain abscess,-1176
+diagnosis of ventriculitis,-1176
+antibiotics prescribed,-1176
+vancomycin,-1176
+cefotaxime,-1176
+metronidazole,-1176
+Cotrim®,-1176
+amphotericin B,-1176
+mental confusion improved,-1176
+intravenous antibiotics maintained for 4 weeks,-1176
+surrounding edema enlarged,-168
+enhancement of left lateral ventricle,-168
+ventriculitis,-168
+follow-up MRI,-168
+antibiotic regimen changed,-168
+voriconazole,-168
+meropenem,-168
+Cotrim®,-168
+CSF culture no growth of bacteria,-168
+CSF culture no growth of fungi,-168
+CSF pleocytosis,-168
+stereotactic biopsy performed,0
+greenish-yellow pus observed,0
+multiple hyphae found,0
+analysis of CSF,0
+RBC 0 cells/μl,0
+"WBC 16,500 cells/μl",0
+neutrophils 65%,0
+lymphocytes 15%,0
+macrophages 20%,0
+protein 141.3 mg/dl,0
+glucose 36 mg/dl,0
+S. apiospermum cultured,24
+intravenous antibiotics changed,24
+voriconazole,24
+isoconazole,24
+amphotericin B,24
+maintained alert mentality,24
+no neurologic impairment,24
+diffuse contrast enhancement,24
+dilation of left lateral ventricle,24
+aggravation of edema around abscess,24
+follow-up MRI,24
+extraventricular drainage of left lateral ventricle performed,48
+CSF drainage maintained,48
+continued treatment with multiple antifungal agents,48
+left frontal external ventricular drain,48
+intraventricular injection of voriconazole,168
+Ommaya valve in left lateral ventricle,168
+drowsiness,192
+emergent MRI,192
+marked dilation with acute hydrocephalus,192
+septations within left lateral ventricle,192
+mannitol treatment,192
+alert mentality,192
+minimal headache,192
+repeated EVD,216
+endoscopic septostomy,216
+occipital burr-hole trephination,216
+EVD performed,216
+no signs of increased intracranial pressure,216
+stable vital signs,216
+sudden hypotension,240
+respiratory distress,240
+acute septic shock,240
+transferred to ICU,240
+maximal vasopressor treatment,240
+ventilator treatment,240
+expired,252

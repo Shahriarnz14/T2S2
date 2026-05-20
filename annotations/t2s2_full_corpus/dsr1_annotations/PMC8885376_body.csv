@@ -1,0 +1,110 @@
+event,time
+38 years old,0
+Caucasian,0
+woman,0
+presented to Emergency Department,0
+malaise,-96
+fever,-96
+coughing,-96
+diarrhea,-96
+past medical history of scleroderma,0
+treated with chloroquine,0
+hypotensive,0
+blood pressure 80/50 mmHg,0
+tachycardic,0
+heart rate 108 beats per minute,0
+prolonged capillary refill time,0
+administered 3 L of crystalloid fluid,0
+transferred to Intensive Care Unit,0
+developed arterial hypotension,20
+required continuous infusion of norepinephrine,20
+deterioration of hemodynamic state,24
+lactate level peaked 8.5 mmol/L,24
+norepinephrine infusion reached 0.4 mcg/kg/min,24
+moderate left ventricular impairment,24
+left ventricular ejection fraction 40%,24
+moderate pericardial effusion,24
+no signs of cardiac tamponade,24
+initiated infusion of dobutamine,24
+worsening shock,24
+intubated,24
+sedated,24
+received piperacillin-tazobactam,24
+hemodynamic resuscitative measures,24
+cardiac arrest,24
+cardiopulmonary resuscitation for 18 minutes,24
+repeat echocardiogram showed cardiac tamponade,24
+significant left ventricular dysfunction,24
+LVEF 30%,24
+pericardiocentesis performed,24
+circulatory shock unresolved,24
+peripheral venoarterial non-heparin-coated ECMO inserted,24
+heparin infusion commenced,24
+activated partial thromboplastin time ratio 1.5 to 2.5,24
+continuous renal replacement therapy started,24
+anuria,24
+metabolic acidosis,24
+persistence of clinical signs of low tissue perfusion,36
+intra-aortic balloon pump placed,36
+improvement of hemodynamic condition over 48 hours,72
+drop in lactate levels,72
+lessened requirement of vasopressor agents,72
+improvement of peripheral tissue perfusion,72
+diagnostic hypothesis of viral myocarditis,72
+gradual reversion of organ failures,72
+daily echocardiograms showing progressive recovery of left ventricular function,72
+developed pulseless acute left lower limb ischemia,72
+IABP removed,72
+weaned off ECMO on day 5,120
+extubated on day 6,144
+vasopressor administration discontinued after 10 days,240
+required left femoral artery thrombectomy,168
+angioplasty,168
+irreversible limb ischemia,168
+necrosis delimitation delayed,168
+deep venous thrombosis of left fibular veins,168
+"platelet count 179,000/mm³",168
+hypoxemic respiratory failure on day 12,288
+septic shock on day 12,288
+ventilator-associated pneumonia,288
+reintubated,288
+continuous sedation,288
+broad-spectrum antibiotics (meropenem and vancomycin),288
+high-dose vasopressors,288
+CRRT maintained,288
+platelet count progressively fallen from day 11,264
+"nadir 20,000/mm³ on day 15",360
+suspected heparin-induced thrombocytopenia,360
+ruled out disseminated intravascular coagulation,360
+4 Ts score 6 points,360
+anti-PF4/heparin ELISA positive,360
+heparin infusion ceased,360
+anticoagulant therapy with fondaparinux 2.5 mg,480
+anti-factor Xa monitored,480
+platelet count improved 3 days after heparin withdrawal,504
+"platelet count 160,000/mm³ on day 25",600
+required tracheostomy,600
+debridement of necrotic areas in right foot,600
+transtibial amputation of left lower limb,600
+fondaparinux ceased for 24 hours before surgery,600
+fondaparinux ceased for 72 hours before surgery,600
+clinically relevant non-major bleeding,600
+required RBC transfusion,600
+required platelet transfusion,600
+reoperation for hemostasis at tracheostomy site,600
+transitioned to intermittent hemodialysis on day 32,768
+slow recovery of renal function,768
+last hemodialysis session on day 46,1104
+left sided pleural effusion on day 60,1440
+diagnostic thoracentesis performed,1488
+hemothorax,1488
+required RBC transfusion,1488
+chest tube placement,1488
+pleural empyema,1488
+pulmonary abscess caused by Enterobacter aerogenes,1488
+lung decortication,1488
+anticoagulant therapy stopped for 72 hours,1488
+extended regimen of meropenem,1488
+transitioned to oral apixaban 2.5 mg bid,1488
+no relevant bleeding events,1488
+discharged home after 3 months,2160

@@ -1,0 +1,62 @@
+event,time
+47 years old,0\
+male,0\
+admitted to intensive care unit,0\
+diabetes mellitus,0\
+hypertension,0\
+obstructive sleep apnea,0\
+BiPAP ventilation at home,0\
+laparoscopic sleeve gastrectomy,-unknown\
+anastomotic leak,-unknown\
+computed tomography-guided aspiration of abdominal collections,-unknown\
+closing gastric fistula,-unknown\
+closing transverse colon,-unknown\
+washing abdomen,-unknown\
+repeated peritoneal lavage,-unknown\
+peritonitis,-unknown\
+sepsis,-unknown\
+acute kidney injury,-unknown\
+sputum cultures positive for coagulase-negative Staphylococcus aureus,-unknown\
+no known allergies,0\
+vancomycin 1500 mg intravenously twice daily started,-unknown\
+tigecycline started,-unknown\
+meropenem started,-unknown\
+red-man syndrome with previous doses of vancomycin,-unknown\
+vancomycin infusion over 3 hours,-unknown\
+peak and trough samples drawn 6 days after starting vancomycin,144\
+peak level 32.4 mg/L,144\
+trough level 24.8 mg/L,144\
+peak plasma concentration drawn directly after finishing infusion,144\
+trough level drawn just before next dose,144\
+vancomycin pharmacokinetic parameters calculated,144\
+steady state levels attained,144\
+acute kidney injury evident from elevated serum creatinine (187 micromole/L),0\
+normal baseline serum creatinine (87 micromole/L),-unknown\
+vancomycin dose adjusted to 1500 mg q24,144\
+predicted peak level 19 mg/L,144\
+actual peak level 22.7 mg/L,168 (7 days after new regimen)\
+trough level 12.5 mg/L,168\
+vancomycin elimination rate constant (K) discrepancy,0\
+individualized pharmacokinetic parameters calculated,0\
+MIC of S. aureus reported as 1 mcg/mL,0\
+peritoneal lavage,-unknown\
+peritonitis,-unknown\
+sepsis,-unknown\
+acute kidney injury,-unknown\
+MRSA prevalence at institution,0\
+red-man syndrome history,-unknown\
+vancomycin infusion over 3 hours,-unknown\
+vancomycin steady state levels achieved,144\
+serum creatinine elevated (187 micromole/L),0\
+vancomycin clearance reduced,0\
+vancomycin plasma half-life increased,0\
+vancomycin initial dose 1500 mg intravenously twice daily,-unknown\
+equations used to calculate pharmacokinetic parameters,0\
+adjusted dosing regimen,0\
+discrepancy in vancomycin elimination rate constant,0\
+predicted peak close to actual measured value,0\
+fluctuating serum creatinine,0\
+obese patient with renal insufficiency,0\
+dosing using equations validated,0\
+source of support: Nil,0\
+conflict of interest: None declared,0

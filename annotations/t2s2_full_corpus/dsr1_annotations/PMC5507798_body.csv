@@ -1,0 +1,90 @@
+event,time
+58 years old,0
+Hispanic female,0
+hypertension,0
+admitted to the hospital,0
+fever,-120
+dizziness,-120
+denied dyspnea,0
+denied cough,0
+denied chills,0
+denied night sweats,0
+denied headache,0
+denied gastrointestinal symptoms,0
+no history of anorexia,0
+no history of weight loss,0
+febrile 39.5°C,0
+hypotensive,0
+blood pressure 88/40 mm Hg,0
+non-tender cervical lymph nodes,0
+soft cervical lymph nodes,0
+minimal bilateral rhonchi,0
+unremarkable abdominal examination,0
+unremarkable neurological examination,0
+unremarkable cardiac examination,0
+no organomegaly,0
+intact skin,0
+diffuse bilateral infiltrates on chest radiograph,0
+admitted to intensive care unit,0
+severe sepsis,0
+pneumonia,0
+leukopenia,0
+thrombocytopenia,0
+elevated serum lactate dehydrogenase,0
+received IV fluids,0
+received ceftriaxone,0
+received azithromycin,0
+persistent fever,0
+negative cultures,0
+antibiotics changed to piperacillin-tazobactam,0
+antibiotics changed to vancomycin,0
+normal transthoracic echocardiogram,0
+bilateral infiltrates on CT chest,0
+mediastinal lymphadenopathy,0
+subcarinal lymphadenopathy,0
+mild splenomegaly,0
+flexible fiber optic bronchoscopy,144
+bronchoalveolar lavage,144
+transbronchial biopsies,144
+endobronchial ultrasound transbronchial needle aspiration,144
+negative AFB stains,144
+negative cultures from FFB,144
+T-cell lymphoma diagnosis,144
+CD4 positive,144
+CD3 positive,144
+CD43 positive,144
+BCL-2 positive,144
+CD20 negative,144
+CD10 negative,144
+CD79a negative,144
+PAX5 negative,144
+hypoxic respiratory failure,360
+intubation,360
+mechanical ventilation,360
+cervical lymph node excisional biopsy,360
+worsening cervical lymphadenopathy,360
+peripheral T-cell lymphoma NOS diagnosis,360
+CD3 positive,360
+CD4 positive,360
+CD5 positive,360
+CD43 positive,360
+Ki67 >90,360
+CD20 negative,360
+CD79A negative,360
+CD7 negative,360
+CD15 negative,360
+bone marrow biopsy,360
+pancytopenia,360
+hemophagocytic lymphohistiocytosis,360
+negative AFB stains in bone marrow,360
+negative fungal stains in bone marrow,360
+tumor lysis syndrome,456
+acute renal failure,456
+hemodialysis,456
+rasburicase,456
+cyclophosphamide started,456
+vincristine started,456
+clinical deterioration,480
+death,480
+positive Mycobacterium tuberculosis complex PCR,480
+AFB positive in cervical lymph nodes,480

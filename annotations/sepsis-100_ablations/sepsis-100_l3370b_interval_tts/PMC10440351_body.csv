@@ -1,0 +1,64 @@
+event,time
+69 years old,0
+female,0
+admitted to the hospital,0
+stabbed herself in the abdomen,-1
+self-inflicted stab wound,-1
+kitchen knife,-1
+suicidal intent,-1
+blood pressure could not be measured,0
+pulseless electrical activity,0
+body temperature was 35.0 °C,0
+oxygen saturation was 99 %,0
+Glasgow Coma Scale score of 3,0
+agonal respiration,0
+wound measuring 5 cm,0
+intra-abdominal fluid collection,0
+emergency thoracotomy,0
+aortic cross-clamping,0
+open cardiac massage,0
+epinephrine administration,0
+temporary return of spontaneous circulation,15
+hemodynamically unstable,15
+laparotomy,15
+injuries to the common hepatic and splenic arteries,15
+injuries to the pancreas,15
+injuries to the spleen,15
+injuries to the liver,15
+ligation of the injured arteries,15
+distal pancreatectomy,30
+splenectomy,30
+liver sutured,30
+norepinephrine administration,30
+second-look surgery,24
+no signs of active bleeding,24
+no ischemic change,24
+abdominal wall closure,72
+regular examinations,72
+enhanced computed tomography scan,96
+disruption of the celiac artery,96
+gastroduodenal artery arising from the superior mesenteric artery,96
+gastroscopy,216
+patchy mucosal necrosis,216
+conservative treatment,216
+fever,552
+pain in the stomach,552
+"white blood cell count of 34,000/mm3",552
+C reactive protein of 13.4 mg/dL,552
+CT scan,552
+air in the gastric wall,552
+intra-abdominal free air,552
+gastric necrosis,552
+emergency surgery,552
+total gastrectomy,552
+Roux-en-Y reconstruction,552
+histological findings of the stomach,576
+diffuse necrotic changes,576
+inflammatory cell infiltrations,576
+no evidence of invasive fungal infection,576
+leakage on the duodenal stump,696
+continuous tube drainage,696
+sepsis,1680
+multidrug-resistant Pseudomonas aeruginosa infection,1680
+disseminated intravascular coagulation,1680
+death,1680

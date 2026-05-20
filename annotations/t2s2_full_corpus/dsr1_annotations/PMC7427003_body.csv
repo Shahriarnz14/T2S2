@@ -1,0 +1,54 @@
+event,time
+28 years old,0
+female,0
+hypothyroidism,0
+hypertension,0
+polycystic ovarian syndrome,0
+presented,0
+fever,0
+myalgias,0
+nausea,0
+vomiting,0
+worked as a paramedic,-504
+care of SARS-CoV-2–positive patient,-504
+initial physical examination unremarkable,0
+qualitative BioFire SARS-CoV-2 PCR screen negative,0
+febrile,0
+temperature up to 105 °F,0
+upgraded to intensive care unit,0
+closer monitoring,0
+active cooling,0
+repeat physical examination palpable liver below costal margin,0
+no rash,0
+no mucosal ulcers,0
+no lymphadenopathy,0
+full septic workup negative,0
+blood cultures negative,0
+urine cultures negative,0
+acute viral hepatitis panels nonreactive,0
+hepatitis B virus core IgM antibody negative,0
+hepatitis B virus surface antigen negative,0
+hepatitis C virus antibody negative,0
+hepatitis A IgM antibody negative,0
+monospot testing positive for EBV,0
+EBV IgM titers elevated,0
+EBV-PCR positive,0
+computed tomography chest unremarkable,0
+computed tomography abdomen hepatosplenomegaly,0
+liver measuring 25 cm,0
+prior imaging no hepatosplenomegaly,0
+repeat qualitative BioFire SARS-CoV-2 PCR positive,0
+transaminitis,0
+transaminitis deterioration,24
+consulted hematology/oncology,24
+concern for early HLH,24
+ferritin elevated,24
+fibrinogen elevated,24
+triglycerides elevated,24
+diagnostic liver biopsy suggested,24
+bone marrow biopsy suggested,24
+biopsies declined,24
+not meeting all HLH criteria,24
+high suspicion for HLH,24
+started rituximab,24
+transferred to tertiary care center,24

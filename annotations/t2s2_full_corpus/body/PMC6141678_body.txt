@@ -1,0 +1,118 @@
+Introduction
+Lodderomyces elongisporus was considered as a sexual state of Candida parapsilosis
+[1], and its role in human infection was unknown until recently. Sequencing of the ribosomal RNA gene revealed that L. elongisporus represents a distinct species [2]. The aetiologic role of L. elongisporus was subsequently established in human infections [3]. Of ten clinical isolates identified as L. elongisporus, eight originated from Mexico, while one each came from China and Malaysia [4]. These isolates were previously misidentified as C. parapsilosis by the VITEK 2 yeast identification system. L. elongisporus has been isolated from bloodstream and from the catheter tip of a case of suspected fungaemia patient in Kuwait [3], [4], [5].
+
+Here we describe a case of primary fungaemia by L. elongisporus that progressed rapidly with fatal outcome despite prompt initiation of treatment with caspofungin.
+
+Case summary
+A 71-year-old woman with a history of hypertension, ischaemic heart disease and peripheral vascular disease was brought to emergency room in an unconscious state. Head computed tomographic scan revealed a stroke. On day 2, her condition deteriorated rapidly, requiring inotropic support. She developed septic shock, as indicated by elevated levels of inflammatory markers (erythrocyte sedimentation rate, 70 mm/h; C-reactive protein, 78 mg/L). Blood obtained at this time grew a yeast in both aerobic and anaerobic BacT/ALERT culture bottles. Pending identification, caspofungin was administered immediately, but she died on day 3 of her hospital stay.
+
+The yeast isolate (Kw553/18) was identified as C. parapsilosis by the VITEK 2 yeast identification system (bioMérieux, Marcy l’Etoile, France). The isolate was referred to the Mycology Reference Laboratory for further characterization. On CHROMagar Candida (CHROMagar, Paris, France), it produced turquoise blue colonies (Fig. 1) instead of cream-coloured colonies with a pinkish shade, which is characteristic of C. parapsilosis, thus prompting further identification. On acetate ascospore agar after 7 days of incubation at 25°C, the isolate formed long ellipsoidal-shaped ascospores (Fig. 2), suggesting its identity as L. elongisporus. The internally transcribed spacer region of ribosomal DNA was amplified and sequenced as described previously [6], [7]. DNA sequence data comparisons of Kw553/18 (European Molecular Biology Laboratory accession no. LS482924) showed complete (100%) identity with the corresponding sequence from L. elongisporus type strain (ATCC 11503) but only 83% identity with the sequence from reference C. parapsilosis strain (ATCC 22019) [8]. The findings also suggested that Candida species isolates forming turquoise blue colonies on CHROMagar Candida and producing ascospores on acetate ascospore agar can be presumptively identified as L. elongisporus for laboratories where molecular identification methods are not available.Fig. 1 Colony characteristics of Lodderomyces elongisporus (Kw553/18) (A), Candida metappsilosis (B), C. orthopsilosis (C) and C. parapsilosis (D) on CHROMagar Candida. Note turquoise blue colonies of L. elongisporus.
+
+Fig. 1Fig. 2 Ellipsoidal to elongate ascospores (green) of Lodderomyces elongisporus produced on acetate ascospore agar and stained with Schaeffer-Fulton stain. Original magnification, ×1000.
+
+Fig. 2
+
+Antifungal susceptibility was determined by Etest (bioMérieux) on RPMI 1640 medium supplemented with 2% glucose, as described previously [9]. MIC values (μg/mL) were as follows: amphotericin B, 0.012; fluconazole, 0.125; voriconazole, 0.004; posaconazole, 0.003; itraconazole, 0.008; flucytosine, 0.064; caspofungin, 0.064; micafungin, 0.003.
+
+Results
+The unusual aspect of our case is that there were no apparent risk factors in the patient when fungaemia was diagnosed. However, she had a history of heart disease and had also experienced a stroke. She was not receiving any antibiotics; nor had any central lines been emplaced. She was hospitalized earlier for lower limb ischaemia due to peripheral vascular disease, but she was discharged 2 weeks before the current episode. It is not clear how she developed fungaemia as a result of this unusual yeast in the absence of any known risk factors. However, the possibility of inoculation of the yeast from the skin or translocation from the gastrointestinal tract cannot be ruled out.
+
+Although L. elongisporus is a recognized bloodstream pathogen [3], little is known about its virulence attributes or its environmental niche. Like other opportunistic yeast pathogens, this species is also capable of causing diverse clinical conditions, including endocarditis. The species has a global prevalence: it has been isolated from patients in distant geographic regions, including Mexico, Malaysia and China [3], Australia [10], the Middle East [5], [11], Japan [12], Spain [13] and Korea [14] (Table 1, Table 2).Table 1 Summary of salient findings of published cases of Lodderomyces elongisporus fungaemia
+
+Table 1Case no.	Study	Country	Age/sex	Comorbidities or risk factors	Identification method	
+1	Daveson 2012 [10]	Australia	30/M	Endocarditis, osteomyelitis and brain embolic lesions; intravenous drug user	• Blue-green colonies on CHROMagar (BD Diagnostics).
+
+• ITS region sequence analysis.
+
+	
+2a	Ahmad 2013 [5]	Kuwait	63/M	Cardiovascular attack, vascular catheter	• Turquoise blue colonies on CHROMagar Candida (Becton Dickinson).
+
+• Identified as Candida parapsilosis by VITEK 2 yeast identification system (bioMérieux).
+
+• PCR sequencing of ITS region of rDNA.
+
+	
+3	Taj-Aldeen 2014 [11]	Qatar	22/M	Trauma	• MALDI-TOF MS.
+
+• Sequence analysis of ITS region and D1–D2 domains of rDNA.
+
+	
+4	Hatanaka 2016 [12]	Japan	39/M	Thoracoabdominal aortic replacement complicated with aortoesophageal fistula, catheter	• Dark green colonies Candida agar medium.
+
+• Identified as C. parapsilosis by VITEK 2 system (bioMérieux).
+
+• Sequence analysis of ITS region and D1–D2 domains of rDNA.
+
+	
+5	Fernández-Ruiz 2017 [13]	Spain	79/M	COPD, diabetes mellitus, ESRD	• Sequencing ITS region of rDNA.
+
+	
+6	Lee 2018 [14]	Korea	56/F	Lung cancer, receiving immunosuppressive agents, vascular catheter	• Turquoise blue colony on CHROMagar.
+
+• Candida medium.
+
+• VITEK 2 YST ID (bioMérieux) and API 20C AUX (bioMérieux) system identified it as C. parapsilosis.
+
+• MALDI-TOF MS (Bruker Daltonics) analysis indicated likely identification of L. elongisporus (score value = 1.79).
+
+• Sequence analysis of ITS region of rDNA.
+
+	
+7	Present case	Kuwait	71/F	Hypertension, ischaemic heart disease, peripheral vascular disease	• Blue colonies in CHROMagar Candida.
+
+• Identified as C. parapsilosis in VITEK 2 yeast identification system (bioMérieux).
+
+• PCR sequencing of ITS region of rDNA.
+
+	
+COPD, chronic obstructive pulmonary disease; ESRD, end-stage renal disease; ITS, internally transcribed spacer; MALDI-TOF MS, matrix-assisted desorption ionization–time of flight mass spectrometry; rDNA, recombinant DNA.
+
+a In case 2, L. elongisporus was isolated from catheter tip culture.
+
+Table 2 Treatment and outcome of Lodderomyces elongisporus fungaemia
+
+Table 2Case no.	Study	Treatment	Outcome	
+1	Daveson 2012 [10]	Caspofungin before cardiac surgery, then amphotericin B plus flucytosine followed by voriconazole	Survived	
+2a	Ahmad 2013 [5]	Fluconazole	Survived	
+3	Taj-Aldeen 2014 [11]	Caspofungin, fluconazole	Died	
+4	Hatanaka 2016 [12]	Micafungin	Survived	
+5	Fernández-Ruiz 2017 [13]	Caspofungin 3 days	Died	
+6	Lee 2018 [14]	Not provided	Died before removal of indwelling catheter or antifungal treatment	
+7	Present case	Caspofungin (one dose)	Died	
+a In case 2, L elongisporus was isolated from catheter tip culture.
+
+
+
+The salient findings of seven individual case reports of L. elongisporus fungaemia are summarized in Table 1, Table 2. All patients had associated comorbidities and/or risk factors including an intravenous drug user (patient 1). Four (57.5%) of seven patients died even though six patients were treated with antifungal drugs. Because the number of patients is small, it is difficult to assess the impact of antifungal therapy on the outcome. It is also not clear if use of echinocandins (caspofungin in four patients and micafungin in one patient) was an appropriate therapy for L. elongisporus fungaemia because three of five patients died.
+
+Discussion
+Data on antifungal susceptibility of L. elongisporus are scanty, and no susceptibility breakpoints are available. C. parapsilosis complex members, to which L. elongisporus is closely related, generally show reduced susceptibility to echinocandins [15]. The in vitro MIC values for antifungal drugs for L. elongisporus isolates were within the susceptible range (Table 3) [3], [5], [10], [11], [12], [13], [14], [16]. Although echinocandins have lower in vitro activity against C. parapsilosis complex members to which L. elongisporus is closely related, the current Infectious Disease Society of America guidelines still favour therapeutic use of echinocandins for the treatment of candidaemia caused by C. parapsilosis
+[17].Table 3 Antifungal susceptibility profile of Lodderomyces elongisporus isolates
+
+Table 3Study	No. of isolate	Method	MIC (μg/mL) of:	
+AP	5-FC	FL	IT	KE	VO	POS	ISA	CS	AND	MYC	
+Lockhart 2008 [3]	9	BMD, CLSI	0.37–0.75	NA	0.12–0.025	NA	NA	NA	NA	NA	0.015–0.03	0.015–0.12	0.015–0.03	
+Tay 2009 [16]	1	Etest	0.012	NA	0.125	0.047	0.003	0.004	NA	NA	NA	NA	NA	
+Daveson 2012 [10]	1	NA	0.25	0.06	≤0.125	0.06	≤0.008	≤0.008	0.03	NA	0.03	NA	NA	
+Ahmad 2013 [5]	1	Etest	NA	0.094	0.32	NA	NA	0.002	0.023	NA	0.094	NA	NA	
+Taj-Aldeen 2014 [11]	1	BMD, CLSI	0.5	NA	0.25	0.031	NA	<0.016	0.063	<0.016	0.5	0.016	NA	
+Hatanaka 2016 [12]	1	BMD, CLSI	0.25	0.5	0.5	0.25	NA	0.015	NA	NA	NA	NA	0.015	
+Fernández-Ruiz 2017 [13]	1	BMD, CLSI	0.031		0.125	NA	NA	0.0017	0.007	NA	NA	0.015	0.015	
+Lee 2018 [14]	1	ATB Fungus 3	0.25	1.00	1.00	NA	NA	0.12	NA	NA	0.25	NA	0.06	
+Present case	1	Etest	0.012	0.064	0.125	0.008	0.003	0.004	0.003	NA	0.064	0.008	0.032	
+5-FC, 5-flurocytosin; AND, anidulafungin; AP, amphotericin; BMD, broth microdilution; CLSI, Clinical and Laboratory Standards Institute; CS, caspofungin; FL, fluconazole; ISA, isavuconazole; IT, itraconazole; KE, ketoconazole; MYC, micafungin; NA, not available; POS, posaconazole; VO, voriconazole.
+
+
+
+Uncommon yeast pathogens are often misidentified as a result of limitations of the currently available commercial yeast identification systems, such as VITEK 2, which identify C. parapsilosis complex but do not distinguish C. parapsilosis, C. orthopsilosis, C. metapsilosis and L. elongisporus
+[18]. A retrospective characterization of 380 C. parapsilosis complex isolates available in the Mycology Reference Laboratory culture collection and previously speciated by VITEK 2 by a multiplex PCR assay [19] that simultaneously detected C. parapsilosis, C. orthopsilosis, C. metapsilosis and L. elongisporus identified three L. elongisporus isolates. One isolate was obtained from sputum of a cancer patient (isolate Kw2486/06); another isolate (Kw554/08) was recovered from the catheter tip of a patient with fungaemia [5]; and a third isolate (Kw3047/14) was isolated from the bloodstream of a cancer patient. However, clinical details of the two cancer patients were not available. Recently matrix-assisted laser desorption/ionization time-of-flight mass spectrometry has also been used for the identification of L. elongisporus
+[20].
+
+Rare yeast species often exhibit reduced susceptibility to one or more commonly used antifungal agents [18]. A number of factors have been attributed to their increased occurrence, such as prolonged survival of seriously ill patients admitted in intensive care units, administration of multiple broad-spectrum antibiotics, dependence on life support systems and extended use of intravascular catheters [21]. It is also possible that these relatively less susceptible yeasts take advantage of the selection pressure created by prophylactic and therapeutic use of antifungal agents, resulting in increased colonization and invasive infection [18], [21]. Perhaps a delay in accurate identification and a lack of experience in the management of such rare yeast infections pose diagnostic and therapeutic challenges with consequently higher mortality rates.
+
+Conflict of interest
+None declared.
+
+Acknowledgements
+We acknowledge the technical support of S. Varghese, S. Vayalil and O. Al-Musallam of Mycology Reference laboratory.

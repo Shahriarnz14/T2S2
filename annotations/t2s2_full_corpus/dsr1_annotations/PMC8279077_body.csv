@@ -1,0 +1,175 @@
+event,time
+28 years old,0
+white man,0
+presented to the Emergency Department via Emergency Medical Services,0
+unresponsive,0
+found at his parents’ home,0
+12-lead electrocardiogram performed,0
+acute anterior myocardial infarction suspected,0
+brought to a Chest Pain-Accredited facility,0
+consciousness waxing and waning,0
+Kussmaul breathing,0
+hypothermic,0
+core body temperature 32.7°C,0
+hypoxic,0
+required 3 L supplemental oxygen,0
+oxygen saturation 100%,0
+blood pressure 116/42 mmHg,0
+heart rate 90 beats per minute,0
+pupils equal and reactive to light,0
+non-icteric sclera,0
+dry oral mucous membranes,0
+regular heart rate and rhythm,0
+no murmurs,0
+no jugular venous distension,0
+no edema of lower extremities,0
+intact radial and dorsal pedal pulses,0
+Kussmaul breathing,0
+clear to auscultation bilaterally,0
+soft abdomen,0
+nontender abdomen,0
+multiple tattoos,0
+no rashes,0
+no lesions,0
+obtunded,0
+arousable,0
+able to follow commands,0
+arterial blood gas pH 6.85,0
+carbon dioxide 14.0 kPa,0
+oxygen 164.0 kPa,0
+bicarbonate 2.3 mmol/L,0
+base excess −29.6 mmol/L,0
+potassium 9.0 mmol/L,0
+ECG suspicious for STEMI,0
+Cardiology consulted,0
+irregular rhythm,0
+no consistent p-wave to QRS complexes,0
+rSR’ with down-sloping S-wave,0
+inverted T-waves,0
+hyperkalemia suspected,0
+STEMI ruled out,0
+calcium carbonate administered,0
+insulin therapy initiated,0
+improvement in ECG findings,0
+sodium 115 mmol/L,0
+potassium 9.0 mmol/L,0
+chloride 76 mmol/L,0
+blood urea nitrogen 88 mmol/L,0
+creatinine 4.8 mmol/dL,0
+glucose 1375 mmol/L,0
+calcium 7.9 mmol/L,0
+alkaline phosphatase 112 μkat/L,0
+bicarbonate <5.0 mmol/L,0
+alanine aminotransferase 40 μkat/L,0
+aspartate aminotransferase 26 μkat/L,0
+albumin 3.5 g/L,0
+total bilirubin 0.5 μmol/L,0
+osmolality 330 mmol/kg,0
+creatinine phosphokinase 176 units/L,0
+troponin-I 0.596 μg/L,0
+c-reactive protein 0.1 mg/L,0
+glomerular filtration rate 15 mL/s,0
+creatinine kinase-MB 5.3 μg/L,0
+myoglobin 551 nmol/L,0
+white blood cell count 29.4×109/L,0
+hemoglobin 8.1 g/L,0
+hematocrit 25%,0
+mean corpuscular volume 86.8 fL,0
+platelet count 301×109/L,0
+intubated,0
+central venous access placed,0
+dialysis catheter placed,0
+Bair Hugger applied,0
+heated blankets applied,0
+intravenous access started,0
+aggressive volume resuscitation,0
+4 L 0.09% normal saline boluses,0
+admitted to the ICU,0
+guarded condition,0
+hyperosmolar coma,0
+diabetic ketoacidosis,0
+type I diabetes mellitus,0
+insulin therapy non-compliance,0
+alcohol use,0
+diabetic ketoacidosis addressed,0
+emergent central access placement,0
+fluid volume resuscitation,0
+insulin infusion initiated,0
+Nephrology consulted,0
+life-threatening electrolyte abnormalities,0
+emergent dialysis considered,0
+systemic inflammatory response syndrome,0
+suspected sepsis,0
+elevated prolactin level,0
+empiric antibiotic therapy with vancomycin and meropenem,0
+chest radiography confirmed left lower-lobe aspiration pneumonia,0
+lactic acidosis,0
+initial cardiac troponin-I level 0.596 μg/L,0
+subsequent troponin-I level 19.1 μg/L,24
+peak troponin-I level 20.452 μg/L,48
+troponin-I trending downwards,72
+weight-based heparin infusion,0
+antiplatelet therapy,0
+Cardiology consultation concluded type-II myocardial infarction,48
+preserved ejection fraction,48
+absence of significant cardiac wall motion abnormalities,48
+biochemically improved by day 6,144
+clinically improved by day 6,144
+eager for discharge by day 6,144
+no documented seizures,0
+no agonal nocturnal respirations after extubation,0
+medical therapies optimized,144
+discharged home,144
+atorvastatin 80 mg daily,144
+aspirin 81 mg daily,144
+metoprolol tartrate 12.5 mg BID,144
+amlodipine 5 mg daily,144
+Levemir 25 units qam and 10 units qpm,144
+nov-Log subcutaneous carb count,144
+subsequent Cardiology follow-up,168
+history of syncope,0
+continued isolated dizzy spells,168
+prior Brugada-like ECG findings,0
+high-risk diabetes,0
+left heart catheterization performed,168
+selective coronary angiogram,168
+left ventriculo-gram,168
+normal epicardial coronary arteries,168
+ejection fraction 65%,168
+referred for electrophysiology consultation,168
+no family history of sudden cardiac death,0
+no proband-positive Brugada syndrome family history,0
+Brugada phenocopy suspected,0
+increased alcohol consumption,0
+non-compliance with insulin therapies,0
+severe dehydration,0
+severe electrolyte derangements,0
+metabolic derangements,0
+acute renal failure,0
+sepsis,0
+type-II myocardial infarction,0
+EMS ECG findings,0
+initial ED ECG findings,0
+calcium carbonate administered,0
+bicarbonate administered,0
+insulin infusion therapy,0
+no cardiac resuscitation,0
+no ventricular arrhythmias,0
+ECGs demonstrated normalization of Brugada pattern,24
+resolution of electrolyte derangements,24
+resolution of metabolic derangements,24
+BrP favored over BrS,24
+sodium-channel provocative electrophysiology testing not performed,168
+no chest pain,0
+no sudden cardiac death presentation,0
+hyperacute T wave,0
+right axis deviation,0
+widened QRS duration,0
+absence of P waves,0
+ethyl alcohol consumption,0
+hyperglycemia,0
+acidosis present,0
+no sine wave induction,0
+no ventricular fibrillation,0
+no ICD implantation indicated,168
+no quinidine considered,168

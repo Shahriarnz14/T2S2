@@ -1,0 +1,87 @@
+event,time
+43 years old,0
+female,0
+history of difficult-to-manage bronchial asthma,0
+"hospitalized in the last 8 months on 10 occasions for acute exacerbations, asthmatic crisis",-5760
+dry cough,-24
+progressive dyspnea,-24
+psychomotor agitation,-24
+audible wheezing,-24
+outpatient use of salbutamol,-24
+outpatient use of ipratropium bromide,-24
+did not improve with salbutamol,-24
+did not improve with ipratropium bromide,-24
+admitted to the hospital,0
+critical condition,0
+diaphoretic,0
+tachycardic,0
+heart rate 110 beats/minute,0
+dyspneic with supraclavicular retractions,0
+respiratory rate 30 breaths/minute,0
+ambient oxygen saturation 87%,0
+auscultation with abolished vesicular murmur in both lung fields,0
+Glasgow coma scale 12/15,0
+respiratory acidosis,0
+hypoxemia,0
+pH 7.21,0
+PCO2 66.5,0
+PO2 53.4,0
+HCO3 26.5,0
+BE −2.8,0
+SaO2 79.1%,0
+PaO2/FiO2 178,0
+imminence of ventilatory failure,0
+invasive ventilatory support provided,0
+midazolam loading dose 0.2 mg/kg,0
+midazolam maintenance dose 0.05 mg/kg/h,0
+propofol loading dose 1 mg/kg,0
+propofol maintenance dose 1 mg/kg/h,0
+transferred to the ICU,0
+hydrocortisone 100 mg IV every 8 hours,0
+magnesium sulfate,0
+antibiotics piperacillin tazobactam,0
+antibiotics clarithromycin,0
+infection considered as the cause of the asthmatic crisis,0
+short-term (48-hour) infusion of neuromuscular blocking agents associated,48
+cisatracurium initial dose 0.15 mg/kg,48
+cisatracurium maintenance intermittent 0.03 mg/kg IV bolus,48
+Train of 4 used to monitor the paralysis maintaining a range of 1-2,48
+improvement in ABG,96
+ventilatory weaning was indicated,96
+suspending dual sedation,96
+suspending neuromuscular blocking agents,96
+light sedation with dexmedetomidine was started,96
+Glasgow coma scale 15/15,144
+weakness of the neck flexor muscles,144
+facial paresis,144
+could not move all 4 limbs,144
+muscular strength 1/5 in lower limbs,144
+muscular strength 2/5 in upper limbs,144
+flaccid hyporeflexia,144
+preserved sensitivity,144
+no alteration in cranial nerves,144
+assessed by neurology,144
+brain MRI normal,144
+cervical MRI normal,144
+cerebrospinal fluid study normal,144
+MRC score 37 points,144
+Electromyography performed,144
+EMG signs of denervation,144
+EMG irritability (myopathic pattern),144
+polyneuropathic compromise with axonal pattern in conduction velocity,144
+median motor nerve conduction velocity normal,144
+decreased amplitude of potentials bilaterally,144
+no sensory potentials are evoked,144
+increased recruitment with potentials of low amplitude and short duration in left biceps,144
+diagnosis of ICU-acquired weakness confirmed,144
+critical illness neuropathy,144
+physiotherapy started,144
+comprehensive rehabilitation started,144
+steroid usage considered a risk factor which contribute to develop ICUAW,144
+ventilator withdrawn,240
+discharged,720
+MRC score 55 points,720
+normal ABG control,720
+no acidosis,720
+no hypoxemia,720
+symptomatic resolution was achieved,720

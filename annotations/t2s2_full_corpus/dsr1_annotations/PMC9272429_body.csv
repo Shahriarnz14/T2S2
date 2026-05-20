@@ -1,0 +1,119 @@
+event,time
+53 years old,0
+male,0
+admitted to the hospital,0
+acute New York Heart Association Class IV dyspnoea,-336
+reduced exercise tolerance,-336
+intermittent chest pain,-336
+multiple hospital attendances in the preceding 8 weeks,-1344
+symptoms attributed to recurrent viral pericarditis,-1344
+non-steroidal anti-inflammatories,-1344
+colchicine,-1344
+4 weeks of prednisolone,-1344
+asthma,0
+allergic rhinitis,0
+hypertension,0
+hypercholesterolaemia,0
+obesity,0
+treated obstructive sleep apnoea,0
+no history of recent surgery,0
+no history of recent travel,0
+no ill contacts,0
+no active dental infection,0
+afebrile,0
+normoxic,0
+normotensive,0
+tachycardic (heart rate 112 beats/min),0
+tachypnoeic (respiratory rate 24),0
+soft dual heart sounds,0
+decreased breath sounds at bilateral lung bases,0
+no pulsus paradoxus,0
+jugular venous pressure not elevated,0
+multiple previous dental fillings,0
+adequate dental health,0
+no gingival inflammation,0
+no dental abscesses,0
+no dental decay,0
+sinus tachycardia,0
+no diffuse changes,0
+no electrical alternans,0
+normal white cell count,0
+elevated C-reactive protein (106 mg/L),0
+unremarkable chest X-ray,0
+unremarkable NTproBNP,0
+unremarkable autoimmune screens,0
+mild left ventricular dysfunction,0
+large (2.4 cm) asymmetric pericardial effusion,0
+organized echogenic material adjacent to the right ventricle,0
+diastolic collapse,0
+significant tricuspid and mitral inflow variation (62% and 27%),0
+dilated and fixed inferior vena cava,0
+urgent pericardiocentesis,0
+150 mL of blood-stained fluid drained,0
+symptom relief,0
+pericardial fluid lactate dehydrogenase 3584 U/L,0
+fluid/serum lactate dehydrogenase ratio 12,0
+pericardial fluid cholesterol 1.7 mmol/L,0
+cultures sent for testing,0
+pigtail catheter placed,0
+pigtail catheter removed,48
+clinical improvement,48
+minimal output (total 240 mL drained),48
+improved inflammatory markers,48
+CRP 95 mg/L,24
+CRP 79 mg/L,48
+CRP 53 mg/L,96
+purulent debris in the catheter,48
+repeat TTE demonstrated small residual effusion (1.3 cm),48
+akinetic and adherent right ventricular free wall,48
+ventricular interdependence,48
+minimally collapsing dilated IVC,48
+gram-positive bacillus in pericardial fluid culture,48
+intravenous vancomycin commenced,48
+Actinomyces meyeri identified,96
+intravenous benzylpenicillin commenced,96
+fungal cultures negative,96
+acid-fast bacilli cultures negative,96
+no malignant cells identified,0
+serial urine cultures negative,0
+serial blood cultures negative,0
+orthopantomogram demonstrated previous dental restoration,0
+some caries disease,0
+no periapical lucence,0
+no periodontal ligament widening,0
+repeat TTE demonstrated increasing pericardial effusion (1.8 cm),72
+worsening tricuspid inflow variation (35%),72
+worsening mitral inflow variation (36%),72
+cardiac magnetic resonance imaging confirmed 2.6 cm pericardial effusion,72
+marked thickening and fibrosis of the pericardium,72
+diastolic septal flattening during expiration,72
+mild reduction of LV and RV end-diastolic volumes,72
+mild biventricular dysfunction,72
+no evidence of pulmonary infection,0
+referred for surgical pericardiectomy,96
+"multidisciplinary meeting involving Cardiology, Cardiothoracic Surgery, and Infectious Diseases",96
+clinical deterioration with significant exertional dyspnoea,120
+escalating inflammatory markers,120
+semi-urgent inpatient surgery,144
+median sternotomy,144
+100–200 mL frank pus drained,144
+thorough washing of pericardial space,144
+pericardium resected over the right ventricle,144
+preserved phrenic nerve,144
+drains inserted,144
+drains removed,192
+histopathology confirmed organizing fibrinous pericarditis,144
+reactive stromal and endothelial cells,144
+no malignant cells,144
+no bacterial growth on cultures,144
+post-operative TTE demonstrated minimal pericardial effusion,192
+preserved LV function,192
+discharged,264
+complete symptom resolution,264
+6 weeks of intravenous benzylpenicillin,264
+outpatient follow-up,264
+oral amoxicillin commenced,432
+no further chest discomfort,432
+no further dyspnoea,432
+low mood,432
+care from primary care physician,432

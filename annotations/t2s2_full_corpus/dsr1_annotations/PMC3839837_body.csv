@@ -1,0 +1,157 @@
+event,time
+63 years old,0
+male,0
+admitted to the emergency room,0
+weakness,0
+nausea,0
+vomiting,0
+diarrhea,0
+ingesting wild mushrooms,-36
+severe nausea,-29
+vomiting,-29
+diarrhea,-29
+hypertension,0
+colon carcinoma,0
+surgery,-1440
+chemotherapy,-1440
+no metastasis in the liver,0
+does not consume alcohol,0
+does not use any medication,0
+awake,0
+fully oriented,0
+vital signs normal,0
+physical examination unremarkable,0
+dehydration,0
+arterial blood gas analysis normal,0
+hepatitis B surface antigen nonreactive,0
+hepatitis B core antibody nonreactive,0
+immunoglobulin M nonreactive,0
+antihepatitis C antibody nonreactive,0
+hepatitis B virus DNA negative,0
+admitted to internal medicine intensive care unit,0
+gastric lavage,0
+activated charcoal,0
+rehydration,0
+silibinin bolus,0
+silibinin infusion,0
+acetylcysteine infusion,0
+penicillin G,0
+multivitamin,0
+alpha lipoic acid,0
+complete blood count,0
+biochemistry measurements,0
+blood gas monitoring,0
+AST 880 U/L,6
+ALT 665 U/L,6
+"LDH 1,028 U/L",6
+total bilirubin 4.9 mg/dL,6
+direct bilirubin 1.9 mg/dL,6
+PT 36.5 seconds,6
+INR 3.11,6
+lactate normal,6
+vitamin K,6
+metilprednisolone,6
+"AST 1,836 U/L",12
+"ALT 1,232 U/L",12
+"LDH 1,471 U/L",12
+total bilirubin 7.2 mg/dL,12
+direct bilirubin 3.1 mg/dL,12
+PT 73.1 seconds,12
+INR 6.86,12
+metabolic acidosis,12
+normal anion gap,12
+respiratory alkalosis,12
+fresh frozen plasma,12
+hemodialysis,12
+general condition worsening,30
+somnolent,30
+mildly tachypneic,30
+"AST 1,900 U/L",30
+"ALT 1,473 U/L",30
+"LDH 2,582 U/L",30
+PT 76.5 seconds,30
+INR 7.22,30
+Hb 12.5 g/dL,30
+"PLTs 123,000/mm3",30
+consultation for liver transplantation,30
+colon carcinoma contraindication,30
+hemodialysis,30
+fresh frozen plasma,30
+"AST 1,843 U/L",36
+ALT 984 U/L,36
+"LDH 3,826 U/L",36
+PT 42.6 seconds,36
+INR 3.71,36
+"AST 1,207 U/L",48
+"ALT 1,797 U/L",48
+"LDH 4,318 U/L",48
+total bilirubin 9.8 mg/dL,48
+direct bilirubin 3.3 mg/dL,48
+PT 47.7 seconds,48
+INR 4.21,48
+Hb 11.8 g/dL,48
+"PLTs 33,000/mm3",48
+high AG metabolic acidosis,48
+respiratory alkalosis,48
+fibrinogen normal,48
+D-dimer elevated,48
+no schistocytes,48
+flapping tremor,48
+blood ammonia 281 μg/dL,48
+hepatic encephalopathy treatment,48
+branched chain amino acid solution,48
+ornithine-aspartate,48
+lactulose,48
+"AST 3,570 U/L",54
+"ALT 3,282 U/L",54
+"LDH 4,379 U/L",54
+total bilirubin 12.4 mg/dL,54
+PT 111 seconds,54
+INR 11.05,54
+"PLTs 29,000/mm3",54
+hemodialysis,54
+fresh frozen plasma,54
+PT 34.6 seconds,60
+INR 2.92,60
+Hb 8.6 g/dL,60
+"PLTs 12,000/mm3",60
+erythrocyte suspension,60
+lost consciousness,72
+body temperature 38.2°C,72
+pulse rate 112 bpm,72
+respiratory rate 32 bpm,72
+blood pressure 89/57 mmHg,72
+meropenem,72
+"AST 1,096 U/L",78
+"ALT 2,004 U/L",78
+"LDH 1,615 U/L",78
+PT 100.6 seconds,78
+INR 9.87,78
+"PLTs 7,000/mm3",78
+hemodialysis,78
+fresh frozen plasma,78
+platelet infusion,78
+pure respiratory alkalosis,78
+serum lactate 16.59 mg/dL,84
+ammonia 415 μg/dL,84
+serum creatinine 2.6 mg/dL,84
+hepatorenal syndrome,84
+arterial blood gas acidosis,84
+sedated,84
+intubated,84
+cardiac arrest,90
+resuscitation,90
+severe acidosis,90
+sodium bicarbonate,90
+AST 329 U/L,96
+ALT 855 U/L,96
+PT 77.3 seconds,96
+INR 7.31,96
+"PLTs 13,000/mm3",96
+Hb 8.3 g/dL,96
+serum creatinine 3.3 mg/dL,96
+serum lactate 112 mg/dL,96
+metabolic acidosis,96
+respiratory alkalosis,96
+cardiac arrest,98
+death,98

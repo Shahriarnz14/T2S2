@@ -1,0 +1,75 @@
+event,time
+48-year-old Caucasian female,0
+admitted to the burn center,0
+found unresponsive at scene of house fire,0
+burns to face,0
+inhalation injury,0
+intubated via endotracheal tube,0
+transferred to burn center,0
+diffuse carbonaceous sputum,0
+pale friable mucosa in airways,0
+intubated for airway protection,0
+requiring sedation,0
+requiring neuromuscular blockade,0
+severe depression,0
+psychotic features,0
+paliperidone palmitate 234 mg once monthly,0
+paliperidone 6 mg daily,0
+citalopram 40 mg daily,0
+trazodone 150 mg at bedtime,0
+risperidone 2 mg twice daily,0
+clonazepam 1 mg twice daily,0
+chronic smoker,0
+substance abuser,0
+urine drug screen negative,0
+mild leukocytosis (WBC 15.8 k/mm3),0
+afebrile,0
+normotensive,0
+adequate urine output (>0.5 mL/kg/hr),0
+ARDS,0
+started on pressure control ventilation,0
+tracheostomy performed,48
+post-operative fever,48
+tachycardia,48
+thick yellow secretions on HD5,120
+diffuse rhonchi,120
+worsening right-sided infiltrate on chest X-ray,120
+BAL culture HD6 (gram-positive cocci),144
+blood cultures HD4 (gram-positive cocci),96
+started on vancomycin,144
+started on cefepime,144
+aggressive vancomycin dosing (1750 mg IV q6h),144
+vancomycin trough 26 mg/L,144
+no clinical improvement,144
+continued fever,144
+tachycardia,144
+increased ventilatory support,144
+increased oxygenation requirements,144
+repeat blood cultures HD5 negative,120
+MRSA identified,144
+repeat bronchoscopy HD10,240
+improved secretions,240
+"BAL culture HD10 (>110,000 CFU/mL MRSA)",240
+vancomycin MIC 2 mg/L,240
+decision to change antibiotic regimen,240
+linezolid not used,240
+initiated ceftaroline fosamil,240
+ceftaroline 600 mg IV every 8h,240
+afebrile after 48h ceftaroline,336
+ventilator weaning HD22,528
+decannulated HD24,576
+hospital discharge delayed,1152
+psychiatric placement,1152
+serum ceftaroline levels day5,360
+ceftaroline Cmax 21.9 mg/L,360
+ceftaroline Cmin 4.2 mg/L,360
+half-life 1.5h,360
+Vd 0.42 L/kg,360
+AUC0–τ 87.6 µg h/mL,360
+T > MIC 8h,360
+clearance 10 L/h,360
+completed 14 days ceftaroline,576
+resolution of infection,576
+liberated from mechanical ventilation,528
+discharged HD48,1152
+no reported toxicity,576

@@ -1,0 +1,85 @@
+event,time
+11-year-old girl,0
+previously healthy,0
+presented to ICU,0
+fever,0
+vomiting,0
+generalized abdominal pain,0
+no drug allergies,0
+no significant medical history,0
+no prior surgical procedures,0
+family lives in Rahovec,0
+fever 38.7°C,0
+unwell appearance,0
+lethargy,0
+rash on palms and trunk,0
+no conjunctivitis,0
+no lymphadenopathy,0
+severe drowsiness,0
+arousable by moderate stimuli,0
+negative meningeal signs,0
+respiratory rate 25/min,0
+oxygen saturation 93%,0
+harsh breathing with crackles,0
+tachycardia HR 135 bpm,0
+hypotension BP 80/42 mmHg,0
+abdominal tenderness in right lower quadrant,0
+WBC 13.5 ×10³/μL,0
+neutrophils 94.5%,0
+RBC 3.5–5.8 ×10⁶/mm³,0
+ESR 82 mm/h,0
+CRP 298.5 mg/L,0
+procalcitonin 18.45 mcg/L,0
+abdominal ultrasound: enlarged appendix 11.2 mm,0
+moderate pelvic fluid,0
+suspected appendicitis,0
+emergency laparotomy appendectomy,0
+transferred to ICU,0
+postoperative toxic course,0
+acute distress,0
+hemodynamic instability,0
+tachycardia 139 bpm,0
+hypotension BP 76/39 mmHg,0
+fractional shortening on echocardiogram,0
+no BP improvement after 60 mL/kg fluid resuscitation,0
+dopamine initiated,0
+oxygen saturation 88–90%,0
+oxygen therapy 2 L/min,0
+chest X-ray: bilateral paratracheal and paracardial spots,0
+bronchopneumonia,0
+ceftriaxone and amikacin started,0
+switched to imipenem,0
+negative SARS-CoV-2 PCR,0
+contact with COVID-19 positive grandfather,-720
+serology positive SARS-CoV-2 IgG,0
+elevated D-dimer 5.4 µg/mL,0
+enoxaparin initiated,0
+MIS-C suspected,0
+IVIG 2 g/kg,24
+aspirin 325 mg/day,24
+worsening general condition,24
+fever persisted,24
+anemia (Hb 6.9 g/dL),24
+RBC transfusion,24
+no response to IVIG,24
+methylprednisolone 30 mg/kg,24
+aggravated heart dysfunction,24
+LV dysfunction EF 30%,24
+dobutamine added,24
+favorable progression,72
+vasoactive drugs discontinued,72
+afebrile,96
+clinical improvement,96
+stable BP,96
+negative cultures,96
+catarrhal appendicitis histopathology,0
+D-dimer decreased,96
+troponemia resolved,96
+inflammatory parameters normalized,264
+discharge,264
+low-dose aspirin 3 mg/kg,264
+follow-up visit,648
+blood tests normalized,648
+COV-2 IgG elevated,648
+normal abdominal and cardiac ultrasounds,648
+planned follow-up every 3 months,648

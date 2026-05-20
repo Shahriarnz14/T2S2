@@ -1,0 +1,65 @@
+Introduction
+Klebsiella pneumoniae carbapenemase-producing K. pneumonia (KPC-KP) has spread worldwide after the initial report in the USA [1]. In Korea, KPC-KP is the most common type of carbapenemase producing Enterobactericeae (CPE) and it has been increasing year by year since it was first reported in 2010 [23]. It has been disseminating nationwide due to clonal spread and is taking a serious action at the national level in Korea [4]. A new mobilized colistin resistance (MCR1) gene which confers plasmid-mediated resistance to colistin and is known to be capable of horizontal transfer between different strains of a bacterial species was first reported in China in November 2015 and in Korea in November 2016 [56]. Because colistin is the last resort antibiotic to treat serious infections caused by carbapenem-resistant Enterobactericeae (CRE), MCR1 producing CRE is of great concern to public health. It has so far been detected mostly in livestock isolates, but also in human isolates [7]. Two Escherichia coli and one Enterobacter aerogenes clinical isolates carried IncI2 plasmids harboring MCR1 in Korea [8]. But, the MCR1 producing KPC-KP is not detected yet in Korea. We have experienced a fatal case of the patient who developed MCR1-possessing, ST307/Tn4401a[blaKPC2] K. pneumonia bacteremia in the community of non-capital region after being diagnosed as pancreatic cancer with multiple liver metastases and treated in the capital region.
+
+Case report
+A 56-year-old man was diagnosed as pancreatic cancer with multiple liver metastases at a tertiary care teaching hospital in Seoul, the capital city of Korea, 8 months before visit to us. The patient had received chemotherapy, but it was not effective. Two and half weeks before visit to us, stent insertion was performed on the common bile duct to resolve the biliary tract obstruction at the same hospital in Seoul. From 4 days after stent insertion, he had felt tolerable febrile sense and chills controlled with antipyretics and analgesics at home in Daegu, a regional city of Korea. Two weeks after the stent insertion, he had been admitted to nursing care hospital in Daegu for 2 days and then visited the emergency room (ER) of a secondary care teaching hospital in Daegu, complaining of unresolved fever, chill and abdominal pain. He had diabetes mellitus on vidagliptin/metformin 50 mg/1,000 mg once a day. When he visited our ER, he was acutely ill, his blood pressure was 100/60 mmHg, decreased to 90/60 mmHg 1 hour after visit, respiratory rate 20 breaths per minute, pulse rate 90 beats per minute, and body temperature 38.8°C.
+
+The laboratory results were as follows: white blood cell (WBC) count 1,250/mm3 (92.5% neutrophils, 4.0% lymphocytes), hemoglobin 5.9 g/dL, platelet count 14,000/mm3, C-reactive protein 19.75 mg/dL, aspartate aminotransferase 274 UI/L, alanine aminotransferase 143 IU/L, total/direct bilirubin 4.11/2.71 mg/dL, total protein 4.4 g/dL, albumin 2.0 g/dL, prothrombin time (international normalized ratio) 25.3 second (2.21), active partial thromboplastin time 60.7 second, blood urea nitrogen 34.5 mg/dL and creatinine 1.9 mg/dL. The arterial blood gas analysis breathing room air was pH 7.515, pCO2 31.6 mmHg, pO2 78.8.0 mmHg, HCO3 25.5 mmol/L, and O2 saturation 96.9%. Abdomen computed tomography (CT) showed pancreatic cancer with multiple liver metastases and metallic stent inserted in common bile duct.
+
+There was no evidence of any bleeding. The primary impression for him was the acute cholangitis with septic shock. Intravenous piperacillin/tazobactam, teicoplanin, and norepinephrine were administered. The packed red cells and platelets were transfused. He was admitted to the intensive care unit (ICU) 8 hours later. On admission, the Acute Physiology and Chronic Health Evaluation (APACHE) II score was 19 and predicted death rate was 32.2%. Two days after admission, WBC and platelet counts deteriorated to 250/mm3 and 8,000/mm3, respectively. He died of refractory septic shock 5 days after admission. On the day of his death, carbapenem-resistant K. pneumoniae grew on the blood cultures taken on the day of hospitalization. Antimicrobial susceptibility testing demonstrated resistance to all beta-lactams, including carbapenems, as well as tigecycline (Table 1). Species identification and antimicrobial susceptibility tests were performed on VITEK II system (bioMérieux, Durham, NC, USA). Two days after his death, K. pneumoniae with same antimicrobial resistance pattern grew again on the blood cultures taken on the 3 day after hospitalization. The Rapidec Carba NP test (bioMerieux, Marcy I'Etoile, France) revealed that the isolates were carbapenemase producers.
+
+Table 1 Antimicrobial susceptibility testing of KPC2 producing Klebsiella pneumonia
+
+Antibiotics	MIC (μg/mL)	Interpretation	
+Amikacin	4	Susceptible	
+Gentamicin	≥16	Resistant	
+Amoxicillin/Clavulanic acid	≥32	Resistant	
+Ampicillin	≥32	Resistant	
+Aztreonam	≥64	Resistant	
+Cefazolin	≥64	Resistant	
+Cefepime	≥64	Resistant	
+Cefotaxime	≥64	Resistant	
+Cefoxitin	≥64	Resistant	
+Ceftazidime	≥64	Resistant	
+Ciprofloxacin	≥4	Resistant	
+Cotrimoxazole	≥320	Resistant	
+Piperacillin/tazobactam	≥128	Resistant	
+Ertapenem	≥8 (16a)	Resistant	
+Imipenem	≥16 (16a)	Resistant	
+Meropenem	16a	Resistant	
+Doripenem	16a	Resistant	
+Tigecycline	≥8 (4a)	Resistant	
+Colistin	2a	Susceptible	
+aThe minimum inhibitory concentrations were determined by broth microdilution method in Korea-Centers for Disease Control and Prevention after the patient passed away.
+
+The isolates were transferred to Korea Centers for Disease Control and Prevention (KCDC), which revealed that the isolates were MCR1 possessing ST307/Tn4401a[blaKPC2] K. pneumonia. The multilocus sequence typing (MLST) and isotyping the Tn4401 were performed in accordance with the previous research method [4]. The sequences of the primers were MCR1 IF (5′-CAGTGCGCCAAAAGATACCA-3′) and MCR1 IR (5′-ACCGTTCTCACCCAGACTTT-3′). Each reaction was carried out by using a final volume of 20 µℓ mixture containing 2 µℓ of 10x buffer, 10 pmol of each primer, 2 uM of each dNTP, 1U of amfisure Taq polymerase (P3016, GeneDEPOT, Texas, USA), and 20 ng of genomic DNA. The PCR was performed with a eppendorf vapo-protect mastercycler (eppendorf, Hamburg, Germany) under the following conditions: initial denaturation step (5 min at 94°C), follwed by 30 cycles (30 sec at 94°C, 1 min at 52°C, 45 sec at 72°C) and a final extension step (10 min at 72°C). The expected size of the amplicon was 784 bp. E. coli (NCCP 16284, the clonal isolate of USU-ECO-12704) was used as a positive control, while sterile distilled water used as negative control [8]. The DNA amplicon from our KPC-KP showed a fragment of 784 bp, consistent with positive control in agarose gel electrophoresis. Antimicrobial susceptibility testing for carbapenems, tigecycline and colistin was performed by using sensititre broth microdilution plates (KORGNGC, Thermofisher scientific, Massachusetts, USA) and interpreted according to the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for tigecycline and The Clinical and Laboratory Standards Institute (CLSI) for others (Table 1) [910]. E. coli (ATCC 25922) was used as a positive control. No outbreak by this strain in the hospital occurred. The study was approved by the Institutional Review Board of Kyungpook National University Hospital (KNUCH 2018-09-010).
+
+DISCUSSION
+Although KPC-KP are spreading nationwide, they are not yet frequently isolated in non-tertiary community hospitals in Korea [341112]. But, KPC-KP can spread to them at any time because many patients are gathered to tertiary care hospitals in Seoul, the capital city of Korea and come back to hometown hospitals in the non-capital city [13]. Approximately 15.6% of patients and 32.3% of cancer patients from non-capital regions visited medical institutions in Seoul [13]. In fact, there is an evidence that KPC-KP has been spreading clonally from the capital region to the non-capital region in Korea [4]. Our strain was the ST307/Tn4401a[blaKPC2] K. pneumonia which was the most commonly disseminated clone in Korea [4]. Actually, our strain was the second KPC-KP and third CPE which was never detected before June 2017 in this secondary care community hospital. Our patient, in whom the KPC-KP could be colonized at the tertiary care hospital in Seoul and infected in the community, visited ER at the secondary care community hospital in Daegu, the regional city of Korea. Fortunately, our patient was admitted to the ICU on the day of visit, and the contact precaution was well maintained and KPC-KP was not spread to other patients. This case is the critical example of the inter-regional and inter-facility spread and community-onset infections of KPC-KP clone.
+
+Since the plasmid-mediated colistin resistance MCR1 gene in E. coli and K. pneumoniae isolates was firstly detected in China, MCR1 has already spread to most continents [14]. The plasmid-mediated MCR1 gene in clinical KPC2 producing E. coli and K. pneumoniae isolates resistant to colistin and carbapenems were detected in Brazil [151617]. These findings highlight that E. coli or K. pneumoniae isolates carrying both MCR1 and blaKPC2 may emergence as a serious threat to antimicrobial therapy. In Korea, MCR1 was mainly detected in E. coli from livestock and not yet in KPC-KP [8]. Our strain is the first MCR1 and KPC2 co-producing K. pneumonia in Korea and caused community-onset bacteremia, which resulted in fatality of the patient. The minimum inhibitory concentration (MIC) of colistin in our strain was 2 μg/mL and interpreted as susceptible (Table 1). The MCR1 gene showed strain-specific impact on growth rate and had no effect on colistin resistance when it coexisted with inactivated mgrB gene in K. pneumonia [18].
+
+From the therapeutic point of view, the patient died before antimicrobial susceptibility was revealed, and the appropriate antibiotic was not administered. Antibiotic susceptibility by Vitek II system showed that it was susceptible only to amikacin and resistant to all other antibiotics including tigecycline and had no susceptibility report to colistin (Table 1). Amikacin could be administered as an appropriate empirical antibiotic if the patient didn't have renal failure. In the study of the same hospital about antimicrobial resistance of community-onset K. pneumoniae bacteremia, the amikacin susceptibility rate was 97.8% [19]. Tigecycline and colistin resistance rate was 23.1% and 2.4% among 334 KPC2 producing K. pneumoniae in Korea between 2013 and 2015 [4]. Although the KCDC revealed that the isolate was susceptible to colistin later (Table 1), it was not appropriate option for empirical treatment because of nephrotoxicity in our patient. Age, APACHE II score, and inappropriate antimicrobial treatment were the important predictors of mortality in patients with KPC-KP bacteremia [20].
+
+The high risk patients for KPC-KP need to be screened actively, detected rapidly and preemptively isolated to prevent outbreak of KPC-KP. Inter-facility communications are essential and the nationwide epidemiologic data of KPC-KP should be analyzed and reported regularly to prevent spread of KPC-KP. The prompt identification of species and antimicrobial susceptibilities for successful treatment against KPC-KP should be emphasized as well.
+
+Conflict of Interest: No conflicts of interest.
+
+Author Contributions:
+Conceptualization: JYP, STH, KTK.
+
+Data curation: KTK, DYS, KJL, JAC.
+
+Formal analysis: KTK.
+
+Investigation: KTK, DYS, KJL, JAC.
+
+Methodology: DYS, KJL, JAC.
+
+Supervision: JYP, STH.
+
+Visualization: KJL, JAC.
+
+Writing - original draft: KTK, JAC.
+
+Writing - review & editing: JYP, STH, DYS.

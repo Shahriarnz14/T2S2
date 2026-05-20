@@ -1,0 +1,35 @@
+event,time
+patient was well ,-168
+patient presented to hospital with fever ,0
+patient presented to hospital with body ache ,0
+patient presented to hospital with throat pain ,0
+patient presented to hospital with decreased oral intake ,0
+vitals were low ,0
+patient was infused with 1500 ml of normal saline ,0
+patient was shifted to medical intensive care unit ,0
+broad-spectrum antibiotic was started ,0
+inotropic support was started ,0
+detailed investigations of dengue were done ,0
+detailed investigations of typhoid were done ,0
+detailed investigations of malaria were done ,0
+detailed investigations of leptospira were done ,0
+KFTs were highly deranged ,0
+LFTs were highly deranged ,0
+clinical hematology consultation was obtained ,12
+patient was suspected to have HLH ,12
+further investigations were done ,12
+bone marrow biopsy sample was taken ,24
+patient was intubated ,24
+IV methylprednisolone pulse was started ,24
+TPE was started ,24
+laboratory results showed convincing results in favor of HLH ,24
+TPE procedures were done ,48
+TPE procedures were done ,72
+patient's clinical condition improved ,96
+patient was switched to IV dexamethasone ,96
+patient was extubated ,96
+patient required blood transfusion ,120
+patient was discharged ,384
+hematological parameters were within normal range at discharge ,384
+biochemical parameters were within normal range at discharge ,384
+coagulation parameters were within normal range at discharge ,384

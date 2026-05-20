@@ -1,0 +1,101 @@
+event,time
+22 years old,0
+female,0
+dyspnea,-72
+denies cough,0
+denies sputum,0
+denies chest pain,0
+denies other respiratory symptoms,0
+denies upper extremity weakness,0
+denies lower extremity weakness,0
+denies blurred vision,0
+denies swallowing difficulty,0
+speech problem (nasal speech),-2160
+treated by ENT surgeons,-2160
+treated by speech therapist,-2160
+no history of substance abuse,0
+no recent drug intake,0
+labored breathing,0
+respiratory rate 40 breaths/minute,0
+confused,0
+SaO2 85%,0
+blood pressure 146/98 mm Hg,0
+pulse 104/minute,0
+body temperature 36.7°C,0
+no pedal edema,0
+no neck vein engorgement,0
+mild crackles at both lung fields,0
+arterial blood gas pH7.314,0
+PaCO2 56.7 mm Hg,0
+PaO2 92.2 mmHg,0
+oxygen saturation 90%,0
+chest X-ray no definite infiltration,0
+lung volume reduced,0
+white blood cell count 6980 μL,0
+hemoglobin 12.5 g/dL,0
+platelet count 345000 μL,0
+blood glucose 94 mg/dL,0
+BUN/Cr 12/0.8 mg/dL,0
+AST/ALT 24/25 units/L,0
+chest CT no pulmonary thromboembolism,0
+ECG sinus tachycardia,0
+echocardiography normal heart function,0
+supplemental oxygen,0
+transferred to ICU,0
+mechanically ventilated,0
+rapid sequence induction,0
+IV midazolam 3 mg,0
+succinylcholine 70 mg,0
+SaO2 improved to 100%,0
+unable to breathe without mechanical support,0
+ENT assessment no upper airway obstruction,0
+considered neuromuscular disorders,0
+considered Guillain-Barre syndrome,0
+considered MG,0
+normal physical examination,0
+normal neurological examination,0
+normal cerebrospinal fluid analysis,0
+diagnosis of MG,0
+electromyography decremental response,0
+pharmacological Jolly test incremental responses,0
+acetylcholine receptor antibody titer 12.4 nmol/L,0
+pyridostigmine bromide 720 mg/day,0
+prednisolone 30 mg/day,0
+IV gamma-globulin 400 mg/kg/day,0
+weaning from ventilator failed,336
+tracheostomy performed,336
+successfully weaned from ventilator,1440
+discharged after 2 months,1440
+advised thymectomy,1440
+developed respiratory distress,1440
+respiratory arrest,1440
+signs and symptoms of sepsis,1440
+successfully intubated,1440
+resuscitated,1440
+prednisolone stepped up,1440
+pyridostigmine stepped up,1440
+antibiotics administered,1440
+fluid administered,1440
+IV gamma-globulin 400 mg/kg/day for 5 days,1440
+discharged on day 24,576
+thymus excised,576
+thymus showed follicular hyperplasia,576
+followed up in hospital,576
+maintenance steroid,576
+maintenance pyridostigmine,576
+dysphonia for 3 months,-2160
+no prolonged paralysis after succinylcholine,0
+no hypoxemic respiratory failure,0
+"no infiltrations, edema, effusion, pneumothorax",0
+no pulmonary thromboembolism,0
+no intracardiac shunting,0
+no congestive cardiac failure,0
+electrolyte levels normal,0
+normal cerebrospinal fluid,0
+MG confirmed,0
+acute ventilatory failure,0
+no vocal cord obstruction,0
+no stridor,0
+positive anti-MuSK antibody not mentioned,0
+no other neurological symptoms during follow-up,1440
+plasmapheresis not administered,0

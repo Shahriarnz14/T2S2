@@ -1,0 +1,78 @@
+event,time
+30-year-old man,0
+end-stage renal disease,-2880
+hypertensive nephropathy,-2880
+deceased-donor kidney transplant,-2880
+generalized pain,-72
+headache,-72
+fever,-72
+palpitation,-72
+watery diarrhea,-24
+admitted to the hospital,0
+poor mental status,0
+temperature 38.4 ℃,0
+blood pressure 80/60 mmHg,0
+vital signs normal,0
+system tests normal,0
+no interprovincial travel,0
+no COVID-19 exposure,0
+leukocyte count 10.38×10^9/L,0
+neutrophil percentage 90%,0
+hemoglobin 63 g/L,0
+serum creatinine 344 µmol/L,0
+hemoglobin 43 g/L,0
+external hemorrhoid,0
+suspended red blood cells infusion,0
+CMV infection ruled out,72
+BK virus infection ruled out,72
+graft rejection ruled out,72
+intravenous cefoperazone sulbactam,96
+convulsions,192
+headaches,192
+diplopia,192
+conscious,192
+clear-headed,192
+poor general condition,192
+meningeal irritation sign negative,192
+temperature 40.0 ℃,192
+pulse rate 64–120 beats/min,192
+respiratory rate 16–39 breaths/min,192
+white blood cell count 5.34×10^9/L,192
+neutrophil percentage 92%,192
+procalcitonin 3.2 mg/L,192
+CSF total protein 2.37 g/L,288
+CSF chloride 125.3 mmol/L,288
+CSF glucose 4.36 mmol/L,288
+no cryptococcus detected,288
+Lm in blood culture,192
+Lm in CSF culture,288
+cranial MRI lesions,240
+Lm sepsis,288
+Lm meningitis,288
+transferred to ICU,288
+tracheal intubation,288
+sodium penicillin infusion,288
+levetiracetam tablets,288
+methylprednisolone 40 µg daily,288
+FK-506 discontinued,288
+MMF discontinued,288
+penicillin withdrawal,360
+allergic reaction (rashes),360
+TMP-SMX tablets 960 mg every 6 hours,384
+symptoms improved,888
+tracheal intubation removed,888
+oral TMP-SMX 960 mg every 12 hours,888
+immunosuppressant resumed,888
+temperature 36.7 ℃,1560
+hemoglobin 83 g/L,1560
+white blood cell count 4.51×10^9/L,1560
+neutrophil percentage 72.4%,1560
+CSF yellowish,1560
+protein-negative,1560
+chlorine 123.6 mmol/L,1560
+glucose 4.28 mmol/L,1560
+SCr 269.8 µmol/L,1560
+T2 hyperdense shadow in brain,1560
+no meningitis recurrence,1560
+no kidney deterioration,1560
+discharged,1560

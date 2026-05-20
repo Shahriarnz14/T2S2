@@ -1,0 +1,78 @@
+event,time
+60 years old,0
+male,0
+admitted to outside hospital,0
+found unresponsive,0
+hypothyroidism,0
+alcohol abuse,0
+"subacute, rapidly progressive cognitive decline",-720
+sepsis,-720
+presumed aspiration pneumonia,-720
+suspected accidental opioid overdose,-720
+suspected benzodiazepine overdose,-720
+acute respiratory failure,-720
+intubation,-720
+ICU admission,-720
+clinical improvement,-720
+rehabilitation,-720
+discharged home,-720
+mental status not back to baseline,-720
+"behavioral changes (leaving water running, walking naked, defecating in closet)",-144
+readmitted to outside hospital,-24
+progressive neuropsychiatric decline,-24
+decrease in awareness,-24
+engagement with surroundings to near akinetic mutism,-24
+extensive workup unremarkable,-24
+elevated protein (86 mg/dL),-24
+T2-weighted hyperintensities bilateral basal ganglia,-24
+increased T2-weighted signal in white matter bilateral cerebral hemispheres,-24
+EEG left-sided frontotemporal slowing and sharp waves,-24
+trial of lacosamide,-24
+3-day course IV methylprednisolone 1 gr/day,-24
+transfer to Tampa General Hospital,0
+awake and alert,0
+non-verbal,0
+unable to follow commands,0
+assistance with activities of daily living,0
+lack of focal or asymmetric weakness,0
+extensive workup initiated,0
+serum labs unrevealing,0
+TSH normal,0
+free T4 normal,0
+mildly elevated CRP (0.79 mg/L),0
+mildly elevated ESR (23 mm/h),0
+repeat lumbar puncture OP 22 cmH2O,0
+CSF protein 70 mg/dL,0
+MRI extensive white matter changes,0
+EEG slow background with intermittent generalized rhythmic slow,0
+no epileptogenic activity,0
+CT chest/abdomen/pelvis negative,0
+IV methylprednisolone 5-day course,0
+no clinical improvement,0
+awake and alert with eye contact,0
+no purposeful movement,0
+persistent inattention,0
+brain biopsy pursued,0
+non-prescription opioids use,-1440
+benzodiazepines use,-1440
+"injectable anabolic steroids (testosterone enanthate, dianabol)",-35040
+insecticides application,-720
+rodent-repellents application,-720
+trial IVIG 2 gm over 4 days,0
+right frontal brain biopsy,0
+spongiform white matter changes,0
+reactive gliosis,0
+absence of inflammation,0
+toxin-related leukoencephalopathy,0
+discharged to rehabilitation,24
+slow significant clinical improvement over 6–8 months,24
+alert and attentive at 1 year,8760
+non-dysarthric speech,8760
+normal speech content,8760
+follows commands,8760
+mild expressive aphasia,8760
+fully ambulatory,8760
+MMSE 23/30,8760
+follow-up MRI improved white matter changes,8760
+genetic evaluation negative,8760
+continued slow steady improvement,8760

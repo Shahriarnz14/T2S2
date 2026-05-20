@@ -1,0 +1,58 @@
+event,time
+20 years old,0
+male ,0
+arrived at the emergency department ,-336
+fever ,-336
+productive cough ,-336
+night sweats ,-336
+malaise ,-336
+myalgia ,-336
+non-smoker ,0
+previously healthy ,0
+medical history unremarkable ,0
+occupational smoke exposure ,-336
+serving as a policeman ,-336
+region of rural villages ,-336
+domestic waste burnt on open fires ,-336
+treated with roxithromycin ,-256
+temperature at arrival 38.4°C ,0
+blood pressure 130/70 mmHg ,0
+pulse 88 bpm ,0
+oxygen saturation 97% in room air ,0
+dyspnoea ,0
+tachypnoea ,0
+bronchial breathing sounds ,0
+crackles noted over the right lung ,0
+white blood cells 11.54×103/μl ,0
+total eosinophils 92×104/μl ,0
+haemoglobin 13.7 g/dl ,0
+creatinine 1.1 mg/dl ,0
+C-reactive protein (CRP) 11 mg/dl ,0
+liver enzymes elevated ,0
+ALP 524 ,0
+GGT 320 ,0
+ALT 406 ,0
+AST 137 ,0
+abdominal ultrasound normal ,0
+chest radiograph demonstrated infiltrates involving most of the right lung ,0
+treated with intravenous (IV) cefuroxime ,48
+blood and sputum cultures negative ,72
+urine Legionella antigen test negative ,72
+antibiotic treatment changed to moxifloxacin ,96
+blood cultures still sterile ,120
+respiratory distress ,144
+oxygen saturation dropped to 88% ,144
+PaO2 67 mmHg ,144
+CRP increased to 14 mg/dl ,144
+leucocytosis 12.8×103/μl ,144
+eosinophil count 1.33×103 cells/μl ,144
+follow-up chest radiogram demonstrated progression of the pulmonary findings to diffuse bilateral infiltrates ,168
+broncho-alveolar lavage demonstrated 30% eosinophils ,336
+diagnosed with AEP ,336
+IV glucocorticoids administered ,384
+prompt improvement ,385
+fever resolved ,432
+extubated within 24 h ,432
+chest radiogram revealed considerable regression of the bilateral infiltrates ,448
+eosinophil count dropped to 260 cells/μl ,448
+"discharged 2 days later on oral prednisone, 60 mg/day with tapering over 3 months ",528

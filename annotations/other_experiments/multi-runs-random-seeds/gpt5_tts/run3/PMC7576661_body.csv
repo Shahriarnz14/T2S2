@@ -1,0 +1,74 @@
+event,time
+46-year-old woman ,0
+female ,0
+total thyroidectomy ,-175200
+multinodular goitre ,-175200
+surgical hypoparathyroidism ,-175200
+hypothyroidism ,-175200
+obesity ,-96
+weight 95 kg ,-96
+BMI 38.5 kg/m2 ,-96
+psoriatic arthritis ,-96
+multiple immunosuppressants ,-96
+no diabetes ,-96
+no dyslipidaemia ,-96
+no hypertension ,-96
+no obstructive sleep apnoea ,-96
+calcium carbonate (long term) ,-96
+calcitriol (long term) ,-96
+levothyroxine 200 µg daily (pre-existing) ,-96
+elective sleeve gastrectomy ,-96
+converted to emergency Roux-en-Y gastric bypass surgery ,-96
+multiple gastric perforations ,-96
+friable mucosa ,-96
+nil orally ,-96
+abdominal sepsis ,-24
+transferred to intensive care at a tertiary hospital ,0
+admitted to tertiary hospital intensive care ,0
+ionised calcium 0.78 mmol/L ,0
+asymptomatic without seizure ,0
+asymptomatic without arrhythmia ,0
+continuous intravenous calcium gluconate infusion ,0
+ICU admission (prolonged 6 months) ,0
+all medication and nutrition intravenously ,0
+ionised calcium measured daily ,0
+normocalcaemia achieved ,24
+maintenance intermittent IV calcium boluses ,12
+Endocrinology advice required throughout admission ,0
+referral to endocrinology ,432
+TSH 5.83 mU/L ,432
+ionised calcium 1.04 mmol/L ,432
+intravenous triiodothyronine (T3) 10 µg BD commenced ,432
+intravenous calcium gluconate 4.4 mmol five times daily required ,432
+central line for IV calcium ,432
+serum phosphate 1.07 mmol/L ,432
+phosphate normal throughout admission ,432
+intravenous triiodothyronine up titrated to 40/20/40 µg daily ,900
+euthyroidism achieved ,1008
+intravenous calcitriol 1 µg alternate daily commenced ,1008
+intravenous calcitriol ceased ,1128
+intramuscular cholecalciferol 150000 units administered ,1344
+"1,25(OH)vitamin D3 31 pmol/L (prior to cholecalciferol) ",1344
+renal function normal (eGFR > 90 mL/min/1.73 m2) ,1344
+"1,25(OH)vitamin D3 29 pmol/L (3 weeks post cholecalciferol) ",1848
+still required intravenous calcium gluconate 4.4 mmol five times daily ,2160
+intravenous calcitriol 1 µg alternate daily recommenced ,2160
+intramuscular thyroxine 600 µg trialled ,2160
+intramuscular thyroxine injection painful ,2160
+intravenous thyroxine 200 µg alternate daily commenced ,2256
+calcium gluconate requirements reduced to 4.4 mmol three times per day ,2400
+maintenance schedule established (controlled hypocalcaemia and hypothyroidism) ,2400
+maintenance i.v. calcium gluconate 4.4 mmol three times per day ,2400
+maintenance i.v. calcitriol 1 µg every 2 days ,2400
+maintenance i.v. levothyroxine 200 µg every 3 days ,2400
+lost 14 kg ,3500
+recommenced oral intake ,4800
+discharged from tertiary hospital ,4896
+ionised calcium 1.23 mmol/L ,4896
+calcitriol 0.75 µg daily (on discharge) ,4896
+calcium carbonate 1200 mg orally twice daily (on discharge) ,4896
+normocalcaemia on review (6 weeks after discharge) ,5904
+normocalcaemia on review (12 weeks after discharge) ,6912
+normocalcaemia on review (4 months after discharge) ,7776
+weight 71.8 kg ,7776
+BMI 29 kg/m2 ,7776

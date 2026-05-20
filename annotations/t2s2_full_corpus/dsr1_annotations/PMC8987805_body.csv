@@ -1,0 +1,108 @@
+event,time
+53 years old,0
+male,0
+healthy,0
+no significant past medical history,0
+presented to community hospital,0
+subjective fever,-72
+chills,-72
+diffuse myalgias,-72
+productive cough,-72
+chest x-ray not completed,0
+clinically diagnosed with pneumonia,0
+prescribed Levofloxacin,0
+discharged home,0
+returned following day,24
+dyspnea,24
+nausea,24
+emesis,24
+syncope,24
+tachycardic (130 beats/min),24
+normotensive (131/98 mmHg),24
+tachypneic (22 breaths/minute),24
+oxygen saturation 99%,24
+temperature 37.1°C,24
+WBC 22 ×10^9/L,24
+troponin-T 31 ng/L,24
+CK 7910 U/L,24
+lactate 9.7 mmol/L,24
+electrocardiogram sinus tachycardia,24
+frequent PVCs,24
+suspected sepsis,24
+blood cultures drawn,24
+treatment with IV fluids,24
+treatment with Piperacillin-Tazobactam,24
+transferred to tertiary care centre,24
+heart rate 122 bpm,24
+blood pressure 111/88 mmHg,24
+respiratory rate 25 breaths/minute,24
+oxygen saturation 99%,24
+temperature 36.5°C,24
+bilateral pulmonary crackles,24
+normal heart sounds,24
+jugular venous pressure 4 cm,24
+no pedal edema,24
+mottled skin,24
+cool extremities,24
+capillary refill time 6 seconds,24
+benign abdominal exam,24
+chest radiograph unremarkable,24
+CT pulmonary angiogram,24
+no pulmonary emboli,24
+pulmonary edema,24
+NT-proBNP 8146 pg/mL,24
+consulted to Cardiology,24
+suspected decompensated heart failure,24
+cardiac TTE performed,24
+severe global hypokinesis of left ventricle,24
+ejection fraction 15-20%,24
+small pericardial effusion,24
+approached as myocarditis,24
+admitted to Cardiac ICU,24
+treated with Colchicine,24
+treated with high-dose Aspirin,24
+troponin peaked at 3871 ng/L,24
+NP swab for Influenza PCR,24
+started on Oseltamivir,24
+nasopharyngeal swab positive for Influenza B,72
+clinically stable,72
+post-admission day four dyspnea,96
+post-admission day four shortness of breath,96
+increased oxygen requirements,96
+chest x-ray right-sided airspace opacity,96
+Vancomycin added,96
+pain in forearms bilaterally,96
+CK 8321 U/L,96
+right forearm increased sensitivity,96
+right forearm firm,96
+compartment pressure 60 mmHg,96
+right forearm fasciotomy,96
+transferred to Medical-Surgical ICU,96
+hypoxemia worsened,96
+intubation,96
+heart rate 111 bpm,96
+blood pressure 86/57 mmHg,96
+MAP 67 mmHg,96
+oxygen saturation 97%,96
+temperature 37.1°C,96
+diffuse bilateral crackles,96
+elevated JVP 6 cm,96
+3+ pitting edema sacrum,96
+mottled skin,96
+cool extremities,96
+Norepinephrine started,96
+Furosemide infusion,96
+Norepinephrine discontinued,120
+repeat TTE ejection fraction 60-65%,120
+intubated on day seven,168
+Oseltamivir continued,168
+blood cultures negative,168
+repeat NP PCR positive Influenza B,240
+oliguric,240
+creatinine 416 umol/L,240
+renal failure,240
+continuous renal replacement therapy,240
+recovery of renal function,288
+extubated,288
+transferred to home hospital,336
+discharged to residence,504

@@ -1,0 +1,89 @@
+event,time
+76 years old,0
+woman,0
+metastatic lung adenocarcinoma,0
+palliative chemoimmunotherapy,0
+acute onset fevers,0
+dyspnea,0
+cough,0
+invasive ductal carcinoma of the right breast,-8760
+lumpectomy,-8760
+aromatase inhibitor,-8760
+20 pack-year tobacco use history,-306600
+ceased smoking,-306600
+recently traveled to the Southwest United States,-720
+no known occupational or environmental exposures,0
+no history of chest radiation,0
+lung cancer diagnosed,-2160
+hypoxemia on exertion,-2160
+computed tomography (CT) showed right upper lobe mass,-2160
+lung metastases,-2160
+liver metastases,-2160
+biopsy of the lung and liver revealed metastatic adenocarcinoma,-2160
+no actionable mutations on standard tumor molecular profiling,-2160
+"palliative systemic therapy with carboplatin, pemetrexed, and pembrolizumab every 21 days",-2160
+imaging after first two cycles of therapy showed stable disease,-2160
+fourth cycle of therapy,0
+fevers,0
+dyspnea on exertion,0
+cough,0
+CT angiogram of the chest showed no pulmonary embolism,0
+confluent regions of consolidation in the lungs bilaterally,0
+small left pleural effusion,0
+admitted to the intensive care unit,0
+severe hypoxemic respiratory failure,0
+PaO2/FiO2 ratio of 87,0
+treated with broad-spectrum antibiotics,0
+worsening hypoxemia on day three,72
+endotracheal intubation,72
+mechanical ventilation,72
+positive end-expiratory pressure titrated,72
+lung protective ventilation utilizing low tidal volume strategy,72
+bronchoscopy on day three,72
+thin secretions in the left lower lobe,72
+bronchoalveolar lavage studies showed neutrophilic predominance,72
+negative gram stain,72
+negative bacterial cultures,72
+negative viral cultures,72
+negative legionella cultures,72
+negative fungal cultures,72
+negative nocardia cultures,72
+negative acid-fast bacteria cultures,72
+negative aspergillus galactomannan antigen,72
+negative blood markers of infection,72
+negative urine markers of infection,72
+transthoracic echocardiogram showed mild symmetric left ventricular hypertrophy,72
+normal right ventricular size,72
+normal right ventricular systolic function,72
+no significant valvular disease,72
+no signs of increased filling pressures,72
+no atrial septal defect,72
+lung biopsy deferred due to clinical instability,72
+immune checkpoint inhibitor (ICI) pneumonitis suspected,72
+initiated intravenous methylprednisolone 2 mg/kg/day on day three,72
+day nine,216
+significant desaturations,216
+FiO2 of 0.8,216
+positive end-expiratory pressure of 10 cmH2O,216
+negative total body fluid balance,216
+concern for steroid-refractory pembrolizumab-induced pneumonitis,216
+intravenous immunoglobulin (IVIg) 2g/kg administered on days 9–13,216
+clinical and radiographic improvement,312
+extubation on day 12,288
+repeat chest CT imaging on day 12 showed improvement,288
+marked improvement in severe interstitial abnormality,288
+organizing phase of acute lung injury,288
+clinical response to immunomodulatory therapy,288
+transitioned to prednisone 1 mg/kg/day after two weeks of methylprednisolone,336
+supplemental oxygen requirement decreased,336
+weaned to oxymizer device,336
+discharged on day 23,552
+follow-up visit three weeks later,720
+oxygen needs decreased to 1.5 L per minute via nasal cannula,720
+exercise tolerance improved substantially,720
+prednisone decreased to 0.5mg/kg/day,720
+slow taper planned over 2 months,720
+re-staging CT of the torso six weeks after admission,1008
+continued improvement of left-sided infiltrate,1008
+remaining bilateral subpleural interstitial fibrotic abnormality,1008
+malignant disease burden stable,1008

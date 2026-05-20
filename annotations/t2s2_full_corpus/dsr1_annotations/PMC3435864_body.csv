@@ -1,0 +1,57 @@
+event,time
+56 years old,0
+male,0
+chronic hepatitis B,0
+abdominal distension,"-456 (July 2010 to admission time, approximated as 19 days prior)"
+hepatocellular carcinoma,0
+cirrhosis,0
+"five hypervascular lesions at segments IVa, VII, VIII",0
+splenomegaly,0
+esophageal varices,0
+no ascites,0
+ventricular septal defect,0
+left to right shunting,0
+normal chamber sizes,0
+normal left ventricular ejection fraction,0
+Child Class A liver disease,0
+serum albumin 32 g/L,0
+serum bilirubin 21 µmol/L,0
+ALT 45 IU/L,0
+AST 54 IU/L,0
+platelet count 61 × 10^9/L,0
+INR 1.2,0
+AFP 23.8 ng/mL,0
+general anesthesia,0
+fluoroscopic CT guidance,0
+RF needle placement in segment IVa,0
+RF needle deployment at 2 cm,0
+tumor ablation to 5 cm,0
+needle repositioning for medial and lateral margins,0
+CT fluoroscopy monitoring,0
+coagulation necrosis within tumor,0
+no pericardial fluid,0
+RF needle thines not retracting,0
+significant force used to retract thines,0
+expanding pericardial effusion,0
+procedure aborted,0
+immediate pericardiocentesis,0
+hemorrhagic pericardial effusion,0
+300 mL blood aspirated,0
+persistent hypotension,0
+emergency sternostomy,0
+2 liters blood evacuated,0
+puncture wound at anterior cardiac vein,0
+inflammatory changes in adjacent diaphragm,0
+anterior cardiac vein repair,0
+hemostasis secured,0
+post-surgery stability,0
+intensive care unit admission,0
+liver failure,24 (assuming deterioration began 1 day post-op)
+upper gastrointestinal bleeding,24
+pneumonia,24
+sepsis,24
+expired,456 (19 days post-event)
+hemorrhagic cardiac tamponade,0
+RFA complication,0
+diaphragm proximity of HCC,0
+charring and tissue adhesion of RF needle,0

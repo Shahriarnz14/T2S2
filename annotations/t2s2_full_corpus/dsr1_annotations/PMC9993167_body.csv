@@ -1,0 +1,108 @@
+event,time
+69 years old,0
+male,0
+treated for high-grade B-cell non-Hodgkin lymphoma,0
+developed from advanced follicular lymphoma through Richter’s transformation,0
+severe chronic ischemic heart disease,0
+arterial hypertension,0
+chronic bronchitis,0
+type 2 diabetes mellitus,0
+"three cycles of salvage immunochemotherapy with rituximab, ifosfamide, carboplatin, etoposide (R-ICE)",0
+autologous haematopoietic stem cell transplantation,0
+second cycle complicated by oropharyngeal mucositis,-672
+candida superinfection,-672
+amikacin,-672
+piperacillin/tazobactam,-672
+fluconazole,-672
+third cycle of R-ICE,-504
+pegfilgrastim support,-504
+first episode of sepsis,-336
+not participated in telemonitoring project,-336
+seventh day of third cycle of R-ICE,-168
+past 2 days,-48
+weak,-48
+diarrhoea,-48
+fever,-48
+dyspnoea,-48
+advised to go to hospital immediately,-48
+initial examination revealed signs of septic shock,-24
+hypotensive (90/57 mm Hg),-24
+tachycardic (120/min),-24
+dyspnoeic,-24
+admitted to intensive care unit (ICU),0
+neutropenia,0
+WBC count 0.68 × 109/L,0
+ANC 0.6 × 109/L,0
+CRP 120 mg/L,0
+acute kidney injury stage 1,0
+lactate acidosis (4.32 mmol/L),0
+base excess -9.8,0
+hyponatremia (133 mmol/L),0
+hypokalemia (3.2 mmol/L),0
+administered meropenem,0
+administered linezolid,0
+fluid resuscitation initiated,0
+hypotension progressed,0
+continuous infusion of norepinephrine,0
+blood cultures revealed Escherichia coli,24
+non-toxin-producing Clostridium difficile in stool,24
+CRP peaked at 286 mg/L,48
+acute kidney insufficiency stage 3,48
+continuous diuretic support,48
+bilateral opacities at lung bases,48
+co-infection,48
+ischemic damage,48
+oral candidiasis,72
+herpes labialis,72
+additional antimicrobial treatment,72
+gradual improvement until thirteenth day,312
+fever returned,312
+diarrhoea returned,312
+E. coli in blood culture,312
+C. difficile with toxin detected,312
+peripherally inserted central catheter extracted,312
+piperacillin,312
+tazobactam,312
+amikacin,312
+fidaxomicin,312
+recovered,648
+discharged after 27 days ICU hospitalization,648
+therapy succeeded,648
+changed treatment strategy to chimeric antigen receptor-T cell,648
+enrolled in telemedicine project,648
+lymphoma progressed,0
+rituximab,0
+gemcitabine,0
+oxaliplatin,0
+bridge therapy,0
+second cycle of regimen,0
+fifth day of second cycle,120
+fever (38.4°C),120
+regular morning measurement,120
+contacted by phone,120
+advised to go to hospital,120
+admitted within 3 hours,120
+diarrhoea,120
+vomiting,120
+blood pressure 189/93 mm Hg,120
+irregular tachycardia,120
+multiple ventricular extrasystoles,120
+admitted to ICU,120
+WBC 3.16 × 109/L,120
+neutrophils 2.95 × 109/L,120
+WBC decreased to 1.1 × 109/L,144
+CRP 32 mg/L,120
+CRP peaked 271 mg/L,168
+electrolytes normal,120
+renal parameters normal,120
+intravenous hydration,120
+cefepime,120
+amikacin,120
+granulocyte colony-stimulating factor,120
+blood culture E. coli sensitive,120
+recovered after 10 days,264
+discharged from hospital,264
+no complications,264
+- **Admitted to ICU,0** is the primary event with timestamp 0.
+"- Subsequent events (e.g., **CRP peak",48**) are calculated based on days post-admission.
+- **Fever,"120** detected on the fifth day of the second cycle, leading to immediate ICU admission within 3 hours (timestamp 120)."

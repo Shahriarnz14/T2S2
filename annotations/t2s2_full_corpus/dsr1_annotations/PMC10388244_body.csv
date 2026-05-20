@@ -1,0 +1,142 @@
+event,time
+47 years old,0
+male,0
+motor vehicle collision,-168
+subarachnoid hemorrhage,-168
+bilateral lung contusions,-168
+rib fractures,-168
+blunt abdominal injury,-168
+lumbar fractures,-168
+open-book pelvic fracture,-168
+abdominal CT scan,-168
+no ascites,-168
+no free gas,-168
+injury severity score 48,-168
+FAST,-72
+ascites,-72
+diagnostic paracentesis,-72
+ascites with dark green color,-72
+emergency exploratory laparotomy,-72
+mass intestinal fluid,-72
+severe edema of intestinal wall,-72
+complete rupture of jejunum,-72
+primary anastomosis,-72
+debridement,-72
+removal of ruptured jejunum (10 cm),-72
+Gram-negative sepsis,-48
+hypotension,-48
+multiple vasopressors,-48
+MODS,-48
+acute kidney injury,-48
+acute gastrointestinal injury,-48
+hyperbilirubinemia,-48
+hepatic dysfunction,-48
+transferred to trauma referral center,-48
+comatose,0
+Glasgow coma scale score 2T1,0
+shock,0
+heart rate 125 beats/min,0
+mean arterial pressure < 70 mmHg,0
+norepinephrine 1.2 mg·kg−1·min−1,0
+acidotic,0
+pH 7.25,0
+base excess −6.55 mEq/L,0
+lactic acid 3.92 mmol/L,0
+peritonitic,0
+skin and sclera yellow,0
+admitted to TICU,0
+salvage resuscitation,0
+hemodynamic monitoring,0
+abdominal examinations,0
+serial laboratories,0
+imaging,0
+organ support,0
+digestive juice-like fluid drained,0
+hemoglobin 78 g/L,0
+red-cell count 2.7 × 1012/L,0
+white-cell count 17.3 × 109/L,0
+platelet count 190 × 109/L,0
+prothrombin time 20 s,0
+activated partial thromboplastin time 50 s,0
+INR 3.12,0
+C-reaction protein 289.3 mg/L,0
+procalcitonin 10.7 ng/mL,0
+interleukin-6 826 ng/L,0
+albumin 26 g/L,0
+total bilirubin 391.5 μmol/L,0
+direct bilirubin 284.1 μmol/L,0
+indirect bilirubin 58.7 μmol/L,0
+ALT 35 U/L,0
+AST 58 U/L,0
+FAST mild ascites,0
+CT extensive exudation,0
+dilated proximal jejunum,0
+multiple orthopedic injuries,0
+DCS,0
+hemodynamic instability,0
+MODS,0
+continuous renal replacement therapy,48
+bilirubin adsorption,48
+AKI,48
+hyperkalemia,48
+negative pressure irrigation tubes,48
+passive drainage,48
+broad-spectrum antibiotics,48
+DCL,48
+temporary abdominal closure,48
+intestinal fluid in abdominal cavity,48
+small intestinal edema,48
+entire rupture of primary anastomosis,48
+TDE created,48
+postoperative transfer to TICU,48
+bioelectrical impedance analysis-directed fluid restriction,72
+continuous renal replacement therapy with ultrafiltration,72
+net negative fluid balance,72
+bedside dressing change every 2 days,72
+failed primary fascial closure,72
+split-thickness skin grafting,1872
+open abdomen covered,1872
+high risk of malnutrition,0
+NRS 2002 score 6,0
+indirect calorimetry,0
+resting energy expenditure 1850 kcal/day,0
+respiratory quotient 1.00,0
+protein provision 1.2–2.0 g/kg/day,0
+EN initiated,120
+proximal portion EN (glucose sodium chloride),120
+nasogastric tube,120
+stoma fluid outflow,144
+EN changed to short peptide formula,144
+jejunal feeding tube inserted,144
+chyme reinfusion,144
+methylene blue injection,144
+intestinal fistula excluded,144
+chyme collected,192
+chyme reinfusion via enteral feeding pump,192
+total CR amount calculated,192
+hermetic device,192
+trained nursing staff,192
+bile drained from gallbladder,192
+bilirubin adsorption twice,192
+rapid rise in bilirubin,192
+total bilirubin decreased,192
+direct bilirubin decreased,192
+yellowing of skin and sclera relieved,192
+distal portion EN,216
+short peptide formula,216
+ivejoint on connecting tube,216
+enteral glutamine,216
+EN dosage increased,216
+maximum 2400 kcal/2400 mL,216
+protein increased to 144 g,288
+standard EN formula,480
+weight gain,480
+laboratory values normalized,480
+discharged to orthopedic department,2280
+home EN,2280
+home CR,2280
+staged reconstruction,4320
+jejunal feeding tube removed,4320
+anastomosis of TDE,4320
+abdominal wall reconstruction,4320
+discharged with regular diet,4320

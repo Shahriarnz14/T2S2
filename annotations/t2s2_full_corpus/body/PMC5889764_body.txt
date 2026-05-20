@@ -1,0 +1,39 @@
+Key Points
+
+Topical lidocaine and other commonly used local anesthetics have a poorly recognized though well-associated risk of acquired methemoglobinemia.	
+Acquired methemoglobinemia should be considered in any patient with a divergence in measured oxygen saturation and arterial oxygen partial pressure.	
+Intravenous methylthioninium chloride (1% solution at 1 mg/kg) acts as a rapid iron-reducing agent and is the most effective therapy for acquired methemoglobinemia.	
+
+
+
+Background
+Methemoglobin is formed when ferrous iron (Fe2+) undergoes oxidation to produce ferric iron (Fe3+), which is unable to bind oxygen [1]. Under circumstances of oxidative stress, or when exposed to oxidizing agents, the body’s protective mechanisms may not be able to maintain hemoglobin homeostasis, and methemoglobin levels can rise above the upper reference range of 2%. The pathologic effects of this process include (1) a shift of the oxygen–hemoglobin dissociation curve to the left, resulting in decreased release of oxygen to the tissue, a phenomenon known as the Darling–Roughton effect; and (2) functional anemia due to the inability of methemoglobin to bind oxygen, ultimately resulting in the disease state known as methemoglobinemia [1]. The primary risk of methemoglobinemia is tissue hypoxia and cyanosis, which can lead to acidosis, seizures, arrhythmias, and—if prolonged—cardiovascular collapse and death. Classic features of methemoglobinemia include a characteristically brown coloration to the arterial blood, a large difference in the measured and calculated oxygen saturations (O2sat) (known as the saturation gap), and low measured O2sat in the setting of normal to elevated oxygen partial pressures (PaO2) [2]. These risks are increased in the setting of preexisting anemia, when the body’s oxygen-carrying capacity is already reduced [3].
+
+Objective
+Our objective is to alert clinicians, pharmacists and other medical care providers to methemoglobinemia, a rare but well-documented side effect of local anesthetics commonly encountered on medical wards.
+
+Case
+A 55-year-old male with a history of multiple myeloma (MM), previous stem cell transplant and recurrence of disease presented to the hospital. He had recently started treatment of relapsed MM with carfilzomib and had developed intermittent fevers 2 days before presentation. He also complained of dyspnea and a productive cough, which had been present for 3 days before the onset of fever. On admission examination, he was febrile, tachypneic, and tachycardic but alert and fully oriented with a normal blood pressure. He had decreased breath sounds in the right lung base, without rales or wheezing, and the rest of his examination was unremarkable. His initial laboratory analysis was notable for pancytopenia with a white blood cell count of 1.2 × 109/l, hemoglobin of 53 g/l and platelets of 4.0 × 109/l. He was admitted to the hospital and treated with cefepime and azithromycin for presumed pneumonia; further home medications continued during admission included acyclovir, allopurinol, fluconazole and pantoprazole. Shortly after admission, he developed new-onset hypoxia and hypotension with altered mental status. He was transferred to the medical intensive care unit, where laboratory analysis revealed a lactic acid of 6.1 mMol/l and an initial arterial blood gas (ABG) returned a pH of 7.40, carbon dioxide partial pressure (PaCO2) of 3.3 kPa, PaO2 of 11.3 kPa, and measured O2sat of 94%. During an intubation procedure, the patient was treated with topical endobronchial lidocaine (4% gel applied with tongue blade) as well as intravenous etomidate and succinylcholine. Roughly 2 h post-intubation, he became increasingly hypoxic while on 100% fraction of inspired oxygen (FiO2). A repeat ABG was notably brownish in color (Fig. 1a) and returned a pH of 7.21, PaCO2 of 3.3 kPa, PaO2 of 55.1 kPa, and measured O2sat of 49%. Co-oximetry was requested given the divergence in PaO2 and O2sat, which revealed a methemoglobin level of 53%. Intravenous methylthioninium chloride (a dose of 1% solution at 1 mg/kg) was delivered and subsequent ABGs, at 30 min and 1 h post administration, showed methemoglobin levels of 12 and 9%, respectively, with return of O2sat to > 90% and bright red coloration to the ABG sample (Fig. 1b). Figure 2 shows a detailed timeline of these events. Unfortunately, despite recovering from acute methemoglobinemia, the patient ultimately succumbed to septic shock secondary to bacteremia with Rothia mucilaginosa.Fig. 1 Arterial blood gas (ABG) sample in a patient with acquired methemoglobinemia a before and b after treatment with methylthioninium chloride. ICU intensive care unit, IV intravenous
+
+
+Fig. 2 Timeline of events
+
+
+
+Discussion
+The most common cause of acquired methemoglobinemia in the clinical setting is medication administration. Although rare, methemoglobinemia secondary to local and topical lidocaine administration has been documented and described in the medical literature; whether endobronchial application increases this risk is unknown [4]. Reports in the literature describe a greater risk of methemoglobinemia in patients who are anemic; the mechanism is thought to be related to increased hypoxic stress and nitric oxide production [3]. Pre-existing anemia may place patients at greater risk of complications from methemoglobinemia, further necessitating prompt recognition and intervention. Treatment of methemoglobinemia includes withdrawal of the offending agent (including removal of any remaining topical applicant), supportive care with 100% O2 therapy and circulatory support, as well as reversal of methemoglobin back to hemoglobin. The final therapy is generally accomplished through the administration of methylthioninium chloride (1% solution at 1 mg/kg), which acts as a reducing agent, converting Fe3+ to Fe2+ [1]. This process normally occurs rapidly over the course of 30–60 min and can be confirmed through repeat co-oximetry. Ascorbic acid has also been used, though this therapy generally takes much longer and is not a viable option in the setting of acute, acquired methemoglobinemia [1].
+
+Conclusion
+This case highlights the clinical and laboratory features of methemoglobinemia, a well-described though rare and poorly recognized side effect of topical lidocaine administration. Early recognition of methemoglobinemia is of primary importance, as the condition is rapidly reversible with correct treatment but can be serious and even fatal if left untreated; these risks may be enhanced in the setting of preexisting anemia.
+
+Funding
+No sources of funding were used to conduct this study or prepare this manuscript.
+
+Author Contributions
+All authors contributed equally to the drafting, editing and completion of the manuscript.
+
+Conflict of interest
+Hawkins C. Gay and Ansel Philip Amaral have no conflicts of interest that are directly relevant to the content of this case study.
+
+Consent to participate
+Informed consent was obtained from the patient’s spouse for publication of this case report. A copy of the written consent may be requested from the corresponding author for review.

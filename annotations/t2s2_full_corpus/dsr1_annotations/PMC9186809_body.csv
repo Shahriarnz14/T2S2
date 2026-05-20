@@ -1,0 +1,81 @@
+event,time
+68 years old,0\
+woman,0\
+jaundice,-72\
+general weakness,-72\
+fatigue,-72\
+decreased appetite,-72\
+icteric sclera,0\
+no abnormal findings on physical examination,0\
+normal vital signs,0\
+acute bronchitis,-168\
+administered tranexamic acid (250 mg),-168\
+administered N-acetylcysteine (200 mg),-168\
+administered dihydrocodeine,-168\
+administered azithromycin (250 mg),-168\
+no history of allergic diseases,0\
+denied alcohol consumption,0\
+denied smoking,0\
+"white blood cell count 9,100/mm3",0\
+hemoglobin level 13.7 g/dL,0\
+"platelet count 149,000/mm3",0\
+"aspartate aminotransferase level 1,631 IU/L",0\
+"alanine aminotransferase level 1,711 IU/L",0\
+total bilirubin level 24.20 mg/dL,0\
+direct bilirubin level 14.99 mg/dL,0\
+alkaline phosphatase level 226 IU/L,0\
+gamma-glutamyl transferase level 232 U/L,0\
+total protein concentration 5.3 g/dL,0\
+albumin level 3.1 g/dL,0\
+blood urea nitrogen level 6.4 mg/dL,0\
+creatinine level 0.5 mg/dL,0\
+sodium concentration 142 mmol/L,0\
+potassium concentration 3.7 mmol/L,0\
+amylase level 29 IU/L,0\
+lipase level 53 IU/L,0\
+ammonia concentration 163 μMol/L,0\
+prothrombin time 37.5 seconds,0\
+partial thromboplastin time 55.9 seconds,0\
+high sensitivity C-reactive protein level 0.932 mg/dL,0\
+negative hepatitis A virus IgM,0\
+negative hepatitis B surface antigen,0\
+negative anti-HCV,0\
+negative Epstein-Barr virus IgM,0\
+negative cytomegalovirus IgM,0\
+negative CMV PCR,0\
+positive HSV-IgM (1.4),0\
+positive HSV-IgG (23.5),0\
+negative Toxoplasma IgM,0\
+negative HIV,0\
+negative antinuclear antibody,0\
+negative anti-mitochondrial antibody,0\
+negative anti-smooth muscle antibody,0\
+negative liver kidney microsomal antibody,0\
+IgG serum level 774.6 mg/dL,0\
+CT liver normal findings (pre-azithromycin),-168\
+periportal edema,0\
+gallbladder wall edema,0\
+small amount of ascites,0\
+suspected azithromycin-induced liver injury,0\
+discontinued all medications,0\
+RUCAM score azithromycin 7 (probable),0\
+RUCAM scores tranexamic acid 4 (possible),0\
+RUCAM scores N-acetylcysteine 4 (possible),0\
+RUCAM scores dihydrocodeine 4 (possible),0\
+R value >5 (hepatocellular type),0\
+diagnosis azithromycin-induced liver injury,0\
+diagnosis acute liver failure,0\
+received medical treatment,0\
+worsening laboratory values,0\
+flapping tremor,72\
+decreased consciousness (drowsiness),72\
+hepatic encephalopathy,72\
+semi-coma,192\
+emergency living donor liver transplantation,192\
+gradual recovery of consciousness,216\
+gradual recovery of liver function,216\
+discharged from hospital,480\
+alive and asymptomatic after 25 months,17520\
+histological examination: fulminant hepatitis,192\
+histological examination: zone 3 necrosis,192\
+histological examination: extensive hepatocyte death,192\

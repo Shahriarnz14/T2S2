@@ -1,0 +1,65 @@
+event,time
+65-year-old female,-17520
+parkinsonism (known case for 2 years),-17520
+diabetes mellitus (known case for 2 years),-17520
+levodopa/carbidopa (started 2 years ago),-17520
+rasagiline (started 2 years ago),-17520
+ropinirole (started 2 years ago),-17520
+trihexyphenidyl (started 2 years ago),-17520
+amantadine (started 2 years ago),-17520
+metformin (started 2 years ago),-17520
+glipizide (started 2 years ago),-17520
+multiple hospital and ICU admissions for worsening parkinsonism (prior),-24
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+cellulitis,0
+clindamycin (intravenous),0
+benzylpenicillin (intravenous),0
+continued anti-parkinsonism drugs (on admission),0
+persistently high temperature spikes,72
+tachycardia,72
+tachypnea,72
+hypotension,72
+encephalopathy,72
+shifted to ICU,72
+linezolid (started),72
+piperacillin with tazobactam (started),72
+vancomycin was not considered,72
+hemodynamics improved with minimal inotropic supports,72
+continued anti-parkinsonism drugs (in ICU),72
+stopped oral hypoglycemic agents,72
+switched to insulin,72
+confused,72
+drowsy,72
+disoriented,72
+altered sensorium,72
+myoclonus,72
+tremors,72
+jerky movements,72
+no neck stiffness,72
+improving white blood cell counts,96
+better glycemic control,96
+blood and pus cultures were sterile,96
+high temperature of 103°F,96
+altered mental status,96
+myoclonus,96
+jerky movements,96
+tremors,96
+no other drugs were added,96
+serotonin syndrome was suspected,96
+probable adverse drug reaction of linezolid,96
+Naranjo score of six,96
+stopped rasagiline,96
+stopped linezolid,96
+temperature settled,104
+heart rate was normal,120
+sensorium improved,120
+tremors completely subsided,120
+shifted out of ICU,144
+started walking with support,240
+discharged from the hospital,240
+patient was discharged with anti-parkinsonism drugs,240
+later added rasagiline,336
+stable and remained asymptomatic for serotonin syndrome,336

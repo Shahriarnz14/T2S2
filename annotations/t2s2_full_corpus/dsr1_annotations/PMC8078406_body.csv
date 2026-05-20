@@ -1,0 +1,68 @@
+event,time
+63 years old,0
+male,0
+admitted to a community hospital,0
+respiratory distress,0
+chronic obstructive pulmonary disease,0
+COPD,0
+community-acquired pneumonia,0
+COPD exacerbation,0
+IV moxifloxacin,0
+corticosteroids,0
+respiratory state deteriorated,0
+intubated,0
+ICU admission,-336
+difficult respiratory weaning,0
+antibiotic spectrum widened,0
+IV moxifloxacin ceased,192
+IV ciprofloxacin introduced,192
+piperacillin-tazobactam introduced,192
+hypotensive,192
+feverish,192
+hemocultures negative,192
+cerebral CT scan unremarkable,192
+thoracic CT scan unremarkable,192
+abdominal CT scan unremarkable,192
+cardiac ultrasound unremarkable,192
+sepsis of unknown origin,192
+IV vancomycin introduced,360
+piperacillin-tazobactam substituted to meropenem,456
+fluconazole introduced,456
+vancomycin concentration reached 36.7 mg/L,456
+oligoanuric acute kidney injury progressing,360
+serum creatinine 409 μmol/L,432
+aggressive fluid administration,360
+serum creatinine 451 μmol/L,456
+IV vitamin C 1500 mg every 6 hours,456
+IV hydrocortisone 100 mg every 6 hours,456
+IV thiamine 200 mg every 12 hours,456
+transferred to facility,528
+renal replacement therapy,528
+urea 87.4 mmol/L,528
+creatinine 650 μmol/L,528
+estimated GFR 7 mL/min,528
+microscopic hematuria,528
+significant proteinuria,528
+calcium oxalate crystals in urine sediment,528
+urinary sodium 95 mmol/L,528
+urinary creatinine 5754 μmol/L,528
+serum sodium 147 mmol/L,528
+serum creatinine 650 μmol/L,528
+serum vitamin C 1026 μmol/L,528
+anti-glomerular basement membrane antibodies negative,528
+perinuclear ANCA negative,528
+proteinase 3 ANCA negative,528
+antibiotics withheld,528
+continuous RRT initiated,528
+renal biopsy acute tubular damage,528
+intratubular translucent crystals,528
+calcium oxalate crystals,528
+no interstitial fibrosis,528
+no tubular atrophy,528
+glomeruli ischemic changes,528
+discrete intimal fibrosis,528
+immunofluorescence study negative,528
+required RRT for several weeks,528
+full renal recovery,528
+physical rehabilitation,528
+returned home,528

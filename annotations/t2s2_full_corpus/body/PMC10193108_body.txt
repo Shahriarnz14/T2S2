@@ -1,0 +1,60 @@
+pmcIntroduction
+
+The coronavirus disease 2019 (COVID-19) has been unpredictably damaging—more than 680 million global cases and 6 million deaths by the end of January 2023 [1]. Many different complications of this disease other than pneumonia also played a role in the development of serious consequences. Myocardial infarction, pulmonary embolism, and venous and arterial thrombosis were the most important complications. Prevention strategies have been made possible by the recent development of messenger RNA (mRNA) vaccines (BNT162b2 and mRNA-1273) and adenovirus vector vaccines (ChAdOx1nCoV-19). On the other hand, COVID-19 vaccination was associated with thromboembolic events in some patients [2]. Although vaccine-induced thrombotic thrombocytopenia (VITT) was mostly found to be the cause of thromboembolic events, a different pathway that causes thrombosis was also observed [3]. While VITT was mostly seen as a side effect in the ChAdOx1nCoV-19 (Oxford-AstraZeneca; AstraZeneca, Cambridge, UK) vaccine, the BNT162b2mRNA COVID-19 (Pfizer-BioNTech; Pfizer, New York, NY, USA) vaccine causes thrombosis through a different pathway with association endothelial glycocalyx. COVID-19 itself can make thrombosis by many mechanisms and this has been called COVID-associated coagulation. The spike protein can competitively inhibit the binding of antithrombin and heparin cofactor II to heparan sulfate of the endothelial glycocalyx, causing increased thrombogenicity [4].
+
+The case I presented had extensive atherosclerosis. Active infection and vaccination occurred simultaneously in the patient. In the event that COVID-19 and the vaccination coincide, it is anticipated that there will be a rise in thromboembolic events. However, the exact degree of its extremeness cannot be predicted. There is limited information in the literature regarding patients who were vaccinated in the presence of an unknown active infection. I aimed to present a rare case on this subject and discuss possible vaccine complications.
+
+Case Report
+
+The patient provided written informed consent for the publication of the research details and clinical images.
+
+A 63-year-old female smoker with the chronic obstructive pulmonary disease was brought to the emergency department with dyspnea and dysphasia. It was also stated that the patient was vaccinated by 3rd dose of BNT162b2mRNA 15 days ago and the test performed reverse transcription (RT) severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) polymerase chain reaction (PCR) in the evening on the same day was positive. Percutaneous transluminal angioplasty was performed on the patient on the 8th day of vaccination due to the left anterior tibial posterior occlusion. When the patient was admitted to our emergency department, the patient was conscious but not cooperative, and lower extremity pulses could not be obtained. A physical examination showed that her arterial blood pressure was 120/60 mm Hg, her heart rate was 120/min, her respiratory rate was 24/min, her body temperature was 36.5℃, and her O2 saturation was 90%. Twelve-lead electrocardiography (ECG) showed sinus tachycardia with no significant ST-segment or T-wave changes. Diffuse atherosclerosis and many thrombotic events were detected in the patient.
+
+Brain magnetic resonance imaging revealed multiple embolic infarcts in the left temporal and bilateral frontal lobes (Fig. 1). On carotid Doppler ultrasonography, the stenosis of bilateral internal carotid arteries was less than 50%. Chest computed tomography angiography (CTA) revealed embolism in the right lower lobe and segmental pulmonary artery branches and minimal consolidation area in the left lung lower lobe (Fig. 2). Echocardiography showed pericardial effusion (pericarditis), and left ventricular ejection fraction was 60%. Upper extremity Doppler ultrasonography showed acute thrombosis of the ulnar vein in the proximal right upper extremity. In lower extremity CTA, the crural artery circulation could not be clearly defined (Fig. 3). Subacute deep vein thrombosis in the bilateral main femoral vein was seen on lower extremity Doppler ultrasonography.
+
+The patient was admitted to the intensive care unit, and non-invasive mechanical ventilation support was applied. The pleural fluid was drained through the catheter. Enoxaparin sodium 6,000 IU was administered twice a day. Treatment consisted of iloprost and asetilsalisilik asit. The cardiologist, pulmonologist, and neurologist recommended continuing anticoagulant therapy. The patient’s D-Dimer was high but platelets were normal (Table 1). Since she is over 50 years, she was not tested for hereditary coagulation disorders. Our patient presented with thrombosis only, and his platelet count remained within the normal range. We did not test for PF4 antibodies as a previous study concluded that PF4 antibodies alone may not be specific [5]. Vasculitis markers (antinuclear antibody, anti-double stranded DNA, perinuclear anti-neutrophil cytoplasmic antibodies) were found to be negative. Suspecting a cardiac source of embolization, the patient underwent echocardiography and prolonged ECG, both resulting in normal. The cardiovascular surgeon stated that there was acute arterial thrombosis and necrosis in both lower extremities. Both lower extremities of the patient were amputated below the knee by the orthopedic physician. Afterwards, the patient, who did not need intensive care support, was transferred to the service. She was discharged home from the ward but was readmitted to another hospital 2 days later. She died on the 13th day of his hospitalization there.
+
+Discussion
+
+In our case, many thrombotic complications (stroke, pulmonary embolism, deep vein thrombosis in the upper and lower extremities, acute arterial occlusion in both lower extremities) and non-thrombotic complications (pleural effusion, pericarditis) developed simultaneously. Apart from the excessive complications, the fact that embolic stroke of an undetermined source also makes the case rare. The coexistence of COVID-19, vaccination, and atherosclerosis makes it difficult to understand which one played the most role in our case. We thought that active infection played a lesser role because C-reactive protein decreased and RT-PCR was negative after hospital admission, pneumonic infiltration did not progress in chest computed tomography follow-ups. In addition, the patient did not need respiratory support much. Thrombosis in an unusual region has been found to be mostly associated with VITT in the literature, but there are also cases of thrombosis with vaccine side effects without VITT [6]. SARS-CoV-2 spike protein-induced coagulopathy may also provide a potential explanation also for rare episodes of thrombosis reported post-vaccination. The encoded spike protein and associated inflammatory responses may induce endothelial damage and shedding of glycosaminoglycans. COVID-19 vaccination elicits an inflammatory response similar to the condition seen in sepsis, reducing the vascular anti-thrombogenicity potentially as a host response that developed to prevent the pathogen dissemination [7]. Although the vaccine side effect is considered in the foreground, the coexistence of atherosclerosis and COVID-19 may also have increased the worsening.
+
+Studies have shown that COVID-19 has a higher risk of thrombosis than the vaccine [2]. The coexistence of COVID-19 with widespread atherosclerosis may explain atypical thrombosis such as those seen after vaccination.
+
+The main thing is that when these three conditions coincide, they expose the patient to a bombardment of thrombosis that will lead to disaster. We know how aggressive COVID-19 is in terms of thrombosis, apart from respiration. This fact shows us how far this can be taken in some cases.
+
+It may also help us reconsider anticoagulant therapy. Thrombosis has been detected after some antiviral vaccines, but anticoagulant therapy is uncertain due to limited data [8]. We give effective anticoagulant therapy in the presence of COVID-19 in patients at risk of thrombosis. Can individuals at risk for thrombosis be given anticoagulant treatment after vaccination, as in the case I have presented? It looks like we will continue to work on this and many more, as COVID-19 is a part of our lives.
+
+Fig. 1 Brain magnetic resonance imaging showing infarct areas.
+
+Fig. 2 The sign indicates thrombus in the branches of the pulmonary artery (arrowhead).
+
+Fig. 3 Intravenous contrasted computed tomography scan showing filling defect (arrowheads).
+
+Table 1 Blood gas analysis, biochemical parameters, and whole blood counts of the patients
+
+Parameters	Results	Reference range	
+Red blood cell (106/μL)	3.31	4–5.77	
+White blood cell (103/μL)	18.5	4–10.3	
+Neutrophil%	84.7	41–73	
+Lymphocyte%	5.9	19.4–44.9	
+Monocyte%	9.2	5.1–10.9	
+Hemoglobin (g/dL)	8.8	12–16	
+Hematocrit (%)	28	36–46	
+Platelet (103/μL)	183	156–373	
+Mean platelet volume (fL)	9.6	6.9–10.8	
+Glucose (mg/dL)	92	72–100	
+Creatinine (mg/dL)	0.56	0.6–1.1	
+Alanine transaminase (U/L)	34	30–50	
+C-reactive protein (mg/L)	218	0.2–5	
+International normalized ratio	1.03	0.8–1.2	
+Activated partial thromboplastin time (sec)	29.2	25.9–36.6	
+D-dimer (μg/mL)	19.03	0–0.55	
+Fibrinogen (g/L)	3.54	1.8–3.5	
+Brain natriuretic peptide (pg/mL)	248	0–100	
+PH	7.428	7.32–7.42	
+pCO2 (mm Hg)	41	35–45	
+pO2 (mm Hg)	68	83–108	
+O2 saturation (%)	94	95–95	
+HCO3 (mmol/L)	26.9	21–31	
+
+No potential conflict of interest relevant to this article was reported.

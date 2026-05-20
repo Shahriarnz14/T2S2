@@ -1,0 +1,153 @@
+event,time
+76 years old,0
+female,0
+end-stage kidney disease,0
+Lambda Light Chain Multiple Myeloma,0
+diagnosed November 2019,-3648
+fatigue,-3648
+bone pain,-3648
+weight loss (22 Kg),-3648
+hemodialysis since February 2019,-9672
+International Staging System III,0
+Durie Salmon stage IIIB,0
+Systemic Arterial Hypertension,0
+Glucose Intolerance,0
+Myeloma Frailty Score: 3,0
+Bortezomib,0
+Dexamethasone,0
+hypercalcemia,0
+anemia,0
+renal impairment,0
+lytic lesions,0
+admitted to emergency service April 21st 2020,-120
+confusion,-120
+hip pain,-120
+respiratory distress,-96
+COVID-19 diagnosis April 24th 2020,-96
+nasal swab RT-PCR positive,-96
+plasmacytoma in left hip,0
+mild symptoms,0
+clinical support,0
+transfusion support,0
+pain control,0
+Ceftriaxone,0
+Vancomycin,0
+discharged April 28th 2020,168
+RT-PCR test May 11th,408
+partial recovery,408
+sporadic delirium,408
+radiotherapy,0
+Daratumumab monotherapy started August 07th 2020,2592
+second Daratumumab infusion delayed,2592
+chills,2592
+tremors on hemodialysis,2592
+recovered symptoms,2592
+negative blood culture,2592
+Daratumumab infused,2592
+dyspnea,2664
+acute respiratory failure,2664
+hypoxemia,2664
+COVID-19 positive August 28th 2020,2664
+nasal swab RT-PCR confirmed,2664
+negative SARS-COV-2 IgG and IgM,2664
+family members infected,2664
+Shilley catheter-related bloodstream infection,2664
+Pseudomonas aeruginosa,2664
+extended spectrum beta-lactamase,2664
+Meropenem,2664
+Vancomycin,2664
+Dexamethasone,2664
+catheter exchanged,2664
+clinical stability,2664
+worse chest CT,2664
+febrile event September 17th,4728
+Polymixicin,4728
+Linezolid,4728
+RT-PCR undetectable September 18th,4752
+hemodynamic instability September 20th,4800
+refractory septic shock,4800
+Klebsiella pneumonia,4800
+carbapenemase,4800
+intensive care,4800
+mechanical ventilation,4800
+high-dose vasoactive drug,4800
+death September 23rd,5064
+complications related to COVID-19,5064
+"Next, admission to emergency on April 21, 2020 (timestamp 0). She had confusion and hip pain at admission (timestamp 0). Then, four days later (April 24th), respiratory distress and COVID-19 diagnosis. Four days is 96 hours, so timestamp +96. But since admission is timestamp 0, April 24th is +72 hours (3 days later). Wait, April 21 to April 24 is 3 days, 72 hours. But the report says ""after four days"" from admission (April 21), so April 25? Wait, April 21 admitted, April 24 is 3 days later. The report says ""after four days, she presented respiratory distress and COVID-19 was diagnosed on April 24th."" Wait, that's conflicting. If admitted on April 21, four days later would be April 25. But the report says diagnosed on April 24. Hmm. Maybe a typo. Assuming it's three days later (April 24), the timestamp is +72. The assistant has -96 for COVID-19 diagnosis April 24th, which would be 96 hours before admission, but that can't be. Wait, no—the admission is April 21 (timestamp 0). The COVID-19 diagnosis is on April 24, which is three days after admission, so timestamp +72. However, the assistant's answer lists ""COVID-19 diagnosis April 24th 2020","-96"". That would imply the diagnosis was 96 hours before admission, which is incorrect. This seems like a mistake. The correct timestamp for COVID-19 diagnosis on April 24 (3 days after admission) should be +72."
+"Looking at the assistant's answer, they have ""admitted to emergency service April 21st 2020","-120"". Wait, that can't be right. The admission on April 21st should be timestamp 0. But the assistant has it at -120. That suggests they considered a different anchor. Maybe they took the first COVID-19 diagnosis (April 24) as timestamp 0? Let me re-examine the case."
+"Then, 17 days after the first positive swab (April 24), which would be May 11. 17 days is 408 hours, so timestamp +408. The assistant includes this as RT-PCR test May 11th",408.
+"The second COVID-19 episode is on August 28th, 2020. From admission on April 21 to August 28 is 129 days. 129*24=3096 hours. So the timestamp would be +3096. However, the assistant lists ""COVID-19 positive August 28th 2020","2664"". 2664/24=111 days, which is about 3.7 months. April 21 to August 28 is 4 months and 7 days, which is about 129 days. So 2664 would be 111 days, which is inconsistent. Perhaps the assistant calculated from a different anchor. Wait, maybe they considered the discharge date (April 28) as a reference? No, the main admission is April 21. Alternatively, the assistant might have made a calculation error here. August 28 is 129 days after April 21. 129*24=3096 hours, so timestamp +3096. But the assistant has +2664 (111 days). That's a discrepancy. This suggests a mistake in the assistant's calculation."
+76 years old,0
+female,0
+end-stage kidney disease,0
+Lambda Light Chain Multiple Myeloma,0
+diagnosed November 2019,-3648
+fatigue,-3648
+bone pain,-3648
+weight loss (22 Kg),-3648
+hemodialysis since February 2019,-9672
+International Staging System III,0
+Durie Salmon stage IIIB,0
+Systemic Arterial Hypertension,0
+Glucose Intolerance,0
+Myeloma Frailty Score: 3,0
+Bortezomib,0
+Dexamethasone,0
+hypercalcemia,0
+anemia,0
+renal impairment,0
+lytic lesions,0
+admitted to emergency service April 21st 2020,0
+confusion,0
+hip pain,0
+respiratory distress,72
+COVID-19 diagnosis April 24th 2020,72
+nasal swab RT-PCR positive,72
+plasmacytoma in left hip,0
+mild symptoms,72
+clinical support,72
+transfusion support,72
+pain control,72
+Ceftriaxone,72
+Vancomycin,72
+discharged April 28th 2020,168
+RT-PCR test May 11th,480
+partial recovery,480
+sporadic delirium,480
+radiotherapy,0
+Daratumumab monotherapy started August 07th 2020,2592
+second Daratumumab infusion delayed,2664
+chills,2664
+tremors on hemodialysis,2664
+recovered symptoms,2664
+negative blood culture,2664
+Daratumumab infused,2664
+dyspnea,2760
+acute respiratory failure,2760
+hypoxemia,2760
+COVID-19 positive August 28th 2020,3096
+nasal swab RT-PCR confirmed,3096
+negative SARS-COV-2 IgG and IgM,3096
+family members infected,3096
+Shilley catheter-related bloodstream infection,3096
+Pseudomonas aeruginosa,3096
+extended spectrum beta-lactamase,3096
+Meropenem,3096
+Vancomycin,3096
+Dexamethasone,3096
+catheter exchanged,3096
+clinical stability,3096
+worse chest CT,3096
+febrile event September 17th,3528
+Polymixicin,3528
+Linezolid,3528
+RT-PCR undetectable September 18th,3552
+hemodynamic instability September 20th,3600
+refractory septic shock,3600
+Klebsiella pneumonia,3600
+carbapenemase,3600
+intensive care,3600
+mechanical ventilation,3600
+high-dose vasoactive drug,3600
+death September 23rd,3672
+complications related to COVID-19,3672

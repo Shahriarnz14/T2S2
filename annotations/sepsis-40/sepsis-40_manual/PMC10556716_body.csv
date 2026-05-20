@@ -1,0 +1,98 @@
+event,time
+85-year-old,0
+man,0
+transferred from the geriatric medicine unit,0
+rehabilitation unit,0
+intensive treatment,0
+sequelae of C. tetani infection,0
+farmer leading an active lifestyle,0
+history of atrial fibrillation (AF),0
+history of benign prostatic hypertrophy,0
+admitted to a local hospital,-1461
+trismus,-1461
+hypertonia,-1461
+injuring his leg while working on his farm,-1461
+treatment with immunoglobulins,-1461
+tetanus vaccination,-1461
+metronidazole for ten days,-1461
+transferred to our intensive care unit (ICU),-1461
+tracheostomy,-1461
+mechanical ventilation,-1461
+vasoactive support owing to respiratory failure,-1461
+seizures,-1461
+baclofen,-1461
+midazolam,-1461
+diazepam,-1461
+Electroencephalography,-1461
+severely slow cerebral activity,-1461
+worsening respiratory function,-1461
+opacity on chest radiography,-1461
+peripheral leukocytosis,-1461
+blood cultures sent,-1461
+tracheal secretion samples were sent,-1461
+tracheal secretions tested positive for Klebsiella pneumoniae,-1461
+tracheal secretions tested positive for methicillin-sensitive Staphylococcus aureus (MSSA),-1461
+piperacillin-tazobactam was prescribed,-1461
+moved to a geriatric unit,-1461
+in a coma,-1461
+breathed spontaneously on 4 L/min of supplemental oxygen,-1461
+tracheal cannula,-1461
+antibiotic therapy was switched to linezolid,-1368
+VAP exacerbation,-1368
+combined treatment with meropenem,-1368
+septic shock occurred,-1368
+gradually awoke,-1368
+feeding tube was removed,-1368
+developed cholestasis,-1368
+acute edematous pancreatitis,-1368
+endoscopic treatment got postponed,-1368
+spontaneous recovery,-1368
+Urinary tract infection,-1368
+multidrug-resistant organisms (MDROs) K. pneumoniae,-1368
+Acinetobacter baumannii,-1368
+Enterococcus faecalis,-1368
+treated with colistin,-1368
+treated with amoxicillin-clavulanate,-1368
+MDRO isolation,0
+required tracheal supplemental oxygen (1 L/min),0
+bladder catheter,0
+developed pressure ulcers,0
+sarcopenic,0
+low handgrip strength,0
+appendicular skeletal mass,0
+underwent rehabilitation,24
+good compliance,24
+Clostridioides difficile infection occurred,24
+oral vancomycin was prescribed,24
+AF with a third-degree atrioventricular block,72
+no secondary bradyarrhythmia,72
+transferred to our hospital’s cardiac ICU,72
+pacemaker implantation,72
+hyperkinetic delirium,72
+transferred to our hospital,120
+Pseudomonas aeruginosa bloodstream infection,120
+treated with ceftazidime-avibactam,120
+treated with amikacin,120
+positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),120
+treated with remdesivir,120
+placed on droplet isolation,120
+recurrence of C. difficile occurred,144
+transferred to a geriatric medicine unit,144
+successfully treated with fidaxomicin,144
+bloodstream infection due to Candida parapsilosis (fluconazole-resistant),432
+infection due to MSSA,432
+infection due to Candida tropicalis,432
+replacing the infected catheter,432
+treated with caspofungin,432
+treated with cefazolin,432
+infection caused by P. aeruginosa,672
+piperacillin-tazobactam was prescribed,672
+shifted to aztreonam,672
+shiftged to ceftazidime-avibactam,672
+shifted to cefepime,768
+tracheostomy closure,2160
+nutritional supplementation was prescribed,2160
+undergo short physiotherapy sessions,2160
+discharge,2160
+able to perform postural transition with assistance,2160
+follow-up evaluations were recommended,2160

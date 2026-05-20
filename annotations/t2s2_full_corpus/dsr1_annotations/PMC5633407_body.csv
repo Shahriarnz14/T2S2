@@ -1,0 +1,49 @@
+event,time
+74-year-old male,0
+admitted to outpatient department,0
+intermitted fever,0
+progressive back pain,0
+hemoptysis,0
+elevated inflammation laboratory values,0
+ruptured PAU,-720
+TEVAR,-720
+long-term oral antibiotic therapy,-720
+hospitalization,0
+intravenous antibiotic therapy,0
+S. aureus in blood cultures,24
+CTA showing gas collections around aortic stent graft,24
+endograft infection confirmed,24
+infection expanding retrograde above celiac trunk,24
+infection up to aortic arch,24
+infection including left-sided CCA,24
+lack of antibiotic therapy effect,72
+discussed ascendobifemoral bypass,72
+performed ascendobifemoral bypass,96
+sternotomy,96
+clamping of AA,96
+bypass between AA and left-sided CCA,96
+bypass between AA and subclavian artery,96
+aortic arch interrupted distal to brachiocephalic trunk,96
+ascendobifemoral bypass implanted,96
+proximal end-to-side anastomosis to AA,96
+prosthesis limbs retrosternal,96
+prosthesis limbs intra-abdominal,96
+anastomosis to common femoral arteries,96
+left-sided thoracotomy,168
+ligated thoracic abdominal aorta proximal to celiac trunk,168
+explanted infected stent graft,168
+intensive care unit stay,168
+renal system no dysfunction,168
+mesenteric system no dysfunction,168
+decreasing inflammation parameters,168
+no neurological symptoms,168
+aspirin therapy,168
+low-molecular-weight heparin therapy,168
+developed renal insufficiency,504
+required dialysis,504
+spondylodiscitis,504
+cholangitis,504
+respiratory insufficiency,504
+prolonged intubation,504
+pneumonia,504
+died due to sepsis,1440

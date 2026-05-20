@@ -1,0 +1,50 @@
+event,time
+31 years old,0
+male,0
+admitted to the hospital,0
+abdominal pain,0
+tachycardia,0
+laparoscopic cholecystectomy,-672
+common bile duct exploration,-672
+T-tube placement,-672
+follow-up visit,0
+cholangiogram,0
+T-tube removal,0
+severe abdominal pain,0
+tachycardia,0
+admission to the hospital,0
+abdominal ultrasound,0
+small fluid collection,0
+conservative management,24
+ERCP,24
+bile leak,24
+small rupture at fistulous tract,24
+contrast material leakage,24
+endoscopic sphincterotomy,24
+biliary stent placement,24
+fever,72
+diaphoresis,72
+tachycardia,72
+leucocytosis,72
+acute abdomen,72
+emergency laparoscopy,72
+severe generalized biliary-purulent peritonitis,72
+extensive lavage,72
+abdominal drains placement,72
+rupture of fistulous tract sutured,72
+hemodynamic instability,72
+bacteremia,72
+transfer to ICU,72
+severe respiratory distress,96
+systemic inflammatory response syndrome,96
+septic shock,96
+ventilatory support,96
+multiple antibiotics,96
+vasoactive agents,96
+activated C protein,96
+multiresistant Pseudomonas aeruginosa,96
+discharged,1008
+no contraindications for T-tube removal,0
+analgesics not effective,0
+percutaneous drainage not performed,0
+culture of peritoneal fluid,96

@@ -1,0 +1,118 @@
+event,time
+39-year-old,0
+Thai,0
+man,0
+street vendor,0
+lives in Bangkok,0
+presented to emergency department,0
+fever,-120
+myalgia,-120
+breathlessness,-6
+haemoptysis,-6
+no medical history,0
+20-pack-year smoking,0
+high body temperature (39.8°C),0
+tachypnea,0
+respiratory distress,0
+no conjunctival suffusion,0
+no icteric sclera,0
+chest radiography bilateral diffuse opacification,0
+arterial blood gas pH 7.42,0
+pCO2 35.7 mm Hg,0
+pO2 55 mm Hg,0
+SpO2 89%,0
+lactate 1.2,0
+FiO2 1.0,0
+hemoglobin 108 g/L,0
+"platelet 117,000",0
+"white blood cell count 10,250",0
+neutrophil 89.9%,0
+lymphocyte 5.4%,0
+monocyte 4.4%,0
+eosinophil 0%,0
+basophil 0.3%,0
+prothrombin time 13.7,0
+INR 1.23,0
+aPTT 29.3,0
+total bilirubin 1.51 mg/dL,0
+alanine aminotransferase 48 U/L,0
+creatinine 0.93 mg/dL,0
+albumin 3.4 g/dL,0
+urinalysis mild proteinuria (2+),0
+microscopic haematuria (20–30 cells/HPF),0
+Thai-Lepto score 8.5,0
+intubation,0
+fresh blood suctioned via endotracheal tube,0
+admitted to intensive care unit,0
+APACHE II score 17,0
+developed respiratory distress with oxygen desaturation,0
+presumptively diagnosed with diffuse alveolar haemorrhage,0
+severe ARDS,0
+differential diagnosis small vessel vasculitis,0
+differential diagnosis infectious disease-associated DAH,0
+ventilator support,0
+lung-protective strategy,0
+sedation with cisatracurium,0
+sedation with propofol,0
+sedation with midazolam,0
+sedation with fentanyl,0
+ceftriaxone,0
+levofloxacin,0
+plasmapheresis initiated,2
+plasmapheresis continued for 5 days,2
+IVMP 250 mg every 6 hours,0
+negative cANCA,0
+negative pANCA,0
+negative anti-MPO,0
+negative anti-PR3,0
+negative anti-GBM,0
+mechanical ventilator PCV mode,12
+inspired pressure 20 cmH2O,12
+respiratory rate 30/min,12
+PEEP 20 cmH2O,12
+FiO2 1.0,12
+arterial blood gas pH 7.128,12
+paO2 74.2 mm Hg,12
+paCO2 89.3 mm Hg,12
+VV-ECMO started,12
+VV-ECMO blood flow 4.0 L/min,12
+VV-ECMO sweep gas flow 4.0 L/min,12
+ventilator tidal volume 220 mL,12
+ventilator respiratory rate 8/min,12
+PEEP 10 cmH2O,12
+FiO2 0.3,12
+leptospirosis confirmed by PCR,24
+anti-Leptospira IgM negative day 1,0
+anti-Leptospira IgM positive day 8,192
+transthoracic echocardiography normal,24
+negative haemoculture,24
+negative sputum culture,24
+negative sputum AFB,24
+negative modified AFB,24
+anti-HIV negative,24
+anti-HCV negative,24
+HBsAg negative,24
+anti-HBs negative,24
+anti-HBc negative,24
+Weil-Felix test negative,24
+scrub typhus Ab negative,24
+murine typhus Ab IgG/IgM negative,24
+dengue NS1 negative,24
+dengue IgM negative,24
+dengue IgG positive,24
+influenza A/B/RSV negative,24
+respiratory virus 19 subtypes negative,24
+malaria blood films negative,24
+ANA negative,24
+CH50 44.9 U/mL,24
+C3 138 mg/dL,24
+C4 53.4 mg/dL,24
+renal function slightly impaired,24
+renal function returned to normal,96
+liver function normal,96
+weaned off VV-ECMO,120
+withdrawal of VV-ECMO,192
+endotracheal tube removed,240
+discharged from ICU,240
+discharged home,336
+recovered after 1 year,8760

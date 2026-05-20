@@ -1,0 +1,46 @@
+event,time
+30 years old,0
+female,0
+homozygous sickle cell disease,0
+respiratory failure,0
+neurological deterioration,0
+vaso-occlusive crisis,0
+admitted to ICU,0
+transfer from outside hospital,0
+acute vaso-occlusive crisis,0
+fever,-72
+pain in lower extremities,-72
+lethargy,0
+temperature 38°C,0
+heart rate 140 bpm,0
+anemia (Hb 8.3 g/dl),0
+decreased haptoglobin (17 mg/dL),0
+hyperleukocytosis (23.08 ×103/μL),0
+increased CRP (215 mg/L),0
+elevated AST (121 UI/L),0
+elevated ALT (64 UI/L),0
+elevated AP (450 UI/L),0
+elevated LDH (3861 UI/L),0
+elevated total bilirubin (3.9 mg/dL),0
+normal renal function,0
+arterial oxygen saturation 80%,0
+chest CT angiography,0
+excluded pulmonary embolism,0
+bilateral pulmonary consolidations,0
+unremarkable cerebral CT,0
+negative SARS-CoV-2,0
+acute thoracic syndrome,0
+brain MRI,72
+excluded venous sinus thrombosis,72
+punctate foci restricted diffusion,72
+T2 FLAIR prolongation,72
+punctate foci low signal on SWI,72
+cerebral fat embolism syndrome,72
+antalgics,0
+antibiotics,0
+red cell exchange,0
+discharged from ICU,96
+neurological symptoms regressed,336
+follow-up MRI,8760
+regression on DWI and FLAIR,8760
+persistent cerebral microbleeds,8760

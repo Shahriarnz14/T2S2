@@ -1,0 +1,60 @@
+event,time
+62-year-old,0
+male,0
+high fever,0
+dark urine,0
+admitted to emergency department,0
+sacrococcygeal wound dehiscence,-2160
+sacrococcygeal wound exudation,-2160
+admitted to department,-2160
+lumbar vertebral injury,-262800
+paralysis,-262800
+sacrococcygeal bedsores,-87600
+debridement,-87600
+muscle flap application,-87600
+infected wound,0
+amyotrophy of both lower limbs,0
+absence of cutaneous sensation,0
+absence of physiological reaction,0
+absence of pathological reflexes,0
+elevated CK,0
+debridement performed,24
+distal wound debridement,24
+distal wound sutured,24
+pus removal,24
+necrotic muscle removal,24
+fresh granulation tissue,24
+dressing changes,24
+antimicrobial therapy,24
+electrolyte correction,24
+acidosis correction,24
+nutritional support,24
+suture area dry,72
+suture area clean,72
+no swelling,72
+no exudation,72
+dark urine lightened,24
+urine color normal,120
+fever resolved,72
+CK peak,24
+CK decreased,24
+CK normal,216
+WBC count decreased,24
+WBC count normal,168
+CRP decreased,24
+CRP normal,264
+discharged,720
+wound healed,2160
+no infection,2160
+rhabdomyolysis,0
+myoglobinuria,0
+pressure ulcers,0
+acute kidney injury,0
+disseminated intravascular coagulation,0
+death,0
+muscle pain,0
+muscle weakness,0
+tea-colored urine,0
+severe renal dysfunction,0
+acute infection,0
+sepsis,0

@@ -1,0 +1,99 @@
+event,time
+25 years old,0
+female,0
+previously healthy,0
+housewife,0
+gave birth,0
+3.1-kg baby girl,0
+37th week of first pregnancy,0
+uncomplicated pregnancy,0
+spontaneous vaginal delivery,0
+episiotomy,0
+severe pain in buttocks region,0
+post-delivery,0
+shortness of breath,0
+sudden onset,0
+worsened right thigh pain,0
+emergency department admission,-21
+drowsy,-21
+tachypneic,-21
+oxygen saturation 56% on room air,-21
+high-flow oxygen required,-21
+tachycardia,-21
+pulse 121 bpm,-21
+afebrile 36°C,-21
+unrecordable blood pressure,-21
+resuscitation with 30 mL/kg normal saline,-21
+persistent hypotension,-21
+blood pressure 56/30 mmHg,-21
+noradrenaline infusion started,-21
+blood pressure steadied,-21
+IV heparin 5000 units stat dose,-21
+presumptive pulmonary embolism diagnosis,-21
+IV amoxicillin-clavulanate stat dose,-21
+septicemic shock differential diagnosis,-21
+transferred to tertiary hospital,-21
+elective intubation,-21
+severe metabolic acidosis,-21
+lactic acidosis,-21
+worsening respiratory distress,-21
+120 mL/kg (6 L) crystalloid given,0
+persistently hypotensive post-intubation,0
+adrenaline added,0
+vasopressin added,0
+dobutamine added,0
+grossly swollen right thigh,0
+extensive blistering ecchymotic patches right thigh,0
+extension to right buttock,0
+necrotizing fasciitis right thigh,0
+septicemic shock,0
+acute kidney injury,0
+rhabdomyolysis,0
+coagulopathy,0
+thrombocytopenia,0
+ischemic hepatitis,0
+IV meropenem started,0
+IV clindamycin started,0
+IV vancomycin started,0
+blood cultures taken,0
+blister fluid cultures taken,0
+high vaginal swab culture,0
+ICU transfer,0
+orthopedic consultation,0
+surgical consultation,0
+wound debridement planned,0
+CT pulmonary angiography,0
+small pulmonary embolism,0
+bedside echocardiography,0
+good contractility,0
+no heart chamber dilation,0
+IV immunoglobulin given,0
+toxin neutralization,0
+CVVH started,0
+severe lactic acidosis,0
+lactate 9.8-18 mmol/L,0
+creatinine kinase 29783 U/L,0
+4 inotropes required,72
+CVVH continued,72
+skin lesion spread,72
+bilateral upper limbs bluish discoloration,72
+bilateral lower limbs blistering,72
+extension to right lower abdomen,72
+right upper limb lesion,72
+extension to right elbow,72
+Gram positive cocci in chains,144
+S. pyogenes growth,144
+negative blood cultures,144
+group A beta hemolytic streptococcus in blood culture,-21
+multidisciplinary discussion,144
+group A streptococcal toxic shock syndrome diagnosis,144
+IV clindamycin restarted,144
+IV crystalline penicillin G every 4 hours,144
+CVVH continued,144
+no surgical intervention,144
+skin biopsy not performed,144
+death,168
+septic shock,168
+tissue necrosis,168
+toxic shock syndrome,168
+S. pyogenes,168

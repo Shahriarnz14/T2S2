@@ -1,0 +1,96 @@
+event,time
+40 years old,0
+male,0
+hypertension,-17520
+atrial fibrillation,-17520
+severe uncontrolled hyperthyroidism,-17520
+thyroid storm,-8760
+medical intensive care unit admission,-8760
+intubation,-8760
+noncompliant with medications,-1440
+stopped medications,-1440
+central chest pain,-2
+palpitation,-2
+agitation,-2
+nausea,-2
+blood pressure 181/112 mmHg,0
+irregularly irregular pulse,0
+heart rate 140 beats/min,0
+tachypnea,0
+respiratory rate 38/min,0
+temperature 37.6°C,0
+oxygen saturation 85%,0
+oxygen therapy,0
+anxious,0
+agitated,0
+diffuse goiter,0
+clammy skin,0
+warm skin,0
+bibasilar crackles,0
+fast atrial fibrillation,0
+ST-segment elevation V3-V6,0
+premature ventricular beat,0
+mild leukocytosis,0
+normal hemoglobin,0
+normal platelets,0
+normal renal function,0
+normal liver function,0
+ProBNP 1100 pg/mL,0
+undetectable thyroid-stimulating hormone,0
+serum Thyroxin >100 pmol/L,0
+Burch-Wartofsky Point Scale 60,0
+serum troponin T 1200 ng/L,0
+acute anterior wall myocardial infarction,0
+thyroid storm,0
+dual antiplatelet therapy,0
+aspirin,0
+clopidogrel,0
+unfractionated heparin infusion,0
+propylthiouracil 200 mg every 4h,0
+hydrocortisone 200 mg stat,0
+hydrocortisone 100 mg every 8h,0
+cholestyramine 4 mg every 6h,0
+Lugol's solution 10 drops every 8h,0
+isosorbide dinitrate infusion 25 mcg/min,0
+IV furosemide 40 mg,0
+chest pain progression,2
+increased tachypnea,2
+IV furosemide repeated,2
+isosorbide dinitrate infusion increased to 50 mcg/min,2
+coronary angiography,3
+percutaneous coronary intervention,3
+contrast solution diluted,3
+minimal contrast dose 15 ml,3
+distal left anterior descending artery 100% embolic occlusion,3
+TIMI 3 flow restored,3
+chest pain resolved,3
+ECG improvement,3
+ejection fraction 35%,3
+anterior wall hypokinesia,3
+grade 2 diastolic dysfunction,3
+moderately dilated left atrium,3
+blood pressure 130/80,24
+heart rate 70-80 beats/min,24
+respiratory rate <20/min,24
+oxygen saturation 96%,24
+bisoprolol started,24
+IV furosemide switched to oral,24
+T wave inversion anterior leads,168
+T4 67 pmol/L,168
+hydrocortisone tapered,168
+cholestyramine stopped,168
+Lugol's solution stopped,168
+PTU switched to carbimazole,168
+discharge,672
+dual antiplatelet therapy,672
+rivaroxaban,672
+clopidogrel,672
+rosuvastatin 20 mg,672
+furosemide 40 mg,672
+bisoprolol 10 mg,672
+spironolactone 25 mg,672
+valsartan 160 mg,672
+ECG AF controlled,720
+T4 23 pmol/L,1008
+ejection fraction 49%,2160
+"- ""Thyroid storm"" is part of past history (1 year ago), so timestamp -8760, but the current TS is at 0. The assistant lists ""thyroid storm","0"" which is correct for the current episode."

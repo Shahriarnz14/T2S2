@@ -1,0 +1,39 @@
+event,time
+87-year-old,0
+white,0
+male,0
+end-stage renal disease,0
+atrial fibrillation,0
+warfarin use,0
+maintenance home hemodialysis,0
+NxStage machine use,0
+laparoscopic appendicectomy,-unknown (pre-admission)
+intra-abdominal abscess,-unknown (post-appendectomy)
+sepsis,-unknown (post-appendectomy)
+tamponade,-unknown (post-appendectomy)
+bloody pericardial effusion,-unknown (post-appendectomy)
+emergent therapeutic pericardiocentesis,-unknown (ICU admission)
+warfarin discontinuation,-unknown (post-pericardiocentesis)
+discharged home,0
+heparin-free home hemodialysis,0
+heparin-free hemodialysis with Fresenius machine,-unknown (pre-discharge)
+Optiflux 160 NR dialyzers use,-unknown (pre-discharge)
+pump-delivered normal saline flushes,-unknown (pre-discharge)
+extracorporeal circuit clotting,-unknown (pre-discharge)
+high venous pressures,-unknown (pre-discharge)
+compromised home hemodialysis,-unknown (pre-discharge)
+heparin contraindication,0
+warfarin contraindication,0
+consideration to stop home hemodialysis,0
+discussion of peritoneal dialysis,0
+frequent clotting despite saline flushes,0
+observation of clot formation at 12-o'clock position,0
+blood pooling,0
+early clotting signs,0
+filter rotation maneuver initiated,0
+resolution of clotting,0
+no saline flushes needed,+5040 (7 months post-maneuver)
+smooth heparin-free hemodialysis,+5040 (7 months post-maneuver)
+treatment duration normalization,+5040 (7 months post-maneuver)
+discontinued saline flushes,+5040 (7 months post-maneuver)
+patient satisfaction,+5040 (7 months post-maneuver)

@@ -1,0 +1,65 @@
+INTRODUCTION
+
+Acute respiratory distress syndrome (ARDS) is an acute inflammatory lung process, which impairs the ability of the lung to eliminate carbon dioxide and leads to protein-rich nonhydrostatic pulmonary edema, refractory hypoxemia, and lung “stiffness.”[1] ARDS is characterized with progressive dyspnea, reduction of arterial oxygen saturation, and an increasing requirement for oxygen. By the Berlin definition, ARDS is diagnosed if the following criteria are fulfilled: an acute onset of disease within a week; a bilateral lung infiltrates on chest X-ray or computed tomography (CT) scan; the cardiogenic source of lung edema is excluded; and standardization of hypoxemia, calculated on Positive end expiratory pressure (PEEP) level 5 into three different grades.[2] A very small number of patients who have ARDS die from respiratory failure alone; more often, they die due to complications or multiple organ dysfunction syndrome. A various number of strategies have been investigated for the treatment of sepsis. Patients often develop renal insufficiency due to fluid restriction.[3] Continuous renal replacement therapy (CRRT) can be an effective way to reduce complications and delay rapid progression of severe pneumonia.[456] Sepsis is often attributed to uncontrolled and unbalanced inflammation.[7] There are various new strategies to improve sepsis by either inactivating or removing endotoxins. One of the most promising ways is cytokine removal by hemoperfusion through sorbent-containing cartridges called CytoSorb® (CytoSorbents Inc., Monmouth Junction, USA).[8] CytoSorb® is a European Union-approved extracorporeal cytokine adsorber, designed to broadly reduce cytokine storm and other inflammatory mediators in the blood that could otherwise lead to uncontrolled systemic inflammation, organ failure, and death in many life-threatening illnesses. On April 10, 2020, the US Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for emergency use of CytoSorb® to treat patients 18 years of age or older with confirmed COVID-19 admitted to the intensive care unit (ICU) with confirmed or imminent respiratory failure by reducing pro-inflammatory cytokine levels, which may ameliorate a cytokine storm due to the overabundance of pro-inflammatory cytokines and in turn, provide clinical benefit to such patients (FDA COVID-19 EUAs for medical devices).
+
+CASE REPORT
+
+This case reports on a 29-year-old male patient (in good health before admission), who was transferred from a small hospital to the University Clinical Centre of Republika Srpska in Banja Luka, due to muscle and joint pain, general weakness, and fever up to 39°C which were present during 6 days. Moreover, the patient presented with pronounced liver dysfunction with a total bilirubin of 5.7 mg/dl, serum glutamic oxaloacetic transaminase 633 U/L, serum glutamic pyruvate transaminase 412 U/L, gamma-glutamyl transferase 161 U/L, and lactate dehydrogenase 1668 U/L. The patient also had signs of systemic inflammation indicated by a C-reactive protein (CRP) of 519 mg/l, a procalcitonin of 1.28 ng/ml, and increased leukocyte levels (14.8 × 103/μl)[ Table 1].
+
+Table 1 Change in laboratory parameters pre- and postCytoSorb® therapy
+
+Laboratory parameters	PreCytoSorb® therapy	PostCytoSorb® therapy	
+Total bilirubin	5.7 mg/dl	3.2 mg/dl	
+Serum glutamic oxaloacetic transaminase	633 U/L	289 U/L	
+GGT	161 U/L	102 U/L	
+Lactate dehydrogenase	1668 U/L	562 U/L	
+CRP	519 mg/L	330 mg/L	
+Procalcitonin	1.28 ng/ml	0.7 ng/ml	
+Leukocytes	14.8×10³/µl	9.2×10³/µl	
+GGT: Gamma-glutamyl transferase, CRP: C-reactive protein
+
+Due to acute respiratory failure and altered state of consciousness on admission, the patient was administered continuous sedation, muscle relaxation, intubation, and mechanical ventilation with a FiO2 of 100% and corresponding SpO2 of 88.7%. As hemodynamic instability progressed, the rate of norepinephrine had to be increased to 0.6 μg/kg/min (at this moment, vasopressin was not available in our hospital). Due to the unknown infection source, the patient received broad-spectrum empirical antimicrobial therapy which included meropenem (1 g every 8 h intravenous [IV]), azithromycin (500 mg once daily IV), and oseltamivir (75 mg, every 12 h p. o.). In addition, methylprednisolone (80 mg every 12 h IV), stress ulcer prophylaxis, and thromboprophylaxis (UFH) were administered. Drug doses were adjusted for renal function.
+
+Before the first application of CytoSorb® on day 7, the patient was continuously sedated, paralyzed, intubated, and connected to controlled mechanical ventilation (lung-protective ventilation). The patient was on continuous respiratory and hemodynamic monitoring, with regular monitoring of arterial blood gases. On several time points, during the 1st day of hospitalization, the patient was placed in prone position. We performed chest CT which showed massive bilateral pneumonia with minimal pleural effusions and bedside focus ultrasound on a daily basis. Due to the development of acute renal failure on day 6 of hospitalization, CRRT was started. Given progressing hemodynamic instability (higher norepinephrine demand) and uncontrolled inflammatory response, a CytoSorb® adsorber was additionally installed into the CRRT circuit. Due to a recurring septic episode on day 10, a second therapy session was commenced.
+
+Immediately after the first session of combined therapy, norepinephrine requirements were lowered from 0.6 to 0.15 μg/kg/min and it was discontinued 2 days later [Figure 1]. After deterioration of the patient's clinical condition on day 10 with a concomitant increase in norepinephrine demand, the application of a second adsorber resulted in an immediate reduction in norepinephrine requirements and complete cessation 1 day later. Inflammatory marker levels were clearly reduced during the combined CRRT + CytoSorb® therapy sessions; CRP decreased from a peak value of 519 mg/L to 330 mg/L after the first treatment. The second treatment resulted in further decrease in CRP levels [Table 1]. Simultaneously, leukocyte levels normalized during the course of both treatments. Due to the combined therapy, ventilation parameters and lung function gradually improved.
+
+Figure 1 Trends of FiO2 (%), NorEpi (μg × 10-3/kg/min), and C-reactive protein (mg/L) in four periods of time (1–12 h, 2–24 h, 3–36 h, and 4–48 h of CytoSorb® therapy)
+
+Later on, the patient developed ICU delirium which was treated with antipsychotics. Due to prolonged intubation and an inadequate state of consciousness, we preformed percutaneous tracheostomy. After CytoSorb® therapy, the patient did not experience any problems with hemodynamic status, and his recovery was gradual. After reaching a satisfactory state of consciousness, the patient was successfully weaned off from the ventilator. After 48 days spent in the medical ICU (MICU), the patient was transferred to the general ward, and few days later, he was sent to the rehabilitation clinic.
+
+DISCUSSION AND CONCLUSION
+
+The patient was admitted to our MICU due to massive bilateral pneumonia that was caused by influenza A (H1N1). Despite all therapeutic and supportive measures (dual antibiotic, antiviral therapy, corticosteroids, lung-protective ventilation, prone position, etc.), the patient's condition progressively worsened and signs of multiorgan failure developed. CytoSorb® was used in conjunction with CRRT (Fresenius Medical Care, multiFiltrate) run in continuous venovenous hemodiafiltration (CVVHDF) mode. After the CytoSorb® application, the patient became hemodynamically stable, so norepinephrine requirements decrease and it was discontinued 1 day later. Laboratory findings from similar case series before and after CytoSorb® procedure are presented in Table 2. These laboratory findings are very similar to our results. Rapid fall in white blood cells in our patient appeared as a result of a decrease in circulating pro-inflammatory cytokines. Similar results were shown in other studies (case reports).[9]
+
+Table 2 Change in laboratory parameters pre- and postCytoSorb® therapy - other cases
+
+Laboratory parameters	PreCytoSorb®therapy	PostCytoSorb®therapy	
+Leukocytes	52.1 mm3	9.6 mm3	
+Serum glutamic oxaloacetic transaminase	769.6 U/L	269.1 U/L	
+Serum glutamic pyruvic transaminase	849 U/L	420.1 U/L	
+Lactate	4.4 mmol/L	0.7 mmol/L	
+
+One of the possible ways how this intervention works is based on very important fact is that the immunological/inflammatory picture in ARDS is largely independent of the underlying cause of the syndrome. Therefore, cytokine adsorption could actually influence inflammation of various origins. Inflammatory processes are involved in the development of ARDS and also in the impairment of lung function. Cytokines play a central role in the inflammatory process, which, however, is also aggravated by other mediators such as damage-associated molecular patterns (DAMPs). Some DAMPs (e.g., C5a, HMGB1) have been shown to be effectively removed from whole blood by CytoSorb®. Moreover, controlling the inflammatory response using hemoadsorption therapy may have a positive impact on the endothelial glycocalyx and may also be beneficial for maintaining the vascular barrier function which plays a pivotal role in the development of oxygen mismatch and tissue edema. In this context, case reports have shown a reduction in extravascular lung water with CytoSorb therapy, pointing toward a stabilization in pulmonary capillary integrity.[101112]
+
+One of the potential adverse effects is the removal of antibiotics. One of the very important actions during these procedures is therapeutic drug monitoring.[13]
+
+However, there are limitations to this case report. In our hospital, we do not have the ability to measure cytokine levels so we cannot demonstrate the change in cytokine levels before and after treatment. Due to the combined therapy, ventilation parameters and lung function gradually improved. There are a number of therapies that are currently being investigated in the treatment of sepsis with some of them being less, and others being more promising. Most of the data are limited, and there are no enough randomized multicenter studies to show us the harms/benefit ratio. At this moment, several studies in which outcomes of patients diagnosed with sepsis, septic shock, and cytokine storm due to COVID-19 are being conducted (clinicaltirlas.gov).
+
+In this case, combined pharmacotherapy with all other supportive measures that were implemented in conjunction with timely CRRT and CytoSorb® application resulted in patient recovery. In our patient who had influenza type A and bilateral pneumonia, combined treatment with standard therapy, CRRT, and CytoSorb® hemoadsorption was associated with rapid hemodynamic stabilization (control of the inflammatory response). We noticed significant decrease in inflammation markers with gradual improvement in patient ventilation parameters and lung function. We decreased dose of vasopressors which were completely discontinued one day later.
+
+Declaration of patient consent
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form, the patient has given his consent for his images and other clinical information to be reported in the journal. The patient understands that name and initials will not be published and due efforts will be made to conceal the identity, but anonymity cannot be guaranteed.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+Ethical conduct of research statement
+
+This case report did not require approval by the Institutional Review Board / Ethics Committee. The authors followed applicable EQUATOR Network (http://www.equator-network.org/) guidelines, specifically the CARE guideline, during the conduct of this research project.

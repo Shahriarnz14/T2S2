@@ -1,0 +1,62 @@
+event,time
+5 years old,0
+boy,0
+presented with fever,-1440
+presented with night sweats,-1440
+presented with weight loss,-1440
+presented with cough,-1440
+bilateral anterior cervical lymph nodes enlargement,0
+fixed lymph nodes,0
+painless lymph nodes,0
+peripheral cyanosis in digits,0
+hemoglobin concentration: 128 g/L,0
+white blood cell count: 9.12×109/L,0
+neutrophils 30.1%,0
+lymphocytes 57.3%,0
+eosinophils 6.61%,0
+monocytes 4.54%,0
+basophils 1.45%,0
+platelet count: 329×109/L,0
+liver enzymes normal,0
+serum bilirubin normal,0
+creatinine normal,0
+blood urea nitrogen normal,0
+blood culture no bacterial growth,0
+chest X-ray bilateral airway narrowing,0
+neck CT multiple bilateral anterior cervical lymphadenopathy,0
+supraclavicular lymphadenopathy,0
+infraclavicular lymphadenopathy,0
+lymph nodes mass effect,0
+largest lymph node 20 × 15 mm,0
+lymph nodes cystic degeneration,0
+lymph nodes central necrosis,0
+thyroid gland heterogenous density,0
+chest CT bilateral nodular lung densities,0
+chest CT micronodular lung densities,0
+chest CT hilar lymphadenopathy,0
+abdominal CT mild hepatomegaly,0
+abdominal CT paraaortic lymph node enlargement,0
+clinical impression tuberculosis,0
+clinical impression Hodgkin’s lymphoma,0
+excisional biopsy cervical lymph node,0
+bone marrow trephine biopsy,0
+histopathological examination malignant thyroid glands,0
+papillary growth,0
+nuclear clearing,0
+nuclear grooves,0
+residual rim of lymph node tissue,0
+diagnosis metastatic papillary thyroid carcinoma,0
+bone marrow biopsy negative for metastasis,0
+clinical stage-I disease,0
+total thyroidectomy,0
+cervical lymph nodes excision,0
+radioactive iodine therapy,0
+complete remission,0
+developed respiratory symptoms,64800
+CT scan multiple bilateral pulmonary nodules,64800
+admissions to intensive care unit,64800+
+unstable vital signs,64800+
+died,68808
+septicemia methicillin-resistant Staphylococcus aureus,68808
+no definite infectious cause identified,0
+B-symptoms disappeared after surgery,0

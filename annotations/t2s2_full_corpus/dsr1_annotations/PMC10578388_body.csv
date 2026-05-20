@@ -1,0 +1,86 @@
+event,time
+36 weeks 0 days gestational age,0
+female,0
+born via spontaneous vaginal delivery,0
+birth weight 2356 g,0
+Apgar scores 9 at 1 minute,0
+Apgar scores 9 at 5 minutes,0
+no meconium staining,0
+respiratory distress,0
+resuscitation with positive pressure ventilation,0
+admitted to neonatal intensive care unit,0
+mechanical ventilation,0
+sepsis work-up,0
+blood cultures,0
+no antibiotics administered,0
+mother preterm premature rupture of membranes,-192
+mother received intravenous ampicillin,-192
+mother Group B Streptococcus positive,-336
+mother no fever,0
+fever,16
+convulsions,16
+drowsiness,16
+pale appearance,16
+cold extremities,16
+cyanosis of extremities,16
+poor capillary refill,16
+body temperature 38.8°C,16
+pulse 170 bpm,16
+blood pressure 60/35 mmHg,16
+respiratory rate 80 breaths per minute,16
+oxygen saturation 87%,16
+normal cardiovascular examination,16
+clear lungs,16
+soft abdomen,16
+no abdominal distention,16
+slightly increased muscle tone,16
+no skin rash,16
+no subcutaneous hemorrhage,16
+disseminated intravascular coagulation,16
+CSF cell count 8.15 × 10^9/L,16
+CSF glucose 0.06 mmol/L,16
+gram-negative rod organisms in CSF,16
+abdominal ultrasound showing bilateral adrenal hemorrhage,24
+suspected adrenal insufficiency,24
+lethargy,72
+blood pressure 50/30 mmHg,72
+urine output 10 mL/kg/h,72
+urine specific gravity 1.005,72
+urine osmolality 160 mOsm/kg H2O,72
+serum sodium 155 mmol/L,72
+serum osmolality 332 mOsm/kg H2O,72
+serum antidiuretic hormone 1.3 pg/mL,72
+diagnosis of early-onset neonatal meningitis,24
+diagnosis of Waterhouse-Friderichsen syndrome,24
+E. coli positive blood cultures,0
+E. coli positive CSF cultures,24
+antibiotic treatment,24
+hydrocortisone 10 mg/kg/day,24
+blood pressure normalization,48
+no vasoactive agents needed,48
+steroid therapy discontinued after day 3,72
+adrenal hemorrhage regression,72
+negative blood cultures after 36 hours,60
+negative CSF cultures after 36 hours,60
+antibiotics continued until day 22,528
+diagnosis of central diabetes insipidus,72
+intravenous vasopressin 0.3 mU/kg/h,96
+urine output decreased to 4 mL/kg/h,144
+urine osmolality improved to 213 mOsm/kg H2O,144
+vasopressin dose reduced,144
+vasopressin discontinued,288
+cerebral MRI bilateral encephalomalacia,240
+cerebral MRI minor bleeding,240
+cerebral MRI splenial lesion,240
+no brain abscess,240
+no ventriculitis,240
+no pituitary gland abnormality,240
+normal thyroid function tests,840
+normal adrenocorticotropic hormone,840
+low morning cortisol 1.9 µg/dL,840
+normal corticotropin-releasing hormone test,840
+normal auditory brainstem response,840
+normal electroencephalography,840
+discharged on day 45,1080
+no respiratory assistance,1080
+no feeding tube,1080

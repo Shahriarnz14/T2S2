@@ -1,0 +1,88 @@
+event,time
+51-year-old male,0
+admitted to the hospital,0
+high-grade intermittent fever,-360
+cough with expectoration,-360
+breathlessness,-24
+treated with nebulized bronchodilators,-360
+treated with steroids,-360
+treated with quinolones,-360
+hypertension,0
+childhood onset bronchial asthma,0
+chronic steroid therapy,0
+tachycardia,0
+tachypnea,0
+bilateral crepitations,0
+wheeze,0
+left side chest crepitations more pronounced,0
+respiratory distress,0
+shifted to critical care unit,0
+eschar on left chest,0
+noninvasive ventilatory support,0
+azithromycin,0
+doxycycline,0
+oseltamivir,0
+throat swab for H1N1,0
+sepsis workup,0
+intubated,0
+meropenem,0
+teicoplanin,0
+CT scan brain,0
+CT scan thorax,0
+CT scan abdomen,0
+bilateral multifocal patchy consolidation,0
+minimal right-sided pleural effusion,0
+left lung collapse,0
+left lung consolidation,0
+tracheal aspirate Gram stain polymorphonuclear neutrophils,0
+branching filamentous bacilli,0
+Nocardia species,0
+1% acid-fast stain positive,0
+cotrimoxazole,0
+imipenem,0
+tracheal cultures pure growth dry chalky white colonies,0
+colonies with pitting,0
+susceptible to amikacin,0
+susceptible to ciprofloxacin,0
+susceptible to linezolid,0
+susceptible to imipenem,0
+susceptible to ceftriaxone,0
+resistant to cotrimoxazole,0
+resistant to amoxicillin-clavulanate,0
+penicillin resistance,0
+Nocardia otitidiscaviarum,0
+acid-fast stain for Mycobacteria negative,0
+HIV negative,0
+H1N1 RT-PCR negative,0
+high white blood cell count,0
+neutrophilic predominance,0
+progressive thrombocytopenia,0
+platelet count 1.5 lakhs/mm3,0
+"platelet count 40,000/mm3",0
+scrub typhus IgM antibodies positive,0
+ventilatory support,0
+transient hemodynamic improvement,0
+deterioration with increasing inotropic requirement,0
+blood cultures yeast-like cells,120
+caspofungin,120
+Candida tropicalis,168
+susceptible to Amphotericin B,168
+susceptible to fluconazole,168
+susceptible to voriconazole,168
+susceptible to caspofungin,168
+susceptible to micafungin,168
+deranged renal parameters,168
+deranged liver function test,168
+deranged coagulation profile,168
+anuria,168
+worsening metabolic acidosis,168
+renal replacement therapy,168
+bradycardia,168
+asystole,168
+death,168
+sepsis with septic shock,168
+multiorgan dysfunction,168
+community-acquired pneumonia,168
+nocardiosis,168
+scrub typhus,168
+candidemia,168

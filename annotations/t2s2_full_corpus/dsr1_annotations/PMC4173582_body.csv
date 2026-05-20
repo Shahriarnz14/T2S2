@@ -1,0 +1,151 @@
+event,time
+22 years old,0
+multiparous,0
+pregnant,0
+female,0
+24 week gestation,0
+altered consciousness,0
+vomiting,0
+bleeding per vaginum,0
+PV manipulation by local health worker,-72 (assuming history of manipulation occurred 3 days prior)
+pale,0
+dehydrated,0
+tender abdomen,0
+distended abdomen,0
+blood pressure 80/46 mmHg,0
+heart rate 130/min,0
+respiratory rate 35/min,0
+Glasgow coma score 8,0
+no neck rigidity,0
+normal reflexes,0
+gangrenous bowel loops protruding from vagina,0
+gas under diaphragm,0
+electrocardiogram prolonged PR interval,0
+electrocardiogram wide QRS complex,0
+electrocardiogram peaked T wave,0
+rehydrated with normal saline,0
+invasive positive pressure ventilation (SIMV),0
+Ryle's tube insertion,0
+Foley's catheterization,0
+central venous cannulation,0
+Midazolam infusion,0
+Fentanyl infusion,0
+severe anemia,0
+deranged renal function,0
+metabolic acidosis,0
+hyperkalemia,0
+hyponatremia,0
+nebulized Salbutamol,0
+dextrose-insulin infusion,0
+uterine perforation,0
+bowel perforation,0
+fluid replacement with hydroxyl-ethyl starch,0
+blood transfusion (1 unit),0
+blood pressure 116/62 mmHg,2 (after 2 hours of admission)
+emergency laparotomy,2
+general anesthesia,2
+sudden hypotension,2
+cardiac arrest,2
+external cardiac massage,2
+colloid bolus,2
+Inj. adrenaline (1 mg IV),2
+successful revival,2.03 (2 minutes after arrest)
+Dopamine infusion,2.03
+stable vitals,2.03
+no further arrhythmia,2.03
+Ketamine infusion,2
+nitrous oxide-oxygen maintenance,2
+Atracurium bolus,2
+6-month-old dead fetus extracted,2
+uterine perforation (3 cm × 4 cm),2
+gangrenous ileum (1.5 feet),2
+gangrenous transverse colon,2
+gangrenous sigmoid colon,2
+resection anastomosis,2
+subtotal hysterectomy,2
+end-colostomy,2
+blood transfusion (1 unit intraoperative),2
+fluid transfusion (2 litres intraoperative),2
+surgery duration 4 hours,"6 (start at 2 hours, ends at 6)"
+shifted to ICU,6
+SIMV maintained,6
+dopamine infusion tapered,30 (24 hours post-op = 24 + 6)
+extubated after two days,54 (48 hours post-op = 48 + 6)
+no major organ failure,0
+no neurological deficit,0
+discharged on tenth post-operative day,240 (10 days = 240 hours)
+22 years old,0
+multiparous,0
+pregnant,0
+female,0
+24 week gestation,0
+altered consciousness,0
+vomiting,0
+bleeding per vaginum,0
+PV manipulation by local health worker,-72
+pale,0
+dehydrated,0
+tender abdomen,0
+distended abdomen,0
+blood pressure 80/46 mmHg,0
+heart rate 130/min,0
+respiratory rate 35/min,0
+Glasgow coma score 8,0
+no neck rigidity,0
+normal reflexes,0
+gangrenous bowel loops protruding from vagina,0
+gas under diaphragm,0
+prolonged PR interval,0
+wide QRS complex,0
+peaked T wave,0
+rehydrated with normal saline,0
+invasive positive pressure ventilation (SIMV),0
+Ryle's tube insertion,0
+Foley's catheterization,0
+central venous cannulation,0
+Midazolam infusion,0
+Fentanyl infusion,0
+severe anemia,0
+deranged renal function,0
+metabolic acidosis,0
+hyperkalemia,0
+hyponatremia,0
+nebulized Salbutamol,0
+dextrose-insulin infusion,0
+uterine perforation,0
+bowel perforation,0
+fluid replacement with hydroxyl-ethyl starch,0
+blood transfusion (1 unit),0
+blood pressure 116/62 mmHg,2
+emergency laparotomy,2
+general anesthesia,2
+sudden hypotension,2
+cardiac arrest,2
+external cardiac massage,2
+colloid bolus,2
+adrenaline (1 mg IV),2
+successful revival,2.03
+Dopamine infusion,2.03
+stable vitals,2.03
+no further arrhythmia,2.03
+Ketamine infusion,2
+nitrous oxide-oxygen maintenance,2
+Atracurium bolus,2
+dead fetus extracted,2
+uterine perforation (3 cm × 4 cm),2
+gangrenous ileum,2
+gangrenous transverse colon,2
+gangrenous sigmoid colon,2
+resection anastomosis,2
+subtotal hysterectomy,2
+end-colostomy,2
+blood transfusion (1 unit intraoperative),2
+fluid transfusion (2 litres intraoperative),2
+surgery duration 4 hours,6
+shifted to ICU,6
+SIMV maintained,6
+dopamine infusion tapered,30
+extubated,54
+no major organ failure,0
+no neurological deficit,0
+discharged,240

@@ -1,0 +1,115 @@
+event,time
+34 years old,0
+Chinese,0
+man,0
+recurrent fever,-3600
+rigors,-3600
+admitted to Department of Pulmonary and Critical Care Medicine,0
+high fever,-3600
+chills,-3600
+right leg pain,-3600
+admitted to county hospital,-3600
+lung infection,-3600
+soft tissue infection,-3600
+antibiotics given,-3600
+condition worsened,-3552
+dyspnea,-3552
+cough,-3552
+chest pain,-3552
+transferred to hospital in Xi'an City,-3552
+admitted with high fever,-3552
+admitted with chills,-3552
+admitted with dyspnea,-3552
+elevated WBC count,-3552
+high neutrophil percentage,-3552
+increased procalcitonin,-3552
+chest CT showing lung infection,-3552
+encapsulated effusion,-3552
+abscess in right lower leg,-3552
+incision and drainage of abscess,-3552
+ceftazidime therapy,-3552
+Proteus vulgaris growth in drainage culture,-3552
+imipenem therapy,-3552
+sulbactam/cefoperazone infusion,-3552
+temperature normalized,-3552
+respiratory symptoms improved,-3552
+leg wound coalesced,-3552
+antibiotics discontinued,-3552
+recurrent fever,-3552
+recurrent cough,-3552
+recurrent chills,-3552
+blood culture positive for Morganella morganii,-3408
+resistant to imipenem,-3408
+sensitive to cefoperazone/sulbactam,-3408
+sulperazone infusion,-3408
+discharged,-3408
+antibiotics discontinued again,-3408
+fever recurred,-3408
+chills recurred,-3408
+cough recurred,-3408
+antibiotic therapy repeated,-3408
+recurrent high fever,0
+recurrent chills,0
+pneumonia,0
+transferred to our hospital,0
+higher fever,0
+chest pain,0
+fatigue,0
+no history of cardiac disease,0
+no invasive procedure history,0
+no intravenous drug abuse,0
+no alcohol abuse,0
+HIV negative,0
+no central venous catheterization,0
+tachycardia,0
+blood pressure 108/70 mmHg,0
+temperature 40.2°C,0
+respiratory rate 24 breaths/min,0
+oxygen saturation 96%,0
+grade II systolic murmur,0
+normal skin examination,0
+normal neurologic examination,0
+no subcutaneous hemorrhagic spot,0
+no undernail linear hemorrhage,0
+no ROTH spot,0
+normal leukocyte count,0
+elevated neutrophil percentage,0
+elevated CRP,0
+elevated ESR,0
+normal kidney function,0
+normal liver function,0
+normal PCT,0
+normal electrolytes,0
+normal NT-proBNP,0
+negative autoantibodies,0
+normal B lymphocyte count,0
+normal immunoglobulin levels,0
+normal lymphocyte subpopulations,0
+CT thorax bilateral pulmonary inflammatory shadows,0
+sinus tachycardia,0
+blood culture positive for M. morganii,120
+resistant to piperacillin,120
+resistant to tazobactam,120
+resistant to imipenem,120
+sensitive to cefoperazone/sulbactam,120
+NGS confirmed M. morganii DNA,120
+TTE showing tricuspid vegetation,120
+tricuspid regurgitation,120
+tricuspid perforation,120
+diagnosis of infective endocarditis,120
+cefoperazone/sulbactam with amikacin therapy,120
+episodes of fever,120
+episodes of chills,120
+surgical indication: vegetation,120
+surgical indication: valve perforation,120
+surgical indication: persistent sepsis,120
+open-heart surgery,504
+tricuspid valvuloplasty,504
+vegetation culture positive for M. morganii,504
+post-operative recovery,504
+pneumonia resolved,504
+fever resolved,504
+TTE follow-up normal heart function,1680
+tricuspid valve rough,1680
+small tricuspid regurgitation,1680
+thoracic CT scan cured,1680

@@ -1,0 +1,53 @@
+﻿event,time
+71-year-old,0
+Male,0
+Otherwise healthy,0
+3-day history of mild abdominal pain,-72
+3-day history of nausea,-72
+3-day history of profuse diarrhea,-72
+"24 h before admission, pain worsened",-24
+"24 h before admission, diarrhea worsened",-24
+Suddenly became unresponsive,-24
+Family brought him in immediately,0
+Hypotensive,0
+Tachycardic,0
+Severe pain in lower abdomen with tenderness,0
+No fever,0
+No masses discovered,0
+No lymph nodes discovered,0
+Metabolic acidosis (pH < 7.2),0
+Serum lactate level over 6 mmol/L,0
+Immediate intravenous fluid reanimation required,0
+Abdominal computed tomography (CT) requested,2
+CT showed bowel dilatation throughout,2
+No free liquid on CT,2
+No free air on CT,2
+No masses on CT,2
+Abdominal pain and distention worsened,4
+Surgical consultation needed,4
+Surgery decided due to concern for intestinal ischemia,5
+Laparotomy performed,6
+Full extent of small bowel had a purplish color and was edematous,6
+No perforation found,6
+No necrosis found,6
+Mesentery engorged with areas of ecchymosis,6
+Bowel had visible peristalsis,6
+Bowel responded to reanimation maneuvers,6
+Second-look laparotomy was planned,6
+Surgery completed using a Bogota bag,6
+Low-molecular-weight heparin initiated,6
+Transferred to intensive care unit,7
+Angio-3D reconstruction of CT performed,12
+No thrombus discovered,12
+No embolus discovered,12
+Vascular malformation of the superior mesenteric artery found,12
+Superior mesenteric artery and celiac trunk arise from a common trunk (celiacomesenteric trunk),12
+"Twenty-four hours later, second laparotomy performed",30
+Bowel loops regained their normal color,30
+Bowel loops regained their normal mobility,30
+Condition complex; never fully recovered from acidosis,48
+Developed ventilator-associated pneumonia,72
+Developed sepsis,72
+Developed refractory shock,96
+Developed organ failure,96
+Died,120

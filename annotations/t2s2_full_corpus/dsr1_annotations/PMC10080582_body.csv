@@ -1,0 +1,66 @@
+event,time
+26 years old,0
+premenopausal,0
+nulliparous,0
+severe hypogastric pain,-24
+no response to analgesics,-24
+uterine myomatosis,0
+pelvic ultrasound,0
+prescribed analgesics,-168
+returned to emergency department,-144
+abnormal uterine bleeding,-144
+abdominal pain,-144
+no prior chronic disease,0
+no prior systemic disease,0
+no prior surgeries,0
+no prior pregnancies,0
+no prior deliveries,0
+regular menstrual cycle,0
+no family history of chronic diseases,0
+no family history of cancer,0
+depressible abdomen,0
+tender abdomen,0
+slight increase in hypogastrium volume,0
+normal laboratory findings,0
+negative SARS-CoV-2 PCR,0
+MRI mass in posterior uterine wall,0
+T1 hyperintense component,0
+T2 hyperintense component,0
+T1 hyperintense halo,0
+high T1 fat-saturation signal (hematic),0
+high T2 fat-saturation signal (liquid),0
+diffusion-weighted images with low ADC (1.5 x10-3 mm²/s),0
+leiomyoma with red degeneration,0
+pyomyoma differential diagnosis,0
+laparoscopic myomectomy,0
+intraoperative large myoma,0
+peripherally hypovascularized,0
+friable tissue in center,0
+postoperative sepsis symptoms,12
+hypotension (70/40 mmHg),12
+tachycardia (150 bpm),12
+fever (39.8°C),12
+respiratory distress (30 rpm),12
+SPO2 80%,12
+drowsiness,12
+intensive care admission,12
+oxygen therapy,12
+fluid resuscitation,12
+empiric antibiotic therapy,12
+anemia (10.4 g/dL),12
+leukocytosis (18.32 K/uL),12
+bandemia (10.0%),12
+high C-reactive protein (123.94 mg/L),12
+procalcitonin (5.55 ng/mL),12
+pCO2 31.0 mmHg,12
+HCO3 20.6,12
+BEb -2.5,12
+lactate 1.3,12
+uterine leiomyoma with necrosis,0
+coagulative necrosis,0
+liquefactive necrosis,0
+tissue culture gram-negative cocci,0
+confirmed pyomyoma,0
+adjusted antibiotic therapy,12
+inflammatory marker normalization,84
+clinical improvement,84

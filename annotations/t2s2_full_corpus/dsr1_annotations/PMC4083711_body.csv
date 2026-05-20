@@ -1,0 +1,56 @@
+event,time
+40 years old,0
+businessman,0
+admitted to ICU,0
+fever,-480
+chills,-480
+vomiting,-120
+seizures,-120
+decreased urine output,-120
+shock,0
+intubated,0
+mechanical ventilation,0
+icteric,0
+acute kidney injury,0
+positive dengue antigen NS1,0
+negative malaria,0
+negative enteric fever,0
+hematocrit 35.2%,0
+total leukocyte count 9600/mm3,0
+coagulopathy,0
+endotracheal bleed,0
+anuria,0
+deteriorating liver function,0
+septic shock,0
+lung protective mechanical ventilation,0
+slow low efficiency daily dialysis,0
+vasopressors (noradrenaline),0
+broad spectrum antibiotics (ceftriaxone),0
+artesunate,0
+dengue IgM positive,0
+Leptospira IgM positive,0
+HEV IgM positive,0
+negative malaria,0
+negative enteric fever,0
+negative hepatitis A,0
+negative hepatitis B,0
+negative hepatitis C,0
+negative HIV,0
+rising serum procalcitonin,0
+no growth of organisms from blood,0
+no growth from endotracheal samples,0
+no growth from urine samples,0
+died,144
+no renal biopsy,0
+no liver biopsy,0
+thrombocytopenia,0
+liver dysfunction,0
+renal dysfunction,0
+hypovolemic shock,0
+septic shock,0
+delayed ICU admission,0
+delayed co-infection detection,0
+multi-organ support,0
+endothelial dysfunction,0
+disseminated intravascular coagulation,0
+cerebral edema,0

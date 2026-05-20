@@ -1,0 +1,75 @@
+event,time
+60 years old,0
+male,0
+admitted to the hospital,0
+recurrent episodes of fever,-1800
+recurrent episodes of cough,-1800
+fever,-144
+cough,-144
+chills,-144
+treatment with clarithromycin,-144
+cruise trip to the Baltic Sea,-1800
+febrile,0
+temperature 40.1°C,0
+tachycardic,0
+109 beats/min,0
+normotensive,0
+138/81 mmHg,0
+tachypneic,0
+28 breaths/min,0
+basal rales over left lung,0
+perioral grouped blisters,0
+blisters extending to nasal orifices,0
+leukocytosis,0
+13×109/L,0
+elevated C-reactive protein,0
+303 mg/mL,0
+elevated total protein,0
+97 g/L,0
+low albumin,0
+26 g/L,0
+moderate hyponatremia,0
+sodium 127 mmol/L,0
+chest X-ray retrocardiac consolidation left lower lobe,0
+community-acquired pneumonia,0
+empirical antimicrobial therapy,0
+piperacillin/tazobactam,0
+clarithromycin,0
+blood cultures positive for S. pneumoniae,24
+sputum cultures positive for S. pneumoniae,24
+de-escalated to benzylpenicillin,24
+treated with oral amoxicillin,24
+total treatment duration 14 days,336
+presumed cutaneous HSV-1 infection,0
+treated with valaciclovir,0
+positive HSV-1 PCR,24
+swab from perioral blister,0
+recurrent fever,-1800
+recurrent cough,-1800
+S. pneumoniae bacteremia,24
+extensive HSV-1 infection,0
+night sweats,-672
+weight loss of 4 kg,-672
+HIV test negative,24
+elevated total protein,0
+low albumin,0
+suspected MM,24
+serum electrophoresis,24
+IgG kappa monoclonal gammopathy,24
+M-protein 31 g/L,24
+free light-chain kappa 500.2 mg/L,24
+free light-chain lambda 8.8 mg/L,24
+kappa/lambda ratio 56.84,24
+bone marrow biopsy plasma cell infiltration >60%,48
+whole-body CT scan lytic lesions,48
+4 lytic lesions in pelvis,48
+1 lytic lesion in cervical spine,48
+diagnosis of MM IgG kappa,48
+recovery from bacteremic pneumonia,336
+induction treatment with bortezomib,336
+lenalidomide,336
+dexamethasone,336
+scheduled autologous HSCT,336
+treatment with IVIG discussed,336
+13-valent pneumococcal vaccination,720
+discharged,336

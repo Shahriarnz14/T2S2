@@ -1,0 +1,44 @@
+event,time
+47 years old,0
+male,0
+diabetes mellitus,0
+presented to emergency department,0
+abrupt-onset severe headache,-24
+right-sided blindness,-24
+"headache (occiput, worst ever, 10/10)",-24
+COVID-19 infection (RT-PCR confirmed),-480
+pulmonary symptoms,-480
+intensive care unit admission (3 days),-480
+drowsiness,0
+"oriented to person, place, time",0
+blood pressure 170/100 mmHg,0
+dysarthric speech,0
+right homonymous hemianopia,0
+alexia without agraphia,0
+no petechiae,0
+no purpura,0
+brain CT: intraparenchymal hemorrhage (left occipital lobe),0
+brain CT: edema (left occipital lobe),0
+brain CT: string/cord sign (left transverse sinus),0
+D-dimer 1030,0
+"platelet count 20,000",0
+"previous platelet count 150,000",0
+peripheral blood smear: giant platelets,0
+no schistocytes,0
+negative COVID-19 RT-PCR,0
+negative HCV antibody,0
+negative HBV antibody,0
+negative HIV antibody,0
+received 10 units platelets,0
+dexamethasone 8 mg TID,0
+"platelet count 49,000",0
+bone marrow aspiration: hypolobulated megakaryocytes,0
+IVIG 20 g for 5 days,0
+"platelet count 115,000",48
+diagnosis of ITP,0
+diagnosis of CVST,0
+discharged,192
+prednisolone 25 mg BID,192
+"platelet count 140,000",720
+improved homonymous hemianopia,720
+reading difficulties,720

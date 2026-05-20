@@ -1,0 +1,67 @@
+event,time
+29 years old,0
+male,0
+admitted to the hospital,0
+muscle pain,-144
+joint pain,-144
+general weakness,-144
+fever,-144
+liver dysfunction,-144
+total bilirubin 5.7 mg/dl,-144
+serum glutamic oxaloacetic transaminase 633 U/L,-144
+serum glutamic pyruvate transaminase 412 U/L,-144
+gamma-glutamyl transferase 161 U/L,-144
+lactate dehydrogenase 1668 U/L,-144
+C-reactive protein 519 mg/l,-144
+procalcitonin 1.28 ng/ml,-144
+leukocyte levels 14.8 × 10³/μl,-144
+acute respiratory failure,0
+altered state of consciousness,0
+continuous sedation,0
+muscle relaxation,0
+intubation,0
+mechanical ventilation,0
+FiO2 100%,0
+SpO2 88.7%,0
+hemodynamic instability,0
+norepinephrine,0
+vasopressin,0
+broad-spectrum empirical antimicrobial therapy,0
+meropenem,0
+azithromycin,0
+oseltamivir,0
+methylprednisolone,0
+stress ulcer prophylaxis,0
+thromboprophylaxis,0
+prone position,0
+chest CT,0
+bedside focus ultrasound,0
+acute renal failure,144
+CRRT,144
+CytoSorb adsorber,168
+septic episode,240
+second CytoSorb therapy,240
+norepinephrine discontinued,192
+inflammatory marker levels decreased,168
+CRP decreased,168
+leukocyte levels normalized,168
+ICU delirium,168
+antipsychotics,168
+percutaneous tracheostomy,168
+ventilator weaning,336
+discharged from MICU,336
+transferred to general ward,336
+transferred to rehabilitation clinic,336
+influenza A (H1N1),-144
+bilateral pneumonia,-144
+massive bilateral pneumonia,0
+minimal pleural effusions,0
+lung-protective ventilation,0
+lung function improvement,168
+ventilation parameters improvement,168
+hemodynamic stabilization,168
+inflammation control,168
+vasopressors discontinued,192
+inflammation markers decrease,168
+gradual improvement,168
+recovery,336

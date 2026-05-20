@@ -1,0 +1,61 @@
+event,time
+57-year-old,0
+male,0
+long-term smoking history,0
+admitted to intensive care unit,0
+fever,-48
+cough,-48
+sputum,-48
+dyspnea,-24
+hypothermia,0
+tachypnea,0
+hypoxemia,0
+tachycardia,0
+blood pressure 115/50 mmHg,0
+bilateral moist rale,0
+arterial blood gas: hypoxygen,0
+metabolic acidosis,0
+hyperlactatemia,0
+white cell count 4.31 ×10^9/L,0
+neutrophil 88.2%,0
+platelet count 48 ×10^9/L,0
+C-reactive protein 295.92 g/L,0
+procalcitonin >200.00 ng/ml,0
+NT-proBNP >35000 pg/mL,0
+troponin T 40.76 pg/mL,0
+CK 2639.00 U/L,0
+CK-MB 63.00 U/L,0
+blood urea nitrogen 18.16 mmol/L,0
+creatinine 513.00 μmol/L,0
+total bilirubin 72.5 μmol/L,0
+alanine aminotransferase 41.00 U/L,0
+aspartate aminotransferase 88.00 U/L,0
+cholinesterase 3.97 U/mL,0
+thoracic CT: right upper lobe consolidation,0
+septic shock,0
+MODS,0
+fluid resuscitation,0
+continuous renal replacement therapy,0
+organ protective therapy,0
+blood culture,0
+sputum culture,0
+empiric antibiotics: piperacillin/tazobactam,0
+empiric antibiotics: moxifloxacin,0
+nasal intubation,0
+mechanical ventilation,0
+prone position ventilation,0
+Klebsiella pneumoniae positive culture,72
+antimicrobial susceptibility: sensitive to piperacillin/tazobactam,72
+string test positive,72
+wax moth larvae test positive,72
+hvKP diagnosis,72
+repeated bronchoscope suction,0
+unstable hemodynamics,0
+norepinephrine 0.5–0.8 μg/kg/min,0
+second thoracic CT: lung abscess,240
+CEUS performed,288
+CEUS-guided drainage,288
+improved hypoxemia,288
+improved hemodynamics,288
+ventilator weaning,384
+third thoracic CT: lung improvement,504

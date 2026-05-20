@@ -1,0 +1,100 @@
+event,time
+66 years old,0
+male,0
+presented to the emergency department,0
+progressive dyspnea,0
+chest pain,0
+body temperature 38.6°C,0
+heart rate 140 beats/min,0
+blood pressure 75/36 mm Hg,0
+respiratory rate 26 breaths/min,0
+oxygen saturation 92%,0
+respiratory distress,0
+accessory muscle use,0
+erythema over sternum,0
+pitting edema in lower extremities,0
+cool feet,0
+rapid heart rate,0
+regular rhythm,0
+soft systolic murmur,0
+jugular venous distension,0
+pulsus paradoxus,0
+tachypnea,0
+clear lung auscultation,0
+aortic stenosis,-504
+surgical mechanical aortic valve replacement,-504
+chronic obstructive pulmonary disease,-504
+cirrhosis,-504
+hypertension,-504
+hyperlipidemia,-504
+septic shock,0
+sternal wound infection,0
+endocarditis,0
+cardiogenic shock,0
+postpericardiotomy syndrome,0
+postsurgical bleed,0
+warfarin anticoagulation,-504
+bacterial pneumonia,0
+viral pneumonia,0
+acute coronary syndrome,0
+pneumothorax,0
+pulmonary embolism,0
+acute heart failure exacerbation,0
+chronic obstructive pulmonary disease exacerbation,0
+moderate to large pericardial effusion,0
+tamponade physiology,0
+echocardiography-guided pericardiocentesis,0
+hemopericardium,0
+hemodynamic improvement,0
+significant decrease in pericardial effusion,0
+effusion could not be fully drained,0
+fluid reaccumulation,24
+pericardial drain left in place,0
+cardiac surgery consulted,0
+active bleeding into pericardial space,0
+cirrhosis,0
+elevated international normalized ratio,0
+fresh frozen plasma,0
+vitamin K,0
+admitted to cardiac intensive care unit,0
+vasopressor support,0
+broad-spectrum antibiotics,0
+blood cultures drawn,0
+pericardial cultures drawn,0
+hospital day 2,48
+chest CT without contrast,48
+mid to lower sternotomy wound dehiscence,48
+broken sternal wires,48
+fractured wire penetrated pericardium,48
+right ventricular free wall injury,48
+intubated,48
+surgical exploration,48
+RV free wall laceration repaired,48
+hypothesized RV injury from wire,48
+hemodynamic instability,48
+continued hypotension,48
+shock requiring vasopressors,48
+blood culture positive Staphylococcus aureus,48
+pericardial culture positive Staphylococcus aureus,48
+sternal bone culture positive Staphylococcus aureus,48
+sternal osteomyelitis,48
+infectious disease consultation,48
+ongoing shock,48
+progressive acute kidney injury,48
+progressive liver injury,48
+multiple vasopressor support,48
+active infection,48
+purulent exudate from sternal wound,48
+returned to operating room five times,48
+repeat sternal debridement,48
+non-healing sternum,48
+positive blood cultures,48
+hospital day 14,336
+transesophageal echocardiography,336
+mitral valve vegetation,336
+endocarditis,336
+progressively declining clinical status,336
+transitioned to comfort care,336
+passed away,336
+autopsy confirmed RV injury,336
+mitral valve endocarditis,336

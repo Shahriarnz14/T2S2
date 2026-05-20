@@ -1,0 +1,105 @@
+event,time
+66 years old,0
+female,0
+admitted to the Toxicology Clinic,0
+unconscious,0
+coma,0
+blood pressure 115/70 mm Hg,0
+heart rate 85/min,0
+oxygen saturation 97%,0
+temperature 36.0°C,0
+tachypnea,0
+bilateral miosis,0
+fingers in ulnar deviation,0
+absent reflexes,0
+discrete pretibial edema bilateral,0
+no clonus,0
+no extrapyramidal signs,0
+hypotension 70/50 mm Hg,-12
+SaO2 85%,-12
+pulmonary edema,-12
+miosis,-12
+no pupillary reflexes,-12
+no nuchal rigidity,-12
+absent limb’s reflexes,-12
+GCS 3,-12
+pulmonary crackles bilaterally,-12
+respiration rate 25–30/min,-12
+non-invasive monitoring,0
+laboratory findings in reference range,0
+discrete deviation in serum glucose,0
+discrete deviation in serum sodium,0
+discrete deviation in serum potassium,0
+urine ketones positive,0
+urine proteins 30,0
+GFR 92.9 mL/min/1.73 m2,0
+D-dimer 3254.36 ng/mL,0
+ECG heart rate 80/min,0
+normal ECG axis,0
+ethanol 526 mg/dL,0
+arterial blood gases pH 7.26,0
+pCO2 3.5 kPa,0
+SaO2 94%,0
+HCO3 14 mmol/L,0
+BE -15.4 mmol/L,0
+anion gap 21.7 mmol/L,0
+lactates >2 mmol/L,0
+symptomatic treatment,0
+pulmonary aspiration,0
+intravenous colloids 500 mL,0
+NaCl 0.9% 500 mL,0
+oxygen support 4–5 L/min,0
+furosemide 10 mg IV,0
+stable hemodynamic condition,12
+blood pressure 110/70 mm Hg,12
+heart rate 110–120/min,12
+urine output 3.5 mL/min,12
+coma persisted,12
+absence of reflexes,12
+toxicological screening confirmed low benzodiazepine levels,12
+benzodiazepine 477 ng/mL,12
+no opiates,12
+no tramadol,12
+no methadone,12
+no cannabis,12
+missing 250 mL 70% ethanol-disinfectant,-24
+reexperienced hypotension 80/60 mm Hg,24
+SaO2 85%,24
+tachypnea 35–40/min,24
+shallow respirations,24
+osmolality 403–421 mOsm/kg,24
+D-dimer increased,24
+anaesthesiology consultation,24
+mask oxygen,24
+no mechanical ventilation,24
+treatment with D5 NS 100 mL/h,24
+potassium 10 mmol/h,24
+thiamine 100 mg IV,24
+oxygen 4–5 L/min,24
+BP oscillation 90/60 mm Hg,24
+PCR SARS-COV-2 negative,24
+hemodialysis initiated,36
+femoral catheter,36
+nadroparin 0.6 mL,36
+HD discontinued after 2.5 hours,39
+increased blood coagulation,39
+post-dialysis ethanol 250 mg/dL,39
+ABGA corrected,39
+D-dimer 8098 ng/mL,39
+stuporous,39
+reflexes restored,39
+glycemia controlled every 4h,39
+lowest glycemia 5.0 mmol/L,48
+treatment with D5 NS 100 mL/h,48
+ceftriaxone 2.0 g,48
+famotidine 20 mg IV tid,48
+nadroparin 0.6 mL tid,48
+LOC improved to mild somnolence,48
+alcoholemia 104 mg/dL,60
+denied taking more than regular 5-HTP,60
+RA therapy discontinued,60
+transferred to psychiatric clinic,72
+stable hemodynamic status,72
+stable mental status,72
+LMWH recommended,72
+control haemostatic parameters,72

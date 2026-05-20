@@ -1,0 +1,188 @@
+event,time
+19 years old,0
+male,0
+admitted to the hospital,0
+chest pain,-240
+oliguria,-240
+phlegm,-168
+history of Nuss surgery,-35064
+pectus excavatum,-35064
+metal bar for repair removed,-1680
+nausea after drinking milk,-336
+violent vomiting,-336
+sent to local hospital,-336
+electrocardiogram ST-segment elevation,-336
+coronary angiogram performed,-336
+midsection of anterior descending branch,-336
+acute myocardial infarction suspected,-336
+myocarditis suspected,-336
+admitted to cardiology department,-312
+chest pain improved,-312
+nausea persisted,-312
+vomiting persisted,-312
+anuria,-312
+acute liver failure,-312
+acute renal failure,-312
+transferred to ICU,-312
+WBC 18.3×10⁹/L,-312
+neutrophiles granulocyte 87.5%,-312
+glutamic-pyruvic transaminase 3469 U,-312
+glutamic oxalacetic transaminase 3815 U/L,-312
+total bilirubin 54.2 μmol/L,-312
+creatinine 217 mmol/L,-312
+urea nitrogen 10.8 mmol/L,-312
+serum potassium 7.47 mmol/L,-312
+creatine kinase 541 U/L,-312
+creatine kinase-MB 50.4 U/L,-312
+lactate dehydrogenase 4138 U/L,-312
+procalcitonin 0.13 ng/mL,-312
+C-reactive protein 22.8 mg/L,-312
+complement and protein 148,-312
+anti-infection,-312
+continuous renal replacement treatment,-312
+blood specimens collected,-312
+urine specimens collected,-312
+etiological examination,-312
+toxicological examination,-312
+vital signs stabilized,-312
+sudden shock,-168
+decreasing heart rate,-168
+endotracheal intubation,-168
+mechanical ventilation,-168
+cardiopulmonary resuscitation,-168
+fluid resuscitation,-168
+low blood pressure,-168
+vasopressors administered,-168
+Dopamine 10 μg/kg/min,-168
+Norepinephrine 0.1 μg/kg/min,-168
+vital signs stabilized,-168
+vasopressors stopped,-72
+endotracheal intubation removed,-48
+transferred to our hospital,0
+temperature 36°C,0
+respiration rate 24 breaths/min,0
+pulse rate 102 beats/min,0
+blood pressure 154/98 mmHg,0
+clear consciousness,0
+poor spirits,0
+skin and mucosa yellow,0
+scattered bleeding points,0
+subcutaneous ecchymosis,0
+thoracic deformity funnelform,0
+old surgical scar on chest,0
+increased respiratory mobility,0
+coarse breath sounds,0
+moist rales,0
+sputum sounds,0
+low-pitched heart sounds,0
+weakened muscle strength,0
+edema in lower extremities,0
+WBC 8.36×10⁹/L,0
+neutrophiles granulocyte 95.4%,0
+platelet 65 g/L,0
+Troponin T 0.182 ng/mL,0
+creatine kinase 7.590 ng/mL,0
+myoglobin 835.3 ng/mL,0
+BNP 6265 pg/mL,0
+chest radiograph lung infection,0
+chest CT left pleural effusion,0
+pericardial effusion,0
+pulmonary infection,0
+renal failure,0
+liver failure,0
+acute cardiac insufficiency,0
+acute myocardial infarction,0
+myocarditis,0
+poisoning suspected,0
+abundant sputum,0
+difficulty in sputum expectoration,0
+echocardiography,0
+sudden palpitation,24
+dyspnea,24
+defecation 400 mL yellow mucous stools,24
+sweating,24
+cyanosis,24
+heart rate 130–140 bpm,24
+oxygen saturation 85%–90%,24
+intubation,24
+mechanical ventilation,24
+oxygen saturation 92%–94%,24
+arterial blood gas oxygenation index 86.6 mmHg,24
+lactic acid 4.3 mmol/L,24
+echocardiography restricted ventricular diastole,24
+stroke volume 17 mL,24
+diastolic pericardial fluid sonolucent area,24
+anechoic area post pericardium 1.8 cm,24
+anechoic area left ventricular lateral pericardium 1.0 cm,24
+anechoic area subcostal 1.4 cm,24
+apical pericardium 2.8 cm,24
+right ventricular lateral pericardium 4.1 cm,24
+flocculent echo in pericardial cavity,24
+no abnormal blood flow,24
+thorax puncture and drainage,24
+tawny turbid effusion,24
+pericardiocentesis,24
+drainage tube indwelled,24
+200 mL dark red fluid drained,24
+symptoms slightly relieved,24
+vital signs stabilized,24
+pericardiocentesis repeated,48
+bloody fluid extracted,48
+coagulation function disorder,48
+low prothrombin complex,48
+low fibrinogen,48
+coagulation factors administered,48
+fraction of inspired oxygen 50%,48
+toxicology tests negative,48
+etiology tests negative,48
+oxygen saturation declined,72
+echocardiography large effusion,72
+active bleeding suspected,72
+position of pericardial drainage tube adjusted,72
+coagulation factors supplemented,72
+consultation with specialists,72
+chest CT sharp osteophyte,72
+osteophyte caused by Nuss bar friction,72
+osteophyte damaged pericardium,72
+pericardial effusion,72
+acute cardiac tamponade,72
+repeated shock symptoms,72
+multiple organ dysfunction,72
+coagulation dysfunction,72
+high surgical risk,72
+thoracotomy under general anesthesia,120
+atelectasis lower left lobe,120
+500 mL thoracic hydrothorax,120
+pericardium adhered to anterior chest wall,120
+300 mL blood fluid extracted,120
+damage to anterior wall of left ventricle,120
+fibrinoid material on surface,120
+local blood exudation,120
+horizontal mattress suture,120
+osteophytes trimmed,120
+bone wax applied,120
+returned to ward,120
+drainage tube bloody fluid,120
+fluid resuscitation,120
+vasopressor administered,120
+active bleeding,120
+hemoglobin 51 g/L,122
+emergency surgical exploration,122
+diffuse extravasation,122
+extensive hemostasis,122
+coagulation factors supplied,122
+mechanical ventilation,122
+anti-infection,122
+CRRT,122
+tracheotomy,336
+intermittent blood supplementing,336
+ventilator parameters reduced,336
+antibiotics stopped,432
+renal function recovered,864
+CRRT stopped,864
+rehabilitation exercise began,864
+ventilator removed,1296
+tracheal tube removed,1296
+discharged,1536
+follow-up normal,1536
+no similar symptoms,1536

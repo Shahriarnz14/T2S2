@@ -1,0 +1,143 @@
+event,time
+42-year-old Brazilian woman,0
+admitted,0
+fever,-168
+diffuse abdominal pain,-168
+discomfort during intercourse,-168
+complete blood count no abnormalities,0
+blood cultures negative,0
+urine cultures negative,0
+colposcopy abnormal area in cervix,0
+Papanicolaou test abnormal cells,0
+cervical intraepithelial neoplasia grade 3,0
+squamous cell carcinoma,0
+chemotherapy,0
+radiotherapy,0
+full clinical recovery,0
+discharged,24
+diabetes mellitus,-8760
+abdominal distension,-8760
+appetite loss,-8760
+hypoalbuminemia,-8760
+intestinal sub occlusion,-8760
+actinic stenosis,-8760
+bowel resection,-8760
+jejunostomy,-8760
+parenteral nutrition,-8760
+antibiotic therapy,-8760
+adhesions between bowel loops,-8640
+stenosis,-8640
+mucous fistula,-8640
+corrective enterectomy,-8640
+fecal content,-8640
+intestinal evisceration,-8640
+aponeurotic dehiscence,-8640
+surgical wound infection,-8640
+Pseudomonas aeruginosa,-8640
+Citrobacter sp.,-8640
+Acinetobacter sp.,-8640
+sepsis,-8640
+worsening clinical condition,-8640
+long-term antibiotic therapy,-8640
+vancomycin,-8640
+imipenem,-8640
+metronidazole,-8640
+readmitted,-4320
+fever episodes,-4320
+severe abdominal pain,-4320
+weakness,-4320
+respiratory distress,-4320
+elevated urea,-4320
+elevated creatinine,-4320
+leukopenia,-4320
+low hemoglobin,-4320
+low platelets,-4320
+venous blood samples collected,-4320
+blood cultures positive,-4320
+Cryptococcus laurentii identified,-4320
+budding capsulated yeast cells,-4320
+fluconazole treatment,-4320
+central venous catheter removal,-4320
+discharged,-4320+22*7*24
+cervical neoplasia,0
+immunosuppressive therapies,0
+radio and chemotherapy cycles,0
+long-standing diabetic status,0
+multiple catheters,0
+invasive medical devices,0
+fungaemia,0
+persistent elevated urea,0
+persistent elevated creatinine,0
+sensitive to amphotericin B,0
+sensitive to fluconazole,0
+42-year-old Brazilian woman,0
+admitted,0
+fever,-168
+diffuse abdominal pain,-168
+discomfort during intercourse,-168
+complete blood count no abnormalities,0
+blood cultures negative,0
+urine cultures negative,0
+colposcopy abnormal area in cervix,0
+Papanicolaou test abnormal cells,0
+cervical intraepithelial neoplasia grade 3,0
+squamous cell carcinoma,0
+chemotherapy,0
+radiotherapy,0
+full clinical recovery,0
+discharged,24
+diabetes mellitus,-8760
+abdominal distension,-8760
+appetite loss,-8760
+hypoalbuminemia,-8760
+intestinal sub occlusion,-8760
+actinic stenosis,-8760
+bowel resection,-8760
+jejunostomy,-8760
+parenteral nutrition,-8760
+antibiotic therapy,-8760
+adhesions between bowel loops,-8640
+stenosis,-8640
+mucous fistula,-8640
+corrective enterectomy,-8640
+fecal content,-8640
+intestinal evisceration,-8640
+aponeurotic dehiscence,-8640
+surgical wound infection,-8640
+Pseudomonas aeruginosa,-8640
+Citrobacter sp.,-8640
+Acinetobacter sp.,-8640
+sepsis,-8640
+worsening clinical condition,-8640
+long-term antibiotic therapy,-8640
+vancomycin,-8640
+imipenem,-8640
+metronidazole,-8640
+readmitted,-4320
+fever episodes,-4320
+severe abdominal pain,-4320
+weakness,-4320
+respiratory distress,-4320
+elevated urea,-4320
+elevated creatinine,-4320
+leukopenia,-4320
+low hemoglobin,-4320
+low platelets,-4320
+venous blood samples collected,-4320
+blood cultures positive,-4320
+Cryptococcus laurentii identified,-4320
+budding capsulated yeast cells,-4320
+fluconazole treatment,-4320
+central venous catheter removal,-4320
+discharged,3696
+cervical neoplasia,0
+immunosuppressive therapies,0
+radio and chemotherapy cycles,0
+long-standing diabetic status,0
+multiple catheters,0
+invasive medical devices,0
+fungaemia,0
+persistent elevated urea,0
+persistent elevated creatinine,0
+sensitive to amphotericin B,0
+sensitive to fluconazole,0

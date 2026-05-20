@@ -1,0 +1,81 @@
+event,time
+72 years old,0
+female,0
+admitted to the intensive care unit,0
+diabetes,-168
+hypertension,0
+sudden onset unconsciousness,-12
+poor glycemic control,-168
+capillary blood glucose 28 mg/dL,0
+Glasgow Coma scale 5/15,0
+pulse 88/min,0
+blood pressure 140/80 mm Hg,0
+respiratory rate 16/min,0
+irregular respiratory rate,0
+bilateral vesicular breath sounds,0
+"total leukocyte count 16,200/mm³",0
+neutrophil predominance,0
+serum ALT 31 IU/mL,0
+serum AST 71 IU/mL,0
+alkaline phosphatase 22 IU/L,0
+total protein 4.8 g/dL,0
+albumin 2.4 g/dL,0
+urea 54 mg/dL,0
+creatinine 1.2 mg/dL,0
+total bilirubin 0.6 mg/dL,0
+conjugated bilirubin 0.3 mg/dL,0
+CT scan signs of focal ischemia,0
+hypoglycemic encephalopathy,0
+hypoxic brain damage,0
+intubated,0
+ventilator support,0
+piperacillin + tazobactam,0
+response to painful stimulus,72
+blood sugar uncontrolled,72
+low grade fever,96
+endotracheal secretions culture,96
+Acinetobacter baumanii isolated,96
+sensitive to netilmicin,96
+sensitive to polymyxin B,96
+blood cultures no growth,72
+chest X-ray mild right basal opacity,96
+netilmicin started,96
+cefepime started,96
+high grade fever,168
+total leukocyte count 8400/mm³,168
+serum creatinine 2 mg/dL,168
+catheterized urine sample culture,168
+blood culture,168
+Escherichia coli isolated,168
+sensitive to meropenem,168
+sensitive to polymyxin B,168
+sensitive to cotrimoxazole,168
+sensitive to nitrofurantoin,168
+meropenem added,168
+leukocyte count 4000/mm³,168
+blood cultures growth E. faecium,168
+E. faecium sensitive to vancomycin,168
+linezolid resistant,168
+vancomycin started,168
+condition deteriorated,168
+declared dead,360
+no previous linezolid exposure,0
+no history of convulsions,-12
+no fever history,-12
+no vomiting history,-12
+no headache history,-12
+no trauma history,-12
+no neurodeficit history,-12
+no similar organisms in ICU cultures,360
+no clonal spread,360
+no LI VRE in rectal cultures,360
+LR E. faecium susceptible to vancomycin,168
+LR E. faecium susceptible to ampicillin,168
+LR E. faecium susceptible to tetracycline,168
+LR E. faecium susceptible to aminoglycosides,168
+LR E. faecium susceptible to teicoplanin,168
+linezolid MIC 1024 μg/mL,168
+E-test MIC >256 μg/mL,168
+Vitek 2 MIC >256 μg/mL,168
+agar dilution MIC 1024 μg/mL,168
+linezolid disk diffusion resistant,168

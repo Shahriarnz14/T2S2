@@ -1,0 +1,94 @@
+event,time
+32 years old,0
+female,0
+history of intravenous drug use,0
+attention deficit/hyperactivity disorder,0
+admitted to the hospital,0
+fevers,-168
+chills,-168
+generalized weakness,-168
+shortness of breath,-72
+non-smoker,0
+denies alcohol use,0
+fentanyl abuse,0
+dextroamphetamine/amphetamine,0
+denies exposure to other medications or chemicals,0
+temperature 102.7°F,0
+blood pressure 102/56 mmHg,0
+pulse 136 bpm,0
+respiratory rate 38 bpm,0
+oxygen saturation 94%,0
+moderate respiratory distress,0
+bilateral rhonchi,0
+tachycardia,0
+"WBC 12,200/mm³",0
+hemoglobin 10.9 g/dL,0
+"platelet count 85,000/mm³",0
+ESR 60 mm/hr,0
+hyponatremia (124 mmol/L),0
+creatinine 2.8 mg/dL,0
+BUN 98 mg/dL,0
+NT-proBNP 1028 pg/mL,0
+sinus tachycardia,0
+bilateral lower lobe infiltrates,0
+small pleural effusions,0
+IV fluids,0
+levofloxacin,0
+clinical deterioration,24
+transferred to ICU,24
+septic shock,24
+acute respiratory failure,24
+pressor support,24
+mechanical ventilation,24
+blood cultures gram-positive cocci,24
+vancomycin,24
+tricuspid valve vegetation (2 cm x 1.2 cm),24
+moderate-to-severe tricuspid regurgitation,24
+patent foramen ovale,24
+CT chest multiple cavitary peripheral lung nodules,24
+non-oliguric AKI,24
+renal replacement therapy,24
+acute tubular necrosis,24
+MSSA in blood cultures,72
+oxacillin initiated,72
+gradual improvement over two weeks,168
+weaned off pressors,336
+extubated,336
+renal function recovery,336
+purpuric papules on hands and feet,360
+bullous lesions,384
+lesions on anterior knee and thighs,384
+no mucosal or palmar involvement,384
+denies abdominal pain,384
+denies arthralgias,384
+denies paresthesia,384
+denies fever,384
+denies chills,384
+HIV negative,384
+hepatitis B negative,384
+p-ANCA negative,384
+c-ANCA negative,384
+cryoglobulin negative,384
+rheumatoid factor negative,384
+ANA 1:40,384
+anti-ds DNA negative,384
+C3 14 mg/dL,384
+C4 28 mg/dL,384
+HCV positive,384
+HCV viral load 4.16×10⁵ IU/mL,384
+no RBC count changes,384
+no leukocyte count changes,384
+no kidney function changes,384
+normal eosinophil count,384
+bullous fluid culture negative,384
+gram stain negative,384
+punch biopsy leukocytoclastic vasculitis,384
+no bacteria in biopsy,384
+no fungi in biopsy,384
+no viral inclusions,384
+oxacillin-associated LCV diagnosed,384
+vancomycin restarted,384
+skin lesion resolution,408
+tricuspid valve replacement,672
+no perioperative complications,672
+no recurrence at follow-up,720

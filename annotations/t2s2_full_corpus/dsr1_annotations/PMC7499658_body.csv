@@ -1,0 +1,67 @@
+event,time
+42 years old,0
+male,0
+fever,-72
+cough,-72
+dyspnoea,-72
+headache,-72
+positive RT–PCR for SARS-CoV-2,0
+systolic hypertension (155/85 mmHg),0
+heart rate 94 b.p.m.,0
+respiratory rate 30 breaths/min,0
+oxygen flow rate 15 L/min,0
+O2 saturation 94%,0
+no left ventricular failure,0
+no leg edema,0
+fine scattered crackles,0
+normal ECG,0
+normal echocardiogram,0
+bilateral peripheral pulmonary infiltrates on CXR,0
+white cell count 19.5 × 10⁹/L,0
+neutrophil count 14.5 × 10⁹/L,0
+lymphocyte count 0.7 × 10⁹/L,0
+platelet count 360 × 10⁹/L,0
+haematocrit 24.6%,0
+ferritin 855 μg/L,0
+C-reactive protein 112.0 mg/L,0
+D-dimer 4400 ng/mL,0
+fibrinogen 7.1 g/L,0
+prothrombin time 17.0 s,0
+aPTT 43.7 s,0
+ceftriaxone,0
+clarithromycin,0
+hydroxychloroquine,0
+enoxaparin 40 mg once daily,0
+hypoxaemic respiratory failure,24
+invasive mechanical ventilation,24
+hypotension (systolic 70 mmHg),72
+sinus tachycardia (124 b.p.m.),72
+haemodynamic instability,72
+ECG S1Q3T3 pattern,72
+"ECG T wave inversion V2, V3, V4",72
+dilated right ventricle,72
+severe right ventricular hypokinesis,72
+right atrial thrombus,72
+pulmonary arterial pressure 60 mmHg,72
+norepinephrine infusion,72
+dobutamine infusion,72
+vasopressin infusion,72
+refractory shock,72
+VA-ECMO,72
+catheter-directed thrombolysis,72
+alteplase infusion,72
+unfractionated heparin infusion,72
+right ventricular diameter decrease,84
+right ventricular systolic function improvement,84
+pulmonary pressure 40 mmHg,84
+right atrial thrombus disappearance,84
+VA-ECMO removal,144
+CT pulmonary angiography confirmed pulmonary embolism,144
+chest CT showing COVID-19 pneumonia,144
+weaned from ventilation,192
+rehabilitation programme,192
+vitamin K antagonist,192
+LMWH,192
+discharged,192
+mild pulmonary hypertension,7680
+normal right ventricle,7680

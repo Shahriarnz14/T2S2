@@ -1,0 +1,102 @@
+event,time
+65-year-old woman,0
+scheduled to undergo a left lobe hepatectomy,0
+hepatocellular carcinoma,0
+liver cirrhosis (Child-Pugh class A),0
+chronic hepatitis B,0
+no other medical problems,0
+premedication glycoppyrolate 0.2 mg intravenous,-0.5
+general anesthesia induced with propofol 100 mg,-0.1
+general anesthesia induced with rocuronium 50 mg,-0.1
+general anesthesia induced with remifentanil 40 µg,-0.1
+intubated,-0.05
+ventilated mechanically,-0.05
+maintained with sevoflurane (1-2.5%),0
+maintained with remifentanil (0.1-0.25 µg/kg/min),0
+maintained with rocuronium (5-10 µg/kg/min),0
+electrocardiography monitoring,0
+arterial blood pressure monitoring,0
+central venous pressure monitoring,0
+SpO2 monitoring,0
+nitrous oxide omitted,0
+central venous catheterization,0
+saline soaking of the surgical field,0
+CUSA® used,0
+left lobe hepatectomy started,0
+vital signs stable,0.5
+sudden decrease in arterial blood pressure,1
+systolic blood pressure <40 mmHg,1
+decreased end-tidal carbon dioxide,1
+end-tidal carbon dioxide <26 mmHg,1
+SpO2 <50%,1
+tachycardia (110-135 beats/min),1
+ST elevation on the EKG,1
+resuscitation with rapid intravenous colloid,1
+intravenous epinephrine 1 mg,1
+norepinephrine infusion started,1
+intraoperative ultrasonography: massive air emboli in left heart,1
+intraoperative ultrasonography: massive air emboli in right heart,1
+diagnosed with venous air embolism,1
+diagnosed with paradoxical air embolism,1
+arterial blood gas analysis at diagnosis: pH 7.278,1
+arterial blood gas analysis at diagnosis: pCO2 51.3 mmHg,1
+arterial blood gas analysis at diagnosis: PO2 84.6 mmHg,1
+arterial blood gas analysis at diagnosis: HCO3- 24.2 mmol/L,1
+arterial blood gas analysis at diagnosis: SaO2 94.4%,1
+FiO2 0.5,1
+attempt to aspirate air via internal jugular venous catheter,1
+systolic blood pressure approximately 90 mmHg,1.17
+heart rate approximately 110 beats/min,1.17
+central venous pressure approximately 2 mmHg,1.17
+end-tidal carbon dioxide 32 mmHg,1.17
+arterial blood gas analysis: pH 7.338,1.5
+arterial blood gas analysis: pCO2 44.3 mmHg,1.5
+arterial blood gas analysis: PO2 234.0 mmHg,1.5
+arterial blood gas analysis: HCO3- 24.0 mmol/L,1.5
+arterial blood gas analysis: SaO2 99.6%,1.5
+FiO2 1.0,1.5
+norepinephrine infusion (0.2-0.3 µg/kg/min) continued,1.5
+fluid resuscitation continued,1.5
+colloid 1000 ml infused,1.5
+crystalloid 500 ml infused,1.5
+left heart air emboli disappeared,2.17
+hepatectomy restarted,2.17
+hepatectomy completed,5
+anesthesia time 5 hr,5
+"total fluid administered 2,950 ml",5
+total urinary output 220 ml,5
+estimated blood loss 800 ml,5
+systolic blood pressure approximately 90 mmHg,5
+norepinephrine infusion 0.2-0.3 µg/kg/min,5
+intubated,5
+ventilated mechanically,5
+responded only to intense pain,5
+PT 25.5 sec,5
+PTT 51.8 sec,5
+fibrinogen 96 mg/dl,5
+"d-dimer 6,519 ng/ml",5
+antithrombin III 19%,5
+CK-MB 40.74 ng/ml,5
+troponin-T 1.880 ng/ml,5
+postoperative EKG: ST elevation in II,5
+postoperative EKG: ST elevation in III,5
+postoperative EKG: ST elevation in aVF,5
+EKG findings recovered normally,24
+transthoracic echocardiogram unremarkable,24
+no patent foramen ovale,24
+vital signs were stable,24
+norepinephrine infusion tapered out,24
+mental status had not changed,120
+brain CT: multiple acute cerebral infarctions,120
+brain MRI: multiple acute cerebral infarctions,120
+multiple acute cerebral infarctions,120
+weaned to spontaneous ventilation with CPAP mode,264
+extubated,264
+mental status unchanged,264
+vital signs became unstable,360
+intravenous catecholamines started,360
+panperitonitis confirmed,480
+gram (+) cocci on peritoneal culture,480
+cardiac arrest,744
+septic shock,744
+expired,744

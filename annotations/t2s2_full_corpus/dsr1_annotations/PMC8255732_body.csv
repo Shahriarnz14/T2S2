@@ -1,0 +1,69 @@
+event,time
+77 years old,0
+male,0
+history of hypertension,0
+history of diabetes,0
+history of ischemic heart disease,0
+captopril 25 mg tablet twice daily,0
+metformin 500 mg tablet twice daily,0
+aspirin 100 mg tablet once daily,0
+atorvastatin 20 mg tablet,0
+admitted to the emergency department,0
+progressive weakness in lower limbs,-72
+retention of urine,-72
+loss of all sensations in lower limbs up to umbilicus level,-72
+febrile illness,-120
+no shortness of breath,-120
+no cough,-120
+general examination good,0
+full consciousness,0
+wakeful and alert,0
+normal vital signs,0
+low-grade fever (38°C),0
+no dyspnea,0
+no tachypnea,0
+chest auscultation fine crackles,0
+normal S1 and S2 heart sounds,0
+abdomen soft,0
+palpable distended bladder,0
+normal higher cerebral function,0
+normal speech,0
+intact cranial nerves,0
+upper limb normal strength (5/5),0
+upper limb reflexes +2,0
+upper limb normal sensory examination,0
+lower limb flaccid paralysis (0/5),0
+lower limb hypotonia,0
+lower limb reflexes 0,0
+bilateral mute plantar reflex,0
+extensor plantar reflex,48
+sensory level T10,0
+loss of all sensation below T10,0
+retention of urine,0
+elevated WBC count,0
+lymphopenia,0
+elevated renal indices,0
+chest CT multiple peripheral ground-glass pulmonary opacities,0
+cervical dorsal MRI normal degenerative changes,0
+lumbosacral spine MRI normal degenerative changes,0
+PCR negative for cytomegalovirus,0
+PCR negative for Epstein-Barr virus,0
+PCR negative for HSV-1,0
+PCR negative for HSV-2,0
+serology negative for hepatitis C virus,0
+serology negative for Mycoplasma pneumoniae,0
+serology negative for Brucella,0
+Quanti FERON-TB Gold test negative,0
+isolation,0
+methylprednisolone 1 g i.v. pulse therapy,0
+insulin therapy,0
+ceftriaxone 1 g i.v. twice daily,0
+azithromycin 250 mg two capsules once daily,0
+referral to COVID-19 hospital,24
+SARS-CoV-2 RT-PCR positive,24
+progressive deterioration with shortness of breath,48
+admitted to ICU,72
+mechanical ventilation,72
+multiorgan failure,96
+septicemia,96
+death,96

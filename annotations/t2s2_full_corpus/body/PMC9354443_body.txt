@@ -1,0 +1,86 @@
+pmc1 Introduction and Importance
+
+In the last days of 2019, unknown pneumonia was reported in Wuhan, China. The cause was later named severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2) [1]. The spread of the virus was so rapid that the 51st World Health Organization Status Report on March 11, 2020, declared a pandemic of this disease (named coronavirus disease 2019 (COVID-19)). COVID-19 can manifest with a wide range of symptoms, as it causes multi-organ involvement [2]. Decreased level of consciousness is a very rare complication of this life-threatening disease that requires urgent medical management. In this case, we will report an 89-year-old woman who was referred to our medical center with a loss of consciousness (LOC).
+
+2 Case presentation
+
+A 89-year-old female presented with sudden LOC to the emergency department of our medical center via ambulance at January 2022. She lost consciousness about half an hour after eating breakfast, and the patient's companions mentioned that she had complained of a dry cough and body aches for the past two days and she had no comorbidity. The patient had no history of drug, alcohol, smoking, or allergy to any particular substance or food. She had been vaccinated twice with Sinopharm vaccine (China National Pharmaceutical Group Corporation) for COVID-19.
+
+In the physical examination, Glasgow Coma Scale (GCS) score was three, oral temperature was 36.5 °C, and other vital signs were normal. Oxygen saturation was 98%. Lab tests revealed elevated lactate dehydrogenase (579 units/liter (U/L), normal: 140–280), C-reactive protein level (77.1 mg/Liter (mg/L), normal: < 10), ESR (54 mm/hr, normal: 1–20), CPK (332 U/L, normal: 26–192), Urea (99 mg/dL, normal: 6–24), and blood sugar (223 mg/dL, <200). Low hemoglobin (11.1 g/dL, normal: 11.7–16) was observed in complete blood count (CBC). Other tests (Liver function, atrial blood gas, electrolytes, and coagulation) were normal. In multiple sections of the brain CT scan from the base of the skull to the vertex area without contrast injection, partial dilatation of the ventricles, sulcus, and hypodense areas was observed in the periventricular area, indicating senile parenchymal atrophy and severe small vessel disease, respectively. Ground glass patches were noted diffusely along with consolidation areas, preferably at the base of the right lung (50–75% involvement) in computed tomography (CT) scan. Bilateral minimal pleural effusion was also detected (Supp. 1). These findings did not verify the primary suspicion of gas poisoning or hypoxemia in the bathroom or superimposed aspiration pneumonia. Due to COVID-19 pandemic, the nasopharyngeal swab test was done, and severe acute respiratory syndrome coronavirus 2 nucleic acid was detected by reverse transcription-polymerase chain reaction. The patient was treated based on routine COVID-19 therapy [3]. The next day, fever (T = 39.3) and severe lymphopenia were detected, and the patient's condition worsened. Unavoidably, on the third day of hospitalization, the patient was admitted to the intensive care unit (ICU) and intubated by an anesthesiologist due to a decline in respiration and a sudden drop in O2sat to 78%. Supplementary data are outlined in Table 1.Table 1 Supplementary data about the first 3 days of the patient's hospitalization.
+
+Table 1Hematologic data (on admission)	Metabolic data (on admission)	Important biomarkers (on admission)	Important data (2nd day)	Important data (3rd day)	
+WBC:7500	BS: 223 (mg/dL)	AST: 23 (U/L)	WBC:8700	WBC:6500	
+Neutrophil: 75.4%	Urea: 99 (mg/dL)	ALT:19 (U/L)	Neutrophil: 91.9%	Neutrophil: 87.5%	
+Lymphocyte:22.8%	Cr: 1.1 (mg/dL)	ALP:180 (U/L)	Lymphocyte:4.4%	Lymphocyte:8.4%	
+Hb:11.1 (g/dL)	Na: 135 (mEq/L)	CPK: 332 (U/L)	CRP: 82.3 (mg/dL)	Hb; 11.7 (g/dL)	
+CRP:77.1 (mg/dL)	K: 3.4 (mEq/L)	LDH:579 (IU/L)	LDH: 654 (IU/L)		
+ESR: 54 (mm/hr)					
+WBC, white blood cells; Plt, platelet; CRP, c-reactive protein; ESR, erythrocyte sedimentation rate; BS, blood sugar; Cr, creatinine; AST, aspartate transaminase; ALT, alanine transaminase; ALP, alkaline phosphatase; CPK, creatine phosphokinase; LDH, lactate dehydrogenase; O2sat, O2 saturation.
+
+On the 20th day, lymphopenia along with other abnormalities in inflammatory biomarkers such as CRP, ESR, and LDH, as well as O2sat deficiency along with respiratory distress were corrected.
+
+After 26 days of hospitalization in the ICU, the patient was discharged with partial recovery following negative PCR testing. Three months after the follow-up, the patient was living without any particular problem. This case report has been reported in line with the SCARE 2020 criteria [4]. Written informed consent was obtained from the patient for publication of this case report and accompanying supplementary file.
+
+3 Clinical Discussion
+
+To date, the COVID-19 pandemic can certainly be considered the most important and effective event of the 21st century [5]. This disease can cause a wide range of symptoms and challenges its diagnosis and management [6]. In this case study, the patient was referred to our center with a decreased level of consciousness (GCS = 3) and had no accompanying symptoms. The diagnosis of COVID-19 was given by findings in favor of the disease on a CT scan of the lung with an observation of 50–75% involvement and finally confirmed by detecting the SARS-CoV-2 nucleic acid by RT-PCR test. However, despite pulmonary involvement, the patient's O2Sat was 98%. The patient had no findings of stroke, trauma, embolism, or thrombosis. Impairment of consciousness has been reported in 1–20% of patients with COVID-19, especially in those with severe forms of the disease [[7], [8], [9]]. This disorder could be prolonged in severe COVID-19 and even have a vague prognosis [10].
+
+Severe COVID-19 can increase the risk of stroke by developing a pro-inflammatory phase. It is speculated that COVID-19 increases the risk of cerebrovascular involvement by creating a specific type of immune-mediated vasculitis. In a series of cases performed in Zurich, using neuroimaging and autopsy, CNS small vessel disease was diagnosed in patients with COVID-19 by observing multiple cerebral bleeding lesions [11]. Angiotensin-converting enzyme 2 (ACE-2), the major SARS-CoV-2 host cell receptor, is also expressed in the brain endothelium, suggesting that the endothelium is directly impacted by the virus [12]. Cytokines such as IL-6 induce metabolic changes caused by inflammation and its release from the peripheral blood to the CNS, leading to disruption of the blood-brain barrier and brain tissue impairment [12]. In the present case, severe small vessel disease was diagnosed by observing the hypodense and dilatation areas of the ventricles and sulcus. These results propose that SARS-CoV-2 may increase the risk of LOC by the involvement of cerebral vessels.
+
+In a case report of a 78-year-old man with a positive RT-PCR, he lost consciousness due to syncope. High D-dimer levels and long-term use of antihypertensive drugs appear to cause LOC [13]. In another study, a 29-year-old man was presented with COVID-19 with LOC. Subsequent data reinforced the suspicion that a sharp decrease in blood oxygen saturation (65%) may have caused LOC [14]. In the case we reported, there were no indications of underlying disease, hypoxia, trauma, embolism, stroke, or, consumption of antihypertensive drugs. Also, the patient's condition does not fit into the septic encephalopathy. Dilation of blood vessels during a systemic and localized cytokine storm (interleukin-1 and interleukin-6) can induce hypotension and a decrease in level of consciousness [15]. COVID-19-induced cytokine storm appears to increase LOC risk.
+
+Syncope is not common in COVID-19 and is estimated to occur in 4.2% of patients. Various mechanisms, such as reflex syncope, orthostatic hypotension, and cardiac syncope, can cause this complication. However, so far, there is no single mechanism that can clarify the cause of syncope in COVID-19 [16]. The results of a study aimed at examining the clinical manifestations and outcomes in different age groups of patients with COVID-19 admitted to the Spanish emergency department showed that the frequency of syncope in the age group over 85 years (approximately 10%) was higher than in other groups. Syncope was not reported in the patients aged 18–44 years [17]. It can be claimed that syncope-induced LOC can be considered as one of the symptoms of COVID-19 in the elderly population. Therefore, more attention should be paid to this population, which is more at risk [18].
+
+COVID-19 patients without company with typical signs can experience neurological signs such as strokes, encephalitis, anosmia, and ageusia [19]. In a case series, loss of consciousness was reported in a patient with COVID-19 who presented with symptoms of ischemic stroke [20]. Diagnosing COVID-19 in patients with mild or only neurological symptoms, as described here, could be challenging [14].
+
+4 Conclusion
+
+COVID-19 and aging can increase the risk of LOC by involving cerebral vessels. Albeit COVID-19 presenting with LOC is a rare condition, emergency physicians need to be watchful about the probable complications of LOC as a critical and manageable status for COVID-19, specifically in senile patients.
+
+5 Compliance with ethical standards
+
+All procedures performed in this study involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.
+
+Funding
+
+None.
+
+Conflict of interest for all authors
+
+The authors declare no competing interest.
+
+Ethical approval
+
+All procedures performed in this study involving human participants were in accordance with the ethical standards of the institutional and/or national research.
+
+Research registration
+
+This is not an original research project involving human participants in an interventional or an observational study but a case report. This registration was not required.
+
+Consent
+
+Written informed consent was obtained from the patient for publication of this case report and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal on request.
+
+Authorship contribution statement
+
+Alireza Razavi: Conceptualization, Writing – original draft, Writing – review & editing. Hamed Jafarpour: Supervision, Investigation. Roya Ghasemian: Supervision, Investigation. Maedeh Raei: Writing –review & editing, Conceptualization. All authors were involved in the researching, writing, and editing of the manuscript. All authors have read and approved the final manuscript.
+
+Guarantor
+
+Alireza Razavi.
+
+Provenance and peer review
+
+Not commissioned, externally peer-reviewed.
+
+Appendix A Supplementary data
+
+The following are the Supplementary data to this article:Multimedia component 1
+
+Multimedia component 1
+
+Multimedia component 2
+
+Multimedia component 2
+
+Appendix A Supplementary data to this article can be found online at https://doi.org/10.1016/j.amsu.2022.104240.

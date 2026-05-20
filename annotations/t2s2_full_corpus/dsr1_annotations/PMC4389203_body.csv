@@ -1,0 +1,46 @@
+event,time
+68 year old,0
+female,0
+hospitalized,0
+metastatic adenocarcinoma of the ampulla of Vater,0
+pancreaticoduodenectomy,0
+lymphadenectomy,0
+central venous catheter placement,0
+drain placement,0
+bile culture positive for Enterococcus faecalis,24
+bile culture positive for Klebsiella pneumoniae,24
+bi-antibiotherapy with meropenem,24
+bi-antibiotherapy with vancomycine,24
+shivering,528
+fever of 38.5 °C,528
+blood cultures drawn,528
+blood cultures negative,528
+central venous catheter blood cultures drawn,552
+central venous catheter blood cultures positive,624
+central venous catheter blood cultures positive,648
+microscopic examination revealed unusual fungal elements,624
+intravenous fluconazole 800 mg/day initiated,624
+liposomal amphotericin B 3 mg/kg/day initiated,648
+central venous catheter withdrawn,552
+central venous catheter culture negative,576
+control blood cultures negative,576
+septic shock,648
+peripheral blood culture positive for Candida albicans,648
+arterial catheter blood culture positive for Candida albicans,648
+central venous catheter blood culture positive for Candida albicans,648
+peripheral blood culture positive for Candida glabrata,648
+arterial catheter blood culture positive for Candida glabrata,648
+central venous catheter blood culture positive for Candida glabrata,648
+transferred to intensive care unit,648
+liposomal amphotericin B continued,648
+yeast colonies growth on chromID Candida agar,624
+yeast colonies growth on Sabouraud-Chloramphenicol-Agar,624
+MALDI-TOF analysis inconclusive,624
+APID 32C strip inconclusive,624
+urease positive,624
+nitrate positive,624
+morphological study compatible with Pseudozyma,624
+sequencing confirmed P. aphidis,624
+antifungal susceptibility testing performed,624
+favorable evolution,624
+discharge,336

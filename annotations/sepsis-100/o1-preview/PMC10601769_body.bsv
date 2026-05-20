@@ -1,0 +1,79 @@
+65 years old|0
+female|0
+presented to the oncology clinic|0
+substantial smoking history of greater than 40 pack years|0
+hypertension|0
+hypothyroidism|0
+dyslipidemia|0
+stage IIIA lung cancer diagnosed| -19440
+spiculated suprahilar 4.5 × 2.6 cm right upper lobe (RUL) nodule on a screening low-dose CT scan| -19440
+multiple sub-centimeter left lung nodules consistent with lung-RADS 4X| -19440
+positron emission tomography/CT (PET/CT) scan showed augmented activity in the RUL mass| -19440
+bronchoscopy-attained tissue sample showed that the RUL mass was a NSCLC, consistent with adenocarcinoma| -19440
+lymph node sampling was negative for nodal involvement, consistent with stage IIIA lung adenocarcinoma (T4N0M0)| -19440
+Program death ligand-1 expression was 15%| -19440
+surgical resection of the mass was planned| -19440
+surgical resection aborted due to encasement of the pulmonary artery and superior vena cava| -19440
+encasement of the pulmonary artery| -19440
+encasement of the superior vena cava| -19440
+completed 7 rounds of carboplatin and paclitaxel| -18000
+completed 8 rounds of radiation therapy| -18000
+repeat CT scan revealed a decrease in the RUL mass from 4.5 × 2.6 cm to 3.5 × 2.1 cm| -15120
+adjuvant immunotherapy with durvalumab started| -13680
+3 rounds of durvalumab received| -13680
+premature discontinuation of durvalumab due to pneumonitis| -13680
+pneumonitis| -13680
+steroid taper prescribed and completed for pneumonitis| -13680
+staging chest CT showed an increase in the RUL mass to 5.0 × 2.8 cm| -14520
+follow-up chest CT showed an increase in the RUL mass to 6.5 × 2.2 cm without distant metastasis| -10080
+CT scan in September 2021 showed no distant metastasis and relatively stable lung nodules| -7920
+CT scans between September 2021 and June 2022 showed stable appearance of the lung nodules and post-radiation changes consistent with radiation fibrosis| -7920
+CT scan in June 2022 showed stable disease| -1440
+epigastric pain| -2880
+constipation| -2880
+loss of appetite| -2880
+weight loss| -2880
+abdominal and pelvic CT scan showed a mass in the head of the pancreas measuring 3.1 × 3.4 cm and pancreatic ductal dilatation to 7 mm| -720
+referred to gastroenterology for endoscopic ultrasound-guided biopsy of the pancreatic head mass|0
+endoscopic ultrasound-guided biopsy of pancreatic head mass performed|0
+pancreatic mass biopsy showed metastasis from lung adenocarcinoma|0
+liver enzymes within normal limits|0
+total bilirubin within normal limits|0
+CA 19.9 was 22.5 U/mL|0
+poor surgical candidate|0
+PET/CT scan showed fluorodeoxyglucose-avid mass in the pancreatic head with SUV max of 13.3 and increased uptake in the porta hepatis with SUV max of 4.2|720
+no other regions of metastases appreciated|720
+brain MRI scan was negative for intracranial metastasis|720
+palliative radiation therapy to the pancreatic mass|2160
+combination chemotherapy with carboplatin and pemetrexed initiated|2160
+three cycles of chemotherapy completed|2880
+chemotherapy held due to hospitalization for generalized weakness and dyspnea at rest|2880
+generalized weakness|2880
+dyspnea at rest|2880
+electrolyte derangements found|2880
+acute anemia with hemoglobin nadir of 6.9 g/dL|2880
+transfusion required|2880
+CT scan revealed a new 9 mm left lower lobe nodule|2880
+patient discharged home|3600
+staging PET/CT scan showed decreased metabolic activity in the pancreatic mass and metabolic activity in the new left lower lobe nodule|4320
+patient expressed uncertainty regarding treatment continuation due to fatigue|4320
+no further treatments given after third chemotherapy cycle|4320
+increased dyspnea|5040
+cough|5040
+generalized weakness|5040
+saturating at 87% on 3 L oxygen via nasal cannula|5040
+using accessory muscles|5040
+blood pressure of 84/70|5040
+heart rate of 138|5040
+admitted to the hospital|5040
+imaging revealed right lung consolidation and loculated pleural effusion|5040
+acute hypoxic respiratory failure due to sepsis secondary to pneumonia|5040
+vancomycin initiated|5040
+azithromycin initiated|5040
+cefepime initiated|5040
+oxygen supplementation with bilevel-positive airway pressure|5040
+altered mentation|5184
+worsening hypoxemia|5184
+vasopressor support required|5184
+transition to inpatient hospice care|5232
+patient passed peacefully under comfort measures|5232

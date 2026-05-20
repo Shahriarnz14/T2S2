@@ -1,0 +1,59 @@
+event,time
+unstable angina ,-192
+coronary stent insertion ,-192
+Sigmart treatment ,-192
+aspirin treatment ,-192
+Almarl treatment ,-192
+Herben treatment ,-192
+chest X-ray ,-24
+echocardiogram ,-24
+aspirin stopped ,-7
+bupivacaine injection ,0
+dexmedetomidine infusion ,0
+tourniquet application ,0
+surgery ,0
+estimated blood loss ,0
+intraoperative vital signs ,0
+recovery room arrival ,0
+vital signs in recovery room ,0
+post-operative pain management ,0
+antibiotics injection ,0
+severe pain on the right thigh ,24
+overnight shivering ,24
+Tridol Injection ,24
+mental change ,24
+Glasgow coma scale score ,24
+vital signs ,24
+electrocardiogram ,24
+physical examination ,24
+urine output ,24
+laboratory examinations ,24
+CK elevated ,19
+CK-MB elevated ,19
+AST elevated ,19
+BUN/Cr elevated ,19
+troponin-I normal ,19
+coagulation battery prolonged ,19
+thrombocytopenia ,19
+fibrinogen degradation product elevated ,19
+D-dimer elevated ,19
+brain MRI ,25
+serum myoglobin elevated ,25
+urine myoglobin elevated ,25
+red blood cell count elevated ,25
+tourniquet-induced rhabdomyolysis diagnosis ,25
+AKI diagnosis ,25
+DIC diagnosis ,25
+norepinephrine infusion ,25
+ICU admission ,25
+arterial line placement ,25
+central line placement ,25
+fluid treatment ,25
+Lasix injection ,25
+sodium bicarbonate injection ,25
+Denogan injection ,25
+fever ,27
+vital signs ,27
+cardiac arrest ,29
+cardiopulmonary resuscitation ,29
+death ,29

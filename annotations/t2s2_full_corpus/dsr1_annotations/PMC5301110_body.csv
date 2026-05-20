@@ -1,0 +1,98 @@
+event,time
+69-year-old,0
+male,0
+hypertension,0
+CKD stage 5,0
+hemodialysis for 4 years,0
+bilimbi fruits ingestion,-48
+greenish coloration,-48
+uncontrollable hiccups,-45
+malaise,-45
+abdominal discomfort,-45
+macroscopic hematuria,-45
+nausea,-28
+vomiting,-28
+asthenia,-24
+decreased level of consciousness,-24
+dysarthria,-24
+myoclonus of upper limbs,-24
+generalized tonic-clonic seizures,-24
+refractory seizures,-24
+mechanical ventilation,0
+orotracheal intubation,0
+sedation,0
+Richmond Agitation Sedation Scale score -3,0
+hemodynamic stability,0
+blood pressure 110/60 mm Hg,0
+heart rate 68 bpm,0
+diffuse ecchymoses on trunk and extremities,0
+hemoglobin 13.1 g/dL,0
+hematocrit 39.3%,0
+"white blood cells 13,600/mL",0
+band form count 3%,0
+"platelets 179,000/mL",0
+urea 86.8 mg/dL,0
+creatinine 7.11 mg/dL,0
+sodium 139 mEq/L,0
+potassium 3.93 mEq/L,0
+computed tomography hypoattenuation periventricular deep white matter,0
+centrum semiovale gliosis,0
+microangiopathy,0
+lumbar puncture transparent colorless cerebrospinal fluid,0
+red blood cells 22,0
+glucose normal,0
+white blood cells normal,0
+proteins normal,0
+bacterial test negative,0
+China ink test negative,0
+fungi analysis negative,0
+acid-fast staining negative,0
+phenytoin,0
+midazolam,0
+SLEDD started,0
+SLEDD discontinued due to hypotension,0
+indwelling urinary catheter,0
+macroscopic hematuria,0
+norepinephrine started,72
+hemoglobin 12.5 g/dL,72
+hematocrit 38.8%,72
+"white blood cells 16,700/mL",72
+band form count 8%,72
+"platelets 180,000/mL",72
+CRP 320 mg/dL,72
+piperacillin-tazobactam started,72
+septic shock secondary to ventilator-associated tracheobronchitis,72
+seizures during sedative reduction,96
+immunosuppression with methylprednisolone,96
+rheumatic diseases negative,96
+EEG epileptogenic activity,120
+thiopental added,120
+family confirmed bilimbi ingestion,120
+EEG decreased paroxysmal activity,168
+intensified hemodialysis,168
+EEG improvement,240
+valproic acid increased,240
+thiopental decreased,240
+midazolam decreased,240
+noradrenaline increased,288
+fever 38.5°C,288
+lactate 3.9 mmol/L,288
+"white blood cells 21,500/mL",288
+band form count 9%,288
+CRP 107 mg/dL,288
+meropenem started,288
+vancomycin started,288
+gentamicin started,288
+multidrug-resistant Klebsiella pneumoniae cultured,288
+tigecycline started,288
+conscious,336
+responsive,336
+persistent myoclonus lower limbs,336
+no new seizures,336
+SLEDD maintained,336
+hemodynamic worsening,552
+fever,648
+leukocytosis,648
+increased CRP,648
+circulatory failure,648
+death,648

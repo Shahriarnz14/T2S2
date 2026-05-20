@@ -1,0 +1,60 @@
+event,time
+70 years old,0
+female,0
+presented to emergency department,0
+constipation,-240
+abdominal pain,-240
+vomiting,-240
+no stool passage,-240
+no flatus passage,-240
+dehydrated,0
+febrile (37.8°C),0
+tachycardia (130/min),0
+hypotension (100/70 mmHg),0
+tachypnea (26/min),0
+BMI 16 kg/m²,0
+history of asthma,0
+steroid inhaler use,0
+bilateral rhonchi,0
+tense abdomen,0
+tender abdomen,0
+generalized guarding,0
+hyperdynamic bowel sounds,0
+inconclusive digital rectal exam,0
+leukocytosis (16×10⁹/L),0
+erect abdominal X-ray showing air-fluid levels,0
+ultrasonography showing dilated small bowel,0
+acute peritonitis,0
+provisional diagnosis,0
+urgent laparotomy,3
+resuscitation,0
+blood pressure optimization,0
+electrolyte correction,0
+small bowel obstruction,0
+gastrointestinal malignancy suspicion,0
+exploratory laparotomy,3
+strangulated obturator hernia,3
+Meckel diverticulum,3
+ileum loop in hernia,3
+perforated Meckel diverticulum,3
+feculent matter in abdomen (300 mL),3
+dusky ischemic ileum,3
+ileum resection (2.5 feet),3
+hernia defect repair,3
+loop ileostomy,3
+abdominal lavage (6L saline),3
+retention sutures,3
+open skin closure,3
+ICU transfer,3
+ventilator support,3
+multiple organ dysfunction,72
+overwhelming sepsis,72
+expiration,72
+Howship-Romberg sign absent,0
+history of spontaneously remitting obstruction absent,0
+multiparity,0
+emaciation,0
+chronic cough (asthma),0
+Littré's hernia (obturator),3
+mixed Littré's hernia,3
+perforation due to compromised circulation,3

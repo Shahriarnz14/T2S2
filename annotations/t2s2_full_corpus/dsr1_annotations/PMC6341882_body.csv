@@ -1,0 +1,51 @@
+event,time
+45-year-old,0
+male,0
+chronic smoker,0
+referred to hospital,-72
+chest pain,-72
+progressively increasing respiratory distress,-72
+blunt chest trauma,-2184
+two prior admissions in local hospital,-2184
+high-resolution computed tomography (HRCT),-72
+bilateral hydropneumothorax,-72
+multiple rib fractures,-72
+shifted to intensive care unit (ICU),-72
+respiratory failure,-72
+bilateral chest tubes in situ,-72
+intermittent non-invasive ventilation (NIV),-72
+antibiotics,-72
+adequate analgesia,-72
+supportive management,-72
+chest tubes removed,-48
+minimal fluid on ultrasound chest,-48
+dyspnoea persisted,-48
+repeat HRCT chest,-48
+infective pathology (atypical pneumonia),-48
+lesions in apical segment of right upper lobe,-48
+lymphangitis carcinomatosa,-48
+persistently high pCO2,0
+mild hypoxia,0
+acute exacerbation of COPD,0
+type 2 respiratory failure,0
+oral steroid started,0
+20–30% improvement in dyspnoea,168
+required NIV 3–4 hours/day,168
+echocardiography within normal values,168
+repeat contrast-enhanced computed tomography (CECT) lung,336
+spiculated nodule in upper part of right lower lobe,336
+multiple sclerotic lesions in vertebral body of D1,336
+sclerotic lesions in sternum,336
+lytic lesion in D11,336
+ultrasound abdomen,336
+hepatomegaly,336
+multiple space-occupying lesions in both liver lobes,336
+metastasis,336
+fine-needle aspiration cytology of liver lesion,336
+adenocarcinoma metastasis,336
+chemotherapy not started,336
+poor general condition,336
+expired,456
+occult primary malignancy,456
+pulmonary lymphangitis carcinomatosa (PLC),456
+liver metastasis,456

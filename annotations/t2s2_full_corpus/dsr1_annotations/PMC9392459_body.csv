@@ -1,0 +1,49 @@
+event,time
+68 years old,0
+male,0
+arterial hypertension,0
+dyslipidemia,0
+admitted to the Emergency Department,0
+fever,-96
+wheezing,-96
+positive SARS-CoV-2 test,0
+bilateral interstitial pneumonia,0
+severity score 15/20,0
+blood pressure 117/74 mmHg,0
+heart rate 83 bpm,0
+SpO2 79%,0
+sinus rhythm,0
+narrow QRS complex,0
+normal atrioventricular conduction,0
+normal intraventricular conduction,0
+no ST-T segment abnormalities,0
+Azithromycin 500 mg OD,0
+Methylprednisolone 20 mg BID,0
+Remdesivir 200 mg OD,0
+Enoxaparin 6000 UI BID,0
+Insulin Lispro 6/8/8 UI TID,0
+High Flow Nasal Cannula FiO2 45%,0
+discontinuation of antihypertensive therapy,0
+discontinuation of statin therapy,0
+clinical improvement,672
+HRCT severity score reduction to 5/20,600
+sudden worsening of dyspnea,672
+increased heart rate,672
+ST-T segment alterations,672
+BP 154/75 mmHg,672
+HR 85 bpm,672
+SpO2 97%,672
+"ST-elevation ≥2 mm in DI, aVL, V1-V4",672
+STEMI diagnosis,672
+hypokinesis in mid-apical anterior segment,672
+no intracardiac thrombi,672
+transfer delay 3h23m,672
+critical LAD stenosis,672
+PTCA with DES,672
+hemiplegia,684
+NIHSS score 7,684
+acute right frontal ischemic lesion,684
+no fibrinolysis due to enoxaparin,684
+thrombotic events ruled out other causes,684
+discharged,840
+no residual neurologic deficit at follow-up,2184

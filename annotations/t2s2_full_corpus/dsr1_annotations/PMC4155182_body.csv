@@ -1,0 +1,89 @@
+event,time
+8 years old,0
+male,0
+admitted to the hospital,0
+severe abdominal pain,-24
+ALL (L3) diagnosed,-35064
+bone marrow transplant,-26280
+second relapse occurred,-26280
+last chemotherapy (high dose methotrexate),-504
+unvaccinated against chickenpox,0
+body temperature normal,0
+hepatosplenomegaly,0
+periumbilical tenderness,0
+hemoglobin 12.1 g/dL,0
+"WBC 3,490/mm³",0
+segmented neutrophils 80.0%,0
+"platelet count 135,000/mm³",0
+AST 78 U/L,0
+ALT 135 U/L,0
+normal chest x-ray,0
+normal abdomen x-ray,0
+normal CT scans (abdomen/pelvis),0
+fever (39.0℃),24
+empirical intravenous antibiotics started,24
+abdominal pain constant,24
+multiple erythematous vesicles on trunk,48
+"acyclovir (1,500 mg/m²/day) started",48
+vesicles spread to whole body,96
+dyspnea,96
+chest x-ray showing varicella pneumonia,96
+"WBC 5,090/mm³",96
+"platelet 32,000/mm³",96
+AST 931 U/L,96
+ALT 788 U/L,96
+"LDH 3,196 U/L",96
+DIC positive,96
+intravenous antibiotics changed,96
+IVIG (500 mg/kg/day) started,96
+platelets transfused,96
+fresh frozen plasma administered,96
+antithrombin III administered,96
+transferred to ICU,96
+drowsy mental state,120
+dyspnea aggravated,120
+chest x-ray showing ARDS,120
+intubation,120
+mechanical ventilation,120
+IVIG increased to 1 g/kg/day,120
+chest x-ray improved,144
+cardiomegaly noted,144
+"platelet 69,000/mm³",144
+AST 224 U/L,144
+ALT 280 U/L,144
+DIC resolved,144
+IVIG total 4 days,168
+fever persisted,168
+vesicular skin lesions unchanged,168
+normal cardiac function (echocardiogram),168
+hypertension (150/125 mmHg),216
+intravenous labetalol started,216
+VZV detected in serum (PCR),216
+IVIG extended for 2 more days,216
+generalized tonic-clonic seizure (30 minutes),264
+intravenous nitroprusside started,264
+CSF tapping,264
+normal CSF results,264
+VZV CSF PCR negative,264
+VZV CSF antibody negative,264
+antihypertensives dose increased,264
+phenytoin started,264
+no further seizures,264
+pulmonary condition stable,312
+extubation successful,312
+afebrile,312
+skin lesions scarring,312
+transferred to general ward,408
+vital signs stable,408
+improved lab data,408
+CD4 14.8%,408
+CD8 70.6%,408
+CD56 3.0%,408
+brain MRI showing encephalitis,408
+normal EEG,408
+phenytoin stopped,408
+antibiotics discontinued,456
+acyclovir discontinued,456
+discharged,456
+chemotherapy resumed,720
+follow-up brain MRI showing resolved lesions,2160

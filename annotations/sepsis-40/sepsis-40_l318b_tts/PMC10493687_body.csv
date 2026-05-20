@@ -1,0 +1,38 @@
+event,time
+Admission,0
+Shortness of breath,-1
+Fever,-1
+Constipation,-1
+Generalized weakness,-1
+Unresponsiveness,-1
+Oxygen saturation 89% on room air,-1
+Temperature 101.9F,-1
+Respiratory rate 24,-1
+Heart rate 140,-1
+Blood pressure 110/65,-1
+Purple urinary bag in PCN stent,0
+History of bilateral hydroureteronephrosis,-4
+History of acute renal failure,-4
+History of vaginal vault cancer stage 4,-4
+History of palliative RT to the vagina,-4
+History of chemotherapy,-4
+<50 mL of urine output,0
+Karnofsky performance status 40,0
+Family noticed colour change 3 days ago,-3
+Provisional diagnosis of PUBS,0
+High white blood cell count 16760/mm3,0
+Urinary pH 7.5 (alkaline),0
+Moderate leukocytes in the urine,0
+Tested positive for nitrates and leucocyte esterase,0
+Started on empirical IV cefoperazone and sulbactam combination,0
+Levofloxacin 500 mg,0
+Urine culture grew a mixture of organisms,0
+Escherichia coli >105 CFU/mL,0
+Klebsiella spp. (Gram-negative bacteremia),0
+Urine discolouration subsided,5
+Clinically the patient showed no improvement,5
+Disease burden and ongoing sepsis with multi-organ failure,5
+Advanced nature of the disease and poor prognosis,5
+Delirious with increased breathlessness and fever spikes,5
+Condition gradually deteriorated,5
+Expired,6

@@ -1,0 +1,84 @@
+event,time
+42 years old,0
+woman,0
+relapsing-remitting MS,-216000
+methotrexate,-17520
+elevated liver enzymes,-17520
+interferon beta 1-a,-113880
+discontinued interferon beta 1-a due to disease activity,-113880
+fingolimod,-35064
+muscle aches,-240
+gait difficulty,-240
+sensory disturbances,-240
+weakness on the right side,-240
+major depression disorder,0
+hypothyroidism,0
+recurrent urinary tract infection,0
+pulmonary embolism,0
+direct oral anticoagulation,0
+myasthenia gravis,-78840
+thymectomy,-78840
+EDSS score 1.0,-4320
+positive Babinski sign on the right side,-4320
+MRI moderate disease burden in brain,-4320
+2 right-sided cervical cord lesions,-4320
+lymphocyte count 842.4/μL,-4320
+symptoms started,-264
+symptoms worsened over next few days,-264
+sought medical attention,-120
+outpatient MS clinic visit,-120
+decreased sensation,-120
+reduced muscle strength (4/5),-120
+brisk reflexes on the right,-120
+right positive Babinski sign,-120
+EDSS 4,-120
+new relapse or pseudoexacerbation,-120
+admitted for relapse workup and treatment,0
+afebrile,0
+vital signs within normal limits,0
+C-reactive protein 76 mg/L,0
+erythrocyte sedimentation rate 46 mm,0
+absolute lymphocyte count 601.6/μL,0
+"methylprednisolone IV 1,000 mg/d initiated",0
+chest X-ray ground glass opacity,0
+community-acquired pneumonia suspected,0
+azithromycin 500 mg daily started,0
+dry cough,48
+dyspnea,48
+fever 38.7°C,48
+tachycardia 122,48
+respiratory rate 30,48
+blood pressure 100/70 mm Hg,48
+oxygen saturation 89%,48
+lymphocyte count 440.8/μL,48
+fingolimod discontinued,48
+ceftriaxone 1 g twice daily added,48
+oxygen via nasal cannula started,48
+chest CT ground glass opacities,72
+COVID-19 suspected,72
+nasopharyngeal swab for PCR,72
+transferred to COVID ward,72
+hydroxychloroquine started,72
+oseltamivir started,72
+piperacillin/tazobactam started,72
+ceftriaxone discontinued,72
+azithromycin discontinued,72
+symptoms improved,96
+vital signs stabilized,96
+afebrile,96
+lymphocyte count 510.3/μL,96
+COVID-19 test positive,120
+hydroxychloroquine continued,120
+other medications discontinued,120
+cough improved,120
+dyspnea improved,120
+neurologic symptoms improved,120
+discharged,312
+glatiramer acetate started,312
+"lymphocyte count 1,000.5/μL",312
+self-quarantined,312
+no respiratory symptoms,312
+no neurologic symptoms,312
+hemodynamic instability,0
+no new MRI during admission,0
+unclear relapse vs pseudorelapse,312

@@ -1,0 +1,65 @@
+event,time
+77 years old ,0.0
+male ,0.0
+unstable angina ,-2880.0
+coronary stent insertion ,-2880.0
+Sigmart ,-2880.0
+aspirin ,-2880.0
+Almarl ,-2880.0
+Herben ,-2880.0
+admitted to the hospital ,0.0
+TKA ,0.0
+spinal anesthesia ,0.0
+tourniquet applied ,0.0
+bupivacaine injected ,0.0
+dexmedetomidine infused ,0.0
+surgery started ,0.0
+surgery ended ,130.0
+tourniquet deflated ,100.0
+recovery room ,130.0
+vital signs monitored ,130.0
+pain managed ,130.0
+antibiotics injected ,130.0
+severe pain ,1440.0
+shivering ,1440.0
+Tridol Injection ,1440.0
+mental change ,1440.0
+Glasgow coma scale ,1440.0
+vital signs monitored ,1440.0
+electrocardiogram ,1440.0
+physical examination ,1440.0
+urine collected ,1440.0
+laboratory examinations ,1440.0
+CK elevated ,1140.0
+CK-MB elevated ,1140.0
+AST elevated ,1140.0
+BUN/Cr elevated ,1140.0
+troponin-I normal ,1140.0
+coagulation battery ,1140.0
+thrombocytopenia ,1140.0
+fibrinogen degradation product ,1140.0
+D-dimer ,1140.0
+DIC ,1140.0
+brain MRI ,1440.0
+myoglobin elevated ,1440.0
+urine myoglobin ,1440.0
+red blood cell count ,1440.0
+rhabdomyolysis diagnosed ,1440.0
+AKI diagnosed ,1440.0
+DIC diagnosed ,1440.0
+norepinephrine infused ,1500.0
+ICU ,1500.0
+arterial line placed ,1500.0
+central line secured ,1500.0
+fluid treatment ,1500.0
+Lasix injected ,1500.0
+sodium bicarbonate injected ,1500.0
+urine output monitored ,1500.0
+Denogan injected ,1500.0
+mental status restored ,1500.0
+vital signs monitored ,1500.0
+body temperature elevated ,1520.0
+cardiac arrest ,1700.0
+CPR ,1700.0
+death ,1800.0
+"note: the time is in hours, and the events before admission have negative time stamps, the events after admission have positive time stamps. The time stamp 0 is the time of admission.",

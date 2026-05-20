@@ -1,0 +1,78 @@
+event,time
+70 years old,0
+female,0
+chronic obstructive pulmonary disease (COPD),0
+smoking,0
+hypertension,0
+dyslipidemia,0
+osteoporosis,0
+appendectomy,"-30*24 (approximated based on ""youth"")"
+left partial mastectomy,-13*365*24 (13 years prior)
+right femoral hernia repair,-1*365*24 (1 year prior)
+ruptured abdominal aortic aneurysm (AAA),0
+retroperitoneal hematoma,0
+AAA repair with infra-renal aortic prosthesis,0
+ligation of inferior mesenteric artery,0
+bilateral iliac thrombosis,0 (post-operative)
+aorto-bifemoral bypass,0 (after thrombosis)
+non ST-elevating myocardial infarction (NSTEMI),24 (post-op day 1)
+coronary angiography,24 (same day as NSTEMI)
+right brachial artery thrombosis,48 (1 day after angiography)
+right brachial embolectomy,48 (after thrombosis)
+post-operative ileus,24*24 (following three weeks)
+diffuse abdominal pain,24*24 (24 days after initial AAA repair)
+leukocytosis,24*24
+no fever,24*24
+hemodynamically stable,24*24
+no peritonitis,24*24
+air in left retroperitoneum,24*24
+possible free air above bladder,24*24
+descending colon wall thickening,24*24
+contrast extravasation,24*24
+left colic perforation,24*24
+ischemic colitis,24*24
+exploratory laparotomy,24*24
+ischemia of small bowel,24*24
+ischemia of descending colon,24*24
+ischemia of sigmoid colon,24*24
+ischemia of rectum,24*24
+small bowel resection,24*24
+primary anastomosis,24*24
+left colectomy,24*24
+sigmoidectomy,24*24
+proctectomy,24*24
+transverse terminal colostomy,24*24
+Jackson-Pratt drains,24*24
+failed extubations,24*24 + 14*24 (14 days post laparotomy)
+exacerbated COPD,24*24 + 14*24
+volume overload,24*24 + 14*24
+infarction of inferior pole of spleen,24*24 + 14*24
+left renal artery thrombosis,24*24 + 14*24
+non-enhancing left kidney,24*24 + 14*24
+air bubbles in peri-renal tissue,24*24 + 14*24
+intra-abdominal fluid collections,24*24 + 14*24
+laparotomy,24*24 + 14*24
+dilated small bowel,24*24 + 14*24
+non-viable small bowel,24*24 + 14*24
+resection of 60 cm small bowel,24*24 + 14*24
+splenectomy,24*24 + 14*24
+left nephrectomy,24*24 + 14*24
+terminal transverse colostomy,24*24 + 14*24
+percutaneous jejunal feeding tube,24*24 + 14*24
+abdominal fluid culture,24*24 + 14*24
+Pseudomonas aeruginosa,24*24 + 14*24
+piperacillin-tazobactam,24*24 + 14*24
+fungal culture positive,24*24 + 14*24 + 5*24 (5 days incubation)
+voriconazole,24*24 + 14*24 + 5*24
+sepsis,24*24 + 14*24 + 5*24 + ? (clinical deterioration after starting voriconazole)
+respiratory failure,24*24 + 14*24 + 5*24 + ?
+acute kidney injury,24*24 + 14*24 + 5*24 + ?
+diffuse non-peritonitic abdominal pain,24*24 + 14*24 + 5*24 + ?
+JP tube draining enteric formula,24*24 + 14*24 + 5*24 + ?
+stopped enteral feeds,24*24 + 14*24 + 5*24 + ?
+CT showing small bowel perforation,24*24 + 14*24 + 5*24 + ?
+anastomotic leak,24*24 + 14*24 + 5*24 + ?
+Mucor sp. positive culture,24*24 + 14*24 + 5*24 + ?
+liposomal amphotericin B,24*24 + 14*24 + 5*24 + ?
+decision for comfort measures,24*24 + 14*24 + 5*24 + ?
+death,24*24 + 14*24 + 5*24 + ? + few hours

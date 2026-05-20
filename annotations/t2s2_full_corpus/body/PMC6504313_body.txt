@@ -1,0 +1,72 @@
+1 Introduction
+The concept of sepsis was first put forth by Semmelweis et al in the 19th century.[1] Although many researches on sepsis have been conducted and great advances in our knowledge of its pathophysiology have also been achieved, sepsis is still the leading cause of deaths in intensive care units (ICU) with a mortality rate of about 28% to 40%.[2] The newest diagnosis criteria for sepsis is called Sepsis-3 which was released by the Society of Critical Care Medicine and the European Society of Intensive Care Medicine in 2016.[3] According to the Sepsis-3 criteria, sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection. Since the liver plays a pivotal role in maintaining homeostasis, the functions of which mainly include metabolism, biosynthesis, production of bile, and detoxification, liver dysfunction induced by sepsis directly contribute to poor prognosis and mortality.[4] This is not only due to the infection itself, but also due to the hyperreactivity of the inflammatory response, microcirculatory failure, and side-effects of inappropriate therapy.[5] However, currently there is no consensus on the therapy for sepsis-associated liver failure.
+
+In this report, we present a case of sepsis-associated liver failure in a 56-year-old woman who presented signs of sepsis on the 2nd day after undergone the ureteroscopy for left ureter and laparoscopy for lysis of adhesions around left ureter due to hydronephrosis.
+
+2 Case presentation
+2.1 Clinical history
+A 56-year-old woman with a history of left hydronephrosis for more than 4 months came to the urology department and undergone ureteroscopy for left ureter and laparoscopy for lysis of adhesion around left ureter. The operation was successful but on the 2nd day after the operation, the patient presented abdominal discomfort, abdominal distension, and oliguria (about 100 mL/day). She appeared irritable with a body temperature of 39.4°C, a pulse rate at 114 beats per minute, a blood pressure declined to 86/59 mm Hg, a respiratory rate at 28 breaths per minute, and an oxygen saturation of 89% under oxygen inhalation. No positive signs were detected on abdominal examination. A complete blood count was obtained, and the results revealed a white blood cell count of 15.4 × 109/L with 95% neutrophils and 5% lymphocytes while the platelet count was down to 33 × 109/L. Arterial blood gas analysis showed that the patient's blood lactate level was 3.6 mmol/L and the base excess was −11.4. Laboratory test found serum creatinine increased to 365.7 μmol/L, alanine aminotransferase (ALT) and aspartate aminotransferase (AST) went up to 224U/L and 858U/L, respectively, and the prothrombin time was extended to 24.2 second. Serum level of C-reactive protein was 180.3 mg/L and procalcitonin (PCT) was 49.17 ng/mL. The quick Sepsis Related Organ Failure Assessment (qSOFA) score was 3 points. Then the patient was urgently transferred to the ICU.
+
+2.2 Therapeutic focus and assessment
+The Acute Physiology and Chronic Health Evaluation II (APACHE II) score was 32 and the SOFA score was 17 at the time when the patient was admitted to the ICU, which led to a diagnosis of sepsis according to the Sepsis-3 criteria.[3] Primaxin (imipenem/cilastatin), norepinephrine, hydrocortisone, and supplemental fluids were administered owing to the concern about septic shock. Continuous renal replacement therapy was also performed due to acute kidney injury (stage 3). At the night of transfer to the ICU, the patient developed respiratory distress with oxygenation index falling down to 184 mm Hg, thus endotracheal intubation was performed to allow mechanical ventilation.
+
+On the 2nd day after ICU admission, the white blood cell count of the patient peaked at 45.3 × 109/L with 91.5% neutrophils and 1.8% lymphocytes, after which it began to decline (Fig. 1). The changes of C-reactive protein, PCT, ALT, AST, and platelet count were shown in Figures 2 to 5. Samples from blood, urine, and abdominal drainage fluid were collected for bacterial culture but all the test results were negative. During the following days, the patient's vital signs and clinical condition seemed to be gradually improved.
+
+Figure 1 Change of white blood cell count. WBC = white blood cell.
+
+Figure 2 Change of serum C-reactive protein. CPR = C-reactive protein.
+
+Figure 3 Change of serum procalcitonin. PCT = procalcitonin.
+
+Figure 4 Change of alanine aminotransferase and aspartate aminotransferase. ALT = alanine aminotransferase, AST = aspartate aminotransferase.
+
+Figure 5 Change of platelet count. Note: Red arrows indicated platelet infusion.
+
+However, liver injury was aggravated unexpectedly. On the 5th day after ICU admission, the total bilirubin (TB) rose to 245.5 μmol/L with a direct bilirubin (DB) of 196.6 μmol/L (Fig. 6). According to liver function index, the patient's liver function stepped into failure stage. Abdominal ultrasound examination was soon performed but only gallbladder wall edema with the most thickness part of 1.7 cm was observed, excluding intra and extrahepatic bile duct stones, expansion of intra and extra-hepatic bile duct, and portal thrombosis. Hepatitis serology and autoantibodies for autoimmune liver diseases were also examined but the results were negative.
+
+Figure 6 Change of total bilirubin, direct bilirubin, and indirect bilirubin. Arrows indicated the timing of plasma exchange. DB = direct bilirubin, IB = indirect bilirubin, TB = total bilirubin.
+
+2.3 Follow-up and outcomes
+Hepatoprotective drugs and other supportive therapies had been given since the patient entered the ICU but such therapies did not significantly improve the condition, so plasma exchange was conducted in order to rescue liver function. The volume of plasma exchanged was stipulated as 1.5 to 3.0 L per day per procedure and patient's plasma was removed at a rate of 1.0 to 1.2 L per hour with replacement with fresh frozen plasma in equivalent volume. The plasma exchange procedure was undertaken on 4 consecutive days but with no fixed time interval between each treatment. Fortunately, the patient's condition improved and the level of TB gradually dropped. On the 9th day after ICU admission, mechanical ventilation was stopped and endotracheal tube was withdrawn, but hemodialysis treatment was continued due to the unrecovered renal function. On the 12th day after ICU admission, the patient was transferred back to the urology department with a serum ALT of 23 U/L, AST of 39 U/L, TB of 99.4 μmol/L, and DB of 69.8 μmol/L, and her liver function had returned to normal in the following 7 days.
+
+3 Discussion
+Sepsis is one of the main causes of morbidity and mortality in critically ill patients despite the widely use of antibiotics and some resuscitation therapies.[6] Outcomes in sepsis have improved to some extent due to an enhanced focus on early diagnosis of sepsis and improvements in supportive care, but mortality rates still remain unacceptably high. When sepsis occurs, although the liver plays an important role in defensive responses by clearing bacteria and toxins, it also acts as a target of dysregulated inflammatory response.[7] The incidences of sepsis-induced liver dysfunction and liver failure range from 34% to 46% and from 1.3% to 22%, respectively, in septic patients.[8] The mortality rates of septic patients with liver dysfunction or failure range from 54% to 68%, which is higher than that of septic patients with respiratory failure, the most common organ failure in sepsis.[9–11]
+
+This case demonstrated that plasma exchange is an effective therapy for sepsis-associated liver failure when hepatoprotective drugs and other supportive therapies did not improve the condition. Sepsis-associated liver dysfunction is more common in ICU patients with abdominal infection and gram-negative bacteremia. Although results of blood culture, urine culture, and abdominal drainage fluid culture were all negative, sepsis occurred after the patient underwent urinary surgery, which was diagnosed according to the Sepsis-3 criteria (suspected infection with a SOFA score not less than 2).[3] Considering the possibility of urinary tract infection, we selected carbapenems as antibiotic empirically. The anti-infection treatment seemed effective since markers of inflammatory conditions such as C-reactive protein and PCT had dropped. However, the liver function of the patient did not receive enough attention in the beginning. In septic patients, liver dysfunction can vary from subclinical injury to overt failure.[12] Sepsis-associated liver dysfunction can roughly be categorized as hypoxic hepatitis and sepsis-induced cholestasis, but acknowledged diagnostic tools to detect early liver dysfunction are still lacking. Kramer et al[13] defined hepatic dysfunction as a bilirubin concentration of greater than 2 mg/dL (>34 μmol/L) within 48 h of admission in a large cohort study, while Bakker et al[14] defined acute liver failure using the following criteria: bilirubin >2.5 mg/dL (>43 μmol/L), serum ALT concentration more than twice the upper limit, and prothrombin time of greater than 1.5 times the control value or an international normalized ratio of greater than 1.5.
+
+In terms of therapy, there is no specific therapeutics for sepsis-associated liver dysfunction currently available. Early goal-directed resuscitation might be useful, which includes early antibiotic therapy and infection source control, fluid resuscitation, and vasopressor support to restore perfusion in the liver and other organs.[15] The appropriate hemodynamic restoration permits the restoration of liver perfusion which may be an essential step in avoiding liver dysfunction. We use corticosteroid in the case, which is still debated in septic shock, but some experimental data suggested that corticosteroid might have an immunomodulation effect on sepsis-induced cholestasis through the induction of hepatobiliary transporters and restoration of bile transport.[16] Early enteral nutrition for hemodynamically stable patients with functioning gastrointestinal tracts is recommended, especially for those with jaundice.[17] We used all the therapies mentioned above but the patient did not improve. So we turned to plasma exchange and fortunately it was effective. Larsen et al[18] reported that treatment with high-volume plasma exchange improves outcome in patients with acute liver failure by increasing liver transplant-free survival, and they believed it is attributable to attenuation of innate immune activation and amelioration of multiorgan dysfunction.
+
+Although the outcome of the patient is encouraging, there are still some limitations in the management of this case. First, we did not pay enough attention to the liver dysfunction until it progressed rapidly. Second, what caused the infection was still unclear, although empirical antibiotic treatment seemed effective. We did not send repeat cultures. Third, we did not detect the level of inflammatory factors such as TNF-α, IL-1β, and IL-6. It is reported that lipopolysaccharide played a central role in septic patients and it had direct and indirect cytotoxic effects on hepatocytes, including stimulating inflammatory cells to release inflammatory factors.[19] Monitoring these inflammation markers might be useful to detect the extent of liver damage and determine the therapeutic effect.
+
+To sum up, this case demonstrated that plasma exchange might be a vital and effective therapy to improve outcome of sepsis-associated liver failure especially when conventional support therapy is ineffective.
+
+Author contributions
+Conceptualization: Xiaolin Ye, Bin Lv.
+
+Data curation: Bin Lv.
+
+Formal analysis: Xiaolin Ye, Bin Lv.
+
+Funding acquisition: Fei Wang.
+
+Investigation: Fei Wang.
+
+Methodology: Dannv Ma.
+
+Project administration: Fei Wang.
+
+Resources: Yueping Ding.
+
+Software: Yueping Ding.
+
+Visualization: Dannv Ma.
+
+Writing – original draft: Xiaolin Ye.
+
+Abbreviations: ALT = alanine aminotransferase, APACHE II = Acute Physiology and Chronic Health Evaluation II, AST = aspartate aminotransferase, CRRT = continuous renal replacement therapy, DB = direct bilirubin, ICU = intensive care unit, PCT = procalcitonin, qSOFA = quick Sepsis Related Organ Failure Assessment, TB = total bilirubin.
+
+The content of the Manuscript, all or in part, has not been published and is not being considered for publication.
+
+Consent: Written informed consent was obtained from the participant for publication of this case report.
+
+The authors have no conflicts of interest to disclose.

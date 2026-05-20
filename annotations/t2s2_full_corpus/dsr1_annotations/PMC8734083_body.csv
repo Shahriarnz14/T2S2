@@ -1,0 +1,86 @@
+event,time
+57 year old,0
+male,0
+admitted to the emergency room,-216
+fever,-216
+chills,-216
+shortness of breath,-216
+malaise,-216
+poor appetite,-216
+oxygen saturation 64% on room air,0
+bilateral crackles,0
+leukocyte count 8.17 K/μL,0
+neutrophils 86.6%,0
+procalcitonin elevated 0.41 ng/mL,0
+nasopharyngeal swab positive for SARS-CoV-2,0
+sputum Gram stain 10–25 WBCs/LPF,0
+sputum culture positive for methicillin susceptible Staphylococcus aureus,0
+sputum culture positive for oropharyngeal microbiota,0
+chest radiograph bilateral patchy airspace disease,0
+increased interstitial opacities,0
+dexamethasone 6 mg daily,0
+remdesivir intravenous,0
+oxygen support via non-rebreather mask,0
+azithromycin intravenous 500 mg daily,0
+ceftriaxone intravenous 1 g daily,0
+persistent hypoxia,0
+inability to wean from non-rebreather mask,0
+steroids continued beyond day 10,240
+clinical condition worsening,240
+cyanotic,336
+dyspneic,336
+endotracheal intubation,336
+chest radiograph progression of infiltrates,336
+vancomycin intravenous,336
+meropenem intravenous,336
+dexamethasone oral discontinued,336
+methylprednisolone intravenous 40 mg three times per day,336
+worsening renal function,336
+continuous renal replacement therapy,336
+hypotension,336
+diarrhea,792
+Candida colitis,792
+nystatin 1 million units 6 times a day,792
+hypoxic,864
+hypotensive,864
+methylprednisolone discontinued,864
+hydrocortisone intravenous 100 mg three times a day,864
+midodrine 10 mg three times a day,864
+blood cultures positive for yeast,864
+micafungin 100 mg every 24 hours,864
+antibiotics discontinued,864
+Cryptococcus neoformans identified,864
+lumbar puncture opening pressure 28 cm H2O,864
+cerebrospinal fluid 185 WBCs/μL,864
+"cerebrospinal fluid 65,000 RBCs/μL",864
+India ink positive,864
+Cryptococcus neoformans culture confirmed,864
+cerebrospinal fluid cryptococcal antigen positive 1:256,864
+HIV negative,864
+micafungin discontinued,864
+liposomal amphotericin B intravenous 400 mg daily,864
+flucytosine oral 2000 mg every other day,864
+repeated lumbar punctures,864
+opening pressures less than 20 cm H2O,864
+new skin nodules,960
+disseminated cryptococcal infection,960
+died,1008
+adrenal gland heterogeneity,0
+adrenal insufficiency,0
+hypotension episodes,336
+history of hypertension,0
+cryptococcal meningoencephalitis,864
+ARDS,0
+cytokine storm,0
+multi-organ failure,0
+hyper-coagulability,0
+fungal infection risk,0
+steroid-induced immunosuppression,0
+prolonged glucocorticoid use,0
+refractory septic shock,0
+vasopressors ineffective,0
+inotropes ineffective,0
+disseminated Cryptococcus neoformans,864
+adrenal involvement,960
+molecular resemblance of antibodies,0
+decreased ACTH stimulation,0

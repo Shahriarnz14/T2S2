@@ -1,0 +1,97 @@
+event,time
+36 years old,0
+female,0
+admitted to the hospital,0
+sudden loss of consciousness,-0.083
+head trauma,-0.083
+fall from own height,-0.083
+loss of strength in lower extremities,-0.083
+impaired ambulation,-0.083
+sudden-onset disabling holocranial headache,-336
+aggressive behavior,-336
+vertigo,-336
+no fever,0
+no malaise,0
+somatoform disorder,0
+depressive episode,0
+major depression,-13140
+no adherence to medical treatment,-13140
+two previous suicide attempts,-13140
+Glasgow coma score of 11,0
+mutism,0
+no focal neurologic deficits,0
+no meningeal signs,0
+hydrated integumentary system,0
+horizontal nystagmus,0
+oculogyric crises,0
+stereotyped movements in all four extremities,0
+normal plantar reflexes,0
+normal deep tendon reflexes,0
+mass in right axillary line,0
+blood pressure 94/60 mm Hg,0
+heart rate 77 bpm,0
+respiratory rate 20 rpm,0
+temperature 36.5°C,0
+body-weight 60 kg,0
+height 158 cm,0
+BMI 24.0,0
+management with olanzapine,0
+management with sertraline,0
+OMS suspicion,0
+post-viral cerebellar ataxia suspicion,0
+neuroinfectious disease suspicion,0
+normal brain CT,0
+normal cerebrospinal fluid analysis,0
+management with alprazolam,0
+management with magnesium valproate,0
+urinary tract infection,0
+treatment with intravenous ceftriaxone,0
+negative blood cultures,0
+negative bronchial secretion cultures,0
+negative urine cultures,0
+negative viral hepatitis serologies,0
+negative HIV,0
+negative urinalysis for drugs,0
+procalcitonin 1.67 ng/mL,0
+normal electroencephalogram,0
+negative autoimmune serologies,0
+negative tumor markers,0
+axillary lymph node biopsy,0
+melanoma diagnosis,0
+normal thoracic CT,0
+normal abdominal CT,0
+normal pelvic CT,0
+lung consolidation,0
+ground glass opacities,0
+air bronchogram,0
+type one respiratory insufficiency,72
+blood pressure 90/60 mm Hg,72
+heart rate 120 bpm,72
+respiratory rate 27 rpm,72
+temperature 39°C,72
+arterial pH 7.3,72
+PaO2 50 mm Hg,72
+PaCO2 30 mm Hg,72
+HCO3− 18 mEq/L,72
+O2 content 75%,72
+base excess -6 mmol/L,72
+lactate 0.9 mmol/L,72
+invasive artificial airway,72
+ICU admission,72
+purulent bronchial secretions,72
+leukocytosis,72
+Acinetobacter baumannii infection,72
+treatment with colistimethate,72
+treatment with meropenem,72
+extreme bradycardia,312
+asystole,312
+death,312
+hemorrhagic lesions at corpus callosum,312
+multiple paratracheal lymph nodes,312
+multiple perihilar lymph nodes,312
+poorly differentiated malignancy,312
+positive HMB-45,312
+positive melan-A,312
+positive vimentin,312
+positive S-100,312
+melanoma metastasis from occult primary cancer,312

@@ -1,0 +1,53 @@
+event,time
+53 years old,0
+female,0
+admitted to the hospital,0
+dizziness,-168
+worsening shortness of breath,-168
+increasing chest pressure,-168
+urinary tract infection,prior to admission (approximated -168)
+culture positive for Abiotrophia defectiva,-168
+sulfamethoxazole-trimethoprim,-168
+ceftriaxone,-168
+ciprofloxacin,-168
+lethargy,0
+temperature 36.7°C,0
+blood pressure 104/88 mmHg,0
+heart rate 175 bpm,0
+respiratory rate 21 breaths/min,0
+oxygen saturation 98%,0
+chest radiography unremarkable,0
+atrial fibrillation,0
+rapid ventricular rate 180 bpm,0
+elevated brain natriuretic peptide (819 pg/mL),0
+troponin I 0.1 ng/mL,0
+troponin I 0.34 ng/mL,0
+heparin infusion,0
+diltiazem infusion,0
+lactic acidosis,0
+acute kidney injury (creatinine 1.62 mg/dL),0
+"thrombocytopenia (29,000/mm³)",0
+transthoracic echocardiogram findings,0
+mitral valve vegetation (21mm x 19mm),0
+aortic valve perforation,0
+elevated right ventricular systolic pressure (70-80 mmHg),0
+vancomycin,0
+piperacillin/tazobactam,0
+ampicillin,24
+gentamycin,24
+surgical intervention deferred,24
+acute heart failure,168
+mechanical ventilation,168
+ampicillin/sulbactam,168
+daptomycin,168
+septic embolization to left lower limb,168
+splenic infarcts,168
+left lower extremity thrombectomy,168
+fasciotomy,168
+surgical valve replacement (mitral and aortic),168
+left atrial thrombi,168
+right atrial thrombi,168
+micro-abscesses in mitral annulus,168
+inhaled epoprostenol,168
+discharge from ICU,336
+broad spectrum antibiotics,336

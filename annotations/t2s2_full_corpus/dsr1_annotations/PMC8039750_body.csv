@@ -1,0 +1,57 @@
+event,time
+66-year-old,0
+male,0
+diabetes mellitus,0
+obesity,0
+body mass index 25.3 kg/m2,0
+positive fecal immunochemical test result,0
+no history of trauma,0
+no history of surgery,0
+consumed rice wine thrice a week,-1440
+colonoscopic polypectomy,-58
+endoscopic mucosal resection,-58
+hot snare,-58
+preventive hemoclips,-58
+15 polyps resected,-58
+polyps in right colon,-58
+polyps in left colon,-58
+polyps in rectum,-58
+cecal intubation time 3 minutes,-58
+excellent bowel preparation,-58
+discharged from endoscopy room,-58
+no complication,-58
+no pain,-58
+right abdominal pain,-24
+tenderness,-24
+rebound tenderness,-24
+white blood cell count 21460/mm3,-24
+C-reactive protein 17.8 mg/dL,-24
+blood urea nitrogen 28 mg/dL,-24
+creatinine 2.13 mg/dL,-24
+lactic acid 2.4 mmol/L,-24
+total bilirubin 1.7 mg/dL,-24
+abdominopelvic CT,-24
+no pneumoperitoneum,-24
+no bowel perforation,-24
+multiple air bubbles in right lateral abdominal muscles,-24
+no peritonitis,-24
+no air bubbles in peritoneal cavity,-24
+intensive medical treatment,0
+broad-spectrum antibiotic therapy (piperacillin/tazobactam),0
+emergency exploratory laparotomy,20
+laparoscopic right hemicolectomy,20
+no perforation found,20
+rapid aggravation,20
+multiple-organ failure,20
+metabolic acidosis,20
+diagnosis of necrotizing fasciitis,48
+urgent surgical debridement,48
+drainage,48
+no improvement,48
+two more surgical debridements,72
+drainages,72
+no bacterial growth in blood cultures,48
+imipenem-resistant Acinetobacter baumannii,72
+extended spectrum beta-lactamase negative Escherichia coli,72
+septic shock,840
+death,840

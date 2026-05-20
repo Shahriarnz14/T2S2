@@ -1,0 +1,75 @@
+event,time
+69-year-old woman ,0
+stabbed herself in the abdomen with a kitchen knife ,-1
+suicidal intent ,-1
+admitted to our emergency department ,0
+blood pressure could not be measured ,0
+cardiac monitor showed pulseless electrical activity ,0
+body temperature was 35.0 °C ,0
+oxygen administered via 10-L oxygen reservoir mask ,0
+oxygen saturation was 99% ,0
+Glasgow Coma Scale score of 3 (E1V1M1) ,0
+developed agonal respiration ,0
+wound measuring 5 cm present on upper abdomen ,0
+ultrasonography revealed intra-abdominal fluid collection ,0
+emergency thoracotomy was performed ,0
+aortic cross-clamping was performed ,0
+open cardiac massage was performed ,0
+aorta was clamped for 15 min ,0
+epinephrine 1 mg administered thrice at 3-min intervals ,0
+temporary return of spontaneous circulation was observed ,0
+still hemodynamically unstable ,0
+laparotomy was performed ,0
+injuries to the common hepatic artery ,0
+injuries to the splenic artery ,0
+injuries to the pancreas ,0
+injuries to the spleen ,0
+injuries to the liver ,0
+injured arteries were ligated to achieve hemostasis ,0
+left gastric artery was not identified ,0
+branch arising directly from the aorta was injured ,0
+ligation was performed on the branch from the aorta ,0
+distal pancreatectomy was performed ,0
+splenectomy was performed ,0
+liver was sutured ,0
+norepinephrine was administered at 0.25 μg/kg/min intraoperatively ,0
+second-look surgery was performed ,24
+no signs of active bleeding ,24
+no signs of ischemic change macroscopically ,24
+vasopressor requirement was no longer noted ,48
+abdominal wall closure was performed ,48
+enhanced computed tomography scan was performed ,96
+computed tomography scan demonstrated disruption of the celiac artery ,96
+gastroduodenal artery was seen arising from superior mesenteric artery as collateral flow ,96
+right gastric arteries were not observed during CT angiography ,96
+left gastric artery was not observed during CT angiography ,96
+right gastroepiploic artery was not observed during CT angiography ,96
+left gastroepiploic artery was not observed during CT angiography ,96
+short gastric arteries were not observed during CT angiography ,96
+gastroscopy was performed ,216
+gastroscopy revealed patchy mucosal necrosis on the gastric upper body ,216
+conservative treatment was administered ,216
+patient developed fever of 39 °C ,552
+complained of pain in the stomach ,552
+"blood examination revealed white blood cell count of 34,000/mm³ ",552
+blood examination revealed C-reactive protein of 13.4 mg/dL ,552
+computed tomography scan was performed ,552
+computed tomography scan showed presence of air in gastric wall ,552
+computed tomography scan showed intra-abdominal free air ,552
+gastric necrosis was suspected ,552
+gastroscopy was performed ,552
+gastroscopy revealed extensive mucosal necrosis of the stomach ,552
+emergency surgery was performed ,552
+necrosis of the stomach was revealed ,552
+total gastrectomy with Roux-en-Y reconstruction was performed ,552
+histological findings of the stomach revealed diffuse necrotic changes ,576
+histological findings revealed various inflammatory cell infiltrations including numerous neutrophils and eosinophils ,576
+no evidence of invasive fungal infection was noted ,576
+leakage on duodenal stump identified ,696
+continuous tube drainage was performed ,696
+consciousness became clear ,750
+underwent rehabilitation in bed for a few weeks ,750
+developed sepsis due to multidrug-resistant Pseudomonas aeruginosa infection ,1320
+developed disseminated intravascular coagulation ,1320
+patient's general condition gradually deteriorated ,1600
+patient died 70 days after admission ,1680

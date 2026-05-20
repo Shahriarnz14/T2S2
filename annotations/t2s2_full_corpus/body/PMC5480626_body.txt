@@ -1,0 +1,76 @@
+Introduction
+Development of post-neurosurgical intracranial abscess is associated with increased morbidity and mortality and patients require surgical source control and antimicrobial therapy.1 Especially in patients with multidrug-resistant (MDR) Gram-negative pathogens, therapeutic options are limited. Recommendations were given by the Infectious Disease Society of America in 20042 including intraventricular antibiotic therapy and this has also been discussed in a comment from the European medicines agency 2014. For infections due to MDR Gram-negative pathogens, the intraventricular administration of colistin was successfully used in a wide range of case studies,3–9 exemplarily reported by Karaiskos et al.,8 by Souhail et al. in combination with rifampicin, and by Dalgic et al.7 in a girl of 2 months. Evidence for colistin therapy is also summarized in reviews3,10–12 reporting an overall clinical response rate of about 90%.10,13 However, data with therapeutic drug monitoring (TDM) in these cases are sparse but may lead to better understanding of local colistin therapy. TDM can also guide dosing individualization especially in patients with renal insufficiency and against the background of large inter-individual variabilities observed in intensive care unit (ICU) patients.11 Importantly, colistin TDM is complex as the prodrug colistin methanesulfonate (CMS) is hydrolyzed to active colistin in vivo and in aqueous solutions over time. Differentiating CMS and colistin would require specific sampling and transfer at −80°C. In this case, we were able to receive though levels of total colistin obtained in the morning and transferred at room temperature. Results were available on the next day as total colistin concentration not differentiating hydrolyzed colistin versus prodrug CMS. All samples were measured in a specialized laboratory (Otto-von-Guericke-University, Magdeburg) using a validated method for TDM (high-performance liquid chromatography and tandem mass spectroscopy) according to previous reports.14 In this report, doses of colistin are given in million international units (MIU).
+
+Case
+A 74-year-old patient experienced non-traumatic acute subdural hematoma on the right hemisphere and underwent emergency cranial trepanation in south-eastern Europe. Subsequently, the patient was mechanically ventilated and showed signs of ventilator-associated pneumonia (VAP). To document the intracranial status on admission, he received a computed tomography (CT) scan (Figure 1(a)). Inspection of the cranium and the CT scan on admission were suspicious for soft-tissue infection of the craniotomy wound with purulent secretion, erythema, and swelling. In addition, there was a 2-cm parietal area with cerebral herniation and signs of elevated intracranial pressure (ICP) with a midline shift of 10 mm without evidence of recurrent bleeding. Consequently, an external ventricular drain (EVD) was implemented and the soft tissues as well as the trepanation defect required surgical revision. The intraoperative exploration of the area revealed old hematoma but also deep purulent secretion in the form of an intracranial abscess formation. An empirical antibiotic therapy with meropenem, rifampicin, and vancomycin was started after obtaining microbiological samples including intraoperative swabs, blood culture series, and a bronchoalveolar lavage. The diagnosis of the intracranial abscess was later confirmed in the examination of the tissues by the pathologist. Initial leucocyte count was 17.48/nL, a C-reactive protein level of 445.2 mg/dL, and fever of 38.3°C was measured. Postoperatively, the patient developed septic shock (norepinephrine therapy of up to 0.19 µg/kg/min). First microbiological results showed Gram-negative pathogens in samples of the cranial wound and confirmed MDR Acinetobacter baumannii in the samples drawn from the abscess (Table 1). In the bronchoalveolar samples, MDR Klebsiella pneumoniae was found (Table 1). We administered intravenous fosfomycin (5 g every 8 h) and meropenem (3 × 2 g as prolonged infusion of 4 h every 8 h) and colistin. A colistin-based combination therapy was considered as it might be difficult to achieve sufficient levels of an antibiotic agent in intracranial abscess formations. The patient received intravenous colistin (initial bolus 10 MIU followed by 4.5 MIU every 12 h) plus intraventricular colistin (0.25 MIU via EVD every 12 h). On ICU day 8, chest radiography, cleared tracheal aspirates, and normothermia supported a de-escalation strategy for pneumonia. Intravenous and intraventricular colistin therapy was continued to target Acinetobacter baumannii infection. During the course of the therapy, colistin levels were adapted according to the findings of TDM (displayed in Figure 2) and renal function (Table 2). Therefore, colistin dose was reduced to 2 MIU every 12 h. TDM in ce-rebrospinal fluid (CSF) samples repeatedly reported high concentrations of colistin, local application was reduced to 0.25 MIU via EVD once daily (days 15–16), and paused from day 17 to 20 (Figure 3). The TDM showed decreasing levels of colistin and therapy was continued with 0.25 MIU once daily (days 21–25) resulting in unexpected high levels of colistin.
+
+Figure 1. CT scan on hospital admission (a) demonstrating herniation of cerebral tissue and (b) on follow-up visit after 6 months subsequent to the cranioplasty of the skull defect.
+
+Table 1. Patterns of resistance of detected Acinetobacter baumannii and Klebsiella pneumoniae.
+
+	Klebsiella pneumoniae (MDR)	Acinetobacter baumannii (MDR)	
+Imipenem	I 0.5	R ⩾ 16	
+Meropenem	I 1	R ⩾ 16	
+Ceftriaxone	R	R	
+Cefepime	R ⩾ 64		
+Tobramycin	R ⩾ 16	S 2	
+Amikacin	I 16	R ⩾ 64	
+Cotrimoxazole	S ⩽ 20	R ⩾ 320	
+Ciprofloxacin	R ⩾ 4	R ⩾ 4	
+Levofloxacin	R	R	
+Fosfomycin	S 32	R ⩾ 256	
+Colistin	S ⩽ 0.5	S ⩽ 0.5	
+MDR: multidrug-resistant; R: resistant to antibiotic in standard microbiological testing; I: intermediate resistance, values given as mg/L drug dilution.
+
+Figure 2. Cerebral spinal fluid colistin levels measured with HPLC-tandem mass spectroscopy during 37 days of intensive care treatment.
+
+Table 2. Laboratory findings of inflammation and renal function.
+
+Day from ICU admission	Serum creatinine (mg/dL)	Serum leucocyte count (/nL)	C-reactive protein (mg/L)	
+On admission	1.08	14.6	286.0	
+9	2.58	13.16	623.7	
+11	2.54	9.13	514.6	
+16	2.45	8.66	289.4	
+21	3.63	5.25	141.5	
+24	3.5	5.16	139.7	
+29	2.87	4.98	88.7	
+31	1.86	5.59	151.5	
+33	2.53	7.97	356.5	
+37	2.53	8.19	312.7	
+At discharge	2.18	12.52	138.5	
+6-month follow-up	0.74	6.5	15.8	
+ICU: intensive care unit.
+
+On ICU day 13, acute renal insufficiency was noted and the patient was placed on continuous venovenous hemodialysis. This therapy was changed to intermittent dialysis via an arteriovenous Cimino dialysis shunt before discharge. The patient received a course of intermittent dialysis three times every week over altogether 2 weeks. Initially, oliguria was noted, but urine output increased slowly. After 2 weeks from discharge, the patient was weaned from dialysis and sufficient renal function was achieved.
+
+Figure 3. Cerebral spinal fluid drainage and colistin application during 37 days of intensive care treatment.
+
+Quantitative resistance testing of the intracranial strain of Acinetobacter baumannii showed a sensitivity to colistin of <0.5 mg/L. It was previously reported that CSF levels are also dependent on quantity of fluid drainage.15 The patient required repetitive drainage of CSF to control for ICP via the EVD and subsequently using a lumbar Tuohy catheter (Figure 2). Intrathecal colistin was stopped after a course of altogether 26 days (total amount of 6.5 MIU CMS) and the patient was switched to intravenous colistin monotherapy. Finally, with 2 MIUs colistin i.v. three times daily, a steady state was achieved with colistin serum levels of 4.4 mg/L and CSF levels of 1.36 mg/L. All repetitive microbiological analyses remained sterile. Following altogether 80 days of ICU treatment, the patient was transferred to a neurological rehabilitation facility. On follow-up 6 months later, he was intermittently awake, was able to respond adequately questions and followed requests, for example, pressed right hand and moved his right leg (CT; Figure 1(b)). He was able to produce simple verbal sentences with correct speech production. There was no evidence for a specific neurological side effect of the intraventricular colistin therapy in the patient.
+
+Discussion
+In 2004, the Infectious Disease Society of America suggested doses of about 0.125 MIUs intraventricular colistin—for example, when eradication is otherwise difficult to achieve. This therapeutic option was also under debate in the European medicines agency.16 Intravenous therapy with colistin did not achieve sufficient CSF drug levels for MDR pathogens.17 There was evidence from a small series of nine critically ill patients that local therapy of more than 0.06 MIU/day is necessary to achieve a sufficient steady state. In contrast, Ziaka et al.18 found that the targeted CSF drug level of 2 mg/L was not achieved with a combination of intraventricular 0.125 MIU/day plus 3 MIUs intravenous colistin three times daily. A large review by Imberti et al. identified 100 published cases of intraventricular colistin application in adults, children, and neonates. Based on these cases, microbiological clearance was achieved in about 90% of cases. Acinetobacter baumannii was the relevant MDR pathogen identified in 70% of cases. Treatment was applied for a median of 20 days and sterile CSF was achieved in median after 3.5 days. Most commonly, patients received once daily local colistin with doses of 0.125 MIU–0.5 MIU/day (Table 3).15 Imberti also report a non-linear relationship for CMS (prodrug) hydrolysis to active colistin in CSF with a terminal half-life time of about 7.8 h in CSF. Based on these findings, the most important factors contributing to drug clearance in CSF are liquor drainage or resorption.
+
+Table 3. Results of comprehensive literature search for case reports with colistin as treatment for patients with intracranial infections published expanding the recent reviews.3,10–12
+
+Literature	n	Intraventricular dosage per day	Intravenous dosage per day	Bacterial eradication	Mortality	
+Shrestha et al.6	1	0.2 MIU	6 MIU	1/1	0/1	
+Fotakopoulos et al.4	34 (23 IVT, 11 IV)	170.000 IU (mean ± 400 IU)	9 MIU	–	Hospital mortality: 3/23 IVT, 8/11 IV	
+De Bonis et al.3	18 (9 IV, 9 IVT)	10–20 mg (0.25–0.5 MIU)	–	12/18
+(9/9 IVT, 3/9 IV)	4/9 IVT, 7/9 IV	
+Shofty et al.5	95, of which 50 were analyzed	Median dose 0.05 MIU (range, 0.05–0.25 MIU/day)
+22 patients were treated	–	–	30-day mortality: 2/23 IVT (1/10 Col-IVT)
+9/27 IVT	
+Souhail et al.9	1	0.125 MIU/day	12 MIU	–	0/1	
+IV: intraventricular colistin therapy only; IVT: intraventricular + intravenous combination therapy; MIU: million international units.
+
+In our case, infection was observed in an intracerebral abscess formation. Abscess formations are very difficult to treat as diffusion into the infection focus is limited. Against this background, for this intracranial abscess, a higher CSF concentration of colistin was targeted compared to the literature. According to sensibility testing for colistin with <0.5 mg/L, a concentration range of 1–4 mg/L could possibly be a pragmatic therapeutic target. However, there is currently no sufficient clinical data available to support any specific recommendations. The intraventricular therapy with 0.5 MIU colistin per day achieved high drug levels sufficient for pathogen eradication. TDM of CSF led to dose adaptations of intrathecal application. One further component of TDM variability may be external CSF drainage that is part of total CSF circulation. This factor might be an important but unmeasured aspect altering TDM results. Indication to perform TDM in similar cases should be based on an individual basis and performed to guide though levels. After obtaining a CSF sample, immediate transfer to laboratory is necessary.
+
+Of course, this report also has limitations as it is difficult to draw generalized conclusions from single observations. Hence, more trials are needed to optimize treatment options for similar patients. Additionally, we measured CSF levels of colistin and not tissue concentrations. Differentiation of inactive CMS versus colistin was not available in this case. Although there are some data available suggesting non-linear hydrolysis of CMS in liquor, TDM results should be interpreted with caution. In summary, intraventricular application of colistin seems to be an effective option to treat intracranial infections caused by MDR bacteria. Following TDM results in this case, there may be the option to enhance the dosing interval of the intrathecal dose exemplarily every second day, reducing manipulations of the intracranial drainage and application system. This could decrease the risk of contamination and subsequent infections during the application of the antibiotic agent. Additionally, higher antibiotic peak levels may combat developing heteroresistance and facilitate drug diffusion into the tissues. However, there is the need for additional studies to support such a strategy. TDM for CSF and serum levels could potentially be of value to guide dosing especially in patients with complicated drug clearance.
+
+Declaration of conflicting interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Ethical approval: The ethics board of Charité university hospital Berlin approved this study and waived the need for informed consent.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Informed consent: Patient’s legal representative provided written informed consent to use anonymized medical information of the patient’s clinical course for scientific purposes.

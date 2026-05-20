@@ -1,0 +1,54 @@
+event,time
+68-year-old man,0
+admitted to the hospital,0
+vomited after consuming alcohol,-96
+epigastralgia,-96
+blood pressure 160/100 mm Hg,0
+pulse rate 105 beats/min,0
+respiratory rate 32 breaths/min,0
+body temperature 38.3°C,0
+SpO2 95%,0
+"white blood cell count 5,900/μl",0
+red blood cell count 411 × 10^4/μl,0
+hemoglobin 12.3 g/dl,0
+neutrophils 81.7%,0
+platelets 9.7 × 10^4/μl,0
+total protein 6.1 g/dl,0
+albumin 2.4 g/dl,0
+blood urea nitrogen 34 mg/dl,0
+creatinine 1.2 mg/dl,0
+creatine phosphokinase 111 IU/l,0
+aspartate aminotransferase 28 IU/l,0
+alanine aminotransferase <10 IU/l,0
+total bilirubin 0.6 mg/dl,0
+Na 142 mEq/l,0
+Cl 108 mEq/l,0
+K 4.2 mEq/l,0
+C-reactive protein 40.2 mg/dl,0
+procalcitonin 12.5 ng/ml,0
+chest X-ray showed left pleural effusion,0
+chest X-ray showed cardiomegaly,0
+suspected heart failure,0
+diagnosed with spontaneous esophageal perforation,48
+chest tube drainage performed,48
+increasing pleural effusion,48
+general condition deteriorated,48
+diagnosed with sepsis,48
+transferred to our hospital,96
+emergent surgery performed,96
+perforated lesion covered with necrotic tissue,96
+food residue in left thoracic cavity,96
+5-cm-long perforation at left lower esophagus,96
+pyothorax,96
+mediastinitis,96
+thoracic cavity rinsed with saline,96
+thoracic drainage performed,96
+nasoesophageal tube inserted,96
+transcervical mediastinal tube inserted,96
+feeding jejunostomy performed,96
+blood laboratory data improved,96
+contrast medium leakage on POD20,516
+contrast medium diminished by POD58,1392
+regenerated epithelium on POD72,1728
+peroral intake started on POD76,1824
+discharged from hospital on POD86,2064

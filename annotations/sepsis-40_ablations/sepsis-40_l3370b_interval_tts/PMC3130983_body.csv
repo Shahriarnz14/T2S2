@@ -1,0 +1,94 @@
+event,time
+14 years old,0
+female,0
+admitted to the hospital,0
+fatigue,-168
+nose bleeding,-168
+generalized ecchymosis,-168
+arthralgia,-168
+pallor,0
+tachycardia,0
+dermal/mucosal petechiae,0
+ecchymosis,0
+liver 6 cm palpable,0
+spleen 4 cm palpable,0
+"WBC 333,000/mm3",0
+hemoglobin 4 g/dl,0
+"platelet count 29,000/mm3",0
+L1-type blasts 97%,0
+myeloperoxidase negative,0
+Pre-B-cell ALL,0
+transaminases normal,0
+blood urine nitrogen normal,0
+creatinine normal,0
+uric acid normal,0
+phosphor normal,0
+lactate dehydrogenase high,0
+leukopheresis,0
+lumbar punction,96
+no cells in cerebrospinal fluid,96
+benign cytology,96
+Turk ALL 2000 protocol,0
+poor steroid response,192
+no hematologic remission,360
+BCR-ABL fusion gene positive,0
+t(9;22),0
+High Risk block therapy,0
+imatinib treatment,720
+severe mucositis,720
+total parenteral nutrition,720
+severe gastrointestinal hemorrhage,720
+erythrocyte transfusion,720
+platelet transfusion,720
+severe neutropenia,720
+fever,720
+CRP positive,720
+remission,2592
+depressive mood,2592
+no verbal cooperation,2592
+decreased muscle strength,2592
+increased muscle tonus,2592
+deep tendon reflex,2592
+Babinski test positive,2592
+cranial magnetic resonance imaging normal,2592
+unconsciousness,2592
+Glasgow coma score 7,2592
+cardiac pulse 34/min,2592
+arterial blood pressure 70/30 mm Hg,2592
+capillary perfusion time 3 s,2592
+hypothermic,2592
+intensive fluid replacement,2592
+positive inotropic support,2592
+erythrocyte suspension,2592
+thrombocyte suspension,2592
+broad spectrum antibiotherapy,2592
+encephalopathy,2592
+generalized tonic-clonic convulsions,2592
+mechanical ventilation,2592
+cranial computed tomography,2592
+bleeding region in left basal ganglion,2592
+peripheral edema,2592
+lactic acidosis,2592
+hemodiafiltration,2592
+thiamine treatment,2592
+BCR-ABL gene fusion negative,2592
+mechanic ventilation,2592
+extubated,6048
+percutaneous endoscopic gastrostomy,6048
+swallowing dysfunction,6048
+cognitive functions normal,8760
+mucositis regression,8760
+physiotherapy,8760
+spastic tetraparesis,8760
+discharged,8760
+imatinib treatment,0
+walking with support,10944
+walking without support,13104
+oral feeding,14256
+PEG closed,14256
+transfusion,0
+bone marrow examination,5184
+morphological remission,5184
+molecular remission,5184
+no matched donor,0
+still in remission,25920

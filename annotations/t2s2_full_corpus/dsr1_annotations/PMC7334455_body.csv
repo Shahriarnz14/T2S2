@@ -1,0 +1,47 @@
+event,time
+49 years old,0
+female,0
+wheelchair-bound,0
+progressive multiple sclerosis,"- (remote history, assuming 5 years prior: -43800)"
+natalizumab,"- (last dose in 2011, assuming 10 years prior: -87600)"
+presented to intensive care unit,0
+prolonged encephalopathy,- (assuming onset weeks prior to admission: -168)
+breakthrough seizures,"- (prior to admission, same as encephalopathy: -168)"
+hypothermia,0
+hypotension,0
+tachycardia,0
+tachypnea,0
+hypoxia,0
+mechanical ventilation,0
+elevated white blood cell count,0
+hemoglobin 10.0 g/dL,0
+"platelet count 511,000/uL",0
+urine toxicology screen unrevealing,0
+encephalopathy (toxic metabolic cause suspected),0
+sepsis,0
+pneumonia,0
+cefepime,0
+vancomycin,0
+continuous EEG monitoring,0
+no seizure activity,0
+antiepileptic medication adjusted,0
+unchanged mental status,0
+MRI brain with contrast,"+ (after admission, assumed 24 hours: 24)"
+lumbar puncture,"+ (after MRI, assumed 48 hours: 48)"
+symmetric marked edema bilateral basal ganglia,24
+mass effect on lateral ventricles,24
+CSF lymphocytic pleocytosis,48
+low CSF glucose,48
+high CSF protein,48
+viral encephalitis,48
+JC virus testing negative,"+ (after LP, assumed 72 hours: 72)"
+HSV-2 PCR positive,72
+intravenous acyclovir,"+ (after positive PCR, assumed 72 hours: 72)"
+improvement in mental status,"+ (after treatment, assumed 96 hours: 96)"
+discharged to rehabilitation center,+ (assumed 168 hours: 168)
+MRI frontal lobe edema,24
+MRI parietal lobe edema,24
+MRI occipital lobe edema,24
+MRI brainstem edema,24
+no meningeal signs,0
+status epilepticus (absent),0

@@ -1,0 +1,117 @@
+pmc Core Tip: Coinfection of Pneumocystis and Legionella is very rare. This is the first case of such infection in a patient with diffuse large B cell lymphoma. This case is significate for the detection of pathogens and the diagnosis and treatment of related diseases.
+
+INTRODUCTION
+
+Diffuse large B-cell lymphoma (DLBCL) is a common type of non-Hodgkin's lymphoma. R-CHOP is a protocol for long-term chemotherapy for DLBCL patients[1]. The common complications of R-CHOP include febrile neutropenia, neutropenia, thrombocytopenia, cardiotoxicity, peripheral neuropathy and so on. Long-term chemotherapy can also reduce the immunity of patients, which increases the possibility of the development of complex infections that are difficult to treat[2]. A variety of pathogenic microorganisms, such as bacteria, fungi and viruses, may cause infection in these patients. Immunocompromised populations are susceptible to Legionella and Pneumocystis infection, but Pneumocystis and Legionella coinfection in a patient is extremely rare. To date, only two studies have reported coinfection caused by Pneumocystis and Legionella in patients. Concurrent infection with Pneumocystis and Legionella was reported in a patient with adult T cell leukaemia in Japan[3]. Pneumocystis and Legionella coinfection was also reported in an infant with infantile spasms in Israel[4]. It is a major challenge for clinicians to correctly diagnose and treat diseases caused by coinfection with these two pathogens. Here, we report for the first time a case of severe pneumonia caused by Pneumocystis jirovecii (P. jirovecii) and Legionella pneumophila (L. pneumophila) coinfection in a patient with DLBCL.
+
+CASE PRESENTATION
+
+Chief complaints
+
+The patient was a 40-year-old female who presented with high fever six months prior to admission.
+
+History of present illness
+
+Her medical history was notable for DLBCL. After two R-CHOP treatments, the patient still had symptoms of fever.
+
+History of past illness
+
+The patient was diagnosed with DLBCL in a local hospital two months before admission.
+
+Personal and family history
+
+She was treated with the R-CHOP regimen (rituximab 600 mg day 0 +, cyclophosphamide 1.1 g day 1 +, doxorubicin 40 mg day 1 +, vincristine 4 mg day 1+ and prednisone 100 mg days 1-5) for two cycles.
+
+Physical examination
+
+The body temperature was 37.8 ℃, the blood pressure was 162/104 mmHg, the pulse was regular at 147 beats per minute (bpm), and the respiratory rate was 28 breaths/min. The patient had shortness of breath, and moist rales could be heard in both lungs.
+
+Laboratory examinations
+
+Laboratory tests showed a white blood cell count of 7.17 × 109/L, red blood cell count of 2.86 × 1012/L, haemoglobin level of 95 g/L, platelet count of 403 × 109/L, and C-reactive protein (CRP) level of 277.6 mg/L. Bone marrow cytology showed that the proliferation of nucleated cells in the bone marrow was obviously active, and the proportion of granulocyte red cells was inverted. Lymphoid malignant tumour cells accounted for 22.5% of the total cells. Bone marrow immunohistochemistry showed that the patient was CD20 (+) and TDT (-).
+
+After anti-infective treatment, the body temperature was 36.5 °C, oxygen saturation was 91.3%, white blood cell count was 12.32 × 109/L, lymphocyte classification was 1.0%, monocyte classification was 1.0%, neutrophil classification was 97.0% and CRP level was 79.0 mg/L.
+
+For comparison, the normal values are as follows: the white blood cell count is 4.0-10.0 × 109/L, red blood cell count is 3.5-5.0 × 1012/L, haemoglobin level is 110 g/L, platelet count is 100-300 × 109/L, CRP level is 0-10 mg/L, lymphocyte classification is 20%-30%, monocyte classification is 3%-8% and neutrophil classification is 50%-70%.
+
+Imaging examinations
+
+Chest computed tomography (CT) indicated multiple consolidation shadows and plaques in both lungs, and pulmonary oedema with inflammation was considered (Figure 1). After anti-infective treatment, chest CT showed that the consolidation of the lung disappeared slightly (Figure 2).
+
+Figure 1 Chest computed tomography indicated multiple consolidation shadows and plaques in both lungs, and pulmonary edema with inflammation was considered.
+
+Figure 2 After anti-infection treatment, the consolidation of the lung disappeared slightly.
+
+Microbiology examinations
+
+Pneumocystis was found in the patient's bronchoalveolar lavage fluid by hexamine silver staining (Figure 3). The patient's bronchoalveolar lavage fluid was sent to a third-party medical laboratory for next-generation sequencing because the present laboratory does not routinely carry out the molecular detection of pathogens. Sequence results showed that another pathogen, L. pneumophila, was also present in the patient’s bronchoalveolar lavage fluid. The previous diagnosis of P. jirovecii infection was also verified (Table 1). To verify the results of metagenome sequencing, Legionella culture and isothermal chip amplification were used to identify Legionella and Pneumocystis (Figure 4). After four days of bacterial culture, L. pneumophila grew on BCYE medium and was identified by the MALDI-TOF MS system (Figure 5).
+
+Figure 3 Pneumocystis was found in the patient's bronchoalveolar lavage fluid by hexamine silver staining.
+
+Figure 4 Isothermal chip amplification were used to verify Legionella and Pneumocystis.
+
+Figure 5 Legionella colonies on BCYE medium.
+
+Table 1 Results of next-generation sequencing: Pneumocystis jirovecii and Legionella pneumophila were detected from patient’ bronchoalveolar lavage fluid
+
+Types of pathogens	Number of sequences	Relative abundance	
+Legionella pneumophila	363	64.82%	
+Pneumocystis jirovecii	4758	99.69%	
+
+FINAL DIAGNOSIS
+
+P. jirovecii and L. pneumophila coinfection with DLBCL.
+
+TREATMENT
+
+The patient was given imipenem 1 g q6h+, tigecycline 100 mg q12h+, and carprofen 5 mg qd for empirical anti-infective therapy. After the pathogens were identified as P. jirovecii and L. pneumophila, intravenous injection of 100 mL of levofloxacin was added to the treatment regimen, and compound sulfamethoxazole tablets (0.96 g q6h) were given orally. Since the patient's blood oxygen saturation fluctuated between 40% and 90%, she was given an endotracheal intubation ventilator to assist in breathing.
+
+OUTCOME AND FOLLOW-UP
+
+The patient’s condition improved after anti-infective treatment. However, the patient developed septic shock, considered to be a result of poor health status. B-ultrasound showed that her pancreas was enlarged with echo changes, which was considered drug-induced pancreatitis caused by long-term immunosuppression and the use of large-dose antibiotics. After one month of treatment in the intensive care unit, the patient finally died.
+
+DISCUSSION
+
+In this case, the patient suffered from diffuse large B-cell lymphoma. During long-term chemotherapy, the patient's immunity declined seriously, resulting in a complex infection. Through traditional staining and culture techniques combined with molecular diagnostic techniques, the pathogens responsible for the infection were finally identified as P. jirovecii and L. pneumophila.
+
+Pneumocystis is a relatively primitive fungus in Ascomycota. Pneumocystidomycetes has only one order, one family and one genus. First discovered in the early 20th century, Pneumocystis lives in the lungs of humans and mammals. The first species identified was P. caterinii, thought to be a protozoan found in the lungs of mice. It was later found that P. jirovecii, which resides in human lungs, could cause Pneumocystis pneumonia in humans. Pneumocystis pneumonia is the most common disease in people with AIDS and in those with weakened immune systems[5]. Bronchoalveolar lavage fluid smear microscopy is the gold standard for the diagnosis of Pneumocystis pneumonia. At present, empirical medicine has a great influence on the detection of Pneumocystis by hexamine silver staining. It is easy for Pneumocystis to be missed during detection in clinical laboratories after empirical therapy. In the present study, we found very few cases of Pneumocystis by microscopy after empirical treatment was performed. Compared with microscopy, molecular detection is a more efficient method for the diagnosis of Pneumocystis pneumonia. We further confirmed the presence of P. jirovecii in this patient by next-generation sequencing and isothermal chip amplification.
+
+Legionella is a genus of gram-negative bacteria, and the most common and most virulent species in this genus is L. pneumophila, which was first discovered in 1976. Legionella spp. are mainly found in sewage and in the soil. Legionella spreads through the air and can lead to severe lung infections accompanied by systemic damage. Approximately 5%-15% of patients with severe pneumonia have an L. pneumophila infection[6]. Bacterial culture, urinary antigen detection and targeted PCR are common methods for Legionella detection. In China, the use of Legionella urinary antigen is limited, while targeted PCR is not available in most hospital laboratories. Bacterial culture, although effective, requires at least 72 h of culture time and may delay the treatment of critically ill patients. In this case, the presence of Pneumocystis was confirmed by hexamine silver staining. However, after anti-infection treatment, the patient still had lung symptoms. To further exclude other pathogenic bacterial infections, next-generation sequencing was performed. Notably, the results of next-generation sequencing confirmed coinfection caused by Pneumocystis and Legionella.
+
+Sanger sequencing is considered to be a first-generation gene sequencing technology. A series of sequencing technologies developed since 2004 are known as next-generation sequencing technologies[7]. Next-generation sequencing can quickly provide a large amount of gene sequence data, which can be used to quickly sequence the whole genome, enabling broad identification of known and unexpected pathogens or even the discovery of new organisms[8]. Due to the lack of a unified standard, next-generation sequencing has not yet become a clinically recommended diagnostic technique. However, we can still use this method to aid disease prevention and diagnosis. Next-generation sequencing has played an important role in the early detection and prevention of infectious diseases. In 2011, there was an outbreak of haemorrhagic intestinal infection in Europe. Through genome sequencing, the pathogen was identified as Escherichia coli O104:H4, and its pathogenesis and transmission mechanisms were deduced through sequence analysis, which provided an important basis for clinical diagnosis and treatment[9]. In this case, we used metagenomic next-generation sequencing (mNGS) to detect pathogens. The sequencing platform was Illumina NextSeq 550, and the sequencing strategy was SE75. mNGS is a technology that does not rely on microbial culture, directly extracts nucleic acids from clinical samples for pathogen detection, and can provide results within 36 h. The Illumina NextSeq 500 sequencing platform uses the SE75 sequencing strategy and can provide 400 M high-quality reads within 11 h. A total of 13832533 DNA sequences (13.8 M reads, each 75 bp in length) were obtained, and 37984 sequences were obtained after removing the sequences derived from humans. The pathogenic microorganism database is a nonpublic database organized by the laboratory. The results showed that the number of sequences from P. jirovecii was 4758, and the relative abundance was 99.69%. The number of sequences from L. pneumophila was 363, and the relative abundance was 64.82%.
+
+CONCLUSION
+
+Our case is notable for several reasons. First, this is the first case report of P. jirovecii and L. pneumophila coinfection in a DLBCL patient. Second, this case reminds us to be aware of the possibility of mixed infection in immunosuppressed patients. Finally, next-generation sequencing has an important role in the diagnosis and treatment of mixed infections in immunodeficient patients. When the commonly used test methods cannot identify the causative pathogen of infections, next-generation sequencing can help clinicians save the lives of critically ill patients in a timely manner.
+
+Informed consent statement: The patient‘s husband signed an informed consent form. This study has been reviewed and approved by the Research Ethics Committee of Zhejiang Provincial People’s Hospital (ref#2021QT165).
+
+Conflict-of-interest statement: The authors declare that they have no conflict of interest.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Manuscript source: Unsolicited manuscript
+
+Peer-review started: May 25, 2021
+
+First decision: June 25, 2021
+
+Article in press: August 10, 2021
+
+Specialty type: Infectious diseases
+
+Country/Territory of origin: China
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): 0
+
+Grade C (Good): C, C
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Beraldo RF, Zhang X S-Editor: Liu M L-Editor: A P-Editor: Zhang YL

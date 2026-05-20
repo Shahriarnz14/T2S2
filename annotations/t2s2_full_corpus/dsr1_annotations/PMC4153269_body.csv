@@ -1,0 +1,72 @@
+event,time
+63 year-old man,0
+presented to emergency department,-3
+dyspnea,-3
+central chest pain radiating into back,-3
+acute coronary syndrome workup negative,0
+pulse 94 per minute,0
+BP 135/72 mmHg,0
+SaO2 97% on air,0
+temperature 37°C,0
+no history of alcohol ingestion,0
+no history of cardiovascular diseases,0
+no history of abdominal diseases,0
+no surgical emphysema in supraclavicular fossae,0
+follow-up three days later,72
+acutely ill,72
+temperature rose to 39°C,72
+right lower chest region dull to percussion,72
+decreased breath sounds,72
+chest X-ray right pleural effusion,0
+no pneumomediastinum,0
+no subcutaneous emphysema,0
+pleural fluid aspiration exudates,0
+gram stain negative,0
+culture negative,0
+CT scan right-sided pneumothorax,0
+extended right-sided pleural effusion,0
+small amount of air in mediastinum,0
+hemoglobin 11.5 gm/dl,0
+hematocrit 35.4%,0
+white-cell count 17500/ml,0
+85% neutrophils,0
+"platelet count 145,000/ml",0
+serum electrolytes normal,0
+urea nitrogen 30 mg/dL,0
+creatinine 2.1 mg/dL,0
+liver function tests normal,0
+treated with antibiotics,0
+tube thoracostomy,0
+right closed thoracotomy,0
+water-seal drainage,0
+removal of 1500 ml fluid,0
+ceftriaxone 1 gm every 12 hours,0
+clindamycin 600 mg every 8 hours,0
+lack of response to treatment,24
+imipenem 500 mg every 6 hours,24
+vancomycin 1 gm every 12 hours,24
+clinical deterioration five days after admission,120
+increased respiratory distress,120
+discomfort,120
+fever,120
+delay in chest expansion,120
+chest pain,120
+suspicion of esophageal perforation,120
+right thoracotomy,120
+repair of linear longitudinal tear 3 cm,120
+marked mediastinal inflammation,120
+pleural inflammation,120
+open thoracotomy,120
+surgical repair of esophageal perforation,120
+thoracic window,120
+intravenous vasopressors,120
+postoperative condition deteriorated,120
+transferred to ICU,120
+mechanical ventilation,120
+repair of esophageal rupture,120
+postoperative complications,120
+respiratory failure,120
+acute kidney failure,120
+pleural empyema,120
+re-operation,120
+died,408

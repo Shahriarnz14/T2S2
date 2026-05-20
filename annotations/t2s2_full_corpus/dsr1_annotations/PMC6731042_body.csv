@@ -1,0 +1,64 @@
+event,time
+50-year-old,0
+male,0
+chronic pancreatitis,0
+chronic alcohol use,0
+epigastric abdominal pain,-1440
+generalized weakness,-1440
+chronic abdominal pain,0
+denies nausea,0
+denies vomiting,0
+denies diarrhea,0
+denies constipation,0
+denies change in urinary habits,0
+denies recent travel,0
+denies sick contacts,0
+acetaminophen/oxycodone,0
+pancreatic enzyme replacement therapy,0
+blood pressure 100/92 mmHg,0
+heart rate 94 bpm,0
+respiratory rate 16 breaths/min,0
+O2 saturation 97%,0
+epigastric tenderness,0
+CT abdomen diffuse calcifications,-1440
+hyperglycemic 703 mg/dL,0
+serum bicarbonate 16 mmol/L,0
+ketones in urine,0
+acetone in blood,0
+anion gap 27,0
+DKA,0
+admitted to medical ICU,0
+NPO,0
+IV lactated Ringer’s solution,0
+IV potassium,0
+IV insulin drip,0
+pancreatic enzyme replacement held,0
+cardiac enzymes sent,0
+lipase sent,0
+cardiac enzymes normal,0
+lipase elevated 156,0
+septic workup negative,0
+blood glucose monitored hourly,0
+electrolytes monitored every 4h,0
+albumin monitored every 4h,0
+IV hydration continued,0
+potassium adjustments,0
+dextrose adjustments,0
+anion gap closed,24
+insulin detemir 10 Units SQ QHS,24
+diabetic diet,26
+insulin sliding scale,26
+transitioned to medical floor,26
+diabetic teaching provided,26
+insulin regimen optimized,72
+discharged,72
+insulin aspart 3 Units TID,72
+insulin detemir 10 Units QHS,72
+insulin detemir 6 Units QAM,72
+autoimmune workup negative,72
+ketorolac for abdominal pain,72
+follow-up with PCP,72
+prior HbA1c normal,0
+HbA1c 16%,0
+diffuse calcifications,0
+multiple pseudocyst formation,0

@@ -1,0 +1,80 @@
+event,time
+83-year-old man,0
+male,0
+admitted to the hospital,0
+fell to the ground,-12
+lying on the floor throughout the night,-12
+syncope,-12
+leg ecchymosis,0
+anuric,0
+rhabdomyolysis-induced AKI,0
+sepsis,0
+acute prostatitis,0
+increased urea,0
+increased creatinine,0
+increased myoglobin,0
+increased CPK,0
+increased LDH,0
+increased CRP,0
+increased procalcitonin,0
+increased total bilirubin,0
+increased direct bilirubin,0
+increased AST,0
+increased ALT,0
+increased PSA,0
+increased white blood cell count,0
+neutrophils 93%,0
+sodium 137 mEq/L,0
+potassium 4.9 mEq/L,0
+calcium 8.7 mg/dL,0
+albumin 2.6 g/dL,0
+phosphate 4.1 mg/dL,0
+blood pressure 105/75 mm Hg,0
+heart rate 110 bpm,0
+body temperature 37.4°C,0
+no hydronephrosis,0
+empty bladder,0
+traces of blood in bladder catheter,0
+no urologic surgery indications,0
+no previous renal impairment,0
+prostatic hypertrophy,0
+overactive bladder,0
+recurrent prostatitis,0
+no statin use,0
+volume expansion,0
+diuretic,0
+alpha-agonist,0
+antibiotic treatment,0
+furosemide 125 mg IV daily,0
+femoral central venous catheter placement,0
+HFR-Supra started,0
+myoglobin removal,0
+reduced inflammatory status,0
+fluid balance maintenance,0
+urine output 300 mL/day after 96 h,96
+furosemide tapered to 50 mg/day,192
+"urine output 2,400 mL/day after 8 days",192
+antibiotic switch to meropenem,0
+E. coli resistant to piperacillin/tazobactam,0
+myoglobin reduced 98.4%,120
+CPK reduced 99.8%,120
+LDH reduced 72%,120
+CRP reduced 81%,120
+PCT reduced 98%,120
+femoral catheter removed,168
+jugular catheter placed,168
+HDF sessions,168
+high-flux hemodialysis,168
+dialysis discontinued,504
+discharge,504
+urea 96 mg/dL at discharge,504
+creatinine 3.06 mg/dL at discharge,504
+CRP 3.2 mg/dL at discharge,504
+total bilirubin 0.81 mg/dL at discharge,504
+AST 27 IU/L at discharge,504
+ALT 25 IU/L at discharge,504
+PSA 61 ng/mL at discharge,504
+"white blood cells 6,300 cells/µL at discharge",504
+urea 89 mg/dL at 6 months,4536
+creatinine 2.41 mg/dL at 6 months,4536
+GFR 24 mL/min at 6 months,4536

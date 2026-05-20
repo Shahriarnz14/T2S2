@@ -1,0 +1,48 @@
+event,time
+51-year-old,0
+white,0
+male,0
+history of severe alcoholism,0
+high daily consumption of alcohol over 30 years,0
+consumed rum,0
+consumed cognac,0
+consumed wines,0
+refused to treat addiction,0
+decrease in short-term memory,-8760
+paresthesias of lower limbs,-8760
+paresthesias of upper limbs,-8760
+ingestion of large amounts of alcohol,-24
+excessive drowsiness,-24
+torpor,-24
+coma,-24
+Glasgow coma score 7,0
+no signs of meningeal irritation,0
+no focal deficits,0
+no cranial nerve abnormalities,0
+IV thiamine 500 mg/day,0
+high doses of parenteral B vitamins,0
+cranial CT hypodensity in corpus callosum,0
+MRI involvement of cortical regions,0
+MRI involvement of subcortical white matter of frontal lobes,0
+MRI small areas of post-central gyri,0
+MRI small areas of superior temporal gyri,0
+no disruption of blood-brain barrier,0
+mild improvement in consciousness,24
+Glasgow 10,24
+mechanical ventilatory support,24
+multiple pulmonary infectious complications,168
+remained in ICU,168
+respiratory insufficiency,168
+mechanical ventilation dependence,168
+tracheostomy,168
+septic,1680
+fever,1680
+worsening respiratory status,1680
+hemodynamic deterioration,1680
+vasoactive drugs,1680
+broad-spectrum IV antibiotics,1680
+cultures positive for Rhodotorula mucilaginosa,1680
+amphotericin B treatment,1680
+no significant response to treatment,1680
+septic shock,1680
+death,1704

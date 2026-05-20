@@ -1,0 +1,128 @@
+event,time
+64 years old,0
+woman,0
+admitted to the hospital,0
+found unresponsive,-2
+slumped on the couch,-2
+eyes open,-2
+speechless,-2
+unable to follow commands,-2
+no injury,-2
+no incontinence,-2
+no signs of seizure,-2
+lethargic,0
+lack of interest in environment,0
+slow responses to stimulation,0
+tendency to fall asleep,0
+blood pressure 131/91 mm Hg,0
+pulse rate 78 beats/min,0
+respiratory rate 15 breaths/min,0
+oxygen saturation 99.8%,0
+afebrile,0
+no meningeal irritation,0
+pupils 4 mm,0
+reactive to light,0
+no ophthalmoplegia,0
+no facial asymmetry,0
+no cranial nerve deficits,0
+moves all extremities spontaneously,0
+reflexes 1+,0
+no ankle clonus,0
+Babinski sign absent,0
+atrial fibrillation,0
+right frontal ischemic stroke,0
+no seizures/epilepsy,0
+cardiac arrest 4 years prior,-35040
+pacemaker/defibrillator,-35040
+CT head showed encephalomalacia in right frontal lobe,0
+regular atrial-sensed ventricular-paced rhythm,0
+nonconvulsive seizures ruled out by stat EEG,0
+blood counts normal,0
+blood chemistry normal,0
+chest X-ray normal,0
+tissue plasminogen activator not administered,0
+became stuporous,24
+GCS 10,24
+intubated for airway protection,24
+admitted to intensive care unit,24
+MRI not performed,24
+repeat head CT 12 hours later,12
+bilateral paramedian thalamic infarcts,12
+CT angiography filling defects,12
+occluded artery of Percheron possible,12
+telemetry regular ventricular-paced rhythm,24
+pulse oximetry ≥99.0%,24
+transthoracic echocardiography unrevealing,24
+transesophageal echocardiography aborted,24
+clopidogrel added,24
+aspirin continued,24
+intravenous levetiracetam loaded 20 mg/kg,24
+levetiracetam 500 mg q12h,24
+cEEG showed diffuse slowing,24
+no abnormal cortical hyperexcitability,24
+methylphenidate started on day 3,72
+progressively more alert,72
+following simple commands,72
+extubation attempted on day 6,144
+extubation failed due to upper airway edema,144
+tracheostomy,216
+percutaneous endoscopic gastrostomy,216
+lapsed into stupor on day 12,288
+GCS 9,288
+blood pressure 144/95 mm Hg,288
+pulse rate 72 beats/min,288
+respiratory rate 18 breaths/min,288
+oxygen saturation 99.1%,288
+telemetry normal,288
+blood tests normal,288
+episode of bilateral leg jerking 30 seconds,288.5
+EEG recording 80 minutes from onset of stupor,288.5
+generalized epileptiform discharges,288.5
+Salzburg criteria for NCSE met,288.5
+awake and motionless,288.5
+extremities started jerking,288.5
+rhythmic pronation-supination of forearms,288.5
+rhythmic hip and knee flexion-extension,288.5
+clonic/convulsive seizure 28 seconds,288.5
+EEG obscured by muscle artifact,288.5
+no significant EEG change,288.5
+lorazepam 2 mg injected,288.5
+epileptiform discharges attenuated,288.5
+stupor attributed to NCSE,288.5
+midbrain infarction concern,288.5
+family declined invasive interventions,288.5
+right third nerve palsy (ptosis and dilated nonreactive pupil),291
+stat CT head same infarct,291
+repeat CT head 22 hours after onset of stupor,310
+infarct extended to midbrain,310
+right midbrain involvement,310
+cEEG showed waxing-waning epileptiform discharges,310
+relapsing and remitting NCSE,310
+generalized slowing,310
+epileptiform discharges reappearing,310
+build-up of rhythmic delta activity,310
+increasing density of sharp waves,310
+organized rhythmic 1.5-2.5 Hz sharp and slow wave complexes,310
+persistent epileptiform discharges,310
+more somnolent during discharges,310
+less responsive during discharges,310
+no focal electrographic seizures,310
+2 more episodes of bilateral leg jerking,310
+last episode recorded,310
+no EEG change during leg movements,310
+levetiracetam dose increased,310
+phenytoin added,310
+lorazepam boluses,310
+temporary NCSE suppression,310
+NCSE reemergence,310
+generalized rhythmic delta activity,310
+ictal features increase,310
+cEEG omitted for 5 days,310
+cortical hyperexcitability ictal-interictal continuum,310
+family refused coma induction,310
+sodium valproate added,310
+epileptiform activity suppressed,310
+more alert and responsive,310
+remained nonverbal,310
+followed simple commands,310
+discharged on hospital day 33,792

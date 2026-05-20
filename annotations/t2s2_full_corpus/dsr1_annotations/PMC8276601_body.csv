@@ -1,0 +1,95 @@
+event,time
+21 years old,0\
+male,0\
+obese,0\
+BMI 37,0\
+cough,-72\
+fevers,-72\
+shortness of breath,-72\
+pleuritic chest pain,-72\
+light-headedness,-24\
+near syncope,-24\
+acutely worsened dyspnoea,-24\
+denied contact with sick persons,0\
+denied exertional chest pain,0\
+denied weight loss,0\
+denied night sweats,0\
+denied abdominal pain,0\
+denied changes in bladder or bowel habits,0\
+denied recent travel,0\
+denied surgery,0\
+denied prolonged immobilization,0\
+febrile,0\
+tachycardic,0\
+normotensive,0\
+hypoxic,0\
+saturation 82% on room air,0\
+improved to 100% with non-rebreather mask,0\
+COVID-19 diagnosed by PCR,0\
+acute sub-massive PE diagnosed by CTPA,0\
+unfractionated heparin initiated,0\
+right heart strain on ECG,0\
+S1Q3T3 pattern on ECG,0\
+McConnell's sign on ultrasound,0\
+elevated D-Dimer,0\
+elevated troponin-T,0\
+elevated pro-BNP NT,0\
+pulmonary emboli in bilateral pulmonary arteries,0\
+pulmonary trunk enlargement,0\
+right ventricle to left ventricle ratio 1.4 to 1,0\
+admitted to ICU,0\
+high-flow nasal cannula,0\
+IV unfractionated heparin infusion,0\
+became hypoxic,12\
+became hypotensive,12\
+diagnosed with massive PE,12\
+underwent CDT of bilateral pulmonary arteries,12\
+tissue plasminogen activator infusion,12\
+UFH continued,12\
+improved clinically,72\
+transferred to general medicine floor,72\
+minimal supplemental oxygen,72\
+plan to discharge,72\
+developed acute respiratory failure,96\
+oxygen saturation 65%,96\
+hypotension 70/30 mmHg,96\
+intubated,96\
+cardiac arrest,96\
+CPR,96\
+ROSC,96\
+vasopressors initiated,96\
+ECMO initiated,96\
+repeat pulmonary angiogram,96\
+interval worsening of bilateral pulmonary emboli,96\
+recurrent massive PE confirmed,96\
+repeat CDT performed,96\
+ventilation parameters improved,120\
+vasopressors discontinued,120\
+weaning of ECMO began,120\
+venous duplex ultrasound,120\
+deep venous thrombus of right femoral vein,120\
+deep venous thrombus of right popliteal vein,120\
+IVC filter placed,120\
+transitioned to LMWH,120\
+hypercoagulable workup unremarkable,120\
+weaned from ECMO,240\
+extubated,744\
+septic shock,960\
+treated with antibiotics,960\
+right thigh hematoma,960\
+compartment syndrome,960\
+surgical debridement,960\
+transitioned to rivaroxaban,960\
+discharged to rehabilitation facility,1248\
+returned home,1608\
+activities of daily living independently,1608\
+rivaroxaban continued,1248\
+no major adverse events at 4 months,1248\
+obesity,0\
+right thigh hematoma,960\
+compartment syndrome,960\
+surgical debridement,960\
+transitioned to rivaroxaban,960\
+discharged,1248\
+home return,1608\
+activities of daily living,1608

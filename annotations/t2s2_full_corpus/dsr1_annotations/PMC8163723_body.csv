@@ -1,0 +1,109 @@
+event,time
+77-year-old man,0
+admitted to the hospital,0
+fall,0
+fever,0
+weakness,0
+COVID-19 diagnosis,0
+bilateral ground-glass opacities,0
+worsening respiratory symptoms,-72
+intubation,-48
+transfer to ICU,-48
+blood pressure 124/73 mmHg,0
+heart rate 63 beats/min,0
+SpO2 90% (FiO2 50%),0
+body temperature 38.0°C,0
+WBC 6900/μL,0
+hemoglobin 11.3 g/dL,0
+platelet 197×10³/μL,0
+aPTT 29 sec,0
+PT 1.09,0
+D-dimer 1.93 μg/mL,0
+CRP 12.74 mg/dL,0
+hypertension,0
+cerebral infarction,0
+favipiravir,0
+tocilizumab,0
+new-onset paroxysmal atrial fibrillation,0
+CHADS2 VASc score 5,0
+HAS-BLED score 2,0
+no active bleeding,0
+heparin initiation,0
+aPTT target 42-56 seconds,0
+"heparin dose 24,000 units",0
+ART-123 administration,0
+respiratory improvement,120
+extubation,120
+anterior chest hematoma observed,144
+hemoglobin drop (11 to 7 g/dL),144
+CT performed,144
+"multiple hematomas (chest, obturatorius internus)",144
+active extravasation,144
+emergency TAE,144
+angiography suite preparation,144
+DSA of left axillary artery,144
+acromial branch extravasation,144
+left lateral thoracic artery extravasation,144
+"embolization (gelatin sponge, coil)",144
+hemostasis confirmed,144
+bruising subsided,144
+discharged from ICU,312
+follow-up CT (22 days post-TAE),696
+chest hematoma decreased,696
+no extravasation,696
+no pseudoaneurysm,696
+transferred to another hospital,720
+77-year-old man,0
+admitted to the hospital,0
+fall,0
+fever,0
+weakness,0
+COVID-19 diagnosis,0
+bilateral ground-glass opacities,0
+worsening respiratory symptoms,-72
+intubation,-48
+transfer to ICU,-48
+blood pressure 124/73 mmHg,0
+heart rate 63 beats/min,0
+SpO2 90% (FiO2 50%),0
+body temperature 38.0°C,0
+WBC 6900/μL,0
+hemoglobin 11.3 g/dL,0
+platelet 197×10³/μL,0
+aPTT 29 sec,0
+PT 1.09,0
+D-dimer 1.93 μg/mL,0
+CRP 12.74 mg/dL,0
+hypertension,0
+cerebral infarction,0
+favipiravir,0
+tocilizumab,0
+new-onset paroxysmal atrial fibrillation,0
+CHADS2 VASc score 5,0
+HAS-BLED score 2,0
+no active bleeding,0
+heparin initiation,0
+aPTT target 42-56 seconds,0
+"heparin dose 24,000 units",0
+ART-123 administration,0
+respiratory improvement,120
+extubation,120
+anterior chest hematoma observed,144
+hemoglobin drop (11 to 7 g/dL),144
+CT performed,144
+"multiple hematomas (chest, obturatorius internus)",144
+active extravasation,144
+emergency TAE,144
+angiography suite preparation,144
+DSA of left axillary artery,144
+acromial branch extravasation,144
+left lateral thoracic artery extravasation,144
+"embolization (gelatin sponge, coil)",144
+hemostasis confirmed,144
+bruising subsided,144
+discharged from ICU,312
+follow-up CT (22 days post-TAE),696
+chest hematoma decreased,696
+no extravasation,696
+no pseudoaneurysm,696
+transferred to another hospital,720

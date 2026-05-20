@@ -1,0 +1,78 @@
+event,time
+78-year-old,0
+female,0
+admitted to the hospital,0
+shortness of breath,-240
+dyspnea,-240
+chest pain,-240
+acute non-ST segment elevation myocardial infarction,-240
+tracheal intubation,-240
+ventilator-assisted ventilation,-240
+vasodilation,-240
+hypertension,-131400
+coronary heart disease,-131400
+cerebral infarction,-131400
+anterior wall myocardial infarction,-131400
+decreased blood pressure,0
+increased heart rate,0
+fever,0
+septic shock,0
+cardiogenic shock,0
+blood oxygen saturation fluctuations above 97%,0
+thick breath sounds,0
+slight moist rale in lower lungs,0
+heart rate 100 bpm,0
+low and blunt heart sound,0
+dry necrosis of the right lower foot,0
+scattered ecchymoses,0
+serum creatine kinase-MB 25.8 ng/mL,0
+white blood cell count 24.25 × 109/L,0
+double lung infection,0
+moderate mitral regurgitation,0
+mild aortic regurgitation,0
+non-ST segment elevation acute myocardial infarction,0
+right leg gangrene,0
+right leg peripheral arterial occlusive disease,0
+imipenem,0
+cilastatin sodium,0
+dopamine,0
+norepinephrine,0
+percutaneous coronary intervention,-72
+coronary angiography,-72
+right coronary artery stent implantation,-72
+70%-80% stenosis in middle part of anterior descending artery,-72
+80% stenosis in opening of circumflex artery,-72
+90% stenosis in proximal part of right coronary artery,-72
+right coronary artery dominant type,-72
+three-vessel coronary lesions,-72
+stent implanted in right coronary artery,-72
+body temperature increased to 38.5-39 ºC,-72
+white blood cell count 33.74 × 109/L,-72
+right middle iliac artery occlusion,-72
+endotracheal tube in place,0
+medium flow oxygen inhalation,0
+scheduled for mid-thigh amputation,0
+conscious,0
+dopamine infusion 5 µg/kg/min,0
+norepinephrine infusion 0.06 µg/kg/min,0
+non-invasive blood pressure 95/45 mmHg,0
+heart rate 98 bpm,0
+SpO2 99%,0
+left radial artery puncture catheter,0
+ultrasound-guided right-side improved fascia iliaca compartment block,0
+0.33% ropivacaine hydrochloride 30 mL,0
+midazolam 2 mg,0
+sufentanil 10 µg,0
+cisatracurium 6 mg,0
+etomidate 6 mg,0
+1% sevoflurane inhalation anesthesia,0
+operation duration 65 min,0
+bispectral index 45-60,0
+vasoactive drugs used,0
+stable vital signs,0
+CPOT score 2 at 6 h post-surgery,6
+Ramsay sedation score 3,0
+inflammatory indicators improved,48
+tracheal intubation removed,48
+no serious adverse cardiovascular events,48
+discharged,48

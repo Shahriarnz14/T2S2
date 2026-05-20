@@ -1,0 +1,63 @@
+event,time
+pre-syncope ,-0.1
+syncope ,0.0
+left-sided chest tightness ,0.0
+generalized fatigue ,-96.0
+weight loss ,-96.0
+diffuse erythematous rash ,0.0
+unremarkable cardiac examination ,0.0
+unremarkable respiratory examination ,0.0
+normal sinus rhythm ,0.0
+raised troponin concentration ,0.0
+eosinophil count of 7.6 × 10^9/l ,0.0
+myocarditis ,0.0
+coronary angiography ,12.0
+no evidence of coronary artery disease ,12.0
+skin biopsy ,24.0
+cardiac biopsy ,24.0
+discharged ,48.0
+edoxaban ,48.0
+prednisolone ,48.0
+follow-up in the rheumatology clinic ,336.0
+missed appointment ,720.0
+neck swelling ,720.0
+urgently admitted to hospital ,720.0
+rise in eosinophil count ,720.0
+increase the dose of prednisolone ,720.0
+lymphadenopathy ,720.0
+T-cell lymphoma ,720.0
+chemotherapy with cyclophosphamide ,720.0
+sepsis ,744.0
+cholecystitis ,744.0
+new onset of seizures ,744.0
+reduction in consciousness ,744.0
+Glasgow Coma Scale of 9/15 ,744.0
+multiple bilateral acute infarctions ,744.0
+transfer to the intensive care unit ,744.0
+history of hepatitis B ,0.0
+history of asthma ,0.0
+history of intravenous drug use ,0.0
+history of excessive use of alcohol ,0.0
+ischemic stroke ,744.0
+reduced GCS score ,744.0
+seizures ,744.0
+intracranial bleeding ,744.0
+malignancy ,744.0
+intracerebral infection ,744.0
+diffuse subendocardial late gadolinium enhancement ,720.0
+mild LV systolic impairment ,720.0
+eczematous changes ,720.0
+no increase in eosinophils ,720.0
+T-cell lymphoma ,720.0
+"infarcts involving the frontal, parietal, and left temporo-occipital regions ",744.0
+apical tear ,768.0
+intramural myocardial tear ,768.0
+small apical cavity ,768.0
+mobile structures attached to dissected myocardium ,768.0
+diastolic flow in the apical cavity ,768.0
+systolic flow out of the apical cavity ,768.0
+cardiac thrombus ,768.0
+cyclophosphamide therapy ,768.0
+partial response ,768.0
+reduction of the eosinophil count ,768.0
+palliation ,840.0

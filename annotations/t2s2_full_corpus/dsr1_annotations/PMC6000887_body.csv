@@ -1,0 +1,64 @@
+event,time
+4 years old,0
+male,0
+presented to emergency room,0
+fever,-72
+abdominal pain,-72
+neck pain,-72
+trauma to back of skull,-96
+grunting,0
+poor perfusion,0
+severe neck pain,0
+temperature 39°C,0
+heart rate 200 per minute,0
+blood pressure 111/79 mmHg,0
+respiratory rate 40 per minute,0
+intravenous line insertion,0
+two boluses intravenous fluid,0
+full septic work-up,0
+broad spectrum antibiotics started,0
+admitted to pediatric intensive care unit,0
+progressive left neck pain,24
+neck swelling,24
+lateral neck radiograph,24
+thickened prevertebral soft tissue,24
+computed tomography scan of neck with contrast,24
+minimal fluid collection in retropharyngeal space,24
+left jugular vein filling defect,24
+partial thrombosis of left internal jugular vein,24
+brain venogram CT confirmed thrombosis,24
+blood culture positive for MSSA,48
+repeated culture positive for MSSA,72
+cerebrospinal fluid culture negative,48
+persistent growth of MSSA,72
+echocardiography done,72
+no vegetation,72
+no signs of infective endocarditis,72
+jugular vein thrombosis,24
+MSSA bacteremia,48
+sepsis,48
+Lemierre syndrome diagnosis,72
+new left-sided neck swelling,120
+left vertebral artery aneurysm,120
+coiling of aneurysm,144
+PICC line insertion,144
+episodes of bradycardia,144
+ECG Type I Brugada pattern,144
+elevated J point,144
+coved ST segment,144
+inverted T wave in precordial leads,144
+follow-up ECGs,168
+abnormal ECG findings resolved,168
+no family history of cardiac diseases,0
+no family history of sudden death,0
+genetic studies negative for Brugada syndrome,168
+SCN5A gene negative,168
+discharge from hospital,192
+follow-up ECGs normal,240
+no Brugada pattern,240
+pediatric cardiology follow-up,240
+counseling on Brugada precautions,240
+treat fever immediately,240
+precautions during swimming,240
+avoid over the counter medications,240
+no documented fever during Brugada pattern,144

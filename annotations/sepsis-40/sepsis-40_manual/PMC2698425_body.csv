@@ -1,0 +1,34 @@
+﻿event,time
+30 years old,0
+African American,0
+Woman,0
+Presented to the emergency department,0
+Complaining of shortness of breath on exertion,0
+Complaining of chest pain with deep inspiration,0
+No indication of recent infections,-24
+Physical examination did not yield any abnormalities,0
+VQ scan indicated high probability for pulmonary emboli in her right lobe,2
+Chest X-ray showed possible development of small bilateral pleural effusions,2
+Multiple nodular opacities scattered throughout the lungs were noted,2
+CT scan of abdomen showed moderate alveolar consolidation in the right lower lobe,3
+EKG was normal,3
+2D echocardiogram was normal,3
+No indication of endocarditis,3
+Admitted for treatment of acute pulmonary embolism,0
+Heparin drip initiated,0
+Developed high fevers during hospital stay,0
+Associated tachycardia,0
+Blood cultures positive for Gram positive cocci in pairs and clusters,24
+Organism identified as Staphylococcus caprae,36
+Started on vancomycin,24
+Antibiotics changed to Kefzol 2 gm IV every 8 hours,36
+Fever resolved,48
+Significant clinical improvement,48
+Urinalysis indicated presence of E. coli,72
+Three days of Ciprofloxacin administered for urinary tract infection,72
+No recent visit to a farm,-24
+No contact with goats,-24
+No history of transplant,-24
+No history of internal fixation for orthopedic prosthesis,-24
+No history of foreign body implants,-24
+Repeat echocardiogram did not reveal evidence of endocarditis,96

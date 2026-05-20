@@ -1,0 +1,35 @@
+event,time
+48 years old,0
+male,0
+admitted to the hospital,0
+perianal abscess,0
+syphilis,0
+penicillin anaphylaxis,0
+TRUST value 1:1,0
+etimicin,0
+ornidazole,0
+incision and drainage,0
+neck pain,1
+dizziness,1
+chest pressure,1
+high blood pressure 160/90 mmHg,1
+fever 40°C,2
+decreased blood pressure 80/50 mmHg,2
+neutrophilic leukocytosis,2
+procalcitonin 66.9 ng/mL,2
+fluid resuscitation,2
+temperature 36.8°C,2
+transferred to ICU,2
+intravenous imipenem-cilastatin,2
+dopamine,2
+worsening neutrophilic leukocytosis,72
+procalcitonin >200 ng/mL,72
+MODS,72
+abscess culture Neisseria gonorrhoeae,72
+abscess culture Staphylococcus haemolyticus,72
+blood culture R. mannitolilytica,72
+ceftriaxone,72
+levofloxacin,72
+repeat blood cultures no bacterial growth,168
+incision wound healed,168
+no complications,4320

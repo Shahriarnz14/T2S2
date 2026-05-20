@@ -1,0 +1,70 @@
+event,time
+70‑year‑old,0
+male,0
+farmer by profession,0
+admitted to the emergency department,0
+no other comorbidities,0
+no history of drug addiction,0
+no history of intoxication,0
+inguinal lymphadenopathy,0
+mild generalized rash,0
+no eschar,0
+hemodynamically stable,0
+disoriented,0
+no focal neurological deficit,0
+no neck rigidity,0
+initial provisional diagnosis of acute febrile illness with undifferentiated fever,0
+negative for malaria,0
+negative for dengue,0
+negative for typhoid,0
+negative for leptospira,0
+scrub typhus antigen card was positive,0
+scrub immunoglobulin M (IgM) was positive,0
+confirmed the diagnosis of scrub typhus,0
+blood and other body fluid cultures were sterile,0
+"complete blood count showed leukocytosis (15,800/cc)",0
+mild hyperbilirubinemia,0
+transaminitis,0
+slightly raised international normalized ratio (1.56),0
+viral markers were negative for hepatitis B antigen,0
+viral markers were negative for hepatitis C antibody,0
+ultrasound of the abdomen showed mild fatty infiltration of the liver,0
+other investigations done were normal,0
+treated with tablet doxycycline 100 mg twice daily,0
+high‑grade fever,-120
+generalized body ache,-120
+headache,-120
+joint pains,-120
+epigastric pain,-120
+altered sensorium,-24
+defervescence,48
+orientation improved,48
+weakness of both lower limbs (Grade 2/5),144
+weakness of upper limbs (Grade 2/5),144
+deep tendon reflexes were absent,144
+plantar responses were flexor,144
+bladder incontinence,144
+no bowel incontinence,144
+breathing difficulty,144
+respiratory distress,144
+single breath count was 10,144
+respiratory acidosis,144
+intubated,144
+mechanical ventilation started,144
+magnetic resonance imaging (MRI) of the brain without abnormality,144
+MRI of the cervical spine without abnormality,144
+nerve conduction velocity (NCV) showed motor sensory demyelinating polyneuropathy,144
+diagnosis of Guillain–Barre syndrome (GBS),144
+cerebrospinal fluid (CSF) analysis did not reveal albuminocytologic dissociation,144
+started on intravenous immunoglobulin therapy,144
+tablet rifampicin 600 mg twice daily was added,144
+improvement in weakness of all four limbs,384
+improvement in respiratory parameters,384
+weaned off mechanical ventilation,384
+extubated,384
+oral feeding was started,384
+aggressive limb and chest physiotherapy was continued,384
+shifted out from ICU,384
+discharged from the hospital,672
+full neurological recovery,672
+presently has no functional disability,1008

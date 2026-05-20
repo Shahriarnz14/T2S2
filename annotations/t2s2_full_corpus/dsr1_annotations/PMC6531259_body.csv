@@ -1,0 +1,231 @@
+event,time
+44-year-old,0
+man,0
+admitted to thoracic department,0
+bronchobiliary fistula,0
+pneumonia,0
+unresponsive to percutaneous biliary drainage,0
+unresponsive to antibiotic treatment,0
+past surgical history of pancreaticoduodenectomy,-10560
+Whipple operation,-10560
+carcinoma of the ampulla of Vater,-10560
+transarterial embolization for pseudoaneurysm rupture,-2592
+pseudoaneurysm rupture of gastroduodenal artery,-2592
+medical history uneventful,-672
+dilation of bile duct,-672
+small-sized multiple bilomas detected in hepatic segment VIII,-672
+initial symptoms: poor oral intake,-672
+initial symptoms: fluctuating fever,-672
+initial symptoms: jaundice,-672
+intravenous antibiotic treatment,-672
+repeated endoscopic drainage,-672
+repeated percutaneous drainage,-672
+recurrent biliary stent obstruction,-168
+acute dyspnea,-168
+yellowish sputum,-168
+sputum positive for bilirubin,-168
+preoperative chest X-ray: consolidation in right lung,0
+preoperative chest X-ray: pleural effusion,0
+abdominal CT: dilated bile duct,0
+abdominal CT: bilomas in liver,0
+chest CT: subdiaphragmatic abscess,0
+chest CT: pneumonic consolidation with necrotizing change,0
+chest CT: bilateral pleural effusion,0
+tubogram: fistulous communication between bile duct and right lower lung,0
+fiberoptic bronchoscopy: bile from right lower bronchus,0
+preoperative ABGA: pH 7.41,0
+preoperative ABGA: PaCO2 32 mmHg,0
+preoperative ABGA: PaO2 67 mmHg,0
+preoperative ABGA: HCO3- 20.1 mmol/L,0
+"leukocytosis: 15,300/mm3",0
+total bilirubin: 3.74 mg/dL,0
+direct bilirubin: 2.30 mg/dL,0
+alkaline phosphatase: 560 IU/L,0
+γ-glutamyl transferase: 128 U/L,0
+albumin: 2.8 g/dL,0
+lactate: 2.8 mmol/L,0
+INR: 1.57,0
+S. aureus in sputum culture,0
+E. coli in sputum culture,0
+E. faecium in sputum culture,0
+P. aeruginosa in sputum culture,0
+gradual deterioration with hypoxemia,0
+uncontrolled pneumonia,0
+underwent PTBD for biliary decompression,0
+icteric,0
+productive cough,0
+no significant dyspnea in semi-Fowler position,0
+SpO2 94%,0
+heart rate 117 bpm,0
+ABP 121/75 mmHg,0
+preoxygenated with 100% oxygen,0
+rapid sequence induction with etomidate,0
+rocuronium 60 mg,0
+left-sided DLT insertion,0
+DLT correctly positioned,0
+ventilation with 50% oxygen,0
+TCI propofol,0
+TCI remifentanil,0
+BIS 40-60,0
+CVP monitoring,0
+esophageal temperature monitoring,0
+urine output monitoring,0
+bile-stained secretions in trachea,0
+bile-stained secretions in carina,0
+bile-stained secretions in right bronchus,0
+biliary spillage suctioned,0
+OLV initiated,0
+tidal volume 8 ml/kg,0
+respiratory rate 15/min,0
+PEEP 5 cmH2O,0
+SpO2 decreased to 92%,0
+SpO2 increased to 97%,0
+bronchial lavage with saline,0
+resection of fistula,0
+bilobectomy of right lung,0
+multiple abscess pockets,0
+necrotizing pneumonia,0
+perforated diaphragm repaired,0
+subphrenic drain inserted,0
+oxygenation improved,0
+two-lung ventilation reinstituted,0
+recruit maneuver,0
+PaO2 201 mmHg,0
+anesthesia duration 445 minutes,0
+operation duration 340 minutes,0
+estimated blood loss 1 L,0
+ABP 100/60-125/70 mmHg,0
+CVP 5-10 mmHg,0
+crystalloid 4.2 L,0
+PRBC 2 units,0
+dopamine 3-5 μg/kg/min,0
+urine output 1480 mL,0
+hypokalemia corrected,0
+DLT replaced with single-lumen tube,0
+transferred to SICU,24
+postoperative mechanical ventilation,24
+dexmedetomidine infusion,24
+remifentanil infusion,24
+postoperative chest X-ray: decreased effusion,24
+extubated on postoperative day 4,96
+follow-up: no BBF recurrence,720
+succumbed to progressive sepsis,2880
+wound infection,2880
+hepatic failure,2880
+necrotizing pneumonia,2880
+repeated biliary stent stricture,2880
+44-year-old,0
+man,0
+admitted to thoracic department,0
+bronchobiliary fistula,0
+pneumonia,0
+unresponsive to percutaneous biliary drainage,0
+unresponsive to antibiotic treatment,0
+past surgical history of pancreaticoduodenectomy,-10560
+Whipple operation,-10560
+carcinoma of the ampulla of Vater,-10560
+transarterial embolization for pseudoaneurysm rupture,-2592
+pseudoaneurysm rupture of gastroduodenal artery,-2592
+medical history uneventful,-672
+dilation of bile duct,-672
+small-sized multiple bilomas detected in hepatic segment VIII,-672
+initial symptoms: poor oral intake,-672
+initial symptoms: fluctuating fever,-672
+initial symptoms: jaundice,-672
+intravenous antibiotic treatment,-672
+repeated endoscopic drainage,-672
+repeated percutaneous drainage,-672
+recurrent biliary stent obstruction,-168
+acute dyspnea,-168
+yellowish sputum,-168
+sputum positive for bilirubin,-168
+preoperative chest X-ray: consolidation in right lung,0
+preoperative chest X-ray: pleural effusion,0
+abdominal CT: dilated bile duct,0
+abdominal CT: bilomas in liver,0
+chest CT: subdiaphragmatic abscess,0
+chest CT: pneumonic consolidation with necrotizing change,0
+chest CT: bilateral pleural effusion,0
+tubogram: fistulous communication between bile duct and right lower lung,0
+fiberoptic bronchoscopy: bile from right lower bronchus,0
+preoperative ABGA: pH 7.41,0
+preoperative ABGA: PaCO2 32 mmHg,0
+preoperative ABGA: PaO2 67 mmHg,0
+preoperative ABGA: HCO3- 20.1 mmol/L,0
+"leukocytosis: 15,300/mm3",0
+total bilirubin: 3.74 mg/dL,0
+direct bilirubin: 2.30 mg/dL,0
+alkaline phosphatase: 560 IU/L,0
+γ-glutamyl transferase: 128 U/L,0
+albumin: 2.8 g/dL,0
+lactate: 2.8 mmol/L,0
+INR: 1.57,0
+S. aureus in sputum culture,0
+E. coli in sputum culture,0
+E. faecium in sputum culture,0
+P. aeruginosa in sputum culture,0
+gradual deterioration with hypoxemia,0
+uncontrolled pneumonia,0
+underwent PTBD for biliary decompression,0
+icteric,0
+productive cough,0
+no significant dyspnea in semi-Fowler position,0
+SpO2 94%,0
+heart rate 117 bpm,0
+ABP 121/75 mmHg,0
+preoxygenated with 100% oxygen,0
+rapid sequence induction with etomidate,0
+rocuronium 60 mg,0
+left-sided DLT insertion,0
+DLT correctly positioned,0
+ventilation with 50% oxygen,0
+TCI propofol,0
+TCI remifentanil,0
+BIS 40-60,0
+CVP monitoring,0
+esophageal temperature monitoring,0
+urine output monitoring,0
+bile-stained secretions in trachea,0
+bile-stained secretions in carina,0
+bile-stained secretions in right bronchus,0
+biliary spillage suctioned,0
+OLV initiated,0
+tidal volume 8 ml/kg,0
+respiratory rate 15/min,0
+PEEP 5 cmH2O,0
+SpO2 decreased to 92%,0
+SpO2 increased to 97%,0
+bronchial lavage with saline,0
+resection of fistula,0
+bilobectomy of right lung,0
+multiple abscess pockets,0
+necrotizing pneumonia,0
+perforated diaphragm repaired,0
+subphrenic drain inserted,0
+oxygenation improved,0
+two-lung ventilation reinstituted,0
+recruit maneuver,0
+PaO2 201 mmHg,0
+anesthesia duration 445 minutes,0
+operation duration 340 minutes,0
+estimated blood loss 1 L,0
+ABP 100/60-125/70 mmHg,0
+CVP 5-10 mmHg,0
+crystalloid 4.2 L,0
+PRBC 2 units,0
+dopamine 3-5 μg/kg/min,0
+urine output 1480 mL,0
+hypokalemia corrected,0
+DLT replaced with single-lumen tube,0
+transferred to SICU,24
+postoperative mechanical ventilation,24
+dexmedetomidine infusion,24
+remifentanil infusion,24
+postoperative chest X-ray: decreased effusion,24
+extubated on postoperative day 4,96
+follow-up: no BBF recurrence,720
+succumbed to progressive sepsis,2880
+wound infection,2880
+hepatic failure,2880
+necrotizing pneumonia,2880
+repeated biliary stent stricture,2880

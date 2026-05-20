@@ -1,0 +1,128 @@
+event,time
+history of hypertension for more than 10 years,-87600
+highest blood pressure 180/100 mmHg,-87600
+oral valsartan,-8760
+history of recurrent fever for more than 1 month,-744
+history of nausea for 1 week,-168
+history of vomiting for 1 week,-168
+65-year-old,0
+female,0
+admitted to our hospital,0
+highest body temperature 38 ℃,0
+no obvious clinical signs by physical examination,0
+neutrophil count 6.96×10^9/L ↑,0
+monocyte count 0.86×10^9/L ↑,0
+lymphocyte percentage 14.9% ↓,0
+red blood cell count 3.17×10^12/L ↓,0
+hemoglobin 87 g/L ↓,0
+hematocrit 0.28 L/L ↓,0
+average red blood cell hemoglobin concentration 312 g/L ↓,0
+platelet count 363×10^9/L ↑,0
+platelet distribution width 8.3 fl ↓,0
+C-reactive protein 52.01 mg/L ↑,0
+no history of tuberculosis,0
+no history of infectious hepatitis,0
+no history of syphilis,0
+no history of surgery,0
+no history of blood transfusion,0
+no history of drug allergy,0
+platelet count gradually decreased,24
+abnormal infection indicators,24
+bone puncture,48
+megakaryocyte maturation disorder,48
+blood culture indicated Klebsiella pneumoniae sepsis,48
+admitted to the hematology department,72
+secondary infectious thrombocytopenia,72
+gram-negative bacilli septicemia (Klebsiella pneumoniae),72
+liver abscess,72
+bilateral lung inflammation,72
+type 2 diabetes,72
+hypertension grade 3 (extremely high risk),72
+vancomycin administered,72
+caspofungin administered,72
+dexamethasone administered,72
+posaconazole oral suspension administered,72
+liver abscess puncture and drainage treatment performed,96
+inflammatory indexes decreased significantly after treatment,120
+light perception disappeared in the left eye,168
+eyelid redness (left),168
+eyelid pain (left),168
+purulent secretion (left eye),168
+repeated fever,168
+left-sided headache,168
+endogenous endophthalmitis (left),168
+orbital cellulitis (left),168
+rubeosis iridis (left),168
+exudative retinal detachment (left),168
+diabetic retinopathy (right),168
+intravitreal injection with vancomycin (left eye),168
+intravitreal injection with ceftazidime (left eye),168
+symptoms were relieved,216
+current systemic infection under control,216
+left eyeball enucleation,240
+fever again after the operation,252
+moxifloxacin administered,252
+sulperazon administered,252
+temperature elevated again,264
+inflammation of both lungs on CT,360
+pericardial effusion on CT,360
+bilateral pleural thickening on CT,360
+bilateral pleural effusion on CT,360
+atelectasis in right inferior lobe on CT,360
+liver cyst on CT,360
+liver abscess on CT,360
+right renal cyst on CT,360
+myoma of the uterus on CT,360
+infection of lumbar vertebrae,360
+mesenteric panniculitis,360
+pelvic effusion,360
+suppurative endophthalmitis (left),360
+retinal detachment (left),360
+choroidal detachment (left),360
+type 2 diabetes retinopathy (right),360
+"cortical senile cataract (right, immature stage)",360
+type 2 diabetes nephropathy stage I,360
+type 2 diabetic peripheral neuropathy,360
+hepatic cyst,360
+renal cyst,360
+hypoproteinemia,360
+coronary atherosclerotic heart disease,360
+lacunar cerebral infarction,360
+moderate anemia,360
+risk of malnutrition,360
+convulsion,552
+unconsciousness,552
+transferred to the respiratory intensive care unit,552
+lacunar infarction on CT,552
+encephalomalacia on CT,552
+bilateral pleural effusion on CT,552
+right lower lobe insufficiently inflated on CT,552
+coma,552
+unresponsive,552
+slight neck resistance,552
+weak light response of the eye,552
+low muscle tension,552
+left Babinski sign positive (suspicious),552
+right Babinski sign negative,552
+impression was “intracranial infection”,552
+lumbar puncture performed,552
+cerebrospinal fluid sent for biochemistry analysis,552
+cerebrospinal fluid sent for microbial metagenomic next-generation sequencing,552
+CSF glucose <1.1 mmol/L ↓,576
+CSF chlorine 108 mmol/L ↓,576
+"CSF protein >3,000 mg/L ↑",576
+Klebsiella pneumoniae with drug-resistant gene blaSHV detected by mNGS,576
+meropenem 2 g q8h prolonged for 3 h administered to treat intracranial infection,576
+body temperature gradually improved,624
+blood routine improved,624
+CRP gradually improved,624
+pulmonary edema gradually dissipated and absorbed on CT,1224
+pleural effusion gradually dissipated and absorbed on CT,1224
+CSF chlorine 119 mmol/L ↓,1344
+"CSF micro amount of proteins 1,107 mg/L ↑",1344
+CSF microalbumin 816.3 mg/L ↑,1344
+CSF immunoglobulin G 308.5 mg/L ↑,1344
+CSF α2-macroglobulin 18.5 mg/L ↑,1344
+CSF β2-microglobulin 2.67 mg/L ↑,1344
+discharged from the hospital,1536
+close follow-up conducted,1536

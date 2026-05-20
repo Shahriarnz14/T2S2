@@ -1,0 +1,69 @@
+event,time
+33 years old,0
+female,0
+admitted to the hospital,0
+nausea,-24
+vomiting,-24
+abdominal pain,-24
+discharged,-36
+hospitalized for recurrent pericarditis,-36
+treated with colchicine,-36
+febrile,0
+hypotensive,0
+leukocytosis,0
+elevated serum lactate,0
+acute kidney injury,0
+acute transaminitis,0
+severe coagulopathy,0
+normal serum troponin,0
+negative comprehensive toxicology screen,0
+normal sinus rhythm,0
+normal biventricular function,0
+no valvular disease,0
+no pericardial effusion,0
+sepsis suspected,0
+fluid resuscitated,0
+broad-spectrum antibiotics,0
+vasopressor therapy,0
+severe multisystem organ failure,24
+intubated,24
+paralyzed,24
+intravascular volume repletion,24
+intravenous vasopressors,24
+stress-dose steroids,24
+high-dose vitamin B12,24
+Swan-Ganz catheter placed,24
+distributive shock,24
+cardiac output 7.4 l/min,24
+pulmonary artery diastolic pressure 8 mm Hg,24
+systemic vascular resistance indexed 1572 dynes/s/cm5/m2,24
+cardiogenic shock,48
+high filling pressures,48
+low CO,48
+high systemic vascular resistance,48
+elevated troponin,48
+severe biventricular failure,48
+left ventricular ejection fraction 15%,48
+intravenous milrinone,48
+continuous renal replacement therapy,48
+PRBC transfusion,48
+CO normalized,72
+troponin decreased,72
+multisystem organ failure improved,72
+neutropenic,96
+recovery of LVEF to 50-55%,144
+weaned from vasopressors,240
+taken off CRRT,240
+extubated,312
+hair loss,576
+admitted to taking 60 tablets of 0.6 mg of colchicine,0
+elevated serum colchicine level,30
+elevated whole blood colchicine level,14
+hypertension,-36
+pulmonary emboli,-36
+polysubstance abuse,-36
+discharged from hospital,432
+outpatient rehabilitation,432
+complete renal recovery,432
+complete hepatic recovery,432
+complete cardiac recovery,432

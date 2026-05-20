@@ -1,0 +1,96 @@
+event,time
+61 years old,0\
+female,0\
+severe community-acquired pneumonia,0\
+acute renal failure,0\
+type 2 diabetes mellitus,0\
+chronic obstructive airway disease,0\
+acute tubular necrosis,0\
+sepsis,0\
+hypotension,0\
+urine without red cells or casts,0\
+renal function stable,-48\
+renal function worsened rapidly,-24\
+fluid overload,-24\
+4 sessions of haemodialysis in intensive care unit,-24\
+renal function improved,0\
+dialysis independent,0\
+discharged home after 45 days of hospital stay,1080\
+acute pulmonary oedema,1104\
+skin rash,1104\
+readmission to intensive care unit,1104\
+pulmonary hypertension,1104\
+splenomegaly,1104\
+hepatomegaly,1104\
+bilateral pleural effusion,1104\
+vasculitis-like skin lesions in extremities,1104\
+dysmorphic red cells in urine,1104\
+proteinuria (1 g/24h),1104\
+hypoalbuminaemia (24 g/l),1104\
+low complement levels,1104\
+positive serology for mixed cryoglobulinaemia,1104\
+normal renal ultrasound,1104\
+weakly positive rheumatoid factor,1104\
+negative HCV RNA,1104\
+negative autoimmune screens,1104\
+renal biopsy with mesangiocapillary glomerulonephritis,1104\
+hyaline capillary thrombi,1104\
+focal mild endarteritis,1104\
+cryoglobulinaemic vasculitis diagnosis,1104\
+5 sessions plasma exchange,1104\
+2 sessions haemodialysis,1104\
+prednisolone,1104\
+cyclophosphamide,1104\
+decreased cryoglobulin levels in 3 weeks,1320\
+symptomatic improvement,1320\
+cyclophosphamide discontinued due to thrombocytopenia,1320\
+discharged on prednisolone 50 mg daily,1320\
+normal renal function on discharge,1320\
+symptomatic recurrence after 2 weeks,1560\
+rash reappearance,1560\
+serum cryoglobulins positive/high,1560\
+low complements,1560\
+worsening proteinuria,1560\
+fluid retention with weight gain,1560\
+elevated urea disproportionate to creatinine,1560\
+5 sessions plasmapheresis,1560\
+reduced cyclophosphamide (50 mg/100 alternate days),1560\
+discharged again with normal renal function,1560\
+negative serum cryoglobulin,1560\
+represented after 12 days with fluid overload,1824\
+pneumonia,1824\
+"cyclophosphamide ceased due to thrombocytopenia, sepsis, herpes zoster",1824\
+intermittent haemodialysis,1824\
+plasmapheresis alternate days for 1 month,1824\
+new-onset paraproteinaemia (3 g/l),1824\
+monoclonal IgM kappa (85 mg/l),1824\
+negative Bence Jones protein,1824\
+normal skeletal survey,1824\
+no serum light chains,1824\
+bone marrow biopsy showing low-grade lymphoma,1824\
+CD20 expression on B cells,1824\
+no clinical improvement,1824\
+regular dialysis/ultrafiltration,1824\
+rituximab 600 mg/week for 3 weeks,1824\
+prednisolone continued,1824\
+symptomatic improvement within 1 week,2136\
+absent cryoglobulins,2136\
+normal complement levels,2136\
+"prior infections (pneumonia, herpes zoster, urosepsis)",2136\
+3 doses rituximab administered,2136\
+discharged on prednisolone and intermittent haemodialysis,2136\
+renal function gradual improvement,2136\
+dialysis independent after 7 months,5088\
+complete renal recovery,5088\
+negative cryoglobulin titres over 24 months,17520\
+normal serum complements,17520\
+prednisolone 5 mg daily,17520\
+no side effects including infections,17520\
+non-Hodgkin's lymphoma-associated cryoglobulinaemia diagnosis,1104\
+acute renal failure presentation,0\
+nephritis,1104\
+"recurrence resistant to cytotoxics, steroids, plasma exchange",1560\
+rituximab effective and well-tolerated,1824\
+no clinical/serological recurrence for 24 months,17520\
+no maintenance therapy needed,17520\
+complete renal recovery despite initial poor prognosis,5088

@@ -1,0 +1,68 @@
+event,time
+48 years old,0
+female,0
+emergency room visit,0
+shortness of breath,-3
+headache,-3
+nausea,-3
+increased blood pressure,-3
+painless loss of vision,0
+heart rate 104/min,0
+BP 220/120 mmHg,0
+basal crepitations,0
+drowsy but arousable,0
+normal pupillary reflex,0
+normal extra-ocular movements,0
+normal fundoscopy,0
+no light perception,0
+no signs of meningeal irritation,0
+hemoglobin 13.5 g/dl,0
+mild leukocytosis 11300 cells/dl,0
+elevated C-reactive protein 4.5 mg/dl,0
+normal ESR,0
+normal liver function tests,0
+normal renal function tests,0
+normal coagulation profile,0
+normal autoantibodies,0
+normal neoplastic markers,0
+increased CSF protein 55 mg/dl,0
+pulmonary edema,0
+normal arterial blood gas,0
+MRI brain T2/FLAIR hyperintensities,0
+PRES diagnosis,0
+nitroglycerin infusion,0
+furosemide,0
+calcium channel blockers,0
+telmisartan,0
+diffuse theta/delta slowing on EEG,0
+bilateral temporal-occipital epileptiform discharges,0
+normal ECG,0
+normal echocardiogram,0
+normal ultrasound abdomen,0
+normal renal artery doppler,0
+normal neck vessel doppler,0
+improved shortness of breath,120
+regained vision,120
+BP 160/90 mmHg,96
+telmisartan 40 mg daily,96
+cilnidipine 10 mg BID,96
+hydrochlorothiazide 12.5 mg daily,96
+persistent high BP,96
+anxiety,96
+metoprolol 25 mg BID,96
+BP increased to 180/100 mmHg,96
+normal serum cortisol,96
+normal parathormone,96
+normal calcium,96
+normal phosphorus,96
+normal urine VMA 5.6 mg/dl,96
+elevated urine metanephrine 1200 μg/ml,96
+elevated plasma metanephrine 550 μg/ml,96
+CECT abdomen retroperitoneal mass,96
+paraganglioma diagnosis,96
+PET scan no metastasis,96
+phenoxybenzamine started,96
+BP normalized,96
+surgical resection of tumor,168
+neuroendocrine tumor confirmed,168
+discharged,168

@@ -1,0 +1,98 @@
+A 40-year-old man with a history of tricuspid atresia post-lateral tunnel Fontan (Figure 1), HIV, gout, and obstructive sleep apnea developed new-onset fever, shortness of breath, and diarrhea. A nasopharyngeal swab test result was positive for severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) at an outside clinic. Worsening shortness of breath precipitated presentation to the emergency department. Vital signs showed a heart rate of 118 beats/min, blood pressure of 159/100 mm Hg, and respiratory rate of 50 breaths/min with initial oxygen saturation of 40% on room air, which improved to 86% with high-flow nasal cannula (HFNC). A chest x-ray film showed a left-sided pneumothorax (Figure 2).Learning Objectives
+
+• Positive pressure ventilation leads to decreased cardiac output in patients with a Fontan circulation.
+
+• Inhaled nitric oxide may be useful to decrease pulmonary vascular resistance, decrease ventilation/perfusion mismatch, and improve cardiac output in Fontan patients.
+
+• Prompt use of therapeutic anticoagulation is reasonable because of the increased thromboembolism risk of the Fontan circuit combined with severe COVID-19 infection.
+
+Figure 1 Diagram of Fontan Circulation in a Patient With Tricuspid Atresia
+
+LA = left atrium; LV = left ventricle; RA = right atrium; SVC-BDG = superior vena cava-bidirectional glenn.
+
+Figure 2 Initial and Repeat Chest X-Ray Films
+
+(A) Chest x-ray film showing large left pneumothorax with (B) subsequent placement of pigtail chest tube.
+
+Medical History
+
+The patient had undergone 1-stage bidirectional Glenn and lateral tunnel Fontan at age 6 years after moving from the Philippines. He reported no further interventions or hospitalizations. He had been lost to follow-up for cardiology care for the past 14 years but was diagnosed with HIV at age 28 years.
+
+His latest echocardiogram showed ejection fraction of 25% to 35%, severe aortic regurgitation (Figure 3), and mild mitral valve regurgitation. Recent rhythm monitor showed predominantly sinus rhythm with evidence of wandering atrial pacemaker and isolated premature atrial contractions.Figure 3 Transthoracic Echocardiogram
+
+(A) Parasternal long-axis view with color Doppler and (B) suprasternal notch view showing moderate to severe aortic regurgitation (diastolic flow reversal in the descending aorta).
+
+Medications included daily losartan, allopurinol, ergocalciferol, and elvitegravir-cobicistat-emtricitabine-tenofovir-alafenamide. His latest CD4 count was normal.
+
+Differential Diagnosis
+
+Fontan patients have a baseline desaturation because the coronary sinus is not included in the Fontan circuit and, instead, typically drains into the pulmonary venous atrium.
+
+The differential diagnosis of further desaturation in Fontan patients includes pulmonary or systemic venous desaturation or decreased pulmonary blood flow. Pulmonary venous desaturation can be caused by ventilation/perfusion mismatch from pneumonia, pulmonary edema, atelectasis, pneumothorax, or pulmonary arteriovenous malformations (especially with left atrial isomerism). Systemic venous desaturation can be due to decreased oxygen delivery from anemia, depressed ventricular function, atrioventricular valve regurgitation, tamponade, sepsis, venovenous collaterals (systemic venous collateral to pulmonary vein), or Fontan baffle leak. Finally, decreased pulmonary blood flow can be caused by increased pulmonary vascular resistance (PVR), restrictive atrial communication, pulmonary venous hypertension, or pulmonary artery obstruction.
+
+Investigations
+
+A chest x-ray film showed large left pneumothorax with collapse of the left upper and middle lung lobes. An electrocardiogram showed an ectopic atrial rhythm/tachycardia at a rate of 113 beats/min with a right bundle branch block and QRS duration of 113 ms and QTc interval of 480 ms (Figure 4). Abnormal laboratory test values are summarized in Table 1.Figure 4 The 12-Lead Electrocardiogram
+
+Electrocardiogram showing a sinus versus ectopic atrial rhythm at a rate of 113 beats/min with a right bundle branch block, QRS duration of 113 ms, and QTc interval of 480 ms.
+
+Table 1 Pertinent Admission Laboratory Values
+
+Laboratory Test	Value	
+White blood cell count	8,000/μl (8% lymphocytes∗†)	
+Hemoglobin	15.8 g/dl	
+Hematocrit	48%	
+Platelets	182,000/μl	
+Sodium	133 mmol/l†	
+Chloride	92 mmol/l†	
+Aspartate transaminase	92 U/l‡	
+Alanine aminotransferase	43 U/l‡	
+Ferritin	1,318 ng/ml‡	
+Lactate dehydrogenase	770 U/l‡	
+D-dimer	1.37 μg/ml‡	
+Fibrinogen	592 mg/dl‡	
+N-terminal pro-brain natriuretic peptide	248 pg/ml‡	
+CD4 count	142 /μl†	
+∗ Normal range of lymphocytes is 15% to 45%.
+
+† Abnormally low value.
+
+‡ Abnormally high value.
+
+An echocardiogram and computed tomography of the chest were performed. The echocardiogram was unchanged from prior, whereas the computed tomography scan showed the presence of a large loculated left-sided hemopneumothorax with partial collapse of the left upper and lower lobes (Figure 5) as well as multifocal ground glass and nodular opacities throughout both lungs in a peripheral distribution (consistent with severe coronavirus disease-2019 [COVID-19] pneumonia).Figure 5 Computed Tomography of the Chest
+
+Computed tomography of the chest in the (A) axial plane and (B) coronal plane showing large loculated left-sided hemopneumothorax causing partial collapse of the left upper and lower lobes.
+
+Management
+
+A small-bore (pigtail) chest tube was placed to evacuate the pneumothorax, and the patient was placed on HFNC at 30 L and 100% fraction of inspired oxygen. Nitric oxide at 40 parts per million was started.
+
+The patient was then treated with solumedrol 32 mg daily for 10 days, remdesivir 100 mg daily for 5 days, and convalescent plasma. He was slowly titrated down on supplemental oxygen and nitric oxide and transferred from the intensive care unit to the floor on day 8, with the chest tube placed to water seal on day 11. Repeat blood count showed decreased hemoglobin level, prompting replacement of his chest tube. After 100 ml of blood drained and 2 U of packed red cells were administered, his hemoglobin level stabilized, and nasal cannula oxygen support was able to be further weaned to 1 liter. He was discharged on hospital day 20 on 1 liter of oxygen.
+
+Discussion
+
+This case is the second case of COVID-19 in an adult patient with congenital heart disease with single-ventricle Fontan palliation (1). In contrast to the previous case, which reported a mild form of disease treated with hydroxychloroquine and azithromycin, sildenafil, and prophylactic anticoagulation, our case highlights the latest management strategy of severe COVID-19 using remdesivir, steroids, and convalescent plasma (2,3). Furthermore, our case highlights the use of therapeutic anticoagulation and nitric oxide and the challenges of COVID-19 pneumonia treatment in patients with Fontan physiology.
+
+Severe COVID-19 pneumonia has a similar presentation to acute respiratory distress syndrome. The mechanical ventilation strategy for acute respiratory distress syndrome emphasizes low tidal volumes and high positive end expiratory pressures. Positive pressure ventilation leads to compression of pulmonary capillaries, increased PVR, and decreased venous return in a normal biventricular circulation (4). In the Fontan circuit, where the pulmonary arteries are anastomosed directly to the central veins, pulmonary blood flow is passive, and there is a single systemic ventricular pump, mechanical ventilation will decrease pre-load and cardiac output.
+
+We thus strongly discouraged intubation and opted to continue HFNC only. To decrease PVR and improve cardiac output as well as decrease ventilation/perfusion mismatch, inhaled nitric oxide was started. In the event of increasing work of breathing, worsening hypercapnia, or mental or hemodynamic instability, intubation is warranted in COVID-19 pneumonia. For the Fontan patient, the lowest mean airway pressure that still prevents atelectasis (positive end expiratory pressures of 4 to 5 mm Hg and positive inspiratory pressures of 20 to 25 mm Hg with shorter inspiratory and longer expiratory times) is recommended.
+
+Anticoagulation in the Fontan circuit is often indicated in the setting of ventricular dysfunction, arrhythmias, prior thromboembolism, and/or Fontan fenestration (5). In the setting of COVID-19 illness, anticoagulation is recommended because of increased thrombosis risk (6). We elected to begin therapeutic anticoagulation for this reason.
+
+Severe COVID-19 is characterized by a cytokine storm and exaggerated immune response. It is unclear if HIV and/or antiretroviral therapy (ART) predisposes or protects individuals from SARS-CoV-2. No patients with HIV on ART contracted the original SARS virus, potentially because ART mitigated the inflammatory response (7). Our patient, although adherent to ART and with a normal CD4 count before admission, was not spared from SARS-CoV-2.
+
+Although documented in prior case reports, pneumothorax in COVID-19 is rare. Our patient had no known history of prior pneumothorax or Pneumocystis pneumonia, which predisposed to pneumothorax (8). Round cystic changes favored to represent pneumatoceles are not uncommon findings in SARS-CoV-2 (9).
+
+Follow-Up
+
+The patient was seen in the clinic 2 weeks after discharge. He remained fatigued but was slowly regaining strength, and oxygen saturation on room air had returned to his baseline at rest, although with desaturation with activity.
+
+Conclusions
+
+We describe the first case of severe COVID-19 an adult single-ventricle patient post–Fontan palliation. His course was complicated by pneumohemothorax and comorbidity of HIV. Treatment with HFNC (and avoidance of mechanical ventilation), nitric oxide, and chest tube placement, along with remdesivir, steroids, and convalescent plasma, allowed the patient to recover to hospital discharge.
+
+Funding Support and Author Disclosures
+
+The authors have reported that they have no relationships relevant to the contents of this paper to disclose.
+
+The authors attest they are in compliance with human studies committees and animal welfare regulations of the authors’ institutions and Food and Drug Administration guidelines, including patient consent where appropriate. For more information, visit the Author Center.

@@ -1,0 +1,102 @@
+event,time
+19 years old,0
+male,0
+admitted to the emergency department following a motor vehicle accident,0
+conscious,0
+no abnormal symptoms in airways,0
+normal lung examination,0
+blood pressure 130/85 mmHg,0
+pulse rate 130 beats per minute,0
+no free fluid in FAST scan,0
+body mass index 36.3,0
+morbid obesity,0
+no tenderness to palpation on spinal column,0
+no symptoms of laceration in chest,0
+no symptoms of laceration in abdomen,0
+no abdominal guarding,0
+no abdominal tenderness,0
+normal perineal examination,0
+normal pelvic examination,0
+normal distal pulses,0
+deformity in distal third of left forearm,0
+left lower extremity crash injury,0
+left leg nearly amputated below the knee,0
+severe muscle damage,0
+severe skin damage,0
+nerves cut,0
+vessels cut,0
+history of suicide attempt,0
+no history of diseases except psychological disorders,0
+valproate treatment,0
+nasogastric tube inserted,0
+foley catheter inserted,0
+normal chest x-ray,0
+normal pelvic radiograph,0
+normal brain CT scan,0
+limb amputation planned,0
+below knee amputation performed,0
+aggressive soft-tissue debridement performed,0
+serial examinations,0
+hydration performed,0
+prevention of kidney damage,0
+nasogastric tube pulled out,24
+tachypnea,24
+sinus tachycardia,24
+heart rate 150 beats per minute,24
+upper abdominal pain,24
+nasogastric tube reinsertion,24
+pain alleviation,24
+situation improved,24
+tendency to eating,24
+previous lack of appetite,24
+transferred to operating room,48
+suspicion of gastrointestinal bleeding,48
+suspicion of ischemia,48
+suspicion of necrosis,48
+coffee ground secretions in drained fluid,48
+midline laparotomy performed,48
+gastric dilation,48
+stomach discoloration,48
+gastric decompression,48
+nasogastric tube with external stomach compression,48
+discoloration disappeared except suspicious areas,48
+second laparotomy,72
+lack of improvement,72
+total gastrectomy performed,72
+Roux-en-Y esophagojejunostomy,72
+transferred to ICU,72
+condition improved during three days,96
+surgical debridement three times,96
+infection of amputation stump,96
+infection not controlled,96
+above-knee amputation,120
+severe infection,120
+tachypnea on post-operative day 5,144
+re-elevated heart rate,144
+anuria,144
+leukocytosis,144
+elevated creatinine levels,144
+metabolic acidosis,144
+blood culture performed,144
+urine culture performed,144
+bilateral patchy pulmonary infiltrations,144
+infectious disease consultation,144
+imipenem administered,144
+ciprofloxacin administered,144
+vancomycin administered,144
+severe sepsis,144
+creatinine elevation,144
+hemodialysis,144
+anuria,144
+lack of response to crystalloid administration,144
+suspicion of anastomosis leakage,168
+contrast study performed,168
+gastrografin used,168
+contrast not detected,168
+obesity,168
+failure to rule out anastomosis leakage,168
+transferred to operating room again,168
+anastomoses normal,168
+no leakage,168
+multi-organ failure,192
+died,216

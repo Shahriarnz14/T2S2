@@ -1,0 +1,64 @@
+event,time
+38 years old,0
+female,0
+septic shock,0
+streptococcal fasciitis,0
+necrotising fasciitis of the left chest wall,0
+pneumothorax,0
+minor thoracic trauma,0
+admitted to ICU,0
+amoxicilline,0
+clindamycine,0
+linezolid,0
+tissue cultures positive for Stenotrophomonas maltophilia,0
+Citrobacter spp.,0
+Aspergillus spp.,0
+Mucor spp.,0
+refractory infection after 9 days,-216
+liposomal amphotericin B 10 mg/kg/day initiated,0
+transferred to institution for HBOT,0
+Enterococcus faecium,0
+Enterobacter gallinarum,0
+Pseudomonas aeruginosa,0
+Citrobacter sedlakii,0
+Stenotrophomonas maltofilia,0
+Candida albicans,0
+Aspergillus fumigatus,0
+Aspergillus terreus,0
+mucormycosis confirmed by blood PCR,0
+Lichtheimia ramosa,0
+Rhizopus arrhizus,0
+cefepime,0
+ciprofloxacin,0
+sulfamethoxazole-trimethoprim,0
+metronidazole,0
+posaconazole,0
+isavuconazole,0
+daily debridement surgery,0
+HBOT sessions,0
+vacuum therapy,0
+fungizone administered to wound,0
+acute kidney injury,0
+continuous renal replacement therapy (RRT),0
+coagulopathy,0
+thrombocytopenia,0
+severe monocyte deactivation (mHLA-DR <5000 AB/C),0
+initiated IFN-γ 100 mcg daily from day 11 to 21,0
+increased mHLA-DR,0
+tissue cultures positive for fungi,0
+blood PCR positive for fungi,0
+high T lymphocyte PD-1 expression,0
+nivolumab 280 mg administered on day 27,0
+"additional IFN-γ on days 27, 28, 31",0
+PD-1 expression negative,0
+tissue culture negative for fungi,24
+PCR negative for fungi,168
+clinical improvement,168
+RRT weaning,312
+extubation,432
+reconstructive surgery,1248
+skin grafting,1248
+discharged from hospital,3960
+no lymphopenia,0
+no cytokine storms,0
+no serious adverse events related to treatment,0

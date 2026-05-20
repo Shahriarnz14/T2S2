@@ -1,0 +1,129 @@
+event,time
+28-year-old,0
+woman,0
+admitted to the hospital,0
+right hypochondriac pain,-840
+pain radiating to the back,-840
+jaundice,-336
+tea-coloured urine,-336
+no known medical illness,0
+no history of surgery,0
+blood pressure 145/94 mmHg,0
+pulse rate 80 bpm,0
+afebrile,0
+mild hyperbilirubinaemia,0
+ALT within normal range,0
+AST within normal range,0
+ALP within normal range,0
+total white cell count 8.6×10^9/L,0
+normal full blood count,0
+normal renal profile,0
+normal coagulation profile,0
+normal serum amylase,0
+abdominal ultrasonography reported gallstone,0
+no dilated biliary ducts,0
+total bilirubin 57.6 μmol/L,0
+total bilirubin climbed to 126.4 μmol/L,48
+ALP elevated from 237 units/L to 357 units/L,48
+ALT elevated from 251 units/L to 523 units/L,48
+AST elevated from 266 units/L to 288 units/L,48
+no recorded fever,48
+CT hepatobiliary system demonstrated dilated intrahepatic ducts,0
+CT hepatobiliary system demonstrated extrahepatic biliary dilatation,0
+lesion in the distal bile duct,0
+diagnosed with impacted soft stone in the common bile duct,0
+referred for emergency ERCP,0
+denied travel,0
+denied contact with COVID-19 positive individuals,0
+denied COVID-19 symptoms,0
+signed health declaration,0
+not tested for COVID-19,0
+healthcare staff screened,0
+protocol for emergency endoscopy,0
+arrival to institution,0
+body temperature check,0
+verbal screening repeated,0
+surgical mask worn,0
+hand hygiene performed,0
+gloving prior to entering building,0
+sent to OT complex,0
+positive pressure OT room,0
+patient wore long sleeve waterproof gown,0
+patient wore cap,0
+patient wore gloves,0
+checklist for conscious sedation,0
+endoscopy team ready,0
+image intensifier machine placed,0
+intravenous antibiotic administered,0
+seven staff involved,0
+standard radiation precautions,0
+donning PPE,0
+hand hygiene,0
+OT cap,0
+shoe covers,0
+N95 respirator/surgical mask,0
+visor,0
+full body lead shield aprons,0
+thyroid shields,0
+disposable OT gown,0
+double gloved,0
+positioned prone,0
+oxygen therapy via nasal prongs,0
+vital signs checked,0
+intravenous sedative medication,0
+protective barrier placed,0
+transparent plastic sheet,0
+slit-like opening for scope entry,0
+slit-like opening for Yankauer sucker,0
+vital signs recorded,0
+sedation administered,0
+patient calmed and reassured,0
+floppy ampulla,0
+bile not present,0
+pus seen on partial sphincterotomy,0
+successful cannulation into bile duct,0
+limited contrast injection,0
+guide wire in bile duct,0
+10-French 9 cm plastic stent deployed,0
+bile flow good,0
+reversal medication administered,0
+patient fully awake,0
+handling endoscopy equipment,0
+duodenoscope and accessories placed in container,0
+sent for disinfection,0
+removed outer layer of gloves,0
+doffing PPE in pair,0
+gown removal,0
+visor removal,0
+mask removal,0
+new mask applied,0
+shoe covers removed,0
+hand hygiene performed post-doffing,0
+new gloves worn,0
+plastic apron,0
+patient cleaned,0
+gown removed,0
+OT cap changed,0
+new mask applied to patient,0
+transferred to OT stretcher,0
+sent to recovery bay,0
+sent back to referral hospital,0
+intravenous antibiotic continued,0
+endoscopy and II machines wiped with disinfectant,0
+disinfection of floor and surfaces,0
+shoe covers removed,0
+gloves removed,0
+hand hygiene before leaving,0
+total bilirubin dropped to 50 μmol/L,48
+total leucocyte count 9.98×10^9/L,48
+ALP reduced to 354 units/L,48
+ALT reduced to 359 units/L,48
+AST reduced to 100 units/L,48
+discharged after 5 days,120
+oral antibiotics prescribed,120
+seen in surgical outpatient clinic,336
+total bilirubin 21.8 μmol/L,336
+ALP 134 units/L,336
+ALT 21 units/L,336
+AST 20 units/L,336
+scheduled for ERCP and stone clearance,1008

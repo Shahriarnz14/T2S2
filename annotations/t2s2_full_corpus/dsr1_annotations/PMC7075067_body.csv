@@ -1,0 +1,73 @@
+event,time
+27 years old,0
+female,0
+admitted with fever,-48
+admitted with abdomen pain,-48
+admitted with three episodes of vomiting,-48
+severe dehydration,0
+altered sensorium,0
+vitals stable,0
+no obvious abnormality on examination,0
+plasma blood sugar high,0
+"arterial blood gas analysis severe metabolic acidosis (pH: 6.95, PCO2: 15, HCO3−: 6)",0
+routine investigations unremarkable,0
+severe hypokalemia (K+: 1.9),0
+urine ketone bodies large,0
+urine sugar 3+,0
+no significant past history,0
+no significant family history,0
+no addictions,0
+"acute onset flaccid paralysis in all four limbs (symmetrical, proximal > distal)",24
+power 1/5 upper limbs,24
+power 0/5 lower limbs,24
+deep tendon reflexes diminished,24
+bilateral plantars mute,24
+cranial nerves intact,24
+no sensory loss,24
+paradoxical breathing,28
+not maintaining saturation in room air,28
+intubation,28
+mechanical ventilation,28
+correction of acidosis,24
+large potassium deficits corrected,24
+weakness persisted,24
+failure to wean off assisted ventilation,48
+neurophysician opinion obtained,48
+NCV/EMG primary muscle disease with axonal polyneuropathy,48
+HBA1C 7.5%,48
+GAD antibodies positive,48
+CPK total increased (1171 U/L),48
+blood culture coagulase-negative Staphylococcus,48
+urine culture budding yeast cells,48
+CSF normal,48
+MRI brain diffuse cerebral edema,48
+prolonged mechanical ventilation,432
+tracheostomy,432
+ventilator-associated pneumonia,432
+chest X-ray nonhomogeneous patches with ground glass appearance,432
+HRCT chest bilateral infiltration with ground glass appearance,432
+sputum culture Klebsiella pneumoniae,432
+diagnosis type 1 diabetes mellitus,432
+diabetic ketoacidosis,432
+sepsis,432
+severe hypokalemia,432
+CIPNM,432
+hyperglycemia controlled,432
+diabetic ketoacidosis corrected,432
+pneumonia treated with antibiotics,432
+sepsis treated with antibiotics,432
+large potassium deficits corrected (300 mEq/day),432
+IVIg 1 g/kg for 5 days,432
+parenteral nutritional support,432
+antioxidant therapy,432
+physiotherapy,432
+clinical improvement,1080
+power regained,1080
+reflexes present,1080
+weaned off mechanical ventilation,1080
+repeat NCV/EMG recovery phase polyneuromyopathy,1080
+laboratory tests improved,1080
+discharged,1080
+grade 4/5 power in all limbs,1080
+advised physiotherapy,1080
+advised insulin analogs,1080

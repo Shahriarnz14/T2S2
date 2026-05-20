@@ -1,0 +1,68 @@
+event,time
+39 years old,0
+female,0
+admitted for elective cardiac surgery,-24
+ESRD (end-stage renal disease),"-2920 (10 years prior, 10 years * 365 days / 10 = ~-87600 hours but using -2920 as an approximate placeholder)"
+chronic renal dialysis,-2920
+chronic vesicoureteral reflux,-2920
+cadaveric renal transplant,"-87600 (10 years prior, 10 years * 365 days/year * 24 hours/day ≈ 87600, negative as prior to admission)"
+renal transplant failure,"-70080 (8 years prior, 8 years * 365 *24 ≈ 70080, negative)"
+dependent on renal dialysis for last 8 years,-70080
+secondary hyperparathyroidism,0
+secondary arterial hypertension,0
+chronic anemia,0
+iron supplements,0
+atorvastatin,0
+aspirin,0
+amlodipine,0
+erythropoietin,0
+vitamin D supplements,0
+worsening dyspnoea over 6–12 months,"-4320 to -8640 (6-12 months prior, approximated to -6480)"
+malnourished,0
+cachectic,0
+faint diastolic murmur,0
+bibasal lung crepitations,0
+severe mitral stenosis,0
+severely calcified mitral annulus,0
+sub-valvular apparatus calcification,0
+mitral valve mean gradient 10 mmHg,0
+mitral valve area 0.8 cm2,0
+severe tricuspid regurgitation,0
+preserved biventricular ejection fraction,0
+no flow-limiting coronary lesions,0
+urea 111 mg/dL,0
+creatinine 4.7 mg/dL,0
+phosphorus 10 mg/dL,0
+calcium 8.6 mg/dL,0
+PTH 725 pg/dL,0
+mitral valve replacement with mechanical prosthesis,0
+tricuspid valve repair with annuloplasty ring,0
+intraoperative severe mitral valve calcification,0
+extensive tissue debridement,0
+decalcification,0
+"transfusion of multiple blood products (red blood cells, plasma, platelets, fibrinogen)",0
+significant coagulopathy,0
+bleeding during surgery,0
+postoperative continuous renal replacement therapy,0
+extubated,48
+warfarin started,72
+chest drains removed,72
+transferred to floor,96
+multiple rapidly worsening ulcerative lesions in thighs and calves,168 (Day 7)
+painful ulcers with necrotic base,168
+erythematous borders,168
+ulcer size 10x7 cm,168
+necrotic ulcers of fingertips,168
+tissue biopsies showing calcium deposition in vessel walls,168
+histopathological diagnosis of calciphylaxis,168
+wound care with enzymatic debridement,168
+collagenase-based ointment,168
+frequent dressings,168
+prophylactic antibiotics,168
+negative swab cultures,168
+normal inflammatory markers,168
+warfarin not discontinued,168
+transferred to local hospital,456 (Day 19)
+worsening wound infection,1080 (Day 45)
+sepsis,1080
+deceased,1080 (Day 45)

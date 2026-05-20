@@ -1,0 +1,136 @@
+event,time
+44 years old,0
+male,0
+admitted to the hospital,0
+dry cough,-120
+fever,-120
+denied gastrointestinal symptoms,0
+denied myalgias,0
+denied dyspnea,0
+hypertension,0
+type II diabetes mellitus,0
+previous stroke,0
+left atrial thrombus,0
+metformin,0
+alogliptin,0
+serum glucose 222 mg/dL,0
+hemoglobin A1C not tested,0
+chest radiograph patchy ground-glass opacities,0
+SARS-CoV-2 RT-PCR positive,0
+HIV antibody test negative,0
+WBC 16.9 K/μL,0
+azithromycin,0
+ceftriaxone,0
+hydroxychloroquine,0
+worsening hypoxemia,-48
+intubated,-48
+cefepime,-48
+vancomycin,-48
+transferred to medical ICU,0
+temperature 102.8°F,0
+blood pressure 138/77 mmHg,0
+pulse 114 beats per minute,0
+respirations 16,0
+oxygen saturation 95%,0
+weight 91 kg,0
+WBC 17.1 K/μL,0
+lactate dehydrogenase 570 U/L,0
+C-reactive protein 328 mg/L,0
+ferritin 2043 ng/dL,0
+d-dimer 0.74 μg/mL,0
+interleukin-6 21 pg/mL,0
+procalcitonin 5.59 ng/mL,0
+vancomycin continued,0
+cefepime continued,0
+dexamethasone 20 mg/day,120
+dexamethasone 10 mg/day,168
+methylprednisolone 40 mg,168
+cumulative prednisone equivalent 717 mg,168
+QuantiFERON-TB Gold Plus test negative,144
+tocilizumab 400 mg,144
+afebrile,144
+WBC 24.9 K/μL,168
+dexamethasone discontinued,168
+temperature 102°F,192
+piperacillin/tazobactam,192
+vancomycin,192
+self-extubation,192
+reintubation,192
+tracheal aspirate negative,192
+blood cultures negative,192
+clinical status improved,264
+fever resolution,264
+extubated,384
+BiPAP,384
+nasal cannula,384
+transferred to general medicine floor,384
+WBC 16.7 K/μL,384
+temperature 101.1°F,528
+WBC 14.7 K/μL,528
+left shift,528
+altered mental status,528
+piperacillin/tazobactam,528
+fever persisted,576
+leukocytosis persisted,576
+vancomycin added,576
+blood cultures negative,576
+urine cultures negative,576
+fungal cultures negative,576
+serum galactomannan negative,576
+beta-d-glucan negative,576
+urinalysis negative,576
+chest radiograph patchy infiltrates,576
+sputum Gram stain moderate Gram-positive cocci,576
+Klebsiella pneumoniae culture,576
+TZP discontinued,576
+cefepime added,576
+fever persisted,600
+leukocytosis persisted,600
+blood cultures negative,600
+sputum cultures negative,600
+chest CT scan,696
+right lower lobe consolidation 6.6×9.4×9.5 cm,696
+right hilar lymphadenopathy,696
+calcified subcarinal lymph nodes,696
+meropenem,696
+caspofungin,696
+vancomycin,696
+metronidazole,696
+caspofungin discontinued,720
+voriconazole,720
+leukocytosis persisted,720
+intermittent fever,720
+sputum cultures negative,720
+chest CT scan day 35,840
+consolidation 8 cm,840
+increased multifocal cavitation,840
+blood cultures negative,840
+urine Legionella antigen negative,840
+serum galactomannan negative,840
+beta-d-glucan negative,840
+Histoplasma antigen negative,840
+Coccidioides IgG negative,840
+COVID-19 RT-PCR negative,840
+sputum acid-fast bacilli positive,840
+MTB complex identified,840
+no rifampin resistance,840
+positive PPD history,840
+incomplete TB chemoprophylaxis,840
+born in Haiti,840
+travels to Haiti,840
+antibiotics discontinued,840
+antifungal agents discontinued,840
+isoniazid,840
+rifampin,840
+ethambutol,840
+pyrazinamide,840
+vitamin B6,840
+oxygen saturation improved,840
+fever resolved,840
+leukocytosis resolved,840
+discharged,840
+negative sputum acid-fast smears,840
+long-acting insulin,0
+rapid-acting insulin,0
+serum glucose 50–450 mg/dL,0
+45% glucose values >180,0

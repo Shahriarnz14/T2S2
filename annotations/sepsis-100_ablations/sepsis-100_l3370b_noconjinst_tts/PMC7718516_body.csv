@@ -1,0 +1,71 @@
+event,time
+67 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+backache ,-672.0
+calculi in both kidneys ,-672.0
+ureteral calculi ,-672.0
+HLL ,-0.5
+double J catheterization ,-0.5
+purulent urine ,-0.5
+fever ,0.0
+chill ,0.0
+low blood pressure ,0.0
+imipenem and Cilastatin sodium ,0.0
+fluid resuscitation ,0.0
+Norepinephrine ,0.0
+Hydrocortisone sodium succinate ,0.0
+anuria ,48.0
+ARDS ,48.0
+invasive ventilatory support ,48.0
+CRRT ,48.0
+transfer to ICU ,48.0
+sedated state ,48.0
+blood pressure 80/62 mmHg ,48.0
+heart rate 139 beats/min ,48.0
+transcutaneous oxygen saturation 80% ,48.0
+"cold, clammy extremities ",48.0
+loud bubbling sound in the lung ,48.0
+arterial blood gas analysis ,48.0
+lactic acid 10.6 mmol/L ,48.0
+bicarbonate 10.8 mmol/L ,48.0
+central venous pressure 20 cmH20 ,48.0
+B lines in the lung ,48.0
+diffuse dysfunction ,48.0
+LVEF 20.3% ,48.0
+sinus tachycardia ,48.0
+broad ST depression ,48.0
+elevated troponin I ,48.0
+elevated amino-terminal brain natriuretic peptide precursor ,48.0
+creatinine 356 μmol/L ,48.0
+VA-ECMO ,48.0
+CRRT ,48.0
+imipenem and Cilastatin sodium ,48.0
+Vancomycin ,48.0
+lactic acid level declined ,50.0
+vasoactive drugs stopped ,58.0
+arterial blood lactate level normal ,60.0
+extended-spectrum β-lactamase-positive Escherichia coli ,72.0
+inflammatory indices diminished ,72.0
+anti-infection regimen continued ,72.0
+minimum serum trough concentration of Vancomycin ,72.0
+LVEF 35% ,120.0
+black and necrotic skin ,120.0
+weaned from ECMO ,144.0
+renal function scaled as acute kidney injury grade 3 ,144.0
+CRRT discontinued ,144.0
+urinating ,144.0
+vascular ultrasonography ,168.0
+computed tomography angiography ,168.0
+vascular surgery consultation ,168.0
+necrotic tissues amputated ,168.0
+spontaneous breathing ,120.0
+trachea opened ,240.0
+anti-infective therapy replaced ,240.0
+Cefoperazone sodium and Sulbactam sodium ,240.0
+physical rehabilitation ,240.0
+weaned from ventilator ,480.0
+tracheotomy tube sealed ,600.0
+discharged ,768.0
+intermittent hemodialysis ,768.0
+follow-up ,1296.0

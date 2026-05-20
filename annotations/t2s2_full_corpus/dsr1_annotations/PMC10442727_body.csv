@@ -1,0 +1,43 @@
+event,time
+60 years old,0
+male,0
+admitted to emergency department,0
+acute anaemia,-48
+fever,-48
+poorly controlled diabetes mellitus,0
+laparoscopic radical cystectomy,-720
+bilateral pelvic lymph node dissection,-720
+urinary diversion,-720
+discharged,-720
+septic shock,0
+haemorrhagic shock,0
+enhanced abdominal CT,0
+diffuse extravasation of contrast medium from right external iliac artery,0
+no iliac artery pseudoaneurysm,0
+no arterioureteral fistula,0
+diagnosis of right external iliac artery disruption,0
+broad-spectrum antibiotics (imipenem),0
+open exploratory operation,0
+extensive adhesion formation,0
+inflammation around ileal bladder,0
+inflammation around external iliac artery,0
+vessel split of right external iliac artery,0
+visible blood clots,0
+hematoma,0
+diagnosis of disruption and bleeding of right external iliac artery,0
+vascular stent inserted,0
+transferred to intensive care unit,0
+Klebsiella pneumoniae subsp. Pneumoniae isolated,72
+blood culture,72
+drug susceptibility test,72
+sensitive to tigecycline,72
+sensitive to imipenem,72
+antibiotics changed to tigecycline plus imipenem,72
+vital signs normal,504
+blood tests normal,504
+repeat enhanced CT,720
+no effusion of contrast medium,720
+discharged,816
+follow-up every 3 months in first year,816
+follow-up every 6 months thereafter,816
+no relapse,35040

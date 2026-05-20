@@ -1,0 +1,70 @@
+event,time
+40 years old,0
+male,0
+fever,-96
+nausea,-96
+vomiting,-96
+enlarging non-tender left neck swelling,-96
+hypotensive,0
+febrile,0
+confused,0
+unilateral anterior cervical triangle swelling,0
+erythematous rash on left side of neck,0
+erythematous rash on anterior chest wall,0
+sinus rhythm,0
+left anterior fascicular block,0
+intravenous fluid resuscitation,0
+broad-spectrum antibiotics,0
+elevated C-reactive protein (205 mg/L),0
+acute inflammatory process of left submandibular space,0
+unilateral enlarged lymph nodes,0
+necrotizing lymphadenopathy,0
+clinical deterioration,0
+admission to intensive care unit,0
+septic shock,0
+normal haemoglobin (11.1 g/dL),0
+elevated neutrophils (6.20 10^9/L),0
+elevated erythrocyte sedimentation rate (91 mm/h),0
+lymphopenia (0.21 10^9/L),0
+thrombocytopenia (59 10^9/L),0
+hyponatremia (127 mmol/L),0
+hepatitis,0
+hypoalbuminemia (27 g/L),0
+coagulopathy (INR 1.8),0
+myocarditis,0
+elevated troponin T (1104 ng/L),0
+elevated NT-proBNP (48 412 pg/mL),0
+negative viral and bacterial investigations,0
+negative vasculitis screen,0
+normal left ventricular function,0
+moderate central mitral regurgitation,0
+ongoing broad-spectrum antibiotics,0
+critically unwell,0
+persistent fever,0
+suppurative necrotizing lymphadenitis,72
+erythema of oral mucosa,96
+fissured lips,96
+strawberry tongue,96
+bilateral conjunctival injection,96
+diagnosis of classic Kawasaki disease,96
+intravenous immunoglobulins,96
+high-dose aspirin (300 mg),96
+clinical improvement,192
+acute transient left upper limb weakness,240
+CT angiogram,240
+MRI,240
+excluded vertebral artery dissection,240
+excluded stroke,240
+computed tomography coronary angiography,2160
+cardiac magnetic resonance imaging,2160
+right coronary artery aneurysms (max 6 mm),2160
+left anterior descending artery aneurysm (4 mm),2160
+no coronary thrombus,2160
+no mural thickening,2160
+no coronary plaque,2160
+no perivascular fatty changes,2160
+normal left ventricular volumes,2160
+preserved cardiac function,2160
+mid-wall fibrosis,2160
+resolution of LAD aneurysm,8640
+improvement of RCA aneurysms (3 mm),8640

@@ -1,0 +1,73 @@
+event,time
+11-year-old boy,0
+admitted to the hospital,0
+acute abdominal pain,-24
+non-colicky pain,-24
+infra-umbilical pain,-24
+pain worsened,-24
+intermittent projectile vomiting,-24
+no fever,0
+no chills,0
+no diarrhea,0
+no bloody stool,0
+prior healthy,0
+no contributory medical history,0
+no contributory surgical history,0
+no relevant drug history,0
+no family history,0
+no psychosocial history,0
+no genetic history,0
+septic appearance,0
+lethargic,0
+severe dehydration,0
+temperature 37.5°C,0
+pulse 157 bpm,0
+blood pressure 97/41 mmHg,0
+moderately distended abdomen,0
+generalized guarding,0
+rebound tenderness,0
+unremarkable digital rectal exam,0
+blood urea 10.3 mmol/l,0
+serum creatinine 87 umol/l,0
+"elevated white cell count 14,700/mm³",0
+hemoglobin 16.8 g/dl,0
+fluid resuscitation,0
+catheterized,0
+nasogastric tube inserted,0
+oxygen administered,0
+laparotomy performed,0
+gangrenous small bowel loops,0
+8x8 cm mesenteric cyst suspected,0
+ischemic bowel loops from sac opening,0
+viable small bowel within sac,0
+gangrenous terminal ileum,0
+resection of gangrenous bowel,0
+80 cm remnant proximal jejunum,0
+ileocecal valve preserved,0
+cecum preserved,0
+sac excised,0
+jejunum to ascending colon anastomosis,0
+abdomen irrigated,0
+abdomen closed,0
+hemodynamic instability,0
+inotropic support required,0
+sepsis concern,24
+anastomotic leak concern,24
+short bowel syndrome concern,24
+managed in intensive care unit,24
+inotropic support weaned,96
+extubated,96
+broad-spectrum antibiotics continued,24
+no signs of anastomotic leak,216
+discharged,216
+six-month follow-up,4320
+no short bowel syndrome,4320
+no significant morbidity,4320
+histology results unavailable,0
+peritoneal encapsulation syndrome diagnosed,0
+fixed asymmetrical abdominal distension,0
+lack of adhesions between bowel loops,0
+diarrhoea resolved,4320
+vitamin B12 deficiency risk,4320
+fat malabsorption risk,4320
+anemia risk,4320

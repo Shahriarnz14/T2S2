@@ -1,0 +1,52 @@
+event,time
+25 years old,0
+male,0
+admitted to the hospital,0
+heat stroke,0
+rhabdomyolysis,0
+ischaemic hepatitis,0
+collapse,-1
+running marathon,-2
+severe hypotension,0
+unrecordable blood pressure,0
+peripheral line inserted,0
+intravenous fluids started,0
+confused,0
+Glasgow Coma Score 10,0
+temperature 105.4°F,0
+sweaty,0
+tachycardic (160 bpm),0
+systolic blood pressure 90 mm Hg,0
+"elevated creatinine phosphokinase (178,850 U/l)",24
+elevated ALT (143 U/l),24
+transferred to general medical ward,24
+"ALT peaked (2,912 U/l)",48
+no signs of chronic liver disease,48
+no flap,48
+not jaundiced,48
+negative viral screen,48
+negative autoimmune screen,48
+mildly raised ferritin,48
+normal liver ultrasound,48
+non-essential treatment stopped,48
+intravenous N-acetyl cysteine started,48
+discharged home,504
+improved CPK,504
+improved ALT,504
+vasopressor therapy (ephedrine for 6h),6
+CT scan of brain normal,6
+started on intravenous co-amoxiclav,6
+negative drugs of abuse screen,0
+negative urine myoglobin test,0
+elevated creatinine (228 μmol/l),0
+elevated urea (5.90 mmol/l),0
+elevated potassium (4.66 mmol/l),0
+normal random glucose,0
+INR 1.12,0
+elevated CPK (515 U/l),0
+normal ALP,0
+normal GGT,0
+normal bilirubin,0
+lactate 1.8,0
+elevated neutrophils (8.0 × 109/l),0
+elevated white blood cells (12.3 × 109/l),0

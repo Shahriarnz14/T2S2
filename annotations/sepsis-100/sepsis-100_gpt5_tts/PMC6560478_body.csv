@@ -1,0 +1,68 @@
+event,time
+34 years old,0
+male,0
+history of primary refractory acute myeloblastic leukemia,-8760
+multiple relapses,-4380
+allogeneic bone marrow transplant from cord blood,-648
+prophylaxis with acyclovir,-648
+prophylaxis with Bactrim,-648
+prophylaxis with caspofungin,-648
+delayed engraftment,-600
+prolonged severe neutropenia,-600
+vancomycin-resistant Enterococcus bacteremia,-240
+Streptococcus viridans bacteremia,-240
+Streptococcus mitis bacteremia,-240
+tedizolid,-240
+cefepime,-240
+Flagyl,-240
+daptomycin,-240
+filgrastim to promote hematopoiesis,-72
+CT scan revealed segmental ischemia of the small bowel,-6
+surgical consult,0
+developed acute abdominal pain,0
+second antifungal was not started,0
+fever to 38.2°C,0
+tachycardia to 155,0
+hypotension to 99/81,0
+tachypnea to 36,0
+ill appearing,0
+distended abdomen,0
+localized peritonitis,0
+white cell count 0.2 x 10^9 /L,0
+absolute neutrophil count (ANC) of zero,0
+anemic with a hemoglobin of 7 g/L,0
+thrombocytopenic with a platelet count of 10 x 10^9 /L,0
+lactic acid 3.1 mmol/L,0
+decision made to proceed to the operating room for an exploratory laparotomy,1
+exploratory laparotomy,2
+15 cm ischemic bowel segment identified,2
+no perforation,2
+approximately 50 cm of small bowel resected,2
+primary anastomosis performed with a stapler device,2
+necrotic bowel located in the mid-jejunum,2
+end ileostomy not performed,2
+norepinephrine required,2
+vasopressin required,2
+transesophageal echo unremarkable,2
+admitted to the intensive care unit,10
+pressors weaned,16
+extubated,24
+transferred to the floor,36
+passed flatus,74
+diet advanced,74
+new fevers,98
+increased abdominal pain,98
+lactic acidosis,98
+respiratory decompensation,98
+white cell count 0.1 x 10^9 /L,98
+absolute neutrophil count (ANC) of zero,98
+lactic acid 3.7 mmol/L,98
+amphotericin B (AmBisome) started,98
+amphotericin B added to his antimicrobials,98
+repeat CT scan showed an area of necrotic small bowel remote from the initial anastomosis,100
+pathology revealed mucormycosis,100
+mucormycosis,100
+repeat exploratory laparotomy not performed,102
+goals of care discussions with family and oncology team,108
+comfort measures,110
+died,134

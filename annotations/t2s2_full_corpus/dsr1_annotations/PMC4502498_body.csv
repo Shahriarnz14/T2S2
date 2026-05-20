@@ -1,0 +1,71 @@
+event,time
+48 years old,0
+female,0
+end-stage renal disease,0
+hypertensive since past 7 years,-61320
+maintenance hemodialysis twice a week since 6 months,-4320
+hypertension well controlled with one antihypertensive agent,-4320
+fasting blood sugar within normal limits,-4320
+postprandial blood sugar within normal limits,-4320
+glycated hemoglobin levels within normal limits,-4320
+preoperative hemodialysis within 24 h of surgery,-24
+robotic assisted laparoscopic renal transplantation,0
+standard monitoring applied,0
+balanced general anesthesia administered,0
+baseline heart rate 94/min,0
+baseline mean arterial pressure 103 mm Hg,0
+SpO2 100%,0
+central venous pressure 12 cm H2O,0
+core temperature 98.6°F,0
+arterial blood gas analysis after induction of anesthesia,0
+lactate 1.9 mM/L,0
+volume controlled ventilation adjusted,0
+EtCO2 maintained between 35-40 mm Hg,0
+"hemodynamic parameters deteriorated (HR 122/min, MAP 72 mm Hg, CVP 16 cm H2O)",3
+metabolic acidosis,3
+elevated lactate levels,3
+hyperglycemia,3
+elevated anion gap,3
+fall in hemoglobin,3
+blood sample for ketone bodies tested negative,3
+IV fluids administered,3
+packed red blood cells transfused (2 units),3
+vascular anastomosis of graft kidney,3
+noradrenaline infusion started,3
+sodium bicarbonate infusion started,3
+insulin infusion started,3
+allograft reperfused,3
+urine output established (25 min after reperfusion),3.4
+shifted to Intensive Care Unit,7
+noradrenaline infusion (0.12 μg/kg/min),7
+elective ventilation,7
+possible need for continuous renal replacement therapy,7
+progressively increasing lactic acidosis,7
+hyperglycemia refractory to bicarbonate and insulin infusion,7
+average urine output 300 mL/h,7
+procalcitonin levels 14.6 ng/mL,7
+empirical thiamine 300 mg administered intravenously,10
+ABG analysis 2 h after thiamine administration,12
+decreasing lactate levels,12
+decreasing sugar levels,12
+improvement in mean arterial pressure,12
+bicarbonate infusion stopped,12
+insulin infusion stopped,12
+noradrenaline infusion stopped,12
+extubated,14
+thiamine injection 300 mg IV repeated,14
+ABG analysis 8 h after first thiamine dose,18
+ABG within normal limits,18
+shifted to posttransplant isolation ward,12
+afebrile,0
+normal total leukocyte counts,0
+no significant hypotension when lactic acidosis discovered,0
+T-cell antibody anti-thymocyte globulin received intraoperatively,0
+no poor nutritional status,0
+no obvious signs of thiamine deficiency,0
+no symptoms of thiamine deficiency,0
+no septicemia,0
+no hypoperfusion,0
+no hypoxia,0
+no drugs causing lactic acidosis,0
+no liver failure,0

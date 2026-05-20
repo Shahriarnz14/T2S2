@@ -1,0 +1,96 @@
+pmcIntroduction
+
+Coronavirus disease 2019 (COVID-19) typically presents with respiratory signs and symptoms (1). The transmission of COVID-19 is mediated through air droplets with the recent delta variant suggested to be airborne (2). Hence, the airway is typically the first site of infection. The direct pulmonary effects of COVID-19 are considered to result from the ability of the virus to invade the cells lining the airway via the angiotensin-converting enzyme (ACE-2) receptor, assisted by the endothelial cell surface protein, the transmembrane serine protease 2 (TMPRSS-2) (3). The virus replicates inside the cells, later causing pyroptosis and widespread infection.
+
+Extrapulmonary manifestations of COVID-19 were naturally regarded as a sign of progressive infection following viremia and aberrant immunological reaction (3). Therefore, clinical evidence of the cytokine storm [defined as elevated levels of pro-inflammatory cytokines, including interleukin (IL)-6, IL-10, tumour necrosis factor-α (TNF-α), monocyte chemoattractant protein (MCP)-1, MCP-3 and others] in patients with COVID-19 has been shown to be associated with severe infection and is a significant predictor of mortality (3-5). Therefore, researchers have suggested the use of immunomodulators and cytokine antagonists from the early stages of the development of cytokine storm, in order to improve the survival rate (4).
+
+There is an increasing body of evidence with regards to the early extrapulmonary manifestations of COVID-19 in the absence of or with minimal respiratory signs (1). The underlying pathophysiology with regards to various systemic manifestations of COVID-19 is still under investigation. The cycle threshold (Ct) values of reverse transcription-polymerase chain reaction (RT-PCR) are the number of cycles are required for the fluorescent signal from the device to cross the threshold, whereby the lower the Ct value is highly associated with the enhanced ability to recover the virus from the biological sample (6). Therefore, it is expected that patients with lower Ct values will present with an array of COVID-19-associated multisystem involvements.
+
+The present study describes a clinical case of COVID-19 (with strong positive reaction as per the Ct values), presenting with marked cardiac and gastrointestinal manifestations, in the absence of significant respiratory sequelae. The present study aimed to determine the possible link between COVID-19 and extrapulmonary manifestations supported by the literature and discusses certain learning points with regards to the therapeutic choices made for the patient described herein.
+
+Case report
+
+A 64-year-old male with a history of polysubstance abuse, and underlying hypertension and ischaemic heart disease was transferred to Hospital Tuanku Fauziah (Perlis, Malaysia) for monitoring due to being positive for COVID-19. This was considered a high-risk patient, in view of his advanced age and the presence of co-morbidities. The results of the confirmatory test for COVID-19 were as follows: RdRP gene: 24.33 (threshold, 38.3) and E gene: 26.32 (threshold, 34.9) via the QIAstat-Dx® Respiratory SARS-CoV-2 panel (Qiagen GmbH). The SARS-CoV-2 in this panel targets two genes from the virus genome, which are detected with the same fluorescence channel. The two targets are not differentiated, and the amplification of either or both regions lead to a fluorescence signal. The panel cartridge includes a full process internal control, which verifies all steps in the analysis process, including sample resuspension or homogenization, lysis, nucleic acid purification, reverse transcription and polymerase chain reaction. Otherwise, the patient was asymptomatic, and his chest X-ray results were clear (Fig. 1).
+
+In the ward, he was noted to have asymptomatic sinus bradycardia [heart rate range, 30-45 beats per minute (BPM)] with an electrocardiogram (ECG) revealing right heart axis with incomplete right bundle branch block (QRS, 100-120 msec), with downsloping depression (1 mm) of the ST-segment and T inversion. He was otherwise normotensive (blood pressure, 135/54) with a good pulse volume and was able to maintain good oxygen saturation [peripheral capillary oxygen saturation (SpO2), 98-99% in room air]. The jugular venous pressure was not raised, and there was no radio-radial or radio-femoral delay. There was a pansystolic murmur, grade III, with the echocardiogram revealing moderate aortic regurgitation, a thickened aortic valve and a dilated left ventricular chamber, with an ejection fraction of 70%. There was no pericardial effusion, and the pulmonary artery systolic pressure was 10.0+5.0 mmHg. No foot oedema was noted. The baseline haematological and biochemical parameters were within normal limits (Table I).
+
+The trial of bolus intravenous atropine at 0.5 mg was unsuccessful, followed by a subsequent attempt with an intravenous infusion of dopamine at 5 mg, slowly uptitrated to 15 mg, which also led to no improvement in the baseline heart rate. In view of the persistent wide pulse pressure, it was decided that the patient be subjected to transcutaneous cardiac pacing. The intravenous infusion of dopamine was slowly weaned off with the overlapping titration of noradrenaline infusion. His heart rate gradually improved to 45-60 BPM, with the systolic blood pressure ranging from 110-150 mmHg and diastolic blood pressure ranging from 60-90 mmHg. However, during the ensuing 48 h post-pacing, his blood pressure gradually decreased, the lowest reaching 88/54 mmHg with A heart rate of 54 BPM. A transvenous pacing through a subclavian access (heart rate setting, 80; output, 10) was implanted. However, the patient developed shortness of breath, chest pain and sweating within the following hours; hence, the pacer was removed after attempts to readjust the pacing wire failed. The re-implantation of the transvenous pacing was subsequently performed via jugular access.
+
+On day 4 of admission, the patient complained of lower abdominal pain with no bowel movements documented since admission. He had vomited once, and streaks of blood were noted on diapers. Blood gas analysis revealed severe metabolic acidosis [pH 7.013; partial pressure of oxygen (pO2), 71.9; partial pressure of carbon dioxide (pCO2), 43.5; bicarbonate (HCO3)-, 11.0) with a high anion gap (33.1 mEq/l). Free-flow gastric decompression yielded 665 millilitres of yellowish faecal material. The computed tomography examination of the abdomen revealed a short segment circumferential wall thickening at the proximal ascending colon, suggestive of inflammatory or infective changes. There was also a right inguinal hernia with small bowel and mesenteric content associated with proximal bowel dilatation, suggestive of obstruction (Fig. 2). Clinically, the right inguinal hernia was soft, reducible and non-tender (not painful), measuring 7x5 cm with no overlying skin changes. It was decided not to subject the patient to surgical intervention.
+
+From this point onwards, his clinical condition deteriorated with the evidence of multiorgan failure; he had persistent hyperglycaemia (Dextrostix, 14.0 mmol/l; Normal, <7.8 mmol/l), cardiorenal syndrome with anuria and worsening metabolic acidosis (highest urea, 16.5 mmol/l; normal range, 2.8-7.2 mmol/l; highest creatinine levels, 343 µmol/l; normal range, 59-104 µmol/l). He also had features of fulminant hepatic failure with worsening transaminitis [alanine transaminase (ALT), 4,944 U/l; normal, <50 U/l; aspartate aminotransferase (AST), 16,722 U/l; normal, <50 U/l), hyperbilirubinemia (total bilirubin, 63 µmol/l; range, 5-21), thrombocytopaenia (platelet count, 73x103/µl; normal range, 150-450x103/µl) and coagulopathy and was administered the N-acetylcysteine (NAC) regime (150 mg/kg in D5 over 15 min followed by 50 mg/kg in D5 over 4 h, then 6.25 mg/kg/h in D5 for 67 h). There was evidence of third space loss with global pericardial effusion, measuring 2.0-2.5 cm, with evidence of right ventricular wall thickness. He required double strengths of triple inotropic support, and haemodialysis with sustained slow-efficiency dialysis (SLEDD), and continuous veno-venous hemofiltration (CVVH) to correct the acidosis.
+
+Repeated cycles of fresh-frozen plasma, packed cells and platelet concentrate were administered, and empirical antibiotics were escalated to meropenem. The patient eventually succumbed to the disease after 6 days of hospitalization.
+
+Discussion
+
+The case presented herein describes the challenging clinical management of a patient with COVID-19 who presented with predominant extrapulmonary manifestation. His Ct values of RT-PCR signified a strong positive reaction, denoting a high amount of target nucleic acid of the COVID-19 virus in the body (6). Upon arrival to the hospital, he was noted to have asymptomatic bradycardia requiring pacing. After several days of admission, he then complained of abdominal pain accompanied by days of no bowel movements. Despite aggressive resuscitative effort, the patient eventually succumbed to mortality. Therein, the present study discussed the prevalence and pathophysiology of extrapulmonary manifestation of COVID-19 cases, and the learning points from the therapeutic choices made for the patient described herein.
+
+The patient did not present with overt respiratory symptoms and his chest X-ray did not reveal typical ground-glass appearance pathognomonic of COVID-19 infection upon arrival. However, reports of extrapulmonary manifestation of COVID-19 cases were not uncommon with the haematological (67-90%), gastrointestinal system (22-30%), cardiovascular (20-30%), and renal (up to 29%) been commonly reported (7). The underlying pathophysiology of multiorgan involvement was hypothesized to result from the systemic viral entry as the ACE-2 receptors are virtually expressed in most organ systems. Apart from the direct viral toxicity and cellular injury, other hypothetical mechanisms include thromboinflammation and endothelial injury, aberrant immunological response, and dysregulation of the renin-angiotensin-aldosterone system (7), apart from the anticipated progression of sepsis-related sequelae.
+
+Cardiac complications from COVID-19 include viral myocarditis, ST-changes on electrocardiogram, arrhythmias and persistently raised cardiac enzyme levels (1). Such changes were also evident in the patient described herein who had an elevated creatine kinase level of 5,211 U/l (reference range, <171 U/l) and creatine kinase-MB isozyme level of 291 U/l (reference range, <24 U/l). Cardiac complications with COVID-19 are found to increase in the presence of cardiovascular comorbidities, including hypertension, cardiomyopathy and coronary artery disease (8), as evidenced in the patient described herein. In such cases, the myocardial localization of SARS-CoV-2 leading to cardiogenic shock was hypothesized as the core underlying pathophysiology (8).
+
+On the other hand, gastrointestinal manifestations of COVID-19 are usually prevalent with diarrhoea and abdominal distension being the commonly reported symptoms (1,9). Furthermore, COVID-19 has been found to have a specific tropism towards the gastrointestinal system, with the recovery of COVID-19 nucleic acid in the stool of infected patients in the early course of the illness (1). The patient in the present study complained of abdominal pain after 4 days of hospitalization with no bowel movements. The computed tomography examination revealed features of obstruction with focal inflammatory changes, reflecting the commonly reported gastrointestinal complications of COVID-19, which include hypomotility and bowel ischaemia (9).
+
+Apart from that, there were indeed several learning points with regards to the clinical management of the patient. It was noted that within hours of the first implantation of the transvenous cardiac pacing, the patient exhibited signs suggestive of possible cardiac perforation, pericarditis, or a pneumothorax, with the sudden onset of chest pain, shortness of breath, sweating and cold peripheries. The early complication of transvenous pacing is not uncommon, particularly with subclavian access performed by an inexperienced operator (10). Furthermore, all patients with temporary pacing should have continuous electrocardiographic monitoring and be examined by trained personnel who would be able to discern detection failure or recognise an incipient or a dysfunctional pacemaker.
+
+There was also a consideration for the role of surgical management, as there were features suggestive of intestinal obstruction, possibly due to the inguinal hernia. However, the clinical association suggests otherwise; hence, the surgical team deemed that the anticipated risks and complications from the surgery far outweighed the potential benefits. Apart from that, there was also a focal area suggestive of inflammatory changes that could potentially be attributed to COVID-19. Whether early surgical intervention could have changed the course of his illness remains elusive.
+
+The patient also developed features of fulminant hepatic failure, requiring the use of the NAC regime. Acute hepatic failure is rare, although a very severe medical emergency. There is no established treatment to date for non-acetaminophen-induced hepatic failure apart from liver transplant; however a recent placebo-controlled study assessing the clinical course of patients with acute liver failure treated with NAC determined that the mortality rate among those treated was reduced to 28% as compared to 53% in the placebo group (P=0.023) (11). In spite of this, the patient described herein did not exhibit signs of clinical improvement following treatment with the NAC regime.
+
+Clinical deterioration in the present case appeared to have been inevitable, as supportive therapeutic modalities failed to alter the course of his illness. Multiorgan failure is indeed the hallmark of the impending shut down of organ systems with a high mortality rate. Therefore, it is suggested that patients with complex clinical presentations be transferred at an early stage to specialised healthcare facilities with adequate expertise and resources to accommodate intensive care.
+
+In conclusion, the case described in the present study underscores the challenges in the clinical management of patients with COVID-19 with multisystem involvement. Extrapulmonary manifestations of COVID-19 are not uncommon, and a high index of suspicion is required for monitoring the spectrum of manifestations. The shared learning points may serve as a future guide for other healthcare providers to plan for therapeutic strategies when managing complex clinical syndromes.
+
+Acknowledgements
+
+The authors would like to thank the Director General of Health Malaysia for his permission to publish the article.
+
+Availability of data and materials
+
+The datasets used and/or analysed during the present study are available from the corresponding author on reasonable request.
+
+Authors' contributions
+
+All authors have made substantial contributions to the study conception and design, and agreed to be accountable for all aspects of the work. KK and KKA participated in the acquisition and interpretation of the data, and in the drafting the first manuscript. SAW and KKA revised the manuscript critically for important intellectual content. KK, SAW and KKA confirm the authenticity of all the raw data. All authors have read and approved the final manuscript.
+
+Ethics approval and consent to participate
+
+The present study was registered with the National Medical Research Register of the Ministry of Health Malaysia (NMRR-21-904-59980). Informed consent was not obtained since the patient was deceased and the family members were out of reach. All efforts were made to ensure anonymity. Additionally, approval was obtained from the National Institute of Health (NIH) Ministry of Health Malaysia for the use of patient clinical data for publication purposes [NIH.800-4/4/1 Jld. 100(56)].
+
+Patient consent for publication
+
+Informed consent was not obtained since the patient was deceased and the family members were out of reach. All efforts were made to ensure anonymity.
+
+Competing interests
+
+The authors declare that they have no competing interests.
+
+Figure 1 Mobile chest radiograph in frontal projection showing clear lung fields. There was apparent cardiomegaly with enlarged pulmonary arteries.
+
+Figure 2 Computed tomography scan of the abdomen with contrast material. Abdomen (A) axial section at the mid-abdomen revealing the presence of smooth bowel wall thickening involving the ascending colon and descending colon (blue arrows). There was no significant pericolic inflammatory changes; (B) axial section at the level of lower thorax-upper abdomen showing the incidental finding of fluid with attenuation value 52HU (green circle) within pericardial region, consistent with hemopericardium; (C) axial section at the level of lower pelvis showing right inguinal hernia with bowel and mesenteric fat content (blue arrow); (D) coronal section showing a dilated segment of the small bowel (blue arrow), just proximal to the right inguinal hernia (curved blue arrow). The remainder of the bowels and colon are normal in caliber.
+
+Table I Haematological and biochemical parameters of the patient in the present study upon admission and the worst derangement.
+
+Laboratory result	Upon admission	The worst derangement	Reference range	
+Haematological panel	 	 	 	
+     Total white blood cell (x103/µl)	7.54	11.2	4.0-10.0	
+     Haemoglobin (g/dl)	15.4	17.37	13.0-17.0	
+     Mean corpuscular volume (fl)	90.5	88.7	83-101	
+     Mean corpuscular haemoglobin (pg)	32.0	31.5	27.0-32.0	
+     Platelet (x103/µl)	215	70	150-450	
+     ANC (x103/µl)	4.52	8.78	2.0-7.0	
+     ALC (x103/µl)	2.34	1.21	1.0-3.0	
+Biochemical panel	 	 	 	
+     Urea (mmol/l)	5.1	16.5	2.8-7.2	
+     Creatinine (µmol/l)	86	343	59-104	
+     Albumin (g/l)	42	38	35-52	
+     LDH (U/l)	21	11,655	<248	
+     ALT (U/l)	21	4,944	<50	
+     AST (U/l)	35	16,722	<50	
+Creatine kinase (U/l)	158	5,211	<171	
+Creatine kinase-MB (U/l)	16	291 U/l	<24	
+Inflammatory markers	 	 	 	
+     CRP (mg/l)	<5	42	<5	
+     D-dimer (µg/ml)	Negative	Positive	<0.5	
+ALC, absolute lymphocyte count; ALT, alanine transferase; ANC, absolute neutrophil count; AST, aspartate aminotransferase; CRP, C-reactive protein; LDH, lactate dehydrogenase.

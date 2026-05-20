@@ -1,0 +1,87 @@
+event,time
+70-year-old ,0
+male ,0
+farmer by profession ,0
+presented to the emergency department ,0
+admitted to the hospital ,0
+high-grade fever ,-120
+generalized body ache ,-120
+headache ,-120
+altered sensorium ,-24
+joint pains ,0
+epigastric pain ,0
+no other comorbidities ,0
+no history of drug addiction ,0
+no history of intoxication ,0
+inguinal lymphadenopathy ,0
+mild generalized rash ,0
+no eschar ,0
+hemodynamically stable ,0
+disoriented ,0
+no focal neurological deficit ,0
+no neck rigidity ,0
+acute febrile illness with undifferentiated fever (provisional diagnosis) ,0
+"complete blood count showed leukocytosis (15,800/cc) ",6
+mild hyperbilirubinemia ,6
+transaminitis ,6
+total bilirubin 3.6 mg/dL ,6
+direct bilirubin 2.6 mg/dL ,6
+serum glutamic oxaloacetic transaminase 116 U/L ,6
+serum glutamic pyruvic transaminase 178 U/L ,6
+international normalized ratio 1.56 ,6
+malaria negative ,6
+dengue negative ,6
+typhoid negative ,6
+leptospira negative ,6
+scrub typhus antigen card positive ,8
+scrub immunoglobulin M positive ,12
+scrub typhus (diagnosis) ,12
+managed conservatively ,12
+tablet doxycycline 100 mg twice daily ,12
+blood cultures sterile ,24
+other body fluid cultures sterile ,24
+hepatitis B antigen negative ,24
+hepatitis C antibody negative ,24
+ultrasound of the abdomen showed mild fatty infiltration of the liver ,24
+other investigations normal ,24
+defervescence ,60
+orientation improved ,60
+weakness of both lower limbs (Grade 2/5) ,156
+weakness of upper limbs (Grade 2/5) ,156
+deep tendon reflexes absent ,156
+plantar responses flexor ,156
+bladder incontinence ,156
+no bowel incontinence ,156
+breathing difficulty ,160
+signs of respiratory distress ,160
+single breath count was 10 ,160
+respiratory acidosis ,160
+shifted to the Intensive Care Unit ,160
+intubated ,160
+mechanical ventilation ,160
+MRI of the brain without any abnormality ,168
+MRI of the cervical spine revealed no abnormality ,168
+nerve conduction velocity showed motor sensory demyelinating polyneuropathy ,180
+Guillain–Barre syndrome ,180
+cerebrospinal fluid analysis did not reveal albuminocytologic dissociation ,180
+cerebrospinal fluid protein 146 mg/dL ,180
+cerebrospinal fluid cell count 70 with lymphocytic predominance ,180
+cerebrospinal fluid sugar 71 mg/dL ,180
+corresponding blood sugar 145 mg/dL ,180
+intravenous immunoglobulin therapy 0.4 mg/kg/day for 5 days ,182
+tablet rifampicin 600 mg twice daily for meningoencephalitis was added ,182
+treated for meningoencephalitis ,182
+serial liver function tests within normal range ,216
+improvement in weakness of all four limbs ,392
+improvement in respiratory parameters ,392
+weaned off from the ventilator ,392
+extubated from the ventilator ,400
+total duration of mechanical ventilation of 10 days ,160
+oral feeding was started ,408
+aggressive limb and chest physiotherapy was continued ,408
+shifted out from ICU ,432
+discharged from the hospital ,672
+full neurological recovery ,672
+total duration of 4 weeks of hospital stay ,0
+followed up regularly in the outpatient department ,720
+no functional disability ,720

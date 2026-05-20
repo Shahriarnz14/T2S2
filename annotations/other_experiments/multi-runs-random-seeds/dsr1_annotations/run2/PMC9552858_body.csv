@@ -1,0 +1,100 @@
+event,time
+31 weeks of pregnancy,0
+emergency cesarean delivery,0
+abruptio placenta,-1680
+weight 1090 g,0
+Apgar 4 (1st minute),0
+Apgar 8 (5th minute),0
+previous intrauterine fetal death (2 siblings),-1680
+multiple pregnancy,-1680
+maternal hypothyroidism,-1680
+maternal gestational diabetes,-1680
+group B streptococcal urine infection,-1680
+non-consanguineous parents,0
+living 5-year-old sibling,0
+no family history of miscarriage,0
+no maternal cholestasis,0
+no maternal fatty liver,0
+no maternal infection,0
+no family history of neonatal jaundice,0
+mild respiratory distress,0
+respiration rate 65 breaths/min,0
+chest retraction,0
+"CPAP (6 PEEP, 30% FIO2)",0
+cloudy eyes,0
+ectropion,0
+dry ichthyotic skin,0
+bilaterally undescended testicles,0
+no dysmorphia,0
+height 75th percentile,0
+weight 25th percentile,0
+head circumference 25th percentile,0
+temperature 36.2°C,0
+neurologically normal,0
+heart rate 167 bpm,0
+normal pulses,0
+equal breath sounds,0
+no organomegaly,0
+normal blood count,0
+normal electrolytes,0
+normal liver function,0
+respiratory distress syndrome (ground-glass opacity),0
+minor respiratory acidosis,0
+surfactant administration,0
+CPAP continuation,0
+bowel movement at 12 hours,12
+trophic feeding (breast milk) on day 3,72
+FIO2 weaned to 21%,168
+abdominal distension on day 6,144
+tachycardia,144
+tachypnea,144
+thrombocytopenia,144
+neutropenia,144
+CRP 70 mg/L,144
+meropenem and vancomycin initiation,144
+trophic feeding stopped,144
+antibiotics discontinued after 72 hours,216
+feeding restarted (30 mL/kg/day),216
+high-flow oxygen therapy in week 2,336
+recurrent apnea (weeks 3-4),504
+CPAP required (30% FIO2),504
+negative septic workups,504
+normal brain MRI,504
+nasogastric tube feeding,504
+conjugated hyperbilirubinemia (week 3),504
+total bilirubin 69.8 umol/L,504
+negative TPN-associated cholestasis response,504
+ursodeoxycholic acid 30 mg/kg/day,504
+normal spine X-ray,504
+normal echocardiogram,504
+normal eye exam,504
+craniosynostosis (X-ray),672
+hepatosplenomegaly absent,504
+normal gallbladder,504
+no biliary tree dilatation,504
+albumin decline,504
+"rising bilirubin, AST, ALT",504
+multiple albumin infusions,504
+negative infectious etiology,504
+"normal TSH, T3, T4, cortisol",504
+negative metabolic disorders,504
+whole exome sequencing at 8 weeks,1344
+recurrent apnea unresponsive to caffeine,1344
+phenobarbitone empirical treatment,1344
+"cyanosis, apnea, bradycardia (week 13)",2184
+cardio-respiratory resuscitation,2184
+intubation and mechanical ventilation,2184
+epinephrine administration,2184
+septic shock,2184
+multiorgan failure,2184
+disseminated intravascular coagulation,2184
+acute renal injury,2184
+capillary leak syndrome,2184
+CRP 223.3 mg/L,2184
+inotropic support,2184
+high-frequency oscillatory ventilation,2184
+inhaled nitric oxide,2184
+death after 100 days,2400
+NOTCH2 gene mutation c.1076c>T,2400
+ALGS2 diagnosis confirmed,2400
+pathogenic variant Ser359Phe,2400

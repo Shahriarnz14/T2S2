@@ -1,0 +1,23 @@
+level,model,case_id,n_events,n_auto_found,n_needs_manual_review,auto_found_rate,,,,PMOA Case ID,DSR1: # annotated_events,DSR1: # automated_lexical_match,DSR1: # manual_reviews,L33: # annotated_events,L33: # automated_lexical_match,L33: # manual_reviews
+case,dsr1,PMC10370906_body,59,51,8,0.8644,,,,PMC10370906,59,51,8,73,72,1
+case,dsr1,PMC10556716_body,107,95,12,0.8879,,,,PMC10556716,107,95,12,115,110,5
+case,dsr1,PMC10629858_body,77,73,4,0.9481,,,,PMC10629858,77,73,4,63,61,2
+case,dsr1,PMC3075162_body,87,77,10,0.8851,,,,PMC3075162,87,77,10,77,74,3
+case,dsr1,PMC4778217_body,65,63,2,0.9692,,,,PMC4778217,65,63,2,63,60,3
+case,dsr1,PMC6238558_body,70,66,4,0.9429,,,,PMC6238558,70,66,4,71,64,7
+case,dsr1,PMC7576661_body,45,41,4,0.9111,,,,PMC7576661,45,41,4,54,45,9
+case,dsr1,PMC9136437_body,69,59,10,0.8551,,,,PMC9136437,69,59,10,125,124,1
+case,dsr1,PMC9355071_body,58,43,15,0.7414,,,,PMC9355071,58,43,15,57,45,12
+case,dsr1,PMC9552858_body,101,63,38,0.6238,,,,PMC9552858,101,63,38,81,66,15
+model,dsr1,,738,631,107,0.855,,,,Total Events (Sum),738,631,107,779,721,58
+case,llama33,PMC10370906_body,73,72,1,0.9863,,,,,,,,,,
+case,llama33,PMC10556716_body,115,110,5,0.9565,,,,,,,,,,
+case,llama33,PMC10629858_body,63,61,2,0.9683,,,,,,,,,,
+case,llama33,PMC3075162_body,77,74,3,0.961,,,,,,,,,,
+case,llama33,PMC4778217_body,63,60,3,0.9524,,,,,,,,,,
+case,llama33,PMC6238558_body,71,64,7,0.9014,,,,,,,,,,
+case,llama33,PMC7576661_body,54,45,9,0.8333,,,,,,,,,,
+case,llama33,PMC9136437_body,125,124,1,0.992,,,,,,,,,,
+case,llama33,PMC9355071_body,57,45,12,0.7895,,,,,,,,,,
+case,llama33,PMC9552858_body,81,66,15,0.8148,,,,,,,,,,
+model,llama33,,779,721,58,0.9255,,,,,,,,,,

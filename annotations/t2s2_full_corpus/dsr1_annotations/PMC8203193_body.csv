@@ -1,0 +1,112 @@
+event,time
+49 years old,0
+male,0
+presented to hospital,0
+cough,-5040
+fever,-5040
+emaciation,-5040
+mass on left side of neck,-720
+treated with ceftazidime,-720
+fever resolved,-720
+mass on neck grew,-720
+no history of previous medical illness,0
+no history of medication,0
+body temperature 38°C,0
+palpable mass on left neck,0
+palpable mass below right chin,0
+larger mass 8 cm diameter,0
+masses inflamed,0
+masses sensitive to touch,0
+moist rales in left upper lung,0
+"WBC 14,200 cells/µL",0
+"neutrophil count 12,200 cells/µL",0
+lymphocyte count 1.39 cells/µL,0
+"platelet count 167,000/µL",0
+hemoglobin 124 g/L,0
+CRP 167.04 mg/L,0
+ESR 70 mm/h,0
+procalcitonin 0.61 ng/mL,0
+"CD3+ 1,137 cells/L",0
+CD4+ 470 cells/L,0
+CD8+ 620 cells/L,0
+normal liver function,0
+normal kidney function,0
+normal total immunoglobulin,0
+galactomannan index 0.35,0
+HIV negative,0
+neck CT mixed-density lesions,0
+started ceftazidime,0
+started levofloxacin,0
+resection of neck masses,0
+pus in masses,0
+hemopurulent necrotic material,0
+pus culture sent,0
+B. cepacia cultured from neck mass,168
+B. cepacia cultured from submental pus,168
+sensitive to meropenem,168
+sensitive to ceftazidime,168
+sensitive to levofloxacin,168
+sensitive to cotrimoxazole,168
+sensitive to minocycline,168
+continued ceftazidime,168
+continued levofloxacin,168
+fever resolved,168
+masses decreased in size,168
+productive cough,336
+chest CT neck masses shrunk,336
+left upper lobe exudative consolidation,336
+left hilar lymphadenopathy,336
+bronchofibroscopy bronchial nodules left upper lobe,336
+bronchofibroscopy bronchial nodules left lower lobe,336
+lumen obstruction,336
+mucosal hyperplasia,336
+mucosal hypertrophy,336
+left hilar lymph node biopsy,336
+tracheal nodules biopsy,336
+TM cultured from bronchial nodule,336
+TM cultured from left hilar lymph node,336
+TM cultured from BAL fluid,336
+NGS confirmed TM,336
+diagnosed disseminated TM,336
+diagnosed B. cepacia infection,336
+amphotericin B added,336
+ceftazidime discontinued,672
+levofloxacin discontinued,672
+cough improved,336
+fever recurred,504
+new mass on right neck,504
+chest CT pulmonary improvement,504
+neck CT posterior pharyngeal abscess,504
+neck CT C4 fracture,504
+neck CT new right neck mass,504
+ceftazidime restarted,504
+levofloxacin restarted,504
+no treatment effect,504
+switched to meropenem,504
+switched to cotrimoxazole,504
+B. cepacia uncontrolled,504
+acute quadriplegia,504
+subtotal C4 resection,504
+spinal canal decompression,504
+transferred to ICU,504
+meropenem continued,504
+tigecycline added,504
+voriconazole added,504
+B. cepacia in blood,504
+B. cepacia in pus,504
+pulmonary lesions improved,504
+neck abscess disseminated,504
+hepatorenal dysfunction,672
+cardiac insufficiency,672
+hypotension,672
+hypoxia,672
+CD3+ 158 cells/L,672
+CD4+ 48 cells/L,672
+CD8+ 99 cells/L,672
+disseminated intravascular coagulation,1008
+died of B. cepacia sepsis,1008
+nAIGA measured,168
+"nAIGA titer 11,025 ng/mL",168
+nAIGA titer increased,1344
+"nAIGA titer 50,566 ng/mL",1344
+high-titer nAIGA associated immunodeficiency,0

@@ -1,0 +1,74 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+parkinsonism,-17520
+diabetes mellitus,-17520
+levodopa / carbidopa,-17520
+rasagiline,-17520
+ropinirole,-17520
+trihexyphenidyl,-17520
+amantadine,-17520
+metformin,-17520
+glipizide,-17520
+cellulitis,0
+intravenous clindamycin,0
+intravenous benzylpenicillin,0
+high-temperature spikes (above 102°F),72
+tachycardia,72
+tachypnea,72
+hypotension,72
+encephalopathy,72
+shifted to ICU,72
+sepsis with multi-organ dysfunction syndrome,72
+intravenous linezolid,72
+intravenous piperacillin with tazobactam,72
+borderline renal parameters,72
+improved hemodynamics,72
+minimal inotropic supports,72
+insulin,72
+confusion,72
+drowsiness,72
+disorientation,72
+altered sensorium,72
+myoclonus,72
+tremors,72
+jerky movements,72
+no neck stiffness,72
+computed tomography of the brain not significant,72
+cerebrospinal fluid analysis not significant,72
+improving white blood cell counts,72
+better glycemic control,72
+sterile blood cultures,72
+sterile pus cultures,72
+high temperature of 103°F,96
+altered mental status,96
+myoclonus,96
+jerky movements,96
+tremors,96
+linezolid started,72
+rasagiline continued,72
+serotonin syndrome suspected,96
+infection ruled out,96
+drug abuse ruled out,96
+cerebrovascular etiologies ruled out,96
+metabolic etiologies ruled out,96
+Naranjo score of six,96
+World Health Organisation-Uppsala Monitoring Centre causality assessment,96
+drug interaction probability scale assessment,96
+linezolid stopped,96
+rasagiline stopped,96
+temperature settled,104
+heart rate normal,108
+sensorium improved,108
+tremors subsided,108
+shifted out of ICU,120
+walking with support,240
+discharged from the hospital,240
+rasagiline restarted,240
+regular follow-up with neurologist,240
+stable,240
+asymptomatic for serotonin syndrome,240

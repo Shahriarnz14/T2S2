@@ -1,0 +1,65 @@
+event,time
+76-year-old,0
+female,0
+referred to hospital,0
+admitted to hospital,0
+sore throat,-120
+dry cough,-120
+fever,-120
+diabetes mellitus,0
+hypertension,0
+glaucoma,0
+American,0
+living in the United States,0
+visiting Japan,0
+arrived at Yokohama Harbor aboard Diamond Princess cruise ship,0
+COVID-19 outbreak inside the cruise ship,0
+viral testing,0
+RT-PCR test positive for SARS-CoV-2,0
+started on lopinavir-ritonavir,-24
+started on moxifloxacin,-24
+body temperature 38.3°C,0
+oxygen saturation 93% on 8 L/min supplemental oxygen,0
+coarse crackles in upper chest on right,0
+peripheral blood lymphopenia,0
+elevated BUN,0
+elevated creatinine,0
+elevated CRP,0
+elevated LDH,0
+chest CT showing GGOs and consolidation,0
+treated with piperacillin-tazobactam,0
+treated with peramivir,0
+respiratory failure progressed,0
+endotracheal intubation,0
+endotracheal aspirate positive for SARS-CoV-2 on RT-PCR,0
+low gamma-globulin level,72
+administered IVIG,72
+respiratory status deteriorated,168
+dyspnea,168
+fever alleviation,168
+ventilator settings: volume-controlled ventilation,168
+tidal volume 300 ml,168
+PEEP 14 cmH2O,168
+respiratory frequency 13 per minute,168
+hypoxemia not improved,168
+pulmonary embolism considered,168
+acute pulmonary edema considered,168
+compression ultrasound negative for deep vein thrombosis,168
+PaO2/FiO2 below 70 torr,168
+V-V ECMO initiated,168
+venous catheters placed in right common femoral vein and right internal jugular vein,168
+hemodynamics maintained with vasoactive agents,168
+body water normalized with diuretics,168
+oxygenation stabilized by ECMO,168
+antibiotics replaced with vancomycin,384
+respiratory status improved,384
+SARS-CoV-2 undetectable on RT-PCR,384
+tracheotomy performed,432
+ECMO discontinued,456
+intravenous meropenem administered,456
+chest CT showing enlarged GGOs and consolidation,528
+organizing pneumonia,528
+methylprednisolone 250 mg daily started,864
+improvement of organizing pneumonia,864
+taken off respirator,960
+condition stable,960

@@ -1,0 +1,59 @@
+event,time
+male,0
+born by emergency cesarean section,0
+born at 256/7 gestational week,0
+birthweight 665 g,0
+intubated in the delivery room,0
+transferred to the neonatal intensive care unit,0
+on mechanical ventilation,0
+Total parenteral nutrition (TPN) started,12
+minimal enteral nutrition with breast milk started,12
+delayed meconium passage,36
+abdominal distension,48
+increased gastric residuals,48
+laboratory findings compatible with NEC,48
+radiological findings compatible with NEC,48
+necrotizing enterocolitis,48
+minimal enteral feeding was discontinued,48
+gastric free drainage initiated,48
+broad-spectrum antibiotic therapy initiated,48
+operated due to perforated NEC,144
+perforated NEC,144
+multiple areas of perforation,144
+circulatory disturbances in the intestinal wall,144
+long segment including the jejunum and ileum was resected,144
+stoma was formed with the proximal end,144
+distal end was left closed in the abdomen,144
+short bowel syndrome,144
+surgical NEC,144
+minimal enteral feeding was started,312
+enteral feeding gradually increased,312
+TPN support could not be discontinued,312
+enteral nutrition alone was insufficient due to short bowel syndrome,312
+thyroid screening tests,336
+fT4: 0.87 ng/dL,336
+TSH: 0.061 mIU/L,336
+cortisol 5.75 µg/dL,336
+total bilirubin 12.12 mg/dL,336
+direct reacting bilirubin 11.48 mg/dL,336
+transient hypothyroxinaemia of prematurity (THOP),336
+fT4 level was decreasing and close to the lower limit of normal,504
+increasing TSH levels,504
+enteral levothyroxine 5 µg/kg/day started,504
+no response to treatment,576
+enteral levothyroxine increased to 10 µg/kg/day,576
+no increase in fT4 levels,600
+poor absorption of the drug suspected,600
+enteral levothyroxine discontinued,600
+levothyroxine tablet (25 µg) was ground,600
+levothyroxine tablet was diluted with 10 mL of saline,600
+rectal levothyroxine 10 µg/kg/day (4 mL/kg) started,600
+rectal administration by a 6 Fr feeding tube,600
+fT4 levels increased,816
+bilirubin levels decreased,816
+still on rectal levothyroxine treatment,1848
+died,1848
+severe bronchopulmonary dysplasia,1848
+surgical NEC,1848
+short bowel syndrome,1848
+sepsis,1848

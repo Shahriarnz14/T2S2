@@ -1,0 +1,145 @@
+event,time
+50 years old,0
+male,0
+admitted to a local hospital,-336
+fever,-336
+loss of appetite,-336
+watery diarrhea,-336
+heavy drinker for 10 years,-336
+consumed 250 g alcohol per day for 6 months,-336
+white blood cell count 17280/μL,-336
+C-reactive protein 3.97 mg/dL,-336
+total bilirubin 8.0 mg/dL,-336
+prothrombin time 55%,-336
+marked hepatomegaly,-336
+severe steatosis,-336
+splenomegaly,-336
+diffuse edematous colon,-336
+acute alcoholic hepatitis,-336
+infectious enteritis,-336
+alcohol abstinence,-336
+antibiotics prescribed,-336
+white blood cell count increased to 43650/μL,-240
+total bilirubin increased to 20.8 mg/dL,-240
+prothrombin time decreased to 34%,-240
+renal failure,-240
+hyporesis,-240
+creatinine 3.26 mg/dL,-240
+transferred to our hospital,0
+fever,0
+jaundice,0
+anuria,0
+ascites,0
+pretibial edema,0
+marked hepatomegaly,0
+hepatic encephalopathy,0
+flapping tremor,0
+white blood cell count 54000/μL,0
+total bilirubin 26.8 mg/dL,0
+aspartate aminotransferase 99 IU/L,0
+alanine aminotransferase 48 IU/L,0
+ammonia 92 μg/dL,0
+albumin 4 g/dL,0
+blood urea nitrogen 71 mg/dL,0
+creatinine 3.26 mg/dL,0
+C-reactive protein 6.73 mg/dL,0
+procalcitonin 8.53 ng/mL,0
+prothrombin time 32%,0
+interleukin-6 116.09 pg/mL,0
+tumor necrosis factor-alpha 5.4 pg/mL,0
+severe AH with multiple organ failure,0
+severe infectious enteritis,0
+Maddrey discriminant function score 66,0
+Glasgow alcoholic hepatitis score 11,0
+multidrug-resistant Pseudomonas aeruginosa infection,0
+plasma exchange,0
+hemodialysis,0
+antibiotics administered,0
+granulocytapheresis (GCAP) with Adacolumn,14
+white blood cell count decreased to 46450/μL,14
+total bilirubin decreased to 15.8 mg/dL,14
+GCAP performed three times within 1 week,21
+white blood cell count improved to 35000/μL,21
+interleukin-6 decreased,21
+tumor necrosis factor-alpha decreased,21
+meropenem 1.0 g/d,21
+levofloxacin 250 mg every second day,21
+diarrhea improved,28
+fever improved,28
+laboratory parameters improved,28
+Pseudomonas aeruginosa eradicated,28
+renal failure improved,56
+transferred to previous hospital,1680
+no corticosteroids administered,0
+50 years old,0
+male,0
+admitted to a local hospital,-336
+fever,-336
+loss of appetite,-336
+watery diarrhea,-336
+heavy drinker for 10 years,-336
+consumed 250 g alcohol per day for 6 months,-336
+white blood cell count 17280/μL,-336
+C-reactive protein 3.97 mg/dL,-336
+total bilirubin 8.0 mg/dL,-336
+prothrombin time 55%,-336
+marked hepatomegaly,-336
+severe steatosis,-336
+splenomegaly,-336
+diffuse edematous colon,-336
+acute alcoholic hepatitis,-336
+infectious enteritis,-336
+alcohol abstinence,-336
+antibiotics prescribed,-336
+white blood cell count increased to 43650/μL,-240
+total bilirubin increased to 20.8 mg/dL,-240
+prothrombin time decreased to 34%,-240
+renal failure,-240
+hyporesis,-240
+creatinine 3.26 mg/dL,-240
+transferred to our hospital,0
+fever,0
+jaundice,0
+anuria,0
+ascites,0
+pretibial edema,0
+marked hepatomegaly,0
+hepatic encephalopathy,0
+flapping tremor,0
+white blood cell count 54000/μL,0
+total bilirubin 26.8 mg/dL,0
+aspartate aminotransferase 99 IU/L,0
+alanine aminotransferase 48 IU/L,0
+ammonia 92 μg/dL,0
+albumin 4 g/dL,0
+blood urea nitrogen 71 mg/dL,0
+creatinine 3.26 mg/dL,0
+C-reactive protein 6.73 mg/dL,0
+procalcitonin 8.53 ng/mL,0
+prothrombin time 32%,0
+interleukin-6 116.09 pg/mL,0
+tumor necrosis factor-alpha 5.4 pg/mL,0
+severe AH with multiple organ failure,0
+severe infectious enteritis,0
+Maddrey discriminant function score 66,0
+Glasgow alcoholic hepatitis score 11,0
+multidrug-resistant Pseudomonas aeruginosa infection,0
+plasma exchange,0
+hemodialysis,0
+antibiotics administered,0
+granulocytapheresis (GCAP) with Adacolumn,336
+white blood cell count decreased to 46450/μL,336
+total bilirubin decreased to 15.8 mg/dL,336
+GCAP performed three times within 1 week,504
+white blood cell count improved to 35000/μL,504
+interleukin-6 decreased,504
+tumor necrosis factor-alpha decreased,504
+meropenem 1.0 g/d,336
+levofloxacin 250 mg every second day,336
+diarrhea improved,672
+fever improved,672
+laboratory parameters improved,672
+Pseudomonas aeruginosa eradicated,672
+renal failure improved,1344
+transferred to previous hospital,1680
+no corticosteroids administered,0

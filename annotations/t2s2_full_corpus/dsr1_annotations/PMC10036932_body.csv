@@ -1,0 +1,88 @@
+event,time
+25-year-old male,0
+no previous medical history,0
+presented to the emergency department,0
+perineal pain,-96
+swelling,-96
+discharge,-96
+high-grade fever,-96
+vomiting,-96
+visited nearby health center,-96 (assumed same as symptom onset)
+unspecified PO medication,-96
+no improvement,-72 (approximated after medication)
+no history of trauma,0
+no recent surgery,0
+no history of diabetes,0
+no history of hypertension,0
+no chronic illness,0
+no chronic alcohol abuse,0
+seronegative for HIV,0
+no drug allergy,0
+temperature 38.8°C,0
+blood pressure 85/46 mmHg,0
+pulse rate 120 bpm,0
+respiratory rate 24,0
+no shortness of breath,0
+BMI 19 kg/m²,0
+distressed,0
+distended abdomen,0
+guarding,0
+rebound tenderness,0
+"severe direct tenderness (hypogastrium, left)",0
+normal bowel sounds,0
+bilateral necrotic scrotum,0
+foul-smelling pus discharge,0
+palpable crepitus,0
+enlarged scrotum,0
+edematous scrotum,0
+tender scrotum,0
+ruptured perianal abscess,0
+"WBC 19,000",0
+RBC 2.86,0
+HGB 8.6 g/dl,0
+HCT 23.7,0
+"PLT 377,000",0
+NEUT 87%,0
+ESR 38,0
+Na+ 132,0
+K+ 3.53,0
+Cl- 97,0
+CREAT 1.57,0
+UREA 64,0
+ALP 50,0
+ALB 2.9,0
+BIL T 1.0,0
+RBS 218,0
+resuscitation with normal saline,0
+"broad-spectrum antibiotics (ceftriaxone, metronidazole, penicillin)",0
+transferred to operation room,0.5 (within 30 minutes)
+general anesthesia,0.5
+lithotomy position,0.5
+necrotic scrotal skin,0.5
+foul-smelling abscess,0.5
+necrotic tissue,0.5
+abscess track to retroperitoneum,0.5
+multiple thrombosed vessels,0.5
+debridement,0.5
+wound washed with hydrogen peroxide,0.5
+blood transfusion (2 units),0.5
+drain placed in retroperitoneum,0.5
+plan for re-debridement,0.5
+transferred to ICU,2.5 (operation duration 2 hours)
+vital signs monitoring,2.5
+input-output monitoring,2.5
+antibiotics continued,2.5
+wound care BID,2.5
+traditional wound dressing,2.5
+ICU stay (5 days),2.5 to 122.5
+multiple debridements (5 times),24 to 120
+infection controlled,120
+wound granulation,120
+primary closure of abdominal skin,120
+testicles buried in medial thigh,120
+scrotal reconstruction planned,120
+rough postoperative days,122.5
+improved,122.5
+discharged home,144 (5 days ICU + 1 day ward)
+follow-up at surgical clinic,168 (after discharge)
+doing well,168

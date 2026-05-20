@@ -1,0 +1,113 @@
+event,time
+36 years old,0
+male,0
+IgA nephropathy,0
+hemodialysis,0
+left forearm arteriovenous fistula (AVF),0
+hepatitis B,0
+hypertension,0
+Charcot-Marie-Tooth disease,0
+presented to Emergency Department (ED),0
+sudden onset of left flank pain,-3
+left flank pain,-3
+denies fever,0
+denies chest pain,0
+denies shortness of breath,0
+denies cough,0
+denies vomiting,0
+denies diarrhea,0
+denies dysuria,0
+denies prior problems with AVF,0
+temperature 98.5°F (36.9°C),0
+pulse 108 beats per min,0
+respiratory rate 17 cycles per min,0
+blood pressure 106/64 mmHg,0
+oxygen saturation 99% on room air,0
+abdomen soft and non-tender,0
+no costovertebral angle tenderness,0
+AVF site not tender,0
+electrocardiogram normal sinus rhythm,0
+white blood cell (WBC) 10.2 k/ul,0
+hemoglobin 10.9 g/dl,0
+platelets 197 k/ul,0
+erythrocyte sedimentation rate 48,0
+procalcitonin >200 ng/dl,0
+C-reactive protein 4.81 mg/dl,0
+sodium 134 mmol/l,0
+potassium 4.2 mmol/l,0
+chloride 91 mmol/l,0
+bicarbonate 27 mmol/l,0
+blood urea nitrogen 66 mg/dl,0
+creatinine 12.4 mg/dl,0
+urinalysis WBC 1/HPF,0
+urinalysis absence of bacteria,0
+urinalysis absence of leukocyte esterase,0
+urinalysis absence of nitrate,0
+chest x-ray (CXR) clear lungs,0
+CT abdomen/pelvis no acute appendicitis,0
+CT abdomen/pelvis no diverticulitis,0
+CT abdomen/pelvis no mechanical bowel obstruction,0
+CT abdomen/pelvis no ascites,0
+CT abdomen/pelvis no portal hypertension,0
+both kidneys atrophic,0
+temperature increased to 102.3°F (39.0°C),24
+open wound at AVF noticed,24
+AVF wound swabbed for cultures,24
+AVF wound dressed regularly,24
+Streptococcus group A (GAS) cultured from AVF wound,24
+WBC increased to 12.5 k/ul,24
+hypotension,24
+blood cultures drawn,24
+vancomycin initiated,24
+meropenem initiated,24
+right internal jugular (IJ) hemodialysis catheter inserted,24
+transferred to Medical Intensive Care Unit (MICU),24
+blood pressure improved after intravenous fluids,24
+CXR moderate left pleural effusion,24
+chest CT large left pleural effusion,36
+CXR near-complete opacification of left lung,36
+pigtail chest tube inserted,36
+1.3 L pleural fluid removed,36
+pleural fluid cloudy,36
+"pleural fluid WBC 15,762/cumm",36
+"pleural fluid RBC 3,556/cumm",36
+pleural fluid polynuclear WBC 84%,36
+pleural fluid glucose 2 mg/dL,36
+pleural fluid total protein 4.2,36
+"pleural fluid LDH 9,208 u/L",36
+serum protein 5.1 g/dl,36
+serum LDH 150 u/L,36
+pleural fluid exudative by Light's criteria,36
+clindamycin added,36
+CXR small residual left effusion,168
+left pigtail catheter removed,168
+pain at chest tube insertion site,168
+CXR re-accumulation of pleural fluid,192
+VATS with pleural drainage and decortication,192
+3 chest tubes inserted,192
+chest CT improved left hemithorax,240
+chest CT loculated pleural effusion/emphysema,240
+chest CT small residual area 1.5 cm,240
+chest CT right-sided pleural effusion,240
+left anterior chest tube removed,288
+left lateral chest tube removed,288
+left posterior chest tube removed,360
+sepsis,24
+sepsis resolved,72
+persistent intermittent fever spikes,24
+tachycardia,24
+tachypnea,24
+hypotension requiring intravenous fluids,24
+vital signs improved,72
+blood cultures negative,24
+pleural fluid cultures negative,36
+transthoracic echocardiogram no valvular vegetations,0
+regular dialysis via temporary jugular catheter,24
+discharged with right tunneled permanent catheter,648
+AVF revised and repaired,192
+meropenem discontinued,288
+clindamycin discontinued,264
+ceftriaxone initiated,288
+ceftriaxone administered for 14 days,288
+vancomycin continued for 6 weeks,24
+discharged after 27 days,648

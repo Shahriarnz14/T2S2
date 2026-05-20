@@ -1,0 +1,95 @@
+event,time
+16-year-old,0
+female,0
+previously healthy,0
+presented to pediatrician,-144
+syncope,-144
+malaise,-144
+fever,-144
+fatigue,-144
+chest pain,-144
+shortness of breath,-144
+presyncopal episode,-144
+dizziness,-144
+vision changes,-144
+sweating,-144
+true syncopal episode,-144
+chipped tooth,-144
+transferred to emergency department,-144
+afebrile,0
+blood pressure 93/72 mmHg,0
+pulse rate 90s–100 beats per minute,0
+respiratory rate 16,0
+oxygen saturation 100% on room air,0
+well-developed,0
+well-nourished,0
+mild pain from fall,0
+no head/facial bruising,0
+tachycardic,0
+normal heart sounds,0
+no murmurs,0
+lungs clear to auscultation,0
+no hepatosplenomegaly,0
+ECG normal sinus rhythm,0
+low-voltage QRS complexes,0
+T-wave inversions in inferior and anterior leads,0
+normal electrolytes,0
+normal complete blood counts,0
+normal inflammatory markers,0
+erythrocyte sedimentation rate normal,0
+C-reactive protein normal,0
+transthoracic echocardiogram mildly depressed LV function,0
+ejection fraction 50%,0
+small pericardial effusion,0
+moderate-to-severe concentric LV hypertrophy,0
+LV diastolic septal thickness 1.4 cm,0
+LV posterior wall thickness 1.4 cm,0
+differential diagnosis hypertrophic cardiomyopathy with dysfunction,0
+hypertrophic cardiomyopathy with arrhythmia,0
+myocarditis,0
+admitted for monitoring,0
+telemetry,0
+serial troponins,0
+initial troponin I 0.977 ng/mL,0
+fluid refractory hypotension,24
+sinus tachycardia,24
+tachypnea,24
+transferred to cardiac intensive care unit,24
+vasopressor support,24
+dopamine,24
+milrinone,24
+concern for myocarditis,24
+concern for viral sepsis,24
+viral PCR testing,24
+human herpesvirus-6 PCR,24
+Epstein-Barr virus PCR,24
+enterovirus PCR,24
+parvovirus B19 PCR,24
+adenovirus PCR,24
+influenza PCR,24
+influenza A positive,24
+started on peramivir,24
+increased pericardial effusion,48
+concern for tamponade physiology,48
+pericardiocentesis,48
+pericardial drain placement,48
+increased respiratory effort,48
+hypoxemia,48
+started on biphasic positive airway pressure,48
+intravenous immunoglobulin 2 g/kg,48
+gradual improvement,120
+weaned from intravenous infusions,120
+weaned from supplemental oxygen,120
+repeat TTE ejection fraction >70%,120
+persistent concentric LV hypertrophy,120
+symptoms resolved,168
+TTE resolving LV hypertrophy,168
+LV diastolic septal thickness 1.2 cm,168
+LV posterior wall thickness 1.2 cm,168
+discharge,168
+4-month follow-up cMRI normal biventricular chamber sizes,2880
+normal biventricular systolic function,2880
+normal LV mass,2880
+no LV hypertrophy,2880
+no late gadolinium enhancement,2880
+echocardiogram resolution of LV hypertrophy,2880

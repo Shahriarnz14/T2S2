@@ -1,0 +1,92 @@
+event,time
+47 year-old,0
+Caucasian,0
+female,0
+emergency department,0
+altered mental status,0
+agitation,0
+confusion,0
+fever,0
+respiratory distress,0
+family stated behaving oddly,-24
+not responding to questions appropriately,-24
+positive recent history of sinusitis,-24
+chronic sinusitis,0
+status post nasal polyp removal,0
+diabetes mellitus type II,0
+no history of tobacco,0
+no history of alcohol,0
+no history of illicit drug use,0
+rectal temperature of 106.2 °F,0
+heart rate of 141 beats per minute,0
+blood pressure of 107/59 mmHg,0
+respiratory rate of 32 breaths per minute,0
+alert,0
+not oriented to time,0
+not oriented to place,0
+not oriented to person,0
+using accessory muscles of respiration,0
+diaphoretic skin,0
+agitated,0
+pupils equal,0
+reactive to light,0
+no lesions in the nares,0
+no nasal drainage,0
+nuchal rigidity,0
+photophobia,0
+right upper quadrant tender to palpation,0
+distended abdomen,0
+rebound tenderness,0
+unremarkable cardiac examination,0
+sodium of 135 mmol/L,0
+potassium of 3.3 mmol/L,0
+chloride of 98 mmol/L,0
+bicarbonate of 23 mmol/L,0
+blood urea nitrogen of 12 mg/dL,0
+creatinine of 0.6 mg/dL,0
+glucose of 542 mg/dL,0
+white blood cell count of 35.1 × 109 cells/L,0
+95.7% granulocytes,0
+hemoglobin 12.1 mg/dL,0
+MCV 75.5 fL,0
+hematocrit 40.3%,0
+"platelets 258,000/mcL",0
+"started on empiric antibiotics (ceftriaxone, vancomycin, acyclovir)",0
+lumbar puncture opening pressure 46 mm H2O,0
+cloudy CSF,0
+bloody CSF,0
+CSF WBC (granulocyte) count 820/mm3,0
+CSF red blood cell count 5500/mm3,0
+CSF glucose concentration 177 mg/dl,0
+CSF protein concentration 672 mg/dl,0
+Gram stain gram-positive cocci in chains,0
+CSF glucose to blood glucose ratio 0.375,0
+head CT unremarkable,0
+blood cultures negative,0
+admitted to intensive care unit,0
+CSF culture grew S. agalactiae,0
+sensitive to gentamicin,0
+sensitive to ampicillin,0
+antibiotics changed to gentamicin and ampicillin,0
+repeat CT head (4 cm acute intracerebral hemorrhage right frontal convexity),96
+surrounding edema,96
+mass effect,96
+extubated,168
+opening eyes to verbal stimuli,168
+not following commands,168
+mental status did not improve,168
+respiratory distress,168
+reintubated,168
+repeat head CT (intraparenchymal hematoma increased in size),168
+new 1.7 cm hematoma left frontal lobe,168
+diffuse cerebral edema,168
+right to left midline shift,168
+neurosurgery did not recommend draining hemorrhages,168
+improving clinically,168
+developed Clostridium difficile associated diarrhea,168
+treated with metronidazole,168
+antibiotics course completed,168
+mental status improved significantly,168
+health care associated pneumonia,168
+treated for pneumonia,168
+discharged at baseline mental status,168

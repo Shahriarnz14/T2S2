@@ -1,0 +1,107 @@
+event,time
+general malaise ,-168
+myalgia ,-168
+dyspnea ,-168
+fevers ,-168
+anorexia ,-168
+nasal discharge ,-168
+nasal congestion ,-168
+abdominal pain ,-168
+vaginal pain ,-168
+dysuria ,-168
+cough ,-168
+sore throat ,-168
+throat pain ,-168
+hoarseness ,-168
+afebrile ,0
+tachycardic ,0
+hypotensive ,0
+increased oxygen requirement ,0
+white blood cell count 6200/µL ,0
+"platelet count 23,000/µL ",0
+creatinine 1.33 mg/dL ,0
+alanine transaminase 36 U/L ,0
+aspartate transaminase 59 U/L ,0
+alkaline phosphatase 466 U/L ,0
+total bilirubin 2.9 mg/dL ,0
+serum lactic acid level 4.9 mmol/L ,0
+bilateral pleural effusions ,0
+multiple cystic lesions throughout liver ,0
+intrahepatic and extrahepatic bile duct dilatation ,0
+mild splenomegaly ,0
+evidence of right sided Bartholin gland cyst ,0
+hepatic abscesses ,0
+reactive gall bladder thickening ,0
+Fusobacterium necrophorum in blood cultures ,0
+meropenem ,0
+febrile ,72
+tachycardic ,72
+tachypneic ,72
+blood pressure 157/97 ,72
+oxygen saturation 100% ,72
+lung exam revealing scattered crackles ,72
+cardiac exam revealing tachycardia ,72
+abdominal exam demonstrating mild right upper quadrant abdominal tenderness ,72
+genitourinary exam revealing erythema and edema of the labia without drainage ,72
+"white blood cell count 14,700/µL ",72
+hemoglobin 11 g/dL ,72
+"platelet count 16,000/µL ",72
+erythrocyte sedimentation rate 31 mm/h ,72
+serum lactate dehydrogenase 323 U/L ,72
+alkaline phosphatase 129 U/L ,72
+c-reactive protein 17.05 mg/dL ,72
+fibrinogen 349 mg/dL ,72
+haptoglobin 59 mg/dL ,72
+COVID-19 PCR negative ,72
+HIV antibody screening negative ,72
+urine gonorrhea and chlamydia PCR tests negative ,72
+multiple nodular foci throughout the right lung fields ,72
+septic emboli ,72
+multifocal pneumonia ,72
+bilateral pleural effusion ,72
+collapse of adjacent lung tissue ,72
+interval worsening of hepatic abscess burden ,72
+piperacillin-tazobactam ,72
+diuresis ,72
+respiratory status improved ,72
+transferred to the general medicine ward ,144
+ultrasound guided thoracentesis of the right lung ,216
+removal of 800 mL of maroon colored pleural fluid ,216
+exudative fluid by Light criteria ,216
+fungal smear with no growth ,216
+negative acid-fast stain ,216
+gram stain with no organisms ,216
+4+ granulocytes ,216
+no aerobic or anaerobic bacterial growth ,216
+bilateral multifocal pneumonia ,240
+pleural effusions ,240
+necrotizing pneumonia ,240
+pulmonary abscess ,240
+hepatic abscesses ,240
+subcutaneous right perineal region fluid collection ,240
+infected Bartholin gland cyst ,240
+video-assisted thoracoscopic surgery (VATS) washout and decortication ,264
+pleural rind acid fast staining negative ,264
+biopsy revealed fibrinous and organizing pleuritis ,264
+fibrinopurulent exudate consistent with empyema ,264
+cultures revealed 1+ granulocytes ,264
+no organisms ,264
+pelvic examination by the gynecology team ,264
+right labial abscess ,264
+swelling ,264
+incision and drainage ,264
+drainage of clear serous fluid ,264
+thick white caseous material ,264
+Gram stain revealed no organisms ,264
+3+ granulocytes ,264
+bacterial culture grew two colonies of Candida albicans ,264
+nonocclusive thrombus within the right common iliac vein ,360
+extending into the internal iliac vein ,360
+possible right distal external iliac vein nonocclusive thrombus ,360
+no evidence of valvular vegetations ,360
+not anticoagulated ,360
+ceftriaxone ,408
+oral metronidazole ,408
+discharged ,408
+improvement of symptoms ,504
+transitioned to amoxicillin-clavulanate ,504

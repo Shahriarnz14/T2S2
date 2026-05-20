@@ -1,0 +1,97 @@
+event,time
+71 years old,0\
+female,0\
+admitted to the hospital,0\
+type 1 diabetes,0\
+end-stage renal disease,0\
+complete atrioventricular block,0\
+previous myocardial infarction,0\
+permanent pacemaker,0\
+hemodialysis three times a week,0\
+acute loss of consciousness,0\
+hypoglycemia,0\
+swelling of left hand,0\
+heat of left hand,0\
+redness of left hand,0\
+self-inflicted bite wound at tip of left middle finger,-48\
+episode of dementia,-48\
+intravenous cefazolin,-48\
+cellulitis,-48\
+infection progression despite antibiotics,-24\
+bacterial culture,-24\
+methicillin-resistant Staphylococcus aureus,-24\
+Kanavel’s cardinal signs of flexor tenosynovitis,0\
+vancomycin infusion,0\
+wound debridement,0\
+partial amputation at distal interphalangeal joint,0\
+decompression of median nerve,0\
+purulent abscess,0\
+redness persisted,0\
+swelling persisted,0\
+infection progression reduced,0\
+abdominal pain,120\
+dark brown blood in stool,120\
+gastrointestinal bleed,120\
+systemic shock,120\
+systolic blood pressure 60 mmHg,120\
+vasopressors administered,120\
+elevated white blood cell count,120\
+increased C-reactive protein,120\
+increased creatinine,120\
+reduced sodium,120\
+reduced blood glucose,120\
+reduced hemoglobin,120\
+non-occlusive mesenteric ischemia,120\
+emergency small bowel resection,120\
+tube feedings,120\
+norepinephrine added,120\
+target mean arterial pressure 70,120\
+exposure to SARS-CoV-2,168\
+positive nasal swab test,168\
+acute pneumonia,192\
+consolidation of lungs,192\
+bilateral pleural effusions,192\
+favipiravir initiated,192\
+transferred to intensive care unit,192\
+hypervolemic,192\
+increased oxygen demand,192\
+continuous hemodiafiltration,192\
+signs of necrotizing fasciitis,168\
+infection extended into fascia,168\
+infection extended into surrounding musculature of left hand,168\
+septic shock,192\
+mechanical respiration,192\
+high flow oxygen administered,192\
+remdesivir initiated,192\
+intravenous hydrocortisone,192\
+bone necrosis visible on radiography,192\
+vancomycin prescribed for osteomyelitis,192\
+acute respiratory distress syndrome,240\
+COVID-19 infection under control,336\
+disseminated intravascular coagulation,336\
+heparin contraindicated,336\
+ART-123 administered,336\
+infection progressed to necrosis of entire third digit,336\
+necrosis of skin up to radio-carpal joint,336\
+necrosis of fascia up to radio-carpal joint,336\
+necrosis of musculature up to radio-carpal joint,336\
+signs of invasion into forearm,336\
+COVID-associated hospital restrictions,336\
+surgical treatment precluded,336\
+mechanical ventilation weaned,504\
+endotracheal tube withdrawn,504\
+negative SARS-CoV-2 antigen test,672\
+major amputation at distal third of forearm,672\
+debridement and lavage,672\
+infected tissue removed,672\
+heavy calcification of arteries,672\
+tortuosity of arteries,672\
+possible occlusions,672\
+distal hypoperfusion ischemic syndrome,672\
+skin flap coverage achieved,672\
+stump closed,672\
+no complications on follow-up radiograph,672\
+stump healing well,720\
+septic shock,720\
+cardiopulmonary arrest,720\
+death,720

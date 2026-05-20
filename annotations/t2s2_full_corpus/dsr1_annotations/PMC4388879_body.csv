@@ -1,0 +1,46 @@
+event,time
+72-year-old,0
+man,0
+admitted to the hospital,0
+dermatomyositis,-35040
+pancytopenic,-3600
+methotrexate therapy,-3600
+aplastic anemia,-3600
+hypocellularity,-3600
+neutropenic fever,-720
+ATG therapy,0
+ID skin test,0
+wheal and flare reaction,0
+respiratory distress,0
+generalized urticaria,0
+systemic symptoms,0
+prednisone use,0
+white blood cell count 500,0
+lymphocytes 400,0
+epicutaneous skin test,120
+nonreactive,120
+histamine control,120
+saline control,120
+white blood cell count 200,96
+lymphocytes 200,96
+desensitization,144
+intensive care unit transfer,144
+diphenhydramine,144
+ranitidine,144
+acetaminophen,144
+methylprednisolone,144
+ID dilutions,144
+subcutaneous doses,144
+intravenous doses,144
+no localized reaction,144
+no systemic reaction,144
+full therapeutic dosing,168
+continuous ATG infusion,168
+fungal septicemia,672
+death,672
+no anaphylaxis,144
+no serum sickness,144
+premedication,144
+false positive ID test,0
+negative epicutaneous test,120
+successful desensitization,168

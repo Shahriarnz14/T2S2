@@ -1,0 +1,91 @@
+pmcIntroduction
+
+The World Health Organization declared the SARS-COV-2 pandemic on January 2020. Preventing virus transmission has become the main protective measure, resulting in use and hording of sanitizers and disinfectants. Their availability has caused an increase of acute poisonings, both accidental and with self-harm intentions, mostly among children and the elderly.1 Severe poisoning with high concentrated ethanol-based sanitizers presents with coma, metabolic acidosis and respiratory depression. Despite the supportive medical treatment, it may have a lethal outcome, even in younger people.2 Ethanol biotransformation includes activity of several oxidizing systems: alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (ALDH), catalase and cytochrome P-450 (CYP2E1) with consecutive metabolic products (acetaldehyde and acetate), increased reduction of nicotinamide adenine dinucleotide (NAD) and increased production of reactive oxygen species (ROS). ADH oxidizes ethanol to acetaldehyde, which is then converted to acetic acid by ALDH. Other non-oxidizing metabolic pathways are engaged in smaller extend. Ethanol and its metabolic products have a systemic toxic effect. The rate of their biotransformation is determined by the local enzyme activity and content.3 Elderly patients have slower break down of alcohol due to the decreased enzyme activity (ADH, reduced availability of NAD+ and cytochrome P-450 system with CYP 1–3 family),4 decreased volume of distribution, and renal function and polypharmacy treatment which contribute to the development of more severe poisonings.5 We present the decision-making process and clinical course of the first severe suicidal poisoning with 70% ethanol-disinfectant in North Macedonia, in an elderly immunocompromised patient.
+
+Case report
+
+An unconscious 66-year-old woman, with five previous suicide attempts, was brought by ambulance to the Toxicology Clinic. Her medical history showed regular rheumatologist check-ups with reference blood laboratory findings and last psychiatrist consultation 10 years ago, rare alcohol consumption and general good physical condition. Her regular medication included enalapril, methotrexate, folic acid, diclofenac, lansoprazole, Vit D3, cholecalciferol, calcium-carbonate and 5-hydroxytryptophane. Occasionally she used Alprazolam a 0.25 mg.
+
+At admission, she was in a coma, with blood pressure 115/70 mm Hg, heart rate 85/min, oxygen saturation (SaO) 97% on room air, temperature 36.0°C, tachypnoeic, bilateral miosis, with fingers in ulnar deviation and absent reflexes, discrete pretibial oedema bilateral. No clonus was registered, nor any extrapyramidal signs. From her transfer to the intensive care unit, her condition deteriorated developing hypotension 70/50 mm Hg with a decrease in SaO measured by pulse oximetry at 85% and pulmonary oedema. The physical examination showed miosis, no pupillary reflexes on light (generally reactive pupils are indicative of a toxic coma), no nuchal rigidity, absent limb’s reflexes GCS 3, pulmonary crackles bilaterally and respiration rate 25–30/min. The patient was non-invasively monitored.
+
+The laboratory findings were in reference range except discrete deviation in serum glucose, sodium, potassium, and urine ketones and proteins (Table 1). Calculated glomerular filtration rate (GFR) was 92.9 mL/min/1.73 m2 (MDRD equation-Levy) and D-dimer (DD) was 3254.36 ng/mL. Electrocardiogram (ECG) showed heart rate (HR) 80/min, normal axis.
+
+Table 1. Biochemical parameters and ABGA during hospital treatment.
+
+Parameter (reference value)	At admission	After HD	
+WBC (109/L) (4–9)	7.9	16.7	
+Plt (109/L) (150–450)	339	252	
+Hb (g/L) (120–180)	148	141	
+RBC (1012/L) (4.2–5.5)	4.7	4.4	
+Htc (rv) (0.37–0.54)	0.42	0.44	
+CRP (mg/L) (<6)	2.5	14.3	
+Glycemia (mmol/L) (3.5–6.1)	12.2	6.4	
+BUN (mol/L) (2.7–7–8)	4.3	5.5	
+Creatinine(µmol/L) (45–109)	59.6	64	
+Na (mmol/L) (137–145)	136	138	
+K (mmol/L) (3.8–5.5)	3.76	4.2	
+Ca (mmol/L) (2.1–2.6)	2.3	2.05	
+AST (U/L) (10–34)	17.9	50	
+ALT (U/L) (10–45)	12.1	26	
+GGT(U/L) (9–64)	15.3	17	
+AF(U/L) (36–126)	85.5	83	
+Myoglobin (ng/mL) (<70)	49.6	10	
+Troponin (ng/L) (<15.6)	11.1	12.2	
+D-dimer (ng/mL) (<660)	3254.36	8098	
+Ketones (urine)	+	–	
+Proteins (urine)	30	–	
+Ethanol (mg/dL)	526	200.107	
+PT (s)		10.67	
+aTPP (s)		26.37	
+TT (s)		20	
+Arterials blood gases analysis	
+ pH (7.35–7.45)	7.26	7.46	
+ pCO2 (kPa) (4.7–5.9)	3.5	3.61	
+ SaO (%) (95–100)	94% (with O support)	98% (without O support)	
+ HCO3 (st) (mmol/L) (22–26)	14	21.8	
+ BE (ECF) (mmol/L) (−4 to +2)	−15.4	−4.8	
+ Anion gap (mmol/L)(10–16)	21.7	16.7	
+ Lactates (mmol/L) (<2)	>2	1.76	
+ABGA: arterial blood gas analysis; WBC: white blood cell count; RBC: red blood cell count; Plt: platelet; Hb: haemoglobin; CRP: C-reactive protein; BUN: blood urea nitrogen; HD: haemodialysis; PT: prothrombin time; aTPP: activated partial thromboplastin time; TT: thrombin time.
+
+DD reference value was age adjusted.
+
+Under symptomatic treatment (pulmonary aspiration, intravenous colloids 500 mL, NaCl 0.9% 500 mL, oxygen support with nasal cannula 4–5 L/min and amp furosemide 10 mg i.v.), the patient achieved a stable hemodynamic condition with an increase in blood pressure (BP) up to 110/70 mm Hg, HR 110–120/min and urine output of about 3.5 mL/min with persistence of coma and absence of reflexes. The toxicological screening on the urine confirmed low benzodiazepine levels (477 ng/mL) (semi-quantitative enzyme-linked immunosorbent assay (ELISA) method, Beckman Coulter, cut-off values 200 ng/mL), excluded opiates, tramadol, methadone, cannabis, but 5-HTP and its metabolites could not be assessed due to lack of appropriate laboratory test. Soon she reexperienced hypotensive reaction at 80/60 mm Hg, drop of SaO 85%, tachypnoea with rate up to 35–40/min and shallow respirations. At that time, her family phoned us from home indicating that about 250 mL of 70% ethanol-disinfectants was missing. Blood alcohol concentration (BAC) was 526 mg/dL (5.26 g/L) (AU480 chemistry analyser, Beckman Coulter). The results from the Arterial Blood Gas Analysis (ABGA) confirmed metabolic acidosis (Table 1). Calculated osmolality taking in consideration the measured ethanol concentrations was 403–421 (reference = 285–295) mOsm/kg and DD was 3254 ng/mL (<660 ng/mL referent range with age adjustment). The anaesthesiology consultant recommended patient monitoring under mask-oxygen, without mechanical ventilation at this stage. The treatment continued with standard protocol (5% dextrose in normal saline (D5 NS) 100 mL/h, potassium 10 mmoL/h, thiamine a 100 mg i.v. oxygen 4–5 L/min) for the next couple of hours with persistent areflex coma and oscillation of BP with an average value of 90/60 mm Hg. Her polymerase chain reaction (PCR) test for SARS-COV-2 was negative.
+
+Taking into consideration her hemodynamic instability, age with reduced biotransformation activity, risk of fluids overload due to aggressive intravenous fluids treatment and immunocompromised condition, with high susceptibility to infections, we reassessed her treatment and decided to use haemodialysis (HD) as a faster elimination procedure.
+
+HD was performed in consultation with a nephrologist through a femoral catheter and discontinued after two and a half hours because of increased blood coagulation despite administration of nadroparin 0.6 mL (5700IE) during HD. She became stuporous with restoration of reflexes. Post-dialysis alcoholaemia was 250 mg/dL (2.5 g/L), ABGA was corrected and DD increased (Table 1). Glycemia was controlled every 4 h, with lowest recorded values of 5.0 mmol/L. Further treatment consisted of D5NS 100 mL/h, amp ceftriaxone 2.0 g, amp famotidine 20 mg i.v. tid, nadroparin a 0.6 mL tid, for the next 12 h. The next morning level of consciousness (LOC) improved to mild somnolence, but pronounced depressed mood, and alcoholaemia was 104 mg/dL (1.04 g/L). No gastric discomfort, haematemesis or reduction in haemogram were observed. When she became conscious, she denied taking more than regular 5-HTP tablets. The specific therapy for rheumatoid arthritis (RA) was discontinued during the 48 h intensive treatment. She was transferred to the psychiatric clinic in stable hemodynamic and mental status, recommended to use LMWH (low molecular weight heparin) for the next 7 days, control haemostatic parameters and continue regular therapy.
+
+Discussion
+
+We described a case of severe suicidal poisoning with disinfectant containing high ethanol concentration in an immunocompromised elderly patient, which was the first case of severe intoxication with disinfectant in our country. Increased multimorbidity, evaluated by the Charlson Comorbidity Score, was associated with higher self-harm prevalence in the elderly6 who presented 12.8% repeated self-harm within 1 year.7 The increased use and refereed poisonings with cleaners, antiseptics and disinfectants due to COVID-191 stress two considerations: the necessity to think more often of intoxication with ethanol-based disinfectants as a differential diagnostic option when treating comatose patients of unknown aetiology, especially in the elderly where cerebrovascular accidents had usually been the first diagnostic option; another important procedure for further treatment is estimating alcoholaemia in suspected poisoning with disinfectants. Kaeley et al.8 reported that in the group of non-surviving adult patients treated for poisoning, alcohol poisoning was the most prevalent toxidrome, with aspiration pneumonia and acute renal failure as the most common direct cause of death. There were reports where acute alcohol/disinfectants poisonings were successfully treated with supportive measures including aggressive intravenous fluids therapy,9 recommended because of the variable BAC that induce severe clinical presentation10 and the factor of 2 in the rates of interindividual variation of alcohol elimination among unrelated patients. On the other side, it was reported that an ethanol-sanitizers poisoning of a young male resulted in fatal outcome after 7-day intravenous fluid treatment.11 Lethal outcome was described in a 76-year-old man after ingestion of 70% ethanol-based sanitizer and BAC 463 mg/dL who was treated 7 days conservatively, without HD, where post-mortem examination diagnosed bronchopneumonia associated with ethanol toxicity and then atherosclerosis as a cause of death.12
+
+In this case report, the suicidal intentions,13 female gender,14 short-time ingestion of highly concentrated alcohol and older age, when ethanol biotransformation is decreased as a result of the reduced enzyme activity,15 contributed to faster increase of BAC with more severe clinical presentation. The activity of cytochrome P-450 oxidizing system and its CYP families significantly declined with ageing in experimental studies.16 Also, the liver CYP content decrease by 0.07 ng/mL after 40 years of age.17 Increased oxidative stress and lipid peroxidation in the elderly18 additionally inhibit ALDH activity,19 contributing to prolonged increased levels of acetaldehyde. Highly increased concentrations of ethanol, acetaldehyde and acetate due to overload of enzymes which had already had decreased age-related activity, induce prolonged toxicity, too.
+
+After a couple of hours from admission, despite high BAC and serious health condition, the patient did not presented pH <7.1,20 decreased renal and hepatic function and was not on mechanical ventilation, which are usual criteria to perform HD. Non-tolerant healthy patient has ethanol average elimination rate of 15–20 mg/dL/h, while HD enhances the elimination process by three to four times.21 Prolonged treatment with intravenous fluids in the elderly may result in prolonged ethanol toxicity, fluids overload with pulmonary oedema, hypostatic pneumonia, hypertension and electrolyte disturbances.22 Timely performed HD ensure the avoidance of severe hypocalcaemia developed during prolonged treatment of poisoning with high BAC which induces serious myocardial and renal complications.23
+
+Alcohol and benzodiazepines act through the GABA receptor system and when combined together exhibit an amplified net depressive effect on the LOC and respiratory centre.24 The low benzodiazepine levels in our patient had insignificant contribution to the depression of her LOC. Poisoning with tryptophan results in development of the serotonin syndrome (altered mental status, autonomic instability and neuromuscular disorder), which was not observed in our patient. Later, she denied consuming 5-HTP in high doses, as her family assumed.
+
+Our patient had RA controlled by methotrexate, an immunocompromising condition, which have potential for two-fold increase in infections compare to the general population25 due to the pathophysiology of the disease itself and the immunomodulatory therapy.26 Ethanol, even in acute intoxications, activates the proinflammatory chemokine CMP-1 (monocyte chemoattractant protein-1) with a response lasting even 12 h after blood ethanol elimination27 and increases levels of other proinflammatory cytokines like interleukin (IL)-6 and tumor necrosis factor-α (TNF-α).28
+
+Another risk factor for enhanced renal deterioration is the regular therapy of our patient with concomitant use of ACE-inhibitors (enalapril) and NSAID (diclofenac) having potential to inducing renal impairment. The ACE-inhibitors mechanism of action includes vasodilatation of afferent and efferent arterioles, where the last can contribute to decreased renal GFR especially when combined with NSAID inhibiting prostacyclin synthesis and inducing vasoconstriction of afferent arteriole. Additional treatment with furosemide may induce hypovolemia with kidney hypoperfusion, lowering GFR, thus contributing to acute kidney insufficiency with coma.29
+
+Significant risk factor in the treatment of our patient was coagulopathy due to metabolic acidosis30 induced by acute intoxication with 70% ethanol, while the progressive DD increase was associated with shown persistence of coagulation disturbances after acidosis correction30 and HD.31 In our opinion, the increased DD at admission was not associated with RA considering regular methotrexate therapy, referent biochemical parameters at the rheumatologist control with satisfactory preserved renal function.
+
+Special consideration should be paid to disinfectants and hand sanitizers containing tartrazine (azo dye) which has a potential for serious systemic toxicity in case of acute poisoning. Experimental studies showed that its hepatotoxicity is presented with cholangitis induced by increased inflammation, oxidative stress, mitochondrial toxicity and inhibition of sulphotransferases activity responsible for sulphation and secretion of bile acids.32 Tartrazine exposure is associated with elevated plasma levels of creatinine and uric acid33 too. When added in certain medicines, tartrazine was the trigger of allergic reactions.34 In case of overdose with disinfectants containing tartrazine, they would have the potential to induce even allergy-associated hypotension with further circulatory and renal impairment. Neurotoxicity induced by tartrazine presented with haemorrhage would additionally aggravate the depression of brain functions.35 These reports implies that acute poisoning with disinfectants containing tartrazine may additionally compromise hepato-renal function of the patient, biotransformation and elimination of xenobiotics and contribute to AKI (acute kidney insufficiency), especially in elderly. These should be subject of enhanced monitoring in these types of disinfectants poisoning and carefully analysed in further studies.
+
+Conclusion
+
+Early alcoholaemia estimation and application of extracorporeal elimination techniques even at lower BAC, in the non-alcohol tolerant elderly poisoned patients with high concentrated ethanol-based disinfectants, may contribute to reduced morbidity and mortality in this population group.
+
+Acute poisoning with high alcohol concentration-based disinfectants should be considered in the differential diagnosis of unknown aetiology coma, especially in the elderly, even more often now during the SARS-COV-2 virus pandemic. Careful monitoring of haemostasis in senior patients and its timely treatment will reduce the risk of thrombotic complications, induced by the xenobiotic effects, atherosclerosis and other comorbid conditions.
+
+Declaration of conflicting interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship and/or publication of this article.
+
+Ethical approval: Our institution does not require ethical approval for reporting individual cases or case series.
+
+Funding: The author(s) received no financial support for the research, authorship and/or publication of this article.
+
+Informed consent: Written informed consent was obtained from a legally authorized representative(s) for anonymized patient information to be published in this article.
+
+ORCID iD: Zanina Pereska https://orcid.org/0000-0001-5922-6336

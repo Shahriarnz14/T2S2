@@ -1,0 +1,80 @@
+event,time
+63 years old,0
+woman,0
+alcohol use disorder,0
+type 2 diabetes mellitus,0
+hypertension,0
+chronic pancreatitis,0
+pseudocyst,0
+admitted to ICU,0
+mixed hemorrhagic/distributive shock,0
+acute gastrointestinal bleed,0
+diabetic ketoacidosis,0
+lethargy,-24
+declining responsiveness,-24
+hypothermia (32.4°C),-24
+hypotension (52/33 mmHg),-24
+hemoglobin 13 g/dL,-24
+glucose >1500 mg/dL,-24
+beta-hydroxybutyrate >22.50 mmol/L,-24
+creatinine 3.55 mg/dL,-24
+BUN 101 mg/dL,-24
+bicarbonate 5 mmol/L,-24
+pH 7.01,-24
+large-volume hematemesis,-24
+packed red blood cells transfusion (2 units),-24
+intubation for airway protection,-24
+right internal jugular vein central line placement,-24
+insulin drip,-24
+pantoprazole drip,-24
+ceftriaxone (2 g i.v.),-24
+transfer to hospital,0
+afebrile,0
+tachycardia (120 bpm),0
+mean arterial pressure 90/60 mmHg,0
+norepinephrine infusion (0.3 mcg/kg/min),0
+vasopressin infusion (0.03 units/min),0
+pH 7.21,0
+bicarbonate 22 mmol/L,0
+glucose 902 mg/dL,0
+anion gap 28 mmol/L,0
+potassium 3.7 mmol/L,0
+BUN 84 mg/dL,0
+creatinine 2.47 mg/dL,0
+lipase 69 U/L,0
+C-reactive protein 262 mg/L,0
+sedimentation rate >120 mm/h,0
+undetectable ethanol,0
+hemoglobin 15 g/dL,0
+platelets 165000 cu mm,0
+WBC count 3300 cu mm,0
+infectious diseases workup,0
+blood cultures,0
+sputum cultures,0
+urine cultures,0
+chest X-ray with bilateral lower lung patchy opacities,0
+norepinephrine infusion,0
+vasopressin infusion,0
+insulin drip,0
+piperacillin/tazobactam,0
+blood cultures positive for Candida species,24
+micafungin 100 mg i.v. daily,24
+Candida albicans identification,48
+Candida glabrata identification,120
+arterial line removal,24
+right internal jugular vein central line removal,24
+transthoracic echocardiogram without vegetation,24
+CT chest findings,24
+CT abdomen/pelvis findings,24
+negative ophthalmologic exam,24
+left hip hemiarthroplasty history,0
+hip aspiration unsuccessful,24
+upper extremity duplex,120
+lower extremity duplex,120
+right internal jugular DVT,120
+heparin drip,120
+fluconazole for 4 weeks,120
+enoxaparin for 3 months,120
+ICU stay,0
+general medicine ward stay (10 days),240
+discharge to skilled nursing facility,744

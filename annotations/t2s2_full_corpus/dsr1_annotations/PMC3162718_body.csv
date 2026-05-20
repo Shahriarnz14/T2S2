@@ -1,0 +1,79 @@
+event,time
+43-year-old male,0
+admitted to the surgical ward,0
+upper abdominal pain,-24
+colic,-24
+vomiting,-24
+diarrhea,-24
+history of similar attacks,-24
+afebrile,0
+hemodynamically stable,0
+right upper abdominal tenderness,0
+positive Murphy's sign,0
+leucocytosis (18 × 10³/mm³),0
+normal liver function tests,0
+normal electrolytes,0
+gall bladder stone,0
+acute cholecystitis,0
+intravenous fluids,0
+ceftriaxone,0
+metronidazole,0
+dalteparin (2500 IU twice daily),0
+laparoscopic cholecystectomy,6
+edematous gall bladder,6
+single stone,6
+adhesions,6
+normal abdominal organs,6
+intra-abdominal pressure 12-15 mmHg,6
+histopathology: acute on chronic cholecystitis,6
+recovered well,6
+scheduled discharge (2 days post-LC),48
+severe epigastric pain,48
+afebrile (day of discharge),48
+normal vital signs,48
+leucocytosis (34 × 10³/mm³),48
+CT scan: SMA partial obstruction,48
+small bowel ischemia,48
+small bowel obstruction,48
+small bowel dilatation,48
+abdominal exploration,48
+ischemic terminal ileum,48
+SMA good pulsation,48
+ileum resection and anastomosis,48
+Bogota bag closure,48
+transferred to SICU,48
+fully heparinized,48
+intubated,48
+sedated,48
+ventilated,48
+second look laparotomy (day 4),96
+viable healthy bowel,96
+no anastomosis leakage,96
+abdominal wall closure,96
+heparinization resumed (6 hours post-laparotomy),102
+total parenteral nutrition,102
+normal echocardiogram,102
+no deep venous thrombus,102
+sinus rhythm,102
+abdominal distension (day 12),264
+IAP 24 mmHg,264
+hemoglobin 6.3 g/dl,264
+blood transfusion,264
+blood products administered,264
+CT scan: abdominal collections (day 13),288
+condition deteriorated (day 14),312
+increased abdominal distension,312
+full ventilatory support,312
+oliguria,312
+IAP 25 mmHg,312
+abdominal compartment syndrome,312
+decompressive laparotomy,312
+old blood-stained fluid drained,312
+Bogota bag closure,312
+inotropic support,312
+fever 39.2°C (day 15),336
+septic shock,336
+renal failure,336
+renal replacement therapy,336
+asystole (day 16),360
+death,360

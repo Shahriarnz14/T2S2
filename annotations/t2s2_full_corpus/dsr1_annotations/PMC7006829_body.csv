@@ -1,0 +1,104 @@
+event,time
+23-year-old,0
+pregnant,0
+Caucasian,0
+woman,0
+referred for fetal echocardiogram,-480
+20 weeks gestation,-480
+concerns of congenital heart disease,-480
+obstetric anatomy scan,-480
+unremarkable maternal medical history,-480
+unremarkable family history,-480
+DORV,-480
+normally related great arteries,-480
+remote VSD,-480
+moderate to severe hypoplastic mitral valve,-480
+moderate to severe hypoplastic left ventricle,-480
+APV,-480
+to-and-fro flow across dysplastic pulmonary valve tissue,-480
+rudimentary pulmonary valve tissue,-480
+moderate stenosis,-480
+peak velocity of 3.0 m/s,-480
+severely dilated main pulmonary artery,-480
+severely dilated branch pulmonary arteries,-480
+below normal right ventricular systolic function,-480
+no ductus arteriosus,-480
+polyhydramnios,-144
+amnioreduction,-144
+genetic analysis detected 22q11.2 deletion,-144
+DiGeorge syndrome,-144
+delivered at 36 weeks gestation,0
+cesarean section,0
+breech position,0
+premature rupture of membranes,0
+birth weight 2300 grams,0
+cyanotic at birth,0
+apneic at birth,0
+intubation,0
+pH 7.17,0
+pCO2 69,0
+pO2 21,0
+oxygen saturation 70%,0
+admission to cardiovascular intensive care unit,0
+hypoxia on 100% FiO2,0
+inhaled nitric oxide,0
+prone positioning,0
+profoundly hypoxic,0
+cyanotic neonate,0
+dysmorphic features consistent with 22q11.2 deletion,0
+to-and-fro murmur along left sternal border,0
+postnatal echocardiogram revealed DORV,0
+sub-aortic VSD,0
+side-by-side great arteries,0
+aortic-mitral fibrous discontinuity,0
+severely hypoplastic mitral valve (z-score −5.1),0
+minimal antegrade flow,0
+hypoplastic left ventricle,0
+non-apex forming left ventricle,0
+thickened dysplastic aortic valve,0
+normal annular measurements,0
+aortic valve annulus 0.9 cm (z-score +3.2),0
+aortic sinuses 1.22 cm (z-score +3),0
+no coarctation of aorta,0
+aortic isthmus 0.4 cm (z-score −1.2),0
+dysplastic pulmonary valve,0
+rudimentary pulmonary valve,0
+mild valvar stenosis,0
+severe pulmonary insufficiency,0
+to-and-fro flow on color Doppler,0
+"severely dilated main pulmonary artery (13 mm, z-score +5.42)",0
+"severely dilated LPA (7.5 mm, z-score +3.99)",0
+"severely dilated RPA (8 mm, z-score +4.21)",0
+dilated right ventricle,0
+hypertrophied right ventricle,0
+severely depressed right ventricular systolic function (FS 19%),0
+partially restrictive atrial septum,0
+left to right shunting,0
+refractory cardiogenic shock,12
+severe hypoxemia,12
+surgical intervention within first 12 hours,12
+atrial septectomy,12
+branch pulmonary artery plication,12
+oversewing of main pulmonary artery,12
+right 3.5 mm modified Blalock-Taussig-Thomas shunt,12
+failed separation from cardiopulmonary bypass,12
+ongoing severe ventricular dysfunction,12
+transitioned to ECMO,12
+postoperative hemothorax,12
+acute kidney injury,12
+continuous renal replacement therapy,12
+profoundly immunocompromised,12
+severe lymphopenia,12
+hypogammaglobinemia,12
+Serratia marcescens septicemia,552
+septic shock,552
+abdominal compartment syndrome,552
+post-operative day 24,552
+abdominal decompression,552
+washout,552
+hemodynamic deterioration,552
+multi-organ failure,552
+profound neurological impairment,552
+comfort care decision,744
+death,744
+post-operative day 31,744

@@ -1,0 +1,65 @@
+event,time
+63 years old,0
+female,0
+smoker,0
+chronic obstructive pulmonary disease,0
+admitted to emergency department,0
+dyspnea,0
+dysphasia,0
+vaccinated with 3rd dose BNT162b2mRNA,-360
+RT SARS-CoV-2 PCR positive,-360
+percutaneous transluminal angioplasty,-168
+left anterior tibial posterior occlusion,-168
+conscious,0
+not cooperative,0
+lower extremity pulses not obtained,0
+arterial blood pressure 120/60 mmHg,0
+heart rate 120/min,0
+respiratory rate 24/min,0
+body temperature 36.5℃,0
+O2 saturation 90%,0
+sinus tachycardia,0
+diffuse atherosclerosis,0
+many thrombotic events,0
+multiple embolic infarcts left temporal lobe,0
+multiple embolic infarcts bilateral frontal lobes,0
+bilateral internal carotid artery stenosis <50%,0
+pulmonary embolism right lower lobe,0
+pulmonary embolism segmental pulmonary artery branches,0
+minimal consolidation left lung lower lobe,0
+pericardial effusion,0
+left ventricular ejection fraction 60%,0
+acute thrombosis right upper extremity ulnar vein,0
+crural artery circulation not defined,0
+subacute deep vein thrombosis bilateral main femoral vein,0
+admitted to intensive care unit,0
+non-invasive mechanical ventilation,0
+pleural fluid drained,0
+enoxaparin sodium 6000 IU twice daily,0
+iloprost,0
+asetilsalisilik asit,0
+D-Dimer high,0
+platelets normal,0
+hereditary coagulation disorders not tested,0
+PF4 antibodies not tested,0
+vasculitis markers negative,0
+antinuclear antibody negative,0
+anti-double stranded DNA negative,0
+perinuclear anti-neutrophil cytoplasmic antibodies negative,0
+echocardiography normal,0
+prolonged ECG normal,0
+acute arterial thrombosis both lower extremities,0
+necrosis both lower extremities,0
+below knee amputation both lower extremities,0
+discharged home,24
+readmitted to another hospital,72
+died,312
+C-reactive protein decreased,0
+RT-PCR negative after admission,0
+pneumonic infiltration not progressed,0
+no respiratory support needed,0
+pleural effusion,0
+pericarditis,0
+embolic stroke of undetermined source,0
+no significant ST-segment changes,0
+no T-wave changes,0

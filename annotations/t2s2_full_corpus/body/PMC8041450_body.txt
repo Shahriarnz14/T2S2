@@ -1,0 +1,118 @@
+Introduction
+
+The SARS-CoV-2 pandemic is among the greatest medical challenges within the last decades.1 Regarding a substantial mortality and an exceptional number of patients requiring critical care and mechanical ventilation, there is need for optimized use of available resources as well as reinforcement of insufficient equipment and structures.
+
+Among several supportive measures including low tidal volume ventilation in those with H-type-COVID-19-pneumonia as proposed by Gattinoni et al.2,3 prone positioning and inhaled vasodilators, extracorporeal lung assist is the most limited resource in the treatment of acute respiratory distress syndrome (ARDS). Extracorporeal membrane oxygenation (ECMO) is not generally recommended in severe ARDS, since its efficacy seems to be restricted to certain subgroups.4 Recent recommendations on COVID-19 patients suggests that the “use of ECMO in patients with a combination of advanced age, multiple co-morbidities, or multiple organ failure should be rare”.5 Extracorporeal CO2 removal (ECCO2R) at lower blood flows and (optionally) in combination with continuous renal replacement therapy (CRRT) has been introduced in patients not eligible for ECMO.6 In this regard, the ADVOS (ADVanced Organ Support, ADVITOS GmbH. Munich, Germany) system, is an albumin hemodialysis approach for elimination of water-soluble and protein-bound toxins, CO2 removal and acid-base balance control.7–9 A combination of multiple organ support (i.e. kidney, liver, lung) and of low invasiveness (blood flow 10-times lower than ECMO; need for conventional dialysis catheter; absence of gas phase), make ADVOS a promising approach for patients with multiple organ failure, including those with severe COVID-19.
+
+Following the CARE guidelines for the reporting of case reports we will now present the clinical course, diagnostic findings, and therapeutic intervention.10 We discuss the potential use of the ADVOS treatment during the COVID-19 pandemic, especially focusing on acid-base balance, respiratory parameters and the effects of the extracorporeal multiple organ support.
+
+Material and methods
+
+Case report
+
+We report on an 80-year old patient who was transferred from a peripheral hospital to our 14-bed university hospital ICU. A chronological synopsis of key diagnostics, treatments, and other interventions is depicted in Figure 1. Diagnosis of COVID-19 was established through bronchoalveolar lavage and the patient was subsequently intubated. During the first week of mechanical ventilation, the patient was moderately responsive to prone positioning. Nine days after intubation the patient was transferred to our ICU due to progressive ARDS and MOF with oliguria, septic shock (initial noradrenalin 0.35 µg/kg/h), hepatic dysfunction and mixed acidosis with a Sequential Organ Failure Assessment (SOFA)-Score of 13 on admission. There was interdisciplinary consensus not to initiate ECMO due to old-age, prolonged ventilation, and MOF (respiratory, renal, circulatory hepatic failure and thrombocytopenia) with a SOFA-score >10.
+
+Figure 1. Timeline of findings and interventions for the COVID-19 patient with multiple organ failure.
+
+ARDS: acute respiratory distress syndrome; EVLWI: extravascular lung water index; K+: potassium concentration; ICU: intensive care unit; PaO2: arterial pO2; PaCO2: arterial pCO2; SOFA: sequential organ failure assessment; ECMO: extracorporeal membrane oxygenation.
+
+Based on the indication for renal replacement therapy (serum creatinine 3.8 mg/dL, potassium 5.9 mmol/L), mixed acidosis (pH 7.15, PaCO2 65 mmHg; base excess of −6.6 mmol/L) and hepatic failure, the patient was started on continuous treatment with the ADVOS device. During eight 24 h treatment sessions with regional citrate anticoagulation (following manufacturer’s protocol), blood flow (100–300 mL/min), dialysate flow (160–320 mL/min), and dialysate pH (7.6–9.0) were adapted according to the actual need of the patient to optimize arterial pCO2 and pH (see Table 1). When deemed appropriate, a dialysate solution with low bicarbonate was employed to increase the CO2 removal capacity. Transpulmonary thermodilution (PiCCO; Pulsion Medical Systems; Germany) revealed markedly elevated extravascular lung water index EVLWI (up to 32 mL/kg; normal range ⩽7 mL/kg), but normal values of the preload marker global end-diastolic volume index GEDVI and cardiac index (CI). 24 h after admission, the patient developed atrial fibrillation (AF) and digitoxin was administered for heart rate control. To reduce pulmonary edema, continuous ultrafiltration was performed with the ADVOS device. Despite an AF-related increase in GEDVI (827 to 1021 mL/m²) the course of hemodynamic parameters suggested effectiveness of ultrafiltration (GEDVI declined from 1021 to 833 mL/m², ELWI showed no further increase, supplemental Figure 1). Still, PVPI remained elevated (mean 4.8 ± 1.1, normal range: 1.0–3.0) in accordance with an infectious-associated non-cardiac pulmonary edema. Mean CI was 3.1 ± 0.4 mL/min/m² and remained constantly greater than 2.2 mL/min/m² (supplemental Figure 1).11,12
+
+Table 1. Longitudinal development of oxygenation, decarboxylation and vasopressor-dependency during 160 h of continuous ADVanced Organ Support (ADVOS) therapy (ADVITOS GmbH, Munich, Germany). The table displays clinical data in a chronologic order from left to right. The first row displays graphically the patient’s arterial pCO2 and pH in relation to the ADVOS treatment course. Next, interventions, complications and relevant clinical parameters, that is the patients arterial pCO2, pO2, SaO2, driving pressures, the amount of eliminated CO2 and the patient’s body position are displayed in the upper rows. Body position (prone vs. supine) is indicated with P or S, respectively. Vasopressor use is reported according to the specific time-points. Lastly, ADVOS specific setting of the permeate and blood flow rates are described in a time dependent manner.
+
+Timeline ADVOS:		
+Course	Baseline																				†	
+ADVOS	−	<<	+	>>	+	+	+	+	+	>>	+	+	>>	+	>>	+	>>	+	+	+	+	
+PaCO2	66.4	n.d.	67	72	77	61	58	69	77	82	74	56	84	62	59	61	81	101	81	48	38	
+CO2_elim (mL/min)	n.d.	n.d.	8	n.d.	55	32	70	51	n.d.	n.d.	86	58	n.d.	n.d.	n.d.	56	n.d.	55	9	n.d.	n.d.	
+PaO2	56	n.d.	103	50	67	68	71	67	90	45	66	79	63	66	48	91	65	76	55	106	85	
+SaO2 [%]	81	93	81	95	89	91	93	90	96	75	88	94	89	89	84	96	89	90	85	96	95	
+Blood pH	7.19	n.d.	7.19	7.30	7.22	7.32	7.42	7.32	7.32	7.36	7.38	7.36	7.31	7.46	7.46	7.29	7.22	7.05	7.16	7.25	7.29	
+[HCO3−]	25	n.d.	25	35	31	31	37	36	39	45	48	31	41	32	42	27	33	27	28	21	18	
+FiO2	0.90	0.85	0.85	1.00	1.00	1.00	0.85	1.00	0.85	1.00	1.00	0.95	0.85	0.85	1.00	0.85	0.70	1.00	1.00	1	0.80	
+DP [cmH2O]	18	18	18	18	18	22	24	24	24	24	24	24	22	22	22	22	22	24	28	32	32	
+Body position	S	P	P	P	S	P	P	P	P	P	P	P	P	P	S	P	P	P	P	P	P	
+NA (µg/kg/min)	0.22	0.31	0.35	0.28	0.22	0.22	0.17	0.09	0.15	0.06	0.07	0.15	0.09	0.09	0.04	0.19	0.33	0.61	0.65	0.85	0.85	
+BF (mL/min)	n.d.	150	150	n.d.	200	200	200	200	200	n.d.	300	300	n.d.	300	n.d.	200	n.d.	250	250	250	250	
+UF (mL/h)	n.d.	0	100	n.d.	100	50	50	100	150	n.d.	200	200	n.d.	200	n.d.	200	n.d.	0	0	0	0	
+PaO2: arterial pO2; PaCO2: arterial pCO2; CO2_elim: CO2-elimantion per time by ADVOS calculated based on pre- and post-dialyzer CO2 concentrations as described in de Garibay et al.9; DP: driving pressure; SaO2: oxygen saturation; NA: noradrenalin; BF: blood flow rate (mL/min); UF: ultrafiltration rate (mL/min).
+
+For extended data including course of laboratory values also see supplemental Table 1.
+
+<< indicates the start of ADVOS therapy.
+
+>> indicates stopping and exchange of the ADVOS system.
+
+indicates change to a bicarbonate free concentrate (from 10 mmol/L before).
+
+indicates system malfunction due to clotting of the dialysis circuit.
+
+indicates onset of complicative pulmonary bleeding.
+
+† reports time of death.
+
+Effective CO2 removal and correction of acidosis could be demonstrated by mean arterial- versus post- dialyzer values of pCO2 (69 ± 14 vs. 27 ± 12 mmHg; p < 0.001). The mean estimated CO2 elimination rate was 48 ± 23 mL/min (see Table 1). Furthermore, post-dialyzer venous lactate levels were significantly lower than pre-dialyzer values (p < 0.001). The acid-base balance was well controlled over the entire treatment period despite anuria, liver failure and elevated lactate levels. The initial vasopressor requirement could be reduced in parallel to pH-normalization during the first 24 h-treatment session.
+
+Even short interruptions of ADVOS-treatment for periodic exchange of the ADVOS-device repeatedly resulted in reversible deteriorations, in particular of PaCO2 and pH. System clotting occurred in one out of eight sessions (12.5%) and demanded renewal of the dialysis circuit (Table 1).
+
+After 95 h of continuous ADVOS-therapy the patient had markedly improved circulatory parameters compared to baseline (noradrenalin minimum 0.04 vs. 0.35 µg/kg/h at initiation of extracorporeal treatment). While his Horovitz-Index slightly increased (PaO2/FiO2 116 vs. 62 mmHg), he required increased driving pressures (22 vs. 18 mbar) and the patient remained prone-dependent. Several hours later the patient suffered from hemoptysis. Hereby, in addition to positive SARS-CoV-2-PCR increased quantities of Klebsiella oxytoca were detected in the tracheal specimens accompanied by positive blood cultures (two out of three). Further, the patient demonstrated sustained positivity for serum- and tracheal-specimen-Aspergillus-antigen-testing. These infections persisted despite appropriate anti-microbial systemic therapy (Amphotericin B dosed according to drug level monitoring; Meropenem and Linezolid 1 g or 600 mg i.v. every 12 h, respectively). The prescribed doses were in accordance with recommendations for continuous renal replacement procedures. No therapeutic drug monitoring was performed for antibiotics.
+
+This episode resulted in a marked and prolonged increase in the vasopressor dosage and lactate levels, whereas the respiratory parameters recovered with PaO2 of 85 mmHg, PaO2/FiO2 of 106 mmHg and PaCO2 of 38 mmHg. One hour after this final blood gas analysis the patient had a sudden cardiac arrest. In accordance with the presumed patient will, we decided against mechanical resuscitation. Since autopsy was not performed, we can only speculate on the reasons for this trajectory. Yet, a marked increase in coagulopathic and inflammatory parameters (D-Dimers 31497 µg/L, progressive thrombocytopenia (20 109/L), ferritin up to 15000 µg/L, IL-6 up to 4457 pg/mL, leucocytosis 16 109/L) along with persistent elevations in PCT (4.8 ng/mL), CRP (34 mg/dL) suggest that a combined septic event together with COVID-19-associated hyperinflammation ultimately lead to coagulopathy, shock and associated fulminant organ failure (LDH 2967 U/L, GOT 2973 U/L)13–15 For more detailed laboratory values see supplemental Table 1.
+
+Discussion
+
+We have presented a case of a patient with COVID-19 and multiple organ failure where the feasibility of the ADVOS device for CO2 removal and acid-base balance control was tested. Considering the association of severe COVID-19 cases with old age and multi-organ failure, combination of low-flow ECCO2R with devices for extracorporeal support of other organs is intriguing in these patients.
+
+Interestingly, also hepatic dysfunction with elevated liver enzymes was a risk factor for in-hospital-death in the Wuhan cohort during the COVID-19 outbreak.16 The concept of extracorporeal multi-organ support is further supported by the finding that in severe ARDS “mortality is finally mainly related to these associated organ failures, whereas refractory hypoxemia is uncommon in late deaths”.17 This finding has been confirmed in numerous studies.18,19 In fact, a recent revision suggests that the attributable mortality to ARDS in ARDS patients is between 27 and 37%.20 The final outcome of the patient supports the finding that a substantial part of ARDS deaths does not result from hypoxemia, but from MOF and complications of pre-existing co-morbidities, which provides the rationale for using less invasive extracorporeal multi-organ assist devices in patients not eligible for ECMO. Notice about the importance of comorbidities and other organ failures,21 as well as concerns about potential harms of ECMO therapy22 have been raised by other authors regarding COVID-19 management.
+
+As shown by elaborate subgroup analyses of the EOLIA trial, the efficacy of ECMO seems to be restricted to certain subgroups.4 Several ECMO-registries and EOLIA suggest a lack of efficacy in patients with old age and multi-organ-failure as measured by a SOFA-score >10 and prolonged mechanical ventilation (>7 days).23 Also considering availability, contraindications and side effects of ECMO,24 several other options of extracorporeal support are of interest. Among those options is low blood flow extracorporeal CO2-removal (ECCO2R). Several devices for ECCO2R have been introduced, and feasibility of ultra-protective ventilation (tidal volume 4 mL/kg instead of 6 mL/kg predicted bodyweight6 as well as combination with continuous renal replacement and ultrafiltration has been shown.
+
+The ADVOS device is based on a modified hemodialysis technique providing albumin dialysis for extracorporeal liver support in addition to renal replacement.8 The employed dialysate contains two 100 mL units of albumin 20%. Within a secondary dialysate-circuit albumin is pH-dependently reconditioned in order to recover its toxin-binding ability (Figure 2). This recycling step provides the ADVOS system with a modifiable dialysate in terms of pH (7.0–9.0). Finally, the bicarbonate content can be adapted (0–20 mmol/L), according to the patient needs. The H+ and HCO3− control achieved, provides with acid-base balance correction and CO2 removal of up to 50% of adult human production.9 Nevertheless, there is a lack of published clinical proof of principle and feasibility of the ADVOS-procedure in patients with ARDS.
+
+Figure 2. Set-up of the ADVOS procedure. CO2 removal results from a concentration gradient diffusion for H+ and HCO3− between blood and dialysate due to increasing the pH-value of the purified albumin dialysate up to 9.0 in the extracorporeal circuit (red, left side of the dialyzer) and by convective filtration in the dialysate regeneration circuit (“regeneration circuit”). The variation in the ratio of acid and base added to form the dialysate helps to reach the desired dialysate pH. A more detailed explanation of technical aspects can be retrieved from de Garibay et al.9
+
+This case provides evidence on the feasibility of the ADVOS system for CO2 removal and acidosis correction in patients with ARDS and COVID-19. Acidosis can impair coagulation, reduces hemoglobin-oxygen-affinity, promotes pulmonary vasoconstriction and is associated with systemic hyperinflammation in the critically ill.25–27 Accordingly, the restoration of acid-base homeostasis is also important in COVID-19 patients.
+
+During the eight treatment sessions performed using blood flows between 150 and 300 mL/min, on average 48 mL/min of CO2 were removed corresponding to about 25% of the basal CO2-production-rate of a healthy adult. It should be noted that the CO2 elimination rate (48 ± 23 mL/min vs. 51 ± 26 mL/min) was only slightly lower than reported for ECCO2R devices operated at higher blood flow rates (421 ± 40 mL/min).28 Thus, ADVOS may allow a similar lung protective reduction of tidal volumes as already described for low flow ECCO2R devices in addition to simultaneous correction of metabolic acidosis. The former remains speculative, since in our case an actual reduction of the driving pressures was not possible due to progressive disease. In contrast to these systems, ADVOS does not use a sweep gas flow and operates solely based on dialysis with an “intelligent” dialysate. The explanation for CO2 removal and acidosis correction relays on the removal of H+ and HCO3− according to equation (1).
+
+(1) H2CO3↔CO2+H2O↔HCO3−+H+
+
+As explained in the proof of concept experiments,9 a high dialysate pH, provides a substantial reduction of the blood H+ concentration. In this way, CO2 will be reduced and HCO3− will be generated, whose increase can be counterbalanced using a low bicarbonate dialysate. This is only possible, if albumin is added to the dialysate.29 A physicochemical explanation based on the Stewart model is also provided in de Garibay et al.9
+
+However, it deserves mentioning that data on pharmacokinetics of anti-microbial substances during ADVOS treatment is scarce. We did not detect evidence for anti-microbial-drug side effects, that is, for Linezolid. Still, we could not perform therapeutic drug monitoring for Meropenem and Linezolid. Thus, doses were adjusted according to continuous renal replacement therapy kinetics. Future studies should provide additional data on antimicrobial agent clearance when using ADVOS.
+
+Conclusion
+
+Irrespective of this outcome we conclude that extracorporeal CO2 removal and multiorgan-support were feasible in this COVID-19 patient. Combined and less invasive approaches such as ADVOS might be a treatment option in predominantly old-age-COVID-19 patients with MOF and with contra-indications to ECMO.
+
+Supplemental Material
+
+20200527_Supplement_FigureNtable_fin_R2 – Supplemental material for Extracorporeal multiorgan support including CO2-removal with the ADVanced Organ Support (ADVOS) system for COVID-19: A case report
+
+Click here for additional data file.
+
+Supplemental material, 20200527_Supplement_FigureNtable_fin_R2 for Extracorporeal multiorgan support including CO2-removal with the ADVanced Organ Support (ADVOS) system for COVID-19: A case report by Wolfgang Huber, Georg Lorenz, Markus Heilmaier, Katrin Böttcher, Philipp Sahm, Moritz Middelhoff, Barbara Ritzer, Dominik Schulz, Elias Bekka, Felix Hesse, Alexander Poszler, Fabian Geisler, Christoph Spinner, Roland M Schmid and Tobias Lahmer in The International Journal of Artificial Organs
+
+Authors’ contributions: All authors are accountable for all aspects of the work, and all authors read and approved the final manuscript.
+
+Availability of data and materials: The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.
+
+Declaration of conflicting interests: The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: Wolfgang Huber was member of the Medical Advisory Board of Pulsion Medical systems SE (Getinge Group). Wolfgang Huber received speaker’s fees and travel reimbursement by ADVITOS GmbH.
+
+Ethics approval and consent to participate: The patient’s relatives and legal representative gave informed consent regarding analysis and publication of this case report in accordance with the patient’s presumed will. A case specific ethics vote was not necessary and was not sought.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Consent for publication: Consent for publication was given by the patient’s legal representative.
+
+ORCID iDs: Wolfgang Huber https://orcid.org/0000-0001-9086-7908
+
+Dominik Schulz https://orcid.org/0000-0002-7134-5706
+
+Elias Bekka https://orcid.org/0000-0001-9958-7769
+
+Fabian Geisler https://orcid.org/0000-0003-1545-485X
+
+Christoph Spinner https://orcid.org/0000-0002-3875-5367
+
+Supplemental material: Supplemental material for this article is available online.

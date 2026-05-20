@@ -1,0 +1,56 @@
+20-year-old male|0
+non-smoker|0
+occupational smoke exposure|-2160
+fever of up to 39.5°C|-336
+productive cough|-336
+night sweats|-336
+malaise|-336
+myalgia|-336
+treated with roxithromycin|-168
+no clinical response|-168
+arrived at the emergency department|0
+temperature 38.4°C|0
+blood pressure 130/70 mmHg|0
+pulse 88 bpm|0
+oxygen saturation 97% in room air|0
+dyspnoea|0
+tachypnoea|0
+bronchial breathing sounds|0
+crackles over the right lung|0
+white blood cells 11.54×10³/μl|0
+eosinophils 92×10⁴/μl|0
+haemoglobin 13.7 g/dl|0
+creatinine 1.1 mg/dl|0
+C-reactive protein 11 mg/dl|0
+elevated liver enzymes: ALP 524, GGT 320, ALT 406, AST 137|0
+abdominal ultrasound normal|0
+blood and sputum cultures negative|0
+urine Legionella antigen test negative|0
+chest radiograph demonstrated infiltrates involving most of the right lung|0
+treatment with intravenous cefuroxime initiated|0
+persistent high-grade fever (up to 40°C)|48
+antibiotic treatment changed to moxifloxacin|48
+blood cultures still sterile|48
+respiratory distress|96
+fever persisted|96
+oxygen saturation dropped to 88%|96
+arterial blood gas disclosed PaO₂ 67 mmHg|96
+C-reactive protein increased to 14 mg/dl|96
+leucocytosis increased to 12.8×10³/μl|96
+eosinophil count increased to 1.33×10³ cells/μl|96
+elevated liver enzymes persisted|96
+follow-up chest radiogram demonstrated progression to diffuse bilateral infiltrates|96
+respiratory distress worsened|120
+patient intubated|120
+mechanically ventilated|120
+transferred to intensive care unit|120
+broncho-alveolar lavage demonstrated 30% eosinophils|144
+diagnosis of acute eosinophilic pneumonia|144
+intravenous glucocorticoids administered|144
+recovery occurred within hours|150
+resolution of fever|150
+successful extubation within 24 h|168
+chest radiogram revealed considerable regression of bilateral infiltrates|168
+eosinophil count dropped to 260 cells/μl|168
+patient discharged 2 days later|192
+discharged on oral prednisone, 60 mg/day with tapering over 3 months|192

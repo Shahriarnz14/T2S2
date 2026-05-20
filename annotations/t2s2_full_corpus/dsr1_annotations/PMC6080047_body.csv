@@ -1,0 +1,64 @@
+event,time
+18 years old,0
+male,0
+shortness of breath,-8
+severe right-sided chest pain,-8
+fever,-336
+sore throat,-336
+dysphagia,-336
+fatigue,-336
+admitted to hospital,-144
+presumed tonsillitis,-144
+discharged after 24 h observation,-120
+Penicillin V,-144
+EBV specific antibodies detected (IgM and IgG),-144
+severe discomfort,0
+right chest pain,0
+tenderness,0
+dyspnoeic,0
+respiratory rate 30 breaths per minute,0
+peripheral oxygen saturations 94%,0
+temperature 37.4°C,0
+pulse rate 120 beats per minute,0
+blood pressure 100/70 mmHg,0
+bilateral symmetrical tonsillar swelling,0
+white exudate,0
+bilateral cervical lymphadenopathy,0
+leucocytosis (11.8 × 109/l),0
+atypical lymphocytes,0
+elevated C-reactive protein (346 mg/l),0
+elevated alkaline phosphatase (147 IU/l),0
+elevated alanine aminotransferase (76 IU/l),0
+computed tomography of thorax and neck,0
+extensive pneumomediastinum,0
+mediastinal fat stranding,0
+pockets of fluid in anterior mediastinum,0
+small right pleural effusion,0
+inflammatory consolidation in right lung,0
+reactive lymph nodes,0
+splenomegaly,0
+enlarged lymphoid tissue in posterior nasopharynx,0
+no oesophageal perforation,0
+no peritonsillar abscess,0
+no retropharyngeal abscess,0
+IV opioid analgesia,0
+fluid resuscitation,0
+amoxicillin,0
+clavulanic acid,0
+cardiothoracic surgery consultation,0
+deterioration with increased chest pain,4
+worsening physiology,4
+antibiotics changed to IV Piperacillin,4
+tazobactam,4
+clindamycin,4
+video-assisted thoracoscopic surgery,4
+drainage and decortication of right pleural empyema,4
+drainage of multiple mediastinal abscesses,4
+debridement of mediastinal necrotic tissue,4
+insertion of right-sided intercostal drain,4
+Fusobacterium necrophorum detected,4
+Dialister pneumosintes detected,4
+Peptostreptococcus anaerobius detected,4
+admitted to intensive care unit,4
+supportive care,4
+discharged home,528

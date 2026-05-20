@@ -1,0 +1,44 @@
+event,time
+72-year-old,0
+female,0
+admitted to emergency department,0
+dyspnea,0
+history of asthma,0
+history of congestive heart failure,0
+normal abdominal examination,0
+no abdominal distension,0
+obscured costophrenic sinuses on chest radiograph,0
+no free air under diaphragm,0
+normal standing direct abdominal X-ray,0
+admitted to intensive care unit,0
+respiratory failure,0
+asthma attack,0
+hypoxemia,4
+hypotension,4
+intubation,4
+abdominal distension,4
+accidental esophageal intubation,4
+orotracheal intubation,4
+nasogastric tube insertion,4
+decompression of abdominal distension,4
+peritonitis,4
+hemorrhagic fluid from nasogastric tube,4
+general surgery consultation,4
+excessive abdominal distension,4
+active hemorrhage from nasogastric tube,4
+intra-abdominal massive free air on CT,4
+emergency laparotomy,4
+2 cm perforation on lesser curvature of stomach,4
+active arterial bleeding,4
+perforation repair with 2/0 silk sutures,4
+Roseo-Graham omental patch,4
+bleeding cessation,4
+no mass at perforation site,4
+no ulcer at perforation site,4
+surgical drain placement,4
+methylene blue test,72
+drain removal,72
+transferred to ward,840
+discharged,840
+no acute complications,840
+written informed consent,0

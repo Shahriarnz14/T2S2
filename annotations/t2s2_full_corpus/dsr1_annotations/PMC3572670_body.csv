@@ -1,0 +1,91 @@
+event,time
+60 years old,0
+woman,0
+tablet-treated diabetes mellitus,0
+fever,0
+pain in the throat,0
+skin rash,0
+high CRP,-24
+high sedimentation rate,-24
+antibiotics,-24
+fever persisted,0
+admitted to hospital,0
+high P-CRP,0
+high B-leukocytes,0
+intravenous antibiotic with cefotaxime,0
+low systolic blood pressure,24
+confusion,24
+intensive skin rash on arms,24
+intensive skin rash on legs,24
+intensive skin rash on chest/abdomen,24
+admitted to intensive care unit,24
+"high ferritin (145,000 µg/L)",24
+suspected Still's disease,24
+disseminated intravascular coagulation,48
+high PK-INR,48
+high APT,48
+elevated fibrin D-dimers,48
+low fibrinogen,48
+high CRP (237 mg/L),48
+high blood sedimentation rate (110 mm/h),48
+anemia (89 g/L),48
+thrombocytopenia (70 × 109/L),48
+leukopenia (3.1 × 109/L),48
+procalcitonin 35 µg/L,48
+antibiotic changed to meropenem,48
+antibiotic changed to gensumycin,48
+antibiotic changed to fluconazole,48
+no significant improvement,72
+high triglycerides,96
+"soluble CD25R >2,400 kU/L",96
+five of eight HLH criteria met,96
+HLH diagnosis confirmed,96
+bone-marrow biopsy slight maturity alterations,120
+no lymphoma,120
+no malignancies,120
+skin biopsy non-specific inflammation,120
+no vasculitis,120
+no necroses,120
+no granulomas,120
+FDG PET/CT scan bilateral lymph node uptake,144
+negative parvovirus B19 antibodies,168
+negative HIV,168
+negative HHV6,168
+negative HHV8,168
+negative influenza A/B,168
+negative adenovirus,168
+negative coronavirus,168
+negative RSV A/B,168
+negative rhinovirus,168
+negative parainfluenza 1-3,168
+elevated HSV IgG,168
+elevated VZV IgG,168
+negative HSV IgM,168
+negative VZV IgM,168
+previous EBV infection (EBNA IgG),168
+"EBV load 2,400 copies/mL",168
+negative EBV IgG 7 days later,168
+no bacterial infection,168
+no fungal infection,168
+X-linked proliferative syndrome improbable,168
+familiar HLH unlikely,168
+no morbus Still,168
+no rheumatologic disease,168
+no malignancy,168
+steroids started (prednisolone 60 mg),168
+dexamethasone 16.5 mg,168
+steroid therapy duration 3 months 17 days,168
+no etoposide,168
+no cyclosporine,168
+clinical improvement after 2 weeks,336
+fever disappeared,336
+blood pressure improved,336
+general condition improved,336
+skin rash decreased,336
+hemoglobin increased (89 to 126 g/L),168
+platelets increased (70 to 188 × 109/L),168
+"ferritin decreased (145,000 to 18,000 µg/L)",336
+intense fatigue,336
+admitted to rehabilitation unit,504
+normalized ferritin,1008
+no HLH activation,1008

@@ -1,0 +1,78 @@
+event,time
+35-year-old male,0\
+autosomal dominant polycystic kidney disease,0\
+end-stage renal failure,0\
+kidney transplantation,0\
+bilateral polycystic kidneys,0\
+methylprednisolone,0\
+basiliximab,0\
+rabbit anti-human thymocyte immunoglobulin (ATG),0\
+delayed graft function,0\
+tacrolimus,0\
+mycophenolate mofetil,0\
+prednisone,0\
+hemodialysis,0\
+Corynebacterium detected in donor kidney preservation solution,-240\
+ceftazidime,-240\
+trimethoprim/sulfamethoxazole,-240\
+discharged,0\
+low fever (37.9°C),1008\
+light hematuria,1008\
+frequent urination,1008\
+urgent urination,1008\
+painful urination,1008\
+white blood cell count 17.46×10⁹/L,1008\
+hemoglobin 95 g/L,1008\
+C-reactive protein 231.06 mg/L,1008\
+serum creatinine 196.1 µmol/L,1008\
+prothrombin time 15.40 s,1008\
+blood pressure 87/64 mmHg,1008\
+partial intracapsular hemorrhage in polycystic kidneys,1008\
+septic shock,1008\
+disseminated intravascular coagulation,1008\
+intracapsular hemorrhage with infection,1008\
+mycophenolate withdrawal,1008\
+tacrolimus replaced by cyclosporin,1008\
+meropenem,1008\
+Corynebacterium in blood,1056\
+Enterococcus faecium in urine,1056\
+Pseudomonas putida in urine,1056\
+linezolid,1056\
+ultrasound (no findings),1152\
+tacrolimus resumed,1152\
+cyclosporin discontinued,1152\
+troponin T increased,0\
+atrial natriuretic peptide increased,0\
+chest pain,1152\
+dyspnea,1152\
+unable to lie supine,1152\
+sinus tachycardia,1152\
+premature ventricular beats,1152\
+acute anuria,1152\
+serum creatinine 346 µmol/L,1152\
+multiple thromboses in right external iliac artery,1152\
+continuous renal replacement therapy,1152\
+vancomycin,1152\
+persistent angina pectoris,1176\
+chest tightness,1176\
+no sweating,1176\
+myocardial enzymes increased,1176\
+cardiac murmur (grade 3/6 diastolic),1176\
+echocardiography (mitral valve vegetation),1176\
+moderate-to-severe mitral regurgitation,1176\
+mild-to-moderate tricuspid regurgitation,1176\
+chest tightness worsened,1200\
+myocardial enzymes increased,1200\
+non-ST segment elevation myocardial infarction,1200\
+fraxiparin,1200\
+cough with bloody sputum,1320\
+fraxiparin discontinued,1320\
+"scheduled surgery (mitral valve replacement, vegetative resection)",1464\
+cardiac arrest,1464\
+ventricular fibrillation,1464\
+external chest compression,1464\
+electric defibrillation,1464\
+endotracheal intubation,1464\
+mitral valve replacement,1464\
+vegetative resection,1464\
+died,1752

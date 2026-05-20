@@ -1,0 +1,67 @@
+event,time
+40-year-old,0
+female,0
+visited the emergency department,0
+fever,-72
+minor headache,-72
+abdominal pain,-72
+postpartum care center,-504
+cesarean section,-504
+front of neck swollen,-264
+needle aspiration,-264
+thyroid gland no specific findings,-264
+denied family history of malignant tumors,0
+body temperature 40.6 ℃,0
+blood pressure 100/48 mmHg,0
+heart rate 100 bpm,0
+respiratory rate 18 breaths/min,0
+no neck stiffness,0
+no tonsil hypertrophy,0
+no abdominal tenderness,0
+no abnormal breath sounds,0
+no costal spine angle tenderness,0
+no signs of infection at abdominal surgery site,0
+no signs of infection at thyroid aspiration site,0
+colposcopy performed,0
+no endometritis,0
+bicytopenia,0
+hemoglobin 14.0 g/dL,0
+platelets 133000/μL,0
+absolute neutrophil count 2512/μL,0
+total bilirubin 0.3 mg/dL,0
+AST 65 U/L,0
+ALT 35 U/L,0
+T3 65.1 ng/dL,0
+free T4 0.88 ng/dL,0
+urinalysis one white blood cell/high-powered field,0
+CRP 4.46 mg/dL,0
+chest radiograph normal,0
+abdominal CT normal,0
+antipyretic administered,0
+fever subsided,0
+discharged with antibiotics,96
+returned to ED,192
+fever 38 ℃,192
+blood pressure 60/30 mmHg,192
+thrombocytopenia,192
+platelets 94000/μL,192
+total bilirubin 3.1 mg/dL,192
+AST 202 U/L,192
+ALT 444 U/L,192
+blood urea nitrogen 42.1 mg/dL,192
+creatinine 3.35 mg/dL,192
+ferritin 3429.0 μg/L,192
+triglycerides 957 mg/dL,192
+admitted to ICU,192
+treated with broad-spectrum antibiotics,192
+treated with steroids,192
+no high-dose steroid regimen,192
+bone marrow biopsy pending,192
+thrombocytopenia worsened,216
+serum ferritin increased,216
+condition rapidly deteriorated,216
+died,216
+disseminated intravascular coagulation,216
+hematochezia,216
+HLH confirmed postmortem,216
+etiology unclear,216

@@ -1,0 +1,50 @@
+event,time
+57 years old,0
+male,0
+admitted to the hospital,0
+industrial accident,-14400
+C2 vertebral body fracture,-14400
+high cervical spinal cord injury at C3 level,-14400
+no key muscle activity in all extremities,0
+last intact sensory level C3 dermatome,0
+deep anal pressure,0
+no voluntary anal contraction,0
+classified as C3 AIS B,0
+pulmonary function test,-10800
+tidal volume 220 mL,-10800
+vital capacity 800 mL,-10800
+peak cough flow 130 L/min,-10800
+continuous hypercapnia (PaCO2 over 45 mmHg),-10800
+diaphragm fluoroscopy decreased length,-10800
+portable ventilator with volume controlled assisted ventilation,-10800
+respiratory function improved,-10800
+"pulmonary rehabilitation (air stacking exercise, sputum expectoration, accessory muscle training)",-10800
+readmitted to intensive care unit,-8760
+septic shock,-8760
+urinary tract infection,-8760
+tracheostomy,-8760
+pulmonary rehabilitation program,-8760
+tracheostomy tube removed,-8760
+total weaning not achieved,-8760
+respiratory insufficiency,-8760
+sleep apnea,-8760
+aging,-8760
+intermittent NIV with pressure support ventilation during night,-8760
+hypercapnia,-8760
+nasal mask application,-8760
+mouth opening during sleep,-8760
+full face mask application,-8760
+oral air leak reduction,-8760
+inability to remove mask,-8760
+voice blockage,-8760
+fear,-8760
+novel alarm system designed,-8760
+microcontroller board (Arduino UNO),-8760
+pressure transducer with endotracheal tube,-8760
+neck rotation motion detection,-8760
+pressure sensor threshold 10 cm H2O,-8760
+single beep sound for patient,-8760
+loud alarm sound for nurse/caregiver,-8760
+adapted to full face mask,0
+discharged home,24
+no complications,24

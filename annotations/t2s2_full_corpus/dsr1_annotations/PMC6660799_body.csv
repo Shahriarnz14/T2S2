@@ -1,0 +1,59 @@
+event,time
+60 years old,0
+woman,0
+presented for elective percutaneous nephrolithotomy,0
+right-sided staghorn calculus,0
+pre-diabetes,0
+chronic obstructive pulmonary disease,0
+morbid obesity,0
+BMI 42,0
+obstructive sleep apnea,0
+heart failure with preserved ejection fraction,0
+febrile (39.2°C),24
+tachycardic (120–140 beats per minute),24
+leukocytosis (17.6 x 10⁹/L),24
+started empirically on vancomycin,24
+started empirically on piperacillin/tazobactam,24
+ultimately meropenem,24
+presumed urosepsis,24
+respiratory distress,48
+hypoxemia refractory to non-invasive positive pressure ventilation,48
+endotracheal intubation,48
+lung protective ventilation,48
+chest X-ray,48
+CT angiogram,48
+bilateral pulmonary ground glass opacities,48
+infectious process,48
+acute respiratory distress syndrome (ARDS),48
+pulmonary edema,48
+no evidence of pulmonary embolism,48
+transthoracic echocardiogram revealed normal ejection fraction,48
+ventricular size normal,48
+early paralysis for ventilator desynchrony,48
+refractory hypoxemia,48
+paralysis performed for 48 hours starting on POD2,48
+bronchoalveolar lavage samples negative for infectious pathogens,144
+nasopharyngeal swab obtained,144
+rhinovirus pneumonia diagnosed,144
+antibiotics discontinued,144
+no antivirals administered,144
+time elapsed since symptom onset,144
+continued requirement for higher airway pressures,144
+PIP 45,144
+PEEP 10,144
+FiO2 0.5,144
+PaO2 to FiO2 ratio of 110,144
+moderate to severe ARDS,144
+transitioned from LPV to APRV,144
+mechanical ventilation settings adjusted,144
+PHigh corresponding to plateau pressure,144
+PLow 0 cmH2O,144
+titration of expiratory duration,144
+titration of release time,144
+ventilator settings adjusted to TLow,144
+peak expiratory flow rate 50%,144
+weaned to extubation,216
+APRV discontinued,216
+drop and stretch method used,216
+continued diuresis,216
+discharged home,312

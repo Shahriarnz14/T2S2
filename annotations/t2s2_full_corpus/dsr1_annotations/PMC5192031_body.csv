@@ -1,0 +1,153 @@
+event,time
+76-year-old,0
+female,0
+admitted to the hospital,0
+hypertension,-262800 (30 years prior)
+type II diabetes mellitus,-210240 (24 years prior)
+coronary heart disease,-131400 (15 years prior)
+myocardial infarction,-131400 (15 years prior)
+senile dementia,"0 (no specific time, present on admission)"
+open cholecystectomy,-306600 (35 years prior)
+abdominal wall hernia repairs (five occasions),0 (history present on admission)
+morbid obesity,0
+BMI 37.8 kg/m²,0
+no regular alcohol consumption,0
+no smoking,0
+progressive abdominal pain,-120 (5 days prior to admission)
+weak general condition,0
+status febrilis,0
+septico-toxic shock,0
+acute abdomen,0
+recurrent incarcerated eventrated abdominal wall hernia,0
+eventrated hernia (handball-sized),0
+local defense musculaire,0
+abdominal ultrasonography,0
+laboratory tests,0
+chest X-ray,0
+native abdominal X-ray,0
+central venous access,0
+epidural cannulation,0
+intravesical catheter insertion,0
+urgent right upper transverse laparotomy,0
+local feculent peritonitis,0
+subcutaneous inflammatory edema,0
+incarcerated perforated ascending colon,0
+perforated terminal ileum,0
+extended right hemicolectomy,0
+resection of 60 cm terminal ileum,0
+side-to-side ileo-transversostomy,0
+necrectomy,0
+223 cm² abdominal gap,0
+biological graft unavailable,0
+synthetic mesh not implanted,0
+double-layer dermal grafts reconstruction,0
+epidermis removed from pannicule,0
+subcutaneous adipose tissue removed,0
+first dermal graft inserted (inner layer),0
+external dermal graft fixed (outer layer),0
+greater omentum spared,0
+no direct abdominal sutures,0
+surgery duration 250 minutes,0
+preparation of grafts 50 minutes,0
+intraoperative blood loss 740 mL,0
+intensive care (first 4 postoperative days),24 (post-op day 1 start)
+imipenem/cilastatin started,0
+enoxaparin started (6 hours post-op),6
+fever ceased,96 (post-op day 4)
+bowel movement restarted (Mannitol),120 (post-op day 5)
+red blood cell transfusions (5 units),24-120 (post-op days 1-5)
+nasogastric tube (3 days),0-72
+O2 saturation 92-95%,0
+urine production >1600 mL/day,0
+oral nourishment started,120 (post-op day 5)
+mobilization started,120 (post-op day 5)
+elastic abdominal belt applied,120
+intra-abdominal drain removed,144 (post-op day 6)
+left subcutaneous drain removed,168 (post-op day 7)
+right subcutaneous drain removed,240 (post-op day 10)
+skin sutures removed,360 (post-op day 15)
+no seroma,0
+discharged,432 (post-op day 18)
+enoxaparin prescribed for 21 days,432
+wound healing per primam,432
+"follow-up exams (1st, 3rd month)",720-2160
+abdominal CT (6th month),4320
+no hernia recurrence,4320
+no subcutaneous fistula,4320
+no seroma formation,4320
+76-year-old,0
+female,0
+admitted to the hospital,0
+hypertension,-262800
+type II diabetes mellitus,-210240
+coronary heart disease,-131400
+myocardial infarction,-131400
+senile dementia,0
+open cholecystectomy,-306600
+abdominal wall hernia repairs,0
+morbid obesity,0
+BMI 37.8 kg/m²,0
+no regular alcohol consumption,0
+no smoking,0
+progressive abdominal pain,-120
+weak general condition,0
+status febrilis,0
+septico-toxic shock,0
+acute abdomen,0
+recurrent incarcerated eventrated abdominal wall hernia,0
+eventrated hernia,0
+local defense musculaire,0
+abdominal ultrasonography,0
+laboratory tests,0
+chest X-ray,0
+native abdominal X-ray,0
+central venous access,0
+epidural cannulation,0
+intravesical catheter insertion,0
+urgent right upper transverse laparotomy,0
+local feculent peritonitis,0
+subcutaneous inflammatory edema,0
+incarcerated perforated ascending colon,0
+perforated terminal ileum,0
+extended right hemicolectomy,0
+resection of terminal ileum,0
+side-to-side ileo-transversostomy,0
+necrectomy,0
+223 cm² abdominal gap,0
+biological graft unavailable,0
+synthetic mesh not implanted,0
+double-layer dermal grafts reconstruction,0
+epidermis removed,0
+subcutaneous adipose tissue removed,0
+first dermal graft inserted,0
+external dermal graft fixed,0
+greater omentum spared,0
+no direct abdominal sutures,0
+surgery duration 250 minutes,0
+preparation of grafts 50 minutes,0
+intraoperative blood loss 740 mL,0
+intensive care,24
+imipenem/cilastatin started,0
+enoxaparin started,6
+fever ceased,96
+bowel movement restarted,120
+red blood cell transfusions,24
+nasogastric tube,0
+O2 saturation 92-95%,0
+urine production >1600 mL/day,0
+oral nourishment started,120
+mobilization started,120
+elastic abdominal belt applied,120
+intra-abdominal drain removed,144
+left subcutaneous drain removed,168
+right subcutaneous drain removed,240
+skin sutures removed,360
+no seroma,0
+discharged,432
+enoxaparin prescribed,432
+wound healing per primam,432
+follow-up exams,720
+abdominal CT,4320
+no hernia recurrence,4320
+no subcutaneous fistula,4320
+no seroma formation,4320

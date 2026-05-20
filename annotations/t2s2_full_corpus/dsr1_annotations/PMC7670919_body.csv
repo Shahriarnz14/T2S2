@@ -1,0 +1,85 @@
+event,time
+45-year-old,0
+Asian,0
+male,0
+admitted to emergency department,0
+fever,-144
+cough,-144
+dyspnoea,-144
+diarrhoea,-144
+vomiting,-144
+abdominal pain,-144
+height 1.68 m,0
+weight 75 kg,0
+BMI 24.1 kg/m²,0
+bilateral crackles on lung bases,0
+epigastric pain,0
+abdominal wall rigidity,0
+guarding,0
+SpO2 82%,0
+heart rate 109 bpm,0
+blood pressure 89/47 mmHg,0
+intubated,0
+mechanically ventilated,0
+resuscitated with noradrenaline,0
+resuscitated with crystalloid fluids,0
+SARS-CoV-2 positive,0
+leukocytosis 20×10³,0
+lymphocytopenia 0.47×10³/L,0
+CRP 99 mg/L,0
+LDH 997 U/L,0
+lactate 6 mmol/L,0
+d-dimers 4.1 μg/mL,0
+blood urea nitrogen 6.1 mmol/L,0
+creatinine 119 μmol/L,0
+chest CT bilateral ground-glass opacities,0
+chest CT pulmonary embolism,0
+abdominal CT thickened bowel wall,0
+abdominal CT portal vein thrombosis,0
+no intestinal perforation on CT,0
+negative lower limb DVT,0
+exploratory laparotomy,0
+small intestinal perforation,0
+peritonitis,0
+jejunum resection,0
+epithelial necrosis,0
+haemorrhagic infarction,0
+neutrophilic inflammation,0
+fibrin deposition,0
+admitted to ICU,0
+ribavirin 400 mg,0
+meropenem 0.5 g,0
+vancomycin 15 mg/kg,0
+enoxaparin 75 mg,0
+ARDS-net ventilation,0
+hydrocortisone,0
+vasopressors,0
+acute kidney injury,0
+blood urea nitrogen 7.9 mmol/L,24
+creatinine 309 μmol/L,24
+metabolic acidosis,24
+hyperkalaemia,24
+anuric,24
+shock,24
+CRRT initiated,24
+CytoSorb filter,24
+transfusion 2 packs RBC,24
+diuresis initiated,72
+vasopressors discontinued,72
+lactate normalized,72
+inflammatory biomarkers normalized,72
+CRRT discontinued,72
+no bleeding episodes,72
+PaO2/FiO2 >300,144
+extubated,168
+renal function normalized,336
+antibiotics discontinued,336
+enoxaparin discontinued,816
+RT-PCR negative,456
+lupus anticoagulant negative,456
+antiphospholipid antibodies negative,456
+ANCA negative,456
+thrombophilia screening negative,456
+cultures negative,576
+discharged,816
+rivaroxaban prescribed,816

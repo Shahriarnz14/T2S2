@@ -1,0 +1,113 @@
+event,time
+57 years old,0
+male,0
+hyperlipidemia,0
+chronic tobacco use,0
+bilateral foot pain,0
+blue discoloration of lower extremities,0
+coolness of lower extremities,0
+denied trauma to lower extremities,0
+denied acute back injury,0
+ate abnormal tasting prosciutto,-48
+concerned about salmonella infection,-48
+fever,-48
+fatigue,-48
+abdominal discomfort,-48
+nonbloody diarrhea (5 episodes),-48
+loss of appetite,-48
+bitten by domesticated dog (left index finger),-168
+not vaccinated for SARS-CoV-2,0
+asymptomatic for SARS-CoV-2,0
+manager of a restaurant,0
+afebrile,0
+blood pressure 93/54 mm Hg,0
+heart rate 85 beats/min,0
+respiration 16 breaths/min,0
+saturation 98% on ambient air,0
+regular heart rhythm,0
+no jugular venous distention,0
+clear breath sounds,0
+left finger lesion with surrounding erythema and discoloration,0
+lower extremities slightly cyanotic,0
+palpable pulses in lower extremities,0
+lower extremities extremely sensitive to touch,0
+white blood cell count 18.8 × 10³/µL,0
+neutrophilic bands 40.8%,0
+hemoglobin 17.1 gm/dL,0
+no helmet cells,0
+platelets 72 × 10³/µL,0
+ESR 28 mm/hr,0
+CRP 42 mg/dL,0
+sodium 130 mmol/L,0
+carbon dioxide 21 mmol/L,0
+BUN 47 mg/dL,0
+creatinine 3.41 mg/dL,0
+AST 502 IU/L,0
+ALT 257 IU/L,0
+alkaline phosphatase 136 IU/L,0
+NT-Pro-BNP 5846 pg/mL,0
+troponin 26.2 ng/dL,0
+CK 1246 IU/L,0
+PT 12.4 seconds,0
+INR 1.08,0
+PTT 43 seconds,0
+fibrinogen 380 mg/dL,0
+D-dimer >128 mg/dL,0
+SARS-CoV-2 PCR negative (multiple),0
+urinalysis negative for infection,0
+blood culture initially positive for gram-negative rods,0
+blood culture later no organisms shown,0
+initial ECG ST-segment elevation in inferior leads,0
+repeat ECG (20 minutes later) persistent inferior STEMI,0.33
+borderline ST elevation in lead I,0.33
+chest discomfort,0.33
+cardiac catheterization: diffuse mild luminal irregularities,0.5
+no focal stenosis or occlusion,0.5
+left ventricular end-diastolic pressure elevated (25 mm Hg),0.5
+transthoracic echocardiography LVEF 30%,1
+diffuse hypokinesis,1
+grade I diastolic dysfunction,1
+low-dose norepinephrine support,1
+CT chest/abdomen: bilateral peripheral septal thickening,2
+no pulmonary emboli,2
+no lymphadenopathy,2
+MRI brain: small acute punctate infarct left parietal lobe,2
+bilateral lower extremity arterial Doppler: no stenosis/occlusion,2
+ankle/brachial indices normal,2
+IV methylprednisolone,0
+heparin infusion,0
+cefepime,0
+doxycycline,0
+gabapentin,0
+morphine,0
+ANA negative,1
+RNP negative,1
+scleroderma antibodies negative,1
+anti-Smith negative,1
+SSA/B antibodies negative,1
+stool cultures negative,1
+syphilis serology negative,1
+Lyme serology negative,1
+diphtheria serology negative,1
+viral hepatitis serology negative,1
+parvovirus serology negative,1
+mycoplasma pneumoniae IgG positive,1
+EBV capsid IgG positive,1
+EBV nuclear antigen IgG positive,1
+toxoplasma IgG positive,1
+coxsackievirus IgG positive,1
+influenza A/B IgG positive,1
+troponin peak 119 ng/mL,13
+ECG sinus rhythm with worsening ST elevation,13
+platelet count nadir 28 × 10³/µL,48
+evaluation for HIT,48
+evaluation for ITP,48
+evaluation for HUS,48
+evaluation for TTP,48
+bluish discoloration of toes,48
+IVIG,48
+argatroban,48
+platelet count recovery,144
+repeat TTE LVEF 45%,144
+repeat ECG ST-segment normalization,144
+incomplete RBBB,144

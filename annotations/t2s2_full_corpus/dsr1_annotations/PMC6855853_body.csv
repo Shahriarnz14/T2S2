@@ -1,0 +1,131 @@
+event,time
+40 years old,0\
+male,0\
+Colombian,0\
+living in Switzerland for 11 years,0\
+working as a railway manufacturer,0\
+admitted to the emergency department,0\
+1-week history of persistent frontal headache,-168\
+generalized throbbing headache,-168\
+progressive worsening of symptoms,-168\
+taking over-the-counter painkillers (paracetamol and NSAID),-168\
+chronic lower back pain due to lumbar disc herniation,-168\
+sometimes takes NSAID,-168\
+rarely suffers from headaches,-168\
+no history of migraine,0\
+1-month trip to Colombia 6 months earlier,-4320\
+no symptoms during trip,-4320\
+no bathing in fresh water during trip,-4320\
+no unpasteurized dairy products consumption,-4320\
+"no known exposure to cattle, rodents, or tick bites",0\
+no known contact with tuberculosis-infected people,0\
+vaccinated for yellow fever,0\
+unknown full vaccination plan,0\
+no abnormality on neurological examination,0\
+no abnormality on laboratory work-up,0\
+NSAIDs suspended,0\
+opioid analgesics administered,0\
+quick pain relief,0\
+discharged,0\
+diagnosis of tension-type headache,0\
+paracetamol prescribed,0\
+ibuprofen prescribed,0\
+tramadol prescribed,0\
+reappearance of pulsatile fronto-parietal headache,24\
+fever sensation,24\
+episode of diarrhea,24\
+temperature 38.1°C,24\
+no specific neurological findings,24\
+lumbar puncture performed,24\
+neutrophilic meningitis,24\
+elevated CSF protein levels,24\
+hypoglycorrhachia,24\
+empirical treatment with dexamethasone,24\
+empirical treatment with ceftriaxone,24\
+negative CSF bacterial culture,48\
+negative multiplex PCR for infectious aetiologies,48\
+contrast-enhanced computed brain tomography showed no anomaly,48\
+empirical treatment discontinued,48\
+ibuprofen replaced by morphine,48\
+rapid pain relief,48\
+discharged,48\
+aseptic meningitis of suspected viral aetiology,48\
+paracetamol prescribed,48\
+ibuprofen prescribed,48\
+tramadol prescribed,48\
+recurrent headaches,72\
+fever,72\
+gradual deterioration of general condition,72\
+neck pain,72\
+photophobia,72\
+phonophobia,72\
+loss of appetite,72\
+fatigue,72\
+temperature 38.6°C,72\
+normal respiratory rate,72\
+normal pulse,72\
+normal blood pressure,72\
+slight psychomotor deceleration,72\
+neck stiffness,72\
+no other neurological abnormality,72\
+hospitalized,72\
+second lumbar puncture,96\
+lymphocytic predominance (78%),96\
+high CSF protein levels,96\
+slightly lower blood glucose,96\
+empirical treatment with acyclovir,96\
+empirical treatment with amoxicillin,96\
+empirical treatment with ceftriaxone,96\
+negative CSF culture,144\
+negative multiplex PCR,144\
+negative eubacterial PCR,144\
+negative panfungal PCR,144\
+positive TB-Spot,144\
+negative CSF acid-fast bacilli,144\
+negative CSF PCR for Mycobacterium tuberculosis,144\
+sterile CSF mycobacterial culture,144\
+negative HIV test,144\
+negative syphilis screening,144\
+weakly positive tick-borne encephalitis IgG,144\
+positive Borrelia burgdorferi IgM,144\
+negative Borrelia burgdorferi IgG,144\
+negative CSF PCR for B. burgdorferi,144\
+negative LCMV serology,144\
+negative West Nile virus serology,144\
+negative Toscana virus serology,144\
+mumps IgG serology compatible with past immunization,144\
+aseptic meningitis diagnosis,144\
+CSF pleocytosis with lymphocytic predominance,96\
+polymorphonuclear to lymphocytic predominance evolution,96\
+low suspicion for neuroborreliosis,144\
+low suspicion for meningeal tuberculosis,144\
+low suspicion for leptospirosis,144\
+"low suspicion for enteroviruses, HSV, VZV",144\
+low suspicion for HIV,144\
+low suspicion for mumps,144\
+low suspicion for tick-borne encephalitis,144\
+low suspicion for invasive fungal infection,144\
+low suspicion for endemic mycoses,144\
+fever persisted,96\
+headache persisted,96\
+paracetamol administered,96\
+ibuprofen administered,96\
+morphine administered,96\
+anti-infective therapies discontinued,96\
+temporal relationship between ibuprofen and symptom worsening,96\
+suspected ibuprofen-induced meningitis,96\
+ibuprofen discontinued,96\
+symptoms of meningeal syndrome for 8 days,96\
+fever waning after 2 days,144\
+complete resolution of symptoms after 6 days,240\
+no headache recurrence at 9 months,6480\
+no neurological sequela at 9 months,6480\
+assumed DRESS syndrome,0\
+symptoms resolved after ibuprofen discontinuation,240\
+negative auto-immune disease workup,240\
+no recurrence on NSAID avoidance,6480\
+rapid recovery after drug discontinuation,240\
+benign clinical course,240\
+avoidance of all NSAIDs recommended,240\
+possible cross-reactivity among NSAIDs,240\
+drug challenge declined,240\

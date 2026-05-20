@@ -1,0 +1,195 @@
+event,time
+51-year-old male,0
+non-smoker,0
+referred to emergency room,0
+abdominal pain,-72
+abdominal pain rated 8 on scale,-72
+denied significant family history,0
+diaphoresis,0
+severe distress,0
+blood pressure 156/87 mmHg,0
+respiratory rate 19 breaths/minute,0
+heart rate 132 beats/minute,0
+temperature normal,0
+oxygen saturation 93%,0
+distended abdomen,0
+severe tenderness to palpation,0
+intravenous fluids started,0
+IV ondansetron,0
+refractory pain,0
+multiple doses morphine sulfate,0
+leukocytosis,0
+WBC 14.5 thou/cm,0
+laparotomy,0
+small intestine normal,0
+large intestine normal,0
+vasculature normal,0
+discharged,48
+nausea,72
+abdominal pain,72
+dyspnea,72
+returned to ER,72
+tachypnea 40/min,72
+tachycardia 120/min,72
+fever 38°C,72
+lung CT,72
+abdominopelvic CT,72
+intubated,72
+COVID-19 RT-PCR,72
+CBC WBC 17000/μL,72
+Hb 8.7 g/dL,72
+Plt 350000/μL,72
+urea 170 mg/dL,72
+Cr 4.2 mg/dL,72
+LDH 504 U/L,72
+CRP 47 mg/L,72
+negative HCV Ab,72
+negative HBs Ag,72
+negative HIV Ab,72
+treated with hydroxychloroquine,72
+lopinavir/ritonavir,72
+ribavirin,72
+β interferon,72
+ICU admission,72
+fecaloid discharge,120
+sepsis,120
+CBC WBC 24000/μL,120
+Hb 12 g/dL,120
+Plt 347000/μL,120
+urea 206 mg/dL,120
+Cr 3.2 mg/dL,120
+amylase 67 U/L,120
+re-laparotomy,120
+serosanguinous secretions,120
+necrotic changes small intestine,120
+130 cm small intestine resected,120
+laparotomy again,144
+leakage anastomosis site,144
+smaller bowel necrosis,144
+100 cm intestine resected,144
+ileostomy performed,144
+intravascular thrombosis mesenteric tissue,144
+necrotic margin,144
+COVID-19 positive,144
+heparin infusion,144
+broad-spectrum antibiotics,144
+extubated,240
+hemodynamic stable,240
+platelet count decreased 162000/μL,240
+gastrointestinal bleeding,264
+CBC WBC 7100/μL,264
+Hb 8.7 g/dL,264
+Plt 162000/μL,264
+Cr 1.3 mg/dL,264
+amylase 65 U/L,264
+Plt 69000/μL,288
+Cr 1.1 mg/dL,288
+PT normal,288
+PTT normal,288
+heparin discontinued,288
+D-dimer 2500 ng/mL,288
+fibrinogen 150 mg/dL,288
+PT 44 sec,288
+PTT 44 sec,288
+INR 1.7,288
+no schistocytes,288
+treatment-resistant sepsis,288
+DIC,288
+died,288
+51-year-old male,0
+non-smoker,0
+referred to emergency room,0
+abdominal pain,-72
+abdominal pain rated 8 on scale,-72
+denied significant family history,0
+diaphoresis,0
+severe distress,0
+blood pressure 156/87 mmHg,0
+respiratory rate 19 breaths/minute,0
+heart rate 132 beats/minute,0
+temperature normal,0
+oxygen saturation 93%,0
+distended abdomen,0
+severe tenderness to palpation,0
+intravenous fluids started,0
+IV ondansetron,0
+refractory pain,0
+multiple doses morphine sulfate,0
+leukocytosis,0
+WBC 14.5 thou/cm,0
+laparotomy,0
+small intestine normal,0
+large intestine normal,0
+vasculature normal,0
+discharged,48
+nausea,72
+abdominal pain,72
+dyspnea,72
+returned to ER,72
+tachypnea 40/min,72
+tachycardia 120/min,72
+fever 38°C,72
+lung CT,72
+abdominopelvic CT,72
+intubated,72
+COVID-19 RT-PCR,72
+CBC WBC 17000/μL,72
+Hb 8.7 g/dL,72
+Plt 350000/μL,72
+urea 170 mg/dL,72
+Cr 4.2 mg/dL,72
+LDH 504 U/L,72
+CRP 47 mg/L,72
+negative HCV Ab,72
+negative HBs Ag,72
+negative HIV Ab,72
+treated with hydroxychloroquine,72
+lopinavir/ritonavir,72
+ribavirin,72
+β interferon,72
+ICU admission,72
+fecaloid discharge,120
+sepsis,120
+CBC WBC 24000/μL,120
+Hb 12 g/dL,120
+Plt 347000/μL,120
+urea 206 mg/dL,120
+Cr 3.2 mg/dL,120
+amylase 67 U/L,120
+re-laparotomy,120
+serosanguinous secretions,120
+necrotic changes small intestine,120
+130 cm small intestine resected,120
+laparotomy again,144
+leakage anastomosis site,144
+smaller bowel necrosis,144
+100 cm intestine resected,144
+ileostomy performed,144
+intravascular thrombosis mesenteric tissue,144
+necrotic margin,144
+COVID-19 positive,144
+heparin infusion,144
+broad-spectrum antibiotics,144
+extubated,240
+hemodynamic stable,240
+platelet count decreased 162000/μL,240
+gastrointestinal bleeding,264
+CBC WBC 7100/μL,264
+Hb 8.7 g/dL,264
+Plt 162000/μL,264
+Cr 1.3 mg/dL,264
+amylase 65 U/L,264
+Plt 69000/μL,288
+Cr 1.1 mg/dL,288
+PT normal,288
+PTT normal,288
+heparin discontinued,288
+D-dimer 2500 ng/mL,288
+fibrinogen 150 mg/dL,288
+PT 44 sec,288
+PTT 44 sec,288
+INR 1.7,288
+no schistocytes,288
+treatment-resistant sepsis,288
+DIC,288
+died,288

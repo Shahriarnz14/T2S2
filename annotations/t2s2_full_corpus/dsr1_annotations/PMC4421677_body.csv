@@ -1,0 +1,69 @@
+event,time
+42 years old,0
+male,0
+admitted to the hospital,0
+dysuria,"-24 (assuming admission occurred on day of presentation, symptoms present before admission)"
+right-sided loin pain,-24
+blood pressure 140/80 mmHg,0
+pulse 80 beats/minute,0
+temperature 38.5°C,0
+white cell count 12.5 × 10³/mm³,0
+hemoglobin 9.5 g/L,0
+platelet count 568 × 10³/mm³,0
+albumin 32 g/L,0
+serum creatinine 258 μmol/L,0
+urea 15.8 mmol/L,0
+potassium 6.2 mmol/L,0
+bicarbonate 16 mmol/L,0
+intravenous co-amoxiclav commenced,0
+ultrasound scan no focus of infection,0
+E. coli in urine and blood culture,0
+tacrolimus,0
+prednisolone,0
+clinical condition deteriorated,168 (after a week of admission)
+stable graft function,168
+serum blood glucose 50 mmol/L,168
+transferred to critical care unit,168
+antibiotics switched to piperacillin and tazobactam,168
+CT scan showing gas in both renal parenchyma,168
+bilateral emphysematous pyelonephritis diagnosed,168
+intubated,168
+ventilated,168
+inotropic support,168
+percutaneous drainage of right kidney,216 (3 days after critical care transfer: 168 + 48 = 216)
+E. coli cultured from pus,216
+blood cultures grew E. coli,216
+Enterococcus,216
+Candida,216
+meropenem added,216
+teicoplanin added,216
+caspofungin added,216
+repeat CT scan showed infection improvement,360 (6 days after drainage: 216 + 144 = 360)
+ventilatory requirements reduced,360
+inotropic requirements reduced,360
+transplant graft function declined,360
+continuous veno-venous haemofiltration commenced,360
+bilateral nephrectomies,528 (22 days after admission: 22*24 = 528)
+second operation for bleeding,530 (assuming occurred 2 hours after initial surgery)
+8 units whole blood transfused,530
+4 units fresh frozen plasma,530
+2 units cryoprecipitate,530
+condition improved,576 (48 hours post-nephrectomy: 528 + 48 = 576)
+transplant function recovered,576
+organ support discontinued,"624 (6 days post-operation: 528 + 144 = 672? Wait, 6 days post-op would be 6*24=144, added to 528 gives 672, but text says ""beyond the sixth post-operative day"" so discontinuation occurred at 528 + 144 = 672)"
+histological examination confirmed infection,528
+discharged home,"1488 (2 months post-op: 60*24 = 1440; 528 + 1440 = 1968? Wait, discharge is 2 months post-operatively. If surgery was at 528h, then discharge is 528 + 60*24 = 1968h)"
+occasional urinary tract infections,1968
+serum creatinine 168 μmol/L,1968
+diabetes mellitus well controlled on metformin,1968
+new diagnosis of diabetes mellitus,168 (diagnosed when glucose was 50 mmol/L)
+APKD,"-168 (prior to transplant, which was 7 months earlier, but exact timing not specified; considered historical and assigned -168 for context)"
+recurrent urinary tract infections post-transplant,-168 (occurred prior to current admission)
+renal transplantation 7 months prior,-5040 (7 months *30 days=210 days *24=5040 hours)
+adult polycystic kidney disease,-5040
+established renal failure,-5040
+post-transplant diabetes,168
+emphysematous pyelonephritis,168
+bilateral EPN,168
+non-functioning polycystic kidneys,0
+functioning renal transplant,0

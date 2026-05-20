@@ -1,0 +1,84 @@
+event,time
+Here is the table of clinical events and timestamps:,
+abruptio placenta ,-672.0
+emergency cesarean delivery ,-672.0
+birth ,0.0
+Apgar 4 ,0.0
+Apgar 8 ,5.0
+respiratory distress ,0.0
+CPAP ,0.0
+FIO2 30% ,0.0
+cloudy eyes ,0.0
+ectropion ,0.0
+dry ichthyotic skin ,0.0
+undescended testicles ,0.0
+normal height ,0.0
+normal weight ,0.0
+normal head circumference ,0.0
+normal temperature ,0.0
+normal neurological examination ,0.0
+tachycardia ,0.0
+normal breath sounds ,0.0
+no organomegaly ,0.0
+normal blood count ,0.0
+normal electrolytes ,0.0
+normal liver function ,0.0
+respiratory distress syndrome ,0.0
+ground-glass opacity ,0.0
+minor respiratory acidosis ,0.0
+surfactant ,12.0
+trophic feeding ,72.0
+abdominal distension ,144.0
+tachycardia ,144.0
+tachypnea ,144.0
+thrombocytopenia ,144.0
+neutropenia ,144.0
+elevated C-reactive protein ,144.0
+meropenem ,144.0
+vancomycin ,144.0
+stopped trophic feeding ,216.0
+restarted feeding ,216.0
+weaned from CPAP ,336.0
+high-flow oxygen ,336.0
+unexplained apnea ,504.0
+septic examination ,504.0
+negative septic workup ,504.0
+normal brain MRI ,504.0
+nasogastric tube ,504.0
+conjugated hyperbilirubinemia ,504.0
+neonatal cholestasis workup ,504.0
+normal echocardiogram ,504.0
+normal eye examination ,504.0
+craniosynostosis ,504.0
+hepatosplenomegaly ,-504.0
+biliary atresia ,-504.0
+normal ultrasonography ,504.0
+declining albumin ,504.0
+elevated bilirubin ,504.0
+elevated AST ,504.0
+elevated ALT ,504.0
+albumin infusions ,504.0
+ursodeoxycholic acid ,504.0
+infectious etiology investigation ,504.0
+negative infectious workup ,504.0
+normal TSH ,504.0
+normal T3 ,504.0
+normal T4 ,504.0
+normal cortisol ,504.0
+negative metabolic disorders ,504.0
+whole-exome sequencing ,576.0
+NOTCH2 gene mutation ,576.0
+severe cyanosis ,936.0
+apnea ,936.0
+bradycardia ,936.0
+cardio-respiratory resuscitation ,936.0
+intubation ,936.0
+mechanical ventilation ,936.0
+epinephrine ,936.0
+septic shock ,936.0
+multiorgan failure ,936.0
+disseminated intravascular coagulation ,936.0
+acute renal damage ,936.0
+capillary leak syndrome ,936.0
+death ,2400.0
+"Note: The timestamps are approximate and based on the text. The negative timestamps represent events that occurred before birth, and the positive timestamps represent events that occurred after birth. The unit of time is hours.",

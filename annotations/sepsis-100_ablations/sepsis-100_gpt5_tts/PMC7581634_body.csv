@@ -1,0 +1,59 @@
+event,time
+79-year-old man,0
+male,0
+hypertension,0
+ischemic heart disease,0
+coronary artery bypass graft surgery,-96360
+mitral valve repair,-96360
+no complication after CABG with mitral valve repair,-96360
+severe symptomatic aortic stenosis,-72
+preprocedural transthoracic echocardiography,-72
+aortic valve area 0.6 cm2,-72
+transvalvular maximal gradient 61 mm Hg,-72
+transvalvular mean gradient 33 mm Hg,-72
+left ventricular ejection fraction 45%,-72
+unfavorable femoral vascular anatomy,-72
+preoperative pulmonary radiography revealed prominent anterior thoracic osteophytes,-72
+preoperative chest CT revealed prominent anterior thoracic osteophytes,-72
+thoracic osteophyte at T7-T8 5 mm from the esophagus on CT,-72
+no dysphagia,-72
+no odynophagia,-72
+right transcarotid approach planned,-1
+elective transcatheter aortic valve replacement,0
+induction of general anesthesia,0
+transesophageal echocardiography performed,0
+TEE probe placed,0
+no trauma or blood noticed during transesophageal probe insertion,0
+SAPIEN 3 valve deployed,0.5
+postprocedural TEE showed prosthesis in good position,1
+no visible paravalvular leak,1
+no trauma or blood noticed during transesophageal probe removal,1
+gastric aspiration with an orogastric tube revealed blood-tinged secretions,1
+extubated in the operating room,1
+transferred to the intensive care unit,1
+progressive chest pain,3
+important shivering,3
+"CT with intravenous contrast of the neck, thorax, and abdomen performed",3
+pneumomediastinum,3
+right hydropneumothorax,3
+esophageal perforation strongly suspected,3
+right thoracic drain inserted,3
+300 mL serosanguinous liquid drained from the pleural space,3
+esophagogastroscopy performed,3
+4-cm vertical perforation of the middle third of the esophagus,3
+returned to the operating room,8
+right thoracotomy,8
+repair of an esophageal perforation,8
+lysis of extensive pleural adhesions,8
+extensive pleural adhesions,8
+esophageal laceration site 1.5 cm below the arch of the azygous vein,8
+large vertebral osteophyte at the site of the perforation visualized and palpated,8
+primary closure of the esophageal wall in two layers,8
+intercostal muscular flap mobilized to complete the closure,8
+three thoracic drains left in place,8
+transferred to the intensive care unit,8
+severe delirium,48
+pneumonia,96
+congestive heart failure with pulmonary edema,96
+withdrawal of care,720
+died,720

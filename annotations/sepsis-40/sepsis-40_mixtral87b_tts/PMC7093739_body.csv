@@ -1,0 +1,43 @@
+event,time
+80 years old,0
+Caucasian ,0
+female ,0
+past medical history of hypertension ,0
+asthma ,0
+hypothyroidism ,0
+presented to the Emergency Department ,0
+erythematous and edematous right lower extremity ,0
+ecchymosis ,0
+superficial erosions ,0
+clear drainage ,0
+suffered a laceration to the affected leg ,-96
+"while boating on a freshwater river in Michigan, USA ",-96
+remained in wet pants for multiple hours ,-96
+"increased edema, erythema, and pain to the affected leg ",-24
+bullae developed ,0
+drained the lesions ,0
+expression of clear fluid ,0
+sloughing of the epidermis ,0
+vital signs were within normal limits ,0
+WBC count of 7400 cells/mcL ,0
+50% band neutrophils ,0
+elevated lactate of 3.0 mmol/L ,0
+blood cultures were obtained ,0
+1 g ceftriaxone IVPB was given ,0
+"admitted to the hospital for cellulitis of the right lower extremity, bandemia, and lactic acidosis ",0
+discovered to have acute hypoxic respiratory failure ,24
+altered mentation ,24
+hypotension ,24
+transferred to the Intensive Care Unit secondary to severe sepsis ,24
+started cefepime and metronidazole in the ICU ,48
+improving clinically ,48
+blood cultures grew Plesiomonas shigelloides ,96
+"antimicrobial susceptibilities displayed the organism was sensitive to ceftriaxone, ciprofloxacin, ertapenem, and meropenem ",96
+added ciprofloxacin to her treatment regimen ,96
+experienced changes in her stool ,168
+discontinued ciprofloxacin after 7 days due to concerns for Clostridium difficile infection ,168
+general surgery was consulted and performed a wound debridement on the seventh day ,168
+condition continued to improve throughout her 14-day hospital stay ,168
+discharged to inpatient rehab on a 10-day course of 500 mg metronidazole TID and a one month course of 2 g ceftriaxone IVPB administered daily ,336
+discharged from inpatient rehab after an additional 14 days ,504
+instructions to follow up with her family doctor ,504

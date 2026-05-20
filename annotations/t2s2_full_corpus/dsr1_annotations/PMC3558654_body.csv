@@ -1,0 +1,120 @@
+event,time
+40 years old,0
+female,0
+placenta previa totalis,0
+Cesarean section,0
+first baby delivered by Cesarean section,-87600
+myomectomy,-78840
+myoma in low portion of uterus,-78840
+preoperative laboratory tests normal,0
+invasive arterial blood pressure monitoring,0
+anesthesia induced with thiopental sodium 250 mg,0
+anesthesia induced with succinylcholine 66 mg,0
+intubation,0
+anesthesia maintained with sevoflurane 1.2 vol%,0
+anesthesia maintained with 50% nitrous oxide,0
+volume-controlled ventilation,0
+electrocardiogram (EKG) monitoring,0
+bispectral index (BIS) monitoring,0
+pulse oximetry,0
+end-tidal carbon dioxide (EtCO2) 30-35 mmHg,0
+atracurium 25 mg,0
+baby delivered,9
+baby's Apgar score 8 at 1 min,9
+baby's Apgar score 9 at 5 min,9
+placenta removed,0
+uterine bleeding observed,0
+methyl ergonovine 0.2 mg,0
+central venous catheter inserted,0
+packed RBCs administered,0
+"vital signs stable (110-120/70-80 mmHg, HR 75-85)",0
+BIS 50-65,0
+uterine suture completed,100
+EtCO2 dropped abruptly,100
+systolic blood pressure 60 mmHg,100
+SpO2 90%,100
+ventricular fibrillation,100
+CPR started,100
+defibrillation 200 Joule,100
+epinephrine administered,100
+atropine administered,100
+bicarbonate administered,100
+chest compression continued,100
+no return of normal sinus rhythm,100
+systolic blood pressure 60-100 mmHg with compression,100
+manual ventilation 100% oxygen,100
+arterial oxygen saturation 86%,100
+blood-like secretion from endotracheal tube,100
+EtCO2 apnea,100
+BIS above 40,100
+cardiac compression 40 minutes,100
+defibrillation three times,100
+epinephrine 60 mg,100
+atropine 5 mg,100
+bicarbonate 120 mEq,100
+"calcium chloride 1,200 mg",100
+no return of heart rhythm,100
+CPR continued due to BIS,100
+endotracheal tube secretion exchanged five times,100
+EtCO2 monitoring stopped,100
+manual ventilation maintained,100
+return of normal sinus rhythm,150
+blood pressure 90/50 mmHg,150
+heart rate 110 beats/min,150
+mannitol 20% 100 ml,150
+lasix 20 mg,150
+methylprednisolone 500 mg,150
+operation completed,150
+no urine output during CPR,150
+urine output >200 ml/hour post-ROSC,150
+no uterine bleeding observed,150
+hysterectomy not performed,150
+vaginal bleeding after 1 hour,210
+heart rate 120-130 beats/min,210
+hysterectomy performed,210
+transesophageal echocardiography (TEE),210
+no cardiac thrombus,210
+global hypokinesia left ventricle,210
+"platelet count 39,000",210
+PT 28.6 sec,210
+aPTT 129.1 sec,210
+fibrinogen 60 mg/dl,210
+d-dimer >20 µg/ml,210
+disseminated intravascular coagulation (DIC) suspected,210
+whole blood 3 units,210
+packed cells 10 units,210
+platelets 20 units,210
+fresh frozen plasma 10 units,210
+total anesthesia time 8 hours 40 minutes,210
+transferred to ICU,210
+pulmonary edema both lungs,210
+transfusion and fluid therapy,210
+drowsy state 2 hours post-op,450
+responds to pain,450
+pulmonary edema improvement 6 hours post-op,690
+transthoracic echocardiography (TTE),690
+no regional wall motion abnormality,690
+ventilator-dependent,690
+alert mental state 16 hours post-op,1380
+extubation,1380
+vital signs stable,1380
+pH 7.605,1380
+PaCO2 25.3 mmHg,1380
+PaO2 98.5 mmHg,1380
+HCO3- 24.6 mmol/L,1380
+SaO2 98.4%,1380
+hemoglobin 9.9 g/dl,1380
+"platelet 108,000",1380
+PT/aPTT 16.6/48.5 sec,1380
+fibrinogen 263 mg/dl,1380
+d-dimer 4.51 µg/ml,1380
+sudden loss of consciousness 30 min post-extubation,1410
+cardiac arrest,1410
+defibrillation performed,1410
+mental state recovered,1410
+tachyarrhythmia 7 hours post-op,1920
+cardiac arrest again,1920
+ECMO support,1920
+continuous renal replacement therapy (CRRT),1920
+multi-organ failure,1920
+death 6 days post-op,11040

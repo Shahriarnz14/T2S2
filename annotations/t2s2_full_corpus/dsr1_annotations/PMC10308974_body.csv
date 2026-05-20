@@ -1,0 +1,64 @@
+event,time
+50-year-old,0
+man,0
+history of alcoholism,0
+admitted to emergency hospital,0
+pain in right elbow,-48
+redness in right elbow,-48
+trivial trauma,-72
+X-ray of elbow negative,-48
+discharged with NSAIDs,-48
+persistent erythema,-24
+tenderness around elbow,-24
+no systemic inflammatory symptoms,-24
+skin erythema,0
+edema,0
+warmness,0
+tenderness on right elbow,0
+no axillary lymphadenopathy,0
+white blood cell count 7770/μL,0
+CRP 533.6 mg/L,0
+hemoglobin 14.8 g/dL,0
+glucose 0.83 g/L,0
+creatine 1.4 mg/dL,0
+sodium 133 mmol/L,0
+LRINEC score 6,0
+kidney function tests normal,0
+liver function tests normal,0
+blood culture negative,0
+cellulitis diagnosis,0
+intravenous cefazoline,0
+intravenous metronidazole,0
+condition deteriorated after 5 days,120
+intense pain,120
+significant edema,120
+tenderness of right elbow,120
+Streptococcus pyogenes infection,120
+transferred to our hospital,144
+febrile (38°C),144
+blood pressure 148/83 mmHg,144
+white blood cell count 16000/μL,144
+CRP 95 mg/L,144
+LRINEC score 3,144
+blood endotoxin negative,144
+tenderness spread to right upper extremity and thorax,144
+erythema spread to right upper extremity and thorax,144
+phlyctens,144
+areas of necrosis,144
+emergency aggressive debridement,168
+general anesthesia,168
+skin swabs negative,168
+muscles intact,168
+transferred to intensive care unit,168
+respiratory support,168
+renal support,168
+circulatory support,168
+intravenous penicillin,168
+multiple VAC technique,168
+hyperbaric oxygen therapy,168
+wound closure by split-thickness skin graft,576
+no postoperative complications,576
+discharged 17 days after skin grafting,1272
+stiff elbow,1272
+acceptable range of motion at 2 months,1704
+no infection recurrence at 2 years,19224

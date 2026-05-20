@@ -1,0 +1,46 @@
+event,time
+57 years old,0
+male,0
+admitted to the hospital,0
+fever,-168
+cough,-168
+dyspnea,-168
+fatigue,-168
+fever persisted,0
+cough persisted,0
+dyspnea persisted,0
+bilateral lung crackles,0
+no murmur,0
+no sign of heart failure,0
+nasopharyngeal swab positive for SARS-CoV-2,0
+bilateral ground-glass and crazy paving pulmonary involvement,0
+hydroxychloroquine,-72
+lopinavir/ritonavir,-72
+ARDS,-72
+mechanical ventilation,-72
+ICU admission,-72
+paroxysmal atrial fibrillation,-240
+low molecular weight heparin,-240
+worsening fever,336
+haemocultures positive for MRSA,336
+teicoplanin,360
+ceftazidime/avibactam,360
+transthoracic echocardiography,480
+poor ultrasound window,480
+mild mitral regurgitation,480
+left ventricular systolic dysfunction,480
+transoesophageal echocardiography,504
+vegetation on aortic valve,504
+mild eccentric aortic regurgitation,504
+no paravalvular abscess,504
+no abnormalities on PFO closure device,504
+linezolid,504
+fosfomycin,528
+ventilator-associated pneumonia,504
+Klebsiella pneumoniae,504
+reduced inflammatory markers,528
+discharged from ICU,720
+transferred to rehabilitation hospital,888
+transthoracic echocardiography,1200
+residual vegetation,1200
+no significant regurgitation,1200

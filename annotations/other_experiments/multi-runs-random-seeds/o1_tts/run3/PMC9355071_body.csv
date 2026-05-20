@@ -1,0 +1,47 @@
+event,time
+46-year-old man,0
+male,0
+maternal uncle had sudden death,-1
+malaise,-72
+fever (initial),-72
+loss of appetite,-72
+ulcerative colitis,0
+admission,0
+chills,0
+nausea,0
+cardiac arrest,0
+chest compression,0
+tracheal intubation,0
+ventricular fibrillation,0
+defibrillation performed twice,0
+adrenaline administered once,0
+diagnosed with Brugada syndrome,0
+coved-type ST elevation in V1 and V2,0
+hypercalcemia (14.8 mg/dL),0
+fever subsided with acetaminophen,2
+admission to the intensive care unit,2
+hypotension,2
+suspected septic shock from ulcerative colitis exacerbation,2
+CT scan showed a high-density area in the descending colon,2
+increase in lactate level,2
+white blood cell count increased,2
+procalcitonin level increased,2
+initiated tazobactam-piperacillin,2
+initiated vasopressors,2
+extubation (day 2 of admission),48
+fever reoccurred (day 5 of admission),120
+contrast-enhanced CT scan revealed a round low-density area of liver,120
+determined to be a liver abscess,120
+changed the antibiotics to meropenem and vancomycin,120
+maintained the same for 3 weeks,120
+performed puncture drainage,120
+positive pilsicainide test (day 30 of admission),720
+implantation of an implantable cardioverter defibrillator,720
+the patient was then discharged,744
+high parathyroid hormone levels,1000
+abnormal uptake in the anterior mediastinum (Tc scintigraphy),1000
+tumor resection was performed,1000
+ectopic parathyroid adenoma,1000
+nonfunctional pituitary adenomas,1000
+nonfunctional adrenal tumors,1000
+multiple endocrine neoplasia type 1 (MEN1),1000

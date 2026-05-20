@@ -1,0 +1,82 @@
+event,time
+86 years old,0
+female,0
+presented to emergency department,0
+nausea,0
+vomiting,0
+right upper quadrant abdominal pain,0
+no fevers,0
+no chills,0
+coronary artery disease,0
+pulmonary hypertension,0
+mitral regurgitation,0
+atrial fibrillation,0
+chronic kidney disease,0
+tachycardic,0
+hypotensive,0
+right upper quadrant tenderness,0
+positive Murphy’s sign,0
+elevated alkaline phosphatase (387 U/L),0
+elevated alanine aminotransferase (89 U/L),0
+elevated aspartate aminotransferase (78 U/L),0
+elevated total bilirubin (5.9 mg/dL),0
+elevated direct bilirubin (5.2 mg/dL),0
+elevated creatinine,0
+elevated white blood cell count,0
+normal lipase,0
+right upper quadrant ultrasound,0
+distended gallbladder,0
+cholelithiasis,0
+gallbladder wall thickness 3 mm,0
+dilated common bile duct (14 mm),0
+abdominal computed tomography scan,0
+thickened gallbladder walls,0
+inflammatory changes in adjacent fat,0
+admitted to intensive care unit,0
+sepsis,0
+acute cholecystitis,0
+choledocholithiasis,0
+acute kidney injury,0
+intravenous hydration,0
+empiric antibiotics,0
+endoscopic retrograde cholangiopancreatography (ERCP),24
+obstructed cystic duct,24
+multiple CBD stones,24
+stone removal,24
+sphincterotomy,24
+CBD stent placement (10F x 9 cm),24
+not a surgical candidate,0
+ultrasound-guided percutaneous cholecystostomy (PC) tube placement,96
+clinical improvement,96
+discharged home with PC tube,96
+multiple PC tube evaluations,1680
+multiple PC tube exchanges,1680
+percutaneous cholangiograms,1680
+patent cystic duct,1680
+occluded biliary stent,1680
+some contrast reaching duodenum,1680
+ERCP for stent removal,2160
+CBD stone extraction with cholangioscope,2160
+electrohydraulic lithotripsy,2160
+CBD cleared,2160
+CBD stent placement (10F x 7 cm),2160
+hybrid percutaneous-endoscopic technique,2160
+cholecystostomy drain dilation,2160
+28F sheath placement,2160
+pediatric gastroscope advancement,2160
+gallbladder visualization,2160
+multiple stones identified,2160
+lithotripsy,2160
+gallstone removal with Roth net,2160
+gallstone removal with retrieval basket,2160
+20F drainage catheter placement,2160
+ERCP for stent removal,2640
+occluded biliary stent,2640
+CBD stone removal with 12-mm balloon,2640
+percutaneous cholangiogram,2712
+contrast flow into duodenum,2712
+no significant obstruction,2712
+PC tube removal,2712
+PC site healed,2712
+asymptomatic at 6-month follow-up,4320
+asymptomatic at 1-year follow-up,8760

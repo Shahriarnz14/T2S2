@@ -1,0 +1,77 @@
+event,time
+66 years old,0
+female,0
+presented to the emergency department,0
+general weakness,-168
+poor oral intake,-168
+diabetes,-87600
+hypertension,-87600
+metformin,-87600
+glimepiride,-87600
+hydrochlorothiazide,-87600
+losartan,-87600
+atorvastatin,-87600
+severe osteoarthritis,0
+multiple steroid injections,0
+admitted for treatment of urinary tract infection,-336
+blood culture growth of Escherichia coli,-336
+urine culture growth of Escherichia coli,-336
+treated with ceftriaxone,-336
+treated with tazobactam,-336
+not on antihypertensive medication,-336
+height 152 cm,0
+body weight 57 kg,0
+blood pressure 70/50 mmHg,0
+heart rate 70 beats per minute,0
+respiratory rate 20 per minute,0
+body temperature 36.5°C,0
+decreased skin turgor,0
+decreased tongue turgor,0
+unremarkable pulmonary exam,0
+unremarkable cardiac exam,0
+unremarkable abdominal exam,0
+unremarkable neurologic exam,0
+pyuria,0
+hypotension,0
+UTI sepsis,0
+admitted to intensive care unit,0
+antibiotics administered,0
+massive hydration (30 mL/kg crystalloids),0
+vital signs stabilized,24
+inflammatory signs normalized,48
+blood pressure normalized,48
+serum calcium elevated,0
+creatinine elevated,0
+poor oral intake persisted,48
+general weakness persisted,48
+saline administration,72
+calcitonin administration (40 IU/day),72
+serum calcium decreased (11.9 to 9.9 mg/dL),96
+serum calcium increased again,144
+contrast-enhanced CT chest,72
+contrast-enhanced CT abdomen,72
+whole body bone scintigraphy,72
+no evidence of malignancy,72
+serum protein electrophoresis negative,72
+urine protein electrophoresis negative,72
+ANCA titers negative,72
+tumor markers negative,72
+TSH normal (0.68 μIU/L),72
+free T4 normal (1.12 ng/dL),72
+bone mineral density T-score -1.4,72
+osteopenia,72
+intact PTH 7.5 pg/mL,72
+PTH-related peptide undetectable,72
+serum 25-hydroxy vitamin D 16.32 ng/mL,72
+suppressed PTH–vitamin D axis,72
+serum cortisol 2.36 μg/dL,216
+ACTH 32.51 pg/mL,216
+ACTH stimulation test inadequate response,216
+secondary adrenal insufficiency,216
+hydrocortisone administered (1.5 mg/kg),240
+serum calcium normalized,312
+general weakness improved,312
+anorexia improved,312
+magnesium level trending normal,312
+serum calcium maintained at 8.7 mg/dL,528
+lost to follow-up,528

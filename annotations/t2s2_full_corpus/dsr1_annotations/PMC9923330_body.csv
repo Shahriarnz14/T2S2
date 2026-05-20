@@ -1,0 +1,62 @@
+event,time
+59 years old,0
+female,0
+admitted to the hospital,-720
+severe mitral valve insufficiency,-87600
+mitral valve replacement surgery,-87600
+prosthetic mitral valve dysfunction,-720
+redo mitral valve replacement,-720
+hemolysis,-720
+decreased hemoglobin,-720
+acute renal failure,-720
+urgent-start hemodialysis,-720
+blood transfusion,-720
+weakness,-720
+lethargy,-720
+exacerbation of symptoms,-720
+hemoglobin 6.3 g/dL,-720
+hematocrit 19.7%,-720
+red blood cell 2.27 x10^6/mm³,-720
+white blood cell 3700 cells/mm³,-720
+platelet 235000/mm³,-720
+sodium 140 mEq/L,-720
+potassium 4 mEq/L,-720
+blood urea nitrogen 86 mg/dL,-720
+creatinine 1.3 mg/dL,-720
+lactate dehydrogenase 3418 IU/L,-720
+uric acid 9.1 mg/dL,-720
+aspartate aminotransferase 64 IU/L,-720
+alanine aminotransferase 46 IU/L,-720
+alkaline phosphatase 230 IU/L,-720
+total bilirubin 9.6 mg/dL,-720
+direct bilirubin 2.4 mg/dL,-720
+indirect bilirubin 7.5 mg/dL,-720
+fever,-720
+headache,-720
+chills,-720
+back pain,-720
+urine discoloration,-720
+blood culture,-720
+blood smear,-720
+antibody screening test,-720
+Coombs test,-720
+Coombs Wright test,-720
+anti-E antibody positive,-720
+anti-c antibody positive,-720
+anti-Kell antibody positive,-720
+ABO compatible transfusion,-720
+Rh(D) compatible transfusion,-720
+c-negative transfusion,-720
+E-negative transfusion,-720
+Kell-negative transfusion,-720
+leuko-reduced RBC transfusion,-720
+hemoglobin increased to 10.5 g/dL,-720
+tricuspid valve repair,0
+aortic valve replacement,0
+mitral valve replacement,0
+transferred to ICU,24
+extubated,48
+no evidence of hemolysis,48
+acceptable hemoglobin level,48
+sepsis,504
+expired,504

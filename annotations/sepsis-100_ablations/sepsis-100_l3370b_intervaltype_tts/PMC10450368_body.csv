@@ -1,0 +1,72 @@
+event,time
+35 years old,0
+female,0
+pregnant,0
+admitted to the hospital,0
+fever,-240
+cough,-240
+dyspnoea,-120
+chest distress,-240
+shortness of breath,-240
+yellow viscous sputum,-240
+no chills,-240
+cyanosis of the lip,0
+thick breathing sounds in both lungs,0
+dry and wet rales in the right lower lung,0
+heart rate of 130 beats/min,0
+respiratory rate of 20 times/min,0
+gestational age of 34 + 4 wk,0
+G2P1,0
+left occiput anterior,0
+maternal lower weight,0
+oligohydramnion,0
+premature live baby,0
+electrolyte disturbance,0
+hypoproteinaemia,0
+pH 7.472,0
+partial pressure of carbon dioxide 34.0 mmHg,0
+partial pressure of oxygen 56 mmHg,0
+sulfur dioxide 88.6%,0
+C-reactive protein (CRP): 186.33 mg/L,0
+erythrocyte sedimentation rate: 69.00 mm/h,0
+procalcitonin (PCT): 2.24 ng/mL,0
+White blood cell (WBC) 18.29 × 10^9/L,0
+neutrophil % 90.10%,0
+lymphocyte 0.97 × 10^9/L,0
+Alkaline phosphatase 232 U/L,0
+total bilirubin 23.1 μmol/L,0
+albumin (ALB) 33.9 g/L,0
+K+ 2.93 mmol/L,0
+sodium 129 mmol/L,0
+chloride 89 mmol/L,0
+D-dimer 3.50 mg/L,0
+"multiple plaques, miliary foci, nodular foci with partial consolidation and cavities in the upper and lower lobes of both lungs",0
+single viable foetus,0
+head presentation,0
+oligohydramnios,0
+caesarean section,24
+oxyhemoglobin saturation increased to 95%-98%,24
+assisted ventilation by endotracheal intubation,24
+empirical antibiotic therapy,24
+symptomatic treatment of fluid and ALB infusion,24
+irrigation solution collected and tested for metagenomic next-generation sequencing (mNGS),24
+S. aureus combined with novel coronavirus infection,24
+no acid-fast bacilli in the sputum tuberculosis smear,48
+tubercle bacillus-polymerase chain reaction (TB-PCR) and nontuberculosis mycobacterium-PCR were negative,48
+galactomannan experiments were normal,48
+vancomycin and meropenem,48
+anticoagulant therapy,48
+treatments to relieve the cough and reduce the amount of sputum,48
+nasal tube oxygen with a flow rate of 3-4 L/min,48
+"multiple areas of inflammation in both lungs, mildly enlarged mediastinal lymph nodes and a small amount of bilateral pleural effusion",96
+CRP was 38.54 mg/L,96
+WBC count was 8.25 × 10^9/L,96
+PCT was 0.129 ng/mL,96
+potassium was 4.04 mmol/L,96
+D-dimer was 2.44 mg/L,96
+TB-PCR was negative,96
+inflammatory lesions were gradually absorbed and improved,216
+sitafloxacin 50 mg twice daily,216
+discharged from the hospital,240
+multiple lung inflammation was absorbed slightly,336
+multiple lung inflammation was apparently absorbed,744

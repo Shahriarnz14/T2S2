@@ -1,0 +1,52 @@
+event,time
+"General malaise, myalgia, dyspnea",-1
+"Subjective fevers, anorexia, nasal discharge and congestion, abdominal pain",-1
+Increased vaginal pain and dysuria,-1
+"Denies cough, sore throat, throat pain, hoarseness",-1
+Admitted to outside hospital,0
+"Afebrile, tachycardic, hypotensive",0
+Oxygen requirement increased,0
+White blood cell count 6200/µL,0
+"Platelet count 23,000/µL",0
+Creatinine 1.33 mg/dL,0
+Alkaline phosphatase 466 U/L,0
+Total bilirubin 2.9 mg/dL,0
+Serum lactic acid level 4.9 mmol/L,0
+Chest radiography: small bilateral pleural effusions,0
+"CT of abdomen and pelvis: multiple cystic lesions in liver, intrahepatic and extrahepatic bile duct dilatation, mild splenomegaly, right sided Bartholin gland cyst",0
+"Ultrasound of abdomen: hepatic abscesses, reactive gall bladder thickening",0
+Blood cultures: growth of Fusobacterium necrophorum,0
+Started on meropenem,0
+Transferred to our hospital,3
+"Febrile, tachycardic, tachypneic",3
+Lung exam: scattered crackles,3
+Cardiac exam: tachycardia,3
+Abdominal exam: mild right upper quadrant abdominal tenderness,3
+Genitourinary exam: erythema and edema of the labia,3
+"White blood cell count 14,700/µL",3
+Hemoglobin 11 g/dL,3
+"Platelet count 16,000/µL",3
+Erythrocyte sedimentation rate 31 mm/h,3
+Serum lactate dehydrogenase 323 U/L,3
+Alkaline phosphatase 129 U/L,3
+C-reactive protein 17.05 mg/dL,3
+Fibrinogen 349 mg/dL,3
+Haptoglobin 59 mg/dL,3
+CT of neck: no evidence of abscess formation,3
+CT of chest: multiple nodular foci in right lung fields,3
+Interval worsening of hepatic abscess burden,3
+Transitioned to piperacillin-tazobactam,3
+Respiratory status improved with diuresis,6
+Transferred to general medicine ward,6
+Ultrasound guided thoracentesis of right lung,9
+Removal of 800 mL of maroon colored pleural fluid,9
+Analysis of pleural fluid: exudative fluid,9
+"Repeat CT of chest, abdomen and pelvis: bilateral multifocal pneumonia, pleural effusions",10
+VATS washout and decortication,11
+Incision and drainage of right labial abscess,11
+Contrast CT of abdomen and pelvis: nonocclusive thrombus in right common iliac vein,15
+Transthoracic and transesophageal echocardiography: no evidence of valvular vegetations,15
+Diagnosis of atypical Lemierre syndrome of urogenital origin,15
+Transitioned to intravenous ceftriaxone and oral metronidazole,17
+Discharged from hospital,17
+Follow-up appointment,17 + 3 weeks

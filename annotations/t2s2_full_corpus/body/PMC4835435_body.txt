@@ -1,0 +1,52 @@
+Introduction
+Achromobacter xylosoxidans, formerly called Alcaligenes xylosoxidans, is an aerobic, non-fermenting, gram-negative bacilli with low virulence. It was first seen in 1971 by Yabuuchi and Ohyama in a patient with chronic, inflammatory otitis media [1]. Due to its ability to easily oxidize xylose, it has been named xylosoxidans. It is primarily found in contaminated soil or water, but it is rare in humans. It is known to infect immunosuppressed patients, including those with tumors, blood diseases, hypogammaglobulinemia, or acquired immune deficiency syndrome (AIDS), or those who have undergone organ transplant [2]. The authors experienced a case of septic shock caused by A. xylosoxidans in an immunocompetent woman with no underlying disease who received extracorporeal shock wave lithotripsy (ESWL). We report this case with a literature review.
+
+Case Report
+A 52-year-old female patient was admitted to the hospital with colicky, left flank pain. The patient had no medical history of chronic or immunodeficiency diseases, nor any previous history of urolithiasis or urinary tract infections. On admission, vital signs were stable; blood pressure was 110/70 mmHg, respiratory rate was 20/min, pulse rate was 69/min, and temperature was 37.0℃. The patient complained of left flank pain without other urinary symptoms. Left costovertebral angle tenderness was noted upon physical examination. A complete blood cell count showed white blood cells (WBCs) were 9,970/mm3 (neutrophils, 84.4%; lymphocytes, 6.4%), hemoglobin was 10.6 g/dL, and platelet count was 142,000/mm3. The C-reactive protein (CRP) was 57.5 mg/dL. Biochemical tests showed blood urea nitrogen (BUN) was 19 mg/dL, creatinine was 0.8 mg/dL, total protein was 6.5 g/dL, albumin was 3.2 g/dL, total bilirubin was 2.2 mg/dL, aspartate aminotransferase was 34 IU/L, and alanine aminotransferase was 47 IU/L. There were no WBCs in the urinalysis, but red blood cells were over 100 per high-power field (RBC/HPF). Cultures were not done at the time of admission. The cause of pain was a urinary stone in the left ureter, noted through ultrasound. On the 3rd and 4th days after admission, the patient underwent ESWL, receiving a total of 8,000 shocks. The ESWL aggravated the flank pain and costovertebral angle tenderness. Three days later, the patient's body temperature rose to 39.9℃.
+
+On the 7th day, her blood pressure fell to 70/50 mmHg, heart rate was 125/min, respiratory rate was 26/min, and body temperature was 39.0℃. Oxygen saturation was 80% on room air. The patient was moved to the intensive care unit and started on mechanical ventilation and shock management. WBCs were 18,400/mm3 (neutrophils, 90.4%; lymphocytes, 5.5%), hemoglobin was 11 g/dL, platelet count was 92,000/mm3, and CRP was 240 mg/dL. BUN was 56 mg/dL; creatinine was 2.4 mg/dL. Cefepime (2 g intravenously every 12 hours) and vancomycin (1 g intravenously every 24 hours) were administered empirically. Computed tomography showed a 4 mm left proximal ureter stone and hydroureteronephrosis. There were no WBCs or RBCs in the urine. The urine cultures were negative but two sets of blood cultures were positive for gram-negative bacilli, which was identified as Achromobacter xylosoxidans (BACTEC™ Plus Aerobic/F Culture Vials; Becton Dickinson and Company, Franklin Lakes, New Jersey, United States). The minimum inhibitory concentrations µg/mL) (BACTEC FX; Becton Dickinson and Company) were as follows: imipenem/cilastatin, 4; meropenem, 4; piperacillin-tazobactam, 8; ampicillin, 16; ciprofloxacin, 2; amikacin, 32; aztreonam, 16; and cefepime, 16. A. xylosoxidans was resistant to cefepime; hence, antibiotics were changed to imipenem (500 mg intravenously every 12 hours). On the 14th day, blood cultures no longer revealed A. xylosoxidans , but the patient's renal function worsened, requiring continuous renal replacement therapy. Burkholderia cepacia was isolated from one set of blood cultures on the 16th day; it was susceptible to imipenem/cilastatin. We removed the central venous catheter to culture for B. cepacia that might have infected the catheter. A tip culture and repeated blood cultures were negative after three days. On the 21st day, the patient had respiratory failure with bilateral opacities on chest imaging. On the 29th day after admission, she passed away from septic shock and multiple organ failure.
+
+16S rRNA sequencing identified the isolate. Primers of 515FPL (TGCCAGCAGCCGCGGTAA) and 13B (AGGCCCGGGAACGTATTCAC) were used for 16S rRNA gene amplification. Sequencing was carried out using Taq polymerase (Solgent, Daejeon, Korea). The resulting sequence was compared with sequences stored in the GenBank (http://www.ncbi.nlm.nih.gov/genbank). It was identified as A. xylosoxidans, with 100% sequence identity.
+
+Discussion
+A. xylosoxidans is an aerobic, non-fermenting, gram-negative bacilli with low virulence [3]. Infections occur mostly in immunocompromised patients, including those with tumors, blood diseases, hypogammaglobulinemia, AIDS, diabetes, or late-stage kidney failure, and those who have undergone organ transplants [4]. For cases that progress to bacteremia, it is most often because of an intravenous catheter infection [5]. Patients with blood diseases or tumors have high mortality rates with this infection [5]. Clinical cases of bacteremia caused by A. xylosoxidans are summarized in Table 1. A total 224 cases of bacteremia were reported: 74 in neonates and 150 in adults [467891011121314]. The most common cause was catheter- related infection (78 cases, 52% in adults) [468101112131415]. Pneumonia was the second most common source (12 cases, 8% in adults) [4689101112131415].
+
+A. xylosoxidans typically causes otitis media, skin infections, intravenous catheter infections, and surgical-site infections [2]. Urinary tract infections were observed only occasionally and the prevalence was unknown. The frequency of urinary tract infection by A. xylosoxidans was 0.04% (proportion of positive urine cultures) in a medical center in Spain [5]. Urinary tract infection due to A. xylosoxidans often develops from the pathogenic bacteria traveling from the intestines to the ureters and bladder. While it has been reported that A. xylosoxidans causes infections in immunocompromised patients and those with urological abnormalities [2], the patient in this case had no such tendencies. It has also been reported that most of these infections occur as nosocomial infections. The patient in this case had a negative blood culture, but the strains were cultured after the symptoms occurred.
+
+According to existing reports, A. xylosoxidans has a high resistance against antibiotics, making treatment difficult. It is sensitive to imipenem, piperacillin-tazobactam, ceftazidime, and trimethoprim-sulfamethoxazole. Resistance was found in second- or third-generation cephalosporins except ceftazidime and fluoroquinolones [8]. In this case, it was sensitive to imipenem, meropenem, trimethoprim-sulfamethoxazole, piperacillin-tazobactam, and ceftazidime, and resistant to ampicillin, ciprofloxacin, amikacin, cefotetan, ceftriaxone, aztreonam, and cefepime, showing similar results to existing reports. Presently, carbapenem, antipseudomonal penicillins, and trimethoprim-sulfamethoxazole are effective treatments [6]. Attempts have been made to combine two or more drugs for treatment, such as by combining gentamicin with piperacillin, doxycycline with azithromycin, or trimethoprim-sulfamethoxazole with azithromycin. These combinations have been effective in reducing resistance and increasing the efficacy of treatment [81516].
+
+In conclusion, A. xylosoxidans can cause infection in immunocompromised patients, while infection in immunocompetent hosts is rare. However, we have observed such a case in a patient who had normal immune function, and report the findings of this case along with a literature review.
+
+Table 1 Clinical cases of bacteremia caused by Achromobacter xylosoxidans
+Authors (Reference No.)	Date	No. of cases	Underlying disease	Source of isolate	Outcome (mortality rate)	
+Turel O, et al. [13]	2013	22		Septicemia in neonate	13.6%	
+Turqutalp K, et al. [14]	2011	1	End-stage renal disease	Central venous catheter	Expired	
+Molina-Cabrillana J, et al. [10]	2007	52		Septicemia in neonate	7.7%	
+Tena D, et al. [12]	2005	4	End-stage renal disease (4)	Central venous catheter (4)	Cured	
+Shie SS, et al. [11]	2005	40	Malignancy (23)
+Chronic renal insufficiency (9)
+Liver cirrhosis (6)
+Diabetes mellitus (6)	Central venous catheter (22)	47.5%	
+Aisenberg G, et al. [6]	2004	46	Malignancy (46)	Primary bacteremia (10) 
+Central venous catheter (13)
+Pneumonia (6)
+Urinary tract infection (5)
+Mucocutaneous infection (3)
+Sinusitis (1)	15%	
+Gómez-Cerezo J, et al. [9]	2003	54	Malignancy (21)
+Diabetes mellitus (6)
+HIV (6)
+Chronic renal insufficiency (6)
+Chronic obstructive pulmonary disease (3)
+Liver cirrhosis (2)
+Cystic fibrosis (1)	Central venous catheter (28) 
+Pneumonia (6)
+Surgical wound site (4) 
+Undetermined (9)	15%	
+Weitkamp JH, et al. [4]	2000	1	Hyper-IgM syndrome	Lymph node infection	Cured	
+Duggan JM, et al. [8]	1996	4	No medical history (1) 
+Cerebral palsy (1)
+Acute lymphocytic leukemia (1) 
+End stage renal disease (1)	Sputum (1)
+Central venous line (3)	25%	
+Lee JH, et al. [This case]	2014	1	No medical History	Primary bacteremia	Expired

@@ -1,0 +1,66 @@
+event,time
+73 years old,0
+female,0
+admitted to intensive care unit,0
+hypertension,0
+syphilis,0
+type 2 diabetes mellitus,0
+acute altered mental status,0
+mechanical fall,-720
+pruritic scalp,-720
+purulent drainage from sinuses on scalp behind right ear,-720
+temperature 97.9°F,0
+heart rate 127 bpm,0
+respiratory rate 22 breaths/min,0
+blood pressure 144/80 mmHg,0
+oxygen saturation 98%,0
+oriented to person,0
+oriented to place,0
+not oriented to time,0
+erythematous face,0
+erythematous scalp,0
+erythematous right ear,0
+edematous face,0
+edematous scalp,0
+edematous right ear,0
+large fluctuant mass over occipital and parietal scalp,0
+purulent drainage over occipital and parietal scalp,0
+posterior auricular mass,0
+hyperglycemia 700,0
+anion gap metabolic acidosis,0
+serum bicarbonate 20,0
+ketonuria,0
+non-contrast head CT showing extensive multifocal scalp swelling,0
+no acute intracranial abnormalities,0
+diabetic ketoacidosis,0
+cellulitis of the scalp,0
+concern for underlying abscesses,0
+continuous insulin infusion,0
+intravenous vancomycin,0
+intravenous cefepime,0
+incision and drainage of scalp lesion,48
+10-cm subgaleal abscess,48
+purulence evacuated,48
+blood cultures grew MRSA,72
+paranasal sinus CT with intravenous contrast,72
+no sinus involvement,72
+transesophageal echocardiogram,72
+no evidence of endocarditis,72
+pulse irrigation of wounds,96
+sharp debridement,96
+plastic surgery involvement,96
+serial bedside debridements,96
+"scalp wound 20 cm length, 10 cm width, 2 cm depth",96
+posterior auricular wound 7x7x2 cm,96
+split-thickness skin grafts from right thigh,96
+skin grafts closure,96
+100% graft take,168
+discharged,768
+intravenous vancomycin continued post-discharge,768
+completed 7-week antibiotic course,768
+CA-MRSA scalp abscess,0
+bacteremia,0
+extensive salvage resection,96
+multiple debridements,96
+skin-graft repair,96
+no graft rejection,168

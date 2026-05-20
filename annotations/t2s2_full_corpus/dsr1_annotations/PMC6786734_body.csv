@@ -1,0 +1,73 @@
+event,time
+47-year-old Korean woman,0
+schizophrenia,0
+clozapine treatment,0
+poor medication adherence,0
+divorced (spouse),-8760
+mother's death,-3600
+moved in with son,-72
+drowsy,-24
+incoherent,-24
+emergency department arrival,0
+azotemia,0
+blood urea nitrogen 29 mg/dL,0
+creatinine 2.56 mg/dL,0
+muscle enzyme elevation,0
+"creatine kinase 70,758 IU/L",0
+lactate dehydrogenase 933 IU/L,0
+gross hematuria,0
+metabolic acidosis,0
+pH 7.28,0
+PaCO2 33 mmHg,0
+HCO3- 15.5 mmol/L,0
+anuria,0
+rhabdomyolysis,0
+hemodialysis,0
+mechanical ventilation,0
+respiratory distress,0
+pulmonary edema,0
+"leukocytosis (31,940 cells/μL)",0
+high acute phase reactant (C-protein 7.04 mg/dL),0
+sustained fever (38.0oC),0
+sepsis suspicion,0
+systemic antibiotics,0
+ICU admission,0
+continuous renal replacement therapy,0
+low blood pressure,0
+inotropic agents,0
+pulmonary edema improvement,72
+extubation success,96
+drowsiness persisted,96
+generalized tonic-clonic seizure,96
+normal brain MRI,96
+electroencephalogram no epileptiform discharge,96
+cerebrospinal fluid elevated protein (61 mg/dL),96
+no CSF infection,96
+antiepileptic drug,96
+seizure-like movement subsided,96
+antibiotics continued,0
+ESBL-resistant E. coli urosepsis,0
+leukocytosis persistence,0
+decreased CRP,0
+fever subsided,0
+clozapine resumed,120
+"leukocytosis increased (24,970 to 72,070 cells/μL)",144
+fever reappeared (37.8oC),144
+no systemic infection evidence,144
+fever responsive to antipyretics,144
+no hematologic disease,-720
+peripheral smear no atypical leukocytes,-720
+normal WBC 1 month prior,-720
+severe systemic inflammation,0
+myeloproliferative disease suspicion,0
+systemic steroids (5 days),0
+no clinical improvement,120
+BCR/ABL1 rearrangement negative,120
+suspected clozapine overdose,0
+NMS diagnosis,0
+clozapine discontinued,144
+"leukocytosis resolved (72,070 to 7,000 cells/μL)",168
+intermittent hemodialysis,168
+transferred to general ward,168
+low-dose clozapine resumed,168
+delusional symptoms control,168

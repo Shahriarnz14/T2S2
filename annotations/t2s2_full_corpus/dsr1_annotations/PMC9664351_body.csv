@@ -1,0 +1,61 @@
+event,time
+64 years old,0
+white,0
+female,0
+Hepatitis C-induced liver cirrhosis,0
+end-stage renal disease,0
+hemodialysis,0
+chronic anemia,0
+hypothyroidism,0
+admitted to the emergency department,0
+fatigue,0
+weakness,0
+blurry vision,0
+shortness of breath,0
+fishing in a pond,-72
+fell,-72
+abrasion on left forearm,-72
+unable to go to hemodialysis,0
+developing blisters on left forearm,0
+blood-filled blisters,0
+blood pressure 60/26 mmHg,0
+pulse rate 88/min,0
+respiration rate 17/min,0
+temperature 94.0 F,0
+hyperpigmentation,0
+edema,0
+hemorrhagic bullae,0
+diminished breath sounds,0
+bibasilar crackles,0
+"white blood cell count 19,550",0
+lactic acid 10.7 mmol/L,0
+chest CT scan,0
+bibasilar atelectasis,0
+consolidation consistent with pneumonia,0
+abdominal CT scan,0
+hepatosplenomegaly,0
+portal venous hypertension,0
+ascites,0
+septic shock,0
+cellulitis,0
+pneumonia,0
+pressors,0
+admitted to intensive care unit,0
+infectious disease consultation,0
+Aeromonas infection suspected,0
+gentamicin,0
+Levaquin,0
+vancomycin,0
+Zosyn,0
+orthopedic surgery consultation,0
+blisters aspirated,0
+no excisional debridement,0
+"white blood cell count 12,350",24
+blood cultures released,72
+Aeromonas veronii complex identified,72
+resistance to ampicillin-sulbactam,72
+resistance to piperacillin-tazobactam,72
+antibiotics narrowed to ceftazidime,72
+gentamicin continued,72
+vancomycin dose,72
+discharged,240

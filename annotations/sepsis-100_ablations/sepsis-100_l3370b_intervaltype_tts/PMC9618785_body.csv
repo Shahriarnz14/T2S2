@@ -1,0 +1,93 @@
+event,time
+31 years old,0
+female,0
+non-smoking,0
+Caucasian,0
+no past medical history,0
+admitted to the hospital,0
+sudden-onset severe headache,-840
+left arm numbness,-840
+cranial computed tomography (CT) scan,-840
+grade 2 (Hunt and Hess scale) SAH,-840
+no prior history of head injury,0
+uncomplicated pregnancy,0
+uncomplicated vaginal delivery,0
+admitted to the neurosurgical ward,-840
+digital subtraction angiography (DSA),-840
+ruptured right middle cerebral artery aneurysm,-840
+percutaneous endovascular coil embolization,-840
+no permanent neurological deficits,-840
+fever,-672
+chills,-672
+constant abdominal pain,-672
+purulent uterine discharge,-672
+no urinary symptoms,-672
+no respiratory symptoms,-672
+blood culture,-672
+empiric antibacterial therapy,-672
+piperacillin/tazobactam,-672
+vancomycin,-672
+azithromycin,-672
+sepsis,-640
+septic shock,-640
+transferred to the intensive care unit,-640
+body temperature 38.3 °C,-640
+invasive blood pressure 90/65 mmHg,-640
+heart rate 135/min,-640
+arterial oxygen saturation 82 %,-640
+mild disorientation,-640
+slower capillary refill,-640
+coarse rales,-640
+sequential organ failure assessment (SOFA) score 4,-640
+hemoglobin 6.8 g/dL,-640
+d-dimers 4.58 μg/mL,-640
+C-reactive protein 322 mg/L,-640
+fibrinogen concentration 6.4 mL,-640
+blood culture showed E. coli,-640
+E. coli sensitive to piperacillin/tazobactam,-640
+chest radiography,-640
+pulmonary nodules,-640
+CT of the thorax,-640
+metastatic lung nodules,-640
+transvaginal ultrasound,-640
+enlarged uterus,-640
+complete loss of zonal anatomy,-640
+abdominal magnetic resonance imaging (MRI),-640
+enlarged heterogenous myometrial mass,-640
+splenic metastatic lesion,-640
+"serum β-human chorionic gonadotrophin (β-hCG) 232,085 mUI/mL",-640
+suction evacuation and curettage,-640
+pathology report confirmed choriocarcinoma,-640
+International Federation of Gynecology and Obstetrics (FIGO) modified WHO prognostic scoring system,-640
+total score of 12,-640
+high risk of developing resistance to single-drug chemotherapy,-640
+multiagent chemotherapy regimen,-640
+low-dose etoposide,-640
+cisplatin,-640
+EMA/CO regimen,-608
+etoposide,-608
+methotrexate,-608
+actinomycin D,-608
+cyclophosphamide,-608
+vincristine,-608
+six cycles of EMA/CO,-608
+β-hCG levels plateaued,0
+restaging with MRI of the brain,0
+18F-fluorodeoxyglucose (FDG) positron emission tomography (PET)/CT scan,0
+decreased pulmonary nodules,0
+decreased uterine mass,0
+low standardized uptake value (SUV),0
+revised FIGO score 7,0
+EP/EMA regimen,0
+normalization of β-hCG,168
+grade 3 neutropenia,-112
+granulocyte colony stimulating factor (G-SCF),-112
+dose reduction of etoposide and actinomycin D,-112
+grade 2 alopecia,-112
+grade 2 nausea,-112
+dexamethasone,-112
+ondansetron,-112
+grade 2 fatigue,0
+male condoms,0
+follow-up,0
+alive 21 months post diagnosis,504

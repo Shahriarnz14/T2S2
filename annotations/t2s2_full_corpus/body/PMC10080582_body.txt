@@ -1,0 +1,115 @@
+pmc Core Tip: Pyomyoma is a rare but potentially fatal condition resulting from infarction and infection of a fibroid through bacterial seeding and direct, hematogenous, or lymphatic dissemination. Diffusion-weighted images, apparent diffusion coefficient quantification and the addition of T1- and T2-weighted sequences with fat suppression can improve the characterization of the components of a myoma during degeneration.
+
+INTRODUCTION
+
+A pyomyoma is a rare but potentially fatal condition resulting from infarction and infection of a leiomyoma[1] through bacterial seeding and direct, hematogenous, or lymphatic dissemination. Because of the rarity of pyomyomas, low clinical suspicion delays its diagnosis and predisposes patients to possible complications, such as purulent peritonitis or sepsis.
+
+The definitive treatment of a pyomyoma is hysterectomy[2]. An alternative consists of intravenous administration of broad-spectrum antibiotics and myomectomy. Surgery can be adjusted according to the size and number of pyomyomas while considering the future reproductive wishes of the patient[3]. Surgery can also be performed to make a definitive diagnosis[1] while decreasing associated morbidity and mortality[4].
+
+While ultrasound and computed tomography are often the first tools used for the detection of pyomyomas[5], magnetic resonance imaging (MRI) is the most precise imaging technique that can be used to characterize myomas with different types of degeneration (including the identification of purulent collections in the pyomyoma), which makes it potentially useful for diagnosis. However, the emergency use of MRI is still controversial[5].
+
+Differential diagnoses of pyomyoma include gynecological tumors (benign or malignant ovarian tumors, tubo-ovarian abscess, uterine sarcoma, or pyometra), endometritis, gastrointestinal stromal tumors, and appendiceal mucocele[3,5]. However, red degeneration should be considered as an important entity due to its similarities to a pyomyoma on MRI. Red degeneration can exhibit peripheral or diffused hyperintensities in T1-weighted images and variable signal intensity, with or without a hypointense rim in T2-weighted images[5]. As an additional complementary sequence, diffusion-weighted imaging can be obtained. Generally, tissues with high cellularity have lower diffusion coefficients, which can be clinically related to purulent materials.
+
+The ethics committee of hospital Christus Muguerza Hospital Betania approved this study. A signed informed consent by the patient was obtained for the publication of this case report.
+
+CASE PRESENTATION
+
+Chief complaints
+
+A 26-year-old premenopausal nulliparous woman was evaluated for severe hypogastric pain in the prior 24 h with no response to analgesics.
+
+History of present illness
+
+The patient had a history of uterine myomatosis, which was confirmed by a pelvic ultrasound. She was prescribed with analgesics and sent home; however, she returned to the emergency department of our hospital a week later with abnormal uterine bleeding and abdominal pain.
+
+History of past illness
+
+The patient had no prior chronic or systemic disease. The patient had no prior surgeries.
+
+Personal and family history
+
+The patient did not have prior pregnancies or deliveries. Her menstrual cycle was reported as regular. There was no family history of chronic diseases or cancer.
+
+Physical examination
+
+A depressible and tender abdomen with a slight increase in volume in the hypogastrium was observed during the physical examination.
+
+Laboratory examinations
+
+On admission, there were no abnormal laboratory findings. A reverse transcription PCR for severe acute respiratory syndrome coronavirus 2 was obtained, with a negative result.
+
+Imaging examinations
+
+Requested MRI showed a mass located in the posterior wall of the uterus, with a T1- and T2-weighted hyperintense component, a T1-weighted hyperintense halo as well as some materials with high T1-weighted fat-saturation signal (suggesting a hematic content) and content with high T2-weighted fat-saturation signal indicating liquid content (Figure 1). In the diffusion-weighted images, an apparent diffusion coefficient map was obtained by measuring the region of interest with a low apparent diffusion coefficient (ADC) value (1.5 x 10-3 mm2/s) (Figure 2). The results obtained suggested the presence of a leiomyoma with red degeneration; however, pyomyoma was considered as a differential diagnosis due to the low ADC value.
+
+Figure 1 Magnetic resonance imaging findings. An axial view T1 and T2-weighted showed a large intramural lesion in the myometrium with materials. A: High-signal intensity in T1-weighted view indicated the presence of a hemorrhagic component; B: High-signal intensity material in T2-weighted view indicated the presence of a liquid component.
+
+Figure 2 Magnetic resonance imaging findings by diffusion-weighted images. A: An axial diffusion-weighted view showed areas with restrictions; B: Apparent diffusion coefficient map; C: Apparent diffusion coefficient color map.
+
+FINAL DIAGNOSIS
+
+The final given diagnosis was uterine myomatosis with red degeneration complicated with pyomyoma.
+
+TREATMENT
+
+After evaluating the case and considering that the patient was a nulliparous woman, a laparoscopic myomectomy was performed to preserve the patient’s fertility wishes (Figure 3). This also resulted in the discovery of an intraoperative large myoma that was peripherally hypovascularized with friable tissue in its center.
+
+Figure 3 Follow–up magnetic resonance imaging. A: Sagittal T2-weighted image showed an intramural lesion before surgery; B: Sagittal T2-weighted imaged showed an intramural lesion after myomectomy.
+
+OUTCOME AND FOLLOW-UP
+
+At 12 h postoperatively, the patient experienced sepsis symptoms, consisting of hypotension (70/40 mmHg), tachycardia (150 bpm), fever (39.8 °C), respiratory distress (30 rpm; SPO2, 80%), and drowsiness. Therefore, she was admitted to the intensive care unit for management with oxygen therapy, fluid resuscitation, and empiric antibiotic therapy.
+
+After performing myomectomy, laboratory results were obtained, showing anemia (10.4 g/dL), leukocytosis with bandemia (18.32 K/uL; 10.0%), high C-reactive protein levels (123.94 mg/L), procalcitonin (5.55 ng/mL), pCO2 (31.0 mmHg), HCO3 (20.6), BEb (-2.5), and lactate (1.3).
+
+The histopathologic report showed a uterine leiomyoma with coagulative and liquefactive necrosis, while a tissue culture showed gram-negative cocci bacteria, which confirmed the diagnosis of a pyomyoma. Antibiotic treatment was adjusted towards gram-negative cocci, resulting in normalization of inflammatory markers and clinical improvement after 3 d.
+
+DISCUSSION
+
+Myomas are the most common solid pelvic tumor in women during reproductive years, occurring in approximately 20%-40% of this population[6]. It is estimated that 50% of women bearing myomas will remain asymptomatic through their lives. Also known as fibroids or leiomyomas, these tumors are benign and originate from smooth muscle cells of the uterus, but cases have been reported in which smooth muscle from uterine blood vessels may become their source[6]. The remaining 50% of women will develop symptoms related to their size, location, or degenerative changes, if present. Some of these symptoms may include polymenorrhea, hypermenorrhea, or even menometrorrhagia[6].
+
+Associated pain in myomatosis is relatively infrequent, and it usually presents upon certain criteria: (1) Fibroids above 5 cm; (2) Posterior wall fibroids; and (3) Fibroids with a sudden increase in size (often related to pregnancy) as the blood supply may become insufficient, producing tissue anoxia, necrotic infarction, and the subsequent release of prostaglandins[7]. Cases of severe pain are often associated with torsion of pedunculated myomas, cervical dilation by submucosal myomas, and fibroid red degeneration of the pregnancy[7]. All of these conditions usually call for immediate action.
+
+In this reviewed case, the patient had a previous history of myomatosis and presented with acute persistent pain, which prompted an ultrasound evaluation. The study did not show relevant changes within myomas. On ultrasound, a painful myoma above 200 cm3 with changes in the echogenicity suggesting internal cystic lesions can suggest red degeneration and infarction[7]. Even so, according to clinical suspicion, an MRI was ordered to exclude complications from the myomas, considering that red degeneration is an important complication of leiomyomas.
+
+Myomas with red degeneration are characterized by acute onset abdominal pain, mild fever, localized tenderness over the myoma (as in this case), and leukocytosis. As mentioned before, they can become infected and turn to pyomyomas. Extensive necrotic areas can become infected with anaerobic bacteria. MRI should be considered in such situations to confirm the diagnosis and facilitate fibroid mapping before surgery. Pyomyomas usually lead to inflammatory changes and tissue necrosis, compatible with those present at the moment of presentation in this case, arising suspicion due to the low ADC on MRI[7].
+
+Patients with a history of myomatosis who develop sepsis with unidentifiable foci should be suspected for pyomyoma. In our case, sepsis occurred after the surgical procedure. However, according to available literature, the clinical picture can be very unspecific, and the clinical presentation of pyomyomas can be insidious. Therefore, the diagnosis could be complicated.
+
+CONCLUSION
+
+The main diagnostic tools to evaluate pyomyomas are the clinical and laboratory findings as well as tissue cultures. Nonetheless, MRI can help to corroborate these findings as well as to better characterize myomas along with its complications.
+
+Informed consent statement: The patient provided informed written consent about personal and medical data collection prior to study enrollment.
+
+Conflict-of-interest statement: The authors report no relevant conflicts of interest for this article.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Provenance and peer review: Unsolicited article; Externally peer reviewed.
+
+Peer-review model: Single blind
+
+Peer-review started: September 1, 2022
+
+First decision: November 25, 2022
+
+Article in press: March 9, 2023
+
+Specialty type: Radiology, nuclear medicine and medical imaging
+
+Country/Territory of origin: Mexico
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): 0
+
+Grade C (Good): C, C
+
+Grade D (Fair): 0
+
+Grade E (Poor): E
+
+P-Reviewer: Aydin S, Turkey; Cheng YS, China; Hegazy AA, Egypt S-Editor: Liu GL L-Editor: Filipodia P-Editor: Liu GL

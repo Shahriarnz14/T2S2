@@ -1,0 +1,48 @@
+event,time
+mild abdominal pain ,-72
+nausea ,-72
+profuse diarrhea ,-72
+abdominal pain worsened ,-24
+diarrhea worsened ,-24
+unresponsive ,-24
+hypotensive ,0
+tachycardic ,0
+severe pain in lower abdomen ,0
+tenderness ,0
+no fever ,0
+no masses ,0
+no lymph nodes ,0
+metabolic acidosis ,0
+serum lactate level over 6 mmol/L ,0
+intravenous fluid reanimation ,0
+abdominal CT ,0
+bowel dilated ,0
+no free liquid ,0
+no air ,0
+no masses ,0
+abdominal pain worsened ,0
+abdominal distention worsened ,0
+surgical consultation ,0
+surgery ,0
+intestinal ischemia ,0
+purplish color of small bowel ,0
+edema of small bowel ,0
+engorged mesentery ,0
+ecchymosis ,0
+visible peristalsis ,0
+response to reanimation maneuvers ,0
+second-look surgical laparotomy ,0
+Bogota bag ,0
+low-molecular-weight heparin ,0
+transfer to intensive care unit ,0
+angio-3D reconstruction of CT scan ,0
+vascular malformation of superior mesenteric artery ,0
+celiacomesenteric trunk ,0
+bowel loops in better condition ,24
+normal color of bowel loops ,24
+normal mobility of bowel loops ,24
+ventilator-associated pneumonia ,24
+sepsis ,24
+refractory shock ,24
+organ failure ,24
+death ,24

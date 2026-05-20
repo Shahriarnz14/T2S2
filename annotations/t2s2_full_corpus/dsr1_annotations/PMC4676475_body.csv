@@ -1,0 +1,73 @@
+event,time
+57 years old,0
+male,0
+admitted to the hospital,0
+breathlessness,-96
+abdominal discomfort,-96
+smoking history (40-pack year),0
+febrile,0
+tachycardic,0
+lactate 4 mmol/l,0
+surveillance colonoscopy,-120
+splenic flexure polyp biopsy,-120
+diverticular disease,-120
+possible abdominal perforation,0
+sepsis,0
+sudden deterioration,-24
+painful cold legs,-24
+hypotensive,-24
+agitated,-24
+sweaty,-24
+peripheral mottling,-24
+massive hepatomegaly,-24
+lactate 14 mmol/l,-24
+marked hypoglycaemia,-24
+resuscitated with crystalloid,-24
+resuscitated with dextrose,-24
+transferred to ICU,-24
+colonic perforation unlikely,-24
+cardiac arrest,-24
+pulseless electrical activity,-24
+intubated,-24
+CPR,-24
+central venous catheter inserted,-24
+right internal jugular vein large,-24
+right internal jugular vein non-compressible,-24
+central venous pressure 31 mmHg,-24
+consumptive coagulopathy,-24
+INR 5.9,-24
+fibrinogen 0.2 g/l,-24
+platelets 38×109/l,-24
+transthoracic echo performed,0
+massive pericardial effusion,0
+right ventricular collapse,0
+electrical alternans on ECG,0
+enlarged heart shadow,0
+pericardial effusion drained,0
+700 ml fluid aspirated,0
+blood stained pericardial fluid,0
+limb ischaemia,0
+type A dissection suspected,0
+metastatic bowel cancer considered,0
+"CT chest, abdomen, pelvis",24
+CT aortogram,24
+haematoma in distal arch of aorta,24
+haematoma in descending aorta,24
+poor quality CT images,24
+repeat CT angiogram,36
+transoesophageal echocardiogram x2,36
+type A dissection excluded,36
+managed medically,36
+moderate recurrence of pericardial effusion,168
+paraplegia,168
+pleural effusion evolved,168
+pleural effusion drained,168
+cells with positive CK7,168
+cells negative for CK20,168
+metastatic adenocarcinoma,168
+suspicious spiculate lesion in left upper lobe,168
+died,1440
+no post mortem,1440
+symptomatic pericardial effusion,0
+undiagnosed lung cancer,0
+acute type B aortic dissection,0

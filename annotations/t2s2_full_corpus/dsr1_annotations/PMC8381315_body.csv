@@ -1,0 +1,99 @@
+event,time
+54 years old,0
+woman,0
+type 2 diabetes mellitus,0
+acute onset of shortness of breath,-24
+acute onset of drowsiness,-24
+stopped metformin,-8760
+stopped subcutaneous insulin,-8760
+lifestyle modifications,-8760
+regular exercise,-8760
+modified diet,-8760
+intermittent fasting,-8760
+taking traditional Chinese medications,-8760
+fish oil,-8760
+black garlic,-8760
+lingzhi,-8760
+polydipsia,-4320
+back ache,-4320
+thigh ache,-4320
+intentional weight loss,-4320
+atrophy of leg muscles,-4320
+slow gait,-4320
+difficulty climbing stairs,-4320
+dehydrated,0
+drowsy,0
+Glasgow Coma Scale 6,0
+sinus tachycardia,0
+tachypnea,0
+heart rate 125,0
+respiratory rate 28,0
+blood pressure 157/113,0
+afebrile,0
+saturating well on room air,0
+cachexic,0
+malnourished,0
+pupils equal and reactive,0
+no pink skin,0
+no bright red lips,0
+no signs of pancreatitis,0
+lipaemic blood,0
+strawberry pink blood,0
+high anion gap metabolic acidosis,0
+lactic acidosis,0
+ketosis,0
+serum ketones 16.47 mmol/L,0
+lactate 3.47 mmol/L,0
+hyperkalaemia,0
+hypokalaemia,0.5
+serum glucose 31.5 mmol/L,3
+urea 7.2 mmol/L,3
+serum osmolality 312 mOsm/kg,3
+severe hyperlipidaemia,3
+hypertriglyceridemia,3
+total serum cholesterol 47.07 mmol/L,3
+serum triglycerides 267.66 mmol/L,3
+glycated haemoglobin 8.2%,3
+urine glucose 4+,3
+urine ketones 4+,3
+urine proteins 4+,3
+sinus tachycardia on ECG,3
+normal chest X-ray,3
+normal abdominal X-ray,3
+normal CT brain,3
+diagnosed with DKA,0
+diagnosed with severe hypertriglyceridemia,0
+intubated for airway protection,0
+fluid resuscitation,0
+intravenous insulin,0
+admitted to ICU,0
+treated with meropenem,24
+continuous insulin infusion,24
+lactic acidosis resolved,48
+ketoacidosis resolved,72
+weaned off insulin infusion,96
+extubated,96
+transferred out of ICU,96
+started on statins,96
+started on fibrates,96
+HT improved,96
+hypercholesterolemia improved,96
+E. coli bacteremia,96
+blood cultures positive,96
+referred to endocrinology,96
+referred to renal medicine,96
+reviewed by dietician,96
+occupational therapy,96
+physiotherapy,96
+discharged,432
+total serum cholesterol 11.69 mmol/L,432
+serum triglycerides 0.78 mmol/L,432
+compliant to insulin,432
+outpatient follow-up,720
+total serum cholesterol 5.22 mmol/L,720
+triglycerides 0.45 mmol/L,720
+urine protein <0.04 mg/dL,720
+UFEME negative for glucose,720
+UFEME negative for ketones,720
+no neuropathy,720
+no retinopathy,720

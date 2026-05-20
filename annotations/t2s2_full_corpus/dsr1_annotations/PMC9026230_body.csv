@@ -1,0 +1,168 @@
+event,time
+78-year-old,0
+woman,0
+presented to the emergency room,0
+complaining of diarrhea,-336
+progressively worsening non-bloody diarrhea,-336
+5 bowel movements per day,-336
+left lower-quadrant dull abdominal pain,-72
+nausea,-72
+non-bloody vomiting,-72
+no fever,0
+no headache,0
+no cough,0
+no shortness of breath,0
+no jaw claudication,0
+no joint pain,0
+no visual disturbances,0
+lived in Wisconsin,0
+no recent travel,0
+no sick contacts,0
+Moderna mRNA vaccine,-2880
+poorly controlled type 2 diabetes mellitus,0
+A1C 8.4%,0
+hypertension,0
+CKD 3b A2,0
+depression,0
+hypertriglyceridemia,0
+anemia with CKD,0
+bilateral cataract surgery,-87600
+compliant with medications,-24
+aspirin 81 mg daily,-24
+atorvastatin 40 mg daily,-24
+famotidine 20 mg twice daily as needed,-24
+glargine insulin 18 units,-24
+aspart insulin 20 units 3 times daily,-24
+metformin 1000 mg twice daily,-24
+metoprolol tartrate 25 mg twice daily,-24
+losartan 100 mg daily,-24
+torsemide 20 mg daily,-24
+sertraline 150 mg daily,-24
+denied recent medication changes,0
+taking metformin since 2005,0
+former smoker,0
+denied alcohol use,0
+denied illicit drug use,0
+family history negative for cerebrovascular disease,0
+family history negative for vasculitides,0
+temperature 36.3°C,0
+blood pressure 165/67 mmHg,0
+heart rate 104 bpm,0
+respiratory rate 16 bpm,0
+oxygen saturation normal,0
+alert,0
+pale,0
+no distress,0
+"pupils round, equal 2–3 mm",0
+pupils reactive to light,0
+pupils reactive to accommodation,0
+dry mucous membranes,0
+regular heart sounds,0
+tachycardia,0
+no murmurs,0
+no rubs,0
+lungs clear,0
+mild left lower quadrant tenderness,0
+no guarding,0
+no rebound tenderness,0
+normal neurological exam,0
+leukocytosis 10.2×10^9/L,0
+neutrophilia,0
+lymphopenia,0
+hemoglobin 10.6 g/dL,0
+mild thrombocytosis 438×10^9/L,0
+lactate 6.4 mmol/L,0
+sodium 135 mmol/L,0
+hypochloremia 86 mmol/L,0
+hyperkalemia 6.2 mmol/L,0
+anion gap elevated,0
+metabolic acidosis,0
+bicarbonate 6 mmol/L,0
+anion gap 43,0
+no osmolar gap,0
+glucose 269 mg/dL,0
+BUN 83 mg/dL,0
+creatinine 8.47 mg/dL,0
+baseline creatinine 1.2–1.4 mg/dL,0
+normal liver transaminases,0
+normal total bilirubin,0
+creatine kinase 110 U/L,0
+venous blood gas pH <6.80,0
+pCO2 17 mmHg,0
+beta-hydroxybutyrate 1.8 mmol/L,0
+SARS CoV-2 PCR negative,0
+urinalysis positive for glucose 500 mg/dL,0
+urinalysis positive for ketones 80 mg/dL,0
+CT abdomen/pelvis without contrast,0
+extensive colonic diverticula,0
+inflammatory change around descending colon,0
+mild diverticulitis,0
+no free air,0
+no abscess,0
+administered ceftriaxone,0
+administered Flagyl,0
+2 L NaCl 0.9% fluid bolus,0
+300 mEq bicarbonate bolus,0
+bicarbonate drip,0
+repeat lactate 9.6 mmol/L,1
+CT abdomen/pelvis with contrast,1
+ruled out acute mesenteric ischemia,1
+admitted to ICU,2
+insulin drip initiated,2
+2-L NaCl 0.9% fluid bolus,2
+confusion,3
+lethargy,3
+hypothermia 32.2°C,3
+sudden painless bilateral vision loss,3
+pupils equal 3–4 mm,3
+no pupillary reaction to light,3
+absent blink to threat,3
+no change in abdominal exam,3
+CT head negative,4
+ophthalmology evaluation,4
+preserved extraocular motility,4
+no retinopathy,4
+no macular edema,4
+no acute glaucoma,4
+no embolic phenomena,4
+cortical blindness considered,4
+MRI brain negative,5
+lactic acid 14.2 mmol/L,7
+sodium 138 mmol/L,7
+hypochloremia 92 mmol/L,7
+hyperkalemia 6.0,7
+bicarbonate <5,7
+anion gap unable to calculate,7
+glucose 264,7
+venous blood gas pH 6.87,9
+pCO2 29 mmHg,9
+lactic acid 16.1 mmol/L,9
+MALA suspected,9
+initiated CRRT,9
+hypotension,9
+norepinephrine infusion,9
+TTE normal,10
+volatile serum screen high acetone,10
+negative for methanol,10
+negative for ethanol,10
+negative for isopropanol,10
+metabolic acidosis improved,11
+vision improved,11
+vision returned to baseline,12
+mental status returned to baseline,12
+hypothermia resolved,12
+bicarbonate infusion discontinued,12
+lactic acid normalized,12
+insulin drip transitioned,12
+weaned off norepinephrine,16
+blood cultures negative,16
+urine cultures negative,16
+abdominal exam benign,16
+no recurrence of diarrhea,16
+antibiotics discontinued,48
+dialysis discontinued,18
+creatinine 2.93 mg/dL,48
+hyperkalemia resolved,48
+discharged home,48
+adjusted insulin regimen,48
+metformin discontinued,48

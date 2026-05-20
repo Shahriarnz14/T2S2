@@ -1,0 +1,81 @@
+event,time
+70-year-old ,0
+male ,0
+farmer ,0
+presented to the emergency department ,0
+admitted to the hospital ,0
+fever ,-120
+generalized body ache ,-120
+headache ,-120
+altered sensorium ,-24
+joint pains ,0
+epigastric pain ,0
+inguinal lymphadenopathy ,0
+mild generalized rash ,0
+no eschar ,0
+hemodynamically stable ,0
+disoriented ,0
+no focal neurological deficit ,0
+no neck rigidity ,0
+acute febrile illness (provisional diagnosis) ,0
+undifferentiated fever (provisional diagnosis) ,0
+negative malaria test ,0
+negative dengue test ,0
+negative typhoid test ,0
+negative leptospira test ,0
+scrub typhus antigen card positive ,0
+scrub immunoglobulin M (IgM) positive ,0
+scrub typhus ,0
+sterile blood cultures ,0
+sterile other body fluid cultures ,0
+"leukocytosis (15,800/cc) ",0
+mild hyperbilirubinemia with transaminitis ,0
+total bilirubin: 3.6 mg/dL ,0
+direct bilirubin: 2.6 mg/dL ,0
+serum glutamic oxaloacetic transaminase: 116 U/L ,0
+serum glutamic pyruvic transaminase: 178 U/L ,0
+international normalized ratio: 1.56 ,0
+hepatitis B antigen negative ,0
+hepatitis C antibody negative ,0
+ultrasound of the abdomen showed mild fatty infiltration of the liver ,0
+other investigations normal ,0
+treated with tablet doxycycline 100 mg twice daily ,0
+defervescence occurred ,48
+orientation improved ,48
+weakness of both lower limbs (Grade 2/5) ,144
+progressed to the upper limbs (Grade 2/5) ,146
+deep tendon reflexes were absent ,146
+plantar responses were flexor ,146
+bladder incontinence ,146
+no bowel incontinence ,146
+breathing difficulty ,148
+signs of respiratory distress ,148
+single breath count was 10 ,148
+respiratory acidosis ,148
+shifted to the Intensive Care Unit ,148
+intubated ,148
+put on mechanical ventilation ,148
+MRI of the brain without any abnormality ,156
+MRI of the cervical spine revealed no abnormality ,156
+nerve conduction velocity showed motor sensory demyelinating polyneuropathy ,156
+Guillain–Barre syndrome (GBS) ,156
+cerebrospinal fluid analysis did not reveal albuminocytologic dissociation ,156
+cerebrospinal fluid protein: 146 mg/dL ,156
+cerebrospinal fluid cell count: 70 with lymphocytic predominance ,156
+cerebrospinal fluid sugar: 71 mg/dL ,156
+corresponding blood sugar: 145 mg/dL ,156
+started intravenous immunoglobulin therapy 0.4 mg/kg/day for 5 days ,156
+tablet rifampicin 600 mg twice daily added ,156
+treated for meningoencephalitis ,156
+improvement in weakness of all four limbs ,216
+improvement in respiratory parameters ,216
+serial liver function tests within normal range ,336
+weaned off mechanical ventilation ,388
+extubated from the ventilator ,388
+oral feeding was started ,390
+aggressive limb and chest physiotherapy ,390
+shifted out from ICU ,396
+discharged from the hospital ,672
+full neurological recovery ,672
+followed up regularly in the outpatient department ,840
+presently has no functional disability ,1008

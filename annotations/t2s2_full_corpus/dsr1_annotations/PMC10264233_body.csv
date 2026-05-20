@@ -1,0 +1,191 @@
+event,time
+73-year-old,0
+male,0
+admitted to the hospital,0
+signs of infection at the surgical site on left hip,0
+bilateral THA,-175200
+avascular necrosis,-175200
+empty sella syndrome,0
+multiple complications from neurosurgical bleeding,0
+penicillin allergy,0
+adrenal insufficiency,0
+prolonged hospitalization due to drug addiction,0
+aseptic loosening of left hip,-105120
+one-stage revision,-105120
+"WBC=5,560/mm³",-105120
+ESR=43 mm/hr,-105120
+CRP=10 mg/L,-105120
+purulent wound drainage,-105120 + 360 = -104760 (15 days post-revision)
+ESR=33 mm/hr,-104760
+CRP=20 mg/L,-104760
+WBC normal range,-104760
+blood glucose levels normal,-104760
+joint aspiration (Escherichia coli resistant to ampicillin),-104760
+open debridement and irrigation with prosthetic retention,-104760
+DAIR performed,-104760
+administration of IV ciprofloxacin,-104760
+deep tissue samples sent for culture,-104760
+persistent signs of infection,-104760 + 504 = -104256 (3 weeks post-DAIR)
+DAIR at three weeks postoperatively,-104256
+DAIR at six weeks postoperatively,-104256 + 504 = -103752
+Staphylococcus epidermidis cultured,-103752
+IV vancomycin and rifampicin,-103752
+asymptomatic,-103752 + 10080 = -93720 (6 weeks later)
+two episodes of prosthetic dislocation,-93720 + 105120 = 11400 (2 years post-revision)
+"WBC 13,700/mm³",11400
+ESR 35 mm/hr,11400
+CRP 108 mg/dL,11400
+instability,11400
+chronic wound infection,11400
+two-stage revision,11400
+cement spacer with antibiotics,11400
+IV meropenem and trimethoprim-sulfamethoxazole,11400
+S. epidermidis detected,11400
+teicoplanin and ciprofloxacin,11400 + 336 = 11736 (2 weeks post-revision)
+hospitalized for fever,11736
+persistent wound drainage,11736
+"WBC 11,240/mm³",11736
+ESR 25 mm/hr,11736
+CRP 137 mg/dL,11736
+surgical debridement,11736
+E. coli detected,11736
+deep vein thrombosis,11736
+intestinal ischemia,11736
+resection of transverse and small colon,11736
+transferred to ICU,11736
+additional surgical debridements,11736 + 168 = 11904 (1 week later)
+revision of spacer,11904
+Candida parapsilosis detected,11904
+fluconazole administered,11904
+discharged from hospital,11904 + 1680 = 13584 (10 weeks later)
+reactivation of chronic wound infection,13584 + 17520 = 31104 (2 years post-discharge)
+fever,31104
+fistulous lesions,31104
+purulent spontaneous drainage,31104
+"WBC 7,611/mm³",31104
+ESR 47 mm/hr,31104
+CRP 36 mg/dL,31104
+revision of cement spacer,31104
+vancomycin and liposomal amphotericin B,31104
+methicillin-sensitive S. aureus,31104
+E. coli,31104
+Acinetobacter baumannii,31104
+markers of inflammation normalized,31104 + 2160 = 33264 (3 months later)
+second stage re-implantation arthroplasty,33264
+femoral tumor stem,33264
+uncemented porous tantalum cup,33264
+acetabular defect addressed,33264
+dislocation,33264 + 3624 = 36888 (5 months post-reimplantation)
+reactivation of chronic infection,36888
+"WBC 8,455/mm³",36888
+ESR 32 mm/hr,36888
+CRP 57 mg/dL,36888
+DAIR performed,36888
+wide resection of necrotic tissue,36888
+retention of all components,36888
+S. maltophilia identified,36888
+levofloxacin prescribed,36888
+new prosthesis dislocation,36888 + 2184 = 39072 (3 months later)
+chronically dislocated hip revision prosthesis,39072
+suppressive antibiotics for one year,39072 + 8760 = 47832
+no signs of reactivation,47832
+"WBC 7,430/mm³",47832
+ESR 36 mm/hr,47832
+CRP 47 mg/dL,47832
+plan to discontinue antibiotics,47832
+decision against another revision surgery,47832
+73-year-old,0
+male,0
+admitted to the hospital,0
+signs of infection at the surgical site on left hip,0
+bilateral THA,-175200
+avascular necrosis,-175200
+empty sella syndrome,0
+multiple complications from neurosurgical bleeding,0
+penicillin allergy,0
+adrenal insufficiency,0
+prolonged hospitalization due to drug addiction,0
+aseptic loosening of left hip,-105120
+one-stage revision,-105120
+"WBC=5,560/mm³",-105120
+ESR=43 mm/hr,-105120
+CRP=10 mg/L,-105120
+purulent wound drainage,-104760
+ESR=33 mm/hr,-104760
+CRP=20 mg/L,-104760
+WBC normal range,-104760
+blood glucose levels normal,-104760
+joint aspiration (Escherichia coli resistant to ampicillin),-104760
+open debridement and irrigation with prosthetic retention,-104760
+DAIR performed,-104760
+administration of IV ciprofloxacin,-104760
+deep tissue samples sent for culture,-104760
+persistent signs of infection,-104256
+DAIR at three weeks postoperatively,-104256
+DAIR at six weeks postoperatively,-103752
+Staphylococcus epidermidis cultured,-103752
+IV vancomycin and rifampicin,-103752
+asymptomatic,-93720
+two episodes of prosthetic dislocation,11400
+"WBC 13,700/mm³",11400
+ESR 35 mm/hr,11400
+CRP 108 mg/dL,11400
+instability,11400
+chronic wound infection,11400
+two-stage revision,11400
+cement spacer with antibiotics,11400
+IV meropenem and trimethoprim-sulfamethoxazole,11400
+S. epidermidis detected,11400
+teicoplanin and ciprofloxacin,11736
+hospitalized for fever,11736
+persistent wound drainage,11736
+"WBC 11,240/mm³",11736
+ESR 25 mm/hr,11736
+CRP 137 mg/dL,11736
+surgical debridement,11736
+E. coli detected,11736
+deep vein thrombosis,11736
+intestinal ischemia,11736
+resection of transverse and small colon,11736
+transferred to ICU,11736
+additional surgical debridements,11904
+revision of spacer,11904
+Candida parapsilosis detected,11904
+fluconazole administered,11904
+discharged from hospital,13584
+reactivation of chronic wound infection,31104
+fever,31104
+fistulous lesions,31104
+purulent spontaneous drainage,31104
+"WBC 7,611/mm³",31104
+ESR 47 mm/hr,31104
+CRP 36 mg/dL,31104
+revision of cement spacer,31104
+vancomycin and liposomal amphotericin B,31104
+methicillin-sensitive S. aureus,31104
+E. coli,31104
+Acinetobacter baumannii,31104
+markers of inflammation normalized,33264
+second stage re-implantation arthroplasty,33264
+femoral tumor stem,33264
+uncemented porous tantalum cup,33264
+acetabular defect addressed,33264
+dislocation,36888
+reactivation of chronic infection,36888
+"WBC 8,455/mm³",36888
+ESR 32 mm/hr,36888
+CRP 57 mg/dL,36888
+DAIR performed,36888
+wide resection of necrotic tissue,36888
+retention of all components,36888
+S. maltophilia identified,36888
+levofloxacin prescribed,36888
+new prosthesis dislocation,39072
+chronically dislocated hip revision prosthesis,39072
+suppressive antibiotics for one year,47832
+no signs of reactivation,47832
+"WBC 7,430/mm³",47832
+ESR 36 mm/hr,47832
+CRP 47 mg/dL,47832
+plan to discontinue antibiotics,47832
+decision against another revision surgery,47832

@@ -1,0 +1,93 @@
+event,time
+66 years old,0
+male,0
+admitted to the hospital,0
+hypertension,0
+hyperlipidemia,0
+hepatitis C virus infection,0
+atrial fibrillation,0
+anticoagulated with apixaban,0
+fall,-72
+dizziness,-72
+lost consciousness,-72
+Glasgow Coma Score of 15,-72
+no focal neurological deficits,-72
+noncontrast CT of the head,-72
+6 mm right frontal SDH,-72
+right medial orbital wall fracture,-72
+no operative intervention recommended,-72
+severe headache,48
+head CT,48
+worsening of the SDH,48
+mass effect,48
+2 mm midline shift,48
+no surgical intervention recommended,48
+discharged to acute inpatient rehabilitation,144
+repeat head CT,216
+expansion of the hematoma,216
+increased mass effect,216
+8 mm midline shift,216
+burr holes for evacuation of the SDH,216
+placement of subdural drain,216
+headache improved,222
+SDH decreased in size,222
+drain removed,222
+discharged home,222
+seizure prophylaxis with levetiracetam,222
+strange sensation in the right arm,384
+feeling that he could not control the arm,384
+sent to the emergency room,384
+focal left arm seizure,384
+treated for seizure,384
+started on electroencephalography (EEG) monitoring,384
+admitted,384
+unresponsive,408
+CT head showed no acute hemorrhage,408
+EEG indicated status epilepticus,408
+intubated for airway protection,408
+transferred to the medical intensive care unit,408
+cerebral CTA,408
+negative for any pathology,408
+ventilator-dependent respiratory failure,408
+septic shock secondary to Pseudomonas bacteremia,408
+tracheostomy,408
+gastrostomy,408
+discharged to long-term acute care hospital,629
+less responsive,657
+transferred back for neurosurgical evaluation,657
+opened eyes to stimulation,657
+localized with the right upper extremity,657
+minimal movement of left upper and bilateral lower extremities,657
+"cough, gag, corneal, and pupillary reflexes were all present",657
+CT and CTA head,657
+right frontal intraparenchymal hemorrhage,657
+cerebral catheter angiography,657
+prominence of the anterior temporal branch of the right middle cerebral artery,657
+"early, rapid, shunting of blood through a cortical vein to the superior sagittal sinus",657
+opacification of a capillary-like serpiginous tangle of vessels,657
+representing an AVM,657
+Spetzler-Martin Grade 1,657
+Spetzler-Ponce Grade A,657
+embolization of the AVM,665
+using N-butyl-cyanoacrylate glue,665
+successful embolization,665
+no opacification of the early draining vein or AVM nidus,665
+resection of the AVM,673
+right pterional craniotomy,673
+separated from surrounding brain parenchyma using microdissection techniques,673
+feeding arteries coagulated using bipolar electrocautery,673
+draining vein coagulated using bipolar electrocautery,673
+resected,673
+intraoperative Doppler ultrasound indicated no arterial flow in the draining vein,673
+associated intraparenchymal hematoma evacuated,673
+postoperative angiography showed no residual AVM,673
+mental status progressively improved,676
+followed commands,676
+tracked with his eyes,676
+spontaneous antigravity movement of the right upper extremity,676
+no movement of the left upper or bilateral lower extremities,676
+pseudomonas sepsis,676
+treated in consultation with infectious disease,676
+discharged to long-term acute care,688
+oxcarbazepine for seizure control,688
+levetiracetam for seizure control,688

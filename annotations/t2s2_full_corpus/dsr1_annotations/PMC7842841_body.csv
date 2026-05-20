@@ -1,0 +1,62 @@
+event,time
+48 years old,0
+male,0
+admitted to the Emergency Department,0
+chest pain,0
+shortness of breath,0
+stabilized in the ED,0
+transferred to intermediate general ward,0
+coronary angiography,0
+3-vessel CAD,0
+61% ejection fraction,0
+body mass index 28.7 kg/m2,0
+overweight,0
+history of CKD,0
+hemodialysis,0
+history of stroke,0
+history of angina,0
+diabetes,0
+dyslipidemia,0
+smoking,0
+scheduled for urgent CABG surgery,0
+preoperative screening score <4,0
+no rapid test,0
+anemia,0
+leukocytosis,0
+increased CKMB,0
+decreased pCO2,0
+increased pO2,0
+decreased HCO3,0
+thorax X-ray cardiomegaly,0
+normal lung appearance,0
+CABG surgery,192
+left internal mammary artery to LAD,192
+saphenous vein graft to OM1,192
+saphenous vein graft to PDA,192
+transferred to ICU,192
+extubated,212
+treated in ICU,212
+transferred to intermediate ward,213
+transferred to ward,336
+difficulty in breathing,384
+decreased saturation,384
+low PO2,384
+fever,384
+transferred to isolation ICU,384
+reintubated,384
+RT-PCR test for COVID-19,384
+COVID-19 positive,384
+neutrophil-to-lymphocyte ratio 14.03,408
+thorax X-ray consolidation,408
+pneumonia,408
+hemodynamically unstable,408
+sepsis,408
+deterioration of urea and creatinine,408
+considered for CRRT,408
+respiratory failure,456
+low pO2,456
+low saturation,456
+high fiO2,456
+died,576
+respiratory distress,576
+COVID-19 infection,576

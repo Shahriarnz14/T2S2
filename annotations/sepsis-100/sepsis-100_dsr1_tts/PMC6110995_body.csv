@@ -1,0 +1,70 @@
+event,time
+38-year-old,0
+woman,0
+admitted to the hospital,0
+abdominal discomfort,-24
+nausea,-24
+vomiting,-24
+no fever,-24
+no vaginal discharge,-24
+discharged home,-24
+abdominal pain,-144
+nausea,-144
+vomiting,-144
+tachycardia,0
+diffuse abdominal pain,0
+guarding on the right quadrants,0
+neutrophilia,0
+low prothrombinemia,0
+acute renal failure,0
+high procalcitonin (180 ng/ml),0
+high c-reactive protein (17 mg/dl),0
+moderate fluid in all quadrants,0
+good foetal vitality,0
+hypotension,0
+general abdominal guarding,0
+hyperlacticaemia (5.87 mmol/l),0
+hypokalaemia (2 mmol/l),0
+hyperglycaemia (320 mg/dl),0
+septic shock,0
+emergency exploratory laparotomy,0
+generalised purulent peritonitis,0
+perforated acute appendicitis,0
+aspirated 1300 ml pus,0
+multiple interloop abscesses,0
+retrosplenic abscesses,0
+subfrenic abscesses,0
+pelvic abscesses,0
+retrouterine abscesses,0
+appendicectomy,0
+abdominal washing,0
+laparostomy,0
+admitted to Intensive Care Unit,0
+vasopressor therapy,0
+dialysis,0
+intravenous piperacillin-tazobactam,0
+laparostomy revision (48 hours later),48
+marked bowel oedema,48
+bowel distention,48
+mild intraabdominal soiling,48
+peritoneal lavage,48
+new laparostomy with progressive closure technique,48
+surgical revision (4 days after first intervention),96
+abdominal cavity primary closed,96
+no prosthesis needed,96
+antibiotherapy adjusted (6th postoperative day),144
+Escherichia coli isolated,144
+Streptococcus orallis isolated,144
+piperacillin-tazobactam suspended,144
+amoxicillin with clavulanic acid started,144
+transferred to obstetrics ward (12th day),288
+good foetal viability,288
+discharged home (14th postoperative day),336
+uncomplicated pregnancy,336
+elective caesarean section (41 weeks),6888
+healthy child,6888
+ventral hernia,2160
+3 months post-partum follow-up,2160
+child thriving,2160
+no neurological impairments,2160
+no other impairments,2160

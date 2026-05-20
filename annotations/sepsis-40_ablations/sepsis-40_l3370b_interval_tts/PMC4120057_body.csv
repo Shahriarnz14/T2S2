@@ -1,0 +1,87 @@
+event,time
+55 years old,0
+male,0
+admitted to the hospital,0
+weakness,-120
+light-headedness,-120
+muscle aches,-120
+non-productive cough,-120
+wheeze,-120
+shivering,-120
+no shortness of breath,-120
+no chest pain,-120
+previous evaluation at the ED,-48
+intravenous hydration,-48
+Penicillin V prescription,-48
+asthma,0
+hypertension,0
+diet-controlled type 2 diabetes,0
+lisinopril,0
+hydrochlorothiazide,0
+25 pack-year smoking history,0
+quit smoking,-5760
+syncope,0
+blood pressure 109/87 mmHg,0
+heart rate 109 beats per minute,0
+respiratory rate of 24 breaths per minute,0
+temperature of 36.5°C,0
+oxygen saturation was 100% on room air,0
+mottling,0
+cyanosis,0
+no jugular venous distension,0
+no lymphadenopathy,0
+clear lungs,0
+no distant cardiac sounds,0
+regular heart rate and rhythm,0
+normal S1/S2,0
+no heart murmur,0
+unremarkable abdomen and extremities,0
+right upper lobe infiltrate,0
+borderline enlarged cardiac silhouette,0
+sinus tachycardia,0
+no tall QRS complex,0
+no electrical alternans,0
+white blood cell count 16.6 103/µL,0
+hemoglobin 13.4 g/dL,0
+sodium 129 mmol/L,0
+potassium 4.2 mmol/L,0
+carbon dioxide 21 mEq/L,0
+creatinine 1.0 mg/dL,0
+glucose 152 mg/dL,0
+cardiac enzymes normal,0
+B-natriuretic peptide 915 pg/mL,0
+lactic acid level 3.8 mmol/L,0
+antibiotics started,0
+fluid resuscitation initiated,0
+no improvement after fluid resuscitation,2
+intensivist consulted,2
+bedside ultrasound performed,2
+pericardial effusion,2
+diastolic collapse of the right atrium,2
+diastolic collapse of the right ventricle,2
+normal ejection fraction,2
+suboptimal subcostal view,2
+syncopal episode,4
+pericardiocentesis,4
+200 milliliters of bloody pericardial fluid drained,4
+symptoms improved,4
+cyanosis improved,4
+open pericardiotomy and pericardial window placement,8
+repeat chest radiograph,8
+smaller cardiac silhouette,8
+repeat electrocardiogram,8
+slightly increased voltage of QRS complexes,8
+CT scan,8
+pericardial drainage tube well positioned,8
+trace pericardial effusion,8
+right upper pneumonic infiltrate,8
+small bilateral pleural effusion,8
+pericardial biopsy and pericardial effusion fluid analysis,8
+adenocarcinoma,8
+pulmonary primary source,8
+bronchial brushing and washing suggested adenocarcinoma,8
+negative blood cultures,24
+negative urine cultures,24
+negative bronchial-alveolar washing cultures,24
+discharged,24
+follow-up at oncology clinic,24

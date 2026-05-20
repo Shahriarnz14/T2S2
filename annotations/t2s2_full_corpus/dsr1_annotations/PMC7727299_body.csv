@@ -1,0 +1,63 @@
+event,time
+72 years old,0
+male,0
+hypertension,0
+atrial fibrillation,0
+alcoholic liver cirrhosis,0
+model for end-stage liver disease score of 28,0
+metastatic urothelial carcinoma,0
+admitted to the hospital,0
+rash developed after day 8 infusion,-72
+enfortumab vedotin day 1 infusion,-192
+enfortumab vedotin day 8 infusion,-72
+erythematous rash with skin sloughing on <20% body,-72
+transferred to burn ICU,-24
+hemodynamically stable on admission,0
+tense bullae on bilateral axillae,0
+tense bullae on back,0
+tense bullae on genitalia,0
+tense bullae on posterior thighs,0
+tense bullae on bilateral heels,0
+blister on posterior oral cavity,0
+concern for SJS/TEN,0
+SCORTEN 7,0
+ABCD-10 score 5,0
+medications: acetaminophen,0
+medications: acyclovir,0
+medications: metoprolol,0
+medications: gabapentin,0
+no recent dose changes,0
+no recent antiepileptics,0
+no recent antibiotics,0
+enfortumab vedotin discontinued,0
+started topical steroid,0
+biopsy performed,0
+interface dermatitis,0
+full-thickness epidermal necrosis,0
+consistent with SJS/TEN overlap,0
+oliguria developed,24
+muddy brown casts,24
+acute kidney injury,24
+acute tubular necrosis,24
+started continuous renal replacement therapy,24
+rash progressed to >30% skin,24
+diagnosed with TEN,24
+systemic steroids contraindicated,24
+condition deteriorated,48
+considered intravenous immunoglobulin,48
+discussed cyclosporine,48
+contemplated etanercept,48
+continued supportive therapy,48
+started empiric vancomycin/meropenem,48
+day 3 of hospitalization,72
+SCORTEN 7/7,72
+hypotension,72
+started norepinephrine,72
+started vasopressin,72
+hyperbilirubinemia,72
+increased INR,72
+MELD score 40,72
+multiorgan failure,72
+septic shock,72
+end-of-life measures discussed,72
+died,480

@@ -1,0 +1,143 @@
+event,time
+14-year-old,0
+female,0
+admitted to our hospital,0
+fatigue,0
+nose bleeding,0
+generalized ecchymosis over the body,0
+arthralgia,0
+pallor,0
+tachycardia,0
+dermal petechiae,0
+mucosal petechiae,0
+ecchymosis,0
+liver 6 cm palpable below the mid-costal line,0
+spleen 4 cm palpable below the mid-costal line,0
+"WBC 333,000/mm3",0
+hemoglobin 4 g/dl,0
+"platelet count 29,000/mm3",0
+peripheral blood smear 97% L1-type blasts,0
+myeloperoxidase negative,0
+Pre-B-cell ALL detected by immunophenotyping,0
+transaminases normal,0
+blood urea nitrogen normal,0
+creatinine normal,0
+uric acid normal,0
+phosphor normal,0
+"lactate dehydrogenase 2,970 IU/ml (high)",0
+hyperleukocytosis,0
+modified BFM protocol Turk ALL 2000 (induction chemotherapy) started,24
+BCR-ABL fusion gene positive,24
+t(9;22) detected in first-day bone marrow aspiration,24
+leukapheresis (first),12
+leukapheresis (second),36
+lumbar punction,96
+"leukocyte count decreased to 50,000/mm3",96
+no cells were seen in the cerebrospinal fluid,96
+benign cytology in cerebrospinal fluid,96
+poor steroid response,192
+"blast count at PBS 1,395/mm3",192
+no hematologic remission in bone marrow aspiration,360
+blast rate 27% (bone marrow),360
+no hematologic remission in bone marrow aspiration,792
+blast rate 12% (bone marrow),792
+included in the high-risk group,792
+High Risk (HR1) block therapy started,816
+High Risk (HR1) block therapy completed,984
+imatinib (Glivec) 400 mg/m2/day per os started,984
+severe mucositis developed,1008
+total parenteral nutrition started,1008
+severe intractable gastrointestinal hemorrhage,1020
+erythrocyte transfusion given,1020
+platelet transfusion given,1020
+very severe neutropenia,1020
+fever 39°C,1020
+C-reactive protein 26 mg/dl (positive),1020
+first HR2 block treatment could not be started,1100
+imatinib treatment given regularly,1100
+bone marrow remission,1872
+depressive mood,1872
+no verbal cooperation,1872
+decreased muscle strength in all extremities,1872
+increased muscle tonus in all extremities,1872
+deep tendon reflex increased in all extremities,1872
+Babinski test positive,1872
+cranial magnetic resonance imaging normal,1872
+severe mucositis persisted,2016
+hemorrhagic diarrhea,2016
+typhlitis,2016
+hyperemesis,2016
+on total parenteral nutrition,2016
+gastrointestinal hemorrhage (abundant),2020
+unconsciousness,2020
+Glasgow coma score 7,2020
+cardiac pulse 34/min,2020
+arterial blood pressure 70/30 mm Hg,2020
+capillary perfusion time 3 s,2020
+hypothermic,2020
+"WBC 2,030/mm3",2020
+"absolute neutrophil count 1,640/mm3",2020
+hemoglobin 5.09 g/dl,2020
+"platelets 44,000/mm3",2020
+C-reactive protein 6.8 mg/dl,2020
+urea 113 mg/dl,2020
+creatinine 0.9 mg/dl,2020
+glucose 136 mg/dl,2020
+AST 77 IU/l,2020
+ALT 91 IU/l,2020
+bilirubin 0.3 mg/dl,2020
+GGT 88 IU/l,2020
+prothrombin time 17.6 s,2020
+INR 1.4,2020
+activated partial thromboplastin time 43 s,2020
+"D-dimer 1,211 ng/ml",2020
+fibrinogen 190 mg/dl,2020
+blood electrolytes normal,2020
+metabolic acidosis,2020
+lactic acid 12.6 mmol/l,2020
+transferred to the Pediatric Intensive Care Unit,2020
+intensive fluid replacement,2020
+positive inotropic support,2020
+erythrocyte suspension given,2020
+thrombocyte suspension given,2020
+left ventricular ejection fraction 64%,2020
+broad spectrum antibiotherapy started,2020
+suspected sepsis,2020
+suspected septic shock,2020
+encephalopathy progressed,2024
+generalized tonic-clonic convulsions,2024
+intubated,2024
+mechanically ventilated,2024
+cranial computed tomography 9-mm bleeding region in left basal ganglion,2024
+peripheral edema in left basal ganglion,2024
+NaHCO3 replacement started,2024
+lactic acidosis progressed,2036
+lactic acid 20 mmol/l,2036
+hemodiafiltration performed,2036
+thiamine deficiency considered (secondary to long-term TPN without vitamin B complex),2036
+thiamine 4 × 25 mg/day intravenous started,2036
+lactic acidosis regressed,2060
+lactic acidosis normalized,2100
+chemotherapy could not be continued,2100
+could not feed orally,2024
+percutaneous endoscopic gastrostomy performed,2500
+swallowing dysfunction,2500
+physiotherapy performed for spastic tetraparesis,2500
+mechanical ventilation continued,2024
+extubated,2744
+no matched donor found,4000
+did not need any transfusion,5304
+started to feed orally,6100
+PEG closed,6100
+cognitive functions returned back to normal,4320
+stayed in the intensive care unit 54 days,3316
+taken to the hematology service,3316
+discharged home,6480
+on imatinib therapy,6480
+no convulsions again,6480
+walking with support,12960
+able to walk by herself without any support,15120
+bone marrow in remission,2424
+BCR-ABL gene fusion negative,2424
+bone marrow examination every third month: morphological and molecular remission,7200
+still in morphological and molecular remission,21600

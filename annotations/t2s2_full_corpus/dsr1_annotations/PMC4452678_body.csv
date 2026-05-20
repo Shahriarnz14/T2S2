@@ -1,0 +1,126 @@
+event,time
+52 years old,0
+male,0
+admitted to the hospital emergency room,0
+general weakness,-240
+right upper quadrant pain,-108
+diagnosed with PC-type MCD,-43800
+multiple lymph node enlargements,-43800
+right axillary lymph node biopsy,-43800
+eight cycles of chemotherapy,-43800
+complete remission,-43800
+loss to follow-up,-43800
+smoking history of 20 pack-years,0
+contrast-enhanced CT scan,-240
+acute calculous cholecystitis,-240
+lymphadenopathy,-240
+splenomegaly,-240
+bilateral pleural effusion,-240
+small amounts of ascites,-240
+scheduled for surgery,-240
+preoperative evaluations,-240
+anemia,0
+thrombocytopenia,0
+lymphopenia,0
+azotemia,0
+echocardiography showed stress-induced cardiomyopathy (EF = 43%),-240
+percutaneous transhepatic gallbladder drainage,-240
+CT scan,-240
+multiple lymph node enlargements,-240
+serum immunofixation electrophoresis showed polyclonal hypergammaglobulinemia,-240
+bone marrow study showed plasmacytosis,-240
+reduction in platelet count,0
+reduction in hemoglobin,0
+reduction in lymphocyte,0
+reduction in total cholesterol,0
+reduction in albumin,0
+increase in INR,0
+increase in blood urea nitrogen,0
+increase in creatinine,0
+increase in C-reactive protein,0
+increase in erythrocyte sedimentation rate,0
+increase in VEGF,0
+conclusion of CD recurrence,-240
+HIV serological test negative,-240
+started on chemotherapy,-240
+pulmonary edema worsened,168
+exacerbation of stress-induced cardiomyopathy (EF = 25%),168
+dyspnea,168
+oliguria,168
+four days in ICU,168
+clinical signs improved,552
+echocardiography showed EF = 68%,552
+improvement in pulmonary edema,552
+improvement in azotemia,552
+transfusions of leukocyte-poor and irradiated packed RBC,552
+transfusions of platelets,552
+transfusions of FFP,552
+Hgb 3.8-11.6 g/dl,552
+"platelet count 31,000-132,000 /µl",552
+INR 1.32-2.02,552
+elective laparoscopic cholecystectomy planned,720
+preanesthetic evaluation,720
+blood transfusion of 2 units RBC,720
+blood transfusion of 8 units platelets,720
+blood transfusion of 4 units FFP,720
+Hgb 9.0 g/dl,720
+"platelet 78,000 /µl",720
+INR 1.41,720
+mild dyspnea,720
+no cough,720
+no sputum,720
+abdominal distension,720
+chest X-ray showed ill-defined consolidation,720
+no rales,720
+no wheezing,720
+pulmonary function test not performed,720
+ECG normal,720
+thoracic CT scan showed no mediastinal mass,720
+transferred to operating room,720
+ECG applied,720
+pulse oximetry monitor applied,720
+bispectral index monitors applied,720
+modified Allen's test performed,720
+22G catheter inserted in left radial artery,720
+FloTrac/Vigileo monitor connected,720
+"room air ABGA: pH 7.53, PaCO2 27 mmHg, PaO2 65 mmHg",720
+electrolytes normal,720
+general anesthesia induced,720
+thiopental sodium 100 mg,720
+2% lidocaine 40 mg,720
+etomidate 10 mg,720
+cisatracurium 14 mg,720
+remifentanil 0.15 µg/kg/min,720
+tracheal tube inserted orotracheally,720
+"general anesthesia maintained with sevoflurane, O2, air, remifentanil",720
+PreSep central venous oximetry catheter inserted,720
+foley catheter not inserted,720
+Vigileo monitor parameters normal,720
+bispectral index 32-39,720
+surgery switched to open cholecystectomy,720
+perioperative ascites drainage 2 L,720
+cisatracurium 2 mg additional,720
+ephedrine 5 mg additional,720
+BP 105-150/50-85 mmHg,720
+HR 82-110 beats/min,720
+oxygen saturation 100%,720
+"last ABGA: pH 7.39, PaCO2 38 mmHg, PaO2 141 mmHg",720
+Hgb 7.8 g/dl,720
+Hct 23%,720
+surgery duration 1.5 h,720
+anesthesia duration 2.5 h,720
+no significant blood loss,720
+"crystalloid fluid 1,100 ml",720
+anesthesia terminated,720
+tracheal tube removed,720
+transferred to ICU,720
+postoperative vital signs satisfactory,720
+moved to general ward,744
+hospitalized for continuous chemotherapy,744
+developed cough,1488
+developed sputum,1488
+fungal pneumonia suspected,1488
+started treatment,1488
+condition rapidly deteriorated,1488
+ventilator care in ICU,1488
+expired,1512

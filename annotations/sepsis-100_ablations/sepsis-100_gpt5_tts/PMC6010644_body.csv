@@ -1,0 +1,107 @@
+event,time
+19-year-old,0
+male,0
+newly recruited army officer,0
+smoker,0
+no past medical illness,0
+no previous hospitalization,0
+denied history of travelling,0
+denied recent jungle activities,0
+mainly stayed in the military base camp,0
+presented to the Emergency Department,0
+admitted to the hospital,0
+history of fever,-120
+history of arthralgia,-120
+history of myalgia,-120
+history of headache,-120
+history of intermittent productive cough,-120
+yellowish sputum,-120
+chest heaviness,-120
+dyspnea at rest,-120
+diarrhea,-120
+reduced oral intake,-120
+never sought medical treatment for his current condition,-120
+conscious,0
+dehydrated,0
+cold peripheries,0
+temperature 38.5 °C,0
+blood pressure 81/53 mmHg,0
+tachycardic 146 beats per minute,0
+respiratory rate 30 breaths per minute,0
+oxygen saturation 75–80% on 15L high flow mask,0
+coarse crepitation over both lower zones,0
+epigastric tenderness,0
+palpable liver 5 cm below costal margin,0
+no cervical lymph nodes palpable,0
+no inguinal lymph nodes palpable,0
+no axillary lymph nodes palpable,0
+haemoglobin 11.3 g/dL,0
+white blood cell 0.5 × 10^6/L,0
+neutrophil predominance 86.1%,0
+platelet count 80 × 10^6/L,0
+C-reactive protein 28.28 mg/dL,0
+serum sodium 137 mmol/L,0
+potassium 3.7 mmol/L,0
+urea 14 mmol/L,0
+creatinine 206 μmol/L,0
+serum albumin 22 g/dL,0
+creatinine kinase 351 IU/L,0
+arterial blood gas pH 7.378,0
+arterial blood gas pCO2 37 mmHg,0
+arterial blood gas pO2 52.7 mmHg,0
+arterial blood gas O2 saturation 89%,0
+arterial blood gas HCO3 21.7 mmol/L,0
+Dengue NS-1 Antigen negative,0
+Dengue IgG antibody negative,0
+Dengue IgM antibody negative,0
+chest radiograph consolidation of right upper lobe,0
+chest radiograph consolidation of left lower lobe,0
+severe community acquired pneumonia,0
+acute kidney injury,0
+normal saline 20 ml/kg bolus,0
+non-invasive ventilation started,0
+high flow mask 15L oxygen,0
+intravenous ceftriaxone started,0
+azithromycin started,0
+inotropic support started,1
+condition deteriorated,4
+persistent type 2 respiratory failure,6
+intubation,6
+mechanical ventilation,6
+admitted to intensive care unit,6
+bronchoscopy,36
+haemoserous secretion,36
+greenish secretion,36
+secretion mainly from right upper bronchus,36
+secretion mainly from left main bronchus,36
+chest radiograph worsening consolidation in both lung fields,36
+early changes of abscess formation,36
+intravenous meropenem started,36
+cloxacillin started,36
+oseltamivir started,36
+continuous venous-venous haemofiltration started,36
+severe metabolic acidosis,36
+oliguric acute kidney injury,36
+polymyxin not given,36
+persistent spiking of temperature,48
+worsening of septic parameters,48
+refractory hypotension,48
+maximum dose of multiple inotropic agents,48
+died,60
+blood cultures negative,66
+atypical bacterial serologies negative,66
+Leptospiral serologies negative,66
+Hepatitis B serology undetected,66
+Hepatitis C serology undetected,66
+HIV serology undetected,66
+respiratory viruses screening negative,66
+tracheal aspiration positive for MDR Acinetobacter baumannii,66
+bronchoalveolar lavage positive for MDR Acinetobacter baumannii,66
+MDR Acinetobacter baumannii susceptible only to polymyxin B (MIC 0.5 μg/ml),66
+MDR Acinetobacter baumannii resistant to penicillin group,66
+MDR Acinetobacter baumannii resistant to ampicillin/sulbactam,66
+MDR Acinetobacter baumannii resistant to third generation cephalosporins,66
+MDR Acinetobacter baumannii resistant to fluoroquinolone,66
+MDR Acinetobacter baumannii resistant to carbapenem,66
+PCR for carbapenemases genes not performed,66
+community acquired MDR Acinetobacter baumannii pneumonia,66

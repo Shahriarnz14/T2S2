@@ -1,0 +1,61 @@
+event,time
+56 years old,0
+female,0
+admitted to hospital,0
+weakness,-720
+numbness,-720
+lower extremities weakness,-720
+hands and neck weakness,-672
+type 2 diabetes mellitus,0
+hypertension,0
+necrotizing pancreatitis,-8760
+gallstones,-8760
+total parenteral nutrition (TPN),-8760
+discontinued TPN,-168
+normal diet,-168
+albuminocytologic dissociation,0
+Guillain-Barré syndrome (GBS) diagnosis,0
+intravenous immunoglobulin (IVIG) treatment,0
+encephalopathy,120
+pancytopenia,120
+transfer to specialist center,120
+hypotensive,120
+unresponsive to verbal stimuli,120
+minimally responsive to painful stimuli,120
+Glasgow Coma Scale (GCS) score of 6,120
+anasarcic,120
+flaccid paralysis,120
+malnourished,120
+septic state,120
+calcium of 6.7 mg/dL,120
+hemoglobin of 9.4 g/dL,120
+white cell count of 2.1×10^9/L,120
+phosphorus of 1.1 mg/dL,120
+creatinine <0.2 mg/dL,120
+albumin <1.5 gm/dL,120
+lactate of 4 mmol/L,120
+nutritional risk screening (NRS-2002) score of 5,120
+malnutrition universal screening (MUST) score of 5,120
+intubated,120
+intravenous fluids,120
+norepinephrine infusion,120
+meropenem treatment,120
+vancomycin treatment,120
+anidulafungin treatment,120
+high-dose intravenous thiamine treatment,120
+electroencephalogram (EEG),168
+diffuse slow waves,168
+brain magnetic resonance imaging (MRI) scan,168
+hyperintensity of bilateral medial thalamus,168
+Wernicke’s encephalopathy diagnosis,168
+serum thiamine level of 104 nmol/L,192
+improved mental status,192
+able to understand simple commands,192
+discontinued norepinephrine and antimicrobial treatment,192
+extubated,120
+electromyography (EMG),168
+severe sensorimotor polyneuropathy,168
+transferred out of intensive care unit (ICU),336
+thiamine supplementation continued,336
+dry beriberi diagnosis,0
+Guillain-Barré syndrome (GBS) diagnosis ruled out,336

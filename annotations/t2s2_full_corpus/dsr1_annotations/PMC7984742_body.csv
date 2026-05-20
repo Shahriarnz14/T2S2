@@ -1,0 +1,117 @@
+event,time
+60-year-old,0
+female,0
+nursing home patient,0
+bipolar affective disorder,0
+hypertension,0
+hypothyroidism,0
+paraplegia,0
+increasing confusion,-240
+admission to senior behavioral facility,-240
+unable to communicate,-240
+tachycardia,-240
+tachypnea,-240
+flushing,-240
+diaphoresis,-240
+fevers >38°C,-240
+transferred to Neurologic Critical Care Unit,0
+encephalopathic,0
+tachypneic,0
+tachycardic,0
+hypoxemic,0
+generalized rigidity,0
+2+/4 hyperreflexia,0
+leukocytosis,0
+acute kidney injury,0
+elevated creatinine phosphokinase (444 U/L),0
+procalcitonin elevated (0.27 ng/mL),0
+normal C-reactive protein,0
+blood pressure fluctuations,0
+hypotension episodes,0
+hypertension episodes,0
+"differential diagnosis (sepsis, NMS, SS, non-convulsive status epilepticus, CNS pathology)",0
+blood cultures obtained,0
+urine cultures obtained,0
+sputum cultures obtained,0
+considered for lumbar puncture,0
+medical records review,0
+ziprasidone dose increase,0
+haloperidol use,0
+lithium use,0
+duloxetine use,0
+oxybutynin use,0
+baclofen use,0
+IV bromocriptine 10 mg every six hours,0
+IV dantrolene 2.5 mg/kg,0
+discontinuation of causative agents,0
+cooling blanket,0
+antipyretics,0
+IV fluids,0
+afebrile (hospital day 3),72
+improved leukocytosis (hospital day 3),72
+autonomic dysregulation resolved (hospital day 4),96
+supplemental oxygen ceased,96
+awake,96
+less rigidity,96
+persistent rigidity,96
+dantrolene increased to 100 mg TID,96
+stable condition (hospital day 5),120
+transferred out of NCCU,120
+60-year-old,0
+female,0
+nursing home patient,0
+bipolar affective disorder,0
+hypertension,0
+hypothyroidism,0
+paraplegia,0
+increasing confusion,-168
+admission to senior behavioral facility,-168
+unable to communicate,-168
+tachycardia,-168
+tachypnea,-168
+flushing,-168
+diaphoresis,-168
+fevers greater than 38°C,-168
+transferred to Neurologic Critical Care Unit,0
+encephalopathic,0
+tachypneic,0
+tachycardic,0
+hypoxemic,0
+generalized rigidity,0
+2+/4 hyperreflexia,0
+no clonus,0
+leukocytosis,0
+acute kidney injury,0
+elevated serum creatinine phosphokinase (444 U/L),0
+procalcitonin elevated (0.27 ng/mL),0
+normal C-reactive protein,0
+blood pressure fluctuations,0
+hypotension episodes,0
+hypertension episodes,0
+"differential diagnosis includes sepsis, NMS, serotonin syndrome, non-convulsive status epilepticus, CNS pathology",0
+blood cultures obtained,0
+urine cultures obtained,0
+sputum cultures obtained,0
+considered lumbar puncture,0
+medical records review showing ziprasidone dose increase,0
+haloperidol use,0
+lithium use,0
+duloxetine use,0
+oxybutynin use,0
+baclofen use,0
+IV bromocriptine 10 mg every 6 hours,0
+IV dantrolene 2.5 mg/kg,0
+discontinuation of causative agents,0
+cooling blanket,0
+antipyretics,0
+IV fluids,0
+afebrile by hospital day 3,72
+improved leukocytosis,72
+autonomic dysregulation resolved by day 4,96
+supplemental oxygen ceased,96
+more awake,96
+less rigid extremities,96
+unable to participate in meaningful psychiatric interview,96
+dantrolene increased to 100 mg TID,96
+stable condition by day 5,120
+transferred out of NCCU,120

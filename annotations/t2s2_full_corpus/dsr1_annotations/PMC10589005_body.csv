@@ -1,0 +1,227 @@
+event,time
+64 years old,0
+female,0
+hypertension,0
+hypothyroidism,0
+tobacco use disorder,0
+takotsubo cardiomyopathy,0
+recovered ejection fraction,0
+stroke,0
+acute abdominal pain,0
+nausea,-48
+vomiting,-48
+periumbilical abdominal tenderness,0
+dry mucous membranes,0
+temperature 36.4°C,0
+blood pressure 65/34 mmHg,0
+heart rate 78 bpm,0
+oxygen saturation 96%,0
+hemoglobin 12.0 g/dL,0
+"white blood cell count 19,890 μL",0
+lactic acid 3.4 mmol/L,0
+creatinine 2.65 mg/dL,0
+BUN 36 mg/dL,0
+CO2 22 mEq/L,0
+voluminous non-bloody diarrhea,0
+computed tomography abdomen and pelvis,0
+generalized colonic thickening,0
+no transition point,0
+moderate fluid distension,0
+stricture proximal descending colon,0
+stool tests negative Clostridium difficile toxin,0
+fecal occult blood test positive,0
+septic shock,0
+infectious colitis,0
+blood cultures pending,0
+fluid resuscitation,0
+piperacillin-tazobactam,0
+Intensive Care Unit admission,0
+vasopressor support,0
+colorectal surgery consultation,0
+gastroenterology consultation,0
+hemodynamic stability,0
+renal function improved,48
+repeat CT abdomen pelvis with IV contrast,48
+pancolonic thickening,48
+left side more marked involvement,48
+fecal calprotectin 1190 μg/mg,48
+fecal lactoferrin positive,48
+stool culture normal,48
+blood cultures gram variable rods,48
+erythrocyte sedimentation rate 105 mm/h,48
+C-reactive protein 24 mg/dL,48
+D-dimer >20 μg/mLFEU,48
+downgraded to general medical floor,72
+colonoscopy performed,72
+severe mucosal changes,72
+altered vascularity,72
+congestion,72
+friability,72
+granularity,72
+mucus,72
+deep ulcerations,72
+ascending colon involvement,72
+transverse colon involvement,72
+descending colon involvement,72
+sigmoid colon involvement,72
+ischemic colitis,72
+endoscopic biopsies pancolonic mucosal ulcerations,72
+transverse colon severe involvement,72
+descending colon severe involvement,72
+rectal sparing,72
+cytomegalovirus immunostaining negative,72
+MRI angiography negative,72
+no high grade stenosis celiac artery,72
+no high grade stenosis superior mesenteric artery,72
+no high grade stenosis inferior mesenteric artery,72
+diarrhea resolved,168
+abdominal pain continued,168
+nausea continued,168
+vomiting continued,168
+blood cultures positive Fusobacterium necrophorum,168
+total colectomy and ileostomy deferred,168
+discharged,504
+bowel movements normalizing,504
+tolerating low residue diet,504
+readmitted,576
+recurrent bloody diarrhea,576
+vancomycin-resistant Enterococcus bacteremia,576
+stabilized,576
+discharged,576
+follow-up gastroenterology,576
+readmitted,672
+abdominal pain,672
+voluminous diarrhea,672
+severe anemia,672
+CT angiogram abdomen pelvis,672
+persistent diffuse colonic thickening,672
+no pneumatosis,672
+no vascular occlusion,672
+antineutrophil cytoplasmic antibodies negative,672
+persistent ischemic bowel disease,672
+surgical consultation deferred,672
+monitoring for symptom improvement,672
+plan repeat colonoscopy,672
+second opinion sought,672
+repeat colonoscopy,3024
+deep serpentine ulcerations,3024
+transverse colon involvement,3024
+sigmoid colon involvement,3024
+rectal sparing,3024
+diagnosed with IBD,3024
+steroids prescribed,3024
+plan transition to biologic therapy,3024
+died,5760
+64 years old,0
+female,0
+hypertension,0
+hypothyroidism,0
+tobacco use disorder,0
+takotsubo cardiomyopathy,0
+recovered ejection fraction,0
+stroke,0
+acute abdominal pain,0
+nausea,-48
+vomiting,-48
+dry mucous membranes,0
+periumbilical abdominal tenderness,0
+temperature 36.4°C,0
+blood pressure 65/34 mmHg,0
+heart rate 78 bpm,0
+oxygen saturation 96%,0
+hemoglobin 12.0 g/dL,0
+"white blood cell count 19,890 μL",0
+lactic acid 3.4 mmol/L,0
+creatinine 2.65 mg/dL,0
+BUN 36 mg/dL,0
+CO2 22 mEq/L,0
+voluminous non-bloody diarrhea,0
+computed tomography abdomen and pelvis,0
+generalized colonic thickening,0
+no transition point,0
+moderate fluid distension,0
+stricture proximal descending colon,0
+stool tests negative Clostridium difficile toxin,0
+fecal occult blood test positive,0
+septic shock,0
+infectious colitis,0
+blood cultures pending,0
+fluid resuscitation,0
+piperacillin-tazobactam,0
+Intensive Care Unit admission,0
+vasopressor support,0
+colorectal surgery consultation,0
+gastroenterology consultation,0
+hemodynamic stability,0
+renal function improved,48
+repeat CT abdomen pelvis with IV contrast,48
+pancolonic thickening,48
+left side more marked involvement,48
+fecal calprotectin 1190 μg/mg,48
+fecal lactoferrin positive,48
+stool culture normal,48
+blood cultures gram variable rods,48
+erythrocyte sedimentation rate 105 mm/h,48
+C-reactive protein 24 mg/dL,48
+D-dimer >20 μg/mLFEU,48
+downgraded to general medical floor,72
+colonoscopy performed,72
+severe mucosal changes,72
+altered vascularity,72
+congestion,72
+friability,72
+granularity,72
+mucus,72
+deep ulcerations,72
+ascending colon involvement,72
+transverse colon involvement,72
+descending colon involvement,72
+sigmoid colon involvement,72
+ischemic colitis,72
+endoscopic biopsies pancolonic mucosal ulcerations,72
+transverse colon severe involvement,72
+descending colon severe involvement,72
+rectal sparing,72
+cytomegalovirus immunostaining negative,72
+MRI angiography negative,72
+no high grade stenosis celiac artery,72
+no high grade stenosis superior mesenteric artery,72
+no high grade stenosis inferior mesenteric artery,72
+diarrhea resolved,168
+abdominal pain continued,168
+nausea continued,168
+vomiting continued,168
+blood cultures positive Fusobacterium necrophorum,168
+total colectomy and ileostomy deferred,168
+discharged,504
+bowel movements normalizing,504
+tolerating low residue diet,504
+readmitted,576
+recurrent bloody diarrhea,576
+vancomycin-resistant Enterococcus bacteremia,576
+stabilized,576
+discharged,576
+follow-up gastroenterology,576
+readmitted,672
+abdominal pain,672
+voluminous diarrhea,672
+severe anemia,672
+CT angiogram abdomen pelvis,672
+persistent diffuse colonic thickening,672
+no pneumatosis,672
+no vascular occlusion,672
+antineutrophil cytoplasmic antibodies negative,672
+persistent ischemic bowel disease,672
+surgical consultation deferred,672
+monitoring for symptom improvement,672
+plan repeat colonoscopy,672
+second opinion sought,672
+repeat colonoscopy,2880
+deep serpentine ulcerations,2880
+transverse colon involvement,2880
+sigmoid colon involvement,2880
+rectal sparing,2880
+diagnosed with IBD,2880
+steroids prescribed,2880
+plan transition to biologic therapy,2880
+died,5760

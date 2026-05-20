@@ -1,0 +1,78 @@
+event,time
+46 years old,0
+male,0
+arterial hypertension,-504
+obesity,-504
+admitted to ICU,0
+fever,0
+hypotension,0
+marked asthenia,0
+rhinitis,-336
+mild cough,-336
+COVID-19 infection,-336
+sinus tachycardia,0
+diffuse low voltages,0
+neutrophilic leukocytosis,0
+WBC count 26800 x1000/mm3,0
+CRP elevation 17.4 mg/dl,0
+Procalcitonin elevation 11.7 ng/ml,0
+hs-Tn elevation 23000 ng/L,0
+BNP elevation 6890 pg/ml,0
+creatinine elevation 1.8 mg/dl,0
+elevated transaminases,0
+elevated total bilirubin,0
+RT-PCR negative for COVID-19,0
+COVID-19 IgM high levels,0
+left ventricular parietal thickening,0
+LV EF 26%,0
+dP/dT ratio 672 mmHg/sec,0
+SVi 11 ml/m2,0
+CI 1.3 l/min/m2,0
+Grade II LV diastolic dysfunction,0
+reduced RV systolic function,0
+TAPSE 14 mm,0
+tricuspid S-wave velocity 7.3 cm/sec,0
+IVC dilated 26 mm,0
+RVSP 41 mmHg,0
+pericardial effusion,0
+thoracic CT perivascular adipose imbibition,0
+blood cultures started,0
+broad-spectrum antibiotics,0
+daptomycin,0
+piperacillin/tazobactam,0
+crystalloid hydration,0
+nasal cannula oxygen 4 l/min,0
+norepinephrine 0.6 mcg/Kg/min,0
+poor hemodynamic response,0
+norepinephrine increased to 0.9 mcg/Kg/min,0
+BP 90-95/60 mmHg,0
+oliguria,0
+levosimendan infusion 0.1 mcg/kg/min,0
+BP 100/60 mmHg,12
+HR 110 bpm,12
+BP 125/70 mmHg,24
+HR 95 bpm,24
+diuresis 1800 ml,24
+LV EF 66%,24
+dP/dT ratio 1275 mmHg/sec,24
+TAPSE 23 mm,24
+tricuspid S-wave velocity 11.2 cm/sec,24
+SVi 27 ml/m2,24
+CI 2.5 l/min/m2,24
+IVC diameter 18 mm,24
+RVSP 28 mmHg,24
+CMR performed,168
+LV and RV volumes normal,168
+myocardial edema,168
+LGE subendocardial localization,168
+spared area in lateral wall,168
+endomyocardial biopsy,192
+lymphocytic myocarditis,192
+coronary arteriography,192
+normal coronary circulation,192
+discharged,504
+TTE normal at 1 month,1344
+TTE normal at 3 months,3024
+no ischemic repolarization changes,0
+no new Q waves,0
+no hemodynamically significant valvulopathy,0

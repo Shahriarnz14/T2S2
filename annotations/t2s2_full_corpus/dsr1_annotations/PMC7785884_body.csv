@@ -1,0 +1,74 @@
+event,time
+39-year-old,0
+male,0
+diabetes mellitus,0
+dyslipidemia,0
+epigastric abdominal pain,-24
+nausea,-24
+vomiting,-24
+heart rate 81 per minute,0
+blood pressure 151/82 mmHg,0
+respiratory rate 20 per minute,0
+oxygen saturation 100%,0
+temperature 37.1°C,0
+distension,0
+epigastric tenderness,0
+elevated white cell count 14 ×10³/µL,0
+hyponatremia 125 mEq/L,0
+hyperglycemia 308 mg/dL,0
+lactic acidosis 5 mmol/L,0
+creatinine 1.64 mg/dL,0
+hemoglobin unremarkable,0
+platelets unremarkable,0
+potassium unremarkable,0
+bicarbonate unremarkable,0
+calcium unremarkable,0
+albumin unremarkable,0
+total protein unremarkable,0
+liver function test unremarkable,0
+acetone negative,0
+lipase 3500 U/L,0
+triglycerides 3531 mg/dL,0
+denied binge drinking,0
+denied abdominal trauma,0
+denied recent change in medications,0
+denied recent procedures,0
+CT abdomen diffuse pancreatitis,0
+abdominal ultrasound hepatic steatosis,0
+no gallstones,0
+admitted to ICU,0
+acute pancreatitis,0
+hypertriglyceridemia,0
+intravenous fluid resuscitation,0
+electrolyte management,0
+intravenous insulin drip,0
+tachypnea,72
+altered mental status,72
+worsening acidosis,72
+intubated,72
+respiratory failure,72
+triglycerides remained elevated 3000 mg/dL,48
+abdominal distension,48
+oliguria,48
+worsening acidosis,48
+renal failure creatinine 8.76 mg/dL,48
+plasmapheresis initiated,48
+triglycerides improved <500 mg/dL,72
+hemodialysis initiated,96
+acute tubular necrosis,96
+bladder pressure monitoring,120
+elevated bladder pressure 27 mmHg,120
+peak airway pressures >40 cm H₂O,120
+decompressive laparotomy,120
+700 cc serous ascitic fluid drained,120
+saponification on omentum,120
+sepsis,120
+delirium,120
+stabilized,120
+downgraded to medical floor,120
+renal function improved,120
+hemodialysis stopped,120
+discharged,120
+icosapent ethyl,0
+omega-3 fatty acids,0
+fenofibrate added,120

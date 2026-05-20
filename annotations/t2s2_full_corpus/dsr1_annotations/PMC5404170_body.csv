@@ -1,0 +1,64 @@
+event,time
+62 years old,0
+male,0
+ankle twisting injury,0
+undisplaced fracture medial malleolus,0
+below knee ankle plaster (slab),0
+advised elevation,0
+medical history negative for diabetes,0
+medical history negative for allergic conditions,0
+given analgesic,0
+given proteolytic,0
+itching after plaster,36
+pain after plaster,36
+swelling after plaster,36
+erythema up to distal thigh,36
+slab removed,36
+clinical diagnosis of necrotizing fasciitis,36
+fever,36
+progressive swelling,36
+crepitus,36
+blisters getting peeled off easily,36
+serous discharge,36
+sequential discoloration of tissue from pinkish to velvety,36
+blackening due to necrosis,36
+foul smell,36
+laboratory risk indicator for NF score 10/13,36
+erythrocyte sedimentation rate 103 mm/h,36
+C-reactive protein 281 mg/dL,36
+"white blood cells 19,400/µL",36
+hemoglobin 9.6 g/dL,36
+"platelet 90,000/µL",36
+Na 138 mmol/L,36
+creatine kinase 474 IU/L,36
+urea 11.8 mmol/L,36
+alanine transaminase 84 IU/L,36
+total bilirubin 1.8 mg/dL,36
+albumin 17 g/L,36
+creatinine 1.8 mg/dL,36
+normal blood sugar,36
+serology for HIV negative,36
+serology for hepatitis B negative,36
+blood culture negative,36
+glycated hemoglobin normal,36
+anti-nucleosome antibody test negative,36
+anti-dsDNA test negative,36
+referred to tertiary care center,72
+2 cm incision made,72
+lack of bleeding,72
+dishwater-colored fluid seeping from wound,72
+positive finger probe test,72
+Pseudomonas aeruginosa cultured,96
+gas gangrene negative,96
+switched to meropenem,96
+switched to teicoplanin,96
+switched to clindamycin,96
+treatment in intensive care unit,96
+above knee amputation,168
+NF continued to expand above stump,168
+debridement on day 9th,216
+debridement on day 12th,288
+debridement on day 15th,360
+died,480
+septic shock,480
+acute renal failure,480

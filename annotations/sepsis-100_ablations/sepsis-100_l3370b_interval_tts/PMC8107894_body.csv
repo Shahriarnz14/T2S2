@@ -1,0 +1,79 @@
+event,time
+52 years old,0
+female,0
+admitted to the hospital,0
+abdominal pain,-48
+nausea,-48
+vomiting,-48
+increased level of liver enzyme alanine aminotransferase,-840
+positive autoimmune antibody,-840
+elevated immunoglobulin G,-840
+coarse liver surface,-840
+liver biopsy,-840
+diagnosed with overlap syndrome,-840
+started to take ursodeoxycholic acid,-840
+started to take prednisolone,-840
+reduced prednisolone,-728
+maintained ursodeoxycholic acid,-728
+maintained azathioprine,-600
+mild heartburn,-48
+abdominal pain worsened,-24
+nausea worsened,-24
+vomiting worsened,-24
+diarrhea,-24
+visited emergency room,0
+blood pressure normal,0
+mild fever,0
+tachycardia,0
+tachypnea,0
+abdominal tenderness,0
+reduced white blood cells,0
+reduced platelets,0
+decreased neutrophil level,0
+elevated C-reactive protein level,0
+elevated aspartate aminotransferase,0
+elevated ALT,0
+elevated gamma glutamyl transferase,0
+prothrombin time international normalized ratio,0
+contrast-enhanced abdominal CT,0
+huge stomach with layered wall thickening,0
+air in the stomach wall,0
+decrease of mucosal enhancement,0
+diagnosed with necrotizing gastritis,0
+diagnosed with septic shock,0
+intravenous hydration,0.5
+antibiotic treatment,0.5
+transferred to intensive care unit,0.5
+inotropics,2
+fluid treatment,2
+heart rate slowed,3
+bedside echocardiography,3
+severe stress-induced cardiomyopathy,3
+extracorporeal membrane oxygenation,3
+cardiac arrest,3
+cardiopulmonary resuscitation,3
+died,3
+necrotizing gastritis,0
+septic shock,0
+azathioprine side effects,-600
+steroid side effects,-840
+leukopenia,0
+infection,0
+gastrointestinal symptoms,-48
+immunosuppressant treatment,-840
+liver function tests,-840
+blood sugar,-840
+complete blood count test,-840
+liver biopsy results,-840
+overlap syndrome diagnosis,-840
+ursodeoxycholic acid treatment,-840
+prednisolone treatment,-840
+azathioprine treatment,-600
+abdominal CT results,0
+necrotizing gastritis diagnosis,0
+septic shock diagnosis,0
+intravenous antibiotics,0.5
+fluid treatment,0.5
+inotropics treatment,2
+extracorporeal membrane oxygenation treatment,3
+death,3

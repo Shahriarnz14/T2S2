@@ -1,0 +1,62 @@
+event,time
+66 years old,0
+male,0
+admitted to the hospital,0
+intermittent high-grade fever,-2160
+generalized dull-aching abdominal pain,-2160
+history of passing turbid urine,-240
+history of decrease in urine output,-240
+history of swelling of both feet,-240
+treated with intravenous medications,-168
+type II diabetes mellitus,-26280
+on regular medication for type II diabetes mellitus,-26280
+conscious,0
+afebrile,0
+tachycardic,0
+heart rate 136/min,0
+blood pressure 110/70 mmHg,0
+rest of the vital signs were normal,0
+renal angle tenderness bilaterally,0
+rest of the systemic examination was unremarkable,0
+high total leukocyte counts,0
+left shift,0
+"high leukocyte count (>20,000 cells/mm3)",0
+elevated urea,0
+elevated creatinine levels,0
+acute renal impairment,0
+pyuria,0
+leukocyte esterase positivity,0
+activated partial thromboplastin time prolonged,0
+sepsis-induced coagulopathy,0
+possibility of pyelonephritis considered,0
+possibility of renal abscess considered,0
+acute kidney injury considered,0
+ultrasound kidneys: enlarged kidneys,0
+ultrasound kidneys: bilateral renal abscesses,0
+noncontrast computed tomography scan: bilateral renal abscesses,0
+X-ray chest normal,2
+electrocardiogram normal,2
+transfusion of blood products,6
+emergency ultrasound-guided drainage of renal abscesses on both sides,8
+pus sent for bacterial smear and culture,8
+pus sent for fungal smear and culture,8
+pus sent for mycobacterial smear and culture,8
+empirically initiated on intravenous meropenem,0
+meropenem dose adjusted for renal impairment,0
+pus smear: septate fungal hyphae,12
+advised to take intravenous voriconazole,12
+declined intravenous voriconazole,16
+intravenous amphotericin B started 1 mg/kg/day,16
+GenExpert polymerase chain reaction test for Mycobacterium tuberculosis negative,24
+cultures from renal abscesses: growth of Aspergillus fumigatus,72
+bilateral renal aspergillosis,72
+worsening renal function,96
+renal failure,96
+acute pulmonary edema,120
+hyperkalemia,120
+metabolic acidosis,120
+initiated on hemodialysis,144
+initiated on noninvasive ventilation,144
+sudden cardiac arrest,216
+aspiration (probable),216
+died,216

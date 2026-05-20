@@ -1,0 +1,76 @@
+event,time
+55-year-old woman,0
+fever,-72
+rheumatoid arthritis (RA),-175200 (approx. 20 years ago)
+prednisolone,-17520 (approx. 2 years ago)
+methotrexate,-17520
+etanercept,-17520
+subcutaneous etanercept 25 mg twice a week,-17520
+progressive fatigue,-2160 (approx. 3 months ago)
+malaise,-2160
+anorexia,-2160
+oral bleeding,-2160
+weight loss of 10 kg,-2160
+arrived in Seoul,-24 (day before admission)
+admission,0
+body temperature 37.5℃,0
+blood pressure 120/80 mmHg,0
+pulse rate 104 beats per minute,0
+respiratory rate 18 breaths per minute,0
+chronically ill appearance,0
+pale conjunctiva,0
+oral ulcer,0
+advanced multiple symmetrical joint deformities,0
+fine rales on both lower lung fields,0
+no murmur,0
+hemoglobin 7.7 g/dL,0
+"platelet count 40,000/mm3",0
+"WBC 3,000/mm3",0
+65% granulocytes,0
+26% lymphocytes,0
+18.3% monocytes,0
+aspartate aminotransferase 447 IU/L,0
+alanine aminotransferase 113 IU/L,0
+albumin 2.4 g/dL,0
+"rheumatoid factor 2,180 IU/mL",0
+antimycoplasma antibody negative,0
+anti-HIV antibody negative,0
+chest radiography nodular opacities both lower lung zones,0
+abdominal CT enlarged para-aortic lymph nodes,0
+hospital day 4,96
+dyspnea,96
+oxygen saturation <80% on 100% oxygen,96
+intubation,96
+transfer to ICU,96
+pulmonary hemorrhage suspected,96
+chest radiography diffuse bilateral consolidation,96
+chest CT diffuse consolidation,96
+transthoracic echocardiography minimal pericardial effusion,96
+diffuse hypokinesia,96
+LV ejection fraction 36%,96
+bone marrow hypocellular,96
+bronchoscopy mucosal injection,96
+fold thickening,96
+no definite bleeding focus,96
+blood culture negative,96
+endotracheal culture negative,96
+intravenous immunoglobulin 35 g/day,96
+solucortef 50 mg/day,96
+azithromycin,96
+ceftriaxone,96
+amikacin,96
+hospital day 10,240
+meropenem,240
+ciprofloxacin,240
+hospital day 40,960
+chest radiograph resolution of lesions,960
+follow-up echocardiography normal LV function,960
+ejection fraction 70%,960
+adenovirus PCR positive,960
+discharge,"960 (approx., hospital day 40)"
+prednisolone 10 mg/day,960
+celecoxib 200 mg/day,960
+hydroxychloroquine sulfate 300 mg/day,960
+methotrexate 7.5 mg/week,960
+no complications,960
+aggravating arthralgia absent,960

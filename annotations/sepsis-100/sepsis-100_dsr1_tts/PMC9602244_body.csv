@@ -1,0 +1,86 @@
+event,time
+75-year-old,0
+male,0
+admitted to the Department of Infectious Diseases,0
+fever,-168
+chills,-168
+dizziness,-168
+hypertension,0
+temperature 39 °C,0
+heart rate 98 bpm,0
+respiratory rate 20 breaths per minute,0
+blood pressure 139/75 mmHg,0
+oxygen saturation 98%,0
+white blood cell count 7.1 × 109/L,0
+neutrophils 58.6%,0
+monocytes 24.4%,0
+hemoglobin 83 g/L,0
+C-reactive protein 111.20 mg/L,0
+IL-6 279.22 pg/mL↑,0
+IL-10 3653.30 pg/mL↑,0
+procalcitonin 0.19 ng/mL,0
+blood amyloid A 509.5 mg/L↑,0
+erythrocyte sedimentation rate 71 mm/L,0
+lactate dehydrogenase 694 U/L↑,0
+creatine kinase 19 U/L↓,0
+albumin 27 g/L↓,0
+hypokalemia,0
+hyponatremia,0
+hypochloremia,0
+hypocalcemia,0
+hypophosphatemia,0
+anti-nuclear antibody positive,0
+anti-SSA positive,0
+anti-SCL70 positive,0
+bilateral blood culture positive for L. monocytogenes,0
+cerebrospinal fluid nucleated cell count 420 × 106/L,0
+cerebrospinal fluid lymphocytes 75%,0
+cerebrospinal fluid lactate dehydrogenase 472 U/L↑,0
+cerebrospinal fluid total protein 261.3 mg/dL↑,0
+cerebrospinal fluid glucose 1.51 mmol/L↓,0
+cerebrospinal fluid chloride 111.0 mmol/L↓,0
+cerebrospinal fluid metagenomic test positive for L. monocytogenes,0
+chest CT pleural effusion,0
+chest CT nodules,0
+cranial CT no abnormalities,0
+sepsis,0
+lung infection,0
+respiratory failure,0
+electrolyte imbalance,0
+autoimmune disease,0
+Listeria monocytic meningoencephalitis,0
+levofloxacin 0.5 g qd intravenous,0
+vancomycin 500000 U q6h intravenous,0
+discharged,168
+fever recurrence 39.7 °C,192
+chills recurrence,192
+cough,192
+sputum,192
+diarrhea,192
+ICU admission,192
+high-frequency oxygen inhalation,192
+piperacillin and tazobactam 4.5 g q8h,192
+methylprednisolone 40 mg,192
+levofloxacin 0.5 g qd,192
+atrial fibrillation,240
+unresponsiveness,240
+slurred speech,240
+shortness of breath,240
+stiff neck,240
+increased muscle tone,240
+wet rales in both lungs,240
+septic shock,240
+norepinephrine micropump,240
+vancomycin 1 million U q12h,240
+meropenem 1.0 g q8h,240
+methylprednisolone reduced to 20 mg,240
+methylprednisolone discontinued,288
+unconsciousness,312
+tongue retraction,312
+respiratory failure,312
+limb tremor,312
+heart rate 40 bpm,312
+tracheal intubation,312
+ventilator-assisted ventilation,312
+multiple organ failure,312
+treatment discontinued,336

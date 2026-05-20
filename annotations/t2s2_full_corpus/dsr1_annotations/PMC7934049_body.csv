@@ -1,0 +1,83 @@
+event,time
+9-year-old,0
+neutered male,0
+domestic shorthair cat,0
+admitted to the hospital,0
+acute hemodynamic decompensation,0
+weakness,-24
+signs of lower urinary tract disease,-24
+no history of trauma,0
+indoors only,0
+severe cardiovascular collapse,0
+obtunded,0
+prolonged capillary refill time,0
+bradycardia of 70 beats/min,0
+hypothermia of 35°C (95°F),0
+weak femoral pulses,0
+blood pressure readings too low to detect,0
+initial resuscitation with lactated Ringer’s solution,0
+fluid rate of 29 ml/h,0
+estimated 7% dehydration,0
+point-of-care ultrasound showed free abdominal fluid,0
+no pleural/pericardial effusion,0
+no B-lines in thorax,0
+ECG findings of atrial standstill,0
+idioventricular escape rhythms,0
+severe metabolic acidosis,0
+hyperkalemia,0
+uroabdomen diagnosed,0
+calcium gluconate administered,0
+sodium bicarbonate administered,0
+abdominocentesis performed,0
+serosanguinous fluid,0
+[Creatinine]abdominal-fluid/[Creatinine]serum = 6.09,0
+[K+]abdominal-fluid/[K+]plasma = 2.28,0
+intracellular bacteria (cocci) present,0
+concern for urosepsis,0
+ceftazidime administered,0
+central venous line placed,0
+peritoneal dialysis catheter,0
+urinary catheter placed,0
+difficulty passing urinary catheter,0
+concern for urethral obstruction,0
+IV fluid boluses,0
+systolic blood pressure increased to 110 mmHg,24
+heart rate increased to 180 beats/min,24
+capillary refill time <2 s,24
+ECG rhythm changed to sinus rhythm,24
+external heat support provided,0
+temperature returned to normal within 2 h,24
+tramadol administered,0
+peritoneal dialysis initiated,0
+peritoneal dialysis solution with dextrose and heparin,0
+dialysate volume exchange increased from 10 ml/kg to 40 ml/kg,0
+improvement in blood gas and electrolytes at 8 h,8
+brighter and more responsive,8
+diagnostic abdominal ultrasound at 18 h,18
+large volume of sediment in urinary bladder,18
+suspected bladder rupture,18
+fever developed,18
+clindamycin added,18
+bloodwork improvement at 36 h,36
+peritoneal dialysis catheter removed,36
+retrograde contrast cystography performed,36
+urinary bladder rupture confirmed,36
+exploratory laparotomy performed,36
+bladder rupture surgically corrected,36
+bladder biopsy samples taken,36
+postoperative ultrasound revealed pleural effusion,36
+bilateral pleural effusion,36
+echocardiogram no cardiac disease,36
+total fluid balance negative 240 ml,36
+euhydrated and euvolemic,36
+thoracocentesis performed,36
+pleural fluid analysis consistent with urothorax,36
+[Creatinine]pleural fluid/[Creatinine]plasma = 2.38,36
+urothorax diagnosed,36
+uneventful recovery from surgery,36
+no respiratory distress,36
+pleural effusion resolved,122
+"culture results: Klebsiella pneumoniae, Mannheimia haemolytica, Micrococcus species, Staphylococcus species",36
+enrofloxacin added,36
+discharged after 4 days,96
+follow-up ultrasound showed no fluid,168

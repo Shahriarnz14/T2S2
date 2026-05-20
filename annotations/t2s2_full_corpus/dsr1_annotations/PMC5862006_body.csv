@@ -1,0 +1,121 @@
+event,time
+45 years old,0
+female,0
+admitted to the hospital,0
+major placenta previa,0
+antepartum hemorrhage,0
+gravidity 5,0
+parity 2,0
+body mass index 24 kg/m²,0
+previous spontaneous vaginal deliveries,0
+no remarkable medical history,0
+scheduled for elective cesarean delivery,0
+transverse lie,0
+combined spinal-epidural block,0
+peripheral intravenous cannulas placed,0
+electrocardiogram monitoring,0
+noninvasive blood pressure monitoring,0
+oxygen saturation monitoring,0
+initial blood pressure 120/80 mmHg,0
+heart rate 105/min,0
+peripheral oxygen saturation 96%,0
+uncomplicated CSE performed,0
+sensory block to T4 bilaterally,0
+Bromage score 3,0
+phenylephrine infusion 2 mg/h,0
+heart rate 90-120/min,0
+oxygen saturation 96%,0
+live infant delivered,0
+Apgar score 9 at 1 and 5 minutes,0
+nausea,0
+dizziness,0
+bradycardia 35/min,0
+loss of consciousness,0
+blood pressure 70/35 mmHg,0
+atropine 600 µg IV,0
+succinylcholine 100 mg IV,0
+endotracheal intubation,0
+absent carotid pulse,0
+sinus rhythm 100/min,0
+pulseless electrical activity,0
+cardiopulmonary resuscitation,0
+epinephrine 1 mg IV,0
+asynchronous ventilation,0
+capnography confirmed intubation,0
+effective chest compressions,0
+ventilation with 100% oxygen,0
+placenta delivered,0
+uterus exteriorized,0
+thoracic compressions monitored,0
+return of spontaneous circulation,9
+pulseless electrical activity,9
+sinus rhythm 140/min,9
+chest compressions,9
+dilated right ventricle,9
+severely reduced RV systolic function,9
+underfilled left ventricle,9
+moderate globally reduced LV systolic function,9
+noradrenaline infusion 40 µg/min,9
+right pulmonary artery mass identified,9
+abdominal drains inserted,10
+Bakri intrauterine balloon,10
+vaginal packs inserted,10
+abdomen closed,10
+vaginal bleeding,10
+oropharyngeal bleeding,10
+peripheral access site bleeding,10
+massive hemorrhage,10
+massive transfusion protocol activated,10
+lactic acidosis,10
+anemia,10
+packed red blood cells 2 units,10
+fresh frozen plasma 6 units,10
+FIBTEM A5 7 mm,10
+hypofibrinogenemia,10
+EXTEM clotting time normal,10
+EXTEM maximum lysis >15%,10
+FIBTEM maximum lysis >15%,10
+hyperfibrinolysis,10
+DIC suspected,10
+fibrinogen concentrate 3 g,10
+platelets 2 units,10
+cryoprecipitate 8 units,10
+tranexamic acid 1 g,10
+balanced electrolyte solution 2 L,10
+4% albumin 1.5 L,10
+calcium gluconate 10 mL 10%,10
+improved ROTEM,70
+continued hypofibrinogenemia,70
+fibrinogen concentrate 3 g,70
+uterus contracted,120
+core temperature 35.5°C,120
+noradrenaline infusion 17 µg/min,120
+transfer to intensive care unit,120
+transthoracic echocardiography,120
+LV ejection fraction 0.55-0.60,120
+dilated RV,120
+impaired RV systolic function,120
+pulmonary hypertension 32 mmHg,120
+milrinone commenced,120
+vasopressin commenced,120
+ongoing uterine bleeding,120
+hemoglobin 59 g/L,120
+emergency hysterectomy,240
+packed red blood cells 4 units,240
+coagulopathy resolved,240
+stabilized hemoglobin,240
+interhospital transfer,240
+extubated,24 hours post-arrest
+computerized tomography pulmonary angiogram,24 hours post-arrest
+saddle embolus,24 hours post-arrest
+segmental branches embolus,24 hours post-arrest
+no deep venous thrombosis,24 hours post-arrest
+possible right ovarian thrombosis,24 hours post-arrest
+discharged home,504 hours post-arrest
+repeat transthoracic echocardiography,504 hours post-arrest
+normal LV size,504 hours post-arrest
+LV ejection fraction 0.54,504 hours post-arrest
+normal RV,504 hours post-arrest
+no neurophysiological deficits,504 hours post-arrest
+intact cognition,504 hours post-arrest
+anticoagulation treatment,504 hours post-arrest

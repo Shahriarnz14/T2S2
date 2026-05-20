@@ -1,0 +1,58 @@
+event,time
+62 years old,0
+male,0
+diabetes mellitus,0
+hypertension,0
+fever,-48
+dyspnea,-48
+productive cough,-48
+yellow purulent sputum,-48
+smoked 20 cigarettes a day for 40 years,0
+house painter,0
+visited hot spring,-240
+blood pressure 118/60 mmHg,0
+heart rate 130 beats/min,0
+respiratory rate 28/min,0
+percutaneous oxygen saturation 95% (10 L/min via reservoir mask),0
+body temperature 37.5℃,0
+holoinspiratory coarse crackles in right lung,0
+high anion gap metabolic acidosis,0
+increased lactate,0
+leukopenia,0
+thrombocytopenia,0
+renal dysfunction,0
+elevated transaminase,0
+chest radiograph infiltration right upper and middle lobes,0
+chest computed tomography consolidation with air bronchogram right upper and middle lobes,0
+community-acquired pneumonia,0
+admitted to hospital,0
+Gram-negative cocci,0
+Gram-negative coccobacilli on sputum Gram stain,0
+excellent sputum quality,0
+suspected S. pneumoniae,0
+monoflora,0
+no Gram-positive cocci,0
+A. baumannii suspected,0
+meropenem 1g every eight hours,0
+Legionella urinary antigen negative,0
+azithromycin 500 mg/day,0
+intubated,0
+noradrenaline administered,0
+septic shock,0
+shock recovery,24
+respiratory improvement,24
+A. baumannii identified in sputum culture,72
+susceptible to ampicillin/sulbactam,72
+meropenem changed to ampicillin/sulbactam 3g every four hours,72
+creatinine clearance 151 mL/min,72
+negative blood cultures,72
+extubated,96
+nasal high-flow therapy,96
+transferred out of ICU,168
+Serratia marcescens in sputum culture,288
+hospital-acquired pneumonia,288
+ampicillin/sulbactam changed to cefepime,288
+respiratory improvement,288
+necrotizing pneumonia,312
+intravenous antibiotics for 42 days,312
+oral ciprofloxacin 400 mg every 12 hours for 14 days,1008

@@ -1,0 +1,74 @@
+event,time
+83-year-old,0
+male,0
+dislodgment of gastrostomy feeding tube,-24
+underwent gastrostomy (Stamm’s technique),-6480
+swallowing disorder after acute ischemic stroke,-6480
+stoma was stenotic,0
+stoma dilated,0
+new tube inserted,0
+discharged,24
+abdominal pain,48
+vomiting,48
+returned to hospital,60
+ill-looking,60
+dehydrated,60
+hypotension,60
+tachycardia,60
+abdomen distended,60
+abdomen diffusely tender,60
+left hypochondrium tenderness,60
+flank tenderness,60
+abdominal CT,60
+iodine contrast infusion,60
+peritoneal blockade cavity filled with gas and fluid,60
+exploratory laparotomy,60
+significant lumpy liquid in peritoneal cavity,60
+peritoneal adhesions,60
+false path linking abdominal orifice to purulent collection,60
+another gastrostomy performed,60
+stomach sutured to abdominal wall,60
+peritoneal cavity lavage,60
+abdomen drained,60
+intensive care unit admission,60
+evisceration,60
+re-operation,60
+multiple organ failure,60
+death,1032
+"I think the correct approach is to assign the evisceration and re-operation to the same time as the surgery (60), since they're part of the immediate postoperative course, unless stated otherwise. Similarly, multiple organ failure leading to death would be a process, but the death is at 1032. The organ failure would be around the same time as death, but perhaps assign it to 60 as well? No, the organ failure would occur before death. Since the death is at 1032, and organ failure leads to death, maybe assign organ failure at 1032 as well. But the case says ""multiple organ failure ensued and he died 43 days later."" So ""ensued"" implies after the evisceration and re-operation. The time between evisceration and death is 43 days. So the organ failure happened over time, but the exact timestamp isn't given. The user may prefer to include organ failure at the same time as death, but since it's a process leading to death, maybe assign it to 1032. Alternatively, approximate. But without specific info, maybe assign it to 1032. But in the user example, 'discharged","24' when the case said 'discharged afterwards.' So for events that happen after a procedure but time unspecified, assign to the same timestamp. So perhaps the evisceration and re-operation are at +60, and organ failure at +60, death at +1032. Alternatively, maybe the evisceration occurred a few days after surgery. For example, if the initial surgery was at day 2.5 (60h), evisceration might happen a few days later. But the case doesn't specify. Since the user requires approximation, perhaps assign all events related to the surgical complications (evisceration, re-operation, organ failure) to the same time as the surgery (60), and death at 1032. Alternatively, the evisceration and re-operation happen a few days after the initial surgery. If the initial surgery was at 60h (2.5 days), maybe evisceration happens 3 days later (60+72=132h), but without info, it's safer to assign to the time of the surgery. Alternatively, since the case says ""the outcome was accompanied with evisceration requiring re-operation,"" implying that after the initial surgery, during recovery, evisceration occurred. Since the case doesn't give a specific time, perhaps assign it to 60. Same with organ failure. Then death at 1032."
+83-year-old,0
+male,0
+dislodgment of gastrostomy feeding tube,-24
+underwent gastrostomy (Stamm’s technique),-6480
+swallowing disorder after acute ischemic stroke,-6480
+stoma was stenotic,0
+stoma dilated,0
+new tube inserted,0
+discharged,24
+abdominal pain,48
+vomiting,48
+returned to hospital,60
+ill-looking,60
+dehydrated,60
+hypotension,60
+tachycardia,60
+abdomen distended,60
+abdomen diffusely tender,60
+left hypochondrium tenderness,60
+flank tenderness,60
+abdominal CT,60
+iodine contrast infusion,60
+peritoneal blockade cavity filled with gas and fluid,60
+exploratory laparotomy,60
+significant lumpy liquid in peritoneal cavity,60
+peritoneal adhesions,60
+false path linking abdominal orifice to purulent collection,60
+another gastrostomy performed,60
+stomach sutured to abdominal wall,60
+peritoneal cavity lavage,60
+abdomen drained,60
+intensive care unit admission,60
+evisceration,60
+re-operation,60
+multiple organ failure,60
+death,1032

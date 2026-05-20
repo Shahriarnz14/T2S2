@@ -1,0 +1,88 @@
+event,time
+29 years old ,0
+female ,0
+admitted to the hospital ,0
+complex regional pain syndrome ,-1095
+sports-related injury ,-1095
+shoulder surgery ,-1095
+recurrent shoulder infections ,-1095
+Pseudomonas aeruginosa ,-1095
+Sphingomonas paucimobilis ,-1095
+Candida colliculosa ,-1095
+Staphylococcus aureus ,-1095
+left shoulder tendon release ,-240
+revision ,-240
+development of CRPS ,-240
+severe pain ,-240
+allodynia ,-240
+edema ,-240
+muscle spasms ,-240
+temperature changes ,-240
+electromyography ,-240
+brachial plexus injury ,-240
+asthma ,-720
+selective IgG3 deficiency ,-720
+oral medical management ,-240
+opioids ,-240
+antidepressants ,-240
+antispasmodics ,-240
+left stellate ganglion blockade ,-240
+continuous cervical epidural infusions ,-240
+placement of epidural catheter ,0
+fluoroscopic guidance ,0
+preprocedure labs ,0
+complete blood count ,0
+complete metabolic panel ,0
+creatinine phosphokinase ,0
+antibiotic prophylaxis ,-1
+vancomycin ,-1
+intravenous vancomycin ,-1
+epidural infusion ,0
+0.25% bupivacaine ,0
+hydromorphone ,0
+clonidine ,0
+oral home medications ,0
+methadone ,0
+diazepam ,0
+baclofen ,0
+amitriptyline ,0
+decrease in pain ,24
+improved sleep ,48
+decrease in LUE spasms ,48
+decrease in edema ,48
+febrile ,120
+temperature 38.1°C ,120
+wean the infusion ,120
+remove the epidural catheter ,126
+headache ,130
+neck pain ,130
+temperature 40.0°C ,130
+neurological examination ,130
+blood and urine cultures ,130
+chest x-ray ,130
+laboratory workup ,130
+increase in white count ,130
+cefepime ,130
+abatement of fever ,130
+decrease in white count ,130
+MRI ,132
+cervical spine MRI ,132
+epidural collection ,132
+interstitial edema ,132
+transfer to NSICU ,132
+hourly neurological examination ,132
+intractable nausea ,156
+vomiting ,156
+left arm weakness ,156
+emergent decompression ,156
+evacuation ,156
+cervical laminectomies ,156
+foraminotomies ,156
+intraoperative cultures ,156
+P aeruginosa ,156
+vancomycin stopped ,156
+cefepime continued ,156
+resolution of arm weakness ,180
+postoperative course ,180
+discharged home ,180
+intravenous cefepime ,180

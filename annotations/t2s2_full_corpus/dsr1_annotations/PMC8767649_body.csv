@@ -1,0 +1,125 @@
+event,time
+74 years old,0
+female,0
+ulcerative colitis,0
+remote colectomy,0
+ileostomy,0
+hypertension,0
+presented to emergency department,0
+fatigue,0
+myalgia,0
+confusion,0
+temperature 100°F,0
+blood pressure 108/60 mmHg,0
+heart rate 106 bpm,0
+respiratory rate 20 breaths/min,0
+disoriented,0
+normal neurologic exam,0
+normal S1 and S2,0
+no murmurs,0
+no gallops,0
+no rubs,0
+decreased breath sounds on lung bases,0
+no crackles,0
+no rales,0
+sodium 128 mEq/L,0
+creatinine 1.21 mg/dL,0
+lactate 3.0 mEq/L,0
+urinalysis suggestive UTI,0
+WBC 8.8 k/cmm,0
+hemoglobin 15.1 g/dL,0
+platelet 131 k/cmm,0
+CT brain unremarkable,0
+chest X-ray unremarkable,0
+IV fluids resuscitation,0
+IV ceftriaxone,0
+admitted for sepsis secondary to UTI,0
+admitted for delirium,0
+discharged after 3 days,72
+improvement of mentation,72
+resolution of AKI,72
+resolution of hyponatremia,72
+resolution of lactic acidosis,72
+returned to ED 2 days later,120
+weakness,120
+inability to ambulate,120
+temperature 103°F,120
+heart rate 115 bpm,120
+blood pressure 90/65 mmHg,120
+respiratory rate 24 breaths/min,120
+normal mental status,120
+WBC 3.31 k/cmm,120
+hemoglobin 13.2 g/dL,120
+platelet 60 k/cmm,120
+lactic acid 5.4 mEq/L,120
+AST 237 U/L,120
+ALT 189 U/L,120
+alkaline phosphatase 146 U/L,120
+chest X-ray right middle lobe infiltrates,120
+vancomycin started,120
+piperacillin-tazobactam started,120
+admitted to medical floor,120
+4 days after admission (day 4),192
+worsening respiratory status,192
+noninvasive mechanical ventilation,192
+transferred to MICU,192
+CT chest bilateral pleural effusions,192
+thoracentesis 750cc exudative fluid,192
+progressive hypoxemia,192
+serial chest X-rays bilateral interstitial infiltrates,192
+ARDS,192
+intubation,192
+persistent fever,192
+broad-spectrum antibiotics,192
+"negative cultures (blood, sputum, urine, stool)",192
+WBC 1.4 k/cmm,192
+hemoglobin 8.5 g/dL,192
+platelet 45 k/cmm,192
+creatinine 2.1 mg/dL,192
+BUN 65 mg/dL,192
+liver transaminases rise to thousands,192
+jaundice worsened,192
+coagulopathy,192
+INR 8,192
+acute liver injury,192
+normal Factor V,192
+normal Factor VIII,192
+abdominal ultrasound unremarkable,192
+MRI liver/pancreas unremarkable,192
+LDH 1367 U/L,192
+triglycerides 808 mg/dL,192
+fibrinogen 240 mg/dL,192
+"ferritin 40,000 ng/mL",192
+suspected HLH,192
+bone marrow biopsy,192
+normocellular marrow,192
+myeloid predominance,192
+mild granulocyte atypia,192
+increased histiocytes,192
+CD163 immunostaining increased histiocytes,192
+hemophagocytosis,192
+HLH diagnosis,192
+started dexamethasone,192
+started etoposide,192
+clinical improvement,192
+"negative viral serologies (HIV, CMV, HSV, EBV, hepatitis B/C)",192
+negative ANA,192
+negative dsDNA antibody,192
+negative rheumatoid factor,192
+negative autoimmune hepatitis workup,192
+negative hereditary hemochromatosis genetic testing,192
+met 5/8 HLH criteria,192
+respiratory status improved,192
+weaned off mechanical ventilation,192
+discharge blood counts improved,192
+normalization of liver enzymes,192
+readmitted 1 month later,720
+persistent confusion,720
+HLH with CNS involvement,720
+worsening cognitive impairment,720
+CSF increased protein,720
+CSF pleocytosis,720
+intrathecal methotrexate,720
+no symptom improvement,720
+goals of care changed to comfort care,720
+patient passed away 2 weeks later,864

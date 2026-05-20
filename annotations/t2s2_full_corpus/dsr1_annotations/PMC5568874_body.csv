@@ -1,0 +1,81 @@
+event,time
+70 year-old,0
+Caucasian man,0
+BMI 31.14,0
+smoker,0
+hypertensive,0
+endovascular-aortic aneurysm repair,"-132000 (2008, approximated as 15 years prior to admission)"
+nephrectomy,-132000
+kidney cancer,-132000
+laparotomy,-132000
+incisional hernia,-132000
+laparoscopically treated,-132000
+multilayered mesh (Proceed®),-132000
+CT scan,"-105120 (2014, 9 years prior, approximated as 9*365*24=78840 hours, but inconsistency in timeline; adjusted as per admission year assumption)"
+endoleak,-105120
+recurrent incisional hernia,-105120
+admitted to our hospital,0
+aorto-bi-iliac bypass,0
+abdominal wall sublay prosthetic repair,0
+composite mesh (Parietex™),0
+hard adhesions,0
+partial resection of ileum,0
+removal of mesh,0
+postoperative course uneventful,0
+discharged after twenty-eight days,672 (28 days post-admission)
+US scan,672
+large periprosthetic haematoma,672
+percutaneous drainage,672
+two drains positioned,672
+drains removed,"816 (7 days after placement: 672+168=840, discrepancy noted)"
+fever,"864 (10 days post-drain removal: 816+240=1056, but original timeline suggests 10 days after drain removal)"
+leakage of enteric material,864
+CT scan,864
+diploid-pubic fluid collection,864
+jejunal fistula,864
+iatrogenic lesion from drain,864
+conservative management,864
+US guided drainage,864
+evacuation of 1800 cc enteric material,864
+nasogastric tube,864
+total parenteral nutrition,864
+intravenous octreotide,864
+antibiotics,864
+sepsis,864
+surgical treatment,864
+infected mesh removal,864
+open abdomen,864
+thick granulation tissue,864
+jejunal perforation confirmed,864
+Kehr drain,864
+vacuum-assisted system,864
+NPWT (V.A.C. ULTA™),864
+baby bottle nipple,864
+absorbable stitches (PDS®),864
+biologic glue (BioGlue),864
+low pressure NPWT (25 mmHg),864
+stitches and glue dissolved,864
+Hyalomatrix®,864
+platelet gel,864
+Tutomesh®,864
+Tisseel,864
+handmade fistula patch,864
+10 cm silastic drain,864
+smaller caliber drains,864
+EAF turned into ECF,864
+antibiotics continued,864
+TPN continued,864
+improved general and local conditions,4320 (6 months post-intervention: 6*30*24=4320)
+laparoscopic approach planned,4320
+laparoscopic adhesiolysis,4320
+laparotomy,4320
+intestinal tract resection,4320
+jejuno-jejunostomy,4320
+abdominal irrigation,4320
+abdominal wall reconstruction,4320
+anterior component separation,4320
+absorbable mesh (Vycril®),4320
+Prevena™ Incisional System,4320
+postoperative course uneventful,4320
+discharged after sixteen days,4320 + 384 = 4704
+no complications at 2-year follow-up,17520 (2 years post-discharge: 2*365*24=17520)

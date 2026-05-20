@@ -1,0 +1,88 @@
+event,time
+Last gastroenterology appointment ,-5760
+Received vaccination for influenza ,-2880
+Received vaccination for COVID-19 ,-2880
+Stopped taking azathioprine ,-2160
+Stopped taking prednisone ,-2160
+Unprotected sexual intercourse ,-336
+Excruciating bilateral lower extremity pain ,-6
+Edema ,-6
+Ascites ,-6
+Fever ,-6
+Chills ,-6
+Nausea ,-6
+Dizziness ,-6
+Heavy menorrhagia ,-6
+25 years old ,0
+Woman ,0
+No history of tobacco use ,0
+No history of alcohol use ,0
+No history of substance use ,0
+No recent travel history ,0
+Presented to emergency department ,0
+Hypotension (BP 67/39 mmHg) ,0
+Tachycardia (HR 129 beats per minute) ,0
+Tachypnea (33 respirations per minute) ,0
+Hypothermia (temperature 35.1 degrees Celsius) ,0
+Jaundice ,0
+Scleral icterus ,0
+Abdominal ascites with fluid wave ,0
+"Anasarca including labia majora, labia minora, and bilateral lower extremities ",0
+Erythematous vaginal vault ,0
+Minimal discharge ,0
+No vesicles ,0
+No lesions ,0
+No retained foreign objects ,0
+Labored breathing ,0
+Admission to medical intensive care unit ,1
+Lactic acidosis (lactic acid 13.1 mmol/L) ,1
+Elevated creatinine (1.49 mg/dL) ,1
+Elevated aspartate transaminase (56 units/L) ,1
+Elevated alanine transaminase (62 units/L) ,1
+Elevated total bilirubin (3.7 mg/dL) ,1
+Elevated direct bilirubin (3.19 mg/dL) ,1
+Elevated alkaline phosphatase (213 units/L) ,1
+Low total protein (5.3 g/dL) ,1
+Low albumin (1.4 g/dL) ,1
+Anemia (hemoglobin 5.2 g/dL) ,1
+Leukopenia (leukocytes 1.3 k/uL) ,1
+Thrombocytopenia (platelets 90 k/uL) ,1
+Prolonged prothrombin time (37.9 s) ,1
+Elevated international normalized ratio (3.9) ,1
+Negative beta-human chorionic gonadotropin test ,1
+Peripheral smear noted occasional schistocytes ,1
+Paracentesis performed ,1
+Peritoneal fluid leukocyte count 9821 with neutrophilic predominance (82%) ,1
+CT angiography performed ,2
+Cirrhosis with portal hypertension on CT ,2
+Large volume abdominal ascites on CT ,2
+Splenomegaly on CT ,2
+Generalized edematous wall thickening of colon and rectum on CT ,2
+Intubation due to labored breathing and tachypnea ,2
+Early resuscitation with intravenous fluids ,2
+Blood products administered ,2
+Vasopressors started ,2
+"Antibiotics started (vancomycin, piperacillin-tazobactam, doxycycline, clindamycin) ",2
+Received one dose of intravenous immunoglobulin ,2
+Fine reticular violaceous patches developed on right proximal thigh ,3
+Elevated lactate dehydrogenase (298 units/L) ,6
+Low fibrinogen (187 mg/dL) ,6
+Elevated D-dimer (> 20 mcg/mL) ,6
+Urinalysis without signs of infection ,6
+Negative salicylate level ,6
+Negative acetaminophen level ,6
+Negative Chlamydia trachomatis nucleic acid amplification test ,6
+Negative Neisseria gonorrhoeae nucleic acid amplification test ,6
+Negative urine toxicology screen ,6
+Large violaceous non-blanching ecchymoses from bilateral proximal thighs to calves ,16
+Several flaccid bullae developed ,16
+Negative peritoneal fluid culture ,24
+Dusky and violaceous skin over entire right leg and left proximal thigh to mid-shin ,36
+Numerous bullae up to greater than 10 cm filled with red to black-colored fluid ,36
+Blood culture grew pan-susceptible Streptococcus pneumoniae ,48
+Progressive hypoxia despite maximal ventilator support ,48
+Progressive shock despite vasopressor support ,48
+Patient passed away ,48
+Autopsy finding: cirrhotic liver with entirely nodular surface ,48
+Autopsy finding: diffuse alveolar damage ,48
+Autopsy finding: over five liters of serous fluid in abdominal compartment ,48

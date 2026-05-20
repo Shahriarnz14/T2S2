@@ -1,0 +1,98 @@
+event,time
+38 years old,0
+male,0
+presented to emergency department,0
+fever,0
+cough,0
+shortness of breath,0
+myalgia,0
+BMI 29.9,0
+history of daily vaping,0
+no recent travel,0
+no known contact with COVID-19 positive individuals,0
+CT angiogram,0
+no pulmonary embolism,0
+bilateral numerous multifocal ground glass opacities,0
+viral pneumonia,0
+SARS-CoV-2 PCR positive,0
+droplet precautions,0
+contact isolation,0
+blood culture negative,0
+sputum culture negative,0
+urine legionella testing negative,0
+sputum legionella testing negative,0
+mycoplasma IgM negative,0
+subcutaneous Heparin 5000 units every 12 hours,0
+elevated D-dimer 0.64,0
+decompensated,0
+intubated for acute hypoxemic respiratory failure,120
+admitted to ICU,120
+Plaquenil 400 mg,120
+supplemental oxygen,120
+albuterol sulfate,120
+tiotropium bromide,120
+Tocilizumab,120
+Zithromax,120
+acute renal failure,144
+sepsis,816
+toxic metabolic encephalopathy,936
+T 100°F,0
+P 122,0
+BP 141/81,0
+WBC low 4.26,0
+RBC normal 4.63,0
+platelet high 154,0
+neutrophil percentage high 83,0
+lymphocyte percentage low 10.1,0
+CRP high 98.3,0
+creatinine high 1.5,0
+PTT high 35.5,0
+fibrinogen high 572,0
+procalcitonin high 3.5,0
+LDH high 398,0
+ALT high 58,0
+AST high 61,0
+calcium low 8.1,24
+potassium high 6.4,216
+glucose high 255,216
+insulin therapy,216
+continuous veno-venous hemofiltration,216
+intermittent hemodialysis,216
+troponin-I high 0.13,240
+CK high 588,240
+"CK peak 33,000",408
+chest CT on day 46,1104
+scattered centrilobular ground glass opacities,1104
+right hydropneumothorax,1104
+empyema,1104
+air-fluid level,1104
+bilateral lower lobe consolidations,1104
+right upper lobe cavity,1104
+right middle lobe cavity,1104
+E faecalis infection,1104
+pulmonary hypertension,1104
+high attenuation muscle foci 174 HU,1104
+bilateral deltoid infiltration,1104
+trapezius infiltration,1104
+supraspinatus infiltration,1104
+subscapularis infiltration,1104
+teres major infiltration,1104
+triceps infiltration,1104
+lattisimus dorsi infiltration,1104
+serratus anterior infiltration,1104
+rhomboid major infiltration,1104
+no muscle volume enlargement,1104
+sarcopenia,1104
+anemia hemoglobin 6.8,1104
+blood transfusion,1104
+hemophagocytic lymphohistiocytosis syndrome,1104
+delirium,1104
+repeated chest CT day 50,1200
+increasing muscle density,1200
+repeated chest CT day 57,1368
+progressive muscle density,1368
+MRCP on day 94,2256
+elevated alkaline phosphatase,2256
+no pelvic or thigh muscle abnormalities,2256
+interdisciplinary rehabilitation therapy,2160
+discharge arrangements,2160

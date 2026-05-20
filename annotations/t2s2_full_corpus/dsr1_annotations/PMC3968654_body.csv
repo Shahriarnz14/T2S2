@@ -1,0 +1,113 @@
+event,time
+24 years old,0
+primigravida,0
+37 weeks of gestation,0
+referred to institute,0
+supplemental oxygen,0
+Pf malaria diagnosis,0
+acute icteric leptospirosis diagnosis,0
+high grade fever,-72
+decreased urine output,-72
+yellowish discoloration,-72
+altered sensorium,-72
+disoriented,0
+febrile,0
+icteric,0
+sub-conjunctival haemorrhages,0
+fine basal crepitations,0
+receiving IV artesunate,0
+receiving ceftriaxone,0
+receiving doxycycline,0
+anemia,0
+jaundice,0
+deranged liver function,0
+coagulopathy,0
+thrombocytopenia,0
+increased total leucocyte count,0
+elevated blood urea nitrogen,0
+elevated serum creatinine,0
+singleton pregnancy,0
+adequate liquor,0
+umbilical artery systolic-diastolic ratio 2:1,0
+mild hepato-splenomegaly,0
+emergency caesarean delivery,1
+non-reassuring fetal heart rate,1
+aspiration prophylaxis,1
+high-risk consent,1
+rapid sequence intubation,1
+cricoid pressure,1
+thiopental administration,1
+succinylcholine administration,1
+right internal jugular vein cannulation,1
+left radial artery cannulation,1
+normal baseline serum glucose,1
+isoflurane maintenance,1
+N2O-O2 mixture,1
+atracurium administration,1
+delivery of baby,1
+fentanyl administration,1
+oxytocin infusion,1
+Apgar score 6 at 1 min,1
+Apgar score 8 at 5 min,1
+cord blood pH 7.28,1
+base deficit 5.4,1
+cord blood sugar 50 mg/dl,1
+hypotension,1
+placental separation,1
+packed red blood cells transfusion,1
+fresh frozen plasma transfusion,1
+platelets transfusion,1
+noradrenaline infusion,1
+mild acidosis,1
+normal electrolytes,1
+normal serum glucose,1
+shifted to ICU,1
+intubated state,1
+post-operative analgesia,1
+bilateral transverse abdominis plane block,1
+pulmonary haemorrhage,48
+coagulopathy,48
+blood product transfusion,48
+fibre-optic bronchoscopy,48
+erythematous mucosa,48
+blood clots,48
+active oozing,48
+diffuse bleeding,48
+bronchoalveolar lavage,48
+Factor VIIa administration,48
+bleeding cessation,60
+reduced FiO2,60
+bilateral non-homogeneous opacities,24
+clear chest radiograph,60
+acute kidney injury,48
+severe hyperbilirubinemia,48
+haemolytic uremic syndrome,48
+high serum lactate dehydrogenase,48
+schistocytes in peripheral blood,48
+plasmapheresis,48
+dialysis,48
+altered mental status,48
+diffuse cerebral oedema,48
+head elevation,48
+avoid neck rotation,48
+maintain serum sodium 145-155 mEq/L,48
+maintain PaCO2 32-40 mmHg,48
+negative blood cultures,48
+negative urine cultures,48
+negative Weil-Felix test,48
+negative typhi dot,48
+negative dengue serology,48
+negative hepatitis viruses serology,48
+stress ulcer prevention,48
+DVT prophylaxis,48
+glycemic control,48
+fever reduction,96
+improved consciousness,96
+tapered inotropic support,96
+improved urine output,96
+improving liver function,96
+improving coagulation parameters,96
+improved PaO2/FiO2 ratio,96
+extubation,144
+shifted to wards,144
+discharged,144

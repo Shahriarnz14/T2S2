@@ -1,0 +1,66 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+parkinsonism,0
+diabetes mellitus,0
+levodopa/carbidopa,0
+rasagiline,0
+ropinirole,0
+trihexyphenidyl,0
+amantadine,0
+metformin,0
+glipizide,0
+cellulitis,0
+intravenous clindamycin 600 mg thrice daily,0
+intravenous benzylpenicillin 2 million units 4 times daily,0
+high-temperature spikes (above 102°F),72
+tachycardia,72
+tachypnea,72
+hypotensive,72
+encephalopathic,72
+shifted to ICU,72
+sepsis with multi-organ dysfunction syndrome,72
+intravenous linezolid 600 mg twice daily,72
+intravenous piperacillin with tazobactam 4.5 gm thrice daily,72
+vancomycin not considered,72
+hemodynamics improved with minimal inotropic supports,72
+oral hypoglycemic agents stopped,72
+switched to insulin,72
+confused,72
+drowsy,72
+disoriented,72
+altered sensorium,72
+myoclonus,72
+tremors,72
+jerky movements,72
+no neck stiffness,72
+computed tomography of brain not significant,72
+cerebrospinal fluid analysis not significant,72
+white blood cell counts improving,72
+better glycemic control,72
+blood cultures sterile,72
+pus cultures sterile,72
+high temperature of 103°F,96
+altered mental status,96
+myoclonus,96
+jerky movements,96
+tremors,96
+serotonin syndrome suspected,96
+linezolid stopped,96
+rasagiline stopped,96
+temperature settled,104
+heart rate normal,104
+sensorium improved,104
+tremors completely subsided,104
+shifted out of ICU,120
+walking with support,240
+discharged from hospital,240
+anti-parkinsonism drugs continued,240
+rasagiline added later,240
+regular follow-up with neurologist,240
+stable,240
+asymptomatic for serotonin syndrome,240

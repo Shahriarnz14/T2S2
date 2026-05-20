@@ -1,0 +1,52 @@
+event,time
+69 years old,0
+female,0
+referred to tertiary referral center,0
+recurrent UTIs,0
+problems during monthly iBC change,0
+surgery for spondylolisthesis,"-483840 (14 years old to 69 years old, 55 years * 365 days/year ≈ 20075 days * 24 ≈ -481800 hours, approximated to -483840 for calculation purposes)"
+stress urinary incontinence,"-255840 (41 years old to 69 years old, 28 years * 365 ≈ 10220 days *24 ≈ 245280 hours before admission, negative timestamp: -245280, approximated to -255840)"
+treated with increasing number of pads,-255840
+addressed to iBC at age 41,-255840
+iBC changed monthly by husband,-255840
+no comorbidities,0
+no pharmacological therapy,0
+abdominal ultrasound,0
+computed tomography,0
+bladder stone 41x47 mm,0
+videourodynamic study,0
+defunctionalized bladder,0
+uterus-sparing simple cystectomy,0
+uretero-ileal-cutaneous diversion according to Bricker,0
+general anesthesia,0
+operative time 215 minutes,0
+antibiotic prophylaxis with Cefazolin,0
+no intra-operative complications,0
+active chronic cystitis,0
+follicular features,0
+eosinophilic features,0
+mucosa ulcers,0
+post-operative day 3,72
+septic,72
+severe lumbar pain,72
+abdominal fluid cultures positive for Escherichia coli,72
+Pseudomonas aeruginosa,72
+Candida glabrata,72
+CT scan documented pancreatic edema,72
+conservative approach attempted,72
+post-operative day 18,432
+septic shock,432
+blood cultures positive for Enterococcus faecium,432
+Pseudomonas aeruginosa,432
+wound cultures positive for Acinetobacter spp,432
+urgent exploratory laparotomy,432
+acute necrotizing hemorrhagic pancreatitis,432
+medical therapy continued,432
+other surgeries for abdominopelvic washing,432
+other septic episodes,432
+intensive care stay 95 days,2280
+discharged after 141 days,3384
+Clavien-Dindo grade IV complications,0
+follow-up visit two years later,17520
+well-functioning urinary diversion,17520
+no significant urinary tract conditions,17520

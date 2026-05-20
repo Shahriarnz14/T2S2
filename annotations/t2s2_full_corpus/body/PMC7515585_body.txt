@@ -1,0 +1,88 @@
+1 Introduction
+
+Coronavirus disease 2019 (COVID-19) is a fatal infection caused by SARS-CoV-2. The disease disseminates systemically and cause several complications including ARDS, thromboembolism and kidney injury [1]. To date, no therapy has been proven effective against COVID-19. Several novel agents have been used during the pandemic without solid evidence and outside of clinical trials like granulocyte-colony stimulating factors (G-CSFs). G-CSF is a type of myelopoietic growth factor that stimulates the production, multiplication, and maturation of neutrophils [2]. G-CSF -activated neutrophils express higher levels of proinflammatory cytokines [2]. As COVID-19 is characterized by a remarkable inflammatory reaction [3,4], using G-CSF might be ineffective or even harmful in COVID-19. We report a case with COVID-19 and neutropenia who deteriorated rapidly during neutropenia recovery after administration of G-CSF. We also reviewed three similar cases recently reported in literature [5].
+
+2 Case report
+
+A 47-year-old male who received a kidney transplant seven years ago was admitted to the hospital during Covid-19 pandemic because of diarrhea, nausea, vomiting and acute kidney injury. The patient had been in his usual state of health until 2 weeks before admission, when nausea, vomiting and diarrhea developed. He had not been able to drink or eat since his symptoms started. He called his primary care physician, who suggested that he present to the emergency department for further evaluation.
+
+In the emergency department, the patient reported ongoing nausea and abdominal discomfort. He vomited once in emergency department. He had no shortness of breath, cough, fever, or chills. He had not traveled recently and had no known contact with sick person.
+
+Other medical history was notable for type two diabetes, hypertension, hyperlipidemia, endocarditis, coronary artery disease and heart failure with reduced ejection fraction. Patient underwent coronary artery bypass surgery and mitral valve replacement due to endocarditis nine years ago. Medications included aspirin, atorvastatin, carvedilol, clopidogrel, sacubitril-valsartan, warfarin and insulin. Immunosuppression regimen was tacrolimus (0.5 mg capsules: 2 capsules in the morning and 1 in the evening) and mycophenolic acid (720 mg 2 capsules a day). There were no known allergies to medications. He had smoked tobacco in the past but had quit 10 years earlier; he drank alcohol rarely and did not use illicit drugs for years. His family history included hypertension and heart disease in his father and throat cancer in his mother.
+
+On examination, the temperature was 36.6 °C, the blood pressure 90/58 mm Hg, the heart rate 103 beats per minute, the respiratory rate 16 breaths per minute, and the oxygen saturation 98% while the patient was breathing ambient air. The body-mass index was 42.2. Heart sounds were normal and both lungs were clear on auscultation. The blood creatinine level of 6.7 mg/dL (reference range, 0.7–1.3 mg/dL) was higher than the level obtained 5 months earlier (2.5 mg/dL). The blood potassium level was 5.7 mMol/L (reference range, 3.5 to 5.1 mMol/L), the blood urea nitrogen 175 mg/dL (reference range 7–25 mg/dL) and the bicarbonate level 14 mMol/L (reference range, 21 to 31 mMol/L). The white-cell count was 2.9 K/CUMM (reference range, 3.5–10.6), with 0.2 K/CUMM lymphocytes count (reference range, 1.0–3.8). The International normalised ratio (INR) was 2.75 (reference range, 0.90–1.13). Other laboratory test results are summarized in Table 1. Radiography of the chest revealed prominent pulmonary vascular markings and enlarged cardiac silhouette. No evidence of pulmonary infiltrates (Fig. 1A). Nasopharyngeal swab tested positive for SARS-CoV-2 RNA. Hypotension resolved after administration of 1 L of normal saline's solution. Patient treated with insulin, beta-agonists, calcium and polystyrene sulfonates for hyperkalemia. The patient was admitted to the hospital.Table 1 Laboratory findings.
+
+Table 1Variable	On admission	Hospital day 3	Hospital day 4	Hospital day 5	Reference ranges	
+Hematocrit, %	31.6	26.5	25.7	27.5	38.9–49.7	
+Hemoglobin, mg/dL	9.6	8.3	8.2	8.7	13.3–17.1	
+White blood cell count, K/CUMM	2.9	0.9	2.5	35	3.5–10.6	
+Differential count, K/CUMM						
+Neutrophils	2.4	NA	2.2	28.9	1.58–7.13	
+Lymphocytes	0.2	NA	0.2	0.3	1.0–3.8	
+Monocytes	0.2	NA	0.1	0.9	0.1–0.88	
+Eosinophils	0.1	NA	0.0	0.0	0.0–0.6	
+Basophils	0.0	NA	0.0	0.0	0.0–0.2	
+Platelet count, K/CUMM	146	124	114	140	150–450	
+Prothrombin time, second(s)	26.8	42.2	44.0	83.1	9.4–11.7	
+Partial thromboplastin time, second(s)	41.2	NA	50.1	NA	23.1–33.1	
+International normalised ratio (INR)	2.75	4.48	4.68	9.24	0.90–1.13	
+D-Dimer, mg/L	0.42	NA	NA	21.35	0.0–0.50	
+Sodium, mMol/L	132	129	128	132	136–145	
+Potassium, mMol/L	5.7	5.3	5.5	5.8	3.5–5.1	
+Chloride, mMol/L	105	100	101	100	98–107	
+Bicarbonate, mMol/L	14	15	13	15	21–31	
+Anion gap, mMol/L	13	14	14	17	5–15	
+Glucose, mg/dL	160	319	241	156	75–105	
+Blood urea Nitrogen, mg/dL	175	156	164	113	7–25	
+Creatinine, mg/dL	6.71	6.35	7.68	7.4	0.70–1.30	
+Calcium, mg/dL	9.7	8.6	8.8	9.1	8.6–10.8	
+Magnesium, mg/dL	2.0	1.6	2.4	NA	1.6–3.0	
+Alanine aminotransferase, U/L	6	5	NA	NA	7–52	
+Aspartate aminotransferase, U/L	16	15	NA	NA	13–39	
+Alkaline phosphatase, U/L	64	54	NA	NA	45–115	
+Lactate dehydrogenase, U/L	330	NA	NA	774	140–271	
+Creatine phosphokinase, U/L	154	NA	NA	601	30–223		
+C-reactive protein, mg/L	6.8	NA	NA	101.4	0.0–5.0		
+Ferritin, ng/mL	1295	NA	NA	4681	24–336		
+
+Fig. 1 A: Day 1 of hospitalizatino. B: Day 4 of hospitalization. C: Day 5 of hospitalization.
+
+Fig. 1
+
+On days 2 and 3 of hospitalization, vital signs remained largely stable. Patient had no respiratory symptoms and the oxygen saturation was 96% on room air. Patient's symptoms of diarrhea, nausea and vomiting were resolved, and he was able to tolerate soft diet. Laboratory results on hospital day 3 reflected unresolved acute kidney injury, hyperkalemia, metabolic acidosis, leukopenia and mild thrombocytopenia (Table 1). Patient was oliguric since admission (Urine output <500 cc/24hrs). A transplant nephrology consultation was obtained. Renal ultrasonography revealed normal-sized transplant kidney (12.1 × 6.5 × 5.0 cm), normal cortical echogenicity and no evidence of hydronephrosis. Examination of the urinary sediment revealed no cellular casts. Patient was maintained on intravenous fluid and a total of 5 L of normal saline's solution was administered since admission. Patient's Immunosuppressive therapy was discontinued during hospitalization. The INR was monitored during hospitalization. Patient had a total of 5 mg and 2 mg of warfarin administered on day 1 and day 2 of hospitalization, respectively. INR continued toraise as showed in Table 1.
+
+On the morning of hospital day 4, patient reported productive cough and shortness of breath. Oxygen saturation decreased to 85% while the patient was breathing ambient air and then increased to 95% with the administration of oxygen through a nasal cannula at a rate of 3 L per minute. On the same morning, a dose of filgastrim, a granulocyte colony-stimulating factor (GCS-F), (480 mcg) was given to decrease the duration of leukopenia. Six hours later, shortness of breath progressed, and the oxygen saturation decreased. Patient was initiated on high-flow nasal cannula (HFNC)at a rate of 40 L per minute and transferred to the intensive care unit (ICU). Blood and sputum specimen obtained for culture. A chest radiograph obtained and showed development of multifocal air-space opacities, prominent pulmonary vascular markings and enlarged cardiac silhouette (Fig. 1B). Treatment with intravenous furosemide, vancomycin and cefepime were started for concern of volume overload and hospital-acquired pneumonia, respectively.
+
+On day 5 of hospitalization, the patient underwent intubation and mechanical ventilation for worsening tachypnea and oxygen saturation. Blood pressure decreased to 75/46 mm Hg, and treatment with intravenous norepinephrine and vasopressin was initiated. Patient continued to have worsening kidney function (Table 1) and became anuric, so continuous renal replacement therapy (CRRT) was initiated. Impressively, white blood cell count increased after filgastrim administered from 2.5 K/CUMM (reference range, 3.5–10.6) on day 4 of hospitalization to 35 K/CUMM (reference range, 3.5–10.6) on day 5 of hospitalization. Levels of c-reactive protein, ferritin, lactate dehydrogenase and creatine phosphokinase were increased compared to levels measured on admission. Repeated chest radiograph showed worsening of bilateral opacities, prominent pulmonary vascular markings and enlarged cardiac silhouette. The endotracheal tube and the nasogastric tube were in the appropriate positions (Fig. 1C). Transthoracic echocardiography revealed an estimated left ventricular ejection fraction of 20% (similar to the ejection fraction measured 5 months before). The prosthetic mitral valve appears in normal position.
+
+During the next four days, patient remained intubated on mechanical ventilation. Blood and sputum culture were negative. The oxygen saturation decreased required increasing the ventilator settings. Patient developed atrial fibrillation and intravenous amiodarone started. Hypotension progressively worsen required higher dose of vasopressors. CRRT was held due to worsening hypotension and tachycardia. Patient died on hospital day 9.
+
+3 Discussion
+
+We present a case with COVID-19 and neutropenia who deteriorated within 24 hours after G-CSF administration. To our knowledge, this is the second paper reporting the effect of G-CSFs in patient with COVID-19. The first paper [5] reported similar rapid deterioration in three patients with COVID-19 and neutropenia after G-CSF administration. Although G-CSFs therapy is known to be safe and well tolerated in most clinical settings [6,7], we will discuss here why G-CSFs therapy might be ineffective or even harmful in patients with COVID-19.
+
+Treating neutropenia with G-CSFs in different clinical settings have failed to show any benefits [7]. G-CSFs therapy is recommended to be used only for prevention of neutropenia associated with chemotherapy or radiation as it has been shown to decrease duration of hospitalization and documented infections [8,9]. However, therapeutic use of G-CSFs in neutropenia due to acquired causes such as drugs or infections is not based on solid evidence and not routinely recommended [[7], [8], [9]].
+
+G-CSF is known to drive excessive inflammatory reaction [2] and it might not be safe in patients with high inflammatory status. For example, a preexisting high serum levels of G-CSFs and interleukins play an important rule in developing sweat syndrome, a side effect of G-CSFs characterized by neutrophilic infiltration of body organs [10]. One of the remarkable features of COVID-19 is the elevated proinflammatory cytokines including G-CSFs [3,4]. Therefore, G-CSFs therapy might worsen the overwhelming inflammatory reaction in COVD-19 and lead to worse outcomes. Also, targeting G-CSF might be a therapeutic option. A clinical trial (ClinicalTrials.gov Identifier: NCT04351152) is ongoing currently to assess the effect of lenzilumab, a monoclonal antibody against G-CSF, on patients with COVID-19.
+
+G-CSF has been tried in patients with sepsis regardless of neutropenia, but no efficacy was shown [11]. Although G-CSF is found to be well tolerated in sepsis [11], not all patients with sepsis have high G-CSF level. Suratt BT [12] examined the serum level of G-CSF in patients with sepsis and found a bimodal or U-Shaped distribution. This might indicate that G-CSFs therapy should be carefully targeted as it might benefit patients with low G-CSF level and might harm patients with high G-CSF level.
+
+Over the past few decades, there was a concern about G-CSFs-related pulmonary toxicity [13,14]. Neutrophils play a major rule in the diffuse alveolar damage associated with acute respiratory distress syndrome (ARDS) [15]. It has been found that acute respiratory failure is directly related to neutropenia recovery after G-CSFs administration rather than G-CSF therapy itself [13,14]. Previous studies [13,14] showed that the median time to recovery of an absolute neutrophil count higher than 0.5 K/CUMM was two days after G-CSF administration. We observed in our COVID-19 case that neutrophil count recovered rapidly after G-CSF and this recovery is faster than previously known. Neutrophil count in our patient recovered from 2.5 K/CUMM to 35 K/CUMM (reference range, 3.5–10.6) 24 hours after 480 mcg dose of filgrastim. The previous paper [5] also reported rapid neutropenia recovery after 480 mcg dose of filgrastim in all three COVID-19 cases (case 1: 0.3 K/CUMM to 2.2 K/CUMM in 24 hours, case 2: 0.6 K/CUMM to 10.7 K/CUMM in 48hrs, case 3: 0.6K/CUMM to 7.5 K/CUMM in 24hrs). This fast neutropenia recovery observed in our case and the previous cases might explain the rapid respiratory deterioration.
+
+It is important to keep in mind that the respiratory deterioration after G-CSF administration described in our cases can be a coincidence. The respiratory deterioration cannot be attributable to G-CSFs without large randomized studies. Additionally, not all COVID-19 patients might have rapid neutropenia recovery after G-CSF therapy as observed in our cases.
+
+In summary, the safety and efficacy of G-CSFs in COVID-19 patients should be carefully reassessed. Clinicians should be aware of increased risk of acute respiratory failure during G-CSF induced neutropenia recovery in patients with COVID-19.
+
+Reprints
+
+No reprints will be ordered.
+
+Source of funding and methods
+
+No funding received from any organizations.
+
+Consent for case report had been obtained from the patient family.
+
+Declaration of competing Interest
+
+None of the authors have any conflicts of interests to report.

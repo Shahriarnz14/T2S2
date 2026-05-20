@@ -1,0 +1,133 @@
+event,time
+55 years old,0
+male,0
+Caucasian,0
+gentleman,0
+admission to local emergency department,-168
+1-week history of common cold,-168
+myalgia,-168
+fatigue,-168
+headaches,-168
+pleuritic chest pain,-168
+breathlessness on exertion,-168
+mild asthma,0
+controlled on Beclomethasone,0
+salbutamol prn,0
+ex-smoker,0
+25-pack years,0
+body mass index 24.6 kg/m²,0
+blood pressure 130/80 mmHg,-168
+pulse 110 bpm,-168
+temperature 38.2°C,-168
+decreased air entry on right lung,-168
+coarse crackles,-168
+normal heart sounds,-168
+no murmurs,-168
+sinus tachycardia 113 bpm,-168
+PR interval 124 ms,-168
+QRS duration 99 ms,-168
+corrected QT interval 382 ms,-168
+no ST-T wave abnormalities,-168
+serum creatinine 85 umol/L,-168
+alanine aminotransferase 216 IU/L,-168
+potassium 5.4 mmol/L,-168
+magnesium 1.2,-168
+corrected calcium 2.26,-168
+sodium 138,-168
+C-reactive protein 184 mg/L,-168
+hemoglobin 86 g/L,-168
+normocytic normochromic,-168
+platelets 670 × 10⁹/L,-168
+WBC 18 × 10⁹/L,-168
+neutrophilia,-168
+INR 1.4,-168
+aPTT 27.2 s,-168
+right-sided consolidation on chest radiograph,-168
+Pseudomonas aeruginosa in sputum and blood cultures,-168
+community acquired P. pneumonia,-168
+treated with oxygen,-168
+intravenous fluids,-168
+antibiotics meropenem,-168
+clarithromycin,-168
+central chest pain,-96
+inferior ST elevation myocardial infarction,-96
+coronary angiogram,-96
+occlusion of mid LCx,-96
+drug-eluting stent to LCx,-96
+left anterior descending disease,-96
+dual antiplatelet therapy,-96
+aspirin,-96
+ticagrelor,-96
+paroxysmal atrial fibrillation,-96
+ventricular bigeminy,-96
+intubation and ventilation,-72
+respiratory deterioration,-72
+worsening type 1 respiratory failure,-72
+proning attempts,-72
+inhaled nitric oxide,-72
+COVID-19 negative,-72
+Murray score 2.5,-72
+RESP score 5,-72
+veno-venous ECMO,-72
+transfer to tertiary centre ICU,0
+right-sided necrotizing pneumonia,0
+pleural effusion,0
+left basal consolidation,0
+ground glass opacification,0
+multiple pulmonary emboli,0
+no right heart strain,0
+severely impaired LV systolic function,0
+mild RV dilatation,0
+moderate-severe RV systolic dysfunction,0
+cardiac output 3.5 L/min,0
+QTc 515 ms,0
+amiodarone loading 300 mg IV,0
+amiodarone 900 mg IV,0
+AF with ventricular ectopy,0
+amikacin,0
+ceftazidime,0
+linezolid,0
+noradrenaline,0
+potassium 5.3 mmol/L,0
+magnesium 1.6,0
+corrected calcium 2.49,0
+temperature 36.1°C,0
+AF with ventricular rate 140-150 bpm,+120
+increased ventricular ectopy,+120
+self-terminating ventricular tachycardia,+120
+mean arterial pressure <59 mmHg,+120
+noradrenaline increased to 0.18 µg/kg/min,+120
+electrolyte replenishment,+120
+renal replacement therapy,+120
+metoprolol 25 mg TDS,+120
+esmolol 50 mcg/kg/min,+120
+bradycardia,+168
+hypotension,+168
+first degree AV block,+168
+QTc 550 ms,+168
+lidocaine infusion ineffective,+168
+worsening cardiogenic shock,+168
+repeat coronary angiogram,+144
+patent LCx stent,+144
+two DES to LAD,+144
+short-acting beta-blockers restarted,+144
+amiodarone with QTc <480 ms,+144
+Torsade de pointes,+240
+ventricular fibrillation,+240
+1 min CPR,+240
+DCCV,+240
+return of spontaneous circulation,+240
+post-arrest ECG: AF with high VE burden,+240
+persistent VE,+408
+AF,+408
+bradycardic episodes,+408
+noradrenaline requirement increase,+408
+atrial pacemaker insertion,+432
+AAI 90 bpm,+432
+cessation of VE,+600
+cessation of AF,+600
+noradrenaline reduction,+600
+ECMO decannulation,+1128
+secondary-prevention ICD insertion,+1344
+repatriation to local ICU,+1800
+death from sepsis,+1800

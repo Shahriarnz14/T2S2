@@ -1,0 +1,94 @@
+event,time
+42-year-old,0
+female,0
+healthcare provider,0
+admitted to the hospital,0
+high-grade fever,-48
+productive cough,-48
+shortness of breath,-48
+bony pains,-48
+contact with a patient with similar complaints,-48
+left nephrectomy in 2012,-35040
+staghorn calculus,-35040
+caesarean section 3 times,-35040
+abortion once,-35040
+obesity,0
+newly diagnosed diabetes mellitus type 2,0
+no diabetic medication,0
+Glasgow Coma Scale 15/15,0
+hemodynamically stable,0
+leukopenia,0
+white cell count 3.7,0
+lymphopenia 0.39%,0
+chest x-ray bilateral infiltrates,0
+right side infiltrates,0
+admitted to the ward,0
+septic screen for MERS-CoV,0
+septic screen for influenza AB,0
+septic screen for H1N1,0
+septic screen for dengue serology,0
+septic screen for malaria,0
+broad spectrum antibiotics,0
+oseltamivir,0
+symptoms progressed,24
+admitted to the Intensive Care Unit,24
+chest x-ray extensive bilateral consolidations,24
+refractory hypoxemia,24
+electively intubated,24
+mechanically ventilated,24
+100% FiO2,24
+ARDS protocol,24
+low tidal volume,24
+prone position,24
+tracheal aspirates positive for MERS-CoV,24
+Peginterferon Alpha-2a,24
+ribavirin,24
+intravenous methylprednisolone 60 mg every 6 hours,24
+ECMO contemplated,24
+fair improvement in respiratory function,120
+FiO2 40%,288
+PaO2 103.5 mmHg,288
+weaning trial planned,288
+sedation cessation,288
+methylprednisolone tapered to 40 mg IV every 6 hours,288
+Peginterferon Alpha-2a discontinued,288
+ribavirin discontinued,288
+hemodynamically stable,288
+respiratory function improved,288
+radiological features improved,288
+started to wake up,288
+moved all limbs,288
+polyuria,312
+urine osmolarity 95,312
+serum osmolarity 341,312
+urine sodium <20,312
+serum sodium 161 meq/L,312
+chloride 119 meq/L,312
+blood sugar 25 mmol/L,312
+Desmopressin 2 ug subcutaneously,312
+planned brain CT,312
+suddenly unresponsive,312
+GCS dropped to 3/15,312
+pupils 3 mm with sluggish reaction,312
+urgent CT brain right frontal hematoma,312
+subarachnoid hemorrhage,312
+intraventricular extension,312
+midline shift,312
+subfalcine herniation,312
+normal platelet count 347 X 10^9,312
+normal coagulation profile,312
+no anticoagulation treatment,312
+blood cultures negative,312
+neurosurgical review no intervention,312
+lost brain stem reflexes,312
+fixed and dilated pupils,312
+follow-up brain CT loss of gray-white differentiation,312
+large frontal hematoma,312
+effacement of CSF spaces,312
+no enhancement of intracranial vessels,312
+"CTA no visualization of MCA, PCA, ACA",312
+no posterior circulation flow,312
+brain death criteria,312
+supportive measures continued,312
+cardiac arrest,2664
+declared dead,2664

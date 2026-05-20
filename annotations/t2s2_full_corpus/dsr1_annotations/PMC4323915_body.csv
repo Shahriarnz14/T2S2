@@ -1,0 +1,71 @@
+event,time
+50 years old,0
+woman,0
+admitted for altered mental status,0
+acute alcohol intoxication,0
+binge drinking an unknown quantity of wine,-12
+blood pressure 88/58 mm Hg,0
+drowsy,0
+arousable,0
+partially oriented,0
+blood alcohol level 353 mg/dl,0
+anion gap 17,0
+lactate 4.5 mmol/L,0
+beta hydroxybutyrate 0.7 mmol/L,0
+positive urine ketones,0
+serum glucose 80 mg/dl,0
+serum osmolality 383 mOsm/kg,0
+normal serum osmolal gap,0
+elevated ethanol,0
+undetectable methanol,0
+undetectable isopropanol,0
+undetectable acetone,0
+received 7 L normal saline,0
+hypotension,0
+serum alcohol normalized,12
+anion gap normalized,12
+lactate normalized,12
+serum ketones normalized,12
+hypotension normalized,12
+mental status normalized,12
+workup for sepsis unremarkable,12
+found unresponsive on floor,24
+blood pressure 93/60 mm Hg,24
+Glasgow Coma Score 3,24
+required fluid resuscitation,24
+required intubation,24
+CT head unremarkable,24
+lactate increased to 4.5 mmol/L,24
+anion gap increased to 17,24
+extubated,48
+serum lactate normalized to 1.4 mmol/L,48
+anion gap normalized to 7,48
+mental status alert,48
+fully oriented,48
+found unresponsive in room,72
+empty bottle of ethanol based hand sanitizer,72
+vital signs normal,72
+Glasgow Coma Score 3,72
+repeat head CT unremarkable,72
+lactate 3.9 mmol/L,72
+anion gap 15,72
+serum ethanol 362 mg/dl,72
+methanol 0 mg/dl,72
+acetone 11 mg/dl,72
+isopropanol 14 mg/dl,72
+arterial blood gas pH 7.32,72
+PaCO2 43 mm Hg,72
+PaO2 73 mm Hg,72
+bicarbonate 22 mmol/L,72
+admitted to ICU,72
+required nasopharyngeal airway,72
+required supportive care,72
+mental status normalized,78
+elevated lactate levels normalized,78
+metabolic acidosis normalized,78
+admitted to drinking hand sanitizer,78
+denied suicidality,78
+hand sanitizers removed from room,78
+one-to-one monitoring,78
+discharged,78
+inpatient alcohol treatment program,78

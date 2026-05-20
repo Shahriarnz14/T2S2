@@ -1,0 +1,74 @@
+event,time
+72 years old,0\
+male,0\
+admitted to the hospital,0\
+hypertension,0\
+alcohol abuse,0\
+acute change in mental status,-168\
+unsteady gait,-168\
+meningitis twelve years prior,-105120\
+acting oddly,-168\
+febrile,0\
+T 38.3°C,0\
+tachycardic,0\
+HR 121 bpm,0\
+imaging of the head unremarkable,0\
+imaging of the chest unremarkable,0\
+left band shift,0\
+leukocytosis absent,0\
+WBC 6.2 × 10³/µL,0\
+fever,0\
+nuchal rigidity,0\
+altered mental status,0\
+lumbar puncture,0\
+CSF increased total protein,0\
+CSF WBC 275/mm³,0\
+CSF neutrophils 95%,0\
+CSF decreased glucose,0\
+septic shock,0\
+meningitis,0\
+intravenous ceftriaxone,0\
+intravenous vancomycin,0\
+intravenous dexamethasone,0\
+blood culture Streptococcus pneumoniae,0\
+CSF culture Streptococcus pneumoniae,0\
+completed two weeks of intravenous antibiotic therapy,336\
+alcoholism,0\
+no predisposing infection,0\
+HIV 4th Generation test negative,0\
+ANA screen negative,0\
+elevated total protein,0\
+low albumin,0\
+mild anemia,0\
+Hgb 12.2 g/dL,0\
+elevated serum creatinine,0\
+unprovoked pneumococcal infection,0\
+lab tests suggestive of multiple myeloma,0\
+immunofixation increased monoclonal gammopathy,0\
+IgG elevated,0\
+β2-microglobulin elevated,0\
+no osseous lytic lesions,0\
+serum calcium normal,0\
+bone marrow biopsy hypercellular,0\
+monoclonal IgG lambda restricted plasma cells,0\
+multiple myeloma diagnosis,0\
+transferred to acute rehab,504\
+neurological deficits,504\
+fevers,504\
+leukocytosis,504\
+transferred back to inpatient medical floor,504\
+broad-spectrum antibiotics,504\
+sepsis of unknown source,504\
+blood cultures Candida auris,504\
+intravenous micafungin,504\
+two-week course of antifungal therapy,672\
+subsequent cultures negative,672\
+chemotherapy treatment delayed,672\
+active infections resolved,672\
+induction chemotherapy CyBorD regimen,672\
+cyclophosphamide,672\
+bortezomib,672\
+dexamethasone,672\
+changed to lenalidomide,672\
+complete remission,1344\
+no recurrent infections,1344\

@@ -1,0 +1,63 @@
+event,time
+72 years old,0
+female,0
+admitted to the hospital,0
+urinary incontinence,-6480
+right frontal meningioma,-6480
+ground-level fall,-6480
+ground-level fall,-72
+dyspnea,-72
+nonproductive cough,-72
+chest pain,-72
+generalized weakness,-72
+crackles in the right lung base,0
+consolidation in the right lung base,0
+elevated white blood cell counts,0
+elevated neutrophils,0
+thrombocytopenia,0
+normal renal function,0
+community-acquired pneumonia,0
+intravenous ceftriaxone,0
+intravenous azithromycin,0
+discontinued dexamethasone,-72
+restarted dexamethasone,0
+dexamethasone 4 mg IV every 6 h,0
+dexamethasone 6 mg IV every 6 h,480
+chest pain,168
+productive cough,168
+hemoptysis,168
+cavitary lesion,168
+negative AFB stain,168
+negative AFB culture,168
+indeterminate QuantiFERON gold test,168
+negative repeat QuantiFERON gold test,168
+negative serum galactomannan antigen,168
+vancomycin,168
+piperacillin-tazobactam,168
+hydropneumothorax,336
+chest tube placement,336
+resolved pneumothorax,336
+pulmonary consult,336
+bronchoscopy,336
+bronchoalveolar lavage,336
+Streptococcus viridans,336
+Aspergillus fumigatus,336
+acute-angle hyphae septate,336
+invasive pulmonary aspergillosis,336
+voriconazole 490 mg IV every 12 h,336
+thrombocytopenia,432
+rash,432
+isavuconazole 372 mg IV every 24 h,432
+pleural leak,432
+persistent pneumothorax,432
+progressive pneumothorax,432
+prolonged ileus,432
+worsening renal function,432
+poor surgical candidacy,432
+declined surgical intervention,432
+Aspergillus cavitary lesion,432
+bronchopulmonary fistula,432
+aspergilloma,432
+severe septic shock,480
+multiorgan failure,480
+died,480

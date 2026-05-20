@@ -1,0 +1,111 @@
+event,time
+35 years old,0
+Hispanic,0
+female,0
+chronic pancreatitis,0
+alcoholic liver disease,0
+alcohol abuse,0
+admitted to the hospital,0
+admitted 1 week prior,-168
+discharged 1 week prior,-168
+acute chronic pancreatitis,-168
+pancreatic pseudocyst,-168
+necrosis,-168
+current smoker,0
+16-pack year history,0
+consuming 1 to 2 glasses of alcohol daily,-720
+abstinent from alcohol for 1 month,-720
+denies illicit drug use,0
+blood pressure 91/55,0
+pulse 114 bpm,0
+respiratory rate 18,0
+temperature 98.1°F,0
+saturation 99% on room air,0
+abdomen distended,0
+abdomen diffusely tender,0
+positive fluid wave,0
+voluntary guarding,0
+leukocytosis WBC 16.9,0
+hemoglobin 10.3,0
+sodium 130,0
+lipase 149,0
+normal liver function tests,0
+CT abdomen pelvis contrast,0
+significant increase in ascites,0
+multiple pancreatic cysts,0
+10 mm fluid density lesion,0
+enlarged peripancreatic fluid,0
+paracentesis 2 L,0
+ascitic fluid WBC 8423,0
+RBC 1570,0
+PMN 82%,0
+protein 3.2,0
+amylase 5507,0
+LDH 478,0
+SAAG 0.1,0
+ERCP performed,0
+plastic stent placed,0
+clinical condition deteriorated,0
+transferred to ICU,0
+acute respiratory distress syndrome,0
+ABG pH 7.36,0
+PCO2 30,0
+PO2 50,0
+HCO3 18.8,0
+FiO2 100%,0
+vasopressor support,0
+MAP 65,0
+septic shock,0
+leukocytosis 16.9 to 69.2K/µL,0
+no microbial growth,0
+ceftriaxone 2000 mg,0
+IV meropenem 1000 mg every 8 hours,24
+serial CT abdomen contrast,24
+intubated,0
+acute respiratory failure,0
+tracheostomy,0
+PEG tube inserted,0
+paracentesis 4 L,24
+paracentesis 3 L,48
+paracentesis 2 L,72
+Jackson-Pratt drains placed,72
+CT abdomen pseudocyst 2.7 cm,-168
+CT abdomen pseudocyst 5.8 cm,72
+loculated mesenteric collections,72
+concern for serosal implants,72
+surgical consultation,72
+fragile clinical status,72
+no surgical intervention,72
+hyperdense material in pseudocyst,72
+decline in hemoglobin,72
+concern for hemorrhagic pancreatitis,72
+pseudocysts drained 1.6 L,72
+dark purulent fluid,72
+no microorganisms,72
+hemoglobin stabilized 8.5 g/dL,72
+resolving pseudocyst collections,72
+resolving pancreatic edema,72
+bilateral pleural effusions,72
+thoracentesis 600 mL,72
+pleural fluid WBC 664/mm3,72
+RBC 1580/mm3,72
+PMN 62%,72
+glucose 81 mg/dL,72
+protein 2.2 g/dL,72
+LDH 232 µ/L,72
+Pseudomonas aeruginosa pneumonia,72
+IV meropenem completed,72
+Clostridium difficile diarrhea,72
+oral vancomycin 500 mg every 6 hours,72
+IV metronidazole 500 mg every 8 hours,72
+transferred to general ward,72
+ventilator weaned day 51,1224
+trach collar,1224
+symptom improvement,1224
+tolerating oral feeds,1224
+second ERCP,1224
+CBD stent removal,1224
+PEG tube removal,1224
+discharged day 102,2448
+subacute rehabilitation facility,2448
+supplemental oxygen 1.5 LPM,2448

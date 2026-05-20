@@ -1,0 +1,114 @@
+event,time
+57-year-old,0
+post-menopausal,0
+female,0
+bleeding per vaginum,-1344
+hysteroscopic myomectomy,0
+general anesthesia,0
+diabetes mellitus Type 2,0
+dyslipidemia,0
+hypothyroidism,0
+medical management,0
+weight 58 kg,0
+normal investigations,0
+optimized blood glucose,0
+normal thyroid profile,0
+refused regional anesthesia,0
+premedication morphine 3 mg IV,-1
+premedication glycopyrrolate 0.2 mg IV,-1
+premedication ondansetron 4 mg IV,-1
+induction propofol 100 mg IV,0
+induction succinylcholine 75 mg IV,0
+endotracheal intubation,0
+anesthesia maintenance nitrous oxide,0
+anesthesia maintenance isoflurane,0
+anesthesia maintenance vecuronium,0
+normal saline 250 mL/h,0
+total saline 500 mL,0
+monitoring ECG,0
+monitoring NIBP,0
+monitoring EtCO2,0
+monitoring SpO2,0
+monitoring temperature,0
+submucous fibroid 5 cm×4 cm,0
+resection of fibroid,0
+uterine cavity distention 1.5% glycine,0
+intrauterine pressure 80 mmHg,0
+SpO2 decreased 98% to 88–90%,45
+airway pressure increased,45
+breath sounds diminished,45
+NIBP 90/70 mmHg,45
+pulse rate 100/min,45
+pink frothy secretions,45
+crackles in both lungs,45
+acute pulmonary edema,45
+procedure stopped,45
+lasix 40 mg IV,45
+morphine 3 mg IV,45
+nasogastric tube,45
+urine output 100 mL,45
+ECG normal,45
+ABG pO2 165.3 mmHg,45
+ABG pCO2 50.5 mmHg,45
+ABG pH 7.17,45
+ABG K+ 5.3 mmol/L,45
+ABG Na+ 100 mmol/L,45
+ABG HCO3- 17.8 mmol/L,45
+ABG BE -8.2 mmol/L,45
+ABG O2 Sat 98.6%,45
+chest X-ray pulmonary edema,45
+glycine deficit 1 L,45
+hyponatremia,45
+metabolic acidosis,45
+right internal jugular vein cannulation,48
+left radial artery cannulation,48
+CVP 10 cmH2O,48
+ICU transfer,48
+mechanical ventilation SIMV,48
+morphine sedation,48
+ivan bicarbonate 7.5% 60 mL,48
+3% sodium chloride 60 mL/h,48
+inotropes,48
+echocardiogram normal,48
+serial ABG,48
+Na+ 120 mmol/L,60
+3% NaCl stopped,60
+bleeding per vaginum,72
+endometrial tamponade,72
+DIC suspected,72
+oozing from sites,72
+nasogastric tube coffee ground aspirate,72
+hemoglobin 5 gm%,72
+"platelet count 90,000/mm3",72
+PT 22 s,72
+PTT 68 s,72
+INR 1.94,72
+d-dimer positive,72
+hypocalcemia 7.6 gm/dL,72
+fresh blood transfusion,72
+FFP transfusion,72
+cryoprecipitate transfusion,72
+IV calcium,72
+coagulation improved,96
+inotropes tapered,96
+SIMV pressure support,96
+FiO2 reduction,96
+CPAP trial,96
+extubation,96
+tachypnea,120
+respiratory rate 36/min,120
+bilateral wheeze,120
+SpO2 85%,120
+chest X-ray left lower zone opacities,120
+pneumonitis,120
+fiberoptic bronchoscopy tubular casts,120
+casts removed,120
+asthalin nebulization,120
+chest physiotherapy,120
+BIPAP support,120
+antibiotics Pseudomonas aeruginosa,120
+leg cramps,144
+bilateral foot drop,144
+common peroneal nerve palsy,144
+physiotherapy,144
+discharge,336

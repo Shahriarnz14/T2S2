@@ -1,0 +1,117 @@
+event,time
+35 years old,0
+pregnant,0
+34 + 4 wk gestation,0
+admitted to the hospital,0
+fever,-240
+cough,-240
+yellow viscous sputum,-240
+chest distress,-240
+shortness of breath,-240
+no chills,-240
+dyspnoea aggravated,-120
+body temperature 36.4 ℃,0
+blood pressure 117/87 mmHg,0
+heart rate 130 beats/min,0
+respiratory rate 20 times/min,0
+cyanosis of the lip,0
+thick breathing sounds in both lungs,0
+dry rales in right lower lung,0
+wet rales in right lower lung,0
+regular heart rate,0
+no heart murmurs,0
+gestational abdominal type,0
+symmetric abdominal type,0
+uterine height 34 cm,0
+abdominal circumference 89 cm,0
+sporadic weak contractions,0
+head presentation,0
+foetal heart sounds 142 beats/min,0
+normal intrapelvic measurements,0
+normal extrapelvic measurements,0
+pH 7.472,0
+partial pressure of carbon dioxide 34.0 mmHg,0
+partial pressure of oxygen 56 mmHg,0
+sulfur dioxide 88.6%,0
+CRP 186.33 mg/L,0
+erythrocyte sedimentation rate 69.00 mm/h,0
+PCT 2.24 ng/mL,0
+WBC 18.29 × 10^9/L,0
+neutrophil 90.10%,0
+lymphocyte 0.97 × 10^9/L,0
+alkaline phosphatase 232 U/L,0
+total bilirubin 23.1 μmol/L,0
+albumin 33.9 g/L,0
+K+ 2.93 mmol/L,0
+sodium 129 mmol/L,0
+chloride 89 mmol/L,0
+D-dimer 3.50 mg/L,0
+chest CT multiple plaques,0
+chest CT miliary foci,0
+chest CT nodular foci with partial consolidation,0
+chest CT cavities,0
+obstetric ultrasound single viable foetus,0
+head presentation,0
+oligohydramnios,0
+no significant cardiac ultrasound findings,0
+no significant lower extremity vascular ultrasound findings,0
+G2P1,0
+full-term normal delivery in 2006,0
+final diagnosis pregnancy combined with severe pneumonia,0
+novel coronavirus infection,0
+S. aureus infection,0
+respiratory failure,0
+late pregnancy 34 + 4 wk,0
+elderly second parturient women,0
+maternal lower weight,0
+oligohydramnion,0
+premature live baby,0
+electrolyte disturbance,0
+hypoproteinaemia,0
+administered cefoperazone sodium,0
+administered sulbactam sodium,0
+administered dexamethasone 10 mg,0
+oxyhemoglobin saturation decline,0
+foetal heart sounds 146 beats/min,0
+planned caesarean section,0
+high-flow nasal cannula oxygen therapy,0
+fraction of inspired oxygen 100%,0
+flow rate 50 L/min,0
+cyanosis improved,0
+oxyhemoglobin saturation 95%-98%,24
+caesarean section performed,24
+foetus transferred to neonatal ICU,24
+puerperant woman transferred to respiratory ICU,24
+endotracheal intubation with ventilator,24
+meropenem,24
+vancomycin,24
+fluid infusion,24
+albumin infusion,24
+tracheoscopy mNGS S. aureus,24
+mNGS novel coronavirus,24
+no acid-fast bacilli,24
+TB-PCR negative,24
+nontuberculosis mycobacterium-PCR negative,24
+galactomannan experiments normal,24
+vancomycin 1 g q12h,24
+meropenem 1 g q8h,24
+anticoagulant therapy,24
+cough relief,24
+sputum reduction,24
+invasive ventilator transition to nasal oxygen,48
+chest CT multiple areas of inflammation,72
+mildly enlarged mediastinal lymph nodes,72
+small bilateral pleural effusion,72
+CRP 38.54 mg/L,72
+WBC 8.25 × 10^9/L,72
+PCT 0.129 ng/mL,72
+potassium 4.04 mmol/L,72
+D-dimer 2.44 mg/L,72
+TB-PCR negative,72
+chest CT inflammatory lesions,192
+pleural effusion absorbed,192
+antibiotics adjusted to sitafloxacin,192
+condition stable,264
+discharged from hospital,264
+chest CT inflammation absorption,168
+chest CT significant absorption,720

@@ -1,0 +1,159 @@
+event,time
+58 years old,0
+woman,0
+presented to the emergency department,0
+altered mental status,0
+difficulty breathing,0
+intermittent weakness,-720
+fever,-720
+rash,-720
+multiple tick exposures,-720
+hypotensive,0
+hypoxic,0
+intubated,0
+vasopressors initiated,0
+creatinine 203.32 μmol/L,0
+albumin 17 g/L,0
+aspartate aminotransferase 110 unit/L,0
+white blood cell count 3.4 × 10^9/L,0
+hemoglobin 80 g/L,0
+hematocrit 26%,0
+platelet count 36 × 10^9/L,0
+admitted to intensive care unit,0
+lumbar puncture performed,0
+urinalysis sent,0
+urine culture sent,0
+blood culture sent,0
+blood test for tick-borne infections sent,0
+treated for septic shock,0
+acute respiratory distress syndrome,0
+vancomycin administered,0
+cefepime administered,0
+doxycycline added,0
+chest x-ray showed bilateral diffuse infiltrates,0
+hypoxia worsened,0
+acute respiratory distress syndrome management protocol started,0
+troponin level 10 ng/mL,0
+electrocardiogram no acute abnormality,0
+transthoracic echocardiogram LVEF 55-60%,0
+left ventricular end-systolic volume index 26 mL/m²,0
+left ventricular end-diastolic volume index 67 mL/m²,0
+normal wall motion,0
+type 2 myocardial infarction suspected,0
+troponin I > 40 ng/mL,24
+telemetry showed nonsustained ventricular tachycardia,24
+repeat ECG low-voltage QRS,24
+ST-segment elevation 2 mm leads I and AVL,24
+Q waves leads V1 and V2,24
+coronary angiography normal coronary arteries,24
+blood cultures negative,120
+urine cultures negative,120
+urinalysis elevated myoglobin,120
+PCR negative for herpes simplex virus,120
+PCR negative for cytomegalovirus,120
+Ehrlichia chaffeensis PCR positive,120
+no hepatitis A/B/C immunity,120
+Rocky Mountain Spotted Fever IgG elevated,120
+negative autoimmune antibodies,120
+vancomycin stopped,120
+cefepime stopped,120
+doxycycline continued,120
+respiratory status improved,192
+extubated,192
+frequent premature ventricular contractions,192
+multiple episodes of NSVT,192
+myocarditis suspected,192
+cardiac MRI global hypokinesis,192
+LVEF 32%,192
+left ventricular mass 45 g/m²,192
+delayed enhancement myocardium and pericardium,192
+myopericarditis,192
+carvedilol administered,192
+lisinopril administered,192
+discharged to inpatient rehabilitation,384
+cardiomyopathy persisted,384
+repeat echocardiogram LVEF 25%,4320
+repeat ECG improved QRS voltages,4320
+intermittent NSVT,4320
+amiodarone administered,4320
+cardioverter-defibrillator implanted,4320
+acute heart failure exacerbation (2 admissions),8784
+58 years old,0
+woman,0
+presented to the emergency department,0
+altered mental status,0
+difficulty breathing,0
+intermittent weakness,-720
+fever,-720
+rash,-720
+multiple tick exposures,-720
+hypotensive,0
+hypoxic,0
+intubated,0
+vasopressors initiated,0
+creatinine 203.32 μmol/L,0
+albumin 17 g/L,0
+aspartate aminotransferase 110 unit/L,0
+white blood cell count 3.4 × 10^9/L,0
+hemoglobin 80 g/L,0
+hematocrit 26%,0
+platelet count 36 × 10^9/L,0
+admitted to intensive care unit,0
+lumbar puncture performed,0
+urinalysis sent,0
+urine culture sent,0
+blood culture sent,0
+blood test for tick-borne infections sent,0
+treated for septic shock,0
+acute respiratory distress syndrome,0
+vancomycin administered,0
+cefepime administered,0
+doxycycline added,0
+chest x-ray bilateral diffuse infiltrates,0
+hypoxia worsened,0
+acute respiratory distress syndrome management protocol started,0
+troponin level 10 ng/mL,0
+electrocardiogram no acute abnormality,0
+transthoracic echocardiogram LVEF 55-60%,0
+left ventricular end-systolic volume index 26 mL/m²,0
+left ventricular end-diastolic volume index 67 mL/m²,0
+normal wall motion,0
+type 2 myocardial infarction suspected,0
+troponin I > 40 ng/mL,24
+telemetry nonsustained ventricular tachycardia,24
+repeat ECG low-voltage QRS,24
+ST-segment elevation 2 mm leads I and AVL,24
+Q waves leads V1 and V2,24
+coronary angiography normal coronary arteries,24
+blood cultures negative,120
+urine cultures negative,120
+urinalysis elevated myoglobin,120
+PCR negative herpes simplex virus,120
+PCR negative cytomegalovirus,120
+Ehrlichia chaffeensis PCR positive,120
+no hepatitis A/B/C immunity,120
+Rocky Mountain Spotted Fever IgG elevated,120
+negative autoimmune antibodies,120
+vancomycin stopped,120
+cefepime stopped,120
+doxycycline continued,120
+respiratory status improved,192
+extubated,192
+frequent premature ventricular contractions,192
+multiple episodes NSVT,192
+myocarditis suspected,192
+cardiac MRI global hypokinesis,192
+LVEF 32%,192
+left ventricular mass 45 g/m²,192
+delayed enhancement myocardium and pericardium,192
+myopericarditis,192
+carvedilol administered,192
+lisinopril administered,192
+discharged to inpatient rehabilitation,384
+cardiomyopathy persisted,384
+repeat echocardiogram LVEF 25%,4320
+repeat ECG improved QRS voltages,4320
+intermittent NSVT,4320
+amiodarone administered,4320
+cardioverter-defibrillator implanted,4320
+acute heart failure exacerbation (2 admissions),8784

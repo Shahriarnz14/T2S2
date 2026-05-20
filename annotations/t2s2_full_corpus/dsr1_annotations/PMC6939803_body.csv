@@ -1,0 +1,40 @@
+event,time
+22 years old,0
+male,0
+septic shock,0
+aspiration pneumonia,0
+admitted to the hospital,0
+somnolent,0
+intubation,-300
+arterial catheter insertion,-300
+central venous line insertion,-300
+entry intensive care unit,-300
+state deterioration to septic shock,-180
+SvO2 100%,-180
+pO2 198 mmHg,-180
+SvO2 100% (control),-165
+pO2 200 mmHg (control),-165
+SaO2 98%,-165
+pO2 90–111 mmHg,-165
+chest X-ray showing central venous catheter tip on left side of heart,-150
+echocardiography: aortic positioning not evident,-135
+venous pressure-like curve not correlating with ECG,-120
+computed tomography showing catheter in upper left pulmonary vein,-90
+central venous line inserted into left jugular vein,0
+saturation 100%,0
+pO2 198 mmHg,0
+pCO2 46 mmHg,0
+arterial blood gas analysis: SaO2 98%,0
+arterial pO2 111 mmHg,0
+arterial pCO2 48 mmHg,0
+chest X-ray reveals catheter tip on left side of heart,0
+cervical ultrasound: catheter correctly in left jugular vein,0
+echocardiography: catheter tip not in aorta,0
+vena cava superior not seen,0
+venous-like pattern with mean pressure 16 mmHg,0
+C-wave of venous pressure curve before R-wave,0
+computed tomography confirms catheter in upper left pulmonary vein,0
+diagnosis of partial anomalous pulmonary venous return (PAPVR),0
+discharged after a few weeks,168
+conservative treatment,168
+1-year follow-up planned,168

@@ -1,0 +1,133 @@
+event,time
+14 years old,0
+female,0
+admitted to the hospital,0
+fatigue,0
+nose bleeding,0
+generalized ecchymosis,0
+arthralgia,0
+pallor,0
+tachycardia,0
+dermal petechiae,0
+mucosal petechiae,0
+hepatomegaly (6 cm),0
+splenomegaly (4 cm),0
+"leukocytosis (333,000/mm³)",0
+anemia (Hb 4 g/dl),0
+"thrombocytopenia (29,000/mm³)",0
+L1-type blasts (97%),0
+myeloperoxidase negative,0
+pre-B-cell ALL,0
+normal transaminases,0
+normal BUN,0
+normal creatinine,0
+normal uric acid,0
+normal phosphor,0
+"elevated LDH (2,970 IU/ml)",0
+leukopheresis x2,0
+lumbar puncture (4th day),96
+no cells in CSF,96
+benign cytology,96
+modified BFM protocol (Turk ALL 2000),0
+poor steroid response (8th day),192
+"blast count 1,395/mm³",192
+no hematologic remission (15th day),360
+blast rate 27%,360
+no hematologic remission (33rd day),792
+blast rate 12%,792
+high-risk group classification,792
+BCR-ABL fusion gene positive,0
+t(9;22) in 11/20 metaphases,0
+HR1 block therapy,0
+induction therapy,0
+imatinib (400 mg/m²/day),0
+severe mucositis,0
+total parenteral nutrition (TPN),0
+gastrointestinal hemorrhage,0
+erythrocyte transfusion,0
+platelet transfusion,0
+severe neutropenia,0
+fever (39°C),0
+elevated CRP (26 mg/dl),0
+HR2 block not started,0
+remission (37 days post-HR1),888
+depressive mood,888
+no verbal cooperation,888
+decreased muscle strength,888
+increased muscle tonus,888
+hyperreflexia,888
+Babinski positive,888
+normal cranial MRI,888
+severe mucositis (43 days post-HR1),"1,032"
+hemorrhagic diarrhea,"1,032"
+typhlitis,"1,032"
+hyperemesis,"1,032"
+TPN continued,"1,032"
+severe gastrointestinal hemorrhage,"1,032"
+unconsciousness,"1,032"
+GCS 7,"1,032"
+bradycardia (34/min),"1,032"
+hypotension (70/30 mmHg),"1,032"
+prolonged capillary refill (3 s),"1,032"
+hypothermia,"1,032"
+"leukopenia (2,030/mm³)","1,032"
+anemia (Hb 5.09 g/dl),"1,032"
+"thrombocytopenia (44,000/mm³)","1,032"
+CRP 6.8 mg/dl,"1,032"
+elevated urea (113 mg/dl),"1,032"
+normal creatinine (0.9 mg/dl),"1,032"
+elevated AST (77 IU/l),"1,032"
+elevated ALT (91 IU/l),"1,032"
+normal bilirubin (0.3 mg/dl),"1,032"
+elevated GGT (88 IU/l),"1,032"
+prolonged PT (17.6 s),"1,032"
+INR 1.4,"1,032"
+prolonged aPTT (43 s),"1,032"
+"elevated D-dimer (1,211 ng/ml)","1,032"
+normal fibrinogen (190 mg/dl),"1,032"
+metabolic acidosis (lactic acid 12.6 mmol/l),"1,032"
+transferred to PICU,"1,032"
+fluid resuscitation,"1,032"
+inotropic support,"1,032"
+LVEF 64%,"1,032"
+sepsis management,"1,032"
+broad-spectrum antibiotics,"1,032"
+encephalopathy progression,"1,032"
+tonic-clonic seizures,"1,032"
+intubation,"1,032"
+mechanical ventilation,"1,032"
+intracranial hemorrhage (9 mm),"1,032"
+cerebral edema,"1,032"
+persistent metabolic acidosis,"1,032"
+lactic acid 20 mmol/l,"1,032"
+hemodiafiltration,"1,032"
+thiamine deficiency,"1,032"
+thiamine replacement,"1,032"
+lactic acidosis resolved,"1,032"
+transfusion-dependent anemia,"1,032"
+transfusion-dependent thrombocytopenia,"1,032"
+prolonged febrile neutropenia,"1,032"
+chemotherapy discontinued,"1,032"
+bone marrow remission (2 months post-HR1),"1,440"
+BCR-ABL negative,"1,440"
+mechanical ventilation (1 month),"2,160"
+extubation,"2,160"
+PEG placement,"2,880"
+swallowing dysfunction,"2,880"
+ICU discharge (54 days),"3,888"
+cognitive recovery (6 months),"4,320"
+mucositis regression,"4,320"
+physiotherapy,"4,320"
+spastic tetraparesis,"4,320"
+discharge home (9 months post-diagnosis),"6,480"
+imatinib continued,"6,480"
+no recurrent seizures,"6,480"
+walking with support (9 months post-discharge),"8,640"
+independent walking (12 months post-discharge),"10,512"
+oral feeding resumed (5 months post-PEG),"8,640"
+PEG removal,"8,640"
+transfusion independence (6 months post-HR1),"4,320"
+regular bone marrow evaluations,"4,320"
+molecular remission sustained,"4,320"
+no matched donor found,0
+remission maintained (30 months),"21,600"

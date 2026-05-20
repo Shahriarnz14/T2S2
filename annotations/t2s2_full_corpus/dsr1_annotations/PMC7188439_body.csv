@@ -1,0 +1,121 @@
+event,time
+4 years old,0
+Mexican female,0
+relapsed refractory pre-B cell ALL,0
+CAR T-cell therapy,0
+lymphodepletion,0
+history of relapsed refractory pre-B cell ALL,-168
+CD19 coexpression,-168
+CD22 coexpression,-168
+CD58 coexpression,-168
+CD10 coexpression,-168
+CD38 coexpression,-168
+p53 deletion,-168
+t(1;19),-168
+complex karyotype,-168
+no CNS disease,-168
+National Mexican Protocol treatment,-168
+no morphologic disease after induction,-168
+no minimal residual disease after induction,-168
+relapse 199 days after diagnosis,-168
+failed reinduction chemotherapy,-168
+failed two cycles of blinatumomab,-168
+ALL R3 reinduction therapy,-168
+did not achieve remission,-168
+high burden of extramedullary disease in liver,-168
+high burden of extramedullary disease in spleen,-168
+high burden of extramedullary disease in kidneys,-168
+high burden of extramedullary disease in lymph nodes,-168
+chloroma to left orbit,-168
+cranial nerve II palsy,-168
+renal insufficiency,-168
+long-term electrolyte replacement,-168
+transfer of care for CAR T-cell therapy,-168
+bridging oral chemotherapy with 6-mercaptopurine,-168
+bridging oral chemotherapy with methotrexate,-168
+Staphylococcal epidermidis central catheter infection,-168
+septic shock,-168
+10-day course of vancomycin,-168
+lymphoid depleting chemotherapy with fludarabine,-168
+lymphoid depleting chemotherapy with cyclophosphamide,-168
+presented to emergency department,-24
+day 2 of lymphoid depleting therapy,-24
+fever,-24
+nausea,-24
+headache,-24
+fatigue,-24
+resuscitation,0
+work-up,0
+initiation of broad-spectrum antibiotics,0
+admitted to hematology/oncology team,0
+transferred to PICU,36
+progressive septic shock,36
+hypotension,36
+afebrile,36
+blood pressure 69/31,36
+heart rate 165 bpm,36
+respiratory rate 56 bpm,36
+oxygen saturation 100% on room air,36
+poor perfusion,36
+capillary refill time 5 seconds,36
+pulses 3+ in bilateral radial arteries,36
+no murmur,36
+no gallop,36
+remained hypotensive,36
+aggressive fluid resuscitation (100 mL/kg normal saline over 24 hr),36
+high doses of inotropes,36
+broad-spectrum antibiotics,36
+intubation,36
+discussion of ECMO candidacy,36
+blood culture positive for Escherichia coli,36
+Escherichia coli multidrug-resistant,36
+minimal respiratory support,36
+mechanical ventilation,36
+good oxygenation,36
+good ventilation,36
+echocardiogram showing severe global hypokinesis,36
+left ventricular ejection fraction 31%,36
+epinephrine support,36
+norepinephrine support,36
+vasopressin support,36
+Vasoactive-Inotropic Score 98,36
+ongoing shock state,36
+acute kidney injury,36
+severe oliguria,36
+total body fluid overload 18%,36
+no response to vasoactive support escalation,36
+stress dose steroids,36
+bicarbonate infusion,36
+continuous renal replacement therapy (CRRT) initiation,36
+progression to multiple organ dysfunction,44
+peak lactate 24 mmol/L,44
+myocardial ischemia (troponin 2.03 ng/mL),44
+renal dysfunction (creatinine 0.2–0.6),44
+"coagulopathy (PT 28.6 s, PTT 111.2 s, INR 2.50)",44
+"hepatobiliary dysfunction (AST 224 U/L, total bilirubin 4.3 mg/dL, direct bilirubin 3.7 mg/dL)",44
+VA ECMO cannulation,48
+central catheter removal,48
+anticoagulation with heparin,48
+CRRT via Prismaflex,48
+therapeutic plasma exchange (TPE),48
+meropenem,48
+ceftazidime/avibactam,48
+gentamicin,48
+micafungin,48
+weaned off vasoactive support,48
+milrinone initiation,48
+good antegrade flow across aortic valve,48
+no left atrial decompression needed,48
+bacteremia cleared,48
+cardiac dysfunction improvement,48
+repeat EF 51%,168
+ECMO clamp trial,168
+ECMO decannulation,168
+extubation,240
+recovery of organ dysfunction,240
+CAR T-cell infusion (tisagenlecleucel),408
+cytokine release syndrome,408
+tocilizumab,408
+brief PICU readmission,408
+remission,1680
+discharge,1680

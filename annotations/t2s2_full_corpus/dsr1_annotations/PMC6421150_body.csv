@@ -1,0 +1,124 @@
+event,time
+63-year-old Japanese woman,0
+admitted to the hospital,0
+liver injury,0
+pancytopenia,0
+rheumatoid arthritis,-259200
+Steinbrocker radiographic stage IV,-259200
+cervical lymphadenopathy,-35040
+axillary lymphadenopathy,-35040
+methotrexate,-35040
+infliximab,-35040
+lymphoproliferative disorder,-35040
+discontinuation of methotrexate,-35040
+discontinuation of infliximab,-35040
+leukocytoclastic vasculitis,-17520
+antineutrophil cytoplasmic antibody-negative pauci-immune crescentic glomerulonephritis,-17520
+etanercept,-17520
+EBV DNA level 940 copies/106 WBC,-17520
+anti-VCA IgG positive,-17520
+anti-VCA IgM negative,-17520
+anti-EBNA antibody negative,-17520
+spleen enlargement,-17520
+lymphadenopathy,-17520
+CAEBV considered,-17520
+high-dose corticosteroid,-17520
+discontinued etanercept,-17520
+monthly abatacept,-10800
+prednisolone 4 mg/day,-10800
+mild hepatocellular injury,-10800
+recurrent fever,-10800
+liver injury for 5 months,-10800
+final dose of abatacept,-2920
+persistent liver injury for 3 months,-2920
+pancytopenia,0
+transferred to our hospital,-24
+pulse 101 beats/min,0
+blood pressure 103/52 mmHg,0
+body temperature 37°C,0
+respiratory rate 22 breaths/min,0
+oxygen saturation 99%,0
+ECOG PS Grade 4,0
+right upper quadrant tenderness,0
+"WBC 2,200 /μL",0
+hemoglobin 7.6 g/dL,0
+"platelet 61,000 /μL",0
+AST 411 U/L,0
+ALT 425 U/L,0
+"ALP 7,883 U/L",0
+"γ-glutamyl transpeptidase 1,223 U/L",0
+total bilirubin 5.0 mg/dL,0
+CRP 8.97 mg/dL,0
+"ferritin 4,980 ng/mL",0
+"sIL-2R 4,220 U/mL",0
+IgG 456 mg/dL,0
+albumin 2.4 g/dL,0
+PT INR 1.16,0
+CMV pp65 antigen positive,0
+Aspergillus galactomannan antigen positive,0
+anti-VCA IgG 1:160,0
+"EBV DNA 1,200 copies/106 WBC",0
+antinuclear antibody negative,0
+antimitochondrial M2 antibody negative,0
+hepatitis A IgM negative,0
+hepatitis E IgA negative,0
+hepatitis B surface antigen negative,0
+hepatitis B surface antibody negative,0
+hepatitis B core antibody negative,0
+hepatitis C RNA negative,0
+"(1,3)-β-D-glucan negative",0
+multifocal liver lesions,0
+splenomegaly,0
+ascites,0
+mediastinal lymphadenopathy,0
+para-aortic lymphadenopathy,0
+hypocellular bone marrow,0
+hemophagocytosis,0
+EBER negative,0
+HLH diagnosed,0
+systemic inflammatory response syndrome,0
+sepsis considered,0
+meropenem administered,0
+hematopoietic tumors considered,0
+supportive care,0
+Ig administered,0
+blood transfusion,0
+liver support,0
+fever,0
+scattered lung nodules,0
+Aspergillus antigen positive,0
+CMV pp65 antigen increased,0
+IPA suspected,0
+CMV antigenemia suspected,0
+micafungin administered,0
+ganciclovir administered,0
+died of hepatic failure,648
+liver atrophy,648
+bridging fibrosis,648
+zonal necrosis of hepatocytes,648
+infiltration of atypical lymphocytes,648
+CD3 positive,648
+CD8 positive,648
+TIA1 positive,648
+CD20 negative,648
+CD56 negative,648
+CD79a negative,648
+CD30 negative,648
+EBER positive CTLs,648
+hemophagocytosis in liver,648
+splenic infiltration,648
+lymph node infiltration,648
+bone marrow infiltration,648
+Aspergillus hyphae in lungs,648
+IPA confirmed,648
+no malignancy in lungs,648
+CAEBV T-cell type confirmed,648
+recurrent fever,-10800
+hepatitis,-10800
+splenomegaly,-17520
+lymphadenopathy,-17520
+EBV DNA elevated,-17520
+no IM-like symptoms before ABT,-10800
+hepatocellular injury after ABT,-10800
+HLH,0
+hepatic failure,648

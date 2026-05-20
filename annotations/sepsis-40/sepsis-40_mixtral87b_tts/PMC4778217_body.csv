@@ -1,0 +1,73 @@
+event,time
+65 years old,0
+female ,0
+patient ,0
+admitted to the hospital ,0
+fever ,72
+chills ,72
+pain in left leg ,72
+parkinsonism ,-72
+diabetes mellitus ,-72
+prescribed levodopa / carbidopa ,-72
+prescribed rasagiline ,-72
+prescribed ropinirole ,-72
+prescribed trihexyphenidyl ,-72
+prescribed amantadine ,-72
+prescribed metformin ,-72
+prescribed glipizide ,-72
+multiple hospital and Intensive Care Unit (ICU) admissions for worsening parkinsonism ,-72
+treated with intravenous clindamycin 600 mg thrice daily ,72
+treated with intravenous benzylpenicillin 2 million units 4 times daily ,72
+continued anti-parkinsonism and diabetic medications ,72
+persistently high-temperature spikes (above 102°F) ,96
+tachycardia ,96
+tachypnea ,96
+hypotension ,96
+encephalopathic ,96
+shifted to ICU ,96
+escalated to intravenous linezolid 600 mg twice daily ,120
+escalated to intravenous piperacillin with tazobactam 4.5 gm thrice daily ,120
+stopped oral hypoglycemic agents ,120
+switched to insulin on ICU admission ,120
+confused ,144
+drowsy ,144
+disoriented ,144
+altered sensorium ,144
+myoclonus ,144
+tremors ,144
+jerky movements ,144
+no neck stiffness ,144
+"improving white blood cell counts from 14,200 cells/mm3 to 11,000 cells/mm3 ",144
+better glycemic control ,144
+no other abnormalities ,144
+sterile blood and pus cultures ,144
+high temperature of 103°F ,168
+altered mental status ,168
+remained the same ,168
+stopped rasagiline ,168
+stopped linezolid ,168
+temperature settled ,176
+normal heart rate ,192
+improved sensorium ,192
+tremors completely subsided ,192
+shifted out of the ICU ,192
+started walking with support ,264
+discharged from the hospital ,264
+added rasagiline ,360
+regular follow-up with the neurologist ,360
+stable and remained asymptomatic for serotonin syndrome ,360
+"linezolid is an oxazolidinone class of antibiotic and a weak, reversible MAO inhibitor ",-72
+records from postmarketing voluntary adverse event reporting system database identified 29 cases of serotonin syndrome associated with linezolid ,-72
+combination of serotonergic drugs; linezolid and rasagiline were most likely to be responsible for serotonin syndrome ,168
+diagnosis of serotonin syndrome is purely on the basis of patient presentation ,168
+"requires a strong clinical suspicion, proper medication history of serotonergic drugs and identification of specific signs and symptoms ",168
+"clinical examination, laboratory investigations, imaging, and cultures ruled out the other possibilities ",168
+"excluded substance abuse or withdrawal, metabolic, and psychiatric etiologies ",168
+onset of serotonin syndrome ranges from few hours to 3 weeks ,168
+time to resolution of serotonin syndrome after discontinuation of the culprit drugs ranges from <6 hours to 5 days ,192
+"Cyproheptadine, a serotonin antagonist, can be given in severe serotonin syndrome ",192
+Micromedex suggests concomitant use of linezolid and serotonergic agents are contraindicated ,-72
+"if linezolid is to be administered, it is recommended that the serotonergic drug must be discontinued ",-72
+"patients with unresolving fever, prescribers should think of the drugs and drug interactions causing the serotonergic syndrome ",192
+prescribers should know the medication history of the patient and washout period of serotonergic drugs ,192
+"serotonin syndrome is self-limiting if identified early, culprit drugs are discontinued, and supportive care is initiated ",192

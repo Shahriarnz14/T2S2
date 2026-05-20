@@ -1,0 +1,70 @@
+event,time
+48 years old,0
+male,0
+hypertension,0
+hyperlipidemia,0
+chronic back pain,0
+lisinopril,0
+atorvastatin,0
+over-the-counter analgesics,0
+admitted to the hospital,0
+shortness of breath,-168
+cough,-168
+central chest pain,0
+feeling of warmth,0
+temperature 36.4 Celsius,0
+heart rate 87/minute,0
+blood pressure 126/73 mm Hg,0
+respiratory rate 22/minute,0
+oxygen saturation 95% on room air,0
+normal physical examination,0
+white blood cell count 9000/cumm,0
+neutrophil count 76.6%,0
+lymphocyte count 15.4%,0
+absolute lymphocyte count 1.40 K/mm,0
+lactic acid 1.3 mmol/L,0
+ESR 62 mm/hr,0
+CRP 8.66 mg/dl,0
+troponin <0.03 ng/ml,0
+procalcitonin 0.19 ng/ml,0
+normal ECG,0
+chest x-ray hypo inflation,0
+chest x-ray perihilar air space opacities,0
+CT chest bilateral ground glass opacities,0
+blood cultures,0
+sputum culture,0
+viral respiratory panel,0
+ceftriaxone,0
+azithromycin,0
+tachycardia,0
+hypoxia,0
+fevers,0
+SARS-CoV-2 PCR positive,0
+hydroxychloroquine,0
+non-invasive ventilation,72
+endotracheal intubation,120
+transfer to ICU,120
+ARDS,120
+prone positioning,120
+"ST elevations II, III, aVF",192
+troponin peak 0.10 ng/ml,192
+clopidogrel 300 mg,192
+clopidogrel 75 mg daily,192
+ST resolution,216
+deferred coronary catheterization,216
+focal pericarditis,216
+deferred echocardiogram,216
+intermittent fevers,0
+ESR 122 mm/hr,216
+CRP 17.86 mg/dl,216
+methylprednisolone 1 mg/kg,216
+dexamethasone 20 mg daily,216
+dexamethasone taper,216
+convalescent plasma candidate,216
+deep vein thrombosis,216
+prophylactic anticoagulation,0
+therapeutic anticoagulation,216
+intravenous plasma,216
+critical respiratory status,216
+echocardiogram normal LV function,264
+no regional wall motion abnormalities,264

@@ -1,0 +1,81 @@
+event,time
+50-year-old,0
+Japanese man,0
+idiopathic pulmonary fibrosis,0
+hypoxia,-192
+acute exacerbation of idiopathic pulmonary fibrosis,-192
+broad-spectrum antibiotics,-192
+prednisolone,-192
+intubation,-192
+mechanical ventilation,-192
+PaCO2 88 mmHg,-192
+PaO2 48 mmHg,-192
+FiO2 1.0,-192
+V-V ECMO initiation,-192
+left femoral vein drainage cannula,-192
+right femoral vein return cannula,-192
+tracheostomy,-192
+transported to ICU in Japan,0
+sedation,0
+mechanical ventilation,0
+ECMO blood flow 4 L/min,0
+SpO2 over 85%,0
+sweep gas flow 100% oxygen,0
+PaCO2 30-35 mmHg,0
+lung rest ventilation settings,0
+driving pressure 5 cmH2O,0
+PEEP 10 cmH2O,0
+FiO2 0.4,0
+heart rate 50 beats/min,0
+blood pressure 156/104 mmHg,0
+ejection fraction 60.7%,0
+TR-PG 10 mmHg,0
+normal renal function,0
+heparin anticoagulation,0
+vancomycin prophylaxis,0
+mechanical ventilation discontinued,912
+tracheostomy tube replaced with speech cannula,1008
+speech cannula removal,1008
+low-flow oxygen therapy,1008
+high-flow oxygen therapy,1008
+nasal cannula,1008
+Venturi mask,1008
+oral intake began,1128
+severe respiratory failure,0
+no other organ failure,0
+morphine analgesia,0
+physiotherapy,0
+LTx evaluation,1416
+membrane oxygenator changed 23 times,1416
+cannula changed 10 times,1416
+gas exchange failure,1416
+thrombus on membrane,1416
+acute platelet reduction,1416
+sepsis,1416
+blood stream infection,1416
+right internal jugular vein drainage,1416
+right femoral vein drainage,1416
+left femoral vein drainage,1416
+left internal jugular vein return,1416
+right femoral vein return,1416
+left femoral vein return,1416
+dyspnea,5352
+SpO2 90%,5352
+D shape on echocardiography,5352
+TR-PG 56 mmHg,5352
+bosentan,5352
+sildenafil,5352
+TR-PG 78 mmHg,5424
+ECMO converted to VV-A,5424
+TR-PG decreased to 43 mmHg,5424
+ECMO converted back to V-V,6768
+listed on LTx registry,6816
+cannula change attempted,7320
+venous thrombosis,7320
+same cannula used,7320
+septic shock,8904
+cannula change attempted again,8904
+no venous flow,8904
+ECMO discontinued,9672
+patient died,9672
+autopsy not performed,9672

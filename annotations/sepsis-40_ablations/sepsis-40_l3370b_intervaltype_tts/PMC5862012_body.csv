@@ -1,0 +1,106 @@
+event,time
+19 years old,0
+male,0
+mild asthma,0
+scratched by a cat,-168
+fever,-168
+deep venous thrombosis,-168
+fondaparinux,-168
+apixaban,-161
+macroscopic hematuria,-24
+leg edema,-24
+asthenia,-24
+persistent fever,-24
+lethargic,0
+Glasgow Coma Scale 15/15,0
+blood pressure 100/66 mm Hg,0
+sinus tachycardia,0
+mitral murmur,0
+piperacillin,0
+ceftriaxone/gentamicin,12
+Haemophilus parainfluenzae,0
+hemoglobin 6.3 g/dL,0
+red blood cells transfused,0
+anterograde amnesia,0
+cerebral computed tomography,0
+nuclear magnetic resonance scan,0
+large hematoma,0
+multiple bilateral microhemorrhage,0
+hematoma next to the right cerebellum,0
+right occipital region,0
+multiple ischemic microlesions,0
+left cerebellar ischemic stroke,0
+intracerebral mycotic aneurysm,0
+embolized,0
+transthoracic echocardiography,0
+large vegetation,0
+mitral valve prolapse,0
+septic shock,12
+intubated,12
+sedated,12
+norepinephrine,12
+dobutamine,12
+wake-up test,24
+obeying commands,24
+no neurological deficits,24
+emergency surgery,48
+minimal cardiopulmonary bypass,48
+in situ right radial arterial line,48
+left internal jugular central venous line,48
+intubated,48
+ventilated,48
+sedated,48
+propofol,48
+sufentanil,48
+hemodynamically supported,48
+norepinephrine infusion,48
+tranexamic acid,48
+infusion,48
+centrifugal pump,48
+whole circuit tubing system,48
+phosphorylcholine inert surface,48
+primed with lactated Ringer’s solution,48
+retrograde priming technique,48
+patient’s own blood,48
+venous and arterial cannulae,48
+hemoglobin dropped,48
+red blood cells given,48
+mean arterial blood pressure,48
+norepinephrine,48
+anterograde and retrograde cold cardioplegia,48
+central body temperature,48
+cooled down,48
+temperature increased,120
+transesophageal echocardiography,48
+large vegetations,48
+damage of the mitral annulus,48
+surgical time,48
+biological mitral valve,120
+nonin cerebral oximeter,48
+cerebral perfusion monitoring,48
+tissue oxygen saturation,48
+activated clotting time,48
+heparin,48
+protamine,120
+MCBP time,48
+aortic clamping time,48
+MCBP weaning,120
+atrioventricular pacemaker stimulation,120
+fresh frozen plasma,120
+platelets,120
+transferred to intensive care unit,120
+norepinephrine,120
+reoperation,240
+thromboemboli,240
+left popliteal artery,240
+ventilation-acquired pneumonia,240
+tracheostomy,240
+percutaneous gastric feeding,240
+good neurological recovery,720
+no loss in memory capacity,720
+no signs of neurological deficits,720
+discharged home,720
+bilateral claudication,720
+follow-up,1008
+nuclear magnetic resonance,1008
+resorption of the occipital and left cerebellar hematoma,1008

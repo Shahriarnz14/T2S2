@@ -1,0 +1,84 @@
+event,time
+56 years old,0
+male,0
+admitted to the hospital,0
+diarrhea,0
+yellow loose stools,0
+6–8 times a day,0
+palpitations,0
+shortness of breath,0
+dizziness,0
+dry mouth,0
+dry skin,0
+sunken eye socket,0
+no history of fevering,0
+no abdominal pain,0
+no travelling,0
+allograft for liver cancer,0
+hepatitis B cirrhosis,0
+tacrolimus,-17520
+mycophenolic acid,-17520
+sirolimus,-17520
+temperature of 37.9 °C,0
+septic shock,0
+metabolic acidosis,0
+intubated,0
+transferred to intensive care unit,0
+oliguria,0
+serum creatinine of 170 μmol/L,0
+continuous renal replacement treatment (CRRT),0
+acute kidney injury,0
+white blood cell (WBC) count 13.46×109/L,0
+elevated neutrophil ratio of 87.9%,0
+procalcitonin (PCT) 3.32 ng/mL,0
+C-reactive protein (CRP) 190 mg/L,0
+Troponin-T (TPN-T) 191.2 ng/L,0
+no significant changes in liver function test,0
+no significant changes in blood coagulation test,0
+no significant changes in platelet count,0
+tacrolimus concentration within target treatment range,0
+temperature rose to 38.5°C,24
+empirical treatment with piperacillin/tazobactam,24
+bronchoalveolar lavage solution culture,24
+Aspergillus fumigatus,48
+carbapenem-resistant Klebsiella pneumoniae,48
+urine bacterial culture negative,48
+venous blood culture negative,48
+anaerobic blood culture negative,48
+antibacterial agents replaced by meropenem and voriconazole,48
+tacrolimus discontinued,48
+sirolimus discontinued,48
+stool detection negative,48
+compound berberine given,48
+electrolyte balance corrected,48
+acid-base balance corrected,48
+diarrhea significantly mitigated,48
+enteral nutrition solution given,48
+probiotics given,48
+high frequency diarrhea (6–8 watery stools per day),72
+fever,72
+temperature fluctuating around 39 °C,72
+stool parasitic examination negative,72
+fecal bacterial cultures negative,72
+blood sample sent for mNGS analysis,72
+Klebsiella pneumoniae detected,96
+Cryptosporidium parvum detected,96
+Cryptosporidium oocysts detected,96
+azithromycin 0.5g qd,96
+elevated liver function indices,96
+elevated T lymphocyte count,96
+cyclosporine 150mg bid,96
+cyclosporine trough concentration 194.00 μg/L,120
+cyclosporine dose adjusted,120
+azithromycin stopped,168
+nitazoxanide 500mg tid,168
+diarrhea frequency reduced to 3–4 times a day,180
+diarrhea subsided,336
+Cryptosporidium oocysts not detected,336
+nitazoxanide stopped,336
+systemic infection controlled,960
+disconnected from ventilator intermittently,960
+creatinine normalized,960
+liver function recovered,960
+transferred to general ward,1128
+ventilator no longer needed,1128

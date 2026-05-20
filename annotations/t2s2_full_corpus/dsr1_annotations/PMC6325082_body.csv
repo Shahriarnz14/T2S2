@@ -1,0 +1,72 @@
+event,time
+18 years old,0
+male,0
+admitted to hospital,0
+fever,-72
+shortness of breath,-72
+bilateral interstitial infiltrates,0
+empirical therapy for community-acquired pneumonia,0
+weight loss,-2160
+lethargy,-2160
+swallowing difficulties,-2160
+hypoxic respiratory failure,0
+intubated,0
+CT scan showed widespread nodular infiltrates,24
+mediastinal abscess,24
+sepsis,0
+high-dose vasopressors,0
+hemodynamic instability,0
+lung-protective mechanical ventilation,0
+intermittent prone positioning,0
+negative bronchoalveolar lavage cultures,24
+negative viral PCR,24
+negative Ziehl-Neelsen staining,24
+indeterminate IGRA for tuberculosis,24
+"extensive negative work-up for infectious, malignant, immunological causes",24
+expanded antibiotic therapy,24
+empirical corticosteroids,24
+empirical immunoglobulins,24
+transbronchial biopsies,432
+bilateral tension pneumothoraces,432
+pneumopericardium,432
+subcutaneous emphysema,432
+pleural drainage,432
+critical oxygenation,432
+veno-venous ECMO therapy,432
+acid-fast bacilli in transbronchial biopsies,432
+tuberculosis treatment initiation,432
+confirmed miliary tuberculosis,624
+Mycobacterium tuberculosis growth in admission samples,624
+tracheal aspirate positive,624
+urine positive,624
+cerebrospinal fluid positive,624
+granulomas in bone marrow aspirate,624
+granulomas in liver biopsies,624
+granulomas in lung biopsies,624
+susceptible to first-line anti-tuberculosis agents,624
+dysphagia related to mediastinal tuberculosis,624
+mediastinal abscess related to tuberculosis,624
+multiple bullae in lungs,432
+persistent pneumothoraces,432
+subtherapeutic isoniazid levels,432
+subtherapeutic rifampicin levels,432
+intravenous anti-tuberculosis agents,432
+acid-fast bacilli in tracheal aspirates at four weeks,672
+multi-resistant Pseudomonas aeruginosa,432
+Stenotrophomonas maltophilia,432
+inhaled colistin,432
+inhaled tobramycin,432
+intravenous amikacin,432
+intravenous meropenem,432
+intravenous ceftazidime/avibactam,432
+subtherapeutic amikacin levels,432
+increased lung compliance,1080
+lung re-expansion,1080
+ECMO weaned,1200
+thrombocytopenia,1200
+minor bleedings from puncture sites,1200
+sensory symptoms in lower limbs,1200
+ICU discharge,1824
+rehabilitation,1824
+resumed previous activities,2160
+sports resumed,2160

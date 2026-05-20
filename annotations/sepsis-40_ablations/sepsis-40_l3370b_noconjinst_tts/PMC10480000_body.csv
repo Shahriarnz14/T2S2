@@ -1,0 +1,83 @@
+event,time
+15 years old ,0
+female ,0
+admitted to the hospital ,0
+tuberculosis infection ,-672
+positive QuantiFERON gold test ,-672
+iron deficiency anemia ,-672
+hemoglobin 97–104 g/L ,-672
+systemic lupus erythematosus ,-672
+symmetric nonerosive polyarthritis ,-672
+nonscarring alopecia ,-672
+photosensitivity ,-672
+Raynaud phenomenon ,-672
+antinuclear antibodies ,-672
+anti-Smith antibodies ,-672
+anti-ribonucleoprotein antibodies ,-672
+naproxen ,-672
+hydroxychloroquine ,-672
+started treatment with rifampin ,-11
+rifampin 600 mg ,-11
+tolerated rifampin well ,-11
+chills ,-8
+myalgias ,-8
+stopped treatment ,-8
+in-person assessment ,-3
+normal physical examination ,-3
+arthritis in 2 joints ,-3
+advised to resume rifampin ,-3
+resumed rifampin ,0
+severe neck pain ,1
+myalgias ,1
+arthralgias ,1
+shortness of breath ,1
+chest pain ,1
+hypotension ,1
+fluid bolus ,1
+febrile ,2
+tachypneic ,2
+tachycardic ,2
+low-to-normal blood pressure ,2
+no angioedema ,2
+no rash ,2
+no wheezing ,2
+no gastrointestinal symptoms ,2
+intravenous fluids ,2
+empiric vancomycin ,2
+empiric ceftriaxone ,2
+hypotensive ,3
+diaphoretic ,3
+fluid resuscitation ,3
+norepinephrine infusion ,3
+epinephrine infusion ,3
+admitted to ICU ,3
+no rash ,3
+no mucous membrane involvement ,3
+decreased leukocyte count ,3
+low eosinophil counts ,3
+hemoglobin level decreased ,24
+bilirubin normal ,24
+haptoglobin normal ,24
+direct antiglobulin test negative ,24
+blood film normal ,24
+inflammatory markers elevated ,24
+C-reactive protein elevated ,24
+aspartate aminotransferase elevated ,24
+complement C3 level decreased ,24
+complement C4 level normal ,24
+creatinine kinase level normal ,24
+cortisol level increased ,24
+CT scan of head normal ,24
+echocardiogram normal ,24
+CT angiography of neck normal ,24
+localized myositis ,24
+chest radiograph showed mild pulmonary edema ,24
+CT imaging of lungs showed bilateral increased septal thickening ,24
+ground glass opacities ,24
+infectious work-up negative ,24
+rifampin stopped ,6
+vasopressors weaned off ,30
+started isoniazid ,30
+completed 9 months of therapy ,2160
+avoid rifamycin-based medications ,2160
+discharged ,72

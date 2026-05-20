@@ -1,0 +1,101 @@
+event,time
+35 years old,0
+female,0
+Crohn’s disease (CD),"-43800 (approx. 5 years prior, considering she had been off therapy for 5 years before admission)"
+right hemicolectomy,"-87600 (approx. 10 years prior, in 2013)"
+adhesion-related small bowel obstruction,"-26280 (approx. 3 years prior, in 2020)"
+adhesiolysis,-26280
+off disease-modifying therapy,-43800
+generalized anxiety disorder,0
+bipolar disorder,0
+admitted to emergency department,0
+low-grade fever,0
+chills,0
+nonspecific abdominal pain,0
+nonbilious emesis,0
+no cough,0
+no dysuria,0
+no skin rashes,0
+ill appearance,0
+toxic appearance,0
+tachycardia (126 bpm),0
+hypotension (80/50 mmHg),0
+fever (38.8°C),0
+diffuse abdominal tenderness,0
+no guarding,0
+no rigidity,0
+hemoglobin 8.2 g/dl,0
+leukopenia (WCC 2.5 X 10⁹/L),0
+thrombocytopenia (76 X 10⁹/L),0
+elevated lactate (4.3 mmol/L),0
+CRP 60.6 mg/L,0
+acute kidney injury (creatinine 2.15 mg/dL),0
+hypercalcemia (11.0 mg/dL),0
+normal total bilirubin (0.7 mg/dL),0
+elevated ALT (66 U/L),0
+elevated ALP (175 U/L),0
+negative urinalysis,0
+unremarkable chest X-ray,0
+admitted to ICU,0
+intra-abdominal sepsis (presumed),0
+acute cholecystitis (presumed),0
+cholangitis (presumed),0
+fluid resuscitation,0
+"empiric antibiotics (vancomycin, piperacillin/tazobactam)",0
+"CT abdomen (mild gallbladder wall thickening, pericholecystic fluid)",0
+no gallstones,0
+no active Crohn’s flare,0
+"MRI (mild cholecystitis, normal biliary ducts)",0
+persistent fever,24 (assumed after initial admission)
+cholecystectomy,48 (approx. 2 days post-admission)
+acalculous cholecystitis,48
+normal intraoperative cholangiogram,48
+histology (nonspecific acalculous cholecystitis),48
+worsened liver biochemistry (post-cholecystectomy day 4),120 (approx. 5 days post-admission)
+ALT 240 U/L,120
+ALP 200 U/L,120
+total bilirubin 6.2 mg/dL,120
+direct bilirubin 5.0 mg/dL,120
+CT/MRI abdomen (normal post-op changes),120
+ERCP (normal biliary ducts),120
+"negative viral serologies (HAV, HBV, HCV, EBV, CMV, HIV)",120
+"negative autoimmune screening (ANA, AMA, ASMA, anti-MPO, PR3)",120
+"normal IgG, IgM, IgA",120
+normal transferrin saturation,120
+normal ferritin,120
+normal ceruloplasmin,120
+no hepatotoxic medications,120
+hepatology consultation,144 (approx. 6 days post-admission)
+liver biopsy,168 (approx. 7 days post-admission)
+acute hepatitis,168
+focal necrosis,168
+noncaseating granulomas,168
+giant cells,168
+no primary biliary cirrhosis,168
+no primary sclerosing cholangitis,168
+no autoimmune hepatitis,168
+negative AAFP staining,168
+negative Giemsa fungal staining,168
+negative QuantiFERON gold,168
+negative Coccidiosis serology,168
+negative Brucella serology,168
+negative Bartonella serology,168
+negative Coxiella serology,168
+negative Histoplasma urine antigen,168
+hypercalcemia resolved,168
+renal function normalized,168
+low PTH (<6 U/L),168
+normal PTH-related peptide,168
+"normal Vitamin D3 1,25-OH",168
+normal ACE levels,168
+"chest CT (small ground-glass nodules, no lymphadenopathy)",168
+antibiotics discontinued (day 14),336 (14 days post-admission)
+interdisciplinary discussion (CD vs sarcoidosis),336
+oral corticosteroids initiated,336
+discharged,384 (approx. 16 days post-admission)
+prednisone taper,384
+8-week steroid course,384
+follow-up (2 months),1488 (approx. 62 days post-discharge)
+clinical wellness,1488
+ALT normalized (70 U/L),1488
+ALP normalized (69 U/L),1488

@@ -1,0 +1,132 @@
+event,time
+58 years old,0
+male,0
+presented to Emergency Department,-72
+fever,-96
+worsening perineal erythema,-72
+perineal pain,-72
+mild seasonal allergies,0
+functional status very good,0
+inguinal herniorrhaphy,-26280
+fexofenadine,0
+pseudoephedrine,0
+no acute distress,0
+perineal cellulitis,0
+perineal pain,0
+preoperative chest X-ray no infiltrates,0
+preoperative chest X-ray no pulmonary edema,0
+preoperative chest X-ray no cardiomegaly,0
+CT extensive inflammation of perineum and scrotum,0
+subcutaneous air,0
+Fournier's gangrene,0
+normotensive,0
+tachycardia (110-120 bpm),0
+no cardiac murmurs,0
+electrocardiogram no ST or T-wave changes,0
+no third heart sound,0
+no peripheral edema,0
+no jugular venous distention,0
+clear lungs on auscultation,0
+SpO2 98% on room air,0
+hemoglobin 14.9 g/dL,0
+hematocrit 44%,0
+WBC 12.7 ×10³/mL,0
+"platelets 146,000/mL",0
+sodium 135 mmol/L,0
+potassium 4.3 mmol/L,0
+chloride 99 mmol/L,0
+HCO3 26 mmol/L,0
+BUN 16 mg/dL,0
+creatinine 1.14 mg/dL,0
+NPO >8 hours preoperatively,0
+emergency surgical debridement,0
+premedicated with midazolam 2 mg IV,0
+anesthesia induced with propofol 200 mg IV,0
+fentanyl 100 mcg IV,0
+no central venous pressure monitor,0
+LMA size 4 placed,0
+anesthesia maintained with sevoflurane 2-3%,0
+received fentanyl 500 mcg,0
+dilaudid 1 mg,0
+hemodynamically stable,0
+tachypnea (35 breaths/min),0
+surgical blood loss ~200 mL,0
+sevoflurane discontinued,0
+patient able to follow commands,0
+forcefully bit down on LMA,0
+LMA removal,0
+laryngospasm,0
+tachycardia,0
+hypertension,0
+positive pressure via face mask unsuccessful,0
+propofol IV,0
+succinylcholine IV,0
+orotracheal intubation,0
+bilateral rales,0
+pink frothy secretions,0
+tachycardia (120-130 bpm),0
+hypertension (170-180/90-100 mmHg),0
+SpO2 85-88% on FiO2 100%,0
+ABG pH 7.27,0
+ABG PaCO2 59 mmHg,0
+ABG PaO2 46 mmHg,0
+ABG HCO3 16 mmol/L,0
+ABG base excess -1.9,0
+ABG oxygen saturation 75%,0
+lactate 1.27 mmol/L,0
+SIMV 12 cycles/min,0
+tidal volume 750 mL,0
+pressure support 10 cm H2O,0
+PEEP 10 cm H2O,0
+PEEP increased to 12 cm H2O,0
+SpO2 >90%,0
+peak and plateau pressures minimally elevated,0
+negative pressure >-25 cm H2O,0
+transferred to ICU,0
+SIMV continued,0
+tidal volume 580 mL,24
+FiO2 100%,24
+pressure support 15 cm H2O,24
+PEEP 12 cm H2O,24
+ABG pH 7.6,24
+ABG PaCO2 25 mmHg,24
+ABG PaO2 165 mmHg,24
+ABG HCO3 27 mmol/L,24
+ABG SpO2 99%,24
+FiO2 weaned to 40%,36
+ABG pH 7.45,36
+ABG PaCO2 41 mmHg,36
+ABG PaO2 78 mmHg,36
+ABG HCO3 28 mmol/L,36
+ABG base excess 3.8,36
+ABG SpO2 96%,36
+positive fluid balance first few days,72
+negative fluid balance thereafter,120
+arterial line pulse wave variability,0
+chest X-ray bilateral patchy infiltrates,24
+chest X-ray no pneumothoraces,24
+chest X-ray no effusions,24
+chest X-ray normal heart size,24
+planned re-debridement,48
+not extubated until postoperative day 3,72
+extubation,72
+acute shortness of breath,72
+ABG pH 7.49,72
+ABG PaCO2 39 mmHg,72
+ABG PaO2 62 mmHg,72
+ABG HCO3 29 mmol/L,72
+ABG SpO2 93% on FiO2 80%,72
+CPAP 10 cm H2O via face mask,72
+chest X-ray improvement,72
+chest X-ray infiltrates persisted,72
+furosemide 40 mg IV,72
+oxygenation improved,72
+shortness of breath improved,72
+chest radiograph improvement,72
+furosemide 20 mg IV x2,96
+weaned off oxygen,144
+chest radiograph near complete resolution,144
+discharged,168
+follow-up at three months,2160
+skin grafting,2160
+no general anesthesia-related complications,2160

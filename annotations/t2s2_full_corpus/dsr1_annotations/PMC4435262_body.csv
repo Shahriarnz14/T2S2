@@ -1,0 +1,106 @@
+event,time
+48-year-old,0
+female,0
+evaluation of sphincter of Oddi dysfunction,0
+elective outpatient ERCP,0
+recent acute pancreatitis,-24
+episodic abdominal pain,-24
+common bile duct cannulated,0
+pancreatic duct cannulated,0
+basal sphincter pressures measured,0
+cholangiography normal,0
+pancreatography normal,0
+cystic duct cannulated,0
+cholecystokinin infusion,0
+bile aspirated,0
+microlithiasis analysis,0
+no immediate complications,0
+mild post-procedure discomfort,0
+admitted to the hospital,0
+chest pain,+4
+"WBC 14.5 × 1,000/μL",+4
+hematocrit 32.9%,+4
+AST 176 U/L,+4
+ALT 32 U/L,+4
+total bilirubin 0.46 mg/dL,+4
+serum lipase 93 U/dL,+4
+serum troponin 2.3 ng/mL,+4
+non-ST elevation myocardial infarction,+4
+abdominal pain,+24
+peritoneal signs,+24
+AST 250 U/L,+24
+ALT 55 U/L,+24
+total bilirubin 3.34 mg/dL,+24
+direct bilirubin 2.85 mg/dL,+24
+lipase 192 U/dL,+24
+CT scan abdomen,+24
+air in gallbladder,+24
+free air in lesser sac,+24
+free air in retroperitoneum,+24
+free air in intraperitoneal cavity,+24
+free air in bile duct,+24
+loculated air in right hepatic lobe,+24
+emphysematous cholecystitis,+24
+bowel perforation suspected,+24
+broad spectrum antibiotics,+24
+laparotomy,+48
+gangrenous gallbladder,+48
+no bowel perforation,+48
+cholecystectomy,+48
+common hepatic duct inflamed,+48
+gangrene common hepatic duct,+48
+gram-positive rods in gallbladder wall,+48
+Clostridium perfringens culture,+48
+discharged home,+336
+abdominal pain,+408
+fever,+408
+abdominal CT scan,+408
+liver abscess left lobe,+408
+liver abscess right lobe,+408
+percutaneous drainage catheters,+408
+bilious fluid drainage,+408
+cholangiography,+432
+communication left abscess with biliary system,+432
+contrast extravasation,+432
+disruption of intrahepatic ducts,+432
+necrosis of intrahepatic ducts,+432
+CHD necrosis,+432
+CBD necrosis,+432
+trans-hepatic drain placed,+432
+antibiotics continued,+432
+supportive measures,+432
+CHD drain exchanged,+480
+discharged home,+480
+abdominal pain,+720
+fever,+720
+serum creatinine 3.5 mg/dL,+720
+"leukocytosis 20,000/μL",+720
+septic shock,+720
+broad spectrum antibiotics,+720
+supportive measures,+720
+drain catheter revision,+720
+recurrent cholangitis,+720
+recurrent hepatic abscesses,+720
+sepsis with Enterococcus,+720
+sepsis with Pseudomonas,+720
+sepsis with Klebsiella,+720
+sepsis with Candida,+720
+severe hypotension,+720
+renal failure,+720
+respiratory failure,+720
+intensive care admissions,+720
+ERCP performed,+1080
+multiple strictures,+1080
+beading biliary tree,+1080
+hepatic abscesses resolved,+1080
+biliary strictures,+1080
+biliary stents placement,+1080
+stents exchange every 3 months,+1080
+progressive sclerosing cholangitis,+1080
+end-stage liver disease,+1080
+living donor liver transplantation,+25920
+secondary biliary cirrhosis,+25920
+bile duct necrosis,+25920
+fungal hyphae,+25920
+bacterial organisms,+25920
+normal hepatobiliary function,+25920

@@ -1,0 +1,88 @@
+event,time
+67 years old,0
+female,0
+presented to a local hospital,-72
+backache,-72
+calculi in both kidneys,-72
+ureteral calculi,-72
+admitted,-72
+underwent HLL combined with double J catheterization,-72
+purulent urine,-72
+severe fever (39.5°C),-48
+chill,-48
+low blood pressure (60/42 mmHg),-48
+empiric anti-infection drugs,-48
+imipenem and Cilastatin sodium,-48
+fluid resuscitation (30 mL/kg),-48
+vasoactive agent (Norepinephrine),-48
+Hydrocortisone sodium succinate,-48
+symptoms progressively deteriorated,-48
+anuric,-48
+ARDS,-48
+invasive ventilatory support with endotracheal intubation,-48
+CRRT,-48
+transferred to ICU,0
+sedated state (RASS -4),0
+blood pressure 80/62 mmHg,0
+Norepinephrine 1.5 μg/kg/min,0
+Epinephrine 1.0 μg/kg/min,0
+heart rate 139 beats/min,0
+transcutaneous oxygen saturation 80%,0
+"cold, clammy extremities",0
+loud bubbling sound in the lung,0
+oxygen partial pressure 50 mmHg,0
+lactic acid 10.6 mmol/L,0
+bicarbonate 10.8 mmol/L,0
+central venous pressure 20 cmH2O,0
+large area of B lines in the lung,0
+diffuse dysfunction in left ventricle,0
+LVEF 20.3%,0
+sinus tachycardia,0
+broad ST depression,0
+troponin I 10.2 ng/mL,0
+"NT-BNP >35,000 pg/L",0
+creatinine 356 μmol/L,0
+anuria,0
+"multiple organ function failure (heart, lung, kidney)",0
+VA-ECMO initiated,0
+ECMO venous catheter (20F),0
+ECMO arterial catheter (17F),0
+left femoral vein catheterization,0
+right femoral artery catheterization,0
+arterial catheter in right femoral artery,0
+ECMO running at 3000 rpm,0
+blood flow 3.5 L/min,0
+arterial pressure 135 mmHg,0
+venous pressure -29 mmHg,0
+Norepinephrine stopped,0
+Epinephrine stopped,0
+CRRT connected to ECMO,0
+Imipenem and Cilastatin sodium continued,0
+Vancomycin added,0
+lactic acid declined,2
+vasoactive drugs completely stopped,10
+arterial blood lactate normal,12
+ESBL-positive E. coli in blood and urine,48
+inflammatory indices diminished,48
+Vancomycin trough level 15–20 μg/mL,48
+LVEF 35%,120
+necrotic skin in extremities,120
+weaned from ECMO,144
+CRRT discontinued,144
+urinating (1000 mL/day),144
+vascular ultrasonography,192
+CT angiography,192
+vascular surgery consultation,192
+necrotic tissues amputated,336
+tracheal intubation,0
+spontaneous breathing successful,120
+weaning failed,120
+tracheostomy,240
+anti-infective therapy changed to Cefoperazone and Sulbactam,240
+bedside physical rehabilitation started,240
+weaned from ventilator,480
+tracheotomy tube sealed,600
+discharged,768
+intermittent hemodialysis continued,768
+self-care at 6-month follow-up,4320
+intermittent hemodialysis ongoing,4320

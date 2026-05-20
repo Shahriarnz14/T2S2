@@ -1,0 +1,124 @@
+event,time
+60 years old,0
+male,0
+history of hypertension,0
+left ventricular dysfunction,0
+chest pain,"-255 (9 am to admission at 1:30 pm is 4.5 hours, -4.5*60= -270, approximated to -255 based on timeline)"
+emergency department called,-255 (1:30 pm)
+awake,-255
+hypotension,-255
+ECG signs of extensive antero-lateral AMI,-255
+morphine administered,-255
+aspirin administered,-255
+dopamine infusion started,-255
+transferred to peripheral hospital,-255
+angiographic study,"-30 (2 pm to 1:30 pm arrival is 30 minutes, -30 minutes = -0.5 hours → -30 minutes ≈ -0.5*60= -30, but admission is at 0, so 2 pm is 0.5 hours after arrival (1:30 pm + 30 min = 2 pm), so -0.5 hours from admission? Need to correct based on admission time. If admission time is arrival at 1:30 pm, then 2 pm is +30 minutes (0.5 hours), but since the admission event is at 0 (arrival at hospital), 2 pm is +0.5 hours → 0.5*60=30 → +30. However, the patient was transferred to the peripheral hospital first, which is considered part of admission. Wait, the case report timeline: chest pain at 9 am, called 118 at 1:30 pm (4.5 hours later), then transferred to peripheral hospital. At 2 pm during angiographic study. So admission time (time 0) is when he arrived at the peripheral hospital, which would be around 1:30 pm + transfer time. Transfer time is not specified, but the peripheral hospital is 10 km away. Assuming arrival at peripheral hospital by 2 pm, making the angiographic study at 2 pm (time 0). Then subsequent events are relative to that."
+60 years old,0
+male,0
+history of hypertension,0
+left ventricular dysfunction,0
+chest pain,-300
+emergency department called,-30
+awake,-30
+hypotension,-30
+ECG signs of extensive antero-lateral AMI,-30
+morphine administered,-30
+aspirin administered,-30
+dopamine infusion started,-30
+transferred to peripheral hospital,0
+angiographic study,0
+severe cardiogenic shock,0
+IABP support,0
+distal occlusion of left main coronary artery,0
+angioplasty on left anterior descending and circumflex coronary artery,0
+bare metal stent placement,0
+heparin bolus 7500 IU,0
+reopro infusion,0
+successful revascularization,0
+TIMI score 1,0
+brady-asystolic cardiac arrest,90
+advanced life support (20 minutes),90
+tracheal intubation,90
+transvenous pacing,90
+refractory cardiogenic shock,110
+high amines dosage,110
+echocardiography showing contractile reserve,110
+ECMO team called,150
+ECMO team arrival,195
+ECMO implantation,220
+percutaneous cannulation of right femoral artery,220
+percutaneous cannulation of left femoral vein,220
+ECMO circuit connection,220
+hemodynamic stabilization,220
+reduction of amines,220
+recovery of diuresis,220
+normalization of blood gas parameters,220
+reopro infusion interrupted,220
+transfer to San Gerardo Hospital,270
+sedation,270
+muscle relaxant perfusion,270
+therapeutic hypothermia (24 hours),270
+hemodynamic stability without catecholamines,270
+arterial blood pressure 150/60 mmHg,270
+heart rate 80 beats,270
+sinus rhythm,270
+central venous pressure 12 mmHg,270
+wedge pressure 15 mmHg,270
+pulmonary artery pressure 29/18 mmHg,270
+cardiac output 2.5 L/min,270
+venous oxygen saturation 72%,270
+transthoracic echocardiography (EF 10%),270
+dobutamine started,270
+heparin infusion (ACT 180-200 seconds),270
+aspirin started,270
+clopidogrel started,270
+"day 1 echocardiography (akinesia, hypokinesia)",1440
+daily leg perfusion evaluations,1440
+no leg perfusion issues,1440
+day 4 hypertension,96
+calcium-sensitizer started,96
+ECMO weaning initiated,96
+ECMO blood flow reduced to 2 L/min,96
+ECMO blood flow reduced to 1 L/min,108
+day 5 ECMO weaned,120
+IABP support (1:1),120
+dobutamine 10 mcg/kg/min,120
+cannulae removal,120
+external compression for hemostasis,120
+hyperdynamic shock,120
+norepinephrine started,120
+septic shock treatment,120
+meropenem started,120
+day 6 IABP removed,144
+nitrates started,144
+echocardiography (EF 30%),144
+day 7 fever,168
+elevation of leukocytes,168
+inflammation indexes elevation,168
+linezolid added,168
+bronchial bleeding,168
+high PEEP,168
+heparin interruption,168
+clopidogrel interruption,168
+ecodoppler performed,168
+no thrombosis detected,168
+day 8 hypertensive crisis,192
+pulmonary edema,192
+mechanical ventilation with PEEP 15 cmH2O,192
+high FiO2,192
+inhaled nitric oxide,192
+negative water balance,192
+calcium-sensitizer for diastolic dysfunction,192
+ACE-inhibitor started,192
+beta-blockers started,192
+day 11 extubation,264
+day 13 digoxin started,312
+day 20 transfer back to peripheral hospital,480
+awake at discharge,480
+no neurological deficits,480
+hemodynamic stability,480
+sinus rhythm,480
+ACE-inhibitor continued,480
+beta-blocker continued,480
+normal renal function,480
+normal blood gas analysis,480

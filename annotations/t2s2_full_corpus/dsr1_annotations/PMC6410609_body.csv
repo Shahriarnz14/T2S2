@@ -1,0 +1,92 @@
+event,time
+76 years old,0
+male,0
+admitted to the hospital,0
+bloody diarrhea,-96
+bloody diarrhea 6 times per day,-96
+intermittent abdominal pain,-96
+vomiting,-96
+dizziness,-96
+generalized weakness,-96
+watery foul-smelling diarrhea,-2160
+generalized weakness,-2160
+weight loss,-2160
+celiac disease,-43800
+gluten-free diet,-43800
+non-compliant with gluten-free diet,-2880
+no traveling outside the United States,0
+afebrile,0
+tachycardic,0
+severely hypotensive,0
+cachectic,0
+severely dehydrated,0
+hyperactive bowel sounds,0
+diffuse abdominal tenderness,0
+microcytic hypochromic anemia,0
+metabolic acidosis,0
+hypoalbuminemia,0
+hypokalemia,0
+acute renal failure,0
+severe coagulopathy,0
+septic shock,0
+gastrointestinal infection,0
+hemolytic uremic syndrome,0
+gastrointestinal malignancy,0
+ischemic colitis,0
+blood cultures obtained,0
+urine cultures obtained,0
+stool cultures obtained,0
+CT abdomen and pelvis without contrast,0
+no acute intraabdominal process,0
+admitted to MICU,0
+intravenous fluids,0
+antibiotics (vancomycin and piperacillin-tazobactam),0
+sodium bicarbonate drip,0
+fresh frozen plasma,0
+electrolyte supplementation,0
+emergent hemodialysis,0
+hypotension improved,24
+anion-gap metabolic acidosis improved,24
+acute renal failure improved,24
+severe coagulopathy improved,24
+ferritin 49.9 ng/mL,0
+low serum iron 24 ug/dL,0
+normal total iron-binding capacity 256 ug/dL,0
+low iron saturation 9.38%,0
+iron deficiency anemia,0
+thyrotropin normal,0
+vitamin B12 normal,0
+folate normal,0
+total bilirubin normal,0
+lactate dehydrogenase normal,0
+peripheral blood smear normal,0
+blood cultures negative,48
+urine cultures negative,48
+stool cultures negative,48
+fecal leukocytes negative,48
+Clostridium difficile toxin PCR negative,48
+ova and parasites negative,48
+intravenous antibiotics discontinued,48
+persistent diarrhea,48
+colonoscopy,48
+EGD,48
+normal colonic mucosa,48
+normal rectal mucosa,48
+flattened duodenal mucosa,48
+duodenal mucosal nodularity,48
+duodenal biopsies active chronic inflammation,48
+intraepithelial lymphocytosis,48
+subtotal villous blunting,48
+diagnosed with celiac crisis,48
+intravenous vitamin K,48
+parenteral nutrition,48
+methylprednisolone 80 mg every 8 hours,48
+transferred to general medicine floor,48
+gluten-free diet initiated,48
+oral budesonide 9 mg every 24 hours,48
+oral steroid discontinued,240
+discharged,240
+gluten-free diet,240
+improvement of malabsorptive symptoms,240
+adherent to gluten-free diet,8760
+asymptomatic at 12-month follow-up,8760

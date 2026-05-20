@@ -1,0 +1,128 @@
+event,time
+male ,0
+admitted to the Neonatal Intensive Care Unit ,0
+mild respiratory distress ,0
+respiratory rate 65 breaths per min ,0
+chest retraction ,0
+cloudy eyes ,0
+ectropion ,0
+dry ichthyotic skin ,0
+typical male genitalia ,0
+bilaterally undescended testicles ,0
+no signs of dysmorphia ,0
+length 75th percentile ,0
+weight 25th percentile ,0
+head circumference 25th percentile ,0
+temperature 36.2°C ,0
+neurologically fine ,0
+heart rate 167 beats per min ,0
+on CPAP with 30% FIO2 ,0
+breath sounds equal bilaterally ,0
+no organomegaly ,0
+blood count normal ,0
+electrolytes normal ,0
+liver function normal ,0
+respiratory distress syndrome ground-glass opacity on X-ray ,0
+minor respiratory acidosis on blood gas ,0
+acute respiratory distress syndrome diagnosed ,0
+surfactant dosage given ,0
+bowel movement ,12
+trophic feeding (breast milk) started ,48
+weaned from CPAP ,168
+high-flow oxygen treatment started ,168
+weaned FIO2 from 40% to 21% ,240
+abdominal distension ,144
+tachycardia ,144
+tachypnea ,144
+thrombocytopenia ,144
+neutropenia ,144
+C-reactive protein 70 mg/L ,144
+meropenem started ,144
+vancomycin started ,144
+trophic feeding stopped ,144
+antibiotics discontinued ,216
+feeding restarted at 30 mL/kg/day ,216
+relapses of unexplained apnea ,336
+CPAP required (FIO2 30%) ,336
+septic examination negative ,336
+nasogastric tube feeding provided around half of nutritional requirements ,336
+preterm formula used ,336
+no pale stools ,336
+conjugated hyperbilirubinemia persisted (total bilirubin 69.8 umol/L=4.08 mg/dL) ,336
+neonatal cholestasis workup recommended ,336
+experts suspected TPN-associated cholestasis ,336
+nasogastric feeding volume increased ,336
+TPN adjusted ,336
+albumin began to decline ,168
+bilirubin increased ,336
+AST increased ,336
+ALT increased ,336
+brain MRI normal ,504
+carnitine supplementation added ,504
+ursodeoxycholic acid 30 mg/kg/day started ,504
+infectious etiology investigation unremarkable ,504
+thyroid function normal ,504
+TSH normal ,504
+T3 normal ,504
+T4 normal ,504
+cortisol normal ,504
+TORCH screening normal ,504
+Hepatitis A negative ,504
+Hepatitis B negative ,504
+Hepatitis C negative ,504
+CMV negative ,504
+alpha-1-antitrypsin deficiency negative ,504
+galactosemia negative ,504
+tyrosinemia type 1 negative ,504
+urine for reducing substance negative ,504
+serum amino acid: non-specific elevation of multiple amino acids ,504
+urine organic acids normal ,504
+tandem mass spectrometry normal ,504
+bile acid 120 umol/L ,504
+X-ray spine no abnormalities ,336
+echocardiogram normal ,336
+eye examination normal ,336
+skull X-ray revealed craniosynostosis ,672
+hepatobiliary scintigraphy difficult due to apnea ,672
+hepatosplenomegaly not seen on ultrasonography ,672
+signs of biliary atresia not seen on ultrasonography ,672
+normal-appearing gallbladder ,672
+no intrahepatic biliary duct dilatation ,672
+no extrahepatic biliary tree dilatation ,672
+triangular-cord sign absent ,672
+multiple albumin infusions were necessary ,1008
+caffeine 5 mg/kg/day started ,336
+hemoglobin optimization attempted ,336
+phenobarbitone started empirically ,1008
+whole-exome sequencing sent ,1344
+severe cyanosis ,2184
+severe apnea ,2184
+bradycardia ,2184
+aggressive cardio-respiratory resuscitation 3 min ,2184
+intubation ,2184
+mechanical ventilation ,2184
+epinephrine provided ,2184
+septic shock ,2184
+multiorgan failure ,2184
+disseminated intravascular coagulation ,2184
+acute renal damage ,2184
+capillary leak syndrome ,2184
+C-reactive protein 223.3 mg/L ,2184
+inotropic support ,2184
+high-frequency oscillating ventilation ,2184
+continuous inhaled nitric oxide treatment ,2184
+Enterobacter cloacae gram-negative sepsis ,2304
+death ,2400
+NOTCH2 pathogenic heterozygous variant c.1076C>T (Ser359Phe) identified ,2568
+Alagille syndrome 2 (ALGS2) diagnosis confirmed ,2568
+delivered by emergency cesarean delivery ,-1
+31 weeks of pregnancy ,-1
+birth weight 1090 g ,-1
+Apgar 1 min 4 ,-1
+Apgar 5 min 8 ,-1
+first newborn resuscitation attempt ,-1
+multiple pregnancy (triplets) ,-1
+maternal abruptio placenta ,-3
+maternal antibiotics for group B streptococcal urine infection ,-3
+maternal hypothyroidism treated with thyroxine ,-720
+maternal gestational diabetes on a low-carbohydrate diet ,-720

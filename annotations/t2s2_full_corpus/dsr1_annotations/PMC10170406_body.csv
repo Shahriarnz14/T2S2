@@ -1,0 +1,51 @@
+event,time
+37 years old,0
+man,0
+admitted to the hospital,0
+fever,-96
+headache,-96
+myalgia,-96
+active smoking,0
+dog bite on right hand,-144
+temperature 38.2°C,0
+heart rate 130 b.p.m.,0
+blood pressure 118/72 mmHg,0
+pulse oxygen saturation 100%,0
+bite wound on right hand,0
+no rash,0
+no cellulitis,0
+no soft tissue necrosis,0
+C-reactive protein 417 mg/L,0
+white blood cell count 9.45 G/L,0
+neutrophils 91%,0
+lymphocytes 3.5%,0
+procalcitonin 8.42 μg/L,0
+thrombocytopenia (29 G/L),0
+acute kidney injury (creatinine 189 μmol/L),0
+"elevated liver enzymes (AST ×2, ALT ×3)",0
+elevated high sensitivity-troponin T (1129 ng/L),0
+elevated N-terminal brain natriuretic peptide (1127 pg/mL),0
+diffuse ST-segment elevation,0
+micro-Q waves in inferior and lateral leads,0
+global left ventricular hypokinesia,0
+LV ejection fraction 42%,0
+preserved right ventricular function,0
+no pericardial effusion,0
+blood cultures drawn,0
+treated with cefotaxime (3 g/day),0
+Capnocytophaga canimorsus identified in blood cultures,48
+changed to amoxicillin (3 g/day),48
+coronary computed tomography angiography (normal coronaries),120
+cardiovascular magnetic resonance (Day 5),120
+LV ejection fraction 56%,120
+subepicardial oedema (inferolateral wall),120
+early hyper-enhancement (inferolateral wall),120
+late gadolinium-enhancement (subepicardium),120
+increased T2 time (oedema),120
+increased extracellular volume (interstitial space),120
+endomyocardial biopsy not performed,0
+no haemodynamic deterioration,0
+no heart failure,0
+no arrhythmias,0
+discharged,168
+remains well at 1 year,0

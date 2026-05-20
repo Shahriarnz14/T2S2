@@ -1,0 +1,138 @@
+event,time
+28 years old,0
+female,0
+Asian,0
+farmer,0
+admitted to Department of Critical Care Medicine,0
+fever,-240
+shortness of breath,-240
+spontaneous abortion,-168
+feeling cold,-168
+chills,-168
+body temperature 38.7°C,-168
+dry cough,-168
+dizziness,-168
+general fatigue,-168
+treatment with cefpodoxime proxetil,-144
+no improvement,-120
+worsening shortness of breath,-48
+body temperature 38°C,-48
+occasional cough,-48
+chest CT scattered ground-glass dense opacities,-24
+nodular shadows in upper lobes,-24
+severe pneumonia,-24
+body temperature 40°C,-24
+shivering,-24
+oxygen saturation 90-93%,-24
+increased WBC,-24
+increased NEUT,-24
+increased PCT,-24
+cefoperazone sodium/sulbactam sodium,-24
+moxifloxacin,-24
+respiratory rate increased,-24
+pulse oxygen saturation 89%,-24
+non-invasive ventilator,-24
+dyspnea,-24
+irritable,-24
+oxygen saturation 44%,-24
+type I respiratory failure,-24
+body temperature 36.9°C,0
+heart rate 123 beats/min,0
+respiratory rate 26 breaths/min,0
+blood pressure 86/54 mmHg,0
+emaciated body,0
+ventilator assistance,0
+tracheal tube intubation,0
+rough breathing sounds,0
+wet rales,0
+slight pitting edema lower limbs,0
+haemoglobin 75 g/L,0
+WBC 9.66×10^9/L,0
+neutrophil 97.0%,0
+lymphocyte count 0.16×10^9/L,0
+eosinophils 0.01×10^9/L,0
+CRP 96.7 mg/L,0
+ESR 23 mm/h,0
+PCT 8.89 ng/mL,0
+IL-6 174.3 pg/mL,0
+Legionella pneumophila weakly positive,0
+EBV DNA elevated,0
+CMV DNA IgG positive,0
+albumin 19.1 g/L,0
+PH 7.335,0
+PCO2 32 mmHg,0
+HCO3- 17.9 mmol/L,0
+BE -8.0,0
+lactate 3.6 mmol/L,0
+proteinuria 2+,0
+occult blood 3+,0
+LDH 1073 U/L,0
+HBDH 767 U/L,0
+NT-proBNP 162.3 pg/mL,0
+echocardiography EF59%,0
+pulmonary artery pressure 35 mmHg,0
+abdominal ultrasound normal,0
+pelvic ultrasound small fluid,0
+gynecological ultrasound endometrial cavity fluid,0
+bronchoscopy mucosa congestion,0
+yellow sputum scab,0
+diagnosis severe pneumonia,0
+diagnosis ARDS,0
+diagnosis septic shock,0
+diagnosis moderate anemia,0
+moxifloxacin therapy,0
+fluid rehydration,0
+noradrenaline,0
+thymopetidum injection,0
+vitamin C,0
+bedside chest X-ray double-lung pneumonia,0
+body temperature 38°C,+24
+blood pressure 109/84 mmHg,+24
+oxygen concentration 80%,+24
+sweating,+24
+sedation,+24
+analgesia,+24
+PCT 18.24 ng/mL,+24
+CRP 142.4 mg/L,+24
+meropenem,+48
+linezolid,+48
+PCT 2.24 ng/mL,+96
+WBC 4.49×10^9/L,+96
+neutrophil 82.2%,+96
+BP 110/70 mmHg,+96
+HR 86 bpm,+96
+RR 18 breaths/min,+96
+SpO2 98%,+96
+PEEP 8 cmH2O,+96
+FiO2 45%,+96
+pH 7.438,+96
+PCO2 40.1 mmHg,+96
+PO2 118 mmHg,+96
+HCO3- 26.8 mmol/L,+96
+BE 2.7 mmol/L,+96
+lactate 2.0 mmol/L,+96
+ventilator discharge,+96
+fever 38.4°C,+96
+sweating,+96
+CRP 90.5 mg/L,+96
+chest CT multiple nodules,+96
+chest CT multiple patchy shadows,+96
+mNGS M. tuberculosis complex,+96
+Xpert MTB positive,+96
+rifampicin resistance negative,+96
+diagnosis pulmonary TB,+96
+diagnosis hematogenous disseminated TB,+96
+discontinue moxifloxacin,+96
+discontinue meropenem,+96
+discontinue linezolid,+96
+isoniazid,+96
+rifampicin,+96
+pyrazinamide,+96
+ethambutol,+96
+chest X-ray extensive exudation,+168
+small nodules lower lobes,+168
+transfer to TB hospital,+240
+M. tuberculosis culture positive,+240
+quadruple anti-TB therapy,+240
+ventilator continued,+240
+death multiple organ failure,+720

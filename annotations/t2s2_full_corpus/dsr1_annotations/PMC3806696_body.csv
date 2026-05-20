@@ -1,0 +1,70 @@
+event,time
+40-year-old man,0
+presented to the accident and emergency department,0
+severe diffuse abdominal pain,-8
+abdominal bloating,-8
+diarrhea,-8
+nausea,-8
+two episodes of acute diverticulitis past 2 years,-17520
+hospitalized for ruptured diverticulum in sigmoid colon,-87648
+refused surgery,-87648
+treated conservatively,-87648
+temperature 38.8°C,0
+heart rate 120 beats/min,0
+blood pressure normal,0
+oxygen saturation normal,0
+abdominal distension,0
+tenderness on deep palpation left lower quadrant,0
+no peritoneal signs,0
+rectal examination no stool in vault,0
+hemoglobin 15.9 g/dl,0
+"WBC 19,120",0
+NEUT 80.2%,0
+CRP 270.6 mg/l,0
+CPK 543 U/l,0
+GLU 125 mg/dl,0
+LDH 481 U/l,0
+fibrinogen 4.4 g/l,0
+Na 141 mEq/l,0
+K 5.2 mEq/l,0
+abdominal CT scan showed stenosis of sigmoid colon,0
+marked dilation of descending colon,0
+transverse colon dilation,0
+ascending colon dilation,0
+cecum dilation,0
+prior CT showed stenotic lesion in sigmoid colon,-17520
+mechanical obstruction,-17520
+prestenotic dilation of colon,-17520
+mild periodic abdominal discomfort,-8
+deteriorated with signs of sepsis,8
+multiorgan failure,8
+severe dyspnea,8
+metabolic acidosis,8
+CT scan ruled out pulmonary embolism,8
+intubated due to respiratory muscle fatigue,8
+CRP 318 mg/l,8
+CPK 543 U/l,8
+fibrinogen 6 g/l,8
+creatinine 2.2 mg/dl,8
+PT 28.20 s,8
+INR 2.56,8
+"D-dimer 2,223.2 μg/l",8
+Na 133 mEq/l,8
+K 5.4 mmol/l,8
+P 5.4 mg%,8
+clinical and laboratory findings compatible with toxic megacolon,8
+surgical assessment performed,8
+emergency laparotomy decided,8
+surgery revealed extensive necrotic colon,8
+total colectomy implemented,8
+protective loop ileostomy,8
+transferred to intensive care unit,8
+hemodynamic instability,8
+extubated after 12 h,20
+transferred to ward,20
+stayed until discharge,20
+discharged 10 days later,240
+histological examination resolving necrotic colon,240
+specimen negative for malignancy,240
+loop ileostomy reversed 3 months later,2208
+patient remains in good health 4 years later,35040

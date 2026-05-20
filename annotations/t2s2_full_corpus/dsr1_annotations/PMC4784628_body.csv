@@ -1,0 +1,55 @@
+event,time
+6 years old,0
+female,0
+right wrist swelling,-48
+right wrist pain,-48
+someone stepped on her wrist,-48
+moderate pain,-48
+pain worsened,-24
+redness,-24
+swelling,-24
+subjective fever,-24
+febrile at 39.4°C,0
+tachycardic with heart rate of 140 bpm,0
+wrist swollen,0
+wrist erythematous,0
+wrist tender to palpation,0
+exquisite pain with motion,0
+limited range of motion,0
+elevated ESR at 40 mm/h,0
+elevated CRP at 13.5 mg/dL,0
+blood cultures drawn,0
+Orthopedic Surgery consultation,0
+joint aspiration,0
+purulent fluid from joint,0
+Gram stain gram-positive cocci,0
+joint fluid culture sent,0
+admitted to hospital,0
+IV clindamycin initiated,0
+arthrotomy performed,24
+seropurulent fluid expressed,24
+joint space irrigated,24
+continued IV clindamycin,24
+repeat ESR 85 mm/h,24
+repeat CRP 11 mg/dL,24
+afebrile,24
+pain controlled by acetaminophen,24
+joint aspiration culture positive for Streptococcus pyogenes,48
+blood culture positive for Streptococcus pyogenes,72
+Infectious Disease consultation,72
+antibiotic switched to IV cefazolin,72
+repeat arthrotomy,72
+no return of fluid in joint capsule,72
+joint irrigated and closed,72
+continued IV cefazolin,72
+serial ESR trending downward,72
+CRP trending downward,72
+repeat blood culture no growth,48
+discharged,144
+oral cephalexin prescribed,144
+ESR normalized,168
+CRP normalized,168
+completion of oral antibiotics,168
+Group A streptococcal bacteremia,0
+septic joint,0
+no significant complications,168

@@ -1,0 +1,59 @@
+event,time
+80 years old,0
+female,0
+Alzheimer’s dementia,0
+diabetes mellitus,0
+hypertension,0
+chronic kidney disease,0
+admitted to the intensive care unit (ICU),0
+hypotension,0
+lactic acidosis,0
+progressive altered mental status,-336
+physical decline,-336
+blood pressure 89/56,0
+normal heart rate,0
+oxygen saturation normal,0
+no fever,0
+no tachypnea,0
+lactic acid 3.6 mmol/L,0
+leukocytosis 14.7 x 10³ cells/μL,0
+neutrophilic predominance,0
+troponin peaked at 1104 pg/mL,0
+Wells score 0 points,0
+D-dimer not obtained on admission,0
+admitted for presumptive septic shock,0
+treated with fluids,0
+treated with broad-spectrum antibiotics,0
+blood pressure improved,24
+lactic acidosis resolved,24
+troponin elevation attributed to demand ischemia from sepsis,0
+blood cultures negative,24
+reached pre-hospital baseline,24
+hemodynamic stability,48
+improvement in the ICU,48
+transferred to gerontology unit,48
+afebrile,48
+heart rate 80,48
+blood pressure 117/62,48
+SpO2 99% on room air,48
+jugular venous distension,48
+normal cardiopulmonary auscultatory exam,48
+no peripheral edema,48
+no asymmetric lower extremity swelling,48
+cardiac POCUS using HUD,48
+dilated RV,48
+akinesis of mid-RV free wall with apical sparing (McConnell’s sign),48
+diastolic septal flattening (D-sign),48
+IVC dilated to 3.0 cm,48
+minimal inspiratory variation of IVC,48
+findings confirmed with formal transthoracic echocardiography,48
+ECG S1Q3T3 pattern,48
+"D-dimer 51,190 ng/mL",48
+CT angiography showing saddle PE,48
+initiated on heparin infusion,48
+transitioned to oral apixaban,72
+no hemodynamic compromise,72
+no further complications,72
+megestrol use,-720
+thromboembolism attributed to megestrol,0
+no hypercoagulability workup,0

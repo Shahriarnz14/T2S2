@@ -1,0 +1,84 @@
+event,time
+19 years old,0
+woman,0
+admitted with impaired consciousness,0
+social drinker,0
+frequent diarrhea,-8760
+abdominal pain,-8760
+diarrheal symptom progressively worsened,-1344
+high fever,-72
+headache,-72
+myalgia,-72
+blood pressure 70/40 mm Hg,0
+pulse rate 130 beats/min,0
+body temperature 41.0℃,0
+respiratory rate 35/min,0
+mental status stuporous,0
+abdomen diffusely tender,0
+abdomen distended,0
+no palpable mass,0
+"white blood cell count 21,440/mm3",0
+neutrophil 92%,0
+hemoglobin 13.4 g/dL,0
+"platelet 332,000/µL",0
+urea 10 mg/dL,0
+creatinine 1.1 mg/dL,0
+C-reactive protein 92.9 mg/L,0
+cardiac troponin I elevated,0
+creatine kinase-MB elevated,0
+human immunodeficiency virus antibody negative,0
+hepatitis B surface antigen negative,0
+hepatitis C virus antibody negative,0
+anti-nuclear antibody negative,0
+blood cultures not remarkable,0
+urine cultures not remarkable,0
+stool examinations not remarkable,0
+sinus tachycardia,0
+interstitial pulmonary edema,0
+dilated ventricles,0
+akinesia of basal to apical inferoseptal LV wall,0
+akinesia of anteroseptal LV wall,0
+akinesia of anterior LV wall,0
+akinesia of inferior LV wall,0
+severely impaired systolic function,0
+ejection fraction 38%,0
+fulminant myocarditis,0
+acute LV failure,0
+active inflammatory wall thickening in distal ileum,0
+active inflammatory wall thickening in sigmoid colon,0
+mesenteric hyperemia,0
+intervening normal segments of ileum,0
+admitted to intensive care unit,0
+intubation,0
+ventilator care,0
+intravenous hydration,0
+inotropic support with dopamine,0
+inotropic support with noradrenaline,0
+inotropic support with dobutamine,0
+clinical condition improved,24
+intubation tube removed,24
+cardiac troponin I decreased,24
+coxsackie virus A4 antibody low positive,24
+coxsackie virus A16 antibody low positive,24
+coxsackie virus B1 antibody low positive,24
+coxsackie virus B3 antibody low positive,24
+adenovirus antibody low positive,24
+coxsackie virus B4 antibody high positive,24
+follow-up echocardiogram 1 week later,168
+LV systolic function improved,168
+ejection fraction 62%,168
+discharged,240
+colonoscopy performed,672
+ulceration with stenosis in terminal ileum,672
+multiple aphthous ulcers in rectum,672
+non-caseating granulomatous inflammation,672
+Crohn's disease,672
+Crohn's disease activity index 177,672
+oral steroids,672
+mesalazine,672
+abdominal pain improved,672
+diarrhea improved,672
+maintenance therapy with mesalazine,672
+maintenance therapy with azathioprine,672
+coxsackie virus B4 antibody titer unchanged,4032
+myocarditis not caused by coxsackie virus infection,4032

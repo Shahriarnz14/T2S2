@@ -1,0 +1,135 @@
+event,time
+36 years old,0
+female,0
+Kenyan,0
+primigravida,0
+34-week spontaneous pregnancy,0
+uterine fibroid,-5040
+admitted to women hospital,0
+recurrent vomiting,0
+epigastric pain,0
+history of weight loss (10 kg),0
+no change in bowel habits,0
+no hematemesis,0
+no rectal bleeding,0
+no history of hematuria,0
+no history of passing stones,0
+iron tablets,0
+medical history unremarkable,0
+looked ill,0
+markedly dehydrated,0
+drowsy,0
+blood pressure 126/76 mmHg,0
+pulse rate 94 min–1,0
+respiratory rate 30 min–1,0
+temperature 36.6°C,0
+no lymphadenopathy,0
+no thyromegaly,0
+no edema,0
+uterus size of 40 weeks,0
+tender epigastric area,0
+hypotonic,0
+brisk deep tendon reflexes,0
+no obvious focal neurological sign,0
+planter reflexes down-going,0
+chest unremarkable,0
+cardiovascular system unremarkable,0
+Hb 8.7 g/dl,0
+WBCs 7000 μl–1,0
+platelets 445000 μl–1,0
+ESR 109 mm/h,0
+peripheral blood smear: toxic granulation of WBCs,0
+BUN 4.4 mmol/l,0
+creatinine 59 μmol/l,0
+HCO3 22 mmol/l,0
+Na 138 mmol/l,0
+Ca 4.8 mmol/l,0
+uric acid 508 μmol/l,0
+lactic acid 1.2 mmol/l,0
+phosphorous 0.8 mmol/l,0
+HIV serology negative,0
+serum calcium 2.43 mmol/l at 14 weeks’ gestation,-3360
+ALT 4 u/l,0
+AST 11 u/l,0
+ALP 150 u/l,0
+total protein 72 g/l,0
+albumen 30 g/l,0
+cholesterol 4.05 mmol/l,0
+triglyceride 3.59 mmol/l,0
+PTH 3 pg/ml,0
+TSH 0.68 mIU/l,0
+free thyroxin 16.6 pmol/l,0
+cortisol 1849 nmol/l,0
+vitamin D 15 ng/ml,0
+serum protein electrophoresis normal,0
+serum angiotensin-converting enzyme level normal,0
+internist consulted,0
+normal saline infusion at 250 ml/h,0
+close monitoring of urine output,0
+intramuscular calcitonin,0
+transferred to the medical intensive care unit,2
+possible diagnosis: humoral hypercalcemia of benignancy (uterine fibroid),0
+hypercalcemic crisis,0
+PTH-rP not checked,0
+developed rupture membrane,6
+calcium remained high,6
+reduction in the urine output,6
+rise in serum creatinine,6
+nephrologist consulted for urgent hemodialysis,7
+urgent hemodialysis,8
+urgent cesarean section,10
+surgery complicated by bleeding,10
+hypotension,10
+blood transfusion,10
+delivery of a baby girl,10
+birth weight 2.9 kg,10
+removal of uterine masses,10
+uterine masses measuring in aggregate 30 × 25 × 15 cm,10
+submitted to a histopathological examination,10
+primary hyperparathyroidism excluded,12
+vitamin A intoxication excluded,12
+vitamin D intoxication excluded,12
+sarcoidosis excluded,12
+multiple myeloma excluded,12
+milk-alkali syndrome excluded,12
+adrenal insufficiency excluded,12
+immobilization excluded,12
+septicemia,24
+septic shock,24
+vasopressors,24
+broad-spectrum antibiotics,24
+serum calcium 2.34 mmol/l,24
+phosphorus 1.1 mmol/l,24
+BUN 6.2 mmol/l,24
+Cr 75 mmol/l,24
+Na 143 mmol/l,24
+K 4.2 mmol/l,24
+HCO3 16 mEq/l,24
+chloride 113 mEq/l,24
+albumin 21 g/l,24
+serum lactate 5.19,24
+serum PTH 155 pg/ml,24
+serum amylase 88 u/l,24
+serum lipase 73 u/l,24
+rebound hyperparathyroidism,24
+deterioration in the level of consciousness,36
+CT scan of the chest and pelvis: no evidence of mass lesion,48
+CT scan of the chest and pelvis: no organomegaly,48
+MRI brain: infarcts involving the right cerebellum,48
+MRI brain: infarcts involving the lentiform nucleus on both sides,48
+MRI brain: infarcts involving the cortical regions in frontal lobes,48
+MRI brain: infarcts involving the cortical regions in parietal lobes,48
+MRI brain: infarcts involving the cortical regions in occipital lobes,48
+MRA: vasospasm of the internal carotid arteries,48
+MRA: vasospasm of the middle carotid arteries,48
+MRA: vasospasm of the anterior carotid arteries,48
+diffuse ischemic changes secondary to hypoxic insult,48
+histopathology report consistent with leiomyoma with calcifications,72
+no evidence of malignancy,72
+condition began to improve,96
+generalized muscle weakness,96
+stiffness,96
+extensive physiotherapy,96
+discharged home,240
+final diagnosis of humoral hypercalcemia associated with a uterine fibroid,240
+serum calcium remained within the normal range,4320

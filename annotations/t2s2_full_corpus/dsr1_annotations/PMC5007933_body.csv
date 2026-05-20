@@ -1,0 +1,76 @@
+event,time
+4-year-old,0
+girl,0
+developmental delay,0
+myelomeningocele,0
+hydrocephalus,0
+neurogenic bladder,0
+recurrent urinary tract infections,0
+urosepsis,-1440
+hemolytic uremic syndrome,-1440
+chronic renal failure,-1440
+peritoneal dialysis,-1440
+seizure-like activity,-48
+fever,-48
+distress,-48
+tachycardic,-48
+tachypneic,-48
+distended abdomen,-48
+normal oxygen saturations,-48
+lorazepam,-48
+fosphenytoin,-48
+antibiotics,-48
+transferred to facility,-48
+chest x-ray,-24
+enlarged cardiac silhouette,-24
+tamponade suspicion,-24
+transthoracic echocardiogram,-24
+moderate circumferential pericardial effusion,-24
+diastolic right atrial collapse,-24
+tamponade physiology,-24
+catheterization laboratory,0
+hemodynamically stable,0
+intravenous induction,0
+endotracheal intubation,0
+6-French pigtail catheter placement,0
+pericardial space,0
+ultrasound guidance,0
+fluoroscopic guidance,0
+self-adhesive securement device,0
+serosanguineous fluid drained (220 ml),0
+stabilized,24
+pericardial drainage minimal,48
+decision to discontinue drain,48
+attempted drain removal,48
+unresponsive,48
+decreased respiratory rate,48
+bradycardia,48
+chest compressions,48
+bag mask ventilation,48
+spontaneous breathing,48
+palpable pulse,48
+bedside chest x-ray,48
+pigtail catheter in pericardial space,48
+transferred to operating room,72
+TTE-guided withdrawal attempt,72
+general anesthesia,72
+minimal effusion,72
+blind catheter removal attempt,72
+profound hypotension,72
+profound bradycardia,72
+external cardiac compressions,72
+0.35 flex guidewire insertion,72
+catheter advanced back,72
+hemodynamic stabilization,72
+drain encircling major vessel suspicion,72
+surgical removal via sternotomy,96
+pediatric cardiothoracic surgeon,96
+catheter anteriorly and superiorly over pulmonary artery and aorta,96
+catheter posteriorly and inferiorly under heart,96
+pigtail adjacent to atrial appendage,96
+traction on catheter,96
+main pulmonary artery occlusion,96
+severe pulmonary blood flow reduction,96
+abrupt fall in end-tidal carbon dioxide,96
+drain surgically removed,96
+recovery in pediatric ICU,120

@@ -1,0 +1,137 @@
+event,time
+70-year-old,0
+male,0
+transferred to the hospital,0
+rapid onset consciousness disorder,0
+fever,0
+nausea,0
+vomiting,0
+atopic dermatitis,0
+colon cancer,0
+mitral valve stenosis,0
+ischemic cardiomyopathy,0
+resection of the sigmoid colon,-26280
+sigmoid cancer,-26280
+adjuvant chemotherapy,-26280
+mitral valve replacement with bioprosthetic valve,-17520
+coronary artery bypass,-17520
+local recurrence in the pelvis detected,-4320
+totally implantable central venous access device inserted,-4320
+chemotherapy started,-4320
+impaired consciousness,0
+Glasgow Coma Scale E3V4M5,0
+blood pressure 90/70 mmHg,0
+heart rate 120 beats/min,0
+respiratory rate 24 breaths/min,0
+oxygen saturation 96%,0
+body temperature 38.4℃,0
+no rash,0
+no redness at totally implantable central venous access device site,0
+high inflammation,0
+"white blood cells 21,300/mm3",0
+C-reactive protein 44.8 mg/dL,0
+procalcitonin 85.7 ng/mL,0
+renal dysfunction,0
+creatinine 2.73 mg/dL,0
+blood urea nitrogen 56.7 mg/dL,0
+liver dysfunction,0
+total bilirubin 3.3 mg/dL,0
+Aspartate transaminase 284 IU/L,0
+Alanine transaminase 133 IU/L,0
+disseminated intravascular coagulopathy,0
+DIC,0
+platelet 1.7×10⁴/mm³,0
+D-dimer 240 μg/mL,0
+prothrombin time 43%,0
+high lactate levels 11.2 mmol/L,0
+chest CT unremarkable,0
+abdominal CT unremarkable,0
+local recurrence at pelvis unchanged,0
+Gram-positive cluster-forming cocci in urine,0
+antimicrobial therapy initiated: meropenem,0
+antimicrobial therapy initiated: linezolid,0
+intravenous fluids,0
+norepinephrine,0
+hypotension,0
+mechanical ventilator support,0
+admitted to ICU,0
+totally implantable central venous access device removed,48
+no abscess found at surgical site,48
+PVE suspected,48
+transthoracic echocardiograms negative for PVE signs,48
+MRSA detected in blood cultures,72
+MRSA detected in urine culture,72
+prolonged shock,72
+multiple organ failure,72
+antimicrobial therapy changed to linezolid and clindamycin,72
+intravenous immune globulin administered,72
+transesophageal echocardiogram (TEE) revealed vegetation,72
+PVE diagnosed,72
+antimicrobial therapy changed to daptomycin,96
+persistent fever,144
+elevated CRP,144
+whole-body enhanced CT performed,144
+multiple cerebral emboli,144
+cerebral abscesses,144
+bilateral renal infarctions,144
+renal abscesses,144
+spleen infarction,144
+antimicrobial therapy changed back to linezolid,144
+recovered from shock,192
+weaned off mechanical ventilation,192
+TEE showed vegetation enlargement,264
+abscess around prosthetic mitral valve,264
+surgery for PVE required,264
+transferred to another hospital,312
+mitral valve re-replacement performed,312
+intraoperative valve culture positive for MRSA,312
+linezolid continued post-surgery,312
+cerebral infarction,672
+recurrent PVE diagnosed,672
+antimicrobial therapy changed to vancomycin and rifampicin,672
+all blood cultures negative post-surgery,672
+intravenous antimicrobial therapy continued,672
+oral sulfamethoxazole/trimethoprim and rifampicin started,1008
+permanently bedridden,1008
+transferred to long-term-care sanatorium,1008
+MRSA resistance to gentamycin,0
+MRSA sensitive to clindamycin,0
+MRSA sensitive to minocycline,0
+MRSA sensitive to levofloxacin,0
+MRSA sensitive to sulfamethoxazole/trimethoprim,0
+MRSA sensitive to vancomycin,0
+MRSA sensitive to teicoplanin,0
+MRSA sensitive to linezolid,0
+MRSA sensitive to daptomycin,0
+ST8 genotype,0
+agr l typing,0
+SCCmec type IVl,0
+CoaIII typing,0
+PVL-negative,0
+ACME-negative,0
+tst-1 positive,0
+sec positive,0
+sel positive,0
+sea negative,0
+seb negative,0
+sed negative,0
+see negative,0
+seg negative,0
+seh negative,0
+sei negative,0
+selj negative,0
+sek negative,0
+sem negative,0
+sen negative,0
+seo negative,0
+sep negative,0
+seq negative,0
+selr negative,0
+ses negative,0
+set negative,0
+sey negative,0
+se1 negative,0
+eta negative,0
+etb negative,0
+etd negative,0
+EDINs negative,0

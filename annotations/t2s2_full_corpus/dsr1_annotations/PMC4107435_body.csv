@@ -1,0 +1,92 @@
+event,time
+87-year-old man,0
+atrial fibrillation,0
+CHA2DS2-VASc score of 5,0
+heart failure with preserved ejection fraction,0
+hypertension,0
+presented to emergency room,0
+weakness,0
+decreased oral intake,0
+mild cough,0
+started dabigatran etexilate 150 mg twice-daily,-3600
+increased lower extremity edema,-168
+atrial fibrillation with rapid ventricular response (120 bpm),-168
+serum creatinine 1.20 mg/dL,-168
+eGFR 57 mL/min/1.73 m²,-168
+verapamil dose increased,-168
+metoprolol dose increased,-168
+furosemide dose increased,-168
+fell,-48
+vomited three times,0
+last dose of dabigatran,-48
+axillary temperature 95.7°F,0
+blood pressure 102/48 mmHg,0
+ventricular rate 36 bpm,0
+oxygen saturation 96% on 2 L/min,0
+jugular venous distension,0
+hepatojugular reflux,0
+bibasilar crackles,0
+bradycardic irregular rhythm,0
+III/VI systolic murmur,0
+3+ pitting edema,0
+administered 2 L IV normal saline,0
+administered 1 mg IV glucagon,0
+right lower lobe infiltrate,0
+initiated ceftriaxone,0
+initiated levofloxacin,0
+acute renal failure,0
+hepatic dysfunction,0
+septic shock,0
+pneumonia,0
+electrolyte disturbances,0
+elevated serum lactate,0
+profound coagulopathy,0
+received IV insulin,0
+received IV dextrose,0
+received IV calcium gluconate,0
+received IV sodium bicarbonate,0
+no acute hemorrhage,0
+no fracture,0
+admitted to cardiac intensive care unit,0
+heart rate 48 bpm,0
+blood pressure 90/50 mmHg,0
+worsening hypoxia,0
+placed on high flow nasal cannula,0
+acute unresponsiveness,0
+loss of palpable pulses,0
+progressive bradycardia,0
+chest compressions,0
+return of spontaneous circulation,0
+intubated,0
+mechanical ventilation,0
+no active bleeding,0
+hematocrit 43.5%,0
+received 4.5 L IV normal saline,24
+hematocrit nadir 33.9%,24
+reversal strategy initiated,0
+administered 4 units FFP,24
+administered 15 mg vitamin K,24
+"administered 5,020 IU PCC",24
+PT peaked,24
+PTT peaked,24
+thrombin time >150 s,24
+diluted TT 125.0 s,24
+hepatic transaminases peaked,24
+"ALT 4,590 U/L",24
+"AST 4,965 U/L",24
+Cr 3.07 mg/dL,24
+eGFR ≤20 mL/min/1.73 m²,24
+stabilized in ICU,168
+extubated,120
+no signs of bleeding,0
+discharged home,456
+INR 1.8,120
+PTT 46.9 s,120
+started unfractionated heparin,120
+started warfarin,168
+Cr 0.70 mg/dL,456
+eGFR ≥60 mL/min/1.73 m²,456
+PTT 41.3 s,456
+INR 1.8 on warfarin,456
+ALT 271 U/L,240
+AST 32 U/L,240

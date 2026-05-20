@@ -1,0 +1,82 @@
+event,time
+26 years old,0
+male,0
+admitted to the hospital,0
+restrictive subaortic VSD,-6480
+mild pulmonary hypertension,-6480
+hypochromic anemia,-6480
+fatigue,-6480
+effort limitation,-6480
+exertional dyspnea,-4320
+ascites,-4320
+persistent inflammatory syndrome,-4320
+weight loss of 20 kg,-4320
+"increased WBC >20,000/mm³",0
+C-reactive protein =76 mg/L,0
+procalcitonin =0.77 ng/mL,0
+anemia,0
+thrombocytopenia,0
+IE with mobile vegetations,0
+severe regurgitation of aortic valve,0
+severe regurgitation of tricuspid valve,0
+severe regurgitation of pulmonary valve,0
+aortic annulus abscess,0
+restrictive VSD,0
+severely dilated left ventricle (71/58 mm),0
+dilated right ventricle (45 mm),0
+severe biventricular dysfunction,0
+LVEF =25%,0
+TAPSE =11 mm,0
+severe PHT (70% of SBP),0
+septic shock,24
+multiple organ dysfunction syndrome,24
+hypotensive (60 mmHg),24
+hypoxemic (92% O2 saturation),24
+severe metabolic acidosis (pH 7.09),24
+lactate =10.5 mmol/L,24
+oliguria,24
+neurologic dysfunction,24
+mechanical ventilation,24
+hemodynamic support with dobutamine,24
+hemodynamic support with norepinephrine,24
+CVVHDF with CytoSorb,24
+meropenem 3×2 g/day,24
+gram-negative bacilli on blood cultures,24
+weaning of norepinephrine,168
+weaning of mechanical ventilation,168
+LVEF =30%,168
+TAPSE =16,168
+pulmonary artery pressure 50–60% of systemic,168
+dobutamine-dependent,168
+paroxysmal supraventricular tachycardia,384
+septic discharge (fever >39°C),384
+WBC increase,384
+recurrent septic shock,384
+hemodynamic deterioration,384
+lactate increase (12 mEq/L),384
+transient hepatic cytolysis,384
+oliguria,384
+electrical conversion to sinus rhythm,384
+levosimendan administration,384
+triple-valve replacement surgery,432
+aortic valve replaced with mechanical prosthesis,432
+tricuspid valve replaced with bioprosthesis,432
+pulmonary valve replaced with bioprosthesis,432
+VSD closure with bovine pericardial patch,432
+sinus rhythm recovery,432
+CPB time 234 minutes,432
+aortic cross-clamping time 126 minutes,432
+ultrafiltration with cytokine removal,432
+postoperative extubation,456
+Milrinone infusion,456
+inotrope withdrawal,528
+LVEF <35%,528
+sacubitril/valsartan treatment,528
+R. radiobacter identified in valve cultures,528
+intravenous meropenem for 4 weeks,528
+levofloxacin and co-trimoxazole post-discharge,528
+resumed work at 6 months,4032
+normally functioning valves at 6 months,4032
+improved ventricular function at 6 months,4032
+asymptomatic at 18 months,12960
+LVEF 50% at 18 months,12960

@@ -1,0 +1,89 @@
+Background
+Coronavirus disease 2019 (COVID-19), which is caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), was first reported on December 31, 2019 in a group of patients who presented with atypical pneumonia in Wuhan, Hubei province, China [1,2]. Since the first report of the disease, more than 3 million cases have been reported worldwide, with the United States as the epicenter of this pandemic, with more than 1 million confirmed cases and more than 50 000 deaths as of April 28, 2020 [3]. Studies from various countries have reported that COVID-19 is associated with rapid spread, acute respiratory distress syndrome (ARDS), saturated capacity of intensive care units, and high mortality [4,5].
+
+There are still no targeted therapeutic options available for SARS-CoV-2, and symptomatic management is the mainstay of treatment in ARDS associated with COVID-19. The mortality rate associated with ARDS is up to 45%, which is almost equal to the 50% case fatality rate reported in patients with severe COVID-19 disease requiring critical care management [6,7]. Multiple studies have found that high-dose intravenous vita-min C reduces systemic inflammation in multiple ways, including attenuation of cytokine surge, and prevents lung injury in severe sepsis and ARDS [8,9].
+
+We describe a case of COVID-19 with septic shock and ARDS who received high doses of intravenous vitamin C and was the first case to be able to be taken off of mechanical ventilation (MV) early and recover from the disease at our institute.
+
+Case Report
+A 74-year-old white woman presented to the Emergency Department with a 2-day history of low-grade fever, dry cough, and shortness of breath (SOB). She had been admitted to another hospital for an elective right total knee replacement 1 week ago, with an uneventful post-operative course. She went to the hospital in a healthy state, stayed in a private room, and denied any recent sick contacts or travel history.
+
+Upon review of systems, the patient reported pain, redness, and swelling in the right knee, which was unchanged since the surgery. The past medical history was pertinent for essential hypertension, obesity, myasthenia gravis (MG) in remission, and osteoarthritis.
+
+The physical examination revealed a body temperature of 37.3°C, blood pressure of 121/82, pulse of 87 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 87% while breathing ambient air. Lung auscultation revealed bilateral rhonchi with rales. Chest radiography (CXR) was performed, which reported patchy air space opacity in the right upper lobe suspicious for pneumonia (Figure 1). The remainder of the examination was unremarkable.
+
+A rapid nucleic acid amplification test (NAAT) for influenza A and B was negative. Given community transmission of COVID-19, a nasopharyngeal swab specimen was obtained and sent to the state laboratory for detection of SARS-CoV-2. The patient was admitted to the airborne-isolation unit following the Centers for Disease Control and Prevention (CDC) recommendations for contact, droplet, and airborne precautions [10].
+
+The patient was initially started on broad-spectrum antibiotics with cefepime and levofloxacin for pneumonia in the high-risk setting of recent hospitalization for knee surgery after drawing blood and sputum cultures along with supportive care with 2 L of supplemental oxygen. On day 3, the patient also developed mild diarrhea, generalized weakness, and fatigue. She was evaluated by Neurology and started on 1 g/kg intravenous immunoglobulin for 4 days due to mild MG exacerbation and a pending MG crises.
+
+The arterial blood gases (ABGs), complete blood count, and basic metabolic profile studies were monitored during hospitalization and are presented in Table 1. The laboratory data on day 1 showed mild absolute lymphopenia and anemia, while the ABGs revealed a pH of 7.46, pCO2 of 44.6 mmHg, pO2 of 94.7 mmHg, and bicarbonate of 31.4 mmol/L. On day 6, the creatinine kinase and lactic acid were normal, while the lactate dehydrogenase, ferritin, and interleukin-6 were elevated at 312 units per liter, 767 nanograms per milliliter, and 52 pico-grams per milliliter, respectively.
+
+On days 1 through 4 of hospitalization, the patient reported progressively increasing SOB, and the oxygen requirements increased up to 10 L high-flow nasal cannula. On day 4, the nasopharyngeal swab results came back positive for SARSCoV-2 by reverse-transcriptase polymerase chain reaction (RTPCR). The patient was started on oral hydroxychloroquine 400 mg once and started on 200 mg twice a day, along with azithromycin 500 mg once a day intravenously, zinc sulfate 220 mg 3 times a day, and oral vitamin C 1 g twice a day. The blood and sputum cultures did not grow any organisms and broad-spectrum antibiotics were discontinued.
+
+On day 6, the patient’s SOB worsened rapidly, and oxygen requirements went up to 15 L. Upon physical examination, the patient was drowsy, in moderate distress, and was unable to protect the airways. The blood pressure was 78/56 mmHg with the heart rate of 112 beats per minute, temperature 38°C, and a respiratory rate of 28 breaths per minute. The CXR revealed bilateral alveolar infiltrates due to pneumonia and interstitial edema, consistent with ARDS (Figure 2). Given her rapid deterioration, she was intubated on an emergent basis and started on pressure-regulated volume-controlled mechanical ventilation.
+
+The patient was started on norepinephrine 0.02 mcg/kg/min for septic shock and was titrated accordingly to maintain mean arterial pressure more than 65 mmHg, along with colchicine 0.6 mg twice a day to address the cytokine storm given the elevated interleukin-6 levels. On day 7 [mechanical ventilation (MV) day 2], she was started on high-dose vita-min C 11 g per 24 h as a continuous intravenous infusion. Her clinical condition started to improve slowly and norepinephrine support was stopped on MV day 4. The CXR on day 10 showed significant improvement of the pneumonia and interstitial edema (Figure 3). A spontaneous breathing trial with continuous positive airway pressure/pressure support (CPAP/PS) with the settings of positive end-expiratory pressure (PEEP) of 7 mmHg, PS above PEEP of 10 mmHg, and a fraction of inspired oxygen of 40% was successfully tolerated by the patient. The ABGs revealed a pH of 7.49 mmHg, pCO2 of 40.2 mmHg, pO2 of 77.1 mmHg, and bicarbonate of 30.2 mmol/L. Because of her remarkable clinical and radiological improvement, she was extubated to 4 L of oxygen with a nasal cannula on day 10 of illness (MV day 5). Her breathing status continued to improve in the following days, with oxygen saturation of 92% on day 16 of illness while breathing ambient air, and a CXR revealed almost complete resolution of the infiltrates (Figure 4).
+
+The patient received a total of 5 days of treatment with hydroxychloroquine and azithromycin along with 4 days of colchicine during hospitalization. High-dose vitamin C infusion and oral zinc sulfate were continued for a total of 10 days. She received inpatient physical and occupational rehabilitation after being transferred from the Critical Care Unit to an isolation room. She still positive by RT-PCR for SARS-CoV-2 on day 16 of illness and was discharged from the hospital in stable condition with an additional 14 days of quarantine.
+
+Discussion
+SARS-CoV-2 continues to spread across the world causing severe illness in the form of septic shock, multiorgan failure, ARDS, and death. The virus was first named 2019-nCoV when the initial cases of atypical pneumonia in China were found to be associated with a novel coronavirus [2]. It was later named SARS-CoV-2 as it was found to cause ARDS, requiring high-support mechanical ventilation and associated high mortality [4,5]. Thus far, there are no specific targeted therapies with proven efficacy available for the treatment of critically ill patients with ARDS. In our case, the patient was treated with high-dose vita-min C as a continuous intravenous infusion and was the first COVID-19 patient to be able to be taken off mechanical ventilation early and recover from the disease at our institution.
+
+Many decades of research have shown that vitamin C is an essential component of the immune cell function and has a critical role in a variety of immune system mechanisms [11]. Patients with vitamin C deficiency can develop fatal scurvy and are highly susceptible to a variety of infections, including pneumonia [12]. Vitamin C enhances neutrophil motility, phagocytosis, microbial killing by activating reactive oxygen species, and apoptosis, and prevents oxidative damage by its antioxidant properties [13]. It also promotes B and T lymphocytes proliferation and antibody production [14].
+
+Recent data have shown that vitamin C also prevents the production of pro-inflammatory cytokines, including IL-6, which causes lung injury and leads to ARDS; this is a component of the cytokine release syndrome that is observed in critically ill COVID-19 patients [15]. The attenuation of these immune functions by microorganisms leads to a severe inflammatory state and tissue necrosis resulting in multiorgan failure and ARDS, requiring mechanical ventilation and ICU care. Various studies have shown that up to 75% of critically ill COVID-19 patients require invasive mechanical ventilation in the ICU [16,17].
+
+A recent meta-analysis of multiple trials showed that vitamin C reduces the duration of mechanical ventilation and the length of ICU stay in patients with severe sepsis and ARDS [18]. This finding was also confirmed recently in a randomized clinical trial by Fowler et al. involving 167 patients with sepsis and ARDS who received high-dose intravenous vitamin C up to 15 g per day and showed significant improvement in 28-day mortality and shortened duration of ICU stay [19].
+
+Based on the above data, vitamin C has been increasingly used recently in the treatment of COVID-19 disease, and Peng et al., from Wuhan University, initiated a phase II trial to study the efficacy of vitamin C infusion in the treatment of ARDS associated with SARS-CoV-2, in which patients receive 24 g of intravenous vitamin C per day for a total of 7 days [20]. Vitamin C infusion was not part of the treatment for COVID-19 at our institute as it has not been approved as a standard treatment for SARS-CoV-2. The present patient received high-dose vita-min C infusion due to family request after the development of ARDS and MV initiation.
+
+According to a study by Bhatraju et al., who investigated COVID-19 in critically ill patients in the Seattle region, the median length of ICU stay and duration of MV were 14 and 10 days, respectively [16]. In our case, the length of ICU stay and duration of MV were only 6 and 5 days, respectively. Our case was also the first to be able to be taken off of MV early in our COVID-19 ICU unit and to recover from the disease at our institute. The length of ICU stay and duration of MV in the present patient were also lower than in COVID-19 patients who did not receive vitamin C infusion at our institute. The rest of the hospital course of our case was uneventful and the patient was discharged home in stable condition.
+
+Conclusions
+Vitamin C is a pivotal component of the immune system, with proven antioxidant and anti-inflammatory properties and has been tested in numerous studies for its role in severe sepsis and ICU care, especially when used as a continuous high-dose intravenous infusion. High-dose intravenous vitamin C treatment in our case was associated with fewer days on mechanical ventilation, shorter ICU stay, and earlier recovery compared to the average length of mechanical ventilation, disease duration, and ICU stay in critical COVID-19 patients at our institute. Our results show the importance of further investigation of intravenous vitamin C in the form of randomized controlled trials for the treatment of SARS-CoV-2 to accurately assess its efficacy in critically ill COVID-19 patients requiring mechanical ventilation and ICU care.
+
+We thank all the Intensive Care Units (ICU) critical care nurses at McLaren-Flint/Michigan State University Hospital for their untiring efforts in taking care of our patient during this difficult period of the pandemic.
+
+Figure 1. Anteroposterior chest radiograph on day 1 revealed patchy air space opacity in the right upper lobe, suspicious for pneumonia.
+
+Figure 2. Anteroposterior chest radiograph on day 6 revealed bilateral alveolar infiltrates due to pneumonia and interstitial edema consistent with ARDS.
+
+Figure 3. Anteroposterior chest radiograph on day 10 showed significant improved of the bilateral infiltrates and interstitial edema.
+
+Figure 4. Anteroposterior chest radiograph on day 16 revealed nearly complete resolution of the infiltrates and interstitial edema.
+
+Table 1. Laboratory data showing various markers and their trends on hospital days 1, 6, 10, and 16.
+
+Measure	Reference range	Day 1	Day 6	Day 10	Day 16	
+White cell count	4.5–11×103/µL	8.60	6.97	5.93	4.75	
+Red cell count	4.25–5.49×106/µL	3.36	3.22	3.05	3.03	
+Hemoglobin	12–15.7 g/dL	9.5	9.0L	8.3	8.3	
+Hematocrit	34.9–46.9%	30.2	29.8	27.7	27.3	
+Platelet count	140–440×103/µL	323	322	346	379	
+Glucose	70–105 mg/dL	116	94	106	100	
+Blood urea nitrogen	7–22 mg/dL	15	31	17	9	
+Serum creatinine	0.5–1.5 mg/dL	0.77	1.16	0.66	0.63	
+Sodium	134–145 mmol/L	132	140	142	138	
+Potassium	3.5–5.1 mmol/L	3.2	4.4	3.8	4.0	
+Chloride	98–112 mmol/L	94	101	103	104	
+Carbon dioxide	24–30 mmol/liter	26	29	26	28	
+pH arterial	7.35–7.45	7.465	7.355	7.493	–	
+pCO2 arterial	35–45 mmHg	44.6	52.1	40.2	–	
+pO2 arterial	80–100 mmHg	94.7	167.7	77.1	–	
+Bicarbonate arterial	22–26 mmol/L	31.4	30.4	30.2	–	
+Total protein	6–8 g/dL	–	7.4	–	–	
+Albumin	3.5–5.0 g/dL	–	1.9	–	–	
+Total bilirubin	0.2–1.3 mg/dL	–	0.5	–	–	
+Alanine aminotransferase	7–56 U/L	–	18	–	–	
+Aspartate aminotransferase	8–40 U/L	–	37	–	–	
+Alkaline phosphatase	39–117 U/L	–	106	–	–	
+Total creatine kinase	35–230 U/L	–	50	–	–	
+Ferritin	10–291 ng/mL	–	767.2	–	–	
+Fibrinogen	200–400 mg/dL	–	488	–	–	
+Venous lactic acid	0.5–2.0 mmol/L	–	1.3	–	–	
+Lactate dehydrogenase	100–225 U/L	–	312	–	–	
+Procalcitonin	0.02–0.09 ng/mL	–	0.06	–	–	
+Interleukin-6	<5 pg/mL	–	52	–	–	
+Prothrombin time	9.5–12 seconds	10.2	–	–	–	
+International normalized ratio	0.88–1.11	0.99	–	–	–	
+Partial thromboplastin time	23–31 seconds	27.3

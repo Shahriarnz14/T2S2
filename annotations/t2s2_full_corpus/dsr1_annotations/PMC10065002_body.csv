@@ -1,0 +1,55 @@
+event,time
+38-week gestational age,0\
+female,0\
+birth weight 3.2 kg,0\
+born via cesarean section,0\
+breech presentation,0\
+"signs of respiratory distress (tachypnea, fever, feeding refusal)",-240\
+admitted to peripheral hospital NICU,-216\
+fever,-216\
+respiratory distress,-216\
+provisional diagnosis of pneumonia,0\
+provisional diagnosis of septicemia,0\
+left lung consolidation,0\
+right lung cysts,0\
+treated with oxygen therapy,0\
+treated with intravenous antibiotics,0\
+chest X-ray performed on day 7 of admission (peripheral hospital),-144\
+aggravating cystic lesions in right lung,-144\
+referred to our hospital,-144\
+admitted to our NICU,0\
+mild respiratory distress,0\
+family members COVID-19-positive in previous month,0\
+nasopharyngeal swab for SARS-CoV-2 RNA PCR performed,0\
+positive SARS-CoV-2 PCR result,24\
+tachypnea (72 breaths/min),0\
+subcostal/intercostal retractions,0\
+absent breath sounds on right chest,0\
+heart sounds better audible on right side,0\
+normal white blood cell count,0\
+Hb 13 gm/dL,0\
+blood gas pH 7.25,0\
+pO2 55,0\
+bicarbonate 18,0\
+base deficit 4,0\
+pCO2 55,0\
+O2 saturation 90-95% with nasal cannula,0\
+chest X-ray left lung opacities/consolidation,0\
+chest X-ray right cystic lesions,0\
+chest CT suggested CPAM,0\
+echocardiogram normal,0\
+blood culture sterile,0\
+multidisciplinary team discussion held,0\
+decision to monitor closely,0\
+indication for surgical resection if no improvement,0\
+low-flow nasal oxygen (FiO2 50%),0\
+intravenous antibiotics continued,0\
+clinical improvement after 7 days,168\
+oxygen therapy discontinued,168\
+respiratory distress resolved,168\
+normal feeding resumed,168\
+discharged,168\
+outpatient follow-up after 8 weeks,168\
+control chest CT after 8 weeks,168\
+complete resolution of cystic lesions,168\
+post-pneumonia healing changes,168

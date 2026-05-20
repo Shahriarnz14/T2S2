@@ -1,0 +1,103 @@
+event,time
+64 years old,0
+female,0
+admitted to the hospital,0
+referred to hepatobiliary surgery department,0
+severe sepsis,-variable*
+liver abscess,-variable*
+conservative treatment with IV antibiotics,-variable*
+foreign body migration suspected,-variable*
+transferred to current hospital,-variable†
+past medical history: well-controlled hypertension,0
+mild pain in right upper quadrant,0
+discomfort in right upper quadrant and flank,0
+denies foreign body ingestion,0
+denies recent trauma,0
+normal white blood cell count,0
+elevated C-reactive protein (48 mg/dL),0
+low haemoglobin (9.2 g/dL),0
+low hematocrit (24%),0
+elevated AST (45.4 IU/L),0
+elevated ALT (49.5 IU/L),0
+CT scan showing hypodense area (3x4 cm) in liver,-variable‡
+linear hyperdense feature adjacent to hypodense area,-variable‡
+abdominal ultrasonography showing elongated hyperechoic structure,-variable‡
+scheduled for selective laparotomy,0
+subcostal incision with midline extension,+0
+intraoperative finding: scar on segment V,+0
+loose adhesions between duodenum and liver,+0
+intraoperative ultrasound scan,+0
+5 cm liver capsule incision,+0
+finger fracture technique used,+0
+toothpick (5.5 cm) found embedded in liver,+0
+abdomen closed without drains,+0
+two-day hospital stay post-surgery,+48
+discharged uneventfully,+48
+64 years old,0
+female,0
+admitted to the hospital,0
+referred to hepatobiliary surgery department,0
+severe sepsis,-24
+liver abscess,-24
+conservative treatment with IV antibiotics,-24
+foreign body migration suspected,-24
+transferred to current hospital,-12
+past medical history: well-controlled hypertension,0
+mild pain in right upper quadrant,0
+discomfort in right upper quadrant and flank,0
+denies foreign body ingestion,0
+denies recent trauma,0
+normal white blood cell count,0
+elevated C-reactive protein (48 mg/dL),0
+low haemoglobin (9.2 g/dL),0
+low hematocrit (24%),0
+elevated AST (45.4 IU/L),0
+elevated ALT (49.5 IU/L),0
+CT scan showing hypodense area (3x4 cm) in liver,-12
+linear hyperdense feature adjacent to hypodense area,-12
+abdominal ultrasonography showing elongated hyperechoic structure,-12
+scheduled for selective laparotomy,0
+subcostal incision with midline extension,+0
+intraoperative finding: scar on segment V,+0
+loose adhesions between duodenum and liver,+0
+intraoperative ultrasound scan,+0
+5 cm liver capsule incision,+0
+finger fracture technique used,+0
+toothpick (5.5 cm) found embedded in liver,+0
+abdomen closed without drains,+0
+two-day hospital stay post-surgery,+48
+discharged uneventfully,+48
+64 years old,0
+female,0
+admitted to the hospital,0
+referred to hepatobiliary surgery department,0
+severe sepsis,-24
+liver abscess,-24
+conservative treatment with IV antibiotics,-24
+foreign body migration suspected,-24
+transferred to current hospital,-12
+past medical history: well-controlled hypertension,0
+mild pain in right upper quadrant,0
+discomfort in right upper quadrant and flank,0
+denies foreign body ingestion,0
+denies recent trauma,0
+normal white blood cell count,0
+elevated C-reactive protein,0
+low haemoglobin,0
+low hematocrit,0
+elevated AST,0
+elevated ALT,0
+CT scan showing hypodense area in liver,-12
+linear hyperdense feature adjacent to hypodense area,-12
+abdominal ultrasonography showing elongated hyperechoic structure,-12
+scheduled for selective laparotomy,0
+subcostal incision with midline extension,0
+intraoperative finding: scar on segment V,0
+loose adhesions between duodenum and liver,0
+intraoperative ultrasound scan,0
+liver capsule incision,0
+finger fracture technique used,0
+toothpick found embedded in liver,0
+abdomen closed without drains,0
+two-day hospital stay post-surgery,48
+discharged uneventfully,48

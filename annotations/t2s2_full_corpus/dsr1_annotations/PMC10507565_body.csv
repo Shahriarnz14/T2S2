@@ -1,0 +1,73 @@
+event,time
+27 years old,0
+male,0
+admitted to emergency department,0
+recurrent fever,-1440
+fatigue,-1440
+unconsciousness,-24
+high temperature 40.0°C,-1440
+chest CT showed bilateral lung infection,-1008
+WBC 14.63 ×10⁹/L,-1008
+RBC 3.35 ×10¹²/L,-1008
+hemoglobin 107.00 g/L,-1008
+platelet count 98 ×10⁹/L,-1008
+CRP 47.63 mg/L,-1008
+refused admission,-1008
+prescribed moxifloxacin 0.4 g daily,-1008
+outpatient follow-up,-1008
+temperature 38.5°C,0
+pulse rate 129 beats/min,0
+respiratory rate 42 breaths/min,0
+oxygen saturation 65%,0
+blood pressure 85/55 mmHg,0
+blood pressure increased with norepinephrine,0
+intubation,0
+mechanical ventilation,0
+shallow breathing,0
+moist crackles,0
+WBC 34.45 ×10⁹/L,0
+CRP 80.78 mg/L,0
+hemoglobin 90.00 g/L,0
+platelet count 80.78 ×10⁹/L,0
+RBC 3.36 ×10¹²/L,0
+MCV 120.1 fL,0
+MCH 40.8 pg,0
+ESR 106 mm/h,0
+ferritin >1500.00 ng/mL,0
+chest CT showed severe pneumonia,0
+B-mode ultrasonography no abnormalities,0
+severe pneumonia diagnosis,0
+sputum mNGS,0
+Epstein-Barr virus detected,0
+Mycobacterium kansasii detected,0
+chromosome 8 duplication,0
+alveolar lavage fluid mNGS,48
+Cordyceps portugal detected,48
+bone marrow aspiration,48
+infection in bone marrow,48
+trisomy 8 confirmed,48
+no leukemia,48
+blood cultures Candida Portugal,48
+severe pneumonia,0
+respiratory failure,0
+septic shock,0
+anemia,0
+thrombocytopenia,0
+trisomy 8,48
+moxifloxacin 0.4 g daily,-1008
+imipenem,0
+vancomycin,0
+ambroxol,0
+omeprazole,0
+enteral nutrition,0
+vancomycin discontinued,72
+fluconazole 0.4 g daily,120
+methylprednisolone 500 mg daily,168
+imipenem discontinued,240
+piperacillin-tazobactam 4.5 g 8 hly,240
+methylprednisolone 250 mg daily,240
+extubation,288
+methylprednisolone 120 mg daily,312
+methylprednisolone 60 mg daily,384
+transferred to respiratory medicine,408
+discharged,552

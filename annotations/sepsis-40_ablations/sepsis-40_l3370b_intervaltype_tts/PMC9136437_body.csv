@@ -1,0 +1,43 @@
+event,time
+female,0
+59 years old,0
+liver cancer,-672
+transarterial embolization,-392
+sorafenib,-168
+dizziness,-56
+skin ulcers,-56
+radiation therapy,-14
+liver transplantation,0
+hepatitis B,0
+entecavir,0
+HBV serology test,0
+immunosuppressive drugs,24
+steroids,24
+tacrolimus,24
+acute renal failure,24
+hematoma,24
+hepatitis B immunoglobulin,24
+fever,240
+rash,408
+procalcitonin,240
+blood cultures,312
+cytomegalovirus,312
+Epstein-Barr virus,312
+sirolimus,408
+mycophenolate mofetil,408
+Acinetobacter baumannii,432
+methicillin-resistant Staphylococcus aureus,432
+erythematous macules,456
+papules,456
+bone marrow suppression,456
+white blood cell count,456
+platelet count,456
+hemoglobin,456
+gamma globulin,456
+skin biopsy,504
+FISH analysis,504
+donor lymphocytes,504
+immunoglobin M,504
+septic shock,552
+multiple organ dysfunction syndrome,552
+death,552

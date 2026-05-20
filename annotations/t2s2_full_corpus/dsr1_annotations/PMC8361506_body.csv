@@ -1,0 +1,88 @@
+event,time
+53 years old,0
+African American,0
+female,0
+hypertension,0
+diabetes mellitus type 2,0
+presented to emergency department,0
+altered mental status,0
+feeling unwell,-72
+altered mentation,0
+dyspnea,0
+temperature 36.6 °C,0
+heart rate 112 bpm,0
+blood pressure 140/72 mmHg,0
+respiratory rate 28 breaths/min,0
+oxygen saturation 96%,0
+confused,0
+agitated,0
+tachypneic,0
+tachycardic,0
+leukocytosis,0
+white blood cell count 19.9 × 10^9/L,0
+absolute neutrophils 89.3%,0
+platelet count 507 × 10^9/L,0
+sodium 131 mmol/L,0
+potassium 6.2 mmol/L,0
+chloride 104 mmol/L,0
+total CO2 6,0
+glucose >38.8 mmol/L,0
+BUN 25 mmol/L,0
+creatinine 362.5 µmol/L,0
+high anion gap 28,0
+acetone large,0
+high anion gap metabolic acidosis,0
+compensatory respiratory alkalosis,0
+CT head without contrast unremarkable,0
+intravenous fluids,0
+insulin infusion,0
+transferred to ICU,0
+DKA resolved,72
+altered mentation improved,72
+renal function worsened,72
+BUN increased,72
+serum creatinine increased,72
+oliguric,72
+Udall catheter placed,72
+creatinine 88 µmol/L,-1440
+BUN 3.6 mmol/L,-1440
+febrile,72
+Tmax 39.1 °C,72
+tachycardic,72
+septic workup,72
+empiric broad-spectrum antibiotics,72
+antipyretics,72
+blood cultures grew K pneumoniae,72
+CT abdomen/pelvis with oral contrast,72
+hepatic lesions,72
+splenic hyperattenuation,72
+MRI abdomen/pelvis,72
+8 hepatic lesions,72
+hepatic abscess,72
+splenic abscesses,72
+piperacillin/tazobactam,72
+ceftriaxone,72
+metronidazole,72
+percutaneous drainage hepatic abscess,72
+pus grew K pneumoniae,72
+repeat blood cultures negative,120
+renal function stabilized,120
+dialysis discontinued,120
+repeat CT abdomen/pelvis,120
+worsening splenic lesions,120
+perisplenic fluid,120
+percutaneous drainage splenic abscesses,120
+acute right femoral vein DVT,120
+popliteal vein DVT,120
+peroneal vein DVT,120
+high-range heparin infusion,120
+heparin discontinued,144
+hemoglobin decline,144
+inferior vena cava filter inserted,144
+colonoscopy,144
+15-mm cecal polyp,144
+nonbleeding hemorrhoids,144
+hemoglobin stabilized,168
+blood transfusions,168
+discharged,408
+6-week antibiotic course,408

@@ -1,0 +1,108 @@
+event,time
+85 years old,0
+man,0
+farmer,0
+active lifestyle,0
+atrial fibrillation,0
+benign prostatic hypertrophy,0
+admitted to local hospital,-1440
+leg injury,-1440
+trismus,-1440
+hypertonia,-1440
+C. tetani infection,-1440
+immunoglobulins,-1440
+tetanus vaccination,-1440
+metronidazole,-1440
+transferred to ICU,-1440
+tracheostomy,-1440
+mechanical ventilation,-1440
+vasoactive support,-1440
+respiratory failure,-1440
+seizures,-1440
+baclofen,-1440
+midazolam,-1440
+diazepam,-1440
+severely slow cerebral activity,-1440
+worsening respiratory function,-1440
+opacity on chest radiography,-1440
+peripheral leukocytosis,-1440
+ventilator-associated pneumonia,-1440
+blood cultures,-1440
+tracheal secretion samples,-1440
+Klebsiella pneumoniae,-1440
+MSSA,-1440
+piperacillin-tazobactam,-1440
+moved to geriatric unit,-1440
+coma,-1440
+supplemental oxygen,-1440
+antibiotic therapy switched to linezolid,-1344
+VAP exacerbation,-1344
+meropenem,-1344
+septic shock,-1344
+gradually awoke,-1344
+feeding tube removed,-1344
+cholestasis,-1344
+acute edematous pancreatitis,-1344
+postponed endoscopic treatment,-1344
+urinary tract infection,-1344
+K. pneumoniae,-1344
+Acinetobacter baumannii,-1344
+Enterococcus faecalis,-1344
+colistin,-1344
+amoxicillin-clavulanate,-1344
+clinical condition improved,-1344
+transferred to rehabilitation unit,0
+MDRO isolation,0
+tracheal supplemental oxygen,0
+bladder catheter,0
+pressure ulcers,0
+right heel unstageable,0
+left heel stage II,0
+sacrum stage II,0
+right elbow stage III,0
+sarcopenic,0
+low handgrip strength,0
+low ASM,0
+rehabilitation,0
+Clostridioides difficile infection,24
+oral vancomycin,24
+AF with third-degree AV block,72
+transferred to cardiac ICU,72
+pacemaker implantation,72
+hyperkinetic delirium,72
+transferred back to hospital,120
+P. aeruginosa bloodstream infection,120
+ceftazidime-avibactam,120
+amikacin,120
+SARS-CoV-2 positive,144
+remdesivir,144
+droplet isolation,144
+recurrence of C. difficile,168
+transferred to geriatric unit,168
+fidaxomicin,168
+completed C. difficile treatment,336
+bloodstream infection,360
+Candida parapsilosis,360
+fluconazole-resistant,360
+MSSA,360
+Candida tropicalis,360
+intravenous catheter replaced,360
+caspofungin,360
+cefazolin,360
+P. aeruginosa bloodstream infection,528
+piperacillin-tazobactam,528
+aztreonam,528
+ceftazidime-avibactam,528
+cefepime,576
+tracheostomy closure,720
+nutritional supplementation,720
+motor reconditioning,720
+respiratory reconditioning,720
+discharge,720
+postural transition with assistance,720
+motor deficit,720
+wheelchair recommended,720
+walker recommended,720
+rehabilitation follow-up,720
+ENT follow-up,720
+geriatric follow-up,720

@@ -1,0 +1,39 @@
+event,time
+Fever,-7
+Body ache,-7
+Throat pain,-7
+Decreased oral intake,-7
+Infusion of 1500 ml of normal saline,-7
+Shift to medical intensive care unit,-7
+Broad-spectrum antibiotic and inotropic support started,-7
+"Negative test results for dengue, typhoid, malaria, and leptospira",-7
+Kidney function tests (KFTs) and liver function tests (LFTs) highly deranged,-7
+Hematology consultation,-7
+"Pancytopenia, coagulation disturbance, and organomegaly (hepatospenomegaly)",-7
+Suspected HLH,-7
+Further investigations for HLH,-7
+Bone marrow biopsy,-7
+Intubation,-6
+IV methylprednisolone pulse and TPE started,-6
+Laboratory results in favor of HLH,-6
+"LFT, KFT, and coagulation profile grossly deranged",-6
+Hemophagocytosis in the bone marrow,-6
+Three sessions of TPE,0
+Clinical condition improved,0
+Switch to IV dexamethasone as maintenance treatment,0
+TPE procedures done aggressively on 3 consecutive days,0
+Written consent taken from the father,0
+Benefits and risks of TPE explained to the father,0
+First TPE procedure,0
+Use of FFP as replacement fluid,0
+Peripheral femoral line used for TPE,0
+Aseptic precautions taken during plasma exchange procedures,0
+Second TPE procedure,1
+Third TPE procedure,2
+Extubation,2
+Blood transfusion of 2 units of packed red cells,2-3
+Blood transfusion of 18 units of FFP,2-3
+Blood transfusion of 4 units of single donor platelet concentrates,2-3
+Blood transfusion of 24 units of cryoprecipitate,2-3
+Discharged from hospital,16
+"Hematological, biochemical, and coagulation parameters within normal range",16

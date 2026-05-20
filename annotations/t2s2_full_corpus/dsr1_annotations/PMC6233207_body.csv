@@ -1,0 +1,102 @@
+event,time
+62 years old,0
+male,0
+COPD,0
+tobacco abuse,0
+45 pack-year smoking history,0
+former alcoholism,0
+hypertension,0
+admitted to the hospital,0
+bloating,0
+abdominal pain,-96
+elevated total bilirubin,0
+elevated alkaline phosphatase,0
+elevated AST,0
+elevated ALT,0
+epigastric pain,-96
+acetaminophen use,-96
+bilateral leg swelling,-96
+no dyspnea,0
+no chest pain,0
+no urinary retention,0
+no urinary frequency,0
+no headache,0
+no fever,0
+no night sweats,0
+leukocytosis,0
+normocytic anemia,0
+hemoglobin 12.3g/dL,0
+lipase >4000 U/L,0
+lactate 1.7 mmol/L,0
+CRP 25.3 mg/dL,0
+troponin <0.012 ng/mL,0
+PTT 27.9 sec,0
+PT 15.1 sec,0
+INR 1.31,0
+clear urinalysis,0
+chest x-ray mass,0
+CT abdomen findings,0
+hepatomegaly,0
+hypoattenuating liver nodules,0
+adrenal nodular enlargement,0
+lymphadenopathy,0
+no deep vein thrombosis,0
+cholelithiasis,0
+liver biopsy,24
+CT chest findings,24
+left upper lobe tumor,24
+brain MRI metastases,24
+palliative radiation to brain,48
+small cell lung cancer diagnosis,48
+port placement,48
+carboplatin,48
+etoposide,48
+IV furosemide,48
+acute kidney injury,48
+hydration,48
+worsening leukocytosis,72
+post-obstructive pneumonia,72
+lethargy,72
+hypotension,72
+hypoxic respiratory failure,72
+pO2 65,72
+ICU transfer,72
+chest x-ray mild congestion,72
+septic shock,72
+tachycardia,72
+systolic blood pressure 80s,72
+Levophed,72
+colloid administration,72
+levofloxacin,72
+meropenem,72
+renal failure,96
+intubation,96
+norepinephrine,96
+vasopressin,96
+bronchoscopy,96
+Enterobacter aerogenes culture,96
+negative blood cultures,96
+sinus tachycardia,120
+supraventricular tachycardia,120
+cardiogenic shock suspicion,120
+echocardiogram,120
+troponin 1.36 ng/mL,120
+troponin 2.48 ng/mL,120
+fever 40.3°C,120
+type I Brugada wave,120
+heparin drip,120
+antiplatelet therapy,120
+hyperdynamic left ventricle,120
+right heart dilatation,120
+elevated right ventricular systolic pressure,120
+vasopressor improvement,144
+defervescence,144
+sinus rhythm,144
+Brugada wave resolution,144
+extubation,144
+bilevel positive airway pressure,144
+anuria,144
+dialysis,144
+lethargy,168
+comfort care,168
+death,168

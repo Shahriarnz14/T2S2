@@ -1,0 +1,83 @@
+event,time
+43 years old,0
+man,0
+presented to hospital,0
+cough,-168
+high fever,-168
+anosmia,-168
+nasopharyngeal PCR swab positive for SARS-CoV-2,0
+gout,0
+hypertension,0
+"chronic kidney disease (CKD-3, eGFR 55)",0
+prior unprovoked lower limb venous thromboembolism (VTE),-87600
+lupus anticoagulant (LAC) positive,-87600
+declined anticoagulation,-87600
+admitted to intensive care,0
+intubation for respiratory failure,24
+commencement on dual vasopressors,24
+norepinephrine max 0.28 mcg/kg/min,24
+vasopressin max 0.03 units/min,24
+continuous renal replacement therapy,24
+COVID-19 acute respiratory distress syndrome (H-type CARDS),24
+prone-positioning,24
+paralysis,24
+refractory shock,24
+rapidly deteriorating CARDS,24
+high-grade fever,24
+interleukin-6 (IL-6) level >1000 pg/mL,24
+D-dimer 8.56 mcg/mL,24
+ferritin 8109 ng/mL,24
+lactate dehydrogenase 2111 U/L,24
+aspartate transaminase 1896 U/L,24
+H-score 146,24
+tocilizumab administered,48
+hydrocortisone,48
+heparin infusion started,48
+norepinephrine stopped,216
+vasopressin stopped,72
+hydrocortisone stopped,120
+high-volume diarrhoea,360
+rectal tube insertion,360
+overt lower gastrointestinal (GI) bleeding,408
+CT mesenteric angiogram (CTMA) showing arterial blush in caecum,408
+thickening of terminal ileum,408
+embolisation of culprit branch,408
+continued bleeding,432
+repeated CTMA demonstrating new active bleeding in ascending colon,432
+second embolisation,432
+colonoscopy with attempted endostasis,480
+erythematous friable ileal mucosa,480
+luminal bleeding up to 15 cm proximal to ileocecal valve,480
+colitis of caecum and ascending colon,480
+large ulcerations,480
+right-sided hemicolectomy,480
+segmental resection of terminal ileum,480
+extensive ulceration of distal 30 cm segment of terminal ileum,480
+thickened dusky wall,480
+fat encroachment,480
+mesenteric stranding,480
+three deep linear circumferential ulcers in caecum,480
+bowel wall perforation,480
+"irregular, branching, disordered crypts",480
+regenerative changes,480
+foreign material from embolisation,480
+scattered fibrin microthrombi in smaller vessels,480
+no severe ischaemic colitis,480
+no transmural lymphoid aggregates,480
+no viral inclusions,480
+no granulomas,480
+no parasites,480
+no vasculitic changes,480
+no non-steroidal anti-inflammatory drugs,0
+HIV screening negative,0
+Clostridium difficile testing negative,0
+multidrug-resistant Pseudomonas growth,0
+Candida glabrata growth,0
+acid-fast smears negative,0
+molecular testing for tuberculosis negative,0
+varicella-zoster virus PCR negative,0
+cytomegalovirus IgM negative,0
+blood PCR for cytomegalovirus negative,0
+stool PCR for SARS-CoV-2 negative,0
+stoma swab PCR for SARS-CoV-2 negative,0
+discharged,480

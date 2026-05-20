@@ -1,0 +1,81 @@
+event,time
+60-year-old,0
+female,0
+"newly diagnosed T2b, N1, M0 (Stage IIb) squamous cell carcinoma of the right lung",0
+surgical resection (pneumonectomy and mediastinal lymphadenectomy),0
+discharged home,96
+progressive dyspnea,"-120 (post-operative day 9, assuming admission at 0)"
+denies cough,-120
+denies wheezing,-120
+denies chest pain,-120
+denies fevers,-120
+transferred to institution,-120
+progressive respiratory distress,-120
+emergency intubation,-120
+admitted to intensive care unit,0
+intubated,0
+sedated,0
+hypotensive,0
+tachycardic,0
+right pneumonectomy wound healing well,0
+no evidence of infection,0
+right thorax dull to percussion,0
+absent right-sided breath sounds,0
+cardiac point of maximal impulse shifted left,0
+tracheal deviation towards left,0
+normal cardiac auscultation,0
+right lower extremity leg swelling,0
+right internal jugular central line placed,0
+central venous pressure 18 cm H2O,0
+elevated leukocytes (26.3 ×10^9/L),0
+neutrophil predominance,0
+mild normocytic anemia (hemoglobin 11.1 g/dL),0
+creatinine 1.8 mg/dL,0
+mild hyperkalemia (5.8 mmol/L),0
+elevated lactate (3.7 mmol/L),0
+undetectable troponin,0
+chest radiograph: complete right hemithorax opacification,0
+CT pulmonary angiogram: complete right hemithorax opacification,0
+left-shift of mediastinum,0
+moderate left pleural effusion,0
+no pulmonary embolus,0
+transthoracic echocardiogram: severe biatrial compression,0
+no tamponade,0
+no restrictive physiology,0
+no pericardial effusion,0
+normal right ventricular function,0
+normal left ventricular function,0
+right distal leg deep venous thrombosis,0
+urgent bedside decompressive chest tube placement (left chest),0
+milky white pleural fluid,0
+elevated triglycerides (1729 mg/dL),0
+hemodynamics improved,0
+gas exchange improved,0
+off pressors,0
+successfully extubated,0
+diagnosis of tension chylothorax,0
+lymphangiography did not identify thoracic duct leak,0
+left-sided pleural drainage <500 cc/day,48
+clinical status improved,48
+pigtail catheter placed in right chest,48
+right hemithorax irrigated daily with antibiotic solution,48
+right-sided chylothorax secondary to lymphatic leakage,0
+left-sided chylothorax secondary to mediastinal transit of chyle,0
+started on complete parenteral nutrition (CPN),0
+chest tube drainage decreased,72
+hospital day 10: chest tube fluid minimal and serous,240
+transitioned to medium chain triglyceride diet,240
+no increase in chest drain output,240
+hospital day 13: right pigtail catheter removed,312
+left chest tube removed,336
+discharged home on hospital day 17,408
+right leg deep venous thrombosis,0
+initial treatment with intravenous heparin,0
+developed pulmonary embolism,0
+heparin-induced thrombocytopenia with thrombosis,0
+alternative parenteral anticoagulation,0
+retrievable inferior vena cava filter placed,0
+discharged home on rivaroxaban,408
+four-month follow-up: tolerating regular diet,2928
+no recurrent chylothorax,2928
+completed adjuvant chemotherapy,2928

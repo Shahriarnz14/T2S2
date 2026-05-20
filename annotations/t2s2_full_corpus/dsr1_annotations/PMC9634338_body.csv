@@ -1,0 +1,90 @@
+event,time
+10-year-old,0
+boy,0
+presented to the hospital,0
+fever persisted for 7 days,-168
+impetigo,-144
+diarrhea,-24
+medical history unremarkable,0
+family history unremarkable,0
+acutely ill,0
+uncomfortable,0
+irritable,0
+unable to stand,0
+unable to converse normally,0
+heart rate 147 beats/min,0
+blood pressure 101/61 mmHg,0
+temperature 40.5°C,0
+respiratory rate 42 breaths/min,0
+oxygen saturation 100%,0
+no nuchal rigidity,0
+lung fields clear,0
+cheek erythema,0
+pharyngeal erythema,0
+impetigo on forehead,0
+impetigo on jaw,0
+abdominal tenderness,0
+swelling left elbow,0
+redness left elbow,0
+tenderness left elbow,0
+swelling left ankle,0
+redness left ankle,0
+tenderness left ankle,0
+rapid antigen detection test positive for Group A Streptococcus pharyngitis,0
+blood culture positive for Streptococcus pyogenes,0
+throat culture positive for Streptococcus pyogenes,0
+impetigo pus culture positive for Streptococcus pyogenes,0
+ampicillin MIC ≤0.06 µg/ml,0
+clindamycin MIC ≤0.12 µg/ml,0
+contrast-enhanced CT increased fat concentration around cutaneous veins left lower leg,0
+STSS diagnosis,0
+coagulopathy,0
+liver involvement,0
+generalized erythematous macular rash,0
+Group A Streptococcus isolation,0
+DIC diagnosis,0
+DIC score 6 points,0
+admitted to ICU,0
+blood pressure normal,0
+aggressive intravenous rehydration,0
+intravenous amoxicillin-sulbactam 180 mg/kg/day,0
+intravenous clindamycin 40 mg/kg/day,0
+intravenous immunoglobulins 150 mg/kg/day,0
+blood cultures negative on day 3,72
+fever persisted until day 10,240
+rhTM 380 U/kg/day,0
+antithrombin-III 30 U/kg/day,0
+general condition poor on day 2,48
+fever persisted on day 2,48
+DIC score increased to 9 points on day 2,48
+platelet count ≥30% decrease within 24 hours,48
+TAT +1 point,48
+danaparoid 2500 U/day started on day 2,48
+general condition improved after danaparoid + rhTM,48
+DIC score decreased to 4 points on day 3,72
+fibrin degradation products -1 point,72
+DIC resolved,72
+redness left lower leg worsening,72
+swelling left lower leg worsening,72
+pain left lower leg worsening,72
+contrast-enhanced CT on day 7,168
+increased fat concentration left lower leg,168
+ring-shaped contrast enhancement left popliteal vein,168
+LRINEC score 8,168
+skin biopsy,168
+spongiotic dermatitis,168
+suppurative panniculitis,168
+no soft tissue necrosis,168
+range of motion of joint not improved,216
+MRI on day 9,216
+inflammatory findings left soleus,216
+inflammatory findings left gastrocnemius,216
+inflammatory findings between muscles,216
+no arthritis,216
+no osteomyelitis,216
+condition improved gradually,216
+legs recovery sufficient for walking,480
+discharged on day 20,480
+no sequelae,480
+no medication-related adverse events,480
+no signs of disease during 4 years follow-up,35040

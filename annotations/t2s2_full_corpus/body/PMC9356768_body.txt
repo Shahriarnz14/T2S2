@@ -1,0 +1,67 @@
+pmcBackground
+
+Neonatal sepsis is a major contributing cause of neonatal morbidity and mortality. The presentation of early-onset sepsis (EOS) in the first 7 days after birth in full-term infants is variable and may include any of the following: decreased activity level and lethargy, temperature instability, hypoglycemia, respiratory distress, poor feeding, and seizures. These findings can range from subtle to severe. EOS is most often caused by group B Streptococcus ; it is followed by Escherichia coli and other streptococci. 1
+
+While other gram-negative organisms are isolated less commonly, they are also responsible for neonatal EOS and must be considered to ensure appropriate management. While EOS is typically caused by intrapartum maternal-neonatal vertical transmission, further investigation for the source of infection may be warranted when less common organisms are isolated.
+
+We present a case of an infant with EOS due to Pasteurella multocida , subspecies septica, describe our investigation, and discuss recommendations for isolation of the source of this vertically transmitted infection, with speciation confirmed by 16S ribosomal ribonucleic acid (rRNA) gene sequencing.
+
+Case Presentation
+
+The mother was a 26-year-old G1P1 who delivered at 38 0/7 weeks. She received routine prenatal care, and serologies were all negative or nonreactive. She went into spontaneous labor, and spontaneous rupture of membranes occurred 8 hours prior to delivery. The intrapartum course of labor and delivery of an appropriate for gestational age (2.92 kg) male were uncomplicated. No resuscitation was required, Apgar's scores were normal, and he was admitted for normal newborn cares.
+
+The infant developed respiratory distress with grunting 5 hours after birth. The infant was lethargic and hypoglycemic (blood glucose: 26 mg/dL). Oxygen was initiated via nasal cannula. Given concern for bacterial sepsis, intravenous (IV) access was obtained for empiric administration of ampicillin and gentamicin. Chest X-ray revealed bibasilar infiltrates, and complete blood count revealed severe leukopenia (white blood cell count: 2.3 × 10e9/L). Neonatal intensive care unit (NICU) referral was made to transport the infant for a higher level of care. The transport team intubated the infant and started fluid resuscitation given progressive respiratory failure and poor perfusion.
+
+Upon quaternary NICU admission, laboratory studies revealed lactic metabolic acidosis, leukopenia with severe neutropenia (absolute neutrophil count: 500 × 10e9/L), and thrombocytopenia (platelet count 111 × 10e9/L). There was no coagulopathy or evidence of other end organ dysfunction. Chest radiograph revealed continued infiltrates ( Fig. 1 ). At 12 hours of incubation, the blood culture grew gram-negative rods. Evaluation for other infectious foci included lumbar puncture, urinary catheterization, and tracheal aspiration. Cerebrospinal fluid analysis showed normal white blood cell count (17 cells/µL; 3% neutrophils, 2% lymphocytes, and 95% other cells), elevated red blood cell count (258 cells/µL), normal protein and glucose concentrations, and negative Gram's stain. Urinalysis was unremarkable. Tracheal aspirate showed few gram-negative rods and fewer than 25 polymorphonuclear cells.
+
+Fig. 1 Infant chest radiograph at 8 hours demonstrating multiple pulmonary opacities.
+
+The infant had persistent pulmonary hypertension and progressive septic shock with continued hypotension and poor perfusion. Infectious diseases consultation was obtained. Antibiotics were broadened to include meropenem to cover resistant gram-negative organisms and improve central nervous system penetration. The infant received fluid resuscitation, multiple vasoactive medications, and inhaled nitric oxide to improve oxygenation in the setting of persistent fetal circulation. Blood and tracheal cultures revealed P . multocida . The organism was susceptible to all agents tested: ampicillin, ceftriaxone, levofloxacin, penicillin, trimethoprim-sulfa, and azithromycin. Cerebral spinal fluid and urine cultures were both negative. After the initial positive culture, subsequent blood cultures were negative. Further history revealed multiple pets in the parents' home including two cats and one dog. Family members denied any history of bites or scratches. To evaluate more closely, the source of transmission to the neonate, maternal vaginal culture was obtained and was also positive for P . multocida . The mother did not endorse any vaginal symptoms.
+
+To confirm vertical transmission, molecular diagnostic studies were performed on the positive cultures from the patient's blood and tracheal aspirate, as well as from the maternal vaginal specimen. Initial identification as P . multocida was by matrix-assisted laser desorption ionization–time of flight (MALDI-TOF) mass spectrometry. Our Infectious Diseases Diagnostic Laboratory then performed 16S rRNA gene sequencing. The 16S rRNA gene region was amplified by polymerase chain reaction (PCR) and sequenced using an Applied Biosystems 3130 Genetic Analyzer. The final sequences for the three isolates were searched within the GenBank database using the basic local alignment search tool (BLAST) algorithm with these restrictions applied to the search: exclusion of the uncultured/environmental samples sequences and limited to sequence type material only. P . multocida , subspecies septica, was the best sequence match at 100% for all three isolates.
+
+Furthermore, to determine the similarity among the three isolates, their sequences were aligned to one another using the National Center for Biotechnology Information (NCBI) nucleotide BLAST function which showed the three separate sequences of the three bacterial isolates were a 100% match to each other for P . multocida , subspecies septica . This highly suggested neonatal EOS with pneumonia due to vertical transmission from the mother. Presumably, maternal vaginal colonization was related to pet exposure in her home. No specimens from those animals were obtained.
+
+Case Resolution
+
+The Infectious Diseases Service recommended treatment of the mother with amoxicillin-clavulanic acid for a 10-day course. They also recommended that the mother sought infectious diseases consultation with any subsequent pregnancies to consider the need for vaginal colonization testing.
+
+The infant made steady clinical progress starting 5 days after birth. The ventilator and cardiovascular support were weaned, and he was hemodynamically stable without need for respiratory support 7 days after birth. Neutropenia quickly resolved without treatment other than antibiotics. Thrombocytopenia initially worsened (nadir of 36 × 10e9/L) which was treated with one transfusion before eventual normalization. C-reactive protein levels peaked at 174 mg/L at approximately 60 hours and were followed to normalization.
+
+With clinical progress and finalized culture results, antibiotic therapy was narrowed to ceftazidime, with gentamicin used a few days for synergy. He completed a 14-day course of antibiotics from the first negative blood culture with single agent ceftazidime. The infant was discharged to home with his parents 17 days after birth. Thereafter, his infancy was without noted morbidities.
+
+Discussion
+
+Our case describes a newborn with EOS and pneumonia due to a relatively rare gram-negative organism, P . multocida , a facultatively anaerobic gram-negative coccobacillus mainly found in the oral flora of many animals. Human infection is most commonly a cellulitis following a wound inflicted by a cat or dog. Other manifestations are possible, and exposure to colonized cats and dogs is a risk factor for infection. 2 Collecting a detailed exposure history can assist in determining mode of transmission.
+
+All reports of neonatal pasteurellosis, both EOS and later onset (8–30 days), have been due to the most common species seen in human infection, P . multocida . For treatment of P. multocida , penicillin is the preferred drug treatment but some isolates may be resistant to this antibiotic. Other possible regimens include ampicillin and sulbactam; in addition, third-generation cephalosporins, such as ceftriaxone, are effective. As in our case, infants display clinical presentations seen with other causes of neonatal sepsis. Pasteurella is usually isolated from the neonate's blood and or cerebral spinal fluid and has also been implicated in pneumonia, osteomyelitis, and conjunctivitis. 3
+
+Published cases implicate multiple routes of infection for neonatal Pasteurella infections as follows: vertical (including chorioamnionitis), 3 4 animal exposure (atraumatic more often than traumatic), 3 5 horizontal, 6 7 and unclear route of transmission. 8 9 10 Some reports infer transmission route from history alone. While some reports have isolated Pasteurella in the infant plus an additional culture (e.g., maternal vaginal culture to infer vertical transmission), ours adds to only four previous reports to confirm the route via molecular diagnostic testing, 6 11 12 13 as summarized in Table 1 . Andersson and colleagues reported a case of fatal congenital pneumonia due to vertical transmission of Pasteurella confirmed by Southern blot analysis of isolates from the infant, mother, and household cat (to which the infant was unexposed). 6
+
+Table 1 Molecular epidemiology reports of neonatal Pasteurella multocida infection by age at presentation
+
+Study (year)	Infant's age	Infant's infection	Organism	Confirmed route of transmission	Source transmission	Molecular method	
+Andersson et al (1994) 6	< 12 hours	Pneumonia (nasopharynx, postmortem lung cultures)	P. multocida , subspecies septica	Vertical	Mother's cervical canal and cat's tonsil	Southern blot	
+This report (2022)	< 12 hours	Septicemia, pneumonia	P. multocida , subspecies septica	Vertical	Mother's vaginal swab	16S rRNA gene sequencing	
+Siahanidou et al (2012) 11	17 days	Meningitis, septicemia	P. multocida	Horizontal	Grandmother's nasopharynx a	PFGE b	
+Boyanton et al (2016) 12	17 days	Meningitis, septicemia	P. multocida , subspecies septica	Nontraumatic animal exposure	Cats ( n  = 2) gingiva	Repetitive sequence-based PCR b	
+Boerlin et al (2000) 13	1 month	Meningitis	P. multocida , subspecies septica	Nontraumatic animal exposure	Cat's tonsil	PFGE b	
+Abbreviations: PCR, polymerase chain reaction; PFGE, pulsed-field gel electrophoresis.
+
+a Grandmother had a pet dog, and an identical organism was isolated from dog nasopharynx.
+
+b Infant cerebrospinal fluid isolate and household cats were compared.
+
+Ours is the first report of vertical transmission via deoxyribonucleic acid (DNA) sequencing of the 16S rRNA gene of the maternal and infants' P . multocida isolates with assignment of the subspecies septica. Furthermore, our identification of the subspecies, septica is an important addition to the neonatal literature, where subspecies reports are sparse. Three subspecies of P. multocida are known as multocida, septica, and gallicida. Though reports are limited, only subspecies septica has been reported in neonatal infection. 6 12 13 Subspecies multocida has been implicated in a case of meningitis in an older infant related to traumatic animal exposure. 14 More detailed identification of the isolates and subspecies septica, in particular, will improve understanding of their virulence and pathogenesis of infection when virulence associated genes are further characterized, 15 hopefully relating how this organism and subspecies are opportunistic in the neonate's relatively immature immune system.
+
+Addition of molecular diagnostics to the literature is important to better understand its characteristics, hosts, transmission, and pathogenesis in neonatal infection. Notably, one report of neonatal sepsis and meningitis from P . multocida may have implicated a cat's positive mouth culture in atraumatic animal transmission but molecular testing showed that the infant and cat strains were different. 16
+
+Conclusion
+
+In conclusion, we present a case of neonatal P . multocida , subspecies septica, sepsis, and pneumonia with genetically confirmed vertical transmission. Unusual infections must be considered in the care of newborns with EOS. In such cases, further investigation via molecular diagnostics enhances precise microbial identification and understanding to enable best care for pregnant women and neonates.
+
+Acknowledgments
+
+The authors wish to thank staff from the Neonatal Intensive Care Unit and Microbiology Laboratory at University of Minnesota Masonic Children's Hospital for all their work, particularly in caring for this patient.
+
+Conflicts of Interest The authors declare that there are no conflicts of interest.

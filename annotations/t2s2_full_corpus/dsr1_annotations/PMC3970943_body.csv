@@ -1,0 +1,99 @@
+event,time
+60 years old,0
+Caucasian,0
+merchant ship captain,0
+admitted to the hospital,0
+headache,-24
+dizziness,-24
+disorientation,-24
+ingested isopropanol,-24
+ingested ethanol,-24
+consumed ethanol,-24
+consumed isopropanol,-24
+unremarkable clinical examination,0
+unenhanced CT scan of the brain,0
+symptomatic treatment started,0
+collapsed in the hospital,0.5
+comatose,0.5
+Glasgow Coma Scale 3/15,0.5
+hypotension,0.5
+blood pressure 80/40 mmHg,0.5
+pulse rate 65 per minute,0.5
+respiratory rate 8 per minute,0.5
+generalized hypotonia,0.5
+absent tendon reflexes,0.5
+no head trauma,0.5
+no cervical spine trauma,0.5
+intravenous fluids administered,0.5
+endotracheal intubation,0.5
+admitted to intensive care,0.5
+"leukocytosis 26,000 white blood cells per μL",0.5
+hemoglobin 15.7 g/dL,0.5
+mean corpuscular volume 93 fl,0.5
+arterial blood gas pH 6.731,0.5
+pCO2 28.2 mmHg,0.5
+pO2 141 mmHg,0.5
+bicarbonate 3.5 mmol/L,0.5
+oxygen saturation 95%,0.5
+blood urea nitrogen 9.5 mmol/L,0.5
+serum creatinine 157 μmol/L,0.5
+Na+ 141 mmol/L,0.5
+K+ 6 mmol/L,0.5
+Cl− 107 mmol/L,0.5
+HCO3 5 mmol/L,0.5
+capillary blood glucose 7.2 mmol/L,0.5
+severe metabolic acidosis,0.5
+acute renal failure,0.5
+blood lactic acid 8.7 mmol/mL,0.5
+blood ketones negative,0.5
+blood ethanol negative,0.5
+blood isopropanol level not obtained,0.5
+blood methanol level not obtained,0.5
+blood ethylene glycol level not obtained,0.5
+blood propylene glycol level not obtained,0.5
+blood diethylene glycol level not obtained,0.5
+liver enzymes normal,0.5
+serum amylase normal,0.5
+serum lipase normal,0.5
+increasing renal impairment,2
+hyperglycemia,2
+electrolyte imbalance,2
+low bicarbonate,2
+hyperkalemia,2
+follow-up arterial blood gas severe acidosis,2
+no urine culture growth,2
+no blood culture growth,2
+no urine crystals,2
+"serum pseudocholinesterase 7,438 U/L",2
+serum osmolarity 310 mOsmol/L,2
+hemodialysis,2
+acidosis improvement,2
+lactic acid level improvement,2
+norepinephrine started,2
+intravenous fluids continued,2
+fractionated plasma protein 500 mL,2
+"normal saline 2,000 mL",2
+normal saline 200 mL/hour,2
+norepinephrine dose increased to 90 μg per minute,4
+blood pressure stabilized,4
+norepinephrine weaned after 4 days,96
+unenhanced MRI brain,144
+unenhanced MRI spine,144
+cerebral cortex hyperintensities,144
+cerebellar cortex hyperintensities,144
+white matter hyperintensities,144
+basal ganglia hyperintensities,144
+thalami hyperintensities,144
+brainstem hyperintensities,144
+swollen cervical spinal cord,144
+T2-weighted hyperintensities,144
+T1-weighted hyperintensities,144
+T2*-weighted hyperintensities,144
+FLAIR hyperintensities,144
+diffusion-weighted hyperintensities,144
+cerebellar tonsillar herniation 17 mm,144
+petechial hemorrhages brainstem,144
+petechial hemorrhages gangliocapsular regions,144
+toxic brain damage,144
+toxic cervical spinal cord damage,144
+expired,240

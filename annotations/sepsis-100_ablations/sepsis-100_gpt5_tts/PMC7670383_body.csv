@@ -1,0 +1,110 @@
+event,time
+74-year-old,0
+male,0
+history of hypertension,0
+history of insulin-dependent diabetes mellitus type 2,0
+history of diabetic retinopathy,0
+referred to the surgery department,-2000
+8-kg weight loss,-2000
+iron deficiency anemia,-2000
+computed tomography displayed a tumor in the colon ascendens,-1968
+magnetic resonance imaging displayed a tumor in the colon ascendens,-1968
+3 liver metastases 15 mm,-1968
+3 liver metastases 20 mm,-1968
+3 liver metastases 65 mm,-1968
+right hemicolectomy,-1920
+low-grade pT3cN0 adenocarcinoma 60 × 70 × 50 mm,-1824
+absence of metastases in 24 excised lymph nodes,-1824
+presence of lymphovascular growth,-1824
+no vascular growth,-1824
+no perineural growth,-1824
+activated BRAF mutation in exon 15 (V600E),-1824
+loss of expression of MLH1,-1824
+loss of expression of PMS2,-1824
+mismatch repair-deficient (MMR-D)/microsatellite-instable (MSI) tumor,-1824
+pembrolizumab 200-mg intravenous flat dose initiated,-696
+symptoms of a cold,-528
+otherwise asymptomatic,-528
+leukocytosis (white blood cell count 13.49 × 10^9/L),-528
+C-reactive protein slight increase (24 mg/L),-528
+cold present,-168
+dry coughing,-168
+no fever,-168
+otherwise asymptomatic,-168
+AST increased >3× ULN,-168
+ALT increased >3× ULN,-168
+immune checkpoint inhibitor-induced hepatitis grade 2,-168
+prednisolone 50 mg once daily initiated,-168
+C-reactive protein decreased,-168
+AST decreased,-168
+white blood cells increased,-168
+neutrophils increased,-168
+planned for the second cycle of pembrolizumab,-168
+second dose of pembrolizumab not given,-168
+admitted to the hospital,0
+dyspnea,0
+myocardial infarction suspected,0
+troponin T elevated (482 ng/L),0
+echocardiography showed septal hypokinesia,0
+troponin T did not show any dynamic change over time,0
+somnolence,0
+difficulty walking,0
+dysarthria,24
+hoarseness,24
+pain in his neck,24
+pain in his right leg,24
+difficulty raising his right leg,24
+prednisolone increased to 80 mg once daily,24
+computed tomography did not show signs of stroke,24
+creatine kinase increased,24
+"myoglobin increased (1,276 μg/L)",24
+immune checkpoint inhibitor-induced myositis,24
+creatinine decreased,24
+antibodies against acetylcholine receptor present (2.6 nmol/L),24
+antibodies against titin present,24
+myasthenia gravis,24
+albumin 516 mg/L present in the cerebrospinal fluid,24
+unable to sit up,120
+pain in his neck,120
+pain in his shoulders,120
+severe dysarthria,120
+dysphagia,120
+could not attain saturation without oxygen,120
+absent reflex in biceps,120
+absent reflex in brachioradialis,120
+absent reflex in triceps,120
+absent reflex in patellar,120
+absent reflex in Achilles tendons,120
+transferred to the intensive care unit,120
+intubated,144
+suspected immunological involvement of the intercostal musculature,144
+methylprednisolone 1 g/kg initiated,144
+intravenous immunoglobulins initiated,144
+infliximab 5 mg/kg given,192
+felt better,216
+better muscle strength in his hands,216
+carbon dioxide retention,240
+noninvasive ventilation,240
+sinus bradycardia,240
+died,240
+significant stenosis of the right coronary artery,264
+no fibrosis or signs of recent myocardial infarction,264
+tongue softened,264
+no surgical complication after hemicolectomy,264
+50 × 60 mm metastasis in the right liver lobe,264
+3–4 up to 5-mm metastases in the right liver lobe,264
+pronounced myositis in intercostal musculature,264
+pronounced myositis in diaphragm,264
+pronounced myositis in cervical musculature,264
+pronounced myositis in tongue,264
+cardiac fibrosis in one area consistent with myocardial infarction,264
+cardiac inflammatory infiltrate,264
+no metastases from colorectal cancer in the liver,264
+hepatocellular cancer in the liver,264
+hepatocytes positive,264
+glypican negative,264
+CDX2 negative,264
+CK20 negative,264
+CK7 negative,264
+fibrosis stage 2–3 in porta field,264
+cause of death determined as respiratory insufficiency due to polymyositis,264

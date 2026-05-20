@@ -1,0 +1,59 @@
+event,time
+69 years old ,0
+female ,0
+admitted to the hospital ,0
+high-grade fever ,-72
+pleuritic right lower chest pain ,-72
+cough ,-72
+elevated temperature ,0
+bibasilar crackles ,0
+lower extremity edema ,0
+grade 3 holosystolic apical murmur ,0
+mitral valve regurgitation ,0
+long-term venous access port ,-2628
+anemia ,-2628
+transfusion-dependent anemia ,-2628
+hemoglobin 12.1 g/dL ,0
+white blood cell count 15.1×10^3/µL ,0
+absolute neutrophil count 13.2×10^3/µL ,0
+b-type natriuretic peptide 788 pg/mL ,0
+congestive heart failure ,0
+left bundle branch pattern ,0
+Corynebacterium CDC group G bacteremia ,0
+gram positive rods ,0
+moderate mitral valve regurgitation ,0
+thickened anterior mitral leaflet ,0
+pulmonary artery systolic pressure 84 mmHg ,0
+native valve endocarditis ,0
+vancomycin ,0
+clindamycin ,0
+discharged ,120
+readmitted ,168
+shortness of breath ,168
+hypoxia ,168
+elevated white blood cell count ,168
+severe mitral valve regurgitation ,168
+large and mobile vegetation ,168
+mitral valve replacement ,216
+coronary artery bypass grafting ,216
+oliguric acute renal failure ,240
+respiratory failure ,240
+mechanical ventilation ,240
+vancomycin resistant enterococcus ,360
+urinary tract infection ,360
+daptomycin ,360
+worsening congestive heart failure ,432
+transesophageal echocardiogram ,432
+recurrent endocarditis ,432
+doxycycline ,600
+aztreonam ,600
+anidulafungin ,600
+bioprosthetic mitral valve replacement ,624
+St. Jude’s mechanical mitral valve ,624
+limb ischemia ,696
+disseminated intravascular coagulation ,696
+multi-organ failure ,696
+expired ,696
+diphtheroids ,-1056
+pneumonia ,-1056
+levofloxacin ,-1056

@@ -1,0 +1,42 @@
+event,time
+25 years old,0
+female,0
+presented to the emergency department,-120
+returning from Ghana,-120
+no prophylactics taken,-120
+febrile,-120
+fever (104 degrees Fahrenheit),-120
+diarrhea,-120
+hypotension,-120
+blood smear positive for malaria,-120
+Plasmodium falciparum suspected,-120
+hemoglobin 15.3 g/dL,-120
+high lactate dehydrogenase (LDH 275 IU/L),-120
+discharged with doxycycline,-120
+returned to emergency department 5 days later,0
+worsening symptoms,0
+inability to tolerate oral medications,0
+chills,0
+nausea,0
+vomiting,0
+dizziness,0
+generalized malaise,0
+admitted to intensive care unit,0
+diagnosed with septic malaria,0
+diagnosed with influenza,0
+acute kidney injury,0
+creatine 2.5,0
+BUN 58,0
+lactate 3.2,0
+received intravenous artesunate,0
+hemoglobin 13.6 g/dL,0
+"thrombocytopenic (platelets 12,000)",+24
+anemic (Hgb 7.9 g/dL),+24
+received several units of blood,+24
+discharged,+168
+"hemolytic anemia (reticulocyte count 6.2%, LDH 512 U/L, hematocrit 29.1%)",+168
+weekly labs for 4 weeks,+168
+elevated reticulocyte count,+168
+elevated hemoglobin,+168
+decreased haptoglobin,+168
+decreased lactate dehydrogenate,+168

@@ -1,0 +1,63 @@
+event,time
+56 years old ,0
+male ,0
+admitted to the ICU ,0
+diagnosed with ARDS ,0
+history of diabetes mellitus ,0
+history of hypertension ,0
+history of hyperlipidemia ,0
+history of obesity ,0
+medication with angiotensin II receptor blockers and calcium channel blockers ,0
+medication with metformin and glimepiride ,0
+medication with atorvastatin ,0
+medication with inhaled fluticasone propionate/salmeterol ,0
+intermittent fever ,-14
+muscle ache ,-14
+nonproductive cough ,-7
+progressively increasing dyspnea ,-7
+received amoxicillin for 8 days ,-8
+received pristinamycin for 5 days ,-5
+heart rate 99 beats/min ,0
+respiratory rate 34 breaths/min ,0
+blood pressure 132/92 mmHg ,0
+temperature 38 °C ,0
+oxygen saturation 95% on high flow nasal oxygenation ,0
+pH 7.41 ,0
+pCO2 27.9 mmHg ,0
+pO2 87.9 mmHg ,0
+PaO2/FiO2 87.9 ,0
+"white blood-cell count 10,720 cells per mm3 ",0
+"neutrophils 8,900 cells per mm3 ",0
+"lymphocytes 1,370 cells per mm3 ",0
+lactate dehydrogenase blood level 882 U per liter ,0
+CRP 206 mg per deciliter ,0
+ferritin 556 ng per milliliter ,0
+D-Dimer 2390 ng per milliliter ,0
+interleukin-6 level 93.6 pg per milliliter ,0
+SOFA score at ICU admission 8 ,0
+diagnosed with hypoxemic respiratory failure ,0
+required mechanical ventilation ,0
+required norepinephrine ,0
+presented with diabetic ketoacidosis ,0
+required continuous insulin infusion ,0
+presented with acute kidney failure ,0
+chest CT showed multiple bilateral ground-glass opacities with a crazy paving pattern ,0
+chest CT showed 3 pulmonary nodules ,0
+nasopharyngeal swab real-time reverse-transcriptase PCR performed at the admission was positive for SARS-CoV-2 ,0
+received a 7-day course of dexamethasone (20 mg) ,2
+received 1 infusion of eculizumab (1200 mg) on day 2 ,48
+broad-spectrum antibiotic regimen was stopped upon negative tracheal aspirate BioFire® FilmArray® pneumonia plus panel on day 4 ,96
+screening for fungal infections with serum galactomannan index and serum β-D-Glucan was negative ,-6
+condition worsened with increasing vasopressor and oxygen need ,144
+tracheal aspirate showed branching hyphae on direct examination with calcofluor white ,144
+culture on Malt Extract Agar and Sabouraud Dextrose Agar with Chloramphenicol media isolated A. fumigatus ,144
+specific A. fumigatus quantitative PCR performed on tracheal aspirate was positive ,144
+bacterial culture on chocolate and blood agar media remained negative ,144
+"serum galactomannan index, serum β-D-Glucan and serum qPCR-Af were negative ",144
+transthoracic echocardiogram showed hypertrophy and dilation of the right ventricle ,144
+D-dimer level increased >20000 ng per milliliter with fibrinogen 3.85 g per liter ,144
+patient evolved unfavorably and died of a cardiac arrest suspect of massive pulmonary embolism ,168
+autopsy was prohibited due to SARS-CoV-2 infection ,168
+"antifungal susceptibility testing using EUCAST method and according to EUCAST clinical breakpoints showed the following minimal inhibitory concentrations of posaconazole, itraconazole, voriconazole and isavuconazole ",168
+DNA was extracted and cyp51A gene was sequenced as previously described ,168
+TR34/L98H mutation was identified ,168

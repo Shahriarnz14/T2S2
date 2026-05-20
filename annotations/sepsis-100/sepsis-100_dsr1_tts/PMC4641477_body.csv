@@ -1,0 +1,73 @@
+event,time
+26 years old,0
+male,0
+admitted to the hospital,0
+headache,0
+blurred vision,0
+kidney transplant,-168
+end-stage kidney disease,-288
+mycofenolate sodium,0
+methylprednisolone,0
+eGFR 35.9 mL/min/1.73 qm,0
+proteinuria 117 mg/d,0
+chronic kidney transplant disease stage 3bA1,0
+vascular rejection,-168
+chronic calcineurin-inhibitor toxicity,0
+contrast-enhancing intracerebral lesions,0
+perifocal edema,0
+dexamethasone,0
+transmitted to university department of Nephrology,24
+transmitted to department of Neurosurgery,24
+brain biopsy,24
+cerebral PTLD,24
+diffuse large B-cell lymphoma,24
+Epstein-Barr virus positive,24
+CT scan of thorax,24
+abdomen sonography,24
+bone marrow biopsy,24
+chemotherapy regime,24
+high-dose cytarabin,24
+Rituximab,24
+complete remission of PTLD,168
+eGFR 25.4 mL/min/1.73 qm,168
+CMV reactivation,336
+pneumocystis jirovecii pneumonia,336
+chemotherapy changed to Rituximab only,336
+antiviral therapy,336
+antibiotic therapy,336
+mycofenolate sodium dose tapered,336
+leukopenia,336
+infections,336
+generalized seizure,504
+cerebral MRI recurrence of PTLD,504
+HDMTX,504
+Leukovorine,504
+Rituximab,504
+vigorous hydration,504
+high-flux hemodialysis,528
+dialysis sessions,528
+MTX-level no longer measurable,576
+no acute kidney failure,576
+leucocytes nadir 1.11/nL,600
+severe CMV pneumonia,672
+E.coli pneumonia,672
+sepsis,672
+acute kidney transplant failure,672
+intensive care unit admission,672
+invasive ventilation,672
+discontinuation of mycofenolate sodium,672
+follow up cerebral MRI,744
+small regredience of PTLD,744
+septic event,744
+cerebral radiation,744
+no relevant response to radiotherapy,816
+CMV-colonization,-168
+recurrent CMV activation,-168
+posttransplant immunosuppressive therapy,-168
+impaired kidney function,0
+rituximab therapy,0
+anemia,0
+thrombocytopenia,0
+no chest pain,0
+denies chest pain,0
+no shortness of breath,0

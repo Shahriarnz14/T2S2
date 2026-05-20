@@ -1,0 +1,74 @@
+event,time
+38 years old,0
+female,0
+type 2 diabetes mellitus,0
+sulfonylurea,0
+admitted to the hospital,0
+abdominal pain,0
+polyuria,0
+polydipsia,0
+nausea,0
+vomiting,0
+blood pressure 93/53 mmHg,0
+pulse 119 beats/min,0
+respiratory rate 28 breaths/min,0
+oxygen saturation 99%,0
+temperature 97.8F,0
+Kussmaul breathing,0
+normal cardiopulmonary auscultation,0
+soft non-tender abdomen,0
+alert and oriented,0
+blood pH 6.98,0
+serum bicarbonate 5 mmol/L,0
+serum anion gap 22,0
+normal serum lactate,0
+serum glucose 506 mg/dL,0
+urinalysis positive for ketones,0
+urine pregnancy testing negative,0
+portable chest radiograph subtle prominence interstitial markings,0
+portable chest radiograph multiple ill-defined nodular opacities,0
+received 4 liters intravenous crystalloid,0
+insulin infusion started,0
+blood cultures collected,0
+admitted to ICU,0
+hypoxemic,24
+dyspneic,24
+temperature 104F,24
+declined consciousness to obtundation,24
+diffuse crackles on lung auscultation,24
+endotracheal intubation,24
+hypoxemic respiratory failure,24
+volume assist-control ventilation,24
+repeat CXR diffuse bilateral opacities,24
+PaO2 59 mmHg,24
+PaO2/FiO2 ratio 84,24
+lung-protective ventilation initiated,24
+tidal volume 350 ml,24
+PEEP 7.5 cmH2O,24
+vancomycin started,24
+piperacillin/tazobactam started,24
+blood cultures gram negative bacilli,24
+imipenem started,24
+hemodynamic deterioration,72
+high-dose norepinephrine infusion,72
+vasopressin started,72
+FiO2 100%,72
+PEEP 15 cmH2O,72
+inhaled nitric oxide therapy,72
+oxygen saturation >90%,72
+Klebsiella pneumoniae identified,72
+ceftriaxone started,72
+abdominal ultrasonography complex avascular hepatic mass-like lesion,72
+liver abscess suspected,72
+attempted drainage catheter placement,72
+pulseless electrical activity,72
+return of spontaneous circulation after 5 minutes CPR,72
+drainage insertion aborted,72
+PEA recurred multiple times,72
+resuscitative efforts aborted,72
+patient expired,72
+autopsy confirmed liver abscess,72
+diffuse lung abscess formation,72
+hyaline membranes in alveoli,72
+diffuse alveolar damage,72
+ARDS,72

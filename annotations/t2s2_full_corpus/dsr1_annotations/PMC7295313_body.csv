@@ -1,0 +1,74 @@
+event,time
+53-year-old woman,0
+necrotizing fasciitis of the right breast,0
+right chest wall,0
+right flank,0
+transferred to ICU,0
+unconscious,0
+septic shock,0
+high temperature 39.7°C,0
+myalgia,0
+breathing difficulties,0
+respiratory failure,0
+mild hypertension,0
+obesity,0
+heavy smoker,0
+no diabetes mellitus,0
+no immunosuppression,0
+large necrotic area of skin and soft tissue,0
+purulent discharge,0
+palpable right axillary lymph nodes,0
+tachypneic,0
+heart rate 115 bpm,0
+blood pressure 80/50 mmHg,0
+leukocytosis 17.6×10³/L,0
+increased ESR 37 mm/hr,0
+increased CRP 49.8 mg/L,0
+low hemoglobin 7.6 g/dL,0
+increased serum creatine kinase 454 U/L,0
+resuscitated with intravenous fluids,0
+"imaging (X-ray, ultrasound, CT)",0
+blood cultures taken,0
+"intravenous antibiotics (cefazolin, gentamycin)",0
+hemodynamically stable,24
+surgical debridement,24
+segmental partial mastectomy,24
+subtotal excision of outer quadrants,24
+nipple and areola spared,24
+intraoperative wound tissue collected,24
+exudate collected,24
+histopathological examination,24
+breast tissue with fibrosis,24
+fat necrosis,24
+chronic inflammation,24
+hemorrhage,24
+intubated,24
+vital signs stable,24
+respiratory rate 18 breaths/min,24
+heart rate 71 bpm,24
+blood pressure 100/70 mmHg,24
+oxygen saturation 96%,24
+soft abdomen,24
+hyperbaric oxygen therapy,96
+extubated,120
+Staphylococcus aureus,0
+Klebsiella pneumoniae,0
+Acinetobacter baumanii,0
+Staphylococcus epidermidis,0
+intravenous antibiotics changed to vancomycin,120
+meropenem,120
+NPWT dressings -125 mmHg,24
+foam dressings changed every 48 hours,24
+wounds clean,1008
+pink granulation tissue,1008
+reduced wound size,1008
+breast defect repaired,1008
+nipple and areola centralization,1008
+defects managed with NPWT,1008
+discharged with portable NPWT,720
+clinic visits weekly,720
+CT scans every 14 days,720
+healed wounds,3600
+breast shape retained,3600
+breast volume retained,3600
+good cosmetic effect,3600

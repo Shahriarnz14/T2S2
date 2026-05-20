@@ -1,0 +1,73 @@
+event,time
+61-year-old White man,0
+non-smoker,0
+admitted to the hospital,0
+long-standing arterial hypertension,-8760
+severe heart failure,-8760
+left ventricular ejection fraction 30%,-8760
+carvedilol,-8760
+ivabradine,-8760
+losartan,-8760
+stage IIIB chronic renal failure,-8760
+urinary symptoms,-8760
+systemic compromise,-8760
+fever,-8760
+diaphoresis,-8760
+low back pain,-8760
+hypotension,-8760
+dyspnea,-8760
+increased acute phase reactants,-8760
+hospitalization in intensive care unit,-8760
+sepsis of urinary origin,-8760
+alterations in calcium behavior,-8760
+severe hyperparathyroidism,-8760
+functional adenoma in lower left parathyroid,-8760
+surgery for hyperparathyroidism,-8760
+control of calcium and phosphorus levels,-8760
+chest x-ray showing tumor-like lesions,-8760
+lesion in fourth right costal arch (25 x 21 mm),-8760
+lesion in eighth left costal arch (77 x 54 mm),-8760
+deformity in neck with severe dorsal kyphoscoliosis,-8760
+NYHA functional class III,-8760
+blood pressure 120/70 mmHg,0
+heart rate 100 beats per minute,0
+breathing frequency 16 breaths per minute,0
+no cyanosis,0
+jugular engorgement at 90°,0
+no neck masses,0
+tachycardic rhythmic heart,0
+no murmurs or gallop,0
+decreased breath sounds at lung bases,0
+no ascites or masses,0
+edema grade II,0
+no chest wall lesions,0
+mild anemia,0
+moderate restrictive ventilatory pattern,0
+normal diffusing capacity of carbon monoxide,0
+stable chronic kidney disease,0
+thoracic CT scan showing lytic lesions,0
+severe dorsal kyphoscoliosis,0
+decision for surgical resection,0
+hospitalization in intensive care unit,0
+intravenous levosimendan,0
+red blood cell transfusion,0
+resection of left costal mass,0
+thoracoscopy,0
+lesion involving eighth rib,0
+partial resection of seventh to ninth left ribs,0
+no lung tissue infiltration,0
+no pleural cavity infiltration,0
+hemodynamic instability post-surgery,24
+vasoactive support with norepinephrine,24
+prolonged mechanical ventilation,24
+tracheostomy,24
+removal of vasoactive drugs,168
+discontinuation of mechanical ventilation,168
+tracheostomy removal,168
+complete physical rehabilitation,168
+complete respiratory rehabilitation,168
+pathology diagnosis of ossifying lipoma,48
+no chemotherapeutic treatment,48
+no recurrence of lesions,720
+frequent medical follow-ups,720
+no evidence of recurrence,720

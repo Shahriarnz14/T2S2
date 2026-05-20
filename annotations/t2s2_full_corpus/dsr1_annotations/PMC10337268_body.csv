@@ -1,0 +1,60 @@
+event,time
+57 years old,0
+female,0
+hospitalized,0
+acute respiratory failure,0
+cardiogenic shock,0
+new-onset nonischemic cardiomyopathy,0
+left ventricular ejection fraction drop (57% to 5%),0
+chronic congestive heart failure,0
+postpartum cardiomyopathy,0
+type 2 diabetes,0
+hypothyroidism,0
+persistent hypokalemia,0
+loop diuretics,0
+spironolactone,0
+losartan,0
+elevated serum morning cortisol (122.4 μg/dL),0
+elevated ACTH (181 pg/mL),0
+low aldosterone/renin ratio,0
+elevated 24-hour free urine cortisol (6100 μg/24 h),0
+normal DHEA sulfate (62.3 μg/dL),0
+normal metanephrine plasma levels (<10 pg/mL),0
+"bilateral adrenal enlargement (right 7 cm, left 9 cm)",0
+pre-contrast Hounsfield units (40–45),0
+postcontrast washout (40%),0
+denies recent weight gain,0
+denies headaches,0
+denies vision change,0
+denies abdominal striae,0
+denies proximal muscle weakness,0
+denies hirsutism,0
+denies acne,0
+denies history of kidney stones,0
+denies steroid use,0
+normal blood pressure,0
+no cushingoid features,0
+normal pituitary MRI,0
+stress-induced cardiomyopathy,0
+"medical management (vasopressors, diuretics)",0
+improvement in LVEF (5% to 10%),504
+normalization of morning cortisol (9.55 µg/dL),504
+normalization of ACTH (8.3 pg/mL),504
+normalization of 24-hour free urine cortisol (2 μg/24 h),504
+normalization of potassium levels,504
+CT abdomen showing adrenal resolution,504
+discharged,504
+normal cortisol (6.42 µg/dL) post-discharge,1008
+normal ACTH (22.3 pg/mL) post-discharge,1008
+readmission for septic shock,3600
+pneumonia,3600
+worsening cardiac failure,3600
+liver failure,3600
+gastrointestinal bleeding,3600
+death,3600
+normal morning cortisol (9.11 µg/dL) during readmission,3600
+no autopsy,3600
+dobutamine 5 µg/kg/min,0
+milrinone,0
+IV bumetamide,0
+oral bumetamide,24

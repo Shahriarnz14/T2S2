@@ -1,0 +1,109 @@
+event,time
+63-year-old,0
+man,0
+admitted to local general hospital,-336
+feeling unwell,-336
+blood culture confirmed vancomycin resistant enterococcal,-336
+transthoracic esophageal echocardiogram confirmed dehiscence of aortic valve,-336
+root abscess,-336
+mitral valve vegetations,-336
+patent foramen ovale,-336
+inferior vena cava Eustachian valve,-336
+transferred to institution,-24
+liver failure,-24
+renal failure,-24
+bilirubin 54 mg/dL,-24
+alkaline phosphatase 222 IU/L,-24
+alanine aminotransferase 1211 IU/L,-24
+continuous veno-venous hemofiltration,-24
+heparin as anticoagulant,-24
+initial platelet count 179 × 10³ per mm³,-24
+drop in platelet count to 35 × 10³ per mm³,72
+heparin-induced thrombocytopenia confirmed,72
+heparin stopped,72
+danaparoid as hemofiltration anticoagulation,72
+platelet count dropped to 16 × 10³ per mm³,168
+off heparin for over a week,168
+aortic valve replacement 4 months prior,-2880
+regular medication: aspirin,0
+regular medication: bisoprolol,0
+regular medication: perindopril,0
+regular medication: atorvastatin,0
+redo-aortic valve replacement,0
+mitral valve repair,0
+closure of patent foramen ovale,0
+repair of aortic root abscess,0
+excision of Eustachian valve,0
+ventilator dependence,0
+tracheostomy,0
+renal replacement therapy,0
+cardiovascular support for 22 days,528
+maximal milrinone 10 ml/h,528
+maximal noradrenaline 20 ml/h,528
+maximal vasopressin 2 IU/h,528
+discharged after 6 months,4320
+SDF examination at 48 hours postsurgery,48
+SDF examination at 60 hours postsurgery,60
+SDF examination at 90 hours postsurgery,90
+SDF examination at 47 days postsurgery,1128
+signs of sepsis,48
+pyrexia,48
+low systemic vascular resistance,48
+increased inflammatory markers,48
+increased inotropic-vasoconstrictor support,48
+HIT present,48
+sepsis well-controlled,1128
+platelet count recovered,1128
+TVD 20.35,48
+PVD 17.25,48
+De Backer score 11.66,48
+PPV 83.69,48
+MFI small 1,48
+FHI 0,48
+CI 3.7,48
+MAP 66,48
+SVRI 1038,48
+pH 7.42,48
+lactate 4.9,48
+noradrenaline 0.3,48
+vasopressin 1,48
+TVD 37.21,60
+PVD 37.21,60
+De Backer score 21.37,60
+PPV 100,60
+MFI small 3.5,60
+FHI 0.28,60
+CI 2.9,60
+MAP 55,60
+SVRI 1178,60
+pH 7.36,60
+lactate 6.9,60
+noradrenaline 0.2,60
+vasopressin 1,60
+TVD 35.78,90
+PVD 35.78,90
+De Backer score 22.54,90
+PPV 100,90
+MFI small 3,90
+FHI 0,90
+CI 2.8,90
+MAP 74,90
+SVRI 1885,90
+pH 7.2,90
+lactate 6.6,90
+noradrenaline 0.26,90
+vasopressin 4,90
+TVD 36.86,1128
+PVD 36.86,1128
+De Backer score 22.39,1128
+PPV 100,1128
+MFI small 3,1128
+FHI 0,1128
+CI 2.8,1128
+MAP 52,1128
+SVRI 1715,1128
+pH 7.45,1128
+lactate 1.1,1128
+noradrenaline 0.06,1128
+vasopressin none,1128
+no gold standard for microperfusion,0

@@ -1,0 +1,74 @@
+event,time
+79 years old,0
+white,0
+woman,0
+hypertension,0
+type 2 diabetes mellitus,0
+dyslipidemia,0
+hyperuricemia,0
+IgG/λ multiple myeloma,-1440
+increased total serum proteins (14.77 g/dl),-1440
+increased γ-globulins (8.8 g/dl; 59.40%),-1440
+"increased IgG chains (10,706.0 mg/dl)",-1440
+"increased free λ light chains (2,720 mg/dl)",-1440
+IgG/λ monoclonal gammopathy,-1440
+hypocellular medullary aspirate (10.0x103/µl),-1440
+"abnormal plasma cells (CD38+, CD138+, CD19-, CD56+, CD10-, CD20-, CD117-, CD45-)",-1440
+anemia,-1440
+lytic bone lesions in the skull,-1440
+oral melphalan,-1440
+prednisolone,-1440
+ECOG Performance Status 1,-1440
+admitted to the emergency department,0
+fatigue,0
+severe bone pain,0
+diarrhea,0
+hemodynamic instability,0
+oliguria,0
+oxygen requirement,0
+decreased breath sounds in right hemithorax,0
+anemia (Hb 8.1 g/dl),0
+leukocytosis (12.7x109/l),0
+neutrophilia (11.3x109/l),0
+thrombocytopenia (35x109/l),0
+C-reactive protein 352.4 mg/l,0
+creatinine 3.96 mg/dl,0
+albumin 1.83 g/dl,0
+type 1 respiratory insufficiency,0
+hyperlactacidemia (4.9 mg/dl),0
+bilateral pleural effusion,0
+diagnostic thoracentesis,0
+exudative pleural effusion,0
+septic shock,24
+"multiorgan failure (renal, hematological, neurological, cardiovascular, respiratory)",24
+blood and urine cultures sent,24
+broad-spectrum antibiotics,24
+hypervolemia,24
+acute renal failure,24
+sustained low-efficiency daily diafiltration (SLEDD),24
+negative fluid balance,24
+dyspnea,48
+tachypnea,48
+desaturation,48
+aggravated pleural effusion,48
+diminishing inflammatory parameters,72
+enlarged pleural effusion,72
+"therapeutic thoracentesis (2,650 ml removed)",72
+serosanguineous pleural fluid,72
+pleural fluid pH 7.9,72
+pleural fluid adenosine deaminase 31.7 U/l,72
+pleural fluid glucose 88 mg/dl,72
+pleural fluid proteins 3.5 g/dl,72
+pleural fluid LDH 618 U/l,72
+pleural/serum LDH ratio exudative,72
+"pleural fluid γ-globulin spike (1.2 g/dl, 34.2%)",72
+"abnormal plasma cells in pleural fluid (CD38+, CD138+, CD56+, CD117+, CD10-, CD19-, CD20-, CD45-)",72
+plasma cell proliferation confirmed,72
+multi-resistant Escherichia coli in pleural fluid,72
+myelomatous pleural effusion diagnosis,72
+bacterial overinfection,72
+respiratory insufficiency improved,96
+deterioration of performance status,96
+withdrawal of therapeutic measures,96
+palliative care initiated,96
+death,240

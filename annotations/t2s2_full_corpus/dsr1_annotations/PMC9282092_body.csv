@@ -1,0 +1,67 @@
+event,time
+59 years old,0
+male,0
+resident of Riyadh,0
+visited Karachi,-528
+arrived back to Saudi Arabia,-48
+persistent fever,-48
+seen in clinic,-24
+prescribed antipyretics,-24
+fever not improved,-24
+continuous vomiting,-24
+nonprojectile vomiting,-24
+vomiting,-24
+headaches,-24
+no contact with sick individuals,-528
+no URTI symptoms,0
+no ear problems,0
+no animal contact,0
+no swimming in rivers,0
+no bathing in ponds,0
+CSF sample taken,0
+neurology assessment,0
+awake,0
+confused,0
+agitated,0
+became drowsy,1
+barely responsive to painful stimuli,1
+no longer protecting airway,1
+intubated,1
+admitted to ICU,1
+septic shock,1
+central nervous system infection,1
+CT brain angiogram,0
+no acute intracranial insult,0
+CTA,0
+no stenosis,0
+no focal occlusion,0
+CT brain without contrast (Day 1),0
+diffuse brain edema,0
+moderate narrowing of CSF spaces,0
+scattered hyperattenuating foci,0
+leptomeningeal process,0
+physical examination,0
+coma,0
+fixed dilated pupils,0
+vital signs stable,0
+inotropic support,0
+lumbar puncture,0
+CSF results,0
+cultures negative,0
+CSF preserved for metagenomics,0
+clinical condition worsened,48
+antimicrobial regimen modified,48
+technetium-99m HMPO brain perfusion scan,72
+brain death,72
+clinical situation persisted,72
+biochemical situation deteriorated,72
+passed away,216
+metagenomic sequencing,216
+N. fowleri identified,216
+primary amoebic meningoencephalitis,216
+symptoms after return from Karachi,0
+acquired infection in Karachi,0
+draft genome assembly,216
+no prior suspicion of PAM,0
+signs similar to bacterial meningitis,0
+signs similar to viral meningitis,0

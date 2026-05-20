@@ -1,0 +1,62 @@
+event,time
+56 years old ,0
+female ,0
+admitted to the hospital ,0
+weakness ,-720
+numbness and weakness in lower extremities ,-720
+numbness and weakness progressed to hands and neck ,-720
+Guillain-Barré syndrome (GBS) ,-720
+type 2 diabetes mellitus ,-8760
+hypertension ,-8760
+necrotizing pancreatitis ,-8760
+gallstones ,-8760
+total parenteral nutrition (TPN) ,-2160
+discontinuation of TPN ,-1440
+normal diet ,-1440
+lumbar puncture ,0
+albuminocytologic dissociation ,0
+brain magnetic resonance imaging (MRI) scan ,0
+small vessel ischemic changes ,0
+intravenous immunoglobulin (IVIG) treatment ,0
+worsening pancytopenia ,24
+encephalopathy ,24
+transfer to specialist center ,24
+hypotensive ,24
+unresponsive to verbal stimuli ,24
+minimally responsive to painful stimuli ,24
+Glasgow Coma Scale (GCS) score of 6 ,24
+anasarcic ,24
+flaccid paralysis of all four extremities ,24
+malnourished ,24
+septic state ,24
+calcium of 6.7 mg/dL ,24
+hemoglobin of 9.4 g/dL ,24
+white cell count of 2.1×10^9/L ,24
+phosphorus of 1.1 mg/dL ,24
+creatinine <0.2 mg/dL ,24
+albumin <1.5 gm/dL ,24
+lactate of 4 mmol/L ,24
+Nutritional risk screening (NRS-2002) score of 5 ,24
+malnutrition universal screening (MUST) score of 5 ,24
+intubated ,24
+resuscitated with intravenous fluids ,24
+intravenous infusion of norepinephrine ,24
+meropenem treatment ,24
+vancomycin treatment ,24
+anidulafungin treatment ,24
+empirical treatment with high-dose intravenous thiamine ,24
+electroencephalogram (EEG) ,48
+diffuse slow waves ,48
+severe metabolic encephalopathy ,48
+brain MRI scan ,72
+hyperintensity of the bilateral medial thalamus ,72
+Wernicke’s encephalopathy ,72
+serum thiamine level of 104 nmol/L ,96
+improved mental status ,96
+discontinuation of norepinephrine ,96
+discontinuation of antimicrobial treatment ,96
+extubated ,120
+electromyography (EMG) ,168
+severe sensorimotor polyneuropathy ,168
+transfer out of intensive care unit (ICU) ,336
+discharge ,720

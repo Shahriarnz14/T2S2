@@ -1,0 +1,64 @@
+event,time
+75 years old,0
+male,0
+Type 2 diabetes mellitus,0
+hypertension,0
+chronic thrombocytopenia,0
+chronic kidney injury,0
+ruptured AAA,0
+aortobifemoral bypass graft placement,0
+postoperative renal failure,0
+dialysis,0
+dialysis,0
+dialysis,0
+dialysis,0
+improvement,0
+emergency department visit,-48
+rigors,-48
+dysuria,-48
+polyuria,-48
+burning micturition,-48
+fever,0
+weakness,0
+lethargy,0
+denies cough,0
+denies chest pain,0
+denies palpitations,0
+denies nausea,0
+denies vomiting,0
+denies constipation,0
+blood pressure 70/35 mmHg,0
+blood pressure 90/48 mmHg after fluid bolus,0
+temperature 101°F,0
+heart rate 90/min,0
+respiratory rate 20/min,0
+"WBC 18,000",0
+lactic acid 4.1,0
+20% bands,0
+"platelet count 20,000",0
+urinalysis WBC,0
+urinalysis RBC,0
+moderate leukocyte esterase,0
+diffuse abdominal tenderness,0
+peri-umbilical tenderness,0
+no peritoneal signs,0
+admitted to ICU,0
+severe sepsis,0
+urinary tract infection,0
+high anion gap metabolic acidosis,0
+lactic acidosis,0
+blood cultures positive for Eggerthella lenta,0
+urine cultures positive for E. coli ESBL,0
+started on IV ertapenem,0
+abdominal CT with contrast,0
+induration with inflammatory changes around graft,0
+stranding around aorta near iliac components,0
+air bubble between graft components,0
+aortoenteric fistula suspected,0
+recommended graft replacement surgery,0
+patient refused surgery,0
+continued IV antibiotics,0
+negative repeat blood cultures,0
+discharged home on antibiotics,24
+outpatient antibiotic plan,24
+chronic suppression possibility,24

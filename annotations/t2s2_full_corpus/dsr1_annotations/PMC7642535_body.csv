@@ -1,0 +1,110 @@
+event,time
+12 years old,0\
+girl,0\
+Thai,0\
+previously healthy,0\
+behavioral change,-144\
+fever,-144\
+headache,-144\
+conversation with herself,-144\
+cried without reason,-144\
+laughed without reason,-144\
+fever,-144\
+progressive headache,-144\
+alteration of consciousness,-144\
+waxing and waning consciousness,-144\
+abnormal hand movements,-144\
+inability to write letters,-144\
+received roxithromycin,-144\
+received fexofenadine,-144\
+received paracetamol,-144\
+insomnia,-144\
+daytime somnolence,-144\
+aggressive behavior,-120\
+incomprehensible language,-120\
+sleep disturbance,-120\
+intermittent screaming,-120\
+visual hallucination,-120\
+admitted to Hua Hin Hospital,-96\
+high-grade fever,-96\
+aggressive behaviors,-96\
+CT brain scan,-96\
+lumbar puncture,-96\
+received high-dose ceftriaxone,-96\
+received acyclovir,-96\
+received azithromycin,-96\
+received oseltamivir,-96\
+referred to King Chulalongkorn Memorial Hospital,0\
+confused,0\
+disorientation,0\
+low-grade fever,0\
+pulse rate 110,0\
+respiratory rate 24,0\
+Glasgow coma scale E4M5V3,0\
+symmetric nasolabial folds,0\
+uvula midline,0\
+gag reflex present,0\
+aggressive behavior,0\
+oromotor dyskinesia,0\
+choreoathetosis,0\
+hyperreflexia,0\
+Babinski's sign equivocal,0\
+clonus absent,0\
+hemoglobin 123 g/L,0\
+WBC 4.83 × 109/L,0\
+platelet 310 × 109/L,0\
+CSF WBC 13 cells/mm3,0\
+CSF protein 20.1 g/L,0\
+CSF glucose 4.2 mmol/L,0\
+negative infectious work-ups,0\
+positive NMDAR autoantibodies,0\
+EEG generalized slow waves,0\
+EEG delta brush pattern,0\
+ictal EEG rhythmic delta waves,0\
+CT brain hypodense lesions,-96\
+follow-up CT unremarkable,-96\
+received pulse methylprednisolone,24\
+received antimicrobial agents,24\
+received phenytoin,24\
+received risperidone,24\
+no clinical response,72\
+received intravenous immunoglobulin,72\
+received plasmapheresis,72\
+maintenance prednisolone,96\
+superrefractory status epilepticus,96\
+admitted to PICU,96\
+upper gastrointestinal bleeding,1008\
+coffee-ground vomit,1008\
+bilious vomit,1008\
+body temperature 37.8°C,1008\
+abdominal distension,1008\
+hypoactive bowel sounds,1008\
+nasogastric tube inserted,1008\
+intravenous fluids,1008\
+omeprazole IV,1008\
+bilious nasogastric output,1032\
+drooling,1032\
+watery diarrhea,1032\
+stool mixed with old blood,1032\
+stool culture positive Pseudomonas aeruginosa,1032\
+CT abdomen intestinal wall thickening,1032\
+atropine eye drops,1032\
+meropenem started,1032\
+cholestyramine,1032\
+octreotide,1032\
+lower GI bleeding,1200\
+stool negative Clostridium difficile,1200\
+serum CMV PCR 5473 copies/mL,1200\
+EGD and colonoscopy findings,1200\
+CMV viral load >500000 copies/mL,1200\
+diagnosed CMV esophago-enterocolitis,1200\
+received ganciclovir,1200\
+pulse methylprednisolone repeated,1248\
+stool output decreased,1248\
+cyclophosphamide introduced,1680\
+neurological improvement,1680\
+normal follow-up endoscopy,1680\
+immunoglobulin levels transiently low,1680\
+lymphocyte subpopulations decreased,1680\
+immunologic work-ups,1680\
+stable follow-up,1680

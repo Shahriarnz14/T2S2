@@ -1,0 +1,134 @@
+event,time
+29 years old,0
+male,0
+history of progressive fatigue,-3024
+history of dyspnoea on exertion for 2–3 months,-3024
+hospitalized for cardiogenic shock,-1224
+biventricular failure,-1224
+ejection fraction 5–10%,-1224
+imaging concerning for myopericarditis,-1224
+imaging concerning for constrictive physiology,-1224
+computed tomography angiography revealed cardiomegaly,-1224
+dilated right atrium,-1224
+passive hepatic congestion suggesting right ventricular failure,-1224
+pericardial calcification,-1224
+no evidence of constrictive pericarditis,-1224
+echocardiogram showed biventricular failure,-1224
+features of constrictive pericarditis,-1224
+cardiac magnetic resonance imaging left ventricular ejection fraction 23%,-1224
+cardiac magnetic resonance imaging right ventricular ejection fraction 36%,-1224
+delayed gadolinium enhancement demonstrating scarring/fibrosis of the subepicardial basal inferior wall,-1224
+delayed gadolinium enhancement demonstrating scarring/fibrosis of the basal inferolateral wall,-1224
+non-coronary artery disease hyperenhancement pattern,-1224
+no evidence of an infiltrative process,-1224
+diastolic septal bounce,-1224
+concentrically thickened pericardium supporting constriction,-1224
+atrial flutter with rapid ventricular response,-1224
+radiofrequency ablation,-1224
+cardiogenic shock,-1224
+stabilized on inotrope therapy,-1224
+peripherally inserted central catheter (PICC) line placed,-1224
+discharged on home milrinone infusion via a peripherally inserted central catheter (PICC line),-1224
+seen by cardiothoracic surgery as an outpatient,-168
+plans for an elective pericardiectomy in early November,-168
+PICC line dressing contaminated with tap water during bathing at home (suspected),-72
+fever,-24
+chills,-24
+presented to Emergency Department,0
+re-admitted,0
+admitted to the hospital,0
+New York Heart Association (NYHA) Class II symptoms,0
+home medication furosemide 40 mg once daily,0
+home medication losartan 12.5 mg once daily,0
+home medication metoprolol succinate 12.5 mg once daily,0
+home medication milrinone 0.25 μg/kg/min,0
+home medication spironolactone 12.5 mg once daily,0
+fever 38.7°C (101.8°F),0
+chills,0
+tachycardia with a heart rate in the 110s,0
+blood pressure 96/57 mmHg,0
+tachycardic but normal rhythm,0
+no murmurs,0
+no rubs,0
+no gallops,0
+no signs of elevated jugular venous pressure,0
+no lower extremity oedema,0
+radial pulses 2+ bilaterally,0
+dorsalis pedis pulses 2+ bilaterally,0
+lungs clear to auscultation bilaterally,0
+normal work of breathing,0
+no redness around the PICC line,0
+no drainage around the PICC line,0
+Chest X-ray showed no abnormalities,0
+electrocardiogram significant for sinus tachycardia,0
+normal axis,0
+RSR′ pattern in V1,0
+QRS duration 90 ms,0
+non-specific T wave flattening in the inferolateral leads,0
+PICC line in place,0
+septic shock,0
+catheter-related bloodstream infection,0
+PICC line removed,1
+febrile to 39.5°C (103.1°F),1
+severe rigours,1
+hypotension with blood pressure in 70s/40s mmHg,1
+elevated lactate 5.5 mmol/L,1
+blood cultures drawn peripherally,1
+blood cultures drawn from the PICC line,1
+started on IV vancomycin,1
+started on piperacillin/tazobactam,1
+transferred to intensive care unit,2
+vasopressor support started,2
+advanced heart failure service consulted,3
+Chryseobacterium indologenes grew from his admission PICC line blood culture,48
+Chryseobacterium indologenes grew from peripheral blood cultures,48
+PICC line culture positive hours before peripheral blood culture,48
+infectious disease team consulted,48
+antibiotics changed to ciprofloxacin,48
+piperacillin/tazobactam continued,48
+vancomycin discontinued,48
+weaned off vasopressor support,48
+susceptibility: sensitive to ciprofloxacin,72
+susceptibility: sensitive to piperacillin,72
+susceptibility: sensitive to trimethoprim/sulfamethoxazole,72
+susceptibility: resistant to meropenem,72
+ciprofloxacin 500 mg every 12 h,72
+piperacillin/tazobactam 3375 mg every 6 h,72
+remained afebrile,72
+follow-up blood cultures remained negative,72
+echocardiogram showed a dilated and hypertrophied left ventricle,96
+diastolic septal bounce consistent with constrictive pericarditis,96
+ejection fraction 30–35%,96
+right ventricle dilated with reduced systolic function,96
+no evidence of valvular stenosis,96
+no regurgitation,96
+no vegetations,96
+simultaneous right and left heart catheterization demonstrated discordance of right and left ventricular pressures,120
+diastolic equalization of pressures,120
+repeat blood cultures remained negative at 5 days,120
+"optimal timing of the pericardiectomy discussed with advanced heart failure service, cardiothoracic surgery, and infectious disease team",168
+underwent pericardiectomy,240
+dense adhesions between the pericardium and epicardium intraoperatively,240
+significant amount of calcium laterally and towards the apex of the heart,240
+adhesions taken down,240
+complete removal of the pericardium performed successfully,240
+completed 14 days of antibiotics (ciprofloxacin and piperacillin/tazobactam),312
+follow-up transthoracic echocardiogram 5 days after pericardiectomy,360
+left ventricular ejection fraction increased to 50–55%,360
+right ventricular systolic dysfunction improved,360
+discharged from the hospital,384
+off inotropes,384
+stable vital signs,384
+labs stable,384
+furosemide 40 mg once daily continued,384
+metoprolol succinate 12.5 mg once daily continued,384
+sacubitril-valsartan 24–26 mg every 12 h started,384
+milrinone discontinued,384
+losartan discontinued,384
+spironolactone discontinued,384
+seen in outpatient cardiology clinic,8256
+remains in good health,8256
+denied any symptoms of heart failure,8256
+New York Heart Association (NYHA) Class I,8256
+no evidence of recurrent infection,8256
+great improvement in functional status,8256

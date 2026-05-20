@@ -1,0 +1,91 @@
+event,time
+55 years old,0
+male,0
+work-related accident (cement mixer),0
+right lower limb completely torn off,0
+conscious,0
+drowsy,0
+patent airway,0
+injury severity score 75,0
+blood pressure 70-85/40-50 mmHg,0
+pulse 120 beats per minute,0
+bandaging with strong mechanical pressure,0
+intravenous rehydration,0
+oxygen inhalation,0
+admitted to hospital,60
+"open wound over right costal arch to right pubic tubercle, perineum, right sacroiliac joint",60
+skin stripped,60
+peritoneum holding abdominal contents,60
+cement and foreign matter in wound,60
+displaced extremity cold,60
+displaced extremity crushed,60
+displaced extremity pulseless,60
+"fluid resuscitation (central venous, peripheral lines)",60
+tetanus prophylaxis,60
+broad-spectrum antibiotics,60
+"CT loss of right lower limb, right lower abdominal wall, right ilium, pubis, ischium",60
+no intra-abdominal injury,60
+bladder intact,60
+rectum intact,60
+CT angiography transection right common iliac vessels,60
+general anesthesia,60
+loss of skin right lower abdomen,60
+contaminated peritoneum,60
+bowel peristalsis observed,60
+right scrotum avulsed,60
+testis exposed,60
+spermatic cord extravasation,60
+"soft tissue missing around anus, right ilium",60
+sacrum exposed,60
+arterial bleeding pelvic cavity,60
+right external iliac vessels transected,60
+right internal iliac vessels transected,60
+vessel ligation,60
+"wound irrigation (saline, hydrogen peroxide, iodophor)",60
+vacuum-sealing drainage (VSD) device applied,60
+rectal tube placement,60
+packed red blood cells 800 mL,60
+crystalloids 1000 mL,60
+colloids 1500 mL,60
+transferred to ICU,60
+mechanical ventilation,60
+blood transfusion 600 mL,60
+imipenem 0.5 g q6h,60
+metronidazole 1 g q8h,60
+linezolid 0.6 g q12h,60
+fever persisted,0
+WBC peak 16.95 ×10^9/L,120
+closed drainage,120
+pneumothorax right lung,120
+pneumonia left lung,120
+no pelvic abscess,120
+second operation debridement,144
+granulation tissue,144
+devitalized tissue removed,144
+pus culture,144
+weekly irrigation and debridement,144
+VSD continued,144
+Proteus mirabilis in pus,144
+Providencia alcalifaciens in pus,144
+Pseudomonas aeruginosa in blood,216
+"antibiotic regimen changed to meropenem, levofloxacin, tigecycline, fluconazole",216
+diverting colostomy,336
+body temperature high until Day 20,480
+temperature baseline on Day 25,600
+skin defect 28x21 cm²,504
+psychiatric management,0
+nutritional support,0
+chronic pain management,0
+skin regenerated (50% defect reduction),1344
+VSD discontinued,1344
+split-skin graft left thigh,1344
+walking with crutches,1680
+squatting maneuvers,1680
+hospital discharge (72 days),1728
+semi-laparotomy prosthesis,3600
+wound healed,8640
+retired due to disability,8640
+self-care ability,8640
+phantom pain,8640
+no depression reported,8640
+no narcotic/non-opioid pain medicine,8640

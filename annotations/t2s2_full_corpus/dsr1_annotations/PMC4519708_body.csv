@@ -1,0 +1,90 @@
+event,time
+47 years old,0
+female,0
+"resident of Porto Alegre, RS, Brazil",0
+presented to emergency department,0
+dysuria,-168
+vomiting,-168
+right lower back pain,-168
+altered level of consciousness,-168
+abdominal pain (history),-168
+urinary disorders,-168
+fever (history),-168
+loss of appetite,-168
+previous emergency department visit,-168
+treated with nitrofurantoin,-168
+Proteus mirabilis in urine culture,-168
+resistant to nitrofurantoin,-168
+treatment with cephalothin initiated,-168
+general condition fair,0
+difficulty speaking,0
+able to answer questions,0
+follows instructions,0
+dehydration,0
+blood pressure 122/97 mmHg,0
+axillary temperature 35 °C,0
+heart rate 90 bpm,0
+respiratory rate 24 breaths/min,0
+oxygen saturation 92%,0
+soft abdomen,0
+painless abdomen,0
+bilateral lung crackles,0
+normal heart auscultation,0
+urea increased (42 to 160 mg/dL),0
+creatinine increased (0.97 to 5.01 mg/dL),0
+acute pyelonephritis diagnosis,0
+acute renal failure diagnosis,0
+admitted to hospital,0
+clinical worsening on day 2,48
+blood dyscrasia,48
+mechanical ventilation,48
+vasopressor use,48
+transferred to ICU,48
+antibiotic replaced with piperacillin-tazobactam,48
+anti-HIV test requested,48
+leukopenia,48
+lymphopenia,48
+anemia,48
+dialysis started,48
+urea 194 mg/dL,48
+creatinine 6.28 mg/dL,48
+hemoglobin 10.7 g/dL,48
+hematocrit 30%,48
+leukocytes 4.2 ×10^9/L,48
+bands 9%,48
+neutrophils 36%,48
+lymphocytes 48%,48
+monocytes 7%,48
+erythroblasts 1.05 ×10^9/L,48
+multiple organ dysfunction on day 3,72
+coagulopathy,72
+renal failure,72
+circulatory failure,72
+pulmonary failure,72
+petechiae on chest and abdomen,72
+diffuse oral bleeding,72
+oral mucosa lesions,72
+severe anemia (Hb 6.5 g/dL),72
+hematocrit 18.6%,72
+received two units packed red blood cells,72
+structures resembling bacteria or fungi,72
+blood culture negative for bacteria,72
+yeast presence suspected,72
+anuria on day 4,96
+cyanotic extremities,96
+refractory shock,96
+hemoglobin 6.9 g/dL,96
+hematocrit 20%,96
+erythroblasts 8.62 ×10^9/L,96
+leukocytes 0.5 ×10^9/L,96
+neutrophils 10%,96
+lymphocytes 80%,96
+monocytes 10%,96
+platelets 15.0 ×10^9/L,96
+yeast-like structures in blood,96
+phagocytized yeasts in monocytes,96
+budding yeast cells in Gram stain,96
+micafungin initiated,96
+death,96
+Histoplasma capsulatum confirmed,96
+anti-HIV positive,96

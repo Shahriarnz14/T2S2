@@ -1,0 +1,55 @@
+event,time
+30-year old,0
+African American,0
+woman,0
+presented to the emergency department,-4
+shortness of breath on exertion,-4
+chest pain with deep inspiration,-4
+no indication of recent infections,-4
+physical examination did not yield any abnormalities or concerns,-3
+high probability for pulmonary emboli in her right lobe,-2
+chest x ray showed possible development of small bilateral pleural effusions,-2
+Multiple nodular opacities scattered throughout the lungs were also noted,-2
+moderate alveolar consolidation in the right lower lobe,-2
+consistent with a pulmonary infarct,-2
+consistent with pneumonia,-2
+EKG normal,-2
+2D echocardiograms were normal,-2
+no indication of endocarditis,-2
+admitted to the hospital,0
+acute pulmonary embolism,0
+Heparin drip was initiated,0
+no indication that the patient recently visited a farm,0
+no indication that the patient had contact with goats,0
+transplants were not in the patient’s medical history,0
+internal fixation for orthopedic prosthesis was not in the patient’s medical history,0
+foreign subject implants were not in the patient’s medical history,0
+high fevers,24
+tachycardia,24
+blood cultures were positive,48
+four out of four bottles,48
+Gram positive cocci in pairs and clusters,48
+indicative of Staphylococcus species,48
+started on vancomycin,48
+Subsequent identification by Vitek 2 GP card indicated the bacterium was S. caprae,72
+produced acid from mannitol,72
+urease positive,72
+S. aureus ruled out,72
+antibiotics were changed to Kefzol 2 gm IV every 8 hours,72
+urinalysis indicated the presence of E. coli,72
+urinary tract infection,72
+Ampicillin 22 Resistant,84
+Ampicillin/Sulbactam 27 Sensitive,84
+Clindamycin 28 Sensitive,84
+Cephalothin 35 Sensitive,84
+Erythromycin 33 Sensitive,84
+Gentamcin 31 Sensitive,84
+Imipenem 53 Sensitive,84
+Oxacillin 20 Sensitive,84
+Penicillin 19 Resistant,84
+Rifampin 35 Sensitive,84
+fever resolved,96
+significant clinical improvement,96
+Echocardiogram did not reveal any evidence of endocarditis,96
+sensitive to all 17 antimicrobial agents,100
+Three days of Ciprofloxacin was administered,100

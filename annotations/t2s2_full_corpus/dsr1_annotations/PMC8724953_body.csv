@@ -1,0 +1,69 @@
+event,time
+43 years old,0
+woman,0
+Chron’s disease,0
+infliximab,0
+azathioprine,0
+fever,-72
+thoracic pain,-72
+elevated inflammatory parameters,-72
+nasopharyngeal swab for SARS-CoV-2 negative,-72
+bilateral community-acquired pneumonia,-72
+chest radiograph,-72
+discharged,-72
+cefuroxime,-72
+returned with same symptoms,-24
+no organ dysfunction,-24
+Streptococcus pneumoniae urinary antigen test negative,-24
+Legionella pneumophila urinary antigen test negative,-24
+SARS-COV-2 swab negative,-24
+blood samples collected,-24
+sputum samples collected,-24
+admitted to the hospital,-24
+piperacillin-tazobactam,-24
+third day of hospitalization,0
+acute rapidly progressive respiratory failure,0
+admitted to intensive care unit,0
+invasive mechanical ventilation,0
+normal cardiac function,0
+no signs of pulmonary embolism,0
+significant consolidation of both lungs on CT,0
+suspicion of organizing pneumonia,0
+vancomycin,0
+methylprednisolone,0
+deterioration,24
+mixed acidaemia,24
+refractory hypoxemia,24
+ventilatory adjustments,24
+prone positioning,24
+extracorporeal membrane oxygenation,24
+transferred to Infectious Diseases ICU,24
+negative blood cultures,24
+negative sputum cultures,24
+etiological investigation,24
+blood collected for studies,24
+bronchial lavage collected,24
+bronchoalveolar lavage collected,24
+urine collected for studies,24
+treatment changed to meropenem,24
+vancomycin,24
+liposomal amphotericin,24
+cardiovascular failure,48
+hypoperfusion,48
+hypotension,48
+anasarca,48
+hyperlacticaemia,48
+anuric acute kidney injury,48
+liver failure,48
+worsening pancytopenia,48
+blood transfusions,48
+vasopressor therapy,48
+continuous renal replacement therapy,48
+sodium bicarbonate supplementation,48
+albumin supplementation,48
+plasmapheresis,48
+yeast in blood culture,72
+Saprochaete clavata identified,96
+central venous catheter exchange,96
+died,120
+Legionella pneumophila non-serogroup 1 PCR positive,120

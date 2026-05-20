@@ -1,0 +1,85 @@
+event,time
+48 years old,0
+female,0
+admitted to the hospital,0
+presented to emergency department,-48
+cardiopulmonary resuscitation (CPR),-72
+sudden loss of consciousness,-72
+pale face,-72
+salivation at the corners of the mouth,-72
+urinary incontinence,-72
+no nausea,-72
+no vomiting,-72
+no limb twitching,-72
+admitted to local hospital resuscitation room,-48
+blood pressure 160/103 mmHg,-48
+heart rate 12 beats per minute,-48
+third-degree atrioventricular block,-48
+serum potassium 2.59 mmol/L,-48
+diarrhea before loss of consciousness,-72
+temporary pacemaker implanted,-48
+chest CT scan revealed exudative lesions in lungs bilaterally,-48
+head CT scan showed no abnormality,-48
+transferred to intensive care unit (ICU),-48
+stable vital signs,-48
+temperature 39.5°C,0
+blood pressure 92/45 mmHg,0
+heart rate 60 beats per minute,0
+respiratory rate 23 breaths per minute,0
+trachea intubation,0
+mechanically ventilating,0
+appendectomy incision at right McBurney’s point,0
+temporary cardiac pacing catheter at ipsilateral groin,0
+left femoral vein catheterization in place,0
+"white blood count 36,610/µL",0
+88% neutrophils,0
+procalcitonin 4.31 ng/mL,0
+pro-B type natriuretic peptide 6072 pg/mL,0
+hypersensitive troponin T (hs-TropT) 115.5 ng/L,0
+ALT 331.5 U/L,0
+AST 272 U/L,0
+initial diagnoses of cardiac respiratory arrest,0
+post-CPR syndrome,0
+third-degree atrioventricular block,0
+imipenem initiated,0
+vancomycin initiated,0
+temperature rose to 40.5°C,72
+inflammation indexes elevated,72
+left femoral vein catheter removed,72
+catheter blood culture sent,72
+venous blood culture sent,72
+gram-negative rods detected,84
+colistin applied,84
+Myroidesspp. isolated,96
+identified by VITEK2,96
+confirmed by MALDI-TOF-MS,96
+16SrRNA gene sequencing,96
+diagnosis of CRBSI confirmed,96
+septic shock developed,96
+antimicrobial susceptibility tests (AST) performed,96
+resistant to piperacillin,96
+resistant to piperacillin/tazobactam,96
+resistant to ceftazidime,96
+resistant to ceftriaxone,96
+resistant to cefepime,96
+resistant to aztreonam,96
+resistant to imipenem,96
+resistant to meropenem,96
+resistant to amikacin,96
+resistant to gentamicin,96
+resistant to tobramycin,96
+resistant to ciprofloxacin,96
+resistant to levofloxacin,96
+resistant to trimethoprim/sulfamethoxazole,96
+susceptible to cefoperazone/sulbactam,96
+antibiotic changed to cefoperazone/sulbactam,96
+levofloxacin added,96
+CRBSI under control,168
+no causative organism detected in blood culture,168
+cardiac respiratory arrest again,168
+temporary pacemaker reinstalled,168
+coronary angiography (CAG) performed,168
+coronary myocardial bridge,168
+permanency cardiac pacemaker considered,168
+transferred to local hospital,168
+no conflicts of interest,0

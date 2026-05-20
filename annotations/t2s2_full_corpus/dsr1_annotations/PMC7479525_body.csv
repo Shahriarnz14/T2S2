@@ -1,0 +1,136 @@
+event,time
+63-year-old,0\
+male,0\
+history of smoking (20 packs/year),0\
+admitted to the hospital,0\
+DVT in the left leg,"-552 (December 12, 2018 to December 24, 2018: 12 days ≈ 288 hours, but DVT started on December 12, admission on December 24, so -288 hours; however, DVT occurred before admission, which was 12 days prior, 12*24= -288)\"
+started rivaroxaban anticoagulant therapy,"-552 (same as DVT event, -288 hours)\"
+abrupt onset of dyspnea,"-24 (hospitalized on December 24, 2018, so dyspnea onset leading to hospitalization is at admission: timestamp 0, but the event ""abrupt onset"" may precede admission by hours, approximated to 0)\"
+thoracic CT scan confirmed pulmonary thromboembolism (PTE),0 (performed at admission)\
+mass in lower lobe of right lung,0\
+ipsilateral ilo-mediastinal lymph nodes,0\
+infra-clavear pathological lymph nodes,0\
+abdominal CT scan demonstrated splenic infarction,0\
+abdominal CT scan demonstrated renal infarction,0\
+"developed right cerebellar signs (nystagmus, ataxia, dysmetria, adiadochokinesia)",120 (5 days after admission on December 24: 5*24=120)\
+confusion,120\
+MRI brain: multiple diffuse bi-hemispheric cerebral and cerebellar infarcts,120\
+Transthoracic echocardiogram (TTE) no valvular lesion,120\
+transesophageal echocardiogram (TEE) not performed,120\
+spontaneous improvement of neurological state,144 (~6 days after admission: 6*24=144)\
+TEE revealed PFO,"408 (discharged January 10, 2019; admission December 24, 2018: 17 days ≈ 408 hours)\"
+discharged,408\
+"prescribed LMWH 6,000 IU twice daily",408\
+PET scan confirmed locally advanced NSCLC (IIIB),"408 (staging completed post-discharge, but exact timing unclear; assumed around discharge)\"
+EBUS-guided transbronchial needle aspiration: large-cell carcinoma,408\
+PD-L1 tumor proportion score 55%,408\
+candidate for pembrolizumab,408\
+onset of diplopia,"480 (~20 days after discharge: ~20*24=480, but timeline suggests ""few days before pembrolizumab""; pembrolizumab was planned post-discharge, so ~480)\"
+gait impairment,480\
+new hospitalization,480\
+chest pain,504 (1 day after readmission: 480+24=504)\
+dyspnea,504\
+diastolic murmur (aortic regurgitation),504\
+sinus tachycardia,504\
+ST segment elevation in DII-DIII-aVF,504\
+elevated troponin I (22.91 ng/ml),504\
+TTE: reduced LVEF (45%),504\
+mobile mass on mitral valve,504\
+moderate aortic insufficiency,504\
+acute pulmonary edema,504\
+respiratory failure requiring noninvasive ventilation,504\
+coronary angiography: embolus in recurrent branch,504\
+admitted to ICU,504\
+therapy with aspirin,504\
+therapy with β-blockers,504\
+maintained LMWH,504\
+suspicion of infective endocarditis,504\
+blood cultures,504\
+empiric antibiotic therapy,504\
+petechiae on lower limbs,504\
+abdominal pain,528 (hours after ICU admission: 504+24=528)\
+loss of blood in stool,528\
+abdominal CT: occlusion of superior mesenteric artery branch,528\
+ileo-cecal resection,528\
+bowel infarction,528\
+intubated,528\
+TEE: mobile mass on mitral valve (0.8x0.6 cm),528\
+moderate aortic insufficiency,528\
+reduced LVEF (40%),528\
+no PFO detected,528\
+negative blood cultures,528\
+normal procalcitonin,528\
+diagnosis of NBTE,528\
+coma,552 (~528+24=552)\
+brain CT: progression of cerebral infarcts,552\
+multi-organ failure,552\
+death,1680 (~70 days after diagnosis: 70*24=1680)\
+63-year-old,0 \
+male,0 \
+history of smoking (20 packs/year),0 \
+admitted to the hospital,0 \
+DVT in the left leg,-288 \
+started rivaroxaban anticoagulant therapy,-288 \
+abrupt onset of dyspnea,0 \
+thoracic CT scan confirmed pulmonary thromboembolism (PTE),0 \
+mass in lower lobe of right lung,0 \
+ipsilateral ilo-mediastinal lymph nodes,0 \
+infra-clavear pathological lymph nodes,0 \
+abdominal CT scan demonstrated splenic infarction,0 \
+abdominal CT scan demonstrated renal infarction,0 \
+developed right cerebellar signs,120 \
+nystagmus,120 \
+ataxia,120 \
+dysmetria,120 \
+adiadochokinesia,120 \
+confusion,120 \
+MRI brain: multiple diffuse bi-hemispheric cerebral and cerebellar infarcts,120 \
+Transthoracic echocardiogram (TTE) no valvular lesion,120 \
+spontaneous improvement of neurological state,144 \
+TEE revealed PFO,408 \
+discharged,408 \
+"prescribed LMWH 6,000 IU twice daily",408 \
+PET scan confirmed locally advanced NSCLC (IIIB),408 \
+EBUS-guided transbronchial needle aspiration: large-cell carcinoma,408 \
+PD-L1 tumor proportion score 55%,408 \
+candidate for pembrolizumab,408 \
+onset of diplopia,480 \
+gait impairment,480 \
+new hospitalization,480 \
+chest pain,504 \
+dyspnea,504 \
+diastolic murmur (aortic regurgitation),504 \
+sinus tachycardia,504 \
+ST segment elevation in DII-DIII-aVF,504 \
+elevated troponin I (22.91 ng/ml),504 \
+TTE: reduced LVEF (45%),504 \
+mobile mass on mitral valve,504 \
+moderate aortic insufficiency,504 \
+acute pulmonary edema,504 \
+respiratory failure requiring noninvasive ventilation,504 \
+coronary angiography: embolus in recurrent branch,504 \
+admitted to ICU,504 \
+therapy with aspirin,504 \
+therapy with β-blockers,504 \
+maintained LMWH,504 \
+suspicion of infective endocarditis,504 \
+blood cultures,504 \
+empiric antibiotic therapy,504 \
+petechiae on lower limbs,504 \
+abdominal pain,528 \
+loss of blood in stool,528 \
+abdominal CT: occlusion of superior mesenteric artery branch,528 \
+ileo-cecal resection,528 \
+bowel infarction,528 \
+intubated,528 \
+TEE: mobile mass on mitral valve (0.8x0.6 cm),528 \
+moderate aortic insufficiency,528 \
+reduced LVEF (40%),528 \
+no PFO detected,528 \
+negative blood cultures,528 \
+normal procalcitonin,528 \
+diagnosis of NBTE,528 \
+coma,552 \
+brain CT: progression of cerebral infarcts,552 \
+multi-organ failure,552 \
+death,1680

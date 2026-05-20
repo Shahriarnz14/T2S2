@@ -1,0 +1,83 @@
+event,time
+5-year-old male,0
+admitted to the hospital,0
+fever,-48
+neck pain,-48
+odynophagia,-48
+headache,-48
+nasal congestion,-48
+lethargy,-48
+no cough,-48
+no abdominal pain,-48
+no vomiting,-48
+no diarrhea,-48
+no rash,-48
+no sick contacts,-48
+no recent travel,-48
+mild COVID-19 infection 6 weeks prior,-1008
+tachycardia (142 bpm),0
+fever (103.4°F),0
+blood pressure normal,0
+respiratory rate normal,0
+oxygen saturation normal,0
+full range of neck motion,0
+no respiratory distress,0
+no stridor,0
+shotty posterior cervical lymphadenopathy,0
+elevated CRP (129.3 mg/L),0
+elevated ESR (55 mm/h),0
+lymphopenia (0.6 × 10^9/L),0
+normal WBC (8.4 × 10^9/L),0
+mild hyponatremia (133 meq/L),0
+negative group A Streptococcus,0
+negative SARS-CoV-2 PCR,0
+negative influenza A and B,0
+negative respiratory syncytial virus,0
+blood cultures sent,0
+neck X-ray paravertebral soft tissue swelling,0
+CT neck retropharyngeal phlegmon or early abscess,0
+bilateral reactive lymphadenopathy,0
+dexamethasone administered,0
+IV ampicillin-sulbactam started,0
+maintenance IV fluids,0
+pediatric ENT consulted,0
+persistent high-grade fevers,72
+tachycardia (120-140 bpm),72
+tachypnea (20-30/min),72
+clinical deterioration,72
+worsening tachycardia,72
+tachypnea,72
+borderline hypotension responsive to fluids,72
+ongoing fevers,72
+softer voice,72
+facial edema,72
+increased neck pain with motion,72
+new prominent cardiac gallop,96
+1+ soft pulses,96
+mild hepatomegaly,96
+CRP increased to 315.6 mg/L,96
+IV vancomycin added,96
+repeat CT neck unchanged retropharyngeal phlegmon,96
+CT chest bilateral pleural effusions,96
+subsegmental atelectasis,96
+periportal edema,96
+mediastinal lymphadenopathy,96
+transferred to PICU,102
+epinephrine infusion started,102
+high-flow nasal cannula (10 L),102
+cardiac echocardiogram biventricular systolic dysfunction,102
+dilated cardiac chambers,102
+positive SARS-CoV-2 serologies,102
+elevated troponin (102 ng/L),102
+elevated BNP (2730.9 pg/mL),102
+elevated D-dimer (3743 ng/mL),102
+elevated ferritin (290 ng/mL),102
+elevated fibrinogen (687 mg/dL),102
+INR 1.2,102
+IVIG (2 g/kg) started,102
+methylprednisolone every 12 hours,102
+enoxaparin started,102
+clinical improvement,150
+discharged,192
+normal cardiac function at follow-up,336
+normal coronary arteries,336

@@ -1,0 +1,80 @@
+A 75-year-old man (body mass index 24.49 kg·m−2) presents to the emergency department with fever, myalgia and dyspnoea, which he has had for the last 4 days. He quit smoking 15 years ago (40 pack-years). His only medical history is hypertension treated with valsartan and amlodipine. He travelled recently and stayed in a motel. On admission, his temperature is 38.7°C, blood pressure 132/67 mmHg, heart rate 102 beats per min and respiratory rate 24 breaths per min. Arterial blood gases (ABG) analysis shows severe hypoxaemia with arterial oxygen tension (PaO2) 47.1 mmHg (6.3 kPa), arterial carbon dioxide tension (PaCO2) 40.9 mmHg (5.5 kPa), pH 7.464, HCO3− 28.4 mmol·L−1 and arterial oxygen saturation (SaO2) 84.2% while breathing room air. Laboratory tests show anaemia (haemoglobin 10.7 g·dL−1), elevated white blood cells (11 420 per μL; 92.0% neutrophils and 4.6% lymphocytes), elevated C-reactive protein (19.97 mg·dL−1) and hyponatraemia with serum Na+ 127 mmol·L−1. The rest of laboratory tests are normal. Chest radiograph showa infiltrates in both lungs. Antibiotic therapy with intravenous ampicillin/sulbactam 3 g per 6 h and antiviral therapy with oral oseltamivir 75 mg per 12 h are initiated.
+
+Task 1
+Based on the patient's history and laboratory tests, which is the most likely pathogen that caused the infection?
+Streptococcus pneumoniae
+
+Staphylococcus aureus
+
+Legionella pneumophila
+
+Haemophilus influenzae
+
+
+
+Answer 1
+c. L. pneumophila infection is suspected in this patient due to hyponatraemia at presentation and his recent accommodation at a motel (central air conditioning system).
+
+Extensive microbiological and serological testing of bronchial secretions, blood and urine samples to identify the responsible pathogen is performed. Detection of soluble Legionella antigen in urine is a rapid technique with a sensitivity of 70–100% and a specificity of almost 100% for the recognition of L. pneumophila serogroup 1 [1]. Sensitivity can be improved by up to 20% by 25-fold concentration of urine specimens taken within 7 days of the onset of pneumonia [2]. False-positive urinary antigen outcomes can be seen in patients with serum sickness [3]. The main drawback of the urinary antigen examination is that is it unable to identify L. pneumophila serogroups other than serogroup 1; however, serogroup 1 causes most of the cases of Legionnaires' disease. The positive results of the urinary test may remain positive for weeks, even after antibiotic therapy. Broad-spectrum tests that distinguish soluble antigens from a varied assortment of Legionella species have emerged but are not commercially accessible [4].
+
+As the Legionella urinary antigen test is positive, the antibiotic therapy is changed to moxifloxacin 400 mg per 24 h. 1 day after admission, the patient develops haemoptysis with haemodynamic instability and type I respiratory failure not responding to noninvasive ventilation. His ABGs are PaO2 41.7 mmHg (5.6 kPa), PaCO2 40.6 mmHg (5.4 kPa), pH 7.427, HCO3− 25.9 mmol·L−1 and SaO2 77.1% while breathing with non-rebreather mask. He is intubated and transferred to the respiratory failure unit (intensive care unit). Chest computed tomography is performed and shows extensive bilateral infiltrates (figure 1).
+
+Figure 1 Chest computed tomography showing extensive bilateral infiltrates.
+
+On admission to the intensive care unit, the patient's condition deteriorates with blood in the bronchial secretions, high oxygenation index at 51.3 and increased need for haemodynamic support. His renal function deteriorated (creatinine 4.75 mg·dL−1) and haemoglobin (6.7 g·dL−1) reduced. The results from a urine sample show many red blood cells (160–170 per optical field) with severe morphological deterioration indicating glomerular origin.
+
+Task 2
+Which examination is the most appropriate to investigate the cause of the patient's deterioration?
+Osteomyelitis biopsy
+
+Bronchoscopy
+
+Peripheral blood smear
+
+White blood cell immunophenotype
+
+
+
+Answer 2
+b. Bronchoscopy is performed to search for possible alveolar haemorrhage, since the patient presents bloody sputum and reduction of haematocrit. Additionally, samples for the detection of microorganisms responsible for a possible infection are collected.
+
+Bronchoscopy reveals bloody secretions coming from both lungs. Bronchoalveolar lavage (BAL) reveals iron-laden macrophages; microbiology results are negative for bacteria, mycobacteria and fungi; and cytology is negative for malignancy. The patient is transfused with fresh frozen plasma and red blood cells.
+
+Task 3
+Which diagnostic test would you use first to explain the combined alveolar and glomerular haemorrhage?
+Blood sample to detect anti-neutrophil cytoplasmic antibodies (ANCA) and/or anti-glomerular basement membrane (anti-GBM) antibodies
+
+Renal biopsy
+
+Transbronchial lung biopsy
+
+Lung biopsy by video-assisted thoracic surgery
+
+
+
+Answer 3
+a. Due to the combined pulmonary (haemorrhagic secretions with haemoglobin reduction) and renal disease, vasculitis is suspected, and samples for the detection of ANCA and anti-GBM antibodies are collected.
+
+Positive cytoplasmic ANCA (C-ANCA) (proteinase-3) (150.46 EU·mL−1) but negative anti-GBM (0.54 U·mL−1) are found. Due to the patient's critical condition, invasive methods (lung or renal biopsies) are not indicated.
+
+Methylprednisolone 1 g per 24 h i.v. and cyclophosphamide 15 mg·kg−1 are initiated together with the antibiotic therapy but unfortunately, the patient develops severe diffuse alveolar haemorrhage (DAH) with respiratory and haemodynamic instability unresponsive to the adjustment of the mechanical ventilation, plasma, blood transfusion and vasopressor therapy.
+
+Discussion
+We present here the case of a patient with Legionella infection who developed severe DAH and acute renal failure with positive C-ANCA. DAH led to respiratory failure and intubation of the patient.
+
+Vasculitides are a heterogeneous group of clinicopathological entities with the common feature of vascular inflammation and injury, and they may be triggered by infections. ANCA have been detected in patients with various acute or chronic infections (pneumonia, fungal infections, tuberculosis, sepsis, endocarditis and HIV) [5]. The pathogenetic mechanisms are mainly immunological, with immune complex-mediated tissue injury being the most commonly incriminated factor [6]. Infectious agents may induce the production of cytokines and the recruitment of neutrophils to the small vessels may lead to the development of vasculitis. Many infectious factors have been associated with idiopathic vasculitis. For example, Mycobacterium tuberculosis was associated with Takayasu arteritis, Burkholderia bacterium with giant cell arteritis, and hepatitis B and C viruses with polyarteritis nodosa [7].
+
+Legionella causes 2–15% of all cases of community-acquired pneumonia requiring hospitalisation. Legionella infection may be complicated by severe alveolar haemorrhage and acute renal failure. The most probable mechanisms involve an immunological response of the host to an unidentified toxin produced by the organism and rhabdomyolysis [8–10]. After the damage and necrosis of the alveolar epithelium and endothelium by a tissue-destructive protease produced by Legionella, red blood cells translocate from the alveolar capillaries to the alveoli, leading to DAH [11, 12].
+
+Pulmonary renal syndromes, connective tissue disorders and drugs should be included in the differential diagnosis of DAH. Αcute renal failure and DAH may be a part of the clinical presentation of vasculitis. Pulmonary infections are not commonly associated with DAH. The diagnostic approach includes a careful medical history, physical examination and laboratory studies, with emphasis on serological analyses for vasculitides and connective tissue diseases, radiological findings from chest radiography and computed tomography, bronchoscopy, and diagnostic biopsies. Timely bronchoscopy is helpful in the patients who are presumed to have DAH. Bronchoscopy is generally used to verify alveolar bleeding and exclude infection. An increasing red blood cell count in consecutive BAL specimens taken from the same area is indicative of DAH [13]. The value of transbronchial biopsy is debatable due to the small size of the samples and the mechanical disintegration of tissue architecture [14, 15]. Tissue biopsy from the most easily assessed sites, such as the upper airway or the skin, comprises a crucial part of the diagnosis, despite the fact that sometimes a reliable diagnosis could be made in the absence of biopsy [15]. If connective tissue diseases, systemic vasculitis or Goodpasture's syndrome is suspected, kidney biopsy is recommended [13]. If the respiratory system is involved in the clinical syndrome, surgical lung biopsy may be required for diagnostic confirmation. However, lung biopsy may not be always capable to detect the original cause of DAH [13, 16].
+
+Granulomatosis with polyangiitis (GPA) is the most common of the ANCA-associated vasculitides and is characterised by upper airway and lower respiratory tract involvement, and glomerulonephritis [17]. However, these are not affected at the initial presentation of the disease. Positive C-ANCA is frequently found in active, systemic disease (85–95%) but when the disease is organ-limited, the sensitivity drops to 60–65%. Pulmonary manifestations may involve cavitary disease and nodular or interstitial infiltrates [17]. DAH is a rare manifestation of GPA. DAH with pathological capillaritis on biopsy is the most common lung manifestation of microscopic polyangiitis. Positive C-ANCA is not as common (10–15% of patients) as positive perinuclear ANCA (50–75% of patients) in microscopic polyangiitis [17].
+
+Treatment for DAH targets both the original cause and the impairment of the membrane of the alveolar capillaries caused by autoantibodies. Immunosuppressive drugs are the gold standard of treatment for the majority of patients with DAH, particularly if related to systemic or pulmonary vasculitis, connective tissue diseases, or Goodpasture's syndrome. Methylprednisolone is generally suggested, and supplementary immunosuppressive agents like cyclophosphamide, azathioprine, methotrexate, mycophenolate mofetil and etanercept could be implemented as therapy in DAH, mainly in patients with severe disease that is resistant to primary treatment with corticosteroids [18–20]. Plasmapheresis is recommended for DAH related to systemic or pulmonary vasculitis, or Goodpasture's syndrome, in which the titres of autoantibodies and immune complexes are particularly high [13]. Recombinant activated human factor VII appears to constitute an encouraging novel treatment; however, additional assessment is necessary [13]. Our patient received methylprednisolone 1 g (planned for three consecutive days) and cyclophosphamide 15 mg·kg−1
+i.v. as induction therapy. High methylprednisolone pulses are still the first choice of treatment in DAH due to immune disease [19]. Plasmapheresis was not performed because the patient deteriorated acutely.
+
+A limitation of our case was that vasculitis was not diagnosed by renal biopsy. However, C-ANCA positive antibodies that were not previously present and the presence of many glomerular-origin red blood cells in urine sample strongly support this diagnosis.
+
+This case report indicates that perhaps there is a causative relationship that is yet to be elucidated between Legionella infection and vasculitis causing DAH. There are studies supporting the possible correlation of these two entities [19, 20]. The patient's history before admission supports this possible correlation, as acute renal failure and DAH can be both attributed to the immune response.
+
+Conflict of interest: None declared.

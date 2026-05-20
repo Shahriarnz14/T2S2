@@ -1,0 +1,119 @@
+event,time
+40 years old,0
+man,0
+no significant medical history,0
+severe left-sided abdominal pain,-120
+nausea,-120
+vomiting,-120
+pain began in the groin five days prior,-120
+large step to avoid tripping,-120
+fevers,-120
+rigors,-120
+dysuria,-120
+dark-colored urine,-120
+admitted to the hospital,0
+temperature 103.3 F,0
+pulse 160 beats/min,0
+blood pressure 102/71 mm Hg,0
+respiratory rate 28,0
+oxygen saturation 92%,0
+marked tenderness over left abdomen,0
+flank tenderness,0
+left costovertebral angle tenderness,0
+no overlying erythema,0
+no warmth of the skin,0
+abdomen mildly distended,0
+no hepatosplenomegaly,0
+no rebound tenderness,0
+no guarding,0
+"WBC 8,600/µl",0
+serum creatinine 2.7 mg/dL,0
+total bilirubin 1.8 mg/dL,0
+alanine aminotransferase 66 U/L,0
+urinalysis unremarkable,0
+blood cultures taken,0
+empiric piperacillin-tazobactam started,0
+presumed intra-abdominal sepsis,0
+presumed pyelonephritis,0
+CT scan retroperitoneal fluid collection,0
+fluid medial to left internal oblique muscle,0
+fluid extending into pelvic extraperitoneal space,0
+fluid extending into medial paraspinous musculature,0
+fluid tracked along fascial planes,0
+associated fascial edema,0
+no kidney abnormalities,0
+no intestinal abnormalities,0
+observed in intensive care unit,0
+tachycardia persisted,0
+pain persisted,0
+frequent febrile episodes,0
+"WBC increased to 15,000/µl",24
+hemodynamically stable,0
+breathing comfortably on room air,0
+blood cultures grew group A streptococcus,24
+antibiotic changed to ceftriaxone and clindamycin,24
+abdomen less distended,24
+continued parasthesia left abdomen,24
+continued parasthesia flank,24
+continued parasthesia groin,24
+pitting edema of involved area,24
+no erythema,24
+no warmth,24
+no bullae formation,24
+repeat CT scan hospital day five,120
+persistence of fluid left flank musculature,120
+persistence of fluid fascial planes,120
+GAS bacteremia,24
+systemic toxicity,24
+azotemia,24
+liver involvement,24
+possible necrotizing fasciitis,24
+possible toxic shock syndrome,24
+monitored in intensive care unit,0
+surgery team hesitant to explore,24
+general surgery consultants evaluated,24
+no plans for operation,24
+remained febrile,120
+continued parasthesia,120
+drainage necessary,120
+interventional radiology consultation,120
+CT-guided drainage catheter placement,168
+turbid yellow fluid obtained,168
+"cell count 31,400 WBC",168
+95% PMNs,168
+gram stain no organisms,168
+cultures no growth,168
+immediate pain relief,168
+fever resolution,168
+drain output brisk,168
+drain persisted one week,168
+CT scan significant improvement,240
+complete renal recovery,240
+bilirubin normalized,240
+alanine aminotransferase normalized,240
+discharged,240
+home infusion ceftriaxone,240
+initial ESR elevated,0
+continued therapy six weeks,672
+follow-up CT eight weeks,1344
+near resolution fascial edema,1344
+near resolution fluid,1344
+full recovery,1344
+diagnosis challenging,0
+minimal cutaneous involvement,0
+decision for drainage,168
+slow progression of disease,168
+ceftriaxone therapy,24
+clindamycin therapy,24
+radiologic findings thickened fascia,0
+fluid collection along deep fascial sheaths,0
+edema extension into intramuscular septa,0
+edema extension into muscles,0
+no soft-tissue gas,0
+direct visualization not performed,0
+histopathologic characterization not performed,0
+muscle-compartment pressures not measured,0
+risk factors minor trauma,-120
+risk factors muscle strain,-120
+GAS bacteremia secondary to soft-tissue infection,24
+interventional radiology drainage successful,168

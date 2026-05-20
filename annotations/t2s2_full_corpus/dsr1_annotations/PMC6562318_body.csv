@@ -1,0 +1,79 @@
+event,time
+60-year-old man,0
+benign prostatic hyperplasia,0
+diabetes mellitus type 2,0
+hemoglobin A1c of 7.8,0
+history of urinary tract infections,0
+presented to the emergency department,0
+abdominal pain,-168
+gross hematuria,-168
+difficulty voiding,-168
+worsening pain,-24
+pneumaturia,-24
+acute urinary retention,-24
+tachycardic,0
+normotensive,0
+febrile to 102 °F,0
+rigors,0
+abdominal guarding,0
+rebound tenderness,0
+suprapubic tenderness,0
+bedside bladder scan showed 50 cc volume,0
+lactic acid of 3.4 mMol/L,0
+white blood cell count of 7.9 K/μL,0
+hemoglobin of 8.9 g/dL,0
+serum sodium of 132 mEq/L,0
+creatinine of 2.27 mg/dL,0
+urinalysis: 11–50 WBC/hpf,0
+urinalysis: >100 RBC/hpf,0
+urinalysis: positive nitrates,0
+urinalysis: moderate leukocyte esterase,0
+upright chest x-ray obtained,0
+free air under the diaphragm,0
+CT scan of abdomen and pelvis,0
+extensive pneumoperitoneum,0
+emphysematous cystitis,0
+bilateral hydronephrosis,0
+emphysematous pyelitis,0
+possible abscess near bladder dome,0
+suspicion for bowel perforation,0
+differential: enterovesical fistula,0
+differential: bladder perforation,0
+general surgery consultation,0
+urology consultation,0
+intravenous fluids administered,0
+broad-spectrum antibiotics administered,0
+exploratory laparotomy,0
+cystoscopy,0
+cloudy free fluid encountered in peritoneum,0
+culture sent,0
+no evidence of bowel perforation,0
+fibrotic and devitalized intraperitoneal bladder,0
+3–4 mm defect at bladder dome,0
+bladder necrosis,0
+cystoscopy confirmed bladder perforation,0
+diffuse bladder inflammation,0
+bladder trabeculations,0
+bladder diverticula,0
+partial cystectomy,0
+removal of necrotic bladder tissue (7×5 cm),0
+abscess pockets in bladder tissue,0
+bladder edges debrided,0
+suprapubic catheter placed,0
+urethral catheter placed,0
+bladder closed in two layers,0
+abdomen irrigated,0
+transferred to ICU,0
+sepsis management,0
+lactic acidosis resolved,+24
+hemodynamically stable,+24
+discharged on postoperative day four,+96
+trimethoprim-sulfamethoxazole course,+96
+failed voiding trials,+96
+scheduled for transurethral resection of prostate,+96
+urine culture grew Escherichia coli,+96
+intra-abdominal culture grew Escherichia coli,+96
+pathology: focal transmural necrosis,+96
+pathology: acute and chronic inflammation,+96
+pathology: intramural abscess,+96
+pathology: serositis with fibrosis,+96

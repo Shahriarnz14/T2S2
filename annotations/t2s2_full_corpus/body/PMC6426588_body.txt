@@ -1,0 +1,65 @@
+1 Introduction
+Nocardia spp. infection is uncommon. It involves the lungs and spreads to the central nervous system (CNS) in rare cases,[1,2] affecting immunocompromised individuals primarily.[2,3] Nevertheless, one-third of the patients infected with Nocardia are immunocompetent.[4] It is uncommon to observe Nocardia beijingensis spreading into the CNS of immunocompetent individuals since this is a species that seldom infects humans. We report for the first time in Latin America, a patient with no signs of immunosenescence, HIV co-infection, cancer chemotherapy, or long-term use of immunomodulatory therapy, presenting a brain abscess caused by N. beijingensis as shown by matrix-assisted laser desorption ionization–time-of-flight mass spectrometry (VITEK MS) and heat shock protein 65 (hsp65) and 16S-23S rRNA gene intergenic spacer (ITS) genotyping. Mederi is a teaching hospital and, upon admission, all patients sign an informed consent authorizing the anonymous use of clinical and paraclinical data. The ethics committee at Hospital Universitario Mayor Méderi approved this study (Reference # DVO005 587-CV1021).
+
+2 Case report
+A 58-year-old male, with no history of concomitant disease, reported a 6-month headache with progressive right hemiparesis (more visible in the arm). Hyperreflexia and positive right Babinski reflex were also observed. A computed tomography (CT) scan showed a left thalamic lesion with ring-enhancement pattern (Fig. 1). Blood test showed leukocytosis (13,000 cell/mL) with negative detection of anti-HIV antibodies. VITEK MS analysis suggested that the infection was caused by N. beijingensis. This initial diagnosis led us to administer triple antibiotic therapy (1 g meropenem and 15 mg/kg trimethoprim/sulfamethoxazole/amikacin every 8 hours). The ventriculostomy system was shown to be closed; nevertheless, extensive swelling was still observed leading to the insertion of an Ommaya reservoir (Fig. 1).
+
+Figure 1 Pre and postsurgical CT scans. Presurgical intraparenchymatous lesion with inner septum, involving thalamus, mesencephalon, and left caudate nucleus. Lesion shows the adjacent edema in axial (A) and coronal (B) views. Postsurgical changes in the left frontal craniectomy showing the ventricular catheter in distal frontal horn and Ommaya reservoir, with intraparenchymatous infiltrative lesion in left thalamus (34 × 35 × 34 mm), ring-enhancement associated with multiple septum and cystic-necrotic content. Axial (C and D) and sagittal (E) views are shown. CT = computed tomography.
+
+Blood and cerebrospinal fluid cultures were negative. Thoracoabdominal CT scan did not show any mass or solid organ lesion. Transthoracic and transesophageal echocardiograms ruled out endocarditis. The patient showed clinical improvement in the following week but then he had a seizure episode with anisocoria. An emergency CT scan was taken and orotracheal intubation was performed.
+
+The brain CT scan showed severe swelling and an increase in abscess size with supratentorial ventriculomegaly and cisternal obstruction. An emergency Ommaya puncture was performed, and a turbid-yellow liquid was retrieved. The patient required another surgical intervention where the abscess was drained, the capsule was partially resected, and a contralateral ventriculostomy system was attached. In the intensive care unit (ICU), the individual developed a systemic inflammatory response syndrome (SIRS) due to Pseudomonas aeruginosa and Klebsiella pneumoniae tracheitis that was managed with 500 mg intravenous vancomycin every 12 hours; however, fever and tachycardia persisted. Chest X-ray showed multilobed opacities and a blood culture revealed the presence of gram-positive bacilli. A septic shock with pulmonary foci was suspected so the patient was maintained under a multiple antibiotic regimen. Two days later, the patient required vasoactive support and anticonvulsive management for myoclonic movements. Two additional CT scans were performed during this period without new development at the abscess or hydrocephalus. Finally, the individual showed SIRS suggestive of multisystem infection, with significant increase of blood ureic nitrogen and creatinine, anuria, and an increase in ventilation requirements leading to his death after 14 days in the ICU.
+
+To unambiguously identify the exact Nocardia species that caused the decease of the patient, the intraoperative sample collected was grown on 7H10 medium supplemented with oleic/albumin/dextrose/catalase (OADC). Two individual colonies (see Nc1 and Nc2 in Figure, Supplemental Digital Content 1, which illustrates the loci that were amplified and sequenced) were inoculated into 7H9-OADC broth and grown for 96 hours at 37°C under constant shaking. Cells were harvested by centrifugation at 3500 × g for 10 minutes and suspended in STET buffer (10 mM Tris-HCl, 0.1 M NaCl, 1 mM ethylenediaminetetraacetic acid, 5% [v/v] Triton X100, pH 8.0).[5] Bacteria were lysed at 100°C for 30 minutes and spinned-down at 10,000  × g for 10 minutes to collect the soluble fraction. In a separate microcentrifuge tube, DNA was precipitated from the soluble fraction with 95% ethanol at −20°C for 18 hours, resuspended in double-distilled water and quantified with a Thermo Scientific Multiskan GO (Vantaa, Finland). Degenerate oligos (hsp65F 5’-ACCAACGAYGGTGTBTCCAT-3’, hsp65R 5’-CTTGTCGAASCGCATRCCCT-3’) were used to amplify a 441 bp fragment from the hsp65 locus[6] with GoTaq Long PCR Master Mix (Promega, Madison, WI) following the manufacturer instructions. In brief, an initial 2 minutes denaturation step at 95°C was followed by 35 cycles of 95°C denaturation for 30 seconds, 55.4°C annealing for 30 seconds, and 72°C extension for 1 minute. A final 10 minutes extension step at 72°C was also programmed. The resulting product (see Figure, Supplemental Digital Content 1, which shows the amplification product for hsp65 as observed on an agarose gel) was cleaned-up using the Wizard SV Gel and PCR clean-up system (Promega, Madison, WI).
+
+In addition, a 651 bp fragment corresponding to the ITS region[7] was amplified using the following oligos: 16Sf 5’-GAAGTTGGAGTCGCTAGTAATCGCAGATCAGC-3’ and 23Sr 5’-GACAGCTCCCCGAGGCTTATCGCA-3’. The PCR settings used for the hsp65 fragment were also used for the ITS region with a minor modification: 69.4°C as annealing temperature. A product of the expected size (see Figure, Supplemental Digital Content 1, which illustrates the loci that were amplified and sequenced) was purified from a 1% agarose gel with the Wizard SV Gel and PCR clean-up system (Promega). Finally, purified PCR products were sequenced by the Sanger method, trace files were manually curated with MEGA-X[8] and the resulting sequences were searched by blast against the NCBI nucleotide collection (nr) to identify the best hit corresponding to the isolate's genotype. Sequencing of these 2 loci revealed the identity of the etiologic agent as N. beijingensis (see Figure, Supplemental Digital Content 2, showing the sequences obtained).
+
+3 Discussion
+Nocardia spp., are weak gram-positive, branching filamentous bacilli of the order Actinomycetales that frequently infect immunocompromised individuals.[1,3,4]Nocardia most frequently affects the lungs and the CNS is rarely involved,[1,4,9–12] mainly in the form of an abscess; however, it can also occur as meningitis, ventriculitis, or spinal cord infections.[13,14] The most common features of the CNS abscesses are supratentorial individual lesions leading to 57% mortality in immunocompromised individuals and 66% for patients with multiple lesions.[13,15]
+
+Worldwide, many Nocardia species cause abscesses in the CNS, being members of the Nocardia asteroides complex the most common causing agents.[12,15] Less common are the cases where N. beijingensis is the etiologic agent.[12] The first case of N. beijingensis infection in an immunocompetent patient from the United States was registered in 2014[4] and the case we present here corresponds to the first reported for Latin America, a region with twice the population of the United States and a fragile public health system, thus facilitating the unnoticed spread of infections like this.
+
+Abscesses caused by Nocardia develop a vascularized wall made of astrocytes and glial roots that can be seen in a CT scan or magnetic resonance imaging as a single or double ring enhancement depending of the capsular phase.[16] The late capsular phase shown in this case report corresponds to a multiloculated abscess.
+
+N. beijingensis was first isolated from a soil sample in China in 2001.[17] Since then, some clinical cases have been reported, targeting the lungs and spreading to the CNS in rare cases. Diagnosis of this condition requires a precise assessment of risk factors and epidemiology, as well as the isolation and culture of bacteria. For CNS episodes, the most common method to study the lesion is the less invasive stereotactical approach.[9,15,18]Nocardia genotyping involves the amplification and sequencing of multiple regions in the loci encoding rRNAs and the hsp65. We typified the isolate molecularly using a combined strategy of multi-loci sequencing and mass spectrometry analysis.
+
+Microorganism isolation is crucial to promptly start the treatment with an effective antibiotic combination. Most Nocardia species are susceptible to trimethoprim/sulfamethoxazole,[4,19] that is the most commonly used therapy and our therapeutic choice for this patient.
+
+Here, we report the first case in Latin America of CNS infection with N. beijingensis causing a brain abscess in an immunocompetent patient. Further research is needed to establish whether this species is more virulent than other Nocardia isolates due to the absence of immunocompromise in the patient. Finally, we hope this case can provide a reference for incoming patients and their clinical management.
+
+Author contributions
+Conceptualization: David M. Solano-Varela, Edgar M. Barrios-Vidales, David F. Plaza, Manuel A. Patarroyo.
+
+Data curation: David M. Solano-Varela, Edgar M. Barrios-Vidales, David F. Plaza, Manuel A. Patarroyo.
+
+Formal analysis: David M. Solano-Varela, Edgar M. Barrios-Vidales, David F. Plaza, Manuel A. Patarroyo.
+
+Funding acquisition: Manuel A. Patarroyo.
+
+Investigation: David M. Solano-Varela, Edgar M. Barrios-Vidales, David F. Plaza, William M. Riveros, Julián Guzmán, Claudia E. Chica, Manuel A. Patarroyo.
+
+Methodology: David M. Solano-Varela, Edgar M. Barrios-Vidales, David F. Plaza, William M. Riveros, Julián Guzmán, Claudia E. Chica, Manuel A. Patarroyo.
+
+Project administration: Manuel A. Patarroyo.
+
+Resources: Manuel A. Patarroyo.
+
+Supervision: Manuel A. Patarroyo.
+
+Writing – original draft: David M. Solano-Varela, Edgar M. Barrios-Vidales, David F. Plaza, William M. Riveros, Julián Guzmán, Claudia E. Chica, Manuel A. Patarroyo.
+
+Writing – review & editing: David M. Solano-Varela, Edgar M. Barrios-Vidales, David F. Plaza, William M. Riveros, Julián Guzmán, Claudia E. Chica, Manuel A. Patarroyo.
+
+Manuel A. Patarroyo orcid: 0000-0002-4751-2500.
+
+Manuel Alfonso Patarroyo orcid: 0000-0002-4751-2500.
+
+Supplementary Material
+Supplemental Digital Content
+ Abbreviations: CNS = central nervous system, CT = computed tomography, hsp65 = heat shock protein 65, ICU = intensive care unit, ITS = 16S-23S rRNA gene intergenic spacer, OADC = oleic/albumin/dextrose/catalase, SIRS = systemic inflammatory response syndrome, VITEK MS = matrix-assisted laser desorption ionization–time-of-flight mass spectrometry.
+
+David M. Solano-Varela, Edgar M. Barrios-Vidales, and David F. Plaza contributed equally to this work.
+
+The authors have no conflicts of interest to disclose.
+
+Supplemental Digital Content is available for this article.

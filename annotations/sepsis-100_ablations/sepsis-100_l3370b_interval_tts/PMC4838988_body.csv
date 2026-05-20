@@ -1,0 +1,75 @@
+event,time
+63 years old,0
+female,0
+admitted to the hospital,0
+general body malaise,-48
+diarrhea,-48
+vomiting,-48
+influenza-like symptoms,-48
+confusion,0
+splenectomy,-77496
+idiopathic thrombocytopenic purpura,-77496
+menometrorhagia,-77496
+vaccinated with PPV23,-672
+fever,0
+hypotension,0
+bradycardia,0
+tachypnea,0
+decreased oxygen saturation,0
+cyanosis,0
+severe sepsis,0
+volume therapy,0
+broad-spectrum antimicrobial therapy,0
+hydrocortisone,0
+white blood cell count,0
+neutrophils,0
+hemoglobin,0
+thrombocytes,0
+C-reactive protein,0
+P-lactate,0
+aB-P-O2,0
+aB-P-CO2,0
+aB-pH,0
+Streptococcus pneumococcal urinary antigen test,0
+disseminated intravascular coagulation,48
+microthrombi,48
+blood cultures showed growth of S. pneumoniae,48
+antimicrobial treatment changed to penicillin G,48
+suspicion of endocarditis,72
+trans-thoracic echocardiography,72
+modest hypokinesia of the apical part of the left ventricle,72
+ejection fraction of 45%,72
+necrosis of the fingertips and toes,72
+renal insufficiency,72
+hemodialysis,72
+antibiotic therapy altered to ceftriaxone,96
+leucocytes decreased,96
+CRP decreased,96
+fever dissolved,96
+tracheal secret for culture,96
+culture was negative,96
+transferred from the ICU to the medical department,216
+antibiotics stopped,216
+serological analysis of the pneumococcal isolate,216
+serotype 12F,216
+discharged,528
+oral dicloxacillin,528
+necrotic fingers and toes amputated,774
+readmitted with severe sepsis,1296
+sepsis regimen and ceftriaxone therapy,1296
+transesophageal echocardiography,1296
+endocarditis with several moving elements on the aortic valve,1296
+blood cultures showed growth of S. pneumoniae,1296
+antimicrobial treatment altered to penicillin G,1296
+treated conservatively with penicillin G,1296
+recovered,1476
+antipneumococcal-12F-antibodies measured,-432
+antibody response to serotype 12F,-432
+antibody levels to 12F,-432
+serological tests of the pneumococcal capsule polysaccharides,-432
+vaccination coverage for the individual patient,0
+vaccination is no guarantee against infection,0
+need for titer cut-offs for the remaining pneumococcal serotypes,0
+laboratory answers to the clinicians should be more detailed,0
+patients at increased risk of IPD,0
+compromised immune function,0

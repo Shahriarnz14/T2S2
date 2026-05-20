@@ -1,0 +1,83 @@
+event,time
+76 years old,0
+male,0
+frail,0
+bladder cancer,0
+regional lymph node involvement,0
+Clostridium difficile infection (CDI),0
+presented to the hospital,0
+vomiting,-72
+watery diarrhea,-72
+anorexia,-72
+mild odynophagia,-72
+recurrent CDI,-72
+oral vancomycin,-72
+minimal symptomatic improvement,-72
+alert,0
+interactive,0
+hypotensive,0
+blood pressure 80/40 mm Hg,0
+acute renal dysfunction,0
+lactic acidosis,0
+leukocytosis,0
+bandemia,0
+basilar atelectasis,0
+diffuse colonic wall-thickening,0
+peri-colonic fat-stranding,0
+no bowel dilatation,0
+no perforation,0
+normal saline boluses (2 L),0
+lactated ringers boluses (3 L),0
+norepinephrine 0.4 μg/kg/min,0
+oral vancomycin,0
+broad-spectrum intravenous antibiotics,0
+clinical improvement,0
+admitted to medical ICU,0
+septic shock,0
+fulminant CDI,0
+mental status excellent,0
+urine output >0.5 mL/kg/hr,0
+resolving lactic acidosis,0
+back pain,6
+worsening shock,6
+multi-organ failure,6
+five vasopressors,6
+unrevealing abdominal plain films,6
+emergent endotracheal intubation,6
+orogastric tube placement,6
+bilateral hydropneumothorax,6
+pneumomediastinum,6
+chest tube placement,6
+1 L dark fluid from each pleural space,6
+suspected esophageal perforation,6
+clinical instability,6
+deferred cross-sectional imaging,6
+"pleural fluid amylase 2,238 units/L",6
+serum amylase 84 units/L,6
+Gram-positive cocci and rods,6
+multiple aerobic Gram-positive organisms,6
+shock,6
+progressive renal impairment,6
+mixed refractory acidemia,6
+continuous veno-venous hemodiafiltration,6
+mechanical ventilation,6
+vasopressor support,6
+stabilized condition,6
+CT chest,30
+locules of air communicating to distal esophagus,30
+orogastric tube penetrating into lesser sac of stomach,30
+multi-disciplinary discussions,30
+endoscopic intervention,72
+extensive esophageal necrosis,72
+complete separation of lower esophagus from stomach,72
+unsutured fully-covered metal stent deployment,72
+parental nutrition,72
+chest tubes maintained,72
+vasopressors titrated off,168
+dialysis discontinued,168
+extubated,168
+surgical intervention deferred,168
+mediastinitis,240
+recurrent respiratory failure,240
+comfort-focused approach,240
+passed away,240

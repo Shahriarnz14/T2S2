@@ -1,0 +1,93 @@
+pmcKEY POINTS
+
+The Ixodes scapularis tick is a vector implicated in multiple tickborne illnesses, including Lyme disease, human granulocytic anaplasmosis, babesiosis and Powassan virus disease.
+
+In Canada, the burden and geographic distribution of I. scapularis and its associated pathogens continues to increase, resulting in discovery of these infections in new regions.
+
+Ticks harbouring multiple pathogens are uncommon (< 1%) but are increasingly observed.
+
+Tick-borne illnesses can have potentially life-threatening complications, including hemophagocytic lymphohistiocytosis, and should be included on the differential diagnosis in any patient presenting with fever, particularly those with multisystem manifestations.
+
+A 74-year-old man with end-stage renal disease was admitted to hospital in the spring after an episode of syncope that occurred during a hemodialysis session 1 day after he returned from his cottage in eastern Ontario. Within 24 hours of admission, he developed a fever (38.6°C) and tachycardia (101 beats/min). On examination, he was confused, without evidence of nuchal rigidity, jaundice, cardiorespiratory abnormalities, lymphadenopathy, hepatosplenomegaly or abdominal tenderness. Initial laboratory investigations were normal (Table 1) aside from mild anemia and a slight elevation in aspartate transaminase; computed tomography scans of the head, chest, abdomen and pelvis were also normal. A working diagnosis of sepsis was made, and the patient was started on intravenous (IV) piperacillin–tazobactam and vancomycin.
+
+Table 1: Laboratory investigations in a 74-year-old man with anaplasmosis
+
+Investigation	On admission to hospital	On admission to ICU (day 5 of admission)	Reference range	
+Hemoglobin, g/L	111	80	125–170	
+Platelets, × 109/L	210	48	150–400	
+Alanine transaminase, U/L	36	304	12–49	
+Aspartate transmainase, U/L	58	769	12–29	
+C-reactive protein, mg/L	–	503	< 10	
+Ferritin, μg/L	–	17 079	30–400	
+Triglycerides, mmol/L	–	3.20	< 1.70	
+Note: ICU = intensive care unit.
+
+The patient’s clinical status deteriorated over the following 4 days; he had high-grade fevers (up to 40.1°C) and decreasing level of consciousness. He became hypotensive and was transferred to the intensive care unit for vasopressor support and intubation. His anti-infective drugs were changed to IV acyclovir, ampicillin, ceftriaxone and vancomycin for empiric treatment of possible meningoencephalitis. Laboratory investigations showed anemia, thrombocytopenia, transaminitis and marked hyperferritinemia, which raised the suspicion of hemophagocytic lymphohistiocytosis (HLH). Magnetic resonance imaging of the brain was normal. A tick was discovered attached to the patient’s left calf (Figure 1), later confirmed to be Ixodes scapularis. A peripheral blood smear showed morulae within granulocytes (Figure 2), in keeping with anaplasmosis or ehrlichiosis. We added oral doxycycline as empiric treatment for possible tick-borne infection. Given the concern for HLH, we performed bone marrow aspiration and biopsy, which showed hemophagocytosis.
+
+Figure 1: Ixodes scapularis tick attached to the left calf of a 74-year-old man with human granulocytic anaplasmosis with secondary hemophagocytic lymphohistiocytosis.
+
+Figure 2: Peripheral blood smear from a 74-year-old man with human granulocytic anaplasmosis with secondary hemophagocytic lymphohistiocytosis, showing intragranulocytic morulae.
+
+We pursued a broad infectious work-up, given the hemophagocytosis and persistent fevers. Blood cultures, urine culture and serological testing for hepatitis B, hepatitis C, HIV, Epstein–Barr virus and cytomegalovirus were all negative. Polymerase chain reaction (PCR) tests of cerebrospinal fluid (CSF) for herpes simplex virus, varicella zoster, enterovirus and adenovirus were negative. Although we requested investigations of CSF cell count, glucose, and protein, these were not completed by the laboratory owing to a processing error.
+
+After identification of the tick, we ordered serology and molecular testing for tick-borne pathogens, namely Borrelia, Anaplasma, Ehrlichia and Babesia, as well as Powassan virus. These were positive for Anaplasma phagocytophilum (on PCR), Borrelia burgdorferi (on Western blot and enzyme-linked immunosorbent assay for immunoglobulin [Ig] M and IgG) and Powassan virus (on acute and convalescent serology, with initial titre of 1:10, which increased 2 wk later to 1:80).
+
+We diagnosed severe human granulocytic anaplasmosis with secondary HLH, as well as coinfection with Lyme disease and Powassan virus. The patient completed a 10-day course of doxycycline for anaplasmosis and a 3-week course of ceftriaxone for presumed Lyme encephalitis, with complete recovery. Given his clinical improvement with antimicrobials, we did not start the patient on other treatments for HLH. He was discharged home after a 55-day admission to hospital. The patient was seen in follow-up 3 months after presentation and was clinically well, with complete resolution of hematologic derangements.
+
+Discussion
+
+Epidemiology of tick-borne diseases in Canada
+
+Before 1998, the only known population of the I. scapularis tick in Canada was in Long Point, Ontario. Driven by climate change, with bird and small mammal migration, the tick’s geographic distribution has since expanded considerably to include large regions of central and eastern Canada. Modelling studies suggest continued expansion within the United States and Canada.1
+
+When caring for patients with suspected tick-borne illness in Canada, a number of potential pathogens should be considered (Table 2).2 Lyme disease is the most common tick-borne disease in Canada. It is predominantly caused by B. burgdorferi and Borrelia mayonii, harboured by Ixodes pacificus in British Columbia and by I. scapularis in all other provinces.2 In Europe and Asia, Lyme disease is caused by Borrelia afzelii and Borrelia garinii. Recently, B. garinii has been discovered in Ixodes uriae ticks in Newfoundland.3 Ixodes scapularis is also a vector of several other pathogens, including Anaplasma phagocytophilum, Borrelia miyamotoi, Ehrlichia muris eauclairensis, Babesia microti, Babesia duncani and Powassan virus. Anaplasma phagocytophilum, B. miyamotoi and B. duncani are widespread within Canada.4,5 Babesia microti remains restricted to the eastern provinces.2 Powassan virus is very uncommon, with only 39 clinical cases documented in the US in 2019. However, its geographic distribution is expanding, and seroprevalence studies indicate that human exposure to Powassan virus is becoming more common, with most cases being mild or asymptomatic.6
+
+Table 2: Geographic distribution of tick-borne pathogens and their vectors in Canada2
+
+Organism (tick-borne illness)	Principal tick vector	Geographic distribution in Canada	
+Anaplasma phagocytophilum (anaplasmosis)	Ixodes scapularis, Ixodes pacificus	BC, AB, SK, MB, ON, QC, NB, NL, NS, PEI	
+Babesia microti (babesiosis)	Ixodes scapularis	MB, ON, QC, NB, NS	
+Borrelia burgdorferi (Lyme disease)	Ixodes scapularis, Ixodes pacificus	BC, AB, SK, MB, ON, QC, NB, NS, NL, PEI	
+Borrelia hermsii (tick-borne relapsing fever)	Ornithodoros hermsi	BC	
+Borrelia mayonii (Lyme disease)	Ixodes scapularis, Ixodes angustus	ON, BC	
+Borrelia miyamotoi (tick-borne relapsing fever)	Ixodes scapularis, Ixodes pacificus	BC, AB, MB, ON, QC, NB, NS, NL, PEI	
+Colorado tick fever virus	Dermacentor andersoni	SK, AB	
+Ehrlichia chaffeensis or Ehrlichia ewingii (ehrlichiosis)	Amblyomma americanum	Not reported in Canada	
+Francisella tularensis (tularemia)	Dermacentor variabilis, Dermacentor andersoni, Amblyomma americaum	BC, AB, SK, MB, ON, QC, NB, NS, NL, PEI	
+Powassan virus (Powassan encephalitis)	Ixodes scapularis, Ixodes marxi, Ixodes cookie, Ixodes spinipalpis, Dermacentor andersoni	ON, QC, NB, PEI, MB, NS	
+Rickettsia rickettsia (Rocky Mountain spotted fever)	Dermacentor variabilis, Dermacentor andersoni, Rhipicephalus sanguineus	BC, AB, SK, ON, NS	
+Note: BC = British Columbia, AB = Alberta, SK = Saskatchewan, MB = Manitoba, ON = Ontario, QC = Quebec, NB = New Brunswick, NL = Newfoundland and Labrador, NS = Nova Scotia, PEI = Prince Edward Island.
+
+The presence of more than 1 pathogen harboured by a single tick is increasingly observed but remains uncommon, occurring in less than 1% of surveyed ticks.4 Coinfection by multiple tickborne pathogens remains possible either through inoculation by a single tick or (more likely) via multiple ticks harbouring different pathogens.
+
+Clinical presentation, diagnosis and management of tick-borne infections
+
+Anaplasmosis occurs after inoculation via a bite from a tick harbouring A. phagocytophilum. The organism infects host neutrophils and is disseminated to the blood, spleen and bone marrow, with an incubation period of 1–2 weeks. Initial manifestations include fever, malaise, headache and myalgias. Infection of myeloid progenitor cells in the bone marrow results in cytopenias. Moderate-to-severe illness is relatively common; US surveillance data suggest that around one-third of patients require hospital admission and 1%–7% develop life-threatening illness, including respiratory failure and acute respiratory distress syndrome, septic shock or disseminated intravascular coagulation.7
+
+A key aid in the diagnosis of anaplasmosis is the peripheral blood smear, which, as in this case, may show intracellular inclusions, or morulae, in circulating granulocytes. However, sensitivity is poor and definitive differentiation from other Anaplasmataceae, such as Ehrlichia species, is not possible on smear alone. Confirmation of the diagnosis can be achieved via PCR, which is more sensitive and highly specific.8 Serologic diagnosis can be established with detection of a fourfold rise in IgG titre between acute and convalescent plasma.
+
+Coinfection with other organisms also carried by I. scapularis, such as B. burgdorferi, can occur. Though neurologic manifestations are not common in anaplasmosis, patients with concurrent disseminated Lyme disease may develop neurologic disease including meningoencephalitis. Similarly, coinfection with Powassan virus may lead to encephalitis and development of focal neurologic signs. In the absence of CSF cell counts, it remains unclear whether our patient’s decreased level of consciousness was caused by concurrent Lyme meningoencephalitis or Powassan encephalitis, or was a consequence of his critical illness and hyperinflammatory state.
+
+Testing for other I. scapularis coinfections should be considered if the patient has compelling clinical or laboratory findings that are consistent with a secondary pathogen or if the patient requires admission to hospital. Coinfection may require additional therapy or prolongation of antibiotics.
+
+First-line treatment for both anaplasmosis and ehrlichiosis is oral doxycycline (100 mg) every 12 hours for 10–14 days.9 Clinical response is typically seen within 48 hours. Although treatment should not be delayed, it is important to obtain blood samples for blood smears and molecular testing before therapy is started to maximize sensitivity of the diagnostic tests. Treatment of Powassan virus is supportive.
+
+Anaplasmosis-induced hemophagocytic syndrome
+
+Hemophagocytic lymphohistiocytosis is an uncommon, life-threatening, hyperinflammatory syndrome characterized by excessive production of inflammatory cytokines due to aberrant activation and proliferation of cytotoxic T-lymphocytes and tissue macrophages.10 Clinical manifestations include fever, pancytopenia and multiorgan failure, driven by severe and rapidly progressive systemic inflammation. In adults, HLH is often triggered by malignant diseases (typically lymphomas), autoimmune disorders or infections. The 2004 revised diagnostic criteria are commonly used in practice for secondary (i.e., acquired, rather than inherited) HLH.10 Accordingly, the diagnosis of HLH requires at least 5 of the following criteria: fever; splenomegaly; cytopenias affecting 2 or more lineages (hemoglobin < 90 g/L, platelets < 100 × 109/L, neutrophils < 1.0 × 109/L); hypertriglyceridemia, hypofibrinogenemia or both (triglycerides ≥ 3 mmol/L, fibrinogen ≤ 1.5 g/L); hemophagocytosis in the bone marrow, spleen or lymph nodes; low or absent activity of natural killer cells by flow cytometry; ferritin level of 500 μg/L or higher; or soluble CD25 (i.e., soluble interleukin-2 receptor) level of 2400 U/mL or higher.10
+
+Secondary HLH has a poor prognosis, and is fatal in 50%–75% of patients, with early death attributable to progressive multiorgan damage.10 Promptly identifying and treating the underlying cause of secondary HLH can reverse the immune dysregulation and improve outcomes. Treatment options for HLH include therapies directed at the underlying cause (e.g., antimicrobial drugs) or at the hyperinflammatory response (e.g., corticosteroids, etoposide, other immunosuppressants or monoclonal antibodies).10,11
+
+Anaplasmosis has a low case-fatality rate, reported at less than 1%. However, severe cases can lead to macrophage activation with hemophagocytic cells on pathological analysis of the bone marrow, spleen or liver.12 Anaplasmosis-induced HLH is very uncommon, and its management and prognosis is limited to anecdotal evidence.
+
+Our patient was immunocompromised because of end-stage renal failure, and had severe human granulocytic anaplasmosis complicated by HLH and coinfection with both B. burgdoferi and Powassan virus. Although it is possible that these infections were acquired from the same tick, it is more likely that the patient sustained more than 1 exposure to ticks that harboured different pathogens. The tick that was found on the patient in hospital was unlikely to be the source of his presenting infections, but it instead suggests that he may have sustained previous tick bites. Tick-borne illnesses should be included in the differential diagnosis for a patient presenting with fever, particularly with neurologic, rheumatologic or cardiac manifestations. Tick-borne illnesses have potentially life-threatening complications, including HLH, and can sometimes present with coinfection.
+
+The section “Cases” presents brief case reports that convey clear, practical lessons. Preference is given to common presentations of important rare conditions, and important unusual presentations of common problems. Articles start with a case presentation (500 words maximum), and a discussion of the underlying condition follows (1000 words maximum). Visual elements (e.g., tables of the differential diagnosis, clinical features or diagnostic approach) are encouraged. Consent from patients for publication of their story is a necessity. See information for authors at www.cmaj.ca.
+
+Competing interests: None declared.
+
+This article has been peer reviewed.
+
+The authors have obtained patient consent.
+
+Contributors: All of the authors contributed to the conception and design of the work. All of the authors drafted the manuscript, revised it critically for important intellectual content, gave final approval of the version to be published and agreed to be accountable for all aspects of the work.

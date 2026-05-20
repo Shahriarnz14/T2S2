@@ -1,0 +1,93 @@
+event,time
+70 years old,0
+female,0
+admitted to telemetry,0
+syncope,0
+progressive weakness,-48
+polyuria,-48
+elevated blood glucose,-48
+denied fever,0
+denied chills,0
+denied sore throat,0
+denied cough,0
+denied chest pain,0
+denied dyspnea,0
+blood pressure 84/55 mmHg,0
+pulse 72 bpm,0
+oxygen saturation 88% on room air,0
+respiratory rate 16/min,0
+temperature 36.6°C,0
+history of hypertension,0
+history of hyperlipidemia,0
+history of diabetes,0
+history of supraventricular tachycardia,0
+denied recent travel,0
+denied contact with COVID-19 patient,0
+blood pressure improved,0
+oxygenation improved,0
+intravenous fluids,0
+supplemental oxygen,0
+hydration,0
+insulin,0
+antibiotics,0
+prophylactic dose anticoagulation,0
+droplet precautions,0
+contact isolation,0
+suspected COVID-19 infection,0
+hypovolemia due to diabetic ketoacidosis,0
+sepsis,0
+acute PE suspicion,0
+myocardial infarction considered,0
+arrhythmia considered,0
+heart failure considered,0
+underlying COVID-19 suspected,0
+chest X-ray unremarkable,0
+head CT unremarkable,0
+sinus rhythm at 80 bpm,0
+"S1, Q3, T3 pattern",0
+prolonged QTc,0
+T-wave inversions across precordium,0
+hyperglycemia (580 mg/dL),0
+elevated anion gap,0
+serum creatinine 1.6 mg/dL,0
+lactate 7.5 mmol/L,0
+D-dimer 2153 ng/mL,0
+C-reactive protein 8.6 mg/L,0
+pro-BNP 14042 pg/mL,0
+INR 1.2,0
+serial troponin T-tests negative,0
+urine positive for ketones,0
+urine positive for white cells,0
+initial COVID-19 RT-PCR negative,0
+transthoracic echocardiogram RV dilatation,24
+septal flattening,24
+RV systolic pressure 67 mmHg,24
+RV fractional area change 24.2%,24
+RV free wall strain -10%,24
+LV ejection fraction 65%,24
+dyspnea,24
+desaturation (93% on 3 L),24
+pulse 80 bpm,24
+blood pressure 132/78 mmHg,24
+CT pulmonary angiogram saddle PE,48
+bilateral pulmonary filling defects,48
+clot in transit RA/RV,48
+repeat COVID-19 RT-PCR positive,48
+therapeutic anticoagulation,48
+transferred to ICU,48
+PERT evaluation,48
+percutaneous aspiration thrombectomy,48
+AngioVac device,48
+heparin 13000 units,48
+decompensation,48
+rescue thrombectomy with FlowTriever,48
+intra-pulmonary thrombolysis,48
+systemic thrombolysis,48
+arrested,48
+died,48
+D-dimer elevated (2985 ng/mL),48
+fibrinogen 182 mg/dL,48
+pro-BNP 5830 pg/mL,48
+RV free wall strain -10%,48
+RV fractional area change 24.2%,48
+RV systolic pressure 67 mmHg,48

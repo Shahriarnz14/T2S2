@@ -1,0 +1,74 @@
+event,time
+37 years old,0
+male,0
+rheumatic mitral stenosis,0
+mild aortic insufficiency,0
+pulmonary hypertension,0
+heart failure,0
+signs of endocarditis,0
+sepsis with excessive organ failure,0
+urgent surgery,0
+implantation of mechanical mitral valve,0
+minor commissurotomy of aortic valve cusps,0
+double valve re-endocarditis,-35040
+affecting prosthetic mitral valve,-35040
+affecting native aortic valve,-35040
+urgent surgery,-35040
+"implantation of biological mitral valve (St. Jude Medical Epic, size 27 mm)",-35040
+aortic root abscess,-35040
+full root implantation of Medtronic Freestyle stentless bioprosthesis (MFB) (size 23 mm),-35040
+reimplantation of coronary ostia,-35040
+preoperative coronary angiography normal,-35040
+no stenosis,-35040
+atrial fibrillation,-35040
+newly diagnosed diabetes mellitus type 2,-35040
+prescribed warfarin,-35040
+prescribed enalapril 2.5 mg,-35040
+prescribed metformin 1000 mg,-35040
+prescribed metoprolol 50 mg,-35040
+follow-up transoesophageal echocardiography 41 days postoperatively,-35040
+well-functioning FB valve,-35040
+non-ST-elevation myocardial infarction,-35040
+preoperative computed tomography,0
+coronary angiography,0
+90% ostial stenosis of left main coronary artery,0
+90% ostial stenosis of right coronary artery,0
+emergent re-reoperation,0
+coronary artery bypass grafting (CABG),0
+left anterior descending branch bypass,0
+right coronary artery bypass,0
+intraoperative findings: endoluminar glass-like pseudointimal membranes,0
+covering distal anastomosis of MFB,0
+covering both coronary ostiae,0
+pseudointimal membranes peeled off,0
+pseudointimal membrane tissue sample collected,0
+epigastric fascial rupture,24
+acetylsalicylic acid 75 mg added,24
+metoprolol reduced to 25 mg,24
+histological examination: fibro-intimal thickening,24
+inflamed granulation tissue,24
+no acute inflammation,24
+no calcifications,24
+no foreign bodies,24
+no amyloidosis,24
+pseudoaneurysm (2.3 mL) from partial rupture of distal anastomosis,720
+chest pains,720
+follow-up cardiac CT,720
+transthoracic echocardiography,720
+conservative non-surgical strategy,720
+repeat follow-up cardiac CT 3 months later,2160
+pseudoaneurysm reduced to 1.4 mL,2160
+exercise-induced chest pains,2160
+myocardial perfusion scintigraphy,2160
+exercise-induced myocardial ischaemia of 6–8%,2160
+previous myocardial infarction,2160
+coronary angiography confirmed complete revascularization,2160
+transthoracic echo mild-moderate stenosis of FB valve,2160
+biological mitral valve well-functioning,2160
+no risk factors for coronary artery disease,0
+no sign of atherosclerosis,0
+no technical default in anastomoses,0
+no acute inflammation,24
+no calcifications,24
+no foreign bodies,24
+no amyloidosis,24

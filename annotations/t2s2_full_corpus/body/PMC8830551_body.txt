@@ -1,0 +1,123 @@
+pmcINTRODUCTION
+
+Full spectrum of the COVID-19 pandemic is rapidly evolving and expanding. The severity of clinical manifestations varies from affecting the respiratory system alone in mild form at one end to severe acute respiratory distress syndrome on the other end of the spectrum. Involvement of vital organs and their functional impairment is also widely reported. Renal involvement was not considered to be of significance initially, and there was less focus on acute kidney injury (AKI) in the affected population. Data on AKI as a result of COVID-19 in pregnancy are scarce and are mostly available in the form of case series and retrospective studies. The literature concerning pregnancy is limited to its incidence and is lacking regarding the risk factors, its onset and relationship to respiratory failure, analysis of various renal parameters, and subsequent need of renal replacement therapy (RRT) as well as post-AKI outcomes. Pregnancy itself serves as a high-risk condition for COVID-19 disease and a risk factor for deterioration. Nonetheless, various well-known secondary causes of AKI in pregnancy need to be kept in mind, for efficient management. Here, we present a review of literature regarding AKI in COVID-19 with discussion on the implications, impact, outcomes, and management in pregnancy.
+
+LITERATURE SEARCH
+
+A literature search was performed on PubMed, Scopus, Google Scholar, and ScienceDirect. The search strings used were “AKI” AND “COVID-19” OR “coronavirus” AND “pregnancy” OR “renal failure,” “renal complications” AND “pregnancy” AND “COVID” to identify relevant studies published up to November 25, 2020. A total of 4,735 results were retrieved. The studies were then screened according to their relevance to AKI in COVID-19 and pregnancy. Observational studies, review articles, case reports, and clinical trials related to these keywords were short-listed. In addition, the references of the short-listed articles were searched to find relevant articles. Studies such as conference proceedings, letters to editors, and commentaries were excluded. About 13 studies were included for the final review.
+
+DISEASE BURDEN
+
+AKI is considered a surrogate marker of disease severity and is a predictor of its outcome in terms of mortality [12]. In western countries, AKI has been reported in 20%–40% of patients with COVID-19 who need intensive care [3]. Usually, around 2 weeks after the infection, 20% of affected patients in intensive care unit (ICU) need RRT [2]. The incidence of AKI varies from 0.5% to 29% from China and Italy to 19% in critically ill patients in the United States [245]. From our experience of earlier coronavirus epidemics in human populations, an important subset constituted by antenatal women is supposed to be a high-risk group. During pregnancy, susceptibility to severe viral pneumonia increases, which may be attributable to changes in the immune system and pulmonary adaptations which are known to occur in pregnancy. The available literature about maternal and neonatal outcomes in pregnancies affected with coronavirus is still undecided. Most of the women are reported to have a good outcome, irrespective of pregnancy. A recent meta-analysis has shown adverse maternal outcome in 3% of pregnant women, more so in those with associated comorbidities [6]. Pregnancy leads to alterations in homeostatic mechanisms. There is suppression of cellular immunity as well as changes in the hormonal milieu such as higher levels of progesterone and prostaglandins, which predispose to an adverse outcome. There is increased risk of spontaneous abortion, hypertension, prematurity, adverse perinatal outcomes, and even intrauterine death [678]. The prognosis of these respiratory ailments is worst if the disease is acquired in the last few weeks of gestation, especially after 28 weeks. Other high-risk factors include Asian or ethnic origin and a high body mass index [9].
+
+ETIOPATHOGENESIS
+
+The mechanism of viral replication after it enters the human body begins with the attachment of its surface coronations, the spike-like proteins, to the angiotensin-converting enzyme 2 receptors on host cells. These receptors are found in abundance in maternal kidney, placenta, and uterus during pregnancy [10] [Figure 1], thus making these women more susceptible to be affected by COVID-19. This leads to mitochondrial dysfunction, acute tubular necrosis (ATN), protein reabsorption, vacuole formation, and collapsing glomerulopathy, leading to protein exudates in the Bowman's capsule [1112]. The etiology of renal damage in COVID-19 is multifactorial. One likely mechanism is renal congestion secondary to right heart failure because of COVID-19 pneumonia. Similarly, low cardiac output due to left ventricular dysfunction, leading to arterial hypotension, may worsen the renal damage [13]. It is estimated that AKI develops in 25%–29% of the critically ill nonpregnant patients with COVID-19 [14]. The renal damage may be due to direct tubular involvement by the virus itself or indirectly as a consequence of the cytokine storm caused by the virus. Strict intravascular volume management is essential as there may be fluid loss due to pyrexia and tachypnea and a positive fluid balance may be detrimental for lungs. Given the tremendous alteration in the immune system, and the immunosuppressed milieu that exists during pregnancy along with the exaggerated hormonal state, there is increased predisposition as well as increased risks of severe acute respiratory syndrome (SARS) infection in pregnancy. A subdued cellular immune response and the T helper cells (TH1 to TH2) shift, as well as an altered hemodynamic state during pregnancy is known to increase this effect, [815].
+
+Figure 1 Etiopathogenesis of AKI in SARS CoV-2. SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2, ACE-2: Angiotensin-converting enzyme 2, ARDS: Acute respiratory distress syndrome, AKI: Acute kidney injury, ACE: Angiotensin-converting enzyme, RAAS: Renin-angiotensin-aldosterone system, TH: T helper cells, RHF: Right heart failure
+
+The presence of underlying kidney disease is another well-known factor for deterioration and development of complications in both the mother and the baby [15].
+
+ACUTE KIDNEY INJURY IN PREGNANCY
+
+Compared to nonpregnant women, pregnant women had a 51% increased risk of developing AKI that was independent of age and clinical comorbidities, suggesting that pregnancy increases the risk of AKI [15]. Literature search yields few case reports regarding AKI in pregnancy. Authors have reported a case of ATN in pregnancy with COVID-19 [16]. Computed tomography of the chest revealed ground-glass opacities with consolidation in the upper right lobe. Tachypnea, gradually rising creatinine levels, and respiratory and metabolic acidosis necessitated intubation and dialytic support. The patient underwent cesarean section with dialysis 12 h before surgical intervention. The baby tested negative for COVID-19. Initial oliguria in spite of diuretic use responded to hemoperfusion and resolution of ATN [17]. In another review of 42 cases of SARS coronavirus 2 (SARS-CoV-2)-infected women, new-onset severe preeclampsia was reported in 6/8 women with severe COVID-19 sepsis at >32 weeks of gestation, necessitating termination of pregnancy in four of them. The emphasis on considering preeclampsia as a differential for acute liver injury in COVID infection during pregnancy is important for optimal management [18].
+
+The occurrence of preeclampsia and COVID-19 infection together can have a devastating outcome unless managed in time. The placental histopathology confirms these findings of vascular thrombi. Low-dose aspirin can be prescribed in patients with COVID-19 for the prevention of preeclampsia [19].
+
+Another report regarding AKI in pregnancy highlighted the development of severe preeclampsia complicated by acute fatty liver of pregnancy (AFLP) and hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome with AKI in a 26-year-old primigravida with COVID-19 infection at around 37 weeks of gestation. It brought forward endothelial injury as a common hallmark as well as a primary underlying pathogenetic mechanism responsible for the two entities. COVID-19 infection is known to cause endothelial disruption and derangement in coagulation parameters. It is known to increase thrombotic tendency. This effect alone and also in combination with other disorders in pregnancy, for instance, preeclampsia, can worsen the clinical picture. These disorders can also contribute to a worsening renin-angiotensin-aldosterone system axis, further contributing to renal dysfunction [20]. The recovery from COVID infection most likely is not affected by AKI as one of its complications during pregnancy although the signs and laboratory parameters have similar picture in the SARS CoV-induced AKI as well as due to pregnancy-related renal and cardiovascular complications, especially preeclampsia [171820] [Table 1].
+
+Table 1 Baseline characteristics, treatment and clinical outcomes of the patients cited in this article
+
+Study citation	Number of patients	Gestation at presentation	Symptoms	Complications of pregnancy	Investigations	
+			
+Fever (%)	Cough (%)	Diarrhea (%)	Abortion (%)	PE (%)	PTL (%)	FGR (%)	CT chest (%)	CRP>10 mg/l (%)	Lymphocytopenia (%)	
+Zaigham and
+Andersson [6]	108	3rd TM	6	68	34						70	59	
+SR
+Di Mascio et al. [7] SR MA	41	3rd TM		82	52	64	16	41	11.7				
+Zhang et al. [9]	5	3rd TM	5/5	4/5								2/5 cases	
+Case series
+Taghizadieh et al. [17]	1						11.9			GGO		_	
+Case report
+Ahmed et al. [20] Case report	1	3rd TM	+	+	+		+			GGO	22,139	_	
+	
+Study citation	ICU admission/intubation (%)	Treatment	Mode of delivery	Perinatal outcome	Vertical transmission (n)	
+		
+LSCS (%)	Vaginal (%)	ASB (n)	NND (n)	
+	
+Zaigham and
+Andersson [6]
+SR	3	AV
+AB
+CS
+O2	92	8	1	3	None	
+Di Mascio et al. [7] SR MA		ARV
+AB
+CS
+O2	84	16	3	2	None	
+Zhang et al. [9]
+Case series	1/5 cases	_			1		None	
+Taghizadieh et al. [17] Case report	+	ARV
+AB
+CS
+O2
+Anti H/T	+		_	_	None	
+Ahmed et al. [20] Case report	_	Anti H/T	+		_	_	None	
+No maternal mortality was reported. SR: Systematic review, MA: Meta-analysis, ASB: Antepartum still birth, NND: Neonatal death, AV: Antiviral, AB: Antibiotics, CS: Corticosteroids, Anti H/T: Anti hypertensives, O2: Oxygen, ARV: Antiretroviral, PE: Preeclampsia, PTL: Preterm labor, FGR: Fetal growth restriction, CT: Computed tomography, ICU: Intensive care unit, CRP: C-reactive protein, LSCS: Lower segment caesarean section
+
+Pregnancy-related AKI (PR-AKI) mostly occurs secondary to preeclampsia with severe features, HELLP, and other rare obstetric complications, namely atypical hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, and AFLP. The outcome of CoV19 associated PR-AKI in severe cases can be acute renal failure or even end-stage renal disease necessitating renal transplant. Maternal as well as perinatal outcome is worse in women with PR-AKI in terms of prolonged ICU stay, low birth weight, and more stillbirth/perinatal death when compared to women without PR-AKI [15].
+
+There is considerable overlap in the clinical features of preeclampsia and severe COVID-19, as was reported in a study by Mendoza et al. [18]. Other biochemical markers of preeclampsia such as fms-like tyrosine kinase-1 and placental growth factor can help differentiate these two etiologies. Though the clinical manifestation of the COVID-19-induced systemic inflammation and that of preeclampsia are similar but the hallmark abnormal placentation and resulting biochemical abnormalities are lacking in COVID-19 infection [18].
+
+The prognosis is guarded in women with PR-AKI and coexisting COVID-19 sepsis, and the management includes RRT along with ventilatory support for optimal outcome [181920].
+
+CLINICAL PROGRESSION OF ACUTE KIDNEY INJURY
+
+AKI was defined according to the Kidney Disease: Improving Global Outcomes (KDIGO) criteria according to the serum creatinine trends [21].
+
+Stage 1 – increase in serum creatinine by 0.3 mg/dl within 48 h or a 1.5–1.9 times increase in serum creatinine from baseline within 7 days
+
+Stage 2 – 2.9 times increase in serum creatinine within 7 days
+
+Stage 3 – 3 times or more increase in serum creatinine within 7 days or initiation of RRT.
+
+There is an increased blood flow to the kidneys in normal pregnancy secondary to changes in hormonal profile, increase in plasma volume leading to decreased net glomerular oncotic pressure and slight physiological increase in renal size. The resulting changes in autoregulation cause an increase in the estimated glomerular filtration rate (eGFR) significantly, a peak of 40%–50% compared to nonpregnant levels, as well as lower serum creatinine, urea, and uric acid levels. According to the GFR, the cutoff for eGFR to diagnose AKI is lower in pregnant individuals (>0.8 mg/dL or >70.72 μmol/L) than the nonpregnant [22]. Data on COVID-19 that exist in the literature strongly suggest that severe AKI is more frequently seen in affected patients who develop respiratory failure as well. AKI was reported in 89.7% of patients who required ventilatory support as compared to 21.7% who did not. 65.5% of patients who required ventilatory support developed severe (stages 2 and 3) AKI compared with 6.7% of those who did not. According to severity, stage 1, 2, and 3 AKI developed in 46.5%, 22.4%, and 31.1%, respectively. 83.6% stage 3 AKI was reported in patients on mechanical ventilation. It was also an important observation that almost all of the patients on ventilatory support (96.8%) required RRT, with the median interval of 2 h from the time of hospital admission and about 20 min from mechanical ventilation, to initiation of dialysis. Most of the patients underwent intermittent hemodialysis (54%). Continuous RRT and the use of both modalities (RRT and intermittent hemodialysis) were seen in 24.6% and 21.4% of the patients, respectively. Mortality was seen in 35% of those who developed AKI. The prognosis was found to be worse in those requiring RRT [23].
+
+CLINICAL MANAGEMENT
+
+Supportive care guidelines by the “KDIGO” advocate avoidance of nephrotoxic agents, serial estimation of serum creatinine, and monitoring of urine output [21]. Early initiation of invasive hemodynamic monitoring, especially in critically ill patients, may prevent the occurrence as well as reduce the severity of AKI in these patients. Prophylactic measures include supportive ventilation and avoidance of pulmonary damage due to high pressures and hypervolemia, with the aim to avoid right ventricle volume overload and subsequent pulmonary edema, renal congestion, and therefore AKI [24].
+
+The clinical deterioration that develops in patients with AKI in pregnancy provides a rationale for routine blood pressure checks in all pregnant females affected with COVID-19, irrespective of prior history of elevated blood pressures and other predisposing factors for preeclampsia.
+
+There also has been a suggestion to investigate all pregnant females presenting with severe preeclampsia along with abnormal laboratory results with a COVID-19 test and a plain X-ray of the chest [19]. Other obstetric complications which affect kidneys such as preeclampsia, thrombotic microangiopathies, acute cortical necrosis because of placental abruption, puerperal sepsis, acute pyelonephritis secondary to medical disorders, lupus flare in pregnancy with systemic lupus erythematosus, or acute-on chronic kidney disease should be entertained as differential diagnoses in patients who have SARS-CoV-2 sepsis and associated renal dysfunction [25]. The resulting pathology because of the activation of renin-angiotensin-aldosterone pathway results in a multitude of systemic manifestations in the form of hepatorenal failure, platelet dysfunction, coagulation disorders, and hypertension among others [226]. Serial monitoring of arterial blood gases and lactate levels are markers of hypoxia induced renal, liver as well as myocardial damage [27]. In patients with preexisting mild renal dysfunction, prophylactic measures to prevent further damage as indicated by rising serum creatinine values are of importance to delay or avoid progression to AKI in these patients.
+
+ADVANCED MEASURES
+
+In the absence of standard treatment protocols, in individualized cases in whom clinical improvement is not evident with supportive therapies or who show evidence of immune dysregulation and high levels of inflammatory cytokines, some advanced measures [Table 2] may be employed. It may be beneficial to use high or medium cutoff membranes in continuous venovenous hemodialysis to expedite the clearance of damaging cytokines [28] Similarly, hemoperfusion using sorbent cartridges in the beginning of cytokine storm may prevent cytokine-induced kidney damage.
+
+Table 2 Advanced measures in management of acute kidney injury
+
+Modality	Indications	Outcome measures	
+Intermittent RRT	Hyperkalemia, metabolic acidosis, KDIGO stage 3, pulmonary edema, ARDS	Urine output>500 ml/day, normalization of other parameters	
+CRRT	-do-	-do-	
+ECCO2R (RRT+) Incorporates polypropylene membrane lung in series before the filter in CRRT	-do-, mechanical ventilation-dependent AKI	VT returns to baseline, pH>7.3, respiratory rate≤35/min	
+ECMO. The oxygenator is inserted in the circuit of CVVH and return line	ARDS, metabolic disorders, fluid overload	20% decrease of both creatinine and BUN, and an effective UF volume of at least 35 mL/kg/h	
+RRT: Renal replacement therapy, CRRT: Continuous renal replacement therapy, VT: Tidal volume; ECMO: Extracorporeal membrane oxygenation, ECCO2R: Extracorporeal carbon dioxide removal, KDIGO: Kidney Disease: Improving Global Outcomes, ARDS: Acute respiratory distress syndrome, AKI: Acute kidney injury, CVVH: Continuous venovenous hemofiltration, BUN: Blood urea nitrogen, UF: Ultrafiltration
+
+There is role of extracorporeal carbon dioxide removal (ECCO2R) in case of hypercapnia, respiratory acidosis, AKI and in cases where escalation of ionotropic support is required [29]. Sequential extracorporeal therapies for removal of endotoxins and cytokines in a “sepsis-like syndrome” because of superadded bacterial infection can be beneficial [28].
+
+Hypovolemia with the use of diuretic agents should be avoided, especially in pregnancy. One needs to be careful to avoid the risk of intradialytic hypotension during RRT which may hamper fetal circulation.
+
+Renal-transplant recipients are prescribed immunosuppressant drugs to prevent graft rejection and have associated comorbidities predisposing them to a higher risk of severe COVID-19 infection [30]. Outcome of COVID-19 in these patients is usually favorable [31]. However, there are no such cases reported in pregnancy after a renal transplant. Modifications in immunosuppressive agents need to be individualized according to disease severity and level of immunosuppression in required, along with continuous monitoring of fetal parameters. It becomes crucial to monitor drug levels and renal parameters in these patients, particularly those with gastroenteritis resulting in diarrhea and in turn fluid depletion, which is commonly seen in COVID-19 sepsis [3031].
+
+CONCLUSION
+
+Pregnancy is a state of an altered immunological response to prevent rejection of the conceptus and allow fetal development. This makes pregnant women susceptible to various infections, as well as predisposing them to various complications. In the present era of COVID-19 pandemic, it becomes imperative to aggressively monitor these patients with appropriate clinical examinations and laboratory investigations. A low threshold for detection of various complications such as AKI associated with COVID-19 must be considered and investigated in a timely manner. A literature search regarding AKI in COVID-19 in pregnancy was performed on PubMed, Scopus, Google Scholar, and ScienceDirect and relevant articles were selected. The multiorgan failure secondary to SARS-CoV-2-induced cytokine storm presents similar to various important obstetrical complications. Preeclampsia, placental abruption, AFLP, and AKI secondary to other etiologies during pregnancy including sepsis, hemorrhage, and lupus flare to name a few, need to be anticipated and kept as important differentials. COVID sepsis in this subset of pregnant women needs urgent supportive care, evaluation for inflammatory markers and imaging. It is important to differentiate covid infection from other obstetrical conditions which require termination of pregnancy for good maternal and neonatal outcome.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.

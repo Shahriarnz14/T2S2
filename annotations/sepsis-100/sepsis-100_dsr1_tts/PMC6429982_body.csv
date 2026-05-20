@@ -1,0 +1,87 @@
+event,time
+56 years old,0
+woman,0
+weakness,-720
+numbness in lower extremities,-672
+weakness in lower extremities,-672
+progression to hands,-648
+progression to neck,-648
+presumptive diagnosis of Guillain-Barré syndrome,-672
+past medical history: type 2 diabetes mellitus,0
+past medical history: hypertension,0
+necrotizing pancreatitis,-8760
+severe protein-calorie malnutrition,-8760
+total parenteral nutrition,-8760
+total parenteral nutrition discontinued,-4320
+return to normal diet,-4320
+admission to community hospital,-720
+lumbar puncture,-720
+albuminocytologic dissociation in CSF,-720
+brain MRI: small vessel ischemic changes,-720
+empiric IVIG treatment,-696
+no clinical response,-672
+worsening pancytopenia,-672
+encephalopathy,-672
+transfer to specialist center,-672
+hypotensive (64/48 mmHg),0
+unresponsive to verbal stimuli,0
+minimally responsive to painful stimuli,0
+Glasgow Coma Scale score 6,0
+anasarca,0
+flaccid paralysis of all four extremities,0
+hypocalcemia (6.7 mg/dL),0
+anemia (9.4 g/dL),0
+leukopenia (2.1×10^9/L),0
+hypophosphatemia (1.1 mg/dL),0
+low creatinine (<0.2 mg/dL),0
+hypoalbuminemia (<1.5 g/dL),0
+lactic acidosis (4 mmol/L),0
+NRS-2002 score 5,0
+MUST score 5,0
+intubation,0
+fluid resuscitation,0
+norepinephrine infusion,0
+meropenem,0
+vancomycin,0
+anidulafungin,0
+provisional diagnosis: AIDP with septic shock,0
+high-dose IV thiamine (500 mg every 8 hours),0
+EEG: diffuse slow waves,0
+brain MRI: bilateral medial thalamus hyperintensity,72
+serum thiamine 104 nmol/L,72
+improved mental status,96
+discontinued norepinephrine,96
+discontinued antimicrobials,96
+extubated,120
+EMG: severe sensorimotor polyneuropathy,168
+continued improvement in mentation,168
+continued improvement in weakness,168
+transfer out of ICU,336
+continued thiamine supplementation,336
+final diagnosis: dry beriberi,336
+final diagnosis: Wernicke’s encephalopathy,336
+recovery of neurologic function,336
+negative blood cultures,96
+negative urine cultures,96
+no seizure activity on EEG,0
+autonomic instability,0
+sepsis,0
+septic shock,0
+critical illness myopathy considered,0
+critical illness polyneuropathy considered,0
+CIDP considered,0
+no identified pathogen,0
+malnutrition,0
+albuminocytologic dissociation,-720
+axial hyperintensity on T2/FLAIR,72
+ascending flaccid neuropathy,0
+IVIG treatment failure,-672
+rapid clinical improvement with thiamine,96
+sensorimotor polyneuropathy,168
+bilateral medial thalamus involvement,72
+axonal degeneration,0
+demyelination in end-stage,0
+encephalopathy resolved,96
+hemodynamic stability,96
+thiamine level normalization,72
+nutritional risk,0

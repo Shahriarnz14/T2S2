@@ -1,0 +1,111 @@
+event,time
+63-year-old,0
+healthy woman,0
+admitted to the Emergency Department,0
+fever,-240
+diarrhea,-240
+wet,0
+confused,0
+febrile,0
+heart rate 121 bpm,0
+blood pressure 85/50 mmHg,0
+SpO2 95%,0
+fluid challenge with normal saline,0
+leukopenia,0
+low neutrophil count,0
+low lymphocyte count,0
+thrombocytopenia,0
+high C-reactive protein,0
+high D-dimers,0
+high lactic dehydrogenase,0
+mild renal insufficiency,0
+arterial gas analysis unremarkable,0
+"positive SARS-CoV-2 serology (IgG+, IgM-)",0
+negative nasopharyngeal swab,0
+diffuse pulmonary basal lobe opacifications on CT,0
+blood cultures obtained,0
+urine cultures obtained,0
+empiric antibiotic therapy with meropenem,0
+empiric antibiotic therapy with gentamycin,0
+admitted to COVID-19 ICU,0
+no subsequent positive SARS-CoV-2 tests,0
+further decrease in leukocytes,0
+further decrease in platelets,0
+diffuse intravascular coagulation,0
+blood transfusion required,0
+fresh frozen plasma transfusion required,0
+negative microbiological cultures,0
+no septic foci,0
+bone marrow aspirate excluded acute leukemia,0
+sedated,48
+intubated,48
+mechanical ventilation,48
+worsening clinical conditions,48
+multiorgan failure,48
+extubated,72
+mental confusion,72
+unresponsiveness to external stimuli,72
+non-convulsive status epilepticus,72
+EEG showing diffuse slow background activity,72
+epileptiform discharges,72
+status epilepticus severity scale (STESS) 3,72
+benzodiazepine I.V. bolus ineffective,72
+I.V. levetiracetam started,72
+status epilepticus resolved,96
+normal CSF examination,96
+negative CSF for neurotropic viruses,96
+unremarkable brain MRI,96
+transferred to Internal Medicine Unit,264
+discharged home,480
+no neurological sequelae,480
+referred to ED for mental slowing,504
+referred to ED for aphasia,504
+afebrile,504
+motor seizure,504
+right upper limb jerks,504
+bilateral tonic-clonic seizure,504
+confused,504
+partially oriented,504
+hypertonic left lower limb,504
+hyposthenic left lower limb,504
+unremarkable laboratory tests,504
+unremarkable brain CT,504
+EEG showing sub-continuous epileptiform discharges,504
+focal convulsive status epilepticus,504
+STESS 5,504
+admitted to Neurology Unit,504
+new brain MRI with DWI signal alterations,504
+right occipitoparietal lesions,504
+bilateral frontoparietal paramedian lesions,504
+no gadolinium enhancement,504
+second CSF examination normal,504
+negative PCR for SARS-CoV-2,504
+negative PCR for neurotropic viruses,504
+negative autoimmune encephalitis panel,504
+"positive SARS-CoV-2 serology (IgG+, IgM-)",504
+mildly increased IL-6,504
+mildly increased IL-8,504
+negative whole-body PET-CT,504
+lacosamide 200 mg bid started,504
+motor signs ceased,504
+confusion persisted,504
+psychiatric symptoms appeared,504
+levetiracetam withdrawn,504
+valproic acid started,504
+dexamethasone started,504
+clinical improvement,648
+EEG showing status epilepticus resolution,648
+control brain MRI negative,912
+discharged home,816
+alert,816
+oriented,816
+able to follow commands,816
+compliant,816
+repetitive,816
+fatuous,816
+lacosamide continued,816
+valproic acid continued,816
+slightly improved,1416
+no further seizures,1416
+EEG showing mild diffuse slowing,1416
+no epileptiform activity,1416

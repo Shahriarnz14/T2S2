@@ -1,0 +1,75 @@
+Background
+
+Staphylococcus is a genus of gram-positive bacteria that are part of the natural flora in the human body [1]. It is an opportunistic bacterial pathogen notable for causing a wide range of acute and chronic infections. Exposure to antibiotics has resulted in the evolution of resistant strains, including those resistant to methicillin [2].
+
+Methicillin-resistant Staphylococcus aureus (MRSA) shows resistance to semisynthetic penicillins, including cephalosporins and carbapenems. Individuals can contract MRSA from health-care facilities, known as hospital-associated MRSA (HA-MRSA), or it can be present in individuals in the community without recent exposure to the health-care system, known as community-associated MRSA (CA-MRSA) [3]. HA-MRSA and CA-MRSA have marked characteristics that differentiate them from each other.
+
+HA-MRSA preferentially selects immunocompromised individuals with long hospital stays, and its presence is associated with the insertion of some medical devices, a wide spectrum of clinical conditions associated with the respiratory tree, urinary tract, bloodstream, and postoperative infections with a limited response to antibiotic therapy.
+
+CA-MRSA is seen in young individuals with environmental exposures and socioeconomic characteristics. These include a previous lack of health care, injection of illicit drugs, living in crowded places (prisons, barracks), and sharing of items (by athletes), including towels or razors that are infected or colonized by staphylococci, which are related to skin and soft tissue infections (85% to 90% of cases); <10% of these cause serious infections, especially community pneumonia.
+
+The patients affected with CA-MRSA have less antimicrobial resistance than the strains found in HA-MRSA [4]. The resistance to methicillin in Staphylococcus aureus has been associated with the presence of the mobile genetic element called staphylococcal cassette chromosome mec (SCCmec). The mecA gene is inserted into the SCCmec [5].
+
+MRSA has prompted a worldwide medical surveillance effort. In the last 20 years, MRSA strains have affected the community and have become a source of infection in healthy people [2]. The first case of CA-MRSA in Latin America was reported in Argentina, in a male patient with a history of chronic renal failure, active hemodialysis, and osteosynthesis of a hip fracture. He had a persistent fever after a traumatic displacement of the prosthesis [3]. The first MRSA strains were identified in Ecuador in 2017 [4]. Immunosuppression with symptoms of the lower respiratory tree was a common form of presentation of CA-MRSA [5,6]. We present an unusual case of cavitary pneumonia due to MRSA in a patient with antecedents from a gastroscopic procedure at an ambulatory endoscopic center.
+
+Case Report
+
+A 32-year-old man presented at the Emergency Department with tonic-clonic seizures of approximately 2-min durations. He had a previous history of seizures without current treatment or use of psychostimulant drugs. His personal pathological history referred to hypothyroidism treated with levothyroxine, morbid type 3 obesity, gastritis with a gastric ulcer, and penicillin allergies. Seven days before he presented at the Emergency Department, he had undergone an endoscopic procedure in an Outpatient Clinic for erosive gastropathy. There is no record of hospital admission prior to the endoscopic procedure, which was performed in an ambulatory endoscopic center. No adverse events related to the endoscopic procedure were reported. The patient had no history of illegal drug use.
+
+He was admitted to the Intensive Care Unit (ICU) for tonic-clonic seizures with hypoxemia. An endotracheal tube was placed and invasive mechanical ventilation was initiated. He remained under sedation with midazolam (0.25 mg/kg/h) and fentanyl (1.39 mg/kg/h) for analgesia. His laboratory test results are shown in Table 1. The chest X-ray showed a right basal atelectatic band, the computed tomography (CT) scan of the chest showed bilateral basal condensation areas, and the brain CT scan showed a normal brain (Figure 1A–1C).
+
+Rational antibiotic therapy was initiated with piperacillin plus tazobactam and clindamycin before taking sputum, blood, and urine samples for cultures. During day 2 in the ICU, he remained sedated with midazolam (0.25 mg/kg/h) and fentanyl (1.39 mg/kg/h) for analgesia. On day 3 in the ICU, a bronchos-copy was performed, which showed a reddened mucosa with a cavity, hemorrhagic stitches, and active bleeding (Figure 2A–2C).
+
+Samples of bronchioalveolar lavage were analyzed for pathogen identification. This was achieved by an automated system for extracting nucleic acids from the microbes (FilmArray™ multiplex PCR system, bioMérieux, France) and their identification by mass spectrometry (MALDI-TOF VITEK®MS system, bioMerieux, France). Antibiotic susceptibility testing and resistance mechanism was measured by an automated micro-dilution system (VITEK® 2, bioMerieux, France). Microbiological results from the bronchioalveolar lavage analysis showed the presence of MRSA (1×105 colony-forming unit [CFU]/mL) with mecA and luk-PV gene-resistance mechanisms.
+
+Once the pathogen was identified from the bronchioalveolar lavage, the piperacillin plus tazobactam was suspended and he was administered intravenous vancomycin (1 g diluted in 250 mL of 0.9% sodium chloride/12 h). The laboratory results of the cerebrospinal fluid obtained by lumbar puncture on the first day of admission to the ICU showed no bacterial growth. On day 4, he showed significant clinical improvement; therefore, weaning of the sedation and invasive mechanical ventilation was initiated. On day 4, he was extubated with good ventilatory mechanics, 99% saturation, and retained oxygen support with a mask (3 L). The physical examination showed a respiratory rate of 19 breaths/min, he was oriented to time, space, and person, had a Glasgow Coma Scale score of 15/15, and reactive isochoric pupils. On day 5, he remained afebrile, awake, and breathing ambient air. After 6 days, he was discharged from the ICU, although he remained hospitalized. He was sent home after a 10-day hospital stay. He was followed up through the Outpatient Department and 6 months later he remains in general good health. He gave informed consent for the publication of this case report.
+
+Discussion
+
+The present case report is of an unusual presentation of a nonimmunocompromised patient who had MRSA with mecA-resistance mechanism, 1 week after an endoscopic procedure. MRSA can cause severe infections due to its superior ability to penetrate tissues. Our patient had no previous respiratory symptoms and no history of tobacco use, illicit drug use, or other associated diseases, including the human immunodeficiency virus. The Centers for Disease Control and Prevention’s criteria for defining CA-MRSA infection is a positive culture for MRSA as an outpatient or within 48 h after hospital admission, no presence of medical devices or permanent catheters placed through the skin, no history of MRSA infections, and no recent history of hospitalization or residence in nursing homes or long-term care facilities [7]. Many patients with CA-MRSA infections have previous injuries to the skin or soft tissues that are associated with the entry of the pathogen.
+
+On the other hand, staphylococcal infections acquired by HAMRSA are defined as an infection or isolation of the pathogen occurring 72 h after hospital admission in patients with the recognized risk factors [8]. Clinical symptoms are characterized by prior association with an influenza infection with high fever, severe necrotizing pneumonia, leukopenia, respiratory failure, and shock, without any epidemiological link. The patient in the present case had seizures, although he was not on any prescribed antiepileptic medication when he presented in the Emergency Department, and had the history of an endoscopic procedure 7 days earlier in an ambulatory endos-copy center. Studies have shown that prior MRSA colonization of the nasopharynx is often associated with a peristomal infection [9]. However, he did not show nasopharyngeal colonization for Staphylococcus.
+
+As the endoscopy was performed at an ambulatory endoscopic center, the endoscope cleaning and disinfection protocol could not be accessed due to their policies, practices, and information restrictions. Although models of endoscopic contamination have been reported in the literature [10], the presence of Staphylococcus aureus as a bacterial species identified in the unsuccessful cleaning and disinfection procedures of endoscopes is not common [11]. Resistance to MRSA has been linked to the existence of a mobile genetic element into which the mecA gene is inserted. This encodes a protein with transpeptidase activity, which is responsible for resistance to beta-lactam antibiotics known as the Panton-Valentine leukocidin (PVL) virulence factor. The microbiological results of the bronchioalveolar lavage of our patient showed the presence of MRSA (1×105 CFU/mL) with the resistance mechanism of mecA and PVL.
+
+Studies have observed that patients with infections due to the CA-MRSA-PVL gene-positive strains had a greater tendency toward leukocyte destruction and tissue necrosis, generally producing skin and soft tissue infections, and the most severe cases are associated with necrotizing pneumonia and sepsis [12].
+
+The bronchoscopic study of our patient showed images of cavitary pneumonia that are typical of the aggression of MRSA with mecA-resistance mechanism. His response to the vancomycin was evidence that the clinical diagnosis was correct. It was achieved by sampling the bronchioalveolar lavage using the DNA extraction technique [13], which revealed MRSA with mecA-resistance mechanism.
+
+Conclusions
+
+We present an unusual case of cavitary pneumonia in a nonimmunocompromised patient, caused by methicillin-resistant Staphylococcus aureus of clinical and epidemiological characteristics, which is unusual after an endoscopic procedure.
+
+Figure 1. (A) X-ray of the chest showed the presence of a left baseline atelectatic band. (B) Computed tomography of the chest showed condensation zones in both lung bases. (C) Computed tomography of the brain showed the image of a normal brain.
+
+Figure 2. (A) The bronchoscopic image showed a cavitary area.(B) The bronchoscopic image showed hemorrhagic stitches. (C) The bronchoscopic image showed an active bleeding area.
+
+Table 1. Laboratory test results at admission to the Intensive Care Unit.
+
+Laboratory parameters	Value	Normal values	
+Complete blood cell count			
+  Leukocytes	17 900/mm3	4400–11 300/mm3	
+  Neutrophils	85.6%	45–75%	
+  Hematocrit	34.3%	42–50%	
+  Hemoglobin	11.4 g/dL	13.8–17.2 g/dL	
+  Platelets	280 000/mm3	150 000–450 000/mm3	
+  Sodium	141.0 mEq/L	135–145 mEq/L	
+  Potassium	3.9 mEq/L	3.5–4.5 mEq/L	
+  Chloride	109 mEq/L	98–110 mEq/L	
+  Glucose	125.40 mg/dL	<100 mg/dL	
+  Blood urea nitrogen	14 mg/dL	7–21 mg/dL	
+  Creatinine	0.7 mg/dL	0.7–1.2 mg/dL	
+  Prothrombin time	13.1 s	11.0–13.5 s	
+  Partial thromboplastin time	30.6 s	30–40 s	
+
+Department and Institution Where Work Was Done
+
+Ecuadorian Institute of Social Security (IESS), Babahoyo, Ecuador.
+
+Conflicts of Interest
+
+None.
+
+Declaration of Figures Authenticity
+
+All figures submitted have been created by the authors who confirm that the images are original with no duplication and have not been previously published in whole or in part.

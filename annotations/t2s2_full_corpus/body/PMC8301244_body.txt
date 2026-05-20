@@ -1,0 +1,59 @@
+History of Presentation
+
+A 23-year-old man presented to the emergency department with abdominal pain, nausea, vomiting, and diarrhea. Shortly thereafter, he developed pulseless electrical activity cardiac arrest and was started on peripheral venoarterial (VA) extracorporeal membranous oxygenation (ECMO) (Central Illustration).Learning Objectives
+
+• To appreciate the potential severity of an influenza illness even in a young healthy patient.
+
+• To act quickly when a patient requires hemodynamic support with ECMO.
+
+• To recognize the need for left ventricular unloading even when supported with ECMO.
+
+• To recognize and treat differential hypoxia from a venoarterial ECMO configuration.
+
+Central Illustration Overview of Various Peripheral ECMO Configurations and Their Indications for Use
+
+(Upper left) venoarterial (VA); (upper right) venovenous (VV); (bottom left) venoarterial-venous (VA-V); (bottom right) venovenous-arterial (VV-A). ECMO = extracorporeal membrane oxygenation; LV = left ventricular.
+
+Past Medical History
+
+The patient was a healthy individual without a past medical history.
+
+Differential Diagnosis
+
+Septic shock and hypovolemic shock were considered, but once he developed pulseless electrical activity arrest, the focus was on cardiovascular failure.
+
+Investigations
+
+Initially, only a transthoracic echocardiogram (TTE) was performed, which revealed near cardiac standstill and a moderate posterior pericardial effusion (Figure 1).Figure 1 Admission TTE
+
+Transthoracic echocardiogram (TTE) showing edematous myocardium and a posterior pericardial effusion.
+
+Management
+
+Systolic blood pressure was 30 mm Hg, and ECMO flow was low. To rule out circuit thrombus, we checked to see whether flow would improve with a bridge circuit, but there was no change. Given low ECMO flow and poor clinical status, the decision was made to augment venous drainage, so a right internal jugular venous cannula was inserted, and venovenous (VV)-arterial ECMO was started (Central Illustration). Blood pressure improved with increased venous drainage and better ECMO flow, but he remained hemodynamically unstable. The pericardial effusion enlarged, so an emergent pericardiotomy was performed, and 400 ml of clear fluid was removed.
+
+However, severe myocardial edema and near cardiac standstill were soon noted while the patient was on full ECMO support. The left ventricle (LV) was nonpulsatile, competing with retrograde ECMO flow. This caused severe LV dilation and pulmonary edema (Figure 2). He was taken to the cardiac catheterization lab for Impella CP heart pump (Abiomed, Danvers, Massachusetts) placement for LV venting. The opening aortic pressure was 72/64 mm Hg, and LV end-diastolic pressure was 25 mm Hg. The LV cavity size decreased with improved unloading from the Impella CP. Unfortunately, his lower extremities became tense, and creatinine kinase level rose to >100,000 U/l (lab reference normal 63 to 673 U/l) due to severe fulminant skeletal myositis from his H3N2 viremia leading to rhabdomyolysis. He required bilateral leg fasciotomies and removal of the Impella device in order to save his lower limbs.Figure 2 Comparison of Admission and Hospital Day 2 Chest X-Rays
+
+Chest x-ray comparison of the patient on admission (left) and hospital day 2 (right) shows development of pulmonary edema.
+
+Upon admission, he was treated empirically with oseltamivir, as well as broad-spectrum antibiotics. His respiratory swab resulted positive for influenza A (H3N2), and blood cultures grew Streptococcus viridans. It was clear his shock was precipitated by fulminant myocarditis from an influenza A infection. Intravenous immunoglobulin was added once a culprit infection was identified.
+
+Over the next few days, the ECMO flow requirement decreased, and cardiac contractility increased. A TTE on hospital day 12 showed an estimated LV ejection fraction of 30% to 35%. Despite an improvement in cardiac contractility while on VV-arterial ECMO, his lungs remained severely damaged. He developed differential upper extremity hypoxemia. This raised concerns for poor deoxygenated native circulation contributing to ongoing lung injury, a process associated with what is known as the “North-South syndrome.” The ECMO circuit was rearranged to a VA-venous configuration (Central Illustration). This allowed for oxygenated blood to be returned to both the upper and lower body via the internal jugular vein and the femoral artery.
+
+His oxygenation improved, however he developed significant facial swelling due to the large right internal jugular cannula causing superior vena cava syndrome. The cannula was removed, and his facial swelling resolved. His ECMO configuration was switched to VA through the original left femoral artery and left femoral vein cannulas. He continued to show hemodynamic improvement. His vasopressor requirements decreased, and on hospital day 18, the ECMO circuit was decannulated.
+
+Over the next 6 months, he fought multiple infections and had extensive wound debridement of his lower extremities. He had a tracheostomy placed, which was eventually decannulated before discharge, and he was weaned off of hemodialysis. Before discharge, his TTE showed a LV ejection fraction of 55%.
+
+Discussion
+
+Influenza is a major global cause of illness and death, resulting in 250,000 to 500,000 deaths annually (1). The frequency of progression to myocarditis is reported to be around 10% (2). The degree of myocardial dysfunction ranges from asymptomatic presentations to cardiogenic shock. Fulminant myocarditis is rare from the influenza A (H3N2) strain, but when it does occur, there are severe consequences. From the case reports documenting this process, many patients experienced circulatory collapse requiring mechanical circulatory support 3, 4.
+
+ECMO can be lifesaving in cases of either pulmonary or cardiac failure. Historically, for respiratory failure without cardiac dysfunction, VV ECMO is most commonly used, whereas cardiac failure with preserved pulmonary function is managed by VA ECMO 5, 6. However, when there is combined cardiopulmonary failure, there may be the need for additional support beyond what these configurations can provide. In particular, patients who are started on VA ECMO via femoral cannulation for cardiac arrest may receive adequate hemodynamic support, but inadequate oxygenation to the upper body. This differential hypoxia, termed the North-South syndrome, or “Harlequin syndrome” can lead to cardiac ischemia, poor pulmonary gas exchange, and cerebral hypoxia, all of which can be catastrophic. The mechanism is due to the mixing point between oxygenated blood returning from ECMO and the native, poorly oxygenated blood being too low in the body. As such, there is deoxygenated blood in the upper body and oxygenated blood in the lower body. This occurs in cases of severe respiratory failure with preserved cardiac output. This process occurs with a peripheral VA-ECMO configuration, whereas in a central VA-ECMO circuit, the return cannula is in the descending aorta, which eliminates this problem. In our case, a VA-venous configuration was used with insertion of an additional reinfusion limb in an upper body vein (Central Illustration). This allows for oxygenated blood to return to both the femoral artery, as well as the upper body (6). Our patient benefitted from this approach, exhibiting improved oxygenation on peripheral arterial blood gases; however, the increased flow and size of the cannula created an iatrogenic superior vena cava syndrome, and the approach was aborted.
+
+Another complication from VA-ECMO is increased afterload from the pressurization of the arterial system creating strain on a failing heart, which increases myocardial oxygen demand, leading to pulmonary edema. In order to unload the LV, intra-aortic balloon pump insertion, atrial septostomy, and direct LV cannulation have been attempted 7, 8. The use of an Impella LV assist device has also been shown to successfully facilitate LV decompression while ECMO support is ongoing. A retrospective, propensity-matched analysis from 2 tertiary critical care centers in Europe compared 42 patients with cardiogenic shock who received VA-ECMO alone with 21 patients treated with VA-ECMO with an Impella 2.5 device, and showed improved in-hospital mortality and a higher rate of bridging to recovery or advanced therapy in the ECMO + Impella group (9). In another retrospective analysis comparing patients with cardiogenic shock to receive either VA-ECMO alone (36 patients) or in combination with Impella (30 patients), the investigators observed a significant improvement in 30-day all-cause mortality as well as lower inotrope requirements in the combination group (10). The use of Impella for LV unloading is valuable because the insertion is straight forward via a percutaneous approach, and in addition to LV unloading, the device can improve cardiac output. The combination of these effects may enhance myocardial integrity allowing for improved rates of recovery in patients who are critically ill. Unfortunately, despite brief clinical improvement, our patient was unable to keep the Impella device in place due to the severity of his lower extremity edema from profound rhabdomyolysis. Nonetheless, the attempt demonstrates the application of this technique in a patient in extremis.
+
+Conclusions
+
+This is a rare case of fulminant myocarditis from an influenza A (H3N2) infection and highlights the complexity of mechanical circulatory support management with ECMO. The obstacles encountered are not unique, and hopefully, the management strategies can provide some guidance for similar cases.
+
+Both authors have reported that they have no relationships relevant to the contents of this paper to disclose.

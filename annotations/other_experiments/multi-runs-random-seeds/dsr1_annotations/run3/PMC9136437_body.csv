@@ -1,0 +1,118 @@
+event,time
+59 years old,0
+female,0
+blood type O Rh positive,0
+admitted to the hospital,0
+segment-V space-occupying lesion in the liver,-336
+suspected liver cancer,-336
+transarterial embolization,-1104
+sorafenib,-912
+stopped sorafenib,-288
+dizziness,-288
+skin ulcers,-288
+computed tomography scan,-288
+enlarged liver lesions,-288
+radiation therapy,-312
+prescribed dose PTV5400cGy/18f,-312
+dose rate 0.6–1 Gy/min,-312
+seven radiotherapy treatments,-312
+Piggyback liver transplantation,0
+hepatitis B history,0
+entecavir,0
+HBsAg 113.23 IU/mL,0
+anti-HBs 0 mIU/mL,0
+HBeAg 0.08 PEI µ/mL,0
+anti-HBe >4.4 PEI µ/mL,0
+anti-HBc 8.26 PEI µ/mL,0
+negative HIV serology,0
+negative hepatitis A serology,0
+negative hepatitis C serology,0
+donor age 21 years,0
+donor blood type O Rh positive,0
+"HLA donor A11, A30; B13; DR11, DR15; DQ6, DQ7",0
+"HLA recipient A2, A11; B13, B46; DR14, DR15; DQ5, DQ6",0
+irradiated blood products,0
+acute renal failure,0
+hematoma around the liver,0
+intravenous hepatitis B immunoglobulin,0
+steroids,24
+tacrolimus,24
+tacrolimus blood level ~10 ng/mL,24
+continuous hemodialysis,24
+fresh frozen plasma,24
+leukocyte-depleted red blood cells,24
+active bleeding cessation,24
+renal function recovery,24
+hepatocellular carcinoma diagnosis,0
+tumor necrosis 90%,0
+surviving tumor 10%,0
+liver function improvement,240
+AST normalization,240
+ALT normalization,240
+GGT normalization,240
+ALP normalization,240
+fever 37-39°C,240
+fever peaks at 23:00 daily,240
+procalcitonin rise to 10.3 ng/mL,240
+procalcitonin drop to 3 ng/mL,312
+negative blood cultures,312
+negative cytomegalovirus,312
+negative Epstein-Barr virus,312
+chest red spots,312
+no itching,312
+negative Nikolsky sign,312
+tacrolimus changed to sirolimus,408
+mycophenolate mofetil added,408
+Acinetobacter baumannii infection,432
+methicillin-resistant Staphylococcus aureus infection,432
+rash progression to erythematous macules and papules,456
+"spread to limbs, palms, neck, face",456
+oral ulcers,456
+white ulcers on buccal mucosa and lips,456
+bone marrow suppression,456
+WBC 0.86×10^9/L,456
+PLT 35×10^9/L,456
+HGB 70 g/L,456
+transferred to ICU,456
+gamma globulin administration,456
+skin biopsy left chest,456
+FISH peripheral blood,456
+abdominal incision split,696
+sutured again,696
+bone marrow aspiration,768
+no special lesions in granulocytes,768
+no special lesions in red blood cells,768
+no special lesions in megakaryocytes,768
+bone marrow proliferation active,768
+megakaryocyte production reduced,768
+platelet levels decreased,768
+3% donor lymphocytes,792
+epidermal dyskeratosis,792
+basic vacuolization,792
+lymphocytic infiltrates,792
+grade-1 acute lt-GVHD,792
+no drug allergy history,792
+no suspected allergy drugs,792
+negative viral serology,792
+CD4:CD8 ratio reversed,792
+serum IgM 0.3 g/L,792
+thrombopoietin use,792
+PLT 3.2×10^9/L,792
+steroids continued,792
+tacrolimus continued,792
+G-CSF,792
+meropenem,792
+voriconazole,792
+rash reduction,792
+"serum ferritin 11,276.55 ng/mL",1128
+esophageal ulcers worsening,1128
+oral ulcers worsening,1128
+inability to eat,1128
+fever 39.4°C,1128
+hallucinations,1128
+multiple infections,1128
+Enterococcus faecalis infection,1128
+IgM 0 g/L,1128
+septic shock,1320
+multiple organ dysfunction syndrome,1320
+death,1320

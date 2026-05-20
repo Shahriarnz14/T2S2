@@ -1,0 +1,64 @@
+31-year-old non-smoking Caucasian female | 0
+No past medical history | 0
+Uncomplicated vaginal delivery | -1560
+Courses of both pregnancy and vaginal delivery were uncomplicated | -1560
+No prior history of head injury | -720
+Sudden-onset severe headache | -720
+Left arm numbness | -720
+Computed tomography scan showed grade 2 subarachnoid hemorrhage | -720
+Admitted to neurosurgical ward | -720
+Digital subtraction angiography revealed ruptured right middle cerebral artery aneurysm measuring 3.5 mm | -718
+Treated with percutaneous endovascular coil embolization | -716
+No permanent neurological deficits | -716
+Admitted again with suspected postpartum endometritis | -96
+Fever | -96
+Chills | -96
+Constant abdominal pain | -96
+Purulent uterine discharge | -96
+Denied urinary symptoms | -96
+Denied respiratory symptoms | -96
+Samples for blood culture obtained | -96
+Initiation of empiric antibacterial therapy (piperacillin/tazobactam, vancomycin, azithromycin) | -96
+Developed sepsis | 0
+Progressed to septic shock | 0
+Transferred to intensive care unit of university hospital | 0
+Body temperature 38.3°C | 0
+Invasive blood pressure 90/65 mmHg requiring crystalloid and vasopressor | 0
+Heart rate 135 per minute | 0
+Arterial oxygen saturation 82% | 0
+Mild disorientation | 0
+Slower capillary refill | 0
+Coarse rales over lower lung zones | 0
+Sequential organ failure assessment score of 4 | 0
+Hemoglobin 6.8 g/dL | 0
+D-dimers 4.58 μg/mL | 0
+C-reactive protein 322 mg/L | 0
+Fibrinogen concentration 6.4 mL | 0
+Blood cultures showed E. coli sensitive to piperacillin/tazobactam | 0
+Chest radiography showed pulmonary nodules up to 40 mm | 0
+Computed tomography of thorax confirmed pulmonary nodules | 0
+Transvaginal ultrasound depicted enlarged uterus with complete loss of zonal anatomy | 24
+Magnetic resonance imaging confirmed enlarged heterogeneous myometrial mass | 24
+Magnetic resonance imaging confirmed single splenic metastatic lesion | 24
+Serum β-human chorionic gonadotrophin 232,085 mUI/mL | 24
+Choriocarcinoma suspected | 24
+Suction evacuation and curettage performed | 48
+Pathology report confirmed choriocarcinoma diagnosis | 72
+FIGO score of 12 | 72
+Commenced low-dose etoposide in combination with cisplatin | 48
+Clinical improvement | 168
+Started EMA/CO regimen | 168
+Experienced grade 3 neutropenia after second cycle of EMA/CO | 504
+Required incorporation of granulocyte colony stimulating factor | 504
+Dose reduction of etoposide and actinomycin D | 504
+Suffered grade 2 alopecia | 504
+Suffered grade 2 nausea controlled with dexamethasone and ondansetron | 504
+Completed six cycles of EMA/CO | 1176
+β-hCG levels plateaued above normal | 1176
+Restaging MRI and PET/CT indicated decreased pulmonary nodules and uterine mass | 1176
+Revised FIGO score of 7 | 1176
+Changed therapeutic regimen to EP/EMA | 1176
+Complained of grade 2 fatigue | 2352
+Normalization of β-hCG within a month after completion of three cycles of EP/EMA | 2352
+Recommended use of male condoms to prevent unplanned pregnancy | 168
+Patient remains free of disease for almost two years | 17520

@@ -1,0 +1,84 @@
+event,time
+76 years old,0
+female,0
+subjective fevers,0
+nonproductive cough,0
+dyspnea,0
+admitted to the intensive care unit,0
+acute hypoxic respiratory failure,0
+COVID-19 infection,0
+blood pressure 110/53 mm Hg,0
+pulse rate 124 beats/min,0
+respiratory rate 31 breaths/min,0
+oxygen saturation 79%,0
+temperature 102.3°F,0
+severe respiratory distress,0
+tachycardia,0
+diffusely decreased breath sounds,0
+crackles,0
+hypertension,0
+hyperlipidemia,0
+hypothyroidism,0
+potassium 2.2 mEQ/L,0
+creatinine 1.79 mg/dL,0
+C-reactive protein 23.10 mg/L,0
+interleukin-6 781.46 mg/L,0
+lactate dehydrogenase 334 U/L,0
+ferritin 457 ng/mL,0
+procalcitonin 15.20 ng/mL,0
+prothrombin time 18.9 seconds,0
+fibrinogen >600 mg/dL,0
+white blood cell count 16.1 cells/L,0
+92.7% neutrophils,0
+IgG 1622 mg/dL,0
+SARS-CoV-2 positive,0
+troponin 0.03 ng/dL,0
+high-sensitivity troponin peaked at 503 ng/L,24
+"proBNP 35,000 pg/mL",24
+chest radiograph diffuse bilateral pulmonary edema vs infiltrates,0
+repeat chest radiograph worsening diffuse bilateral pulmonary opacities/infiltrates vs edema,24
+electrocardiogram no signs of ischemia,0
+normal sinus rhythm,0
+short PR interval 72 ms,0
+left ventricular hypertrophy,0
+QTc interval 680 ms,0
+previous echocardiograms normal LV ejection fraction,0
+no wall motion abnormalities,0
+transthoracic echocardiogram severely decreased LV systolic function,24
+segmental wall motion abnormalities,24
+akinesis of distal segments of left ventricle,24
+preserved function at base,24
+akinesis of mid and distal portions of right ventricle,24
+ejection fraction 25%–30%,24
+intubated,0
+shock state,0
+norepinephrine,0
+ARDSnet protocol,0
+tocilizumab 480 mg,24
+tocilizumab 240 mg,24
+intravenous immunoglobulin 25 g,24
+ceftriaxone,0
+cefdinir,0
+cefepime,0
+cytokine storm,0
+leukocytosis,0
+no hydroxychloroquine,0
+no azithromycin,0
+intravenous furosemide 40 mg,24
+elevated cardiac enzymes,24
+repeat bedside TTE LVEF 20%–25%,24
+transfer to tertiary center,24
+non-ST-elevation myocardial infarction,24
+therapeutic enoxaparin,24
+LVEF recovered to 50%,72
+mid-septal hypokinesis,72
+apical hypokinesis,72
+mildly reduced right ventricular function,72
+blood cultures negative,24
+respiratory cultures negative,24
+inflammatory markers improved,72
+inflammatory markers worsened,72
+interleukin-6 171.82 mg/L,72
+high-sensitivity troponin 418 ng/L,72
+not candidate for extracorporeal membrane oxygenation,72
+transferred back to intensive care unit,72

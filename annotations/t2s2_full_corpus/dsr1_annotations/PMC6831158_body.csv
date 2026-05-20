@@ -1,0 +1,75 @@
+event,time
+2260-g male infant,0\
+born at 34 weeks gestation,-0.5\
+caesarean section,-0.5\
+central placenta previa,-0.5\
+hemorrhage,-0.5\
+mother's pregnancy complicated with hyperthyroidism,-0.5\
+full dose dexamethasone given to mother,-0.5\
+Apgar 8 at 1 minute,-0.5\
+Apgar 9 at 5 minutes,-0.5\
+admitted to NICU,-0.5\
+intubated for respiratory distress,-0.5\
+pulmonary hemorrhage,0\
+HFOV,0\
+inhalational nitric oxide,72\
+PPHN,72\
+surfactant x2,0\
+UVC,0\
+UAC,0\
+HC 2 mg/kg q8h x3 days,0\
+circulatory failure,0\
+hypotension,0\
+fluid administration,0\
+inotropic support,0\
+epinephrine,0\
+dopamine,0\
+HC weaned over 5 days,72\
+MAP 92 mmHg,168\
+MAP 85 ±7.4 mmHg,168\
+blood exchange,0\
+albumin 2g,0\
+hyperbilirubinemia,0\
+indirect bilirubin 434 μmol/L,0\
+hypokalemia,336\
+potassium 2.1 mmol/L,336\
+IV potassium 0.3 mmol/kg/h,336\
+oral potassium 4 mmol/kg/day,336\
+potassium 2.8–3.3 mmol/L next 2 weeks,336\
+normal potassium thereafter,672\
+fetal echocardiography normal at 24 weeks,-2592\
+cardiology consult day 1,24\
+TTE day 1,24\
+right-to-left atrial shunt,24\
+PDA,24\
+TTE day 3,72\
+PAP 35 mmHg,72\
+LVEF 67%,72\
+atrial left-right shunt,72\
+patent ductal shunt,72\
+TTE day 11,264\
+PAP 23 mmHg,264\
+normal IVS thickness,264\
+cardiomegaly day 30,720\
+grade III/IV murmur,720\
+TTE day 30,720\
+IVS 13.8 mm,720\
+IVS z-score 8.29,720\
+LVPW 6 mm,720\
+IVS/LVPW 2.3,720\
+no outflow obstruction,720\
+COA ruled out,720\
+no maternal risk factors,720\
+normal maternal glucose tests,720\
+propranolol 0.2 mg q8h,720\
+captopril 0.02 mg q8h,720\
+Holter no arrhythmia,720\
+echocardiograms next weeks,720\
+IVS 3 mm day 60,1440\
+asymptomatic,720\
+oxygen discontinued day 30,720\
+normal tandem mass spec,720\
+normal exome sequencing,720\
+discharged day 45,1080\
+MAP 65 mmHg day 60,1440\
+normal cardiology follow-up,1440

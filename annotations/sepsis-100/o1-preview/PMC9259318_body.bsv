@@ -1,0 +1,99 @@
+History of mucosal resection for early gastric cancer | 0  
+History of partial resection for left lung cancer | 0  
+Did not have any heart disease | 0  
+Used conventional drugs | 0  
+Collected wild grass from riverbed | -720  
+Systemic pain | -480  
+Fatigue | -480  
+Fever | -336  
+Chills | -336  
+Watery diarrhea | -336  
+Loss of appetite | -336  
+Mildly disturbed consciousness | -336  
+Decreased white blood cells (WBC) | 0  
+Thrombocytopenia | 0  
+Elevated hepatic enzyme levels | 0  
+Hepatic dysfunction | 0  
+Admission to hospital | 0  
+Glasgow Coma Scale of 14 (E3, V5, M6) | 0  
+Blood pressure 130/79 mmHg | 0  
+Heart rate 96/min with regular pulse | 0  
+Respiratory rate 20/min | 0  
+Oxygen saturation 94% in room air | 0  
+Temperature 38.9°C | 0  
+No remarkable head-and-neck abnormalities | 0  
+No remarkable chest abnormalities | 0  
+Crusted skin lesions on medial surface of left thigh | 0  
+Freely movable adenopathy approx 2 cm in size without tenderness | 0  
+Aggregated papules in right inguinal region | 0  
+No remarkable neurological abnormalities | 0  
+White blood cell count 1,300 /μL (leukopenia) | 0  
+Platelet count 30,000 /μL (thrombocytopenia) | 0  
+Neutrophil count low at 899 /μL | 0  
+Lymphocyte count 342 /μL | 0  
+Activated partial thromboplastin time prolonged to 48.2 seconds | 0  
+Elevated C-reactive protein (CRP) 1.3 mg/dL | 0  
+Elevated aspartate aminotransferase (AST) 230 U/L | 0  
+Elevated lactate dehydrogenase (LDH) 760 U/L | 0  
+Elevated creatine kinase (CK) 746 U/L | 0  
+Chest radiography normal | 0  
+Electrocardiography normal | 0  
+Head-and-neck computed tomography (CT) scan normal | 0  
+Suspected sepsis | 24  
+Suspected febrile neutropenia (FN) | 24  
+Administered antibiotics | 24  
+Elevated ferritin 15,165 ng/mL | 48  
+Screened for cytomegalovirus antibodies | 48  
+Screened for Epstein-Barr virus antibodies | 48  
+Blood culture negative | 48  
+Bone marrow biopsy performed | 48  
+Hemophagocytosis in bone marrow | 48  
+Fewer mature myeloid series cells in bone marrow | 48  
+More monocytoid and lymphoid cells in bone marrow | 48  
+High number of CD3-positive T cells | 48  
+High number of CD4-positive T cells | 48  
+MUM-1-positive lymphoid cells | 48  
+CD68-positive histiomonocytes | 48  
+CD163-positive histiomonocytes | 48  
+No EBV-encoded small RNAs-positive cells | 48  
+Diagnosed with hemophagocytic lymphohistiocytosis (HLH) | 48  
+Administered prednisolone 60 mg/day | 48  
+Developed chest pain | 72  
+Developed shivering | 72  
+Fever of 39.2°C | 72  
+Hypotension blood pressure 88/52 mmHg | 72  
+Heart rate 89/min | 72  
+Respiratory rate 24/min | 72  
+Oxygen saturation 94% on 6-L oxygen mask | 72  
+Elevated CK 953 U/L | 72  
+Elevated LDH 1,405 U/L | 72  
+Elevated high-sensitivity troponin I (TnI) 271 pg/mL | 72  
+Transthoracic echocardiography showed severe left ventricular dysfunction (LVEF 15%) | 72  
+Electrocardiography showed slight ST elevation in V1-2 leads | 72  
+Contrast-enhanced CT of chest and abdomen normal | 72  
+Respiratory management in ICU | 72  
+Circulatory management in ICU | 72  
+Did not perform coronary angiography or endomyocardial biopsy due to unknown infection and bleeding tendency | 72  
+Suspected severe fever with thrombocytopenia syndrome (SFTS) | 72  
+Submitted serum, urine, throat swabs to public health center | 72  
+Moved to negative-pressure room | 72  
+RT-PCR detected SFTSV RNA 1.77×10⁶ copies/mL | 96  
+Bone marrow stained positively with anti-SFTSV-nucleoprotein antibody | 96  
+Considered steroid pulse therapy but did not proceed | 96  
+Troponin I peaked at 82.6 pg/mL | 96  
+Withdrew from circulatory agonist | 336  
+Withdrew from ventilator management | 336  
+Electrocardiography showed improvement of ST elevation | 336  
+Prednisolone stopped | 336  
+Re-submitted serum and confirmed negativity for viremia | 408  
+Released from quarantine | 408  
+Performed coronary angiography and endomyocardial biopsy | 576  
+Coronary angiography showed no coronary artery stenosis | 576  
+Endomyocardial biopsy showed myocardium mildly hypertrophic with mild myofibrillar loss and disarrangement | 576  
+Immunohistochemistry revealed increases in CD3-positive T cells | 576  
+Immunohistochemistry revealed increases in CD68-positive macrophages | 576  
+Tenascin-C expression in stroma | 576  
+Could not identify any infected cells with anti-SFTSV antibody staining in myocardium | 576  
+Discharged from hospital | 696  
+Follow-up echocardiography showed ejection fraction improved to 52.5% | 1368  
+No heart failure thereafter | 1368  

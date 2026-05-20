@@ -1,0 +1,113 @@
+pmcCore Tip: Septic shock results in multiple organ failure and is associated with a high mortality rate, and patients with septic acute kidney injury (AKI) have an even greater risk of mortality. We report the successful treatment of a patient with gastrointestinal septic AKI using continuous renal replacement therapy (CRRT) with an oXiris® hemofilter. These results suggest that early use of the oXiris® hemofilter with CCRT may be useful for other patients with gastrointestinal septic AKI.
+
+INTRODUCTION
+
+Acute kidney injury (AKI) is a common and severe complication that can occur in patients with sepsis. The incidence and death rate from septic AKI has increased significantly during recent years. Patients with septic AKI who have additional complications, such as pulmonary edema, hypoxemia, and acute respiratory distress syndrome, have an even greater risk of mortality. Although there has been significant progress in the development anti-infective treatments and technologies that support organ function during recent years, patients with sepsis still have a death rate as high as 25% to 30%[1]. Sepsis is the leading cause of AKI in intensive care unit (ICU) patients. Bagshaw et al[2] found that patients with septic AKI had longer hospitalizations and a higher in-hospital case-fatality rate than those with non-septic AKI. Several studies[3,4] showed that patients receiving dialysis via continuous renal replacement therapy (CRRT) may have improved prognosis. These blood purification treatments provide benefit by adsorption of endotoxins and inflammatory mediators.
+
+Adsorption is the essential effect of CRRT, especially in treating sepsis, and it is more effective than diffusion and convection techniques. The AN69 hemofilter has an outstanding ability to adsorb inflammatory factors, and removal of endotoxins by the oXiris® hemofilter is a huge step forward in CRRT adsorption therapy[5]. The oXiris® hemofilter is an innovative product based on the AN69 hydrogel structure and AN69ST. The base membrane material (acrylic and sodium methyl sulfonate polymers) adsorbs inflammatory mediators and the improved polyethylenimine (PEI) coating adsorbs endotoxins. Filtration using the oXiris® hemofilter can thus block the excessive inflammatory responses characteristic of sepsis. Here, we present the successful treatment of a patient who had septic AKI and a gastrointestinal infection using CCRT with the oXiris® hemofilter.
+
+CASE PRESENTATION
+
+Chief complaints
+
+A 59-year-old man was admitted to the hospital with intermittent diarrhea for the previous 5 d, which developed soon after eating food that he believed was contaminated. He also had reduced urine volume for the previous 3 d (Table 1).
+
+Table 1 Demographic and clinical characteristics of the patient
+
+Demographic and clinical characteristics	
+Age	59 yr	
+Gender	Male	
+Major clinical diagnoses	Klebsiella pneumoniae bacteraemia; Sepsis; Septic shock; Acute kidney injury	
+Broad-spectrum antimicrobials	Yes	
+oXiris® prescription mode	CVVHDF, 72 h	
+Dose, mL/kg per hour	30	
+Anticoagulation	Regional citrate anticoagulation	
+ICU survival	Yes	
+Hospital survival	Yes	
+CVVHDF: Continuous veno-venous hemodiafiltration; ICU: Intensive care unit.
+
+History of present illness
+
+The patient reported initially experiencing diarrhea with water-like stools more than 10 times/d that were accompanied by abdominal pain, nausea, and vomiting. This was followed by a decreased production of dark-colored urine (50-100 mL/d), fatigue, and limb weakness. He was transferred to the ICU for further management.
+
+History of past illness
+
+The patient did not have any history of past illnesses.
+
+Personal and family history
+
+The patient has no special personal and family history.
+
+Physical examination
+
+Examination on admission showed that his temperature was 38.5 °C, pulse was 128 beats/min, respiration was 22 breaths/min, and blood pressure was 70/40 mmHg. There was no evidence of lung or cardiac abnormalities. His abdomen was slightly puffy and soft, with upper abdominal pressure, and he experienced back pain and bowel “chirping” 5-6 times/min.
+
+Laboratory examinations
+
+His hemoglobin level was 18.3 g/dL, the total white blood cell count was 21.4 × 109/L, there were 71.9% neutral granulocytes, and the platelet count was 169 × 109/L. The patient also had metabolic acidosis, with a blood gas pH of 7.35, PCO2 of 30 mmHg, PO2 of 66 mmHg (FiO2 60%), PO2/FiO2 of 110 mmHg, bicarbonate of 16.6 mmol/L, a base excess of -9.0 mmol/L, and lactate of 3.5 mmol/L. The aspartate aminotransferase (ASP) was 573.1 U/L, alanine aminotransferase was 47 U/L, total bilirubin was 7.58 µmol/L, serum creatinine (SCr) was 708.8 µmol/L, urea was 20.48 mmol/L, and albumin was 26.9 g/L. The prothrombin time was 12.5 s, activated partial thromboplastin time was 31.3 s, international normalized ratio was 1.08, and procalcitonin (PCT) was 32.60 ng/mL. Because the ASP was highly elevated and the AST was moderately elevated, we conducted tests to determine the possible cause. All tests for hepatitis (HBsAg, HBsAb, HBeAg, HBeAb, HBcAb, and HCV) were negative, as were all tests for autoimmune hepatitis (antinuclear antibodies, smooth muscle antigen, soluble liver antigen antibodies, liver-kidney microsome-1, and other autoantibodies).
+
+Salmonella and Shigella were not detected in a stool culture, and the tests for Clostridium difficile toxin A toxin B were also negative. Most fecal cocci were Gram-negative bacilli, and there were a few Gram-positive.
+
+Empirical treatment with meropenem began within 1 h of admission, and blood cultures were obtained. The blood culture showed Klebsiella pneumonia that was sensitive to meropenem, so we continued its use.
+
+FINAL DIAGNOSIS
+
+According to the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)[6], we diagnosed the patient as having Klebsiella pneumoniae bacteraemia, sepsis, septic shock, and septic AKI. His Acute Physiology and Chronic Health Evaluation (APACHE II) score was 18 points, with a 42.9% risk of death, and his Sequential Organ Failure Assessment (SOFA) score was 10.
+
+TREATMENT
+
+The patient was in critical condition. To treat the sepsis-induced hypoperfusion, we administered 2500 mL of intravenous crystalloid fluid within the first 3 h and established invasive dynamic hemodynamic monitoring. Following the initial fluid resuscitation, we performed frequent reassessment of his hemodynamic status to guide administration of additional fluids. The patient's blood pressure increased slightly to 80/55 mmHg, and we administered noradrenaline to achieve the initial target mean arterial pressure of 65 mmHg.
+
+We also initiated CRRT using an oXiris® hemofilter (Baxter, Deerfield, IL, United States), which is designed for removal of cytokines adsorption of endotoxins, using a Prismaflex version 8.0 machine (Gambro Industries, Meyzieu, France). A vascular path was established using a 12-French double-lumen catheter in the right femoral vein. The prescription was set up as pre-dilution. The mode of CRRT was continuous veno-venous hemodiafiltration (CVVHDF) at 30 mL/kg per hour, and the CRRT machine was primed with normal heparinized saline and regional citrate for anticoagulation. The blood flow rate was 150 L/min. The hemofiltration prescription was adjusted based on electrolyte and acid-base results and the oXiris® hemofilter was changed every 12 h to ensure adsorption efficacy. Except for mild hypocalcemia, which required intravenous calcium supplementation, the patient experienced no significant complications.
+
+OUTCOME AND FOLLOW-UP
+
+After administering meropenem and CRRT with the oXiris® filter for 72 h, the patient's vital signs were stable, and the infection was well controlled. We also reduced the noradrenaline infusion to a minimum of 0.05 µg/kg per minute during the CRRT, and stopped it at 65 h after initiation of treatment (Figure 1A). After 6 h, the lactate level was 2.1 mmol/L and lactate clearance rate was 40%. At that time, inflammation-related parameters [endotoxin, interleukin (IL)-6, and IL-10] had markedly declined (Figure 1B-D). In addition, the PCT level decreased from 32.60 ng/mL to 4.98 ng/mL during the 72 h treatment period (Figure 2A). His urine volume gradually increased over the course of 10 d (Figure 2B). Over the course of 3 d, his SCr gradually decreased from 708.8 µmol/L to 241 µmol/L, his SOFA score decreased from 10 to 3 (Figure 2C), and his APACHE II score decreased from 18 to 6 (Figure 2D). After he was hemodynamically stable, we changed to a traditional filter (AN69 hemofilter) and used intermittent CVVHDF. We discontinued CRRT after the recovery of kidney function on day 20. After 25 d of treatment in the ICU, there was significant amelioration of the septic shock, and we discharged the patient. The patient's kidney function eventually returned to normal.
+
+Figure 1 Noradrenaline dose, and levels of endotoxin, interleukin-6 and interleukin-10 during continuous veno-venous hemodiafiltration with the oXiris® filter. A: Noradrenaline dose; B: Endotoxin; C: Interleukin-6; D: Interleukin-10. IL: Interleukin.
+
+Figure 2 Procalcitonin level, urine output, Sequential Organ Failure Assessment score, and Acute Physiology and Chronic Health Evaluation score during continuous veno-venous hemodiafiltration with the oXiris® hemofilter (0-72 h) and then with a traditional filter (AN69 membrane). A: Procalcitonin level; B: Urine output; C: Sequential Organ Failure Assessment score; D: Acute Physiology and Chronic Health Evaluation score. PCT: Procalcitonin; SOFA: Sequential Organ Failure Assessment; APACHE II: Acute Physiology and Chronic Health Evaluation.
+
+DISCUSSION
+
+The Sepsis-3 criteria consider sepsis to be caused by a dysregulated host response to infection, and defines it as a life-threatening organ dysfunction[6]. As a subset of sepsis, septic shock leads to circulatory and cellular/metabolic abnormalities and substantially increases the risk of death[1]. Endotoxins are lipopolysaccharides expressed on the outer membranes of Gram-negative bacteria (including Klebsiella pneumoniae) that activate the release of cytokines when recognized by immune cells. Cytokines play an important role in the pathogenesis of sepsis, septic shock, and multiple organ failure[7]. Removal of endotoxins and inflammatory mediators from circulation can modulate inflammatory responses and alleviate organ damage[8].
+
+The oXiris® hemofilter is a modified AN69ST membrane that can bind endotoxins and cytokines. Compared with the standard AN69ST hemofilter, the oXiris® hemofilter has 3-times more PEI surface coating and 10-times more immobilized heparin[5]. Studies of a porcine model of septic shock reported that use of the oXiris® hemofilter for 6 h of hemofiltration treatment led to greater decreases in the endotoxin level and greater improvements in hemodynamic parameters than a standard AN69 hemofilter[3]. Shum et al[9] used the oXiris® hemofilter with CVVH in 6 patients with septic AKI and compared them with 24 historical controls matched for disease severity who received CVVH with conventional filters. Their results confirmed that oXiris® hemofilter therapy was associated with increased blood pressure, a reduced requirement for vasopressor, and improved organ function. A randomized, crossover, double-blind study showed that CRRT using the oXiris® hemofilter effectively removed endotoxins and tumor necrosis factor-α, IL-6, IL-8, and interferon-α during the first filtration treatment of patients with septic shock and AKI[10]. Moreover, the oXiris® hemofilter is much less expensive than a polymyxin B-immobilized fiber column, which is widely used to remove blood endotoxins for treatment of patients with endotoxemia and septic shock[5,11,12]. A recent report also described a patient with abdominal septic shock who received CRRT with the oXiris® membrane. A limitation of this previous case report is that the blood concentrations of inflammatory mediators and endotoxin were not measured. Because the oXiris® hemofilter was designed to adsorb endotoxins and inflammatory mediators, we dynamically monitored the levels of endotoxin, IL-6, and IL-10.
+
+Our patient developed severe gastrointestinal septic shock and septic AKI after experiencing diarrhea for 5 d, and was admitted to the ICU while in critical condition. Rapid rehydration during the early stages of shock and appropriate antibiotic treatment was critical. Moreover, our use of CVVHDF with the oXiris® hemofilter for 72 h led to significant decreases in the levels of inflammatory factors and endotoxin. Because the meropenem killed the bacteria and the oXiris® hemofilter removed endotoxin and inflammatory mediators, this led to reduced the inflammation and allowed recovery from this acute illness.
+
+CONCLUSION
+
+The results from our use of the oXiris® hemofilter to treat septic AKI are encouraging, because they indicate this filter has potential therapeutic benefits by removing endotoxins and cytokines from patients with sepsis. However, this was a case report of a single patient, so randomized controlled trials are needed to confirm the benefits of the oXiris® hemofilter before its routine for patients with sepsis and septic shock. Nonetheless, our results are encouraging, because they indicate the potential therapeutic benefits of removing endotoxins and cytokines from patients with sepsis.
+
+Informed consent statement: Informed written consent was obtained from the patient for publication of this report and any accompanying images.
+
+Conflict-of-interest statement: The authors declare that they have no conflicts of interest.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Manuscript source: Unsolicited manuscript
+
+Peer-review started: May 1, 2021
+
+First decision: June 15, 2021
+
+Article in press: August 16, 2021
+
+Specialty type: Medicine, research and experimental
+
+Country/Territory of origin: China
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): A
+
+Grade B (Very good): B
+
+Grade C (Good): C
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Hsu YC, Inal V S-Editor: Gao CC L-Editor: A P-Editor: Wang LYT

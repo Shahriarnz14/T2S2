@@ -1,0 +1,58 @@
+event,time
+40 years old,0
+male,0
+admitted to the hospital,0
+fever,-72
+diarrhea,-72
+oxygen saturation 60%,-72
+gradual onset of dyspnea,-72
+confusion,-72
+shock,-72
+bleeding spots on the chest and abdomen,0
+florid spots on the lower limbs,0
+platelet count 26 ×109/L,0
+blood urea nitrogen 13.9 mmol/L,0
+creatinine 330 μmol/L,0
+urine protein 3+,0
+HFRS anti-IgM antibody positive,0
+history of hypertension,0
+fatty liver,0
+diagnosed with HFRS,0
+ventilator-assisted ventilation,0
+fluid replacement,0
+norepinephrine administration,0
+admitted to ICU,0
+HFRS,0
+septic shock,0
+decompensated metabolic acidosis,0
+AKI,0
+multiple organ failure,0
+continuous renal replacement therapy (CRRT),0
+sedation and analgesia,0
+plasma transfusion,0
+platelet transfusion,0
+left nasal cavity bleeding,24
+left nasal alar purple and swollen,48
+nasal necrotic lesions,72
+microbial culture Rhizopus oryzae complex,72
+bronchoalveolar lavage fluid Aspergillus fumigatus,72
+serum GM 4.99,72
+bronchoalveolar lavage fluid GM 1.29,72
+diagnosed with rhinomucormycosis,72
+diagnosed with pulmonary aspergillosis,72
+caspofungin administration,72
+voriconazole administration,72
+nasal rinsing with saline,72
+amphotericin B dressing,72
+sodium bicarbonate dressing,72
+left nasal scab fell off,312
+no orbitocerebral involvement,312
+bronchoalveolar lavage fluid no fungal growth,336
+lung imaging returned to normal,336
+urine output recovered,264
+renal function recovered,264
+weaning from ventilator,264
+discontinuation of caspofungin,312
+discontinuation of voriconazole,336
+discharged,672
+no further signs of rhinomucormycosis,17520

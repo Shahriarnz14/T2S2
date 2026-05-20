@@ -1,0 +1,111 @@
+event,time
+74 years old,0
+white,0
+woman,0
+presented to the Emergency Department,0
+admitted to the airborne-isolation unit,0
+denied any recent sick contacts,0
+denied any travel history,0
+essential hypertension,0
+obesity,0
+myasthenia gravis in remission,0
+osteoarthritis,0
+pain in the right knee,0
+redness in the right knee,0
+swelling in the right knee,0
+body temperature 37.3°C,0
+blood pressure 121/82,0
+pulse 87 beats per minute,0
+respiratory rate 16 breaths per minute,0
+oxygen saturation 87% on ambient air,0
+bilateral rhonchi,0
+rales,0
+chest radiography patchy air space opacity in the right upper lobe suspicious for pneumonia,0
+rapid NAAT influenza A negative,0
+rapid NAAT influenza B negative,0
+nasopharyngeal swab obtained for SARS-CoV-2,0
+contact precautions,0
+droplet precautions,0
+airborne precautions,0
+blood cultures drawn,0
+sputum cultures drawn,0
+cefepime started,0
+levofloxacin started,0
+supplemental oxygen 2 L started,0
+absolute lymphopenia,0
+anemia,0
+arterial blood gas pH 7.46,0
+arterial blood gas pCO2 44.6 mmHg,0
+arterial blood gas pO2 94.7 mmHg,0
+arterial blood gas bicarbonate 31.4 mmol/L,0
+progressively increasing shortness of breath,0
+low-grade fever,-48
+dry cough,-48
+shortness of breath,-48
+admitted to another hospital for elective right total knee replacement,-168
+uneventful post-operative course,-168
+stayed in a private room,-168
+went to the hospital in a healthy state,-168
+mild diarrhea,48
+generalized weakness,48
+fatigue,48
+evaluated by Neurology,48
+mild myasthenia gravis exacerbation,48
+pending MG crisis,48
+intravenous immunoglobulin started,48
+SARS-CoV-2 positive by RT-PCR,72
+hydroxychloroquine started,72
+azithromycin started,72
+zinc sulfate started,72
+oral vitamin C started,72
+blood cultures no growth,72
+sputum cultures no growth,72
+broad-spectrum antibiotics discontinued,72
+oxygen requirements increased to 10 L high-flow nasal cannula,72
+shortness of breath worsened rapidly,120
+oxygen requirements increased to 15 L,120
+drowsy,120
+moderate distress,120
+unable to protect the airways,120
+blood pressure 78/56 mmHg,120
+heart rate 112 beats per minute,120
+temperature 38°C,120
+respiratory rate 28 breaths per minute,120
+CXR bilateral alveolar infiltrates and interstitial edema consistent with ARDS,120
+intubated emergently,120
+mechanical ventilation started (pressure-regulated volume-controlled),120
+admitted to Critical Care Unit,120
+norepinephrine started 0.02 mcg/kg/min,120
+septic shock,120
+colchicine started,120
+creatine kinase normal,120
+venous lactic acid normal,120
+lactate dehydrogenase elevated 312 U/L,120
+ferritin elevated 767 ng/mL,120
+interleukin-6 elevated 52 pg/mL,120
+cytokine storm,120
+high-dose vitamin C infusion started 11 g/24 h continuous,144
+intravenous immunoglobulin stopped,144
+norepinephrine stopped,192
+hydroxychloroquine stopped,192
+azithromycin stopped,192
+CXR significant improvement of pneumonia and interstitial edema,216
+spontaneous breathing trial with CPAP/PS successful,216
+arterial blood gas pH 7.49,216
+arterial blood gas pCO2 40.2 mmHg,216
+arterial blood gas pO2 77.1 mmHg,216
+arterial blood gas bicarbonate 30.2 mmol/L,216
+extubated to 4 L oxygen via nasal cannula,216
+mechanical ventilation stopped,216
+colchicine stopped,216
+transferred from the Critical Care Unit to an isolation room,240
+inpatient physical rehabilitation started,240
+inpatient occupational rehabilitation started,240
+zinc sulfate stopped,312
+oxygen saturation 92% while breathing ambient air,360
+CXR nearly complete resolution of the infiltrates and interstitial edema,360
+SARS-CoV-2 RT-PCR positive,360
+supplemental oxygen discontinued,360
+discharged in stable condition,360
+quarantine for additional 14 days,360
+high-dose vitamin C infusion stopped,384

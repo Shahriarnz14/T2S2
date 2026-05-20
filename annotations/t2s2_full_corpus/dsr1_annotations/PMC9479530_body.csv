@@ -1,0 +1,76 @@
+event,time
+65 years old,0
+male,0
+allergic rhinitis,0
+eczema,0
+dyslipidemia,0
+benign prostatic hyperplasia,0
+left eye blurring of vision,-26280
+left visual field quadrantanopia,0
+pituitary macroadenoma,0
+low cortisol,0
+low growth hormone,0
+low testosterone,0
+admitted for TSH,0
+tumor excision,0
+dura not breached,0
+extubated,0
+polyuria,24
+cranial diabetes insipidus,24
+desmopressin,24
+fever,168
+tachypnea,168
+tachycardia,168
+minimal cough,168
+no CSF rhinorrhea,168
+equal air entry,168
+no adventitious breath sounds,168
+perihilar haziness,168
+WBC 9000 cells/cm3,168
+CRP 200 mg/L,168
+IV Tazosin,168
+headache,168
+neck pain,168
+indecisive about lumbar puncture,168
+Glasgow Coma Scale drop,216
+E3V3M5,216
+pupils reactive,216
+neck stiffness,216
+Kernig's sign,216
+Brudzinski's sign,216
+WBC 14000 cells/cm3,216
+CRP >200 mg/L,216
+E. meningoseptica blood culture,168
+CRE,168
+Gram-negative bacilli,168
+nonmotile,168
+oxidative positive,168
+intubated,216
+septic shock,216
+meningitis,216
+IV Meropenem,216
+IV Ciprofloxacin,216
+lumbar puncture,216
+CSF WBC 10 cells/mm3,216
+polymorphs predominant,216
+glucose 2.2 mmol/L,216
+protein 0.57 g/L,216
+E. meningoseptica CSF culture,216
+bacteremia,216
+meningitis diagnosis,216
+no neurological improvement,216
+septic parameters improvement,216
+CT brain,216
+superior sagittal sinus thrombosis,216
+SC clexane,216
+Acinetobacter baumannii XDR,312
+IV Polymyxin B,312
+completed IV Polymyxin B,504
+completed IV Meropenem,504
+completed IV Ciprofloxacin,504
+T. Levofloxacin,504
+extubated,408
+resolving sinus thrombosis,0
+WBC 7000 cells/cm3,0
+CRP negative,0
+full neurological recovery,0

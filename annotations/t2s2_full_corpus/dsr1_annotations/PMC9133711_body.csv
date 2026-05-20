@@ -1,0 +1,70 @@
+event,time
+18 years old,0
+male,0
+admitted to the hospital,0
+fever,-72
+rash,-72
+acne,-672
+minocycline,-672
+increased WBC count,0
+eosinophilia,0
+systemic involvement,0
+diffuse erythematous or maculopapular eruption,0
+pruritis,0
+DRESS syndrome,0
+fever persisted,0
+rash persisted,0
+discharged,24
+male infant,0
+birth weight 2.980 Kg,0
+vaginal delivery,0
+prolonged second stage of labour,0
+prolonged third stage of labour,0
+Apgar score 4 at 1 minute,0
+perinatal asphyxia,0
+active resuscitation with non-invasive ventilation,0
+oxygen saturation 80%,0
+intubated,0
+Apgar score 7 at 5 minutes,0
+Apgar score 10 at 10 minutes,0
+transferred to NICU,0
+blood pressure 70/50 mm Hg,0
+heart rate 144 beats/min,0
+breathing rate 66/min,0
+respiratory distress on day 2,24
+afebrile,24
+tachypnic,24
+no history of aspiration,24
+no history of lethargy,24
+no history of rash,24
+blood pressure 52/38 mm Hg,24
+pulse rate 186/min,24
+muffled S1 and S2,24
+clear lung auscultation,24
+ECG low voltage QRS complex,24
+ECG non-specific ST-T wave changes,24
+mild leucocytosis 13800/mm3,24
+normal cardiac troponin,24
+normal CK-MB,24
+chest X-ray halo sign,24
+endotracheal tube in right main bronchus,24
+echocardiography air bubbles in pericardial sac,24
+diastolic collapse of right atrium,24
+diastolic collapse of right ventricular outflow tract,24
+cardiac tamponade,24
+normal biventricular function,24
+infection ruled out,24
+sepsis ruled out,24
+ARDS ruled out,24
+myocarditis ruled out,24
+intravenous normal saline,24
+ceftriaxone 250 mg IV,24
+pericardiocentesis performed,24
+air aspiration 40-50 ml,24
+blood pressure 66/42 mm Hg,24
+endotracheal tube repositioned,24
+ECG minimal air anterior cardiac surface,48
+pericardial sheath removed,48
+chest X-ray resolution of PPC,48
+weaned off mechanical ventilation,168
+discharged on day 10,240

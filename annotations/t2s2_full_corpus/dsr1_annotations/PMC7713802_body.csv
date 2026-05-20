@@ -1,0 +1,130 @@
+event,time
+30-year-old man,0
+admitted to emergency room,0
+mechanical ileus,0
+enterocutaneous fistula,0
+abdominal pain,-24
+difficulty in defecation,-24
+sudden changes in mental status,-24
+stupor,-24
+vomiting,-24
+sepsis,0
+blood pressure 60/40 mmHg,0
+heart rate 140 beats/min,0
+MELAS syndrome diagnosis,-61320
+partial seizure,-61320
+carbamazepine 1200 mg/day,-61320
+valproic acid 1000 mg/day,-61320
+mental retardation,-61320
+cerebral infarction left middle cerebral artery,-61320
+cerebral infarction right posterior inferior cerebellar artery,-61320
+history of lactic acidosis,-61320
+white blood cells 2.9 × 10³/μl,0
+lactic acid 142.1 mg/dl,0
+aspartate transaminase 141.1 U/L,0
+alanine transaminase 124.7 U/L,0
+creatine kinase 353.0 U/L,0
+CK-MB 20.79 ng/ml,0
+blood urea nitrogen 36.7 mg/dl,0
+creatinine 1.10 mg/dl,0
+prothrombin time 17.7 s,0
+international normalized ratio 1.57,0
+activated partial thromboplastin time 56.7 s,0
+metabolic acidosis,0
+pH 7.170,0
+PaO2 129.5 mmHg,0
+PaCO2 36.8 mmHg,0
+base excess -15.2 mM/L,0
+HCO3- 13.6 mM/L,0
+lactic acidosis,0
+lactate 131.7 mg/dl,0
+ST-elevation anterior lead,0
+Wolff-Parkinson-White syndrome,0
+troponin-T 205 ng/L,0
+pro BNP 313.7 pg/ml,0
+hypoglycemia 55.1 mg/dl,0
+dobutamine 10 μg/kg/min,0
+norepinephrine 0.5 μg/kg/min,0
+drowsy-to-stupor mental status,0
+emergency total colectomy planned,0
+terminal ileostomy planned,0
+TIVA with dexmedetomidine and remifentanil,0
+propofol induction,0
+transferred to operating room,0
+standard monitoring devices attached,0
+SpO2 99%,0
+noninvasive BP 114/46 mmHg,0
+HR 141 beats/min,0
+temperature 39.1°C,0
+BIS monitor attached,0
+neuromuscular monitor attached,0
+FloTrac/EV1000 prepared,0
+radial arterial cannulation,0
+preoxygenation 100% O2,0
+propofol target-controlled infusion,0
+dexmedetomidine infusion 1.0 μg/kg/h,0
+loss of consciousness,5
+BIS score 44,5
+propofol Ce 1.0 μg/ml,5
+propofol Ce adjusted to 0 μg/ml,5
+remifentanil started Ce 1 ng/ml,5
+rocuronium 0.6 mg/kg,5
+endotracheal intubation,5
+TOF 0,5
+mechanical ventilation 60% O2,5
+tidal volume 600 ml,5
+respiratory rate 12 breaths/min,5
+end-tidal CO2 below 40 mmHg,5
+peak inspiratory pressure below 30 mmHg,5
+esophageal temperature monitored,5
+ice bag application,5
+fluid management SVV-guided,5
+remifentanil Ce 1-4 ng/ml,5
+BIS 26-44 during surgery,5
+dobutamine continued,5
+norepinephrine continued,5
+MAP ≥50 mmHg,5
+cardiac output 6-10 L/min,5
+SVV decreased 16% to 12%,5
+tachycardia persisted,5
+hypotension 47/18 mmHg,85
+HR 42 beats/min,85
+epinephrine 1 mg,85
+vasopressin 5U,85
+vital signs stabilized,85
+dexmedetomidine stopped,180
+remifentanil Ce adjusted to 0,205
+BIS score 97,240
+eyes opened on command,243
+sugammadex 200 mg,243
+TOF ratio 13%,243
+extubation,245
+TOF ratio 100%,245
+spontaneous breathing,245
+propofol total 50 mg,245
+dexmedetomidine total 225 μg,245
+remifentanil total 2.15 mg,245
+glucose supplement 50% dextrose,245
+glucose 8 g/h,245
+blood glucose 101 mg/dl,245
+sodium bicarbonate 120 mEq,245
+pH ≥7.2,245
+end-tidal CO2 below 40 mmHg,245
+body temperature 37°C,245
+forced air warmer used,245
+temperature ≥36°C,245
+operation duration 210 min,245
+transferred to ICU,245
+ABGA pH 7.278,245
+PaO2 256.0 mmHg,245
+PaCO2 33.1 mmHg,245
+base excess -11.3 mM/L,245
+HCO3- 15.6 mM/L,245
+lactate 64.1 mg/dl,245
+crystalloids 3000 ml,245
+urine output 1100 ml,245
+blood loss 100 ml,245
+critical care one month,720
+sepsis persisted,720
+cardiac arrest,720
+death,720

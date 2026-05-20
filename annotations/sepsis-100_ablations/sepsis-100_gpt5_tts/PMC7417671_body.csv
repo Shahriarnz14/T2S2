@@ -1,0 +1,72 @@
+event,time
+48-year-old,0
+male,0
+admitted to the Emergency Service,0
+toothache,-96
+dyspnea,-96
+chest pain,-96
+sweating,-96
+tachyarrhythmia,-96
+sore throat,-96
+fever (38.2°C),-96
+treated at home with ceftriaxone 3 g once daily,-48
+treated at home with steroids,-48
+treatment resulted ineffective,-12
+condition worsened,-12
+started accusing dyspnea,-12
+started accusing chest pain,-12
+gross swelling of the lower right cheek,0
+gross swelling of the submandibular region,0
+gross swelling of the mental region,0
+erythematous on palpation,0
+warm on palpation,0
+difficulties in opening the jaw,0
+inflammatory changes of the mucous membrane of oral cavity,0
+increased white blood cells (17 × 10^9/L),0
+increased neutrophils (88%),0
+increased C-reactive protein (4 mg/L),0
+urgent orotracheal intubation performed,1
+chest and neck CT scan showed left pleural effusion,2
+chest and neck CT scan showed mediastinitis,2
+chest and neck CT scan showed right parapharyngeal abscess,2
+possible complication of an odontogenic infection,2
+drainage of the right neck,3
+drain inserted by cervicotomy in the subcutaneous tissue of the submandibular space,3
+left chest drain placed on the left sixth intercostal space,3
+intravenous piperacillin sodium initiated,3
+intravenous tazobactam sodium initiated,3
+clinical condition worsened,36
+transferred to an Intensive Care Unit,48
+chest and neck CT scan showed air collection in the right submandibular space,52
+chest and neck CT scan showed air collection in the left carotid space,52
+chest and neck CT scan showed air collection in the retroesophageal space,52
+chest and neck CT scan showed air collection in the pretracheal space,52
+chest and neck CT scan showed collections with air and fluids in the upper mediastinum,52
+chest and neck CT scan showed collections with air and fluids in the anterior mediastinum,52
+chest and neck CT scan showed collections with air and fluids in the posterior mediastinum,52
+bilateral pleural effusions,52
+cervical necrotizing fasciitis diagnosed,52
+descending necrotizing mediastinitis diagnosed,52
+right pleural drain inserted,54
+chest and neck CT angiography displayed abscesses in the cervical spaces,76
+chest and neck CT angiography displayed extensive mediastinal empyema,76
+chest and neck CT angiography displayed left pleural effusion,76
+chest and neck CT angiography displayed right hydropneumothorax,76
+aggressive mediastinal debridement performed,76
+video-assisted thoracoscopic surgery performed,76
+empyema collections in the upper retrosternal space cleared,76
+empyema collections in the anterior mediastinum cleared,76
+empyema collections in the posterior mediastinum cleared,76
+1100 mL of yellow-brown secretion drained,76
+incision and drainage of the neck abscesses,76
+2 surgical drains inserted in the neck,76
+oral tooth extraction (48th),76
+purulent fluid drained and packed from the cavity below,76
+DNM-type IIB,76
+microscopy and culture revealed Streptococcus anginosus,80
+microscopy and culture revealed Gemella morbillorum,80
+microscopy and culture revealed Staphylococcus lugdunensis,80
+"amoxicillin 1000 mg intravenously, 6 hourly initiated",80
+"metronidazole 500 mg intravenously, 12 hourly initiated",80
+piperacillin sodium plus tazobactam sodium discontinued,80
+dismissed in better health conditions,248

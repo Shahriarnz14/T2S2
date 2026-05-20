@@ -1,0 +1,78 @@
+event,time
+74-year-old man,0
+end-stage renal disease,0
+admitted to hospital,0
+episode of syncope,-24
+hemodialysis session,-24
+returned from cottage in eastern Ontario,-24
+fever (38.6°C),0
+tachycardia (101 beats/min),0
+confused,0
+no nuchal rigidity,0
+no jaundice,0
+no cardiorespiratory abnormalities,0
+no lymphadenopathy,0
+no hepatosplenomegaly,0
+no abdominal tenderness,0
+mild anemia,0
+slight elevation in aspartate transaminase,0
+computed tomography scans normal,0
+diagnosis of sepsis,0
+started on intravenous piperacillin-tazobactam,0
+started on vancomycin,0
+clinical status deteriorated,96
+high-grade fevers (up to 40.1°C),96
+decreasing level of consciousness,96
+hypotensive,96
+transferred to intensive care unit,96
+vasopressor support,96
+intubation,96
+anti-infective drugs changed to acyclovir,96
+anti-infective drugs changed to ampicillin,96
+anti-infective drugs changed to ceftriaxone,96
+anti-infective drugs changed to vancomycin,96
+anemia,96
+thrombocytopenia,96
+transaminitis,96
+marked hyperferritinemia,96
+suspicion of hemophagocytic lymphohistiocytosis,96
+magnetic resonance imaging of brain normal,96
+tick attached to left calf,96
+Ixodes scapularis tick confirmed,96
+peripheral blood smear showed morulae within granulocytes,96
+added oral doxycycline,96
+concern for HLH,96
+bone marrow aspiration,96
+bone marrow biopsy,96
+hemophagocytosis,96
+blood cultures negative,96
+urine culture negative,96
+serological testing for hepatitis B negative,96
+serological testing for hepatitis C negative,96
+serological testing for HIV negative,96
+serological testing for Epstein-Barr virus negative,96
+serological testing for cytomegalovirus negative,96
+PCR of cerebrospinal fluid for herpes simplex virus negative,96
+PCR of cerebrospinal fluid for varicella zoster negative,96
+PCR of cerebrospinal fluid for enterovirus negative,96
+PCR of cerebrospinal fluid for adenovirus negative,96
+investigations for CSF cell count not completed,96
+investigations for glucose not completed,96
+investigations for protein not completed,96
+ordered serology for tick-borne pathogens,96
+ordered molecular testing for tick-borne pathogens,96
+positive Anaplasma phagocytophilum PCR,96
+positive Borrelia burgdorferi Western blot,96
+positive Borrelia burgdorferi ELISA for IgM and IgG,96
+positive Powassan virus serology,96
+diagnosed with human granulocytic anaplasmosis,96
+diagnosed with secondary HLH,96
+diagnosed with Lyme disease,96
+diagnosed with Powassan virus,96
+completed 10-day course of doxycycline,1320
+completed 3-week course of ceftriaxone,1320
+clinical improvement,1320
+no other treatments for HLH,1320
+discharged home,1320
+seen in follow-up,1320
+complete resolution of hematologic derangements,1320

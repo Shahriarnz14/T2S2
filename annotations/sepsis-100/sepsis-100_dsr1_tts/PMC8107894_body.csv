@@ -1,0 +1,62 @@
+event,time
+52 years old,0
+female,0
+visited emergency room,0
+abdominal pain,-48
+nausea,-48
+vomiting,-48
+increased ALT (320 U/mL),-840
+positive anti-nuclear antibody (1:1280),-840
+positive anti-mitochondrial antibody,-840
+elevated IgG (1577 mg/dL),-840
+abdominal ultrasound,-840
+computed tomography (CT),-840
+coarse liver surface,-840
+chronic liver disease,-840
+liver biopsy,-840
+overlap syndrome (autoimmune hepatitis),-840
+ursodeoxycholic acid (15 mg/kg),-840
+prednisolone 40 mg daily,-840
+ursodeoxycholic acid maintained,-840
+prednisolone reduced by 10 mg weekly,-840
+prednisolone 5 mg,-144
+azathioprine 50 mg maintained,-144
+mild heartburn,-48
+abdominal pain worsened,-24
+nausea increased,-24
+vomiting increased,-24
+diarrhea,-24
+blood pressure 130/80 mmHg,0
+fever 37.6°C,0
+tachycardia (110 bpm),0
+tachypnea (30 breaths/min),0
+abdominal tenderness (epigastric to left upper quadrant),0
+abdomen hard,0
+no rebound tenderness,0
+white blood cell count 700/µL,0
+platelet count 61000/µL,0
+neutrophil 5%,0
+C-reactive protein 14.35 mg/dL,0
+AST 347 U/L,0
+ALT 52 U/L,0
+gamma glutamyl transferase 458 U/L,0
+INR 1.2,0
+contrast-enhanced abdominal CT,0
+layered wall thickening in stomach,0
+air in stomach wall,0
+decreased mucosal enhancement,0
+necrotizing gastritis,0
+septic shock,0
+systolic blood pressure <80 mmHg,0
+transferred to ICU,0
+intravenous hydration,0
+antibiotic treatment,0
+blood pressure 127/95 mmHg,2
+norepinephrine,2
+heart rate slowing,3
+stress-induced cardiomyopathy (EF <10%),3
+extracorporeal membrane oxygenation prepared,3
+cardiac arrest (pulseless electrical activity),3
+cardiopulmonary resuscitation (30+ min),3
+extracorporeal membrane oxygenation applied,3
+death,3

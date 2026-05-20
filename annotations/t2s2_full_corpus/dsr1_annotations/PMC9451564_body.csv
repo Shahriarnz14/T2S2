@@ -1,0 +1,99 @@
+event,time
+33 years old,0
+male,0
+admitted to the hospital,0
+altered mental status,0
+fever,-24
+nausea,-24
+vomiting,-24
+diarrhea,-24
+food poisoning,-24
+CT head unremarkable,-24
+CT abdomen unremarkable,-24
+CT pelvis unremarkable,-24
+discharged to home,-24
+fever 39.4°C,-24
+acutely confused,-24
+nonsensical speech,-24
+EMS called,-24
+tonic clinic seizure,-24
+temperature 39.1°C,-24
+HIV diagnosed,-720
+"CD4+ 1,782 cells/mm³",-720
+HIV-1 RNA <20 copies/mL,-720
+stable antiretroviral therapy,-2160
+dolutegravir/lamivudine/abacavir,-2160
+vaccinated against Hib,0
+vaccinated against Streptococcus pneumoniae,0
+vaccinated against Neisseria meningitidis,0
+no splenectomy,0
+secondary syphilis,-4320
+nasopharyngitis symptoms,-240
+Group A Streptococcus negative,-240
+common cold,-240
+supportive care,-240
+Glasgow Coma Scale 11,0
+nuchal rigidity,0
+agitation,0
+noncompliant to commands,0
+pupils equal and reactive,0
+dental caries,0
+clear pulmonary exam,0
+lactic acid 14.79 mmol/L,0
+sodium 143 mmol/L,0
+potassium 3.1 mmol/L,0
+chloride 109 mmol/L,0
+CO2 12 mmol/L,0
+BUN 14 mg/dL,0
+creatinine 1.1 mg/dL,0
+glucose 74 mg/dL,0
+calcium 7.9,0
+anion gap 26 mmol/L,0
+WBC 3.5 ×10³/µL,0
+neutrophils 89%,0
+lymphocytes 10%,0
+monocytes 1%,0
+hemoglobin 12.7 g/dL,0
+platelet 95 ×10³/µL,0
+INR 1.6,0
+PT 18.9 s,0
+alkaline phosphatase 226 IU/L,0
+toxicology positive marijuana,0
+ethanol <10 mg/dL,0
+CD4+ 182 cells/mm³,0
+CT head unremarkable,0
+blood cultures obtained,0
+lumbar puncture,0
+CSF yellow/turbid,0
+CSF glucose <10 mg/dL,0
+"CSF protein 1,185 mg/dL",0
+"CSF WBC 2,663/µL",0
+segs 90%,0
+monocytes 2%,0
+lymphocytes 8%,0
+negative cryptococcal antigen,0
+nonreactive VDRL,0
+Gram-negative diplococci in CSF,0
+suspected Neisseria meningitidis,0
+transferred to ICU,0
+empiric vancomycin,0
+ceftriaxone,0
+ampicillin,0
+acyclovir,0
+dexamethasone,0
+intubated,0
+hypotension,24
+PEA arrest,24
+CPR,24
+vasopressors,24
+pupils dilated and non-reactive,24
+CT head edema,24
+effacement of basil cisterns,24
+increased temporal horns,24
+unresponsive,24
+EEG suppression,24
+expired,48
+NTHi bacteremia,0
+NTHi meningitis,0
+sepsis,48
+autopsy confirmed NTHi,48

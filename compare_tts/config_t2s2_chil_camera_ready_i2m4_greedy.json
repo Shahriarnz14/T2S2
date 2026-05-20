@@ -1,0 +1,33 @@
+{
+  "man_loc": "/mnt/c/Research/t2s2/annotations/i2m4/i2m4_manual/",
+  "ref_locs": [
+
+    "/mnt/c/Research/t2s2/annotations/i2m4/i2m4_dsr1_tts/",
+    "/mnt/c/Research/t2s2/annotations/i2m4/i2m4_l3370b_tts/",
+    "/mnt/c/Research/t2s2/annotations/i2m4/i2m4_l3170b_tts/",
+    "/mnt/c/Research/t2s2/annotations/i2m4/i2m4_mixtral87b_tts/",
+    "/mnt/c/Research/t2s2/annotations/i2m4/i2m4_l318b_tts/"
+  ],
+  "pilot_names": [
+    "DeepSeek-R1",
+    "L3.3 70B",
+    "L3.1 70B",
+    "Mixtral 8x7B",
+    "L3.1  8B"
+  ],
+  "man_suffix": ".csv",
+  "ref_suffix": ".csv",
+  "event_match": true,
+  "use_lap": false,
+  "out": {
+    "relfolder": "matches",
+    "folder": "/mnt/c/Research/t2s2/results/compare_outputs_i2m4_greedy/",
+    "event_out_locs": "/mnt/c/Research/t2s2/results/compare_outputs_i2m4_greedy/event_outputs/"
+  },
+  "distance": {
+    "method": "embedding_cosine",
+    "threshold": 0.1
+  },
+  "event_match_files": [
+  ]
+}

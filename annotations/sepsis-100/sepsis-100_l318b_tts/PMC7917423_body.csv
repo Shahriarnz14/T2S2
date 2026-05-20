@@ -1,0 +1,108 @@
+event,time
+18 years old,0
+male,0
+admitted to the hospital,0
+brought to the emergency department,-5
+found unresponsive in bed,-5
+bilateral otalgia,-5
+presumed impacted ear wax,-5
+Glasgow Coma Scale (GCS) score 8,-5
+past medical history,-672
+CRS with nasal polyposis,-672
+chronic obstruction pulmonary disease,-672
+hypertension,-672
+glaucoma,-672
+right sided keratoconus,-672
+hypercholesterolaemia,-672
+regular medications,-672
+beclomethasone/formoterol inhaler,-672
+salbutamol inhaler,-672
+amlodipine,-672
+simvastatin,-672
+beclometasone dipropionate nasal spray,-672
+fever,0
+tachypnoeic,0
+tachycardic,0
+pyrexial,0
+GCS 11,0
+bilateral green purulent rhinorrhea,0
+bilateral proptosis,0
+right sided chemosis,0
+flexible nasendoscopy (FNE),0
+thick green secretions,0
+raised CRP,0
+raised white cell count,0
+raised neutrophil count,0
+low lymphocyte count,0
+raised lactate,0
+pus aspirates,0
+Streptococcus pneumoniae,0
+contrast-enhanced computed tomography (CT) of the head and sinuses,0
+opacification of the paranasal sinuses,0
+bony erosion of the lateral walls of both ethmoid sinuses,0
+small amount of soft tissue bulging into the right orbit,0
+lumbar puncture,0
+pale cloudy fluid,0
+extremely cellular specimen,0
+protein was high,0
+glucose was low,0
+treatment for sepsis and presumed meningitis,0
+intravenous ceftriaxone,0
+fluticasone nasal spray,0
+xylometazoline hydrochloride nasal spray,0
+regular saline nasal irrigation,0
+admitted to the critical care unit (CCU),0
+intubated and ventilated,24
+successfully extubated,96
+completed a 10-day course of intravenous antibiotics,120
+discharged home,120
+outpatient follow-up,120
+prescribed a 2-week course of betamethasone nasal drops,120
+prescribed a 6-week course of fluticasone nasal spray,120
+regular saline nasal irrigation,120
+3-month follow-up,180
+recovering well,180
+returned to work full time,180
+6-month follow-up contrast-enhanced magnetic resonance imaging (MRI),360
+extensive bilateral ethmoid polyposis,360
+hypertrophied inferior turbinates,360
+left sided smooth dural enhancement,360
+Discussion,360
+viral ARS,-5
+rhinovirus or coronavirus,-5
+inflammatory cascade,-5
+"oedema, engorgement, fluid extravasation, mucus production and sinus obstruction",-5
+post-viral ARS,-5
+super-imposed bacterial infection,-5
+Streptococcus pneumoniae,-5
+Hemophilus influenzae,-5
+Moraxella catarrhalis,-5
+orbital complications,-5
+intracranial complications,-5
+osseous complications,-5
+meningitis,-5
+epidural empyema,-5
+subdural empyema,-5
+cerebritis,-5
+brain abscess,-5
+superior sagittal and cavernous sinus thrombosis,-5
+frontoethmoidal or sphenoid bacterial ARS,-5
+retrograde spread,-5
+septic emboli,-5
+direct extension of disease,-5
+ANCillary treatments,-5
+intranasal topical steroids,-5
+decongestants,-5
+nasal irrigation,-5
+timely diagnosis and appropriate management,-5
+ARS,-672
+CRS,-672
+common conditions,-672
+healthcare consumption and productivity loss,-672
+antibiotic therapy,-672
+rare complications,-672
+direct extension of disease or haematological spread,-672
+orbital (60–80%),-672
+intracranial (15–20%),-672
+osseous (5%),-672
+serious and potentially life-threatening complications,-672

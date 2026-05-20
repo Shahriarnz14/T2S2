@@ -1,0 +1,151 @@
+event,time
+50 years old,0
+female,0
+presented to outside emergency department,0
+pruritic urticarial rash on face,-24
+history of hypertension,0
+history of hepatitis C,0
+history of diabetes mellitus,0
+normotensive on amlodipine 5 mg daily,0
+normotensive on metoprolol succinate 50 mg daily,0
+no respiratory compromise,0
+diagnosed with allergic reaction to unknown allergen,0
+treated with hydrocortisone 125 mg intravenously,0
+treated with antihistamines,0
+discharged home,-24
+returns to emergency department,-22
+chest pressure,-22
+heart palpitations,-22
+diaphoresis,-22
+respiratory distress,-22
+afebrile,-22
+respiratory rate 23 breaths per minute,-22
+heart rate 155 bpm,-22
+blood pressure 220/100 mmHg,-22
+diffuse crackles at bilateral lung fields,-22
+arterial blood gas anion gap metabolic acidosis,-22
+arterial blood gas respiratory acidosis,-22
+lactic acid 14.9 mmol/L,-22
+chest X-ray pulmonary edema,-22
+chest X-ray bilateral lobe infiltrates,-22
+nitroglycerin started,-22
+enalaprilat started,-22
+became hypotensive,-22
+nitroglycerin discontinued,-22
+enalaprilat discontinued,-22
+no improvement in hemodynamics,-22
+intravenous norepinephrine initiated,-22
+intravenous vasopressin initiated,-22
+computed tomography chest,-22
+computed tomography abdomen,-22
+computed tomography pelvis,-22
+bilateral lower lobe consolidation,-22
+1.5 cm liver hemangioma,-22
+3.6 cm left adrenal gland enlargement,-22
+EKG sinus tachycardia,-22
+EKG nonspecific ST changes,-22
+transthoracic echocardiogram global dysfunction,-22
+ejection fraction 10%,-22
+life flighted to cardiac intensive care unit,-22
+shock due to presumed myocarditis,-22
+shock due to presumed sepsis secondary to pneumonia,-22
+WBC 12.3 × 103/μL,-22
+hemoglobin 13.2 g/dL,-22
+platelets 248 × 103/μL,-22
+sodium 140 mEq/L,-22
+potassium 3 mEq/L,-22
+chloride 98 mEq/L,-22
+HCO 12 mEq/L,-22
+BUN 17 mg/dL,-22
+creatinine 1.8 mg/dL,-22
+glucose 734 mg/dL,-22
+anion gap 30 mEq/L,-22
+albumin 4 g/dL,-22
+AST 50 U/L,-22
+ALT 67 U/L,-22
+total bilirubin 0.3 mg/dL,-22
+alkaline phosphatase 107 U/L,-22
+pH arterial 7.00,-22
+pCO2 arterial 45 mmHg,-22
+pO2 arterial 66 mmHg,-22
+lactic acid 14.9 mmol/L,-22
+serum ketones negative,-22
+CK 1637 U/L,-22
+MB 126 ng/mL,-22
+troponin T 0.35 ng/mL,-22
+nonsmoker,0
+social alcohol use,0
+no recreational drug use,0
+blood pressure well controlled with metoprolol succinate 25 mg twice daily,0
+blood pressure well controlled with amlodipine 5 mg daily,0
+unremarkable surgical history,0
+unremarkable family history,0
+remained on vasopressors,0
+required intra-aortic balloon pump,0
+workup for hypotension,0
+broad spectrum antibiotics started,0
+blood cultures no growth,0
+urine cultures no growth,0
+cortisol stimulation test normal,0
+consulted nephrology for nonoliguric acute kidney injury,0
+baseline creatinine 1 mg/dL,0
+diagnosed with ischemic acute tubular necrosis,0
+diagnosed with contrast-induced nephropathy,0
+initiated renal replacement therapy,0
+hemodynamics improved after 5 days,120
+intra-aortic balloon pump discontinued,120
+vasopressors discontinued,120
+blood pressure increased to 200/100 mmHg,120
+required sodium nitroprusside drip,120
+converted to four drug oral blood pressure regimen,120
+weaned off ventilator support,120
+extubated,120
+creatinine plateaued at 1.2 mg/dL,120
+dialysis cessation,120
+transferred to regular nursing floor,120
+workup for functional adrenal mass initiated,120
+diagnosed with pheochromocytoma,120
+free plasma metanephrine 1877 pg/mL,120
+free plasma normetanephrine 4560 pg/mL,120
+plasma epinephrine 3081 pg/mL,120
+plasma norepinephrine 8968 pg/mL,120
+24-h urine metanephrine 4462 μg/24 h,120
+24-h urine normetanephrine 2912 μg/24 h,120
+24-h total urine metanephrine 7374 μg/24 h,120
+abdominal CT scan 3.6 cm left adrenal mass,120
+MIBG scan left upper abdomen focal uptake,120
+doxazosin added for blood pressure control,120
+metoprolol succinate 50 mg daily,120
+amlodipine 10 mg daily,120
+underwent left adrenalectomy,168
+pathology pheochromocytoma,168
+screened for MEN2 negative,168
+discharged home,336
+follow-up at 6 months,4368
+clinically doing well,4368
+blood pressure controlled on metoprolol 25 mg twice daily,4368
+blood pressure controlled on amlodipine 5 mg daily,4368
+hypertensive crisis precipitated by glucocorticoids,0
+non-ketotic lactic acidosis,0
+non-cardiogenic pulmonary edema,0
+cardiogenic shock,0
+acute renal failure,0
+elevated WBC 19.4 × 103/μL,0
+hemoglobin 7.9 g/dL,0
+platelets 57 × 103/μL,0
+sodium 134 mEq/L,0
+potassium 3.3 mEq/L,0
+chloride 97 mEq/L,0
+HCO 16 mEq/L,0
+BUN 84 mg/dL,0
+creatinine 8.33 mg/dL,0
+glucose 162 mg/dL,0
+anion gap 21 mEq/L,0
+AST 1141 U/L,0
+ALT 456 U/L,0
+total bilirubin 0.7 mg/dL,0
+alkaline phosphatase 63 U/L,0
+lactic acid 5.8 mmol/L,0
+CK 3397 U/L,0
+MB 185 ng/mL,0
+troponin T 7.06 ng/mL,0

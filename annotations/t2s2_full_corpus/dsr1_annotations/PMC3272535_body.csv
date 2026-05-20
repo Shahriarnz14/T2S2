@@ -1,0 +1,85 @@
+event,time
+23 years old,0
+man,0
+admitted to the hospital,0
+abdominal pain,0
+jaundice,0
+biliary cirrhosis,-35040
+abnormal liver function tests,-35040
+alcohol consumption,-35040
+visited emergency room twice with abdominal pain,-?
+discharged after improving with conservative management,-?
+hepatosplenomegaly,0
+collateral vessels,0
+esophageal varices,0
+total bilirubin 26.1 mg/dl,0
+direct bilirubin 16.6 mg/dl,0
+aspartate aminotransferase 52 U/L,0
+alanine aminotransferase 38 U/L,0
+progressing proximal limb pain,0
+skin sensitivity on exposure to sunlight,0
+family history of multiple skin blisters on exposure to sunlight,0
+increased coproporphyrin in stool,0
+increased uroporphyrin in urine,0
+liver function worsened,0
+acute liver failure,0
+hypovolemic shock,0
+intra-abdominal bleeding,0
+renal function deteriorated,0
+continuous renal replacement therapy,0
+listed for emergency liver transplantation,696
+sinus tachycardia,696
+pulmonary edema,696
+pulmonary effusion,696
+model for end-stage liver disease score 33,696
+intubated,696
+norepinephrine infusion 0.9 µg/kg/min,696
+Bispectral Index® monitor attached,696
+ventilator care continued,696
+arterial cannulation in left radial artery,696
+central venous cannulation in right internal jugular vein,696
+Swan-Ganz catheter inserted,696
+endotracheal tube changed,696
+general anesthesia induced,696
+total intravenous anesthesia,696
+propofol 100 µg/kg/min,696
+remifentanil 0.15 µg/kg/min,696
+norepinephrine infusion maintained,696
+hypovolemic acute renal failure,696
+atracuronium infused 5 µg/kg/min,696
+shadowless surgical lights covered with filters,696
+other lights turned off,696
+liver transplantation operation started,696
+dopamine 5 µg/kg/min added,696
+mean arterial blood pressure maintained 60-70 mmHg,696
+anhepatic period,696
+hemodynamic profile stable,696
+100% oxygen given before reperfusion,696
+reperfusion,696
+mean blood pressure dropped to 49 mmHg,696
+blood pressure normalized within 2 minutes,696
+"crystalloid 10,200 ml",696
+"colloid 1,500 ml",696
+5% albumin 670 ml,696
+15 units packed red blood cells,696
+4 units fresh frozen plasma,696
+6 units platelet concentrate,696
+6 units cryoprecipitate,696
+calcium gluconate given intermittently,696
+anuric,696
+total urine output 100 ml,696
+transferred to ICU,696
+alert on third day post-LT,72
+renal function improved,72
+continuous renal replacement therapy discontinued,72
+motor function weak,72
+extubation delayed,72
+motor power grade 2 on ninth day post-LT,216
+severe sensory and motor polyneuropathy,216
+tracheostomy on day 13 post-LT,312
+liver function tests initially improved,312
+liver function tests worsened,720
+fever about 1 month later,720
+antibiotics administered,720
+multi-organ failure,720
+expired on postoperative day 104,2496

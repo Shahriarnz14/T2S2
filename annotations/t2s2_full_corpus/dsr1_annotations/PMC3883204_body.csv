@@ -1,0 +1,127 @@
+event,time
+35 years old,0\
+woman,0\
+gravida 2 para 2,0\
+no chronic medical illnesses,0\
+gestational diabetes,0\
+acute-onset excruciating headache,-12\
+tonic-clonic convulsions,-12\
+low Glasgow Coma Scores,0\
+intubation,0\
+computed tomography scan,0\
+left frontal hematoma,0\
+mild edema,0\
+mass effect,0\
+midline shift 4 mm to the right,0\
+bleeding into left lateral ventricle,0\
+third ventricle,0\
+fourth ventricle,0\
+left subdural hematoma,0\
+open basal cisterns,0\
+CT angiography,0\
+carotid bifurcation aneurysm,0\
+small subarachnoidal bleeding,0\
+intraventricular bleeding,0\
+trial of coiling of the aneurysm failed,0\
+admitted to ICU,0\
+sedated,0\
+mechanical ventilation,0\
+2 mm midposition pupils,0\
+sluggish reaction to light,0\
+second trial of endovascular coiling failed,24\
+sudden dilatation of left pupil to 3 mm,48\
+right pupil 1-2 mm,48\
+heart rate 55-59 beats/minute,48\
+blood pressure 110/60 mmHg,48\
+managed with crystalloid,48\
+colloid therapy,48\
+low doses of norepinephrine,48\
+urgent CT of the brain,48\
+modest subarachnoidal rebleeding,48\
+spastic reaction of vessels,48\
+extended ischemia in MCA,48\
+mesotemporal herniation,48\
+third ventricle well separated,48\
+third trial of coiling failed,72\
+occlusion of left carotid system by thrombus,72\
+CT brain deterioration,72\
+ischemic areas demarcated,72\
+increased midline shift,72\
+increased effacement of gyri and sulci,72\
+cerebral angiography thrombosis left ICA and MCA,72\
+no carotid artery aneurysm,72\
+partial mechanical thrombectomy,72\
+pupils fixed and dilated 7 mm bilaterally,72\
+decompressive craniotomy,72\
+external ventricular drains placed,72\
+ICP monitor reading less than 10 mmHg,72\
+ICP increased to 50 mmHg,96\
+medical management for high ICP,96\
+muscle relaxants,96\
+mannitol,96\
+hypertonic saline infusions,96\
+thiopental coma,96\
+ICP remained elevated,96\
+ICP monitor removed,168\
+GCS 3,168\
+no gag reflexes,168\
+no cough reflexes,168\
+pupils 5 mm dilated and fixed,168\
+sedation stopped,192\
+apnea test not done,192\
+EEG not done,192\
+confirmed brain death,192\
+full ventilatory support,192\
+nutritional support,192\
+vasoactive drugs,192\
+normothermia maintained,192\
+severe hypotension,192\
+managed with vasopressors,192\
+hypertension,192\
+treated with antihypertensives,192\
+DDAVP initiated,192\
+water flushes via NG tube,192\
+diabetes insipidus,192\
+hypernatremia,192\
+sepsis episodes,192\
+pneumonia,192\
+urinary tract infection,192\
+line infection,192\
+treated with antibiotics,192\
+meningitis,192\
+meropenem 2000 mg IV TID,192\
+vancomycin 1000 mg BID,192\
+panhypopituitarism,192\
+thyroid hormone replacement,192\
+steroids,192\
+hypothermia,192\
+passive rewarming,192\
+blankets,192\
+tracheostomy,432\
+NG tube feeding initiated,192\
+multidisciplinary consensus,192\
+adult ethics committee involved,192\
+infant ethics committee involved,192\
+decision to continue somatic support,192\
+ultrasound scan,192\
+intrauterine growth retardation,192\
+biometry 25 weeks gestation,192\
+estimated fetal weight 650 gm,192\
+oligohydramnios,192\
+no fetal anomalies,192\
+intrauterine monitoring,192\
+serial ultrasounds,192\
+fetal heart rate monitoring,192\
+amniocentesis,192\
+betamethasone therapy,192\
+lower segment cesarean section,2640\
+preterm male delivered,2640\
+breech presentation,2640\
+Apgar score 6/7/9,2640\
+weight 750 gm,2640\
+transferred to NICU,2640\
+nasal CPAP applied,2640\
+mild respiratory distress syndrome,2640\
+apnea test done twice,2640\
+positive apnea test,2640\
+death pronounced,2640

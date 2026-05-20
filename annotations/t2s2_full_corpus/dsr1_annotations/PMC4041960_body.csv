@@ -1,0 +1,199 @@
+event,time
+34 years old,0
+multipara,0
+pregnancy at 37 weeks and 3 days,0
+visited the ER,0
+low abdominal pain,0
+nausea,0
+vomiting,0
+height 157 cm,0
+weight 67 kg,0
+weight gain 13 kg,0
+parity 1-0-0-1,0
+blood pressure 120/75 mmHg,0
+heart rate 75 beats/min,0
+respiratory rate 22 times/min,0
+chest radiography normal,0
+ST segment depression,0
+troponin-T increased 0.206 ng/ml,0
+CK-MB 3.52 ng/ml,0
+fetal heart rate 130 beats/min,0
+blood pressure increased to 158/100 mmHg,60
+sinus tachycardia 124 beats/min,60
+left ventricle normal size,60
+moderate decline in systolic function,60
+decrease in overall wall motion,60
+moderate mitral regurgitation,60
+tricuspid regurgitation,60
+pulmonary hypertension,60
+LVEF 39%,60
+LVEDD 5.2 cm,60
+LVESD 4.3 cm,60
+transferred to intensive care,60
+suspected PPCM,60
+blood pressure 149/100 mmHg,180
+heart rate 110 beats/min,180
+respiratory rate 27 times/min,180
+hemoptysis,240
+dyspnea,240
+oxygen via nasal prong 4 L/min,240
+severe pulmonary edema,240
+furosemide 20 mg,240
+nitroglycerin 8 µg/min,240
+furosemide 20 mg additional,240
+nitroglycerin increased to 12 µg/min,240
+oxygen via mask 10 L/min,240
+ABGA pH 7.4,240
+PaCO2 16.1 mmHg,240
+PaO2 62 mmHg,240
+BE -8.7 mEq/L,240
+SaO2 91%,240
+fetal heart rate 180 beats/min,240
+fetal distress,240
+cesarean section decided,240
+severe dyspnea,240
+orthopnea,240
+hemoptysis worsened,240
+blood pressure 130/98 mmHg,240
+heart rate 128 beats/min,240
+respiratory rate 45 times/min,240
+sinus tachycardia,240
+inability to supine,240
+general anesthesia decided,240
+ECMO installation attempted,240
+ECMO failed,240
+ECMO under general anesthesia,240
+arrived at operating room,240
+oxygen via mask 10 L/min,240
+nitroglycerin 12 µg/min,240
+ECG monitoring,240
+noninvasive blood pressure monitor,240
+pulse oximeter,240
+arterial catheter inserted,240
+blood pressure 135/98 mmHg,240
+heart rate 130 beats/min,240
+SaO2 98%,240
+ABGA pH 7.40,240
+PaCO2 22 mmHg,240
+PaO2 82 mmHg,240
+BE -9.3 mEq/L,240
+SaO2 96%,240
+induction blood pressure 140/105 mmHg,240
+heart rate 132 beats/min,240
+thiopental sodium 250 mg,240
+succinylcholine 100 mg,240
+intubation,240
+atracurium 40 mg,240
+sevoflurane 2 vol%,240
+ventilator tidal volume 550 ml,240
+respiratory rate 16 times/min,240
+PEEP 5 cmH2O,240
+blood pressure 155/110 mmHg,240
+heart rate 138 beats/min,240
+ABGA pH 7.39,240
+PaCO2 24 mmHg,240
+PaO2 70 mmHg,240
+BE -9.2 mEq/L,240
+SaO2 93%,240
+ECMO installed,240
+femoral arterial cannula,240
+femoral venous cannula,240
+ECMO flow rate 3 L/min,240
+central venous catheter inserted,240
+Swan-Ganz catheter attempted,240
+Swan-Ganz catheter failed,240
+blood pressure 140-160/100-110 mmHg,240
+heart rate 120-130 beats/min,240
+SaO2 91-95%,240
+central venous pressure 22-24 mmHg,240
+ventilator tidal volume 400 ml,240
+respiratory rate 10 times/min,240
+FiO2 0.5,240
+infant delivered,240
+APGAR scores 3 and 4,240
+infant intubation,240
+oxytocin 40 units,240
+colloid solution 500 ml,240
+mean blood pressure 100-120 mmHg,240
+heart rate 100 beats/min,240
+SaO2 100%,240
+central venous pressure 14-18 mmHg,240
+ABGA pH 7.38,240
+PaCO2 24.6 mmHg,240
+PaO2 408 mmHg,240
+BE -11 mEq/L,240
+SaO2 100%,240
+operating time 1 hour 40 minutes,240
+anesthetic time 1 hour 45 minutes,240
+blood loss 1000 ml,240
+fluid volume 600 ml,240
+transferred to ICU,240
+mean blood pressure 90-100 mmHg,240
+heart rate 110 beats/min,240
+SaO2 100%,240
+ABGA pH 7.31,240
+PaCO2 22 mmHg,240
+PaO2 359 mmHg,240
+BE -13.2 mEq/L,240
+SaO2 100%,240
+ECMO flow decreased to 2 L/min,4320
+blood pressure 95-120/79-95 mmHg,4320
+heart rate 90-110 beats/min,4320
+SaO2 100%,4320
+central venous pressure 5-8 mmHg,4320
+ABGA pH 7.5,4320
+PaCO2 28 mmHg,4320
+PaO2 508 mmHg,4320
+BE 0.8 mEq/L,4320
+SaO2 100%,4320
+ventilator tidal volume 400 ml,4320
+respiratory rate 12 times/min,4320
+PEEP 3 cmH2O,4320
+FiO2 0.4,4320
+ECMO flow decreased to 1.3 L/min,5184
+blood pressure 120-140/90-100 mmHg,5184
+heart rate 90-100 beats/min,5184
+SaO2 100%,5184
+central venous pressure 4-8 mmHg,5184
+ABGA pH 7.48,5184
+PaCO2 32 mmHg,5184
+PaO2 517 mmHg,5184
+BE 0.6 mEq/L,5184
+SaO2 100%,5184
+ECMO flow decreased to 1 L/min,6048
+no blood pressure change,6048
+ECMO removed,6480
+blood pressure 94-104/66-70 mmHg,6480
+heart rate 100 beats/min,6480
+SaO2 100%,6480
+central venous pressure 5-7 mmHg,6480
+ABGA pH 7.4,6480
+PaCO2 28 mmHg,6480
+PaO2 639 mmHg,6480
+BE 1.8 mEq/L,6480
+SaO2 100%,6480
+dopamine 5 µg/kg/min,6480
+mechanical ventilation removed,10080
+transferred to general ward,10080
+blood pressure 100-130/65-70 mmHg,10080
+heart rate 75-90 beats/min,10080
+ABGA pH 7.42,10080
+PaCO2 43 mmHg,10080
+PaO2 156 mmHg,10080
+BE 2.9 mEq/L,10080
+SaO2 98%,10080
+ECG normal,10080
+pulmonary edema improved,10080
+LVEF 58%,10080
+slight mitral regurgitation,10080
+infant transferred to NICU,0
+extubation after 2 days,2880
+babygram normal,2880
+abdominal sonography normal,2880
+brain MRI no ischemia,2880
+infant discharged,15840
+diagnosed PPCM,60
+ECMO used,240
+general anesthesia,240
+cesarean section,240
+systolic function corrected,10080

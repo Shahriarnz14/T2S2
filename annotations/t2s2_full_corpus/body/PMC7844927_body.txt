@@ -1,0 +1,71 @@
+Background
+
+The ongoing COVID-19 pandemic continues to be an emerging and rapidly evolving disorder.
+
+Recent studies have described a link between COVID-19, coagulopathy and venous thromboembolism.1 2 A limited prospective cohort study examining autopsies of patients with COVID-19 found evidence of thrombotic disease in 58% of the patients.3 A subsequent study looking at 184 patients in the intensive care unit found a 31% incidence of thrombotic complications despite patients being on standard dose venous thromboembolism prophylaxis.4
+
+Another study from the University of Science and Technology in Wuhan, China classified patients into a high-risk group based on their sepsis-induced coagulopathy (SIC) score. This scoring system includes values such as prothrombin time (PT), platelet count and sequential organ failure assessment. The study found that the patients in the elevated SIC score group who were anticoagulated with heparin had a decrease in mortality.5
+
+We present a case of recurrent pulmonary embolism (PE) in the setting of COVID-19 disease while the patient was on therapeutic anticoagulation. The purpose of this paper is to bring attention to the hypercoagulable state associated with COVID-19 disease and the challenges with treatment of a unique subset of patients who develop recurrent thrombosis despite therapeutic anticoagulation.
+
+Case presentation
+
+A 38-year-old man presented to our hospital with a 3-hour history of abdominal pain and nausea. During the initial encounter, the patient denied having chest pain, shortness of breath, palpitations, cough or haemoptysis. Two weeks prior to presentation, he was discharged from the hospital after a 3-week-long hospital course for COVID-19 pneumonia, which required endotracheal intubation and ventilatory support. While intubated with active COVID-19 pneumonia, a CT PE (CTPE) study showed no evidence of PE. His previous medical history was significant for PE at the age of 16. His PE was thought to be provoked in the setting of trauma for which he was treated with 6 months of warfarin. Following 6 months of anticoagulation, he remained well until age 30, when he was diagnosed with a second PE and chronic thromboembolic pulmonary hypertension. This diagnosis was made at a pulmonary hypertension centre where the patient also underwent thromboendarterectomy and was then started on long-term warfarin therapy with regular International Normalized Ratio (INR) checks and close follow-up visits. His hypercoagulable work-up after the second PE was negative (table 1). He reported that he was reported with his medication regimen, and his INR levels confirmed that he was consistently in the therapeutic range. On presentation to our hospital, the patient’s blood pressure was 129/86 mm Hg, heart rate was 99 bpm, respiratory rate was 16/min and temperature was 100.4 °F. His physical examination was remarkable for obesity and moderate bilateral symmetrical lower extremity oedema. He remained haemodynamically stable throughout his hospital course.
+
+Table 1 Thrombophilia workup when diagnosed with second PE
+
+Laboratory test	Result	
+Cardiolipin antibody	Negative	
+Antithrombin III	92% (within normal limits)	
+Factor V Leiden mutation	Not identified	
+Protein C level	147% (within normal limits)	
+Protein S level	58% (decreased but the lab was obtained while patient was already started on warfarin)	
+Factor II gene mutation	Not identified	
+Dilute Russel’s viper venom time	32.9 s (within normal limits)	
+PE, pulmonary embolism.
+
+Investigations
+
+The patient had an unremarkable basic metabolic panel, negative high sensitivity troponins, platelets within normal limit, and had an elevated white cell count of 12.94× 109/ L. His INR remained in the therapeutic range throughout his hospital course: PT was elevated to 34.7 s consistent with warfarin use, and PTT was normal at 37.4 s. A CT scan of his abdomen did not show any abnormalities in the abdomen but did show an incidental finding of a possible filling defect within a partially imaged dilated descending right pulmonary artery. Considering the incidental finding on abdominal imaging dedicated chest imaging with a CTPE was obtained, which showed a large filling defect within the descending right main pulmonary artery consistent with thromboembolism (figure 1). This filling defect was not visualised at the time of patient’s initial admission while being treated for active COVID-19 pneumonia (images not available, only written report) and was not evident on studies prior to the patient’s COVID-19 infection (figure 2). Given the significant dilation of his pulmonary arteries, an echocardiogram was performed. The echocardiogram showed a dilated right atrium (RA) with bowing of the interatrial septum to the left suggestive of increased RA pressure (8 mm Hg) as well as a severely dilated right ventricle with severely reduced systolic function (figure 3). This study also demonstrated diastolic and systolic Left Ventricular septal flattening consistent with pressure and volume overload with a dilated inferior vena cava. Lower extremity Doppler ultrasounds, although limited by body habitus, were performed and did not demonstrate a deep vein thrombosis.
+
+Figure 1 CT chest during current presentation showing a large filling defect within the descending right main pulmonary artery consistent with thromboembolism. Defect indicated by red arrow.
+
+Figure 2 CT chest from 1 month prior to second admission showing lack of pulmonary emboli.
+
+Figure 3 2D echocardiogram showing dilated right atrium (RA) with bowing of the interatrial septum to the left suggestive of increased RA pressure, severely dilated right ventricle with severely reduced systolic function.
+
+Differential diagnosis
+
+On admission, the patient’s main report was of periumbilical abdominal pain and nausea. Given his fever and elevation in white cell count, an abdominal infection was considered. His white cell count resolved spontaneously by day 2 of his hospitalisation. In addition to this, he was without diarrhoea, the Clostridium difficile screen was negative, blood cultures were negative, and CT abdomen and pelvis did not demonstrate an infectious source. Given his recent hospitalisation requiring intubation, we thought that he may be suffering from stress ulcers. We investigated this further, but the patient had no signs of gastrointestinal bleeding. He had a negative faecal occult blood test and had stable haemoglobin values through his hospital course. Another consideration was acute pancreatitis, but this was ruled out due to normal serum amylase, normal serum lipase and normal appearance of the pancreas on CT imaging of the abdomen. Ultimately the patient’s abdominal symptoms, fevers and leukocytosis resolved without any intervention. His CT abdomen showed a potential filling defect in the pulmonary artery. The findings changed our course of thinking, and a PE was ruled in as the CTPE study showed a large filling defect within the right main pulmonary artery. Although therapeutically anticoagulated, other causes of venous thromboembolism (VTE) were considered including malignancy, other inflammatory states, obesity and recent immobilisation during hospitalisation. Sequela of the patient’s recent COVID-19 infection may have contributed to patient’s presentation and initial laboratory findings.
+
+Treatment
+
+In the hospital, the patient was treated with intranasal oxygen, supportive care, and was transiently on unfractionated intravenous heparin therapy while the consideration of anticoagulation failure was being discussed. Due to the patient’s morbid obesity and the lack of data on the efficacy and safety of Direct Oral Anticoagulants (DOACs) in obese patients, a DOAC was not considered as a therapeutic option. Additionally, the patient was not thought to be a candidate for subcutaneous enoxaparin therapy due to his high dose requirement calculation based on his obesity. Following extensive discussions between the care teams and the patient, a decision was ultimately made to continue on warfarin with a slightly higher INR target range. In addition to this, the patient was advised to follow closely with the haematology department for future consideration of enoxaparin therapy with monitoring of Factor Xa levels, after adequate weight loss.
+
+Outcome and follow-up
+
+After a multidisciplinary team weighed the pros and cons of Novel Oral Anticoagulants and enoxaparin therapy with the patient, he decided to remain on warfarin therapy with close follow-up. Multiple postdischarge attempts have been made to contact the patient for a follow-up visit but he has not responded to our follow-up reminders.
+
+Discussion
+
+Patients with COVID-19 disease who have confirmed VTE should be started on full dose anticoagulation unless otherwise contraindicated. Current guidelines do not address treatment of patients with acute VTE in the setting of COVID-19. The current International Society on Thrombosis and Hemostasis (ISTH) guidelines do not address treatment of patients with acute VTE in the setting of COVID-19 disease.6 The guidelines from ISTH report the advantages of low-molecular weight heparin (LMWH) therapy when used as an inpatient and direct oral anticoagulants when used as an outpatient. Specific studies appear to show an improved prognosis in patients with COVID-19 who are treated with LMWH, possibly due to its anti-inflammatory effects.5 Heparinoids have previously demonstrated both anti-inflammatory and antiviral properties, which may explain a benefit in patients with COVID-19.7 Despite these benefits associated with heparinoids, the patient’s obesity made dosing difficult due to the distribution and metabolism of the drug. Also, lack of clear guidelines for treatment failure in the setting of COVID-19 leads to the decision to continue the patient on warfarin. Our patient had a negative hypercoagulable work-up following his second VTE. While our patient has several risk factors including obesity, history of previous PE and a history of a recent prolonged hospital course, he was adequately treated with evidence of therapeutic anticoagulation, which had kept him free from developing a PE for about 8 years prior to his presentation. We postulate that the recent COVID-19 infection had been the contributing risk factor given the present literature on COVID-19 and its association with hypercoagulable states. On presentation to our hospital, the patient’s INR was 3.0. Despite this, his CTPE study demonstrated a large filling defect within the descending right main pulmonary artery consistent with thromboembolism. Our study further highlights the need for new therapeutic anticoagulation management and parameters in not only critically ill patients with COVID-19 disease but also in patients with COVID-19 disease and a history of previous thrombosis. A number of randomised control trials are ongoing to determine an optimal anticoagulation regimen in patients with COVID-19 disease.
+
+Learning points
+
+Recurrent venous thromboembolism (VTE) can occur in patients on therapeutic anticoagulation for a history of VTE after COVID-19 infection.
+
+Clinical trials are ongoing to determine optimal anticoagulation strategies in patients with VTE in the setting of COVID-19.
+
+Effective and safe modality of anticoagulation in obese patients with recent VTE and COVID-19 disease is yet to be developed.
+
+Twitter: @DrRicketti
+
+Contributors: VRT: responsible for the planning and design of the case report as well as acquisition of data. Also responsible for the written portion of the case report following the acquisition of data. DAR: responsible for the planning and design of the case report as well as acquisition of data. Also responsible for the written portion of the case report following the acquisition of data. PP: responsible for the planning and design of the case report. Also responsible for the written portion of the case report following the acquisition of data. SR: responsible for contributing to the write up as well as formatting and editing of the case report. Helped to organise and plan the case report design.
+
+Funding: The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.
+
+Competing interests: None declared.
+
+Patient consent for publication: Obtained.
+
+Provenance and peer review: Not commissioned; externally peer reviewed.

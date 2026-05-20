@@ -1,0 +1,61 @@
+pmcIntroduction
+
+Hemophagocytic lymphohistiocytosis (HLH) is a rare and often diagnostically challenging syndrome of inappropriate immune activation. Although it is most frequently a pediatric syndrome involving congenital defects in the immune cascade, it can be seen at any age and in the adult population is commonly due to immune hyperactivation triggered by other conditions of either excessive or impaired immune response such as malignancy, infection, autoimmunity or immunodeficiency. Of these, infection and malignancy are most common [1]. In cases associated with human immunodeficiency virus (HIV), a trigger for HLH such as acute infection (whether with HIV itself or a secondary infection) or malignancy is frequently identified [2]. However, hepatitis B virus (HBV) as a trigger for HLH is rare [1], [3] and only one case associated with HIV and HBV coinfection has been reported recently [4]. Here we describe the presentation, management and outcome of a case of HLH in a patient with uncontrolled HIV and reactivated HBV infection.
+
+Case presentation
+
+A 43-year-old African American male with a history significant for uncontrolled HIV due to nonadherence to antiretroviral therapy (ART) and chronic hepatitis B infection presented with one week of progressive confusion, fevers, and upper respiratory symptoms with rhinorrhea. He notably denied cough, shortness of breath, chest pain, headache, or abdominal pain. His HIV was diagnosed in 2007 but he was lost to follow-up until 2009 when he was found to have HIVAN, pneumocystis pneumonia and positive M184V mutation. Between 2009 and 2016 his ART treatment is unfortunately unclear but appears to have been complicated by poor adherence and inconsistent follow-up. His last known ART regimen was abacavir, dolutegravir and lamivudine (Triumeq) in 2016. His last known CD4 count one year prior to presentation was< 10 cells/ul. On arrival, he was febrile up to 38.4 ℃, and tachycardic with heart rate in the 150 s (beats per minute). Physical exam was remarkable for cachexia, oral thrush, non-blanching maculopapular rashes on lower extremities and observed confusion and somnolence. His labs (Table 1) were significant with pancytopenia (WBC of 1.6 × 103/mm3 with differential showing 79.8% neutrophils (ANC 1300), 9.8% lymphocytes (ALC 200) and 9.8% monocytes, hemoglobin of 11.8 g/dL, and platelets of 46 × 103/mm3), acute kidney injury with a serum creatinine to 1.74 mg/dl, lactate to 2.7 mg/dl, and mild elevation in liver function tests with AST 68 IU/L and ALT 26 IU/L. HIV viral load on admission was 1.26 million copies/mL, with CD4 count still< 10. He was also noted to have reactivated chronic HBV with negative HBcAb IgM, positive HBcAb IgG, positive HBsAg, negative HBsAb and viral load of 234 million IU/mL, compared to prior labs in 2012 with positive HBcAb IgG and negative HbsAg, though no viral load was collected. Empiric treatment for meningitis was started with vancomycin, ceftriaxone, acyclovir, ampicillin and fluconazole. LP was unremarkable and cryptococcal meningitis was ruled out.Table 1 Laboratory studies.
+
+Table 1Infectious studies	Ref range and units	Day of admission (3/25/2021)	3/28/2021	3/30/2021	4/1/2021	4/2/2021	4/4/2021	4/5/2021	4/13/2021	
+HIV RNA load	0 copies	1,266,973								
+CD4 absolute	404–1612 cells/uL	< 10								
+HBV Surface Antibody				Negative						
+HBV Surface Antigen				Positive						
+Hep BE Antibody				Negative						
+Hep BE Antigen				Positive						
+HBV DNA Quant	0 IU/mL			234 × 106				97 × 106		
+HBV Log10 copies	0 Log IU/mL			8.37				7.99		
+CBC										
+WBC	4.5–11.0 K/mcL	1.6	0.4	1.5	1.1	1.8	5.6	5.1	6.5	
+ANC	1.70–7.30 K/mcL	1.3	0.31	1.12		1.5	5.2			
+Hemoglobin	12.6–17.4 g/dL	11.8	11.2	11.2	9.3	8.4	8.2	8.2	7.0	
+Platelet	153–367 K/mcL	46	23	21	16	14	26	26	32	
+Metabolic Panel										
+Creatinine	0.66–1.25 mg/dL	1.74	1.39	2.26	5.28	6.28	6.45	8.45	6.63	
+AST	17–59 units/L	68	94	177		149		154		
+ALT	0–49 units/L	26	25	38		36	39	41		
+Alkaline Phosphatase	38–126 units/L	230	45	47		46	55	58		
+Bilirubin, Total	0.3–1.2 mg/dL	0.9	0.6	0.4		0.4	0.5	0.4		
+Lactate		2.7		1.2						
+Prognostic Markers										
+Ferritin	17.9–464.0 ng/mL		7440.7		12,932.7	9824.4	5673.7	4391.2	1827.4	
+LDH	0.5–2.2 mmol/L		2655		4559	4109		4543		
+IL-2 receptor alpha	175.3–858.2 pg/mL			1192.5						
+
+He was further evaluated for opportunistic infections and malignancies in the setting of HIV/AIDS. On 3/28/21 (hospital day 4), he developed seizures and required intubation and transfer to the intensive care unit. With persistent high grade fever, worsening liver function tests and pancytopenia, HLH was considered and his work up revealed an elevated ferritin at 7440.7 ng/mL, elevated triglycerides at 243 mg/dL, and elevated fibrinogen at 581 mg/dL. His soluble CD25 (sCD25) as measured by elevated soluble IL-2 receptor alpha (sIL-2R) was elevated at 1192.5 pg/mL, yielding an HScore of 218 (93–96% probability hemophagocytic syndrome) [5], and meeting five of eight HLH-2004 criteria [6]. However, bone marrow biopsy was largely unrevealing. Empiric treatment with dexamethasone 20 mg daily was initiated on 4/1/21 (hospital day 8), along with dolutegravir and emtricitabine-tenofovir alafenamide for his HIV and hepatitis B co-infection. He improved progressively with marked improvement in ferritin, fever and clinical status and he was discharged on hospital day 21 to complete an 8 week dexamethasone taper. On outpatient follow-up 4 months later, his HIV viral load was 130 copies/mL and HBV viral load was approximately 450,000 copies/mL.
+
+Discussion
+
+The diagnosis and even initial consideration of HLH is frequently challenging, due to its diverse and frequently nonspecific clinical symptoms, signs and multisystem involvement [7]. Multiple iterations of diagnostic criteria have been developed from 1991, 1994 and most recently 2004 [6], which added more laboratory testing for biologic markers to improve sensitivity. Meeting five out of eight criteria is diagnostic, but specific molecular testing for congenital abnormalities that lead to HLH can establish diagnosis in the pediatric population [6]. These criteria are extrapolated to make a diagnosis in adults but molecular testing is not helpful due to its acquired nature. Bone marrow aspirate can be helpful, however this is neither sensitive nor specific: hemophagocytosis often occurs in critically ill patients and in sepsis or in those who receive blood transfusion [5], while an erythroid aspirate may be seen in HLH cases [8]. More recently, Fardet et al. [5] developed the HScore diagnostic scoring system, which estimates the probability of the diagnosis of HLH based on three clinical and five biologic and one cytologic, a total of nine parameters. Our patient met five out of eight parameters establishing a diagnosis per HLH-2004 criteria, and had a high HScore. Clinically however, the dramatic improvement in our patient’s clinical status and biochemical markers, as shown in Fig. 1, after initiation of immunosuppression argues strongly for this diagnosis. Dexamethasone is the steroid of choice due to better penetration across the blood-brain barrier [9].Fig. 1 Daily ferritin and maximum temperature (Tmax), and notable events during hospitalization.
+
+Fig. 1
+
+Infection has commonly been implicated as a trigger for HLH. Infections ranging from herpesviruses like Epstein-Barr virus (EBV) [10], cytomegalovirus, human herpesvirus-8 [11], to fungal and bacterial pathogens have been implicated. HIV is a common trigger for HLH and can lead to devastating outcomes in both acute infection, and poorly controlled AIDS with or without other opportunistic infections such as Histoplasma [12] or Talaromyces, disseminated tuberculosis [13], etc. as previously described. The rates of HIV and HBV co-infection are 5–10% in the United States, yet this is, to the best of our knowledge, only the second case of HLH in this scenario to be reported [4]. In the case reported by Blaney et al., the patient met eight out eight criteria for HLH including a positive bone marrow biopsy. In contrast to that patient, who despite meeting diagnostic criteria for AIDS had an HIV viral load of only 10,500 copies/mL, ours had a significantly higher viral load at 1.2 million copies/mL, which may reflect longer duration of noncompliance with ART and profound lack of immunity to HIV. Both were treated with regimens of dolutegravir and emtricitabine-tenofovir, though that patient also received entecavir for his hepatitis B. While their patient’s HIV became undetectable on treatment, he had a worsening of illness raising suspicion for immune reconstitution, prompting intensifying chemotherapy with etoposide with rebound hepatitis B viral load up to 12.5 million IU/mL and an eventual fatal outcome. In contrast, our patient had a steady improvement clinical and was able to achieve better viral control. Treatment of HIV in HLH has been associated with better clinical outcomes [2].
+
+Due to limited clinical experience, literature and vastly difficult outcomes, it is difficult to parse out which of the two infections could have been the trigger for HLH. However, it is obvious that both require treatment simultaneously with appropriate immunosuppression which can potentially lead to better prognosis.
+
+Funding
+
+No sources of funding to declare.
+
+Consent
+
+Written informed consent was obtained from the patient for publication of this case report. A copy of the written consent is available for review by the Editor-in-Chief of this journal on request.
+
+CRediT authorship contribution statement
+
+David Chen, M.D.: Conceptualization, Investigation, Writing – original draft, Writing – review & editing. Imari Patel, M.D.: Investigation, Writing – original draft, Writing – review & editing. Stephanie Cabral, M.D.: Investigation, Writing – original draft. Sai Chintalapati, M.D.: Investigation, Writing – review & editing. Aaron Iddings, M.D.: Investigation, Writing – review & editing. Devang Patel, M.D.: Supervision, Writing – review & editing.
+
+Conflicts of interest
+
+The authors have no conflicts of interest to disclose.

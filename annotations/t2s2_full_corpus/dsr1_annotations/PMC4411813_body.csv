@@ -1,0 +1,112 @@
+event,time
+48 years old,0
+male,0
+presented to emergency department,0
+sudden onset of pain in abdomen,-2
+distension of abdomen,-2
+low-grade fever,-720
+cough,-720
+scanty expectoration,-720
+weight loss of 3 kg,-720
+bilateral upper zone opacities in chest X-ray,-720
+anti-tubercular therapy,-720
+sputum negative for acid-fast bacilli on Ziehl-Neelson stain,-720
+pulse rate 112/min,0
+regular pulse,0
+blood pressure 134/86 mmHg,0
+respiratory rate 36/min,0
+temperature 100°F,0
+abdomen distended,0
+abdomen tender,0
+abdominal rigidity,0
+guarding,0
+tenderness aggravated by movement,0
+tenderness aggravated by cough,0
+tympanitic percussion note,0
+vesicular breath sounds of diminished intensity,0
+coarse crackles bilaterally over infraclavicular areas,0
+no significant abnormality in cardiovascular system,0
+no significant abnormality in central nervous system,0
+diagnosis of perforated hollow viscous abdomen,0
+hemoglobin 110 g/L,0
+total leukocyte count 11.2 × 10^9/L,0
+neutrophil 68%,0
+lymphocytes 27%,0
+polymorphonuclear leukocytosis,0
+no parasite in peripheral smear,0
+no premature cell in peripheral smear,0
+aspartate transaminase 64 U/L,0
+alanine transaminase 78 U/L,0
+alkaline phosphatase 156 U/L,0
+random plasma glucose 98 mg/dL,0
+blood urea nitrogen 12 mmol/L,0
+creatinine 1.1 μmol/L,0
+sodium 134 mEq/L,0
+potassium 3.4 mEq/L,0
+serum amylase normal,0
+serum lipase normal,0
+routine urine examination normal,0
+HbSAg negative,0
+anti-HCV negative,0
+HIV test negative,0
+chest radiograph showing infiltrations in bilateral upper zones,0
+chest radiograph showing increased broncho vascular markings,0
+X-ray abdomen erect posture showing free gas under diaphragm,0
+ultrasonography abdomen showing intraperitoneal gaseous distension,0
+ultrasonography abdomen showing intraperitoneal free fluids with internal echogenicity,0
+exploratory laparotomy,0
+midline incision,0
+finding of 500 ml purulent fluid,0
+two small perforations 1 cm apart 20 cm proximal to ileocaecal junction,0
+pus sample collected for microbiological study,0
+peritoneal lavage,0
+perforations sealed with omental fat,0
+pelvic drain given,0
+incision closed in single layer,0
+postoperative period eventful,24
+low tidal volume,24
+respiratory distress,24
+shifted to intensive care unit,24
+mechanically ventilated,24
+treatment with IV piperacillin-tazobactam,24
+treatment with IV amikacin,24
+Gram-negative bacilli with bipolar staining in pus,24
+pus culture lactose fermenting pink colonies in MacConkey's agar on day 2,48
+pus culture dry and wrinkled colonies on day 4,96
+blood agar showing dry and wrinkled colonies on day 4,96
+antibiotic changed to ceftazidime 2 g 8-hourly,96
+antibiotic changed to amikacin,96
+B. pseudomallei confirmed on day 6,144
+positive oxidase test,144
+positive nitrate reduction test,144
+arginine dihydrolase activity,144
+oxidation of glucose,144
+oxidation of lactose,144
+organism sensitive to imipenem,144
+organism sensitive to doxycyclin,144
+organism sensitive to cotrimoxazole,144
+antibiotic switched to imipenem 1 g 8-hourly,144
+antibiotic switched to doxycyclin 100 mg twice daily,144
+weaned off ventilator on day 9,216
+T-piece ventilation with oxygen,216
+T-piece removed on day 12,288
+oxygen saturation maintained in room air,288
+imipenem continued for 14 days,336
+doxycyclin continued for 14 days,336
+cotrimoxazole 160 + 800 mg started,336
+discharged on day 24,576
+cotrimoxazole continued for 4 months,576
+follow-up after 6 months,4320
+no relapse,4320
+farmer occupation,0
+immuno-competent,0
+misdiagnosed as tuberculosis,-720
+acquired by inhalation of contaminated droplet,-720
+acquired by direct contact with contaminated soil,-720
+acquired by direct contact with contaminated water,-720
+acquired through penetrating wounds,-720
+acquired through existing skin abrasions,-720
+acquired by ingestion,-720
+community-acquired pneumonia (common presentation),-720
+acute intestinal perforation (atypical presentation),-2
+ceftazidime resistance,144

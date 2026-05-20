@@ -1,0 +1,102 @@
+event,time
+62 years old,0
+female,0
+admitted to the hospital,0
+sudden onset shortness of breath at rest,-168
+hemoptysis,-168
+intermittent yellow sclera,-672
+heavy alcohol consumption,-672
+tachypnea,0
+tachycardia,0
+significant respiratory distress,0
+nonrebreather mask,0
+broad-spectrum antibiotic therapy,0
+transferred to progressive care unit,0
+bilevel positive airway pressure,0
+scleral icterus,0
+dried blood on lips and chin,0
+diffuse crackles over bilateral lower lung fields,0
+bilateral lower extremity pitting edema,0
+white blood cell count 25.7 k/mm3,0
+hemoglobin 10.1 g/dL,0
+"platelet count 71,000 k/mm3",0
+albumin 2.9 g/dL,0
+alkaline phosphatase 172 IU/L,0
+AST 133 IU/L,0
+ALT 32 IU/L,0
+bilirubin 12.4 mg/dL,0
+lactate 2.2 mmol/L,0
+BNP 886 pg/mL,0
+high-sensitivity troponin 449 pg/mL,0
+"D-Dimer 29,578 ng/mL",0
+fibrinogen 183 mg/dL,0
+INR 1.8,0
+PT 20.9,0
+chest x-ray bilateral multifocal patchy opacities,0
+CT chest extensive patchy parenchymal airspace opacities,0
+CT abdomen liver cirrhosis,0
+severe respiratory acidosis,0
+blood gas pH 7.24,0
+blood gas pCO2 68.9,0
+intubation,0
+transfer to ICU,0
+IV steroids,0
+bronchoalveolar lavage,0
+erythematous airways,0
+bloody lavage return,0
+cytology benign respiratory epithelium,0
+cytology reactive changes,0
+cytology acute inflammation,0
+cytology macrophages,0
+cytology red blood cells,0
+acid-fast stain negative,0
+cultures negative,0
+Pneumocystis jiroveci smear negative,0
+IgG cardiolipin antibodies normal,0
+IgM cardiolipin antibodies normal,0
+Beta-2-Glycoprotein IgG antibodies normal,0
+Beta-2-Glycoprotein IgM antibodies normal,0
+ANA negative,0
+P-ANCA negative,0
+C-ANCA negative,0
+rheumatoid factor negative,0
+anti-glomerular basement membrane antibody negative,0
+respiratory viral panel positive human metapneumovirus,0
+HIV-1/2 antibodies negative,0
+HIV-1 antigen negative,0
+Histoplasma galactomannan urine antigen negative,0
+Legionella urinary antigen negative,0
+pneumococcal urinary antigen negative,0
+Epstein-Barr DNA PCR negative,0
+hepatitis viral panel negative,0
+Blastomyces dermatitidis antibodies negative,0
+Aspergillus galactomannan antigen negative,0
+galactomannan index negative,0
+Mycoplasma antibodies negative,0
+West Nile virus antibodies negative,0
+cytomegalovirus antibodies negative,0
+dengue virus antibodies negative,0
+blood cultures negative,0
+urine cultures negative,0
+bronchial brushing cultures negative,0
+fungal cultures negative,0
+COVID-19 testing denied,0
+started on vasopressors,96
+prone position,192
+hemodialysis,216
+severe acute kidney injury,216
+creatinine 4.83 mg/dL,216
+acidosis pH 7.21,216
+disseminated intravascular coagulation,264
+platelet count 19 k/mm3,264
+"D-Dimer 36,469 ng/mL",264
+fibrinogen 91 mg/dL,264
+CT head subarachnoid hemorrhages,264
+multi-organ failure,264
+cardiac arrest,264
+declared dead,264
+no known past medical history,0
+denies recent travels,0
+denies sick contacts,0
+no community transmission suspected,0
+no history of tuberculosis contact,0

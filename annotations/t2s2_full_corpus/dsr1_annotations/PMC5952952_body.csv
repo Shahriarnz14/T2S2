@@ -1,0 +1,61 @@
+event,time
+54-year-old,0
+male,0
+admitted to the emergency room,0
+nausea,-24
+vomiting,-24
+diarrhea,-24
+abdominal pain,-24
+denied ingestion of fish,0
+denied ingestion of contaminated food,0
+denied ingestion of contaminated water,0
+generalized skin flushing,0
+blood pressure 60/39 mmHg,0
+heart rate 131/min,0
+temperature 37.8°C,0
+aggressive fluid resuscitation,0
+intravenous ciprofloxacin,0
+intravenous metronidazole,0
+white blood count 18.9 × 10^9/L,0
+neutrophils 17.63 × 10^9/L,0
+hemoglobin 162 g/L,0
+platelets 120 × 10^9/L,0
+creatinine 445 μmol/L,0
+estimated GFR 12 mL/min,0
+metabolic acidosis (pH 7.29),0
+CT scan showing thickened terminal ileum,0
+CT scan showing distended appendix (13 mm),0
+CT scan showing mild fat stranding,0
+hemodynamic instability,0
+suspected intra-abdominal source,0
+surgical exploration,0
+turbid RLQ fluid retrieved,0
+Gram stain of RLQ fluid,0
+culture of RLQ fluid,0
+1 cm necrotic zone at appendix base,0
+appendectomy,0
+peritoneal lavage,0
+intraoperative colonoscopy,0
+transesophageal echocardiography,0
+admitted to ICU,0
+vasopressor support,0
+developed DIC,24
+empirical ciprofloxacin and metronidazole (7 days),0
+oral amoxicillin/clavulanic acid (7 days),168
+flushing syndrome persisted,144
+left ICU,144
+discharged on postoperative day 10,240
+blood culture R. ornithinolytica,0
+RLQ fluid culture R. ornithinolytica,0
+acute inflammation of appendicular muscularis,0
+no mucosal inflammation,0
+no perforation,0
+periappendicular fat inflammation,0
+septic shock,0
+acute kidney failure,0
+no bronchospasm,0
+no oral swelling,0
+no respiratory distress,0
+no recent hospitalizations,0
+no infections,0
+no impaired immune system,0

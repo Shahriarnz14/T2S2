@@ -1,0 +1,84 @@
+event,time
+43-year-old,0
+female,0
+history of difficult-to-manage bronchial asthma,0
+hospitalized 10 times in the last 8 months,-5760
+acute exacerbations,-5760
+asthmatic crisis,-5760
+dry cough,-24
+progressive dyspnea,-24
+psychomotor agitation,-24
+audible wheezing,-24
+outpatient use of salbutamol,-24
+outpatient use of ipratropium bromide,-24
+admitted in critical condition,0
+diaphoretic,0
+tachycardic (110 beats/minute),0
+dyspneic with supraclavicular retractions,0
+respiratory rate 30 breaths/minute,0
+ambient oxygen saturation 87%,0
+abolished vesicular murmur in both lung fields,0
+GCS 12/15,0
+arterial blood gases: respiratory acidosis,0
+hypoxemia,0
+pH 7.21,0
+PCO2 66.5,0
+PO2 53.4,0
+HCO3 26.5,0
+BE −2.8,0
+SaO2 79.1%,0
+PaO2/FiO2 178,0
+invasive ventilatory support,0
+midazolam loading dose 0.2 mg/kg,0
+midazolam maintenance dose 0.05 mg/kg/h,0
+propofol loading dose 1 mg/kg,0
+propofol maintenance dose 1 mg/kg/h,0
+transferred to ICU,0
+hydrocortisone 100 mg IV every 8 hours,0
+magnesium sulfate,0
+piperacillin tazobactam,0
+clarithromycin,0
+day 2: cisatracurium initial dose 0.15 mg/kg,48
+cisatracurium maintenance dose 0.03 mg/kg IV bolus,48
+Train of 4 monitoring (1-2 range),48
+day 4: improvement in ABG,96
+ventilatory weaning indicated,96
+dual sedation suspended,96
+NMB suspended,96
+light sedation with dexmedetomidine,96
+day 6: GCS 15/15,144
+weakness of neck flexor muscles,144
+facial paresis,144
+inability to move all 4 limbs,144
+muscular strength 1/5 in lower limbs,144
+muscular strength 2/5 in upper limbs,144
+flaccid hyporeflexia,144
+preserved sensitivity,144
+no alteration in cranial nerves,144
+neurology assessment,144
+brain MRI normal,144
+cervical MRI normal,144
+cerebrospinal fluid study normal,144
+MRC score 37 points,144
+electromyography: denervation,144
+irritability (myopathic pattern),144
+polyneuropathic compromise (axonal pattern),144
+ICUAW diagnosis confirmed,144
+physiotherapy started,144
+comprehensive rehabilitation started,144
+ventilator withdrawn on day 10,240
+hospital discharge at day 30,720
+MRC score 55 points at discharge,720
+normal ABG,720
+no acidosis,720
+no hypoxemia,720
+symptomatic resolution achieved,720
+hyperglycemia (risk factor),0
+female gender (risk factor),0
+mobility restriction (risk factor),0
+parenteral nutrition (risk factor),0
+myo/neurotoxic drugs (risk factor),0
+steroids (risk factor),0
+NMB (risk factor),0
+prolonged mechanical ventilation (risk factor),0
+no written consent obtained,0

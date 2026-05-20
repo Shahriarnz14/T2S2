@@ -1,0 +1,109 @@
+pmc1 Introduction
+
+Pseudomonas aeruginosa (P. aeruginosa) is a Gram-negative nonfermenting bacillus. This organism is recovered from a variety of aquatic environment, particularly in the contaminated distilled water [1]. It is also one of nosocomial pathogens and typically affects patients with an immunocompromised background or some underlying disease, such as chronic lower respiratory disease, malignancy, hepatorenal failure, or prolonged use of antibiotics [2]. It rarely causes community-acquired pneumonia (CAP), accounting for only 0.4–6.9% of all cases [3]. Nevertheless, it is reported that P. aeruginosa- CAP tend to be severe; approximately 10% of patients require admission to the intensive care unit (ICU), which is associated with high mortality [[3], [4], [5]]. Herein, we report a successfully treated case of fulminant P. aeruginosa- CAP in a healthy adult, which was caused by contaminated aerosol generated from the home whirlpool bath. Molecular typing method was beneficial in identifying the causative pathogen along with the specific virulent factor.
+
+2 Case presentation
+
+A 67-year-old man with a medical history of cardiogenic cerebral infarction visited our hospital with complaints of chills and right chest pain in early autumn. He had a habit of daily exercise, and no history of tobacco use nor excessive alcohol use. He had no subsequent comorbidities of cerebral infarction. Physical examination at admission revealed a body temperature of 36.4 °C, blood pressure of 82/66 mmHg, pulse rate of 110/min, oxygen saturation of 90%, and respiratory rate of 30 breaths/min. Chest auscultation revealed right coarse crackles. Laboratory examinations were as follows: white blood cell count, 9500/μl; neutrophils, 7695/μl; platelets, 165,000/μl; and C-reactive protein, 2.59 mg/dl. Chest radiograph and chest computed tomography (CT) scan revealed right S2-inflitration (Fig. 1A, D). However, within 2 h after admission, systemic blood pressure rapidly declined to 60 mmHg and oxygen saturation decreased to 70%, he was immediately transferred to the intensive care unit (ICU). Oxygenation was not fully recovered despite mechanical ventilation support. Bronchoscopy demonstrated a large amount of bleeding (>1000 ml) from the right upper bronchus (Fig. 1C) and B6 segments resulted in obstructing the right main bronchus. Repetitive chest radiograph and CT scan showed complete opacification of the right hemithorax (Fig. 1B, E). Therefore, veno-venous extracorporeal membrane oxygenation (v-v ECMO) support was urgently introduced. P. aeruginosa was identified from bronchial secretion and blood by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry. Meropenem and ciprofloxacin were continuedat the maximum dose ,management of systemic infection resulted in a withdrawal of v-v ECMO on day 14. However, the abscess formation was progressed in the right lung, accompanying with P. aeruginosa empyema (Fig. 1F). Furthermore, purulent sputum and minor bleeding from the right lung continuously dripped to the left unaffected lung. Eventually, the right pneumonectomy and pleural lavage were performed to protect the unaffected left lung. The P. aeruginosa infection was finally resolved, and the patient was discharged from the ICU on day 92.Fig. 1 Radiographic and bronchoscopic findings.
+
+A: Chest Xray at the admission.
+
+B: Chest Xray at 2 h later after admission.
+
+C: Bronchoscopic finding at ICU.
+
+D: Chest CT scan at the admission.
+
+E: Chest CT scan at 2 h later after admission.
+
+F: Chest CT scan at day 14 after admission.
+
+(A)(
+
+D) Chest Xray and CT scan at admission depicted the infiltration of right upper lobe. (B)(E) At Two hours after admission, radiological findings dramatically changed; Chest Xray and CT scan showed complete opacification of the right hemithorax. (C) Bronchoscopy demonstrated the fresh bleeding from right upper bronchus. (F) Chest CT scan at day14 after admission depicted an abscess formation in the right lung and increase of right pleural effusion. Ground glass opacities and partial consolidation were appeared in the left lung.
+
+Fig. 1
+
+Concurrently with the clinical intervention summarized above, the etiology of the virulent P. aeruginosa pneumonia was also investigated. The patient favored a home whirlpool bath and routinely used it for a long time. Because P. aeruginosa thrives in moist environments, cultures of seven swab samples and four liquid samples were obtained from several spots of the bathroom and yard of the patient's residence (Fig. 2A and B, Table 1). According to our survey, the bathroom was relatively kept dry and clean, however, a small amount of black mud was intermittently emitted with water, once the jet system was turned on (Fig. 2C and D). Following culture, P. aeruginosa was only detected in the samples obtained from the whirlpool bathtub, particularly, the filter inside the jet system (spout of jet and suction port) and the emitted water from the spout of jet (Table 1).Fig. 2 Home whirlpool bathtub in patient's residence.
+
+A: Whole image of the bathroom. It depicted ① shower head, ② faucet of bathtub, ③ drain of the bathroom, from top to bottom.
+
+B: Inside the bathtub. It depicted ④ spout of jet and ⑤ suction port of jet system.
+
+C: Jet stream of whirlpool bathtub. Two streams were vigorously emitted from the spout of jet.
+
+D: Tiny fragments of black mud were intermittently emitted from the spout of jet with water.
+
+Fig. 2
+
+Table 1 Cultures of seven swab samples and four liquid samples from environmental sources.
+
+Table 1Swab samples	
+#	Site	Pseudomonas aeruginosa	
+1	Drain of the bathroom	−	
+2	Faucet of the bathtub	−	
+3	Shower head	−	
+4	Spout of jet	+	
+5	Suction port of jet	+	
+6	Wash basin	−	
+7	Well in the yard	−	
+Liquid samples	
+#	Site	Pseudomonas aeruginosa	
+1	Water from the faucet of the bathtub	−	
+2	Water in the wash basin	−	
+3	Water from the spout of jet	+	
+4	Well water in the yard	−	
+
+Furthermore, we performed whole genome sequencing of these isolates from the whirlpool bathtub and patient's samples using an Illumina MiSeq platform with the Nextera XT DNA Library Prep Kit (Illumina) and the MiSeq reagent kit version 3 (Illumina), and a phylogenetic analysis based on the whole genome of environmental samples and clinical samples demonstrated high similarity (Table 2, Fig. 3). Multi-locus sequence typing (MLST) analysis identified that these isolates were classified into sequence type (ST)-900 based on PubMLST (https://pubmlst.org/), indicating that they carried the same genomic background (Table 2) [6]. Additionally, all isolates carried the same drug resistance genes and virulent factor gene, namely exoenzyme S gene (exoS). The latter code a toxic protein, which is injected to host cells through the type III secretion system [7]. exoS gene-positive P. aeruginosa strains are frequently isolated from environmental and clinical samples 8) and potent cytotoxicity have been demonstrated in the experimental models [[7], [8], [9], [10]]. However, the clinical impact of Exo S remains unclear, further studies are needed to clarify the role of exoS gene-positive P. aeruginosa in the fulminant CAP.Table 2 Strain typing of P. aeruginosa by MLST.
+
+Table 2#	Sample No.	Sample type	Sequence type	Drug resistant gene	Virulent factor gene exoS/exoU	
+1	JMUB5315	blood	ST-900	blaOXA-395 (beta-lactam), fosA (fosfomycin),
+catB7 (phenicol), aph(3′)-IIb (aminoglycoside)	＋/−	
+2	JMUB5316	bronchial secretion	ST-900	blaOXA-395 (beta-lactam), fosA (fosfomycin),
+catB7 (phenicol), aph(3′)-IIb (aminoglycoside)	＋/−	
+3	JMUB5317	isolates from spout of jet	ST-900	blaOXA-395 (beta-lactam), fosA (fosfomycin),
+catB7 (phenicol), aph(3′)-IIb (aminoglycoside)	＋/−	
+4	JMUB5318	isolates from suction port	ST-900	blaOXA-395 (beta-lactam), fosA (fosfomycin),
+catB7 (phenicol), aph(3′)-IIb (aminoglycoside)	＋/−	
+
+Fig. 3 Phylogenetic analysis of Pseudomonas aeruginosa (P. aeruginosa) Phylogenetic analysis was obtained by kSNP3.0 program, based on the genome sequences of 19 strains, including 15 strains of P. aeruginosa whose genome sequences were publicly available. Phylogenetic analysis revealed that the 4 strains (blood, bronchial secretion, and two environmental samples) analyzed in this study were very closely related. JMU is an acronym for Jichi Medical University, indicating the present samples.
+
+Fig. 3
+
+In summary, P. aeruginosa isolated from the patient was genetically identical to that collected from the home whirlpool bath. Hence, direct exposure to aerosol contaminated with high concentration of P. aeruginosa with virulent character was speculated to contribute to the development of fulminant pneumonia.
+
+3 Discussion and conclusion
+
+We presented a successfully treated life-threatening P. aeruginosa pneumonia in a healthy adult associated with a home whirlpool bath.
+
+P. aeruginosa infection is generally observed in immunocompromised individuals. However, it occasionally causes CAP in healthy individuals. Maharaj et al. reviewed 20 cases of CAP caused by P. aeruginosa; most clinical courses were severe, and the mortality rate reached 35% [4]. Several cases of P. aeruginosa-CAP have been reported thus far, all exhibiting bacteremia and rapid deterioration of vital signs [[11], [12], [13], [14]]. The current case also showed an incredible rapid worsening of lobar pneumonia with massive airway bleeding. Adequate antimicrobial therapy and intensive management are obviously essential against severe bacterial pneumonia, whereas the surgical intervention remains controversial. Reimel et al. reported that surgical resection for necrotizing pneumonia was highly invasive and the prognosis of ventilated patients was significantly poor [15]. On the other hand, Tsai et al. reviewed the management of necrotizing pneumonia and indicated that lung resection could be considered in patients who were unresponsive to antibiotic therapy and developed parenchymal complications [16]. In the present case, the patient had recovered from sepsis and vital signs were improved by intensive care, however, the right lung abscess was prolonged and purulent sputum continuously dripped and damaged the left unaffected lung. Prior to the surgery, we confirmed the following [1]: the opposite (unaffected) lung was competent for differential lung ventilation during surgery [2], there was no option to protect the unaffected lung, and we decided to perform surgery. As a result, pneumonectomy of the affected lung was successfully performed, leading to the resolution of the infection. Hence, we propose that surgical intervention as a therapeutic option for severe purulent pneumonia.
+
+Besides the clinical approach, we also investigated the etiology of the current P. aeruginosa infection. P. aeruginosa has few nutritional requirements and thrives in moist environments. Moreover, it creates biofilms that allow it to grow in microcolonies within plumbing systems, such as humidifiers [17], hot tub, and whirlpool spa [[18], [19], [20]]. Interestingly, the wife of the patient, who was immunocompromised due to advanced pancreatic cancer, did not develop pneumonia despite using the same bathroom. Although she used the same shower and bathtub, she had never turn on the switch of jet bath. In contrast, the patient routinely used the jet bath and particularly favored the strong stream and splash in setting his back directly on the spout of jet. According to our survey, the bathroom was kept dry and almost clean. However, a small amount of black mud was intermittently emitted by turning on the switch of whirlpool bath (Fig. 2 D). This suggests insufficient cleaning inside the jet plumbing system caused the contamination of P. aeruginosa and may explain why P. aeruginosa was only detected from the unit of jet (Table 1) and his wife did not develop pneumonia despite using the same bath. In addition, direct inhalation of contaminated aerosol is considered a critical trigger of pneumonia.
+
+We identified the causative pathogens by MLST and whole genome sequencing. MLST is a widely applied method for strain-level typing based on the sequencing of a small number of species-specific genomic loci, including drug resistance and virulence genes [6]. Regarding the pathogen vilulence, it is widely established that P. aeruginosa displays a variety of virulence factors associated with disease severity [7]. Type III secretion system is the most notable virulent mechanisms, P. aeruginosa directly contacts host cells and injects various toxins through the type III secretion system [7]. Thus far, four types of toxins have been identified (i.e., Exoenzyme (Exo)U, ExoT, ExoS, and ExoY), Exo S-positive P. aeruginosa was found in 58–72% of isolate from environmental and clinical samples [[7], [8]]. Exo S is bi-functional toxic protein to possess GTPase activating protein (GAP) domain and carboxy-terminal ADP-ribosyltransferase (ADPRT) domain. Small GTPases that maintain the organization of actin of cytoskeleton, are inactivated by Exo S, leading to the disruption of cell structure [21]. ADPRT activity of Exo S are also associated with various adverse effects; actin cytoskeletal disruption, inhibition of DNA synthesis, and inducing apoptosis [[7], [8]]. Several experimental models demonstrated the role of Exo S in facilitating bacterial dissemination by the irreversible disruption of pulmonary barrier in the acute phase of pneumonia [9,10,21,22]. However, the toxicities of exoS gene-positive P. aeruginosa have been mainly discussed in the animal models and the there are few evidence regarding the clinical impact [23,24]. Therefore, further studies are needed to clarify Exo S is a key factor for causing fulminant CAP by environment P. aeruginosa.
+
+In conclusion, we report a rare case of virulent necrotizing pneumonia caused by P. aeruginosa in a healthy individual. Surgical intervention is considered as a therapeutic option for severe purulent pneumonia. Furthermore, genomic analysis is useful strategy for investigating the cause of virulent P. aeruginosa infection. Direct exposure to aerosol contaminated with virulent P. aeruginosa strain may be a risk factor for the development of severe P. aeruginosa pneumonia.
+
+Consent for publication
+
+Written informed consent to publish this case report and accompanying data was provided by the patient's family.
+
+Availability of data and material
+
+All data generated during this study are included in this article.
+
+Funding
+
+Funding was not received for this study.
+
+Authors’ contributions
+
+YF and NM mainly contributed to manuscript writing. NM is also the corresponding author. SW and LC analyzed the bacterial genome. TS performed the surgical intervention in this case. YF, NM, KT, TS, AO, KT, AT, and MB treated the patient. KH revised the manuscript. All authors read and approved the final version of the manuscript.
+
+Declarations and competing interests
+
+All authors declare that they have no competing interests.
+
+Acknowledgements
+
+We are grateful to S. Wakabayashi for excellent technical assistance.

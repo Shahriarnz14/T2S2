@@ -1,0 +1,104 @@
+event,time
+55 years old,0
+male,0
+admitted to emergency department,0
+dyspnea,-24
+fever,-168
+cough,-168
+whitish sputum,-168
+former smoker,0
+5-pack-year smoking history,0
+no alcohol abuse history,0
+no pulmonary diseases,0
+no underlying diseases,0
+no diabetes,0
+no medications,0
+no herbal medicines,0
+admitted to coronary care unit,-72
+atypical chest pain,-72
+normal coronary angiography,-72
+chest radiography normal,-72
+chest computed tomography,-72
+diffuse bronchial wall thickening,-72
+no emphysema,-72
+flu-like symptoms,-72
+fever,-72
+cough,-72
+sore throat,-72
+myalgia,-72
+conservative medication,-72
+no antiviral agents,-72
+blood pressure 130/90 mmHg,0
+heart rate 113 beats/min,0
+respiratory rate 26 breaths/min,0
+body temperature 37.8℃,0
+conscious,0
+acute ill-looking appearance,0
+normal conjunctiva,0
+no palpable lymph nodes,0
+bilateral expiratory wheezes,0
+"white blood cells 15,200/mm³",0
+neutrophils 84.9%,0
+lymphocytes 8.6%,0
+eosinophils 0.5%,0
+hemoglobin 16.0 g/dL,0
+"platelets 144,000/mm³",0
+C-reactive protein 46.5 mg/L,0
+normal liver function,0
+normal renal function,0
+negative autoantibodies,0
+negative rheumatoid factor,0
+negative HIV,0
+negative VDRL,0
+normal CD4 count,0
+arterial blood gas pH 7.45,0
+PaO2 81.8 mmHg,0
+PaCO2 38.5 mmHg,0
+supplemental oxygen 3 L/min,0
+negative rapid influenza test,0
+negative anti-mycoplasma antibody,0
+negative Legionella urinary antigen,0
+negative pneumococcal urinary antigen,0
+negative sputum culture,0
+negative blood culture,0
+negative acid-fast bacilli stain,0
+positive serum galactomannan assay,48
+bilateral pulmonary infiltrates,0
+bilateral consolidations,0
+chest CT patchy consolidations,0
+ground-glass opacities,0
+centrilobular nodules,0
+ceftriaxone,0
+clarithromycin,0
+suspected community-acquired pneumonia,0
+suspected acute asthma exacerbation,0
+methylprednisolone 62.5 mg/day,48
+no asthma history,0
+no pulmonary diseases,0
+switched to piperacillin/tazobactam,96
+levofloxacin,96
+worsening leukocytosis,96
+hypoxemia,96
+respiratory failure,96
+transferred to ICU,96
+mechanical ventilation,96
+fever subsided,96
+CRP declined to 6.6 mg/L,96
+chest radiograph improved,192
+negative gram stain,96
+negative tracheal culture,96
+clinical deterioration,216
+high fever,216
+worsening chest radiograph,216
+bronchoscopy pseudomembranes,216
+airway narrowing,216
+Aspergillus hyphae in BAL,216
+BAL culture Aspergillus,216
+repeat serum GM positive,216
+PCR positive influenza B,216
+negative rapid influenza test,0
+probable IPA diagnosis,216
+voriconazole initiated,216
+progressive worsening,336
+no bacterial infection,336
+death,336

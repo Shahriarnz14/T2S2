@@ -1,0 +1,85 @@
+event,time
+history of hypertension,-8760
+history of osteoporosis,-8760
+history of hemorrhoids,-8760
+fever up to 38.9 °C,-48
+abdominal pain,-48
+edema of the scrotum,-48
+edema of the penis,-48
+edema of the perineum,-48
+edema of the right gluteal region,-48
+60-year-old,0
+male,0
+admitted to the hospital,0
+no personal history identified,0
+no family history identified,0
+blood pressure 103/62 mmHg,0
+heart rate 135/min,0
+oxygen saturation 88%,0
+white blood cell count 13.11/μL,0
+C-reactive protein 61.4 mg/dL,0
+serum creatinine 4.3 mg/dL,0
+blood urea 157 mg/dL,0
+blood sugar 142 mg/dL,0
+procalcitonin 8.53 ng/mL,0
+RT-PCR test for SARS-CoV-2 performed,0
+RT-PCR test for SARS-CoV-2 negative,0
+CT of the abdomen and the pelvis performed,0
+extensive inflammatory infiltration of the subcutaneous tissues of the hypogastrium and the penis,0
+"liquefaction in the subcutaneous tissues of the scrotum, the perineum, and the right gluteal region",0
+"gas in the subcutaneous tissues of the scrotum, the perineum, and the right gluteal region",0
+necrosis of scrotum,0
+necrosis of penis,0
+edema of the subcutaneous tissues,0
+diagnosed with FG,0
+urgently qualified to undergo surgery,0
+meropenem 1 g thrice daily intravenously started,0
+metronidazole 500 mg thrice daily intravenously started,0
+linezolid 600 mg twice daily intravenously started,0
+resection of the necrotic tissues,12
+bilateral orchiectomy,12
+excision of the penile skin,12
+excision of the scrotal skin,12
+transferred to the intensive care unit,14
+very serious condition,14
+intensive therapy,14
+mechanical ventilation,14
+sedation started,14
+broad-spectrum antibiotic therapy,14
+supportive therapy,14
+nutritional therapy,14
+colostomy was performed,36
+stoma created,36
+wound was debrided,36
+negative pressure wound therapy applied,48
+condition started improving,72
+sedation was discontinued,96
+recovered consciousness,96
+extubated,96
+able to breathe on his own with oxygen on low flow,96
+hemodynamically stable,96
+diuresis was stimulated using a small dose of furosemide,96
+inflammatory markers decreased significantly,96
+culture of the pus material showed Escherichia coli,120
+culture of the pus material showed Pseudomonas aeruginosa,120
+meropenem discontinued,432
+metronidazole discontinued,432
+linezolid discontinued,432
+antibiotic therapy was modified to include cephazolin 1 g twice daily intravenously started,432
+negative pressure wound therapy discontinued,480
+transferred to the Department of Plastic Surgery,504
+free-skin grafts applied to the debrided areas,528
+free-skin graft to the right gluteal area applied,528
+cephazolin discontinued,1008
+discharged,1104
+living in a nursing home,1200
+received continous nursing care,1200
+free-skin graft care,1200
+regular dressing changes,1200
+in good physical condition,1200
+in good mental condition,1200
+requires regular physiotherapy,1200
+under the care of a urological clinic,1200
+under the care of a surgical clinic,1200
+testosterone supplementation at a dose of 80 mg twice daily,1200
+qualified for colostomy reversal,1440

@@ -1,0 +1,84 @@
+event,time
+66 years old ,0
+male ,0
+hypertension ,0
+hyperlipidemia ,0
+hepatitis C virus infection ,0
+atrial fibrillation ,0
+apixaban ,0
+admitted to the hospital ,0
+dizziness ,-2
+lost consciousness ,-2
+fall ,-2
+Glasgow Coma Score of 15 ,0
+no focal neurological deficits ,0
+noncontrast CT of the head ,0
+right frontal subdural hematoma ,0
+right medial orbital wall fracture ,0
+no operative intervention recommended ,0
+severe headache ,48
+expansion of the subdural hematoma ,48
+mass effect ,48
+midline shift ,48
+no surgical intervention recommended ,48
+discharged to acute inpatient rehabilitation ,144
+repeat head CT ,336
+terrible headache ,216
+repeat neurosurgical evaluation ,216
+expansion of the hematoma ,216
+increased mass effect ,216
+midline shift ,216
+burr holes for evacuation of the subdural hematoma ,216
+placement of subdural drain ,216
+headache improved ,222
+subdural hematoma decreased in size ,222
+drain removed ,222
+discharged home ,222
+seizure prophylaxis ,222
+levetiracetam ,222
+strange sensation in the right arm ,402
+inability to control the arm ,402
+focal left arm seizure ,402
+admitted ,402
+unresponsive ,406
+status epilepticus ,406
+intubated ,406
+ventilator-dependent respiratory failure ,406
+septic shock ,406
+Pseudomonas bacteremia ,406
+tracheostomy ,406
+gastrostomy ,406
+discharged to long-term acute care hospital ,638
+less responsive ,642
+transferred back for neurosurgical evaluation ,642
+CT and CTA head ,642
+right frontal intraparenchymal hemorrhage ,642
+cerebral catheter angiography ,642
+prominence of the anterior temporal branch of the right middle cerebral artery ,642
+"early, rapid, shunting of blood through a cortical vein to the superior sagittal sinus ",642
+opacification of a capillary-like serpiginous tangle of vessels ,642
+AVM ,642
+Spetzler-Martin Grade 1 ,642
+Spetzler-Ponce Grade A ,642
+embolization of the AVM ,650
+N-butyl-cyanoacrylate glue ,650
+successful embolization ,650
+no opacification of the early draining vein or AVM nidus ,650
+resection of the AVM ,658
+right pterional craniotomy ,658
+microdissection techniques ,658
+coagulated using bipolar electrocautery ,658
+resected ,658
+intraoperative Doppler ultrasound ,658
+no arterial flow in the draining vein ,658
+evacuation of the associated intraparenchymal hematoma ,658
+postoperative angiography ,658
+no residual AVM ,658
+mental status improved ,661
+followed commands ,661
+tracked with his eyes ,661
+spontaneous antigravity movement of the right upper extremity ,661
+no movement of the left upper or bilateral lower extremities ,661
+pseudomonas sepsis ,661
+treated with antibiotics ,661
+discharged to long-term acute care ,673

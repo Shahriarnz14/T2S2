@@ -1,0 +1,80 @@
+event,time
+87 years old,0
+man,0
+presented to the emergency department,0
+epigastric discomfort,-24
+burning sensation,-24
+chest radiation,-24
+left upper quadrant radiation,-24
+nausea,0
+watery nonbloody emesis,0
+hiccupping,0
+denies recent chest pain,0
+denies fever,0
+denies diarrhea,0
+denies constipation,0
+denies sneezing,0
+denies coughing,0
+denies Valsalva maneuvers,0
+coronary artery disease,0
+angina,0
+valvular heart disease,0
+hypertension,0
+hyperlipidemia,0
+gout,0
+gastro-esophageal reflux disease,0
+recent hospital admission for constipation,0
+denies autoimmune disease,0
+denies connective tissue disorder,0
+denies upper gastrointestinal endoscopy,0
+denies esophageal biopsy,0
+furosemide,0
+atenolol,0
+doxazosin,0
+nifedipine,0
+simvastatin,0
+nitroglycerin PRN,0
+omeprazole,0
+oxybutynin,0
+denies current smoking,0
+denies alcohol usage,0
+hypertension 170/74 mmHg,0
+afebrile,0
+slight abdominal distention,0
+sluggish bowel sounds,0
+abdomen soft,0
+nontender,0
+negative cardiac enzymes,0
+no acute electrocardiogram changes,0
+normal serum lactate,0
+normal creatinine,0
+CT diffuse dilation of small bowel,0
+CT gastric dilation,0
+CT mid-to-distal esophageal dilation,0
+esophageal pneumatosis,0
+no pneumomediastinum,0
+no pneumoperitoneum,0
+no other sites of pneumatosis,0
+upper gastrointestinal ileus,0
+small bowel ileus,0
+attempted esophagram,0
+unable to drink water-soluble contrast,0
+decompensation,0
+admitted to surgical intensive care unit,0
+nasogastric tube placement,0
+drained 1700 ccs nonbloody fluid,0
+bowel rest,0
+intravenous fluids,0
+close observation,0
+esophagram negative for perforation,4
+fluoroscopic nasogastric tube decompression,4
+repeat CT complete resolution of esophageal pneumatosis,11
+improvement of upper gastrointestinal ileus,11
+became septic,48
+started broad-spectrum antibiotics,48
+tracheal aspirates grew Klebsiella pneumoniae,48
+acute kidney injury,48
+antibiotic regimen adjusted,48
+acute kidney injury resolved,48
+discharged home,288
+tolerating regular oral diet,288

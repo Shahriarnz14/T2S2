@@ -1,0 +1,47 @@
+event,time
+29 years old,0
+male,0
+admitted to the hospital,0
+fever,-336
+cough,-336
+septic shock,0
+confusion,0
+Glasgow Coma Scale E4V2M5,0
+temperature 38.0°C,0
+blood pressure 85/42 mmHg,0
+pulse rate 135 b.p.m.,0
+neck stiffness,0
+bilateral upper and lower limbs power ≥3,0
+bilateral lung crepitations,0
+fluid resuscitation,0
+vasopressor,0
+mechanical ventilation,0
+anemia,0
+thrombocytopenia,0
+splenic microabscesses,0
+bilateral lung consolidation,0
+Burkholderia pseudomallei in blood culture,0
+ventilator-associated pneumonia,168
+multidrug-resistant Acinetobacter baumanii,168
+positive blood cultures on day 6,144
+positive blood cultures on day 12,288
+left-sided hemiparesis,408
+pansystolic murmur,408
+right corona radiata infarct,408
+high parietal petechial hemorrhage,408
+thickened mitral valve,408
+vegetation on posterior mitral valve leaflet,408
+moderate eccentric mitral regurgitation,408
+intravenous ceftazidime,0
+intravenous C-penicillin,0
+intravenous imipenem,96
+oral co-trimoxazole,168
+intravenous ampicillin-sulbactam,168
+sepsis-induced supraventricular tachycardia,168
+intravenous gentamicin,504
+discharged,2016
+residual left-sided weakness,2016
+Modified Rankin Score 2,2016
+vegetation resolved,6552
+moderate mitral regurgitation,6552
+left ventricular ejection fraction 66.5%,6552

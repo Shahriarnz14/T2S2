@@ -1,0 +1,102 @@
+1 Introduction
+
+Ischemic hepatitis occurs due to decreased systemic blood flow and hypo-perfusion, resulting in coagulopathy due to impaired production of coagulation factors [[1], [2], [3]]. Correction of coagulopathy is needed before invasive procedures. However, there is limited evidence to support using Prothrombin Complex Concentrate (PCC) to reverse coagulopathy secondary to liver disease. The use of Kcentra, which is an inactivated 4 factor PCC that contains heparin, was evaluated among patients with liver disease, while the use of FEIBA, an activated PCC, among patients with ischemic liver disease induced coagulopathy has not been evaluated yet [4]. To the best of our knowledge, this is the first case report in the medical literature that used FEIBA to correct hepatic induced coagulopathy pre-procedure.
+
+2 Case presentation
+
+A 68-year old male patient with a history of diabetes mellitus type II, hypertension, chronic kidney disease stage 5, and heart failure with preserved ejection fraction (Grade III). The patient was admitted to our hospital with shortness of breath and generalized body aches secondary to worsening of kidney function (from 245 umol/L, 1 month before admission to 469 upon admission). Because of progressive worsening of kidney function despite being on diuretic therapy, he underwent one session of hemodialysis on day 11 of hospitalization.
+
+On day 22, late night, the patient started to be hypotensive 87/57 mmHg and lethargic with a decrease in urine output. The patient was shifted to the MICU (medical intensive care unit), a bolus of crystalloids was given, and started on a norepinephrine infusion to keep mean arterial blood pressure (MAP) ≥ 65 mmHg. Echo was done on the same day and showed moderate pericardial effusion, which was more on the lateral and posterior wall and was also evident in the apical wall; this effusion was not there when Echo was performed on admission. A subcostal approach was planned, but due to coagulopathy and hepatomegaly, which increased the risk of bleeding for the patient; therefore, an apical approach was agreed upon. Since his international normalized ratio (INR) was 1.7 as shown in Table 1, four units of Fresh Frozen Plasma (FFP) were given.Table 1 Lab results on day 1 of MICU stay.
+
+Table 1INR	PT (seconds)	Serum Creatinine (umol/L)	Blood urea nitrogen (mmol/L)	ALT (U/L)	AST (U/L)	Lactate (mmol/L)	Potassium (mmol/L)	
+1.7	19.3	715	27	49	69	2.4	6.2	
+MICU: medical intensive care unit, INR: international normalized ratio, PT: prothrombin time, ALT: alanine transaminase, AST: aspartate aminotransferase.
+
+On day 2 of MICU admission, the vasopressors requirements increased with an increase in lactate to 8 mmol/L at 09:00, and the patient became anuric, and continuous renal replacement therapy started. Additionally, his liver enzymes, alanine aminotransferase, and aspartate aminotransferase, increased to 1729 U/L and 1772 U/L, respectively, with an increase in INR to 2 as shown in Table 2. Therefore, he was diagnosed with acute ischemic hepatitis complicated by coagulopathy. In view of the increase in lactate and vasopressors requirements, emergency pericardiocentesis was decided to be done after the correction of coagulopathy. At 10:00, another four units of FFP were given with 10 mg of vitamin k.Table 2 Lab results on day 2 of MICU stay.
+
+Table 2Time	INR	PT (seconds)	Serum Creatinine (umol/l)	Blood urea nitrogen (mmol/l)	ALT (U/L)	AST (U/L)	Lactate (mmol/L)	Potassium (mmol/L)	
+05:46	2	22.5	581	22.7	1729	1772	4.5	5.7	
+12:00	2.2	23.8					8		
+13:21	2.3	25.8							
+15:47	1.9	21.2							
+20:57			529	19.2			14,15, 18	6.9	
+MICU: medical intensive care unit, INR: international normalized ratio, PT: prothrombin time, ALT: alanine transaminase, AST: aspartate aminotransferase.
+
+The advanced cardiac monitoring device was connected after femoral line insertion, which showed a cardiac index of 0.9 L/min/m2, systemic vascular resistance of > 4000 dynes/sec/cm5, and a confirmed cardiogenic shock secondary to cardiac tamponade was established. A repeated coagulation profile was done and revealed an increase in INR to 2.3, which showed no response to FFP administration. In view of the critical situation and the need for emergency pericardiocentesis, it was decided to give activated prothrombin complex concentrate (FEIBA) 2500 units as an intermittent infusion over 20 min. Following administration, the coagulation profile was repeated within 1 h and revealed a decrease in INR to 1.9, as demonstrated in Fig. 1. Once the INR was below 2, a pre-pericardiocentesis echo was done and showed an increase in the pericardial effusion, a collapse in the right ventricle and right atrium; an apical approach was adopted which was done with echocardiographic guidance and 60 mL of fluid was drained and sent to the lab for tests. The procedure was done by the attending cardiologist. There was no significant bleeding and a follow-up echo showed improvement in signs of tamponade and a draining catheter was secured in position.Fig. 1 INR trend before and after administration of activated prothrombin complex.
+
+INR: international normalized ratio, FFP: fresh frozen plasma, PCC: prothrombin complex concentrate.
+
+Fig. 1
+
+After pericardiocentesis by a short time, the patient's hemodynamics deteriorated again. At 21:20, the patient developed asystole cardiac arrest, and cardiopulmonary resuscitation started, but unfortunately, the patient didn’t regain spontaneous circulation. Death was declared at 21:59.
+
+3 Discussion
+
+Ischemic hepatitis occurs in septic shock, cardiac failure, or respiratory failure due to decreased systemic blood flow and hypo-perfusion [1]. Prolonged Prothrombin Time (PT) and elevated INR are often observed among patients with hepatic injury as the production of coagulation factors, including factors II, VII, IX, and X are decreased due to liver dysfunction, resulting in coagulopathy [2,3].
+
+Our patient had ischemic hepatitis induced coagulopathy, which was induced by cardiac tamponade (confirmed through echocardiography), and hence, he was planned for emergency pericardiocentesis given his current hemodynamic instability as per the latest European Society of Cardiology Guidelines for the diagnosis and management of pericardial diseases [5]. To perform the pericardiocentesis, the coagulopathy needs to be corrected as it is considered a relative contraindication to the procedure [6]. Moreover, the American Association for the Study of Liver Diseases guidelines for the management of acute liver failure recommends the correction of coagulopathy in hemorrhage or before an invasive procedure [7]. For that, the patient already received eight units of FFP over two days and one dose of vitamin K 10 mg intravenous; however, the patient’s INR did not normalize.
+
+Although FFP contains coagulation factors, inhibitors of coagulation, and fibrinolytic factors, FFP failed to reduce bleeding risk among patients with liver disease, and it is associated with volume overload, increased portal pressure, and transfusion-related reactions [8]. Alternatively, PCCs which contain four coagulation factors (II, VII, IX, X) and proteins C and S could be an option for this patient. To date, four forms of PCCs are available, and they vary in the VII clotting factor content and its activation status, and heparin existence, as shown in Table 3 below [[9], [10], [11], [12], [13]].Table 3 Characteristics of different PCC products.
+
+Table 3PCC Brand names	Activated	Factor II	Factor VII	Factor IX	Factor X	Heparin	
+Kcentra/Beriplex (Four-factor PCC)a	No	Yes	Yes	Yes	Yes	Yes	
+FEIBA	Yes	Yes	Yes (activated)	Yes	Yes	No	
+Bebulin (Three-factor PCC)b	No	Yes	Minimal	Yes	Yes	Yes	
+Profilnine (Three-factor PCC)b	No	Yes	Minimal	Yes	Yes	No	
+PCC: prothrombin complex concentrate.
+
+a Considered a four-factor PCC (4PCC) because of a significant amount of factor VII.
+
+b Considered as three factors because of limited amounts of factor VII.
+
+The available PCC at our hospital is FEIBA, which is an activated 4 factor PCC that is approved by FDA in 1986 for patients with Hemophilia A and B for bleeding control and prevention, including perioperative bleeding and routine prophylaxis [11]. FEIBA is the only PCC that has an activated factor VII; however, it is associated with an increased risk of thrombosis, and especially that it lacks heparin [9,11].
+
+The use of FEIBA among patients with ischemic hepatitis induced coagulopathy has not been evaluated yet; however, the use of Kcentra, which an inactivated 4 factor PCC that contains heparin, was recently evaluated among patients with liver disease in a small retrospective study [4]. The study included 81 patients, of whom 31 patients had documented liver disease, and only 4 patients had an acute liver injury, compared to 54 patients without liver disease. The baseline INR was 2.8 among patients with liver disease, and 2.6 among patients without liver disease. Correction of INR to less than 1.5 within 48 h of Kcentra administration was achieved in 6 patients (∼19%) in the liver disease arm compared to 44 patients (∼82%) in the second arm; p < 0.01. In our case, the administration of activated PCC was effective in reducing the INR from 2.3 to 1.9, which allowed us to perform this high-risk procedure successfully.
+
+4 Conclusion
+
+Given the need for urgent pericardiocentesis in view of hemodynamic instability, coagulopathy due to ischemic liver injury despite the use of vitamin K and FFP could to be corrected with the use of activated PCC.
+
+This manuscript was written in line with the SCARE 2020 Guideline [14].
+
+Conflicts of interest
+
+All authors report no conflict of interest.
+
+Funding
+
+This case report has no funds.
+
+Ethical approval
+
+This case report was approved by Hamad Medical Corporation Medical research center under number of: MRC-04-20-110.
+
+Consent
+
+Consent was accepted to be waived by Hamad Medical Corporation Medical Research Center (institutional review board), as the patient deceased, no available next of kin, and no patient images or videos were shared.
+
+Author contribution
+
+Hassan Mitwally: the conception and design of the study, acquisition of data, drafting the article, and approved the final manuscript.
+
+Ala Rahhal: drafting the article and approved the final manuscript.
+
+Amr Fahmi: the conception and design of the study, acquisition of data, drafting the article, and approved the final manuscript.
+
+Dore Ananthegowda: the conception and design of the study and approved the final manuscript.
+
+Registration of Research Studies
+
+Not applicable.
+
+Guarantor
+
+Hassan Abdallah I Mitwally.
+
+Provenance and peer review
+
+Not commissioned, externally peer-reviewed.
+
+Acknowledgements
+
+Open Access funding provided by the Qatar National Library.

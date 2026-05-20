@@ -1,0 +1,65 @@
+event,time
+85-year-old man,0
+transferred from geriatric medicine unit to rehabilitation unit,0
+intensive treatment for sequelae of C. tetani infection,0
+farmer,0
+active lifestyle,0
+atrial fibrillation,0
+benign prostatic hypertrophy,0
+trismus,-1344
+hypertonia,-1344
+C. tetani infection,-1344
+treatment with immunoglobulins,-1344
+tetanus vaccination,-1344
+metronidazole for ten days,-1344
+tracheostomy,-1344
+mechanical ventilation,-1344
+vasoactive support,-1344
+respiratory failure,-1344
+seizures,-1344
+treated with baclofen,-1344
+treated with midazolam,-1344
+treated with diazepam,-1344
+severely slow cerebral activity on EEG,-1344
+tracheal supplemental oxygen (1 L/min),0
+bladder catheter,0
+pressure ulcers on right heel (unstageable),0
+pressure ulcers on left heel (stage II),0
+pressure ulcers on sacrum (stage II),0
+pressure ulcers on right elbow (stage III),0
+sarcopenic,0
+low handgrip strength (9.9 kg),0
+low appendicular skeletal mass (16.9 kg),0
+oral vancomycin for 10 days,24
+transferred to cardiac ICU,72
+single-chamber pacemaker implantation,72
+Pseudomonas aeruginosa bloodstream infection,96
+treated with ceftazidime-avibactam,96
+treated with amikacin for 1 week,96
+treated with remdesivir for 3 days,96
+droplet isolation,96
+transferred to geriatric medicine unit,168
+treated with fidaxomicin for ten days,168
+fluconazole-resistant,384
+MSSA,384
+Candida tropicalis,384
+intravenous catheter infection,384
+replaced infected catheter,384
+treated with caspofungin,384
+treated with cefazolin for 17 days,384
+treated with piperacillin-tazobactam,528
+clinical condition improved,624
+nutritional supplementation,720
+malnutrition,720
+sarcopenia,720
+intensive rehabilitation compromised,720
+short physiotherapy sessions,720
+discharge,720
+postural transition with assistance,720
+motor reconditioning continued,720
+respiratory reconditioning continued,720
+wheelchair recommended,720
+walker recommended,720
+rehabilitation follow-up,720
+ENT follow-up,720
+geriatric follow-up,720

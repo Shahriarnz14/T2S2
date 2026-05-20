@@ -1,0 +1,72 @@
+event,time
+22-year-old male,0
+no underlying medical conditions,0
+5-year history of smoking,0
+smoking 20 cigarettes per day,0
+exposed to live poultry,-48
+high fever (40 ℃),0
+chills,0
+visit to local hospital,0
+ibuprofen,0
+azithromycin,0
+symptoms progressed,0
+visit to emergency department,72
+admitted to ICU,72
+lymphopenia,72
+thrombocytopenia,72
+normal white blood cell count,72
+normal PaO2/FiO2,72
+patchy shadows in right lung,72
+consolidation in right lung,72
+progression to both lungs,120
+meropenem,72
+moxifloxacin,72
+throat swab sample obtained,120
+oseltamivir 75 mg twice a day,120
+PaO2/FiO2 declined to 84,144
+elevated aspartate aminotransferase,144
+elevated alanine aminotransferase,144
+elevated lactate dehydrogenase,144
+elevated creatine kinase,144
+elevated myoglobin,144
+septic shock,144
+SOFA score increased to 10,144
+H5N6 virus identified,144
+invasive mechanical ventilation,144
+low tidal volume ventilation,144
+open lung ventilation strategy,144
+BALF galactomannan >5 µg/mL,144
+oseltamivir increased to 150 mg twice a day,144
+peramivir,144
+amphotericin B,144
+low-dose corticosteroid (20 mg/day),144
+mediastinal emphysema,168
+subcutaneous emphysema,168
+CT progression of lung consolidation,240
+VV ECMO initiated,240
+high tracheal aspirate viral titer (2.6×108 copies/mL),288
+sirolimus 2 mg/day,288
+decreased viral titers,288
+H5N6 undetectable in throat swab,384
+H5N6 undetectable in tracheal aspirate,600
+improved clinical condition,384
+PaO2/FiO2 increased to 278,600
+SOFA score decreased to 3,600
+increased white blood cell count,384
+decreased aspartate aminotransferase,384
+decreased alanine aminotransferase,384
+decreased lactate dehydrogenase,384
+decreased creatine kinase,384
+decreased myoglobin,384
+ECMO stopped,528
+endotracheal tube removed,600
+sirolimus discontinued,600
+NAIs discontinued,600
+antibiotics discontinued,600
+resolution of bilateral lung infiltrations,672
+resolution of mediastinal emphysema,672
+resolution of subcutaneous emphysema,672
+discharged,1560
+bilateral interstitial changes,17520
+normal ventilation,17520
+slightly decreased diffusion efficiency,17520

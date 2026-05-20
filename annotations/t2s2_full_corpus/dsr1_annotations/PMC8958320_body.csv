@@ -1,0 +1,80 @@
+event,time
+11-year-old,0
+female,0
+febrile illness,-48
+abdominal pain,-48
+vomiting,-48
+focal to bilateral tonic-clonic seizures,0
+status epilepticus,0
+refractory SE,0
+transferred to ICU,0
+sedated,0
+intubated,0
+mechanically ventilated,0
+slow background on EEG,48
+extreme delta brushes on EEG,48
+hyperproteinorrachy,0
+rhinovirus DNA detected,0
+continuous convulsive seizures,552
+focal clonic jerks of right hemibody,552
+bilateral clonic jerking,552
+continuous EEG monitoring,432
+seizure burden peaked,624
+epileptiform EEG activity,624
+focal to bilateral tonic-clonic seizures >90% recording time,624
+left occipital region seizure onset,624
+temporal left seizure onset,624
+central left seizure onset,624
+occipital right seizure onset,624
+T2-FLAIR bilateral hyperintensity of claustra,168
+T2-FLAIR hyperintensity left cuneus,816
+midazolam failure,0
+thiopental failure,0
+propofol failure,0
+ketamine failure,0
+topiramate failure,0
+cannabidiol failure,0
+valproate failure,0
+ospolot failure,0
+phenobarbital failure,0
+phenytoin failure,0
+lacosamide failure,0
+brivaracetam failure,0
+methylprednisone failure,0
+IgIV failure,0
+plasmapheresis failure,0
+elevated IL-6,0
+elevated IL-8,0
+elevated IL-10,0
+elevated IP10,0
+elevated MCP-1,0
+elevated MIP1a,0
+elevated IL1RA (5327 pg/ml),0
+ketogenic diet started,768
+ketonemia >2.5 mmol/L,912
+anakinra 200 mg/day started,816
+anakinra increased to 400 mg/day,960
+seizures reduced by 50%,864
+seizures stopped,1104
+discharged from ICU,1152
+anakinra stopped,1344
+candida albicans sepsis,1344
+hourly focal seizures,1344
+continuous IV midazolam,1344
+subtle focal seizures with eye deviation to right,1344
+midazolam stopped,2160
+regained awareness,2160
+focal seizures less frequent,2160
+transferred to rehabilitation,3288
+seizure relapse during gastroenteritis,5208
+IV midazolam controlled seizures,5208
+discharged home,6480
+lacosamide 400 mg/day,6480
+phenobarbital 100 mg/day,6480
+clobazam 25 mg/day,6480
+no clinical seizures at 13 months,93600
+no motor disability,93600
+moderate intellectual disability,93600
+low carbohydrate diet,93600
+normal EEG at 8 months,56160
+mild cortical atrophy on MRI,93600

@@ -1,0 +1,139 @@
+pmc Core Tip: We analyzed a case of severe methicillin-resistant Staphylococcus aureus (MRSA) bacteremia who failed to respond to first line treatment using vancomycin. We believe that our study makes a significant contribution to the literature because it indicates that daptomycin combined with linezolid is an effective remedy for bacteremia caused by MRSA with pulmonary complications.
+
+INTRODUCTION
+
+Vancomycin is the first-line treatment drug as per the treatment guidelines for methicillin-resistant Staphylococcus aureus (MRSA) infections. However, daptomycin is considered to be at least as effective as vancomycin in treating MRSA bacteremia, and a high dose of daptomycin is recommended in combination with another drug (including gentamicin, rifampicin, or linezolid) as a salvage treatment plan for persistent MRSA bacteremia when vancomycin fails. In general, the basic principles of using combination therapy involve a wide antibacterial spectrum, synergistic effect, and low risk of development of drug-resistant strains[1]. Daptomycin is a cyclic lipopeptide antibacterial agent produced by Streptomyces roseosporus. This agent targets the bacterial cell membrane through calcium-dependent pathways, disrupting electrical potential, altering cell membrane permeability, opening ion channels, and eventually causing cell death[2]. The drug has been approved by the U.S. Food and Drug Administration for adult patients with MRSA infections, including MRSA blood flow infections, right-sided infective endocarditis, and complicated skin and soft tissue infections[3]. Several studies have shown that daptomycin exhibits very good efficacy against bacteremia caused by MRSA, even when the minimum inhibitory concentration (MIC) of vancomycin is high[4]. In general, the use of 6 mg/kg daptomycin is recommended each day for bacteremia caused by MRSA[2]. However, several studies have shown that up to 8 mg/kg daptomycin each day is required for patients with refractory MRSA infections[5,6]. In such clinical situations, the combination of daptomycin and other synergistic antibacterial agents may serve as an effective therapeutic strategy. In this report, a case of severe MRSA bacteremia observed in the clinical setting was analyzed to provide a reference for clinical treatment.
+
+CASE PRESENTATION
+
+Chief complaints
+
+The patient (male, aged 24 years, height 175 cm, weight 72 kg, Han nationality, unmarried) was admitted to our hospital for bilateral lumbago without obvious inducement and fever accompanied by hematuria for 14 d. He complained of reduced urine volume and gross hematuria at the end of urination.
+
+History of present illness
+
+He visited another hospital, but experienced not significant pain relief, before visiting our hospital for treatment.
+
+History of past illness
+
+The patient did not have any past medical history.
+
+Personal and family history
+
+The patient did not have any personal and family history.
+
+Physical examination
+
+The highest body temperature was recorded to be 37.7 °C.
+
+Laboratory examinations
+
+Laboratory examination results upon admission were the following: white blood cell (WBC), 42.08 × 109/L; neutrophil count (NEUT %), 0.89; C-reactive protein (CRP), 271.42 mg/L; procalcitonin (PCT), 46.97 ng/mL; creatinine, 199 μmol/L; Na, 123 mmol/L; alanine aminotransferase, 63 U/L; aspartate transaminase, 96 U/L; and total bilirubin, 177.3 μmol/L. Abscess drainage culture was positive, but blood culture was negative for MRSA [Sensitive to vancomycin (MIC 0.5 μg/mL), teicoplanin, linezolid, and daptomycin; Table 1].
+
+Table 1 Antimicrobial-susceptibility of the isolated strain on May 30th and June 7th
+
+Antibiotics	MIC (mg/mL)	MIC categories	
+Pre-test	Post-test	Pre-test	Post-test	
+Penicillin G	≥ 0.5	≥ 0.5	R	R	
+Oxacillin	≥ 4	≥ 4	R	R	
+Gentamicin	≤ 0.5	≤ 0.5	S	S	
+Levofloxacin	0.5	0.5	S	S	
+Erythromycin	≥ 8	≥ 8	R	R	
+Clindamycin	≥ 4	≥ 4	R	R	
+Linezolid	2	2	S	S	
+Teicoplanin	≤ 0.5	≤ 0.5	S	S	
+Vancomycin	≤ 0.5	1	S	S	
+Tigecycline	≤ 0.12	≤ 0.12	S	S	
+Main treatment course and monitoring. MIC: Minimal inhibitory concentration; R: Resistance; S: Susceptible.
+
+Imaging examinations
+
+The chest, abdominal, and pelvic computed tomography (CT) scans revealed the following: multiple lesions in the left psoas major, iliopsoas, iliacus, and piriformis, suggesting the possibility of inflammation and abscess formation accompanied by a small amount of local pneumatosis; multiple calculi in the left kidney; a calculus in the left upper ureter; and mild dilation and effusion in the left renal pelvis, calyx, and upper ureter.
+
+Further diagnostic work-up
+
+He was admitted to the emergency department (observation area) of our hospital on May 27, 2020, where treatment with vancomycin (1 g every 12 h) was initiated. His condition did not significantly improve after active anti-infective treatment (vancomycin 1 g every 12 h), percutaneous catheter drainage from the psoas major and gluteus maximus, and other treatments. CT re-examination on June 2, 2020 showed that the abscess in the psoas major was similar to that reported in the previous scan (Figure 1). Bilateral pleural effusion had further progressed. Re-examination on June 3, 2020 revealed the following: WBC, 23.59 × 109/L; NEUT %, 0.902; CRP, 113.2 mg/L; creatinine, 176 μmol/L; Na, 126 mmol/L; PCT, 2.57 ng/mL. The patient was transferred to the intensive care unit (ICU) on June 3, 2020.
+
+Figure 1 Chest, abdominal, and pelvic computed tomography scans. A: May 27, 2020 computed tomography (CT) scan; B: June 2, 2020 CT scan.
+
+Conditions upon transfer to the ICU on 3 June 2020 were as follows: fever, temperature of 37.9 °C; shortness of breath, respiratory rate 33 bpm; stable circulation; and fast heart rate, 116 bpm. As the patient had multiple renal calculi accompanied by ureteral calculi, indwelling urinary catheter, and a complicated urinary tract infection, common pathogenic bacteria of urinary tract infections, including Enterobacteriaceae bacteria such as Escherichia coli, were assumed to be present. Thus, imipenem and cilastatin sodium (1 g every 8 h) was added to the treatment regimen to treat the urinary tract infection upon transfer to the ICU. The dose of vancomycin was maintained, and blood was drawn to measure the trough concentration.
+
+Pathogenic metagenomics testing on June 4, 2020 revealed Streptomyces aureus presence both in the blood and the right gluteus maximus drainage fluid. Culture of the drained pus continued to show presence of MRSA [sensitive to vancomycin (MIC 1.5 μg/mL, an increase from that of earlier), teicoplanin, linezolid, and daptomycin]. The patient had persistent hyperpyrexia on June 5, 2020, with the highest temperature of 38.9 °C (the duration with a temperature above 38 °C was 13 h). The anterior side of the left leg was red and swollen. Flowing liquid was observed under B-ultrasonography, indicating a new abscess. CT scans of the thighs and lungs also revealed new infectious lesions (Figure 2). The decreases in inflammation indicators were not significant (CRP, 139.62 mg/L; WBC, 26.86 × 109/L; NEUT %, 0.883).
+
+Figure 2 Computed tomography scan and anterior side of the left leg. A: June 10, 2020 chest, abdominal, and pelvic computed tomography scan; B: June 10, 2020 anterior side of the left leg.
+
+FINAL DIAGNOSIS
+
+Psoas abscess, sepsis (MRSA bacteremia), kidney calculi with ureteral calculi, skin and soft tissue infection.
+
+TREATMENT
+
+The trough concentration of vancomycin was 35.18 μg/mL. Although the trough concentration of vancomycin reached the target, infection control was poor. Following these results, the patient was switched from vancomycin to daptomycin (0.5 g daily). At the same time, slight high-density patchy shadows were found in the lower lobes of both lungs; thus, the spread of the infection to the lungs through blood circulation could not be ruled out. Therefore, linezolid was added to treat the possible MRSA infection in the lungs (Figure 3).
+
+Figure 3 Clinical course during the intensive care unit stay. Although vancomycin (VAN) had been administered for the control of methicillin-resistant Staphylococcus aureus blood flow infection, the poor efficacy of the drug led us to switch treatment from VAN to daptomycin combined with linezolid on the 4th day. Imipenem 1 g q8h, June 3–June 8; cefoperazone sulbactam 3 g q8h, June 9-June 16; daptomycin 0.5 g daily, June 5–June 23; and linezolid 0.6 g every 12 h, June 5-July 3. SCF: Cefoperazone sulbactam; VAN: Vancomycin; DAP: Daptomycin; LZD: Linezolid; WBC: White blood cell; BT: Body temperature.
+
+OUTCOME AND FOLLOW-UP
+
+The patient also had a ureteral obstruction, and ultrasound-guided catheter drainage from the left renal pelvis performed on June 5, 2020. On June 6, 2020, fever persisted, but the peak temperature was lower than that observed earlier, with the highest temperature of 38.8 °C (the duration with a temperature above 38 °C was 10 h). The duration of fever was shorter and the values of infection indicators were lower (CRP, 79.86 mg/L; WBC, 19.17 × 10 9/L; NEUT %, 0.841; PCT, 0.61 ng/mL) than those earlier. On June 13, 2020, the patient had stable respiration and circulation, shorter fever duration (the duration with a temperature above 38 °C was 8 h), and decreased levels of infection indicators than those earlier, suggesting that the infection was controlled. Therefore, the patient was transferred back to the general ward for further treatment.
+
+After the transfer to the general ward, the combination of daptomycin (0.5 g daily, June 5–June 23) and linezolid (0.6 g every 12 h, June 5–July 3) was continued to be administered as anti-infection treatment, while imipenem and cilastatin sodium were de-escalated to cefoperazone sodium and sulbactam sodium to combat gram-negative bacteria infection (Figure 3). On June 15, 2020, the culture of the patient drainage was tested negative and no fever was reported. On June 29, 2020, the levels of PCT, WBC, CRP, and NEUT % were 0.21 ng/mL, 10.36 × 109/L, 35.56 mg/L, and 0.706, respectively, and no fever was recorded. On July 3, 2020, the patient was in stable condition without fever. Considering the left nephrostomy of the patient and the amelioration of urinary obstruction, the department of urology suggested to maintain the left nephrostomy tube unobstructed, which could be treated after the complete recovery of the patient. Therefore, the patient was discharged on July 3, 2020.
+
+DISCUSSION
+
+Initial treatment plan selection for the psoas abscess and analysis of the reasons for treatment failure
+
+According to the 2014 Infectious Diseases Society of America Practice Guidelines for the Diagnosis and Management of Skin and Soft-Tissue Infections (SSTIs)[7], the infection of the patient belonged to the category of severe purulent SSTIs, which was treated by incision and drainage of a small volume of fluid. During hospitalization, multiple drainage fluid cultures and next-generation sequencing (blood and drainage fluid samples) indicated MRSA (sensitive to vancomycin MIC 0.5 μg/mL) infection, consistent with the fact that Streptomyces aureus is a common pathogen of skin and soft tissue infections. The patient was administered vancomycin (1 g every 12 h) after admission. The levels of infection indicators decreased, but high fever persisted. CT re-examination showed that the abscess was similar to that observed before. As the creatinine level was 176 μmol/L and creatinine clearance rate was 56.4 mL/min, the condition was mild renal insufficiency; hence, it was not necessary to reduce the vancomycin dose of 0.5 g every 8 h (loading dose 1 g). Although the trough concentration of vancomycin on June 5, 2020 was 35.18 μg/mL, the infection continued to spread further from the original site in the psoas major to the thighs, legs, and lungs.
+
+There might have been two reasons for the spread of the infection. First, the MIC value of vancomycin increased; the initial MIC value was 0.5 μg/mL, which increased to 1.5 μg/mL on June 5, 2020, suggesting that the sensitivity to vancomycin decreased. For a long time, vancomycin has been used as the gold standard for the treatment of MRSA infections, but there have been clinical reports on strains with MIC values of 1–2 μg/mL where the underlying infections were associated with treatment failure[8]. According to the latest guidelines on vancomycin in 2020[9], both in vitro and in vivo experiments of vancomycin have shown that the ratio of 24 h area under the concentration-time curve to MIC (AUC/MIC) can effectively predict the efficacy of vancomycin in Streptomyces aureus infection. A study[10] simulated the efficacy of vancomycin in Streptomyces aureus infection under different MIC values using a single-compartment pharmacokinetic model and Monte Carlo simulation by including intensive care unit patients; this study concluded that, at an MIC of 1 μg/mL, the daily dose of vancomycin should be at least 3–4 g to achieve a 90% probability of target attainment. According to a systematic review and meta-analysis[11], a high vanco-mycin MIC of ≥ 1.5 μg/mL is related to mortality, and it is difficult to achieve a target AUC/MIC of ≥ 400, especially in MRSA bacteremia once the MIC rises beyond a certain value. This also explains why the clinical efficacy in this case was unsatisfactory when the trough concentration of vancomycin reached the target; it was possibly owing to the AUC/MIC failing to reach the target value with the increase in the MIC value of vancomycin. Second, the tissue penetration was poor. Vancomycin is a water-soluble drug with a small volume of distribution value of 0.4–1 L/kg, and its binding rate to plasma albumin is 10%–50%. As this patient had skin and soft tissue infection, the vancomycin concentration in the skin and soft tissues may have been insufficient.
+
+Selection of treatment schemes for MRSA bloodstream infections after vancomycin treatment failure
+
+Under normal circumstances, infections caused by drug-resistant gram-positive cocci can be treated with monotherapies, as drug combinations may increase the incidence of adverse drug reactions and treatment costs. Hence, it is necessary to strictly grasp the indications and avoid misuse of the drug. The best treatment strategy for severe MRSA infections has not yet been determined. The 2011 Clinical Practice Guidelines by the Infectious Diseases Society of America for the Treatment of Methicillin-resistant Staphylococcus aureus Infections in Adults and Children[3] propose that MRSA bloodstream infections that cannot be effectively controlled with a single antibacterial agent should be treated with drug combinations. A high dose of daptomycin combined with other drugs (e.g., gentamicin, rifampicin, linezolid, compound sulfamethoxazole tablets, or anti-Staphylococcus β-lactam antibiotics) can be chosen for combination treatment. Another novel aminomethylcycline antibiotic Omadacycline has a potential role in the treatment of patients with acute bacterial skin and skin structure infections (ABSSSI) caused by Gram-positive (including MRSA), and as the 2 randomized, controlled studies show Omadacycline had high efficacy and acceptable safety, similar to that of linezolid, in the treatment of ABSSSI caused by gram-positive pathogens, including MRSA[12,13].
+
+Glycopeptide monotherapies have many shortcomings, including poor tissue permeability, slow bactericidal action, and the emergence of drug-resistant strains[14]. Daptomycin, which has a rapid bactericidal effect on MRSA, may be an ideal treatment option[5]. However, daptomycin needs to be administered at a high dose in patients with high MIC[15], and the prognosis is poor[16]. Linezolid is the first marketed synthesized oxazolidinone that can inhibit protein synthesis by affecting the 50S subunit of the bacterial ribosome[6]. In addition, a number of in vitro and in vivo studies as well as case reports have shown the efficacy of daptomycin combined with linezolid. Parra-Ruiz et al[17] reported that linezolid fails to achieve bactericidal activity against MRSA for planktonic bacteria (PB) or biofilm-embedded bacteria (BB) within 72 h in pharmacokinetic/pharmacodynamic biofilm models in vitro. The sustained bactericidal activity of daptomycin on PB was achieved within 48 h, whereas neither daptomycin nor linezolid exerted bactericidal effects on BB. In contrast, when linezolid was used in combination with daptomycin, the bactericidal effect was significantly increased. The combination showed bactericidal activity against PB and BB in 48 h. Therefore, the daptomycin and linezolid combination therapy is more effective than monotherapy using either of them[17]. Similar results were observed using a simulated endocardial neoplasm model[18]. Two recent studies have reported the same result through an in vitro combined drug sensitivity test[19,20]; the synergistic effect was 66%-77% for daptomycin combined with linezolid against MRSA, with no antagonistic effect. We conducted a literature search in PubMed in an attempt to identify all published cases reporting on the efficacy of linezolid and daptomycin combination for MRSA infection. Three cases published in the literature previously were eventually summarized in Table 2. A case report on the effectiveness of this treatment scheme reported, for the first time, a case involving a 62-year-old patient with MRSA bacteremia and MRSA meningitis[21]. Initially, he was administered daptomycin and linezolid because of his allergy to vancomycin. However, the persistent MRSA bacteremia led to the addition of rifampin because of its anti-MRSA activity and its ability to pass through the blood-brain barrier. Finally, his blood cultures were negative after 10 d of admission. In addition, linezolid combined with daptomycin can be used to treat endocarditis caused by MRSA[22]; this was a case of a 26-year-old patient with endocarditis caused by MRSA complicated by pneumonia. The patient was initially treated with vancomycin combined with gentamicin, but vancomycin was switched to daptomycin (8 mg/kg) because of acute renal injury, and linezolid (600 mg every 12 h) was used to treat the MRSA in the lungs. Thirteen days after switching to daptomycin and linezolid, the MRSA bacteremia test results were negative. Another case very similar to the previous one involved a 36-year-old young female with infective endocarditis complicated by a septic pulmonary embolism who had a history of MRSA bacteremia infection that had occurred a year before this infection[23]. The initial treatment plan for this patient was also vancomycin, but the sensitivity to vancomycin decreased on the fourth day of treatment (MIC 2 μg/mL); hence, the treatment was adjusted with linezolid (600 mg every 12 h) and daptomycin (8 mg/kg), and the blood culture result turned negative after 13 d. In this present case, vancomycin was selected as the initial treatment drug. After 9 d of vancomycin treatment, the drain culture continued to be positive, and CT re-examination revealed progression of the abscess. Therefore, the combined treatment of daptomycin and linezolid was started. The peak temperature significantly decreased after the second day, and the drain culture turned negative after 11 d without fever. One month later, the patient was stable and was discharged. These combination therapies may be considered, along with daptomycin and linezolid, following vancomycin treatment failure depending on patient-specific risk factors and hospital formulary constraints. Since combination antimicrobial regimens are not always supported by conclusive trials, further studies are needed to confirm the efficacy of specific combination strategies. These combination therapies may be considered, along with daptomycin and linezolid, following vancomycin treatment failure depending on patient-specific risk factors. Further studies are needed to fully understand the mechanisms of the possible synergistic effects between daptomycin and linezolid.
+
+Table 2 Clinical factors, treatment details, and outcomes among 3 patients treated with Daptomycin and linezolid for methicillin-resistant Staphylococcus aureus bacteremia and complication.
+
+Patients	Ref.	Reason for Daptomycin/linezolid use	Host factors	Complication	Prior antimicrobialtherapy	Other active antimicrobials available	Daptomycin/linezolid dose; duration	MIC (mg/mL)	Outcome, follow-up duration	
+1	Kelesidis et al[21], 2011	Allergy	62 y/o with placement of the coatrial andlumboperitoneal shunts	Meningitis	Daptomycin	Vancomycin	Daptomycin (NS); linezolid (600 mg twice daily); 4 d	Daptomycin (≤ 0.5 μg /mL), vancomycin (1 μg /mL), linezolid (4 μg/mL), rifampin (0.06 μg/mL)	Clinical cure, NS	
+2	Yazaki et al[22], 2018	Allergy, acute kidney injury	26 y/o woman with surgical closure of ventricular septal defect	Septic pulmonary embolism	Levofloxacin, meropenem, azithromycin, vancomycin, rifampicin, gentamicin	None	Daptomycin (8 mg/kg q48h), linezolid (600 mg q12h); 6 wk	Vancomycin (1 μg/mL), Linezolid (2 μg/mL), Daptomycin (1 μg/mL)	Clinical cure, 2 mo	
+3	Galanter et al[23], 2019	Vancomycin resistance, worsening of septic emboli in both lungs, blood cultures remained positive for MRSA	26 y/o woman with native tricuspid value endocarditis	Suspected septic embolism	Vancomycin, daptomycin, gentamicin	None	Daptomycin (8 mg/kg iv daily), linezolid (600 mg iv twice daily), 15 d	Daptomycin 1 μg/mL; daptomycin MIC 4 μg/mL (on the 15th day)	Clinical cure, 6 wk	
+y/o: Year old; NS: Not specified; MRSA: Methicillin-resistant Staphylococcus aureus; MIC: Minimum inhibitory concentration.
+
+CONCLUSION
+
+In conclusion, we report a case of an abscess in the major psoas muscle complicated with pulmonary infection caused by MRSA that was successfully treated with a combination of daptomycin and linezolid. Our experience shows that the combination therapy of daptomycin and linezolid, instead of vancomycin, is an effective alternative therapy for refractory MRSA bacteremia.
+
+Informed consent statement: We obtained written informed consent from the patient, according to the rules of the Clinical Research Ethics Committee of the First Affiliated Hospital of Sun Yat-Sen University.
+
+Conflict-of-interest statement: The authors declare that they have no competing interests.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Provenance and peer review: Unsolicited article; Externally peer reviewed.
+
+Peer-review model: Single blind
+
+Peer-review started: August 31, 2021
+
+First decision: November 17, 2021
+
+Article in press: January 27, 2022
+
+Specialty type: Infectious Diseases
+
+Country/Territory of origin: China
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): B
+
+Grade C (Good): C
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Apiratwarakul K, Surani S S-Editor: Wang JL L-Editor: A P-Editor: Wang JL

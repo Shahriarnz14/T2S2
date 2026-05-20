@@ -1,0 +1,65 @@
+event,time
+69-year-old woman,0
+nonischemic dilated cardiomyopathy,0
+left ventricular ejection fraction 35%,0
+guideline-directed medical therapy,0
+cardiac resynchronization therapy,0
+fever,-168
+chills,-168
+diarrhea,-168
+worsening dyspnea,-168
+signs of shock,0
+symptoms of shock,0
+end-organ hypoperfusion,0
+negative SARS CoV-2 polymerase chain reaction,0
+elevated Coxsackie B virus titer 1:320,0
+transthoracic echocardiogram LVEF 20%,0
+severe right ventricular dysfunction,0
+severe mitral regurgitation,0
+right heart catheterization,0
+right atrial pressure 6 mm Hg,0
+RV pressure 32/9 mm Hg,0
+pulmonary artery pressure 30/20/25 mm Hg,0
+pulmonary capillary wedge pressure 22 mm Hg,0
+V waves 30 mm Hg,0
+left ventricular end diastolic pressure 32 mm Hg,0
+cardiac output 3.3 L/min,0
+cardiac index 1.95 L/min/m2,0
+electrocardiogram low voltage,0
+ventricular paced rhythm,0
+coronary angiogram nonobstructive coronary artery disease,0
+endomyocardial biopsy,288
+empiric high-dose steroids,288
+1 g methylprednisolone,288
+axillary LV-aortic microaxial pump,336
+acute kidney injury,336
+acute liver injury,336
+incessant ventricular tachycardia/fibrillation,336
+intravenous lidocaine,336
+intravenous amiodarone,336
+intravenous procainamide,336
+venoarterial-ECMO,336
+RA pressure 11 mm Hg,336
+PA pressure 22/18/19 mm Hg,336
+pulmonary capillary wedge pressure 20 mm Hg,336
+mixed venous saturation 78%,336
+ECMO flow 4 L,336
+LV-aortic pump flow 1.4 L,336
+PA outflow cannula,360
+refractory arrhythmias,360
+multiorgan system dysfunction,360
+surgical temporary biventricular assist device,360
+oxygenator,360
+RA drainage cannula,360
+LV apex drainage cannula,360
+ascending aorta reinfusion cannula,360
+urgent listing for OHT,432
+orthotopic heart transplantation,480
+dobutamine 10 μg/kg/min,480
+norepinephrine 2 μg/min,480
+inhaled nitric oxide 20 ppm,480
+vasopressors weaned,504
+inotropes weaned,504
+inhaled nitric oxide weaned,504
+extubated,528
+pathological examination GCM,528

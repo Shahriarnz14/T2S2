@@ -1,0 +1,79 @@
+event,time
+33 years old,0
+male,0
+renal transplant recipient,0
+admitted to the hospital,0
+severe upper abdominal pain,-72
+upper abdominal pain radiating towards back,-72
+parent-to-child kidney transplantation,-4320
+end-stage renal disease,-4320
+"immunosuppressive therapy with methylprednisolone, tacrolimus, and mycophenolate mofetil",-4320
+methylprednisolone,-4320
+tacrolimus,-4320
+mycophenolate mofetil,-4320
+abdominal computed tomography normal,-72
+abdominal ultrasonography normal,-72
+analgesic treatment,-72
+aspartate aminotransferase increased,-72
+alanine aminotransferase increased,-72
+nausea,0
+upper abdominal pain,0
+acute abdominal pain,0
+liver damage,0
+flurbiprofen tapes,0
+intravenous magnesium isoglycyrrhizinate,0
+empirical antimicrobial therapy with cefoperazone sodium and sulbactam sodium,0
+septic shock,24
+multiple organ dysfunction syndrome,24
+liver dysfunction,24
+acute kidney injury,24
+transferred to ICU,48
+lethargic,0
+heart rate 136 beats/min,0
+respiratory rate 23 breaths/min,0
+blood pressure 83/42 mmHg,0
+body temperature 36.8 °C,0
+upper abdominal tenderness,0
+no muscle guarding,0
+no rebound tenderness,0
+high ALT,0
+high AST,0
+high alkaline phosphatase,0
+high gamma-glutamyltransferase,0
+high C-reactive protein,0
+high procalcitonin,0
+high creatinine,0
+prolonged activated partial thromboplastin time,0
+prolonged thrombin time,0
+low fibrinogen,0
+"serological tests negative for hepatitis A, B, C, HIV, treponema pallidum",0
+positive hepatitis B surface and core antibodies,0
+"IgM antibodies negative for toxoplasma, rubella virus, cytomegalovirus, herpes simplex virus 2",0
+blood culture negative,0
+Epstein-Barr virus DNA PCR negative,0
+"abdominal ultrasonography normal pancreas, spleen, gallbladder",0
+common bile duct normal,0
+no ascites,0
+no abnormal fluid collection,0
+no focal liver lesions,0
+abdominal and pelvic CT normal,0
+chest X-ray normal,0
+electrocardiogram normal,0
+VZV IgG-negative,0
+next-generation sequencing detected VZV,0
+real-time PCR positive for VZV,0
+visceral disseminated VZV infection,0
+septic shock,24
+MODS with liver dysfunction and acute kidney injury,24
+intravenous acyclovir,48
+meropenem,48
+linezolid,48
+caspofungin,48
+noradrenaline,48
+terlipressin,48
+intravenous sodium bicarbonate,48
+acute liver failure,64
+disseminated intravascular coagulation,64
+acute respiratory failure,64
+acute renal injury,64
+died,64

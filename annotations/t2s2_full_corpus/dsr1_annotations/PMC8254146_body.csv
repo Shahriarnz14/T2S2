@@ -1,0 +1,84 @@
+event,time
+63 years old,0
+male,0
+admitted with sepsis secondary to acute cholecystitis,0
+past medical history of recurrent abdominal adhesions,0
+multiple surgeries,0
+Abcarian stoma,0
+mucus fistula,0
+abdominal pain,-24
+fever,-24
+body temperature 36.8°C,0
+blood pressure 109/54 mmHg,0
+pulse rate 109 beats/min,0
+respiratory rate 18 breaths/min,0
+coarse breathing sounds,0
+regular heartbeats,0
+no audible murmur,0
+abdomen soft,0
+tenderness in right upper quadrant,0
+positive Murphy sign,0
+no palpable mass,0
+no hepatosplenomegaly,0
+mild anemia,0
+hemoglobin 10.6 g/dl,0
+neutrophilic leukocytosis,0
+"white blood cell count 28,000/ml",0
+C-reactive protein 100 mg/L,0
+troponin I 48 ng/L,0
+creatinine 176 umol/L,0
+urea 19 mmol/L,0
+normal electrolytes,0
+normal liver function tests,0
+normal serology,0
+normal urinalysis,0
+unremarkable chest X-ray,0
+normal initial ECG,0
+thick gallbladder wall >3mm,0
+pericholecystic fluid,0
+sludge,0
+cholelithiasis,0
+started on antibiotics,0
+supportive measures,0
+highly febrile,24
+hypotensive,24
+ICU admission,24
+inotropic support,24
+retrosternal chest pain,48
+profuse sweating,48
+ST-segment elevation V2–V4,48
+troponin-T 781 ng/L,48
+emergent coronary angiography,48
+nonobstructive CAD,48
+dilated left ventricular cavity,48
+apical dyskinesis,48
+preserved basal to midseptal contraction,48
+preserved basal-lateral wall contraction,48
+left ejection fraction 25%,48
+sepsis-induced TCM diagnosis,48
+antibiotics continued,48
+conservative therapies,48
+discharged,240
+repeated echocardiogram 4 weeks later,672
+ejection fraction >55%,672
+no recent viral illness,0
+no history of palpitations,0
+no excessive diaphoresis,0
+normotensive,0
+no recent heart trauma,0
+no intracranial bleeding,0
+no pheochromocytoma,0
+no myocarditis,0
+no hypertrophic cardiomyopathy,0
+treated as ACS initially,48
+acetylsalicylic acid,48
+clopidogrel,48
+heparin,48
+beta-blocker,48
+ACE-inhibitor,48
+antiplatelet therapy withdrawn,48
+monitored for complications,48
+intravenous hydration,48
+noradrenaline infusion,48
+empiric antibiotics,48
+uneventful hospital stay,240

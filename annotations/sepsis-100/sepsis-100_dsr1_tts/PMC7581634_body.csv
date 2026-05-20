@@ -1,0 +1,55 @@
+event,time
+79-year-old man,0
+hypertension,0
+ischemic heart disease,0
+severe symptomatic aortic stenosis,0
+scheduled for elective TAVR,0
+coronary artery bypass graft surgery,-96000
+mitral valve repair,-96000
+preprocedural transthoracic echocardiography,-24
+aortic valve area 0.6 cm²,-24
+transvalvular maximal gradient 61 mm Hg,-24
+transvalvular mean gradient 33 mm Hg,-24
+left ventricular ejection fraction 45%,-24
+right transcarotid approach,0
+fluoroscopic guidance,0
+transesophageal echocardiographic guidance,0
+induction of general anesthesia,0
+TEE probe placement,0
+SAPIEN 3 valve deployment,1
+postprocedural TEE,1
+prosthesis in good position,1
+no paravalvular leak,1
+no trauma during probe insertion/removal,1
+blood-tinged secretions via orogastric tube,1
+extubated,1
+transferred to ICU,1
+chest pain,3
+shivering,3
+"computed tomography of neck, thorax, abdomen",3
+pneumomediastinum,3
+right hydropneumothorax,3
+esophageal perforation suspected,3
+right thoracic drain insertion,3
+300 mL serosanguinous liquid drained,3
+esophagogastroscopy,3
+4-cm vertical esophageal perforation,3
+right thoracotomy,10
+esophageal perforation repair,10
+lysis of pleural adhesions,10
+esophageal laceration at azygous vein,10
+vertebral osteophyte visualized,10
+primary closure of esophageal wall,10
+intercostal muscular flap,10
+three thoracic drains placed,10
+pneumonia,24
+severe delirium,24
+congestive heart failure,24
+pulmonary edema,24
+optimal treatment for 1 month,720
+withdrawal of care,720
+death,720
+no dysphagia,0
+no odynophagia,0
+prominent anterior thoracic osteophytes,0
+anatomic proximity of osteophytes to esophagus,0

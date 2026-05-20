@@ -1,0 +1,56 @@
+event,time
+33 years old,0
+female,0
+admitted to the hospital,0
+papillary thyroid carcinoma,0
+epilepsy,0
+laparoscopic distal gastrectomy,-17520
+stomach cancer,-17520
+left hemithyroidectomy,0
+left central compartment neck node dissection,0
+fever,24
+pain at surgical site,24
+intravenous antipyretics,24
+nausea,30
+tachycardia,30
+high fever (over 38°C),43.5
+hypotension,43.5
+septic shock,43.5
+admitted to surgical ICU,43.5
+"empirical antibiotics (carbapenem, vancomycin)",43.5
+massive hydration,43.5
+vasopressors,43.5
+neck CT scan,43.5
+chest CT scan,43.5
+abdomen CT scan,43.5
+deep neck emphysema,43.5
+focal pneumomediastinum,43.5
+infiltration in anterior neck,43.5
+mediastinum abscess formation,43.5
+exploration of infected site,43.5
+edematous changes in surgical field,43.5
+no perforation in esophagus,43.5
+no perforation in trachea,43.5
+massive irrigation,43.5
+closed-suction drains insertion,43.5
+bedside thoracostomy,43.5
+blood culture (no growth),43.5
+wound culture (no growth),43.5
+general condition stabilized,168
+vital signs stabilized,168
+transferred to general ward,168
+CT scan (interval reduction in fluid collection),168
+multidisciplinary approach,168
+planned VATS for mediastinal drainage,168
+esophagogram,168
+no contrast leakage,168
+deep neck infection,168
+bronchospasm during anesthesia induction,168
+retransferred to surgical ICU,168
+extubated,192
+transferred to general ward,192
+empirical antibiotics continued,192
+discharged,504
+no complications,504
+infection status acceptable at 1-year follow-up,8760
+follow-up CT scans (no fluid collection),8760

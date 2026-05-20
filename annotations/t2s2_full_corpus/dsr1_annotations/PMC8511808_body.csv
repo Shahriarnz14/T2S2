@@ -1,0 +1,100 @@
+event,time
+20-year-old,0
+male,0
+previously healthy,0
+Caucasian,0
+abdominal pain,0
+watery diarrhoea,0
+nausea,0
+vomiting,0
+fever,-144
+chills,-144
+cough,-144
+shortness of breath,-144
+diagnosed with COVID-19,-1344
+evaluated at outside ED,-144
+prescribed oral ciprofloxacin,-144
+prescribed metronidazole,-144
+colitis,-144
+symptoms continued to progress,-144
+achy abdominal pain,0
+diffuse abdominal pain,0
+right lower quadrant pain,0
+watery diarrhoea,0
+10–15 bowel movements per day,0
+high-grade fever,0
+fever of 102.7 F,0
+chills,0
+sweating,0
+tachycardic,0
+heart rate 130 b.p.m.,0
+normotensive,0
+oxygen saturation 94%,0
+posterior oropharynx erythematous with exudates,0
+enlarged tender bilateral cervical lymphadenopathy,0
+left inguinal lymphadenopathy,0
+diffuse abdominal tenderness,0
+scleral injection,0
+mild conjunctivitis bilaterally,0
+negative SARS-CoV-2 PCR,0
+negative rapid antigen test,0
+leukocytosis,0
+lymphopenia,0
+thrombocytopenia,0
+elevated CRP 27.4 mg/dL,0
+low fibrinogen level 133 mg/dL,0
+D-Dimer 2270 ng/mL FEU,0
+negative blood cultures,0
+negative urine cultures,0
+negative stool enteric panel,0
+negative respiratory viral panel,0
+CT abdomen/pelvis showing right-sided colitis,0
+right mesenteric lymphadenopathy,0
+mild hepatosplenomegaly,0
+normal CXR,0
+started on piperacillin-tazobactam,0
+remained tachycardic,24
+intermittent fevers >102 F,24
+development of hypotension,24
+responsive to IV fluid boluses,24
+transferred to MICU,24
+started on IV norepinephrine,24
+mild respiratory distress,24
+oxygen saturation drop to 85%,24
+requiring nasal cannula,24
+repeat CXR showing bilateral pulmonary oedema,24
+"pro-BNP >30,000 pg/mL",24
+troponin T 148.9 ng/L,24
+trans-thoracic echocardiography dilated cardiac chambers,24
+reduced LV systolic function 40–44%,24
+mild global hypokinesis,24
+normal right ventricular systolic function,24
+normal aortic root,24
+small pericardial effusion,24
+mild pulmonic regurgitation,24
+mild tricuspid regurgitation,24
+myocarditis,24
+repeat discussion revealed prior COVID-19,24
+constellation of acute colitis,24
+myocarditis,24
+lymphadenopathy,24
+conjunctival injection,24
+negative infectious workup,24
+diagnosis of MIS-C/MIS-A,24
+treated with IVIG 2 g/kg,24
+IV methylprednisolone 125 mg q12 h,24
+heart rate normalized,28
+defervesced,28
+improvement in abdominal pain,28
+weaned off norepinephrine,48
+transferred out of MICU,48
+confirmed MIS-C/MIS-A diagnosis,48
+IV methylprednisolone transitioned to oral prednisone,120
+started on IV furosemide,24
+started on ACE inhibitor,24
+discharged on lisinopril,192
+discharged on carvedilol,192
+discharged on furosemide,192
+follow-up after 3 months,2160
+complete resolution of symptoms,2160
+scheduled for TTE,2160

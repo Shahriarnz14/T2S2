@@ -1,0 +1,83 @@
+event,time
+41 years old,0
+female,0
+admitted to the hospital,0
+history of untreated hypertension,-672
+history of morbid obesity,-672
+history of chronic back pain,-672
+history of IVDU,-672
+low back pain,-336
+diffuse abdominal pain,-336
+lower extremity weakness,-336
+anorexia,-336
+fever,-336
+chills,-336
+shortness of breath,-336
+dizziness,-336
+constipation,-336
+recent use of acetaminophen,-168
+recent use of gabapentin,-168
+recent use of hydrocodone,-168
+recent use of methamphetamines,-168
+recent use of marijuana,-168
+blood pressure of 79/53 mmHg,0
+heart rate of 149 bpm,0
+lactic acid of 4.2 mg dl-1,0
+WBC 37 500 u l-1,0
+erythrocyte sedimentation rate 75 mm h-1,0
+urine toxicology positive for cannabis,0
+urine toxicology positive for amphetamines,0
+midline tenderness of the lumbar spine,0
+3/5 strength in bilateral lower extremities,0
+bilateral shoulder warmth,0
+bilateral shoulder erythema,0
+bilateral shoulder tenderness,0
+limited range of motion,0
+multiple needle puncture sites on the antecubital fossas,0
+puncture wounds on the right foot,0
+blood cultures collected,0
+empirically started on vancomycin,0
+empirically started on metronidazole,0
+empirically started on aztreonam,0
+empirically started on IV fluids,0
+MRSA with sensitivities to vancomycin,24
+MRSA with sensitivities to rifampin,24
+MRSA with sensitivities to levofloxacin,24
+MRSA with sensitivities to clindamycin,24
+MRSA with sensitivities to daptomycin,24
+MRSA with sensitivities to linezolid,24
+bilateral shoulder plain radiographs showed no abnormalities,24
+arthrocentesis of the AC joints,48
+WBC of 93 137 u l-1 in one shoulder,48
+WBC of 32 043 u l-1 in the other shoulder,48
+aspirates cultured and grew MRSA,48
+emergent surgical debridement of the shoulders,72
+intubated,72
+MRI of the lumbar spine showed L3-L5 osteomyelitis,96
+MRI of the lumbar spine showed facet septic arthritis,96
+MRI of the lumbar spine showed dorsal paraspinous myositis,96
+MRI of the lumbar spine showed L2-L5 epidural abscess,96
+MRI of the lumbar spine showed bilateral psoas myositis and abscesses,96
+MRI of the bilateral shoulders after debridement showed septic arthritis of the AC joints,120
+MRI of the bilateral shoulders after debridement showed right distal trapezius abscess,120
+MRI of the bilateral shoulders after debridement showed left supraclavicular abscess,120
+MRI of the brain showed no acute intracranial processes,120
+TTE was negative for any valvular vegetations,120
+cardiology deferred acquiring a transoesophageal echocardiogram,120
+repeat surgical debridement of the shoulders,144
+neurosurgery evaluated the patient for possible debridement of the epidural abscess,144
+leukocytosis continued to rise and peaked at 52 100 u l-1,168
+trough levels of vancomycin were being monitored,168
+repeat blood cultures continued to be positive for MRSA,168
+antibiotics escalated to daptomycin and ceftaroline,240
+blood cultures ultimately became negative,336
+rifampin was added to the current antibiotic regimen,336
+patient required critical care until she was stable for extubation,336
+repeat MRI of the lumbar spine showed worsening epidural abscess,432
+neurosurgery took the patient for surgical drainage with drain placement,432
+intraoperative wound cultures were positive for MRSA and Proteus mirabilis,432
+patient improved clinically,504
+all drains were removed,504
+patient was discharged,672
+prescribed oral levofloxacin and rifampin,672
+lost to follow-up,672

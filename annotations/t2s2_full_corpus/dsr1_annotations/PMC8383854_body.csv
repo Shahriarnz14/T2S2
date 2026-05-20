@@ -1,0 +1,58 @@
+event,time
+47 years old,0\
+Japanese,0\
+male,0\
+admitted into the intensive care unit,0\
+septic shock,0\
+necrotising fasciitis of the axilla,0\
+group A streptococci detected in blood culture,0\
+group A streptococci detected in soft tissue culture,0\
+hypertension,-[unknown]\
+amlodipine 5 mg orally once per day,-[unknown]\
+amlodipine discontinued,0\
+invasive positive-pressure ventilation,0\
+penicillin G 24 million units per day intravenously,0\
+norepinephrine 0.05 mg/kg per hour intravenously,0\
+serial debridement on latissimus dorsi,24 (day 1)\
+treatment response satisfactory,24 (after day 1)\
+intravenous norepinephrine tapered,72 (day 3)\
+normal ECG findings,24 (day 1)\
+developed complete atrioventricular block,96 (day 4)\
+cardiac arrest,96 (day 4)\
+ECG changes ranging from normal to Wenckebach-type atrioventricular block,96\
+advanced atrioventricular block,96\
+complete atrioventricular block,96\
+cardiopulmonary resuscitation,96\
+return of spontaneous circulation (ROSC),96\
+epinephrine 1 mg intravenously,96\
+"inverted T waves on leads I, aVL, V5, V6 after ROSC",96\
+"ST depression on leads I, aVL, V1–V6",96\
+first-degree atrioventricular block,96\
+hypokinesia of the inferior wall on echocardiography,96\
+no electrolyte imbalances,96\
+temporary pacemaker insertion,96\
+coronary angiography (CAG),96\
+no significant stenosis in coronary arteries,96\
+suspected coronary spastic angina (CSA),96\
+provocative testing with 50 µg ergonovine on right coronary artery,96\
+"coronary spasm with ST segment elevation in leads II, III, aVF",96\
+atrioventricular block confirmed,96\
+intracoronary administration of isosorbide nitrate 5 mg,96\
+spasm relieved,96\
+ECG returned to normal,96\
+provocative testing on left coronary artery not performed,96\
+diagnosed with CSA causing complete atrioventricular block and cardiac arrest,96\
+nifedipine 40 mg per day administered,96\
+no recurrence of coronary spasm,96 (post-treatment)\
+no recurrence of atrioventricular block,96 (post-treatment)\
+temporary pacing discontinued,144 (day 6)\
+negative blood culture,216 (day 9)\
+extubated,216 (day 9)\
+transferred to general ward,240 (day 10)\
+discharged,1176 (day 49)\
+no chest pain,1176\
+no changes on cardiac monitoring,1176\
+nifedipine effective in preventing spasm,1176\
+atrioventricular block transient due to spasm,1176\
+no implantable loop recorder inserted,1176\
+no recurrence at 3-month follow-up,2160 (3 months)

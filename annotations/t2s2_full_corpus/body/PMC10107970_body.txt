@@ -1,0 +1,64 @@
+pmcIntroduction
+
+Escherichia fergusonii, a member of the family Enterobacteriaceae, is a rare conditionally pathogenic bacterium in animals and humans. It can cause wound infection, urinary tract infection, bacteremia, diarrhea, and pleurisy. 1 Because this bacterium is rarely recovered from clinical specimens and it lacks a relatively accurate identification method, E. fergusonii infection is poorly understood and rarely reported in China and other countries. Yuan-yong et al. 2 reported a case in which a strain of E. fergusonii was isolated from the infected postoperative wound secretions of a patient with esophageal cancer and studied its biological characteristics and 16S RNA gene sequence. In this article, we report a case of postoperative E. fergusonii bacteremia in a patient with esophageal cancer and discuss the phenotypic characteristics, clinical manifestations, drug resistance, and treatment of this rare bacterium. We also reviewed previous related reports on E. fergusonii to deepen our understanding of this rare bacterium. We hope this report can provide a basis for the clinical management and prognosis of E. fergusonii bacteremia.
+
+Case presentation
+
+A 68-year-old Chinese man was admitted to our hospital in July 2022 with a 1-week history of abdominal pain. Physical examination revealed clear breath sounds in both lungs, and no dry and wet rales were heard in either lung. The abdomen was soft and flat with no tenderness and rebound tenderness, whereas an old surgical scar approximately 5 cm long was present on the left groin. No swelling of the liver or spleen was palpable. Plain computed tomography (CT) of the chest revealed chronic inflammation of the lungs, thickening of the lower esophageal wall, and enlarged mediastinal lymph nodes, and no other organ metastases were evident (Figure 1). Gastroscopic biopsy revealed a malignant tumor of the esophageal mucosa, which was considered squamous cell carcinoma with ulceration. Based on the patient’s clinical manifestations and surgical indications, the preoperative diagnosis was esophageal malignancy. Radical surgery for esophageal carcinoma was performed on day 11 after admission. The postoperative histopathology report (Figure 2a–c) revealed pathological mitosis in the tumor cells, tumor infiltration to the deep muscular layer, and cancer metastasis in periesophageal lymph nodes (4/6), but no nerve invasion was observed. Immunohistochemistry (Figure 2d–f) disclosed positive expression of p40, CK5/6, EGFR, and p53 and negative expression of CK7, p16, CD34, and S-100. The final diagnosis was stage IIIa moderately differentiated ulcerative esophageal squamous cell carcinoma (T2N1M0).
+
+Figure 1. Chest computed tomography. (a) Thickening of the lower esophageal wall was observed and (b) Mediastinal lymph node enlargement was present.
+
+Figure 2. Pathological and immunohistochemical observations. Pathological mitosis was detected in tumor cells at low (a) and high magnification (b) in comparison with normal esophageal epithelial tissue (c) and (d–f) Immunohistochemical examination of p40, CK5/6, and p53 in biopsy specimens. Positive p40, CK5/6, and p53 expression was widespread among the tumor cells.
+
+On the night of postoperative day 12, the patient was admitted to the intensive care unit because of high fever (38.3°C) and dyspnea. His blood pressure was 80/50 mmHg, and his neck wound was clean and dry without obvious redness, swelling, and heat pain.
+
+The patient’s laboratory findings were as follows: white blood cells, 34.38 × 109/L (neutrophils, 95.7%); C-reactive protein, 207.26 mg/L; procalcitonin, >100 ng/mL; urinary leukocytes, 62.20/µL; and leukocytes per high-power field, 11.20. Repeat CT revealed increased exudative lesions in both lungs compared with the prior scan and postoperative changes in the esophagus (Figure 3).The clinical diagnosis was sepsis, but the site of infection was unclear. Under the impression of postoperative esophageal cancer with severe septic shock, meropenem (1.0 g every 8 hours) was clinically administered as anti-infective therapy after collecting a set of blood cultures. After 3 days, blood cultures suggested the growth of E. fergusonii. E. fergusonii was finally identified using a VITEK 2 Compact automatic microorganism analyzer (BioMérieux, Marcy-l’Étoile, France). Drug sensitivity testing performed using Clinical and Laboratory Standards Institute standards illustrated that the E. fergusonii strain was sensitive to cefuroxime, cefuroxime axetil, ceftazidime, ceftriaxone, cefepime, cefoxitin, amoxicillin–clavulanic acid, piperacillin–tazobactam, cefoperazone–sulbactam, imipenem, ertapenem, amikacin, tigecycline, and cotrimoxazole (Table 1). Based on these findings, the clinical application of meropenem was continued. Thereafter, his fever gradually subsided, and his clinical indicators had significantly improved upon reexamination. Repeat blood culture after 10 days of meropenem use was negative. The patient recovered after 2 weeks, and he was discharged from the hospital. Follow-up was conducted 2 months later, and the patient did not complain of any specific discomfort while undergoing postoperative adjuvant radiation therapy.
+
+Figure 3. Chest computed tomography. (a) Obvious pulmonary infection was visible and (b) Postoperative esophageal changes were observed.
+
+Table 1. The MICs of antimicrobials against Escherichia fergusonii.
+
+Antimicrobials	MIC standard (μg/mL)	MIC (μg/mL)	Antimicrobials	MIC standard (μg/mL)	MIC (μg/mL)	
+Cefuroxime	≤8	4	Cefoperazone–sulbactam	≤16	≤8	
+Cefuroxime axetil	≤8	4	Imipenem	≤1	≤0.25	
+Ceftazidime	≤4	0.25	Ertapenem	≤0.5	≤0.12	
+Ceftriaxone	≤1	≤0.25	Levofloxacin	1	1	
+Cefepime	≤2	≤0.12	Amikacin	≤16	≤2	
+Cefoxitin	≤8	≤4	Tigecycline	≤0.5	≤0.5	
+Amoxicillin–clavulanic acid	≤8/4	≤2	Cotrimoxazole	≤2/38	≤20	
+Piperacillin–tazobactam	≤16/4	≤4				
+MIC, minimum inhibitory concentration.
+
+The reporting of this study conforms to the CARE guidelines. 3 This case report contains no details regarding the patient’s identity. We obtained the patient’s consent for treatment, and the patient provided written informed consent for publication of his data. Ethical approval was not required for this study in accordance with national guidelines, which stipulate that ethical approval is not required for single case reports or case series involving two or three cases.
+
+Discussion
+
+E. fergusonii is a gram-negative bacillus that is mostly found in the environment and in the intestinal tracts of humans and animals. 4 DNA hybridization experiments revealed that the bacterium was genetically similar to Escherichia coli–Shigella (64%) but distant from other genera of Enterobacteriaceae, and it was classified into the genus Escherichia based on biochemical reactions and DNA hybridization.5,6E. fergusonii and E. coli exhibit high affinity for each other, and the two bacteria are phenotypically and genomically similar, making it difficult to distinguish these microbes. 7 Biochemical culture methods are generally used to determine the biological classification of bacteria based on their chemical characteristics. 8 The main difference between this E. fergusonii and E.coli is that the former cannot ferment lactose and sorbitol but it can ferment adonitol and arabinol. 7
+
+The clinical manifestations of E. fergusonii infection are bacteremia, urinary tract infection, and diarrhea. The bacterium has been isolated from blood, urine, feces, and wounds.5,9 Because E. fergusonii infection is relatively rare in the clinic, its specific pathogenicity and clinical characteristics have not been fully clarified, and there is a lack of relatively accurate bacterial identification methods. The optimal treatment for E. fergusonii infection is currently unclear, and empirical medication is often interspersed with the physician’s personal preference, making it difficult to identify the most appropriate treatment regimen. Most cases reported in China and other countries suggest that this bacterium is closely associated with urinary tract infection. Quinolones and cephalosporins are commonly used in the treatment of urinary tract infections. 10 However, in recent years, a few studies described the isolation of E. fergusonii from urine and whole blood specimens that exhibited a high degree of drug resistance, including multidrug resistance.11,12 It has been suggested in the literature that quinolone resistance in E. fergusonii is associated with the production of the plasmid-mediated quinolone resistance gene qnrS. 13 Therefore, it is particularly important to select effective antibacterial drugs for treatment based on the results of drug sensitivity tests. Chen et al. 8 reported a case of urinary tract infection caused by E. fergusonii with symptomatic relief after the clinical application of anti-infective treatment with biapenem. In addition, the literature indicated that the potential role of E. fergusonii in biodegradation should not be ignored and that the organism is not the only important place of survival for the bacterium. 14 Therefore, the incidence and exact role of E. fergusonii in human and animal diseases requires further study to be elucidated.
+
+In summary, we have reported a rare case of E. fergusonii infection in a postoperative patient with esophageal cancer. In this case, the patient was in an immunocompromised state after surgery, which could be a risk factor for E. fergusonii-associated sepsis. E. fergusonii was detected in blood cultures; however, the site of infection was not determined, and the main mechanism and role of its pathogenesis remain unknown. In this case, meropenem was empirically selected for anti-infection treatment. Subsequent drug sensitivity test results also indicated that the bacterium had intermediate resistance to levofloxacin, whereas it was sensitive to other antibiotics. Therefore, we continued treatment with meropenem, and the patient’s clinical symptoms were relieved. It is hoped that this case draws attention to E. fergusonii.
+
+Acknowledgement
+
+We thank The Affiliated Nanhua Hospital for support with data collection.
+
+Data availability statement
+
+All data in this study are included in the article. Further inquiries can be directed to the corresponding author.
+
+Author contributions: Yu-Yang Jiang: Data collection, analysis, and manuscript writing.
+
+Yi Zhang: Contributed to analysis and manuscript preparation.
+
+Yang Hu: Helped perform the analysis and provided constructive discussions.
+
+Yuan Guo: Assisted with data collection.
+
+The authors declare that there are no conflicts of interest.
+
+Funding: This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+ORCID iDs: Yu Jiang https://orcid.org/0000-0003-2191-9094
+
+Yuan Guo https://orcid.org/0000-0001-6570-0073

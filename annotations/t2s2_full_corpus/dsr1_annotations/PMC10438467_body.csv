@@ -1,0 +1,82 @@
+event,time
+51 years old,0
+Caucasian,0
+male,0
+admitted,0
+hypertension,0
+severe COVID-19,-4560
+acute respiratory distress syndrome,-4560
+mechanical ventilation,-4560
+ventilator-associated pneumonia,-4560
+carbapenem-resistant Acinetobacter baumannii,-4560
+ampicillin-sulbactam,-4560
+polymyxin B,-4560
+central line-related bloodstream infection,-4560
+CRPA,-4560
+meropenem,-4560
+sacral pressure injury,-4560
+critical illness polyneuropathy/myopathy,-4560
+hospitalized for 57 days,-4560
+hospital discharge,-4560
+insidious pain in the lumbar region,-1440
+insidious pain in the right hip,-1440
+progressive worsening of pain,-1440
+impaired ambulation,-1440
+referred to hospital,-1440
+no fever,-1440
+no sphincter symptoms,-1440
+severe pain on palpation of lumbar spine,0
+severe pain on mobilization of lumbar spine,0
+moderate pain in the right hip,0
+normal muscle strength,0
+normal reflexes,0
+normal sensitivity,0
+hemoglobin 12.1 g/dL,0
+leukocyte count 8700 cells/mm³,0
+ESR 120 mm/hr,0
+CRP 1.5 mg/dL,0
+CT of right hip,0
+periarticular calcifications,0
+heterotopic ossifications,0
+MRI of lumbar spine,0
+bone edema in T12 and L1 vertebral bodies,0
+irregularity of vertebral endplate,0
+psoas muscle involvement,0
+T12-L1 spondylodiscitis,0
+psoitis,0
+negative blood cultures,0
+CT-guided bone biopsy,72
+microbiological culture,72
+Pseudomonas aeruginosa,72
+polymyxin B sensitive,72
+C/A sensitive,72
+meropenem resistant,72
+imipenem resistant,72
+cefepime resistant,72
+ceftazidime resistant,72
+ciprofloxacin resistant,72
+piperacillin-tazobactam resistant,72
+tigecycline resistant,72
+amikacin resistant,72
+clinically stable,72
+polymyxin B 15000 IU/kg IV every 12 hours,1440
+meropenem 2 g IV every 8 hours,1440
+widespread cutaneous rash,1728
+switch to C/A 2.0 + 0.5 g IV every 8 hours,1728
+dermatological lesions disappeared,1728
+progressive improvement in inflammatory markers,1728
+progressive improvement in pain,1728
+progressive tolerance to rehabilitation exercises,1728
+no adverse events with C/A,1728
+antimicrobial treatment for seven weeks,1728
+conservative treatment for heterotopic calcification,0
+nonsteroidal anti-inflammatory drugs,0
+physical therapy,0
+improvement of hip pain,1728
+complete return to work,4320
+asymptomatic,4320
+negative inflammatory markers,4320
+MRI lumbar spine healing,4320
+resolution of bone edema,4320
+absence of intervertebral fluid,4320
+absence of paravertebral fluid,4320

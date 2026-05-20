@@ -1,0 +1,85 @@
+event,time
+27 years old,0
+female,0
+G2P1,0
+emergency cesarean section,0
+arrest of labor,0
+uncomplicated pregnancy course,0
+no gestational hypertension,0
+no diabetes,0
+episode of bradycardia,0
+episode of hypotension,0
+postpartum hemorrhage,0
+estimated blood loss ∼2 L,0
+progressive hypoxemia,0
+refractory hypotension,0
+urgent surgical exploration,0
+no significant ongoing bleeding,0
+hemodynamic decompensation,0
+heart rate 150 bpm,0
+blood pressure 70/50 mm Hg,0
+oxygen saturation 90%,0
+100% nonrebreather,0
+oliguric,0
+transferred to ICU,0
+DIC,0
+hemoglobin 115 g/L,0
+platelet count 81 × 10E9/L,0
+fibrinogen 0.4 g/L,0
+INR 1.8,0
+acute kidney injury,0
+creatinine 130 μmol/L,0
+arterial blood gas pH 7.38,0
+pCO2 26 mm Hg,0
+pO2 91 mm Hg,0
+HCO3 15 mmol/L,0
+lactate 1.7 mmol/L,0
+sinus tachycardia,0
+nonspecific T-wave changes,0
+elevated troponin 492 ng/L,0
+differential diagnosis AFE,0
+differential diagnosis pulmonary embolism,0
+differential diagnosis peripartum cardiomyopathy,0
+differential diagnosis acute respiratory distress syndrome,0
+differential diagnosis anaphylaxis,0
+differential diagnosis septic shock,0
+excluded uterine rupture,0
+excluded placental abruption,0
+suspected AFE,0
+transthoracic echocardiogram performed,0
+normal LV size,0
+preserved LV systolic function,0
+RV dilation,0
+severely reduced RV systolic function,0
+akinesia mid RV wall,0
+hypercontractility RV apex,0
+McConnell’s sign,0
+moderate tricuspid regurgitation,0
+TR max velocity 310.8 cm/sec,0
+IVC thrombus,0
+CT pulmonary angiography,0
+low-burden pulmonary embolism,0
+right lower lobe PE,0
+gonadal vein thrombosis,0
+IVC thrombus extension,0
+bilateral renal cortical necrosis,0
+RV dysfunction out of proportion,0
+diagnosis AFE,0
+started norepinephrine,0
+mean arterial pressure ≥60 mm Hg,0
+acute right heart failure,0
+initially epinephrine,0
+dobutamine administered,0
+no invasive pulmonary artery monitoring,0
+therapeutic anticoagulation,0
+unfractionated heparin,0
+hemodynamics improved,24
+weaning off pressor support,24
+continuous renal replacement therapy,24
+anuric renal failure,24
+refractory volume overload,24
+transitioned to hemodialysis,24
+discharged,720
+3-month follow-up well,2160
+no longer dialysis,2160
+repeat echocardiogram normal,2160

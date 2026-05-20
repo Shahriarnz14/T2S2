@@ -1,0 +1,52 @@
+event,time
+64 years old,0
+Japanese,0
+man,0
+multiple myeloma,0
+bacteremia caused by Morganella morganii,0
+admitted to institute,0
+septic shock,0
+febrile episode,0
+lumargia due to old L1-2 compression fracture,0
+blood pressure 82/60 mmHg,0
+heart rate 78/min,0
+body temperature 39.1℃,0
+respiration rate 20/min,0
+SpO2 95%,0
+no clear focus of infection,0
+no muscular pain,0
+"elevated creatinine kinase (3,582 U/L)",0
+skeletal muscle origin of CK (98.8%),0
+multiple myeloma diagnosed 5 years earlier,-43800
+"stage IIIA, IgG λ type",-43800
+melphalan treatment,-43800
+prednisolone treatment,-43800
+VAD chemotherapy,-43800
+BD chemotherapy,-43800
+thalidomide treatment,-43800
+lenalidomide treatment,-4320
+IgG increased 6 months before infection,-4320
+rehydration via central venous catheterization,0
+dopamine 3 mg/kg/h,0
+meropenem 0.5 g three times a day,0
+cervical to pelvis CT,0
+no findings explaining myolysis,0
+hypotension,48
+oliguria,48
+renal impairment,48
+blood pressure 61/45 mmHg,48
+heart rate 87/min,48
+body temperature 36.8℃,48
+hemodialysis,48
+endotoxin absorption,48
+respiratory failure,60
+mechanical ventilation,60
+rhabdomyolysis,60
+"CK 19,790 U/L",72
+death due to multi-organ failure,72
+M. morganii sensitive to broad spectrum beta-lactams,72
+resistant to cefotiam,72
+resistant to minomycin,72
+resistant to ciprofloxacin,72
+outpatient visit 6 days before admission,-144
+routine follow-up examination,-144

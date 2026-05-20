@@ -1,0 +1,96 @@
+event,time
+59 years old,0
+female,0
+presented to the emergency department,0
+syncope,0
+motor vehicle accident,0
+gastrointestinal illness,-48
+vomiting,-48
+abdominal pain,-48
+no fevers,-48
+no diarrhea,-48
+COVID-19 vaccine (Pfizer),-336
+heart rate 114 beats per minute,0
+oxygen saturation 98%,0
+respiratory rate 16,0
+blood pressure 120/77,0
+afebrile,0
+alert,0
+oriented,0
+euvolaemic,0
+no murmurs,0
+thalassaemia,0
+Q waves,0
+fixed ST elevation anteriorly,0
+low QRS voltages,0
+cardiac troponin I 24000,0
+c-reactive protein 10,0
+erythrocyte sedimentation rate 12,0
+chest x-ray calcified granuloma,0
+TTE left ventricular ejection fraction 30%,0
+moderate-severe global systolic dysfunction,0
+mild concentric increase in wall thickness,0
+severely reduced tissue Doppler velocities,0
+mild-mod aortic regurgitation,0
+moderate pericardial effusion,0
+symptomatic hypotension,24
+bradycardia 30 beats per minute,24
+high grade atrioventricular block,24
+left bundle branch block,24
+isoprenaline infusion,24
+transfer to coronary care unit,24
+expedited permanent pacemaker insertion,24
+persistent hypotension,48
+systolic blood pressure 60 mmHg,48
+oliguria,48
+dopamine infusion,48
+accelerated idioventricular rhythm,48
+transfer to intensive care unit,48
+repeat TTE LVEF 10%,72
+severe LV dysfunction,72
+global hypokinesis,72
+severely impaired RV systolic function,72
+dilated inferior vena cava,72
+endomyocardial biopsy performed,96
+lymphocytes infiltrate,96
+histiocytes infiltrate,96
+plasma cells infiltrate,96
+eosinophils infiltrate,96
+myocardial necrosis,96
+poorly formed granulomas,96
+multinucleated macrophages,96
+giant cell myocarditis diagnosis,96
+intravenous methylprednisone,96
+cyclosporin,96
+worsening lactic acidosis,96
+intubation,96
+transfer to cardiac transplant centre,120
+biventricular assist device inserted,120
+haemorrhage,120
+coagulopathy,120
+massive transfusion,120
+thoracic washout,120
+multiorgan failure,144
+hepatic encephalopathy,144
+anuric renal failure,144
+dialysis,144
+distal limb ischemia,144
+digital gangrene,144
+bowel ischemia,144
+immune thrombocytopaenia,144
+intravenous immunoglobulin,144
+plasma exchange,144
+polymicrobial sepsis,144
+Pseudomonas aeruginosa bacteraemia,144
+Candidaemia,144
+meropenem,144
+vancomycin,144
+caspofungin,144
+LV assist device explanted,432
+tissue aortic valve replacement,432
+RV assist device explanted,600
+cerebral infarction,600
+unresponsive off sedation,600
+family meeting,648
+palliation,648
+death,648

@@ -1,0 +1,127 @@
+event,time
+37 years old,0
+male,0
+admitted to the hospital,0
+pain in left hemithorax,0
+pain in left upper abdomen,0
+fever,0
+body temperature 39.1°C,0
+severe cough,0
+purulent greenish sputum,0
+became ill,-168
+mild pain in left hypochondrium,-168
+cough,-96
+shortness of breath,-96
+alcohol abuser,-131400
+tobacco smoker,-131400
+periodic upper abdominal pain,-17520
+dyspnea,0
+unable to remain in prone position,0
+blood pressure 140/90 mmHg,0
+heart rate 98 beats per minute,0
+temperature 38.2°C,0
+respiratory rate 23 breaths per minute,0
+absent breath sound in lower left hemithorax,0
+reduced breath sounds,0
+wheezing,0
+hemoglobin 12.5 g/dL,0
+white blood cells 16800/mm3,0
+platelets 590000/mm3,0
+elevated serum amylase,0
+elevated lipase,0
+elevated C-reactive protein,0
+positive hepatitis C,0
+negative HIV,0
+left pleural effusion,0
+structural changes of pancreas,0
+chronic gastric inflammation,0
+chronic duodenal inflammation,0
+left-sided pneumonia,0
+acute onset of chronic alcoholic pancreatitis,0
+thoracentesis,0
+antibiotic treatment,0
+analgesics,0
+intravenous hydration,0
+negative pleural fluid culture,0
+negative sputum culture,0
+negative mycobacterium tuberculosis,0
+repeated chest radiographs,24
+infiltration in left lower lobe,24
+persisting pleural effusion,24
+abdominal CT,24
+cystic changes pancreatic head,24
+cystic changes pancreatic body,24
+fluid subhepatic space,24
+no substantial improvement,48
+changed antibiotic treatment,48
+left lung abscesses,48
+gas-fluid levels,48
+left pleural cavity drained,48
+high pleural fluid amylase,48
+high pleural fluid lipase,48
+PPF suspected,48
+abdominal MRI,48
+dilated pancreatic duct,48
+cystic transformation pancreatic head,48
+pseudocyst pancreatic body,48
+transferred to Mariinsky Hospital,816
+dyspnea,816
+cough,816
+purulent sputum,816
+fever,816
+sitting position sleep,816
+chest CT,816
+multiple left lung abscesses,816
+multidisciplinary discussion,816
+staged minimally invasive treatment,816
+drained lung abscesses,840
+additional abscess drained,864
+pancreatic pseudocyst externally drained,840
+amylase 13200 IU/L pseudocyst fluid,840
+condition improved,864
+stable fluid outflow,864
+pancreatic duct stenting,1344
+transcutaneous external-internal stenting,1344
+postoperative uneventful,1368
+octreotide injections,1368
+serum amylase 150 IU/L,1392
+octreotide discontinued,1392
+pseudocyst drain outflow stopped,1416
+pseudocyst drain removed,1416
+pleural drains removed,1680
+symptoms improved,1680
+normalized temperature,1680
+decreased dyspnea,1680
+cough disappeared,1680
+sputum disappeared,1680
+follow-up CT,1680
+small localized hydropneumothorax,1680
+abdominal MRI,1680
+parenchymal changes CP,1680
+decreased pseudocyst size,1680
+PPF track visible,1680
+discharged,1800
+readmitted,5760
+chest CT,5760
+residual air-containing cavity,5760
+no intervention required,5760
+pancreatography,5760
+good contrast passage,5760
+abdominal MRI,5760
+decreased pseudocyst size,5760
+decreased pancreatic duct,5760
+Bern modification Beger procedure,6048
+postoperative uncomplicated,6048
+discharged,7224
+outpatient ultrasound,48240
+signs of CP,48240
+no pseudocysts,48240
+no ductal dilatation,48240
+follow-up refused,17520
+telephone follow-up,17520
+no complaints,17520
+works as builder,17520
+smokes 5-8 cigarettes/day,17520
+occasional alcohol,17520
+no pancreatic insufficiency,17520
+no enzyme supplementation,17520

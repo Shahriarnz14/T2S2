@@ -1,0 +1,70 @@
+event,time
+45 years old,0
+male,0
+admitted to Accident and Emergency Department,0
+fever,-48
+chills,-48
+productive cough,-48
+runny nose,-48
+gradual onset headache,-48
+temperature 39.8°C,0
+heart rate 115 bpm,0
+blood pressure 130/70 mmHg,0
+respiratory rate 18/min,0
+injected throat,0
+normal ears examination,0
+normal oral cavity examination,0
+elevated WBC count (15.45 × 109/L),0
+normal chest radiograph,0
+discharge from A and E,0
+seizures (8 episodes),6
+febrile,6
+status epilepticus,6
+heart rate 173 bpm,6
+blood pressure 94/57 mmHg,6
+normal cardiac auscultation,6
+confusion,6
+impaired consciousness,6
+preserved reflexes,6
+equal and reactive pupils,6
+no papilledema,6
+increased WBC count (31 × 109/L),6
+elevated CRP (245.6 ml/L),6
+intubation,6
+"noncontrast CT brain: right frontal fullness, mild sulcal effacement",6
+paranasal sinus mucosal thickening,6
+lumbar puncture,6
+CSF leukocytosis,6
+CSF increased protein,6
+GCS drop from 10 to 7,6
+contrast-enhanced MRI brain: right frontotemporoparietal subdural collection,14
+left frontal subdural collection,14
+severe mass effect,14
+midline shift,14
+paranasal sinus mucosal hyperenhancement,14
+left frontal sinus bony defect,14
+meningeal enhancement,14
+right frontal parenchymal edema,14
+diagnosis of sinogenic meningoencephalitis,14
+diagnosis of multiple SDEs,14
+"antibiotic treatment (vancomycin, ceftriaxone)",14
+decompressive craniectomy,14
+evacuation of SDE,14
+FESS,14
+Streptococcus intermedius in pus,14
+postoperative intravenous meropenem,14
+postoperative intravenous vancomycin,14
+ICU stay (5 days),14
+GCS improvement to 10,14
+extubation (postoperative day 4),14
+"follow-up CT: improved mass effect, cerebral edema",20
+discharge after 20 days,480
+CRP 51.4 mg/L at discharge,480
+no personality changes,480
+no cognitive dysfunction,480
+no motor deficits,480
+no sensory deficits,480
+scar epilepsy,later
+"follow-up CT: parenchymal loss, gliosis",later
+oral sodium valproate,later
+oral levetiracetam,later

@@ -1,0 +1,63 @@
+event,time
+44 years old,0
+male,0
+hypertension,-43800
+treated with angiotensin-converting enzyme inhibitor,-43800
+ex-smoker,-262800
+fever,-240
+non-productive cough,-240
+myalgias,-240
+treated with oral quinolone,-240
+resting dyspnea,-48
+productive cough,-48
+fever,-48
+admitted to Wonkwang University Hospital,0
+temperature 38.6℃,0
+blood pressure 120/80 mmHg,0
+heart rate 90 b.p.m,0
+respiratory rate 30 breaths/min,0
+bilateral inspiratory coarse crackles,0
+end-expiratory wheezing,0
+pH 7.343,0
+PaCO2 41.2 mmHg,0
+PaO2 59.2 mmHg,0
+SaO2 90.7%,0
+"WBC 19,580/mm3",0
+neutrophils 82.5%,0
+ESR 71 mm/h,0
+C-reactive protein 184.6 mg/L,0
+hemoglobin A1c 5.8%,0
+blood urea nitrogen 32.4 mg/dL,0
+creatinine 1.32 mg/dL,0
+random glucose 117 mg/dL,0
+chest X-ray bilateral bronchial wall thickening,0
+negative sputum stains,0
+negative sputum cultures,0
+negative blood cultures,0
+negative HIV test,0
+empirical therapy with cefoperazone/sulbactam,0
+empirical therapy with vancomycin,0
+high fever,96
+increasing dyspnea,96
+hypoxemia,96
+respiratory failure,96
+severe CO2 retention,96
+admitted to intensive care unit,96
+mechanically ventilated,96
+chest CT,120
+fiberoptic bronchoscopy,120
+respiratory acidosis,120
+hypoxemia,120
+chest CT peribronchial infiltrates,120
+patent bronchi,120
+no consolidation,120
+whitish exudative membranes,120
+endobronchial biopsy specimens Aspergillus species,120
+bronchial washing fluid Aspergillus species,120
+high fever,168
+refractory septic shock,168
+hypoxemia,168
+IV amphotericin B,168
+oliguria,168
+fatal cardiac arrest,192
+no post-mortem examination,192

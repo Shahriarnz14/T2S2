@@ -1,0 +1,121 @@
+event,time
+45 years old,0
+male,0
+admitted to ER,0
+suspected snake bite,-48
+left foot swelling,-48
+anasarca,-48
+pain at site of bite,-48
+treated at peripheral hospital,-48 to -24
+anti-snake venom not given,-48 to -24
+unknown medications administered,-48 to -24
+non-diabetic,0
+no history of hypertension,0
+no history of tuberculosis,0
+no history of chronic disease,0
+no melena,0
+no bleeding manifestations,0
+history of smoking,0
+history of alcohol intake,0
+minimally conscious,0
+reduced alertness,0
+non-cooperative,0
+disoriented,0
+blood pressure 106/60 mmHg,0
+heart rate 102 bpm,0
+respiratory rate 20 bpm,0
+temperature 37.2°C,0
+SpO2 91%,0
+bilateral chest crepitations,0
+pitting edema left foot,0
+non-tender swelling,0
+raised temperature left foot,0
+non-distinct teeth impressions,0
+no fang marks,0
+hemoglobin 15 g/dl,0
+WBC 24.37×10^9/L,0
+neutrophils 89%,0
+lymphocytes 6%,0
+"platelets 19,000/mm³",0
+blood urea 122 mg/dl,0
+serum creatinine 5.01 mg/dl,0
+sodium 117 mEq/L,0
+potassium 5.1 mEq/L,0
+no deep vein thrombosis,0
+renal cortical echogenicity increased,0
+PT 12.7 s,0
+INR 1.03,0
+procalcitonin 0.27 ng/ml,0
+normal left ventricular function,0
+interstitial pulmonary edema,0
+intubated,0
+transferred to ICU,0
+provisional diagnosis snake bite with cellulitis,0
+sepsis,0
+acute kidney injury,0
+disseminated intravascular coagulation,0
+IV piperacillin-tazobactam,0
+IV clindamycin,0
+magnesium sulphate dressing,0
+platelet transfusion (6 units),0
+CRRT started,24
+IV metoclopramide,0
+calcium polystyrene sulfonate,0
+glucose-insulin drip,0
+oral pantoprazole,0
+IV vitamin K,0
+IV magnesium sulphate,0
+oral conjugated estrogen,0
+swelling worsened,24-168
+temperature 37.8-38.9°C,24-168
+chest crepitations persisted,24-168
+blood glucose 70-100 mg/dl,24-168
+WBC 31.65×10^9/L,168
+neutrophils 91%,168
+lymphocytes 7%,168
+transtracheal aspirate culture Klebsiella pneumoniae,168
+piperacillin-tazobactam discontinued,192
+clindamycin discontinued,192
+IV tigecycline started (loading 100 mg),192
+IV tigecycline 50 mg every 12h,192
+swelling reduced,192-264
+procalcitonin decreased,192-264
+temperature normalized,192-264
+blood glucose above normal,192-264
+hypoglycemic episode (47 mg/dl),240
+palpitations,240
+tremors,240
+sweating,240
+25% dextrose administered,240
+hypoglycemic episode (49 mg/dl),252
+hyperventilation,252
+sweating,252
+palpitations,252
+25% dextrose administered,252
+hypoglycemic episodes days 11 and 13,252-312
+tigecycline discontinued,360
+IV meropenem started,360
+IV clindamycin restarted,360
+IV polymyxin B started,360
+blood glucose low-normal,360-456
+CRRT stopped,456
+serum creatinine normalized,456
+urea normalized,456
+electrolytes normalized,456
+sepsis recurrence,648
+transtracheal aspirate culture Enterobacter spp.,672
+meropenem discontinued,696
+polymyxin B discontinued,696
+IV tigecycline restarted (loading 100 mg),696
+IV tigecycline 50 mg every 12h,696
+hypoglycemic episodes (25 mg/dl),696-720
+sweating,696-720
+palpitations,696-720
+50% dextrose administered,696-720
+tigecycline discontinued,744
+oral minocycline started,744
+IV cefoperazone-sulbactam started,744
+blood glucose low-normal,744-816
+swelling reduced,744-912
+sepsis resolved,912
+discharged from ICU,912

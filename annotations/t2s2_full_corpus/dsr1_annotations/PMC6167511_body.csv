@@ -1,0 +1,95 @@
+event,time
+60 years old,0\
+male,0\
+visited emergency department,0\
+fever,0\
+working on farms,0\
+close contact with swine,0\
+vital signs stable except fever up to 39.7°C,0\
+no abnormal physical examination findings,0\
+no specific laboratory findings,0\
+no active lung lesion in chest radiograph,0\
+erect abdominal imaging showed mild gas accumulation,0\
+abdominal CT no definite obstructive lesion,0\
+symptoms improved with hydration and analgesics,0\
+discharged,0\
+revisited emergency department,24\
+persistent fever,24\
+dizziness,24\
+vomiting,24\
+acutely ill,24\
+drowsy,24\
+blood pressure 70/60 mmHg,24\
+heart rate 52 beats/min,24\
+respiratory rate 20 breaths/min,24\
+body temperature 36.0°C,24\
+clear lung sounds,24\
+decreased bowel sounds,24\
+leukopenia,24\
+white blood cell count 1.470 × 10^9/L,24\
+neutrophils 85%,24\
+lymphocytes 14%,24\
+monocytes 1%,24\
+thrombocytopenia,24\
+platelet count 40 × 10^9/L,24\
+higher urea nitrogen 30.9 mg/dL,24\
+creatinine 3.04 mg/dL,24\
+hyperbilirubinemia,24\
+total bilirubin 3.35 mg/dL,24\
+metabolic acidosis,24\
+pH 7.25,24\
+pCO2 30.5 mmHg,24\
+bicarbonate 13.2 mmol/L,24\
+chest radiograph no active lung lesion,24\
+supine abdominal imaging showed gas accumulation,24\
+meropenem administered,24\
+vancomycin administered,24\
+blood culture taken,24\
+admitted to intensive care unit,24\
+blood pressure 104/48 mmHg,30\
+heart rate 130 beats/min,30\
+respiratory rate 22 breaths/min,30\
+continuous infusion of dopamine 27 μg/min/kg,30\
+continuous infusion of norepinephrine 1.7 μg/min/kg,30\
+low dose corticosteroid hydrocortisone 100 mg every 8 hours,30\
+generalized tonic-clonic seizure,38\
+peripheral oxygen saturation <90%,38\
+endotracheal intubation performed,38\
+mechanical ventilation applied,38\
+peripheral oxygen saturation 95-100%,40\
+total urine output zero,40\
+continuous renal replacement therapy initiated,40\
+blood cultures bacterial growth after 12-hour incubation,36\
+blood cultures gram-positive cocci,48\
+S. suis identified,96\
+ampicillin/sulbactam started,96\
+vital signs stabilized after 4 days,96\
+dopamine tapered,96\
+norepinephrine tapered,96\
+drowsiness persisted,96\
+hydrocortisone changed to dexamethasone 5 mg/day,96\
+ventilator weaning,168\
+extubation,168\
+continuous renal replacement therapy stopped,168\
+mental status improved,168\
+difficulty hearing,168\
+otoscopic examination no abnormal findings,168\
+bilateral sensorineural hearing loss,168\
+spinal tap performed,168\
+CSF WBC 7/mm3,168\
+CSF RBC 16/mm3,168\
+opening pressure 80 mmH2O,168\
+CSF glucose 143 mg/dL,168\
+serum glucose 265 mg/dL,168\
+CSF protein 125 mg/dL,168\
+dexamethasone continued,168\
+back pain,240\
+lumbar spine MRI findings,240\
+infective spondylitis L1-L2,240\
+intramuscular abscess right iliacus muscle,240\
+intramuscular abscess left iliopsoas muscle,240\
+ampicillin/sulbactam continued,240\
+transferred to another hospital,240\
+back pain improved after 6 weeks antibiotics,1008\
+hearing difficulty persists,1008\
+regular otolaryngology follow-up,1008

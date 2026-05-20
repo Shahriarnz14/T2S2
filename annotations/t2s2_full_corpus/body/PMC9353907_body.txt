@@ -1,0 +1,125 @@
+pmc Core Tip: Comamonas kerstersii (C. kerstersii) infections are rare and have been considered as non-pathogenic to humans. This is the first report of a maternal patient with a C. kerstersii bacteremia following caesarean section. The patient’s condition was critical with high fever and rapidly progressing organ damage and she was treated in the intensive care unit. C. kerstersii was detected by matrix-assisted laser desorption/ionization-time of flight and metagenomic next-generation sequencing testing, which are reliable for the diagnosis of rare bacterial infections.
+
+INTRODUCTION
+
+Comamonas kerstersii (C. kerstersii) is an aerobic Gram-negative rod widely distributed in water, soil, and plants, and considered to be a non-pathogenic microorganism since its discovery in 2003[1]. However, this perception has changed since the first human infection caused by C. kerstersii was reported in 2013[2]. It can cause abscess formation, peritonitis, and septic shock, and to this day, 26 cases of C. kerstersii infections have been reported in the literature. Three of these cases were patients with bacteremia[3].
+
+Research has shown that diagnosing C. kerstersii could be difficult and biased as records of phenotypic identification are lacking in databases[4,5]. Compared with the traditional isolation and culture methods, matrix-assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF-MS)[6], and metagenomic next-generation sequencing (mNGS) detection provides a powerful means for the rapid isolation and unbiased correct identification of rare pathogenic bacteria during diagnosis and treatment[4,5,7]. To the best of our knowledge, this is the first case-report of a complicated maternal case of C. kerstersii bacteremia. Compared with several cases of severe C. kerstersii infection in recent years[7-10], besides abdominal pain and high fever, our patient also had intestinal obstruction, upper gastrointestinal bleeding, and pulmonary embolism. In this case report, we will discuss the clinical characteristics and analyze the unique complications associated with this case.
+
+CASE PRESENTATION
+
+Chief complaints
+
+A 29-year-old woman was admitted to the intensive care unit (ICU), due to a critical condition including persistent high fever and signs of damage to multiple organs following caesarian section.
+
+History of present illness
+
+The patient, a 29-year-old woman with an obstetric history of G1 P0 A1 was diagnosed with pregnancy at 37 wk and 6 d, hip position, and labor admission. Her pregnancy was uncomplicated, however 3 d after admission, cesarean section was performed due to a breeched position of the fetus. The surgery was uneventful, performed with spinal anesthesia, and a healthy baby was delivered. One day after the surgery, the patient developed a fever with a peak body temperature of 38.4 °C. Figure 1 is a timeline of relevant events in which the symptoms, diagnostics, and treatment of the patient after admission are included.
+
+Figure 1 Timeline of reported events. The most relevant symptoms, diagnostics, and treatment of the patient in chronological order. POD: Postoperative day; PE: Pulmonary embolism; CT: Computed tomography; IC: Intensive care.
+
+History of past illness
+
+The patient had a blank medical history without chronic diseases.
+
+Personal and family history
+
+N/A.
+
+Physical examination
+
+Abdominal distension was noted; however, there was no substantial stomach discomfort. On the third day after surgery, the patient started having chills, shortness of breath, intermittent tingling on both sides of the lower abdomen, and abdominal distension. A temperature of 40 °C, heart rate of 115 beats/min, blood pressure of 147/84 mmHg, respiratory rate of 20 times/min, and oxygen saturation of 92% was measured.
+
+Laboratory examinations
+
+Blood routine results showed 10.29 × 109/L white blood cells pre-admission (reference range: 4.5-11.0 × 109/L), and 14.83 × 109/L white blood cells with a differential white blood count of neutrophils 83.2%, and lymphocytes 9.9% upon admission on postoperative day 1. Other laboratory data were within the normal range. Because the presence of infection was highly suspected, blood cultures were obtained. However, no improvement in the symptoms was observed after antibiotic treatment. The blood routine test on the third day after surgery revealed white blood cells of 20.45 × 109/L and procalcitonin of 5.19 μg/L (reference range: 0-0.05 μg/L). Gram-negative bacteria were detected in the blood culture.
+
+Imaging examinations
+
+Because the patient had persistent abdominal symptoms, a computed tomography (CT)-scan with contrast was performed. The results showed multiple small intestine and colorectal expansion with intestinal obstruction, a small amount of abdominal and pelvic effusion and peritonitis, increased uterine volume, and an intermixed high and low intrauterine density. Shadow of a partial filling defect in the bilateral lower pulmonary artery was detected, which was suspect for pulmonary embolism.
+
+Further diagnostic work-up
+
+In order to treat the intestinal obstruction, gastrointestinal decompression was performed, and a large amount of coffee-color liquid came out of the gastric tube. A post-vaginal dome puncture was performed to remove the light-yellow ascites. The latent blood experiment was positive, which confirmed that the patient had gastrointestinal bleeding. Blood routine tests were repeated after 5 d, and white blood count was > 20.00 × 109/L (reference range: 4.5-11.0 × 109/L). On postoperative day 8, the patient started to wheeze and her SpO2 was 68% (reference range: 95%-100%). Subsequently, disseminated intravascular coagulation was confirmed based on the following parameters: fibrinogen 4.03 g/L (reference range: 2-4 g/L), D-dimer determination 23.70 mg/L FEU (reference range: < 0.50 mg/L FEU), fibrin degradation products 59.53 mg/mL (reference range: < 10 mg/mL), antithrombin III 56.20% (reference range: 80%-120%), and increased serum sodium ion concentration of 164 mmol/L (reference range: 135-147 mmol/L).
+
+Microbiological identification of the causative agent
+
+Peripheral blood was extracted, and two samples were sent for mNGS and microbial culture. mNGS of plasma and posterior fornix puncture fluid revealed C. kerstersii with reads of 20 and 386, respectively (Figure 2). The blood culture results further confirmed the mNGS results, suggesting that the patient did indeed have a C. kerstersii infection.
+
+Figure 2 Detection of pathogens by metagenomic next-generation sequencing. All the pathogens’ reads and relative abundance that were detected in blood (A) and in the posterior fornix puncture fluid (B). The coverage and proportion of Comamonas kerstersii detected by metagenomic next-generation sequencing in blood (C) and posterior fornix puncture fluid (D). Coverage is the percentage of all reads covering the reference genome, and the average depth is the reads’ read length multiplied by the number of reads divided by the size of the reference genome. The ordinate depth in the figure shows the number of times the detected pathogen sequences are compared with the reference template. The larger the depth and coverage values, the more likely the pathogen in the sample is real, and the higher the content.
+
+FINAL DIAGNOSIS
+
+C. kerstersii was detected in the blood culture and mNGS testing.
+
+TREATMENT
+
+Empirical iv treatment with 4 g of clindamycin was given for 2 d after initial symptoms; however, it did not alleviate the symptoms. Following the detection of Gram-negative bacteria in the blood culture, the antibiotic treatment was adjusted to metronidazole (250 mg qid) and levofloxacin (200 mg bid). The patient was also treated with fasting and enema, however it showed no improvement in abdominal distension. Comamonas was found in the blood culture after three days of fever, and the antibiotic was changed to piperacillin-tazobartan (4.5 g tid for 2 d) based on the drug sensitivity data. Rehydration was also given to support treatment.
+
+The corresponding drug sensitivity is shown in Table 1. Due to the persistent high fever and signs of damage to multiple organs, the patient was transferred to the ICU, and the antibiotics were changed to meropenem (1.0 g tid). According to the drug sensitivity test, meropenem was continued and low-molecular-weight heparin (2000 IU ih bid) anticoagulant therapy was added to inhibit gastric acid secretion and protect the gastric mucosa.
+
+Table 1 Antimicrobial susceptibility of Comamonas kerstersii isolates
+
+Antibiotics	MIC mg/L	Susceptibility	
+Cefotaxime	0.25	S	
+Meropenem	0.25	S	
+Piperacillin-tazobartan	0.25	S	
+Ceftazidime	1	S	
+Ciprofloxacin	4	R	
+Gentamycin	8	I	
+Aztreonam	16	I	
+SMZ-TMP	> 32	R	
+Cefepime	0.5	S	
+Determined by disc diffusion. SMZ-TMP: Sulfamethoxazole-trimethoprim; MIC: Minimum inhibitory concentration; S: Sensitive; I: Intermediate; R: Resistant.
+
+OUTCOME AND FOLLOW-UP
+
+After treatment in the ICU, the patient’s body temperature, respiratory rate, heart rate, and oxygenation of the lung returned to normal, gastrointestinal bleeding stopped, abdominal distension relieved, and gastrointestinal function recovered. After 4 d in the ICU, she was transferred back to the obstetrics department, and the symptoms were completely relieved after 7 d.
+
+DISCUSSION
+
+C. kerstersii is a Gram-negative bacterium widely distributed in nature. It was originally described in 2003 as one of the three genotypes, native from Comamonas terrigena[1]. For a long time, C. kerstersii has been considered to be non-pathogenic to humans[1]. However, since the first human infection of C. kerstersii was reported in 2013, more reports of C. kerstersii related infections have been emerging[2,3,5-12]. Thus far, 26 Cases of C. kerstersii have been reported in the literature, of which three were patients with bacteremia[3]. This has led to the speculation that previous C. kerstersii infections may have been missed or misdiagnosed as C. kerstersii is not found in most databases for the identification of bacteria[4,5]. This problem has been solved by using new techniques in microbiology, such as MALDI-TOF-MS. By using mass spectrometry common as well as uncommon bacterial species can be accurately identified within minutes[5,6].
+
+Different from previous cases, we report for the first time a maternal postpartum case of C. kerstersii. The patient described in this case report, presented with obvious intestinal obstruction, upper gastrointestinal bleeding, and breathing difficulties. As such, the presence of a lower pulmonary artery embolism was also confirmed by CT, in addition to the typical symptoms of abdominal pain, nausea, vomiting, and fever. This is a unique case that has not been described in previous case reports. In addition to the former, the patient also developed significant hypernatremia at the stage of persistent high fever, however she did not show any symptoms of dehydration, and blood sodium levels were rapidly restored following normalization of body temperature. We cannot clarify yet whether the changes have a specific relationship with the infection. We hypothesize it could be due to intestinal obstruction and decompression by gastrointestinal loss of fluid. Since the patient started developing fever, clindamycin, levofloxacin, metronidazole, piperacillin-tazobartan, and meropenem were given as antibiotic treatment. A blood culture obtained on admission revealed the diagnosis of C. kerstersii. Although the drug sensitivity test confirmed that C. kerstersii was sensitive to a broad range of antimicrobial drugs, the antibiotics given in the early stage of the disease did not effectively control the development of the disease. The condition of the patient only started improving after the use of meropenem.
+
+Previous reports have shown a clear association between C. kerstersii and peritonitis resulting from diverticulosis, pelvic peritonitis, a perforated appendix, and bacteraemia [2,7,8,12,13]. Furthermore, an uncommon case of a 5-year-old girl with urinary tract infection caused by C. kerstersii has been published in 2018[9]. There is even one report of C. kerstersii infection resulting from contact with contaminated fish tank water, in which the patient fully recovered with levofloxacin[11]. The newest case report involving C. kerstersii infection is from March 2022. The prescribed case is unusual since the patient neither had predisposing conditions for his bacteremia, nor abdominal symptoms, except for recent constipation[14]. Although some strains are resistant to cephalosporins, the reports that have been discussed indicate excellent treatability with antibiotics and an optimistic prognosis following infection[15].
+
+To clarify the source of the bacteria, we carefully monitored and reviewed the whole treatment process and environmental safety, and found no potential source of infection due to external factors. Literature has indicated that C. kerstersii exists in the intestines of healthy people and could cause infection under specific conditions[11]. Therefore, we speculate that the onset of this case was related to abdominal irritation and translocation of colonized bacteria after cesarean section. This has been suggested by Opota et al[7] as well, who reported a patient with mixed C. kerstersii and Bacteroides fragilis bacteremia in the presence of diverticulosis. They suggested that translocation of C. kerstersii from the gut was the source of infections. A C. kerstersii infection is rare in clinical practice. In the identification of the bacterial cultures, we isolated the bacteria early with the MALDI-TOF-MS method, and confirmed the diagnosis by mNGS. Both assay methods provided rapid, accurate, and unbiased results.
+
+CONCLUSION
+
+This is the first report of maternal case of C. kerstersii bacteremia. Unlike previously reported cases, this patient developed a series of severe manifestations including intestinal obstruction, upper gastrointestinal bleeding, pulmonary embolism, hypernatremia, and rapidly progressing organ damage. Routine antibiotic treatment did not effectively treat her condition and improvement occurred only after giving meropenem, suggesting that the pathogenic force of C. kerstersii may be much higher than previous understanding. The detection via MALDI-TOF-MS and mNGS provides a reliable basis for the diagnosis of this rare bacterial infection. Early diagnosis and multidisciplinary intervention are essential.
+
+Informed consent statement: Informed written consent was obtained from the patient for publication of this report and any accompanying images.
+
+Conflict-of-interest statement: The authors declare that they have no conflict of interest to disclose.
+
+CARE Checklist (2016) statement: The authors have read the CARE Checklist (2016), and the manuscript was prepared and revised according to the CARE Checklist (2016).
+
+Provenance and peer review: Unsolicited article; Externally peer reviewed.
+
+Peer-review model: Single blind
+
+Peer-review started: February 18, 2022
+
+First decision: March 24, 2022
+
+Article in press: May 27, 2022
+
+Specialty type: Infectious diseases
+
+Country/Territory of origin: China
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): A
+
+Grade B (Very good): B
+
+Grade C (Good): 0
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Sharaf MM, Syria; Weerasinghe KD, Sri Lanka A-Editor: Liu X, China S-Editor: Chang KL L-Editor: A P-Editor: Chang KL

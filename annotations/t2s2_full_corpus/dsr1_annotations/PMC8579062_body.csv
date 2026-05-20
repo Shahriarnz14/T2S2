@@ -1,0 +1,150 @@
+event,time
+59-year-old,0
+African American,0
+woman,0
+hypertension,0
+hyperlipidemia,0
+type 2 diabetes mellitus,0
+end-stage renal disease,0
+diabetes mellitus nephropathy,0
+admitted to hospital,0
+altered mental status,0
+bizarre behavior,-8
+slow irrational speech,-8
+delusions,-8
+abnormal movements,-8
+somnolence,-8
+headaches,-72
+worsening dyspnea,-72
+scheduled for dialysis,0
+dialysis put on hold,-8
+agitation,-8
+automatisms,-8
+hand movements,-8
+head movements,-8
+orofacial movements,-8
+amlodipine,0
+carvedilol,0
+lisinopril,0
+hydralazine,0
+isosorbide dinitrite,0
+insulin,0
+methadone,0
+non-compliance with medications,0
+hypertensive (160/63 mmHg),0
+restless,0
+stereotypical head turning,0
+eyes closed,0
+staring episodes,0
+nonsensical involuntary movements,0
+oriented to person infrequently,0
+disoriented to time,0
+disoriented to place,0
+inability to follow commands,0
+inappropriate responses,0
+Glasgow Coma Scale 8/15,0
+no focal weakness,0
+no facial droop,0
+no meningeal irritation,0
+bibasilar rales,0
+altered mental status secondary to metabolic vs toxic encephalopathy,0
+CT head unremarkable,0
+chest X-ray cardiomegaly,0
+bilateral infiltrates suspicious for pulmonary edema,0
+toxicology screen negative,0
+blood ethanol <10 mg/dl,0
+sodium 145 mEq/L,0
+potassium 5.1 mEq/L,0
+chloride 102 mEq/L,0
+bicarbonate 21 mmol/l,0
+glucose 197 mg/dl,0
+alkaline phosphatase 102 U/L,0
+alanine aminotransferase 76 U/L,0
+aspartate aminotransferase 43 mg/dl,0
+calcium 9.8 mg/dl,0
+magnesium 2.3 mg/dl,0
+BUN 45 mg/dl,0
+creatinine 8.2 mg/dl,0
+WBC 7800 cells/mcl,0
+hemoglobin 12.7 g/dl,0
+platelets 123000 cells/mcl,0
+C-reactive protein 4.99 mg/dl,0
+ferritin 1581 ng/ml,0
+ANA unremarkable,0
+anti-dsDNA negative,0
+ANCA negative,0
+rheumatoid factor negative,0
+troponin mildly elevated,0
+pro-BNP mildly elevated,0
+ECG normal sinus rhythm,0
+occasional PVCs,0
+confusion,24
+no obeying commands,24
+no purposeful movements,24
+GCS 7/15,24
+BP 190-210/70-100 mmHg,24
+episodes of severe agitation,24
+BUN 70 mg/dl,24
+creatinine 11.0 mg/dl,24
+NGT placement,24
+hydralazine via NGT,24
+labetalol via NGT,24
+labetalol IV as needed,24
+Nephrology consult,24
+hemodialysis session,24
+hemodialysis sessions (days 3-10),72
+fluctuating altered mental state,72
+BUN 17-63 mg/dl,72
+Cardiology consult,72
+clonidine via NGT,72
+BP 160-210/65-120 mmHg,72
+episodes of hypotension,72
+withholding antihypertensives,72
+repeat CT brain unremarkable,168
+CSF elevated WBC,168
+CSF elevated protein,168
+CSF oligoclonal band negative,168
+EEG epileptic encephalopathy,240
+levetiracetam IV loading dose,240
+levetiracetam maintenance,240
+alert and oriented,264
+following commands,264
+GCS 13/15,264
+lethargic,312
+febrile,312
+BP 188/110 mmHg,312
+WBC 25000 cells/mcL,312
+neutrophilia,312
+chest X-ray atelectatic changes,312
+repeat CSF unremarkable,312
+blood cultures obtained,312
+urine cultures obtained,312
+CSF cultures obtained,312
+CSF viral panel PCR,312
+CSF encephalopathy markers,312
+transferred to ICU,312
+meropenem IV,312
+acyclovir IV,312
+repeat EEG diffuse encephalopathy,360
+MRI brain PRES,360
+continuous cardiopulmonary monitoring,360
+labetalol continuous infusion,360
+CSF viral panel PCR negative,360
+autoimmune encephalopathy markers negative,360
+acyclovir discontinued,360
+meropenem continued 7 days,360
+cultures negative,360
+leukocytosis resolved,360
+alert and oriented,480
+obeying commands,480
+GCS 15/15,480
+BP <150/80 mmHg,480
+regular hemodialysis,480
+outpatient antihypertensive regimen,480
+MRI late subacute hemorrhage,480
+encephalomalacia,480
+discharged to rehab,480
+modified Rankin scale 4,480
+neurologist follow-up,1440
+repeat MRI residual abnormalities,1440
+long-term levetiracetam,1440

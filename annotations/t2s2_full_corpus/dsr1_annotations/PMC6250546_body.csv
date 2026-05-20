@@ -1,0 +1,58 @@
+event,time
+67 years old,0\
+female,0\
+admitted to the hospital,0\
+fever,-96\
+chills,-96\
+cough,-96\
+dyspnea,-96\
+diabetes mellitus,0\
+temperature 38.9°C,0\
+mildly icteric,0\
+bilateral rhonchi,0\
+crepitations on auscultation,0\
+no tenderness over right hypochondrial region,0\
+"raised white blood cell count 10,400/mL",0\
+90.2% neutrophils,0\
+hemoglobin 11.0 g/dL,0\
+"platelet count 81,000/μL",0\
+aspartate aminotransferase 86 units/L,0\
+alanine aminotransferase 78 units/L,0\
+total bilirubin 49.3 μmol/L,0\
+blood glucose 18.4 mmol/L,0\
+blood urea nitrogen 24 mg/dL,0\
+creatinine 1.7 mg/dL,0\
+chest CT scan,0\
+septic pulmonary embolism,0\
+multiple peripheral nodules in both lungs,0\
+wedge-shaped peripheral infiltrative lesions,0\
+bilateral pleural effusions,0\
+mass within the liver,0\
+transthoracic echocardiography,0\
+mild tricuspid regurgitation,0\
+no vegetations on heart valves,0\
+intravenous imipenem,0\
+fever worsened,0\
+chills worsened,0\
+dyspnea worsened,0\
+contrast-enhanced abdominal CT,48\
+large liver abscess,48\
+no evidence of gas formation,48\
+pneumocardia,48\
+air within right ventricle,48\
+supine Trendelenburg position,48\
+100% oxygen administered,48\
+admitted to telemetry unit,48\
+liver abscess drained,48\
+continued intravenous imipenem,48\
+symptoms improved,96\
+transthoracic echocardiography no air,96\
+blood cultures yielded K pneumoniae,48\
+pus culture yielded K pneumoniae,48\
+discharged,600\
+Klebsiella pneumoniae primary liver abscess,0\
+no evidence of infective endocarditis,48\
+septic thrombophlebitis,0\
+bacteremia,0\
+septic complications,0\
+acute kidney injury,0

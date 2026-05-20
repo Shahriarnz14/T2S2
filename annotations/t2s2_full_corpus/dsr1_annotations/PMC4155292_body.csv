@@ -1,0 +1,96 @@
+event,time
+15-year-old,0
+adolescent,0
+male,0
+presented to neurosurgical emergency department,0
+blurring of vision,-360
+drowsy,0
+Glasgow Coma Scale 12/15,0
+referred from private healthcare center,0
+managed for tubercular meningitis,-720
+short stature (140 cm),0
+weighed 25 kg,0
+hypertelorism,0
+downslanting prominent eyes,0
+thick lips,0
+high palatal arch,0
+Mallampati score 3,0
+limited neck extension,0
+mouth opening 4 cm,0
+scoliosis of dorsal spine,0
+reduced thorax volume,0
+systolic murmur at left sternal edge,0
+sinus tachycardia (HR 140 bpm),0
+systemic hypertension (BP 180/100 mmHg),0
+high BP detected during previous hospitalization,-720
+no antihypertensives administered,-720
+no family history of Noonan's syndrome,0
+no past medical/surgical history,0
+mild motor delay since birth,0
+growth retardation since birth,0
+physical deformities since birth,0
+no cardiac decompensation symptoms,0
+no respiratory decompensation symptoms,0
+hemoglobin 12.8 g/dl,0
+normal serum electrolytes,0
+normal glucose,0
+normal liver function tests,0
+normal renal function tests,0
+normal coagulation profile,0
+normal platelet counts,0
+chest X-ray findings,0
+X-ray neck findings,0
+basilar invagination suspected,0
+atlantoaxial dislocation suspected,0
+sinus tachycardia on ECG,0
+left ventricular hypertrophy on ECG,0
+"Q-waves in leads II, III, aVF, V5, V6",0
+hypertrophic cardiomyopathy on echocardiography,0
+no LVOT obstruction,0
+no systolic anterior motion of mitral valve,0
+standard monitors attached,0
+HR 130 bpm,0
+BP 180/100 mmHg,0
+SpO2 100%,0
+antibiotic prophylaxis (cefuroxime),0
+resuscitation cart ready,0
+difficult airway cart ready,0
+premedicated with IV midazolam (1.5 mg),0
+right radial artery cannulation,0
+systolic BP 180-220 mmHg,0
+diastolic BP 100-120 mmHg,0
+esmolol bolus (10 mg x2),0
+esmolol infusion 500 μg/kg/min,0
+preoxygenation 5 minutes,0
+induction with morphine 3 mg,0
+thiopentone 100 mg,0
+successful bag mask ventilation,0
+Cormack-Lehane Grade 2b,0
+vecuronium bromide 2.5 mg,0
+fentanyl 40 μg,0
+lignocaine 30 mg,0
+tracheal intubation with 6.5 mm cuffed ETT,0
+left internal jugular vein cannulation,0
+anesthesia maintained with O2/N2O/sevoflurane,0
+tidal volume 4 ml/kg,0
+high respiratory rate,0
+end-tidal CO2 30 mmHg,0
+blood loss 50 ml,0
+surgery duration 120 minutes,0
+normal intraoperative blood gas,0
+pH 7.5,0
+PaO2 97 mmHg,0
+PaCO2 29 mmHg,0
+HCO3 22 mmol/L,0
+urine output monitored,0
+temperature monitored,0
+reversal with glycopyrrolate 0.2 mg and neostigmine 1.5 mg,0
+tracheal extubation,0
+GCS 12 post-op,0
+transferred to ICU,0
+shunt obstruction developed,+24
+GCS deteriorated to 7,+24
+reintubation,+24
+septic shock,+360
+multi-organ dysfunction syndrome,+360
+death after 15 days ICU stay,+360

@@ -1,0 +1,144 @@
+event,time
+26 year old female,0
+primigravida,0
+eight year history of ulcerative colitis,0
+presented to emergency department,"-8 (assuming initial presentation at 26 weeks gestation and readmission at 31 weeks, so 5 weeks prior to admission at 0; 5 weeks ≈ 840 hours; however, since admission is 0, initial presentation at 26 weeks is prior to readmission at 31 weeks, which is 5 weeks (≈840 hours) before current admission. However, the main event here is readmission at 31 weeks as the primary admission for toxic megacolon. The initial presentation was at 26 weeks (5 weeks prior). So 5 weeks = 5*7*24 = 840 hours before readmission. Therefore, the initial presentation events are at -840 hours.)"
+abdominal pain,-840
+fever,-840
+bloody diarrhoea,-840
+generalized weakness,-840
+26 weeks gestation,-840
+poorly controlled colitis,-840
+"tri-modal therapy with mesalazine, 6-mercaptopurine, prednisolone",-840
+stabilised with conservative management,-840 (after initial presentation)
+analgesia,-840
+intravenous fluids,-840
+intravenous steroids,-840
+discharged,-840 (after stabilization)
+readmitted,0 (at 31 weeks gestation)
+31 weeks gestation,0
+systemic signs of sepsis,0
+tachycardia,0
+hypotension,0
+pyrexia of 38.3 °C,0
+distended abdomen,0
+exquisitely tender on palpation,0
+positive rebound tenderness,0
+peritonitis,0
+plain film abdominal X-ray,0
+severe colonic distension,0
+no free air,0
+emergent caesarean section,0
+infra-umbilical midline incision,0
+fetus delivered,0
+apgar scores 9 at 1 minute,0
+apgar scores 9 at 5 minutes,0
+weight 1.474 kg,0
+height 36.2 cm,0
+midline incision extended,0
+total abdominal colectomy,0
+end ileostomy,0
+total operative time 96 min,0
+estimated blood loss 250 ml,0
+discharged nine days postoperatively,216 (9 days *24)
+neonate stabilized in ICU,0
+ventilator support,0
+weaned off ventilator,24 (assumed after stabilization)
+transitioned to neonatal progressive care unit,48 (assumed a few days after ICU)
+discharged home two weeks after birth,336 (2 weeks *24)
+pathologic examination confirmed toxic megacolon,0
+transmural inflammation,0
+erosion of bowel wall,0
+four weeks post-operative,672 (4 weeks *24)
+completion proctectomy,672
+creation of ileal reservoir,672
+ileoanal anastomosis,672
+diverting ileostomy,672
+operative time 177 min,672
+estimated blood loss 200 ml,672
+loop ileostomy reversed three months later,2184 (3 months ≈ 90 days *24)
+two months following ileostomy reversal,4368 (2 months ≈ 60 days *24)
+2-3 bowel movements per day,4368
+constitutionally well,4368
+optimal healing of surgical wounds,4368
+neonate 40-50th centile growth,4368
+satisfactory recovery,4368
+ulcerative colitis exacerbation during pregnancy,-840 (initial presentation at 26 weeks)
+toxic megacolon diagnosis,0 (during readmission)
+active disease at conception,"-672 (assuming conception occurred 24 weeks prior to 26 weeks gestation, but timeline is unclear; alternatively, if active disease at initial presentation (26 weeks), then -840)"
+increased risk preterm delivery,0 (due to active disease)
+low birth weight,0 (neonate's weight 1.474 kg)
+spontaneous abortion risk,0 (not applicable as pregnancy continued)
+perforation risk,0 (noted in discussion but not occurred)
+adhesions and scarring post-IPAA,4368 (discussed post-reversal)
+reduced fertility due to IPAA,4368 (explained during follow-up)
+26 year old female,0
+primigravida,0
+eight year history of ulcerative colitis,0
+abdominal pain,-840
+fever,-840
+bloody diarrhoea,-840
+generalized weakness,-840
+26 weeks gestation,-840
+poorly controlled colitis,-840
+"tri-modal therapy with mesalazine, 6-mercaptopurine, prednisolone",-840
+analgesia,-840
+intravenous fluids,-840
+intravenous steroids,-840
+discharged,-840
+readmitted,0
+31 weeks gestation,0
+systemic signs of sepsis,0
+tachycardia,0
+hypotension,0
+pyrexia of 38.3 °C,0
+distended abdomen,0
+exquisitely tender on palpation,0
+positive rebound tenderness,0
+peritonitis,0
+plain film abdominal X-ray,0
+severe colonic distension,0
+no free air,0
+emergent caesarean section,0
+infra-umbilical midline incision,0
+fetus delivered,0
+apgar scores 9 at 1 minute,0
+apgar scores 9 at 5 minutes,0
+weight 1.474 kg,0
+height 36.2 cm,0
+midline incision extended,0
+total abdominal colectomy,0
+end ileostomy,0
+total operative time 96 min,0
+estimated blood loss 250 ml,0
+discharged nine days postoperatively,216
+neonate stabilized in ICU,0
+ventilator support,0
+weaned off ventilator,24
+transitioned to neonatal progressive care unit,48
+discharged home two weeks after birth,336
+pathologic examination confirmed toxic megacolon,0
+transmural inflammation,0
+erosion of bowel wall,0
+completion proctectomy,672
+creation of ileal reservoir,672
+ileoanal anastomosis,672
+diverting ileostomy,672
+operative time 177 min,672
+estimated blood loss 200 ml,672
+loop ileostomy reversed three months later,2184
+two months following ileostomy reversal,4368
+2-3 bowel movements per day,4368
+constitutionally well,4368
+optimal healing of surgical wounds,4368
+neonate 40-50th centile growth,4368
+satisfactory recovery,4368
+ulcerative colitis exacerbation during pregnancy,-840
+toxic megacolon diagnosis,0
+active disease at conception,-840
+increased risk preterm delivery,0
+low birth weight,0
+spontaneous abortion risk,0
+perforation risk,0
+adhesions and scarring post-IPAA,4368
+reduced fertility due to IPAA,4368

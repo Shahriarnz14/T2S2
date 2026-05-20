@@ -1,0 +1,74 @@
+event,time
+37 years old,0
+male,0
+healthcare worker,0
+history of close contact with COVID-19 patient,-168
+high-grade fever,-144
+myalgia,-144
+dry cough,-144
+tested positive for COVID-19,-120
+self-isolate at home,-120
+worsening shortness of breath,-96
+admitted to the hospital,0
+bibasal crackles,0
+gallop rhythm,0
+resting tachycardia,0
+no pedal oedema,0
+lymphopaenia,0
+raised CRP (74 mg/L),0
+lactate dehydrogenase (303 U/L),0
+BNP (247 pg/mL),0
+deranged liver function tests,0
+normal haemoglobin,0
+normal white cell count,0
+normal electrolytes,0
+normal renal function,0
+negative cardiac troponins,0
+sinus tachycardia on ECG,0
+chest X-ray with minimal bibasal infiltrates,0
+TTE ejection fraction 10%-15%,0
+dilated left ventricle,0
+LV internal diameter end diastole 7.1 cm,0
+LV internal diameter end systole 6.3 cm,0
+serial cardiac troponins ordered,0
+serial ECGs ordered,0
+serial TTEs ordered,0
+persistent sinus tachycardia,0
+occasional premature ventricular contractions,0
+no ECG signs of ischemia,0
+high-grade temperature spikes (39°C–40°C),0
+CRP <100 mg/L,0
+prescribed ceftriaxone,0
+negative blood cultures,0
+negative urine cultures,0
+CRP creeping up,72
+changed to piperacillin/tazobactam,72
+vancomycin added,72
+renal function deterioration,120
+creatinine clearance worsening,120
+vancomycin levels normal,120
+off vancomycin,144
+creatinine clearance <10 mL/min/1.73 m²,168
+creatinine 657 μmol/L,168
+oliguria,168
+started intermittent haemodialysis,168
+renal biopsy showed acute tubular injury,168
+granular casts,168
+localised inflammation around tubules,168
+started on low-dose beta blocker,0
+started ACE inhibitor,0
+ACE inhibitor held,120
+intravenous antibiotics,0
+intermittent RRT for 8 days,168
+ICU admission,168
+improvement in ejection fraction (25%-30%),336
+renal function improving,336
+no longer oliguric,336
+dialysis discontinued,336
+discharged,336
+follow-up cardiac MRI EF 46%,2016
+moderate LV impairment,2016
+no myocardial fibrosis,2016
+renal function within normal range,2016
+follow-up in heart failure clinic,672
+follow-up in renal clinic,1008

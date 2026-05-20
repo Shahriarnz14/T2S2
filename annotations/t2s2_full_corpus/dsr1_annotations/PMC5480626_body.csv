@@ -1,0 +1,69 @@
+event,time
+74 years old,0
+male,0
+non-traumatic acute subdural hematoma on the right hemisphere,0
+emergency cranial trepanation,0
+mechanically ventilated,0
+ventilator-associated pneumonia,0
+computed tomography scan on admission,0
+soft-tissue infection of the craniotomy wound,0
+purulent secretion,0
+erythema,0
+swelling,0
+parietal area with cerebral herniation,0
+elevated intracranial pressure,0
+midline shift of 10 mm,0
+external ventricular drain implemented,0
+surgical revision of soft tissues and trepanation defect,0
+intraoperative exploration revealing old hematoma,0
+deep purulent secretion,0
+intracranial abscess formation,0
+empirical antibiotic therapy with meropenem,0
+rifampicin,0
+vancomycin,0
+microbiological samples obtained,0
+blood culture series,0
+bronchoalveolar lavage,0
+pathologist confirmed intracranial abscess,0
+leukocyte count 17.48/nL,0
+C-reactive protein level 445.2 mg/dL,0
+fever 38.3°C,0
+postoperative septic shock,0
+norepinephrine therapy up to 0.19 µg/kg/min,0
+Gram-negative pathogens in cranial wound samples,0
+MDR Acinetobacter baumannii in abscess samples,0
+MDR Klebsiella pneumoniae in bronchoalveolar samples,0
+intravenous fosfomycin 5 g every 8 hours,0
+meropenem 3 × 2 g as prolonged infusion,0
+intravenous colistin initial bolus 10 MIU,0
+intravenous colistin 4.5 MIU every 12 hours,0
+intraventricular colistin 0.25 MIU every 12 hours,0
+chest radiography cleared,192
+tracheal aspirates cleared,192
+normothermia,192
+de-escalation strategy for pneumonia,192
+colistin TDM performed,192
+colistin dose reduced to 2 MIU every 12 hours,192
+intraventricular colistin reduced to 0.25 MIU once daily,360
+intraventricular colistin paused,408
+TDM showed decreasing colistin levels,504
+intraventricular colistin resumed at 0.25 MIU once daily,504
+acute renal insufficiency,312
+continuous venovenous hemodialysis,312
+intermittent dialysis via arteriovenous Cimino shunt,312
+oliguria,312
+urine output increased,504
+weaned from dialysis,672
+sufficient renal function achieved,672
+intrathecal colistin stopped,624
+intravenous colistin monotherapy,624
+steady state achieved with 2 MIU three times daily,1920
+colistin serum level 4.4 mg/L,1920
+CSF colistin level 1.36 mg/L,1920
+sterile microbiological analyses,1920
+transferred to neurological rehabilitation facility,1920
+intermittently awake,4320
+responded to questions,4320
+followed requests,4320
+produced simple verbal sentences,4320
+no neurological side effects from intraventricular colistin,4320

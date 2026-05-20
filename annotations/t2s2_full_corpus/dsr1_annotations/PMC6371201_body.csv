@@ -1,0 +1,77 @@
+event,time
+48 years old,0
+male,0
+previously healthy,0
+asthenia,-2160
+daily fever,-2160
+night sweats,-2160
+weight loss of 6 kg over three months,-2160
+admitted to the emergency room,-120
+cough,-120
+dyspnea on exertion,-120
+blood cell count performed,-168
+pancytopenia,-168
+severe neutropenia,-168
+hemoglobin: 6.0 g/dL,-168
+leukocyte count: 0.8 × 10^9/L,-168
+neutrophil count: 0.14 × 10^9/L,-168
+lymphocyte count: 0.48 × 10^9/L,-168
+monocyte count: 0.17 × 10^9/L,-168
+platelet count: 70.0 × 10^9/L,-168
+no adenopathy,0
+no hepatosplenomegaly,0
+family history negative for hematological disorders,0
+family history negative for other neoplasms,0
+presumptive diagnosis of bacterial pneumonia,0
+hospitalized in semi-intensive care unit,0
+negative blood cultures,0
+negative serum galactomannan test,0
+bone marrow aspirate performed,0
+36% lymphoid cells with hairy cell morphology,0
+immunophenotyping by flow cytometry,0
+expression of CD19,0
+CD20bright,0
+CD11c,0
+CD25,0
+CD103,0
+CD123,0
+monoclonality demonstrated by lambda light chain restriction,0
+diagnosis of Hairy Cell Leukemia,0
+ARDS,0
+bone marrow biopsy not performed due to restricted movement,0
+broad-spectrum antibiotics (piperacillin/tazobactam and vancomycin),0
+general condition deteriorated,168
+significant worsening of dyspnea,168
+persistent fever,168
+septic shock of pulmonary origin,168
+ARDS,168
+acute renal injury requiring hemodialysis,168
+orotracheal intubation,168
+negative bacterial and fungal cultures of tracheal aspirate,168
+antibiotic regimen broadened to meropenem and liposomal amphotericin B,168
+vancomycin maintained,168
+subcutaneous Filgrastim administered,168
+"start IFN-α 3,000,000 IU three times a week",168
+contra-indication to cladribine,168
+vemurafenib unavailable,168
+BRAF V600E mutation negative,168
+low lymphocyte count,168
+progressive weaning of vasoactive drugs,192
+extubated,192
+neutrophil count increasing,192
+Filgrastim administered for seven days,168
+two packed red blood cell units provided,0
+hemoglobin: 8.2 g/dL after six days of medication,384
+leukocyte count: 2.68 × 10^9/L,384
+neutrophil count: 1.1 × 10^9/L,384
+lymphocyte count: 1.4 × 10^9/L,384
+monocyte count: 0.1 × 10^9/L,384
+platelet count: 0.63 × 10^9/L,384
+recovered status performance,384
+recovered renal function,384
+cladribine prescribed (0.09 mg/kg/day for seven days),456
+discharged to outpatient follow-up,456
+complete recovery of blood counts,later
+satisfactory general condition,later
+good quality of life,later
+bone marrow biopsy confirming complete response,later

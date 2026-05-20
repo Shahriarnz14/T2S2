@@ -1,0 +1,72 @@
+event,time
+77 years old,0
+male,0
+unstable angina,-2880
+coronary stent insertion,-2880
+Sigmart,-2880
+aspirin,-2880
+Almarl,-2880
+Herben,-2880
+admitted to the hospital,0
+chest X-ray,0
+echocardiogram,0
+blood urea nitrogen/creatinine,0
+hemoglobin,0
+aspirin stopped,-168
+bupivacaine,0
+dexmedetomidine,0
+pneumatic thigh tourniquet,0
+total anesthesia time,0
+crystalloid,0
+urine collection,0
+estimated blood loss,0
+vital signs,0
+recovery room,130
+vital signs,130
+urine and blood drained,130
+crystalloid,130
+post-operative pain,130
+intravenous patient-controlled analgesia,130
+antibiotics,130
+severe pain,190
+Tridol Injection,190
+mental change,1440
+Glasgow coma scale,1440
+vital signs,1440
+electrocardiogram,1440
+physical examination,1440
+urine collected,1440
+oliguria,1440
+laboratory examinations,1440
+CK,1140
+CK-MB,1140
+AST,1140
+BUN/Cr,1140
+troponin-I,1140
+coagulation panel,1140
+thrombocytopenia,1140
+fibrinogen degradation product,1140
+D-dimer,1140
+brain MRI,1440
+mild small vessel disease,1440
+serum myoglobin,1440
+urine myoglobin,1440
+red blood cell count,1440
+tourniquet-induced rhabdomyolysis,1440
+AKI,1440
+DIC,1440
+norepinephrine,1500
+arterial line,1500
+central line,1500
+fluid treatment,1500
+dialysis,1500
+fluid loading,1500
+Lasix,1500
+sodium bicarbonate,1500
+urine output,1500
+Denogan,1500
+fever,1500
+vital signs,1500
+cardiac arrest,1900
+cardiopulmonary resuscitation,1900
+death,2000

@@ -1,0 +1,66 @@
+event,time
+Here is the extracted table of clinical events and timestamps:,
+born ,-8760.0
+caesarean section ,-8760.0
+birth weight 2100 g ,-8760.0
+birth length 48 cm ,-8760.0
+Apgar scale 8 points ,-8760.0
+prominent forehead ,-8760.0
+relative macrocephaly ,-8760.0
+limb asymmetry ,-8760.0
+5th finger clinodactyly ,-8760.0
+2/3 toe syndactyly ,-8760.0
+genetic examination ,-489.0
+hypomethylation of the 11p15 region ,-489.0
+diagnosis of SRS ,-489.0
+delayed motor development ,-336.0
+walked independently ,-336.0
+hepatic dysfunction ,-420.0
+increased AlAT ,-420.0
+increased AspAT ,-420.0
+increased creatine kinase ,-420.0
+diagnosis of DMD ,-336.0
+genetic test ,-336.0
+mutation of the maternal DMD gene ,-336.0
+corticosteroids treatment ,-192.0
+prednisone treatment ,-192.0
+deflazacort treatment ,-96.0
+G-CSF treatment ,-72.0
+sepsis ,-72.0
+hypoglycaemia ,-72.0
+neurological symptoms ,-72.0
+glucose level 14 mg/dl ,-72.0
+urological care ,-72.0
+hypospadias ,-72.0
+cardiological diagnostics ,-12.0
+sinus tachycardia ,-12.0
+heart murmur ,-12.0
+propranolol treatment ,-12.0
+growth hormone deficiency ,0.0
+rhGH treatment ,0.0
+height 115.9 cm ,0.0
+weight 19.9 kg ,0.0
+BMI 14.8 kg/m2 ,0.0
+target height 182.5 cm ,0.0
+height velocity 4.3 cm/year ,0.0
+glucose and insulin levels ,0.0
+IGF-1 and IGFBP-3 concentrations ,0.0
+MRI of the hypothalamic-pituitary region ,0.0
+transparent septum cyst ,0.0
+rhGH therapy started ,0.0
+height velocity increased ,12.0
+IGF-1 level increased ,12.0
+BMI increased ,12.0
+glucose metabolism worsened ,12.0
+insulin resistance ,12.0
+HbA1c elevated ,12.0
+6MWT distance decreased ,12.0
+abnormal gait ,12.0
+rhGH dose reduced ,12.0
+behavioural treatment ,12.0
+lifestyle modification ,12.0
+rhGH therapy discontinued ,18.0
+densitometry performed ,18.0
+body mass composition examined ,18.0
+bone density test ,18.0
+Z-score -2.2 ,18.0

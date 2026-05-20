@@ -1,0 +1,112 @@
+event,time
+11-year-old,0
+girl,0
+admitted to ICU,0
+fever (38.7°C),0
+vomiting,0
+generalized abdominal pain,0
+no unusual history of drug allergies,0
+no medical history,0
+no surgical procedures,0
+looked unwell,0
+lethargic,0
+rash on palms and trunk,0
+no conjunctivitis,0
+no lymphadenopathy,0
+severe drowsiness,0
+arousable only by moderate stimuli,0
+meningeal signs negative,0
+respiratory rate 25/min,0
+oxygen saturation 93% in ambient air,0
+harsh breathing,0
+crackles during inspiration,0
+tachycardic (HR 135 bpm),0
+hypotension (BP 80/42 mmHg),0
+"abdominal tenderness, especially right lower quadrant",0
+white blood cells 13.5 ×10^3/µL,0
+neutrophils 94.5%,0
+erythrocyte sedimentation first hour 82 mm/h,0
+C-reactive protein 298.5 mg/L,0
+procalcitonin 18.45 mcg/L,0
+sodium 125 mmol/L,0
+potassium 3.1 mmol/L,0
+platelets 132 ×10^3/mcL,0
+aspartate aminotransferase 59 U/L,0
+alanine aminotransferase 177 U/L,0
+blood urea nitrogen 11.56 mmol/L,0
+creatinine 112.2 µmol/L,0
+D-dimer 5.4 µg/mL,0
+SARS-CoV-2 rapid PCR negative,0
+SARS-CoV-2 RT-PCR negative,0
+abdominal ultrasound: enlarged appendix 11.2 mm,0
+abdominal ultrasound: moderate pelvic fluid,0
+suspected appendicitis,0
+surgeon consulted,0
+emergency laparotomy appendectomy,2
+postoperative toxic acute distress,6
+postoperative tachycardia (HR 139 bpm),6
+postoperative hypotension (BP 76/39 mmHg),6
+echocardiogram: fractional shortening observed,6
+aggressive fluid resuscitation 60 mL/kg,6
+no improvement in blood pressure despite fluids,6
+dopamine initiated,6
+oxygen saturation 88%–90% in ambient air,6
+oxygen therapy 2 L/min via nasal cannula,6
+chest X-ray: bilateral paratracheal and paracardial spots suggesting bronchopneumonia,8
+ceftriaxone initiated,8
+amikacin initiated,8
+ceftriaxone discontinued,24
+amikacin discontinued,24
+imipenem initiated,24
+not vaccinated,0
+no personal or family history of allergic reactions,0
+no personal or family history of vasculitis,0
+no personal or family history of autoimmune disorders,0
+no personal or family history of cardiac disease,0
+no personal or family history of diabetes,0
+no personal or family history of hereditary disease,0
+history of contact with COVID-19,-720
+grandfather diagnosed with COVID-19,-720
+MIS-C suspected,24
+anti-SARS-CoV-2 IgG positive (3.0),24
+anti-SARS-CoV-2 IgM positive (5.5),24
+ferritin 719 ng/mL,24
+interleukin 6 >2500 pg/mL,24
+troponin-I 0.66 ng/mL,24
+enoxaparin initiated,24
+IV immunoglobulin initiated (2 g/kg),24
+aspirin 325 mg/day initiated,24
+general condition worsened,24
+continued to be febrile,24
+became anemic and more toxic,24
+hemoglobin decreased to 6.9 g/dL,24
+red blood cell transfusion administered,24
+no response to IVIG,28
+methylprednisolone pulse 30 mg/kg daily initiated,28
+emerging shock with aggravation of heart dysfunction,28
+echocardiogram: slight decrease in LV function,28
+echocardiogram: septal hypokinesia,28
+ejection fraction 30%,28
+dobutamine added,28
+favorable progression,48
+IV immunoglobulin completed,48
+vasoactive drugs discontinued,72
+dopamine discontinued,72
+dobutamine discontinued,72
+afebrile,72
+arterial pressure stable without inotropes,72
+"no pathogenic agents detected in blood, sputum, feces, or urine cultures",72
+histopathology: catarrhal appendicitis,72
+D-dimer downward trend,72
+troponemia resolved,120
+inflammatory parameters normal,264
+echocardiogram: normal biventricular function,264
+no aneurysms in proximal coronary arteries,264
+discharged,264
+advised low-dose aspirin 3 mg/kg,264
+follow-up outpatient visit after 2 weeks: blood tests normalized,600
+anti-SARS-CoV-2 IgG 84,600
+abdominal ultrasound normal,600
+cardiac ultrasound normal,600
+doing well since discharge without short-term complications,600
+follow-up outpatient visits planned every 3 months for 1 year,264

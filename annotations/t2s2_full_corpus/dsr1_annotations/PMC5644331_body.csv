@@ -1,0 +1,61 @@
+event,time
+90 years old,0
+female,0
+presented to emergency department,0
+hematemesis (five episodes),-120 (assuming 5 episodes over a short period before presentation)
+low back pain,"0 (no specific time, part of history)"
+taking nonsteroidal anti-inflammatory medications,"0 (recent use, time not specified)"
+hypertension,0 (chronic condition)
+stable vitals,0
+physical examination unremarkable,0
+urgent esophagogastroduodenoscopy,0
+Mallory Weiss tear,0
+Forrest 1a ulcer,0
+hemoclips deployed (three),0
+hemostasis achieved,0
+intravenous proton pump inhibitor,0
+hemodynamic instability,72 (3 days after admission)
+hemoglobin drop (9.0 to 6.5 g/dL),72
+second OGD,72
+slow active bleeding,72
+additional hemoclips and adrenaline injection,72
+hemostasis achieved,72
+melena (new episode),288 (12 days after admission)
+repeat OGD,288
+friable tissue and active bleeding,288
+three hemoclips deployed,288
+CT mesenteric angiogram,288
+no gastrointestinal bleeding,288
+no signs of pancreatitis,288
+refractory UGI bleeding,288
+referred to Interventional Radiology,288
+GDA embolization performed,288
+no active contrast extravasation,288
+no pseudoaneurysm,288
+embolization with microcoils (six),288
+completion angiograms showing no GDA opacification,288
+sudden severe epigastric pain,288 (end of procedure)
+hematemesis (post-procedure),288
+hemodynamically stable,288
+urgent OGD,288
+fresh blood in esophagus,288
+blood clot in gastric antrum and duodenum,288
+serum amylase increased (56 to 716 U/L),288
+serum lipase increased (87 to >600 U/L),288
+liver enzymes normal,288
+exploratory laparotomy,288 (same day)
+pyloromyoduodenotomy,288
+under running of duodenal ulcer,288
+gastrojejunal bypass,288
+edematous pancreas,288
+generalized bruising and fat saponification,288
+hemorrhagic pancreatitis,288
+recovery in SICU,288
+recovery in HDU,288
+pseudomonas septicemia,"297 (9 days post-surgery, 288+216=504? Wait, time might need adjustment)"
+atrial fibrillation,297
+CT scan 1 week later,360 (7 days post-embolization)
+acute focal pancreatitis,360
+loculated peripancreatic collection,360
+multiorgan failure,360 (leading to death)
+death,"360 (9 days after surgery, assuming surgery at 288h)"

@@ -1,0 +1,142 @@
+75-year-old male | 0
+admitted to the Department of Infectious Diseases | 0
+history of hypertension | 0
+fever | -168
+highest body temperature recorded was 39.0 °C | -168
+chills | -168
+dizziness during the fever | -168
+remission after fever | -168
+no headache | -168
+no abdominal pain | -168
+no diarrhea | -168
+sputum not evident | -168
+nasal congestion not evident | -168
+runny nose not evident | -168
+temperature was 39 °C | 0
+heart rate was 98 bpm | 0
+respiratory rate was 20 breaths per minute | 0
+blood pressure was 139/75 mmHg | 0
+oxygen saturation in room air was 98% | 0
+breath sounds in both the lungs were clear | 0
+heart rhythm was uniform | 0
+neurological tests were negative | 0
+white blood cell count 7.1 × 10⁹/L | 0
+neutrophils 58.6% | 0
+monocytes 24.4% | 0
+hemoglobin 83 g/L | 0
+C-reactive protein (CRP) 111.20 mg/L | 0
+interleukin-6 279.22 pg/mL↑ | 0
+interleukin-10 3653.30 pg/mL↑ | 0
+plasma procalcitonin 0.19 ng/mL | 0
+blood amyloid A 509.5 mg/L↑ | 0
+erythrocyte sedimentation rate 71 mm/L | 0
+lactate dehydrogenase 694 U/L↑ | 0
+creatine kinase 19 U/L↓ | 0
+albumin 27 g/L↓ | 0
+K+ 2.99 mmol/L↓ | 0
+Na+ 135.1 mmol/L↓ | 0
+Cl− 98.5 mmol/L↓ | 0
+calcium 1.87 mmol/L↓ | 0
+phosphorus 0.65 mmol/L↓ | 0
+creatinine level was normal | 0
+anti-nuclear antibody titer 1:100 | 0
+anti-SSA negative | 0
+anti-SCL70 positive | 0
+TORCH test normal | 0
+Plasmodium test normal | 0
+fungal D-glucan test normal | 0
+coronavirus disease 2019 test normal | 0
+hemorrhagic fever IgM antibody normal | 0
+Widder test normal | 0
+Weil Felix reaction normal | 0
+bilateral blood culture positive for Listeria monocytogenes | 48
+lumbar puncture performed | 24
+cerebrospinal fluid nucleated cell count 420 × 10⁶/L | 24
+cerebrospinal fluid lymphocytes 75% | 24
+cerebrospinal fluid lactate dehydrogenase 472 U/L↑ | 24
+cerebrospinal fluid total protein 261.3 mg/dL↑ | 24
+cerebrospinal fluid glucose 1.51 mmol/L↓ | 24
+cerebrospinal fluid chloride content 111.0 mmol/L↓ | 24
+cerebrospinal fluid adenosine deaminase 16 U/L | 24
+cerebrospinal fluid cryptococcal smear negative | 24
+cerebrospinal fluid cryptococcal capsular antigen test negative | 24
+cerebrospinal fluid culture negative | 72
+cerebrospinal fluid metagenomic test positive for Listeria monocytogenes | 72
+chest CT revealed small amount of effusion in the pleural cavities on both sides | 24
+chest CT showed nodules in pleura and under the pleura | 24
+cranial CT no obvious abnormalities | 24
+sepsis | 72
+lung infection | 72
+respiratory failure | 72
+electrolyte imbalance: hyponatremia | 72
+electrolyte imbalance: hypokalemia | 72
+autoimmune disease | 72
+Listeria monocytic meningoencephalitis | 72
+levofloxacin 0.5 g qd intravenous for 3 days | 0
+body temperature did not drop significantly | 72
+blood culture positive for penicillin-resistant Staphylococcus capitis subspecies | 72
+antibiotic treatment changed to vancomycin injection 500,000 U q6h intravenous infusion | 72
+vancomycin used for 6 days | 72
+body temperature returned to normal | 96
+vancomycin stopped | 216
+discharged from the hospital after relief was noted in the various symptoms | 216
+high fever again (maximum body temperature 39.7 °C) | 240
+chills | 240
+cough | 240
+sputum was thick and difficult to cough up | 240
+no chest pain | 240
+no limb twitching | 240
+pupils were sluggish in light reflection | 240
+confusion | 240
+mentally soft | 240
+could only communicate briefly | 240
+muscle strength test could not cooperate | 240
+voluntary activities were seen | 240
+diarrhea | 240
+hospitalized in emergency ICU | 240
+high-frequency oxygen inhalation | 240
+anti-infective and anti-inflammatory treatment with piperacillin and tazobactam 4.5 g q8h intravenously | 240
+administered methylprednisolone injection 40 mg | 240
+repeated fever (body temperature above 38.3 °C) | 240
+levofloxacin 0.5 g qd intravenous infusion added | 242
+body temperature returned to normal | 244
+consciousness became clear | 244
+CRP dropped to 76.4 mg/L | 244
+transferred to general ward of Department of Respiratory Medicine | 244
+atrial fibrillation occurred suddenly | 244
+unresponsiveness | 244
+slurred speech | 244
+shortness of breath under nasal cannula oxygen inhalation | 244
+pupils were slow in light reflexes | 244
+stiff neck | 244
+increased muscle tone | 244
+wet rales in both lungs | 244
+critically severe condition | 244
+repeated fever fluctuating around 38.7 °C | 244
+sudden blood pressure drops | 244
+signs of septic shock | 244
+active rehydration | 244
+norepinephrine to maintain blood pressure | 244
+antibiotics adjusted to vancomycin 1 million units q12h intravenous | 244
+meropenem injection 1.0 g q8h intravenous | 244
+transferred to ICU again | 244
+methylprednisolone reduced to 20 mg | 244
+methylprednisolone stopped | 248
+patient became unconscious | 388
+base of tongue fell back | 388
+shortness of breath | 388
+stiff neck | 388
+tremor of limbs | 388
+heart rate dropped to 40 bpm | 388
+tracheal intubation | 388
+ventilator-assisted breathing | 388
+condition continued to deteriorate | 388
+repeated high fever | 388
+septic shock | 388
+multiple organ failure | 388
+gradual decrease in consciousness | 388
+active fluid resuscitation | 388
+norepinephrine to maintain blood pressure | 388
+tracheal intubation with ventilator-assisted ventilation | 388
+condition did not improve significantly | 400
+family decided to discontinue further treatment | 400

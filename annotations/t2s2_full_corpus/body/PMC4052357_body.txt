@@ -1,0 +1,87 @@
+1 Introduction
+Candida kefyr is an ubiquituous yeast that is usually considered as making part of the yeast microflora in dairy products and cheeses [1]. Accordingly, most of C. kefyr were isolated from gastrointestinal tract in humans, and it can be supposed that its carriage tightly depends on eating habits. C. kefyr has been described also as an emerging opportunistic pathogen, particularly in patients with oncohematological diseases [2–4]. Intriguingly, the prevalence of C. kefyr seems to be unexpectedly high in some oncohematology units: for example, in three French teaching hospitals, its frequency was reported to be twice that of all other wards [3]. Even though such a high prevalence remains rationally unexplained, it may pose specific problems of resistance in oncohematology where antifungal prophylaxis and empirical treatment are commonly used. It is probable that clinical isolates of C. kefyr can exist majoritarily under the form of haploid cells, as do its teleomorphic form Kluyveromyces marxianus
+[5]. Haploidy could contribute to the development of antifungal resistance, notably by mutations in the genes encoding the target of antifungals [6]. Recently, the first clinical isolate of C. kefyr resistant to caspofungin was described [4]. In this study, we report the isolation of a clinical isolate cross-resistant to azole-antifungals in a patient who had undergone a stem cell transplantation for an acute myeloid leukemia. Taking advantage of the recent nucleotide sequencing of the genome of K. marxianus
+[7], we retrieved the sequence of the ERG11 gene, and designed primers for the cloning and sequencing of the ERG11 allele from the azole-resistant isolate. This allowed us to identify two missense mutations leading to the amino acid substitutions E123Q and K151E, whose combination could account for the high level of resistance to fluconazole and voriconazole, and to azole cross-resistance phenotype in C. kefyr.
+
+2 Case
+A 32-year-old woman was diagnosed in 1997 with JAK2 mutation-negative essential thrombocythemia (ET) treated by pipobroman the first 7 years, then hydroxyurea and anagrelide for 4 and 3 years, respectively. In 2012, the patient began complaining about asthenia, with a gradual decrease in hemoglobin level. Anagrelide was stopped and a bone marrow biopsy was performed in December 2012, which showed the occurrence of a grade 2 myelofibrosis. A few weeks later, hematologic tests revealed more than 20% of blastic cells in peripheral blood, indicating that ET with myelofibrosis had evolved into acute myeloid leukemia.
+
+The patient had one HLA-identical sister, and received an allogeneic bone marrow hematopoietic stem-cell transplantation (HSCT) on 27 March 2013. On Day 0 (D0) of HSCT, the patient was admitted to intensive care unit (ICU) for an acute respiratory distress syndrome (RDS). Four blood cultures (BacT/Alert 3D, BioMérieux, Organon Teknika, USA) yielded Staphylococcus aureus and Escherichia coli. A broad-spectrum antibiotherapy (tazobactam/piperacillin, amikacin and vancomycin) associated with furosemide for the acute pulmonary edema led to a rapid improvement of the patient condition. An oral fluconazole prophylaxis (400 mg/day) was also started. On Day 12, the patient was readmitted to ICU for an acute RDS and a septic shock with no microbiological evidence of infection. The patient became afebrile after an empirical antibiotherapy (ceftazidime and linezolid).
+
+On Day 37, the patient presented with the first symptoms of a Graft-versus-Host Disease (GvHD), that developed to the skin, the gastro-intestinal tract and the liver. She received corticosteroids, inolimomab, sirolimus and basiliximab but digestive disorders remained chronic with hemorrhagic manifestations.
+
+On Day 63, during another admission to ICU for similar respiratory symptomatology, a new antibiotic regimen (imipenem, ciprofloxacin and subsequently ceftriaxone) associated to intravenous caspofungin (50 mg/day) was started. Routine microbiological surveillance cultures were performed weekly. During two months, June and July, Candida albicans was isolated from oropharynx swab, rectal swab or stools and urine. Then, from 12 August, C. albicans was no longer isolated butcultures documented a colonization of the gastrointestinal and urinary tracts by C. kefyr (teleomorph, K. marxianus), with an increasing fungal load.
+
+Caspofungin stopped after 2 months and switched to oral fluconazole (400 mg/day) was restarded on 17 August.The neutropenic patient suffered from an unexplained fever that led to perform a thoracic computed tomography (CT) on 24 September. CT imaging showed pulmonary nodules suspected to be a pulmonary aspergillosis. Antifungal therapy with caspofungin was switched to voriconazole. Serum galactomannan (GM) assay (Platelia® Aspergillus Ag Kit, Bio-Rad), performed twice a week, was constantly negative. On 26 September, GM assay index measured on bronchoalveolar lavage (BAL) was negative. The BAL culture yielded no Aspergillus but heavy growth of C. kefyr. Blood cultures remained negative. No other pathogen was found.
+
+On 2 October, measurement of (1→3)-β-d-glucan antigenemia (Fungitell® Assay, Associates of Cape Cod, Inc., East Falmouth, MA) revealed a significantly elevated serum concentration of 411 pg/mL (positive cutoff ≥80 pg/mL). A possible deep candidiasis was suspected by the clinicians and treatment with caspofungin was resumed [8]. Follow-up CT showed the increase in size and number of pulmonary lesions. The patient was readmitted to ICU with an acute renal failure and died of multiple organ failure one week later.
+
+Identification of C. kefyr was performed with matrix-assisted laser-desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS, Microflex, Bruker Daltonik). Identification was confirmed by amplifying and sequencing the internal transcribed spacer (ITS) region of rDNA and a segment of the 18S rDNA gene, using the universal primer pair ITS1 and ITS4, and the primer pair NS3 and NS4, respectively (Table 1). PCR products were synthesized using HiFidelity Taq-polymerase (QIAGEN, Hamburg, Germany), and purified with QIAquick PCR purification kit (QIAGEN). ITS1, ITS4, NS3, NS4 were used individually as primers to sequence both strands of each PCR product with ABIPrism Dye Terminator Cycle Sequencing Ready Reaction v1.1 Kit (Applied Biosystems, Foster City, CA, United States) according to the manufacturer׳s instructions. The nucleotide sequences of ITS (GenBank accession number KF964549) and of the 18S rDNA gene segment (GenBank accession number KF964550) were compared with those of the databases of the National Center for Biotechnology Information website (http://www.ncbi.nlm.nih.gov) using the Basic Local Alignment Search Tool [9].
+
+Antifungal susceptibility testing was performed by E-test (BioMérieux) on RPMI medium. The MICs were measured after 24 h and 48 h of incubation, and tested twice from different C. kefyr isolates. The MIC values of azole, amphotericin B and echinocandin antifungals for the strain isolated in September, so called the C. kefyr PAZ isolate, are given in Table 2. The PAZ isolate exhibited high MIC values for all azole antifungals tested, and was fully resistant to fluconazole and voriconazole. The MIC values of two other strains were determined as control: one routinely recovered from an unrelated patient (isolate TEM) and the reference strain K. marxianus CBS 6556, the teleomorph of C. kefyr. Both strains were fully susceptible to all antifungals tested.
+
+The ERG11 gene encoding lanosterol 14-α-demethylase of C. kefyr was identified from the raw database of the genome sequence of the strain CBS 6556 (ATCC 26548) of K. marxianus
+[7]. The nucleotide sequence of ERG11 was retrieved from the scaffold 2 (Genbank accession number JH924897) by the dot-plot DNA matrix analysis tool [10] embedded in the MacVector software (v12.7), using as query the ERG11 nucleotidic sequence of the Kluyveromyces lactis strain NRRL Y-1140 (Genbank accession CR382125, locus tag KLLA0_E03653g, [11]). The ERG11 gene was then amplified by PCR from the clinical isolates PAZ and TEM, and from the reference strain CBS 6556, using the primer pair FergCk0 and RergCk0 (Table 1). The nucleotide sequence of the 1581 bp coding region was determined for the three alleles with the aim to identify mutations that could be responsible for the resistance to azole antifungals in the isolate PAZ. The sequence data were assembled and compared each other, allowing the identification of several single nucleotide polymorphisms (SNP) (Table 3). Most SNP corresponded to silent mutations with no amino acid changes. Interestingly, the PAZ ERG11 allele possessed two missense mutations, E123Q and K151E that were not present in the ERG11 alleles of the azole susceptible control strains. Genbank accession numbers for the nucleotide sequences of the TEM, PAZ and CBS 6556 ERG11 alleles are KF964548, KF964547 and KF964546, respectively.
+
+3 Discussion
+C. kefyr may be considered as an emerging pathogen, particularly in patients of oncohematology units [2–4]. In Bordeaux University Hospital Center (Bordeaux, France), during an 8-year period (2005–2012), a total of 3701 Candida spp. were isolated from routine mycological cultures performed from oncohematological patients. Non-albicans Candida represented 1858 isolates (50.2%), of which 359 isolates of C. kefyr (9.7% of total Candida isolates). This unexpected prevalence of C. kefyr is two-fold higher than that previously reported (4.8%) from oncohematology wards of three other French teaching hospitals [3]. The incidence of C. kefyr in the 612 candidemia diagnosed over the period 2005–2012 from all wards of our institution was 1.8%. This is similar to the data reported from the YEASTS surveillance program in another French area during the period 2002–2010 (1.7% of candidemia caused by C. kefyr
+[12]). However, in Bordeaux, two-third of candidemia due to C. kefyr were diagnosed in adult patients hospitalized in oncohematology, making C. kefyr responsible for 15% of the candidemia in the adult oncohematology ward.
+
+The reasons of the high incidence of C. kefyr in the gastrointestinal flora of patients with hematologic malignancies are not fully defined. Some of the proposed hypothesis are mucositis, exceptionally frequent among this patient population, and the selection pressure exerted by empirical therapeutics as well as antifungal prophylaxis on less susceptible C. kefyr strains [3]. Both mechanisms could have been involved in the case reported here. Indeed, colonization of the gastro-intestinal tract of the patient by C. kefyr was persistent in spite of antifungal treatment based on azole and echinocandin. This was intriguing because C. kefyr is considered as being susceptible to all systemic antifungals [13,14].
+
+The C. kefyr PAZ isolate recovered was resistant to all azole antifungals, with very high MICs to fluconazole and voriconazole, and susceptible to echinocandins and amphotericin B. Taking advantage of the publication of the genome sequence of K. marxianus
+[7], the teleomorph of C. kefyr, we designed oligonucleotide primers for the cloning and sequencing of the different ERG11 alleles from the azole resistant PAZ clinical isolate, and the azole susceptible TEM clinical isolate and reference strain CBS 5665 of K. marxianus.
+
+Pairwise comparison of the nucleotide variability of the 1581 bp coding region of the different ERG11 alleles revealed from 6 to 12 SNP according to the alleles considered. Most of them were silent mutations, but two, specific to the ERG11 allele of the azole-resistant isolate, were missense mutations (G367C and A451G) encoding the amino acid substitutions E123Q and K151E. Both substitutions were located in the hot spot region 1 thought to be involved in the conformation of a channel for access of the inhibitors to the catalytic site [15–17]. The K151E substitution of the C. kefyr Erg11p corresponds to the well characterized K143E substitution of the C. albicans Erg11p, which was demonstrated to confer resistance to fluconazole, but no significant cross-resistance to other azole [18,19]. As frequently reported, this mutation was in fact often associated to another mutation for conferring high-level resistance to several azole antifungals [19]. Interestingly, an E123Q substitution was also present in the azole-resistant C. kefyr Erg11p. The occurrence of a substitution at the orthologous position (E115) in the protein of C. albicans was never described so far [17]. Although many other mechanisms can be involved in azole resistance, mainly ERG11 upregulation and ABC efflux transporters overexpression [6], we believe that the combination E123Q and K151E could account for the high level resistance to fluconazole and voriconazole, and azole cross-resistance phenotype in the PAZ C. kefyr isolate. In particular, the precise role in azole resistance of the newly described mutation E123Q of the C. kefyr Erg11p, ortholog of E115 in C. albicans, and of the β1-5 segment of the protein that carries the substitution [16], remains to be demonstrated by functional allele replacement.
+
+Although serum level of β-d-glucan strongly suggested an invasive fungal infection, the causal relevance of C. kefyr could not be strictly demonstrated in the case reported here. However, it underlines the risk of emergence of antifungal-resistant C. kefyr strains in patients with oncohematological diseases, as a consequence of the high prevalence in this species combined to the antifungal selective pressure exerted on a haploid yeast. Recently, it was reported the first C. kefyr isolate with acquired echinocandin resistance [4]. These findings, along with the case reported here, point the importance of antifungal susceptibility testing for the surveillance of emergent antifungal-resistant C. kefyr in oncohematology unit.
+
+Conflict of interest
+The authors have no conflict of interest. The authors are responsible for the content and writing of the paper.
+
+Acknowledgments
+The authors would like to acknowledge the Genotyping and Sequencing facility of Bordeaux for participating to the sequencing of ITS, 18S and ERG11 genes.
+
+Table 1 Oligonucleotides used in this study.
+
+Oligonucleotide	Sequence (5′–3′)	Use	
+ITS1	TCCGTAGGTGAACCTGCGG	Amplifying and sequencing the C. kefyr ITS region	
+ITS4	TCCTCCGCTTATTGATATGC	
+
+
+	
+NS3	GCAAGTCTGGTGCCAGCAGCC	Amplifying and sequencing part of the C. kefyr 18S rDNA gene	
+NS4	CTTCCGTCAATTCCTTTAAG	
+
+
+	
+FergCk0	CACGATAATAGATCATGTCTACGTCTGAATCG	Amplifying and sequencing the C. kefyr ERG11 gene	
+RergCk0	TAATTGATTTACTTCCTCAAAGTCCACTCAA	
+FergCk2	AAGTTCGTTAAGGGTGCTTTGACT	Sequencing the C. kefyr ERG11 gene	
+FergCk3	GCTGCTACCTCCGCTTGGGCT	
+RergCk5	GATGTAATCTTAGGGTTTCCTTGATAG	
+RergCk6	TGAGTGACCATGACGTTGATCTTACC	
+Table 2 MIC values of azole, echinocandin and amphotericin B antifungals for C. kefyr clinical isolates and reference strain CBS 6556.
+
+Strain/isolate	Antifungal MIC (µg/mL)	
+Fluconazole	Voriconazole	Itraconazole	Posaconazole	Caspofungin	Micafungin	Amphotericin B	
+PAZ	>256	>32	1	1	0.19	0.19	0.75	
+TEM	0.047	0.004	0.016	0.012	0.094	0.094	0.25	
+CBS 6556	0.016	0.004	0.016	0.016	0.006	0.023	0.25	
+Table 3 SNP occurring in the different ERG11 alleles of the C. kefyr clinical isolates and the reference strain CBS 6556.
+
+TEM versus CBS 6556	PAZ versus CBS 6556	PAZ versus TEM	
+SNP	Mutation	aa	SNP	Mutation	aa	SNP	Mutation	aa	
+T43C	Synonymous	L15L	T43C	Synonymous	L15L	G150T	Synonymous	S50S	
+G270A	Synonymous	V90V	G150T	Synonymous	S50S	A270G	Synonymous	V90V	
+A930T	Synonymous	G310G	G367C	Missense	E123Q	G367C	Missense	E123Q	
+T1107C	Synonymous	T369T	A451G	Missense	K151E	A451G	Missense	K151E	
+C1120T	Synonymous	L374L	C753T	Synonymous	Y251Y	C753T	Synonymous	Y251Y	
+C1209T	Synonymous	G403G	T1371A	Synonymous	S457S	T930A	Synonymous	G310G	
+A1284T	Synonymous	P428P				C1107T	Synonymous	T369T	
+C1305T	Synonymous	A435A				T1120C	Synonymous	L374L	
+						T1209C	Synonymous	G403G	
+						T1284A	Synonymous	P428P	
+						T1305C	Synonymous	A435A	
+						T1371A	Synonymous	S457S	
+SNP: single nucleotide polymorphism; aa: amino acid.

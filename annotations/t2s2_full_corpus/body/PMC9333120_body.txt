@@ -1,0 +1,51 @@
+pmcSir,
+
+The life expectancy of HIV-infected patients has increased over recent years [1], as a result, patients’ now access health care facilities which were previously limited to them, such as the intensive care unit (ICU) where admission rates have increased during the last decade. ART’s lifesaving role in ICU is a controversial topic [2]. A recent meta-analysis reported better outcomes both on short-term and long-term mortality in patients treated with ART during their ICU stay [3].
+
+We present a case of an HIV-patient admitted to the ICU with undetectable plasma concentrations of dolutegravir (Cp-DTG) along the entire dose range. A 32-year-old obese (body mass index=30kg/m2) Turkish male was diagnosed with lymphoma with plasmablastic differentiation, tumor lysis syndrome, and septic shock. Since the HIV diagnosis one month before, the patient was on dolutegravir/abacavir/lamivudine (DTG/ ABC/3TC) one of the preferred first-line regimen for adults in international guidelines. DTG/ABC/3TC was introduced into the ICU medication and was administered by nasogastric tube (NT).
+
+As is routine in our clinical practice, we analyzed the Cp-DTG, as well as of the other drugs (meropenem, linezolid and anidulafungin), in our institution with high-performance liquid chromatography validated method in order to guarantee correct concentrations. The plasmatic drug concentrations were measured on the fourth day of admission to the ICU when all drugs had reached steady state.
+
+The fact we observed detectable plasma concentrations for the intravenous drugs analyzed (meropenem concentration through (through) and Cpeak were 12.4 mg/L and 35,4 mg/L, linezolid C through and Cpeak were 1.7 mg/L and 11.9 mg/L, and anidulafungin Cthrough and Cpeak were 2.1 mg/L and 5.8 mg/L), and that the CpDTG were undetectable including the peak representing enteric absorption could be related to several factors, including pathophysiological and pharmacological.
+
+Pathophysiological factors are discussed:
+
+Inflammation and immunosuppression status: This situation could occur derived from inflammation and immunosuppression in critically ill patients, which may alter drug metabolizing enzymes, transporters, fluid shifts, and plasma proteins (PP)[4].
+
+Our patient presents acute inflammation derived from septic shock and tumor lysis syndrome, as demonstrated with the biomarker’s elevation such as ferritin (123280ng/mL), C-Reactive protein (24mg/dL), D-dimer (5359mcg/mL) and procalcitonin (91ng/mL).
+
+Enteric malabsorption: It could be a consequence of mesenteric hypoperfusion originated by redistribution of blood flow away from the gastrointestinal tract in order to regulate cardiovascular homeostasis in the presence of shock [5]. This can be reflected in hyperlactatemia determination as well as high norepinephrine requirements, both up to values of 9.5mmol/L and 3.6mg/hour respectively. In this context, our patient received trophic enteral feeding (EF) because high gastric retention episodes. EF intolerance was presented for days and could lead to atrophy of the intestinal mucosa, causing decreased dolutegravir absorption.
+
+Drug distribution and elimination alterations: Critical illness-related increased leakage of plasma (albumin=1.4g/dL) and invasive mechanical ventilation as is the case presented, is not expected to influence the dolutegravir distribution volume (Vd) due to its lipophilia (logP=2.2). Our patient could present intensely increased dolutegravir clearance as a result of severe hypoalbuminemia and hyperbilirubinemia (4.5mg/dL) due to significant dolutegravir binding to PP (≥98.9%).
+
+Fever: As the effect of hypothermia-mediated alterations in the cytochrome P450 enzymes [6] has been described, high and persistent fever (up to 40ºC) in our patient could be a disturbing factor.
+
+Figure 1 Factors influencing the pharmacokinetics of dolutegravir
+
+AFG=anidulafungin; BMI=body mass index; CRP= C-Reactive protein; CVVHD= continuous venovenous hemodialysis; DTG=dolutegravir; GF=glomerular filtration; HIV= human immunodeficiency virus; LDZ=linezolid; MRP=meropenem, Proca=procalcitonin; UD=undetectable; SCr=serum creatinine; TG=triglycerides
+
+Haematological malignancies: These may interact with some drugs increasing their Vd and clearance [7], however, lymphoma impact on dolutegravir pharmacokinetics is unknown.
+
+Pharmacological aspects are discussed:
+
+NT drug administration: This strategy is usually required in critical patients. Currently, only zidovudine is formulated intravenously, and, in most cases, antiretroviral tablets are manipulated for administration in the absence of data on their impact. Based on the experience of Roskam-Kwint et al., dolutegravir administration by NT wouldn’t be a contributing factor to the undetectable CpDTG observed because crushing DTG/ABC/3TC leads to a higher dolutegravir concentrations unaffected by enteral nutrition [8]. This trial was performed with healthy volunteers ignoring disturbing factors involved in real practice, such as disease-drug and/or drug-drug interactions.
+
+Sedoanalgesia drugs: It can cause a delay in gastric emptying, slowing dolutegravir absorption. Prokinetic drugs weren’t introduced until several days after dolutegravir determination, so they couldn’t have caused any impact on absorption.
+
+Drug-drug interactions: Dolutegravir absorption is not acid-dependent, therefore, alkalinization of the gastric pH derived from omeprazole stress ulcer prophylaxis [5] of the critically ill patient isn’t expected to alter its bioavailability.
+
+The patient was treated with rifampin seven days before CpDTG determination and double dose dolutegravir were reduced immediately after its suspension. Despite rifampicin induction dissipates two weeks after discontinuation [9], this doesn’t explain the lack of dolutegravir absorption detected.
+
+Other factors : Data on specific dolutegravir dosage adjustments based on ethnicity, obesity and hepatic/renal function are lacking. It should be noted that the patient was subjected to continuous venovenous hemodialysis hours prior to CpDTG determination, however minimal dolutegravir removal by hemodialysis is expected [10]. Moltó et al,. [10] measured both predialyzer, postdialyzer CpDTG and DTG concentrations in the dialysate from 5 HIV-infected patients with end-stage renal disease. Moló et al,. [10] observed a median DTG hemodialysis extraction ratio of 7%, negligible DTG concentrations in the dialysate, and a CpDTG postdialyzer 34,1 times above the protein-binding-adjusted inhibitory concentration. Their data suggests that no specific dolutegravir dosage adjustments are required in hemodialysis.
+
+The minimal removal of DTG by hemodialysis technique is consistent with its physicochemical characteristics [10] due to it is highly binding to PP and a molecular weight of 419.38 g/ mol. In addition, it is minimally eliminated by the kidneys (<1% unchanged).
+
+To our knowledge, this is the first case reported demonstrating the impact of critical illness-related enteric malabsorption on DTG by measuring drug levels. The patient was extraordinarily complex, like many ICU patients. It is essential to study ART pharmacokinetic behavior in critical illness, especially in the absence of intravenous formulations.
+
+FUNDING
+
+None to declare.
+
+CONFLICTS OF INTEREST
+
+The authors declare no conflicts of interest.

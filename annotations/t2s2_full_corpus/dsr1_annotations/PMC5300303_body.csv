@@ -1,0 +1,68 @@
+event,time
+30 years old,0
+white,0
+Brazilian,0
+woman,0
+G1P0,0
+27 weeks of gestation,0
+emergency department,0
+progressive dyspnea,-120
+lethargy,-120
+fever,-120
+bacterial pneumonia,0
+Amoxicillin plus Clavulanate 1g TID,0
+Clarithromycin 500mg BID,0
+Oseltamivir 75mg BID,0
+no auscultatory findings,0
+consolidation in the base of the left hemithorax,0
+fetal ultrasound no alteration,0
+hospitalization,0
+worsening dyspnea,4
+increased demand of supplemental oxygen,4
+transferred to ICU,4
+continuous non-invasive ventilation (NIV),4
+full-face mask 10 L/min O2,4
+unsatisfactory clinical response,7
+unsatisfactory laboratorial response,7
+elective endotracheal intubation,7
+severe hypoxemia,16
+PaO2/FiO2 <80,16
+ARDS,16
+neuromuscular blockade,16
+alveolar recruitment,16
+no adequate response,16
+semi-pronation position 900 to the left,16
+alveolar recruitment,16
+no satisfactory improvement in oxygenation,16
+veno-venous ECMO installation,24
+right internal jugular vein cannulation,24
+right femoral vein cannulation,24
+preserved cardiac function,24
+echocardiogram,24
+not interrupt gestation,24
+fetus viability daily monitored,24
+betamethasone 48 hours,24
+increased white blood cell count,96
+new culture samples obtained,96
+Piperacillin-Tazobactam,96
+Oseltamivir continued,96
+Amoxicillin and Clavulanate resistant Enterobacter,96
+important impairment of lung function,168
+Methylprednisolone 2mg/kg,168
+Methylprednisolone maintained until extubation,168
+ECMO 9 days,216
+mechanical ventilation 11 days,264
+significant improvement in lung function,264
+extubated,288
+intermittent NIV,288
+ICU discharge,360
+discharged,504
+current pregnancy 30 weeks,504
+fetal ultrasound normodramnia,504
+fetal biometry compatible with gestational age,504
+antenatal evaluation regularly,504
+uneventful antenatal evaluation,504
+Caesarean section electively performed,504
+healthy male infant,504
+no competing interests,0
+no specific funding,0

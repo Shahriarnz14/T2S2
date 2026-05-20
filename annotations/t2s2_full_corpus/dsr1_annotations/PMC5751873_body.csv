@@ -1,0 +1,56 @@
+event,time
+65 years old,0
+male,0
+diet-controlled type 2 diabetes mellitus,0
+hyperlipidemia,0
+stage 3 chronic kidney disease,0
+cardiac arrest,-17520
+chills,-48
+body aches,-48
+shortness of breath,-48
+cough,-48
+productive of yellow sputum,-48
+blood in sputum,-48
+denied sick contacts,-17520
+denied travel,-17520
+no hospitalizations in preceding 6 months,-4320
+heavy alcohol use,-17520
+smoking,-17520
+confused,0
+hypoxemic,0
+chest radiograph moderately dense consolidation right mid-lung,0
+azithromycin,0
+ceftriaxone,0
+no improvement on supplemental oxygen,0
+intubated,24
+blood cultures grew non-lactose fermenting Gram-negative rods,24
+respiratory cultures grew non-lactose fermenting Gram-negative rods,24
+meropenem,24
+levofloxacin,24
+amikacin,24
+lymphopenia,0
+persistent elevation in blood lactate,0
+worsening thrombocytopenia,0
+acute kidney injury,0
+high oxygen requirements,0
+repeat chest radiograph showed progression of disease,72
+transferred to ICU,72
+extracorporeal membrane oxygenation support,72
+septic shock,72
+unresponsive to 3 vasopressors,72
+coarse breath sounds,72
+lower extremities cool and mottled,72
+digits cool and mottled,72
+100% oxygen required,72
+Acinetobacter baumannii identified,72
+sensitive to all antimicrobials tested,72
+therapy narrowed to cefepime,72
+repeat cultures negative,72
+inexorable decline,72
+persistent lactic acidosis,72
+disseminated intravascular coagulopathy,72
+AKI necessitating hemodialysis,72
+bullae on legs,240
+dry gangrene on digits,240
+life support withdrawn,264
+expired,264

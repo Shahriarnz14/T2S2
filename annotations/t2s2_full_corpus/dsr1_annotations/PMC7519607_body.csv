@@ -1,0 +1,70 @@
+event,time
+65 years old,0
+male,0
+hypertension,0
+COPD,0
+Parkinson's disease,0
+irregular treatment,0
+irregular follow-up,0
+presented with progressive worsening of respiratory distress,-168
+presented with productive cough,-168
+hypercapnic respiratory failure,0
+altered sensorium,0
+leukocytosis,0
+infective exacerbation of COPD,0
+intubated,0
+invasive mechanical ventilation,0
+ventilator-associated pneumonia,216
+Acinetobacter baumanii isolated,216
+antibiotics upgraded to cefoperazone/sulbactam,216
+antibiotics upgraded to colistin,216
+significant fall in procalcitonin levels,216
+spontaneous breath trial failed,216
+worsening respiratory acidosis,216
+desaturation,216
+hypotension,216
+hypovolemic hypotension,216
+fluid responsive,216
+persistent polyuria,216
+hypokalemia,216
+hyponatremia,216
+hypocalcemia,216
+hypomagnesemia,216
+high fractional excretion of sodium,216
+high transtubular potassium gradient,216
+polyuria,216
+hypovolemic,216
+recurrence of electrolyte abnormalities,216
+difficult weaning,216
+colistin stopped,216
+parameters started to reverse,264
+extubated,288
+grade III bed sores,432
+bed sores infected,432
+Klebsiella spp. cultured,432
+Klebsiella spp. sensitive to colistin,432
+worsening general parameters,648
+sepsis,648
+rising procalcitonin levels,648
+colistin restarted,648
+electrolyte abnormalities recurred,648
+polyuria recurred,648
+hypovolemic hypotension recurred,648
+electrolyte corrections,648
+volume replacements,648
+episode of supraventricular tachycardia,648
+supraventricular tachycardia reverted with adenosine,648
+very low serum magnesium,648
+magnesium replacement,648
+no recurrence of arrhythmia,648
+10-day colistin course completed,864
+discharged,1008
+resolution of abnormalities,1008
+no surreptitious vomiting,0
+no diuretic use,0
+metabolic alkalosis,0
+hypokalemia,0
+hypovolemic hypotension,0
+polyuria,0
+normal blood pressure,0
+excluded hyperaldosteronism,0

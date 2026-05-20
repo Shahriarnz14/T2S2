@@ -1,0 +1,45 @@
+event,time
+71-year-old,0
+female,0
+history of hypertension,0
+history of ischaemic heart disease,0
+history of peripheral vascular disease,0
+hospitalized earlier for lower limb ischaemia due to peripheral vascular disease,-360
+discharged (from prior hospitalization),-336
+brought to emergency room in an unconscious state,0
+admitted to the hospital,0
+unconscious state,0
+Head computed tomographic scan,0
+stroke,0
+condition deteriorated rapidly,24
+requiring inotropic support,24
+developed septic shock,24
+elevated inflammatory markers,24
+erythrocyte sedimentation rate 70 mm/h,24
+C-reactive protein 78 mg/L,24
+not receiving any antibiotics,24
+no central lines been emplaced,24
+no apparent risk factors when fungaemia was diagnosed,24
+blood obtained for culture,24
+yeast grew in aerobic BacT/ALERT culture bottle,24
+yeast grew in anaerobic BacT/ALERT culture bottle,24
+fungaemia,24
+caspofungin (one dose),24
+died,48
+identified as Candida parapsilosis by VITEK 2 yeast identification system,48
+isolate referred to the Mycology Reference Laboratory,72
+produced turquoise blue colonies on CHROMagar Candida,96
+internally transcribed spacer region of ribosomal DNA amplified and sequenced,120
+antifungal susceptibility testing by Etest performed,120
+amphotericin B MIC 0.012 μg/mL,120
+fluconazole MIC 0.125 μg/mL,120
+voriconazole MIC 0.004 μg/mL,120
+posaconazole MIC 0.003 μg/mL,120
+itraconazole MIC 0.008 μg/mL,120
+flucytosine MIC 0.064 μg/mL,120
+caspofungin MIC 0.064 μg/mL,120
+micafungin MIC 0.003 μg/mL,120
+DNA sequence 100% identity with Lodderomyces elongisporus type strain,144
+DNA sequence 83% identity with reference Candida parapsilosis strain,144
+formed long ellipsoidal-shaped ascospores on acetate ascospore agar,264
+primary fungaemia by Lodderomyces elongisporus,144

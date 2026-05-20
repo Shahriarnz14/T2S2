@@ -1,0 +1,91 @@
+event,time
+85 years old,0
+female,0
+Caucasian,0
+homemaker,0
+rheumatoid arthritis,0
+hyperlipidemia,0
+asthma,0
+cerebrovascular accident,-1440
+emergency room visit,-48
+second dose of MODERNA COVID-19 vaccine,-48
+generalized weakness,-48
+muscle cramps,-48
+loss of appetite,-48
+first dose of MODERNA vaccine,-720
+pain at injection site,-720
+inability to stand up,-48
+dark brown to black urine,-48
+nausea,-48
+worsened weakness,-24
+abdominal cramps,-24
+ambulance arrival,-24
+clopidogrel,-1440
+metoprolol,0
+nifedipine,0
+rosuvastatin,0
+telmisartan,0
+tofacitinib,0
+trazodone,-1440
+physiotherapy,-1440
+family history of autoimmune disease,0
+no tobacco use,0
+no alcohol abuse,0
+no COVID-19 infection,0
+no trauma,0
+no surgery,0
+no recent over-the-counter medications,0
+exhausted appearance,0
+hypoactive bowel sounds,0
+generalized mild abdominal tenderness,0
+alert,0
+oriented,0
+stable vital signs,0
+elevated serum creatinine,0
+elevated BUN,0
+decreased GFR,0
+decreased bicarbonate,0
+elevated AST,0
+elevated ALT,0
+elevated alkaline phosphatase,0
+elevated CPK,0
+elevated troponin,0
+urine positive for blood,0
+negative RBC in urine,0
+elevated myoglobin,0
+normal CT abdomen,0
+normal CT head,0
+elevated aldolase,0
+hemolysis,0
+bicarbonate-rich IV fluids,0
+heart failure with preserved ejection fraction,0
+elevated pro-BNP,0
+echocardiogram with diastolic dysfunction,0
+progressive weakness,24
+confusion,24
+hallucinations,24
+pitting edema,24
+chest CT consolidation,24
+ascites,24
+anasarca,24
+broad-spectrum antibiotics,24
+temporary dialysis catheter,24
+hemodialysis,24
+hypoxia,24
+pleural effusion,24
+oliguria,24
+renal failure,24
+glucocorticoids,24
+normal CSF analysis,24
+transfer to ICU,48
+bilevel positive airway pressure,48
+high-flow oxygen,48
+intubation,48
+ventilator support,48
+"elevated CPK >14,000 U/L",48
+cardiac arrest,72
+fixed and dilated pupils,72
+hypoxic/anoxic brain injury,72
+palliative care consultation,72
+terminal extubation,72
+death,72

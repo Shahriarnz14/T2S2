@@ -1,0 +1,51 @@
+event,time
+73-year-old,0
+male,0
+admitted to the hospital,0
+polycythaemia vera,0
+myelofibrosis,0
+mild valvular heart disease,0
+splenomegaly,0
+scheduled splenectomy,0
+real-time PCR negative for CoV-2,0
+early postoperative course uneventful,24
+splenectomy-related decrease in platelet count,24
+exposure to infected patient,24
+CoV-2 positive,24
+transferred to surgical CoV-2 unit,24
+non-severe CoV-2 disease,24
+sudden worsening of general condition,24
+severe CoV-2 disease,24
+dyspnoea,24
+"elevation in D-dimer to 30,946 ng/mL",24
+chest CT scan showing multiple bilobar ground-glass opacities,24
+left pleural effusion,24
+no pulmonary embolism,24
+left chest tube inserted,24
+improvement of dyspnoea,24
+severe hypotension,312
+hemoglobin drop to 55 g/L,312
+prothrombin time 1.21 INR,312
+abdomen CT scan showing splenic vein thrombosis,312
+large blood collection in left hypochondrium,312
+no active bleeding,312
+three units packed red blood cells,312
+unit of platelets,312
+urgent surgical exploration,312
+diffuse peritoneal bleeding spots,312
+abdominal lavage,312
+hemostatic patches positioning,312
+admitted to ICU,312
+extubated,312
+fever,504
+hypoxemia,504
+high-flow oxygen support,504
+mechanical ventilation required,504
+sequential organ failure assessment score 5,504
+ICU mortality risk 20.2%,504
+blood cultures positive for S. hominis,528
+pleural liquid positive for S. epidermidis,528
+pleural liquid positive for B. licheniformis,528
+cytomegalovirus DNA negative,528
+general condition did not improve,528
+died,528

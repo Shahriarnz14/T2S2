@@ -1,0 +1,85 @@
+event,time
+47 years old,0
+female,0
+admitted to the hospital,0
+skin ecchymosis,0
+vaginal bleeding,0
+white blood cell count 7.91×109/l,0
+hemoglobin 84 g/l,0
+platelet count 14×109/l,0
+prothrombin time 16.9 s,0
+activated partial thromboplastin time 40.7 s,0
+fibrinogen 1.66 g/l,0
+d-dimer 20 μg/mL,0
+bone marrow smear hypercellularity,0
+96.5% abnormal promyelocytic granulocytes,0
+Auer bodies,0
+peroxidase staining strongly positive,0
+immunophenotype positive for myeloperoxidase,0
+CD13 positive,0
+CD33 positive,0
+human leukocyte antigen-DR positive,0
+CD56 positive,0
+initial diagnosis of APL,0
+treatment with ATRA 20 mg twice daily,0
+treatment with ATO 10 mg daily,0
+chest tightness,336
+dyspnea,336
+systemic edema,336
+pleural effusion,336
+differentiation syndrome,336
+chest computed tomography scan,336
+color Doppler ultrasound,336
+WBC count 9.4×109/l,336
+hemoglobin 59 g/l,336
+platelet count 38×109/l,336
+prothrombin time 18.3 s,336
+fibrinogen 0.91 g/l,336
+d-dimer 20 μg/mL,336
+"karyotype 45, X, –X, del(9)(q13q22), t(11;12)(p15;q13)",336
+PML–RARA fusion transcript negative,336
+IDH2 mutation,336
+TET2 mutation,336
+ASXL1 mutation,336
+TP53 mutation,336
+WT1-exon7 mutation,336
+WT1-exon9 mutation,336
+discontinued ATRA and ATO,336
+diuretic detumescence,336
+ventilator-assisted respiratory therapy,336
+second bone marrow smear 95.5% abnormal promyelocytic granulocytes,336
+Auer bundle,336
+peroxidase staining 100% positive,336
+no remission,336
+resistant to ATRA and ATO,336
+switched to IA regimen,336
+idarubicin 10 mg/m² for 3 days,336
+cytarabine 150 mg/day for 7 days,336
+severe pulmonary infection,360
+antibiotics for 2 weeks,360
+WBC count low,360
+platelet count low,360
+third bone marrow smear 10.5% blasts,360
+HIAG chemotherapy regimen,360
+homoharringtonine 2 mg/day for 7 days,360
+idarubicin 5 mg/day for 4 days,360
+cytarabine 40 mg/day for 14 days,360
+granulocyte colony-stimulating factor 300 μg/day,360
+complete remission,408
+consolidation therapy with HIAG,456
+severe pulmonary infection,456
+septic shock,456
+metabolic acidosis,456
+heart failure,456
+intensive care unit admission,456
+recovery after 1 month,672
+refused allo-HSCT,672
+CAG regimen 2 cycles,720
+aclarubicin hydrochloride 20 mg/day for 4 days,720
+cytarabine 40 mg/day for 7 days,720
+GCSF 300 μg/day,720
+HA regimen 2 cycles,840
+homoharringtonine 4 mg/day for 3 days,840
+cytarabine 150 mg/day for 7 days,840
+minimal residual disease negative,960
+alive and leukemia-free,17520

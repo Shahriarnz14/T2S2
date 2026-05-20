@@ -1,0 +1,94 @@
+pmcBackground
+
+The incidence of abnormal liver tests in patients with COVID-19 ranges from 14% to 76% [1,2]. However, persistent liver damage after the acute phase of the disease is uncommon and has recently been recognized as a new entity [3]. Liver disease usually seen in COVID-19 patients is related to hepatocellular damage, associated with elevation of aspartate aminotransferase (AST) and alanine aminotransferase (ALT). Nevertheless, the elevation of canalicular enzymes and bilirubin occurs in 12% of cases [1,4].
+
+Moreover, a relationship between liver damage and disease severity has recently been observed [5]. In most of these cases, serum liver enzyme levels are within 1–2 times the upper limit of normal and regress to normal values with healing of the disease [1–3]. However, prolonged and severe cholestasis during recovery from severe COVID-19 is observed in some cases, and it is considered a novel entity, named post-COVID cholangiopathy [3], which may be severe enough to be treated by liver transplantation [6]. Here, we report a clinical case of progressive cholestatic disease following severe COVID-19.
+
+Case Report
+
+The patient was a 66-year-old man diagnosed with SARS-CoV-2 infection by RT-PCR assay 2 months before admission to our hospital, with septic shock, hemodynamic instability, and the need for orotracheal intubation on the 7th day of the disease. He was transferred to Hospital Sírio-Libanês with pulmonary insufficiency and renal failure requiring respiratory support and hemodialysis. Before the COVID-19, he had a medical history of arterial hypertension, moderate alcoholism, and coronary disease with the placement of 2 stents.
+
+Initial laboratory tests collected at hospital admission are shown in Table 1.
+
+Endoscopy revealed a Dieulafoy gastric lesion and esophageal ulcers due to cytomegalovirus (CMV) infection. An abdominal ultrasound showed slight hepatomegaly and no bile duct dilatation.
+
+The patient received blood transfusions, antibiotics, corticosteroids, and ganciclovir, with slight improvement. No thrombosis was diagnosed. His pulmonary function improved; however, his acute kidney injury persisted and he required regular hemodialysis.
+
+Despite the hemodynamic, pulmonary, and renal improvement and CMV treatment for 21 days (PCR for CMV became undetectable), cholestatic enzymes continued to increase, as shown in Table 2. At that time, metabolic and genetic markers, as well as antibodies against autoimmune hepatic diseases, serologies, and PCRs for the hepatotropic and non-hepatotropic viruses, were all negative. Serum immunoglobulin IgG, IgA, IgM, and gamma globulin levels were within the reference ranges.
+
+Magnetic resonance cholangiopancreatography (MRCP) revealed a diffuse irregularity of the intra-and extrahepatic bile ducts, with multiple focal strictures alternating with mild focal dilations of the biliary tree (Figure 1), suggesting sclerosing cholangiopathy, confirmed by a transjugular liver biopsy.
+
+We also noted biliary cast on MRI that on retrograded chol-angiography was found to be a hematic thrombus. The patient also had higher levels of serum ammonia (>250), with neurological symptoms being treated with continuous hemo-dialysis sodium benzoate, ursodeoxycholic acid, and corticosteroids. After clinical treatment, the serum ammonia level decreased, and the patient partially recovered his neurological function; however, his liver function deteriorated continuously. Due to his poor clinical condition, liver transplantation was not performed.
+
+Pathological findings: Liver biopsy
+
+A liver biopsy showed a prominent bile ductular reaction, cholangiocyte injury, inflammatory infiltrate rich in neutrophils, biliary infarctions, marked cholestasis, and portal fibrosis. The biopsy demonstrated a degenerative cholangiocyte injury with extreme cholangiocyte cytoplasmic vacuolization and degenerative changes (Figures 2–4).
+
+Discussion
+
+Secondary sclerosing cholangitis in critically ill patients (SSCCIP) has been reported in patients treated in an intensive care unit with hemodynamic instability due to infection, trauma, burns, and even cardiothoracic surgery [7]; however, the precise mechanism of this disease remains unknown. A combination of ductal ischemia, biliary infection, and bile composition alterations may interact to trigger the process [8,9].
+
+Biliary duct ischemia seems to play a critical role in this process. It is known that biliary ducts receive their blood supply solely from branches of the hepatic artery; therefore, they are more susceptible to ischemia than hepatocytes that receive double blood supply from the portal vein and hepatic artery. Biliary duct ischemia damages the biliary epithelium with necrosis and biliary cast formation, as observed in the present case (Figure 1) [8,10]. Bile duct damage with loss of connection to the central bile duct resulting in excluded bile ducts can make antibiotics ineffective, with prolonged sepsis and abscess formation, with high mortality [8].
+
+Although this condition was initially related to long-term treatment in the intensive care unit, it seems that even a short-term stay in an intensive care unit can induce biliary duct damage [7]. Alterations in gamma-glutamyl transpeptidase (GGT) were the predominant enzyme abnormality, which occurs earlier and is more intense than changes in alkaline phosphatase (ALP). Hyperbilirubinemia occurred in later stages, as observed in the case presented here. These findings are not specific, but they are helpful in distinguishing this condition from other diseases, such as septicemia-associated cholestasis, when hyperbilirubinemia is an earlier and predominant event [11,12]. Rapid and extensive biliary duct destruction explains the intense fibrotic response and the need for liver transplantation.
+
+Post-COVID-19 cholangiopathy is a special entity of liver injury that has been suggested as a variant of secondary sclerosing cholangitis in critically ill patients (SSC-CIP), but with unique histologic features [4]. This new entity was reported in patients recovering from a severe disease treated in intensive care units with vasopressor drugs, mechanical ventilation, and positive end-respiratory pressure, which increases the possibility of microcirculatory ischemia in the hepato-splanchnic vascular plexus [12]. Increased proinflammatory cytokine levels also contribute to cholangiocyte damage [7]. Prolonged prone positioning frequently used in COVID-19 patients also seems to increase the risk of SSC-CIP [13]. Biliary epithelium ulceration and hemorrhagic exudates in the bile ducts were also observed [9]. In the present case, we also observed intraductal bleeding with cast formation that induced retrograde chol-angiography exploration.
+
+In the present case, it should be mentioned that, although the patient was chronically addicted to alcohol, no signs of chronic liver disease were detected on admission ultrasound or even in liver the biopsy, which also did not show histological signs of alcoholic hepatitis. The progression of cholestatic disease occurred later in during his hospital stay. AST and ALT peaked at hospital admission, and while serum concentrations decreased, bilirubin and cholestatic liver enzymes started to increase, reaching a maximum on day 122 of his hospital stay. This biphasic pattern with initial transaminase elevations followed by cholestatic liver enzymes could reflect systemic inflammatory response syndrome (SIRS)-induced cholestasis at the hepatocellular/canalicular level or more severe bile duct injury in the later stage of the disease [14].
+
+In contrast to the histological findings from autopsy of patients dying from COVID-19 with mild and focal lobular cholestasis with no derangement in bile ducts [15], our patient’s liver specimen showed extensive ductular reaction and degenerative cholangiocyte injury with biliary ductular proliferation accompanied by neutrophils and portal fibrosis.
+
+These histologic changes were described in direct hepatic injury from COVID-19 in critically ill patients with underlying secondary sclerosing cholangitis, although no clear signs of intrahepatic microangiopathy were found, which could be due to the fact that the liver specimen was obtained via transjugular needle biopsy [6].
+
+Conclusions
+
+Most patients with SSC-CIP present with irreversible and progressive liver disease, which requires liver transplantation [15]. Recently, it was reported that the first liver transplantation in a patient with post-COVID-19 SSC-CIP was performed [6], which may be followed by several cases in the future. In conclusion, post-COVID-19 SSC-CIP is a severe disease that usually has no effective clinical treatment, and liver transplantation in selected patients is the only treatment at the present time.
+
+Figure 1. Magnetic resonance cholangiopancreatography image showing multiple strictures alternating with focal dilations of intra- and extrahepatic bile ducts (white arrow).
+
+Figure 2. A bile infarct associated with ductular reaction and degenerative cholangiocyte injury (10×, white arrow).
+
+Figure 3. Bile ductular proliferation accompanied by neutrophils. Cholangiocyte cytoplasmic vacuolization injury (arrow, 40×).
+
+Figure 4. Portal fibrosis and bile ductular reaction – proliferation of small ductules at the periphery of the portal tract accompanied by neutrophils (10×, white arrow).
+
+Table 1. Laboratory tests at hospital admission.
+
+Laboratory test	Result	Normal Values	
+Hemoglobin	7.4 g/dL	12.0–15.5 g/dl	
+Hematocrit	22.0%	35.0–45.0%	
+Leukocytes	36 660/mm3	3500–10.500 mm3	
+Neutrophils	34 940/mm3	1700–7000 mm3	
+Lymphocytes	370/mm3	900–2900 mm3	
+Platelets	151 000/mm3	150 000–450 000 mm3	
+Glucose	107 mg	70–00 mg/dL	
+C reactive protein	23.95 mg/dL	<0.3 mg/dL	
+Creatinine	4.03 mg/dL	0.60–1.10 mg/dL	
+Urea	188 mg/dL	10–50 mg/dL	
+Sodium	135 mEq/L	136–145 mEq/l	
+Potassium	5.8 mEq/L	3.5–5.1 mEq/L	
+INR	1.1	0.9–1.1	
+Albumin	1.9 g/dL	3.5–4.95 g/dL	
+Alkaline phosphatase	294	35–104 U/L	
+GGT	625 U/L	8–41 U/L	
+AST	127 U/L	<32 U/L	
+ALT	86 U/L	<33 U/L	
+Total bilirubin	1.8 mg/dL.	0.2–1.10 mg/dL	
+
+Table 2. Laboratory tests during hospital evolution. Data obtained at hospital admission. Peak values and current data for these biochemical evaluations.
+
+	Admission	Peak	Current	
+AST/ALT (IU/mL)	132/92	139/32	54/5	
+GGT/ALP (IU/mL)	625/294	2109/2031	568/786	
+Total bilirubin (mg/dL)	1.89	21.72	14.22	
+Creatinine (mg/dL)	4.03	4.03	1.677	
+C-Protein (mg/dL)	23.95	23.95	13.67	
+ALP – alkaline phosphatase.
+
+Statement
+
+Data generated or analyzed during this study are included in this published article and are in the electronic archives of Hospital Sírio Libanes São Paulo.
+
+Declaration of Figures’ Authenticity
+
+All figures submitted have been created by the authors who confirm that the images are original with no duplication and have not been previously published in whole or in part.

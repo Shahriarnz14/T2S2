@@ -1,0 +1,63 @@
+Case Presentation
+A 28-year-old female with hypothyroidism, hypertension, and polycystic ovarian syndrome presented on May 3, 2020, with a chief complaint of fever and myalgias associated with nausea and vomiting. The patient worked as a paramedic and was involved in the care of a severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2)–positive patient 3 weeks prior to the start of her symptoms. Initial physical examination was unremarkable. Initial qualitative BioFire SARS-CoV-2 polymerase chain reaction (PCR) screen showed the SARS-CoV-2 virus was not detected (reference: not detected). The patient continued to be febrile with a temperature up to 105 °F. She was subsequently upgraded to the intensive care unit for closer monitoring and active cooling. Repeat physical examination revealed a palpable liver below the costal margin, no associated rash, no mucosal ulcers, and no lymphadenopathy. Full septic workup including blood cultures and urine cultures were negative. Acute viral hepatitis panels including hepatitis B virus core immunoglobulin M (IgM) antibody, hepatitis B virus surface antigen, hepatitis c virus antibody, and hepatitis A IgM antibody were all nonreactive. Monospot testing for Epstein-Barr virus (EBV) infection, however, was positive (reference: not detected) along with elevated EBV IgM titers of 46 U/mL (reference: <36 U/mL), indicating infection with EBV. EBV-PCR was positive as well, with a value of 552 IU/mL (reference range: <500 IU/mL). Computed tomography scan of the chest was unremarkable, but computed tomography scan of the abdominal revealed new hepatosplenomegaly with the liver measuring 25 cm, which was not present on prior imaging. Given the high concern for SARS-CoV-2 infection, repeat qualitative BioFire SARS-CoV-2 PCR screen was found to be positive (reference: not detected).
+
+The patient developed transaminitis, which continued to deteriorate over the course of her stay (Tables 1 and 2). Hematology/Oncology specialists were consulted and concern for early hemophagocytic lymphohistocytosis (HLH) was raised. Ferritin, fibrinogen, and triglyceride levels were elevated supporting suspicion of HLH (Table 1). Diagnostic liver biopsy and bone marrow biopsy were suggested but declined by the patient. Although the patient did not meet all criteria required for diagnosis of HLH, suspicion was high and further testing was still required. Given the high suspicion for HLH along with risk of rapid clinical deterioration if left untreated, Hematology/Oncology started rituximab 375 mg/m2, equivalent to 1100 mg, and the patient was subsequently transferred to a tertiary care center.
+
+Table 1. Relevant Laboratory Investigations for COVID-19.
+
+	Day 1	Day 2	Day 3	
+Fibrinogen (mg/dL)	388	286	380	
+D-dimer (ng FEU/mL)	>4000	>4000	>4000	
+Ferritin (µg/L)	11 963	15 142	14 878	
+Triglycerides (mg/dL)	204	NA	220	
+Abbreviations: COVID-19, coronavirus disease-2019; NA, not available.
+
+Table 2. Relevant Laboratory Investigations for EBV.
+
+	Day 1	Day 2	Day 3	
+AST (U/L)	68	235	330	
+ALT (U/L)	43	179	221	
+WBC (K/µL)	11.4	11.4	10	
+Hb (g/dL)	13.8	11.4	10.7	
+Platelets (K/µL)	186	104	99	
+Abbreviations: EBV, Epstein-Barr virus; AST, aspartate aminotransferase; ALT, alanine aminotransferase; WBC, white blood cells; Hb, hemoglobin.
+
+Discussion
+HLH is a potentially life-threatening hyperinflammatory syndrome first described in 1939.1 It is categorized into 2 main subgroups based on etiology. Primary HLH typically affects children with recognized genetic mutations, while secondary HLH can occur in any age group and is triggered by bacterial/viral infections or malignancies.1-3 To adequately establish a diagnosis of HLH, 5 of 8 diagnostic criteria must be met, which are outlined in Table 3.
+
+Table 3. Diagnostic Criteria for HLH.
+
+Fever ≥38.5 °C	
+Splenomegaly	
+Cytopenia with involvement of at least 2 of the following: Hb <9, platelets <100 000/µL or absolute neutrophil count <1000/µL	
+Hypertriglyceridemia (fasting triglycerides >265 mg/dL) or hypofibrinogenemia (fibrinogen <150 mg/dL)	
+Hemophagocytosis in bone marrow, liver, spleen, or lymph node	
+Ferritin >500 ng/dL	
+Low or absent NK cells	
+CD25 2 standard-deviations above age adjusted norms	
+Abbreviations: HLH, hemophagocytic lymphohistocytosis; Hb, hemoglobin; NK, natural killer.
+
+Secondary HLH is a well-established complication associated with EBV infection. Incidence ranges from 33% to 75% of HLH patients.2,3 This wide range is based on geographical distribution with higher incidence reports in Asian countries versus Western countries.2,3 However, HLH has not been documented secondary to any coronavirus strains. Suspicion for HLH should be raised in patients with clinical indicators including splenomegaly, hepatomegaly, fever, and laboratory findings such as pancytopenia and coagulopathy. Although these findings are commonly found in patients with primary EBV infections with nearly 80% suffering from neutropenia, 50% with thrombocytopenia, and 50% to 80% with transaminitis; these abnormalities are much more severe, life-threatening, and fail to self-resolve in the typical 4- to 6-week window in those with HLH.4 This makes it challenging to differentiate primary EBV infection from HLH; however, good clinical judgment along with supportive investigations can help distinguish these 2 entities. Blood fibrinogen, ferritin, soluble CD25, and triglyceride levels can help support a diagnosis of HLH.4
+
+In HLH, it is critical to initiate treatment as soon as the diagnosis is made. Treatment consists of immunosuppressive therapy, dexamethasone, and etoposide, as directed by the Histiocyte Society in HLH-94 guidelines.5 Recommended therapy successfully increases survival rates by 54%.5 In 2004, recommendations were adjusted to add early use of cyclosporine as well.5 In cases of HLH refractory to standard therapy, literature is limited, but there is evidence of possible response to anakinra, alemtuzumab, and antithymocyte globulin.5,6 In May 2020, emalapumab, a monoclonal antibody against interferon-γ, was found to achieve response in nearly two thirds of 27 patients with refractory HLH opening new horizons in treatment of this challenging entity.6 With regard to EBV-induced HLH in particular, the addition of rituximab to standard HLH-therapy is recommended to assist with destruction of EBV-harboring B-lymphocytes and improving overall outcome.
+
+The possibility of other viruses triggering a similar response with the end-result being HLH is a question that should be raised, particularly with viruses that stimulate significant cytokine storms such as the novel coronavirus. Reports have been made of SARS-CoV-2 leading to Guillain-Barré Syndrome and myasthenic crisis via excess release of inflammatory cytokines mimicking an autoimmune flare.7,8 In our young patient who was simultaneously diagnosed with both SARS-CoV-2 and EBV with subsequent development of HLH, various possibilities must be entertained. The possibility of SARS-CoV-2 infection leading to an immunocompromised status priming the environment for primary EBV to progress into HLH is a likelihood. Other theories include SARS-CoV-2 independently causing a cytokine storm with subsequent hyperinflammatory response or both viruses synergistically working to lead to HLH. Tracing back the root cause of this patient’s clinical situation has proven challenging; however, it has raised clinically relevant questions, the most significant being: Should SARS-CoV-2 be added to the list of viruses known to trigger HLH?
+
+With regard to treatment, the patient was started on rituximab for EBV-induced HLH. In the setting of underlying diagnosis of SARS-CoV-2, the use of rituximab may be controversial. On one end, selective destruction of B-lymphocytes can assist with control of cytokine storm that has rendered many patients infected with this virus in critical condition. However, prolonged depletion of B-lymphocytes can also place a patient at higher risk for concomitant infections other than SARS-CoV-2. Another treatment that may prove to be effective in the treatment of HLH is the interleuekin-6 receptor blocker, tocilizumab.9 Tocilizumab has been recently tabbed as a promising drug that can stop cytokine storms in SARS-CoV-2-infected patients, and therefore may have a role in the prevention of HLH.9 However, further investigation is warranted. Only one study with 9 patients diagnosed with HLH from various causes has demonstrated tocilizumab as an effective treatment of HLH due to cytokine storm cessation from interleuekin-6 blockade.10 No studies have demonstrated effective treatment of HLH with tocilizumab due to specifically SARS-CoV-2 infection either. Last, a third treatment that may show promise in treating HLH is ruxolitinib.11 Though still very early, this Janus family kinase inhibitor may prove to be effective in the outpatient setting for the treatment of HLH.11 Furthermore, research is needed for ruxolitinib treatment for specifically SARS-CoV-2-induced HLH.
+
+Conclusion
+The possibility of SARS-CoV-2 leading to hyperinflammatory response and subsequent HLH is a question that has yet to be raised. With increasing incidence of cases of this novel virus, complications are gradually revealing themselves. Potential HLH development must be noted given the cytokine storm associated with SARS-CoV-2.
+
+Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Ethics Approval: Our institution does not require ethical approval for reporting individual cases or case series.
+
+Informed Consent: Verbal informed consent was obtained from the patient(s) for their anonymized information.
+
+ORCID iDs: Asim Kichloo 
+https://orcid.org/0000-0003-4788-8572
+
+Michael Stanley Albosta 
+https://orcid.org/0000-0003-4187-4911

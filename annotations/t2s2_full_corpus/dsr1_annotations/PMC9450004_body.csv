@@ -1,0 +1,121 @@
+event,time
+50-year-old male,0
+admitted to the emergency room,0
+respiratory symptoms,0
+thoracic CT findings compatible with COVID-19,0
+PCR positive,0
+serum Na: 129 mmol/L,0
+CRP: 3.76 mg/dL,0
+D-dimer: 17.1 mg/L,0
+albumin: 3.4 g/dL,0
+sputum culture negative,0
+blood culture negative,0
+urine culture negative,0
+hydroxychloroquine,0
+oseltamivir,0
+favipiravir,0
+immune plasma therapy,0
+broad spectrum antibiotic treatments,0
+clinical condition partially improved,0
+PCR positivity continued for 2 months,0
+discharged,1536
+admitted to the emergency room again,2160
+respiratory complaints,2160
+fever,2160
+consolidation and ground-glass density on thoracic CT,2160
+PCR positive,2160
+serum Na: 135 mmol/L,2160
+CRP: 12.7 mg/dL,2160
+D-Dimer: 0.64 mg/L,2160
+albumin: 3.2 g/dL,2160
+Klebsiella pneumoniae in sputum culture,2160
+broad spectrum antibiotic treatments,2160
+immune plasma therapy,2160
+PCR negative,2184
+radiological regression,2184
+discharged,2256
+IVIG treatment continued,2256
+admitted to the emergency room again,3600
+diarrhea,3600
+general condition disorder,3600
+bilateral ground-glass areas on CT,3600
+PCR positive,3600
+serum Na: 130 mmol/L,3600
+CRP: 7.59 mg/dL,3600
+D-dimer: 0.52 mg/L,3600
+albumin: 2.3 g/dL,3600
+sputum culture negative,3600
+blood culture negative,3600
+urine culture negative,3600
+metronidazole,3600
+favipiravir,3600
+prednol 40 mg iv,3600
+IVIG treatment continued,3600
+diarrhea persisted,3600
+COVID-19 PCR in stool positive,3600
+high fever (38.5°C),3600
+lobar pneumonia on chest radiograph,3600
+septic condition,3600
+admitted to intensive care unit,3600
+supportive treatments,3600
+died,4344
+50-year-old male,0
+admitted to the emergency room,0
+respiratory symptoms,0
+thoracic CT findings compatible with COVID-19,0
+PCR positive,0
+serum Na: 129 mmol/L,0
+CRP: 3.76 mg/dL,0
+D-dimer: 17.1 mg/L,0
+albumin: 3.4 g/dL,0
+sputum culture negative,0
+blood culture negative,0
+urine culture negative,0
+hydroxychloroquine,0
+oseltamivir,0
+favipiravir,0
+immune plasma therapy,0
+broad spectrum antibiotic treatments,0
+clinical condition partially improved,0
+PCR positivity continued for 2 months,0
+discharged,1536
+admitted to the emergency room again,2160
+respiratory complaints,2160
+fever,2160
+consolidation and ground-glass density on thoracic CT,2160
+PCR positive,2160
+serum Na: 135 mmol/L,2160
+CRP: 12.7 mg/dL,2160
+D-Dimer: 0.64 mg/L,2160
+albumin: 3.2 g/dL,2160
+Klebsiella pneumoniae in sputum culture,2160
+broad spectrum antibiotic treatments,2160
+immune plasma therapy,2160
+PCR negative,2184
+radiological regression,2184
+discharged,2256
+IVIG treatment continued,2256
+admitted to the emergency room again,3600
+diarrhea,3600
+general condition disorder,3600
+bilateral ground-glass areas on CT,3600
+PCR positive,3600
+serum Na: 130 mmol/L,3600
+CRP: 7.59 mg/dL,3600
+D-dimer: 0.52 mg/L,3600
+albumin: 2.3 g/dL,3600
+sputum culture negative,3600
+blood culture negative,3600
+urine culture negative,3600
+metronidazole,3600
+favipiravir,3600
+prednol 40 mg iv,3600
+IVIG treatment continued,3600
+diarrhea persisted,3600
+COVID-19 PCR in stool positive,3600
+high fever (38.5°C),3600
+lobar pneumonia on chest radiograph,3600
+septic condition,3600
+admitted to intensive care unit,3600
+supportive treatments,3600
+died,4344

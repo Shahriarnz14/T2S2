@@ -1,0 +1,79 @@
+event,time
+27 years old,0
+male,0
+admitted to internal medicine unit,0
+pancytopenia,0
+neutrophils: 0.8×10⁹/L,0
+hemoglobin: 9.4 g/dl,0
+platelets: 4×10⁹/L,0
+muco-cutaneous hemorrhages,0
+severe aplastic anemia,0
+empirical broad spectrum antibiotherapy,5
+piperacillin-tazobactam,5
+amikacin,5
+febrile neutropenia,5
+fever resolved,5
+neutropenia worsened,9
+neutrophils: 0.3×10⁹/L,9
+oral prednisone,12
+admitted to ICU,19
+septic shock,19
+prednisone stopped,19
+piperacillin-tazobactam restarted,19
+levofloxacin,19
+blood cultures positive for Streptococcus mitis,20
+blood cultures positive for Klebsiella pneumoniae,20
+recovered,24
+admitted to hematology unit,24
+central venous catheter inserted,25
+fever reappeared,29
+piperacillin-tazobactam replaced by meropenem,29
+levofloxacin replaced by caspofungin,29
+caspofungin initiated,29
+fever persisted,29
+poor clinical condition,29
+diarrhea,29
+abdominal pain,29
+dry cough,29
+left thoracic pain,29
+blood cultures positive for septate hyphae,31
+caspofungin replaced by liposomal amphotericin B,31
+caspofungin replaced by IV voriconazole,31
+stool examination revealed S. clavata,31
+CT scan left pulmonary nodular lesion,31
+CT scan diffuse bowel thickening,31
+"CT scan multiple nodular lesions of spleen, kidneys, liver",31
+normal liver function tests,31
+CVC removed,31
+left blurred vision,31
+normal cerebral CT scan,31
+normal magnetic resonance imaging,31
+left retinal hemorrhage,31
+normal echocardiogram,31
+severe neutropenia <0.1×10⁹/L,31
+S. clavata identified in blood culture,33
+clinical condition improved,33
+blood cultures positive for S. clavata until day 34,34
+negative stool examinations,34
+negative blood cultures,34
+fever persisted until day 42,42
+negative galactomannan antigenemia,42
+voriconazole blood levels monitored,42
+allogeneic bone marrow transplantation,42
+cyclophosphamide,35
+fludarabine,35
+alemtuzumab,36
+cyclosporine started,41
+granulocyte transfusions,39
+neutrophil counts increased post-transfusion,39
+neutrophil counts returned below 0.1×10⁹/L,39
+fever resolved after day 42,42
+neutrophil count 0.5×10⁹/L,68
+voriconazole replaced by posaconazole,84
+liposomal amphotericin B discontinued,84
+abdominal ultrasound small splenic residual lesions,84
+discharged,88
+posaconazole prophylaxis,88
+no recurrence of infection,88
+left vision normalized,88
+no complication of transplantation,88

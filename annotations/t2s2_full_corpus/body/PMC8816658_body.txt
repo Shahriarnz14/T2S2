@@ -1,0 +1,57 @@
+pmcIntroduction
+
+Malaria is a vector-borne infectious parasite that is transmitted through mosquitos. It is a very prevalent disease globally, usually in areas of the world that are sub-tropical, typically in Africa and South Asia. According to the World Health Organization (WHO), there are about 2,000 cases of malaria reported in the United States annually, predominantly reported from travelers returning from these regions [1]. There are different treatment options for malaria, which are determined based on different factors such as the infecting species, the clinical status of the patient, and any previous use of antimalarials [2]. Prophylactics can also be used to prevent the onset of malarial infection. Common drugs used to treat and prevent malaria are doxycycline, chloroquine phosphate, quinine-based drugs, and artemisinin-based drugs [3]. Severe malaria is identified by different clinical manifestations which include but are not limited to parasite density> 5%, hemoglobin< 7 g/dL, acute kidney injury, jaundice, and splenomegaly [4]. In the case of severe malaria, patients should be aggressively treated with intravenous artesunate. While it is not yet licensed in the United States, it is the first line defense for severe malaria in other parts of the world such as Africa and Asia [5].
+
+In rare cases, delayed hemolytic anemia can occur following treatment with artesunate. If post-artemisinin delayed hemolytic anemia (PADH) occurs, patients need routine lab work done for four weeks following to monitor hemoglobin, reticulocyte count, haptoglobin, lactate dehydrogenase, and total bilirubin [2]. PADH occurs due to the delayed clearance of erythrocytes after the parasitic infection has been eradicated [6]. It is important to be aware of the incidence of PADH because it occurs after the parasites have been cleared and malarial symptoms have alleviated. It needs to be monitored in case the patient requires blood transfusions. Intravenous artesunate is the first-line defense against severe malaria throughout the world, and PADH is a rare occurrence. The goal of this case report is to track the symptoms and progress of a patient who developed hemolytic anemia following IV artesunate treatment for severe malaria.
+
+Case report
+
+A 25-year-old female presented to the emergency department after returning from Ghana 2 days prior. No prophylactics were taken for the visit to Africa, where malaria is endemic. Previously, the patient had worked for the Peace Corps and received prophylaxis automatically. She was febrile (104 degrees Fahrenheit), suffering from diarrhea and hypotension. Her blood smear came back as positive for malaria, suspected to be Plasmodium falciparum. Labs showed normal hemoglobin (15.3 g/dL) and high lactate dehydrogenase (LDH 275 IU/L). After being discharged with doxycycline for treatment of malaria, the patient returned to the emergency department 5 days later. She reported worsening symptoms and the inability to tolerate oral medications. Her symptoms were chills, nausea and vomiting, dizziness, and generalized malaise. She was then admitted to the intensive care unit and diagnosed with septic malaria and influenza. Labs revealed acute kidney injury with creatine of 2.5, BUN of 58, and lactate 3.2. After being unable to transfer to hospitals with artesunate for treatment, the hospital acquired intravenous artesunate from the Center for Disease Control (CDC). When the patient was first admitted to the hospital, hemoglobin was found to be 13.6 g/dL. Lab tests were repeated after the patient received intravenous artesunate and for several days following until discharge. After treatment with IV artesunate, the patient was found to be thrombocytopenic (platelets of 12,000) and anemic (Hgb 7.9 g/dL). The patient received several units of blood; however, she is unaware exactly how many.
+
+On the day of discharge, further laboratory tests were consistent with hemolytic anemia: reticulocyte count 6.2%, LDH 512 U/L, and 29.1% Hematocrit.
+
+After hospital discharge, she came into our care for further monitoring. The patient followed up with weekly labs for the course of 4 weeks. The only abnormalities present at final testing were elevated reticulocyte count and hemoglobin, as well as a decrease of haptoglobin and lactate dehydrogenate. These values indicate that our patient experienced delayed hemolytic anemia following intravenous artesunate treatment.TableDate	hematocrit (%0	LDH (U/L)	Reticulocyte Count (%)	Hemoglobin (g/dL)	
+initial presentation	44.6	275	0.8	15.3	
+second presentation	38.9	737	0.6	13.6	
+hospital day 1	22.1	541	0.6	10.2	
+hospital day 2	20.7	545	0.4	7.9	
+hospital day 3	22.9	515	6.2	7.3	
+hospital day 4	29.1	512	5.86	8.4	
+post-discharge week 1	28.9	368	4.86	9.6	
+post-discharge week 2	28.9	258	4.4	10	
+post-discharge week 3	29.9	217	3.19	10.1	
+post-discharge week 4	33.3	192	2.45	11.4	
+
+Discussion
+
+The case above represents an inadequate initial treatment of malaria, leading to the development of severe malarial symptoms. This onset of severe symptoms required the patient to be treated with intravenous artesunate instead of other quinine therapies because it shows a greater reduction in mortality [7]. It is important to treat malaria in a timely manner so that septic malaria does not occur.
+
+When our patient first presented to the hospital, she was not admitted for malaria, and was released from care prematurely with doxycycline for treatment of her symptoms. After the patient was sent home, it was then confirmed by the hospital that her blood smear was positive for malaria. While doxycycline is a defense against malaria in some cases, it was incorrectly used in this situation. Doxycycline is often used as a prophylactic treatment for malaria, rather than therapeutic [8]. Studies show that as a protective measure, doxycycline is highly effective against preventing several types of malarial infection. When using it post infection, doxycycline must be used in conjunction with a fast-acting schizonticide [8]. In the case of our patient, she initially was treated solely with doxycycline, thus allowing the parasites to propagate. After she was sent home, she was unable to tolerate the medications orally. Her condition worsened rapidly, she then developed acute kidney injury, sepsis, and weakness. It is important to either take prophylactic medications when traveling to areas where malaria is endemic or receive adequate treatment immediately upon diagnosis of malaria. As noted by the CDC, febrile patients travelling from areas where malaria is endemic should be properly diagnosed and treated for malarial parasitic infection immediately and monitored for response.
+
+Since our patient was diagnosed with severe malaria, she then had to receive intravenous artesunate to combat the high level of blood parasites. Intravenous artesunate is extremely effective in the case of severe malaria due to its rapid and total clearance of parasites from the blood, and the ease of administration [9]. Although it is safe to use, in patients with high parasitic load, delayed hemolysis is a slightly common reaction [6], [10]. According to a nonrandomized study of travelers with severe malaria, delayed hemolysis occurred in 20–25% of patients treated with intravenous artesunate. This reaction to artesunate treatment needs to be noted so that post-treatment care can be managed accordingly. Hemolysis occurs from artesunate use due to the mechanism of action for eradicating the parasite from the erythrocytes. Artesunate is used to induce pitting, a process in the spleen which expels the parasite from the erythrocyte [6]. After eradication, the erythrocytes seal themselves rather than lyse, then re-entering circulation with a reduced lifespan [6]. PADH is consistent with high lactate dehydrogenase and low serum haptoglobin, as seen in our patient. Additionally, the level of parasitemia is believed to increase the level of hemolysis that occurs [5]. These markers prove recent RBC destruction in the body.
+
+Delayed hemolysis following intravenous artesunate therapy is relatively uncommon to be reported in the United States. In 2010, the CDC only had reports of 176 cases of severe malaria, and 39 of those patients had been treated with intravenous artesunate. Of those 39 patients, 19 cases of post artesunate delayed hemolysis were found [11]. The CDC then updated that report in 2014, stating that 20 new cases of PADH had been reported through literature review and retrospective case studies [12]. Although it is not often reported, it is important to note so that if it does occur, patients can be properly treated and monitored. Proper monitoring includes CBC values, LDH, and haptoglobin taken weekly for 4–6 weeks after the completion of artesunate therapy for severe malaria.
+
+Conclusion
+
+The evidence presented above links the incidence of delayed hemolytic anemia after treatment with intravenous artesunate. After receiving the treatment, the patient’s clinical status improved rapidly as malarial parasites were cleared, but complications of post-treatment hemolysis occurred. It is important to gather this evidence so that hemolytic anemia can be monitored if the patient has been diagnosed and treated for severe malaria with intravenous artesunate.
+
+CRediT authorship contribution statement
+
+Abigail Foster: Conceptualization, Methodology, Investigation, Writing – original draft. Preeti Kallu: Supervision, Writing – review & editing.
+
+Ethical approval
+
+No experiments were performed and patient consent was given.
+
+Consent
+
+Written informed consent was obtained from the patient for publication of this case report and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal on request.
+
+Funding
+
+There is nothing to declare.
+
+Conflicts of interest
+
+There is nothing to declare.

@@ -1,0 +1,77 @@
+event,time
+69-year-old woman,0
+stabbed herself in the abdomen with a kitchen knife,0
+suicidal intent,0
+admitted to emergency department,0
+blood pressure could not be measured,0
+pulseless electrical activity,0
+body temperature 35.0 °C,0
+oxygen saturation 99%,0
+Glasgow Coma Scale score 3,0
+agonal respiration,0
+5 cm wound on upper abdomen,0
+intra-abdominal fluid collection,0
+emergency thoracotomy,0
+aortic cross-clamping,0
+open cardiac massage,0
+aorta clamped for 15 minutes,0
+epinephrine administered thrice,0
+temporary return of spontaneous circulation,0
+hemodynamically unstable,0
+laparotomy,0
+injuries to common hepatic artery,0
+injuries to splenic artery,0
+injuries to pancreas,0
+injuries to spleen,0
+injuries to liver,0
+artery ligation,0
+left gastric artery not identified,0
+branch arising directly from aorta injured,0
+ligation of branch,0
+distal pancreatectomy,0
+splenectomy,0
+liver sutured,0
+norepinephrine administered,0
+second-look surgery,24
+no active bleeding,24
+no ischemic change,24
+hospital day 3,72
+no vasopressor requirement,72
+abdominal wall closure,72
+regular examinations for ischemic changes,72
+enhanced CT scan,96
+disruption of celiac artery,96
+gastroduodenal artery from SMA,96
+right gastric arteries not observed,96
+left gastroepiploic arteries not observed,96
+right gastroepiploic arteries not observed,96
+short gastric arteries not observed,96
+gastroscopy day 9,216
+patchy mucosal necrosis,216
+conservative treatment,216
+no significant change after 2 weeks,384
+hospital day 23,552
+fever 39 °C,552
+stomach pain,552
+"white blood cell count 34,000/mm3",552
+CRP 13.4 mg/dL,552
+CT scan air in gastric wall,552
+intra-abdominal free air,552
+gastric necrosis suspected,552
+gastroscopy extensive mucosal necrosis,552
+emergency surgery,552
+total gastrectomy,552
+Roux-en-Y reconstruction,552
+histological diffuse necrotic changes,552
+inflammatory cell infiltration,552
+no fungal infection,552
+hospital day 29,696
+duodenal stump leakage,696
+continuous tube drainage,696
+consciousness clear,696
+bed rehabilitation,696
+sepsis,840
+multidrug-resistant Pseudomonas aeruginosa,840
+disseminated intravascular coagulation,840
+general condition deteriorated,1680
+died,1680

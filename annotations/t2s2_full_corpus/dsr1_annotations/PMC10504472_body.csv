@@ -1,0 +1,88 @@
+event,time
+68 years old,0
+female,0
+poorly controlled DM,0
+admitted to the ED,0
+altered mental status,-96
+blood sugar 498,0
+past medical history: type 2 DM,-96
+peripheral artery disease,-96
+atherosclerosis,-96
+coronary artery disease,-96
+mesenteric ischemia,-96
+gastroparesis,-96
+fibromyalgia,-96
+stenting procedure,-96
+vascular graft,-96
+tachycardic (HR 169),0
+hypotensive (86/45),0
+tachypneic (46),0
+oxygen saturation 92%,0
+WBC 19.4 thous/mm³,0
+Na 129 Meq/dL,0
+Cl 92 Meq/dL,0
+creatinine 3.63 mg/dL,0
+CO2 10 Meq/L,0
+CRP 40.2 mg/dL,0
+ESR 70 mm/hr,0
+glucose 719 mg/dL,0
+lactic acid 3.6 mmol/L,0
+urinalysis: turbid urine,0
+urine glucose >1000,0
+WBCs 10–20,0
+RBCs 5–10,0
+4+ bacteria,0
+TNTC yeast,0
+urine culture: Candida glabrata,0
+blood culture: Candida glabrata,0
+IV micafungin initiated,0
+cefepime initiated,0
+DKA protocol implemented,0
+absence of ketones in urine,0
+hyperosmolar hyperglycemic state,0
+CT abdomen/pelvis: free air in extraperitoneal space,0
+concern for extraperitoneal bladder perforation,0
+clinical instability,0
+surgical intervention deferred,0
+foley catheter placement,0
+admitted to ICU,0
+intubated,24
+extubated,144
+transferred to hospitalist service,144
+hypoxia,168
+tachypnea,168
+hypertension,168
+ABG: PaO2 in 40s,168
+reintubated,168
+heparin initiated,168
+fever,168
+intermittent tachycardia,168
+tracheostomy,168
+pressure support,168
+goals of care discussion,528
+transition to comfort care,528
+passed away,528
+multiorgan failure,528
+respiratory failure,528
+cardiac arrest,528
+emphysematous cystitis,0
+Candida glabrata infection,0
+pulmonary embolus suspected,168
+no ketones in urine,0
+bladder perforation suspected,0
+managed conservatively,0
+urinary tract infection,0
+hyperglycemia,0
+sepsis,0
+septic shock,0
+pneumonia,168
+acute respiratory failure,168
+anticoagulation therapy,168
+fungal UTI,0
+conservative management of bladder,0
+prolonged ICU stay,24
+recurrent intubation,168
+ventilator support,168
+tracheostomy placement,168
+palliative care,528
+death,528

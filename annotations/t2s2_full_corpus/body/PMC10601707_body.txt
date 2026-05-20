@@ -1,0 +1,71 @@
+pmc Established Facts
+
+• Sclerosing epithelioid fibrosarcoma is an ultra-rare and aggressive high-grade fibrosarcoma.
+
+• Crizotinib is used to treat various ALK-positive metastatic non-small-cell lung carcinomas.
+
+Novel Insights
+
+• This is the first known case of an ALK V757M mutation in sclerosing epithelioid fibrosarcoma.
+
+• Crizotinib is a receptor tyrosine kinase inhibitor that has the potential to treat other ALK-positive carcinomas.
+
+Introduction
+
+Sclerosing epithelioid fibrosarcoma (SEF) is a rare and aggressive high-grade fibrosarcoma that was first described in 1995 [1]. SEF was recently classified as an ultra-rare sarcoma, defined as an incidence of ≤1 per 1,000,000 persons, with approximately 100–200 cases reported worldwide [2, 3]. The histological features of SEF include nests and cords of uniform small epithelioid cells embedded in a densely sclerotic matrix. Furthermore, structural studies have shown that it has a fibroblastic nature filled with a dense collagenous matrix that is indistinguishable from osteoid [4]. The most common genetic alteration in SEF is an EWSR1-CREB3L1 fusion, with FUS gene rearrangements also described in the literature [5]. On immunohistochemical testing, the glycoprotein mucin 4 is expressed in approximately 78% of soft-tissue SEF cases [6]. Unfortunately, many patients re-present with local recurrence, and over 80% develop metastasis [7].
+
+Anaplastic lymphoma kinase (ALK) is a transmembrane receptor protein tyrosine kinase, which was first described in anaplastic large cell lymphoma as an NPM-ALK fusion [8]. The ALK gene is implicated in neurodevelopment, with ALK mRNA present at low levels in the brain and spinal cord [9]. Three types of ALK gene mutations exist rearrangements, amplifications, and point mutations [10]. Many ALK mutation proteins have been identified as oncogenic drivers in various cancer diagnoses, including non-small-cell lung cancer, inflammatory myofibroblastic tumours, and rhabdomyosarcomas, among others [11]. An extracellular, ligand-induced dimerization mediates regulated activation of the ALK protein [12]. In ALK-rearranged tumours, however, an uncontrolled increased expression of intracellular-activated fusion kinases results in the upregulation of downstream oncogenic processes [13]. Intracellular pathways implicated include signal transducer and activator of transcription 3, phosphoinositide 3-kinase, and mitogen-activated protein kinases, among others [14]. Many ALK rearrangements, amplifications, and mutations have also been described in other diagnoses [10]. Little is known of the ALK V757M mutation, however, with a handful of cases in breast and colorectal carcinomas documented in the literature [15, 16].
+
+To our knowledge, there have been no documented cases of an ALK mutation or the use of crizotinib in SEF. This article presents a case using crizotinib in a 26-year-old male with ALK V757M mutation-positive SEF following multiple failed lines of treatment.
+
+Case Description
+
+In December 2019, a 26-year-old male with no medical history or family history of cancer presented to his local hospital with abdominal pain, night sweats, and fever. He was found to have a significant intra-abdominal mass and was referred to our centre for further investigation. Tumour biology revealed a low-grade sarcoma with mixed epithelioid and spindle cell morphology, immunohistochemistry identified a mucin 4-positive tumour, and fluorescence in situ hybridization was positive for EWSR1 gene rearrangement. A diagnosis of SEF with extensive peritoneal carcinomatosis was made as shown in Figure 1a. The tumour board decision was for doxorubicin-ifosfamide chemotherapy, with the maximum response of stable disease achieved. After the fourth cycle, there was radiological and clinical evidence of disease progression shown in Figure 1b. Following progression, the decision was for surgical intervention. The patient underwent cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) in March 2020. The HIPEC regimen included cisplatin and doxorubicin, along with intravenous ifosfamide.
+
+Fig. 1. a Axial section of abdomen and pelvis CT post-IV contrast showing a large well-defined lobulated heterogeneously enhancing mesenteric mass and PET/CT scan showing increased metabolic activity with photopenic defects which are noted centrally, December 2, 2019. b Progression of disease shown in axial section CT abdomen and pelvis, March 16, 2020.
+
+The patient remained in remission until September 2020 as shown in Figure 2, when recurrence warranted a further round of CRS and HIPEC. Subsequently, the patient remained in remission until October 2021, when the disease recurred, as shown in Figure 3. At this point, the tumour board’s decision was to start gemcitabine and docetaxel; however, after two cycles, there was further radiological progression and symptomatic treatment was recommended.
+
+Fig. 2. CT abdomen and pelvis showing peritoneal metastasis and progression 5 months after initial HIPEC/CRS, September 2020.
+
+Fig. 3. CT abdomen and pelvis showing recurrence of disease, October 2021.
+
+In January 2022, the patient was admitted with symptomatic COVID-19. Unfortunately, during this admission, he developed multiple enterocutaneous fistulas in the anterior abdominal wall, managed through nil-by-mouth status and parenteral nutrition. At this time, a second PET revealed further disease progression. Between January and April 2022, the patient had multiple admissions to the intensive care unit with sepsis and intra-abdominal collections. During this time, a trial of two cycles of nivolumab was completed with no clinical response.
+
+In April 2022, his case was presented to the molecular tumour board for a trial of next-generation sequencing (NGS) because of the patient's young age and willingness for active treatment. NGS studies revealed an ALK mutation; therefore, the decision was to give a trial of the ALK inhibitor crizotinib. Abdomen and pelvis CT showed disease progression prior to the administration of crizotinib as shown in Figure 4a. Crizotinib 250 mg was started on May 1, 2022, and a CT abdomen and pelvis performed 2 weeks later showed a significant size regression of the intra-abdominal masses and hepatic metastases with no new metastatic lesions, as shown in Figure 4b. The second cycle of crizotinib showed further clinical improvement in tumour response; however, a third cycle was delayed due to grade 3 haematological toxicity and fatigue. The third cycle was administered at a slightly reduced dose of 200 mg. At the time of writing this article, the patient continued on a reduced dose of crizotinib. Thus far, he has tolerated this treatment dose, and he is medically stable and in moderate health. Radiologically, there has been a significant reduction in the tumour size, and clinically, the enterocutaneous fistulas have shown a marked improvement. The care checklist has been completed by the authors for this case report, attached as online supplementary material (for all online suppl. material, see https://doi.org/10.1159/000532099).
+
+Fig. 4. a CT abdomen and pelvis showing disease progression and pre-crizotinib administration, April 2022. b CT abdomen and pelvis showing a significant mass size regression post-crizotinib dose, May 2022.
+
+Discussion
+
+Soft-tissue sarcomas are rare tumours accounting for approximately 1% of all adult malignancies. There are more than 100 different histological subtypes which occur mainly in the trunk, extremities, and retroperitoneum [17]. The guidelines advise that sarcomas are treated at specialist centres with access to a sarcoma expert pathologist [18]. Here, special histological, immunohistochemical, and molecular testing can be completed. Molecular testing: RT-PCR and fluorescence in situ hybridization are considered the gold standard tools for detecting genetic mutations in sarcomas in the clinical setting. These tests have disadvantages, however, including prior knowledge of specific alterations. On the other hand, NGS does not require prior knowledge of exact alterations [19]. Previous research estimated that over 30% of sarcoma tumours carry a detectable genetic alteration, many of which may not be known [20]. The recent “Clinical Effect of Molecular Methods in Sarcoma Diagnosis (GENSARC)” study identified that approximately 14% of sarcoma diagnoses were amended after NGS testing [21]. NGS is widely used in the USA, where a recent study identified that 75% of oncologists surveyed were using this method, with 34% employing NGS to guide treatment decisions in advanced refractory disease [22]. Given the high level of genetic alterations in sarcoma, coupled with the heterogeneity of the disease and aggressive clinical presentation, it may be helpful to employ NGS sooner in the treatment course. A recent systematic review supported the early use of genomic profiling in the young lung cancer cohort however identified that it may not change the course of the disease [23]. NGS is widely available in Saudi Arabia; it is offered to patients with refractory disease who remain in good health but have failed all traditional lines of treatment.
+
+Due to the rarity of SEF, there is no clear guidance on the exact treatment to provide. One retrospective multicentre trial involving 115 patients showed a moderate activity of anthracycline and gemcitabine-based regimens [24]. A small single-centred trial reported a similar combination of the above anti-cancer treatments; however, trial numbers were small (n = 10), and statistical significance was not reported [25]. The patient, in this case, was treated in line with the European Society of Medical Oncology guidelines for managing soft-tissue sarcomas [18]. Systemic treatment, a combination of anthracycline-ifosfamide chemotherapy, was given first-line with the aim of surgical resection. When the disease progressed, a schedule of platinum (cisplatin) and an anthracycline (doxorubicin)-based HIPEC and CRS was provided. Systemic taxane (docetaxel) and antimetabolites (gemcitabine) were also trialled until disease progression/recurrence. Following the identification of ALK mutation, crizotinib was initiated to good effect, and there was a significant reduction in tumour burden after one cycle (Fig. 4a).
+
+Crizotinib is a receptor tyrosine kinase inhibitor used to treat metastatic non-small-cell lung cancer where the tumours have been confirmed to be ALK or ROS1-positive [26]. The use of crizotinib in ALK-positive lung cancer has been ongoing for over a decade [27]. In 2021, crizotinib was licensed for use in anaplastic large cell lymphoma. In July 2022, the FDA approved crizotinib for use in unresectable, recurrent, or refractory inflammatory ALK-positive myofibroblastic tumours [28, 29].
+
+Conclusion
+
+This case illustrates the use of NGS and the importance of considering other therapies in refractory disease. This case also identifies the need for an international working group on ultra-rare sarcomas. Such a group would allow for international consensus on managing rare and aggressive sarcoma subtypes.
+
+Statement of Ethics
+
+In accordance with King Faisal Specialist Hospital and Research Center Institutional Review Board, study approval is not required for case reports describing standard of care treatment. Written informed consent was obtained from the patient for publication of the details of his medical case and all accompanying images in this manuscript.
+
+Conflict of Interest Statement
+
+Authors declare no conflict of interest.
+
+Funding Sources
+
+No funding was sought for this case report.
+
+Author Contributions
+
+Ahmed Badran: analysis of data and edited the manuscript. Clara Steele contributed to the design of the report, drafting the report, and final approval of the report. Hisham Alquaydheb and Jean Paul Atallah: literature review and edited the manuscript. Ahmed Ba Theeb revised the manuscript. Abdulmalik Bawazir contributed in drafting the manuscript. Mahmoud A. Elshenawy drafted and edited the manuscript.
+
+Data Availability Statement
+
+All data generated or analysed during this study are included in this article. Further enquiries can be directed to the corresponding author.
+
+Supplementary Material

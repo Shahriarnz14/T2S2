@@ -1,0 +1,54 @@
+event,time
+69 years old,0
+female,0
+stabbed herself in the abdomen with a kitchen knife,-1
+suicidal intent,-1
+admitted to the emergency department,0
+blood pressure could not be measured,0
+pulseless electrical activity,0
+body temperature was 35.0 °C,0
+oxygen saturation was 99 %,0
+Glasgow Coma Scale score of 3,0
+agonal respiration,0
+wound measuring 5 cm on her upper abdomen,0
+intra-abdominal fluid collection,0
+emergency thoracotomy,1
+aortic cross-clamping,1
+open cardiac massage,1
+aorta was clamped for 15 min,1
+epinephrine was administered,1
+temporary return of spontaneous circulation,4
+hemodynamically unstable,4
+laparotomy,5
+injuries to the common hepatic and splenic arteries,5
+injuries to the pancreas,5
+injuries to the spleen,5
+injuries to the liver,5
+ligation of the injured arteries,5
+distal pancreatectomy,5
+splenectomy,5
+liver was sutured,5
+norepinephrine was administered,5
+second-look surgery,24
+no signs of active bleeding,24
+no ischemic change,24
+abdominal wall closure,72
+disruption of the celiac artery,96
+gastroduodenal artery arising from the superior mesenteric artery,96
+patchy mucosal necrosis on the gastric upper body,216
+fever of 39 °C,552
+pain in the stomach,552
+"white blood cell count of 34,000/mm3",552
+C reactive protein of 13.4 mg/dL,552
+air in the gastric wall,552
+intra-abdominal free air,552
+gastric necrosis,552
+total gastrectomy with Roux-en-Y reconstruction,552
+necrosis of the stomach,552
+diffuse necrotic changes,552
+inflammatory cell infiltrations,552
+no evidence of invasive fungal infection,552
+leakage on the duodenal stump,696
+sepsis due to multidrug-resistant Pseudomonas aeruginosa infection,696
+disseminated intravascular coagulation,696
+death,1680

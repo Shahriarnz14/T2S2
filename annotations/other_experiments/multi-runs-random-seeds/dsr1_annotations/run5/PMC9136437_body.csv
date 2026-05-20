@@ -1,0 +1,101 @@
+event,time
+59 years old,0
+female,0
+admitted to the hospital,0
+segment-V space-occupying lesion in the liver,-6720
+liver cancer,-6720
+transarterial embolization,-6720
+sorafenib,-10080
+dizziness,-10080
+skin ulcers,-10080
+computed tomography scan,-720
+lesions in liver segment V enlarged,-720
+radiation therapy,-720
+prescribed dose: PTV5400cGy/18f,-720
+dose rate: 0.6–1 Gy/min,-720
+Piggyback liver transplantation,0
+history of hepatitis B,-6720
+entecavir,-6720
+HBsAg 113.23I U/mL,0
+anti-HBs 0 mIU/mL,0
+HBeAg 0.08 PEI µ/mL,0
+anti-HBe >4.4 PEI µ/mL,0
+anti-HBc 8.26 PEI µ/mL,0
+"negative serological tests for HIV, hepatitis A, hepatitis C",0
+donor 21-year-old male,0
+"HLA matching: donor A11, A30; B13; DR11, DR15; DQ6, DQ7",0
+"recipient HLA A2, A11; B13, B46; DR14, DR15; DQ5, DQ6",0
+irradiated and filtered blood products,0
+acute renal failure,24
+hematoma around the liver,24
+intravenous hepatitis B immunoglobulin,24
+steroids,24
+tacrolimus,24
+tacrolimus blood level ~10 ng/mL,24
+continuous hemodialysis,24
+fresh frozen plasma,24
+leukocyte-depleted red blood cells,24
+active bleeding ceased,24
+renal function recovered,24
+HCC confirmed,24
+tumor necrosis ~90%,24
+liver function improved on POD-10,240
+AST normal,240
+ALT normal,240
+GGT normal,240
+ALP normal,240
+recurrent fevers 37–39°C,240
+procalcitonin 10.3 ng/mL,240
+fever peaking at 23:00 daily,240
+procalcitonin dropped to 3 ng/mL on POD-13,312
+negative blood cultures,312
+negative cytomegalovirus,312
+negative EBV,312
+obscure red spots on chest,312
+no itching,312
+Nikolsky sign negative,312
+tacrolimus changed to sirolimus on POD-17,408
+mycophenolate mofetil added,408
+Acinetobacter baumannii infection,432
+MRSA infection,432
+rash progressed to erythematous macules and papules,456
+"spread to limbs, palms, neck, face",456
+white ulcers on buccal mucosa and lips,456
+severe bone marrow suppression,456
+WBC 0.86 × 109/L,456
+PLT 35 × 109/L,456
+HGB 70 g/L,456
+transferred to ICU,456
+drug-related adverse reaction suspected,456
+gamma globulin administration,456
+skin biopsy performed,456
+FISH of peripheral blood,456
+abdominal incision split on POD-29,696
+sutured again,696
+bone marrow aspiration on POD-32,768
+"no special lesions in granulocytes, red blood cells, megakaryocytes",768
+bone marrow cells proliferating and active,768
+megakaryocyte production reduced,768
+platelet levels decreased,768
+FISH detected 3% donor lymphocytes,792
+skin biopsy showed grade-1 acute lt-GVHD,792
+differential diagnoses excluded,792
+CD4:CD8 ratio reversed (1:13.3),792
+serum IgM 0.3 g/L,792
+PLT dropped to 3.2 × 109/L,792
+steroids continued,792
+tacrolimus continued,792
+G-CSF administered,792
+meropenem,792
+voriconazole,792
+rash reduced,792
+"serum ferritin 11,276.55 ng/mL",792
+esophageal and oral ulcers worsened,792
+unable to eat,792
+temperature 39.4°C on POD-47,1128
+hallucinations,1128
+"multiple infections (MRSA, Acinetobacter baumannii, Enterococcus faecalis)",1128
+serum IgM 0 g/L,1320
+septic shock,1320
+MODS,1320
+death on POD-55,1320

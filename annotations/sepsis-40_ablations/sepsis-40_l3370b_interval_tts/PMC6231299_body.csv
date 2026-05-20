@@ -1,0 +1,48 @@
+event,time
+21 years old,0
+female,0
+pregnant,0
+admitted to the obstetric department,0
+pre-term labor,0
+nifedipine administration,0
+pulmonary edema,1
+hypoxemia,1
+transfer to ICU,2
+blood pressure 101/61 mm Hg,2
+sinus tachycardia,2
+oxygen saturation 98%,2
+loud first heart sound,2
+diastolic murmur,2
+bilateral wheezing,2
+jugular venous distension,2
+fall in systolic blood pressure,2
+worsening desaturation,2
+metabolic acidosis,2
+hyperlactatemia,2
+intubation,4
+ventilation,4
+pulmonary edema confirmed by chest X-ray,4
+severe mitral stenosis,4
+normal left ventricular function,4
+enlargement and pressure overload of the left atrium,4
+severe pulmonary hypertension,4
+loop diuretics administration,4
+full-dose heparin administration,4
+no fetal distress,4
+severe rheumatic mitral stenosis,4
+spontaneous vaginal delivery,8
+alive baby,8
+transfer to intensive neonatal care unit,8
+mother in critical state,8
+hypotension,8
+endometritis,8
+sepsis,8
+ceftriaxone administration,8
+ampicillin administration,8
+percutaneous double balloon mitral valvuloplasty,168
+good result of valvuloplasty,168
+mitral mean gradient reduced,168
+mitral area increased,168
+pulmonary pressure normalized,168
+extubation,169
+recovery,169

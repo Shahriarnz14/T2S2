@@ -1,0 +1,139 @@
+event,time
+58-year-old man,0
+admitted to the department of gastrointestinal surgery,0
+fecal occult blood lasting >2 months,-1440
+partial endoscopic mucosal resection (EMR),-168
+electrocoagulation electro resection,-168
+cold resection for polyps in the cecum and colon,-168
+broad-based polyps,-168
+pedicled polyps,-168
+diameters 0.5-2.0 cm,-168
+shock,-168
+dyspnea,-168
+sweating,-168
+BP 79/44 mmHg,-168
+SpO2 77%,-168
+HR 133 beats/min,-168
+treatment in ICU,-168
+stable vital signs,-168
+normal coagulation function,-168
+colonoscopy-guided polypectomy,-24
+ulcerative foci,-24
+three polyps 0.8-1.2 cm removed by EMR,-24
+wound surface closed with titanium clips,-24
+BP 76/42 mmHg,-24
+HR 133 beats/min,-24
+SpO2 90%,-24
+mental irritability,-24
+gastrectomy in 2002,-175200
+surgical treatment for oral cancer in September 2021,-1200
+hospitalized for oral cancer in September 2020,-12000
+positive fecal occult tests in September 2020,-12000
+painless colonoscopy in September 2020,-12000
+no adverse events,-12000
+no family genetic history,0
+pH 7.33,-168
+PaCO2 37 mmHg,-168
+PaO2 211 mmHg,-168
+lactate 4.8 mmol/L,-168
+bicarbonate 19.5 mmol/L,-168
+BE -5.8 mmol/L,-168
+potassium 2.9 mmol/L,-168
+PaO2/FiO2 221 mmHg,-168
+WBC 3.29 × 10^9/L,-168
+neutrophil percentage 87.8%,-168
+platelet 142 × 10^12/L,-168
+PCT 1.66 ng/mL,-168
+IL-6 >5000 pg/mL,-168
+PT 36.2 s,-168
+INR 3.6,-168
+PTA 21%,-168
+APTT 69.1 s,-168
+fibrinogen <0.6 g/L,-168
+FDP >360 μg/mL,-168
+D-dimer >40 μg/mL,-168
+AT III 69%,-168
+negative blood culture,-168
+pH 7.23,-24
+PaCO2 33 mmHg,-24
+PaO2 149 mmHg,-24
+lactate 7.1 mmol/L,-24
+bicarbonate 13.8 mmol/L,-24
+BE -12.7 mmol/L,-24
+potassium 6.5 mmol/L,-24
+PaO2/FiO2 186 mmHg,-24
+WBC 12.38 × 10^9/L,-24
+neutrophil percentage 86.4%,-24
+hemoglobin 84 g/L,-24
+platelet 192 × 10^12/L,-24
+PCT 1.26 ng/mL,-24
+IL-6 >5000 pg/mL,-24
+PT 36.5 s,-24
+INR 3.64,-24
+PTA 20%,-24
+APTT 62 s,-24
+fibrinogen <0.6 g/L,-24
+FDP >360 μg/mL,-24
+D-dimer >40 μg/mL,-24
+AT III 65%,-24
+comprehensive coagulation index -9.9,-24
+fibrinogen α-angle 17.8,-24
+K-time exceeding upper limit,-24
+MA 19.2 mm,-24
+WBC 20.46 × 10^9/L,-24
+hemoglobin 62 g/L,-24
+PCT 5.72 ng/mL,-24
+normal platelet count,-24
+normal coagulation function,-24
+abdominal CT no intestinal perforation,-24
+no lumbar lesion,-24
+no vascular damage,-24
+sepsis (SOFA 4),-168
+PPS with sepsis,-168
+septic shock,-168
+septic shock (SOFA 5),-24
+blood culture Moraxella osloensis,-24
+PPS with sepsis and septic shock,-24
+surgery discontinued,-168
+high-flow oxygen FiO2 100%,-168
+fluid resuscitation,-168
+oxygen treatment,-168
+SpO2 98%,-168
+BP 70/45 mmHg,-168
+HR 122 beats/min,-168
+transferred to ICU,-168
+regained consciousness,-168
+no abdominal pain,-168
+no abdominal distension,-168
+BP 115/66 mmHg,-168
+HR 115 beats/min,-168
+RR 25 breaths/min,-168
+SpO2 95%,-168
+temperature 38.9 °C,-168
+cefoxitin 2.0 g Q12H for 1 day,-168
+plasma transfusion,-168
+high-flow oxygen FiO2 80%,-24
+antiallergic therapy,-24
+shock persisted,-24
+fever 39 °C,-24
+chills,-24
+transferred to ICU,-24
+vasoactive drugs required,-24
+no abdominal pain,-24
+blood culture performed,-24
+dark red bloody stools 200 mL,-24
+cefoxitin 2.0 g Q12H for 3 days,-24
+plasma transfusion,-24
+cryoprecipitate transfusion,-24
+red blood cell transfusion,-24
+vital signs stable,-24
+gastrointestinal bleeding ceased,-24
+discharged,24
+no abdominal pain,0
+life-threatening sepsis,0
+septic shock,0
+gastrointestinal bleeding,0
+elevated inflammatory markers,0
+abnormal coagulation,0
+Moraxella osloensis infection,0
+denies family genetic history,0

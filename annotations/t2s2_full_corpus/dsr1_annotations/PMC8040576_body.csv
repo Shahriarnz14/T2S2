@@ -1,0 +1,103 @@
+event,time
+76 years old,0\
+female,0\
+admitted to the hospital,0\
+progressive neck pain,-720\
+neck pain exacerbated by swallowing,-720\
+productive cough with yellow sputum,-720\
+denied fever,-720\
+denied weight loss,-720\
+II° thyroid enlargement,0\
+indurated thyroid texture,0\
+no thyroid bruits,0\
+lungs clear to auscultation bilaterally,0\
+thyrotropin level 0.04 µIU/mL,0\
+free thyroxine level 1.64 ng/dL,0\
+normal free triiodothyronine level,0\
+peripheral blood leukocyte count 11.58 × 109/L,0\
+erythrocyte sedimentation rate 95 mm/hour,0\
+ultrasound solid nodule with intranodular calcifications,0\
+outpatient diagnosis subacute thyroiditis,0\
+treatment with cefixime 0.1 mg twice daily,0\
+ibuprofen 300 mg sustained-release capsules twice daily,0\
+poor treatment response,720\
+thyrotropin 0.02 µIU/mL,720\
+free thyroxine 35.0 pmol/L,720\
+free triiodothyronine 5.3 pmol/L,720\
+thyroglobulin 78.93 ng/mL,720\
+thyroxine receptor antibody 0.46 IU/L,720\
+peripheral blood leukocyte count 16.87 × 109/L,720\
+leukocyte count increased to 22.46 × 109/L,720\
+ESR 86 mm/hour,720\
+neuron-specific enolase level 16.6 ng/mL,720\
+bone collagen CYFRA21-1 level 11.16 ng/mL,720\
+ultrasound diffuse thyroid disease,720\
+hypoechoic solid nodule with calcification,720\
+polyglandular lymphadenopathy,720\
+Graves’ disease,-87600\
+hyperthyroidism,-87600\
+adenomatoid thyroid nodules,-17520\
+chronic pharyngitis,-26280\
+type II diabetes mellitus,0\
+hypertension,0\
+outmoded cerebral infarction,0\
+pre-excitation syndrome after radiofrequency ablation,0\
+denied radiation exposure,0\
+denied family history of thyroid diseases,0\
+denied family history of other malignancies,0\
+hospitalized,0\
+oral prednisone acetate 10 mg twice daily,0\
+rapid-acting insulin subcutaneously thrice daily,0\
+long-acting insulin subcutaneously at bedtime,0\
+oral metformin 0.5 g thrice daily,0\
+irbesartan 150 mg once daily,0\
+nifedipine controlled-release tablets 30 mg once daily,0\
+bisoprolol 5 mg once daily,0\
+rosuvastatin 5 mg once nightly,0\
+aspirin 100 mg once daily,0\
+prednisone tapered to 10 mg daily,384\
+resolution of neck pain,384\
+insidious onset dysphagia,384\
+insidious onset choking cough,384\
+insidious onset dyspnea,384\
+insidious onset dysphonia,384\
+chest radiography right-sided tracheal deviation,0\
+CT bilateral enlargement of thyroid lobes and isthmus,0\
+tracheal stenosis,0\
+polyglandular lymphadenopathy bilateral supraclavicular nodes,0\
+stroboscopic laryngoscopy limited movement right vocal cord,0\
+arytenoid cartilage limited movement,0\
+vocal cords closed,0\
+painless gastroscopy stenotic esophageal entrance,0\
+partial thyroidectomy,0\
+tracheotomy,0\
+extracorporeal membrane oxygenation,0\
+postoperative pathological examination 4 × 3 × 2.5 cm lesion,0\
+eggshell-calcified nodule,0\
+poorly differentiated malignant tumor,0\
+squamous cell carcinoma features,0\
+extensive necrosis with inflammatory reaction,0\
+invasion of adjacent striated muscle,0\
+invasion of vasculature,0\
+invasion of nerves,0\
+immunohistochemistry galectin-3 (+),0\
+CK19 (+),0\
+CD56 (-),0\
+Ki-67 70% (+),0\
+p53 (-),0\
+TTF-1 minority (+),0\
+TG (-),0\
+calcitonin (-),0\
+synuclein (-),0\
+CGA (-),0\
+Pax8 (+),0\
+vimentin scattered (+),0\
+diagnosis primary squamous cell carcinoma of the thyroid,0\
+admitted to intensive care unit,0\
+tumor metastasized to lungs,0\
+tumor metastasized to face,0\
+tumor metastasized to other sites,0\
+surgical site infection,0\
+multiple organ failures,0\
+sepsis,552\
+death,552

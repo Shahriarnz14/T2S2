@@ -1,0 +1,71 @@
+event,time
+78 years old,0
+male,0
+admitted to the Department of Ophthalmology,0
+binocular cataract surgery,24
+current smoker,0
+hypertension,-26280
+hyperlipidemia,-26280
+nifedipine,-26280
+candesartan,-26280
+atorvastatin,-26280
+doxazosin,-26280
+sarpogrelate,-26280
+no allergic reaction history,0
+unclear levofloxacin pre-exposure history,0
+no preoperative abnormalities,0
+levofloxacin eye drops started,0
+fever,48
+dyspnea,48
+no change in surgical sites,48
+cefcapene pivoxil,48
+hypoxia worsened,48
+oliguria worsened,48
+neutrophilia,48
+elevated C-reactive protein,48
+liver function impairment,48
+kidney function impairment,48
+bilateral non-segmental consolidation,48
+thickening bronchovascular bundles,48
+pleural effusion,48
+left upper lobe consolidation,48
+no electrocardiogram abnormalities,48
+no ultrasound cardiography abnormalities,48
+bacterial pneumonia differential diagnosis,48
+sepsis differential diagnosis,48
+acute renal failure differential diagnosis,48
+diastolic heart failure differential diagnosis,48
+BNP 511 pg/mL,48
+continuous hemodiafiltration,48
+TAZ/PIPC started,48
+ventilatory support,48
+renal function improved,72
+prolonged respiratory failure,72
+prolonged fever,72
+TAZ/PIPC changed to MEPM,72
+increased airway pressure,168
+wheezes,168
+corticosteroid temporary improvement,168
+negative microbial examinations,168
+negative autoantibodies,168
+BALF lymphocytes increased,240
+BALF eosinophils increased,240
+drug-induced lung injury diagnosis,240
+nicardipine discontinued,240
+sivelestat discontinued,240
+MEPM changed to levofloxacin injection,240
+respiratory condition worsened,240
+liver dysfunction re-emerged,240
+levofloxacin injection stopped,264
+steroid therapy administered,264
+respiratory failure improved,264
+liver dysfunction improved,264
+persistent fever,264
+levofloxacin eye drops discontinued,264
+fever resolved,264
+respiratory failure resolved,264
+extubated,528
+positive DLST for levofloxacin,528
+discharged,1368
+steroids weaned,1368
+no recurrence,1368

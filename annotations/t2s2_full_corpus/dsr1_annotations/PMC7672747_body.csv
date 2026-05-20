@@ -1,0 +1,50 @@
+event,time
+67 years old,0
+male,0
+admitted to the intensive care unit,0
+weakness,0
+pancytopenia,0
+sepsis,0
+urinary tract infection,0
+bed-bound for the previous 3 days at home,-72
+chemotherapy with etoposide and carboplatin,-4320
+radiation therapy,-4320
+one dose of atezolizumab in the past,-4320
+broad-spectrum antibiotics,0
+neuopogen,0
+supportive therapy,0
+hematemesis,24
+blood-loss anemia,24
+blood counts stabilized posttransfusion,24
+peripheral smear confirming pancytopenia,24
+spherocytes,24
+computed tomography of abdomen/pelvis,24
+computed tomography angiography of abdomen/pelvis,24
+hypertriglyceridemia (385),0
+elevated ferritin (32100),0
+blood cultures (5/5) persistently grew MRSA,0
+suspicion for endocarditis,0
+transthoracic echocardiogram,0
+fever,0
+hyperferritinemia,0
+hypertriglyceridemia,0
+high-dose steroids started,24
+etoposide discussed,24
+worsening sepsis,24
+exacerbating immunosuppression,24
+decline,48
+resuscitation,48
+intubation,48
+pressors,48
+comfort care only,48
+expired,72
+elevated soluble IL2 receptor (sIL2-r) at 22268 U/mL,72
+small cell lung cancer,0
+coronary artery disease,0
+chronic obstructive pulmonary disease,0
+type 2 diabetes,0
+no recurrence of disease,-720
+no evidence of vegetation,24
+no schistocytes,24
+no abnormal platelet morphology,24
+no splenomegaly,24

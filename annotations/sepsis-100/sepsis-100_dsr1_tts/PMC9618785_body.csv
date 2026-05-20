@@ -1,0 +1,91 @@
+event,time
+31-year-old,0
+non-smoking,0
+Caucasian,0
+female,0
+admitted to the hospital,0
+sudden-onset severe headache,-840
+left arm numbness,-840
+postpartum (5 weeks),-840
+cranial CT scan,-840
+grade 2 SAH (Hunt and Hess scale),-840
+no prior history of head injury,0
+uncomplicated pregnancy,0
+uncomplicated vaginal delivery,0
+admitted to the neurosurgical ward,-840
+DSA,-840
+ruptured right middle cerebral artery aneurysm (3.5 mm),-840
+percutaneous endovascular coil embolization,-840
+no permanent neurological deficits,-840
+readmitted postpartum day 61,-24
+suspected postpartum endometritis,-24
+fever,-24
+chills,-24
+constant abdominal pain,-24
+purulent uterine discharge,-24
+denied urinary symptoms,-24
+denied respiratory symptoms,-24
+blood culture,-24
+"empiric antibacterial therapy (piperacillin/tazobactam, vancomycin, azithromycin)",-24
+developed sepsis,-20
+septic shock,-20
+transferred to ICU,-20
+body temperature 38.3°C,0
+invasive blood pressure 90/65 mmHg,0
+heart rate 135/min,0
+arterial oxygen saturation 82%,0
+mild disorientation,0
+slower capillary refill,0
+coarse rales (lower lung zones),0
+SOFA score 4,0
+hemoglobin 6.8 g/dL,0
+d-dimers 4.58 μg/mL,0
+C-reactive protein 322 mg/L,0
+fibrinogen 6.4 mL,0
+E. coli in blood culture,0
+chest radiography,0
+pulmonary nodules (up to 40 mm),0
+CT thorax,0
+suspicion of gestational trophoblastic neoplasia,0
+transvaginal ultrasound,0
+enlarged uterus,0
+loss of zonal anatomy,0
+abdominal MRI,0
+heterogenous myometrial mass,0
+splenic metastasis,0
+"serum β-hCG 232,085 mUI/mL",0
+choriocarcinoma diagnosis,0
+suction evacuation and curettage,0
+pathology confirmed choriocarcinoma,0
+FIGO modified WHO score 12,0
+metastatic choriocarcinoma,0
+high risk of resistance to single-drug chemotherapy,0
+low-dose etoposide (100 mg/m²) + cisplatin (20 mg/m²),0
+clinical improvement,168
+EMA/CO regimen (6 cycles),168
+β-hCG levels plateaued,168
+restaging MRI brain,168
+FDG PET/CT scan,168
+decreased pulmonary nodules,168
+uterine mass,168
+low SUV <3.8,168
+revised FIGO score 7,168
+changed to EP/EMA,168
+β-hCG normalization,336
+free of disease (2 years),17520
+grade 3 neutropenia,336
+G-CSF incorporation,336
+"dose reduction (etoposide, actinomycin D)",336
+grade 2 alopecia,336
+grade 2 nausea,336
+dexamethasone,336
+ondansetron,336
+grade 2 fatigue,336
+contraceptive use (male condoms),336
+brain metastasis (oncotic aneurysm),0
+splenic metastasis,0
+pulmonary metastases,0
+EMA/CO regimen completed,168
+EP/EMA regimen completed,336
+chemotherapy toxicity,336
+treatment delays avoided,336

@@ -1,0 +1,48 @@
+event,time
+88 years old,0
+female,0
+hypertension,0
+atrial fibrillation,0
+unstable angina,0
+left-side motor weakness,"-168 (onset 7 days before admission to district hospital, assuming admission to current hospital at time 0)"
+right-side eyeball deviation,-168
+admitted to district hospital,-168 (7 days prior to transfer to current hospital)
+right middle cerebral artery infarction,-168
+tissue plasminogen activator,-168
+dyspnea,"-24 (7 days after district hospital admission, then transferred to current hospital next day)"
+unstable vital signs,-24
+blood pressure 80/40 mmHg,-24
+heart rate 150 beats/min,-24
+respiration 44 breaths/min,-24
+body temperature 39.1℃,-24
+O2 saturation 94%,-24
+septic shock,-24
+intubated,-24
+left subclavian venous catheterization attempted,-24
+lidocaine injection,-24
+guidewire insertion with minimal resistance,-24
+guidewire advancement 30 cm,-24
+guidewire could not be advanced further,-24
+guidewire withdrawal failed,-24
+chest X-ray showing knotted/kinked guidewire,-24
+transferred to current hospital,0
+portable chest X-ray,0
+subclavian venogram,0
+surgical exploration decision,0
+general anesthesia,0
+blood pressure 100/50 mmHg,0
+heart rate 134 beats/min,0
+respiration 25 breaths/min,0
+O2 saturation 96%,0
+etomidate induction,0
+rocuronium induction,0
+noninvasive blood pressure cuff applied,0
+left radial arterial catheter,0
+left femoral venous catheter,0
+surgical incision,0
+guidewire dissection,0
+guidewire untangling,0
+guidewire removal,0
+postoperative transfer to SICU,0
+discharged to ward,24 (next day after operation)
+no further complications,24

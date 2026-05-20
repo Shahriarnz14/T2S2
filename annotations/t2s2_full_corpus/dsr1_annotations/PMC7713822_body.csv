@@ -1,0 +1,83 @@
+event,time
+23 years old,0
+female,0
+visited emergency room,0
+abdominal pain,-8
+nausea,-8
+vomiting,-8
+major depression,-78840
+bulimia nervosa,-78840
+frequent vomiting,-78840
+binge eating,-78840
+numerous suicide attempts,-78840
+ate large quantity food,-10
+less vomit,-10
+abdominal distension,0
+tenderness,0
+no rebound tenderness,0
+gastric distension (CT),0
+normal blood tests,0
+declined hospitalization,0
+self-discharge,0
+re-visited emergency room,+7
+persistent abdominal pain,+7
+mental confusion,+7
+unconscious,+7
+severe abdominal distension,+7
+abdominal rigidity,+7
+pale legs,+7
+no bowel sounds,+7
+no dorsalis pedis pulse,+7
+shock (60/40 mmHg),+7
+metabolic acidosis,+7
+"severe electrolyte imbalance (Na+ 157, K+ 6.2, Cl- 130)",+7
+severe hypoglycemia (15 mg/dl),+7
+acute renal failure (creatinine 2.84),+7
+sodium bicarbonate administration,+7
+GIT filled with food (X-ray),+7
+"dilated stomach, esophagus, duodenum (CT)",+7
+lethargic,+8
+endotracheal intubation,+8
+Foley catheter (no urine),+8
+hemodialysis preparation,+8
+central venous catheter insertion,+8
+arterial line placement,+8
+failed nasogastric tube insertion,+8
+persistent abdominal distension (follow-up CT),+8
+decision for surgical decompression,+13
+transferred to operation room,+13
+"crystalloid fluid administered (3,170 ml)",+13
+no urine output,+13
+blood pressure 70/46 (OR),+13
+norepinephrine infusion,+13
+vasopressin infusion,+13
+"general anesthesia (sevoflurane, rocuronium)",+13
+"arterial blood gas (pH 7.45, lactate 13)",+13
+erythrocyte transfusion (4 units),+13
+furosemide administration,+13
+RIS connected,+13
+gastrotomy performed,+13.33
+"drained 5,000 ml fluid",+13.5
+hypotension (60/40 mmHg),+13.5
+"gastric bleeding (6,000 ml drained)",+13.5
+worsened acidosis (pH 6.75),+13.5
+hyperglycemia (469 mg/dl),+13.5
+hyperkalemia (K+ 7.5),+13.5
+hemoglobin 4.3,+13.5
+sodium bicarbonate (60 mEq),+13.5
+insulin (2 units),+13.5
+calcium chloride (1.2 g),+13.5
+epinephrine (20 μg),+13.5
+"additional transfusions (8 units erythrocytes, 8 FFP)",+13.5
+ischemia-reperfusion injury,+14
+DIC,+14
+abdomen closure,+14.33
+pulseless electrical activity,+14.33
+CPR initiated,+14.33
+epinephrine (3 mg),+14.33
+vasopressin (4 units),+14.33
+transferred to ICU,+14.33
+no urine output,+14.33
+"DIC confirmed (prolonged PT/aPTT, low platelets)",+15.33
+hemoglobin 1.8,+18.33
+death,+18.33

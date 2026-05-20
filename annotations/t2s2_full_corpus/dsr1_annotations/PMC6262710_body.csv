@@ -1,0 +1,96 @@
+event,time
+83-year-old man,0
+disorientation,0
+weakness,0
+exposure to cold,-24
+terrible cough,-24
+GnRH agonist (sustained-release leuprolide acetate),-5760
+prostate cancer,-5760
+fatigue,-2160
+itching,-2160
+cold intolerance,-2160
+whole-body edema,-2160
+bicalutamide,-5760
+silodosin,-5760
+antihistamine,-168
+pruritus,-168
+tuberculosis,0
+transection of left upper lobe,0
+Hashimoto's disease in sons,0
+pale appearance,0
+depressed level of consciousness (GCS 9),0
+blood pressure 77/44 mmHg,0
+pulse 37 beats/min,0
+axillary temperature 34.2°C,0
+respiratory rate 20 breaths/min,0
+oxygen saturation 98%,0
+distant heart sounds,0
+decreased breath sounds,0
+non-palpable thyroid,0
+sparse hair,0
+thinning outer eyebrows,0
+macroglossia,0
+hoarse voice,0
+thickened skin,0
+marked hyperkeratosis,0
+profound pitting edema lower extremities,0
+elevated aspartate transaminase,0
+elevated creatine kinase,0
+elevated brain natriuretic peptide,0
+normal cardiac enzymes,0
+sinus bradycardia,0
+low voltage ECG,0
+cardiomegaly,0
+normal echocardiogram,0
+no pericardial effusion,0
+sick sinus syndrome,0
+continuous catecholamine infusion,0
+persistent impaired consciousness,24
+hypothermia 34.5°C,24
+elevated TSH (76.01 μIU/mL),24
+low free T4 (<0.40 ng/dL),24
+low free T3 (1.05 pg/mL),24
+anti-thyroid peroxidase antibody (58.0 U/mL),24
+anti-thyroglobulin antibody (237.0 U/mL),24
+atrophic thyroid gland,24
+Hashimoto's thyroiditis,24
+myxedema coma,24
+oral levothyroxine 200 μg,24
+oral levotriiodothyronine 30 μg,24
+hemodynamic improvement,72
+catecholamine withdrawal,72
+deterioration to coma,72
+"shock (pulse 30, BP 50/30 mmHg)",72
+endotracheal intubation,72
+nasogastric LT4 100 μg,72
+nasogastric LT3 30 μg,72
+LT4 suppository 400 μg,72
+withdrawal hypothermia,120
+catecholamine discontinuation,144
+sedative use,168
+recombinant human thrombomodulin,168
+full consciousness,264
+ICU discharge,264
+extubation,360
+NIPPV initiation,360
+hypercapnia,360
+whole-body CT,360
+pancreatic swelling,360
+mesenteric edema,360
+effusion,360
+fat stranding,360
+acute pancreatitis,360
+normal amylase,360
+normal lipase,360
+"elevated elastase 1 (1,183 ng/dL)",360
+tube feeding,360
+respiratory rehabilitation,360
+cessation of NIPPV,432
+massive abdominal pain,792
+increased peripancreatic effusion,792
+fibrous capsule formation,792
+"elevated WBC (27,200/μL)",792
+elevated CRP (14.38 mg/dL),792
+broad-spectrum antibiotics,792
+septic shock,828
+death,840

@@ -1,0 +1,49 @@
+event,time
+4-year-old,0
+male,0
+headache,-48
+vomiting,-48
+tonic-clonic seizure,-48
+subacute hydrocephalus,0
+COVID-19 positive,0
+asymptomatic COVID-19,0
+external ventricular drain placed,0
+awake,0
+alert,0
+stable neurological examination,0
+interval reduction in ventriculomegaly,0
+right foramen of Monro obstruction,0
+congenital malformation,0
+left-sided hemiparesis,72
+new diffusion restriction on MRI,72
+infarctions in both hemispheres,72
+infarctions in thalami,72
+infarctions in basal ganglia,72
+focal narrowing of left carotid artery,72
+irregularity of left M1 and M2 segments,72
+right postbifurcation M1 segment irregularity,72
+right A1 segment irregularity,72
+left P2 segment irregularity,72
+right P1 segment irregularity,72
+vasculitis concern,72
+vasospasm concern,72
+normal echocardiography,72
+normal D-dimer,72
+low protein S,72
+PAI-1 4G/4G homozygous,72
+negative CSF infectious studies,72
+elevated CSF IL-6,72
+elevated CSF IL-8,72
+steroid treatment initiated,72
+no additional infarcts post-steroids,72
+ventricular endoscopy performed,72
+membranous obstruction identified,72
+septum pellucidotomy performed,72
+CSF flow normalization,72
+EVD removal,72
+resolution of vascular findings,72
+SARS-CoV-2 IgG positive,0
+no fever,0
+no respiratory symptoms,0
+negative CSF SARS-CoV-2 PCR,72
+elevated proinflammatory cytokines,72

@@ -1,0 +1,324 @@
+event,time
+mastopexy with silicone implant placement ,0.0
+ulceration and necrosis at the incision ,4.0
+tachycardic with arterial hypotension ,4.0
+hemoglobin 7.5 g/dL ,4.0
+hematocrit 23% ,4.0
+"leukocytes 64,500/mm ",4.0
+C-reactive protein >270 mg/L ,4.0
+low levels of total proteins and fractions (4.10 g/dL) ,4.0
+serum albumin (2.0 g/dL) ,4.0
+globulins (2.1 g/dL) ,4.0
+systemic vancomycin and meronem ,4.0
+daptomycin (Cubicin) ,4.0
+local wound care with saline solution and chlorhexidine antiseptic ,4.0
+surgical removal of the silicone implants ,9.0
+surgical wound dehiscence ,12.0
+new dehiscence of the entire surgical wound ,12.0
+large area of necrosis with no secretion ,12.0
+wound care using negative pressure VAC ,12.0
+hydrophobic polyurethane foam sponges with silver ,12.0
+purplish secretion aspirated by the VAC machine ,12.0
+anasarca ,12.0
+prednisone 40 mg/d ,15.0
+general condition improved ,15.0
+granulation tissue ,15.0
+contraction of the wound edges ,15.0
+adherence between the structures of the pectoralis major muscle and the glandular tissue ,15.0
+hydrophobic polyvinyl alcohol (white) foam ,22.0
+deep mononylon sutures ,22.0
+surgical remodeling of breast cone ,31.0
+creating symmetry in the nipple–areola complex ,38.0
+VAC therapy improved ,42.0
+dressing changes using sodium carboxymethyl cellulose with silver (Aquacel) ,42.0
+discharged from hospital ,42.0
+wound care in the outpatient clinic ,42.0
+corticosteroids dose reduced ,120.0
+corticosteroids suspended ,120.0
+sensitivity in the areola and nipple ,210.0
+no shortness of breath ,-1.0
+no fever ,4.0
+denies chest pain ,-1.0
+no bacterial growth in samples ,9.0
+no pathognomonic signs of PG ,-1.0
+no specific examinations for diagnosis ,-1.0
+no universally accepted therapeutic regime ,-1.0
+no improvement with local treatment and antibiotics ,11.0
+no bacterial growth ,9.0
+no infection of the surgical site ,4.0
+no sepsis ,4.0
+no improvement with vancomycin and meronem ,20.0
+no improvement with daptomycin ,20.0
+no response to corticoids ,-1.0
+no pathergy ,-1.0
+no neutrophilia ,-1.0
+no anemia ,-1.0
+no reduced serum iron ,-1.0
+no hyper- and hypoglobulinemia ,-1.0
+no autoantibodies ,-1.0
+no circulating immune complexes ,-1.0
+no necrotizing vasculitis ,-1.0
+no fibrinoid necrosis ,-1.0
+no lymphocytic vasculitis ,-1.0
+no positive immunofluorescence ,-1.0
+no association with systemic diseases ,-1.0
+no inflammatory bowel disease ,-1.0
+no rheumatic illnesses ,-1.0
+no rheumatoid arthritis ,-1.0
+no ulcerative rectocolitis ,-1.0
+no Crohn’s disease ,-1.0
+no paraproteinemia ,-1.0
+no multiple myeloma ,-1.0
+no leukemia ,-1.0
+no chronic active hepatitis ,-1.0
+no Behcet’s disease ,-1.0
+no malignant neoplasms ,-1.0
+no HIV ,-1.0
+no immunosuppression ,-1.0
+no posttransplant ,-1.0
+no Sweet’s syndrome ,-1.0
+no Behcet’s disease ,-1.0
+no neutrophilic urticaria ,-1.0
+no vasculitis ,-1.0
+no Wegener’s granulomatosis ,-1.0
+no cryoglobulinemia ,-1.0
+no polyarteritis nodosa ,-1.0
+no antiphospholipid antibody syndrome ,-1.0
+no infections ,-1.0
+no sporotrichosis ,-1.0
+no amebiasis ,-1.0
+no syphilitic ulcer ,-1.0
+no ecthyma gangrenosum ,-1.0
+no malignant neoplasms ,-1.0
+no ischemic ulcers ,-1.0
+no insect bites ,-1.0
+no pustular vasculitis ,-1.0
+no folliculitis ,-1.0
+no pustular eruption ,-1.0
+no drugs ,-1.0
+no mycobacterial infections ,-1.0
+no sporotrichosis ,-1.0
+no malignant cutaneous neoplasia ,-1.0
+no cellulite ,-1.0
+no bullous dermatoses ,-1.0
+no spider bites ,-1.0
+no acute febrile neutrophilic dermatosis ,-1.0
+no pyostomatitis vegetans ,-1.0
+no atypical ,-1.0
+no hematological ,-1.0
+no malignant diseases ,-1.0
+no periostomal ,-1.0
+no pyostomatitis vegetans ,-1.0
+no pustular ,-1.0
+no fever ,4.0
+no arthralgias ,-1.0
+no inflammatory bowel diseases ,-1.0
+no ulcerative rectocolitis ,-1.0
+no Crohn’s disease ,-1.0
+no rheumatoid arthritis ,-1.0
+no paraproteinemia ,-1.0
+no multiple myeloma ,-1.0
+no leukemia ,-1.0
+no chronic active hepatitis ,-1.0
+no Behcet’s disease ,-1.0
+no malignant neoplasms ,-1.0
+no HIV ,-1.0
+no immunosuppression ,-1.0
+no posttransplant ,-1.0
+no history of surgery for appendicitis ,-4.0
+no tattoos ,-4.0
+no mammary ptosis ,-4.0
+no asymmetry ,-4.0
+no mastopexy ,-4.0
+no silicone implants ,-4.0
+no surgical wound ,-4.0
+no necrosis ,-4.0
+no ulceration ,-4.0
+no dehiscence ,-4.0
+no pathergy ,-1.0
+no neutrophilia ,-1.0
+no anemia ,-1.0
+no reduced serum iron ,-1.0
+no hyper- and hypoglobulinemia ,-1.0
+no autoantibodies ,-1.0
+no circulating immune complexes ,-1.0
+no necrotizing vasculitis ,-1.0
+no fibrinoid necrosis ,-1.0
+no lymphocytic vasculitis ,-1.0
+no positive immunofluorescence ,-1.0
+no association with systemic diseases ,-1.0
+no inflammatory bowel disease ,-1.0
+no rheumatic illnesses ,-1.0
+no rheumatoid arthritis ,-1.0
+no ulcerative rectocolitis ,-1.0
+no Crohn’s disease ,-1.0
+no paraproteinemia ,-1.0
+no multiple myeloma ,-1.0
+no leukemia ,-1.0
+no chronic active hepatitis ,-1.0
+no Behcet’s disease ,-1.0
+no malignant neoplasms ,-1.0
+no HIV ,-1.0
+no immunosuppression ,-1.0
+no posttransplant ,-1.0
+no Sweet’s syndrome ,-1.0
+no Behcet’s disease ,-1.0
+no neutrophilic urticaria ,-1.0
+no vasculitis ,-1.0
+no Wegener’s granulomatosis ,-1.0
+no cryoglobulinemia ,-1.0
+no polyarteritis nodosa ,-1.0
+no antiphospholipid antibody syndrome ,-1.0
+no infections ,-1.0
+no sporotrichosis ,-1.0
+no amebiasis ,-1.0
+no syphilitic ulcer ,-1.0
+no ecthyma gangrenosum ,-1.0
+no malignant neoplasms ,-1.0
+no ischemic ulcers ,-1.0
+no insect bites ,-1.0
+no pustular vasculitis ,-1.0
+no folliculitis ,-1.0
+no pustular eruption ,-1.0
+no drugs ,-1.0
+no mycobacterial infections ,-1.0
+no sporotrichosis ,-1.0
+no malignant cutaneous neoplasia ,-1.0
+no cellulite ,-1.0
+no bullous dermatoses ,-1.0
+no spider bites ,-1.0
+no acute febrile neutrophilic dermatosis ,-1.0
+no pyostomatitis vegetans ,-1.0
+no atypical ,-1.0
+no hematological ,-1.0
+no malignant diseases ,-1.0
+no periostomal ,-1.0
+no pyostomatitis vegetans ,-1.0
+no pustular ,-1.0
+no fever ,4.0
+no arthralgias ,-1.0
+no inflammatory bowel diseases ,-1.0
+no ulcerative rectocolitis ,-1.0
+no Crohn’s disease ,-1.0
+no rheumatoid arthritis ,-1.0
+no paraproteinemia ,-1.0
+no multiple myeloma ,-1.0
+no leukemia ,-1.0
+no chronic active hepatitis ,-1.0
+no Behcet’s disease ,-1.0
+no malignant neoplasms ,-1.0
+no HIV ,-1.0
+no immunosuppression ,-1.0
+no posttransplant ,-1.0
+no history of surgery for appendicitis ,-4.0
+no tattoos ,-4.0
+no mammary ptosis ,-4.0
+no asymmetry ,-4.0
+no mastopexy ,-4.0
+no silicone implants ,-4.0
+no surgical wound ,-4.0
+no necrosis ,-4.0
+no ulceration ,-4.0
+no dehiscence ,-4.0
+no pathergy ,-1.0
+no neutrophilia ,-1.0
+no anemia ,-1.0
+no reduced serum iron ,-1.0
+no hyper- and hypoglobulinemia ,-1.0
+no autoantibodies ,-1.0
+no circulating immune complexes ,-1.0
+no necrotizing vasculitis ,-1.0
+no fibrinoid necrosis ,-1.0
+no lymphocytic vasculitis ,-1.0
+no positive immunofluorescence ,-1.0
+no association with systemic diseases ,-1.0
+no inflammatory bowel disease ,-1.0
+no rheumatic illnesses ,-1.0
+no rheumatoid arthritis ,-1.0
+no ulcerative rectocolitis ,-1.0
+no Crohn’s disease ,-1.0
+no paraproteinemia ,-1.0
+no multiple myeloma ,-1.0
+no leukemia ,-1.0
+no chronic active hepatitis ,-1.0
+no Behcet’s disease ,-1.0
+no malignant neoplasms ,-1.0
+no HIV ,-1.0
+no immunosuppression ,-1.0
+no posttransplant ,-1.0
+no Sweet’s syndrome ,-1.0
+no Behcet’s disease ,-1.0
+no neutrophilic urticaria ,-1.0
+no vasculitis ,-1.0
+no Wegener’s granulomatosis ,-1.0
+no cryoglobulinemia ,-1.0
+no polyarteritis nodosa ,-1.0
+no antiphospholipid antibody syndrome ,-1.0
+no infections ,-1.0
+no sporotrichosis ,-1.0
+no amebiasis ,-1.0
+no syphilitic ulcer ,-1.0
+no ecthyma gangrenosum ,-1.0
+no malignant neoplasms ,-1.0
+no ischemic ulcers ,-1.0
+no insect bites ,-1.0
+no pustular vasculitis ,-1.0
+no folliculitis ,-1.0
+no pustular eruption ,-1.0
+no drugs ,-1.0
+no mycobacterial infections ,-1.0
+no sporotrichosis ,-1.0
+no malignant cutaneous neoplasia ,-1.0
+no cellulite ,-1.0
+no bullous dermatoses ,-1.0
+no spider bites ,-1.0
+no acute febrile neutrophilic dermatosis ,-1.0
+no pyostomatitis vegetans ,-1.0
+no atypical ,-1.0
+no hematological ,-1.0
+no malignant diseases ,-1.0
+no periostomal ,-1.0
+no pyostomatitis vegetans ,-1.0
+no pustular ,-1.0
+no fever ,4.0
+no arthralgias ,-1.0
+no inflammatory bowel diseases ,-1.0
+no ulcerative rectocolitis ,-1.0
+no Crohn’s disease ,-1.0
+no rheumatoid arthritis ,-1.0
+no paraproteinemia ,-1.0
+no multiple myeloma ,-1.0
+no leukemia ,-1.0
+no chronic active hepatitis ,-1.0
+no Behcet’s disease ,-1.0
+no malignant neoplasms ,-1.0
+no HIV ,-1.0
+no immunosuppression ,-1.0
+no posttransplant ,-1.0
+history of surgery for appendicitis ,-4.0
+tattoos ,-4.0
+mammary ptosis ,-4.0
+asymmetry ,-4.0
+mastopexy ,0.0
+silicone implants ,0.0
+surgical wound ,0.0
+necrosis ,4.0
+ulceration ,4.0
+dehiscence ,12.0
+pathergy ,12.0
+neutrophilia ,4.0
+anemia ,4.0
+reduced serum iron ,4.0
+hyper- and hypoglobulinemia ,4.0
+autoantibodies ,-1.0
+circulating immune complexes ,-1.0
+necrotizing vasculitis ,-1.0
+fibrinoid necrosis ,-1.0
+lymphocytic vasculitis ,-1.0
+positive immunofluorescence ,-1.0
+association with systemic diseases ,-1.0
+inflammatory bowel disease ,-1.0
+rheumatic illnesses ,-1.0
+rheumatoid arthritis ,-1.0
+ulcerative rectocolitis ,-1.0
+Crohn,

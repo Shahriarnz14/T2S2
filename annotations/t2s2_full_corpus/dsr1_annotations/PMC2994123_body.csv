@@ -1,0 +1,133 @@
+event,time
+7-year-old,0
+female,0
+admitted to the hospital,0
+periodic fever over 38℃,-144
+headache,-144
+abdominal pain,-144
+watery diarrhea,-144
+projectile vomiting,-144
+severe headache,-144
+lethargy,-144
+conjugated pneumococcal vaccines,0
+Haemophilus influenzae type b vaccines,0
+no contact with contaminated foods,0
+no contact with domestic animals,0
+mental status intact,0
+neck stiffness,0
+Bruzinski sign positive,0
+Kernig sign positive,0
+no motor function abnormality,0
+muscle strength intact,0
+sensation intact,0
+hyper-reactive deep tendon reflexes of lower limbs,0
+"white blood cell count 21,150/µL",0
+segmented neutrophils 89%,0
+lymphocytes 6.3%,0
+ESR 57 mm/hr,0
+CRP 9.52 mg/dL,0
+fasting blood sugar 169 mg/dL,0
+"CSF white blood cells 1,500/µL",0
+CSF segmented neutrophils 30%,0
+CSF red blood cells 250/µL,0
+CSF sugar 25 mg/dL,0
+CSF protein 117 mg/dL,0
+no bacteria on gram staining,0
+PCR for tuberculosis negative,0
+herpes simplex virus antibody test negative,0
+co-agglutination test negative,0
+cryptococcus antigen test negative,0
+ceftriaxone treatment,0
+amikacin treatment,0
+steroid injections,0
+fever over 39℃,24
+severe headache,24
+vomiting,24
+altered mental status,24
+stuporous,24
+delirious,24
+vancomycin added,24
+suspected increased intracranial pressure,24
+diplopia,24
+brain MRI performed,24
+no brain edema,24
+fever continued,48
+headache continued,48
+pain in both legs,48
+worsening mental status,48
+repeated CSF examination,48
+repeated blood tests,48
+"white blood cell count 37,860/µL",48
+segmented neutrophils 88.2%,48
+lymphocytes 5.3%,48
+ESR 50 mm/hr,48
+CRP 17.19 mg/dL,48
+fasting blood sugar 142 mg/dL,48
+"CSF white blood cells 2,000/µL",48
+CSF segmented neutrophils 35%,48
+CSF red blood cells 250/µL,48
+CSF sugar 73 mg/dL,48
+CSF protein 319 mg/dL,48
+gram-positive rods on gram staining,48
+L. monocytogenes in blood,48
+L. monocytogenes in CSF,48
+ampicillin added,48
+antimicrobial susceptibility test,48
+sensitive to vancomycin,48
+sensitive to ampicillin,48
+sensitive to aminoglycosides,48
+IgG 872 mg/dL,48
+IgA 208 mg/dL,48
+IgM 257 mg/dL,48
+IgE 960 IU/mL,48
+C3 113 mg/dL,48
+C4 28.2 mg/dL,48
+CH50 51.1 U/mL,48
+CD3 61.3%,48
+CD4 32.7%,48
+CD8 35.2%,48
+CD19 17%,48
+ultrasound of thymus normal,48
+responds to pain stimulation,72
+confused conversation,72
+meaningless conversation,72
+no voluntary movement,72
+slow pupillary reflexes,72
+nystagmus,72
+muscle strength grade 2,72
+respiratory difficulty,72
+semicoma,72
+transferred to intensive care unit,72
+ventilator support initiated,72
+brain CT performed,72
+hydrocephalus,72
+parenchymal edema,72
+brain stem extrusion,72
+enlarged third ventricle,72
+enlarged fourth ventricle,72
+enlarged lateral ventricles,72
+extraventricular drainage performed,72
+extraventricular drainage on 6th day,120
+extraventricular drainage on 14th day,336
+CSF white blood cells 32/µL,408
+"CSF red blood cells 3,100/µL",408
+CSF sugar 99 mg/dL,408
+CSF protein 169 mg/dL,408
+no bacteria detected,408
+no bacteria in blood culture,408
+no bacteria in CSF culture,408
+worsening hydrocephalus,528
+consciousness not improving,528
+ventriculoperitoneal shunt performed,528
+off ventilator support,600
+appropriate responses,600
+non-confused language,600
+vital signs stable,744
+transferred to general ward,744
+brain CT on 38th day,912
+communicating hydrocephalus,912
+ventriculostomy,912
+parenchymal edema,912
+recovered consciousness,1464
+recovered motor functions,1464
+discharged,1464

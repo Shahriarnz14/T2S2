@@ -1,0 +1,83 @@
+event,time
+74-year-old ,0
+Male ,0
+Hypertension ,-10000
+Insulin-dependent diabetes mellitus type 2 ,-10000
+Diabetic retinopathy ,-10000
+8-kg weight loss ,-1400
+Iron deficiency anemia ,-1000
+Referred to the surgery department ,-1000
+Computed tomography ,-950
+Magnetic resonance imaging ,-950
+Tumor in the colon ascendens ,-950
+"3 liver metastases (15, 20 and 65 mm in dimension) ",-950
+Right hemicolectomy ,-900
+60 × 70 × 50 mm low-grade pT3cN0 adenocarcinoma ,-870
+Absence of metastases in 24 excised lymph nodes ,-870
+Presence of lymphovascular growth ,-870
+No vascular growth ,-870
+No perineural growth ,-870
+Activated BRAF mutation in exon 15 (V600E) ,-840
+Loss of expression of MLH1 ,-840
+Loss of expression of PMS2 ,-840
+Mismatch repair-deficient (MMR-D) tumor ,-840
+Microsatellite-instable (MSI) tumor ,-840
+Initiated therapy with pembrolizumab (Keytruda; 200-mg intravenous flat dose) ,-696
+Symptoms of a cold ,-528
+Leukocytosis (white blood cell count 13.49 × 10⁹/L) ,-528
+Slight increase in C-reactive protein (24 mg/L) ,-528
+Dry coughing ,-168
+No fever ,-168
+Increase in AST (>3× ULN) ,-168
+Increase in ALT (>3× ULN) ,-168
+ICI-induced hepatitis grade 2 ,-168
+Initiated prednisolone therapy (50 mg once daily) ,-168
+Second dose of pembrolizumab was not given ,-168
+Decrease in C-reactive protein ,-144
+Decrease in AST ,-144
+Increased white blood cells ,-144
+Increased neutrophils ,-144
+Acutely hospitalized due to dyspnea ,0
+Elevation of troponin T (482 ng/L) ,0
+Echocardiography showed septal hypokinesia ,0
+Troponin T did not show any dynamic change over time ,0
+Developed somnolence ,0
+Had difficulty walking ,0
+Developed dysarthria ,24
+Developed hoarseness ,24
+Pain in neck ,24
+Pain in right leg ,24
+Difficulty raising right leg ,24
+Dose of prednisolone was increased to 80 mg once daily ,24
+Computed tomography did not show signs of stroke ,24
+Increased creatine kinase (CK) levels ,24
+"Increased myoglobin levels (1,276 μg/L) ",24
+ICI-induced myositis suspected ,24
+Gradual decrease in creatinine levels observed ,24
+Antibodies against acetylcholine receptor (2.6 nmol/L) present ,24
+Antibodies against titin present ,24
+Albumin (516 mg/L) present in cerebrospinal fluid ,24
+Indicating myasthenia gravis (MG) ,24
+Unable to sit up ,120
+Pain in neck ,120
+Pain in shoulders ,120
+Developed severe dysarthria ,120
+Developed dysphagia ,120
+Could not attain saturation without oxygen ,120
+Absent reflexes in biceps tendons ,120
+Absent reflexes in brachioradialis tendons ,120
+Absent reflexes in triceps tendons ,120
+Absent reflexes in patellar tendons ,120
+Absent reflexes in Achilles tendons ,120
+Transferred to intensive care unit ,120
+Intubated ,144
+Suspected immunological involvement of intercostal musculature ,144
+Given methylprednisolone (1 g/kg) during 3 days ,144
+Given intravenous immunoglobulins ,144
+Given infliximab (5 mg/kg) ,192
+Patient felt better ,216
+Better muscle strength in hands ,216
+Developed carbon dioxide retention ,240
+Needed noninvasive ventilation ,240
+Developed sinus bradycardia ,240
+Died ,240

@@ -1,0 +1,58 @@
+event,time
+62 years old,0
+male,0
+referred to the hospital,0
+dyspnea,0
+intermittent chest pain,0
+end-stage renal disease,0
+peritoneal dialysis,0
+type 2 diabetes mellitus,0
+aortic stenosis,0
+transcatheter aortic valve implantation,-1440
+diagnosed with COVID-19,0
+anemia,0
+progressive hypoxia,0
+intubation,0
+transferred to tertiary care facility,0
+treated for presumed cytokine storm,0
+cardiology consult for hypotension,0
+evaluation of aortic valve prosthesis,0
+rapid deterioration,0
+hypotension without palpable pulse,0
+advanced cardiac life support initiated,0
+POCUS performed,0
+large pericardial effusion,0
+near complete compression of the heart,0
+cardiac tamponade,0
+emergent pericardiocentesis,0
+aspiration of 60 mL serous fluid,0
+return of spontaneous circulation,0
+repeat POCUS,24
+decrease in effusion size,24
+heart expansion,24
+guide wire placement,24
+pigtail catheter placement,24
+drained 650 mL fluid,24
+repeat echo showing resolution,48
+normal LV function,48
+pericardial effusion resolved,48
+TAVI valve in position,0
+positive pressure ventilation,0
+increased intrathoracic pressure,0
+chest compressions,0
+no prior images available,0
+no lab delays,0
+no imaging modality delays,0
+no chest pain during procedure,0
+no pleural fluid drained,24
+no peritoneal fluid drained,24
+denies chest pain after procedure,48
+no complications during pericardiocentesis,0
+no palpable pulse,0
+no muffled heart sounds,0
+no distended neck veins,0
+no RV dysfunction,48
+no mitral regurgitation,48
+no biventricular dysfunction,48
+no regional wall motion abnormalities,48
+no residual effusion,48

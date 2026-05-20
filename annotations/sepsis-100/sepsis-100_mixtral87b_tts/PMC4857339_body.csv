@@ -1,0 +1,88 @@
+event,time
+80 years old,0
+male ,0
+residing at a long-term acute care hospital ,0
+suspected of having a urinary tract infection ,0
+progressive fever ,-120
+dysuria ,-120
+clean catch urine specimen ,-120
+documented unknown allergy to cephalosporins ,-120
+urine specimen was collected 5 days prior to hospital admission ,-120
+scheduled ambulatory dialysis session ,-120
+empirically started on cephalexin ,-120
+urine analysis was positive for large leukocyte esterase and bacteria ,-120
+culture subsequently grew Escherichia coli ,-120
+"demonstrating resistance to ampicillin, levofloxacin, trimethoprim, and sulfamethoxazole ",-120
+intermediate sensitivity to ampicillin/sulbactam ,-120
+"sensitivity to cefazolin, gentamicin, and nitrofurantoin ",-120
+prescribed cephalexin 500 mg three times daily ,-120
+started to develop an extensive erythematous rash ,-96
+rash developed into sloughing of the skin ,-72
+drug was discontinued ,-24
+transferred to a local burn intensive care unit ,0
+chronic obstructive pulmonary disease ,0
+type 2 diabetes mellitus ,0
+coronary artery disease ,0
+hypertension ,0
+hypothyroidism ,0
+depression ,0
+end-stage renal disease (ESRD) requiring hemodialysis ,0
+history of multiple myocardial infarctions ,0
+subsequent ischemic cardiomyopathy ,0
+atrial fibrillation ,0
+home medications included hydrocodone/acetaminophen ,0
+levothyroxine ,0
+escitalopram ,0
+carvedilol ,0
+guaifenesin ,0
+docusate ,0
+calcitriol ,0
+albuterol ,0
+amiodarone ,0
+developed pulmonary infiltrates with respiratory failure ,0
+was intubated ,0
+difficulty swallowing ,0
+endotracheal tube was placed ,0
+diagnosed with toxic epidermal necrolysis syndrome (TENS) ,0
+estimated to cover approximately 56% of the total body surface area ,0
+"involving his entire back, lower chest, abdomen, bilateral upper extremities, and bilateral thighs ",0
+blood pressure 81/45 mm Hg ,0
+respiratory rate 12 breaths/min ,0
+temperature 36.8 °C over the temporal artery ,0
+white blood cell (WBC) count of 1.5 × 103/mm3 with 73% neutrophils ,0
+"platelet (PLT) count of 77,000/µL ",0
+serum creatinine (SCr) of 2.12 mg/dL ,0
+venous serum lactate 3.1 mmol/L ,0
+oxygen (O2) saturation was 99% on 6 L O2 via nasal cannula ,0
+pain was assessed at 9 within a 10-point pain scale ,0
+two peripheral blood cultures were obtained ,0
+"skin surveillance cultures of nares, axilla, and groin, and a urine culture ",0
+from a newly placed indwelling Foley catheter ,0
+chest radiograph revealed right pleural effusion with right lower and left basilar opacities ,0
+exhibiting marked respiratory distress ,0
+was then intubated ,0
+placed on norepinephrine and vasopressin drips for pressure support ,0
+continuous infusion of albumin 25% ,0
+Lactated Ringer’s was given at 300 mL/h ,0
+titrated to the patient’s urine output ,0
+administered tetanus–diphtheria toxoids vaccine intramuscularly ,0
+given single intravenous (IV) dose of gentamicin 120 mg ,0
+and fluconazole 100 mg ,0
+random serum gentamicin level (22.5 h post-dose) was 2.4 mg/dL ,24
+redosed with 120 mg of gentamicin 3 h later ,27
+supportive continuous renal replacement therapy was ordered ,48
+fluconazole continued at 200 mg IV every 24 h ,48
+"urine culture showed >100,000 cfu/mL Candida species ",48
+developed wide complex tachycardia ,96
+amiodarone was restarted ,96
+physical examination performed on hospital day 5 ,120
+"sloughing of skin over his back, chest, upper extremities, abdomen, bilateral thighs, and buttocks ",120
+culture and sensitivity results of the tracheal aspirate grew Pseudomonas aeruginosa ,120
+"sensitive to all anti-pseudomonal beta-lactams as well as gentamicin, tobramycin, amikacin, and colistin ",120
+but resistant to doripenem and quinolones ,120
+expired on hospital day 6 ,144
+cause of death listed as cardiac arrest ,144
+multisystem organ failure due to TENS ,144
+autopsy reported TEN involving 80% of body surface area ,168
+necrotizing bronchopneumonia ,168
+Severity of Illness Score for TEN (SCORTEN) estimated a predicted mortality of 62% ,168

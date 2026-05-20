@@ -1,0 +1,68 @@
+event,time
+39 years old,0
+African-American,0
+male,0
+admitted from nursing home,0
+weakness,-72
+decreased appetite,-72
+suspected sepsis,0
+started vancomycin,0
+started meropenem,0
+"urine cultures grew >100,000 CFU/mL Candida glabrata",0
+chronic indwelling Foley catheter,0
+transferred to general medical floor,120
+osteomyelitis,216
+Stage IV sacral decubitus ulcer with exposed bone,216
+negative blood cultures,216
+"urine cultures positive 15,000 CFU/mL Candida albicans",672
+treated for osteomyelitis for 45 days,0
+vancomycin,0
+meropenem,0
+ertapenem,0
+ceftazidime,0
+failure to thrive,48
+body mass index 14.7 kg/m2,48
+percutaneous endoscopic gastrostomy tube placement,288
+elevated alkaline phosphatase,0
+elevated aspartate aminotransferase,0
+elevated alanine aminotransferase,0
+brittle diabetes,0
+multiple hypoglycemic episodes,0
+started insulin glargine 2 units every evening,0
+blood sugars 18-460 mg/dL,0
+switched to NPH insulin 2 units twice daily,1224
+5% dextrose infusion,0
+leukocytosis,816
+blood cultures drawn,816
+urine cultures drawn,816
+abdominal CT scan,864
+right-sided pyelonephritis,864
+left-sided hydronephrosis,864
+left-sided hydroureter,864
+started micafungin,864
+urology consultation,888
+repeat abdominal CT scan,912
+bilateral pyelonephritis,912
+filling defects (left > right),912
+mild debris along bladder base,912
+"urine cultures 35,000 CFU/mL C. glabrata",960
+"urine cultures 35,000 CFU/mL C. albicans",960
+blood cultures C. glabrata,960
+switched to high-dose fluconazole,960
+recommended drainage of fungal balls,960
+recommended irrigation with AmBd,960
+left nephrostomy tube placement,1080
+systemic antifungal therapy,960
+blood cultures cleared,1296
+renal ultrasound concerning for fungal balls,1296
+renal impairment (eGFR 10-30 mL/min/1.73 m2),1296
+intermittent hemodialysis,1344
+failed right nephrostomy tube placement,1416
+discontinued fluconazole,1416
+started AmBd 0.7 mg/kg/day,1416
+LFTs significantly worsened,1440
+Naranjo score 5,1440
+LFTs returned near baseline,1440
+code status changed to DNR,1440
+5% dextrose infusion stopped,1584
+expired,1584

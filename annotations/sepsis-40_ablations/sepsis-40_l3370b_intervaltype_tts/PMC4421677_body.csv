@@ -1,0 +1,65 @@
+event,time
+42 years old,0
+male,0
+renal failure,-2520
+adult polycystic kidney disease (APKD),-2520
+renal transplantation,-504
+recurrent urinary tract infections,-504
+dysuria,0
+right-sided loin pain,0
+blood pressure 140/80 mmHg,0
+pulse 80 beats/minute,0
+temperature 38.5°C,0
+white cell count 12.5 × 103/mm3,0
+haemoglobin 9.5 g/L,0
+platelet count 568 × 103/mm3,0
+albumin 32 g/L,0
+serum creatinine 258 μmol/L,0
+urea 15.8 mmol/L,0
+potassium 6.2 mmol/L,0
+bicarbonate 16 mmol/L,0
+intravenous co-amoxiclav,0
+E. coli sensitive to co-amoxiclav,0
+urine culture,0
+blood culture,0
+immunosuppression,0
+tacrolimus,0
+prednisolone,0
+clinical condition deteriorated,168
+stable graft function,168
+serum blood glucose level risen to 50 mmol/L,168
+transferred to critical care unit,168
+antibiotics switched to piperacillin and tazobactam,168
+CT scan,168
+bilateral emphysematous pyelonephritis,168
+intubated and ventilated,168
+inotropic support,168
+percutaneous drainage of the collection,336
+E. coli cultured from the minimal pus aspirated,336
+blood cultures grew E. coli,336
+Enterococcus,336
+Candida,336
+additional anti-microbial therapy,336
+meropenem,336
+teicoplanin,336
+caspofungin,336
+repeat CT scan,504
+infection in both sides improved,504
+ventilatory and inotropic requirements reduced,504
+transplant graft function declined,504
+continuous veno-venous haemofiltration,504
+bilateral nephrectomies,672
+second operation for bleeding,672
+received 8 units of whole blood,672
+4 units of fresh frozen plasma,672
+2 units of cryoprecipitate,672
+patient’s condition improved,720
+transplant function recovered,720
+organ support not required,720
+histological examination of the kidneys,720
+inflammatory changes consistent with infection,720
+discharged home,1440
+serum creatinine 168 μmol/L,1440
+occasional urinary tract infections,1440
+diabetes mellitus well controlled on metformin,4320
+serum creatinine 200 μmol/L,4320

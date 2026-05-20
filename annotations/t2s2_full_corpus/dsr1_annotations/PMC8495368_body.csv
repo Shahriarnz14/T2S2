@@ -1,0 +1,86 @@
+event,time
+44 years old,0
+male,0
+admitted to the hospital,0
+Covid-19 infection,0
+mild-flu like syndrome,0
+fever,-72
+chills,-72
+headache,-72
+myalgia,-72
+cough,-72
+fatigue,-72
+positive RT-PCR result,0
+referred to emergency ward,0
+serious respiratory failure,0
+oxygen supply with cPAP and casco,0
+chest CT scan showed multiple bilateral ground glass opacities and consolidations,0
+denied other symptoms,0
+denied tobacco use,0
+denied drugs use or abuse,0
+diabetes mellitus type 2,0
+obesity,0
+mild cognitive impairment in a psychotic disorder,0
+transferred to intensive-care unit,0
+acute renal failure,0
+bacteric pulmonary sovrainfection,0
+antibiotic treatment,0
+complete atelectasia of left lung,0
+tracheostomy,0
+systemic sepsis,0
+urinary tract infection,0
+high blood pressure levels,0
+antihypertensive therapy,0
+transferred to rehabilitation ward,0
+normal consciousness (GCS=15),0
+no cranial nerves abnormality,0
+shoulder abduction weakness (MRC 3),0
+handgrip weakness (MRC 3),0
+elbow flexion weakness (MRC 4),0
+hip extension weakness (MRC 4),0
+knee extension weakness (MRC 4),0
+ankle dorsiflexion weakness (MRC 1),0
+absent deep tendon reflexes,0
+normal plantar response,0
+no sensitivity alteration,0
+good respiratory gas exchanges,0
+axonal polineuropathy,0
+absent sural nerve SAP,0
+absent common peroneal nerve CMAP,0
+decreased tibial nerve velocity,0
+decreased tibial nerve CMAP amplitude,0
+decreased ulnar nerve SAP amplitude,0
+Motricity Index assessment,0
+Timed Up and Go Test (TUG),0
+Barthel Index assessment,0
+comprehensive rehabilitation treatment,0
+respiratory rehabilitation,0
+motor rehabilitation,0
+5 sessions per week,0
+60 minutes per session,0
+9 months hospitalization period,0
+passive or active motion session,0
+active postural changes,0
+breathing exercises,0
+chest expansion exercises,0
+controlled breathing,0
+diaphragmatic re-education,0
+coordination exercises,0
+trunk control training,0
+standing position recovery,0
+walking reconditioning,0
+functional activities,0
+overground ambulatory training,0
+orthosis prescription,0
+improvement in TUG test (20.29 s),2160
+Motricity Index improvement,2160
+complete upper extremities recovery (right side),2160
+stationary lower extremities function (left side),2160
+mild lower extremities improvement (right side),2160
+no ankle dorsiflexors activity,2160
+Barthel Index improvement (0 to 89),2160
+self-care activities improvement,2160
+mobility improvement,2160
+discharged,6480
+needs two sticks for walking,6480
+wears ankle-foot orthosis,6480

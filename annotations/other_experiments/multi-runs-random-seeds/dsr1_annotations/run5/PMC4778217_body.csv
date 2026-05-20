@@ -1,0 +1,159 @@
+event,time
+65 years old,0
+female,0
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+parkinsonism,-17520
+diabetes mellitus,-17520
+levodopa,-17520
+carbidopa,-17520
+rasagiline,-17520
+ropinirole,-17520
+trihexyphenidyl,-17520
+amantadine,-17520
+metformin,-17520
+glipizide,-17520
+admitted to the ward for cellulitis,0
+intravenous clindamycin 600 mg thrice daily,0
+intravenous benzylpenicillin 2 million units 4 times daily,0
+continued anti-parkinsonism medications,0
+continued diabetic medications,0
+high-temperature spikes above 102°F,72
+tachycardia,72
+tachypnea,72
+hypotensive,72
+encephalopathic,72
+shifted to ICU,72
+intravenous linezolid 600 mg twice daily,72
+intravenous piperacillin with tazobactam 4.5 gm thrice daily,72
+stopped oral hypoglycemic agents,72
+switched to insulin,72
+improved hemodynamics with minimal inotropic supports,72
+confused,72
+drowsy,72
+disoriented,72
+altered sensorium,72
+myoclonus,72
+tremors,72
+jerky movements,72
+no neck stiffness,72
+computed tomography of brain not significant,72
+cerebrospinal fluid analysis not significant,72
+improving white blood cell counts,72
+better glycemic control,72
+sterile blood cultures,72
+sterile pus cultures,72
+high temperature of 103°F,96
+altered mental status,96
+myoclonus,96
+jerky movements,96
+tremors,96
+linezolid started 2 days since ICU admission,96
+serotonin syndrome suspected,96
+linezolid stopped,96
+rasagiline stopped,96
+temperature settled after 8 hours,104
+heart rate normal,116
+sensorium improved,116
+tremors subsided,116
+shifted out of ICU,120
+started walking with support,264
+discharged from hospital,264
+resumed anti-parkinsonism drugs,264
+added rasagiline,264
+regular follow-up with neurologist,264
+stable,264
+asymptomatic for serotonin syndrome,264
+18 years old,0
+male,0
+admitted to the hospital,0
+fever,-72
+rash,-72
+acne,-672
+minocycline,-672
+increased WBC count,0
+eosinophilia,0
+systemic involvement,0
+diffuse erythematous or maculopapular eruption,0
+pruritis,0
+DRESS syndrome,0
+fever persisted,0
+rash persisted,0
+discharged,24
+65 years old,0
+female,0
+admitted to the hospital,0
+fever,0
+chills,0
+pain in left leg,0
+parkinsonism,-17520
+diabetes mellitus,-17520
+levodopa / carbidopa,-17520
+rasagiline,-17520
+ropinirole,-17520
+trihexyphenidyl,-17520
+amantadine,-17520
+metformin,-17520
+glipizide,-17520
+multiple hospital admissions,-17520
+multiple ICU admissions,-17520
+admitted to the ward for cellulitis,0
+intravenous clindamycin 600 mg thrice daily,0
+intravenous benzylpenicillin 2 million units 4 times daily,0
+continued anti-parkinsonism medications,0
+continued diabetic medications,0
+high-temperature spikes above 102°F,72
+tachycardia,72
+tachypnea,72
+hypotensive,72
+encephalopathic,72
+shifted to ICU,72
+intravenous linezolid 600 mg twice daily,72
+intravenous piperacillin with tazobactam 4.5 gm thrice daily,72
+vancomycin not considered,72
+improved hemodynamics,72
+minimal inotropic supports,72
+stopped oral hypoglycemic agents,72
+switched to insulin,72
+confused,72
+drowsy,72
+disoriented,72
+altered sensorium,72
+myoclonus,72
+tremors,72
+jerky movements,72
+no neck stiffness,72
+computed tomography of brain not significant,72
+cerebrospinal fluid analysis not significant,72
+improving white blood cell counts,72
+better glycemic control,72
+sterile blood cultures,72
+sterile pus cultures,72
+high temperature of 103°F,96
+altered mental status,96
+myoclonus,96
+jerky movements,96
+tremors,96
+linezolid started 2 days since ICU admission,96
+serotonin syndrome suspected,96
+ruled out infection,96
+ruled out drug abuse,96
+ruled out cerebrovascular etiologies,96
+ruled out metabolic etiologies,96
+Naranjo causality score of six,96
+linezolid stopped,96
+rasagiline stopped,96
+temperature settled after 8 hours,96
+heart rate normal,120
+sensorium improved,120
+tremors subsided,120
+shifted out of ICU,120
+started walking with support,264
+discharged from hospital,264
+resumed anti-parkinsonism drugs,264
+added rasagiline,264
+regular follow-up with neurologist,264
+stable,264
+asymptomatic for serotonin syndrome,264

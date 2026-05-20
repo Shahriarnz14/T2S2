@@ -1,0 +1,72 @@
+event,time
+64 years old,0
+male,0
+type 2 diabetes,0
+hypertension,0
+kidney transplant recipient,0
+tacrolimus 5 mg twice per day,0
+mycophenolic acid 250 mg twice per day,0
+prednisone 5 mg once per day,0
+admitted to the emergency department,0
+progressive shortness of breath,-96
+recurrent fever,-96
+cough,-96
+normal serum creatinine 0.7 mg/dL,0
+glomerular filtration rate >60 ml/min/1.73 m2,0
+chest radiography diffuse interstitial and airspace opacities,0
+sputum gram stain negative,0
+rapid influenza test negative,0
+pneumococcal urinary antigen test negative,0
+legionella urinary antigen test negative,0
+SARS-CoV-2 positive,0
+admitted to intensive care unit,0
+electively intubated,0
+worsening respiratory status,0
+severe acute hypoxic respiratory failure,0
+hydroxychloroquine,0
+azithromycin,0
+cefepime,0
+mycophenolic acid suspended,0
+tacrolimus reduced to 2.5 mg twice per day,0
+prednisone continued 5 mg per day,0
+low tidal volume lung-protective strategy,0
+prone positioning,0
+neuromuscular blockade (atracurium),0
+sedation,0
+high positive end-expiratory pressure therapy,0
+increased endotracheal secretions,72
+worsening chest radiography,72
+hypoxemia,72
+high dose corticosteroids 60 mg IV methylprednisolone once daily,72
+sputum positive for gram-negative bacilli,96
+Stenotrophomonas maltophilia identified,120
+TMP/SMX initiated,120
+cefepime discontinued,120
+acute kidney injury (AKI),168
+serum creatinine 2.1 mg/dL,168
+oliguria,168
+no response to fluid administration,168
+immunosuppressive drugs continued,168
+TMP/SMX discontinued,192
+levofloxacin initiated,192
+serum creatinine 3.4 mg/dL,192
+glomerular filtration rate 18 ml/min/1.73 m2,192
+hyperkalemia 6.1 mmol/L,192
+hemodialysis initiated,192
+urinalysis no eosinophiluria,192
+urinalysis no white cell casts,192
+steroids continued 5 mg per day,192
+tacrolimus levels therapeutic 5–8 ng/ml,192
+kidney biopsy considered unsafe,192
+poor oxygenation,192
+high ventilatory requirement,192
+very ill clinical status,192
+no remdesivir,192
+no convalescent plasma,192
+supportive therapy continued,192
+hemodialysis continued,192
+mechanical ventilation continued,192
+oxygenation decline,264
+clinical status decline,264
+comfort care measures,264
+died,288

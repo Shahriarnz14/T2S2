@@ -1,0 +1,77 @@
+Learning points
+
+Severe cases of COVID-2019 pneumonia are associated with hypercoagulation, and these patients should be monitored closely for complications.
+
+Full-dose anticoagulant therapy should be considered in severe COVID-19 pneumonia patients.
+
+VA-ECMO is a vital adjunct therapy in massive pulmonary embolism.
+
+Introduction
+
+Severe coronavirus disease 2019 (COVID-19) is commonly complicated by coagulopathy, and disseminated intravascular coagulation (DIC) may contribute to the mortality from the disease.1 Due to severe sepsis, respiratory dysfunction, and long-term bed rest, many patients with severe COVID-19 are prone to venous thrombo-embolism.2 The administration of a prophylactic dose of anticoagulants in patients with severe COVID-19 has been recommended by expert consensus in China.3 However, the case reported here represents an example of the need for therapeutic anticoagulant therapy in a specific group of severe COVID-19 pneumonia patients.
+
+Timeline
+
+Day	Event	
+Day of admission	Presented with fever, cough, and dyspnoea; RT–PCR was positive for SARS-CoV-2.	
+Day 1	Trachea intubated and connected to ventilation because of hypoxic respiratory failure. Echocardiography was normal.	
+Day 3	Developed obstructive shock, and echocardiography demonstrated severe right ventricular dysfunction and a right atrial thrombus.
+
+Received veno-arterial extracorporeal membrane oxygenation (ECMO) because of refractory shock, and received a catheter-directed thrombolysis alteplase infusion.
+
+	
+Day 4	Right ventricular function improved, and the right atrial thrombus disappeared.	
+Day 6	ECMO was removed. CT pulmonary angiography confirmed pulmonary embolism. Chest CT indicated COVID-19 pneumonia.	
+Day 8	Weaned from ventilation.	
+
+Case presentation
+
+A 42-year-old man with no significant medical history presented with fever, cough, dyspnoea, and headache. The patient was diagnosed with COVID-19 on 8 April 2020 based on RT–PCR testing, which detected SARS-CoV-2. Physical examination on admission revealed moderate systolic hypertension (155/85 mmHg) with a heart rate of 94 b.p.m., a respiratory rate of 30 breaths/min, an oxygen flow rate of 15 L/min, and an O2 saturation of 94% with the use of a non-rebreather mask. No signs of left ventricular failure were present, nor was leg oedema, but fine scattered crackles were present. The electrocardiogram (ECG) and the echocardiogram on admission were normal.
+
+Chest X-ray (CXR) showed bilateral peripheral pulmonary infiltrates. The complete blood count showed a white cell count of 19.5 × 109/L (normal 4.5–10.0 × 109/L), a neutrophil count of 14.5 × 109/L, a lymphocyte count of 0.7 × 109/L, a platelet count of 360 × 109/L (normal range 150 × 109/L to 400 × 109/L]), and a haematocrit of 24.6%. The ferritin level was 855 μg/L (normal 20–85 μg/L), the high-sensitivity C-reactive protein level was 112.0 mg/L (normal range <10 mg/L), the D-dimer level according to enzyme-linked immunosorbent assay (ELISA) testing was 4400 ng/mL (normal <500 for fibrin equivalent units), the fibrinogen level was 7.1 g/L (normal 1–2 g/L), the prothrombin time was 17.0 s (normal reference range 12–15 s), and the activated partial thromboplastin time (aPTT) was 43.7 s (normal reference range 32–42 s). The initial treatment was supportive and consisted of ceftriaxone, clarithromycin, hydroxychloroquine, and enoxaparin s.c. 40 mg once daily. The illness subsequently progressed to hypoxaemic respiratory failure, warranting the initiation of invasive mechanical ventilation 24 h after admission.
+
+Two days later, the patient developed hypotension, with a systolic blood pressure of 70 mmHg, and sinus tachycardia, with a heart rate of 124 b.p.m., without arrhythmia, and he became haemodynamically unstable. ECG showed sinus tachycardia, an S1Q3T3 pattern, and acute T wave inversion in leads V2, V3, and V4. Point-of-care echocardiography evaluation showed a dilated and severely hypokinetic right ventricle with a mean derived pulmonary arterial pressure of 60 mmHg and a large mobile echogenic mass swirling around in the right atrium, consistent with a thrombus in transit (Figure 1; Supplementary material online, Video S1). We started the patient on high-dose norepinephrine, dobutamine, and vasopressin infusions, but his systolic pressure barely reached 90 mmHg. Veno-arterial extracorporeal membrane oxygenation (VA-ECMO) was performed because of refractory shock, and catheter-directed thrombolysis with a 24-h infusion of alteplase was administered, followed by an infusion of unfractionated heparin. Follow-up echocardiography 12 h later showed a decrease in the right ventricular diameter with improvement in systolic function and a decrease in pulmonary pressure to 40 mmHg (normal <35 mmHg) with the disappearance of the clot. Forty-eight hours later, VA-ECMO was removed, blood pressure was maintained without vasopressors, and there were no bleeding complications. A CT scan of the chest revealed the presence of filling defects in the main left and right pulmonary arteries, confirming the expected diagnosis of a pulmonary embolus (Figure 2). The CT scan of the chest showed extensive multifocal areas of ground-glass opacities in both lungs with subpleural predominance and peripheral distribution (Figure 3). The patient was weaned from the ventilator 2 days later with no neurological sequelae.
+
+Figure 1 Two-dimensional echocardiogram apical view showing a dilated right ventricle and right atrial thrombus. RV, right ventricle; RA, right atrium; LV, left ventricle; TV, tricuspid valve; T, thrombus.
+
+Figure 2 CT of the chest mediastinal window demonstrating (arrows) filling defects in the right and left main pulmonary arteries, indicating pulmonary emboli. A, ascending aorta; P, main pulmonary trunk.
+
+Figure 3 CT of the chest lung window demonstrating bilateral subpleural ground-glass opacities and air space consolidation (arrows).
+
+The patient went on to a rehabilitation programme as an inpatient with good physical improvement. The patient eventually opted to start treatment with a vitamin K antagonist after an overlapping period with low molecular weight heparin (LMWH). He was discharged from the hospital with no symptoms. Follow-up echocardiography after 30 days showed mild pulmonary hypertension with a normal right ventricle.
+
+Discussion
+
+In severe sepsis, hyperinflammatory states are well described;4 however, the degree to which COVID-19-related inflammation is similar to or different from that typically found in sepsis is unknown. Some emerging case reports suggest that critically ill patients with COVID-19 develop complications from hypercoagulability,5 including both pulmonary emboli6 and microscopic thrombi.7 The dysfunction of endothelial cells induced by infection and hypoxia found in severe COVID-19 can stimulate thrombosis not only by increasing blood viscosity but also through a hypoxia-inducible transcription factor-dependent signalling pathway.8,9 A case series of COVID-19 patients with clinically significant coagulopathy, antiphospholipid antibodies, and multiple infarcts in the brain, both digital and pulmonary, has been described.10 However, these antibodies can also arise transiently in patients with critical illness and various infections.11 The presence of these antibodies may in rare cases lead to thrombotic events that are difficult to differentiate from other causes of multifocal thrombosis in critically ill patients, such as DIC, heparin-induced thrombocytopenia, and thrombotic microangiopathy. All reported patients had severe hypoxaemia and markedly elevated D-dimer and fibrinogen levels.
+
+Although our patient was on a prophylactic dose of LMWH for deep vein thrombosis, he developed a haemodynamically unstable pulmonary embolism. Occlusion and microthrombosis formation in the small pulmonary vessels of critical patients with COVID-19 have been reported based on a recent lung organ dissection. A better prognosis was observed in severely ill COVID-19 patients meeting the sepsis-induced coagulopathy (SIC) score criteria or with markedly elevated D-dimer levels when using anticoagulant therapy, mainly with LMWH.12 Whether anticoagulation should be provided in a therapeutic dose or in a prophylactic dose is still debatable. Seven patients were reported with acro-ischaemia (cyanosis and gangrene of the fingers and toes) and elevated D-dimer and fibrinogen levels, six of whom received therapeutic dose treatment with LMWH, but, unfortunately, five of the anticoagulated patients died.13 The International Society on Thrombosis and Haemostasis recommends that all hospitalized COVID-19 patients should receive a prophylactic dose of LMWH unless they have contraindications (active bleeding and a platelet count <25 × 109/L).13 Many centres recommend intermediate dose or even therapeutic intensity anticoagulation guided by the levels of D-dimer and fibrinogen, but whether this will improve outcomes is still unknown.14
+
+The laboratory findings of our patient are consistent with the characteristic features of severe COVID-19 pneumonia (a normal or slightly prolonged prothrombin time and aPTT, normal platelet count, and markedly increased fibrinogen) but not with those of DIC.15 Thrombosis is a significant clinical finding in COVID-19, whereas the significant finding in acute decompensated DIC is bleeding.15 In COVID-19, the typical findings include high fibrinogen and high factor VIII activity, suggesting that significant consumption of coagulation factors is not occurring.15 Typically, bleeding predominates in acute decompensated DIC, and thrombosis predominates in chronic compensated DIC, although there is significant overlap. Thus, the hypercoagulable state in patients with COVID-19 is similar to that found in compensated DIC and might explain the absence of bleeding complications in our patient despite receiving heparin and local thrombolysis.
+
+VA-ECMO was a lifesaving rescue therapy for our patient because of the high-risk, acute, massive pulmonary embolism. He was too sick to benefit from surgical thrombectomy. VA-ECMO is a reliable and quick tool to decrease right ventricular overload, to improve right ventricular function and haemodynamic status, and to restore tissue oxygenation.16Catheter-directed thrombolysis is effective at reducing the right ventricular/left ventricular ratio faster than anticoagulation alone and has fewer bleeding complications.16Catheter-directed thrombolysis allowed ECMO weaning within several days. We believe that this is the first reported case of COVID-19 pneumonia with massive pulmonary embolism that was managed successfully with VA-ECMO and thrombolysis.
+
+Conclusions
+
+The hypercoagulation state in critically ill COVID-2019 pneumonia patients should be monitored closely, and anticoagulant therapy can be considered in select patients. More clinical data are needed to investigate the role of anticoagulation in COVID-19 treatment. VA-ECMO is a vital adjunct therapy for massive pulmonary embolism.
+
+Lead author biography
+
+Dr Mohammed Shamsah, MBBS, FRCPC, is a consultant in Anesthesia, Critical Care Medicine and Pain Management and the ECMO Director of Al-Adan Hospital, Ministry of Health, Kuwait. Obtained the FRCPC in Anesthesia from University of Western Ontario in 2000.He obtained the American National Board of Echocardiography and TEE) in 2001 where he then was registered and certified as Echocardiographer at the province of Manitoba. He was granted the Canadian Critical Care Fellowship in University of Manitoba, Canada in 2002. He established a registry for Extracorporeal Life Support in Kuwait. He also with the mechanical circulatory team established durable mechanical circulatory support program at Adan hospital.
+
+Supplementary material
+
+Supplementary material is available online at European Heart Journal – Cardiovascular Imaging.
+
+Funding
+
+The research was performed as part of the employment of the authors in the Ministry of Health and Kuwait Oil Company.
+
+Slide sets: A fully edited slide set detailing this case and suitable for local presentation is available online as Supplementary data.
+
+Consent: The authors confirm that written consent for submission and publication of this case report, including images and associated text, has been obtained from the patient in line with COPE guidance.
+
+Conflict of interest: none declared
+
+Supplementary Material
+
+ytaa296_Supplementary_Data Click here for additional data file.

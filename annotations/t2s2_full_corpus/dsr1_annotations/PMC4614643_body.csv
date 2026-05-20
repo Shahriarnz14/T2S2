@@ -1,0 +1,187 @@
+event,time
+27-year-old woman,0
+acute myeloblastic leukemia (FAB 6),- (converted to timestamp based on context)
+myelodysplastic syndrome,-
+normal karyotype,-
+WT1+,-
+single mutation of CEBPa (mutation TAD1 from CEBPa),-
+no mutation of NMP1,-
+complete response after induction chemotherapy,-
+consolidation therapy: two cycles of high-dose Ara-C with pegfilgrastim,-
+relapse,- (April 2014)
+salvage therapy: Ara-C and idarubicine,- (April 2014)
+second complete response,-
+HLA-identical unrelated donor search,- (relapse time)
+haplo-identical allogeneic HSCT from mother,0 (transplant day)
+"conditioning regimen: fludarabine, cyclophosphamide, busulfan, antithymocyte globulin, cyclophosphamide post graft infusion",0
+GvHD prophylaxis: tacrolimus (Tac) and mycophenolate mofetil (MMF),0
+PBSC source: 4.32 × 10e6 CD34+/kg,0
+recipient CMV+,0
+recipient HSV+,0
+recipient HHV6+,0
+recipient TOXO+,0
+recipient EBV+,0
+recipient VZV+,0
+sinusoidal occlusive syndrome (SOS),"0 (post-transplant, timing unclear but near admission)"
+"SOS treatment: diuretics, ursodeoxycholic acid",0
+Tac stopped at day 21,21
+MMF continued with tapering,21
+hematological recuperation at day 18,18
+"100% donor chimerism (PB, BM)",18
+discharged at day 27,27
+"outpatient follow-up: EBV, HHV6, Toxoplasmosis, CMV, ADV PCR regularly checked",27 onward (weekly/monthly)
+monthly serum immunoglobulin,27 onward
+CMV reactivation at day 56,56
+valgancyclovir treatment for 6 weeks,56
+3-month follow-up: no relapse,90
+"100% donor chimerism (PB, BM)",90
+CD3 count:16 × 10e3/mm³,90
+CD4 count: 4 × 10e3/mm³,90
+CD8 count: 12 × 10e3/mm³,90
+CD4:CD8 ratio 0.33,90
+IgG: 9.07 g/L,90
+IgA: 0.59 g/L,90
+IgM: 0.08 g/L,90
+Hg 8.1 g/dL,90
+WC: 2.0 × 10e3/mm³,90
+neutro: 1.61 × 10e3/mm³,90
+Platelets: 89 × 10e3/mm³,90
+donor lymphocytes collected (for possible CMV reactivation),90
+CMV PCR weekly,90 onward
+second CMV reactivation at day 121,121
+valgancyclovir (two boxes),121
+"severe toxic pancytopenia (Hg:7.0 g/dL, neutro:0.5 G/L, Plat 30 × 10e3/mm³)",121 +7 days (128)
+valgancyclovir dose reduced,128
+G-CSF started thrice weekly,128
+weekly serum immunoglobulin,128
+donor lymphocyte injection (DLI) 1 × 10e5 CD3+/kg at day 134,134
+"admission with fever (38.5°C), nausea, vomiting, weight loss, loss of appetite, oral candidiasis",134 +21 days (155)
+Hg:9.1 g/dL,155
+WC:2.7 × 10e3/mm³,155
+Plat:56 × 10e3/mm³,155
+CRP:86 mg/L,155
+Na:135 mmol/L,155
+K:3.0 mmol/L,155
+Protein:67 g/L,155
+creatinine:1.06 mg/dL,155
+T Bili:0.2 mg/dL,155
+D Bili <0.1 mg/dL,155
+AST:228 U/L,155
+ALT:136 U/L,155
+ALP:105 U/L,155
+gamma GT:75 U/L,155
+posaconazole stopped,155
+ursodeoxycholic acid reintroduced,155
+ceftazidim and caspofungin started,155
+gastric fibroscopy with biopsies (for GvHD),155
+diarrhea developed within 48h of admission,155 +48h (157)
+"stool analyses: bacteriological, viral, fungal",157
+ceftazidim replaced by tazocillin and metronidazole,157
+MMF discontinued,157
+short course of steroids started,157
+foscavir started (replacing valgancyclovir),157
+CMV PCR twice weekly,157 onward
+CMV copies decreased,157 onward
+no GvHD on gastric biopsies,157
+oral candidiasis (Candida albicans) confirmed,157
+CT: liver hypodense lesions,157
+liver biopsy scheduled,157
+sepsis (Staphylococcus hominis) from port at day 148,148
+vancomycin started,148
+port pulled,148
+diarrhea stopped (no GvHD),148
+steroids rapidly decreased,148
+"day 154: rash (20–25% body), profuse diarrhea (>1L/24h)",154
+gut and skin biopsies,154
+steroids increased to 2 mg/kg/day,154
+"hepatomegaly with pain, ascites, edema, fever (40°C) within 3 days",154 +3 days (157)
+pancytopenia (severe neutropenia),158
+severe hepatic cytolysis,158
+cholestasis,158
+"CMV, EBV, HHV6, toxoplasmosis, ADV, HBV, HCV PCR",158
+BM aspiration (haemophagocytosis),158
+no haemophagocytosis or BM viral infection,158
+myelotoxicity due to drug toxicity,158
+liver biopsy via transjugular approach,159
+disseminated intravascular coagulation (DIC),159
+continued jugular vein bleeding,159
+death from hepatic failure,159 +2 days (161)
+autopsy results: ADV PCR positive,161 +7 days (168)
+100% donor chimerism (BM),168
+isolated fulminant hepatitis due to ADV,168
+27-year-old woman,0
+acute myeloblastic leukemia (FAB 6),-10584
+myelodysplastic syndrome,-10584
+normal karyotype,-10584
+WT1+,-10584
+single mutation of CEBPa (mutation TAD1 from CEBPa),-10584
+no mutation of NMP1,-10584
+complete response after induction chemotherapy,-10584
+consolidation therapy,-10584
+relapse,-840
+salvage therapy,-840
+second complete response,-840
+HLA-identical unrelated donor search,-840
+haplo-identical allogeneic HSCT,0
+conditioning regimen,0
+GvHD prophylaxis,0
+PBSC source,0
+recipient CMV+,0
+recipient HSV+,0
+recipient HHV6+,0
+recipient TOXO+,0
+recipient EBV+,0
+recipient VZV+,0
+sinusoidal occlusive syndrome (SOS),0
+SOS treatment,0
+Tac stopped,504
+MMF continued,504
+hematological recuperation,432
+discharged,648
+CMV reactivation,1344
+valgancyclovir treatment,1344
+donor lymphocytes collected,2160
+second CMV reactivation,2904
+severe toxic pancytopenia,3072
+G-CSF started,3072
+donor lymphocyte injection (DLI),3216
+admission with fever,3720
+posaconazole stopped,3720
+ursodeoxycholic acid reintroduced,3720
+ceftazidim started,3720
+caspofungin started,3720
+gastric fibroscopy,3720
+diarrhea,3768
+stool analyses,3768
+ceftazidim replaced,3768
+MMF discontinued,3768
+steroids started,3768
+foscavir started,3768
+oral candidiasis,3768
+CT: liver lesions,3768
+liver biopsy scheduled,3768
+sepsis,3552
+vancomycin started,3552
+port pulled,3552
+steroids decreased,3552
+rash,3696
+profuse diarrhea,3696
+gut biopsy,3696
+skin biopsy,3696
+steroids increased,3696
+hepatomegaly,3720
+ascites,3720
+edema,3720
+fever (40°C),3720
+pancytopenia,3792
+hepatic cytolysis,3792
+cholestasis,3792
+PCR tests,3792
+BM aspiration,3792
+myelotoxicity,3792
+liver biopsy,3816
+disseminated intravascular coagulation,3816
+jugular vein bleeding,3816
+death,3864
+ADV PCR positive,4032
+fulminant hepatitis,4032

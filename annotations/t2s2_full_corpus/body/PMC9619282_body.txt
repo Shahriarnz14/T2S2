@@ -1,0 +1,108 @@
+pmcTimeline
+
+Introduction
+
+The metabolic acidoses are generally separated into 2 categories on the basis of an anion gap (AG) calculation (AG = Na+ − (Cl− + HCO3−)): high-anion-gap metabolic acidoses, and normal-anion-gap, or hyperchloremic, metabolic acidosis. Normal AG acidoses are most often due to gastrointestinal or renal bicarbonate loss.1 The differential diagnosis of high-anion-gap metabolic acidosis (HAGMA) is well known (Table 1),1 and, in most cases, the cause can be confirmed with routinely available testing. HAGMA due to 5-oxoproline or d-lactate accumulation, or diethylene glycol toxicity, is relatively rare and routine testing for these entities is not performed. Nonetheless, in the absence of a clear explanation for HAGMA after initial testing, focused history-taking and additional tests can establish a specific cause. This is particularly important as treatments for rarer causes of HAGMA can be lifesaving and differ according to the etiology. Here, we present a case of HAGMA, which developed during a prolonged hospitalization. The cause was ultimately confirmed to be 5-oxoproline accumulation. In addition to 5-oxoproline, d-lactate acidosis was a potential consideration, and we use this case to review the pathophysiology and management of these relatively rarer causes of HAGMA.
+
+Table 1. Differential Diagnosis of High-Anion-Gap Metabolic Acidosis Using the GOLD MARK Acronym, From Mehta et al.1
+
+• Glycols (Diethylene and Propylene)
+• 5-Oxoproline accumulation
+• l- and d-Lactate accumulation
+• Methanol
+• Aspirin
+• Renal failure
+• Ketoacidosis	
+
+Presenting Concerns
+
+A 56-year-old woman, who was previously known only for a history of schizophrenia, was admitted to the hospital 2 months prior to our assessment due to perforated diverticulitis which required sigmoid resection. Her hospitalization was complicated by an anastomotic leak, the need for a defunctioning ileostomy, feculent peritonitis, and surgical wound dehiscence requiring percutaneous drainage, laparotomy, prolonged broad-spectrum antibiotic treatment, and wound debridements over several weeks. She was ordered to receive a high-protein/caloric diet due to elevated ileostomy outputs; however, her intake remained poor. For pain management, she was given acetaminophen 650 mg 4 times per day following admission (total dose of 78 g), and over a 3-week period, her dose was increased to 650 mg every 4 hours (3.9 g/d).
+
+Clinical Findings
+
+On the day of our assessment, she was transferred to the intensive care unit for hypovolemic shock that was thought to be from high gastrointestinal losses and poor oral intake. She was found with new abdominal collections, acute kidney injury (AKI), and HAGMA (Table 2).
+
+Table 2. Electrolytes and Arterial Blood Gas Testing Relative to the Patient’s ICU Admission With a Severe High-Anion-Gap Metabolic Acidosis.
+
+	Reference interval	Day 2	Day 1	ICU day 0	Day 1	Day 2	
+Na+, mmol/L	136-144	136	141	143	144	140	
+K+, mmol/L	3.5-5.1	3.4	4.2	3.9	3.6	4.8	
+Cl−, mmol/L	98-107	102	110	110	110	101	
+Total CO2, mmol/L	19-30	10	6	5	9	25	
+Anion gap, mmol/L	8-16	22	26	28	25	14	
+Creatinine, µmol/L	49-84	136	183	181	178	67 (post-SLED)	
+Glucose, mmol/L	4-11	5.0	6.3	—	—	7.2	
+Urea, mmol/L	2.4-6.4	—	12.4	13.2	12.6	—	
+Albumin, g/L	39-47	24	22	24	—	—	
+Urine anion gap, mmol/L	n/a	—	—	51	—	—	
+Urine osmolarity, mOsm/kg	n/a	—	—	308	—	—	
+Serum osmolality, mOsm/kg	280-295	—	—	319	—	—	
+Arterial blood gas	
+ pH	7.38-7.46	—	—	6.92	7.17	7.42	
+ PaCO2, mm Hg	32-45	—	—	18	30	47	
+ Bicarbonate, mmol/L	22-27	—	—	6	11	29	
+ Hb sat. %	95-98	—	—	95	97	95	
+ Lactate whole blood, mmol/L	0.5-2.5	—	—	0.6	0.8	—	
+Note. SLED = sustained low-efficiency dialysis.
+
+Diagnostic Focus and assessment
+
+Her initial investigations revealed a negative alcohol screen (ethanol, methanol, isopropanol, ethylene glycol), normal liver function tests, lactate, negative for salicylates, and mildly elevated beta-hydroxybutyrate (0.56 mmol/L [reference interval <0.27 mmol/L]).
+
+Although the patient’s AG elevation might have been partially explained by AKI and elevated beta-hydroxybutyrate, the AG elevation was disproportionately high. Serum osmolal gap was elevated (19 mOsm/kg), probably in the setting of AKI. Using the mnemonic GOLD MARK,1 an acronym for glycols (ethylene and propylene), oxoproline (5-oxoproline also called pyroglutamic acid), l-lactate, d-lactate, methanol, aspirin, renal failure, and ketoacidosis, we determined that there were 3 additional potential causes that needed to be ruled out with further history-taking and testing. First was d-lactic acidosis, typically seen in patients with short gut syndrome. Second, 5-oxoproline acidosis, associated with chronic acetaminophen ingestion, has been well-documented in the literature.2-4 Although possible, diethylene glycol toxicity was presumed to be much less likely given no history of toxic exposure or ingestion in the context of a prolonged hospitalization. Given her reduced kidney function, malnutrition, and chronic acetaminophen ingestion, we suspected 5-oxoproline accumulation. Her serum level of acetaminophen was <33 µmol/L.
+
+Therapeutic Focus and Assessment
+
+Acetaminophen was stopped and the patient was started on volume expansion with dextrose and bicarbonate drip. N-acetyl cysteine (60 mg/kg) was administered to empirically treat the associated glutathione and cysteine deficiency to limit any potential further conversion of γ-glutamyl phosphate to 5-oxoproline. Sustained low-efficiency dialysis (SLED) was also initiated for severe acidosis. Urine organic acid testing revealed a markedly increased excretion of 5-oxoproline, with smaller increases in the excretion of lactic and pyruvic acids. This confirmed the diagnosis of 5-oxoproline accumulation as the primary driver of the patient’s HAGMA. The HAGMA improved after providing N-acetylcysteine and 2 days of SLED treatments as well as treatment for intra-abdominal sepsis.
+
+Follow-up and Outcomes
+
+The patient continued to require vasopressor and ventilatory support for septic shock and a ventilator-associated pneumonia but subsequently she improved and was transferred back to the medical ward. Unfortunately, her subsequent course was complicated by recurrent aspirations and she ultimately passed away, likely due to respiratory failure following an aspiration event.
+
+Discussion
+
+In the rare cases, where a patient has a HAGMA that is not explained by obvious etiologies, additional history and testing can establish the cause and lead to specific (and potentially lifesaving) treatments: 5-oxoproline (N-acetylcysteine), d-lactate (source control and antibiotics), diethylene glycol (dialysis).
+
+In our patient, after ruling out common causes of HAGMA, the 2 main differential diagnoses of HAGMA remaining were 5-oxoproline or d-lactate accumulation (Figure 1). Diethylene glycol poisoning most often occurs in the context of exposure to brake fluid (oral ingestion or, potentially, topical exposure) and has been related to pill contamination in children, but was less likely in a hospitalized patient.
+
+Figure 1. Clinical clues and laboratory testing for causes of HAGMA.
+
+Note. CKD = chronic kidney disease; HAGMA = high-anion-gap metabolic acidosis; GFR = glomerular filtration rate; NRTIs = nucleoside reverse transcriptase inhibitors; AKI = acute kidney injury; DM = diabetes mellitus; DKA = diabetic ketoacidosis; SGLT2i = sodium-glucose co-transporter-2 inhibitors; CKRT = continuous kidney replacement therapy; ASA = acetylsalicylic acid; IV meds = intravenous medications; PEG = polyethylene glycol; carb = carbohydrate; GCMS = gas chromatography mass spectroscopy; DEG = diethylene glycol.
+
+5-Oxoproline Accumulation
+
+5-Oxoproline is a tripeptide that contains glutamic acid, cysteine, and glycine. It is an antioxidant involved in several important metabolic reactions including detoxification of many drugs. Accumulation of 5-oxoproline can occur via several mechanisms that cause decreased production of glutathione and the primary one being glutathione synthetase deficiency. Inherited deficiencies of glutathione synthetase are rare and commonly autosomal recessive. They manifest at an early age with mental retardation, ataxia, hemolytic anemia, and chronic metabolic acidosis.5 There might be a sex-based predisposition for 5-oxoproline acidosis, with women more likely than men to be diagnosed with the condition,3 due to sex-based differences in the activity of several isoenzymes in the gamma-glutamyl cycle.6 Another rare cause includes 5-oxoprolinase deficiency which typically presents as kidney stones (due to 5-oxoprolinuria) at a young age.3
+
+The acquired form of glutathione synthetase deficiency is related to irreversible binding of one of the metabolites of acetaminophen, N-acetyl-p-benzoquinone-imine (NAPQI) to glutathione which is mostly stored in the liver. Acetaminophen toxicity develops when 80% of the intracellular content of glutathione is depleted. This provokes an increase in gamma-glutamyl cysteine synthetase activity and the resulting elevated gamma-glutamyl cysteine levels are partially converted to 5-oxoproline. This has been described in multiple cases in the literature (see Kalinoski7 for review). It is interesting to note that in the vast majority of cases reported in the literature, a common feature was chronic ingestion of acetaminophen at doses equal or less than 4 g/d and with low or normal serum levels of acetaminophen7 (ie, less than would be expected to result in hepatic injury), as was the case for our patient. However, it is recognized that risk factors for acetaminophen toxicity are related to glutathione depletion or relative deficiency (and thus causing 5-oxoproline accumulation due to chronic acetaminophen ingestion), including old age, pregnancy, malnutrition, a vegetarian diet, sepsis, multiple chronic illnesses, and chronic kidney disease.8 Some other medications have also been implicated, including netilmicin, flucloxacillin, and vigabatrin.9
+
+Treatment with N-acetylcysteine has been used in several case reports, as it has been shown to restore glutathione levels in patients with hereditary 5-oxoprolinuria.10 Glutathione inhibits the gamma-glutamyl cysteine synthetase and decreases the formation of 5-Oxoproline.
+
+It is important to note that acetaminophen is probably the most widely used drug in the world.11 At the same time, it is probably one of the most dangerous compounds in medical use, causing hundreds of deaths in all industrialized countries due to acute liver failure in the setting of acute overdose.12 There are other potential safety issues related to acetaminophen at therapeutic doses,13 including a dose response increase in the relative rates of adverse cardiovascular events (small increase in blood pressure, coronary heart disease, stroke), thrombocytopenia, agranulocytosis, nephrotoxicity, hypersensitivity reactions, gastrointestinal complaints, drug interactions with warfarine.12,13 A recent systematic review and meta-analysis assessed the possible association between acetaminophen use and renal impairment.14 Participants without a history of renal impairment who used acetaminophen were found to have an increased risk of renal impairment compared with no use (adjusted odds ratio = 1.23, 95% confidence interval, 1.07-1.40). However, a high degree of study heterogeneity was observed.14 Furthermore, regarding the doses of acetaminophen and the incidence of adverse effects, a striking trend of dose response was observed between acetaminophen at standard analgesic doses and adverse events that are often observed with nonsteroidal anti-inflammatory drugs, including an increasing incidence of mortality, cardiovascular, gastrointestinal, and renal adverse effects in the general population.13
+
+An important question related to the case that is reported here is whether or not this incident could have been prevented. Based on the literature, lowering the dose or even stopping the administration of acetaminophen in a fragile patient with risk factors of acetaminophen toxicity would have likely prevented this issue. The patient received the maximum therapeutic dose (4g/d) during several weeks while she was malnourished, with sepsis and multiple organ failure. Many of these factors are associated with depletion of glutathione stores as discussed above. The ideal dose of acetaminophen in critically ill patients is not known but it should generally be lowered to 2 to 3 g/d as these patients have many of the risk factors of toxicity. This dose range is also recommended in elderly patients and those that weigh less than 50 kg.15
+
+d-Lactic Acidosis
+
+In our patient, d-lactate was another potential cause of HAGMA. There are two known sources of d-lactate, one is from colonic carbohydrate-fermenting bacteria and the second involves production in the intestinal epithelial cells via the methylglyoxal pathway. The latter involves convertion of glucose into methylglyoxal and then to d-lactate by the d-lactate dehydrogenase.16 The excessive intake of glucose by a cell activates the methylglyoxal pathway. Certain risk factors predispose to this condition including short gut (causing carbohydrate malabsorption and increased distal delivery of glucose), accumulation of colonic bacterial flora (that produce d-lactic acid), and decreased colonic motility (which increases fermentation time).17 Management of d-lactate includes antimicrobials, low-carbohydrate diet, alkali therapy, dialysis, and surgical intestinal lengthening.
+
+The d-lactate level in our patient was low; however, the blood sample was collected after her first SLED treatment and the timing of collection may be important.18 Regardless, the clinical picture overall was more consistent with our patient’s HAGMA being related primarily to 5-oxoproline accumulation.
+
+In conclusion, even patients assessed during the course of a prolonged hospitalization may become vulnerable to rare causes of HAGMA. After considering the usual suspects, additional evaluations, special testing, and treatments may be required for the rarer causes of HAGMA for which routine testing is not typically available. Considering these entities is important as doing so can guide potentially lifesaving treatments.
+
+We sincerely thank the patient’s family who consented to us reporting this case despite the most difficult of circumstances.
+
+Ethics Approval and Consent to Participate: For the reported case, the patient could not be approached to give consent as she died while in hospital and before we decided to present her history. The patient’s family subsequently provided consent for reporting this case.
+
+Consent for Publication: All authors provided consent for publication.
+
+Availability of Data and Materials: Not applicable.
+
+The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: Ana Cecilia Farfan Ruiz—none; Sriram Sriperumbuduri—none; Julie L V Shaw—none; Edward G Clark—Editorial Board of CJKHD. All authors declared no competing interest.
+
+Funding: The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Patient Perspective: Unfortunately, the patient died 180 days after her initial admission due to recurrent aspirations while on the ward.
+
+ORCID iDs: Ana Cecilia Farfan Ruiz https://orcid.org/0000-0002-7488-5644
+
+Edward G. Clark https://orcid.org/0000-0002-6767-1197

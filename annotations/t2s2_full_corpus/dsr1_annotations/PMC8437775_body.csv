@@ -1,0 +1,74 @@
+event,time
+57 years old,0
+female,0
+admitted to the hospital,0
+hypertension,0
+hyperlipidemia,0
+irritable bowel syndrome,0
+gastroesophageal reflux disease,0
+amlodipine,0
+atorvastatin,0
+famotidine,0
+right lateral ankle pain,-12
+ankle injury,-12
+swelling on lateral aspect,-12
+right leg and ankle x-ray,-12
+lateral malleolar edema,-12
+discharged home,-6
+worsening swelling of right lower extremity,6
+ecchymotic lesion expansion,6
+increased pain,6
+shortness of breath,6
+cardiac arrest,6
+hypoxic respiratory failure,6
+intubated,6
+hypotension 85/57 mmHg,6
+sinus tachycardia 115 bpm,6
+mechanically ventilated,6
+extensive hemorrhagic lesion,6
+bullous formation,6
+white blood cell count 3.3 K/mm³,6
+hemoglobin 8.9 gm/dL,6
+mean corpuscular volume 112.8 fL,6
+platelet count 36 K/mm³,6
+potassium 5.1 mmol/L,6
+carbon dioxide 11 mmol/L,6
+anion gap 33 mEq/L,6
+creatinine 2.9 mg/dL,6
+lactic acid 21.4 mmol/L,6
+total bilirubin 1.7 mg/dL,6
+aspartate transaminase 327 U/L,6
+alanine transaminase 164 U/L,6
+troponin 0.110 ng/mL,6
+prothrombin time 25.9 seconds,6
+international normalized ratio 2.25,6
+fibrinogen 318 mg/dL,6
+d-dimer 5200 ng/mL,6
+creatinine kinase 3197 U/L,6
+arterial blood gas pH 6.69,6
+pCO2 69.1 mmHg,6
+HCO3 8.3 mmol/L,6
+chest x-ray clear lungs,6
+head CT subarachnoid hemorrhage,6
+chest CT angiography no pulmonary embolism,6
+admitted to intensive care unit,6
+intravenous fluids 0.9% normal saline,6
+blood cultures obtained,6
+intravenous vancomycin,6
+intravenous meropenem,6
+intravenous clindamycin,6
+bedside fasciotomy,6
+bedside below the knee guillotine amputation,6
+tissue cultures,6
+second set of blood cultures,6
+continuous renal replacement therapy,6
+progression of acidosis,24
+multiple pressors,24
+multisystem organ failure,24
+expired,48
+P. fluorescens growth,48
+P. putida growth,48
+sensitive to piperacillin/tazobactam,48
+sensitive to gentamicin,48
+sensitive to tobramycin,48
+sensitive to meropenem,48

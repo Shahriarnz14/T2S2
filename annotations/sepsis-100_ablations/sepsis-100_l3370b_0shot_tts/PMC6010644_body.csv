@@ -1,0 +1,89 @@
+event,time
+fever ,-120
+arthralgia ,-120
+myalgia ,-120
+headache ,-120
+intermittent productive cough ,-120
+yellowish sputum ,-120
+chest heaviness ,-120
+dyspnea at rest ,-120
+diarrhea ,-120
+reduced oral intake ,-120
+denies any history of travelling ,0
+denies recent jungle activities ,0
+no past medical illness ,0
+no previous hospitalization ,0
+never sought medical treatment for his current condition ,0
+conscious ,0
+dehydrated ,0
+cold peripheries ,0
+febrile ,0
+temperature of 38.5 °C ,0
+hypotensive ,0
+blood pressure of 81/53 mmHg ,0
+tachycardic ,0
+146 beats per minute ,0
+tachypnoeic ,0
+respiratory rate of 30 breaths per minutes ,0
+oxygen saturation of 75–80% ,0
+coarse crepitation over both lower zone of his lungs ,0
+tenderness at epigastric region ,0
+palpable liver around 5 cm below the costal margin ,0
+"no cervical, inguinal or axillary lymph nodes palpable ",0
+haemoglobin of 11.3 g/dL ,0
+low white blood cell of 0.5 × 106/L ,0
+neutrophil predominance (86.1%) ,0
+platelet count of 80 × 106/L ,0
+C-reactive protein was markedly elevated at 28.28 mg/dL ,0
+acute kidney injury ,0
+serum sodium 137 mmol/L ,0
+potassium 3.7 mmol/L ,0
+urea 14 mmol/L ,0
+creatinine of 206 μmol/L ,0
+liver function tests were normal ,0
+serum albumin of 22 g/dL ,0
+creatinine kinase 351 IU/L ,0
+arterial blood gases on room air showed pH 7.378 ,0
+pCO2 37 mmHg ,0
+pO2 52.7 mmHg ,0
+O2 saturation of 89% ,0
+HCO3 21.7 mmol/L ,0
+Dengue NS-1 Antigen negative ,0
+IgG and IgM antibody negative ,0
+chest radiograph showed consolidation of right upper lobe and left lower lobes ,0
+diagnosis of severe community acquired pneumonia (CAP) ,0
+acute kidney injury ,0
+resuscitated with normal saline ,0
+started on non-invasive ventilation ,0
+commenced empirically with intravenous ceftriaxone ,0
+commenced empirically with azithromycin ,0
+intubation ,12
+mechanical ventilation ,12
+bronchoscopy ,48
+copious amount of haemoserous and greenish secretion ,48
+repeated chest radiograph showed worsening consolidation in both lung fields ,48
+early changes of abscess formation ,48
+antibiotics upgraded to intravenous meropenem ,48
+antibiotics upgraded to cloxacillin ,48
+antiviral oseltamivir added ,48
+continuous venous-venous haemofiltration ,48
+severe metabolic acidosis ,48
+oliguric acute kidney injury ,48
+persistent spiking of temperature ,60
+worsening of septic parameters ,60
+refractory hypotension ,60
+despite maximum dose of multiple inotropic agents ,60
+patient succumbed ,72
+blood cultures negative ,72
+atypical bacterial and Leptospiral serologies negative ,72
+Hepatitis B/C and HIV serologies undetected ,72
+Respiratory viruses screening negative ,72
+tracheal aspiration positive for MDR Acinetobacter baumannii ,72
+bronchoalveolar lavage positive for MDR Acinetobacter baumannii ,72
+MDR Acinetobacter baumannii susceptible only to polymyxin B ,72
+minimum inhibitory concentration (MIC) of 0.5 μg/ml ,72
+MDR Acinetobacter baumannii resistant to penicillin group ,72
+MDR Acinetobacter baumannii resistant to ampicillin/sulbactam ,72
+MDR Acinetobacter baumannii resistant to third generation cephalosporins ,72
+MDR Acinetobacter baumannii resistant to fluoroquinolone ,72
+MDR Acinetobacter baumannii resistant to carbapenem group ,72

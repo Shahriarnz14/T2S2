@@ -1,0 +1,84 @@
+event,time
+66 years old,0
+female,0
+hospitalized to emergency room,0
+fever,0
+hypotension,0
+tachycardia,0
+elevated leukocytes,0
+elevated CRP,0
+acute renal failure,0
+elevated creatinine,0
+decreased GFR,0
+leukocyturia,0
+proteinuria,0
+bacteria in urine,0
+horseshoe kidney,0
+second-degree urinary retention,0
+urosepsis,0
+transferred to intensive care unit,0
+stent insertion,0
+restricted renal function post-intervention,24
+"computed tomography of chest, abdomen, pelvis",0
+inhomogeneous mass adjacent to right ovary,0
+contact to right ureter,0
+contact to iliac vessels,0
+contact to bladder,0
+suspicion of sacrum infiltration,0
+gastroscopy,0
+colonoscopy,0
+diverticulosis,0
+18F-FDG-PET,0
+no metastases,0
+sarcoma suspected,0
+neoadjuvant radiotherapy,0
+tumor operation,0
+iliac vascular resection,0
+partial ureteral resection,0
+NET G2 (Ki67 10%),0
+CT scan showing two liver metastases,+2880
+refused treatment,+2880
+MRI showing multiple liver lesions,+4320
+liver biopsy showing NET G2 (Ki67 15%),+4320
+68Ga-DOTATATE PET showing liver and pancreatic focus,+4320
+pathologic lymph node adjacent to pancreas,+4320
+cancer of unknown primary NET G2,+4320
+"dose-reduced 177Lu-DOTATATE (3,669 MBq)",+4320
+"dose-reduced 177Lu-DOTATATE (4,057 MBq)",+4320
+lanreotide every 4 weeks,+4320
+disease stabilization,+4320
+disease progression after 6 months,+6480
+everolimus treatment,+6480
+disease progression after 2 months,+7200
+liver biopsy identifying NET G3 (Ki67 34%),+7200
+capecitabine plus temozolomide for 12 cycles,+7200
+progression after 12 cycles,+9600
+"PRRT (4,747 MBq)",+9600
+disease stabilization,+9600
+progression after 9 months,+12960
+oxaliplatin and capecitabine treatment,+12960
+fatigue,+12960
+diarrhea,+12960
+dose reduction to 60%,+12960
+chemotherapy discontinued after 3 months,+14640
+molecular testing via next-generation sequencing,+14640
+BRCA1 mutation R691fs*10,+14640
+tumor mutational burden zero,+14640
+microsatellite stability,+14640
+germline BRCA1 mutation confirmed,+14640
+olaparib 200 mg twice daily started,+15360
+good tolerability,+15360
+stable liver metastases,+15360
+upper abdominal pain,+15360
+PRRT with 225Ac-DOTATATE (6.4 MBq),+15360
+olaparib 100 mg twice daily (days 2–6),+15360
+PRRT well tolerated,+15360
+no relevant toxicity,+15360
+no renal function impairment,+15360
+abdominal pain resolved,+15360
+olaparib restarted at 200 mg twice daily,+16416
+restaging with 68Ga-Dotatate PET/MRI,+16416
+significant decrease in liver metastases,+16416
+stable large liver metastasis after 12 months,+25920
+progression of smaller hepatic metastases,+25920
+planned additional TAT with olaparib,+25920

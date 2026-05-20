@@ -1,0 +1,121 @@
+event,time
+woman,0
+unusual neck mass,0
+severe anaemia from recurrent bleeding,0
+patient rapidly and unexpectedly decompensated,24
+72 year old,0
+history of bilateral breast cancers,0
+unusual occipital neck mass,0
+presented to the emergency department,0
+complained of shortness of breath,0
+haemoglobin of 4.2 g/dl found at oncologist's office,-2
+mass developed after a minor trauma,-479900
+mass started to grow over the past few years,-26280
+mass would periodically drain,-26280
+mass would scab over,-26280
+mass would drain again,-26280
+mass had begun to bleed,-720
+portion of the mass had fallen out,-120
+mass bled more profusely than before,-120
+developed severe diffuse swelling in her arms,-240
+developed severe diffuse swelling in her legs,-240
+developed severe diffuse swelling in her trunk,-240
+afebrile,0
+haemodynamically stable,0
+hypertensive to 170/70 mmHg,0
+oxygen saturation of 100% on 4-l nasal cannula,0
+clear lung sounds,0
+severe upper extremity pitting oedema,0
+severe lower extremity pitting oedema,0
+baseball-sized malodorous occipital mass,0
+mass was soft to touch,0
+mass had thick oozing purulent drainage,0
+initial white blood cell count of 8.3*103/μl,0
+initial haemoglobin of 4.7 g/dl,0
+initial albumin of 2.9 g/dl,0
+initial INR of 1.6,0
+initial B-type natriuretic peptide level of 666 pg/ml,0
+chest X-ray showed mild interstitial oedema,0
+recurrent bleeding from the neck mass,-720
+shortness of breath,0
+"anasarca with differential including nephrotic syndrome, cirrhosis, and liver metastases",0
+nephrotic syndrome considered in differential diagnosis for anasarca,0
+cirrhosis considered in differential diagnosis for anasarca,0
+liver metastases considered in differential diagnosis for anasarca,0
+mass suspicious for malignancy,0
+CT pan-scan was ordered,0
+not able to tolerate CT pan-scan,0
+ED stay exceeded 24 hours,24
+transfused three units of packed red blood cells,12
+became febrile to 101.2 °F,12
+tachycardic to 110 bpm,12
+fever attributed to transfusion reaction,12
+physician assistant ordered acetaminophen at attending's request,12
+temperature increased to 102 °F,18
+heart rate increased to 120 bpm,18
+tachypnoeic to 30 breaths per minute,18
+hypertensive to 200/60 mmHg,18
+lactate level of 2.7 mEq/l,18
+repeat white blood cell count of 24.3*103/μl,18
+6% band forms on repeat labs,18
+blood cultures grew E. coli,48
+started on vancomycin,18
+started on piperacillin–tazobactam,18
+creatinine had doubled from 0.72 mg/dl to 1.46 mg/dL,24
+INR was now 2.4,24
+platelet count fell from 127*103/μl to 86*103/μl,24
+fibrinogen was 224 mg/dl,24
+d-dimer level was 4668 ng/ml,24
+disseminated intravascular coagulation,26
+severe sepsis developed,26
+breathing became increasingly laboured,25
+placed on bilevel non-invasive positive pressure ventilation,25
+transferred to the medical intensive care unit,26
+hypotensive to 80/40 mmHg,26
+vasopressors were initiated,26
+urinalysis notable for pyuria with greater than 180 white blood cells per hpf,26
+intubated,30
+sedated,30
+pan-CT scan could be performed,36
+CT revealed obstructing left distal ureteric stone measuring up to 1.6 cm,36
+CT showed proximal dilation of ureter from obstructing stone,36
+CT showed hydronephrosis from obstructing ureteric stone,36
+taken to the operating room,48
+returned to the MICU,60
+weaned from vasopressors,72
+could not be extubated for a day,54
+chest X-ray showed increasing pulmonary oedema,60
+oliguric,60
+creatinine elevated to 6.4 mg/dl,60
+urgently dialyzed,72
+patient was ultimately stabilized,96
+transferred back to the general medicine service,240
+discharged from the hospital,672
+haemodialysis was initiated,672
+kidney function recovered,2160
+neck mass was eventually excised,2160
+pathology showed a benign haemangioma with infected haematoma and abscess formation,2184
+severe sepsis due to a urinary tract infection,36
+CT revealed obstructing ureteric stone,36
+ED boarding was recognized as prolonged,26
+developed a fever,12
+became septic,24
+developed respiratory distress,25
+referred from gynaecologic oncologist's office,0
+sepsis protocol triggered,18
+blood cultures drawn,18
+admitting attending physician notified,12
+MICU stay was initiated,26
+transport to MICU in the evening,26
+indirect ICU admission,26
+necrotic neck mass,0
+haemorrhagic neck mass,0
+minor trauma in 1967,-480000
+cyst developed after trauma,-479950
+painful to lie on her back,0
+repeat labs drawn,18
+urinalysis drawn,26
+pan-CT scan was completed that night,36
+ureteric stone extraction performed,48
+ureteric stenting performed,48
+bed shortage caused prolonged ED stay,0

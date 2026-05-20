@@ -1,0 +1,86 @@
+event,time
+67 years old,0
+female,0
+presented to emergency department,0
+sudden onset right loin pain,0
+right loin pain radiating to the right loin,0
+vomiting,-12
+denied urinary symptoms,0
+denied haematuria,0
+autoimmune liver cirrhosis,0
+atrophic gastritis,0
+Type 2 diabetes mellitus (T2DM),0
+hysterectomy,-43800
+coronary artery bypass surgery,-43800
+metformin,0
+non-anaphylactic reactions to penicillin,0
+non-anaphylactic reactions to IV contrast,0
+pale,0
+temperature 36.8 °C,0
+BP 141/72,0
+pulse 81 beats per minute,0
+right upper quadrant tenderness,0
+right loin tenderness,0
+no crepitus,0
+anaemia (Hb 9.8 g/dL),0
+urea 13.2 mmol/L,0
+creatinine 183 μmol/L,0
+HbA1c 5.3%,0
+normal liver function tests,0
+prothrombin time 17.5 s,0
+activated partial thromboplastin time 37.4 s,0
+WCC 9 × 10^9/L,0
+urinalysis trace blood,0
+CTKUB gas in right renal pelvicalyceal system,0
+perifascial gas tracking along right ureter,0
+no fluid collections,0
+no calculi,0
+blood cultures,0
+urine cultures,0
+intravenous antibiotics,0
+intravenous fluids,0
+Escherichia coli growth,24
+Metronidazole added,24
+pyrexia,24
+tachycardia,24
+hypotension,24
+oliguria,24
+transferred to HDU,24
+CRP rise from 8 to 109 mg/L,24
+leucocyte count 6 g/dL,24
+platelet count drop from 198 to 100 ×10^9/L,24
+creatinine rise from 183 to 258 μmol/L,24
+falling platelet count,24
+severe sepsis,24
+end-organ failure,24
+emergency right nephroureterectomy,48
+open approach,48
+peritoneum opened,48
+free peritoneal fluid due to cirrhosis,48
+necrosis of right renal pelvis,48
+necrosis of right ureter,48
+retroperitoneal oedema,48
+peri-ureteric gas,48
+no perinephric abscess,48
+ureteric necrosis to lower third,48
+retroperitoneal drain placed,48
+urethral catheter placed,48
+transferred to ICU,48
+microscopic parenchymal abscesses,72
+perinephric fat abscesses,72
+haemorrhagic infarction of ureteric mucosa,72
+serositis,72
+post-operative day 4 pyrexia,96
+CT abdomen pelvis,96
+small bilateral pleural effusions,96
+no retroperitoneal collections,96
+IV antibiotics 7 days,168
+discharged,312
+admission within 3 months with worsening renal function,2304
+managed conservatively,2304
+long term nephrology follow-up,2304
+no early complications at 2 weeks follow-up,336
+no urinary tract obstruction by urolithiasis,0
+absence of pyuria,0
+right upper quadrant tenderness,0
+no crepitus,0

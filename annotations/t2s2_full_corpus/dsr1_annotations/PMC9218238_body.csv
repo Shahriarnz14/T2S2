@@ -1,0 +1,86 @@
+event,time
+57 years old,0
+female,0
+alpha-1 antitrypsin deficiency,0
+chronic obstructive pulmonary disease,0
+home oxygen,0
+polysubstance use disorder,0
+buprenorphine,0
+severe malnutrition,0
+hemicolectomy,0
+colostomy,-17520
+large bowel obstruction,-17520
+acute abdominal pain,-96
+vomiting,-96
+constipation,-96
+generalized weakness,-96
+slurred speech,-96
+black stools,-672
+tobacco use,0
+assistance with activities of daily living,0
+clonidine,0
+paroxetine,0
+buprenorphine/naloxone,0
+albuterol/ipratropium inhaler,0
+temperature 36.6 °C,0
+heart rate 122 bpm,0
+respiratory rate 22 bpm,0
+blood pressure 155/109 mmHg,0
+oxygen saturation 100% on 3 L/min O2,0
+severely cachectic,0
+BMI 14 kg/m2,0
+abdomen exquisitely tender to light palpation,0
+ostomy output black,0
+WBC 27.1 ×10^9 cells/L,0
+lactate 3.7 mmol/L,0
+urine positive for cocaine,0
+urine positive for buprenorphine,0
+fecal occult blood test negative,0
+CT abdomen/pelvis with contrast,0
+diffuse small bowel dilatation,0
+small bowel obstruction (SBO),0
+admitted to surgery service,0
+non-operative management,0
+initial improvement over first three days,72
+WBC 13.6 ×10^9 cells/L,72
+clinical deterioration on day 4,96
+WBC 22.4 ×10^9 cells/L,120
+repeat CT abdomen/pelvis with contrast,120
+pelvic abscess 8.2×14.0×16.3 cm,120
+persistent SBO,120
+percutaneous transgluteal pigtail catheter placement,120
+"280 mL purulent, malodorous fluid removed",120
+abscess cultures: mixed flora,120
+abscess cultures: Enterococcus faecium,120
+abscess cultures: Candida dubliniensis,120
+ampicillin/sulbactam 3g IV q6h,120
+micafungin 100mg IV q24h,120
+repeat CT abdomen/pelvis day 8,192
+bowel rupture identified,192
+poor surgical candidate,192
+drain upsized,192
+confusion,192
+hypothermia,192
+tachycardia,192
+tachypnea,192
+transferred to ICU,192
+sepsis,192
+blood cultures positive for Dietzia cinnamea,192
+MALDI-ToF MS identification,192
+ampicillin/sulbactam continued,192
+micafungin continued,192
+improved by day 10,240
+repeat blood cultures negative,240
+OR on day 14,336
+jejunal enterotomy,336
+jejunojejunal anastomosis,336
+ileocolic anastomosis,336
+abdominal washout,336
+transgluteal drain removal,336
+OR cultures: mixed organisms,336
+post-operative confusion,336
+post-operative deconditioning,336
+ongoing malnutrition,336
+antimicrobials completed,1392
+imaging showing abscess resolution,1392
+discharged on day 58,1392

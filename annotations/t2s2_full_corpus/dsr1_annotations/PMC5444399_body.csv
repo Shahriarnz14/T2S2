@@ -1,0 +1,52 @@
+event,time
+63 years old,0
+male,0
+admitted to the hospital,0
+productive cough,-720
+dyspnea,-720
+pulmonary tuberculosis,-26280
+smoking 15 packs/year,-26280
+sought medical care several times,-1440
+treated with symptomatic medication,-1440
+plain chest radiography,-1440
+mild mediastinal enlargement,-1440
+bulging on the right atrium contour,-1440
+afebrile,0
+normal hemodynamic parameters,0
+no peripheral edema,0
+normal lung examination,0
+ejection murmur,0
+raised jugular venous pressure,0
+hepatomegaly,0
+unremarkable laboratory workup,0
+pericardium thickening,0
+mild effusion,0
+left ventricular ejection fraction 60%,0
+thoracic computed tomography,0
+soft tissue attenuation mass,0
+infiltrating pericardium,0
+infiltrating anterior wall of right atrium,0
+multiple bilateral scattered solid pulmonary nodules up to 2.6 cm,0
+magnetic resonance imaging,0
+heterogeneous mass diffusely involving pericardium,0
+compression/invasion of right ventricle outflow tract,0
+compression/invasion of pulmonary artery,0
+compression/invasion of superior vena cava,0
+pericardium biopsy,0
+no evidence of malignancy,0
+pulmonary nodule biopsy,0
+sinusoidal vascular channels filled with red blood cells,0
+atypical endothelial cells,0
+positivity for CD31,0
+positivity for CD34,0
+negativity for Desmin,0
+negativity for S100 Protein,0
+diagnosis of angiosarcoma,0
+metastatic angiosarcoma primary to right atrium,0
+chemotherapy with doxorubicin,0
+chemotherapy with ifosfamide,0
+CT showed reduction in pulmonary nodules size,504
+pulmonary infection,1008
+admitted to emergency department,1008
+refractory septic shock,1032
+died,1032

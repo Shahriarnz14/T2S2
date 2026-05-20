@@ -1,0 +1,74 @@
+event,time
+20 years old,0
+female,0
+admitted to the emergency room,0
+signs of sepsis,0
+hypotension,0
+multi-organ failure,0
+insulin-dependent diabetes mellitus,-144
+diagnosed with pulmonary tuberculosis,-144
+productive cough,-720
+weight loss,-720
+fever,-720
+anti-tuberculous medicines,-144
+condition deteriorated,-144
+CT scan,-144
+multiple cavitatory lesions in the right lung,-144
+moved to the intensive care unit,-144
+insulin infusion,-144
+diabetic ketoacidosis,-144
+developed hypoxia,-144
+acidosis,-144
+pulseless ventricular tachycardia,-144
+revived after ACLS,-144
+intubated,-144
+endotracheal tube,-144
+shifted to the operating room,-144
+VATS,-144
+evacuation of the abscess,-144
+clinical monitoring,0
+ECG,0
+End-tidal CO2,0
+pulse oximeter,0
+Central venous pressure,0
+right internal jugular vein,0
+left radial artery cannulation,0
+connected to anesthesia machine,0
+Isoflurane,0
+MAC 0.8-1.0,0
+FiO2 0.5-1.0,0
+air used with oxygen,0
+nitrous oxide avoided,0
+left lateral position,0
+cis-atracurium infusion,0
+morphine analgesia,0
+evacuation of abscess,0
+major air leak,0
+hypoxia,0
+unable to ventilate,0
+oxygen saturation 60%,0
+jet ventilation started,0
+Sander's Manu jet Ventilator,0
+desaturation,0
+ruptured lung abscess,0
+right upper lobe,0
+lung isolation requested,0
+left-sided 32Fr double lumen tube,0
+C-Mac Video Laryngoscope,0
+tracheal lumen clamped,0
+left lung ventilated,0
+recruitment maneuver,0
+oxygen saturation rises to 92%,0
+right upper lobe lobectomy,0
+packed red blood cell transfusion,0
+phenylephrine boluses,0
+wound closed,0
+chest drain placed,0
+double-lumen tube replaced,24
+single lumen PVC tube,24
+shifted to ICU,24
+bronchoscopy,24
+no residual defect,24
+sepsis,-144
+DKA,-144
+no residual defect found,24

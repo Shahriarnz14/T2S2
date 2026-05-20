@@ -1,0 +1,163 @@
+event,time
+20-year-old female,0
+pharyngitis,-360
+fever,-120
+cough,-120
+swollen glands,-120
+worsening sore throat,-120
+shortness of breath,-120
+increased work of breathing,-120
+rash on left wrist,-120
+scleral icterus,-120
+bright blurry vision,-120
+admitted to outside hospital,-120
+respiratory distress,-120
+possible sepsis,-120
+pharyngitis,-120
+blood culture,-120
+four negative COVID-19 PCR tests,-120
+white blood cell count 3.9 thousand/ul,-120
+absolute neutrophil count >2000 thousand/ul,-120
+C-reactive protein 30.75 mg/dL,-120
+ferritin >1600 ng/mL,-120
+procalcitonin 100 ng/mL,-120
+chest x-ray,-120
+CT scan of chest,-120
+bilateral cavitary pneumonia,-120
+left pleural effusion,-120
+no pulmonary emboli,-120
+negative HIV,-120
+negative urine legionella,-120
+negative urine streptococcus antigen,-120
+negative CMV PCR,-120
+EBV IgM positive IgG,-120
+negative throat culture,-120
+negative acid-fast bacillus sputum,-120
+negative mycoplasma pneumonia IgM,-120
+negative Rickettsia rickettsia serology,-120
+doxycycline,-120
+ceftriaxone,-120
+transferred to BMSCH PICU,0
+afebrile at 99.0°F,0
+pulse 100 bpm,0
+BP 111/55,0
+RR 31 bpm,0
+SpO2 95% room air,0
+mild acute respiratory distress,0
+tachypnea with suprasternal retractions bilaterally,0
+rashes along ulnar side of left hand,0
+swelling,0
+tenderness,0
+diminished breath sounds at lung bases,0
+no wheezes,0
+no rales,0
+no rhonchi,0
+high-flow nasal cannula 20L at FiO2 30%,0
+blood culture growing gram-negative rods,0
+IV vancomycin,0
+cefepime,0
+metronidazole,0
+Fusobacterium coverage,0
+suspected LS,0
+day three,72
+repeat CT scan of chest,72
+bilateral multifocal necrotizing pneumonia,72
+pleural effusions with loculations,72
+cavitary abscess,72
+left empyema,72
+mediastinal lymphadenopathy,72
+CT of neck,72
+right palatine tonsil abscess,72
+thyroid abscesses,72
+no thrombi of bilateral internal jugular veins,72
+unsuccessful bedside drainage,72
+daily chest radiographs,72
+worsening multifocal pneumonia,72
+hospital day six,144
+Fusobacterium nucleatum identified,144
+cefepime changed to ceftriaxone,144
+vancomycin continued,144
+metronidazole continued,144
+left wrist pain,144
+migrated to left hand and arm,144
+limited mobility of left shoulder,144
+"platelets decreased to 11,000 per microliter",144
+plasma transfusion,144
+platelet transfusion,144
+initial echocardiogram,144
+fractional shortening 38.5%,144
+ejection fraction 60%,144
+synchronized intermittent mandatory ventilation (SIMV),144
+worsening respiratory distress,144
+septic shock,144
+inotropes,144
+left pleurocentesis,144
+video-assisted bilateral thoracoscopic surgery (VATS),144
+bilateral chest tubes,144
+950 mLs serosanguinous pleural fluid,144
+purulent pleural fluid,144
+LDH 2786 IU/L,144
+glucose <5 mg/dL,144
+protein 1.5 g/dL,144
+"RBC count 46,906 per cubic mm",144
+total nucleated cells 6156 per cubic mm,144
+81% polysegmented neutrophils,144
+8% lymphocytes,144
+4% monocytes,144
+7% histiocytes,144
+fibrinopurulent exudate,144
+negative cytology for malignancy,144
+negative pleural fluid cultures,144
+weaned to HFLNC,144
+procalcitonin 98.01 ng/mL,144
+C-reactive protein 46.12 mg/dL,144
+procalcitonin trended to 0.33 ng/mL,648
+C-reactive protein trended to 4.32 mg/dL,648
+hemodynamic improvement,648
+antibiotics continued,648
+chest tube drainage,648
+complex loculations in upper left lung,648
+two additional chest tubes,648
+total chest tube drainage 7702 mL,648
+repeat echocardiogram,648
+tissue near tricuspid valve,648
+small pericardial effusion,648
+no vegetation,648
+prolonged hospitalization,648
+continued fevers,648
+oxygen dependence,648
+left scapular pain,648
+limited range of motion of left shoulder,648
+MRI of left upper extremity,648
+musculoskeletal edema,648
+proximal humeral osteomyelitis,648
+T12 vertebral body emphysematous osteomyelitis,648
+hematogenous spread of infection,648
+negative bilateral duplex venous ultrasounds,648
+negative bilateral neck ultrasounds,648
+unremarkable carotid duplex ultrasounds,648
+no thrombosis,648
+consultation with multiple specialists,648
+Lemierre's Syndrome diagnosis,0
+septic shock,0
+Fusobacterium nucleatum,0
+osteomyelitis,0
+multi-organ abscesses,0
+pericardial effusion,0
+bilateral pleural effusions,0
+bilateral necrotizing pneumonia,0
+lung abscesses,0
+deep neck infections,0
+septicemia,0
+metastatic infections,0
+septic emboli,0
+improvement with antibiotics,648
+thoracentesis,144
+VATS,144
+pleural fluid drainage,144
+contrast-enhanced CT,72
+no internal jugular vein thrombophlebitis,72
+no external jugular vein thrombophlebitis,72
+left humeral osteomyelitis,648
+T12 vertebral osteomyelitis,648
+epidural abscess,648

@@ -1,0 +1,93 @@
+event,time
+65 years old,0
+male,0
+past medical history of mild chronic obstructive pulmonary disease,0
+presented to the emergency department,0
+9-month history of weight loss,-6576
+9-month history of lack of appetite,-6576
+9-month history of generalized fatigue,-6576
+absence of localizing visceral symptoms,0
+dehydrated,0
+cachexic,0
+fluid-responsive hemodynamics,0
+heart rate 109 beats per minute,0
+blood pressure 78/54 mm Hg,0
+respiratory rate 17 per min,0
+oxygen saturation 97% on room air,0
+received 3 L of crystalloids,0
+blood pressure rose to 93/69 mm Hg,0
+no stigmata of chronic liver disease,0
+numerous ecchymoses on extremities,0
+occasional coarse crepitations bilaterally in lower lung zones,0
+nontender splenomegaly,0
+palpable nonpulsatile firm periumbilical mass,0
+no lymphadenopathy,0
+no scrotal swelling,0
+no pedal swelling,0
+anemia (62 g/L),0
+thrombocytopenia (48 × 109/L),0
+hypoglycemia (2.9 mmol/L),0
+severely elevated anion gap metabolic acidosis,0
+pH 7.22,0
+pCO2 26,0
+HCO3 10,0
+anion gap 26,0
+hyperlactatemia (18.8 mmol/L),0
+admitted to high-dependency unit,0
+aggressive fluid resuscitation with crystalloids,0
+blood transfusion,0
+broad-spectrum antibiotics,0
+workup for infection negative,0
+blood cultures negative,0
+urine cultures negative,0
+D-lactate level normal,0
+chest CT showed diffuse cervical-mediastinal lymphadenopathy,0
+abdominal CT showed nodular consolidative changes in left upper lobe,0
+abdominal CT showed 3.9 cm × 1.8 cm mesenteric mass,0
+suspicious for lymphoproliferative disorder,0
+suspicious for lymphomatous spread of another suspected primary malignancy,0
+persistent hypoglycemia (2.5–3.9 mmol/L),0
+absence of neuroglycopenic symptoms,0
+workup for hypoglycemia negative,0
+hepatic dysfunction not present,0
+endogenous insulin levels normal,0
+major hormonal deficiency not present,0
+mild hypothyroidism (TSH 7.11 mIU/L),0
+mild hypothyroidism (fT4 7.3 pmol/L),0
+required continuous dextrose infusion,0
+oral food intake,0
+mesenteric mass not easily accessible,0
+underwent bronchoscopy,0
+underwent gastrointestinal endoscopies,0
+tissue samples obtained,0
+no malignant cells found,0
+bronchoalveolar lavage negative for organisms,0
+bone marrow aspiration and biopsy on day 11,264
+CD20-positive non-Hodgkin's lymphoma,264
+diffuse large B-cell lymphoma,264
+CD10 overexpression,264
+cyclin D1 overexpression,264
+lactate levels climbed steadily,264
+continued dextrose infusions,264
+initiation of prednisone 100 mg orally daily,264
+acute deterioration between days 18 and 19,432
+developed encephalopathy,432
+nosocomial pneumonia from aspiration,432
+sepsis,432
+tumor lysis syndrome,432
+multiorgan failure,432
+transfer to intensive care unit,432
+mechanical intubation,432
+initiation of vasopressors,432
+continuous renal replacement therapy,432
+family opted to withdraw care,456
+patient passed away,456
+persistent type B lactic acidosis,0
+concomitant hypoglycemia,0
+Warburg's effect,0
+tumor lysis syndrome,432
+nosocomial pneumonia,432
+sepsis,432
+multiorgan failure,432
+withdrawal of care,456
+death,456

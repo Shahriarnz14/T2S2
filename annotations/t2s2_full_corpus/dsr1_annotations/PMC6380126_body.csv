@@ -1,0 +1,39 @@
+event,time
+24 years old,0
+female,0
+presented to emergency department,0
+severe headache,-72
+projectile vomiting,-72
+no history of fever,0
+no history of convulsions,0
+no history of focal neurological deficit,0
+treated outside symptomatically,-72
+no relief,0
+provisional diagnosis of metabolic encephalopathy,0
+symptomatic treatment,0
+transferred to intensive care unit,0
+deteriorated further,0
+altered sensorium (Glasgow Coma Scale-9),0
+high-grade fever,0
+chills,0
+dyselectrolytemia (serum potassium – 3.7 mEq/L),0
+low serum phosphate (1.57 mg/dL),0
+"neutrophilic leukocytosis (total leukocyte count – 24,170/μl with neutrophils – 91%)",0
+CSF evaluation sent,0
+empirically treated with ceftriaxone,0
+Gram stain of CSF deposit: polymorphs and lymphocytes,0
+Gram-positive bacilli in CSF,0
+CSF culture grew Listeria monocytogenes,24
+blood culture at admission grew Gram-positive bacilli (initially ignored as diphtheroids),0
+L. monocytogenes recognized on reevaluation,24
+similar sensitivity pattern,24
+switched to meropenem,48
+corrective measures,48
+clinical improvement,72
+microbiological improvement,72
+CSF biochemistry: raised protein (91 mg/dL),0
+CSF biochemistry: decreased glucose (6 mg/dL),0
+CSF biochemistry: normal ADA,0
+CSF cytology: high cell count (1080/cm),0
+CSF cytology: 60% neutrophils,0
+CSF cytology: 40% lymphocytes,0

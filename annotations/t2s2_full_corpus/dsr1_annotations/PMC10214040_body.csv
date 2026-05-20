@@ -1,0 +1,135 @@
+event,time
+75 years old,0
+female,0
+hypertension,0
+hyperlipidemia,0
+referred to clinic,-7200
+leukocytosis,-7200
+WBC count 16.3 × 10⁹/L,-17520
+weight loss 6 lbs in 1 year,-26304
+fatigue,-2160
+no fever,0
+no chills,0
+no night sweats,0
+WBC count 461 × 10⁹/L,-7200
+hemoglobin 6.9 gm/dL,-7200
+admitted to hospital,0
+flow cytometry T-PLL,0
+CD2+,0
+CD3+,0
+CD4+,0
+CD5+,0
+CD7+,0
+CD8−,0
+CD56−,0
+CD57−,0
+CD25−,0
+CD26+,0
+TCRab+,0
+CD30−,0
+CD52+,0
+CD34−,0
+CD45±,0
+HTLV-1 negative,0
+bone marrow biopsy,0
+90% atypical T-cells,0
+cytogenetic analysis inversion chromosome 14,0
+trisomy 8,0
+"karyotype 47, XX, add(4)(q35), +8, inv(14)(q11.2q32), add(20)(P13)",0
+marked lymphocytosis,0
+cytologic atypia,0
+T-cell 85%,0
+clonal T-cell gene rearrangement,0
+computed tomography chest/abdomen/pelvis,0
+moderate splenomegaly,0
+no masses,0
+no lymphadenopathy,0
+JAK1 p(His374Tyr),0
+no microsatellite instability,0
+low tumor mutation burden 3.1 mutations/MB,0
+diagnosed T-PLL,0
+treated with alemtuzumab,0
+3 cycles alemtuzumab 3 mg,0
+WBC persistently elevated,0
+alemtuzumab increased to 10 mg,0
+pentostatin added,0
+10 cycles alemtuzumab 10 mg,0
+2 cycles pentostatin 4 mg/m²,0
+WBC >500 × 10⁹/L,0
+alemtuzumab increased to 30 mg,0
+13 cycles alemtuzumab,0
+7 cycles pentostatin,0
+WBC trend down 300 × 10⁹/L,0
+18 cycles alemtuzumab,0
+7 cycles pentostatin,0
+chemotherapy completed,0
+postchemotherapy WBC 2.7 × 10⁹/L,0
+postchemotherapy hemoglobin 11 gm/dL,0
+monoclonal TCR gamma rearrangement,0
+no circulating blasts,0
+no abnormal lymphoid/myeloid population,0
+asymptomatic,0
+presented to emergency department,0
+rash,0
+facial swelling,0
+sore throat,0
+dysphagia,0
+conjunctivitis,0
+rash entire body,0
+edema bilateral lower extremities,0
+afebrile,0
+WBC 41 × 10⁹/L,0
+absolute lymphocyte count 28 × 10⁹/L,0
+cytomegalovirus DNA PCR negative,0
+T-PLL relapse,0
+peripheral blood smear atypical lymphocytes,0
+uric acid 13.70 mg/dL,0
+creatinine 2.52 mg/dL,0
+tumor lysis syndrome,0
+rasburicase given,0
+rash worsened,+24
+anasarca,+24
+dyspnea,+24
+steroids,+24
+epinephrine,+24
+antihistamines,+24
+WBC continued to rise,+24
+restarted alemtuzumab,+24
+restarted pentostatin,+24
+CMV prophylaxis valganciclovir,+24
+PCP prophylaxis Bactrim,+24
+peripheral blood smear same morphology,+24
+flow cytometry CD4/CD3+/CD7+ T-cells,+24
+skin biopsy atypical perivascular lymphocytic infiltrate,+24
+CD7+,+24
+CD2+,+24
+CD3+,+24
+CD4+,+24
+CD5+,+24
+CD8−,+24
+CD30−,+24
+CD56−,+24
+computed tomography neck lymphadenopathy,+24
+mediastinal lymphadenopathy,+24
+cervical lymphadenopathy,+24
+WBC began to drop,+48
+respiratory status worsened,+72
+airway edema lymphocytic infiltration,+72
+tachypneic,+72
+oxygen saturation 82%,+72
+anasarca worsened,+72
+hypotension,+72
+shock,+72
+racemic epinephrine,+72
+Benadryl,+72
+methylprednisolone,+72
+respiratory status no improvement,+72
+intubated,+72
+mechanical ventilation,+72
+pressor support,+72
+WBC 50 × 10⁹/L,+72
+lactate 12 mmol/L,+72
+creatinine 3.28 mg/dL,+72
+sepsis suspected,+72
+transferred to ICU,+72
+passed away,+96

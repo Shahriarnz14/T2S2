@@ -1,0 +1,57 @@
+event,time
+66 years old,0.0
+male ,0.0
+with a history of dual-chamber pacemaker ,-2053.6
+implanted due to sick sinus syndrome ,-2053.6
+and a history of paroxysmal atrial fibrillation ,-2053.6
+presented with complaints of severe lumbar back pain ,0.0
+deteriorated rapidly with mental status changes ,0.0
+hypotension ,0.0
+acute renal failure ,0.0
+hypoxemic respiratory failure with emergent intubation ,0.0
+diagnosed with severe sepsis ,0.0
+blood cultures on admission yielded methicillin-sensitive Staphylococcus aureus ,0.0
+"diagnosed with positive bubble study, demonstrating the presence of a patent foramen ovale ",0.0
+Doppler of the intra-atrial septum demonstrated that a medium-sized patent foramen ovale measuring approximately 2.99 cm was present on color Doppler without Valsalva maneuver ,0.0
+"computed tomography scan of the chest, abdomen, and pelvis revealed osteomyelitis of the lower spine in the region of L2–L3 ",0.0
+"magnetic resonance imaging of the brain demonstrated multiple small, 2- to 3-mm, acute infarctions in multiple vascular distributions ",0.0
+septic emboli to the distal extremities ,0.0
+repeat blood cultures revealed the same organism for 3 consecutive days ,3.0
+transesophageal echocardiogram (TEE) was recommended ,24.0
+"demonstrated a long (0.26 × 3.6 cm), independently mobile structure within the right atrium (RA), consistent with a vegetation ",24.0
+the structure appeared to be attached to the pacemaker lead just above the tricuspid valve ,24.0
+a second mobile structure attached to the pacemaker lead within the right ventricle ,24.0
+"no evidence of aortic and/or mitral valve endocarditis, or of aortic arch infected atheromata ",24.0
+cardiothoracic surgery was consulted for the possibility of surgical intervention ,48.0
+patient was deemed a poor surgical candidate due to hemodynamic instability ,48.0
+a decision was made to perform a laser lead extraction procedure ,72.0
+laser lead extraction procedure was performed ,108.0
+the patient arrived in the hybrid operating room intubated and sedated ,108.0
+bilateral femoral veins were accessed using the modified Seldinger technique ,108.0
+a 16F GORE® DrySeal Flex introducer sheath with hydrophilic coating was placed in the right common femoral vein ,108.0
+an 8F sheath was inserted into the left common femoral vein ,108.0
+a 9F sheath was placed in the right femoral vein ,108.0
+"an 8F catheter (CARTO SoundStar; Biosense Webster, Irvine, CA) was advanced from the right femoral vein into the RA ",108.0
+"a 91.4-cm 12F 45-degree curved sheath (Cook Medical, Bloomington, IN) was advanced into the RA with a long 0.035 wire ",108.0
+a 115-cm Indigo CAT8 XTORQ with a 45-degree curve catheter was then advanced through the 12F guiding sheath into the RA ,108.0
+intracardiac echocardiography (ICE) was used to obtain precise slices of the RV lead vegetations in view ,108.0
+the vegetation was attached to the RV lead with the stalk at the level of the tricuspid valve ,108.0
+the aspiration was accomplished by connecting the perfusion catheter to the aspiration pump ,108.0
+performed 2 aspiration passes with 100 mL drawn with each pass ,108.0
+"during the first pass, blood in the vacuum container was strained and revealed the presence of the smaller vegetation in the container ",108.0
+a second pass was performed closer to the body of the vegetation ,108.0
+the Indigo Penumbra system was withdrawn into the inferior vena cava to allow us to proceed with the lead extraction ,108.0
+"using well-described procedural steps for laser lead extraction, we successfully extracted the RA and RV leads ",144.0
+the pocket was carefully inspected and closed with suture ,144.0
+the Penumbra and ICE systems were removed from the body and hemostasis was achieved ,144.0
+the total procedure time was 72 minutes and the blood loss was 200 mL ,144.0
+both vegetations were sent to pathology for analysis and aerobic cultures ,168.0
+pathology of the vegetation specimens showed via gram staining that there were gram-positive cocci in chains ,168.0
+culture-positive for methicillin-sensitive Staphylococcus aureus ,168.0
+the patient's condition improved for the first 48 hours after the procedure ,192.0
+"after 72 hours of stability, the patient's condition took a turn for the worse ",192.0
+tissue necrosis of the distal upper and lower extremities ,192.0
+lactic acidosis ,192.0
+worsening renal failure ,192.0
+"given a grim prognosis, the family decided to withdraw care ",192.0
+the patient was extubated to comfort care and died ,192.0

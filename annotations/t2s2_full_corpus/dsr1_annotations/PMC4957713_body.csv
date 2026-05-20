@@ -1,0 +1,86 @@
+event,time
+12-year-old,0
+female,0
+admitted to pediatric intensive care unit,0
+fever,0
+shortness of breath,0
+cough,0
+tachycardic,0
+tachypneic,0
+requiring 3 L supplemental oxygen,0
+given 1 L normal saline bolus intravenously,0
+chest X-ray bilateral pulmonary edema,0
+met criteria for sepsis,0
+started on vancomycin,0
+started on cefotaxime,0
+past medical history of nephrotic syndrome,0
+diagnosis of nephrotic syndrome at age 5,-84 (approx. 7 years prior)
+initially responsive to steroids,-84
+suffered several relapses when steroid dose tapered,-84 to -0 (ongoing)
+renal biopsy at age 6 showed minimal change disease,-72 (approx. 6 years prior)
+genetic testing for inherited nephrotic syndromes,-72
+heterozygous non-coding mutation in TRPC6 gene,-72
+8-week course of cyclophosphamide,-72
+1.5-year remission,-72 to -0 (relapse after)
+relapse after remission,-24 (approx. 1.5 years prior)
+failed attempt to induce remission with oral steroids,-24
+started on tacrolimus,-24
+partial clinical response over 3 years,-36 to -0 (ongoing)
+improved edema,-36 to -0
+persistent proteinuria,-36 to -0
+concern for FSGS,0
+repeat biopsy,0
+interstitial nephritis,0
+started on adrenocorticotrophic hormone (Acthar),-1344 (approx. 2 months prior)
+received Acthar for 2 months prior to presentation,-1344 to 0
+blood culture grew S. pneumoniae,8
+nasopharyngeal swab PCR positive for parainfluenza type 2,8
+developed oliguria,24 (approx. hospital day 1 overnight)
+creatinine increased from 1.4 to 2.4 mg/dL,24
+hemoglobin decreased from 11.4 to 7.4 g/dL,24
+Acthar discontinued,24
+tacrolimus discontinued,24
+transfused unwashed pRBCs,24
+started continuous veno-venous hemodiafiltration,24
+respiratory failure requiring intubation,96 (hospital day 4)
+chest CT bilateral patchy consolidation,96
+bilateral pleural effusions,96
+high-dose hydrocortisone administered,96
+platelet count decreased,96 onward
+clinical condition worsened,96 onward
+required intravenous vasoactive support,96 onward
+started 5-day PLEX,96 (assuming Day 4 initiation)
+presumed thrombocytopenia-associated multiple organ failure,96
+FFP used as replacement fluid during exchange,96
+pHUS considered,120 (after PLEX initiation)
+direct Coombs test negative,120 (initially)
+direct Coombs test positive post-PLEX,240 (Day 8)
+platelet count nadir 36,312 (Day 13)
+platelet count improved,312 onward
+supportive care,0 onward
+antibiotics,0 onward
+temporary KRT,24 onward
+slowly recovered,312 onward
+discharged home,936 (Day 39)
+creatinine returned to baseline 0.6 mg/dL,936
+current angiotensin-converting enzyme inhibitor therapy,936 onward
+persistent nephrotic syndrome,936 onward
+diagnosis of pHUS,0 (during admission)
+clinical triad of HUS,0
+S. pneumoniae infection,8
+evidence of T-antigen exposure,240 (post-PLEX)
+autoimmune hemolysis,0 onward
+schistocytes,0
+positive Coombs,240
+normal fibrinogen,0
+DIC considered,0
+DIC rejected,96 onward
+immunocompromised due to nephrotic syndrome,0 onward
+exposure to immunosuppressive agents,-24 onward
+tacrolimus-associated HUS considered,96 onward
+Acthar exposure,-1344 to 0
+adrenal suppression concern,96
+vaccine recommendations not fully followed,0 (prior to admission)
+PCV7 received,- (prior)
+PCV13 not received,0
+PPSV23 not received,0

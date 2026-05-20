@@ -1,0 +1,76 @@
+event,time
+27 years old,0
+pregnant,0
+Japanese,0
+traveled to Southeast Asia,-8760
+diarrhea without abdominal pain,-1344
+abdominal pain,-168
+watery diarrhea more than 10 times per day,-168
+mucous bloody stools,-168
+admitted to emergency department,-168
+severe acute enteritis diagnosis,-168
+spontaneous preterm birth,-168
+newborn death,-168
+anemia,-168
+hypoalbuminemia,-168
+sigmoidoscopy performed,-168
+reddish edematous mucosa,-168
+adherent mucopurulent exudate,-168
+stool culture negative,-168
+Clostridioides difficile toxin negative,-168
+suspected severe ulcerative colitis,-168
+high-dose intravenous corticosteroid therapy planned,-168
+deterioration of consciousness,-144
+signs of peritoneal irritation,-144
+transferred to tertiary hospital,-144
+Glasgow Coma Scale E3V4M6,0
+temperature 37.3°C,0
+blood pressure 150/100 mmHg,0
+pulse rate 122 beats/min,0
+respiratory rate 22 breaths/min,0
+oxygen saturation 92%,0
+distended abdomen,0
+peritoneal irritation signs,0
+anemia (Hb 10.4 g/dL),0
+"thrombocytopenia (136,000 platelets/mm3)",0
+prolonged coagulation (PT-INR 1.23),0
+elevated CRP 21.1 mg/dL,0
+hypoalbuminemia (albumin 1.2 g/dL),0
+computed tomography edematous colorectal changes,0
+stool cultures negative,0
+CMV antigenemia test negative,0
+ICU admission,0
+sigmoidoscopy at our hospital,0
+squalid ochre-colored pseudomembrane,0
+edematous faded reddish-purple mucosa,0
+biopsies taken,0
+periodic acid-Schiff staining requested,0
+E. histolytica trophozoites identified,24
+general condition worsened,24
+ventilator management required,24
+fulminant amebic enteritis diagnosis,24
+intravenous metronidazole initiated,24
+inflammatory markers improved,48
+diarrhea disappeared,48
+fever disappeared,48
+weaned off ventilator,48
+diarrhea recurred,480
+fever recurred,480
+prolonged malnutrition,480
+stool cultures negative again,480
+colonoscopy performed,480
+pseudomembrane disappeared,480
+multiple punched-out ulcers emerged,480
+CMV antigenemia test positive (C10-/C11-positive 4/9),480
+CMV enteritis suspected,480
+intravenous ganciclovir administered,480
+symptoms improved,504
+laboratory data improved,504
+abdominal distension,1440
+colonoscopy performed,1440
+Gastrografin enema,1440
+severe stenosis from rectum to transverse colon,1440
+subtotal colectomy,1440
+ileorectal anastomosis,1440
+postoperative course good,1680
+discharged,4800

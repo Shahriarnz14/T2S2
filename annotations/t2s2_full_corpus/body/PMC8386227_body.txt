@@ -1,0 +1,138 @@
+Background
+
+Severe acute respiratory syndrome CoV-2 pandemic has rapidly spread since November 2019 from the Chinese province of Wuhan to almost every part of the globe bringing about serious problems in the healthcare management of the population. In this troublesome scenario, several efforts to ensure proper standardised cures to surgical patients have been made.
+
+The rate of inhospital CoV-2 infections reached 53.6% in high-risk countries and 84.4% in centres with >100 CoV-2 caseload.1
+
+In large series, mortality rate after elective surgery in patients suffering perioperative infection reaches18.5%–25.6%.2 3
+
+A postoperative infection was present in the 89.3% of dead patients after elective surgery, with a reoperation rate of 13.7% in infected patients.2
+
+The role viral infection plays in extrapulmonary postoperative complications is still being debated.
+
+We highlight the possible role of CoV-2-associated disseminated intravascular coagulopathy (DIC)-like syndrome as a cause of late postoperative bleeding occurrence after a planned splenectomy.
+
+Case presentation
+
+We report the case of a 73-year-old man presenting a massive splenomegaly due to polycythaemia vera complicated by myelofibrosis.
+
+Otherwise, he was a healthy patient suffering only from mild valvular heart disease.
+
+He was scheduled for a splenectomy and admitted with a negative real-time PCR test for CoV-2 for the planned surgical intervention. The early postoperative course was uneventful apart from a splenectomy-related decrease in platelet count, but he became CoV-2 positive after exposure to an infected patient in the same hospital room.
+
+The patient exhibited clinical features consistent with non-severe CoV-2 disease according to the WHO severity classification.4 He was transferred to the surgical CoV-2 unit under the care of multidisciplinary team, including surgeons and infectious disease consulting service.
+
+The patient developed sudden worsening of general condition from non-severe-to-severe CoV-2 disease4 characterised by the appearance of dyspnoea and an elevation in D-dimer up to 30 946 ng/mL. He underwent a chest CT scan that showed multiple bilobar ground-glass opacities suggesting interstitial pneumonia and a massive left pleural effusion with no signs of pulmonary embolism.
+
+A left chest tube was then inserted to drain the pleural effusion, obtaining an improvement of dyspnoea.
+
+Six days after the diagnosis of CoV-2 infection and on postoperative day (POD) 13, the patient presented severe hypotension with a massive drop in haemoglobin levels until 55 gr/L and only a mild prolongation of prothrombin time (PT) values of 1.21 of international normalised ratio. Laboratory data are presented in table 1.
+
+Table 1 Laboratory parameters of the patient
+
+	Preoperative	Day 1	Day 5	Day 10	Day 13 (Re-surgery)	Day 14	Day 20	
+Real time PCR CoV-2	Negative		Positive					
+Platelet (109/L)	123	56	55	53	46	88	53	
+White blood cells (109/L)	45.28	34.04	22.00	34.06	26.59	21.08	25.07	
+Haemoglobin (g/L)	92	10.5	10.7	9.7	5.5	10.6	13.2	
+International normalised ratio	2.3	1.15	1.25		1.21	1.17	1.28	
+Partial thromboplastin time (s)	59.4 (ratio 1.93)	26.7 (0.87)	27.4 (0.84)		31.4 (0.97)	29.7 (0.91)	29.7 (0.91)	
+D-dimer (ng/mL fibrinogen equivalent units)				30 946				
+Fibrinogen (mg/dL)					302		393	
+C reactive protein (mg/dL)	0.62				18.98	15.47	7.96	
+Procalcitonin (ng/mL)						8.66	0.26	
+Aspartate transaminase (U/L)	52		25			37	46	
+Alanine aminotransferase (U/L)	15		8			14	26	
+Alkaline phosphatase (U/L)	134	114	216			111	305	
+Total bilirubin (mg/dL)	0.7	0.6	0.8			0.5	1.0	
+Direct bilirubin (mg/dL)			0.4			0.3	0.7	
+Creatinine (mg/dL)	0.75	0.65	0.54		0.48	0.46	0.42	
+
+An abdomen CT scan was performed that showed the presence of a thrombosis in the remnant of the splenic vein that reached the splenomesenteric confluence and a large blood collection (5.7×3.8 inch) in the the left hypochondrium without signs of active bleeding.
+
+The patient was supported with three units of packed red blood cells and a unit of platelets. After that, he underwent an urgent surgical exploration that highlighted the presence of diffuse peritoneal bleeding spots. Abdominal lavage and haemostatic patches positioning were performed. No parameters of multiple organ failure where present at the time of re-surgery for bleeding as shown in table 1.
+
+Outcome and follow-up
+
+After surgical revision, he was admitted to the intensive care unit (ICU) where he was extubated and so re-posted to the surgical CoV-2 unit. Unfortunately, he developed fever and hypoxaemia, initially treated with high-flow oxygen support. However, the patient finally required mechanical ventilation. Initial sequential organ failure assessment score5 was 5 with an ICU mortality risk of 20.2%.
+
+Blood, urine and pleural liquid cultures for microbiological isolation and samples for cytomegalovirus DNA were performed. Cytomegalovirus DNA resulted negative. Pleural liquid sample showed the presence of Staphylococcus epidermidis and Bacillus licheniformis. Blood cultures were positive for S. hominis.
+
+The patient’s general conditions did not improve and he failed on POD 22 in the ICU.
+
+Discussion
+
+The underlying pathophysiological mechanisms of the increased mortality rate of CoV-2 positive patients undergoing surgery is still unknown.
+
+Mechanical ventilation, anaesthesia or tissue damage caused by the surgery may individually induce proinflammatory cytokines and immunosuppressive response, leading to life-threatening complication of CoV-2 infection.
+
+Extrapulmonary manifestations of CoV-2 infection were observed in one-quarter to one-third of severe and critically ill hospitalised patients.2
+
+Among them, the ones related to coagulation disorders are caused by different mechanisms of virulence of CoV-2, and in severely infected patients cause a diffuse activation of coagulation with thrombotic and also haemorrhagic events.
+
+Development of DIC results when monocytes and endothelial cells are activated to the point of cytokine release with expression of tissue factor and secretion of von Willebrand factor, and circulation of free thrombin, uncontrolled by natural anticoagulants, can activate platelets and stimulate fibrinolysis.6
+
+The International Society of Thrombosis and Haemostasis (ISTH) overt DIC diagnostic criteria consist of four laboratory findings: decreased platelet count, elevated fibrin-related biomarker (eg, D-dimer), prolonged PT and decreased fibrinogen level.7
+
+CoV-2 DIC-like syndrome differs from classic DIC consequent to bacterial sepsis or trauma and is characterised by an elevation in fibrinogen and D-dimer levels, and by a mild prolongation of PT/partial thromboplastin time (PTT). Also, thrombocytopenia is mild (platelet count ~100×109/L), and lab results supporting microangiopathy are infrequent.8
+
+The complex and still poorly understood relationship between CoV-2 and thrombogenesis seems probably being caused by a cytokine storm arising from the interaction of the virus with ACE2 receptors and the recruitment of innate immunosuppressive cells with prothrombotic features (‘viral sepsis’ like syndrome) that promote microthromboembolic and macrothromboembolic events (stroke, infarction, myocarditis and pericarditis).9
+
+The ISTH overt DIC diagnostic criteria7 and CoV-2 DIC-like syndrome parameters8 are shown in table 2.
+
+Table 2 ISTH DIC criteria and CoV-2 DIC-like syndrome criteria
+
+	ISTH DIC criteria	CoV-2 DIC-like syndrome	
+Platelet count	<<<	<	
+Fibrin-related biomarkers (D-dimer)	>>>	>>>	
+Prothombin time	>>>	>	
+Fibrinogen level	<<<	>>>	
+DIC, disseminated intravascular coagulopathy; ISTH, International Society of Thrombosis and Haemostasis.
+
+Our patient showed a haemorrhagic complication during the evolution of CoV-2 infection from non-severe to severe. He had no overt criteria for classic DIC since he showed a reduction in platelets count, that was also due to the baseline haematological disease, a D-dimer elevation, normal PT values and an elevation in fibrinogen levels with a DIC score of 4 (negative or non-overt DIC) in the context of a haemorrhagic complication with multiple peritoneal petechias and bleeding spots. These data suggest the diagnosis of a CoV-2 DIC-like syndrome.
+
+Isolated cases of spontaneous bleeding in severe or critical CoV-2 patients have been reported in the literature.
+
+Worrall et al underlines among 35 CoV-2 patients who required critical care in their centre, major bleeding occurred in three patients (8.6%), two of whom being post abdominal surgery.10
+
+Karki et al described a case of spontaneous haemoperitoneum from splenic infarction in a CoV-2 patient, that required surveillance in the ICU department and blood transfusion with successful non-operative management on day 7.11
+
+Conti et al reported two CoV-2 cases of haemorragic shock due to spontaneous iliopsoas bleeding successfully treated with interventional radiology embolisation of the inferior epigastric artery in CoV-2 patients. The authors couldn' relate these bleedings to coagulation disorders since the coagulation factors PT, PTT and platelets were normal in both cases.12
+
+Our patient showed persistent postoperative low platelet count, which in haematological patient is not commonly responsible for postoperative bleeding based on our previous experience.
+
+Shaukat et al reported a case of haemoperitoneum due to a spontaneous splenic rupture in a normal size spleen. The patient was initially transfused with packed red cells, fresh frozen plasma and treated with intravenous tranexamic acid. Then the patient underwent splenic artery embolisation procedure with improvement of haemodynamic conditions. Subsequently, he needed a tracheostomy and after being healed from urosepsis, he was discharged on day 24.13
+
+Bargellini et al reported four consecutive cases of spontaneous bleeding who underwent endovascular embolisation.14
+
+Jonker et al evaluating 30-day overall mortality in patients with a perioperative CoV-2 positive status found an OR of 3.4 (95% CI 1.5 to 8.5) compared with negative control patients. Pulmonary complications occurred in 25 (20%) CoV-2 positive patients versus 6 (3%) in matched CoV-2 negative patients (p<0.001). The number of patients with thromboembolic events was greater in the CoV-2 positive group (8 (7%) vs 1 (0.5%); p=0.004). However, the authors showed no difference in haemorrhagic or infectious complications between matched cohorts.15
+
+Al-Samkari and colleagues evaluated the incidence of bleeding and thrombotic event in a series of 400 CoV-2 positive patients admitted to the hospital. The overall thrombotic complication rate was 9.5% (95% CI, 6.8 to 12.8; 45 events in 38 patients) and four patients with thrombotic complications also developed bleeding complications. The overall bleeding rate was 4.8% with 21 bleeding events in 19 patients (95% CI, 2.9 to 7.3). This included a rate of 3.1% (95% CI, 1.4 to 6.1), or 3.49/100 non-critically ill patient weeks and 7.6% (95% CI, 3.9 to 13.3), or 5.63/100 critically ill patient weeks.16
+
+The difference between classic DIC and CoV-2 DIC-like syndrome criteria underline how thrombotic and bleeding manifestations of CoV-2 infection are probably due to a distinct pathophysiological viral coagulopathy than a simply coagulation system activation in the setting of a severe inflammation.
+
+Of course, in CoV-2 patients thrombotic events overcome the haemorrhagic ones and our hypothesis can be speculative, being limited to a single case.
+
+However, it would be interesting to evaluate CoV-2 DIC-like criteria in other patients suffering haemorrhagic manifestations and a CoV-2 infection.
+
+Learning points
+
+Spontaneous postoperative bleeding has been reported as rare complication of CoV-2 infection.
+
+A CoV-2 disseminated intravascular coagulopathy-like syndrome can be the cause of this rare complication.
+
+The role of this syndrome is actually under study.
+
+Ethics statements
+
+Patient consent for publication
+
+Next of kin consent obtained.
+
+Contributors: RT and MM gave substantial contributions to the conception the work; RT and EC gave substantial contributions to the acquisition, analysis and interpretation of data for the work; RT drafted the work; LB and MM revised it critically for important intellectual content; all the authors gave their final approval of the version to be published and ensure that questions related to the accuracy or integrity of any part of the work have been appropriately investigated and resolved.
+
+Funding: The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.
+
+Competing interests: Next of kin consent obtained.
+
+Provenance and peer review: Not commissioned; externally peer-reviewed.

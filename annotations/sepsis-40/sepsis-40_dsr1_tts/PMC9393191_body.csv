@@ -1,0 +1,56 @@
+event,time
+71-year-old,0
+male,0
+admitted to the hospital,0
+abdominal pain,-72
+nausea,-72
+profuse diarrhea,-72
+pain worsened,-24
+diarrhea worsened,-24
+unresponsive,-24
+hypotensive,0
+tachycardic,0
+severe pain in lower abdomen,0
+tenderness,0
+no fever,0
+no masses,0
+no lymph nodes,0
+metabolic acidosis (pH < 7.2),0
+serum lactate level over 6 mmol/L,0
+intravenous fluid reanimation,0
+abdominal computed tomography,0
+bowel dilated,0
+no free liquid,0
+no free air,0
+no masses found,0
+abdominal pain worsened,0
+abdominal distention worsened,0
+surgical consultation,0
+surgery,0
+intestinal ischemia differential diagnosis,0
+laparotomy,0
+small bowel purplish color,0
+small bowel edematous,0
+no perforation,0
+no necrosis,0
+mesentery engorged,0
+mesentery ecchymosis,0
+bowel visible peristalsis,0
+bowel responded to reanimation maneuvers,0
+second-look surgical laparotomy planned,0
+Bogota bag placement,0
+low-molecular-weight heparin initiated,0
+intensive care unit transfer,0
+angio-3D reconstruction CT scan,0
+no thrombus,0
+no embolus,0
+celiacomesenteric trunk discovered,0
+second laparotomy,24
+bowel loops normal color,24
+bowel loops regained mobility,24
+acidosis not recovered,24
+ventilator-associated pneumonia,24
+sepsis,24
+refractory shock,24
+organ failure,24
+death,24

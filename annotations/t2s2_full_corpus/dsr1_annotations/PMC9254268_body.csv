@@ -1,0 +1,111 @@
+event,time
+37 years old,0
+pregnant woman (G3P2),0
+presented to the emergency department,0
+33 weeks’ gestation,0
+breathlessness,0
+tested positive for COVID-19,-216
+3-day history of feeling generally unwell,-216
+non-productive cough,-216
+taken to her bed,-216
+little oral intake,-216
+little fluid intake,-216
+increase in work of breathing,-72
+unable to mobilise short distances,-72
+denied chest pain,-72
+denied calf tenderness,-72
+denied orthopnoea,-72
+denied paroxysmal nocturnal dyspnoea,-72
+well-controlled asthma,0
+gastric sleeve surgery,0
+regular inhalers,0
+vitamin B12 injections,0
+non-smoker,0
+no regular alcohol,0
+no illicit medications,0
+no over-the-counter medications,0
+hyperemesis gravidarum (HG) in the first trimester,-5544
+pregnancy otherwise uncomplicated,0
+respiratory rate 32 breaths/min,0
+oxygen saturations 95% on 4 L/min inspired oxygen,0
+heart rate 105 beats/minute,0
+blood pressure 100/60 mmHg,0
+apyrexial,0
+breathless at rest,0
+Kussmaul breathing,0
+ketotic breath,0
+unable to complete full sentences,0
+bi-basal crepitations,0
+no wheeze,0
+clinically dehydrated,0
+normal neurological examination,0
+normal cardiovascular examination,0
+normal abdominal examination,0
+WCC 8.4 × 109/L,0
+Hb 104 g/L,0
+MCV 79 fL,0
+Lym 0.5 × 109/L,0
+CRP 149 mg/L,0
+Cr 57 µmol/L,0
+Ur 1.9 mmol/L,0
+Na 139 mEq/L,0
+K 4.1 mmol/L,0
+Bili 8 µmol/L,0
+Alb 31 g/L,0
+ALT 60 U/L,0
+ALP 156 U/L,0
+pH 7.26,0
+HCO3- 6.0 mmol/L,0
+PCO2 1.8 kPa,0
+O2 sats 93%,0
+blood glucose 4.0 mmol/L,0
+BE -18.7 mmol/L,0
+Ketones 7 mmol/L,0
+Lactate 0.9 mmol/L,0
+Anion gap 29 mEq/L,0
+PO2 10.4 KPa,0
+sinus tachycardia,0
+COVID-19 pneumonitis,0
+no pulmonary emboli,0
+normal blood glucose levels,0
+normal lactate levels,0
+denied ingestion of toxins,0
+denied drug abuse,0
+denied alcohol abuse,0
+normal renal function,0
+diagnosis of severe COVID-19 infection,0
+diagnosis of starvation ketosis of pregnancy,0
+history of gastric bypass surgery,0
+HG led to chronic starvation,-5544
+anorexia while acutely unwell,0
+MDT discussion,0
+oxygen to maintain saturations >94%,0
+intramuscular dexamethasone for fetal lung maturity,0
+prednisolone initiated,0
+tocilizumab initiated,0
+intravenous 20% dextrose,0
+intravenous 0.9% sodium chloride,0
+intravenous 1.6% bicarbonate,0
+variable rate insulin infusion,0
+potassium replacement,0
+PabrinexⓇ,0
+resolution of metabolic ketoacidosis over 24 hours,24
+RR 26 breaths/min,24
+oxygen saturations 96% on 4 L/min,24
+HR 100 beats/min,24
+BP 110/64 mmHg,24
+apyrexial,24
+intravenous treatments stopped,48
+prednisolone continued,48
+low molecular weight heparin added,48
+oxygen saturations deteriorated to 88%,168
+worsening pneumonitis,168
+pneumomediastinum,168
+right apical pneumothorax,168
+MDT decision to deliver,168
+ECMO commenced,168
+baby admitted to special care,168
+baby made good recovery,168
+mother decannulated from ECMO,432
+mother discharged,504
+follow-up 3 months,2160

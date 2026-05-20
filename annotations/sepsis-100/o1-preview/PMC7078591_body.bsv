@@ -1,0 +1,58 @@
+73 years old | 0
+Female | 0
+Hypertension | 0
+Syphilis | 0
+Type 2 diabetes mellitus | 0
+Brought in by her daughter | 0
+Acute altered mental status | 0
+Mechanical fall | -720
+Pruritic scalp | -168
+Purulent drainage from sinuses on scalp behind her right ear | -168
+Temperature of 97.9°F | 0
+Heart rate of 127 bpm | 0
+Respiratory rate of 22 breaths/min | 0
+Blood pressure of 144/80 mmHg | 0
+Oxygen saturation of 98% on room air | 0
+Oriented to person and place | 0
+Not oriented to time | 0
+Erythematous face | 0
+Edematous face | 0
+Erythematous scalp | 0
+Edematous scalp | 0
+Erythematous right ear | 0
+Edematous right ear | 0
+Large fluctuant mass over occipital and parietal scalp with purulent drainage | 0
+Posterior auricular mass without signs of active drainage | 0
+Hyperglycemia to 700 | 0
+Anion gap metabolic acidosis | 0
+Serum bicarbonate of 20 | 0
+Ketonuria | 0
+Non-contrast head CT showed extensive multifocal scalp swelling along right temporal, right posterior parietal and left frontal regions | 0
+No acute intracranial abnormalities | 0
+Admitted to the intensive care unit | 0
+Diabetic ketoacidosis | 0
+Cellulitis of the scalp | 0
+Concern for underlying abscesses | 0
+Continuous infusion of insulin started | 0
+Intravenous Vancomycin started | 0
+Intravenous Cefepime started | 0
+Incision and drainage of scalp lesion | 48
+10-cm subgaleal abscess with large amounts of purulence evacuated | 48
+Initial admission blood cultures grew MRSA | 72
+Bacteremia | 72
+CA-MRSA | 72
+Intravenous Vancomycin continued | 72
+Intravenous Cefepime continued | 72
+Paranasal sinus CT with intravenous contrast | 72
+No paranasal sinus involvement | 72
+Transesophageal echocardiogram | 72
+No evidence for endocarditis | 72
+Returned to operating room for further pulse irrigation and sharp debridement | 96
+Involvement of plastic surgery | 96
+Returned to operating room for further debridement | 120
+Serial bedside debridements | 120
+Scalp wound measured 20 cm in length, 10 cm in width and 2 cm depth | 120
+Right posterior auricular wound measured 7 × 7 × 2 cm | 120
+Wounds definitively closed with split-thickness skin grafts harvested from right thigh | 240
+100% take of the grafts on postoperative day 7 | 408
+Discharged on hospital day 32 on intravenous Vancomycin to complete a full 7-week course | 768

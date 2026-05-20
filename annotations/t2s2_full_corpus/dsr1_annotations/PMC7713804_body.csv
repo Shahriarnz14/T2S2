@@ -1,0 +1,101 @@
+event,time
+77-year-old,0
+female,0
+admitted to undergo posterior lumbar interbody fusion,0
+lumbar spinal stenosis (L1–3),0
+hypertension,0
+amlodipine,0
+carvedilol,0
+"preoperative leukocyte count 7,770/ml",0
+hemoglobin level 14.1 mg/dl,0
+hematocrit 40.1%,0
+"platelet count 268,000/ml",0
+normal chest radiography,0
+normal electrocardiogram,0
+normal physical examination,0
+central venous catheter insertion,-24
+operating room arrival,0
+non-invasive blood pressure monitor applied,0
+pulse oximetry monitor applied,0
+pre-induction BP 130/90 mmHg,0
+heart rate 75 beats/min,0
+peripheral oxygen saturation 100%,0
+anesthesia induced with propofol,0
+remifentanil administered,0
+rocuronium 50 mg administered,0
+endotracheal intubation,0
+post-intubation BP 130/70 mmHg,0
+heart rate 80 beats/min,0
+right radial artery cannula insertion,0
+central venous pressure monitoring,0
+FloTrac/EV1000 device monitoring,0
+initial cardiac index 2.8 L/min/m²,0
+"SVR index 2,394 dynes·sec/cm5/m²",0
+mean arterial BP 95 mmHg,0
+stroke volume variation 12%,0
+central venous pressure 13 mmHg,0
+preoperative arterial blood gas pH 7.455,0
+pCO2 32.9 mmHg,0
+pO2 203.7 mmHg,0
+hematocrit 34%,0
+45 minutes post-surgery start,0.75
+mean arterial BP decreased to 56 mmHg,0.75
+"SVR index decreased to 1,932 dynes·sec/cm5/m²",0.75
+phenylephrine 50 µg administered,0.75
+mean arterial BP increased to 123 mmHg,0.75
+"SVR index increased to 4,254 dynes·sec/cm5/m²",0.75
+nicardipine HCl 500 µg administered,0.75
+mean arterial BP decreased to 47–59 mmHg,0.75
+stroke volume variation 15%,0.75
+cardiac index 2.7–3.3 L/min/m²,0.75
+"SVR index 1,079–1,242 dynes·sec/cm5/m²",0.75
+phenylephrine bolus repeated,0.75
+mean arterial BP remained <60 mmHg,0.75
+4 units packed red blood cells transfused,0.75
+post-transfusion hemoglobin 11.0 mg/dl,0.75
+hematocrit 31.5%,0.75
+"platelet count 144,000/ml",0.75
+norepinephrine 0.1 µg/kg/min administered,0.75
+norepinephrine increased to 0.3 µg/kg/min,0.75
+mean arterial BP 60 mmHg,0.75
+"SVR index 1,239 dynes·sec/cm5/m²",0.75
+no skin rash,0.75
+no urticaria,0.75
+no change in peak airway pressure,0.75
+surgery end,3.25
+sugammadex 140 mg administered,3.25
+spontaneous breathing resumed,3.25
+consciousness recovered,3.25
+endotracheal tube removed,3.25
+transfer to PACU,3.25
+norepinephrine 0.1 µg/kg/min continued,3.25
+PACU arrival,3.25
+BP 82/64 mmHg,3.25
+heart rate 78 beats/min,3.25
+peripheral oxygen saturation 100%,3.25
+vasopressin 2 U/h initiated,3.25
+BP increased to 104/64 mmHg,3.25
+BP decreased to 82/57 mmHg,3.5
+normal 12-lead ECG,3.5
+transthoracic echocardiography performed,3.5
+left ventricular ejection fraction 65%,3.5
+no regional wall motion abnormality,3.5
+no pericardial effusion,3.5
+no hematoma,3.5
+vasoplegic syndrome diagnosis,3.5
+methylene blue 0.5 mg/kg administered,3.5
+BP increased from 74/54 mmHg to 112/66 mmHg,3.5
+vomiting occurred,3.75
+methylene blue discontinued,3.75
+total methylene blue dose 26 mg,3.75
+systolic BP ≥110 mmHg,3.75
+transfer to intensive care unit,3.75
+norepinephrine 0.2 µg/kg/min,3.75
+vasopressin 2 U/h,3.75
+first postoperative day,24
+systolic BP ≥110 mmHg,24
+heart rate ~80 beats/min,24
+norepinephrine tapered,24
+vasopressin tapered,24
+transfer to general ward,48
+discharge on postoperative day 16,384

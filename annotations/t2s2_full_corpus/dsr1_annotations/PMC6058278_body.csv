@@ -1,0 +1,108 @@
+event,time
+65 years old,0
+male,0
+hypertension,-87600
+persistent atrial fibrillation,-87600
+catheter-based radiofrequency pulmonary vein isolation procedure,0
+antiarrhythmic drug therapy refractory,-336
+irritative cough,336
+severe headache,504
+persistent cough,504
+fever,504
+awake,504
+unremarkable vital signs except fever,504
+incessant cough,504
+cough exacerbates when speaking,504
+"leukocytosis (21,000 cells/mL)",504
+brain computed tomography: subarachnoid hemorrhage,504
+admitted to intensive care unit,504
+warfarin withheld,504
+broad-spectrum antibiotics started,504
+shortness of breath,504
+possible cardiac etiology,504
+transthoracic echocardiography ordered,504
+bubbles in left ventricle,504
+bubbles in left atrium,504
+bubbles noted during coughing,504
+air within the heart,504
+communication with esophagus or bronchial tree,504
+clinical deterioration,504
+decline in consciousness level,504
+cerebral air emboli,504
+mechanical ventilation,504
+endotracheal tube placed in right main bronchus,504
+upper endoscopy performed,504
+large clot in distal esophageal wall,504
+atrioesophageal fistula,504
+covered stent placed,504
+condition worsened,504
+cardiac arrest,504
+coronary artery air embolization,504
+resuscitation attempted,504
+pronounced dead,504
+autopsy: 3mm fistula esophagus-left atrium,504
+18 years old,0\
+male,0\
+admitted to the hospital,0\
+fever,-72\
+rash,-72\
+acne,-672\
+minocycline,-672\
+increased WBC count,0\
+eosinophilia,0\
+systemic involvement,0\
+diffuse erythematous or maculopapular eruption,0\
+pruritis,0\
+DRESS syndrome,0\
+fever persisted,0\
+rash persisted,0\
+discharged,24\
+"Separate conjunctive phrases into its component events and assign them the same timestamp (for example, the separation of 'fever and rash' into 2 events: 'fever' and 'rash')  If the event has duration, assign the event time as the start of the time interval. Attempt to use the text span without modifications except 'history of' where applicable. Include all patient events, even if they appear in the discussion; do not omit any events; include termination/discontinuation events; include the pertinent negative findings, like 'no shortness of breath' and 'denies chest pain'.  Show the events and timestamps in rows, each row has two columns: one column for the event, the other column for the timestamp.  The time is a numeric value in hour unit. The two columns are separated by a pipe '",' as a bar-separated file. Skip the title of the table. Reply with the table only. Create a table from the following case:
+65 years old,0
+male,0
+hypertension,-87600
+persistent atrial fibrillation,-87600
+catheter-based radiofrequency pulmonary vein isolation procedure,0
+antiarrhythmic drug therapy refractory,-336
+irritative cough,336
+severe headache,504
+persistent cough,504
+fever,504
+awake,504
+unremarkable vital signs except fever,504
+incessant cough,504
+cough exacerbates when speaking,504
+"leukocytosis (21,000 cells/mL)",504
+subarachnoid hemorrhage,504
+admitted to intensive care unit,504
+warfarin withheld,504
+broad-spectrum antibiotics started,504
+shortness of breath,504
+possible cardiac etiology,504
+transthoracic echocardiography ordered,504
+bubbles in left ventricle,504
+bubbles in left atrium,504
+bubbles during coughing,504
+air within the heart,504
+communication with esophagus or bronchial tree,504
+clinical deterioration,504
+decline in consciousness level,504
+cerebral air emboli,504
+mechanical ventilation,504
+endotracheal tube in right main bronchus,504
+upper endoscopy performed,504
+large clot in distal esophageal wall,504
+atrioesophageal fistula,504
+covered stent placed,504
+condition worsened,504
+cardiac arrest,504
+coronary artery air embolization,504
+resuscitation attempted,504
+pronounced dead,504
+autopsy: 3mm fistula esophagus-left atrium,504
+anticoagulant therapy background,504
+subdural hematoma,504
+excessive coughing,504
+no bubbles in right chambers,504
+no transpulmonary shunting,504
+no esophageal instrumentation,504

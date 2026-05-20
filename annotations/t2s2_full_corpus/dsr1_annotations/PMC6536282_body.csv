@@ -1,0 +1,123 @@
+event,time
+4-year-old,0
+male,0
+admitted to intensive care unit,0
+diabetic ketoacidosis (DKA),0
+type 1 diabetes mellitus (DM),0
+malaise,-48
+lethargy,-48
+tachypnea,-48
+sore throat,-48
+abdominal pain,-48
+vomiting,-48
+dehydration,-48
+polyuria,-504
+polydipsia,-504
+4-kg weight loss,-504
+afebrile,0
+tachypneic (46 breaths per minute),0
+Kussmaul respirations,0
+heart rate 156 beats per minute,0
+blood pressure 90/55 mm Hg,0
+light drowsiness,0
+no jugular distension,0
+diffuse rhonchi in all lung areas,0
+plasma glucose level 29.8 mmol/L,0
+pH 6.788,0
+pO2 5.20 kPa,0
+pCO2 4.43 kPa,0
+bicarbonate 4.7 mmol/L,0
+sodium 135 mmol/L,0
+potassium 5.1 mmol/L,0
+glucosuria,0
+ketonuria,0
+insulin infusion,0
+intravenous saline,0
+potassium replacement,0
+symptomatic respiratory treatment,0
+hypotension,0
+volume expansion,0
+vasopressors,0
+inotropes,0
+severe dyspnea,6
+increased tachypnea,6
+restlessness,6
+cyanosis,6
+diffuse crackles,6
+rhonchi in all lung areas,6
+hypoxemia,6
+chest radiograph bilateral severe diffuse infiltrates,6
+no cardiomegaly,6
+acute respiratory failure,6
+ARDS,6
+transferred to intensive care unit,6
+oxygen by facemask,6
+endotracheal intubation,12
+mechanical ventilation,12
+throat culture positive for group A beta-hemolytic streptococci,12
+urine culture negative,12
+blood culture negative,12
+intravenous co-amoxiclav,12
+transferred to our hospital,24
+intubated,24
+"mechanically ventilated (SIMV, FiO2 56%)",24
+arterial oxygen saturation 95%,24
+respiratory rate 25 breaths per minute,24
+heart rate 136 beats per minute,24
+blood pressure 113/75 mm Hg,24
+afebrile,24
+sedated,24
+diffusely edematous,24
+leukocyte count 18.3,24
+neutrophils 67%,24
+lymphocytes 25%,24
+prothrombin time normal,24
+platelet count normal,24
+troponin T level normal,24
+liver function tests normal,24
+serum amylase normal,24
+urine amylase normal,24
+glucosuria,24
+tracheal tube culture negative,24
+urine culture negative,24
+blood culture negative,24
+electrocardiography normal,24
+chest HRCT patchy abnormalities,24
+ground-glass appearance,24
+consolidation,24
+no cardiomegaly,24
+no mediastinal lymphadenopathy,24
+antibiotics continued for 10 days,24
+subcutaneous regular insulin,96
+weaned from ventilator,96
+euglycemic,96
+no ketonuria,96
+subcutaneous regular insulin continued,96
+good recovery,168
+blood gas levels improved,168
+room air,168
+respiratory symptoms cleared,168
+chest x-ray improved,168
+definitive diagnosis ARDS,168
+definitive diagnosis DKA,168
+definitive diagnosis type 1 DM,168
+survived without significant sequels,168
+cerebral edema excluded,0
+capillary permeability increased,0
+severe acidosis,0
+alteration of alveolar surfactant metabolism,0
+proinflammatory cytokine enhancement,0
+IL-10 decreased,0
+IL-1beta increased,0
+IL-8 increased,0
+TNF-alfa increased,0
+genetic predisposition,0
+hydrostatic-oncotic forces altered,0
+angiotensin converting enzyme gene polymorphism,0
+pulmonary surfactant-associated protein B polymorphism,0
+IL-6 polymorphism,0
+angiopoietin-2 polymorphism,0
+coagulation factor V polymorphism,0
+aggressive management of underlying cause,0
+mechanical ventilation,0
+high flow oxygen therapy,0

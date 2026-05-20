@@ -1,0 +1,100 @@
+event,time
+90 years old,0
+man,0
+admitted to emergency department,0
+impaired consciousness,0
+respiratory failure,0
+unconscious in bathtub,0
+chronic cerebral infarct,0
+Glasgow Coma Scale E1 V1 M3,0
+body temperature 36.1 °C,0
+blood pressure 154/110 mmHg,0
+pulse rate 113/min,0
+respiratory rate 24 breaths/min,0
+SpO2 60%,0
+poor inflation of right chest,0
+diminished respiratory sounds in right lower lung,0
+intubated with SLT,0
+hypoxemia,0
+blood pressure drop,0
+septic shock,0
+pneumonia,0
+1000 mL crystalloid fluid administered,0
+piperacillin/tazobactam,0
+azithromycin,0
+noradrenalin 0.3 μg/kg/min,0
+vasopressin 1 unit/hour,0
+hydrocortisone 100 mg,0
+dobutamine,0
+reduced cardiac output,0
+right middle and lower lung infiltrates,0
+left lung no abnormality,0
+arterial blood gas: PaO2 64 mmHg,1
+arterial blood gas: PaCO2 53 mmHg,1
+arterial blood gas: pH 7.10,1
+ventilator assist-control mode,1
+FiO2 1.0,1
+PEEP 15 cmH2O,1
+inspiratory pressure 10 cmH2O,1
+tidal volume 610 mL,1
+minute ventilation 15 L/min,1
+unilateral distension of left thorax,1
+right thorax not fully elevated,1
+aeration of affected lung did not improve,1
+non-affected lung overinflated,1
+ECMO considered,1
+DLT replacement,6
+left lateral decubitus position,6
+ILV started,6
+left lung ventilator PCV mode,6
+left PEEP 8 cmH2O,6
+left PaO2 10 cmH2O,6
+left respiratory rate 24/min,6
+right lung ventilator BiLevel mode,6
+right PEEPhigh 20 cmH2O,6
+right PEEPlow 15 cmH2O,6
+right respiratory rate 1/min,6
+neuromuscular blocking agent,6
+SpO2 99%,6
+arterial blood gas: PaO2 103 mmHg,6
+FiO2 right 1.0,6
+FiO2 left 0.6,6
+mean arterial blood pressure increased,6
+noradrenalin reduced,6
+dobutamine reduced,6
+continuous hemodiafiltration,6
+arterial blood gas: pH 7.16,6
+arterial blood gas: PaCO2 50 mmHg,6
+arterial blood gas: HCO3− 17 mmol/L,6
+right tidal volume 310 mL,6
+left tidal volume 310 mL,6
+PaO2 75 mmHg,25
+FiO2 right 0.5,25
+FiO2 left 0.5,25
+PaO2 94 mmHg,45
+FiO2 right 0.5,45
+FiO2 left 0.4,45
+dynamic compliance difference 4 mL/cmH2O,45
+right dynamic compliance 16 mL/cmH2O,45
+left dynamic compliance 20 mL/cmH2O,45
+pulmonary infiltrates decreased,45
+ILV discontinued,55
+conventional two-lung ventilation,55
+arterial blood gas: PaO2 87 mmHg,55
+arterial blood gas: PaCO2 41 mmHg,55
+arterial blood gas: pH 7.33,55
+ventilator assist-control mode,55
+FiO2 0.4,55
+PEEP 8 cmH2O,55
+inspiratory pressure 12 cmH2O,55
+tidal volume 410 mL,55
+vasopressors discontinued,55
+continuous hemodiafiltration discontinued,55
+DLT replaced with SLT,81
+no right lung collapse,81
+ventilator pressure support mode,81
+FiO2 0.3,81
+PEEP 8 cmH2O,81
+inspiratory pressure 8 cmH2O,81
+extubated,147
+transferred to rehabilitation center,147

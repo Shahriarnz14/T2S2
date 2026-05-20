@@ -1,0 +1,117 @@
+event,time
+35-year-old,0
+woman,0
+admitted to local hospital,0
+fever,0
+tachycardia,0
+neutropenia,0
+tonsillitis,0
+suspected sepsis,0
+thyroid storm,0
+autoimmune hyperthyroidism,-17520
+carbimazole,-17520
+neutropenia,-17520
+discontinued carbimazole,-17520
+signs and symptoms of hyperthyroidism,-672
+free thyroxine (T4): 79 pmol/L,-672
+free triiodothyronine T3: 47 pmol/L,-672
+prescription of thionamide,-672
+prescription of non-selective beta-blocker,-672
+discontinued thionamide,-48
+neutropenia,-48
+treatment with beta-blocker,0
+treatment with antibiotics,0
+treatment with glucocorticoids,0
+treatment with iodine solution,72
+sudden circulatory collapse,96
+pulseless electrical activity (PEA),96
+cardiopulmonary resuscitation (CPR),96
+return of spontaneous circulation (ROSC),96
+severe biventricular cardiac failure,96
+severely hypokinetic left ventricle,96
+ejection fraction <20%,96
+inotropic support with dobutamine,96
+ineffective dobutamine,96
+recurrent cardiac arrests,96
+V-A ECMO support,96
+increased iodine solution dosages,96
+levosimedan infusion,96
+complete recovery of myocardial function,168
+V-A ECMO discontinued,168
+extubated,192
+total thyroidectomy,288
+discharged,672
+no cognitive sequelae,672
+normalized cardiac function,672
+close follow-up by endocrinologist,672
+Grave’s disease,-17520
+untreated Grave’s disease,-17520
+increased thyrotoxic symptoms,-672
+high TRAB-thyroid receptor antibody,-672
+carbimazole 10 mg twice daily,-672
+propranolol 20 mg 1–2 tablets daily,-672
+severe neutropenia,-48
+high fever,0
+sinus tachycardia (110 bpm),0
+general fatigue,0
+normal heart auscultation,0
+normal lung auscultation,0
+neutropenic sepsis,0
+leucocytes 0.8 × 10⁹/L,0
+neutrophils 0.0 × 10⁹/L,0
+"broad-spectrum antibiotics (penicillin, gentamicin)",0
+hydrocortisone 100 mg four times daily,0
+propranolol 20 mg four times daily,0
+Lugol’s iodine solution (4.5 mg three times daily),72
+high fever persisted,72
+tachycardia persisted,72
+acute dyspnoea,96
+circulatory collapse,96
+cardiac arrest,96
+PEA,96
+ROSC after 4 minutes,96
+severe hypotension (60/40 mmHg),96
+sinus tachycardia,96
+transferred to university hospital,96
+conscious,96
+cognitively impaired,96
+respiratory rate 30–50/min,96
+blood pressure 60/40 mmHg,96
+heart rate 120 bpm,96
+temperature 37.8°C,96
+normal respiratory sounds,96
+Graves' ophthalmopathy,96
+severe lactic acidosis (lactate 17 mmol/L),96
+pH 7.2,96
+pCO2 2.9 kPa,96
+pO2 19 kPa,96
+suspected pulmonary embolism,96
+bedside echocardiography,96
+paradoxical movement of septum,96
+tricuspid regurgitation,96
+CT pulmonary angiography indicated,96
+CT scan performed,96
+pulmonary embolism excluded,96
+thrombolysis given,96
+transferred to ICU,96
+cardiogenic shock,96
+norepinephrine,96
+phenylephrine,96
+recurrent cardiac arrests,96
+mechanical circulatory support (V-A ECMO),96
+coronary angiography normal,96
+intra-aortic balloon pump (IABP),96
+Lugol’s iodine solution 22 mg three times daily,96
+hydrocortisone 100 mg four times daily,96
+rapid normalization of thyroid hormone levels,96
+beta-blockers discontinued,96
+levosimendan commenced,96
+myocardial function recovered,168
+V-A ECMO discontinued,168
+extubated,192
+total thyroidectomy,288
+discharged,672
+no cognitive sequelae,672
+no symptoms of heart failure,672
+normalized myocardial function,672
+levothyroxine substitution,672

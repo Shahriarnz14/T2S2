@@ -1,0 +1,57 @@
+event,time
+25-year-old,0
+G5 now P5,0
+good prenatal care,0
+chronic hypertension,-288 (approximated based on pregnancy duration)
+premature prolonged rupture of membranes,"-288 (12 days prior to delivery, 12*24=288 hours)"
+latency antibiotics,-288 (started 12 days prior)
+intravenous ampicillin,-288 (48 hours of IV ampicillin during latency)
+oral amoxicillin,-264 (after 48 hours of IV ampicillin)
+azithromycin,-288 (single dose during latency)
+completed antibiotics,"-120 (5 days prior to delivery, 5*24=120 hours)"
+chorioamnionitis,0 (developed prior to delivery)
+ampicillin for chorioamnionitis,0 (received one dose prior to delivery)
+trichomonas infection,"-8640 (during pregnancy, assumed mid-pregnancy at 40 weeks, 26 weeks gestation, 14 weeks prior, 14*7*24=2352 hours, but used mid-pregnancy as approximation)"
+treated trichomonas,-8640
+negative GBS culture,0 (at delivery)
+male infant,0
+26 weeks gestation,0
+birth weight 950 g,0
+spontaneous vaginal delivery,0
+required positive pressure ventilation,0
+intubation,0
+APGAR 6 at 1 minute,0
+APGAR 3 at 5 minutes,0
+APGAR 4 at 10 minutes,0
+admitted to NICU,0
+arterial cord blood pH 6.96,0
+arterial pCO2 76 mm Hg,0
+arterial base excess -15.9 mmol/L,0
+venous cord blood pH 7.17,0
+venous pCO2 42 mm Hg,0
+venous base excess -12.7 mmol/L,0
+mixed metabolic and respiratory acidosis,0
+high ventilator support,0
+respiratory acidosis improved,0 (after interventions)
+surfactant administration,0
+persistent metabolic acidosis,0
+leukopenia (WBC 1.5×10³/mm³),0
+thrombocytopenia (platelets 89×10³/mm³),0
+elevated CRP 21.1 mg/L,0
+blood culture sent,0
+ampicillin started,0
+gentamicin started,0
+hypotension at 4.5 hours,4.5
+deteriorated despite fluids,4.5
+"pressors (dopamine, dobutamine)",4.5
+repeat blood culture,4.5
+tracheal aspirate,4.5
+died at 5.5 hours,5.5
+autopsy declined,5.5
+blood cultures positive for gram-positive cocci,12 (12 hours after incubation)
+S. gallolyticus identified,12 (MALDI-TOF)
+tracheal aspirate culture negative,12
+placental chorioamnionitis confirmed,0 (postmortem)
+negative group B streptococcus,0
+ELBW,0
+fulminant sepsis,0

@@ -1,0 +1,179 @@
+event,time
+33 years old,0
+male,0
+severe abdominal pain,-8
+vomiting,-10
+suspected ileus,-8
+ER visit,-8
+BP 105/63 mmHg,-8
+HR 69 beats/min,-8
+SpO2 99%,-8
+RR 20 rates/min,-8
+body temperature 36.9℃,-8
+ABGA pH 7.64,-8
+ABGA PaCO2 25.8 mmHg,-8
+ABGA PaO2 111.1 mmHg,-8
+ABGA BE 8.3 mmol/L,-8
+chest radiograph,-8
+chest and abdominal CT,-8
+BP 83/66 mmHg,-8
+HR 116 beats/min,-8
+100 ml crystalloid fluids,-8
+BP 124/88 mmHg,-8
+severe increase in stomach volume,-8
+stricture in gastric pylorus,-8
+stricture in duodenum,-8
+unsuccessful nasogastric tube insertion,-8
+pneumomediastinum,-8
+esophageal rupture suspected,-8
+right internal jugular vein catheterization,-8
+BP 84/44 mmHg,-8
+HR 113 beats/min,-8
+300 ml crystalloid solution,-8
+2 L/min oxygen via nasal cannula,-8
+SpO2 97%,-8
+moved to operating room,-16
+fasting time 12 hours,-16
+increased BUN 32 mg/dl,-16
+increased creatine 2.2 mg/dl,-16
+"increased WBC 12,400/mm3",-16
+clear consciousness,-16
+BP 80/50 mmHg,-16
+HR 125 beats/min,-16
+SpO2 94% on FIO2 0.21,-16
+preoxygenation with 100% oxygen,-16
+SpO2 99%,-16
+general anesthesia induced,-16
+etomidate 15 mg,-16
+cisatracurium 20 mg,-16
+manual ventilation,-16
+TV 400–500 ml,-16
+RR 15 rates/min,-16
+PIP 15–25 cmH2O,-16
+ETCO2 30–40 mmHg,-16
+endotracheal intubation,-16
+DLT insertion,-16
+breath sounds confirmed,-16
+bronchoscope confirmation,-16
+PCV mode started,-16
+PIP 20 cmH2O,-16
+PEEP 0 cmH2O,-16
+RR 12 rates/min,-16
+TV 500–600 ml,-16
+FIO2 1.0,-16
+desflurane 2 vol%,-16
+dopamine 5 µg/kg/min,-16
+systolic BP 90–110 mmHg,-16
+diastolic BP 50–70 mmHg,-16
+HR 110–120 beats/min,-16
+CVP 14–16 cmH2O,-16
+ETCO2 30–35 mmHg,-16
+BIS 30–40,-16
+SpO2 99%,-16
+right lateral position,-16
+left thoracotomy,-16
+single right lung ventilation,-16
+PCV mode maintained,-16
+PIP 20 cmH2O,-16
+PEEP 0 cmH2O,-16
+RR 15 rates/min,-16
+TV 300–400 ml,-16
+ABGA pH 7.439,-16
+ABGA PaCO2 36.5 mmHg,-16
+ABGA PaO2 154.3 mmHg,-16
+ABGA BE 1.3 mmol/L,-16
+SpO2 decreased,-16
+manual ventilation,-16
+bronchoscope check,-16
+volatile anesthetics stopped,-16
+SpO2 80%,-16
+two-lung ventilation,-16
+decreased breath sounds,-16
+desaturation onset,-16
+moved to supine position,-16
+SpO2 70%,-16
+DLT replaced with single-lumen tube,-16
+TV 300–400 ml,-16
+ETCO2 25–35 mmHg,-16
+SpO2 50%,-16
+ETCO2 10 mmHg,-16
+HR <40 beats/min,-16
+systolic BP 50 mmHg,-16
+CPR initiated,-16
+thoracic compressions,-16
+epinephrine 1 mg x2,-16
+bilateral tension pneumothorax suspected,-16
+left angiocatheter insertion,-16
+air leakage confirmed,-16
+right angiocatheter insertion,-16
+foul smelling brown liquid,-16
+SpO2 increased to 90%,-16
+HR 70–80 beats/min,-16
+systolic BP 100–120 mmHg,-16
+SpO2 94–95%,-16
+BIS >10,-16
+CPR terminated,-16
+emergency chest radiograph,-16
+chest tube insertion right,-16
+chest tube insertion left,-16
+breath sounds recovered,-16
+SpO2 100%,-16
+800 ml stomach contents output,-16
+air leakage from right chest tube,-16
+severe lung parenchymal damage,-16
+DLT reinsertion,-16
+right thoracotomy,-16
+500 ml stomach contents suctioned,-16
+lung irrigation,-16
+chemical burn observed,-16
+left esophageal rupture,-16
+right thoracotomy performed,-16
+poor visual field,-16
+extended surgical time,-16
+epiphrenic esophageal rupture 2 cm,-16
+subphrenic stomach rupture 2 cm,-16
+distal esophagectomy,-16
+esophagogastrostomy,-16
+feeding jejunostomy,-16
+surgery duration 11 hours,-16
+4500 ml colloid solution,-16
+4050 ml crystalloid solution,-16
+2 pints packed red blood cells,-16
+estimated blood loss 1000 ml,-16
+urine output 1700 ml,-16
+ABGA pH 7.429,-16
+ABGA PaCO2 31.3 mmHg,-16
+ABGA PaO2 367.7 mmHg,-16
+ABGA BE -2.2 mmol/L,-16
+single-lumen tube replacement,-16
+transferred to ICU,-16
+chest radiography no pulmonary edema,-16
+mechanical ventilation AC mode,-16
+pressure 14 cmH2O,-16
+RR 12 breaths/min,-16
+PEEP 6 cmH2O,-16
+FIO2 0.6,-16
+fentanyl 20–40 µg/h,-16
+ABGA pH 7.43,-16
+ABGA PaCO2 31 mmHg,-16
+ABGA PaO2 211 mmHg,-16
+ABGA BE -2 mmol/L,-16
+drowsy mental status,-16
+mechanical ventilation continued,24
+FIO2 decreased to 0.4,24
+ABGA pH 7.39,24
+ABGA PaCO2 35 mmHg,24
+ABGA PaO2 169 mmHg,24
+ABGA BE -2.0 mmol/L,24
+stable vital signs,24
+SpO2 99%,24
+mechanical ventilation stopped,120
+T-piece applied,120
+extubated,168
+moved to general ward,192
+stable vital signs,192
+alert mental status,192
+SpO2 97% on 3 L/min oxygen,192
+left chest tube removed,264
+right chest tube removed,600
+discharged without complications,768

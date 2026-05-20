@@ -1,0 +1,66 @@
+event,time
+64-year-old,0
+Chinese,0
+Han nationality,0
+female,0
+admitted to hospital,0
+cough,-360
+fever,-120
+chest tightness,-120
+shortness of breath,-120
+stayed in Wuhan,-336
+returned to Shenzhen,-144
+temperature 37.5°C,0
+blood pressure 124/74 mmHg,0
+SpO2 91%,0
+pulse 85/min,0
+respiration rate 22/min,0
+thick respiratory sounds in both lungs,0
+no dry or wet rales,0
+white blood cells 5.3 × 10⁹/L,0
+neutrophil percentage 78%,0
+lymphocytes 0.9 × 10⁹/L,0
+pH 7.45,0
+PO2 82 mmHg,0
+PCO2 37 mmHg,0
+FIO2 40%,0
+CRP 52 mg/L,0
+IL-6 153 pg/mL,0
+normal procalcitonin,0
+normal liver function,0
+normal kidney function,0
+normal myocardial enzymes,0
+bilateral multi-patchy consolidation,0
+ground-glass opacities,0
+SARS-CoV-2 positive,0
+COVID-19 diagnosis,0
+high-flow nasal catheter oxygen therapy,0
+intermittent noninvasive mechanical ventilation,0
+interferon 60 µg twice daily,0
+lopinavir/ritonavir 500 mg twice daily,0
+gamma globulin 10 g daily,0
+thymalfasin 1.6 mg every 12 h,0
+naltrexate calcium 4100 µg daily,0
+oxygenation index decreased to 150 mmHg,120
+invasive mechanical ventilation prone position,120
+ribavirin 0.5 twice daily,120
+ceftazidime 2.0 every 8 h,120
+linezolid 600 mg every 12 h,120
+immunoglobulin 300 mL daily,120
+methylprednisolone 60 mg daily,120
+thin yellow sputum,168
+increased lung exudate,168
+CRP 65 mg/L,168
+IL-6 56 pg/mL,168
+alveolar lavage GM 4.2 S/CO,168
+blood GM 0.8 S/CO,168
+"1,3 β-glucan 266.8 pg/mL",168
+secondary pulmonary aspergillosis,168
+voriconazole 200 mg every 12 h,168
+prone position ventilation stopped,216
+tracheal intubation removed,288
+SARS-CoV-2 negative,504
+discharged from ICU,576
+no discomfort,1584
+chest CT resolution of infiltrates,1584
+discharged,1584

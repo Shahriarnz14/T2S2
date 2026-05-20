@@ -1,0 +1,44 @@
+event,time
+newborn female,0
+admitted to neonatal intensive care unit,0
+extremely preterm,0
+mechanical ventilation,0
+central umbilical catheters,0
+total parenteral nutrition,0
+empiric antibiotics,0
+skin sensors,0
+late-onset sepsis,216
+Escherichia coli bacteremia,216
+cefepime,216
+removal of adhesive patch,480
+skin abrasion,480
+erythema,480
+induration,480
+plaque with necrotic center,480
+ulcer,528
+extension to subcutaneous tissue,528
+progression of necrotic area,528
+intensive wound care,528
+healings,528
+hydrating dermal wound dressings,528
+sodium alginate,528
+carboxymethylcellulose,528
+hydrocolloids,528
+thermic instability,528
+metabolic acidosis,528
+hyperglycemia,528
+hypotension,528
+suspected cutaneous mucormycosis,528
+skin biopsy,528
+empiric antifungal treatment,528
+liposomal amphotericin B,528
+refractory shock,576
+renal failure,576
+death,612
+negative fungal blood cultures,528
+Rhizopus arrhizus identified,528
+broad aseptate hyphae,528
+no autopsy performed,612
+no serum galactomannan test,528
+"no 1,3 beta-D-glucan test",528
+no extensive surgical debridement,576

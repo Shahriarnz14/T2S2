@@ -1,0 +1,117 @@
+event,time
+10-year-old,0
+male,0
+admitted to the hospital,0
+born pre-term at a gestational age of 33 weeks and 2 days,-82032
+first visited our center for evaluation of short stature,-29520
+Russell–Silver syndrome,-29520
+proteinuria,-29520
+hypoalbuminemia,-29520
+high-dose steroid started,-29520
+calcineurin inhibitor started,-29520
+steroid ineffective,-29520
+calcineurin inhibitor ineffective,-29520
+renal function deteriorated,-29520
+right renal vein thrombosis,-12000
+pulmonary embolism,-12000
+treated with anticoagulants,-12000
+persistent pulmonary hypertension,-11500
+sildenafil started,-11500
+living donor kidney transplantation,-3240
+prednisolone started,-3240
+mycophenolate mofetil started,-3240
+tacrolimus started,-3240
+renal function well maintained,-3200
+mycophenolate mofetil discontinued,-1560
+steroid tapered,-1560
+tacrolimus continued,-1560
+tacrolimus level approximately 10 ng/mL,-1560
+pneumocystis pneumonia,-1080
+mechanical ventilation,-1080
+sulfamethoxazole/trimethoprim intravenous started,-1080
+steroid increased to 20 mg prednisolone,-1080
+dysuria,0
+gross hematuria,0
+BUN 24 mg/dL,0
+creatinine 0.56 mg/dL,0
+CRP 0.42 mg/dL,0
+AST 31 IU/L,0
+ALT 50 IU/L,0
+"bilirubin, total 0.4 mg/dL",0
+total CO2 16 mmol/L,0
+tacrolimus level 3.7 ng/mL,0
+RBC > 100/HPF (urinalysis),0
+WBC > 100/HPF (urinalysis),0
+urine culture for bacteria negative,0
+urine BK virus negative,0
+urine JC virus PCR positive,0
+urine adenovirus culture positive (1–9 cells/HPF),0
+hemorrhagic cystitis,0
+hydration,0
+pain control,0
+no fever,0
+immunosuppression maintained,0
+dysuria persisted,168
+hematuria persisted,168
+RBC > 100/HPF (urinalysis),168
+WBC 1 to 4/HPF (urinalysis),168
+immunosuppression maintained,168
+emergency room visit,576
+admitted to the hospital,576
+fever,576
+general weakness,576
+chest tightness,576
+mild cough,576
+dysuria persisted,576
+hematuria persisted,576
+BUN 175 mg/dL,576
+creatinine 8.29 mg/dL,576
+CRP 30.23 mg/dL,576
+AST 30 IU/L,576
+ALT 24 IU/L,576
+"bilirubin, total 0.2 mg/dL",576
+total CO2 15 mmol/L,576
+PT (INR) 0.92,576
+aPTT 33.1 sec,576
+tacrolimus level 16.3 ng/mL,576
+hemodialysis started,576
+piperacillin/tazobactam started,576
+urosepsis suspected,576
+sputum culture negative,576
+blood culture negative,576
+urine culture negative,576
+adenovirus real-time PCR of sputum positive,576
+blood CMV antigen positive,576
+disseminated adenovirus infection (presumed),576
+immunosuppression reduction,576
+ganciclovir started,576
+renal allograft biopsy,576
+diffuse necrotizing granulomatous tubulointerstitial nephritis,576
+CD3 staining negative (no cellular rejection),576
+C4d staining negative (no humoral rejection),576
+JC virus PCR positive,576
+serum CMV PCR positive,576
+infectious tubulointerstitial nephritis,576
+antibiotic therapy with renal impairment dose,576
+granulocyte colony-stimulating factor,576
+intravenous immunoglobulin,576
+transfusion,576
+fever persisted,576
+"cidofovir (1 mg/kg/day, 3 times/week) started",768
+probenecid not given,768
+hemodialysis ongoing,768
+cidofovir regimen changed to 2 mg/kg every 2 weeks,984
+cidofovir maintenance therapy completed 3 treatments,1656
+serum adenovirus PCR positive,1656
+cerebrospinal fluid adenovirus PCR positive,1656
+renal function not recovered,1656
+generalized tonic-clonic seizure,1700
+vancomycin started,1700
+meropenem started,1700
+acyclovir started,1700
+anemia,1800
+leukopenia,1800
+thrombocytopenia,1800
+mechanical ventilation,1880
+continuous renal replacement therapy,1880
+died,1920

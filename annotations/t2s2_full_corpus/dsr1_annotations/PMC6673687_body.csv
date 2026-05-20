@@ -1,0 +1,111 @@
+event,time
+43 years old,0
+woman,0
+abdominal pain,-720
+lumbar pain,-720
+pain radiating to the back,-720
+nausea,-720
+nonproductive retching,-720
+denied fever,-720
+symptoms over the past month,-720
+progressively worsened,-720
+no relief from over-the-counter painkillers,-720
+past medical history: two cesarean sections,0
+past medical history: cholecystectomy,0
+past medical history: hiatoplasty for hiatal hernia,-52560
+physical examination: ill-looking appearance,0
+physical examination: pained expression,0
+pale,0
+anicteric,0
+afebrile,0
+normal respiratory pattern,0
+blood pressure 124/82 mmHg,0
+pulse 84 regular beats per minute,0
+respiratory rate 20 per minute,0
+room air oximetry 98%,0
+cardiac examination normal,0
+pulmonary examination normal,0
+thoracic kyphosis,0
+abdominal palpation painful,0
+rebound tenderness test negative,0
+bowel sounds present,0
+bowel sounds normal,0
+hemoglobin 15.8 g%,0
+hematocrit 48.9%,0
+leucocytes 18.4 ×10³/mm³,0
+bands 0%,0
+segmented 84%,0
+eosinophil 0%,0
+basophil 0%,0
+lymphocyte 9%,0
+monocyte 7%,0
+platelets 265 ×10³/mm³,0
+CRP 180 mg/L,0
+creatinine 1.09 mg/dL,0
+potassium 3.8 mEq/L,0
+sodium 140 mEq/L,0
+ALT 20 U/L,0
+AST 35 U/L,0
+total bilirubin 0.5 mg/dL,0
+glucose 178 mg/dL,0
+amylase 859 U/L,0
+lipase 1038 U/L,0
+ionized calcium 1.06 mmol/L,0
+PT (INR) 1.59,0
+urea 51 mg/dL,0
+abdominal computed tomography,0
+gastric volvulus herniated into thoracic cavity,0
+organoaxial volvulus,0
+mesenteroaxial volvulus,0
+splenic arteriovenous vascular pedicle pulled up,0
+pancreatic tail pulled up,0
+tachypnea,24
+decreased oxygen saturation,24
+hypotension,24
+urgent exploratory laparotomy,24
+surgical findings: stomach herniation into chest,24
+stomach twisted on its axis (volvulus),24
+necrosis of greater curvature,24
+perforation of greater curvature,24
+gastro enteric contents in left pleural cavity,24
+stomach reduction to abdominal cavity,24
+vertical gastrectomy,24
+thoracic drainage,24
+mediastinal drainage,24
+referred to intensive care unit,24
+sedated,24
+mechanical ventilatory support,24
+continuous norepinephrine infusion,24
+hemodynamic stabilization,24
+multiple organ failure,48
+died,48
+autopsy findings: foul-smelling enteric liquid in pleural cavity,48
+brownish fibrinous material on pericardial surface,48
+brownish fibrinous material on left pleural surface,48
+right lung weight 403 g,48
+left lung weight 518 g,48
+wine-colored cut surface of lungs,48
+microscopy: lung congestion,48
+microscopy: lung edema,48
+microscopy: alveolar hemorrhage,48
+microscopy: pneumonia,48
+microscopy: diffuse alveolar damage,48
+microscopy: focal thrombosis with infarction,48
+microscopy: acute pleurisy,48
+microscopy: focal food debris,48
+heart weight 279 g,48
+petechiae on anterior pericardial surface,48
+microscopy: chronic myocarditis,48
+diaphragm laceration,48
+stomach crept through diaphragm laceration,48
+gastric wall suture,48
+microscopy: gastric serositis,48
+acute pancreatitis with steatonecrosis,48
+pancreatic weight 129 g,48
+hepatic congestion,48
+lobular necrosis,48
+microvesicular steatosis,48
+liver weight 1467 g,48
+acute tubular necrosis,48
+kidney weight 177 g,48
+mucosal and submucosal hemorrhage in intestines,48

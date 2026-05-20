@@ -1,0 +1,71 @@
+event,time
+52-year-old female,0
+D10 neurofibroma excision scheduled,0
+detailed medical history,0
+pre-anaesthetic check-up,0
+no medical comorbidities,0
+no prior surgical history,0
+no prior anaesthetic exposures,0
+baseline routine investigation unremarkable,0
+random blood sugar (RBS) 144 mg/dl,0
+preoperative fasting period 7 hours,-7
+preoperative fasting period 2 hours for clear water,-2
+laminectomy,0
+tumor excision,0
+general anesthesia,0
+prone position,0
+surgery duration 4 hours,0
+steroids not administered intraoperatively,0
+IV fentanyl,0
+IV paracetamol 1 gram,0
+reversal of neuromuscular blockade,0
+extubation,0
+shifted to Post-Anaesthesia Care Unit,0
+nausea,0.5
+abdominal pain,0.5
+agitation,0.5
+tachypnea,0.5
+dry mouth,0.5
+dry tongue,0.5
+dry lips,0.5
+hypotension,0.5
+tachycardia,0.5
+afebrile,0.5
+blood glucose 464 mg/dl,0.5
+fasting blood sugar 102 mg/dl,-7
+arterial blood gases (ABG) analysis,0.5
+high anion gap metabolic acidosis,0.5
+pH 7.12,0.5
+bicarbonate 8 mmol/L,0.5
+base deficit 18,0.5
+anion gap 22,0.5
+potassium 4.2 mmol/L,0.5
+sodium 132 mmol/L,0.5
+urinary glucose positive,0.5
+urinary ketones positive,0.5
+serum β-hydroxybutyrate 5.8 mmol/L,0.5
+diabetic ketoacidosis (DKA) diagnosis,0.5
+fluid resuscitation with 0.9% normal saline,0.5
+insulin bolus 6 units IV,0.5
+continuous insulin infusion,0.5
+electrolyte correction,0.5
+serum amylase 210 U/L,0.5
+serum lipase 155 U/L,0.5
+resolution of ketoacidosis,24
+general condition improved,24
+subcutaneous insulin started,72
+shifted to ward,72
+HbA1c 7.2%,72
+blood culture sterile,72
+urine culture sterile,72
+blood glucose levels normal,168
+discharged,168
+follow-up in endocrinology outpatient,168
+no prior history of diabetes,0
+no clinical manifestations of DM before event,0
+no exogenous steroids administered,0
+no dextrose-containing fluids administered,0
+no hypothermia,0
+no heparin administration,0
+no surgical pain,0.5
+no bladder distention,0.5

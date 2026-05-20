@@ -1,0 +1,101 @@
+event,time
+31 years old,0
+pregnant,0
+admitted to the hospital,0
+fever,-48
+sinus tachycardia,-48
+shortness of breath,-24
+cough,-24
+sputum,-24
+hypoxemia,-24
+oxygen saturation 88.0%,-24
+oxygen therapy,-24
+heart failure,-24
+pink foaming sputum,-24
+cyanosis,-24
+normal blood pressure,-24
+emergency cesarean section,-24
+healthy fetus delivered,-24
+slowed fetal heart rate,-24
+transferred to ICU,-24
+left heart enlargement,0
+left ventricular systolic insufficiency,0
+moderate mitral valve insufficiency,0
+ejection fraction 43%,0
+no right heart dilation,0
+no pulmonary artery blood clots,0
+myocarditis excluded,0
+pulmonary embolism excluded,0
+eclampsia excluded,0
+aortic dissection excluded,0
+fulminant PPCM diagnosed,0
+bromocriptine,0
+oral heart failure therapies,0
+anticoagulants,0
+vasorelaxant agents,0
+diuretics,0
+condition deteriorated,6
+cardiac arrest,6
+external cardiac compression,6
+CPR,6
+ECMO team arrived,396
+venoarterial ECMO established,396
+right arteriotomy femoral venous cannula,396
+femoral arterial cannula,396
+distal femoral artery perfusion cannula,396
+flow 3.5 L/min,396
+spontaneous circulation resumed,426
+BP 79/77 mmHg,426
+lactate >15 mmol/L,426
+anuria,426
+dobutamine infusion,426
+milrinone infusion,426
+EF 16%,0
+heavy left ventricular posterior load,0
+limited aortic valve opening,0
+intra-aortic balloon pump placed,0
+CRRT connected,0
+ACT 160-200 seconds,0
+neurological assessments daily,0
+cardiac function improved,144
+EF 35%,144
+vital signs stable,144
+lactic acid 3 mmol/L,144
+bleeding complications,144
+nasal cavity bleeding,144
+gastrointestinal bleeding,144
+incision bleeding,144
+thrombocytopenia,144
+anticoagulant reduction,144
+limited platelet infusion,144
+ECMO stopped,216
+pupil size difference,216
+cranial CT scan,216
+intracranial hemorrhage,216
+right frontal lobe hemorrhage,216
+occipitotemporal hemorrhage,216
+temporal lobe hemorrhage,216
+cranial decompression,216
+intracranial hematoma removal not performed,216
+transferred to another hospital,216
+intracranial hematoma removal,240
+conscious,240
+recurrent cerebral hemorrhage,336
+coma,336
+reoperation,336
+hematoma absorption,384
+discharged,960
+EF 50%,960
+no sequelae,960
+returned to work,960
+followed up 1 year,960
+no complications,960
+thrombocytopenia,0
+mechanical CPR device used,6
+ice cap for brain protection,6
+mild hypothermia,6
+rectal temperature 34-35 ℃,6
+hemodynamic stability,0
+PLT <50×109/L,144
+ECMO duration 9 days,0
+decompression surgery failed,216

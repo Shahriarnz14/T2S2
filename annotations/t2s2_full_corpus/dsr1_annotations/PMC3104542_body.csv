@@ -1,0 +1,42 @@
+event,time
+40-day-old male,0
+twin,0
+normal vaginal delivery,-960
+36 weeks gestation,-960
+referred for tricuspid valve mass management,0
+admitted to neonatal intensive care unit,-480
+neonatal seizures,-480
+necrotizing enterocolitis,-480
+negative blood cultures,-480
+anti-convulsants,-480
+intravenous antibiotics,-480
+piperacillin-tazobactam,-480
+amikacin,-480
+peripheral venous access,-480
+no invasive procedures,-480
+echocardiography to rule out structural heart disease,-480
+tricuspid mass,-480
+referred to current center,-480
+not febrile on admission,0
+deeply icteric,0
+no focal neurologic deficits,0
+no clinical heart failure,0
+normal cardiovascular exam,0
+cephalhematoma (3x2 cm),0
+CT brain: petechial hemorrhages,0
+no space-occupying lesions,0
+echocardiography: 11.1x6.4 mm vegetation,0
+tricuspid inflow gradient 5 mmHg,0
+four blood cultures collected,0
+blood cultures positive,24
+K. ohmeri identified,24
+amphotericin MIC <0.25 mcg/L,24
+fluconazole MIC 2 mcg/L,24
+voriconazole MIC <0.12 mcg/L,24
+flucytosine MIC <1 mcg/L,24
+started on amphotericin B (1 mg/day),24
+packed cell transfusion,24
+planned surgical removal,24
+hemodynamic compromise,48
+fungal septicemia,48
+death,48

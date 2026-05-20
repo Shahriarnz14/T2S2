@@ -1,0 +1,85 @@
+event,time
+1½ year old,0
+male,0
+admitted to the Pediatric Intensive Care Unit,0
+fever,-360
+loose motions,-360
+cough,-240
+cold,-240
+productive cough,0
+post-tussive vomiting,0
+breathlessness,0
+no history of ingestion of raw seafood,0
+measles,-4560
+incomplete immunization,0
+lethargy,0
+pale,0
+dusky,0
+shallow respiration,0
+pulse rate 130/minute,0
+bounding pulse,0
+blood pressure 100/65 mm Hg,0
+depressed anterior fontanel,0
+dry tongue,0
+pallor,0
+no icterus,0
+no edema,0
+no cyanosis,0
+no clubbing,0
+no lymphadenopathy,0
+no skin rashes,0
+altered sensorium,0
+generalized hypotonia,0
+sluggish reflexes,0
+flexed plantar,0
+lost skin turgor,0
+protein energy malnutrition,0
+diarrhea,0
+severe dehydration,0
+respiratory infection,0
+hemoglobin 11g%,0
+leukocytosis,0
+thrombocytopenia,0
+negative peripheral smear for malarial parasite,0
+normal liver function tests,0
+normal renal function tests,0
+negative Widal test,0
+no abnormality on chest X-ray,0
+blood culture sent,0
+stool culture sent,0
+greenish yellow liquid stool,0
+mucus in stool,0
+no blood in stool,0
+no parasitic elements in stool,0
+25–30 pus cells/high power field in stool,0
+no red blood cells in stool,0
+no ova in stool,0
+no cysts of parasites in stool,0
+no growth in blood culture,0
+no growth in stool culture,0
+IV fluids,0
+Inj. Cefotaxime,0
+Inj. Amikacin,0
+Inj. Calcium gluconate,0
+IV IgG,0
+Inj. Metronidazole added,96
+ventilator support,0
+ventilator removed,336
+total protein 5.1g%,504
+albumin 2.6g%,504
+hemoglobin 8.7g%,504
+leukocytosis persisted,504
+stool sample sent for Campylobacter,168
+no spiral bacillus on Gram stain,168
+V. vulnificus identified,168
+Klebsiella pneumoniae in ET secretions,504
+Acinetobacter species in ET secretions,504
+Inj. Imipenem started,504
+Inj. Ciprofloxacin started,504
+Inj. Promethazine every 6 hours,504
+nebulization with ipratropium bromide,504
+transferred to ward,672
+Inj. Amikacin for 13 days,672
+discharged,1296
+no complaints at discharge,1296
+stable condition at discharge,1296

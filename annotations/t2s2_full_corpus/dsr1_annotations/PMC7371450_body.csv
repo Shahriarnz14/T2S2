@@ -1,0 +1,65 @@
+event,time
+70 years old,0
+male,0
+admitted to the hospital,0
+symptoms first occurred,-96
+laboratory-confirmed diagnosis of COVID-19,0
+dyspnea,-96
+tachypnea,-96
+respiratory symptoms exacerbated,-72
+PaO2 68.2 mmHg,-72
+FiO2 0.4,-72
+transferred to ICU,0
+dyspnea worsened,0
+PaO2 60.5 mmHg,0
+FiO2 0.9,0
+high flow nasal cannula 40 L/min,0
+intubation,0
+ventilator,0
+extubated,192
+unable to breathe properly,216
+re-intubated,216
+weak respiratory muscle,216
+failed expectoration of respiratory secretion,216
+planned tracheostomy,240
+preoperative chest X-ray,240
+ET tube tip repositioning,240
+balloon below second tracheal ring,240
+thrombocytopenia,240
+septic shock,240
+platelet transfusion,240
+surgery performed,240
+surgical tracheostomy,240
+negatively pressured ICU room,240
+PPE (Level C PAPR),240
+sterile drape,240
+portable astral lamp,240
+no bipolar electrocoagulator,240
+sedatives,240
+neuromuscular blockers,240
+50-μg bolus fentanyl,240
+pre-oxygenation,240
+transverse incision,240
+lidocaine injection,240
+FiO2 lowered to 0.4,240
+balloon overinflated,240
+ET tube withdrawal,240
+transparent film dressing,240
+ventilator continued,240
+tracheostomy tube insertion,240
+tidal volume checked,240
+ET tube removed,240
+oxygen saturation ≥98%,240
+medical staff asymptomatic,336
+discharged,2520
+cuffless tracheostomy tube,2520
+no informed consent,0
+acute respiratory distress syndrome,240
+dyssynchrony to mechanical ventilation,240
+no droplet escape,240
+no ventilator pause,240
+no intraoperative bleeding,240
+no airway fire,240
+no balloon rupture,240
+no blood aspiration,240
+no aerosolization,240

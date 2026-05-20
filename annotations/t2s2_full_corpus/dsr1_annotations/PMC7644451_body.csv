@@ -1,0 +1,62 @@
+event,time
+61 years old,0
+male,0
+hypothyroidism,0
+respiratory failure,0
+tracheostomy collar,0
+type II diabetes mellitus requiring insulin,0
+perforated duodenal ulcer,-4380
+septic shock,-4380
+prolonged course on ventilator,-4380
+PEG placement,-4380
+discharged to nursing home,-4380
+levothyroxine,0
+insulin,0
+ipratropium-albuterol nebulizer,0
+morphine,0
+intralipid,0
+clinimix/dextrose amino acid infusion,0
+scopolamine patch,0
+pulse oximetry 86%,-24
+high fraction supplemental oxygen,-24
+saturation improved to 94%,-24
+three episodes of coffee-ground emesis,-24
+denied NSAID use,0
+denied cough,0
+denied fever,0
+denied hemoptysis,0
+denied hematemesis,0
+admitted to ED,0
+supplemental oxygen via trach collar,0
+saturation 96-100%,0
+frail appearance,0
+blood pressure 113/63 mmHg,0
+temperature 97.9 F,0
+pulse 110 beats/min,0
+respiratory rate 22 breaths/min,0
+diminished breath sounds,0
+inspiratory wheezing right lower base,0
+non-distended abdomen,0
+normal bowel sounds,0
+no stigmata of blood at PEG site,0
+elevated BUN 54 mg/dl,0
+creatinine 0.9 mg/dl,0
+hemoglobin 10.9 g/dl,0
+leukocytosis 29.4 ×10³/mm³,0
+bandemia 11%,0
+hypoalbuminemia 2.4 g/dl,0
+elevated ALT 61 u/L,0
+INR 1.1,0
+X-ray showing right lower lobe pneumonia,0
+intravenous hydration,0
+broad-spectrum IV antibiotics,0
+IV pantoprazole,0
+EGD showing severe esophagitis,24
+diffuse dark mucosal discoloration,24
+erosion,24
+profound ulceration entire esophagus,24
+acute esophageal necrosis (AEN) diagnosis,24
+resolution of GI bleeding,48
+hypoxia episode requiring ICU monitoring,48
+cardiac arrest,72
+death,72

@@ -1,0 +1,116 @@
+event,time
+3 years old,0
+female,0
+fever,0
+respiratory distress,0
+admitted to intensive care unit,0
+no known disease,0
+secondary parental consanguinity,0
+sibling died from fever 1 day after admission at 7 months,0
+cousin died due to unknown cause at 1.5 years,0
+upper respiratory tract infection,0
+ampicillin-sulbactam,0
+azithromycin,0
+COVID-19 PCR negative,0
+poor general status,0
+low consciousness level,0
+confused,0
+blood pressure 170/78 mmHg,0
+heart rate 110/min,0
+body temperature 39°C,0
+SpO2 88% on room air,0
+weight 13 kg,0
+height 104 cm,0
+crackles in both lungs,0
+left lung crackles more prominent,0
+normoactive deep tendon reflexes,0
+normal light reflex,0
+second COVID PCR positive,168
+hydroxychloroquine,168
+favipiravir,168
+respiratory distress increased,72
+"deep respiratory acidosis (pH 6.96, pCO2 91 mmHg, HCO3 22 mEq/l)",72
+intubated,72
+ventilated with SIMV-PC mode,72
+hemoglobin 6.5 g/dl,72
+"white blood cell count 16,160/mm3",72
+"platelet count 503,000/mm3",72
+blood urea nitrogen 44 mg/dl,72
+creatinine 0.8 mg/dl,72
+AST 65 U/l,72
+ALT 57 U/l,72
+total bilirubin 0.68 mg/dl,72
+sedimentation rate 60 mm/hour,72
+D-dimer 5820 µg/l,72
+thorax CT bilateral effusion and atelectasis,72
+persistent fever after 72 hours of antibiotics,72
+antibiotic therapy changed to teicoplanin and cefotaxime,72
+urine output decreased from day 4,96
+amlodipine started,96
+blood pressure 120/85 mmHg,96
+refractory hypertension,96
+enalapril started,96
+esmolol infusion started,96
+furosemide infusion,96
+albumin transfusion,96
+"peripheral blood smear: 64% polymorphonuclear leukocytes, 16% lymphocytes, 4% bands",96
+clustered platelets,96
+anisocytosis,96
+microcytosis,96
++1 hypochromia,96
+polychromatic young lymphocytes,96
+LDH 1162 U/l,96
+ferritin 1512 ml/ng,96
+D-Dimer 7840 ng/ml,96
+triglyceride 247,96
+bone marrow aspiration performed,96
+normocellular bone marrow,96
+no dyserythropoiesis,96
+no dysplasia,96
+no storage cells,96
+no hemophagocytosis,96
+renal Doppler ultrasound normal,96
+echocardiogram left ventricular hypertrophy,96
+mitral insufficiency,96
+azithromycin stopped on day 5,120
+cefotaxime changed to meropenem,120
+IVIG 1 g/kg on day 7,168
+repeated erythrocyte transfusions,168
+anuria on day 10,240
+progressive thrombocytopenia,240
+persistent microangiopathic hemolytic anemia,240
+creatinine 1.9 mg/dl,240
+undetectable haptoglobin,240
+reticulocytosis 8%,240
+LDH 2540 U/l,240
+direct Coombs negative,240
+schistocytes on peripheral smear,240
+HUS diagnosis confirmed,240
+ADAMTS-13 activity normal,240
+DIC ruled out by normal INR and PTT,240
+thrombotic microangiopathy (TMA) triggered by COVID-19,240
+aHUS type TMA,240
+fresh frozen plasma (FFP),240
+3 hemodialysis sessions,240
+extubated after 5 days plasmapheresis,264
+urine output 0.9 cc/kg/hour after 6 plasmapheresis,288
+LDH decreased,288
+blood pressure reduced,288
+platelet count rising,288
+hypertension recovering,288
+esmolol discontinued,288
+oral antihypertensive continued,288
+asymptomatic after 4 weeks,672
+hemodynamic parameters normalized,672
+Hg 11.6 g/dl,672
+"platelet 192,000/µl",672
+CRP 3 mg/l,672
+creatinine 0.6 mg/dl,672
+LDH 230 U/l,672
+D-Dimer 140 ng/ml,672
+discharged with oral antihypertensives,672
+antihypertensives discontinued at 6 weeks post-discharge,1176
+no genetic mutations in aHUS panel,1176
+control CT pleuroparenchymal shrinkages,1176
+ground glass densities in right middle lobe and both lower lobes,1176
+significant regression of thoracic findings,1176

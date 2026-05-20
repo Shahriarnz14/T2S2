@@ -1,0 +1,55 @@
+event,time
+76 years old,0
+male,0
+diabetes,0
+hypertension,0
+post-coronary artery bypass graft surgery,0
+implantable cardioverter-defibrillator (ICD) implantation 3 years previously,-26280
+secondary prevention of ventricular tachycardia (VT),-26280
+left ventricular ejection fraction of 30%,-26280
+computerized tomography (CT) coronary angiography 6 months earlier,-4320
+atypical chest pain,-4320
+patent grafts,-4320
+metoprolol XL (50 mg once daily),0
+telmisartan (40 mg once daily),0
+spironolactone (25 mg once daily),0
+no appropriate ICD-delivered shocks,0
+multiple ICD shocks in preceding 6 hours,-6
+fever,-120
+myalgia,-120
+SARS-CoV-2 positive,0
+stable vital signs,0
+oxygen saturation 97% on room air,0
+normal sinus rhythm,0
+no ST-T changes,0
+QTc interval 464 milliseconds,0
+echocardiogram showing global hypokinesia,0
+left ventricular ejection fraction 30%,0
+potassium 3.9 meq/L,0
+magnesium 2.0 meq/L,0
+C-reactive protein 64 mg/dL,0
+ferritin 655 mg/dL,0
+creatine kinase 78 mg/dL,0
+troponin T 55.3 pg/mL,0
+NT-proBNP 16328 pg/mL,0
+cardiac MRI not performed,0
+ICD interrogation showing monomorphic VTs (170-200 bpm),0
+ventricular ectopic,0
+anti-tachycardia pacing,0
+38 shocks of 35 J each,0
+amiodarone infusion started,0
+metoprolol dose increased,0
+VT storm controlled,24
+no recurrence of VT,24
+symptomatic treatment for COVID-19,0
+recovered in 10 days,240
+discharged on amiodarone (400 mg once daily),240
+metoprolol XL (100 mg twice daily),240
+telmisartan (40 mg once daily),240
+torsemide-spironolactone (10/25 mg once daily),240
+aspirin,240
+statins,240
+oral hypoglycemics,240
+clinical follow-up at 3 months,2160
+no episodes of VT,2160
+asymptomatic,2160

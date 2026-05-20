@@ -1,0 +1,28 @@
+Introduction
+Catabacter
+hongkongensis is a strictly anaerobic, catalase-positive, motile and nonsporulating Gram-positive coccobacillus [1]. It was first isolated in 2007 in Hong Kong and Canada in blood cultures from samples taken from patients with sepsis; it has since been identified in fewer than 15 patients worldwide [1], [2]. In Europe, the only report of C. hongkongensis in humans was published in 2007 in France [3], and its genome has been reported in water samples in Spain [4]. Five more C. hongkongensis infections were recently described in Hong Kong [5]. To our knowledge, this microorganism has never been described in Italy.
+
+Case Report
+A 55-year-old man without any previous comorbidity was admitted to the intensive care unit in Ravenna after a motorcycle accident, in which he experienced sternal and humeral lesions and D4 and D9 vertebral fractures. A hypertensive pneumothorax and a Glasgow Coma Score of 14/15 were also present, accompanied by intracapsular spleen haematoma with multiple fractures of the pelvis. Five days later, empirical therapy with ceftazidime and gentamicin was administered for 18 days. Four days after that, an abrupt onset of fever (temperature >38.5°C) accompanied by clinical features of septic shock appeared (with severe leucocytosis and low platelet count), and the patient was provided vasoactive amines with mechanical ventilation. No hemodialytic treatment was applied. A monolateral purulent pleural suffusion was also present on the right, as demonstrated by tomography, and thoracic drainage was applied, with copious purulent leakage.
+
+Two sets of blood samples were taken for culture via a central arterial catheter as a result of the poor condition of peripheral veins. After 82 hours of incubation (Virtuo system; bioMérieux, Marcy l’Étoile, France), one bottle (anaerobic) showed growth of pleomorphic Gram-positive microorganisms. Identification by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF), performed following standard and rapid procedures [6], failed several times because no spectra matched with the isolate. Identification was achieved by 16S rRNA PCR amplification and sequencing [7]. BLAST analysis (http://blast.ncbi.nlm.nih.gov) showed 100% identity with C. hongkongensis (strain HKU16, accession no. 115269.1). The metabolic profile was evaluated by API20A (bioMérieux), showing a similar pattern to already published data [2]. The antimicrobial susceptibility testing was performed by Etest and interpreted following European Committee on Antimicrobial Susceptibility Testing criteria (http://www.eucast.org/clinical_breakpoints/). This was hampered by the slow and difficult growth of the isolate, which took over 10 days. The AST results are summarized in Table 1. After 2 weeks, empirical treatment with vancomycin and meropenem was discontinued, and the patient recovered from sepsis.
+
+Discussion
+C. hongkongensis is an environmental microorganism that may occasionally be present in intestinal flora [3], [5]. Most of the reported cases of blood infection caused by this microorganism are connected with malignancies (either metastatic or involving peritoneal organs) and with acute intestinal and biliary tract inflammation. In our case, none of the above-reported favouring conditions was present before the accident, but the patient had extensive trauma involving the area of the lower diaphragm. Despite the wide capability of MALDI-TOF to identify anaerobic bacteria, it is noteworthy that this technique was unable to identify C. hongkongensis. We suggest that the use of sequencing be considered when anaerobic microorganisms that cannot be identified by routine technologies are isolated from patients with abdominal sepsis.
+
+Conflict of Interest
+None declared.
+
+Table 1 Antimicrobial susceptibility of Catabacter hongkongensis isolate
+
+Antimicrobial drug	MIC (mg/L)	MIC breakpoint (sensitive) (mg/L)	
+Benzylpenicillin	1.5	≤0.25	
+Amoxicillin	1.5	≤4	
+Amoxicillin–clavulanic acid	0.75	≤4	
+Piperacillin–tazobactam	0.125	≤8	
+Meropenem	0.125	≤2	
+Clindamycin	0.094	≤4	
+Vancomycin	0.75	≤2	
+Chloramphenicol	2	≤4	
+Metronidazole	≤0.16	≤4	
+MIC, minimum inhibitory concentration.

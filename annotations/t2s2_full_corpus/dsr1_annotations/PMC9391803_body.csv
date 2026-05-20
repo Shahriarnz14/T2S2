@@ -1,0 +1,88 @@
+event,time
+54 years old,0\
+male,0\
+chronic cough,0\
+squamous cell carcinoma in left lower lobe,0\
+cT1aN0M0 grade,0\
+ostium secundum atrial septal defect,0\
+gastroesophageal reflux disease,0\
+left lower sleeve lobectomy,0\
+general anesthesia,0\
+left radial arterial pressure monitoring,0\
+central venous pressure monitoring,0\
+video-assisted thoracoscopy,0\
+left lower lobar pulmonary artery division mobilized and stapled,0\
+inferior pulmonary vein division mobilized and stapled,0\
+calcified nodules,0\
+converted to open thoracotomy,0\
+seventh subcarinal lymph node dissected en bloc,0\
+lower left pulmonary lobe removed,0\
+extubated,0\
+arrival in PACU,0\
+conscious,0\
+spontaneous respiration,0\
+SpO2 90%,0\
+blood pressure 136/107 mmHg,0\
+blood pressure drop to 65/49 mmHg,5\
+dyspneic,5\
+dopamine infusion 5 μg.kg−1.min−1,5\
+rapid fluid infusion,5\
+thoracic surgeons notified,5\
+blood pressure decreased to 48/37 mmHg,10\
+leg elevated,10\
+electrocardiogram showed slight inferolateral ST depression,10\
+jugular vein engorgement detected,10\
+blood pressure increased to 92/71 mmHg,10\
+phenylephrine injection,10\
+dopamine infusion increased to 7 μg.kg−1.min−1,10\
+SpO2 decreased to 85%,30\
+continuous positive airway pressure 10 cm H2O,30\
+SpO2 increased to 93%,30\
+blood pressure dropped to 63/51 mmHg,105\
+refractory to high-dose epinephrine,105\
+intravascular fluid bolus,105\
+dyspnea worsening,120\
+tachypnea worsening,120\
+intubated,120\
+chest X-ray haziness in left lung field,120\
+enlarged heart with straightened left cardiac border,120\
+leg returned to horizontal position,120\
+jugular vein distended,120\
+suspected cardiac origin of hypotension,155\
+suspected obstructive origin of hypotension,155\
+transesophageal echocardiogram performed,155\
+moderate pericardial effusion detected,155\
+pericardiocentesis attempted,180\
+pericardial drainage insufficient,180\
+emergency pericardial window operation,180\
+suctioned 600 mL sanguineous pericardial fluid,180\
+hemodynamics improved,180\
+blood pressure 120/70 mmHg,180\
+SpO2 100%,180\
+no origin of pericardial effusion found,180\
+recovered well,0\
+outpatient chest X-rays clear during follow-up,0\
+cardiac tamponade,155\
+hypotension,5\
+jugular venous distension,10\
+low voltage QRS complexes,10\
+muffled heart sounds,0\
+pulsus paradoxus,0\
+ST segment changes,10\
+no shortness of breath,0\
+denies chest pain,0\
+refractory hypotension,105\
+tension pneumothorax,0\
+pulmonary embolus,0\
+sepsis,0\
+bleeding,0\
+cardiac pump failure,0\
+distributive shock,0\
+hypovolemic shock,0\
+pericardial effusion,155\
+inadvertent pericardial injury,0\
+suspected pulmonary vessel bleeding,0\
+pericardial needle stick,0\
+hemodynamic stability period,0\
+postoperative arterial blood gas analysis omitted,0\
+CVP monitoring omitted,0

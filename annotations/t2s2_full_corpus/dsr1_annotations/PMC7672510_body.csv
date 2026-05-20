@@ -1,0 +1,84 @@
+event,time
+32 years old,0
+male,0
+presented to the emergency department,-48
+fever,-48
+cough,-48
+shortness of breath,-48
+diarrhea,-72
+denied diarrhea,0
+denied chest pain,0
+denied abdominal pain,0
+denied nausea,0
+denied vomiting,0
+exposure to father with similar symptoms,-72
+admitted to the hospital,0
+physical exam unremarkable,0
+regular heart rate,0
+no murmurs,0
+no rubs,0
+no gallops,0
+no jugular venous distension,0
+lungs clear to auscultation bilaterally,0
+ecchymosis from cupping marks on back,0
+normotensive,0
+no tachycardia,0
+respiratory rate 18,0
+SpO2 95% on room air,0
+hyperglycemia (282 mg/dL),0
+hemoglobin A1c 14%,0
+elevated LDH (792 U/L),0
+elevated CRP (126.61 mg/L),0
+mild acidemia,0
+normal sinus rhythm on ECG,0
+chest X-ray with peripheral patchy opacities,0
+started IV ceftriaxone,0
+started IV azithromycin,0
+started IV hydroxychloroquine,0
+started oral zinc,0
+SARS-CoV-2 RNA test sent,0
+influenza A/B antigen nasal swab sent,0
+desaturation to 79% SpO2,0
+required 6 L/min oxygen,0
+switched to HFNC,0
+IV linezolid added,0
+insulin regimen started,0
+SARS-CoV-2 RNA positive,24
+influenza A positive,24
+oseltamivir added,24
+chest CT showing bilateral ground-glass opacities,24
+continuous fever spikes,0
+developed tachypnea,96
+increased FiO2 requirement,96
+worsening PaO2/FiO2 ratio,96
+SpO2 87% on 100% FiO2,96
+respiratory rate 28-32,96
+repeat chest X-ray worsening opacities,96
+elevated ferritin (884 ng/mL),96
+elevated LDH (870 U/L),96
+normal pH,96
+normocarbia,96
+hypoxia,96
+elevated bicarbonate,96
+ARDS secondary to sepsis,96
+intubated,96
+mechanical ventilation,96
+upgraded to ICU,96
+IV tocilizumab,96
+acute kidney injury,96
+anuric,96
+hemodialysis started,96
+linezolid discontinued,96
+IV meropenem started,96
+lopinavir/ritonavir started,96
+self-extubated,96
+transitioned to BIPAP,96
+transitioned to HFNC,96
+downgraded from ICU,96
+found hypoxic on floor,96
+repeat chest X-ray worsening,96
+BIPAP placed again,96
+respiratory distress,96
+re-intubated,96
+ICU readmission,96
+died,144

@@ -1,0 +1,102 @@
+event,time
+74 years old,0\
+male,0\
+hypertension,0\
+insulin-dependent diabetes mellitus type 2,0\
+diabetic retinopathy,0\
+referred to surgery department,0\
+8-kg weight loss,0\
+iron deficiency anemia,0\
+computed tomography,0\
+magnetic resonance imaging,0\
+tumor in colon ascendens,0\
+3 liver metastases,0\
+right hemicolectomy,0\
+low-grade pT3cN0 adenocarcinoma,0\
+absence of metastases in 24 excised lymph nodes,0\
+lymphovascular growth,0\
+no vascular growth,0\
+no perineural growth,0\
+activated BRAF mutation in exon 15 (V600E),0\
+loss of expression of MLH1 and PMS2,0\
+mismatch repair-deficient (MMR-D)/microsatellite-instable (MSI) tumor,0\
+initiated therapy with pembrolizumab,0\
+first infusion of pembrolizumab,0\
+symptoms of a cold,168\
+leukocytosis,168\
+white blood cell count 13.49 × 109/L,168\
+slight increase in C-reactive protein (24 mg/L),168\
+cold present,528\
+dry coughing,528\
+no fever,528\
+increase in AST and ALT (>3× ULN),528\
+ICI-induced hepatitis grade 2,528\
+initiated prednisolone therapy (50 mg once daily),528\
+decrease in C-reactive protein,528\
+decrease in AST,528\
+increased white blood cells,528\
+increased neutrophils,528\
+second dose of pembrolizumab not given,528\
+acutely hospitalized due to dyspnea,672\
+myocardial infarction suspected,672\
+elevation of troponin T (482 ng/L),672\
+echocardiography showed septal hypokinesia,672\
+no dynamic change in troponin T,672\
+developed somnolence,672\
+difficulty walking,672\
+developed dysarthria,696\
+developed hoarseness,696\
+pain in neck,696\
+pain in right leg,696\
+difficulty raising right leg,696\
+prednisolone increased to 80 mg once daily,696\
+computed tomography showed no stroke,696\
+increased creatine kinase,696\
+"increased myoglobin (1,276 μg/L)",696\
+suspected ICI-induced myositis,696\
+gradual decrease in creatinine levels,696\
+antibodies against acetylcholine receptor (2.6 nmol/L),696\
+antibodies against titin,696\
+albumin present in cerebrospinal fluid (516 mg/L),696\
+unable to sit up,816\
+pain in neck,816\
+pain in shoulders,816\
+severe dysarthria,816\
+dysphagia,816\
+could not attain saturation without oxygen,816\
+absent reflexes in biceps,816\
+absent reflexes in brachioradialis,816\
+absent reflexes in triceps,816\
+absent reflexes in patellar tendons,816\
+absent reflexes in Achilles tendons,816\
+transferred to intensive care unit,816\
+intubated,840\
+methylprednisolone (1 g/kg) for 3 days,840\
+intravenous immunoglobulins,840\
+infliximab (5 mg/kg),888\
+felt better,888\
+better muscle strength in hands,888\
+developed carbon dioxide retention,936\
+needed noninvasive ventilation,936\
+developed sinus bradycardia,936\
+died,936\
+autopsy showed significant stenosis of right coronary artery,936\
+no fibrosis,936\
+no signs of recent myocardial infarction,936\
+softened tongue,936\
+no surgical complication after hemicolectomy,936\
+50 × 60 mm metastasis in right liver lobe,936\
+3–4 up to 5-mm metastases in right liver lobe,936\
+inflammatory infiltration in intercostal musculature,936\
+inflammatory infiltration in diaphragm,936\
+inflammatory infiltration in cervical musculature,936\
+inflammatory infiltration in tongue,936\
+fibrosis in heart,936\
+inflammatory infiltrate in heart,936\
+hepatocellular cancer (HCC) positive for hepatocytes,936\
+HCC negative for glypican,936\
+HCC negative for CDX2,936\
+HCC negative for CK20,936\
+HCC negative for CK7,936\
+fibrosis stage 2–3 in porta field,936\
+cause of death: respiratory insufficiency due to polymyositis,936

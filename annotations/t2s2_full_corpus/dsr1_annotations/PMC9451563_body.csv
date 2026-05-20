@@ -1,0 +1,83 @@
+event,time
+55 years old,0
+male,0
+admitted to the hospital,0
+dyspnea,-672
+dry cough,-672
+joint pain,-672
+"joint pain (diffuse, bilateral in fingers, hands, wrists, elbows, shoulders, hips, knees, ankles)",-672
+ibuprofen,-336
+oxycodone-acetaminophen,-336
+methylprednisolone,-336
+dyspnea (worsened with exertion),-168
+dry cough (persistent),-168
+unintentional weight loss (15 lb),-168
+denied fever,-168
+denied headache,-168
+denied sore throat,-168
+denied chest pain,-168
+denied hemoptysis,-168
+denied gastrointestinal symptoms,-168
+denied calf swelling or pain,-168
+former smoker (20 pack-years),0
+third dose Moderna SARS-CoV-2 vaccine,-672
+blood pressure 98/63 mmHg,0
+heart rate 93 beats/min,0
+respirations 18/min,0
+temperature 36.8 °C,0
+oxygen saturation 93% on room air,0
+oxygen 2 L via nasal cannula (saturation 98%),0
+bibasilar rales,0
+"tenderness with swelling in fingers, hands, wrists, elbows, shoulders, hips, knees, ankles",0
+erythematous papules on dorsum of left hand,0
+"erythematous macules on fingers of left hand, left elbow, left knee",0
+no muscle tenderness,0
+"elevated D-dimer (1,702 ng/mL)",0
+elevated aspartate aminotransferase (86 U/L),0
+elevated alanine aminotransferase (65 U/L),0
+elevated C-reactive protein (3.70 mg/dL),0
+elevated erythrocyte sedimentation rate (52 mm/h),0
+normal creatine kinase (200 IU/L),0
+chest X-ray (patchy atelectatic changes at bilateral lung bases),0
+"CT pulmonary angiogram (no pulmonary embolism, interstitial markings)",0
+treated with azithromycin 500 mg daily,72
+treated with ceftriaxone 1 g daily,72
+fluticasone-vilanterol inhaler,72
+tiotropium bromide,72
+prednisone 60 mg daily,72
+discharged,96
+oral cefuroxime 500 mg twice daily,96
+prednisone 40 mg daily,96
+follow-up rheumatology,168
+diagnosed with CADM with ILD (anti-MDA5 72 SI),168
+"started mycophenolate mofetil 1,000 mg twice daily",168
+prednisone 60 mg daily,168
+follow-up pulmonology,168
+6-min walk test (normal),168
+pulmonary function test (mild asthma),168
+diagnosed with asthma,168
+diagnosed with mild ILD,168
+fluticasone-salmeterol,168
+tiotropium bromide,168
+repeat chest X-ray planned (4-6 weeks),168
+new cough,840
+foamy sputum production,840
+outpatient bronchoscopy with BAL and transbronchial biopsy,840
+fever 40.3 °C,840
+readmitted,840
+started vancomycin 1.25 g every 12 h,840
+piperacillin-tazobactam 3.375 g every 8 h,840
+sulfamethoxazole/trimethoprim 800 mg/160 mg every 8 h,840
+methylprednisone 40 mg every 12 h,840
+"high resolution CT chest (traction bronchiectasis, worsening infiltrates)",840
+Pneumocystis jirovecii (BAL positive),840
+diagnosed with Pneumocystis pneumonia,840
+transferred to ICU,840
+trimethoprim-sulfamethoxazole intravenous,840
+plasma exchange therapy,840
+hypoxia (oxygen saturation 82-95%),840
+intubated,840
+pneumothorax,840
+pneumomediastinum,840
+PEA arrest,840
+deceased,840

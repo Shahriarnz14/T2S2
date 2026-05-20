@@ -1,0 +1,83 @@
+event,time
+71 years old,0
+female,0
+admitted to the hospital,0
+unconscious state,0
+history of hypertension,-720
+history of ischaemic heart disease,-720
+history of peripheral vascular disease,-720
+stroke,0
+head computed tomographic scan,0
+condition deteriorated rapidly,48
+inotropic support,48
+septic shock,48
+elevated levels of inflammatory markers,48
+erythrocyte sedimentation rate,48
+C-reactive protein,48
+blood culture,48
+yeast in blood culture,48
+caspofungin administered,48
+died,72
+Lodderomyces elongisporus identified,72
+VITEK 2 yeast identification system,72
+CHROMagar Candida,72
+acetate ascospore agar,72
+internally transcribed spacer region of ribosomal DNA sequenced,72
+antifungal susceptibility determined,72
+Etest,72
+RPMI 1640 medium,72
+glucose,72
+amphotericin B,72
+fluconazole,72
+voriconazole,72
+posaconazole,72
+itraconazole,72
+flucytosine,72
+caspofungin,72
+micafungin,72
+no apparent risk factors,0
+no antibiotics,0
+no central lines,0
+hospitalized earlier for lower limb ischaemia,-336
+discharged 2 weeks before,-336
+possibility of inoculation of the yeast from the skin,0
+possibility of translocation from the gastrointestinal tract,0
+Lodderomyces elongisporus is a recognized bloodstream pathogen,0
+little is known about its virulence attributes,0
+little is known about its environmental niche,0
+global prevalence,0
+isolated from patients in distant geographic regions,0
+four patients died,0
+six patients were treated with antifungal drugs,0
+use of echinocandins,48
+caspofungin,48
+micafungin,48
+antifungal susceptibility of L. elongisporus is scanty,0
+no susceptibility breakpoints are available,0
+in vitro MIC values for antifungal drugs,72
+within the susceptible range,72
+echinocandins have lower in vitro activity,0
+against C. parapsilosis complex members,0
+Infectious Disease Society of America guidelines,0
+favour therapeutic use of echinocandins,0
+for the treatment of candidaemia caused by C. parapsilosis,0
+uncommon yeast pathogens are often misidentified,0
+due to limitations of commercial yeast identification systems,0
+VITEK 2,0
+"does not distinguish C. parapsilosis, C. orthopsilosis, C. metapsilosis and L. elongisporus",0
+multiplex PCR assay,0
+"simultaneously detected C. parapsilosis, C. orthopsilosis, C. metapsilosis and L. elongisporus",0
+matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0
+used for the identification of L. elongisporus,0
+rare yeast species often exhibit reduced susceptibility,0
+to one or more commonly used antifungal agents,0
+prolonged survival of seriously ill patients,0
+administration of multiple broad-spectrum antibiotics,0
+dependence on life support systems,0
+extended use of intravascular catheters,0
+selection pressure created by prophylactic and therapeutic use of antifungal agents,0
+resulting in increased colonization and invasive infection,0
+delay in accurate identification,0
+lack of experience in the management of rare yeast infections,0
+diagnostic and therapeutic challenges,0
+consequently higher mortality rates,0

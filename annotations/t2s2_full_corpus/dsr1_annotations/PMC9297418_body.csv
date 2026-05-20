@@ -1,0 +1,62 @@
+event,time
+72-year-old,0
+female,0
+presented two enteroatmospheric fistulas (EAFs) on abdomen,0
+bulging mass on low abdomen,-1200
+ventral hernia repair,-1200
+severe abdominal pain,-1152
+septic shock,-1152
+exploratory laparotomy,-1152
+extensive intestinal adhesions,-1152
+severe intraperitoneal contamination,-1152
+hemodynamically unstable,-1152
+mesh removal,-1152
+blunt dissection,-1152
+placement of three open drain systems,-1152
+systemic infection resolved,-1104
+developed two EAFs,-1104
+well-controlled hypertension,0
+well-controlled diabetes,0
+no symptoms or signs of intestinal obstruction,0
+no abnormalities on laboratory examinations,0
+abdominal computed tomography showed EAF,0
+postoperative EAF,0
+fasting with parenteral nutrition,0
+electrolyte repletion,0
+antacids,0
+octreotide,0
+frequent surgical wound dressing,0
+protection of surrounding tissue from enteric effluent,0
+daily EAF output exceeded 1000 mL,0
+severe contamination by enteric effluent,0
+vacuum-assisted closure (VAC) dressings,0
+enteral nutrition (EN) initiation impossible,0
+opened surgical wound,0
+inserted rubber drains into intestinal lumens,0
+fistula output decreased to <500 mL/d,24
+fistula output returned to >1000 mL/d with EN,48
+endoscopic stent insertion attempted,72
+stent expulsion due to sharp angles,72
+implanted two vascular grafts on POD 32,768
+anastomoses between intestinal openings and vascular grafts,768
+no fistula output observed post-operation,768
+elemental EN began on POD 5,120
+anastomosis leakage,144
+output remained <300 mL/d,144
+VAC dressing applied,384
+discharged on POD 16 after graft implantation,384
+VAC dressing management at outpatient department,384
+underwent EAF resection two months after discharge,2400
+involved distal jejunum and sigmoid colon,2400
+sepsis,0
+multiorgan dysfunction syndrome,0
+hemorrhage,0
+active lavage and drainage,0
+catheter-related complications,0
+hepatic dysfunction,0
+nutritional imbalance,0
+emotional problems,0
+infection control,0
+management of enteric effluent,0
+high-output EAF unresponsive to conventional treatments,0
+anastomosed vascular grafts showed acceptable patency,768

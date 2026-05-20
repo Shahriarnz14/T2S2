@@ -1,0 +1,95 @@
+event,time
+36 years old,0
+female,0
+presented to emergency room,0
+gestational age 34 weeks,0
+worsening dyspnea,0
+severe vomiting,-48
+poor oral intake,-48
+bronchial asthma diagnosed at age 15,-6720
+two episodes of near-fatal asthma,-6720
+discontinued asthma medication during pregnancy,-6048
+increased asthma attack frequency,-168
+frequent use of rescue medication,-168
+denied smoking,0
+denied alcohol consumption,0
+denied illicit drug usage,0
+normal glucose tolerance testing,0
+clear consciousness,0
+agitated appearance,0
+tachypnea,0
+inspiratory wheezing,0
+expiratory wheezing,0
+Kussmaul breathing,0
+pulse 138 beats/min,0
+respiratory rate 25 breaths/min,0
+blood pressure 126/78 mmHg,0
+temperature 37°C,0
+arterial blood gas: mixed respiratory alkalosis,0
+arterial blood gas: metabolic acidosis,0
+no hypoxia,0
+supplemental oxygen administered,0
+high-dose short-acting beta-agonist,0
+ipratropium via nebulizer,0
+intravenous steroids,0
+condition deteriorated,0
+high respiratory rate,0
+accessory muscle use,0
+intubated,2
+postintubation ventilator settings: pressure-control mode,2
+pressure level 18 cm H2O,2
+respiratory rate 15 breaths/min,2
+PEEP 5 cm H2O,2
+FiO2 80%,2
+Ti 1 s,2
+hydrated with 0.9% saline 100 mL/h,2
+fetal viability monitored via cardiotocography,0
+elevated C-reactive protein (2.61 mg/L),0
+leukocytosis (15.85×10^9/L),0
+normal renal function,0
+normal liver function,0
+normal creatinine kinase,0
+random capillary blood glucose 152 mg/dL,0
+normal glycosylated hemoglobin (4.8%),0
+urinalysis: 2+ acetone,0
+no glycosuria,0
+no proteinuria,0
+admitted to ICU,10
+ventilator adjusted to pressure-support mode,10
+pressure level 16 cm H2O,10
+PEEP 8 cm H2O,10
+FiO2 50%,10
+inhaled short-acting beta-agonist continued,10
+inhaled corticosteroid (budesonide),10
+intravenous magnesium sulfate,10
+breathlessness reported,10
+deep and labored breathing,10
+dynamic hyperinflation,10
+intrinsic end-expiratory pressure,10
+tidal volume adjusted to 6-8 mL/kg,10
+sedated with propofol,10
+intermittent high tidal volume (800-1000 mL),10
+high minute ventilation (10-12 L/min),10
+partial sedation,10
+chest radiography: subcutaneous emphysema,10
+suspected pneumomediastinum,10
+decreased bicarbonate levels,29
+increased anion gap,29
+serum ketone levels 3.7 mmol/L,29
+pH 7.216,29
+bicarbonate 11.6 mmol/L,29
+diagnosed with starvation ketoacidosis,29
+hydrated with D5NS 125 mL/h,29
+beta-agonist effects on ketoacidosis,29
+corticosteroid effects on ketoacidosis,29
+emergency caesarean section performed,29
+betamethasone administered,29
+delivered 2.3 kg girl,29
+umbilical cord arterial pH 7.143,29
+Apgar score 9,29
+grade II respiratory distress syndrome,29
+extubated 20 hours post-delivery,49
+panendoscopy: superficial gastritis,49
+discharged safely,49
+acidosis reversal,49
+favorable outcome,49

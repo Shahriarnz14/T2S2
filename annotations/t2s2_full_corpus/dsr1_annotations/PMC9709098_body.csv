@@ -1,0 +1,88 @@
+event,time
+54 years old,0
+female,0
+admitted to emergency department,0
+urinary symptoms,0
+nausea,0
+diffuse abdominal pain,0
+type 2 diabetes mellitus,-78840
+basal insulin,-78840
+home-based capillary blood glucose monitoring,-78840
+denied follow-up appointments,-78840
+denied prior hospitalizations,-78840
+recurrent UTI,-2928
+fatigue,-72
+increased urinary frequency,-72
+urgency,-72
+acute urinary retention,-72
+Foley catheter placement,-72
+fevers,-48
+vomiting,-48
+blood pressure 58/36 mmHg,0
+pulse 77 beats per minute,0
+respiration rate 26 breaths per minute,0
+body temperature 36 °C,0
+oxygen saturation 92%,0
+capillary blood glucose 337 mg/dL,0
+altered mental status,0
+Glasgow Coma Scale 12,0
+capillary refill 3 s,0
+normal lung examination,0
+abdomen without signs of peritoneal irritation,0
+vesical globus,0
+bilateral costovertebral angle tenderness,0
+Foley catheter,0
+hematuria,0
+IV fluids,0
+vasopressor agents,0
+third-generation cephalosporins,0
+leukocytes 35.7 × 103/uL,0
+total neutrophils 33.4 × 103/uL,0
+hemoglobin 11.7 g/dl,0
+platelets 138 × 103/uL,0
+fibrinogen 981 mg/dL,0
+creatinine 4.3 mg/dL,0
+glucose 334 mg/dL,0
+urea 132 mg/dL,0
+corrected sodium 136 mEq/L,0
+potassium 5 mEq/L,0
+chloride 94 mEq/L,0
+serum osmolality 282 mOsm/L,0
+venous blood gases pH 7.31,0
+PCO2 25 mmHg,0
+PO2 37 mmHg,0
+HCO3 12.37 mmol/L,0
+base excess −13.7 mmol/L,0
+urinalysis positive leukocyte esterase,0
+negative nitrite test,0
+500 leukocytes per HPF,0
+presence of ketones,0
+urine culture positive ESBL-producing E. coli,0
+meropenem-sensitive,0
+levofloxacin-resistant,0
+non-contrast abdominal CT scan,0
+loss of renal anatomy,0
+gas in perirenal space,0
+gas extending to ureters and bladder,0
+pneumoperitoneum,0
+septic shock,0
+grade IV emphysematous pyelonephritis,0
+mild diabetic ketoacidosis,0
+stage 3 acute kidney injury,0
+hospitalized,0
+carbapenem antibiotics,0
+fluid resuscitation,0
+IV insulin,0
+joint management with Urology,0
+proposed total bilateral nephrectomy,0
+surgery,24
+appendix removed,24
+kidneys with necrosis >90%,24
+parenchymal abscesses,24
+renal vein septic thrombi,24
+renal arteries septic thrombi,24
+acute appendicitis,24
+admitted to ICU,24
+continuous veno-venous hemofiltration,24
+progressed poorly,192
+death,264
