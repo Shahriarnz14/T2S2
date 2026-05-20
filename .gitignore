@@ -1,0 +1,56 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/config secrets
+.env
+.env.*
+!.env.example
+
+# Generated data and reports
+*.csv
+*.tsv
+*.bsv
+*.bsv.gz
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.svg
+
+# Generated archives/logs
+*.zip
+*.tar
+*.tar.gz
+*.log
+
+# Local outputs
+results/
