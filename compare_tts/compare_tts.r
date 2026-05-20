@@ -4,16 +4,44 @@ library(survival)
 library(jsonlite)
 
 ### Helper functions ###
-script_dir = tryCatch(
-  dirname(normalizePath(sys.frame(1)$ofile)),
-  error = function(e) "/mnt/c/Research/t2s2/compare_tts/"
-)
+get_script_dir <- function() {
+  file_arg <- grep("^--file=", commandArgs(FALSE), value = TRUE)
+  if (length(file_arg) > 0) {
+    return(dirname(normalizePath(sub("^--file=", "", file_arg[[1]]), mustWork = FALSE)))
+  }
+
+  tryCatch(
+    dirname(normalizePath(sys.frame(1)$ofile, mustWork = FALSE)),
+    error = function(e) normalizePath(getwd(), mustWork = FALSE)
+  )
+}
+
+script_dir <- get_script_dir()
+repo_root <- normalizePath(file.path(script_dir, ".."), mustWork = FALSE)
+
+is_absolute_path <- function(path) {
+  grepl("^(/|~|[A-Za-z]:[/\\\\])", path)
+}
+
+resolve_path <- function(path, base_dir = repo_root) {
+  if (is.null(path) || is.na(path) || path == "") return(path)
+  expanded <- path.expand(path)
+  if (is_absolute_path(expanded)) {
+    return(normalizePath(expanded, mustWork = FALSE))
+  }
+  normalizePath(file.path(base_dir, expanded), mustWork = FALSE)
+}
+
+resolve_paths <- function(paths, base_dir = repo_root) {
+  if (is.null(paths)) return(paths)
+  vapply(paths, resolve_path, character(1), base_dir = base_dir, USE.NAMES = FALSE)
+}
 
 `%||%` <- function(x, y) if (is.null(x)) y else x
 
 get_file_paths <- function(loc, suffix=".*", dir.append=T) {
     tibble(files = list.files(loc)) %>%
-    mutate(paths = ifelse(rep(dir.append,nrow(.)), paste0(loc,files), files)) %>%
+    mutate(paths = ifelse(rep(dir.append,nrow(.)), file.path(loc, files), files)) %>%
     filter(str_detect(paths, paste0(suffix, "$"))) %>%
     .[["paths"]]
 }
@@ -94,6 +122,12 @@ read_config <- function(config_path) {
   }
   
   config <- fromJSON(config_path)
+
+  config$man_loc <- resolve_path(config$man_loc)
+  config$ref_locs <- resolve_paths(config$ref_locs)
+  if (!is.null(config$event_match_files) && length(config$event_match_files) > 0) {
+    config$event_match_files <- resolve_paths(config$event_match_files)
+  }
   
   # Set defaults if not specified
   if (is.null(config$out)) {
@@ -103,6 +137,8 @@ read_config <- function(config_path) {
       event_out_locs = tempdir()
     )
   }
+  config$out$folder <- resolve_path(config$out$folder)
+  config$out$event_out_locs <- resolve_path(config$out$event_out_locs)
   
   if (is.null(config$distance)) {
     config$distance <- list(
@@ -809,7 +845,7 @@ compare_tts <- function(config_path) {
     max()
   
   # Create output directory if it doesn't exist
-  if(!dir.exists(paste0(config$out$folder, config$out$relfolder))) { 
+  if(!dir.exists(file.path(config$out$folder, config$out$relfolder))) {
     dir.create(config$out$folder, recursive = TRUE, showWarnings = FALSE)
     dir.create(file.path(config$out$folder, config$out$relfolder),
               recursive = TRUE, showWarnings = FALSE)
@@ -819,7 +855,7 @@ compare_tts <- function(config_path) {
   dir.create(config$out$folder, recursive = TRUE, showWarnings = FALSE)
 
   # Save plots to PDF
-  pdf(paste0(config$out$folder,"figures.pdf"), width=3.2, height=6)
+  pdf(file.path(config$out$folder, "figures.pdf"), width=3.2, height=6)
   
   print(plot_event_match(match.tbl, config$distance$threshold, max.error.rate))
   # print(plot_concordance(concordance_results))

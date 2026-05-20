@@ -1,10 +1,10 @@
 {
-  "man_loc": "/mnt/c/Research/t2s2/annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run1/",
+  "man_loc": "annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run1/",
   "ref_locs": [
-    "/mnt/c/Research/t2s2/annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run2/",
-    "/mnt/c/Research/t2s2/annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run3/",
-    "/mnt/c/Research/t2s2/annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run4/",
-    "/mnt/c/Research/t2s2/annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run5/"
+    "annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run2/",
+    "annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run3/",
+    "annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run4/",
+    "annotations/other_experiments/multi-runs-random-seeds/multi-runs/gpt5_tts/run5/"
   ],
   "pilot_names": [
     "GPT5_run2",
@@ -18,8 +18,8 @@
   "use_lap": false,
   "out": {
     "relfolder": "matches",
-    "folder": "/mnt/c/Research/t2s2/results/other_experiments/compare_outputs_sepsis10_multirun_gpt5_greedy/",
-    "event_out_locs": "/mnt/c/Research/t2s2/results/other_experiments/compare_outputs_sepsis10_multirun_gpt5_greedy/event_outputs/"
+    "folder": "results/other_experiments/compare_outputs_sepsis10_multirun_gpt5_greedy/",
+    "event_out_locs": "results/other_experiments/compare_outputs_sepsis10_multirun_gpt5_greedy/event_outputs/"
   },
   "distance": {
     "method": "embedding_cosine",

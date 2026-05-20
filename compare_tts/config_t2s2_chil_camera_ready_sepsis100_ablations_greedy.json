@@ -1,12 +1,12 @@
 {
-  "man_loc": "/mnt/c/Research/t2s2/annotations/sepsis-100/sepsis-100_gpt5_tts/",
+  "man_loc": "annotations/sepsis-100/sepsis-100_gpt5_tts/",
   "ref_locs": [
-    "/mnt/c/Research/t2s2/annotations/sepsis-100_ablations/sepsis-100_l3370b_tts/",
-    "/mnt/c/Research/t2s2/annotations/sepsis-100_ablations/sepsis-100_l3370b_0shot_tts/",
-    "/mnt/c/Research/t2s2/annotations/sepsis-100_ablations/sepsis-100_l3370b_interval_tts/",
-    "/mnt/c/Research/t2s2/annotations/sepsis-100_ablations/sepsis-100_l3370b_intervaltype_tts/",
-    "/mnt/c/Research/t2s2/annotations/sepsis-100_ablations/sepsis-100_l3370b_noconjinst_tts/",
-    "/mnt/c/Research/t2s2/annotations/sepsis-100_ablations/sepsis-100_l3370b_norole_tts/"
+    "annotations/sepsis-100_ablations/sepsis-100_l3370b_tts/",
+    "annotations/sepsis-100_ablations/sepsis-100_l3370b_0shot_tts/",
+    "annotations/sepsis-100_ablations/sepsis-100_l3370b_interval_tts/",
+    "annotations/sepsis-100_ablations/sepsis-100_l3370b_intervaltype_tts/",
+    "annotations/sepsis-100_ablations/sepsis-100_l3370b_noconjinst_tts/",
+    "annotations/sepsis-100_ablations/sepsis-100_l3370b_norole_tts/"
   ],
   "pilot_names": [
     "L3.3 70B",
@@ -22,8 +22,8 @@
   "use_lap": false,
   "out": {
     "relfolder": "matches",
-    "folder": "/mnt/c/Research/t2s2/results/compare_outputs_sepsis100_ablations_greedy/",
-    "event_out_locs": "/mnt/c/Research/t2s2/results/compare_outputs_sepsis100_ablations_greedy/event_outputs/"
+    "folder": "results/compare_outputs_sepsis100_ablations_greedy/",
+    "event_out_locs": "results/compare_outputs_sepsis100_ablations_greedy/event_outputs/"
   },
   "distance": {
     "method": "embedding_cosine",

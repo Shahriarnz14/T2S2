@@ -1,7 +1,7 @@
 {
-  "man_loc": "/mnt/c/Research/t2s2/annotations/t2s2_full_corpus/l33_70b_annotations/",
+  "man_loc": "annotations/t2s2_full_corpus/l33_70b_annotations/",
   "ref_locs": [
-    "/mnt/c/Research/t2s2/annotations/t2s2_full_corpus/dsr1_annotations/"
+    "annotations/t2s2_full_corpus/dsr1_annotations/"
   ],
   "pilot_names": [
     "DSR1"
@@ -12,8 +12,8 @@
   "use_lap": false,
   "out": {
     "relfolder": "matches",
-    "folder": "/mnt/c/Research/t2s2/results/other_experiments/compare_outputs_t2s2_l33_greedy/",
-    "event_out_locs": "/mnt/c/Research/t2s2/results/other_experiments/compare_outputs_t2s2_l33_greedy/event_outputs/"
+    "folder": "results/other_experiments/compare_outputs_t2s2_l33_greedy/",
+    "event_out_locs": "results/other_experiments/compare_outputs_t2s2_l33_greedy/event_outputs/"
   },
   "distance": {
     "method": "embedding_cosine",

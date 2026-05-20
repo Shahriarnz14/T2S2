@@ -1,12 +1,12 @@
 {
-  "man_loc": "/mnt/c/Research/t2s2/annotations/i2m4_ablations/i2m4_manual/",
+  "man_loc": "annotations/i2m4_ablations/i2m4_manual/",
   "ref_locs": [
-    "/mnt/c/Research/t2s2/annotations/i2m4_ablations/i2m4_l3370b_tts/",
-    "/mnt/c/Research/t2s2/annotations/i2m4_ablations/i2m4_l3370b_0shot_tts/",
-    "/mnt/c/Research/t2s2/annotations/i2m4_ablations/i2m4_l3370b_interval_tts/",
-    "/mnt/c/Research/t2s2/annotations/i2m4_ablations/i2m4_l3370b_intervaltype_tts/",
-    "/mnt/c/Research/t2s2/annotations/i2m4_ablations/i2m4_l3370b_noconjinst_tts/",
-    "/mnt/c/Research/t2s2/annotations/i2m4_ablations/i2m4_l3370b_norole_tts/"
+    "annotations/i2m4_ablations/i2m4_l3370b_tts/",
+    "annotations/i2m4_ablations/i2m4_l3370b_0shot_tts/",
+    "annotations/i2m4_ablations/i2m4_l3370b_interval_tts/",
+    "annotations/i2m4_ablations/i2m4_l3370b_intervaltype_tts/",
+    "annotations/i2m4_ablations/i2m4_l3370b_noconjinst_tts/",
+    "annotations/i2m4_ablations/i2m4_l3370b_norole_tts/"
   ],
   "pilot_names": [
     "L3.3 70B",
@@ -22,8 +22,8 @@
   "use_lap": false,
   "out": {
     "relfolder": "matches",
-    "folder": "/mnt/c/Research/t2s2/results/compare_outputs_i2m4_ablations_greedy/",
-    "event_out_locs": "/mnt/c/Research/t2s2/results/compare_outputs_i2m4_ablations_greedy/event_outputs/"
+    "folder": "results/compare_outputs_i2m4_ablations_greedy/",
+    "event_out_locs": "results/compare_outputs_i2m4_ablations_greedy/event_outputs/"
   },
   "distance": {
     "method": "embedding_cosine",

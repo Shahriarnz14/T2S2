@@ -5,9 +5,9 @@ library(TreeDist)
 
 use_condaenv("clinical_annot", required = TRUE)
 if(!exists("script_dir")) {
-    script_dir = tryCatch(
-        dirname(normalizePath(sys.frame(1)$ofile)),
-        error = function(e) "/mnt/c/Research/t2s2/compare_tts/"
+    script_dir <- tryCatch(
+        dirname(normalizePath(sys.frame(1)$ofile, mustWork = FALSE)),
+        error = function(e) normalizePath(getwd(), mustWork = FALSE)
     )
 }
 source_python(file.path(script_dir,"distance_helper_v2.py"))

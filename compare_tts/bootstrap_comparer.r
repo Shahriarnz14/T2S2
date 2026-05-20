@@ -8,6 +8,39 @@ suppressPackageStartupMessages({
 
 `%||%` <- function(x, y) if (is.null(x)) y else x
 
+get_script_dir <- function() {
+  file_arg <- grep("^--file=", commandArgs(FALSE), value = TRUE)
+  if (length(file_arg) > 0) {
+    return(dirname(normalizePath(sub("^--file=", "", file_arg[[1]]), mustWork = FALSE)))
+  }
+
+  tryCatch(
+    dirname(normalizePath(sys.frame(1)$ofile, mustWork = FALSE)),
+    error = function(e) normalizePath(getwd(), mustWork = FALSE)
+  )
+}
+
+script_dir <- get_script_dir()
+repo_root <- normalizePath(file.path(script_dir, ".."), mustWork = FALSE)
+
+is_absolute_path <- function(path) {
+  grepl("^(/|~|[A-Za-z]:[/\\\\])", path)
+}
+
+resolve_path <- function(path, base_dir = repo_root) {
+  if (is.null(path) || is.na(path) || path == "") return(path)
+  expanded <- path.expand(path)
+  if (is_absolute_path(expanded)) {
+    return(normalizePath(expanded, mustWork = FALSE))
+  }
+  normalizePath(file.path(base_dir, expanded), mustWork = FALSE)
+}
+
+resolve_paths <- function(paths, base_dir = repo_root) {
+  if (is.null(paths)) return(paths)
+  vapply(paths, resolve_path, character(1), base_dir = base_dir, USE.NAMES = FALSE)
+}
+
 check_directory_exists <- function(path, description) {
   if (!dir.exists(path)) stop(paste(description, "not found at:", path))
 }
@@ -23,9 +56,9 @@ source_compare_tts_functions_only <- function(path) {
   #   (A) a comment marker, OR
   #   (B) a plain `if (!interactive()) { ... }` block.
   # Allow leading whitespace in case the file is indented.
-  marker <- grep("^\\s*#\\s*Run the comparison if not in interactive mode", lines)
+  marker <- grep("^\\s*#\\s*Run the comparison", lines)
   if (length(marker) == 0) {
-    marker <- grep("^\\s*if\\s*\\(\\s*!interactive\\(\\)\\s*\\)\\s*\\{", lines)
+    marker <- grep("^\\s*if\\s*\\(\\s*!interactive\\(\\)", lines)
   }
   if (length(marker) > 0) {
     lines <- lines[seq_len(marker[1] - 1)]
@@ -39,6 +72,9 @@ source_compare_tts_functions_only <- function(path) {
 read_bootstrap_config <- function(config_path) {
   if (!file.exists(config_path)) stop(paste("Config file not found at:", config_path))
   config <- fromJSON(config_path)
+
+  config$man_loc <- resolve_path(config$man_loc)
+  config$ref_locs <- resolve_paths(config$ref_locs)
 
   required_fields <- c("man_loc", "ref_locs", "pilot_names", "out", "distance", "bootstrap")
   missing_fields <- setdiff(required_fields, names(config))
@@ -67,6 +103,8 @@ read_bootstrap_config <- function(config_path) {
   config$out$folder <- config$out$folder %||% paste0(tempdir(), "/")
   config$out$relfolder <- config$out$relfolder %||% "matches"
   config$out$event_out_locs <- config$out$event_out_locs %||% file.path(config$out$folder, "event_outputs")
+  config$out$folder <- resolve_path(config$out$folder)
+  config$out$event_out_locs <- resolve_path(config$out$event_out_locs)
 
   # bootstrap settings
   config$bootstrap$n_boot <- config$bootstrap$n_boot %||% 200
@@ -142,10 +180,6 @@ bootstrap_compare <- function(config_path) {
   dir.create(config$out$folder, recursive = TRUE, showWarnings = FALSE)
 
   # Load your function definitions (without running compare_tts CLI)
-  script_dir <- tryCatch(
-    dirname(normalizePath(sys.frame(1)$ofile)),
-    error = function(e) getwd()
-  )
   source_compare_tts_functions_only(file.path(script_dir, "compare_tts.r"))
 
   # Fill in event_match_files automatically (latest per pilot)
